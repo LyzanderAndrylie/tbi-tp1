@@ -1,3 +1,6 @@
+import re
+
+
 class IdMap:
     """
     Ingat kembali di kuliah, bahwa secara praktis, sebuah dokumen dan
@@ -26,7 +29,7 @@ class IdMap:
     def __len__(self):
         """Mengembalikan banyaknya term (atau dokumen) yang disimpan di IdMap."""
         # TODO
-        return 0
+        return len(self.str_to_id)
 
     def __get_id(self, s):
         """
@@ -35,12 +38,24 @@ class IdMap:
         integer id baru tersebut.
         """
         # TODO
-        return 0
+        if s in self.str_to_id:
+            return self.str_to_id[s]
+
+        new_id = len(self)
+        
+        self.str_to_id[s] = new_id
+        self.id_to_str.append(s)
+        
+        return new_id
     
     def __get_str(self, i):
         """Mengembalikan string yang terasosiasi dengan index i."""
         # TODO
-        return ""
+        if i >= len(self):
+            return ""
+        
+        return self.id_to_str[i]
+        
 
     def __getitem__(self, key):
         """
@@ -55,6 +70,12 @@ class IdMap:
 
         """
         # TODO
+        if type(key) == str:
+            return self.__get_id(key)
+        
+        if type(key) == int:
+            return self.__get_str(key)
+        
         return None
 
 class QueryParser:
@@ -77,6 +98,7 @@ class QueryParser:
         self.query = query
         self.stemmer = stemmer
         self.stopwords = stopwords
+        self.special_token = {'AND', 'OR', 'DIFF', '(', ')'}
         self.token_list = self.__query_string_to_list()
         self.token_preprocessed = self.__preprocess_tokens()
     
@@ -102,7 +124,7 @@ class QueryParser:
             query yang sudah di-parse
         """   
         # TODO
-        return []
+        return [token.lower() if self.token_is_term(token) else token for token in re.findall(r'\w+|[()]', self.query) ]
 
     def __preprocess_tokens(self):
         """
@@ -116,7 +138,14 @@ class QueryParser:
             Daftar token yang telah di-preprocess
         """
         # TODO
-        return []
+        token_preprocessed = self.token_list.copy()
+        
+        for index, token in enumerate(token_preprocessed):
+            if self.token_is_term(token):
+                token_stemmed = self.stemmer.stem(token)
+                token_preprocessed[index] = token_stemmed
+        
+        return token_preprocessed
 
     def infix_to_postfix(self):
         """
@@ -132,7 +161,30 @@ class QueryParser:
             list yang berisi token dalam ekspresi postfix
         """
         # TODO
-        return []
+        result = []
+        stack = []
+        
+        for token in self.token_preprocessed:
+            if self.token_is_term(token):
+                result.append(token)
+            elif token == '(':
+                stack.append(token)
+            elif token == ')':
+                while stack and stack[-1] != '(':
+                    result.append(stack.pop())
+                stack.pop() # Pop '('
+            else:
+                while stack and stack[-1] != '(':
+                    result.append(stack.pop())
+                stack.append(token)
+        
+        while stack:
+            result.append(stack.pop())
+        
+        return result
+    
+    def token_is_term(self, token: str):
+        return token not in self.special_token
 
 def sort_intersect_list(list_A, list_B):
     """
@@ -152,7 +204,25 @@ def sort_intersect_list(list_A, list_B):
         intersection yang sudah terurut
     """
     # TODO
-    return []
+    result = []
+    
+    iter_a = iter(list_A)
+    iter_b = iter(list_B)
+    
+    posting_a = next(iter_a, None)
+    posting_b = next(iter_b, None)
+    
+    while posting_a != None and posting_b != None:
+        if posting_a == posting_b:
+            result.append(posting_a)
+            posting_a = next(iter_a, None)
+            posting_b = next(iter_b, None)
+        elif posting_a < posting_b:
+            posting_a = next(iter_a, None)
+        else:
+            posting_b = next(iter_b, None)
+    
+    return result
 
 def sort_union_list(list_A, list_B):
     """
@@ -171,7 +241,35 @@ def sort_union_list(list_A, list_B):
         union yang sudah terurut
     """
     # TODO
-    return []
+    result = []
+    
+    iter_a = iter(list_A)
+    iter_b = iter(list_B)
+    
+    posting_a = next(iter_a, None)
+    posting_b = next(iter_b, None)
+    
+    while posting_a != None and posting_b != None:
+        if posting_a == posting_b:
+            result.append(posting_a)
+            posting_a = next(iter_a, None)
+            posting_b = next(iter_b, None)
+        elif posting_a < posting_b:
+            result.append(posting_a)
+            posting_a = next(iter_a, None)
+        else:
+            result.append(posting_b)
+            posting_b = next(iter_b, None)
+            
+    while posting_a != None:
+        result.append(posting_a)
+        posting_a = next(iter_a, None)
+    
+    while posting_b != None:
+        result.append(posting_b)
+        posting_b = next(iter_b, None)
+    
+    return result
 
 def sort_diff_list(list_A, list_B):
     """
@@ -190,7 +288,29 @@ def sort_diff_list(list_A, list_B):
         difference yang sudah terurut
     """
     # TODO
-    return []
+    result = []
+    
+    iter_a = iter(list_A)
+    iter_b = iter(list_B)
+    
+    posting_a = next(iter_a, None)
+    posting_b = next(iter_b, None)
+    
+    while posting_a != None and posting_b != None:
+        if posting_a == posting_b:
+            posting_a = next(iter_a, None)
+            posting_b = next(iter_b, None)
+        elif posting_a < posting_b:
+            result.append(posting_a)
+            posting_a = next(iter_a, None)
+        else:
+            posting_b = next(iter_b, None)
+    
+    while posting_a != None:
+        result.append(posting_a)
+        posting_a = next(iter_a, None)
+    
+    return result
 
 if __name__ == '__main__':
 
