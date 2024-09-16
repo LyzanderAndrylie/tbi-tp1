@@ -90,7 +90,14 @@ class VBEPostings:
             bytearray yang merepresentasikan urutan integer di postings_list
         """
         # TODO
-        return None
+        gap_list = [postings_list[0]]
+        
+        for current_num, next_num in zip(postings_list[:-1], postings_list[1:]):
+            gap_list.append(next_num - current_num)
+            
+        vb_encode_bytestream = VBEPostings.vb_encode(gap_list)
+        
+        return bytes(vb_encode_bytestream)
     
     @staticmethod
     def vb_encode(list_of_numbers):
@@ -99,7 +106,13 @@ class VBEPostings:
         list of numbers, dengan Variable-Byte Encoding
         """
         # TODO
-        return []
+        bytestream = bytearray()
+        
+        for number in list_of_numbers:
+            num_bytes = VBEPostings.vb_encode_number(number)
+            bytestream.extend(num_bytes)
+        
+        return bytestream
 
     @staticmethod
     def vb_encode_number(number):
@@ -108,7 +121,19 @@ class VBEPostings:
         Lihat buku teks kita!
         """
         # TODO
-        return 0
+        num_bytes = bytearray()
+        
+        while True:
+            num_bytes.insert(0, number % 128)
+            
+            if number < 128:
+                break
+            
+            number = number // 128
+            
+        num_bytes[-1] += 128
+        
+        return num_bytes
 
     @staticmethod
     def decode(encoded_postings_list):
@@ -129,7 +154,14 @@ class VBEPostings:
             list of docIDs yang merupakan hasil decoding dari encoded_postings_list
         """
         # TODO
-        return []
+        gap_list = VBEPostings.vb_decode(encoded_postings_list)
+        
+        postings_list = [gap_list[0]]
+        
+        for gap in gap_list[1:]:
+            postings_list.append(postings_list[-1] + gap)
+        
+        return postings_list
 
     @staticmethod
     def vb_decode(encoded_bytestream):
