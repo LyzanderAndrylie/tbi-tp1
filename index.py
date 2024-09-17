@@ -120,7 +120,10 @@ class InvertedIndexReader(InvertedIndex):
         diproses di memori. JANGAN MEMUAT SEMUA INDEX DI MEMORI!
         """
         # TODO
-        return (None, [])
+        term = next(self.term_iter)
+        postings_list = self.get_postings_list(term)
+        
+        return (term, postings_list)
 
     def get_postings_list(self, term):
         """
@@ -132,7 +135,16 @@ class InvertedIndexReader(InvertedIndex):
         term disimpan.
         """
         # TODO
-        return []
+        if term not in self.postings_dict:
+            return []
+        
+        start_position_in_index_file, _, length_in_bytes_of_postings_list = self.postings_dict[term]
+        
+        self.index_file.seek(start_position_in_index_file)
+        encoded_postings_list = self.index_file.read(length_in_bytes_of_postings_list)
+        postings_list = self.encoding_method.decode(encoded_postings_list)
+        
+        return postings_list
 
 class InvertedIndexWriter(InvertedIndex):
     """
@@ -174,7 +186,10 @@ class InvertedIndexWriter(InvertedIndex):
             List of docIDs dimana term muncul
         """
         # TODO
-        return []
+        encoded_postings_list = self.encoding_method.encode(postings_list)
+        self.terms.append(term)
+        self.postings_dict.update({term: (self.index_file.tell(), len(postings_list), len(encoded_postings_list))})
+        self.index_file.write(encoded_postings_list)
 
 if __name__ == "__main__":
 
