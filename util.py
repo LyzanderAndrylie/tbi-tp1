@@ -137,15 +137,8 @@ class QueryParser:
         List[str]
             Daftar token yang telah di-preprocess
         """
-        # TODO
-        token_preprocessed = self.token_list.copy()
-        
-        for index, token in enumerate(token_preprocessed):
-            if self.token_is_term(token):
-                token_stemmed = self.stemmer.stem(token)
-                token_preprocessed[index] = token_stemmed
-        
-        return token_preprocessed
+        # TODO        
+        return [self.stemmer.stem(token) if self.token_is_term(token) else token for token in self.token_list]
 
     def infix_to_postfix(self):
         """
@@ -185,6 +178,38 @@ class QueryParser:
     
     def token_is_term(self, token: str):
         return token not in self.special_token
+
+
+class DocumentParser:
+    """
+    Class untuk melakukan parsing document untuk boolean search
+    """
+    
+    def __init__(self, stemmer, stopwords: set) -> None:
+        self.stemmer = stemmer
+        self.stopwords = stopwords
+    
+    def parse(self, file_path: str):
+        token_list = []
+        
+        with open(file_path, "r") as doc_file:
+            for line in doc_file:
+                token_list.extend(self.tokenize(line))
+                
+        token_preprocessed = token_list.copy()
+        token_preprocessed = self.stem(token_preprocessed)
+        token_preprocessed = self.remove_stopwords(token_preprocessed)
+        
+        return token_preprocessed
+    
+    def tokenize(self, text: str):
+        return [token.lower() for token in re.findall(r'\w+', text)]
+    
+    def stem(self, tokens: list[str]):
+        return [self.stemmer.stem(token) for token in tokens if self.stemmer.stem(token)]
+    
+    def remove_stopwords(self, tokens: list[str]):
+        return [token for token in tokens if token not in self.stopwords]
 
 def sort_intersect_list(list_A, list_B):
     """

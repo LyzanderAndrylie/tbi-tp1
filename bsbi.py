@@ -5,8 +5,13 @@ import heapq
 import time
 
 from index import InvertedIndexReader, InvertedIndexWriter
-from util import IdMap, QueryParser, sort_diff_list, sort_intersect_list, sort_union_list
+from util import IdMap, QueryParser, DocumentParser, sort_diff_list, sort_intersect_list, sort_union_list
 from compression import StandardPostings, VBEPostings
+
+from porter2stemmer import Porter2Stemmer
+import nltk
+from nltk.corpus import stopwords
+
 
 """ 
 Ingat untuk install tqdm terlebih dahulu
@@ -37,6 +42,11 @@ class BSBIIndex:
 
         # Untuk menyimpan nama-nama file dari semua intermediate inverted index
         self.intermediate_indices = []
+        
+        nltk.download('stopwords')
+        self.stemmer = Porter2Stemmer()
+        self.stopwords = set(stopwords.words('english'))
+        self.document_parser = DocumentParser(self.stemmer, self.stopwords) 
 
     def save(self):
         """Menyimpan doc_id_map and term_id_map ke output directory via pickle"""
@@ -116,7 +126,16 @@ class BSBIIndex:
         parse_block(...).
         """
         # TODO
-        return []
+        td_pairs = []
+        
+        collections_block_path = os.path.join(self.data_path, block_path)
+        
+        for filename in os.listdir(collections_block_path):
+            file_path = os.path.join(collections_block_path, filename)
+            tokens = self.document_parser.parse(file_path)
+            td_pairs.extend([(self.term_id_map[token], self.doc_id_map[file_path]) for token in tokens])
+        
+        return td_pairs
 
     def write_to_index(self, td_pairs, index):
         """
@@ -163,6 +182,18 @@ class BSBIIndex:
             semua intermediate InvertedIndexWriter objects.
         """
         # TODO
+        sort_by_term_id = lambda x: x[0]
+        heap_iter = heapq.merge(*indices, key=sort_by_term_id)
+        current_term_id, current_postings_list = next(heap_iter)
+        
+        for term_id, postings_list in heap_iter:
+            if term_id == current_term_id:
+                current_postings_list = sort_union_list(current_postings_list, postings_list)
+            else:
+                merged_index.append(current_term_id, current_postings_list)
+                current_term_id = term_id
+                current_postings_list = postings_list
+        
 
     def boolean_retrieve(self, query):
         """
@@ -196,13 +227,54 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
         """
         # TODO
-        return []
+        query_parser = QueryParser(query, self.stemmer, self.stopwords)
+        
+        if not query_parser.is_valid():
+            return [], "Query mengandung stopwords"
+        
+        postfix_tokens = query_parser.infix_to_postfix()
+        postings_stack = []
+        
+        self.load() # load saved term_id_map and doc_id_map
+        
+        with InvertedIndexReader(self.index_name, self.postings_encoding, self.output_path) as main_index:
+            for token in postfix_tokens:
+                if query_parser.token_is_term(token):
+                    postings = main_index.get_postings_list(self.term_id_map[token])
+                    postings_stack.append(postings)
+                else:
+                    postings2 = postings_stack.pop()
+                    postings1 = postings_stack.pop()
+                    
+                    result = []
+                    
+                    if token == "AND":
+                        result = sort_intersect_list(postings1, postings2)
+                    if token == "OR":
+                        result = sort_union_list(postings1, postings2)
+                    if token == "DIFF":
+                        result = sort_diff_list(postings1, postings2)
+                    
+                    postings_stack.append(result)
+        
+        result_postings_doc_id = postings_stack.pop()
+        result_postings_doc_path = [self.doc_id_map[doc_id] for doc_id in result_postings_doc_id]
+        
+        return result_postings_doc_path
 
 
 if __name__ == "__main__":
-
+    # BSBI with VBEPostings
+    start_time = time.time_ns()
+    
     BSBI_instance = BSBIIndex(data_path = 'arxiv_collections', \
                               postings_encoding = VBEPostings, \
                               output_path = 'index_vb')
     BSBI_instance.start_indexing() # memulai indexing!
-
+    
+    end_time = time.time_ns()
+    
+    elapsed_time = end_time - start_time
+    print(f"Elapsed time: {elapsed_time} nanoseconds")
+    print(f"Elapsed time: {elapsed_time / 1e9} seconds")
+    
