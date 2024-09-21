@@ -6,7 +6,7 @@ import time
 
 from index import InvertedIndexReader, InvertedIndexWriter
 from util import IdMap, QueryParser, DocumentParser, sort_diff_list, sort_intersect_list, sort_union_list
-from compression import StandardPostings, VBEPostings
+from compression import StandardPostings, VBEPostings, EliasGammaPostings
 
 from porter2stemmer import Porter2Stemmer
 import nltk
@@ -46,7 +46,11 @@ class BSBIIndex:
         nltk.download('stopwords')
         self.stemmer = Porter2Stemmer()
         self.stopwords = set(stopwords.words('english'))
-        self.document_parser = DocumentParser(self.stemmer, self.stopwords) 
+        self.document_parser = DocumentParser(self.stemmer, self.stopwords)
+        
+        # Menghindari doc id bernilai 0
+        # Beberapa algoritma kompresi seperti Elias-Gamma memerlukan doc id berupa integer positif
+        self.doc_id_map["[DUMMY]"]
 
     def save(self):
         """Menyimpan doc_id_map and term_id_map ke output directory via pickle"""
@@ -265,16 +269,30 @@ class BSBIIndex:
 
 if __name__ == "__main__":
     # BSBI with VBEPostings
-    start_time = time.time_ns()
+    start_time_vb = time.time_ns()
     
-    BSBI_instance = BSBIIndex(data_path = 'arxiv_collections', \
+    BSBI_instance_vb = BSBIIndex(data_path = 'arxiv_collections', \
                               postings_encoding = VBEPostings, \
                               output_path = 'index_vb')
-    BSBI_instance.start_indexing() # memulai indexing!
+    BSBI_instance_vb.start_indexing() # memulai indexing!
     
-    end_time = time.time_ns()
+    end_time_vb = time.time_ns()
     
-    elapsed_time = end_time - start_time
+    elapsed_time = end_time_vb - start_time_vb
+    print(f"Elapsed time: {elapsed_time} nanoseconds")
+    print(f"Elapsed time: {elapsed_time / 1e9} seconds")
+    
+    # BSBI with EliasGammaPostings
+    start_time_eg = time.time_ns()
+    
+    BSBI_instance_eg = BSBIIndex(data_path = 'arxiv_collections', \
+                              postings_encoding = EliasGammaPostings, \
+                              output_path = 'index_eg')
+    BSBI_instance_eg.start_indexing() # memulai indexing!
+    
+    end_time_eg = time.time_ns()
+    
+    elapsed_time = end_time_eg - start_time_eg
     print(f"Elapsed time: {elapsed_time} nanoseconds")
     print(f"Elapsed time: {elapsed_time / 1e9} seconds")
     

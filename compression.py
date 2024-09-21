@@ -1,4 +1,5 @@
 import array
+from typing import Literal
 
 class StandardPostings:
     """ 
@@ -180,10 +181,145 @@ class VBEPostings:
                 n = 0
         return numbers
 
+class EliasGammaPostings:
+    """
+    Elias gamma code is a universal code encoding positive integers developed by Peter Elias.
+    It is used most commonly when coding integers whose upper-bound cannot be determined beforehand.
+    
+    Source: https://en.wikipedia.org/wiki/Elias_gamma_coding
+    """
+    
+    @staticmethod
+    def encode(postings_list):
+        gap_list = [postings_list[0]]
+        
+        for current_num, next_num in zip(postings_list[:-1], postings_list[1:]):
+            gap_list.append(next_num - current_num)
+        
+        eg_encode_bytestream = EliasGammaPostings.eg_encode(gap_list)
+        
+        return bytes(eg_encode_bytestream)
+    
+    @staticmethod
+    def eg_encode(list_of_numbers):
+        bytestream = bytearray()
+        bits_per_byte = 8
+        last_bits = ''
+        
+        for number in list_of_numbers:
+            num_bits = f'{last_bits}{EliasGammaPostings.eg_encode_number(number)}'
+            last_bits = ''
+            num_bytes = []
+            
+            for i in range(0, len(num_bits), bits_per_byte):
+                if i+bits_per_byte > len(num_bits):
+                    last_bits = num_bits[i:]
+                else:
+                    num_bytes.append(
+                        EliasGammaPostings.bits_str_to_int(num_bits[i:i+bits_per_byte])
+                    )
+            
+            bytestream.extend(num_bytes)
+        
+        # Add remaining last bit
+        if last_bits:
+            last_bits = EliasGammaPostings.padding_bits_str(last_bits, 'right')
+            bytestream.append(EliasGammaPostings.bits_str_to_int(last_bits))
+        
+        return bytestream
+    
+    @staticmethod
+    def eg_encode_number(number) -> str:
+        bit_length = number.bit_length()
+        num_binary = EliasGammaPostings.int_to_bits_str(number)
+        power = "0" * (bit_length - 1)
+        encoded = f'{power}{num_binary}'
+        
+        return encoded
+
+    @staticmethod
+    def decode(encoded_postings_list):
+        gap_list = EliasGammaPostings.eg_decode(encoded_postings_list)
+        
+        postings_list = [gap_list[0]]
+        
+        for gap in gap_list[1:]:
+            postings_list.append(postings_list[-1] + gap)
+        
+        return postings_list
+    
+    @staticmethod
+    def eg_decode(encoded_bytestream):
+        numbers = []
+        
+        current_number = 0
+        power = 0
+        remainder_bits = ''
+        
+        for byte in encoded_bytestream:
+            bits_str = EliasGammaPostings.int_to_bits_str(byte)
+            bits = EliasGammaPostings.padding_bits_str(bits_str, 'left')
+            
+            for bit in bits:
+                if current_number == 0:
+                    # Meet 0 before 1: Get N of 2^N
+                    if bit == '0':
+                        power += 1
+                        
+                    if bit == '1':
+                        # Meet 1 after 0
+                        if power > 0:
+                            current_number = 1 << power
+                        
+                        # Meet 1 before 0
+                        if power == 0:
+                            numbers.append(EliasGammaPostings.bits_str_to_int(bit))
+                # Met 1
+                else:
+                    # Get remainder bit str
+                    if power != 0:
+                        remainder_bits += bit
+                        power -= 1
+                        
+                    # Add remainder to current_number = 2^N + remainder
+                    if power == 0:
+                        current_number += EliasGammaPostings.bits_str_to_int(remainder_bits)
+                        numbers.append(current_number)
+                        
+                        current_number = 0
+                        power = 0
+                        remainder_bits = ''
+        
+        return numbers
+    
+    @staticmethod
+    def bits_str_to_int(bits: str):
+        if not bits:
+            return 0
+        
+        return int(bits, 2)
+
+    @staticmethod
+    def int_to_bits_str(number: int):
+        return bin(number)[2:]
+
+    
+    @staticmethod
+    def padding_bits_str(bits_str: str, padding: Literal['left', 'right', 'none'] = 'none', padding_size = 8):
+        if padding == 'none':
+            return bits_str
+        
+        if padding == 'left':
+            return f'{bits_str:0>{padding_size}}' 
+        
+        if padding == 'right':
+            return f'{bits_str:0<{padding_size}}' 
+
+
 if __name__ == '__main__':
     
     postings_list = [34, 67, 89, 454, 2345738]
-    for Postings in [StandardPostings, VBEPostings]:
+    for Postings in [StandardPostings, EliasGammaPostings, EliasGammaPostings]:
         print(Postings.__name__)
         encoded_postings_list = Postings.encode(postings_list)
         print("byte hasil encode: ", encoded_postings_list)

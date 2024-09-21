@@ -193,7 +193,7 @@ class InvertedIndexWriter(InvertedIndex):
 
 if __name__ == "__main__":
 
-    from compression import StandardPostings, VBEPostings
+    from compression import StandardPostings, VBEPostings, EliasGammaPostings
 
     with InvertedIndexWriter('test', encoding_method=StandardPostings, path='./tmp/') as index:
         index.append(1, [2, 3, 4, 8, 10])
@@ -228,3 +228,24 @@ if __name__ == "__main__":
         index.index_file.seek(0)
         assert VBEPostings.decode(index.index_file.read(index.postings_dict[1][2])) == [2, 3, 4, 8, 10], "terdapat kesalahan"
         assert VBEPostings.decode(index.index_file.read(index.postings_dict[2][2])) == [3, 4, 5], "terdapat kesalahan"
+        
+    with InvertedIndexWriter('test', encoding_method=EliasGammaPostings, path='./tmp/') as index:
+        index.append(1, [2, 3, 4, 8, 10])
+        index.append(2, [3, 4, 5])
+        index.index_file.seek(0)
+        assert index.terms == [1,2], "terms salah"
+        assert index.postings_dict == {1: (0, 5, len(EliasGammaPostings.encode([2,3,4,8,10]))),
+                                       2: (len(EliasGammaPostings.encode([2,3,4,8,10])), 3,
+                                           len(EliasGammaPostings.encode([3,4,5])))}, "postings dictionary salah"
+        
+        index.index_file.seek(index.postings_dict[2][0])
+        assert EliasGammaPostings.decode(index.index_file.read(len(EliasGammaPostings.encode([3,4,5])))) == [3,4,5], "terdapat kesalahan"
+
+        index.index_file.seek(0)
+        assert EliasGammaPostings.decode(index.index_file.read(index.postings_dict[1][2])) == [2, 3, 4, 8, 10], "terdapat kesalahan"
+        assert EliasGammaPostings.decode(index.index_file.read(index.postings_dict[2][2])) == [3, 4, 5], "terdapat kesalahan"
+        
+    with InvertedIndexReader('test', encoding_method=EliasGammaPostings, path='./tmp/') as index_read:
+        index_read.index_file.seek(0)
+        for term, postings in index_read:
+            print(term, postings)
