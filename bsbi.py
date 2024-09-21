@@ -129,7 +129,6 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus persis untuk semua pemanggilan
         parse_block(...).
         """
-        # TODO
         td_pairs = []
         
         collections_block_path = os.path.join(self.data_path, block_path)
@@ -185,7 +184,6 @@ class BSBIIndex:
             Instance InvertedIndexWriter object yang merupakan hasil merging dari
             semua intermediate InvertedIndexWriter objects.
         """
-        # TODO
         sort_by_term_id = lambda x: x[0]
         heap_iter = heapq.merge(*indices, key=sort_by_term_id)
         current_term_id, current_postings_list = next(heap_iter)
@@ -230,7 +228,6 @@ class BSBIIndex:
 
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
         """
-        # TODO
         query_parser = QueryParser(query, self.stemmer, self.stopwords)
         
         if not query_parser.is_valid():

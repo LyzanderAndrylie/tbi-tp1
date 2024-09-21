@@ -90,7 +90,6 @@ class VBEPostings:
         bytes
             bytearray yang merepresentasikan urutan integer di postings_list
         """
-        # TODO
         gap_list = [postings_list[0]]
         
         for current_num, next_num in zip(postings_list[:-1], postings_list[1:]):
@@ -106,7 +105,6 @@ class VBEPostings:
         Melakukan encoding (tentunya dengan compression) terhadap
         list of numbers, dengan Variable-Byte Encoding
         """
-        # TODO
         bytestream = bytearray()
         
         for number in list_of_numbers:
@@ -121,7 +119,6 @@ class VBEPostings:
         Encodes a number using Variable-Byte Encoding
         Lihat buku teks kita!
         """
-        # TODO
         num_bytes = bytearray()
         
         while True:
@@ -154,7 +151,6 @@ class VBEPostings:
         List[int]
             list of docIDs yang merupakan hasil decoding dari encoded_postings_list
         """
-        # TODO
         gap_list = VBEPostings.vb_decode(encoded_postings_list)
         
         postings_list = [gap_list[0]]

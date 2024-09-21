@@ -119,7 +119,6 @@ class InvertedIndexReader(InvertedIndex):
         file index yang besar. Mengapa hanya sebagian kecil? karena agar muat
         diproses di memori. JANGAN MEMUAT SEMUA INDEX DI MEMORI!
         """
-        # TODO
         term = next(self.term_iter)
         postings_list = self.get_postings_list(term)
         
@@ -134,7 +133,6 @@ class InvertedIndexReader(InvertedIndex):
         byte tertentu pada file (index file) dimana postings list dari
         term disimpan.
         """
-        # TODO
         if term not in self.postings_dict:
             return []
         
@@ -185,7 +183,6 @@ class InvertedIndexWriter(InvertedIndex):
         postings_list: List[Int]
             List of docIDs dimana term muncul
         """
-        # TODO
         encoded_postings_list = self.encoding_method.encode(postings_list)
         self.terms.append(term)
         self.postings_dict.update({term: (self.index_file.tell(), len(postings_list), len(encoded_postings_list))})

@@ -28,7 +28,6 @@ class IdMap:
 
     def __len__(self):
         """Mengembalikan banyaknya term (atau dokumen) yang disimpan di IdMap."""
-        # TODO
         return len(self.str_to_id)
 
     def __get_id(self, s):
@@ -37,7 +36,6 @@ class IdMap:
         Jika s tidak ada pada IdMap, lalu assign sebuah integer id baru dan kembalikan
         integer id baru tersebut.
         """
-        # TODO
         if s in self.str_to_id:
             return self.str_to_id[s]
 
@@ -50,7 +48,6 @@ class IdMap:
     
     def __get_str(self, i):
         """Mengembalikan string yang terasosiasi dengan index i."""
-        # TODO
         if i >= len(self):
             return ""
         
@@ -69,7 +66,6 @@ class IdMap:
         https://stackoverflow.com/questions/43627405/understanding-getitem-method
 
         """
-        # TODO
         if type(key) == str:
             return self.__get_id(key)
         
@@ -123,7 +119,6 @@ class QueryParser:
         List[str]
             query yang sudah di-parse
         """   
-        # TODO
         return [token.lower() if self.token_is_term(token) else token for token in re.findall(r'\w+|[()]', self.query) ]
 
     def __preprocess_tokens(self):
@@ -137,7 +132,6 @@ class QueryParser:
         List[str]
             Daftar token yang telah di-preprocess
         """
-        # TODO        
         return [self.stemmer.stem(token) if self.token_is_term(token) else token for token in self.token_list]
 
     def infix_to_postfix(self):
@@ -153,7 +147,6 @@ class QueryParser:
         list[str]
             list yang berisi token dalam ekspresi postfix
         """
-        # TODO
         result = []
         stack = []
         
@@ -228,7 +221,6 @@ def sort_intersect_list(list_A, list_B):
     List[Comparable]
         intersection yang sudah terurut
     """
-    # TODO
     result = []
     
     iter_a = iter(list_A)
@@ -265,7 +257,6 @@ def sort_union_list(list_A, list_B):
     List[Comparable]
         union yang sudah terurut
     """
-    # TODO
     result = []
     
     iter_a = iter(list_A)
@@ -312,7 +303,6 @@ def sort_diff_list(list_A, list_B):
     List[Comparable]
         difference yang sudah terurut
     """
-    # TODO
     result = []
     
     iter_a = iter(list_A)
