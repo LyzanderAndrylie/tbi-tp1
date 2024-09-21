@@ -1,0 +1,14 @@
+In [5], Srijuntongsiri and Vavasis propose the "Kantorovich-Test Subdivision
+algorithm", or KTS, which is an algorithm for finding all zeros of a polynomial
+system in a bounded region of the plane. This algorithm can be used to find the
+intersections between a line and a surface. The main features of KTS are that
+it can operate on polynomials represented in any basis that satisfies certain
+conditions and that its efficiency has an upper bound that depends only on the
+conditioning of the problem and the choice of the basis representing the
+polynomial system.
+  This article explores in detail the dependence of the efficiency of the KTS
+algorithm on the choice of basis. Three bases are considered: the power, the
+Bernstein, and the Chebyshev bases. These three bases satisfy the basis
+properties required by KTS. Theoretically, Chebyshev case has the smallest
+upper bound on its running time. The computational results, however, do not
+show that Chebyshev case performs better than the other two.

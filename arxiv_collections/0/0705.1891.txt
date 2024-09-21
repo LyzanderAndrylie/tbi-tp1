@@ -1,0 +1,23 @@
+We have investigated the influence of nuclear parameters such as black hole
+(BH) mass and photoionizing luminosity on the FRI/FRII transition in a sample
+of nearby (z<0.2) 3CR radio galaxies. The sample was observed with
+medium-resolution, optical spectroscopy and contains some galaxies with
+unpublished velocity dispersion measurements and emission-line fluxes. Measured
+velocity dispersions are 130-340 km/s with a mean of 216 km/s. Converting to BH
+mass, we find that the BH mass distribution is identical for FRIs and FRIIs,
+with a mean of approximately 2.5x10^8 Msun. We convert [OII] and [OIII]
+emission-line luminosities to photoionizing luminosity under the assumption
+that the gas is ionized by the nuclear UV continuum. Most of the galaxies with
+FRI morphology and/or low-excitation emission-line spectra have progressively
+lower BH masses at lower photoionizing (and jet) luminosities. This agrees with
+the Ledlow-Owen relation which states that the radio luminosity at the FRI/FRII
+transition depends on the optical luminosity of the host, L_radio ~
+L_optical^1.8, because both L_radio and L_optical relate to AGN nuclear
+parameters. When recasting the Ledlow-Owen relation into BH mass versus
+photoionizing and jet luminosity, we find that the recasted relation describes
+the sample quite well. The FRI/FRII transition occurs at approximately an order
+of magnitude lower luminosity relative to the Eddington luminosity than the
+soft-to-hard transition in X-ray binaries. This difference is consistent with
+the Ledlow-Owen relation, which predicts a weak BH mass dependence in the
+transition luminosity. We conclude that the FRI/FRII dichotomy is caused by a
+combination of external and nuclear factors, with the latter dominating.

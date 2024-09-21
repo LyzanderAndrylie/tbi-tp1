@@ -1,0 +1,11 @@
+This paper is concerned with the connection between the properties of
+dielectric relaxation and ac (alternating-current) conduction in disordered
+dielectrics. The discussion is divided between the classical linear-response
+theory and a self-consistent dynamical modeling. The key issues are, stretched
+exponential character of dielectric relaxation, power-law power spectral
+density, and anomalous dependence of ac conduction coefficient on frequency. We
+propose a self-consistent model of dielectric relaxation, in which the
+relaxations are described by a stretched exponential decay function.
+Mathematically, our study refers to the expanding area of fractional calculus
+and we propose a systematic derivation of the fractional relaxation and
+fractional diffusion equations from the property of ac universality.

@@ -1,0 +1,11 @@
+The classical Ehresmann-Bruhat order describes the possible degenerations of
+a pair of flags in a finite-dimensional vector space V; or, equivalently, the
+closure of an orbit of the group GL(V) acting on the direct product of two full
+flag varieties.
+  We obtain a similar result for triples consisting of two subspaces and a
+partial flag in V; this is equivalent to describing the closure of a
+GL(V)-orbit in the product of two Grassmannians and one flag variety. We give a
+rank criterion to check whether such a triple can be degenerated to another
+one, and we classify the minimal degenerations. Our methods involve only
+elementary linear algebra and combinatorics of graphs (originating in
+Auslander-Reiten quivers).

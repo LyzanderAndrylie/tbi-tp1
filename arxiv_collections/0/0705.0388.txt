@@ -1,0 +1,9 @@
+The Sagnac effect is an important phase coherent effect in optical and atom
+interferometers where rotations of the interferometer with respect to an
+inertial reference frame result in a shift in the interference pattern
+proportional to the rotation rate. Here we analyze for the first time the
+Sagnac effect in a mesoscopic semiconductor electron interferometer. We include
+in our analysis Rashba spin-orbit interactions in the ring. Our results
+indicate that spin-orbit interactions increase the rotation induced phase
+shift. We discuss the potential experimental observability of the Sagnac phase
+shift in such mesoscopic systems.

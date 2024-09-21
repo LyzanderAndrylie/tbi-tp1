@@ -1,0 +1,12 @@
+We elaborate a theory for the modeling of concepts using the mathematical
+structure of quantum mechanics. Concepts are represented by vectors in the
+complex Hilbert space of quantum mechanics and membership weights of items are
+modeled by quantum weights calculated following the quantum rules. We apply
+this theory to model the disjunction of concepts and show that experimental
+data of membership weights of items with respect to the disjunction of concepts
+can be modeled accurately. It is the quantum effects of interference and
+superposition, combined with an effect of context, that are at the origin of
+the effects of overextension and underextension observed as deviations from a
+classical use of the disjunction. We put forward a graphical explanation of the
+effects of overextension and underextension by interpreting the quantum model
+applied to the modeling of the disjunction of concepts.

@@ -1,0 +1,17 @@
+We analyze the broad range of spin-dependent nonequilibrium transport
+properties of hybrid systems composed of a normal region tunnel coupled to two
+superconductors with exchange fields induced by the proximity to thin
+ferromagnetic layers and highlight its functionalities. By calculating the
+quasiparticle distribution functions in the normal region we find that they are
+spin-dependent and strongly sensitive to the relative angle between exchange
+fields in the two superconductors. The impact of inelastic collisions on their
+properties is addressed. As a result, the electric current flowing through the
+system is found to be strongly dependent on the relative angle between exchange
+fields, giving rise to a huge value of magnetoresistance. Moreover, the current
+presents a complete spin-polarization in a wide range of bias voltages, even in
+the quasiequilibrium case. In the nonequilibrium limit we parametrize the
+distributions with an ``effective`` temperature, which turns out to be strongly
+spin-dependent, though quite sensitive to inelastic collisions. By tunnel
+coupling the normal region to an additional superconducting electrode we show
+that it is possible to implement a spin-polarized current source of both spin
+species, depending on the bias voltages applied.

@@ -1,0 +1,7 @@
+The paper focuses on discrete-type approximations of solutions to
+non-homogeneous stochastic differential equations (SDEs) involving fractional
+Brownian motion (fBm). We prove that the rate of convergence for Euler
+approximations of solutions of pathwise SDEs driven by fBm with Hurst index
+$H>1/2$ can be estimated by $O(\delta^{2H-1})$ ($\delta$ is the diameter of
+partition). For discrete-time approximations of Skorohod-type quasilinear
+equation driven by fBm we prove that the rate of convergence is $O(\delta^H)$.

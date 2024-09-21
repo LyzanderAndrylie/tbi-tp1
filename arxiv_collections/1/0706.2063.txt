@@ -1,0 +1,6 @@
+The Berry phases for coherent states and squeezed coherent states of Landau
+levels are calculated. Coherent states of Landau levels are interpreted as a
+result of a magnetic flux moved adiabatically from infinity to a finite place
+on the plane. The Abelian Berry phase for coherent states of Landau levels is
+an analog of the Aharonov- Bohm effect. Moreover, the non-Abelian Berry phase
+is calculated for the adiabatic evolution of the magnetic field B.

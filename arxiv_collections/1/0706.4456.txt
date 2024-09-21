@@ -1,0 +1,7 @@
+We present predictions for the nuclear modification factor and elliptic flow
+of D and B mesons, as well as of their decay electrons, in semicentral Pb-Pb
+collisions at the LHC. Heavy quarks are propagated in a Quark-Gluon Plasma
+using a relativistic Langevin simulation with drag and diffusion coefficients
+from elastic interactions with light anti-/quarks and gluons, including
+non-perturbative resonance scattering. Hadronization at T_c is performed within
+a combined coalescence-fragmentation scheme.

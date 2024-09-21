@@ -1,0 +1,16 @@
+We study the decay of unstable states by formulating quantum tunneling as a
+time-of-arrival problem: we determine the detection probability for particles
+at a detector located a distance L from the tunneling region. For this purpose,
+we use a Positive-Operator-Valued-Measure (POVM) for the time-of-arrival
+determined in quant-ph/0509020 [JMP 7, 122106 (2006)]. This only depends on the
+initial state, the Hamiltonian and the location of the detector. The POVM above
+provides a well-defined probability density and an unambiguous interpretation
+of all quantities involved. We demonstrate that the exponential decay only
+arises if three specific mathematical conditions are met. Their physical
+content is the following: (i) the decay time is much larger than any
+microscopic timescale, so that the fine details of the initial state can be
+ignored, (ii) there is no quantum coherence between the different `attempts' of
+the particle to traverse the barrier, and (iii) the transmission probability
+varies little within the momentum spread of the initial state. We also
+determine the long time limits of the decay probability and we identify
+regimes, in which the decays have no exponential phase.

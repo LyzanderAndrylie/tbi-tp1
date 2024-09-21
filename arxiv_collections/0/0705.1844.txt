@@ -1,0 +1,4 @@
+A vector field splitting approach is discussed for the systematic derivation
+of numerical propagators for deterministic dynamics. Based on the formalism, a
+class of numerical integrators for Langevin dynamics are presented for single
+and multiple timestep algorithms.

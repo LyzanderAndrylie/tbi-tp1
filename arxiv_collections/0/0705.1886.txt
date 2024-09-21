@@ -1,0 +1,12 @@
+This paper presents the principles of ontology-supported and ontology-driven
+conceptual navigation. Conceptual navigation realizes the independence between
+resources and links to facilitate interoperability and reusability. An engine
+builds dynamic links, assembles resources under an argumentative scheme and
+allows optimization with a possible constraint, such as the user's available
+time. Among several strategies, two are discussed in detail with examples of
+applications. On the one hand, conceptual specifications for linking and
+assembling are embedded in the resource meta-description with the support of
+the ontology of the domain to facilitate meta-communication. Resources are like
+agents looking for conceptual acquaintances with intention. On the other hand,
+the domain ontology and an argumentative ontology drive the linking and
+assembling strategies.

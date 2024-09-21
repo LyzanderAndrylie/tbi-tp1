@@ -1,0 +1,18 @@
+Let $V$ denote a vector space with finite positive dimension. We consider a
+pair of linear transformations $A : V \to V$ and $A^* : V \to V$ that satisfy
+(i) and (ii) below:
+  (i) There exists a basis for $V$ with respect to which the matrix
+representing $A$ is irreducible tridiagonal and the matrix representing $A^*$
+is diagonal.
+  (ii) There exists a basis for $V$ with respect to which the matrix
+representing $A^*$ is irreducible tridiagonal and the matrix representing $A$
+is diagonal.
+  We call such a pair a Leonard pair on $V$. In an earlier paper we described
+24 special bases for $V$. One feature of these bases is that with respect to
+each of them the matrices that represent $A$ and $A^*$ are (i) diagonal and
+irreducible tridiagonal or (ii) irreducible tridiagonal and diagonal or (iii)
+lower bidiagonal and upper bidiagonal or (iv) upper bidiagonal and lower
+bidiagonal. For each ordered pair of bases among the 24, there exists a unique
+linear transformation from $V$ to $V$ that sends the first basis to the second
+basis; we call this the transition map. In this paper we find each transition
+map explicitly as a polynomial in $A,A^*$.

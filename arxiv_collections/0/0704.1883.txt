@@ -1,0 +1,9 @@
+We have observed cyclotron resonance in a high-mobility GaAs/AlGaAs
+two-dimensional electron gas by using the techniques of terahertz time-domain
+spectroscopy combined with magnetic fields. From this, we calculate the real
+and imaginary parts of the diagonal elements of the magnetoconductivity tensor,
+which in turn allows us to extract the concentration, effective mass, and
+scattering time of the electrons in the sample. We demonstrate the utility of
+ultrafast terahertz spectroscopy, which can recover the true linewidth of
+cyclotron resonance in a high-mobility ($>{10}^{6} \mathrm{cm^{2} V^{-1}
+s^{-1}}$) sample without being affected by the saturation effect.

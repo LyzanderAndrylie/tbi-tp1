@@ -1,0 +1,14 @@
+We examine the relationship between little Higgs and 5d composite models with
+identical symmetry structures. By performing an "extreme" deconstruction, one
+can reduce any warped composite model to a little Higgs theory on a handful of
+sites. This allows us to use 4d intuition and the powerful constraints of
+nonlinear sigma models to elucidate obscure points in the original setup. We
+find that the finiteness of the Higgs potential in 5d is due to the same
+collective symmetry breaking as in the little Higgs. We compare a 4d and a 5d
+model with the same symmetry to the data. Reviewing the constraints on models
+related to the Minimal Composite Higgs (hep-ph/0412089), we see that it has
+difficulty in producing acceptable values for S, T, and m_{top} simultaneously.
+By contrast, in a global analysis, the Minimal Moose with custodial symmetry is
+viable in a large region of its parameter space and suffers from no numeric
+tunings. We conjecture that this result is generic for 4d and 5d models with
+identical symmetries. The data will less strongly constrain the little theory.

@@ -1,0 +1,10 @@
+It is shown that the flavour projection of staggered fermions can be written
+as a projection between the fields on four separate, but parallel, lattices,
+where the fields on each are modified forms of the standard staggered fermion
+field. Because the staggered Dirac operator acts equally on each lattice, it
+respects this flavour projection. We show that the system can be gauged in the
+usual fashion and that this does not interfere with flavour projection. We also
+consider the path integral, showing that, prior to flavour projection, it
+evaluates to the same form on each lattice and that this form is equal to that
+used in the quarter-root trick. The flavour projection leaves a path integral
+for a single flavour of field on each lattice.

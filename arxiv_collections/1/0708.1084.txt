@@ -1,0 +1,7 @@
+We consider an Ornstein-Uhlenbeck process with values in R^n driven by a
+L\'evy process (Z_t) taking values in R^d with d possibly smaller than n. The
+L\'evy noise can have a degenerate or even vanishing Gaussian component.
+  Under a controllability condition and an assumption on the L\'evy measure of
+(Z_t), we prove that the law of the Ornstein-Uhlenbeck process at any time t>0
+has a density on R^n. Moreover, when the L\'evy process is of $\alpha$-stable
+type, $\alpha \in (0,2)$, we show that such density is a $C^{\infty}$-function.

@@ -1,0 +1,10 @@
+We have searched for exclusive 2-photon production in proton-antiproton
+collisions at sqrt{s} = 1.96 TeV, using 532/pb of integrated luminosity taken
+by the Run II Collider Detector at Fermilab. The event signature requires two
+electromagnetic showers, each with transverse energy E_T > 5 GeV and
+pseudorapidity |eta|<1.0, with no other particles detected in the event. Three
+candidate events are observed. We discuss the consistency of the three events
+with gamma-gamma, pi0-pi0, or eta-eta production. The probability that other
+processes fluctuate to 3 events or more is 1.7x10^-4. An upper limit on the
+cross section of p+pbar --> p+gamma-gamma+pbar is set at 410 fb with 95%
+confidence level.

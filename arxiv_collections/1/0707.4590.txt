@@ -1,0 +1,8 @@
+Magneto-transport and drag measurements on a quasi-Corbino 2D electron
+bilayer at the systems total filling factor 1 (v_tot=1) reveal a drag voltage
+that is equal in magnitude to the drive voltage as soon as the two layers begin
+to form the expected v_tot=1 exciton condensate. The identity of both voltages
+remains present even at elevated temperatures of 0.25 K. The conductance in the
+current carrying layer vanishes only in the limit of strong coupling between
+the two layers and at T->0 K which suggests the presence of an excitonic
+circular current.

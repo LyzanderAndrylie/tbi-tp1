@@ -1,0 +1,9 @@
+The zero temperature phase diagram of the checkerboard Hubbard model is
+obtained in the solvable limit in which it consists of weakly coupled square
+plaquettes. As a function of the on-site Coulomb repulsion U and the density of
+holes per site, x, we demonstrate the existence of at least 16 distinct phases.
+For instance, at zero doping, the ground state is a novel d-wave Mott insulator
+(d-Mott), which is not adiabatically continuable to a band insulator; by doping
+the d-Mott state with holes, depending on the magnitude of U, it gives way to a
+d-wave superconducting state, a two-flavor spin-1/2 Fermi liquid (FL), or a
+spin-3/2 FL.

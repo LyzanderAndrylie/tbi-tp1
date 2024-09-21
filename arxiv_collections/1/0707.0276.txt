@@ -1,0 +1,6 @@
+We calculate in perturbative QCD the transverse momentum broadening of vector
+bosons in heavy ion collisions at the Large Hadron Collider (LHC). We predict
+transverse momentum broadening of $W/Z$ bosons constructed from their leptonic
+decay channels, which should be a clean probe of initial-state medium effect.
+We also predict the upper limit of transverse momentum broadening of J/$\psi$
+and $\Upsilon$ production as a function of N$_{\rm part}$ at the LHC energy.

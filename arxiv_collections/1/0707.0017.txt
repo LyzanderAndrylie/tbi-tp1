@@ -1,0 +1,6 @@
+A classical result about minimal geodesics on R^2 with Z^2 periodic metric
+that goes back to H.M. Morse asserts that a minimal geodesic that is asymptotic
+to a periodic minimal geodesic cannot intersect any periodic minimal geodesic
+of the same period. This paper treats a similar theorem for nonparametric
+minimizing hypersurfaces without selfintersections -- as were studied by J.
+Moser, V. Bangert, P.H. Rabinowitz, E. Stredulinsky and others.

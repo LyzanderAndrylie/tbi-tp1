@@ -1,0 +1,10 @@
+We consider ultracold bosonic atoms in an optical lattice with an external
+trapping potential. To study the excitation energies of the resulting
+Bose-Hubbard model, we develop a method based on a time-dependent
+generalization of the Gutzwiller ansatz. We calculate the excitations of the
+homogeneous system both in insulating and superfluid regime, concentrating
+particularly on those near the superfluid-Mott insulator boundary. Low-lying
+excitation energies in presence of a static harmonic trap are obtained using
+this method and compared with the homogeneous case. Further, we explore the
+dynamics of the center of mass and the breathing mode in response to
+time-dependent perturbations of the trap.

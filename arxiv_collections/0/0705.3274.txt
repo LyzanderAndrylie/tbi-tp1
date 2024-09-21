@@ -1,0 +1,21 @@
+Using an improved version of the previously introduced CRASH (Cosmic Ray
+Acceleration SHock) code, we have calculated the time evolution of cosmic-ray
+(CR) modified quasi-parallel plane shocks for Bohm-like diffusion, including
+self-consistent models of Alfven wave drift and dissipation, along with thermal
+leakage injection of CRs. The new simulations follow evolution of the CR
+distribution to much higher energies than our previous study, providing a
+better examination of evolutionary and asymptotic behaviors. The postshock CR
+pressure becomes constant after quick initial adjustment, since the evolution
+of the CR partial pressure expressed in terms of a momentum similarity variable
+is self-similar. The shock precursor, which scales as the diffusion length of
+the highest energy CRs, subsequently broadens approximately linearly with time,
+independent of diffusion model, so long as CRs continue to be accelerated to
+ever-higher energies. This means the nonlinear shock structure can be described
+approximately in terms of the similarity variable, x/(u_s t), where u_s is the
+shock speed once the postshock pressure reaches an approximate time asymptotic
+state. As before, the shock Mach number is the key parameter determining the
+evolution and the CR acceleration efficiency, although finite Alfven wave drift
+and wave energy dissipation in the shock precursor reduce the effective
+velocity change experienced by CRs, so reduce acceleration efficiency
+noticeably, thus, providing a second important parameter at low and moderate
+Mach numbers.

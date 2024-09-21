@@ -1,0 +1,22 @@
+We introduce a novel migration process, the target process. This process is
+dual to the zero-range process (ZRP) in the sense that, while for the ZRP the
+rate of transfer of a particle only depends on the occupation of the departure
+site, it only depends on the occupation of the arrival site for the target
+process. More precisely, duality associates to a given ZRP a unique target
+process, and vice-versa. If the dynamics is symmetric, i.e., in the absence of
+a bias, both processes have the same stationary-state product measure. In this
+work we focus our interest on the situation where the latter measure exhibits a
+continuous condensation transition at some finite critical density $\rho_c$,
+irrespective of the dimensionality. The novelty comes from the case of
+asymmetric dynamics, where the target process has a nontrivial fluctuating
+stationary state, whose characteristics depend on the dimensionality. In one
+dimension, the system remains homogeneous at any finite density. An alternating
+scenario however prevails in the high-density regime: typical configurations
+consist of long alternating sequences of highly occupied and less occupied
+sites. The local density of the latter is equal to $\rho_c$ and their
+occupation distribution is critical. In dimension two and above, the asymmetric
+target process exhibits a phase transition at a threshold density $\rho_0$ much
+larger than $\rho_c$. The system is homogeneous at any density below $\rho_0$,
+whereas for higher densities it exhibits an extended condensate elongated along
+the direction of the mean current, on top of a critical background with density
+$\rho_c$.

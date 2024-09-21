@@ -1,0 +1,9 @@
+Phase diagram and pattern formation in two-dimensional Ising model with
+coupling between order parameter and lattice vibrations is investigated by
+Monte-Carlo simulations. It is shown that if the coupling is strong enough (or
+phonons are soft enough) a short-range order exists in disordered phase for a
+broader temperature interval. Different types of this short-range order
+(stripe-like, checkboard-like, etc.) depending on the temperature and model
+parameters are investigated. With further increase of the coupling, a
+reconstruction of the ground state happens and new ordered phases appear at low
+enough temperatures.

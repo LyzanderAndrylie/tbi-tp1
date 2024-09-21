@@ -1,0 +1,16 @@
+The use of photonic crystal fibers pumped by femtosecond pulses has enabled
+the generation of broad optical supercontinua with nano-joule input energies.
+This striking discovery has applications ranging from spectroscopy and
+metrology to telecommunication and medicine. Amongst the physical principles
+underlying supercontinuum generation are soliton fission, a variety of
+four-wave mixing processes, Raman induced soliton self-frequency shift, and
+dispersive wave generation mediated by solitons. Although all of the above
+effects contribute to supercontinuum generation none of them can explain the
+generation of blue and violet light from infrared femtosecond pump pulses,
+which has been seen already in the first observations of the supercontinuum in
+photonic crystal fibers. In this work we argue that the most profound role in
+the shaping of the short-wavelength edge of the continuum is played by the
+effect of radiation trapping in a gravity-like potential created by
+accelerating solitons. The underlying physics of this effect has a
+straightforward analogy with the inertial forces acting on an observer moving
+with a constant acceleration.

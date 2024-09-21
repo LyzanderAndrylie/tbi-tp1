@@ -1,0 +1,11 @@
+Gravitational lensing of the cosmic microwave background (CMB), a
+long-standing prediction of the standard cosmolgical model, is ultimately
+expected to be an important source of cosmological information, but first
+detection has not been achieved to date. We report a 3.4 sigma detection, by
+applying quadratic estimator techniques to all sky maps from the Wilkinson
+Microwave Anisotropy Probe (WMAP) satellite, and correlating the result with
+radio galaxy counts from the NRAO VLA Sky Survey (NVSS). We present our
+methodology including a detailed discussion of potential contaminants. Our
+error estimates include systematic uncertainties from density gradients in
+NVSS, beam effects in WMAP, Galactic microwave foregrounds, resolved and
+unresolved CMB point sources, and the thermal Sunyaev-Zeldovich effect.

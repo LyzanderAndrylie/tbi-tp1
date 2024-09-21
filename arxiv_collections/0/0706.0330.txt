@@ -1,0 +1,24 @@
+The evolution of magnetic fields in Ap stars during the main sequence phase
+is presently mostly unconstrained by observation because of the difficulty of
+assigning accurate ages to known field Ap stars.
+  We are carrying out a large survey of magnetic fields in cluster Ap stars
+with the goal of obtaining a sample of these stars with well-determined ages.
+In this paper we analyse the information available from the survey as it
+currently stands.
+  We select from the available observational sample the stars that are probably
+(1) cluster or association members and (2) magnetic Ap stars. For the stars in
+this subsample we determine the fundamental parameters T_eff, log(L/L_o), and
+M/M_o. With these data and the cluster ages we assign both absolute age and
+fractional age (the fraction of the main sequence lifetime completed). For this
+purpose we have derived new bolometric corrections for Ap stars.
+  Magnetic fields are present at the surfaces of Ap stars from the ZAMS to the
+TAMS. Statistically for the stars with M > 3 M_o the fields decline with
+advancing age approximately as expected from flux conservation together with
+increased stellar radius, or perhaps even faster than this rate, on a time
+scale of about 3 10^7 yr. In contrast, lower mass stars show no compelling
+evidence for field decrease even on a timescale of several times 10^8 yr.
+  Study of magnetic cluster stars is now a powerful tool for obtaining
+constraints on evolution of Ap stars through the main sequence. Enlarging the
+sample of known cluster magnetic stars, and obtaining more precise RMS fields,
+will help to clarify the results obtained so far. Further field observations
+are in progress.

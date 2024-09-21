@@ -1,0 +1,9 @@
+We determine the collective excitations spectrum and discuss the numerical
+results for a parabolically confined density modulated quasi-one dimensional
+electron gas (1DEG) in the presence of an external magnetic field. We derive
+the inter-and intra-band magnetoplasmon spectrum within the Self Consistent
+Field (SCF) approach. In this work we focus on magnetoplasmon oscillations in
+this system and as such results are presented for the intra-Landau-band
+magnetoplasmon spectrum that exhibits oscillatory behavior, these oscillations
+are not with constant period in 1/B and are significantly effected at low B and
+corresponding high 1/B.

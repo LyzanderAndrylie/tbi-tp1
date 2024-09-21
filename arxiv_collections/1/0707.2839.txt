@@ -1,0 +1,13 @@
+We describe the component sizes in critical independent p-bond percolation on
+a random d-regular graph on n vertices, where d \geq 3 is fixed and n grows. We
+prove mean-field behavior around the critical probability p_c=1/(d-1).
+  In particular, we show that there is a scaling window of width n^{-1/3}
+around p_c in which the sizes of the largest components are roughly n^{2/3} and
+we describe their limiting joint distribution. We also show that for the
+subcritical regime, i.e. p = (1-eps(n))p_c where eps(n)=o(1) but \eps(n)n^{1/3}
+tends to infinity, the sizes of the largest components are concentrated around
+an explicit function of n and eps(n) which is of order o(n^{2/3}). In the
+supercritical regime, i.e. p = (1+\eps(n))p_c where eps(n)=o(1) but
+eps(n)n^{1/3} tends to infinity, the size of the largest component is
+concentrated around the value (2d/(d-2))\eps(n)n and a duality principle holds:
+other component sizes are distributed as in the subcritical regime.

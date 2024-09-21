@@ -1,0 +1,18 @@
+For many years it was believed that an unstable periodic orbit with an odd
+number of real Floquet multipliers greater than unity cannot be stabilized by
+the time-delayed feedback control mechanism of Pyragus. A recent paper by
+Fiedler et al uses the normal form of a subcritical Hopf bifurcation to give a
+counterexample to this theorem. Using the Lorenz equations as an example, we
+demonstrate that the stabilization mechanism identified by Fiedler et al for
+the Hopf normal form can also apply to unstable periodic orbits created by
+subcritical Hopf bifurcations in higher-dimensional dynamical systems. Our
+analysis focuses on a particular codimension-two bifurcation that captures the
+stabilization mechanism in the Hopf normal form example, and we show that the
+same codimension-two bifurcation is present in the Lorenz equations with
+appropriately chosen Pyragus-type time-delayed feedback. This example suggests
+a possible strategy for choosing the feedback gain matrix in Pyragus control of
+unstable periodic orbits that arise from a subcritical Hopf bifurcation of a
+stable equilibrium. In particular, our choice of feedback gain matrix is
+informed by the Fiedler et al example, and it works over a broad range of
+parameters, despite the fact that a center-manifold reduction of the
+higher-dimensional problem does not lead to their model problem.

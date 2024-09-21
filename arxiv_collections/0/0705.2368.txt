@@ -1,0 +1,14 @@
+We present the class of regular homogeneous T-models with vacuum dark fluid,
+associated with a variable cosmological term. The vacuum fluid is defined by
+the symmetry of its stress-energy tensor, i.e., its invariance under Lorentz
+boosts in a distinguished spatial direction (p_j=-\rho), which makes this fluid
+essentially anisotropic and allows its density to evolve. Typical features of
+homogeneous regular T-models are: the existence of a Killing horizon; beginning
+of the cosmological evolution from a null bang at the horizon; the existence of
+a regular static pre-bang region visible to cosmological observers; creation of
+matter from anisotropic vacuum, accompanied by very rapid isotropization. We
+study in detail the spherically symmetric regular T-models on the basis of a
+general exact solution for a mixture of the vacuum fluid and dustlike matter
+and apply it to give numerical estimates for a particular model which
+illustrates the ability of cosmological T-models to satisfy the observational
+constraints.

@@ -1,0 +1,8 @@
+The generalized curvature tensor and Christoffel symbols are determined in
+AdS_{d+1} background by a modified ansatz of the de Wit - Freedman type by
+imposing gauge invariance. The resulting set of recurrence relations and
+difference equations is solved. The Riemann curvature tensor is derived by
+antisymmetrization. All results are presented as finite power series in the
+inverse AdS radius and are unique. The fourth order, which is complete for
+fields up to spin five, is calculated explicitly. Higher orders can be obtained
+with the same method.

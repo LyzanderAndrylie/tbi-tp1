@@ -1,0 +1,12 @@
+Information to be stored and transported requires physical carriers. The
+quantum bit of information (qubit) can for instance be realised as the spin 1/2
+degree of freedom of a massive particle like an electron or as the spin 1
+polarisation of a massless photon. In this lecture, I first use irreducible
+representations of the rotation group to characterise the spin dynamics in a
+least redundant manner. Specifically, I describe the decoherence dynamics of an
+arbitrary spin S coupled to a randomly fluctuating magnetic field in the
+Liouville space formalism. Secondly, I discuss the diffusive dynamics of the
+particle's position in space due to the presence of randomly placed impurities.
+Combining these two dynamics yields a coherent, unified picture of diffusive
+spin transport, as applicable to mesoscopic electronic devices or photons
+propagating in cold atomic clouds.

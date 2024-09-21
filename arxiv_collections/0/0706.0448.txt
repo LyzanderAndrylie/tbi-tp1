@@ -1,0 +1,7 @@
+Let g_A (respectively, g_A(\mu)) be the graded multi-loop Lie algebra
+(respectively graded twisted multi-loop Lie algebra)" associated with the
+simple finite dimensional Lie algebra g over the complex field C. In this
+paper, we prove that irreducible integrable g_A(\mu)-modules with finite
+dimensional weight spaces are either highest weight modules or their duals and
+classify the isomorphism classes of irreducible integrable g_A-modules and
+g_A(\mu)-modules with finite dimensional weight spaces.

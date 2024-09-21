@@ -1,0 +1,8 @@
+Modulational instability of continuous waves in nonlocal focusing and
+defocusing Kerr media with stochastically varying diffraction (dispersion) and
+nonlinearity coefficients is studied both analytically and numerically. It is
+shown that nonlocality with the sign-definite Fourier images of the medium
+response functions suppresses considerably the growth rate peak and bandwidth
+of instability caused by stochasticity. Contrary, nonlocality can enhance
+modulational instability growth for a response function with negative-sign
+bands.

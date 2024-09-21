@@ -1,0 +1,11 @@
+A curvature-type tensor invariant called para contact (pc) conformal
+curvature is defined on a paracontact manifold. It is shown that a paracontact
+manifold is locally paracontact conformal to the hyperbolic Heisenberg group or
+to a hyperquadric of neutral signature if and only if the pc conformal
+curvature vanishes. In the three dimensional case the corresponding result is
+achieved through employing a certain symmetric (0,2) tensor. The well known
+result of Cartan-Chern-Moser giving necessary and sufficient condition a
+CR-structure to be CR equivalent to a hyperquadric in the complex vector space
+is presented in-line with the paracontact case. An explicit formula for the
+regular part of a solution to the sub-ultrahyperbolic Yamabe equation on the
+hyperbolic Heisenberg group is shown.

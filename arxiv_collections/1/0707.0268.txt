@@ -1,0 +1,11 @@
+One of the most surprising consequences of quantum mechanics is the
+entanglement of two or more distant particles. Although questions regarding
+fundamental issues of quantum theory still exist, quantum entanglement has
+started to play important roles in practical engineering applications. Quantum
+imaging is one of these exciting areas. Quantum imaging has demonstrated two
+peculiar features: (1) reproducing "ghost" images in a "nonlocal" manner, and
+(2) enhancing the spatial resolution of imaging beyond the diffraction limit.
+In this article, we start with the review of classical imaging to establish the
+basic concepts and formalisms of imaging. We then analyze two-photon imaging
+with particular emphasis on the physics of spatial resolution enhancement and
+the "ghost" imaging phenomenon.

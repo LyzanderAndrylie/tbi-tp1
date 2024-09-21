@@ -1,0 +1,4 @@
+We introduce an exactly-solvable family of one-dimensional driven-diffusive
+systems defined on a discrete lattice. We find the quadratic algebra of this
+family which has an infinite-dimensional representation. We discuss the phase
+diagram of the system in a couple of special cases.

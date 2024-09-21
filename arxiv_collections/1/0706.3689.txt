@@ -1,0 +1,10 @@
+Two-frequency radiative transfer (2f-RT) theory is developed for geometrical
+optics in random media. The space-frequency correlation is described by the
+two-frequency Wigner distribution (2f-WD) which satisfies a closed form
+equation, the two-frequency Wigner-Moyal equation. In the RT regime it is
+proved rigorously that 2f-WD satisfies a Fokker-Planck-like equation with
+complex-valued coefficients. By dimensional analysis 2f-RT equation yields the
+scaling behavior of three physical parameters: the spatial spread, the
+coherence length and the coherence bandwidth. The sub-transport-mean-free-path
+behavior is obtained in a closed form by analytically solving a paraxial 2f-RT
+equation.

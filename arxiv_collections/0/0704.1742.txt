@@ -1,0 +1,14 @@
+We demonstrate existence of waves localized at the interface of two nonlinear
+periodic media with different coefficients of the cubic nonlinearity via the
+one-dimensional Gross--Pitaevsky equation. We call these waves the surface gap
+solitons (SGS). In the case of smooth symmetric periodic potentials, we study
+analytically bifurcations of SGS's from standard gap solitons and determine
+numerically the maximal jump of the nonlinearity coefficient allowing for the
+SGS existence. We show that the maximal jump vanishes near the thresholds of
+bifurcations of gap solitons. In the case of continuous potentials with a jump
+in the first derivative at the interface, we develop a homotopy method of
+continuation of SGS families from the solution obtained via gluing of parts of
+the standard gap solitons and study existence of SGS's in the photonic band
+gaps. We explain the termination of the SGS families in the interior points of
+the band gaps from the bifurcation of linear bound states in the continuous
+non-smooth potentials.

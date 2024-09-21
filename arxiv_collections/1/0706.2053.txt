@@ -1,0 +1,4 @@
+The model of smart migration for two-species community is developed, where
+the individuals implement reflexive strategy of spatial redistribution.
+Simulations have been used to figure out the situations where reflexy gives an
+advantage over a non-reflexive spatial behaviour, and vice versa.

@@ -1,0 +1,12 @@
+We study the possibility of using an uniformly coupled finite
+antiferromagnetic spin-1/2 Heisenberg chain as a channel for transmitting
+entanglement. One member of a pair of maximally entangled spins is initially
+appended to one end of a chain in its ground state and the dynamical
+propagation of this entanglement to the other end is calculated. We show that
+compared to the analogous scheme with a ferromagnetic chain in its ground
+state, here the entanglement is transmitted faster, with less decay, with a
+much higher purity and as a narrow pulse form rising non-analytically from
+zero. Here non-zero temperatures and depolarizing environments are both found
+to be less destructive in comparison to the ferromagnetic case. The
+entanglement is found to propagate through the chain in a peculiar fashion
+whereby it hops to skip alternate sites.

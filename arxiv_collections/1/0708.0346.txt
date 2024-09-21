@@ -1,0 +1,13 @@
+Many researchers have investigated first hitting times as models for survival
+data. First hitting times arise naturally in many types of stochastic
+processes, ranging from Wiener processes to Markov chains. In a survival
+context, the state of the underlying process represents the strength of an item
+or the health of an individual. The item fails or the individual experiences a
+clinical endpoint when the process reaches an adverse threshold state for the
+first time. The time scale can be calendar time or some other operational
+measure of degradation or disease progression. In many applications, the
+process is latent (i.e., unobservable). Threshold regression refers to
+first-hitting-time models with regression structures that accommodate covariate
+data. The parameters of the process, threshold state and time scale may depend
+on the covariates. This paper reviews aspects of this topic and discusses
+fruitful avenues for future research.

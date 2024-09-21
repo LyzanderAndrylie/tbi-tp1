@@ -1,0 +1,10 @@
+We consider a high-frequency response of electrons in a single miniband of
+superlattice subject to dc and ac electric fields. Action of ac electric field
+causes oscillations of electron's effective mass in miniband, which result in a
+parametric resonance. We have established a theoretical feasibility of
+phase-sensitive parametric amplification at the resonance. The parametric
+amplification does not require operation in conditions of negative differential
+conductance. Therefore a formation of destructive domains of high electric
+field inside the superlattice can be prevented. Here we concentrate on the
+parametric up- and down-conversion of electromagnetic radiation from available
+frequencies to desirable THz frequency range.

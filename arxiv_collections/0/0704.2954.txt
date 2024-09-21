@@ -1,0 +1,16 @@
+Phonon transmission across epitaxial interfaces is studied within the lattice
+dynamic approach. The transmission shows weak dependence on frequency for the
+lattice wave with a fixed angle of incidence. The dependence on azimuth angle
+is found to be related to the symmetry of the boundary interface. The
+transmission varies smoothly with the change of the incident angle. A critical
+angle of incidence exists when the phonon is incident from the side with large
+group velocities to the side with low ones. No significant mode conversion is
+observed among different acoustic wave branches at the interface, except when
+the incident angle is near the critical value. Our theoretical result of the
+Kapitza conductance $G_{K}$ across the Si-Ge (100) interface at temperature
+$T=200 $K is $4.6\times10^{8} {\rm WK}^{-1}{\rmm}^{-2}$. A scaling law $G_K
+\propto T^{2.87}$ at low temperature is also reported. Based on the features of
+transmission obtained within lattice dynamic approach, we propose a simplified
+formula for thermal conductanceacross the epitaxial interface. A reasonable
+consistency is found between the calculated values and the experimentally
+measured ones.

@@ -1,0 +1,16 @@
+We study linear series on a general curve of genus $g$, whose images are
+exceptional with regard to their secant planes. Working in the framework of an
+extension of Brill-Noether theory to pairs of linear series, we prove that a
+general curve has no linear series with exceptional secant planes, in a very
+precise sense, whenever the total number of series is finite. Next, we
+partially solve the problem of computing the number of linear series with
+exceptional secant planes in a one-parameter family in terms of tautological
+classes associated with the family, by evaluating our hypothetical formula
+along judiciously-chosen test families. As an application, we compute the
+number of linear series with exceptional secant planes on a general curve
+equipped with a one-dimensional family of linear series. We pay special
+attention to the extremal case of $d$-secant $(d-2)$-planes to
+$(2d-1)$-dimensional series, which appears in the study of Hilbert schemes of
+points on surfaces. In that case, our formula may be rewritten in terms of
+hypergeometric series, which allows us both to prove that it is nonzero and to
+deduce its asymptotics in $d$.

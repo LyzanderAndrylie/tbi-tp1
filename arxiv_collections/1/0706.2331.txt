@@ -1,0 +1,7 @@
+We approximate the price of the American put for jump diffusions by a
+sequence of functions, which are computed iteratively. This sequence converges
+to the price function uniformly and exponentially fast. Each element of the
+approximating sequence solves an optimal stopping problem for geometric
+Brownian motion, and can be numerically computed using the classical finite
+difference methods. We prove the convergence of this numerical scheme and
+present examples to illustrate its performance.

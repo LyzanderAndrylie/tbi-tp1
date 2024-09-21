@@ -1,0 +1,11 @@
+Adsorption of ortho-deuterium and para-hydrogen films on a graphite
+substrate, pre-plated with a single atomic layer of krypton, is studied
+theoretically by means of quantum Monte Carlo simulations at low temperature.
+Our model explicitly includes substrate corrugation. Energetic and structural
+properties of these adsorbed films are computed for a range of hydrogen
+coverages. Thermodynamically stable adsorbed films are solid, with no clear
+evidence of any liquid-like phase. Quantum exchanges of ortho-deuterium and
+para-hydrogen are essentially absent in this system, down to zero temperature;
+consequently, this system displays no superfluidity in this limit. Our
+simulations provide evidence of a stable domain wall fluid at low temperature,
+consistently with recent experimental observations.

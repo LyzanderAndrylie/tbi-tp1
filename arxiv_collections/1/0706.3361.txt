@@ -1,0 +1,10 @@
+We study spin-polarized states and their stability in anti-ferromagnetic
+states of spinor (F=1) quasi-one-dimensional Bose-Einstein condensates. Using
+analytical approximations and numerical methods, we find various types of
+polarized states, including: patterns of the Thomas-Fermi type; structures with
+a pulse-shape in one component inducing a hole in the other components; states
+with holes in all three components; and domain walls. A Bogoliubov-de Gennes
+analysis reveals that families of these states contain intervals of a weak
+oscillatory instability, except for the domain walls, which are always stable.
+The development of the instabilities is examined by means of direct numerical
+simulations.

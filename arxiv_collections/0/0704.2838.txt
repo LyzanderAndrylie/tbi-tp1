@@ -1,0 +1,14 @@
+We prove the Kirillov-Reshetikhin (KR) conjecture in the general case : for
+all twisted quantum affine algebras we prove that the characters of KR modules
+solve the twisted Q-system and we get explicit formulas for the character of
+their tensor products (the untwisted simply-laced case was treated by Najakima,
+and the untwisted case by the author). The proof is uniform and provides
+several new developments for the representation theory of twisted quantum
+affine algebras, including twisted Frenkel-Reshetikhin q-characters (expected
+by Frenkel-Reshetikhin and Frenkel-Mukhin). We also prove the twisted T-system.
+As an application we get explicit formulas for the twisted q-characters of
+fundamental representations for all types, including the formulas for types
+D_4^{(3)}, E_6^{(2)} conjectured by Reshetikhin. We prove the formulas for KR
+modules in types A_n^{(2)} and D_4^{(3)} conjectured by Kuniba-Suzuki.
+Eventually our results imply the conjectural branching rules [HKOTT] to the
+quantum subalgebra of finite type.

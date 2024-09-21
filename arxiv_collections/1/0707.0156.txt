@@ -1,0 +1,15 @@
+One of the simplified solutions of the Dirac equations with the pure Coulomb
+potential given in a paper published in 1985 is pseudo. The original paper
+solved the Dirac equations by introducing a transformation of functions with
+two strange parameters a and b to transform the original system of the
+first-order differential equations into two uncoupled differential equations of
+second order. However, not only the given eigenvalues sets violate the
+uniqueness of solution but also the said second-order equations are not any
+necessarily mathematical deduction. In order to determine the introduced
+parameters, formally, the author actually introduced some self-contradictory
+mathematical formulas, such as sinh(theta)=2ab, cosh(theta)=a^2+b^2,
+tanh(theta)=-Z(alpha)/k, a^2-b^2=1, b=sinh((theta/2), a=cosh((theta/2). But one
+has not known the value of the parameters a and b all the while, whereas the
+parameters were insensibly deleted in the given second-order Dirac-Coulomb
+equation last. One cannot recover any result given in the paper by making
+corresponding correctly mathematical calculations.

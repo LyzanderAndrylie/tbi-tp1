@@ -1,0 +1,3 @@
+In their recent paper, Campana et al. (2007) found that 5 bursts, among those
+detected by Swift, are outliers with respect to the E_peak-E_gamma
+("Ghirlanda") correlation. We instead argue that they are not.

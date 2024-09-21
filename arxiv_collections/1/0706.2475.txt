@@ -1,0 +1,17 @@
+Starting from the Mott insulator picture for cubic vanadates, we derive and
+investigate the model of superexchange interactions between V$^{3+}$ ions, with
+nearly degenerate $t_{2g}$ orbitals occupied by two electrons each. The
+superexchange interactions are strongly frustrated and demonstrate a strong
+interrelation between possible types of magnetic and orbital order. We
+elucidate the prominent role played by fluctuations of $yz$ and $xz$ orbitals
+which generate ferromagnetic superexchange interactions even in the absence of
+Hund's exchange. In this limit we find orbital valence bond state which is
+replaced either by $C$-type antiferromagnetic order with weak $G$-type orbital
+order at increasing Hund's exchange, or instead by $G$-type antiferromagnetic
+order when the lattice distortions stabilize $C$-type orbital order. Both
+phases are observed in YVO$_3$ and we argue that a dimerized $C$-type
+antiferromagnetic phase with stronger and weaker FM bonds alternating along the
+c axis may be stabilized by large spin-orbital entropy at finite temperature.
+This suggests a scenario which explains the origin of the exotic $C$-AF order
+observed in YVO$_3$ in the regime of intermediate temperatures and allows one
+to specify the necessary ingredients of a more complete future theory.

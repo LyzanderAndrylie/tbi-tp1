@@ -1,0 +1,11 @@
+We show that Brownian motion is spatially not symmetric for mesoscopic
+particles embedded in a fluid if the particle is not in thermal equilibrium and
+its shape is not spherical. In view of applications on molecular motors in
+biological cells, we sustain non-equilibrium by stopping a non-spherical
+particle at periodic sites along a filament. Molecular dynamics simulations in
+a Lennard-Jones fluid demonstrate that directed motion is possible without a
+ratchet potential or temperature gradients if the asymmetric non-equilibrium
+relaxation process is hindered by external stopping. Analytic calculations in
+the ideal gas limit show that motion even against a fluid drift is possible and
+that the direction of motion can be controlled by the shape of the particle,
+which is completely characterized by tensorial Minkowski functionals.

@@ -1,0 +1,13 @@
+At the high densities and low temperatures found in star forming regions, all
+molecules other than H2 should stick on dust grains on timescales shorter than
+the cloud lifetimes. Yet these clouds are detected in the millimeter lines of
+gaseous CO. At these temperatures, thermal desorption is negligible and hence a
+non-thermal desorption mechanism is necessary to maintain molecules in the gas
+phase. Here, the first laboratory study of the photodesorption of pure CO ice
+under ultra high vacuum is presented, which gives a desorption rate of 3E-3 CO
+molecules per UV (7-10.5 eV) photon at 15 K. This rate is factors of 1E2-1E5
+larger than previously estimated and is comparable to estimates of other
+non-thermal desorption rates. The experiments constrains the mechanism to a
+single photon desorption process of ice surface molecules. The measured
+efficiency of this process shows that the role of CO photodesorption in
+preventing total removal of molecules in the gas has been underestimated.

@@ -1,0 +1,9 @@
+In this paper we present a direct perturbative method to solving certain
+Fokker-Planck equations, which have constant diffusion coefficients and some
+small parameters in the drift coefficients. The method makes use of the
+connection between the Fokker-Planck and Schr\"odinger equations. Two examples
+are used to illustrate the method. In the first example the drift coefficient
+depends only on time but not on space. In the second example we consider the
+Uhlenbeck-Ornstein process with a small drift coefficient. These examples show
+that the such perturbative approach can be a useful tool to obtain approximate
+solutions of Fokker-Planck equations with constant diffusion coefficients.

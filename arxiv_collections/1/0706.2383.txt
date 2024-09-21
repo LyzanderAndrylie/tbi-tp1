@@ -1,0 +1,15 @@
+The utilization of multiple phosphorylation sites in regulating a biological
+response is ubiquitous in cell signaling. If each site contributes an
+additional, equivalent binding site, then one consequence of an increase in the
+number of phosphorylations may be to increase the probability that, upon
+disassociation, a ligand immediately rebinds to its receptor. How such effects
+may influence cell signaling systems has been less studied. Here, a
+self-consistent integral equation formalism for ligand rebinding, in
+conjunction with Monte Carlo simulations, is employed to further investigate
+the effects of multiple, equivalent binding sites on shaping biological
+responses. Multiple regimes that characterize qualitatively different physics
+due to the differential prevalence of rebinding effects are predicted.
+Calculations suggest that when ligand rebinding contributes significantly to
+the dose response, a purely allovalent model can influence the binding curves
+nonlinearly. The model also predicts that ligand rebinding in itself appears
+insufficient to generative a highly cooperative biological response.

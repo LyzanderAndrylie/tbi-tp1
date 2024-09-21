@@ -1,0 +1,6 @@
+We show that the algebra of commuting Hamiltonians of the homogeneous XXX
+Heisenberg model has simple spectrum on the subspace of singular vectors of the
+tensor product of two-dimensional $gl_2$-modules. As a byproduct we show that
+there exist exactly $\binom {n}{l}-\binom{n}{l-1}$ two-dimensional vector
+subspaces $V \subset \C[u]$ with a basis $f,g\in V$ such that $\deg f = l, \deg
+g = n-l+1$ and $f(u)g(u-1) - f(u-1)g(u) = (u+1)^n$.

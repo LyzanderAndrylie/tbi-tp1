@@ -1,0 +1,10 @@
+A covariant Fokker-Planck type equation for a simple gas and an equation for
+the Brownian motion are derived from a relativistic kinetic theory based on the
+Boltzmann equation. For the simple gas the dynamic friction four-vector and the
+diffusion tensor are identified and written in terms of integrals which take
+into account the collision processes. In the case of Brownian motion, the
+Brownian particles are considered as non-relativistic whereas the background
+gas behaves as a relativistic gas. A general expression for the
+semi-relativistic viscous friction coefficient is obtained and the particular
+case of constant differential cross-section is analyzed for which the
+non-relativistic and ultra relativistic limiting cases are calculated.

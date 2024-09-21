@@ -1,0 +1,6 @@
+The CDF collaboration has analyzed ~200/pb of Tevatron Run II data taken
+between February 2002 and September 2003 to measure the W boson mass. With a
+sample of 63964 W->e nu decays and 51128 W->mu nu decays, we measure M_W =
+80413+-34(stat)+-34(syst) MeV. The total measurement uncertainty of 48 MeV
+makes this result the most precise single measurement of the W boson mass to
+date.

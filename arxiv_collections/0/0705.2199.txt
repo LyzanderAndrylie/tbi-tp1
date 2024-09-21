@@ -1,0 +1,13 @@
+We consider anisotropic magnetized cosmologies filled with conductive plasma
+fluid and study the implications of metric perturbations that propagate
+parallel to the ambient magnetic field. It is known that in the first order
+(linear) approximation with respect to the amplitude of the perturbations no
+electric field and density perturbations arise. However, when we consider the
+non-linear coupling of the metric perturbations with their temporal
+derivatives, certain classes of solutions can induce steeply increasing in time
+electric field perturbations. This is verified both numerically and
+analytically. The source of these perturbations can be either high-frequency
+quantum vacuum fluctuations, driven by the cosmological pump field, in the
+early stages of the evolution of the Universe or astrophysical processes or a
+non-linear isotropization process of an initially anisotropic cosmological
+spacetime.

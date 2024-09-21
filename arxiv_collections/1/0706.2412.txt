@@ -1,0 +1,13 @@
+The aim of this paper is to show the gauge-invariance on the response of
+interferometers to gravitational waves (GWs). In this process, after a review
+of results on the Tranverse-Traceless (TT) gauge, where, in general, the
+theoretical computations on GWs are performed, which is due for completness, we
+analyse the gauge of the local observer, which represents the gauge of a
+laboratory environment on Earth. The gauge-invariance between the two gauges is
+shown in its full angular and frequency dependences. In previous works in the
+literature this gauge-invariance was shown only in the low frequencies
+approximation or in the simplest geometry of the interferometer in respect to
+the propagating GW (i.e. both of the arms of the interferometer are
+perpendicular to the propagating GW). As far as the computation of the response
+functions in the gauge of the local observer is concerned, a common
+misconception about interferometers is also clarifed.

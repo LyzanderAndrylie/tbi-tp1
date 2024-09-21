@@ -1,0 +1,5 @@
+We exhibit a set of recursive relations that completely determine all
+equivariant Gromov-Witten invariants of the quotient orbifold C^3/Z_3. We
+interpret such invariants as G-Hodge Integrals, and produce relations among
+them via Atiyah-Bott localization on moduli spaces of twisted stable maps to
+gerbes over the projective line.

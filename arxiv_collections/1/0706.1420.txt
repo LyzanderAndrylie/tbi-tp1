@@ -1,0 +1,13 @@
+The asymptotic behavior of the molecular continuum wave function has been
+analyzed within a model of non-overlapping atomic potentials. It is been shown
+that the representation of the wave function far from a molecule as a plane
+wave and single spherical wave emitted by the molecular center cannot be
+corrected. Because of the multicenter character of the problem, the asymptotic
+form of the wave function must contain N spherical waves with centers at the
+nuclei of the N atoms that form the molecule. A method of partial waves for a
+spherically non-symmetrical target is considered for the simplest multicenter
+target formed by two non-overlapping potentials. The results are compared with
+those obtained within the single spherical wave approximation. It has been
+shown that the use of this approximation results in significant mistakes in
+differential and total cross sections of electron elastic scattering by a
+target.

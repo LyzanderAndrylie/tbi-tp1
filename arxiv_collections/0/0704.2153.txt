@@ -1,0 +1,4 @@
+We prove that free pre-Lie algebras, when considered as Lie algebras, are
+free. Working in the category of S-modules, we define a natural filtration on
+the space of generators. We also relate the symmetric group action on
+generators with the structure of the anticyclic PreLie operad.

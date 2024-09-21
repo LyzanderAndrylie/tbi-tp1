@@ -1,0 +1,8 @@
+In this paper artificial neural networks and support vector machines are used
+to reduce the amount of vibration data that is required to estimate the Time
+Domain Average of a gear vibration signal. Two models for estimating the time
+domain average of a gear vibration signal are proposed. The models are tested
+on data from an accelerated gear life test rig. Experimental results indicate
+that the required data for calculating the Time Domain Average of a gear
+vibration signal can be reduced by up to 75% when the proposed models are
+implemented.

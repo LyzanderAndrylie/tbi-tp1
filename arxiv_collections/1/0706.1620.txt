@@ -1,0 +1,9 @@
+We present a detailed investigation of the electrical properties of epitaxial
+La0.7Sr0.3MnO3/SrTi0.98Nb0.02O3 Schottky junctions. A fabrication process that
+allows reduction of the junction dimensions to current electronic device size
+has been employed. A heavily doped semiconductor has been used as a substrate
+in order to suppress its series resistance. We show that, unlike standard
+semiconductors, high-quality oxide-based Schottky junctions maintain a highly
+rectifying behavior for doping concentration of the semiconductor larger than
+10^20 cm^(-3). Moreover, the junctions show hysteretic current-voltage
+characteristics.

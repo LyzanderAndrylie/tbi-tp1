@@ -1,0 +1,11 @@
+A major goal in solar physics has during the last five decades been to find
+how energy flux generated in the solar convection zone is transported and
+dissipated in the outer solar layers. Progress in this field has been slow and
+painstaking. However, advances in computer hardware and numerical methods,
+vastly increased observational capabilities and growing physical insight seem
+finally to be leading towards understanding. Here we present exploratory
+numerical MHD models that span the entire solar atmosphere from the upper
+convection zone to the lower corona. These models include non-grey, non-LTE
+radiative transport in the photosphere and chromosphere, optically thin
+radiative losses as well as magnetic field-aligned heat conduction in the
+transition region and corona.

@@ -1,0 +1,13 @@
+Generalized comb filters (GCFs) are efficient anti-aliasing decimation
+filters with improved selectivity and quantization noise (QN) rejection
+performance around the so called folding bands with respect to classical comb
+filters.
+  In this paper, we address the design of GCF filters by proposing an efficient
+partial polyphase architecture with the aim to reduce the data rate as much as
+possible after the Sigma-Delta A/D conversion. We propose a mathematical
+framework in order to completely characterize the dependence of the frequency
+response of GCFs on the quantization of the multipliers embedded in the
+proposed filter architecture. This analysis paves the way to the design of
+multiplier-less decimation architectures.
+  We also derive the impulse response of a sample 3rd order GCF filter used as
+a reference scheme throughout the paper.

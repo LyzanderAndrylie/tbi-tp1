@@ -1,0 +1,16 @@
+We review briefly the concepts underlying complex systems and probability
+distributions. The later are often taken as the first quantitative
+characteristics of complex systems, allowing one to detect the possible
+occurrence of regularities providing a step toward defining a classification of
+the different levels of organization (the ``universality classes''). A rapid
+survey covers the Gaussian law, the power law and the stretched exponential
+distributions. The fascination for power laws is then explained, starting from
+the statistical physics approach to critical phenomena, out-of-equilibrium
+phase transitions, self-organized criticality, and ending with a large but not
+exhaustive list of mechanisms leading to power law distributions. A check-list
+for testing and qualifying a power law distribution from your data is described
+in 7 steps. This essay enlarges the description of distributions by proposing
+that ``kings'', i.e., events even beyond the extrapolation of the power law
+tail, may reveal an information which is complementary and perhaps sometimes
+even more important than the power law distribution. We conclude a list of
+future directions.

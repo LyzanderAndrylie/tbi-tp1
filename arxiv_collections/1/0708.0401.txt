@@ -1,0 +1,4 @@
+We prove non-Archimedean analogs of results of Noguchi and Winkelmann showing
+algebraic degeneracy of rigid analytic maps to projective varieties omitting an
+effective divisor with sufficiently many irreducible components relative to the
+rank of the group they generate in the Neron-Severi group of the variety.

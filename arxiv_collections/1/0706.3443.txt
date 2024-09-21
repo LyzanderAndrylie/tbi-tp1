@@ -1,0 +1,14 @@
+State Space Models (SSM) is a MATLAB 7.0 software toolbox for doing time
+series analysis by state space methods. The software features fully interactive
+construction and combination of models, with support for univariate and
+multivariate models, complex time-varying (dynamic) models, non-Gaussian
+models, and various standard models such as ARIMA and structural time-series
+models. The software includes standard functions for Kalman filtering and
+smoothing, simulation smoothing, likelihood evaluation, parameter estimation,
+signal extraction and forecasting, with incorporation of exact initialization
+for filters and smoothers, and support for missing observations and multiple
+time series input with common analysis structure. The software also includes
+implementations of TRAMO model selection and Hillmer-Tiao decomposition for
+ARIMA models. The software will provide a general toolbox for doing time series
+analysis on the MATLAB platform, allowing users to take advantage of its
+readily available graph plotting and general matrix computation capabilities.

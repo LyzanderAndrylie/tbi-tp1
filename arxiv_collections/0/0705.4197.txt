@@ -1,0 +1,10 @@
+We introduce a spectrum for arbitrary varieties. This generalizes the
+definition by Steenbrink for hypersurfaces. In the isolated complete
+intersection singularity case, it coincides with the one given by Ebeling and
+Steenbrink except for the coefficients of integral exponents. We show a
+relation to the graded pieces of the multiplier ideals by using a relation to
+the filtration $V$ of Kashiwara and Malgrange. This implies a partial
+generalization of a theorem of Budur in the hypersurface case. The point is to
+consider the direct sum of the graded pieces of the multiplier ideals as a
+module over the algebra defining the normal cone of the subvariety. We also
+give a combinatorial description in the case of monomial ideals.

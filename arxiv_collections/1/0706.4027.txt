@@ -1,0 +1,17 @@
+Alkali halide (100) crystal surfaces are poorly wetted by their own melt at
+the triple point. We carried out simulations for NaCl(100) within the well
+tested BMHFT model potential. Calculations of the solid-vapor, solid-liquid and
+liquid-vapor free energies showed that solid NaCl(100) is a non-melting
+surface, and explain its bad wetting in detail.
+  The extreme stability of NaCl(100) is ideal for a study of the nanofriction
+in the high temperature regime, close to and even above the bulk melting
+temperature (T_M). Our simulations reveal in this regime two distinct and
+opposite phenomena for plowing and for grazing friction. We found a frictional
+drop close to T_M for deep ploughing and wear, but on the contrary a frictional
+rise for grazing, wearless sliding. For both phenomena we obtain a fresh
+microscopic understanding, relating the former to ``skating'' through a local
+liquid cloud, the latter to softening of the free substrate surface. It is
+argued that both phenomena, to be pursued experimentally, should be much more
+general than the specific NaCl surface case. Most metals in particular
+possessing one or more close packed non-melting surface, such as Pb, Al or
+Au(111), should behave quite similarly.

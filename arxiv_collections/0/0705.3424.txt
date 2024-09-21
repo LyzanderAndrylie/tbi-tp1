@@ -1,0 +1,9 @@
+We develop a fine-scale local analysis of measure entropy and measure
+sequence entropy based on combinatorial independence. The concepts of measure
+IE-tuples and measure IN-tuples are introduced and studied in analogy with
+their counterparts in topological dynamics. Local characterizations of the
+Pinsker von Neumann algebra and its sequence entropy analogue are given in
+terms of combinatorial independence, l_1 geometry, and Voiculescu's completely
+positive approximation entropy. Among the novel features of our local study is
+the treatment of general discrete acting groups, with the structural assumption
+of amenability in the case of entropy.

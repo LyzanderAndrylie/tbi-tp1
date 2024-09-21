@@ -1,0 +1,3 @@
+We give a bound on the spectral radius of subgraphs of regular graphs with
+given order and diameter. We give a lower bound on the smallest eigenvalue of a
+nonbipartite regular graph of given order and diameter.

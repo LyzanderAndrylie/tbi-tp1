@@ -1,0 +1,15 @@
+The triplet and singlet low-energy parameters in the effective-range
+expansion for neutron--proton scattering are determined by using the latest
+experimental data on respective phase shifts from the SAID nucleon--nucleon
+database. The results differ markedly from the analogous parameters obtained on
+the basis of the phase shifts of the Nijmegen group and contradict the
+parameter values that are presently used as experimental ones. The values found
+with the aid of the phase shifts from the SAID nucleon--nucleon database for
+the total cross section for the scattering of zero-energy neutrons by protons,
+$\sigma_{0}=20.426 $b, and the neutron--proton coherent scattering length,
+$f=-3.755 $fm, agree perfectly with the experimental cross-section values
+obtained by Houk, $\sigma_{0}=20.436\pm 0.023 $b, and experimental
+scattering-length values obtained by Houk and Wilson, $f=-3.756\pm 0.009 $fm,
+but they contradict cross-section values of $\sigma_{0}=20.491\pm 0.014 $b
+according to Dilg and coherent-scattering-length values of $f=-3.7409\pm 0.0011
+$fm according to Koester and Nistler.

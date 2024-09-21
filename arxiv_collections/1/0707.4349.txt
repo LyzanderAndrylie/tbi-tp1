@@ -1,0 +1,11 @@
+By applying holomorphic motions, we prove that a parabolic germ is
+quasiconformally rigid, that is, any two topologically conjugate parabolic
+germs are quasiconformally conjugate and the conjugacy can be chosen to be more
+and more near conformal as long as we consider these germs defined on smaller
+and smaller neighborhoods. Before proving this theorem, we use the idea of
+holomorphic motions to give a conceptual proof of the Fatou linearization
+theorem. As a by-product, we also prove that any finite number of analytic
+germs at different points in the Riemann sphere can be extended to a
+quasiconformal homeomorphism which can be more and more near conformal as as
+long as we consider these germs defined on smaller and smaller neighborhoods of
+these points.

@@ -1,0 +1,21 @@
+In this paper, we study the perturbative aspects of a "B-twisted"
+two-dimensional $(0,2)$ heterotic sigma model on a holomorphic gauge bundle
+$\mathcal E$ over a complex, hermitian manifold $X$. We show that the model can
+be naturally described in terms of the mathematical theory of ``Chiral
+Differential Operators". In particular, the physical anomalies of the sigma
+model can be reinterpreted as an obstruction to a global definition of the
+associated sheaf of vertex superalgebras derived from the free conformal field
+theory describing the model locally on $X$. In addition, one can also obtain a
+novel understanding of the sigma model one-loop beta function solely in terms
+of holomorphic data. At the $(2,2)$ locus, one can describe the resulting
+half-twisted variant of the topological B-model in terms of a $\it{mirror}$
+"Chiral de Rham complex" (or CDR) defined by Malikov et al. in \cite{GMS1}. Via
+mirror symmetry, one can also derive various conjectural expressions relating
+the sheaf cohomology of the mirror CDR to that of the original CDR on pairs of
+Calabi-Yau mirror manifolds. An analysis of the half-twisted model on a
+non-K\"ahler group manifold with torsion also allows one to draw conclusions
+about the corresponding sheaves of CDR (and its mirror) that are consistent
+with mathematically established results by Ben-Bassat in \cite{ben} on the
+mirror symmetry of generalised complex manifolds. These conclusions therefore
+suggest an interesting relevance of the sheaf of CDR in the recent study of
+generalised mirror symmetry.

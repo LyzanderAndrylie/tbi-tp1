@@ -1,0 +1,6 @@
+This paper presents a model of autonomy called autonomy with regard to an
+attribute applicable to cognitive and not cognitive artificial agents. Three
+criteria (global / partial, social / nonsocial, absolute / relative) are
+defined and used to describe the main characteristics of this type of autonomy.
+A software agent autonomous with regard to the mobility illustrates a possible
+implementation of this model.

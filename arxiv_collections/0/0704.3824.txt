@@ -1,0 +1,8 @@
+Based on standard perturbation theory, we present a full quantum derivation
+of the formula for the orbital magnetization in periodic systems. The
+derivation is generally valid for insulators with or without a Chern number,
+for metals at zero or finite temperatures, and at weak as well as strong
+magnetic fields. The formula is shown to be valid in the presence of
+electron-electron interaction, provided the one-electron energies and wave
+functions are calculated self-consistently within the framework of the exact
+current and spin density functional theory.

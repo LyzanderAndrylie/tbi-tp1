@@ -1,0 +1,10 @@
+We review recent advances on the theory of spin qubits in nanostructures. We
+focus on four selected topics. First, we show how to form spin qubits in the
+new and promising material graphene. Afterwards, we discuss spin relaxation and
+decoherence in quantum dots. In particular, we demonstrate how charge
+fluctations in the surrounding environment cause spin decay via spin--orbit
+coupling. We then turn to a brief overview of how one can use electron-dipole
+spin resonance (EDSR) to perform single spin rotations in quantum dots using an
+oscillating electric field. The final topic we cover is the spin-spin coupling
+via spin-orbit interaction which is an alternative to the usual spin-spin
+coupling via the Heisenberg exchange interaction.

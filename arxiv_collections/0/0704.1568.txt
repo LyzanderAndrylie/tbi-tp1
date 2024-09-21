@@ -1,0 +1,8 @@
+We show that Green function methods can be straightforwardly applied to
+nonlinear equations appearing as the leading order of a short time expansion.
+Higher order corrections can be then computed giving a satisfactory agreement
+with numerical results. The relevance of these results relies on the
+possibility of fully exploiting a gradient expansion in both classical and
+quantum field theory granting the existence of a strong coupling expansion.
+Having a Green function in this regime in quantum field theory amounts to
+obtain the corresponding spectrum of the theory.

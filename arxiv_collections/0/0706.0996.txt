@@ -1,0 +1,15 @@
+We study two continuous variable systems (or two harmonic oscillators) and
+investigate their entanglement evolution under the influence of non-Markovian
+thermal environments. The continuous variable systems could be two modes of
+electromagnetic fields or two nanomechanical oscillators in the quantum domain.
+We use quantum open system method to derive the non-Markovian master equations
+of the reduced density matrix for two different but related models of the
+continuous variable systems. The two models both consist of two interacting
+harmonic oscillators. In model A, each of the two oscillators is coupled to its
+own independent thermal reservoir, while in model B the two oscillators are
+coupled to a common reservoir. To quantify the degrees of entanglement for the
+bipartite continuous variable systems in Gaussian states, logarithmic
+negativity is used. We find that the dynamics of the quantum entanglement is
+sensitive to the initial states, the oscillator-oscillator interaction, the
+oscillator-environment interaction and the coupling to a common bath or to
+different, independent baths.

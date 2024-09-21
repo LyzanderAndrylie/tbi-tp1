@@ -1,0 +1,13 @@
+We prove new theorems about properties of generalized functions defined on
+Gelfand-Shilov spaces $S^\beta$ with $0\le\beta<1$. For each open cone
+$U\subset\mathbb R^d$ we define a space $S^\beta(U)$ which is related to
+$S^\beta(\mathbb R^d)$ and consists of entire analytic functions rapidly
+decreasing inside U and having order of growth $\le 1/(1-\beta)$ outside the
+cone. Such sheaves of spaces arise naturally in nonlocal quantum field theory,
+and this motivates our investigation. We prove that the spaces $S^\beta(U)$ are
+complete and nuclear and establish a decomposition theorem which implies that
+every continuous functional defined on $S^\beta(\mathbb R^d)$ has a unique
+minimal closed carrier cone in $\mathbb R^d$. We also prove kernel theorems for
+spaces over open and closed cones and elucidate the relation between the
+carrier cones of multilinear forms and those of the generalized functions
+determined by these forms.

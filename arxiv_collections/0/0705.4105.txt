@@ -1,0 +1,6 @@
+We study localization properties of two-dimensional Dirac fermions subject to
+a power-law-correlated random vector potential describing, e.g., the effect of
+"ripples" in graphene. By using a variety of techniques (low-order perturbation
+theory, self-consistent Born approximation, replicas, and supersymmetry) we
+make a case for a possible complete localization of all the electronic states
+and compute the density of states.

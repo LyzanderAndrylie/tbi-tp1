@@ -1,0 +1,8 @@
+We present preliminary results of a study of the two-body B-meson decays to a
+charmonium state (ccbar) and a K+ or K*0(892) meson using a sample of about 349
+fb-1 of data collected with the BABAR detector at the PEP-II asymmetric-energy
+B Factory at SLAC. Here ccbar indicates either the eta_c state, reconstructed
+in the K_S K+- pi-+ and K+K-pi0 decay channels, or the h_c state, reconstructed
+in its decay to eta_c gamma. We measure BR(B0 -> eta_c K*0)=(6.1+-0.8_stat +-
+1.1_syst) * 10-4, BR(B+ -> h_c K+) * BR(h_c -> eta_c gamma)<5.2 * 10-5 and
+BR(B0 -> h_c K*0) * BR(h_c -> eta_c gamma)<2.41 * 10^-4, at the 90% C.L.

@@ -1,0 +1,8 @@
+We study the longitudinal dynamical structure factor $S^{zz}(q,\omega)$ for
+the anisotropic spin-1/2 (XXZ) chain at finite magnetic field using
+bosonization. The leading irrelevant operators in the effective bosonic model
+stemming from band curvature describe boson decay processes and lead to a
+high-frequency tail and a finite width $\gamma_q$ of the on-shell peak for
+$S^{zz}(q,\omega)$. We use the Bethe ansatz to show that $\gamma_q\sim q^2$ for
+$q\ll 1$ and to calculate the amplitudes of the leading irrelevant operators in
+the effective field theory.

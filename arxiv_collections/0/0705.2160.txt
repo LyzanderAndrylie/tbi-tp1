@@ -1,0 +1,6 @@
+We give a construction of the moduli space of stable maps to the classifying
+stack B\mu_r of a cyclic group by a sequence of r-th root constructions on
+M_{0, n}. We prove a closed formula for the total Chern class of
+\mu_r-eigenspaces of the Hodge bundle, and thus of the obstruction bundle of
+the genus zero Gromov-Witten theory of stacks of the form [C^N/\mu_r].
+  We deduce linear recursions for all genus-zero Gromov-Witten invariants.

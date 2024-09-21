@@ -1,0 +1,12 @@
+We perform a non-perturbative study of the scale-dependent renormalization
+factors of a multiplicatively renormalizable basis of $\Delta{B}=2$ parity-odd
+four-fermion operators in quenched lattice QCD. Heavy quarks are treated in the
+static approximation with various lattice discretizations of the static action.
+Light quarks are described by non-perturbatively ${\rm O}(a)$ improved
+Wilson-type fermions. The renormalization group running is computed for a
+family of Schroedinger functional (SF) schemes through finite volume techniques
+in the continuum limit. We compute non-perturbatively the relation between the
+renormalization group invariant operators and their counterparts renormalized
+in the SF at a low energy scale. Furthermore, we provide non-perturbative
+estimates for the matching between the lattice regularized theory and all the
+SF schemes considered.

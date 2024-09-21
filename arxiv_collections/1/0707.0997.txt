@@ -1,0 +1,9 @@
+Regarding the adjacency matrices of n-vertex graphs and related graph
+Laplacian, we introduce two families of discrete matrix models constructed both
+with the help of the Erdos-Renyi ensemble of random graphs. Corresponding
+matrix sums represent the characteristic functions of the average number of
+walks and closed walks over the random graph. These sums can be considered as
+discrete analogs of the matrix integrals of random matrix theory.
+  We study the diagram structure of the cumulant expansions of logarithms of
+these matrix sums and analyze the limiting expressions in the cases of constant
+and vanishing edge probabilities as n tends to infinity.

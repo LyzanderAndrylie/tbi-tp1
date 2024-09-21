@@ -1,0 +1,11 @@
+Efficient injection of spin-polarized electrons into the conduction band of
+silicon is limited by the formation of a silicide at the ferromagnetic metal
+(FM)/silicon interface. In the present work, this "magnetically-dead" silicide
+(where strong spin-scattering significantly reduces injected spin polarization)
+is eliminated by moving the FM in the spin injector from the tunnel junction
+base anode to the emitter cathode and away from the silicon surface. This
+results in over an order-of-magnitude increase in spin injection efficiency,
+from a previously-reported magnetocurrent ratio of ~2% to ~35% and an estimated
+spin polarization in Si from ~1% to at least ~15%. The injector tunnel-junction
+bias dependence of this spin transport signal is also measured, demonstrating
+the importance of low bias voltage to preserve high injected spin polarization.

@@ -1,0 +1,19 @@
+How can a microorganism adapt to a variety of environmental conditions
+despite there exists a limited number of signal transduction machineries? We
+show that for any growing cells whose gene expression is under stochastic
+fluctuations, adaptive cellular state is inevitably selected by noise, even
+without specific signal transduction network for it. In general, changes in
+protein concentration in a cell are given by its synthesis minus dilution and
+degradation, both of which are proportional to the rate of cell growth. In an
+adaptive state with a higher growth speed, both terms are large and balanced.
+Under the presence of noise in gene expression, the adaptive state is less
+affected by stochasticity since both the synthesis and dilution terms are
+large, while for a non-adaptive state both the terms are smaller so that cells
+are easily kicked out of the original state by noise. Hence, escape time from a
+cellular state and the cellular growth rate are negatively correlated. This
+leads to a selection of adaptive states with higher growth rates, and model
+simulations confirm this selection to take place in general. The results
+suggest a general form of adaptation that has never been brought to light - a
+process that requires no specific machineries for sensory adaptation. The
+present scheme may help explain a wide range of cellular adaptive responses
+including the metabolic flux optimization for maximal cell growth.

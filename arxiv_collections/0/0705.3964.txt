@@ -1,0 +1,23 @@
+Polymer Optical Fiber (POF) can be and are being used in various fields of
+applications. Two of the main fields are the automotive and the home
+entertainment sector. The POF can be applied in several different optical
+communication systems as automotive multi-media busses or in-house Ethernet
+systems.
+  The requirements of bandwidth are increasing very fast in these sectors and
+therefore solutions that satisfy these demands are of high actuality. One
+solution is to use the wavelength division multiplexing (WDM) technique. Here,
+several different wavelengths can carry information over one POF fiber. All
+wavelengths that are transmitted over the fiber, must be separated at the
+receiver to regain and redirect the information channels. These separators are
+so-called Demultiplexers.
+  There are several systems available on the market, which are all afflicted
+with certain disadvantages. But all these solutions have one main disadvantage,
+they are all too expensive for most of the applications mentioned above. So the
+goal of this study is to develop an economical Demultiplexer for WDM
+transmission over POF.
+  The main idea is to separate the chromatic light in its monochromatic
+components with the help of a prism with low reciprocal dispersive power. The
+prism and the other assemblies, which are needed to adjust the optical path,
+should be manufactured in injection molding technique. This manufacturing
+technique is a very simple and economical way to produce a mass production
+applicable Demultiplexer for POF.

@@ -1,0 +1,13 @@
+We consider the two-terminal conductance of a one-dimensional Mott insulator
+undergoing the commensurate-incommensurate quantum phase transition to a
+conducting state. We treat the leads as Luttinger liquids. At a specific value
+of compressibility of the leads, corresponding to the Luther-Emery point, the
+conductance can be described in terms of the free propagation of
+non-interacting fermions with charge e/\sqrt{2}. At that point, the temperature
+dependence of the conductance across the quantum phase transition is described
+by a Fermi function. The deviation from the Luther-Emery point in the leads
+changes the temperature dependence qualitatively. In the metallic state, the
+low-temperature conductance is determined by the properties of the leads, and
+is described by the conventional Luttinger liquid theory. In the insulating
+state, conductance occurs via activation of e/\sqrt{2} charges, and is
+independent of the Luttinger liquid compressibility.

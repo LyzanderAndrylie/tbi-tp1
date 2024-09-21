@@ -1,0 +1,6 @@
+A preliminary measurement of RK = Gamma(Ke2)/Gamma(Km2) at the KLOE
+experiment is discussed. The result, RK = (2.55+-0.05+-0.05)x 10^-5, is based
+on 1.7 fb^-1 of luminosity integrated on the phi-meson peak at the Frascati
+e^+e^- collider DAFNE, corresponding to ~8000 observed Ke2 events. Perspectives
+on the methods planned to improve both the statistical and the systematic
+errors are briefly outlined.

@@ -1,0 +1,15 @@
+The Jarzynski equality and the fluctuation theorem relate equilibrium free
+energy differences to non-equilibrium measurements of the work. These relations
+extend to single-molecule experiments that have probed the finite-time
+thermodynamics of proteins and nucleic acids. The effects of experimental error
+and instrument noise have not previously been considered. Here, we present a
+Bayesian formalism for estimating free-energy changes from non-equilibrium work
+measurements that compensates for instrument noise and combines data from
+multiple driving protocols. We reanalyze a recent set of experiments in which a
+single RNA hairpin is unfolded and refolded using optical tweezers at three
+different rates. Interestingly, the fastest and farthest-from-equilibrium
+measurements contain the least instrumental noise, and therefore provide a more
+accurate estimate of the free energies than a few slow, more noisy,
+near-equilibrium measurements. The methods we propose here will extend the
+scope of single-molecule experiments; they can be used in the analysis of data
+from measurements with AFM, optical, and magnetic tweezers.

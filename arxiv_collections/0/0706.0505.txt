@@ -1,0 +1,5 @@
+In this note, we prove that on polarized toric manifolds the relative
+$K$-stability with respect to Donaldson's toric degenerations is a necessary
+condition for the existence of Calabi's extremal metrics, and also we show that
+the modified $K$-energy is proper in the space of $G_0$-invariant K\"ahler
+metrics for the case of toric surfaces which admit the extremal metrics.

@@ -1,0 +1,7 @@
+An extension of the renormalization group method that includes the effect of
+retardation for the interactions of a fermion gas is used to re-examine the
+quantum and classical properties of Peierls- like states in one dimension. For
+models of spinless and spin-1/2 fermions interacting with either intra or
+intermolecular phonons the quantum corrections to the Peierls gap at
+half-filling are determined at arbitrary phonon frequency. The nature of
+quantum-classical transitions is clarified in weak coupling.

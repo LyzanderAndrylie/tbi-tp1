@@ -1,0 +1,8 @@
+We express dynamics of domain walls in ferromagnetic nanowires in terms of
+collective coordinates generalizing Thiele's steady-state results. For weak
+external perturbations the dynamics is dominated by a few soft modes. The
+general approach is illustrated on the example of a vortex wall relevant to
+recent experiments with flat nanowires. A two-mode approximation gives a
+quantitatively accurate description of both the steady viscous motion of the
+wall in weak magnetic fields and its oscillatory behavior in moderately high
+fields above the Walker breakdown.

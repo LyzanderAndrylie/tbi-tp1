@@ -1,0 +1,16 @@
+For a rank two root system and a pair of nonnegative integers, using only
+elementary combinatorics we construct two posets. The constructions are uniform
+across the root systems A1+A1, A2, C2, and G2. Examples appear in Figures 3.2
+and 3.3. We then form the distributive lattices of order ideals of these
+posets. Corollary 5.4 gives elegant quotient-of-products expressions for the
+rank generating functions of these lattices (thereby providing answers to a
+1979 question of Stanley). Also, Theorem 5.3 describes how these lattices
+provide a new combinatorial setting for the Weyl characters of representations
+of rank two semisimple Lie algebras. Most of these lattices are new; the rest
+of them (or related structures) have arisen in work of Stanley, Kashiwara,
+Nakashima, Littelmann, and Molev. In a future paper, one author shows that the
+posets constructed here form a Dynkin diagram-indexed answer to a
+combinatorially posed classification question. In a companion paper, some of
+these lattices are used to explicitly construct some representations of rank
+two semisimple Lie algebras. This implies that these lattices are strongly
+Sperner.

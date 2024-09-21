@@ -1,0 +1,5 @@
+Motivated by a proposal to create an optical helix-shaped waveguides for cold
+atoms and molecules, we discuss local perturbations which can create bound
+states in such a setting. This is known about a local slowdown of the twist; we
+show that a similar effect can result from a local tube protrusion or a change
+of the helix radius in correlation with its pitch angle.

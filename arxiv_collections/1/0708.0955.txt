@@ -1,0 +1,9 @@
+We show how the well-known classical field equations as Einstein and
+Yang-Mills ones, which arise as the conformal invariance conditions of certain
+two-dimensional theories, expanded up to the second order in the formal
+parameter, can be reformulated as Generalized/formal Maurer-Cartan equations
+(GMC), where the differential is the BRST operator of String theory. We
+introduce the bilinear operations which are present in GMC, and study their
+properties, allowing us to find the symmetries of the resulting equations which
+will be naturally identified with the diffeomorphism and gauge symmetries of
+Einstein and Yang-Mills equations correspondingly.

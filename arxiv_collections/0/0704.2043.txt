@@ -1,0 +1,16 @@
+We present a novel comprehensive first-principles theoretical study of the
+electronic properties and relative stabilities of edge-oxidized zigzag graphene
+nanoribbons. The oxidation schemes considered include hydroxyl, carboxyl,
+ether, and ketone groups. Using screened exchange density functional theory, we
+show that these oxidized ribbons are more stable than hydrogen-terminated
+nanoribbons except for the case of the etheric groups. The stable oxidized
+configurations maintain a spin-polarized ground state with antiferromagnetic
+ordering localized at the edges, similar to the fully hydrogenated
+counterparts. More important, edge oxidation is found to lower the onset
+electric field required to induce half-metallic behavior and extend the overall
+field range at which the systems remain half-metallic. Once the half-metallic
+state is reached, further increase of the external electric field intensity
+produces a rapid decrease in the spin magnetization up to a point where the
+magnetization is quenched completely. Finally, we find that oxygen containing
+edge groups have a minor effect on the energy difference between the
+antiferromagnetic ground state and the above-lying ferromagnetic state.

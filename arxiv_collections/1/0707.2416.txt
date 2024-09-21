@@ -1,0 +1,9 @@
+We report the observation of negative magnetoresistance in the ferromagnetic
+semiconductor GaMnAs at low temperatures ($T<3$ K) and low magnetic fields ($0<
+B <20$ mT). We attribute this effect to weak localization. Observation of weak
+localization provides a strong evidence of impurity band transport in these
+materials, since for valence band transport one expects either weak
+anti-localization due to strong spin-orbit interactions or total suppression of
+interference by intrinsic magnetization. In addition to the weak localization,
+we observe Altshuler-Aronov electron-electron interactions effect in this
+material.

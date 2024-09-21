@@ -1,0 +1,5 @@
+We study fidelity susceptibility in one-dimensional asymmetric Hubbard model,
+and show that the fidelity susceptibility can be used to identify the
+universality class of the quantum phase transitions in this model. The critical
+exponents are found to be 0 and 2 for cases of half-filling and away from
+half-filling respectively.

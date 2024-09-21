@@ -1,0 +1,10 @@
+Nonuniform tubular neighborhoods of curves in Euclidean n-space are studied
+by using weighted distance functions and generalizing the normal exponential
+map. Different notions of injectivity radii are introduced to investigate
+singular but injective exponential maps. A generalization of the thickness
+formula is obtained for nonuniform thickness. All singularities within almost
+injectivity radius are classified by the Horizontal Collapsing Property.
+Examples are provided to show the distinction between the different types of
+injectivity radii, as well as showing that the standard differentiable
+injectivity radius fails to be upper semicontinuous on a singular set of weight
+functions.

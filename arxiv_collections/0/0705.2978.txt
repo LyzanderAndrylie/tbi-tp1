@@ -1,0 +1,6 @@
+We provide a systematic treatment of self-averaging identities for various
+spin systems. The method is quite general, basically not relying on the nature
+of the model, and as a special case recovers the Ghirlanda-Guerra and
+Aizenman-Contucci identities, which are therefore proven, together with their
+extension, to be valid in a vaste class of spin models. We use the dilute spin
+glass as a guiding example.

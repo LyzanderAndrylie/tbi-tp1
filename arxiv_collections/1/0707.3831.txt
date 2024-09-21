@@ -1,0 +1,9 @@
+Recently (PRL 96, 106804 (2006)) it was suggested that cobaltocene(CC)
+molecules encapsulated into (7,7) carbon nanotubes (CNT@(7,7)) could be the
+basis for new spintronic devices. We show here based on impact molecular
+dynamics and DFT calculations that when dynamical aspects are explicitly
+considered the CC encapsulation into CNT@(7,7) does not occur, it is prevented
+by a dynamic barrier mainly due to van der Waals interactions. Our results show
+that CNT@(13,0) having enough axial space for encapsulation but no enough one
+to allow freely rotation of the cobaltocene molecule would be a feasible
+candidate to such application.

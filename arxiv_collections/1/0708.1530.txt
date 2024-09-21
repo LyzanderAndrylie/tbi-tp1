@@ -1,0 +1,8 @@
+Quantized Berry phases as local order parameters in t-J models are studied. A
+texture pattern of the local order parameters is topologically stable due to
+the quantization of non-Abelian Berry phases defined by low-energy states below
+a spin gap, which exists in the large J/t case with a few electrons. We have
+confirmed that itinerant singlets in the wide class of t-J models carry the
+nontrivial Berry phase pi. In the large J/t case for the one-dimensional t-J
+model, Berry phases are uniformly pi when the number of electrons is N =4n +2,
+($n=0,1,2,...$).

@@ -1,0 +1,8 @@
+A quantum algorithm is a set of instructions for a quantum computer, however,
+unlike algorithms in classical computer science their results cannot be
+guaranteed. A quantum system can undergo two types of operation, measurement
+and quantum state transformation, operations themselves must be unitary
+(reversible). Most quantum algorithms involve a series of quantum state
+transformations followed by a measurement. Currently very few quantum
+algorithms are known and no general design methodology exists for their
+construction.

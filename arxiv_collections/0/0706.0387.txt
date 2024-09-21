@@ -1,0 +1,13 @@
+One of the most basic tasks required for Quantum Information Technology is
+the ability to connect different components of a Quantum Computer by quantum
+wires that obey the superposition principle. Since superpositions can be very
+sensitive to noise this turns out to be already quite difficult. Recently, it
+was suggested to use chains of permanently coupled spin-1/2 particles (quantum
+chains) for this purpose. They have the advantage that no external control
+along the wire is required during the transport of information, which makes it
+possible to isolate the wire from sources of noise. We first give an
+introduction to basic quantum state transfer and review existing advanced
+schemes by other authors. We then show a new result that demonstrates the
+stability of the scheme [1] against disorder that is approximately constant
+during one application of the channel, but time-dependent with respect to
+multiple applications.

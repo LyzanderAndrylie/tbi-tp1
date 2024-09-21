@@ -1,0 +1,12 @@
+We develop a dynamic multi-agent model of an interbank payment system where
+banks choose their level of available funds on the basis of private payoff
+maximisation. The model consists of the repetition of a simultaneous move stage
+game with incomplete information, incomplete monitoring, and stochastic
+payoffs. Adaptation takes place with bayesian updating, with banks maximizing
+immediate payoffs. We carry out numerical simulations to solve the model and
+investigate two special scenarios: an operational incident and exogenous
+throughput guidelines for payment submission. We find that the demand for
+intraday credit is an S-shaped function of the cost ratio between intraday
+credit costs and the costs associated with delaying payments. We also find that
+the demand for liquidity is increased both under operational incidents and in
+the presence of effective throughput guidelines.

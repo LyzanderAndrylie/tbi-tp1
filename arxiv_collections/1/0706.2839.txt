@@ -1,0 +1,11 @@
+We analyse the average-case cache performance of distribution sorting
+algorithms in the case when keys are independently but not necessarily
+uniformly distributed. The analysis is for both `in-place' and `out-of-place'
+distribution sorting algorithms and is more accurate than the analysis
+presented in \cite{RRESA00}. In particular, this new analysis yields tighter
+upper and lower bounds when the keys are drawn from a uniform distribution.
+  We use this analysis to tune the performance of the integer sorting algorithm
+MSB radix sort when it is used to sort independent uniform floating-point
+numbers (floats). Our tuned MSB radix sort algorithm comfortably outperforms a
+cache-tuned implementations of bucketsort \cite{RR99} and Quicksort when
+sorting uniform floats from $[0, 1)$.

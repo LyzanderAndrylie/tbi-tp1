@@ -1,0 +1,16 @@
+The exponential increase in publication rate of new articles is limiting
+access of researchers to relevant literature. This has prompted the use of text
+mining tools to extract key biological information. Previous studies have
+reported extensive modification of existing generic text processors to process
+biological text. However, this requirement for modification had not been
+examined. In this study, we have constructed Muscorian, using MontyLingua, a
+generic text processor. It uses a two-layered generalization-specialization
+paradigm previously proposed where text was generically processed to a suitable
+intermediate format before domain-specific data extraction techniques are
+applied at the specialization layer. Evaluation using a corpus and experts
+indicated 86-90% precision and approximately 30% recall in extracting
+protein-protein interactions, which was comparable to previous studies using
+either specialized biological text processing tools or modified existing tools.
+Our study had also demonstrated the flexibility of the two-layered
+generalization-specialization paradigm by using the same generalization layer
+for two specialized information extraction tasks.

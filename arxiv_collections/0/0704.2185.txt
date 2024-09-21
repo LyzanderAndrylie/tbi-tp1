@@ -1,0 +1,9 @@
+We study analytical properties of the hard exclusive processes amplitudes. We
+found that QCD factorization for deeply virtual Compton scattering and hard
+exclusive vector meson production results in the subtracted dispersion relation
+with the subtraction constant determined by the Polyakov-Weiss $D$-term. The
+relation of this constant to the fixed pole contribution found by Brodsky,
+Close and Gunion and defined by parton distributions is proved, while its
+manifestation is spoiled by the small $x$ divergence. The continuation to the
+real photons limit is considered and the numerical correspondence between
+lattice simulations of $D$-term and low energy Thomson amplitude is found.

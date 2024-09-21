@@ -1,0 +1,8 @@
+Fialowski and Schlichenmaier constructed examples of global deformations of
+Lie algebras of vector fields from deforming the underlying variety. We
+formulate their approach in a conceptual way. Namely, we construct a stack of
+deformations and a morphism form the moduli stack of stable marked curves. The
+morphism associates to a family of marked curves the family of Lie algebras
+obtained by taking the Lie algebra of vertical vector fields on the family
+where one has extracted the marked points. We show that this morphism is almost
+a monomorphism by Pursell-Shanks theory.

@@ -1,0 +1,14 @@
+We describe the discovery of a massive transiting hot Jupiter with a very
+short orbital period (1.30619 d), which we name TrES-3. From spectroscopy of
+the host star GSC 03089-00929, we measure T_eff = 5720 +- 150 K, logg=4.6 +-
+0.3, and vsini < 2 km/s, and derive a stellar mass of 0.90 +- 0.15 M_sun. We
+estimate a planetary mass of 1.92 +- 0.23 M_Jup, based on the sinusoidal
+variation of our high-precision radial velocity measurements. This variation
+has a period and phase consistent with our transit photometry. Our spectra show
+no evidence of line bisector variations that would indicate a blended eclipsing
+binary star. From detailed modeling of our B and z photometry of the 2.5%-deep
+transits, we determine a stellar radius 0.802 +- 0.046 R_sun and a planetary
+radius 1.295 +- 0.081 R_Jup. TrES-3 has one of the shortest orbital periods of
+the known transiting exoplanets, facilitating studies of orbital decay and mass
+loss due to evaporation, and making it an excellent target for future studies
+of infrared emission and reflected starlight.

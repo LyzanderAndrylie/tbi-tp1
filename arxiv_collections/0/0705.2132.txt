@@ -1,0 +1,11 @@
+We present a new semiclassical method that yields an approximation to the
+quantum mechanical wavefunction at a fixed, predetermined position. In the
+approach, a hierarchy of ODEs are solved along a trajectory with zero velocity.
+The new approximation is local, both literally and from a quantum mechanical
+point of view, in the sense that neighboring trajectories do not communicate
+with each other. The approach is readily extended to imaginary time propagation
+and is particularly useful for the calculation of quantities where only local
+information is required. We present two applications: the calculation of
+tunneling probabilities and the calculation of low energy eigenvalues. In both
+applications we obtain excellent agrement with the exact quantum mechanics,
+with a single trajectory propagation.

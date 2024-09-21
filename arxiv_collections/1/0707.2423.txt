@@ -1,0 +1,7 @@
+We analyze the semiclassical evolution of Gaussian wavepackets in chaotic
+systems. We prove that after some short time a Gaussian wavepacket becomes a
+primitive WKB state. From then on, the state can be propagated using the
+standard TDWKB scheme. Complex trajectories are not necessary to account for
+the long-time propagation. The Wigner function of the evolving state develops
+the structure of a classical filament plus quantum oscillations, with phase and
+amplitude being determined by geometric properties of a classical manifold.

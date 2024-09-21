@@ -1,0 +1,10 @@
+A dynamical mean-field theory is developed to analyze stochastic single-cell
+dynamics of gene expression. By explicitly taking account of nonequilibrium and
+nonadiabatic features of the DNA state fluctuation, two-time correlation
+functions and response functions of single-cell dynamics are derived. The
+method is applied to a self-regulating gene to predict a rich variety of
+dynamical phenomena such as anomalous increase of relaxation time and
+oscillatory decay of correlations. Effective "temperature" defined as the ratio
+of the correlation to the response in the protein number is small when the DNA
+state change is frequent, while it grows large when the DNA state change is
+infrequent, indicating the strong enhancement of noise in the latter case.

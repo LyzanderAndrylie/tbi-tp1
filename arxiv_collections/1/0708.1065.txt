@@ -1,0 +1,6 @@
+We establish a super Frobenius formula for the characters of Iwahori-Hecke
+algebras. We show that the Hall-Littlewood sypersymmetric function, up to
+constant, generates the values of the irreducible characters of Iwahori-Hecke
+algebras at the elements corresponding to cycle permutations. Our formula in
+this article includes both the ordinary quantum case and the classical super
+case.

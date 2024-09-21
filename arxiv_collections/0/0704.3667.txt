@@ -1,0 +1,12 @@
+In this fourth paper of the series, I clarify the somewhat mysterious
+relation between the large class of {\it orientation orbifolds} (with twisted
+open-string CFT's at $\hat c=52$) and {\it orientifolds} (with untwisted open
+strings at $c=26$), both of which have been associated to division by
+world-sheet orientation-reversing automorphisms. In particular -- following a
+spectral clue in the previous paper -- I show that, even as an {\it interacting
+string system}, a certain half-integer-moded orientation orbifold-string system
+is in fact equivalent to the archetypal orientifold. The subtitle of this
+paper, that orientation orbifolds include and generalize standard orientifolds,
+then follows because there are many other orientation orbifold-string systems
+-- with higher fractional modeing -- which are not equivalent to untwisted
+string systems.

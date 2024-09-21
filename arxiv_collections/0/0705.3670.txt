@@ -1,0 +1,7 @@
+We demonstrate that rotating quasi-one-dimensional potentials, periodic or
+parabolic, support solitons in settings where they are otherwise impossible.
+Ground-state and vortex solitons are found in defocusing media, if the rotation
+frequency exceeds a critical value. The revolving periodic potentials exhibit
+the strongest stabilization capacity at a finite optimum value of their
+strength, while the rotating parabolic trap features a very sharp transition to
+stability with the increase of rotation frequency.

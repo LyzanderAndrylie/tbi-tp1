@@ -1,0 +1,8 @@
+We have investigated shot noise in multiterminal, diffusive multiwalled
+carbon nanotubes (MWNTs) at 4.2 K over the frequency f = 600 - 850 MHz.
+Quantitative comparison of our data to semiclassical theory, based on
+non-equilibrium distribution functions, indicates that a major part of the
+noise is caused by a non-equilibrium state imposed by the contacts. Our data
+exhibits non-local shot noise across weakly transmitting contacts while a
+low-impedance contact eliminates such noise almost fully. We obtain F_{tube}<
+0.03 for the intrinsic Fano factor of our MWNTs.

@@ -1,0 +1,15 @@
+We present the analysis of the temperature and metallicity profiles of 12
+galaxy clusters in the redshift range 0.1--0.3 selected from the Chandra
+archive with at least ~20,000 net ACIS counts and kT>6 keV. We divide the
+sample between 7 Cooling-Core (CC) and 5 Non-Cooling-Core (NCC) clusters
+according to their central cooling time. We find that single power-laws can
+describe properly both the temperature and metallicity profiles at radii larger
+than 0.1 r_180 in both CC and NCC systems, showing the NCC objects steeper
+profiles outwards. A significant deviation is only present in the inner 0.1
+r_180. We perform a comparison of our sample with the De Grandi & Molendi
+BeppoSAX sample of local CC and NCC clusters, finding a complete agreement in
+the CC cluster profile and a marginally higher value (at ~1sigma) in the inner
+regions of the NCC clusters. The slope of the power-law describing kT(r) within
+0.1 r_180 correlates strongly with the ratio between the cooling time and the
+age of the Universe at the cluster redshift, being the slope >0 and
+tau_c/tau_age<=0.6 in CC systems.

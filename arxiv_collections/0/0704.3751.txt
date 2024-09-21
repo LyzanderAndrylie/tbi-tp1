@@ -1,0 +1,12 @@
+Theory of magnetic deflagration (avalanches) in crystals of molecular magnets
+has been developed. The phenomenon resembles the burning of a chemical
+substance, with the Zeeman energy playing the role of the chemical energy.
+Non-destructive reversible character of magnetic deflagration, as well as the
+possibility to continuously tune the flammability of the crystal by changing
+the magnetic field, makes molecular magnets an attractive toy system for a
+detailed study of the burning process. Besides simplicity, new features, as
+compared to the chemical burning, include possibility of quantum decay of
+metastable spin states and strong temperature dependence of the heat capacity
+and thermal conductivity. We obtain analytical and numerical solutions for
+criteria of the ignition of magnetic deflagration, and compute the ignition
+rate and the speed of the developed deflagration front.

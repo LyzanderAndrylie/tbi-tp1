@@ -1,0 +1,5 @@
+We propose several exponential inequalities for self-normalized martingales
+similar to those established by De la Pe\~{n}a. The keystone is the
+introduction of a new notion of random variable heavy on left or right.
+Applications associated with linear regressions, autoregressive and branching
+processes are also provided.

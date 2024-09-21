@@ -1,0 +1,9 @@
+In this write-up, we summarize our recent analysis of radiative decays
+involving light scalar mesons. Our analysis using the vector meson dominance
+model at tree level indicates that it may be difficult to distinguish
+$qq\bar{q}\bar{q}$ picture and $q\bar{q}$ picture for the light scalar nonet.
+Our result on the process of $\phi \to \pi^0 \eta \gamma$ shows that the
+derivative-type $f_0 K\bar{K}$ interaction reproduces experimental data below
+950 GeV well, but gives a poor fit above 950 GeV, i.e., in the energy region
+around the mass of $a_0(980)$, but that the discrepancy can be compensated by
+the effect of the $K$ loop.

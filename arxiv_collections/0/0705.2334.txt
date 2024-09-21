@@ -1,0 +1,12 @@
+We consider position measurements using the cross-correlated output of two
+tunnel junction position detectors. Using a fully quantum treatment, we
+calculate the equation of motion for the density matrix of the coupled
+detector-detector-mechanical oscillator system. After discussing the presence
+of a bound on the peak-to-background ratio in a position measurement using a
+single detector, we show how one can use detector cross correlations to
+overcome this bound. We analyze two different possible experimental
+realizations of the cross correlation measurement and show that in both cases
+the maximum cross-correlated output is obtained when using twin detectors and
+applying equal bias to each tunnel junction. Furthermore, we show how the
+double-detector setup can be exploited to drastically reduce the added
+displacement noise of the oscillator.

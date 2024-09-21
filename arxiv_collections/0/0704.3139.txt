@@ -1,0 +1,13 @@
+We report on the measurement of element-specific magnetic resonance spectra
+at gigahertz frequencies using x-ray magnetic circular dichroism (XMCD). We
+investigate the ferrimagnetic precession of Gd and Fe ions in Gd-substituted
+Yttrium Iron Garnet, showing that the resonant field and linewidth of Gd
+precisely coincide with Fe up to the nonlinear regime of parametric
+excitations. The opposite sign of the Gd x-ray magnetic resonance signal with
+respect to Fe is consistent with dynamic antiferromagnetic alignment of the two
+ionic species. Further, we investigate a bilayer metal film,
+Ni$_{80}$Fe$_{20}$(5 nm)/Ni(50 nm), where the coupled resonance modes of Ni and
+Ni$_{80}$Fe$_{20}$ are separately resolved, revealing shifts in the resonance
+fields of individual layers but no mutual driving effects. Energy-dependent
+dynamic XMCD measurements are introduced, combining x-ray absorption and
+magnetic resonance spectroscopies.

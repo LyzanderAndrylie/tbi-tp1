@@ -1,0 +1,7 @@
+Current dynamical overlap fermion hybrid Monte Carlo simulations encounter
+large fermionic forces when there is mixing between near zero-eigenvectors of
+the kernel operator. This leads to low acceptance rates when there is a large
+density of near zero eigenvectors. I present a method where these large forces
+are eliminated and the large action jumps seen when two eigenvectors approach
+zero are significantly reduced. This significantly increases the stability of
+the algorithm, and allows the use of larger integration time steps.

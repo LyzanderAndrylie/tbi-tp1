@@ -1,0 +1,4 @@
+This paper provides a precise asymptotic expansion for the Bergman kernel on
+the non-smooth worm domains of Christer Kiselman in complex 2-space.
+Applications are given to the failure of Condition R, to deviant boundary
+behavior of the kernel, and to L^p mapping properties of the kernel.

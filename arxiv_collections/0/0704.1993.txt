@@ -1,0 +1,11 @@
+We discuss the local and nonlocal dissipation effects on the existence of the
+global phase coherence transitions in two dimensional Josephson-coupled
+junctions. The quantum phase transitions are also examined for various lattice
+geometries: square, triangular and honeycomb. The T=0 superconductor-insulator
+phase transition is analyzed as a function of several control parameters which
+include self-capacitance and junction capacitance and both local and nonlocal
+dissipation effects. We found the critical value of the nonlocal dissipation
+parameter \alpha_{1} depends on a geometry of the lattice. The critical value
+of the normal state conductance seems to be difficult to obtain experimentally
+if we take into consideration different damping mechanisms which are presented
+in real physical systems.

@@ -1,0 +1,15 @@
+In particular cases of stationary and stationary axially symmetric space-time
+passage to non-relativistic limit of Einstein equation is completed. For this
+end the notions of absolute space and absolute time are introduced due to
+stationarity of the space-time under consideration. In this construction
+absolute time is defined as a function $t$ on the space-time such that $\prt_t$
+is exactly the Killing vector and the space at different moments is presented
+by the surfaces $t=\con $. The space-time metric is expressed in terms of
+metric of the 3-space and two potentials one of which is exactly Newtonian
+gravitational potential $\Phi$, another is vector potential $\vec A$ which,
+however, differs from vector potential known in classical electrodynamics. In
+the first-order approximation on $\Phi/c^2$, $|\vec A|/c$ Einstein equation is
+reduced to a system for these functions in which left-hand sides contain
+Laplacian of the Newtonian potential, derivatives of the vector potential and
+curvature of the space and the right-hand sides do 3-dimensional stress tensor
+and densities of mass and energy. Subj-class: Classical Physics

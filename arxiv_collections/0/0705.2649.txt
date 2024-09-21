@@ -1,0 +1,11 @@
+We establish a Poincar\'e-Dulac theorem for sequences (G_n)_n of holomorphic
+contractions whose differentials d_0 G_n split regularly. The resonant
+relations determining the normal forms hold on the moduli of the exponential
+rates of contraction. Our results are actually stated in the framework of
+bundle maps.
+  Such sequences of holomorphic contractions appear naturally as iterated
+inverse branches of endomorphisms of CP(k). In this context, our normalization
+result allows to precisely estimate the distortions of ellipsoids along typical
+orbits. As an application, we show how the Lyapunov exponents of the
+equilibrium measure are approximated in terms of the multipliers of the
+repulsive cycles.

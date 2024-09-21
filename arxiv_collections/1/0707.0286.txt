@@ -1,0 +1,5 @@
+Let $I_R(G)$ denote the augmentation ideal of the group algebra $R(G)$ of a
+group $G$ with coefficients in a commutative ring $R$. We give a complete
+description of the third relative dimension subgroup
+$G\cap(1+I_R(K)I_R(G)+I^3_R(G))$ and the second relative Fox subgroup
+$G\cap(1+I_R(K)I_R(H)+I^2_R(G)I_R(H))$ for any subgroups $K$ and $H$ of $G$.

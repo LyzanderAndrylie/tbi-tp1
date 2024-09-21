@@ -1,0 +1,6 @@
+We prove that various subgroups of the mapping class group $Mod(\Sigma)$ of a
+surface $\Sigma$ are at least exponentially distorted. Examples include the
+Torelli group (answering a question of Hamenstadt), the "point-pushing" and
+surface braid subgroups, and the Lagrangian subgroup. Our techniques include a
+method to compute lower bounds on distortion via representation theory and an
+extension of Johnson theory to arbitrary subgroups of $H_1(\Sigma;\mathbb{Z})$.

@@ -1,0 +1,13 @@
+Let G be a reductive group acting on an affine variety X, let x in X be a
+point whose G-orbit is not closed, and let S be a G-stable closed subvariety of
+X which meets the closure of the G-orbit of x but does not contain x. In this
+paper, we study G.R. Kempf's optimal class Omega_G(x,S) of cocharacters of G
+attached to the point x; in particular, we consider how this optimality
+transfers to subgroups of G.
+  Suppose K is a G-completely reducible subgroup of G which fixes x, and let H
+= C_G(K)^0. Our main result says that the H-orbit of x is also not closed, and
+the optimal class Omega_H(x,S) for H simply consists of the cocharacters in
+Omega_G(x,S) which evaluate in H. We apply this result in the case that G acts
+on its Lie algebra via the adjoint representation to obtain some new
+information about cocharacters associated with nilpotent elements in good
+characteristic.

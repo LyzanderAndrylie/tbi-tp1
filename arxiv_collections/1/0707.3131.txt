@@ -1,0 +1,9 @@
+We present a detailed analysis of the dynamics of Bloch oscillations of
+Bose-Einstein condensates in disordered lattice potentials. Due to the disorder
+and the interparticle interactions these oscillations undergo a dephasing,
+reflected in a damping of the center of mass oscillations, which should be
+observable under realistic experimental conditions. The interplay between
+interactions and disorder is far from trivial, ranging from an
+interaction-enhanced damping due to modulational instability for strong
+interactions, to an interaction-reduced damping due to a dynamical screening of
+the disorder potential.

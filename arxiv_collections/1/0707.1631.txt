@@ -1,0 +1,15 @@
+We report spin-dependent quantum coherent oscillations (ringing) and beats of
+the total and spin currents flowing through a quantum dot with Zeeman split
+levels. The spin dependent transport is calculated via nonequilibrium Green
+function in the transient after a bias voltage is turned on at t=0. The dot is
+coupled to two electrodes that can be ferromagnetic or nonmagnetic. In the
+ferromagnetic case both parallel and antiparallel alignments are considered.
+The coherent oscillation and beat frequencies are controlled via the Zeeman
+energy E_Z. In particular, for E_Z=0 no beats are observed and the spin current
+is zero for nonmagnetic leads. In the ferromagnetic case a finite spin current
+is found for E_Z=0. The effects of temperature are also analyzed. We observe
+that with increasing temperature the ringing response and the beats tend to
+disappear. Additionally, the spin current goes to zero for nonmagnetic leads,
+remaining finite in the ferromagnetic case. The tunnel magnetoresistance (TMR)
+also reveals quantum coherent oscillations and beats, and it attains negative
+values for small enough temperatures and short times.

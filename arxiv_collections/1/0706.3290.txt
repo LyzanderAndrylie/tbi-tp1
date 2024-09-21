@@ -1,0 +1,13 @@
+The aim of this paper is to introduce a new technique for calculation of
+observables, in particular multiplicity distributions, in various statistical
+ensembles at finite volume. The method is based on Fourier analysis of the
+grand canonical partition function. Taylor expansion of the generating function
+is used to separate contributions to the partition function in their power in
+volume. We employ Laplace's asymptotic expansion to show that any equilibrium
+distribution of multiplicity, charge, energy, etc. tends to a multivariate
+normal distribution in the thermodynamic limit. Gram-Charlier expansion allows
+additionally for calculation of finite volume corrections. Analytical formulas
+are presented for inclusion of resonance decay and finite acceptance effects
+directly into the system partition function. This paper consolidates and
+extends previously published results of current investigation into properties
+of statistical ensembles.

@@ -1,0 +1,11 @@
+Using the hierarchy picture of the fractional quantum Hall effect, we study
+the the ground state periodicity of a finite size quantum Hall droplet in a
+quantum Hall fluid of a different filling factor. The droplet edge charge is
+periodically modulated with flux through the droplet and will lead to a
+periodic variation in the conductance of a nearby point contact, such as occurs
+in some quantum Hall interferometers. Our model is consistent with experiment
+and predicts that superperiods can be observed in geometries where no
+interfering trajectories occur. The model may also provide an experimentally
+feasible method of detecting elusive neutral modes and otherwise obtaining
+information about the microscopic edge structure in fractional quantum Hall
+states.

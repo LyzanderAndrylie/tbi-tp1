@@ -1,0 +1,15 @@
+It is becoming common to hear teaching advice about spending more time on the
+"physics of the problem" so that students will get more physical insight and
+develop a stronger intuition that can be very helpful when thinking about
+physics problems. Based on this type of justification, mathematical skills such
+as the ability to compute moments of inertia, center of mass, or gravitational
+fields from mass distributions, and electrical fields from charge distributions
+are considered "distracting mathematics" and therefore receive less attention.
+We argue a) that this approach can have a negative influence on student
+reasoning when dealing with questions of rotational dynamics, a highly
+non-intuitive subject where even instructors may fail to provide correct
+answers, and b) that exposure of students to mathematical reasoning and to a
+wide range of computational techniques to obtain the moment of inertia of
+different mass distributions will make students more comfortable with the
+subject of rotational dynamics, thus improving their physical insight on the
+topic.

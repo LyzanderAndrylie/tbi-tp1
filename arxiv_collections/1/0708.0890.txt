@@ -1,0 +1,8 @@
+We present an imperative quantum programming language LanQ which was designed
+to support combination of quantum and classical programming and basic process
+operations - process creation and interprocess communication. The language can
+thus be used for implementing both classical and quantum algorithms and
+protocols. Its syntax is similar to that of C language what makes it easy to
+learn for existing programmers. In this paper, we present operational semantics
+of the language and a proof of type soundness of the noncommunicating part of
+the language. We provide an example run of a quantum random number generator.

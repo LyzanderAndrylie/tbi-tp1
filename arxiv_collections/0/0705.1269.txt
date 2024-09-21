@@ -1,0 +1,7 @@
+We present an extension to the Poisson-Boltzmann model where the dipolar
+features of solvent molecules are taken explicitly into account. The
+formulation is derived at mean-field level and can be extended to any order in
+a systematic expansion. It is applied to a two-plate system with oppositely
+charged surfaces. The ion distribution and profiles in the dipolar order
+parameter are calculated and can result in a large correction to the
+inter-plate pressure.

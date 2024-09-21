@@ -1,0 +1,24 @@
+We investigate the braneworld model with induced gravity to clarify the role
+of the cross-over length scale \ell in the possible explanation of the
+dark-matter phenomenon in astrophysics and in cosmology. Observations of the 21
+cm line from neutral hydrogen clouds in spiral galaxies reveal that the
+rotational velocities remain nearly constant at a value v_c ~ 10^{-3}--10^{-4}
+in the units of the speed of light in the region of the galactic halo. Using
+the smallness of v_c, we develop a perturbative scheme for reconstructing the
+metric in a galactic halo. In the leading order of expansion in v_c, at the
+distances r \gtrsim v_c \ell, our result reproduces that obtained in the
+Randall-Sundrum braneworld model. This inequality is satisfied in a real spiral
+galaxy such as our Milky Way for distances r ~ 3 kpc, at which the rotational
+velocity curve becomes flat, v_c ~ 7 \times 10^{-4}, if \ell \lesssim 2 Mpc.
+The gravitational situation in this case can be approximately described by the
+Einstein equations with the so-called Weyl fluid playing the role of dark
+matter. In the region near the gravitating body, we derive a closed system of
+equations for static spherically symmetric situation under the approximation of
+zero anisotropic stress of the Weyl fluid. We find the Schwarzschild metric to
+be an approximate vacuum solution of these equations at distances r \lesssim
+(r_g \ell^2)^{1/3}. The value \ell \lesssim 2 Mpc complies well with the
+solar-system tests. At the same time, in cosmology, a low-density braneworld
+with \ell of this order of magnitude can mimic the expansion properties of the
+high-density LCDM (lambda + cold dark matter) universe at late times. Combined
+observations of galactic rotation curves and gravitational lensing can possibly
+discriminate between the higher-dimensional effects and dark matter.

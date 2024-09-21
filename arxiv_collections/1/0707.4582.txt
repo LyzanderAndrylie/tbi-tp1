@@ -1,0 +1,10 @@
+We study the effects of localization on the Hall transport in a granular
+system at large tunneling conductance $g_{T}\gg 1$ corresponding to the
+metallic regime. We show that the first-order in 1/g_T weak localization
+correction to Hall resistivity of a two- or three-dimensional granular array
+vanishes identically, $\de \rho_{xy}^{WL}=0$. This result is in agreement with
+the one for ordinary disordered metals. Being due to an exact cancellation, our
+result holds for arbitrary relevant values of temperature T and magnetic field
+H, both in the ``homogeneous'' regime of very low T and H corresponding to
+ordinary disordered metals and in the ``structure-dependent'' regime of higher
+values of T or H.

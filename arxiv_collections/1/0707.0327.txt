@@ -1,0 +1,14 @@
+Quantum computing using two optical coherent states as qubit basis states has
+been suggested as an interesting alternative to single photon optical quantum
+computing with lower physical resource overheads. These proposals have been
+questioned as a practical way of performing quantum computing in the short term
+due to the requirement of generating fragile diagonal states with large
+coherent amplitudes. Here we show that by using a fault-tolerant error
+correction scheme, one need only use relatively small coherent state amplitudes
+($\alpha > 1.2$) to achieve universal quantum computing. We study the effects
+of small coherent state amplitude and photon loss on fault tolerance within the
+error correction scheme using a Monte Carlo simulation and show the quantity of
+resources used for the first level of encoding is orders of magnitude lower
+than the best known single photon scheme. %We study this reigem using a Monte
+Carlo simulation and incorporate %the effects of photon loss in this
+simulation.

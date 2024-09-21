@@ -1,0 +1,9 @@
+We describe a recursive algorithm that produces an integral basis for the
+centre of the Hecke algebra of type A consisting of linear combinations of
+monomial symmetric polynomials of Jucys--Murphy elements. We also discuss the
+existence of integral bases for the centre of the Hecke algebra that consist
+solely of monomial symmetric polynomials of Jucys--Murphy elements. Finally,
+for n=3, we show that only one such basis exists for the centre of the Hecke
+algebra, by proving that there are exactly four bases for the centre of the
+corresponding symmetric group algebra which consist solely of monomial
+symmetric polynomials of Jucys--Murphy elements.

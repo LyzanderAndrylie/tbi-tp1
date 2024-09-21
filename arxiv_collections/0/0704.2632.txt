@@ -1,0 +1,11 @@
+We perform molecular dynamics simulation of water using the TIP5P model to
+quantify structural order in both the first shell (defined by four nearest
+neighbors)and second shell (defined by twelve next-nearest neighbors) of a
+central water molecule. We find the anomalous decrease of orientational order
+upon compression occurs in both shells, but the anomalous decrease of
+translational order upon compression occurs {\it mainly in the second shell}.
+The decreases of translational and orientational orders upon compression
+("structural anomaly") are thus correlated only in the second shell. Our
+findings quantitatively confirm the qualitative idea that the thermodynamic,
+dynamic and structural anomalies of water are related to changes in the second
+shell upon compression.

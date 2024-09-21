@@ -1,0 +1,11 @@
+Measurement of the transmitted intensity from a coherent monomode light
+source through a series of subwavelength slit arrays in Ag films, with varying
+array pitch and number of slits, demonstrate enhancement (suppression) by as
+much as a factor of 6 (9) when normalized to that of an isolated slit.
+Pronounced minima in the transmitted intensity were observed at array pitches
+corresponding to lambda_SPP, 2lambda_SPP, and 3lambda_SPP where lambda_SPP is
+the wavelength of the surface plasmon polariton (SPP). Increasing the number of
+slits to more than four does not increase appreciably the per-slit transmission
+intensity. These results are consistent with a model for interference between
+SPPs and the incident wave that fits well the measured transmitted intensity
+profile.

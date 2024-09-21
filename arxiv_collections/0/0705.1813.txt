@@ -1,0 +1,6 @@
+For a simple model we derive analytic expressions of entropy exchange and
+coherent information, from which relations between them and the concurrence are
+drawn. We find that in the quantum evolution the entropy exchange exhibits
+behavior \textsl{opposite} to that of the concurrence, whereas the coherent
+information shows features very similar to those of the concurrence. The
+meaning of this result for general systems is discussed.

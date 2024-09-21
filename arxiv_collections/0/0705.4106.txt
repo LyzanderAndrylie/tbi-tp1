@@ -1,0 +1,11 @@
+Using spin-polarized low-energy electron microscopy to study magnetization in
+epitaxial layered systems, we found that the area vs perimeter relationship of
+magnetic domains in the top Fe layers of Fe/NiO/Fe(100) structures follows a
+power-law distribution, with very small magnetic domain cutoff radius (about 40
+nm) and domain wall thickness. This unusual magnetic microstructure can be
+understood as resulting from the competition between antiferromagnetic and
+ferromagnetic exchange interactions at the Fe/NiO interfaces, rather than from
+mechanisms involving the anisotropy and dipolar forces that govern length
+scales in conventional magnetic domain structures. Statistical analysis of our
+measurements validates a micromagnetic model that accounts for this interfacial
+exchange coupling.

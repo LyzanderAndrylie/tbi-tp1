@@ -1,0 +1,6 @@
+We derive sufficient conditions for infinite-dimensional systems whose
+entanglement is not completely lost in a finite time during its decoherence by
+a passive interaction with local vacuum environments. The sufficient conditions
+allow us to clarify a class of bipartite entangled states which preserve their
+entanglement or, in other words, are tolerant against decoherence in a vacuum.
+We also discuss such a class for entangled qubits.

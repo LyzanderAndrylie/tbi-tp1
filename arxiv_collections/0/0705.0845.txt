@@ -1,0 +1,9 @@
+Quantum relativity as a generalized, or rather deformed, version of Einstein
+relativity with a linear realization on a classical six-geometry beyond the
+familiar setting of space-time offer a new framework to think about the quantum
+space-time structure. The formulation requires two deformations to be
+implemented through imposing two fundamental invariants. We take them to be the
+independent Planck mass and Planck length. Together, they gives the quantum
+$\hbar$. The scheme leads to {\small \boldmath\protect SO(2,4)} as the
+relativity symmetry. The quantum world has an AdS$_5$ `classical' geometry,
+which is parallel to the "conformal universe", but not scale invariant.

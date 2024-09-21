@@ -1,0 +1,11 @@
+In hole-doped high-Tc superconductors, thermal conductivity increases
+drastically just below Tc, which has been considered as a hallmark of a nodal
+gap. In contrast, such a coherence peak in thermal conductivity is not visible
+in electron-doped compounds, which may indicate a full-gap state such as a
+(d+is)-wave state. To settle this problem, we study the thermal conductivity in
+the Hubbard model using the fluctuation-exchange (FLEX) approximation, which
+predicts that the nodal d-wave state is realized in both hole-doped and
+electron-doped compounds. The contrasting behavior of thermal conductivity in
+both compounds originates from the differences in the hot/cold spot structure.
+In general, a prominent coherence peak in thermal conductivity appears in
+line-node superconductors only when the cold spot exists on the nodal line.

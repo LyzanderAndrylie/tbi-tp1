@@ -1,0 +1,11 @@
+A Hydrogen atom immersed in a finite jellium sphere is solved using
+variational quantum Monte Carlo (VQMC). The same system is also solved using
+density functional theory (DFT), in both the local spin density (LSDA) and
+self-interaction correction (SIC) approximations. The immersion energies
+calculated using these methods, as functions of the background density of the
+jellium, are found to lie within 1eV of each other with minima in approximately
+the same positions. The DFT results show overbinding relative to the VQMC
+result. The immersion energies also suggest an improved performance of the SIC
+over the LSDA relative to the VQMC results. The atom-induced density is also
+calculated and shows a difference between the methods, with a more extended
+Friedel oscillation in the case of the VQMC result.

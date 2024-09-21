@@ -1,0 +1,11 @@
+We consider wave packet propagation in a quantum wire with either an embedded
+antidot or an embedded parallel double open quantum dot under the influence of
+a uniform magnetic field. The magnetoconductance and the time evolution of an
+electron wave packet are calculated based on the Lippmann-Schwinger formalism.
+This approach allows us to look at arbitrary embedded potential profiles and
+illustrate the results by performing computational simulations for the
+conductance and the time evolution of the electron wave packet through the
+quantum wire. In the double-dot system we observe a long-lived resonance state
+that enhances the spatial spreading of the wave packet, and quantum
+skipping-like trajectories are induced when the envelop function of the wave
+packet covers several subbands in appropriate magnetic fields.

@@ -1,0 +1,16 @@
+In 2001, the author proposed the ultra second quantization method. The ultra
+second quantization of the Schr\"odinger equation, as well as its ordinary
+second quantization, is a representation of the N-particle Schr\"odinger
+equation, and this means that basically the ultra second quantization of the
+equation is the same as the original N-particle equation: they coincide in
+3N-dimensional space.
+  We consider a short action pairwise potential V(x_i -x_j). This means that as
+the number of particles tends to infinity, $N\to\infty$, interaction is
+possible for only a finite number of particles. Therefore, the potential
+depends on N in the following way: $V_N=V((x_i-x_j)N^{1/3})$. If V(y) is finite
+with support $\Omega_V$, then as $N\to\infty$ the support engulfs a finite
+number of particles, and this number does not depend on N.
+  As a result, it turns out that the superfluidity occurs for velocities less
+than $\min(\lambda_{\text{crit}}, \frac{h}{2mR})$, where
+$\lambda_{\text{crit}}$ is the critical Landau velocity and R is the radius of
+the nanotube.

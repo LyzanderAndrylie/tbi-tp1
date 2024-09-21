@@ -1,0 +1,17 @@
+Following a recent conjecture by Lapan, Simons and Strominger, we revisit and
+discuss an intrinsically heterotic class of conformal field theories,
+emphasizing their Lagrangian construction as asymmetrically gauged WZW models,
+which may be useful in several applications to the study of supersymmetric
+strings and black holes in heterotic and type II string theory compactified on
+T^6 and K3 X T^2 respectively. In these cases, the leading supergravity
+geometry is singular, but higher order corrections remove this singularity in a
+way that is consistent with, for example the non-zero entropy for the black
+holes that these strings form after wrapping on an additional circle. The
+conformal field theories have the right structure to capture the features of
+the supergravity analysis, and possess precisely the microscopic target spaces
+required. We describe in detail the model with AdS_3 X S^2 geometry, which is
+conjectured by Lapan et. al. to represent a fundamental heterotic string in
+five dimensions, and then propose conformal field theories which are potential
+candidates for the microscopic geometry of heterotic strings in $D$ dimensions,
+with target space AdS_3 X S^{D-3}. We also discuss some conformal field
+theories that give microscopic AdS target spaces in various dimensions.

@@ -1,0 +1,10 @@
+Time-delayed feedback methods can be used to control unstable periodic orbits
+as well as unstable steady states. We present an application of extended time
+delay autosynchronization introduced by Socolar et al. to an unstable focus.
+This system represents a generic model of an unstable steady state which can be
+found for instance in a Hopf bifurcation. In addition to the original
+controller design, we investigate effects of control loop latency and a
+bandpass filter on the domain of control. Furthermore, we consider coupling of
+the control force to the system via a rotational coupling matrix parametrized
+by a variable phase. We present an analysis of the domain of control and
+support our results by numerical calculations.

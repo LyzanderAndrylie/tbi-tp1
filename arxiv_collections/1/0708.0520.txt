@@ -1,0 +1,5 @@
+We show that the Euler system is not exactly controllable by a
+finite-dimensional external force. The proof is based on the comparison of the
+Kolmogorov epsilon-entropy for Holder spaces and for the class of functions
+that can be obtained by solving the 2D Euler equations with various right-hand
+sides.

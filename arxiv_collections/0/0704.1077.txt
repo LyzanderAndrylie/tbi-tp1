@@ -1,0 +1,7 @@
+We introduce a new type of local and microlocal asymptotic analysis in
+algebras of generalized functions, based on the presheaf properties of those
+algebras and on the properties of their elements with respect to a regularizing
+parameter. Contrary to the more classical frequential analysis based on the
+Fourier transform, we can describe a singular asymptotic spectrum which has
+good properties with respect to nonlinear operations. In this spirit we give
+several examples of propagation of singularities through nonlinear operators.

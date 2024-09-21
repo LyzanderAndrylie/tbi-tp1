@@ -1,0 +1,7 @@
+We measure a sequence of quantum Hall-like plateaux at 1/q: 9 >= q >= 2 and
+p/q = 2/9 fractions in the magnetisation with increasing magnetic field in the
+geometrically frustrated spin system SrCu2(BO3)2. We find that the entire
+observed sequence of plateaux is reproduced by solving the Hofstadter problem
+on the system lattice when short-range repulsive interactions are included,
+thus providing a sterling demonstration of bosons confined by a magnetic and
+lattice potential mimicking fermions in the extreme quantum limit.

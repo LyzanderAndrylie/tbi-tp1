@@ -1,0 +1,6 @@
+The aim of this paper is to construct natural geometrical objects on the
+1-jet space J^1(T,R^5), where $T/subset R$, like a non-linear connection, a
+generalized Cartan connection, together with its d-torsions and d-curvatures, a
+jet electromagnetic d-field and a jet Yang-Mills energy, starting from the
+given Lorenz atmospheric DEs system and the pair of Euclidian metrics $/Delta =
+(1,/delta_{ij})$ on $T/times R^5$.

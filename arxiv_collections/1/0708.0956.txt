@@ -1,0 +1,10 @@
+We address quantum estimation in situations where one has at disposal data
+from the measurement of an incomplete set of observables and some a priori
+information on the state itself. By expressing the a priori information in
+terms of a bias toward a given state the problem may be faced by minimizing the
+quantum relative entropy (Kullback entropy) with the constraint of reproducing
+the data. We exploit the resulting minimum Kullback entropy principle for the
+estimation of a quantum state from the measurement of a single observable,
+either from the sole mean value or from the complete probability distribution,
+and apply it as a tool for the estimation of weak Hamiltonian processes. Qubit
+and harmonic oscillator systems are analyzed in some details.

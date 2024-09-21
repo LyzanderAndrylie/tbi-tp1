@@ -1,0 +1,9 @@
+The laws of thermodynamics provide a clear concept of the temperature for an
+equilibrium system in the continuum limit. Meanwhile, the equipartition theorem
+allows one to make a connection between the ensemble average of the kinetic
+energy and the uniform temperature. When a system or its environment is far
+from equilibrium, however, such an association does not necessarily apply. In
+small systems, the regression hypothesis may not even apply. Herein, we show
+that in small nonequilibrium systems, the regression hypothesis still holds
+though with a generalized definition of the temperature. The latter must now be
+defined for each such manifestation.

@@ -1,0 +1,7 @@
+We present a study of the results obtained combining LO partonic matrix
+elements with different orders of partons distributions. These are compared to
+the best prediction using NLO for both matrix elements and parton
+distributions. The aim is to determine which parton distributions are most
+appropriate to use in those cases where only LO matrix elements are available,
+e.g. as in many Monte Carlo generators. Both LO and NLO parton distributions
+have faults so a modified optimal LO set is suggested.

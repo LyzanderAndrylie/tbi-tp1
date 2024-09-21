@@ -1,0 +1,15 @@
+The continuation of the Liouville conformal field theory to c<=1 is
+considered. The viability of an interpretation involving a timelike boson which
+is the conformal factor for two-dimensional asymptotically de Sitter geometries
+is examined. The conformal bootstrap leads to a three-point function with a
+unique analytic factor which is the same as that which appears along with the
+fusion coefficients in the minimal models. A corresponding non-analytic factor
+produces a well-defined metric on fields only when the central charge is
+restricted to those of the topological minimal models, and when the conformal
+dimensions satisfy h>(c-1)/24. However, the theories considered here have a
+continuous spectrum which excludes the degenerate representations appearing in
+the minimal models. The c=1 theory has been investigated previously using
+similar techniques, and is identical to a non-rational CFT which arises as a
+limit of unitary minimal models. When coupled to unitary matter fields, the
+non-unitary theories with c<=-2 produce string amplitudes which are similar to
+those of the minimal string.

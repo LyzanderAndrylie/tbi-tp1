@@ -1,0 +1,10 @@
+A general relation between quantum phase transitions and the second
+derivative of the fidelity (or the "fidelity susceptibility") is proposed. The
+validity and the limitation of the fidelity susceptibility in characterizing
+quantum phase transitions is thus established. Moreover, based on the
+bosonization method, general formulas of the fidelity and the fidelity
+susceptibility are obtained for a class of one-dimensional gapless systems
+known as the Tomonaga-Luttinger liquid. Applying these formulas to the
+one-dimensional spin-1/2 $XXZ$ model, we find that quantum phase transitions,
+even of the Beresinskii-Kosterlitz-Thouless type, can be signaled by the
+fidelity susceptibility.

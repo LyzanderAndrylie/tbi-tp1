@@ -1,0 +1,5 @@
+The possible coexistence of one host, one aggressive parasite and one
+non-lethal parasite is simulated using the Penna model of biological ageing. If
+the aggressive parasites survive the difficult initial times where they have to
+adjust genetically to the proper host age, all three species may survive,
+though the host number may be diminished by increasing parasite aggressivity.

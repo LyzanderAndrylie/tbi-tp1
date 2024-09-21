@@ -1,0 +1,15 @@
+We introduce a novel method for calculating the size of the critical nucleus
+and the value of the surface tension in systems with first order phase
+transition. The method is based on classical nucleation theory, and it consists
+in studying the thermodynamics of a sphere of given radius embedded in a frozen
+metastable surrounding. The frozen configuration creates a pinning field on the
+surface of the free sphere. The pinning field forces the sphere to stay in the
+metastable phase as long as its size is smaller than the critical nucleus. We
+test our method in two first-order systems, both on a two-dimensional lattice:
+a system where the parameter tuning the transition is the magnetic field, and a
+second system where the tuning parameter is the temperature. In both cases the
+results are satisfying. Unlike previous techniques, our method does not require
+an infinite volume limit to compute the surface tension, and it therefore gives
+reliable estimates even by using relatively small systems. However, our method
+cannot be used at, or close to, the critical point, i.e. at coexistence, where
+the critical nucleus becomes infinitely large.

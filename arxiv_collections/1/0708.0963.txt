@@ -1,0 +1,6 @@
+We present a search for B decays to a charged scalar meson a0+ and a pi0
+where the a0+ decays to an eta meson and a pi+. The analysis was performed on a
+data sample consisting of 383x10-6 BBbar pairs collected with the Babar
+detector at the PEP-II asymmetric-energy B Factory at SLAC. We find no
+significant signal and set an upper limit on the product branching fraction
+BF[(B+ -> a0+ pi0) x (a0+ -> eta pi+)] of 1.4x10-6 at the 90% confidence level.

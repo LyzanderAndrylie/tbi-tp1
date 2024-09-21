@@ -1,0 +1,16 @@
+In their paper [Opt. Mater. 24, 333, 2003], Feldman et al conducted an
+experimental study of the dynamics of chromium ion valence transformations in
+Cr,Ca:YAG crystals among the trivalent Cr3+ state, and two tetravalent Cr4+
+ones, of octahedral and tetrahedral coordination. The temperatures used ranged
+between ~800 and 1,000 C. The basic effects are the transition of Cr3+ into
+Cr4+ under high-temperature annealing in an oxidizing atmosphere, and the
+reverse transition under a reducing atmosphere, or in vacuum. In the present
+theory, we interpret the processes by oxygen-vacancy diffusion in the bulk of
+the YAG. The quasi-chemical reaction VO2- + Cr4+ = Cr3+/VO- between the
+chromium ions and the vacancies VO2- is responsible for the valence
+transformations. Dynamical analysis provides profiles of the Cr3+ and Cr4+
+concentrations in the crystal during oxidation and during reduction. Reaction
+rate profiles are also calculated, establishing the reaction front position and
+width. A comparison with existing experimental results on the integrated Cr4+
+concentration as a function of time during oxidation [Opt. Mater. 24, 333,
+2003] shows reasonable agreement.

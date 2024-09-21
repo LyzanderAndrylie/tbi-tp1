@@ -1,0 +1,8 @@
+Numerical aspects are investigated in ultra-large-scale electronic structure
+calculation. Accuracy control methods in process (molecular-dynamics)
+calculation are focused. Flexible control methods are proposed so as to control
+variational freedoms, automatically at each time step, within the framework of
+generalized Wannier state theory. The method is demonstrated in silicon
+cleavage simulation with 10^2-10^5 atoms. The idea is of general importance
+among process calculations and is also used in Krylov subspace theory, another
+large-scale-calculation theory.

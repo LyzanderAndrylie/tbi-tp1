@@ -1,0 +1,4 @@
+We provide a characterization of $J$-class and $J^{mix}$-class unilateral
+weighted shifts on $l^{\infty}(\mathbb{N})$ in terms of their weight sequences.
+In contrast to the previously mentioned result we show that a bilateral
+weighted shift on $l^{\infty}(\mathbb{Z})$ cannot be a $J$-class operator.

@@ -1,0 +1,10 @@
+It is known that exact traveling wave solutions exist for families of
+(n+1)-states stochastic one-dimensional non-equilibrium lattice models with
+open boundaries provided that some constraints on the reaction rates are
+fulfilled. These solutions describe the diffusive motion of a product shock or
+a domain wall with the dynamics of a simple biased random walker. The steady
+state of these systems can be written in terms of linear superposition of such
+shocks or domain walls. These steady states can also be expressed in a matrix
+product form. We show that in this case the associated quadratic algebra of the
+system has always a two-dimensional representation with a generic structure. A
+couple of examples for n=1 and n=2 cases are presented.

@@ -1,0 +1,6 @@
+We present a numerical simulation of the Gross-Neveu model on the lattice
+using a new representation in terms of fermion loops. In the loop
+representation all signs due to Pauli statistics are eliminated completely and
+the partition function is a sum over closed loops with only positive weights.
+We demonstrate that the new formulation allows to simulate volumes which are
+two orders of magnitude larger than those accessible with standard methods.

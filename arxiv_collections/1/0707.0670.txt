@@ -1,0 +1,13 @@
+The physics of the state at even denominator fractional fillings of Landau
+levels depends on the Coulomb pseudopotentials, and produces, in different GaAs
+Landau levels, a composite fermion Fermi sea, a stripe phase, or, possibly, a
+paired composite fermion state. We consider here even denominator fractions in
+graphene, which has different pseudopotentials as well as a possible four fold
+degeneracy of each Landau level. We test various composite fermion Fermi sea
+wave functions (fully polarized, SU(2) singlet, SU(4) singlet) as well as the
+paired composite fermion states in the n=0 and $n=1$ Landau levels and predict
+that (i) the paired states are not favorable, (ii) CF Fermi seas occur in both
+Landau levels, and (iii) an SU(4) singlet composite fermion Fermi sea is
+stabilized in the appropriate limit. The results from detailed microscopic
+calculations are generally consistent with the predictions of the mean field
+model of composite fermions.

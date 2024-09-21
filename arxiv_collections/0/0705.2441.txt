@@ -1,0 +1,10 @@
+The aim of this paper is to give a constructive proof of one of the basic
+theorems of tropical geometry: given a point on a tropical variety (defined
+using initial ideals), there exists a Puiseux-valued ``lift'' of this point in
+the algebraic variety. This theorem is so fundamental because it justifies why
+a tropical variety (defined combinatorially using initial ideals) carries
+information about algebraic varieties: it is the image of an algebraic variety
+over the Puiseux series under the valuation map. We have implemented the
+``lifting algorithm'' using Singular and Gfan if the base field are the
+rational numbers. As a byproduct we get an algorithm to compute the Puiseux
+expansion of a space curve singularity in (K^{n+1},0).

@@ -1,0 +1,9 @@
+We consider the transverse Ising model in one dimension with
+nearest-neighbour interaction and calculate exactly the longitudinal spin-spin
+correlation for a class of excited states. These states are known to play an
+important role in the perturbative treatment of one-dimensional transverse
+Ising model with frustrated second-neighbour interaction. To calculate the
+correlation, we follow the earlier procedure of Wu, use Szego's theorem and
+also use Fisher-Hartwig conjecture. The result is that the correlation decays
+algebraically with distance ($n$) as $1/\surd n$ and is oscillatory or
+non-oscillatory depending on the magnitude of the transverse field.

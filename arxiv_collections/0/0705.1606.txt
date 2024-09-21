@@ -1,0 +1,10 @@
+The self-propelled motion of microscopic bodies immersed in a fluid medium is
+studied using molecular dynamics simulation. The advantage of the atomistic
+approach is that the detailed level of description allows complete freedom in
+specifying the swimmer design and its coupling with the surrounding fluid. A
+series of two-dimensional swimming bodies employing a variety of propulsion
+mechanisms -- motivated by biological and microrobotic designs -- is
+investigated, including the use of moving limbs, changing body shapes and fluid
+jets. The swimming efficiency and the nature of the induced, time-dependent
+flow fields are found to differ widely among body designs and propulsion
+mechanisms.

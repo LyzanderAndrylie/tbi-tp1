@@ -1,0 +1,15 @@
+We compute the stationary in-degree probability, $P_{in}(k)$, for a growing
+network model with directed edges and arbitrary out-degree probability. In
+particular, under preferential linking, we find that if the nodes have a light
+tail (finite variance) out-degree distribution, then the corresponding
+in-degree one behaves as $k^{-3}$. Moreover, for an out-degree distribution
+with a scale invariant tail, $P_{out}(k)\sim k^{-\alpha}$, the corresponding
+in-degree distribution has exactly the same asymptotic behavior only if
+$2<\alpha<3$ (infinite variance). Similar results are obtained when
+attractiveness is included. We also present some results on descriptive
+statistics measures %descriptive statistics such as the correlation between the
+number of in-going links, $D_{in}$, and outgoing links, $D_{out}$, and the
+conditional expectation of $D_{in}$ given $D_{out}$, and we calculate these
+measures for the WWW network. Finally, we present an application to the
+scientific publications network. The results presented here can explain the
+tail behavior of in/out-degree distribution observed in many real networks.

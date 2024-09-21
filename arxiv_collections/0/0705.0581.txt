@@ -1,0 +1,19 @@
+Single-particle excitation spectra of the two-dimensional Hubbard model on
+the square lattice near half filling and at zero temperature are investigated
+on the basis of the self-consistent projection operator method. The method
+guarantees a high accuracy of the spectra with high energy and high momentum
+resolutions. It takes into account long-range intersite correlations as well as
+the strong on-site correlations. Effects of nonlocal excitations are clarified
+by comparing the results with those of the single-site approximation. The
+calculated spectra verify the quantum Monte-Carlo results for finite
+temperatures. The spectra at the Fermi level yield a hole-like Fermi surface in
+the underdoped region and an electron-like Fermi surface in the overdoped
+region. From a numerical analysis of the momentum dependent effective mass and
+self-energy, it is concluded that a marginal Fermi-liquid like state persists
+even at finite doping concentrations in the strongly correlated region because
+a van Hove singularity is pinned to the Fermi surface. It is also found that a
+kink structure appears in the quasiparticle energy band in the same region. The
+kink is shown to be caused by a mixing between the quasiparticle band and an
+excitation band with strong short-range antiferromagnetic correlations. These
+results suggest an explanation for some of the unusual properties of the normal
+state in high-$T_{\rm c}$ cuprates.

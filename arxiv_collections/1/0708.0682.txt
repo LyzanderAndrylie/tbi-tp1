@@ -1,0 +1,10 @@
+We consider the equations, arising as the conformal invariance conditions of
+the perturbed curved beta-gamma system. These equations have the physical
+meaning of Einstein equations with a B-field and a dilaton on a hermitian
+manifold, where the B-field 2-form is imaginary and proportional to the
+canonical form associated with hermitian metric. We show that they decompose
+into linear and bilinear equations and lead to the vanishing of the first Chern
+class of the manifold where the system is defined. We discuss the relation of
+these equations to the generalized Maurer-Cartan structures related to BRST
+operator. Finally we describe the relations of the generalized Maurer-Cartan
+bilinear operation and the Courant/Dorfman brackets.

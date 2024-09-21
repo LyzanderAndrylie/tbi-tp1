@@ -1,0 +1,9 @@
+Aerosols under chaotic advection often approach a strange attractor. They
+move chaotically on this fractal set but, in the presence of gravity, they have
+a net vertical motion downwards. In practical situations, observational data
+may be available only at a given level, for example at the ground level. We
+uncover two fractal signatures of chaotic advection of aerosols under the
+action of gravity. Each one enables the computation of the fractal dimension
+$D_{0}$ of the strange attractor governing the advection dynamics from data
+obtained solely at a given level. We illustrate our theoretical findings with a
+numerical experiment and discuss their possible relevance to meteorology.

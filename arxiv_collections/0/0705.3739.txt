@@ -1,0 +1,3 @@
+In this paper we obtain a Hamilton-Jacobi theory for nonholonomic mechanical
+systems. The results are applied to a large class of nonholonomic mechanical
+systems, the so-called \v{C}aplygin systems.

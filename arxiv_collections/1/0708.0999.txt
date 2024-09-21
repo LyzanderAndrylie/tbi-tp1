@@ -1,0 +1,13 @@
+The dielectric properties of metamaterials consisting of periodically
+arranged metallic nanoparticles of spherical shape are calculated by rigorously
+solving Maxwell's equations. Effective dielectric functions are obtained by
+comparing the reflectivity of planar surfaces limiting these materials with
+Fresnel's formulas for equivalent homogeneous media, showing mixing and
+splitting of individual-particle modes due to inter-particle interaction.
+Detailed results for simple cubic and fcc crystals of aluminum spheres in
+vacuum, silver spheres in vacuum, and silver spheres in a silicon matrix are
+presented. The filling fraction of the metal f is shown to determine the
+position of the plasmon modes of these metamaterials. Significant deviations
+are observed with respect to Maxwell-Garnett effective medium theory for large
+f, and multiple plasmons are predicted to exist in contrast to Maxwell-Garnett
+theory.

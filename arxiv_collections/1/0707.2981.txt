@@ -1,0 +1,16 @@
+Using a data sample corresponding to an integrated luminosity of 342
+$fb^{-1}$ collected with the BABAR detector at the SLAC PEP-II
+electron-positron storage ring operating at a center-of-mass energy near 10.58
+GeV, we measure ${\cal{B}} (\tau^- \to \pi^- \pi^- \pi^+ \nu_\tau) = (8.83 \pm
+0.01 \pm 0.13) %$, ${\cal{B}} (\tau^- \to K^- \pi^- \pi^+ \nu_\tau) = (0.273\pm
+0.002\pm 0.009)%$, ${\cal{B}} (\tau^- \to K^- \pi^- K^+ \nu_\tau) = (0.1346\pm
+0.0010 \pm 0.0036)%$ and ${\cal{B}} (\tau^- \to K^- K^- K^+ \nu_\tau) =
+(1.58\pm 0.13 \pm 0.12)\times 10^{-5}$, where the uncertainties are statistical
+and systematic, respectively. Events where the $\pi^+\pi^-$ pair is consistent
+with coming from a $K^0_S$ are excluded. These are significant improvements
+over previous measurements, with the ${\cal{B}} (\tau^- \to K^- K^- K^+
+\nu_\tau)$ result being the first resonant plus non-resonant measurement of
+this mode. We also report a first measurement of ${\cal{B}} (\tau^- \to
+\phi\pi^- \nu_\tau) = (3.42\pm 0.55 \pm 0.25)\times 10^{-5}$ and a new
+measurement of ${\cal{B}} (\tau^- \to \phi K^- \nu_\tau) = (3.39\pm 0.20 \pm
+0.28)\times 10^{-5}$.

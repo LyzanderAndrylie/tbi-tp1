@@ -1,0 +1,15 @@
+We show how rate-distortion theory provides a mechanism for automated theory
+building by naturally distinguishing between regularity and randomness. We
+start from the simple principle that model variables should, as much as
+possible, render the future and past conditionally independent. From this, we
+construct an objective function for model making whose extrema embody the
+trade-off between a model's structural complexity and its predictive power. The
+solutions correspond to a hierarchy of models that, at each level of
+complexity, achieve optimal predictive power at minimal cost. In the limit of
+maximal prediction the resulting optimal model identifies a process's intrinsic
+organization by extracting the underlying causal states. In this limit, the
+model's complexity is given by the statistical complexity, which is known to be
+minimal for achieving maximum prediction. Examples show how theory building can
+profit from analyzing a process's causal compressibility, which is reflected in
+the optimal models' rate-distortion curve--the process's characteristic for
+optimally balancing structure and noise at different levels of representation.

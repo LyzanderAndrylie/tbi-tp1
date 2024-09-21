@@ -1,0 +1,13 @@
+The holographic principle states that on a fundamental level the information
+content of a region should depend on its surface area rather than on its
+volume. This counterintuitive idea which has its roots in the nonextensive
+nature of black-hole entropy serves as a guiding principle in the search for
+the fundamental laws of Planck-scale physics. In this paper we show that a
+similar phenomenon emerges from the established laws of classical and quantum
+physics: the information contained in part of a system in thermal equilibrium
+obeys an area law. While the maximal information per unit area depends
+classically only on the number of microscopic degrees of freedom, it may
+diverge as the inverse temperature in quantum systems. A rigorous relation
+between area laws and correlations is established and their explicit behavior
+is revealed for a large class of quantum many-body states beyond equilibrium
+systems.

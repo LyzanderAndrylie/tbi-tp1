@@ -1,0 +1,5 @@
+We extend the technique of constructive expansions to compute the connected
+functions of matrix models in a uniform way as the size of the matrix
+increases. This provides the main missing ingredient for a non-perturbative
+construction of the $\phi^{\star 4}_4$ field theory on the Moyal four
+dimensional space.

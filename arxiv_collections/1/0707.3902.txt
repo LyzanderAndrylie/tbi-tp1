@@ -1,0 +1,7 @@
+We discuss fragmentation mechanisms and isospin transport occurring in
+central collisions between neutron rich systems at Fermi energies. In
+particular, isospin effects are analyzed looking at the correlations between
+fragment isotopic content and kinematical properties. Simulations are based on
+an approximate solution of the Boltzmann-Langevin (BL) equation. An attempt to
+solve the complete BL equation, by introducing full fluctuations in phase space
+is also discussed.

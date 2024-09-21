@@ -1,0 +1,17 @@
+The isolated horizon framework was introduced in order to provide a local
+description of black holes that are in equilibrium with their (possibly
+dynamic) environment. Over the past several years, the framework has been
+extended to include matter fields (dilaton, Yang-Mills etc) in D=4 dimensions
+and cosmological constant in $D\geq3$ dimensions. In this article we present a
+further extension of the framework that includes black holes in
+higher-dimensional Einstein-Gauss-Bonnet (EGB) gravity. In particular, we
+construct a covariant phase space for EGB gravity in arbitrary dimensions which
+allows us to derive the first law. We find that the entropy of a weakly
+isolated and non-rotating horizon is given by
+$\mathcal{S}=(1/4G_{D})\oint_{S^{D-2}}\bm{\tilde{\epsilon}}(1+2\alpha\mathcal{R})$.
+In this expression $S^{D-2}$ is the $(D-2)$-dimensional cross section of the
+horizon with area form $\bm{\tilde{\epsilon}}$ and Ricci scalar $\mathcal{R}$,
+$G_{D}$ is the $D$-dimensional Newton constant and $\alpha$ is the Gauss-Bonnet
+parameter. This expression for the horizon entropy is in agreement with those
+predicted by the Euclidean and Noether charge methods. Thus we extend the
+isolated horizon framework beyond Einstein gravity.

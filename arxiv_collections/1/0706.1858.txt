@@ -1,0 +1,14 @@
+High-stability quartz oscillators are needed in a number of space
+applications. A short-term stability of parts in 10^{-14} [Allan deviation
+\sigma y(\tau) ] is sometimes required, for integration time \tau of
+approximately 1-10 s. The Centre National d'Etudes Spatiales (CNES) and the
+FEMTO-ST Institute (formerly LPMO and LCEP), have been collaborating for many
+years in this domain, aiming at measuring and at understanding the oscillator
+noise. The highest stability has been observed on 5 MHz and 10 MHz bulk
+acoustic-wave resonators. Yet this stability is still not sufficient, or the
+the manufacturing method is not reproducible. Recently, the analysis of a few
+premium-stability oscillators has demonstrated that the oscillator frequency
+instability is due to the fluctuation of the resonator natural frequency,
+rather than to the noise of the sustaining amplifier via the Leeson effect. It
+is therefore natural to give attention to the measurement of the resonator
+fluctuations.

@@ -1,0 +1,8 @@
+Fermi and kinetic energy are usually calculated in periodic boundary
+conditions model, which is not self-consistent for low-dimensional problems,
+where particles are confined. Thus for confined particles the potential box
+model was used self-consistently to calculate Fermi and kinetic energies in 3-,
+2-, and 1-dimensional cases. This approach is much more logical and
+self-consistent. Then the conditions for neglecting dimensions, that is
+conditions under which the movement of particles in the box could be considered
+as 2- and 1- dimensional, were derived.

@@ -1,0 +1,7 @@
+We define mosaics, which are naturally in bijection with Knutson-Tao puzzles.
+We define an operation on mosaics, which shows they are also in bijection with
+Littlewood-Richardson skew-tableaux. Another consequence of this construction
+is that we obtain bijective proofs of commutativity and associativity for the
+ring structures defined either of these objects. In particular, we obtain a
+new, easy proof of the Littlewood-Richardson rule. Finally we discuss how our
+operation is related to other known constructions, particularly jeu de taquin.

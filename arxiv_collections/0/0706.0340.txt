@@ -1,0 +1,8 @@
+Conformally invariant massless field systems involving only dimensionless
+parameters are known to describe particle physics at very high energy. In the
+presence of an external gravitational field, the conformal symmetry may
+generalize to Weyl invariance. However, the latter symmetry no longer survives
+after quantization: A Weyl anomaly appears. In this Letter, a purely algebraic
+understanding of the universal structure of the Weyl anomalies is presented.
+The results hold in arbitrary dimensions and independently of any
+regularization scheme.

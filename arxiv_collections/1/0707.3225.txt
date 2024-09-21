@@ -1,0 +1,7 @@
+We calculate the matrix elements of the gluonic contributions to the
+energy-momentum tensor for a pion of mass 600 < Mpi < 1100 MeV in quenched
+lattice QCD. We find that gluons contribute (37 +/- 8 +/- 12)% of the pion's
+light cone momentum. The bare matrix elements corresponding to the trace
+anomaly contribution to the pion mass are also obtained. The discretizations of
+the energy-momentum tensor we use have other promising applications, ranging
+from calculating the origin of hadron spin to QCD thermodynamics.

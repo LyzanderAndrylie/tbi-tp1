@@ -1,0 +1,12 @@
+Cell spreading is investigated at various scales in order to understand
+motility of living cells which is essential for a range of physiological
+activities in higher organisms as well as in microbes. At a microscopic scale,
+it has been seen that actin polymerization at the leading edge of cell membrane
+primarily helps the cell to spread depending upon its extra-cellular
+environment which influences the polymerization process via some receptors on
+the cell membrane. There are some interesting experimental results at
+macroscopic scales (cell size) where people have observed various dynamic
+phases in terms of spreading rate of cell area adhering to the substrate. In
+the present paper we develop a very simple phenomenological model to capture
+these dynamic apparent phases of a spreading cell without going into the
+microscopic details of actin polymerization.

@@ -1,0 +1,15 @@
+Ever since the first discoveries of the quantum-interference transport in
+mesoscopic systems, the electron dephasing times, $\tau_\phi$, in the
+concentrated AuPd alloys have been extensively measured. The samples were made
+from different sources with different compositions, prepared by different
+deposition methods, and various geometries (1D narrow wires, 2D thin films, and
+3D thickfilms) were studied. Surprisingly, the low-temperature behavior of
+$\tau_\phi$ inferred by different groups over two decades reveals a systematic
+correlation with the level of disorder of the sample. At low temperatures,
+where $\tau_\phi$ is (nearly) independent of temperature, a scaling
+$\tau_\phi^{\rm max} \propto D^{-\alpha}$ is found, where $tau_\phi^{\rm max}$
+is the maximum value of $\tau_\phi$ measured in the experiment, $D$ is the
+electron diffusion constant, and the exponent $\alpha$ is close to or slightly
+larger than 1. We address this nontrivial scaling behavior and suggest that the
+most possible origin for this unusual dephasing is due to dynamical structure
+defects, while other theoretical explanations may not be totally ruled out.

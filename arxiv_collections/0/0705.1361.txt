@@ -1,0 +1,10 @@
+We summarize a few proposals for mixing F center states through the mediation
+of an appropriate symmetry-breaking vibrational mode. Electron-mode coupling
+energies odd-order in the mode coordinates are characteristic of the
+pseudo-Jahn-Teller mixing of nearly-degenerate opposite-parity electronic
+states mediated by an odd-parity vibrational mode. Coupling energies even order
+in the vibrational coordinates lead to a pseudo-Renner mixing of even parity
+nearly-degenerate states or to dynamic-Renner mixing of degenerate states of
+whatever symmetry. Both Renner mixing energies add up to widen the crossover
+splitting of the adiabatic energies thereby enhancing the nonradiative
+deexcitation rate.

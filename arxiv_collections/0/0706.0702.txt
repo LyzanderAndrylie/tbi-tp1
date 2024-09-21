@@ -1,0 +1,5 @@
+Let $\mathbb{F}_p$ be the field of a prime order $p.$ It is known that for
+any integer $N\in [1,p]$ one can construct a subset $A\subset\mathbb{F}_p$ with
+$|A|= N$ such that $$ \max\{|A+A|, |AA|\}\ll p^{1/2}|A|^{1/2}. $$ In the
+present paper we prove that if $A\subset \mathbb{F}_p$ with $|A|>p^{2/3},$ then
+$$ \max\{|A+A|, |AA|\}\gg p^{1/2}|A|^{1/2}. $$

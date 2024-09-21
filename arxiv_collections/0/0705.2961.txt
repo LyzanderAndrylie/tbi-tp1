@@ -1,0 +1,7 @@
+The effects of interpreting classical phase space distributions as Wigner
+functions, which is common in models of multiparticle production, are
+discussed. The temperature for the classical description is always higher than
+that for its Wigner function interpretation. A rough estimate shows that the
+corresponding correction is proportional to R^(-2), where R is the radius of
+the interaction region, and that it is negligible for heavy ion scattering, but
+at the few percent level for e^+e^- annihilations.

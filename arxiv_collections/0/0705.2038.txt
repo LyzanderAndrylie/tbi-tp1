@@ -1,0 +1,11 @@
+While ferromagnetism at relatively high temperatures is seen in diluted
+magnetic semiconductors such as Ga_(1-x)Mn_(x)As, doped semiconductors without
+magnetic ions have not shown evidence for ferromagnetism. Using a generalized
+disordered Hubbard model designed to characterize hydrogenic centers in
+semiconductors, we find that such systems may also exhibit a ferromagnetic
+ground state, at least on the nanoscale. This is found most clearly in a regime
+inaccessible to bulk systems, but attainable in quantum dots as well as
+heterostructures. We present numerical results demonstrating the occurrence of
+high spin ground states in both lattice and positionally disordered systems. We
+examine how the magnetic phases are affected by characteristics of real doped
+semiconductors, such as positional disorder and electron-hole asymmetry.

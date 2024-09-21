@@ -1,0 +1,8 @@
+We simulate by lattice Boltzmann the steady shearing of a binary fluid
+mixture with full hydrodynamics in three dimensions. Contrary to some
+theoretical scenarios, a dynamical steady state is attained with finite
+correlation lengths in all three spatial directions. Using large simulations we
+obtain at moderately high Reynolds numbers apparent scaling expon ents
+comparable to those found by us previously in 2D. However, in 3D there may be a
+crossover to different behavior at low Reynolds number: accessing this regime
+requires even larger computational resource than used here.

@@ -1,0 +1,14 @@
+In this paper, we model a nonlinear dynamics of infectious diseases transfer.
+Particularly, we study possible applications to tubercular infection in models
+with different profiles (peak values) of the population density dependence on
+spatial coordinates. Our approach is based on the well known method of
+instantons which has been used by the authors to describe kinetics of adiabatic
+chemical reactions as a function of the heat-bath temperature and other system
+parameters. In our approach, we use "social temperature" T as one of the
+controlling parameters. Increase of T leads to acceleration of the infectious
+diseases transfer. The "blockage" effect for the infectious diseases transfer
+has been demonstrated in the case when peak values (in the population density)
+are equal to one and under condition that the "social temperature" is low.
+Existence of such effect essentially depends from environment "activity"
+(social and prophylactic). Results of our modeling qualitatively meet the
+tuberculosis dynamic spread data in Penza region of Russia.

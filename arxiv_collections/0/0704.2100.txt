@@ -1,0 +1,22 @@
+[ABRIDGED] We recently presented evidence of a connection between the
+brightness profiles of nearby early-type galaxies and the properties of the AGN
+they host. The radio loudness of the AGN appears to be univocally related to
+the host's brightness profile: radio-loud nuclei are only hosted by ``core''
+galaxies while radio-quiet AGN are only found in ``power-law'' galaxies. We
+extend our analysis here to a sample of 42 nearby (V < 7000 km/s) Seyfert
+galaxies hosted by early-type galaxies. We used the available HST images to
+study their brightness profiles. Having excluded complex and highly nucleated
+galaxies, in the remaining 16 objects the brightness profiles can be
+successfully modeled with a Nuker law with a steep nuclear cusp characteristic
+of ``power-law'' galaxies (with logarithmic slope 0.51 - 1.07). This result is
+what is expected for these radio-quiet AGN based on our previous findings, thus
+extending the validity of the connection between brightness profile and radio
+loudness to AGN of a far higher luminosity. We explored the robustness of this
+result against a different choice of the analytic form for the brightness
+profiles, using a Sersic law. In no object could we find evidence of a central
+light deficit with respect to a pure Sersic model, the defining feature of
+``core'' galaxies in this modeling framework. We conclude that, regardless of
+the modeling strategy, the dichotomy of AGN radio loudness can be univocally
+related to the host's brightness profile. Our general results can be re-phrased
+as ``radio-loud nuclei are hosted by core galaxies, while radio-quiet AGN are
+found in non-core galaxies''.

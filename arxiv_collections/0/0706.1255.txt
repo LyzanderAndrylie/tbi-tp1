@@ -1,0 +1,20 @@
+We compare resonant electronic Raman scattering and photoluminescence
+measurements for the characterization of a spin-polarized two-dimensional
+electron gas embedded in $\text{Cd}_{1-x}\text{Mn}_x\text{Te}$ single quantum
+wells. From Raman scattering by single-particle excitations in a zero magnetic
+field, we measure the Fermi velocity and then obtain the Fermi energy (as well
+as the electron density), which is comparable to that extracted from
+photoluminescence for moderate electron densities, assuming a bare band-edge
+mass. At large electron densities, the Fermi energies derived from Raman
+scattering and photoluminescence differ. For an applied in-plane magnetic field
+and zero wave vector transferred to the electron gas, Raman scattering spectra
+show peaks at both the Zeeman energy $Z$, resulting from collective excitations
+of the spin-polarized electron gas, and the one electron spin-flip energy
+$Z^*$. Magneto-photoluminescence spectra show conduction band splitting that
+are equivalent to $Z$, suggesting that collective effects are present in the
+photoluminescence spectra. Assuming (as before) an uncorrected mass, the degree
+of spin polarization $\zeta$ determined from the magneto-photoluminescence
+lineshape is found to differ from that derived from the magnetic field
+dependent Raman scattering measurements for large electron densities. We
+attribute the discrepancy in measuring $\zeta$ and the Fermi energy to the
+renormalized mass resulting from many-body electron-electron interactions.

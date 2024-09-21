@@ -1,0 +1,13 @@
+Anderson has recently proposed a theory of the strange metal state above Tc
+in the high Tc superconductors. [arXiv:cond-mat/0512471] It is based on the
+idea that the unusual transport properties and spectral functions are caused by
+the strong Mott- Hubbard interactions and can be computed by using the formal
+apparatus of Gutzwiller projection. In ref. 1 Anderson computed only the
+tunneling spectrum and the power-law exponent of the infrared conductivity. He
+had calculated the energy distribution curves (EDCs) in angle resolved
+photoemission spectroscopy (ARPES) but was discouraged when these differed
+radically from the best ARPES measurements available at the time, and did not
+include them. In this letter we compare the spectral functions computed within
+this model to the novel laser-ARPES data of the Dessau group.These are found to
+capture the shape of the experimental EDCs with unprecedented accuracy and in
+principle have only one free parameter.

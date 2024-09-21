@@ -1,0 +1,7 @@
+This paper shows experimental evidence of photorefractive steady state
+self-focusing in InP:Fe for a wide range of intensities, at both 1.06 and
+1.55$\mu$m. To explain those results, it is shown that despite the bi-polar
+nature of InP:Fe where one photocarrier and one thermal carrier are to be
+considered, the long standing one photocarrier model for photorefractive
+solitons can be usefully applied. The relationship between the dark irradiance
+stemming out of this model and the known resonance intensity is then discussed.

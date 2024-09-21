@@ -1,0 +1,12 @@
+We study spin-dependent transport in a two-dimensional electron gas subject
+to an external step-like potential $V(x)$ and irradiated by an electromagnetic
+field (EF). In the absence of EF the electronic spectrum splits into spin
+sub-bands originating from the "Rashba" spin-orbit coupling. We show that the
+resonant interaction of propagating electrons with the component EF parallel to
+the barrier induces a \textit{% non-equilibrium dynamic gap} $(2\Delta_{R})$
+between the spin sub-bands. Existence of this gap results in coherent spin-flip
+processes that lead to a spin-polarized current and a large magnetoresistance,
+i.e the spin valve effect. These effects may be used for controlling spin
+transport in semiconducting nanostructures, e.g. spin transistors,
+spin-blockade devices etc., by variation of the intensity S and frequency
+$\omega $ of the external radiation.

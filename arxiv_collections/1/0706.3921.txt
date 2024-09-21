@@ -1,0 +1,13 @@
+In this work we calculate the neutrino self-energy in presence of a
+magnetized medium. The magnetized medium consists of electrons, positrons,
+neutrinos and a uniform classical magnetic field. The calculation is done
+assuming the background magnetic field is weak compared to the $W$-Boson mass
+squared, as a consequence of which only linear order corrections in the field
+are included in the $W$ boson propagator. The electron propagator consists all
+order corrections in the background field. Although the neutrino self-energy in
+a magnetized medium in various limiting cases has been calculated previously in
+this article we produce the most general expression of the self-energy in
+absence of the Landau quantization of the charged gauge fields. We calculate
+the effect of the Landau quantization of the charged leptons on the neutrino
+self-energy in the general case. Our calculation is specifically suited for
+situations where the background plasma may be CP symmetric.

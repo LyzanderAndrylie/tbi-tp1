@@ -1,0 +1,17 @@
+The effect of spin filtering and spin mixing on the dc electric current for
+voltage biased magnetic quantum point contact with superconducting leads is
+theoretically studied. The I-V characteristics are calculated for the whole
+range of spin filtering and spin mixing parameters. It is found that with
+increasing of spin filtering the subharmonic step structure of the dc electric
+current, typical for low-transparency junction and junction without
+considerable spin filtering qualitatively changes. In the lower voltage region
+and for small enough spin mixing the peak structure arises. When spin mixing
+increases the peak subgap structure evolves to the step structure. The voltages
+where subharmonic gap features are located are found to be sensitive to the
+value of spin filtering. The positions of peaks and steps are calculated
+analytically and the evolution of the subgap structure from well-known tunnel
+limit to the large spin filtering case is explained in terms of multiple
+Andreev reflection (MAR) processes. In particular, it is found that for large
+spin filtering the subgap feature at $eV_k$ arises from $2k^{\rm th}$ and
+$(2k\pm 1)^{\rm th}$ order MAR processes, while in the tunnel limit the step at
+$eV_n$ is known to result from $n^{\rm th}$ order MAR process.

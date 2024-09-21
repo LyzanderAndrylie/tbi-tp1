@@ -1,0 +1,9 @@
+Starting from the Ginzburg-Landau free energy describing the normal state to
+Larkin-Ovchinnikov-Fulde-Ferrell (LOFF) state transition, we evaluate the free
+energy of seven most common lattice structures such as stripe, square,
+triangular,Simple Cubic (SC), Face centered Cubic (FCC),Body centered Cubic
+(BCC) and Quasi-crystal (QC). We find that the stripe phase which is the
+original LO state, is the most stable phase. This result maybe relevant to the
+detection of LOFF state in some heavy fermion compounds and the pairing lattice
+structure of fermions with unequal populations in the BCS side of Feshbach
+resonance in ultra-cold atoms.

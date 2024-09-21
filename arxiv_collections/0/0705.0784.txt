@@ -1,0 +1,8 @@
+We show theoretically that it is possible to trap and cool the rotational
+motion of a macroscopic mirror made of a perfectly reflecting spiral phase
+element using orbital angular momentum transfer from a Laguerre-Gaussian
+optical field. This technique offers a promising route to the placement of the
+rotor in its quantum mechanical ground state in the presence of thermal noise.
+It also opens up the possibility of simultaneously cooling a vibrational mode
+of the same mirror. Lastly, the proposed design may serve as a sensitive
+torsional balance in the quantum regime.

@@ -1,0 +1,6 @@
+We investigated the opto-mechanical properties of a Fabry-Perot cavity with a
+mirror mounted on a spring. Such a structure allows the cavity length to change
+elastically under the effect of light induced forces. This opto-mechanical
+coupling is exploited to control the amplitude of mechanical fluctuation of the
+mirror. We present a model developed in the classical limit and discuss data
+obtained in the particular case for which photo-thermal forces are dominant.

@@ -1,0 +1,17 @@
+Studying the internal structure of extragalactic jets is crucial for
+understanding their physics. The Japanese-led space VLBI project VSOP has
+presented an opportunity for such studies, by reaching baseline lengths of up
+to 36,000 km and resolving structures down to an angular size of $\approx 0.3$
+mas at 5 GHz. VSOP observations of the jet in 0836+710 at 1.6 and 5 GHz have
+enabled tracing of the radial structure of the flow on scales from 2 mas to 200
+mas along the jet and determination of the wavelengths of individual
+oscillatory modes responsible for the formation of the structure observed. We
+apply linear stability analysis to identify the oscillatory modes with modes of
+Kelvin-Helmholtz instability that match the wavelengths of the structures
+observed. We find that the jet structure in 0836+710 can be reproduced by the
+helical surface mode and a combination of the helical and elliptic body modes
+of Kelvin-Helmholtz instability. Our results indicate that the jet is
+substantially stratified and different modes of the instability grow inside the
+jet at different distances to the jet axis. The helical surface mode can be
+driven externally, and we discuss the implications of the driving frequency on
+the physics of the active nucleus in 0836+710.

@@ -1,0 +1,5 @@
+The selection of a higher vapor deposition angle when growing a columnar thin
+film (CTF) leads to surface-wave propagation at a planar metal-CTF interface
+with phase velocity of lower magnitude and shorter propagation range.
+Acordingly, a higher angle of plane-wave incidence is required to excite that
+surface wave in a modified Kretschmann configuration.

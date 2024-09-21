@@ -1,0 +1,9 @@
+Starting from the well-known field theory for directed percolation, we
+describe an evolving population, near extinction, in an environment with its
+own nontrivial spatio-temporal dynamics. Here, we consider the special case
+where the environment follows a simple relaxational (Model A) dynamics. Two new
+operators emerge, with upper critical dimension of four, which couple the two
+theories in a nontrivial way. While the Wilson-Fisher fixed point remains
+completely unaffected, a mismatch of time scales destabilizes the usual DP
+fixed point, suggesting a crossover to a first order transition from the active
+(surviving) to the inactive (extinct) state.

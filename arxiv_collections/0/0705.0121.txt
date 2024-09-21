@@ -1,0 +1,11 @@
+The magnitude of the anisotropic magnetoresistance (AMR) and the longitudinal
+resistance in compressively strained (Ga0.95, Mn0.05)As epilayers were measured
+for the first time down to temperatures as low as 30 mK. Below temperatures of
+3K the conductivity decreases ~ T^1/3 over two orders of magnitude in
+temperature. The conductivity can be well described within the framework of a
+3D scaling theory of Anderson's transition in the presence of spin scattering
+in semiconductors. It is shown that the samples are on the metallic side but
+very close to the metal-insulator transition (MIT). At lowest temperatures a
+decrease in the AMR effect is observed, which is assigned to changes in the
+coupling between the remaining itinerant carriers and the local Mn 5/2-spin
+moments.

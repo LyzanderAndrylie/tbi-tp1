@@ -1,0 +1,4 @@
+A periodic box-ball system (pBBS) is obtained by ultradiscretizing the
+periodic discrete Toda equation (pd Toda eq.). We show the relation between a
+Young diagram of the pBBS and a spectral curve of the pd Toda eq.. The formula
+for the fundamental cycle of the pBBS is obtained as a colloraly.

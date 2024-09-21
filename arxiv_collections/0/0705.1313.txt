@@ -1,0 +1,8 @@
+We study fusion reactions of the $^{64}$Ni+$^{132}$Sn system using the
+recently introduced density constrained time-dependent Hartree-Fock formalism.
+In this formalism the fusion barriers are directly obtained from TDHF dynamics.
+In addition, we incorporate the entrance channel alignment of the deformed
+(oblate) $^{64}$Ni nucleus due to dynamical Coulomb excitation. We discuss the
+influence of particle transfer and other dynamical effects on the fusion cross
+sections. Calculated cross sections are in very good agreement with data and
+other calculations.

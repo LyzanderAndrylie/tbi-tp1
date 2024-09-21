@@ -1,0 +1,16 @@
+Type Ia supernovae are currently the best known standard candles at
+cosmological distances. In addition to providing a powerful probe of dark
+energy they are an ideal source of information about the peculiar velocity
+field of the local universe. Even with the very small number of supernovae
+presently available it has been possible to measure the dipole and quadrupole
+of the local velocity field out to z~0.025. With future continuous all-sky
+surveys like the LSST project the luminosity distances of tens of thousands of
+nearby supernovae will be measured accurately. This will allow for a
+determination of the local velocity structure of the universe as a function of
+redshift with unprecedented accuracy, provided the redshifts of the host
+galaxies are known. Using catalogues of mock surveys we estimate that future
+low redshift supernova surveys will be able to probe sigma-8 to a precision of
+roughly 5% at 95% C.L. This is comparable to the precision in future galaxy and
+weak lensing surveys and with a relatively modest observational effort it will
+provide a crucial cross-check on future measurements of the matter power
+spectrum.

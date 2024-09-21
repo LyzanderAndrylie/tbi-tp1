@@ -1,0 +1,9 @@
+We propose a scheme to generate temporal vector optical solitons in a
+lifetime broadened five-state atomic medium via electromagnetically induced
+transparency. We show that this scheme, which is fundamentally different from
+the passive one by using optical fibers, is capable of achieving
+distortion-free vector optical solitons with ultraslow propagating velocity
+under very weak drive conditions. We demonstrate both analytically and
+numerically that it is easy to realize Manakov temporal vector solitons by
+actively manipulating the dispersion and self- and cross-phase modulation
+effects of the system.

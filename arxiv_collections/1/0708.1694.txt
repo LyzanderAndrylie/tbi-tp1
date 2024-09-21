@@ -1,0 +1,17 @@
+In the stability analysis of an equilibrium, given by a stationary point of a
+functional F[n] (free energy functional, e.g.), the second derivative of F[n]
+plays the essential role. If the system in equilibrium is subject to the
+conservation constraint of some extensive property (e.g. volume, material, or
+energy conservation), the Euler equation determining the stationary point
+corresponding to the equilibrium alters according to the method of Lagrange
+multipliers. Here, the question as to how the effects of constraints can be
+taken into account in a stability analysis based on second functional
+derivatives is examined. It is shown that the concept of constrained second
+derivatives incorporates all the effects due to constraints; therefore
+constrained second derivatives provide the proper tool for the stability
+analysis of equilibria under constraints. For a physically important type of
+constraints, it is demonstrated how the presented theory works. Further, the
+rigorous derivation of a recently obtained stability condition for a special
+case of equilibrium of ultrathin-film binary mixtures is given, presenting a
+guide for similar analyses. [For details on constrained derivatives, see also
+math-ph/0603027, physics/0603129, physics/0701145.]

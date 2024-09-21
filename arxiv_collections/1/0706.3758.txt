@@ -1,0 +1,11 @@
+Nuclear pore complexes (NPCs) are very selective filters that monitor the
+transport between the cytoplasm and the nucleoplasm. Two models have been
+suggested for the plug of the NPC. They are (i) it is a reversible hydrogel or
+(ii) it is a polymer brush. We propose a mesoscopic model for the transport of
+a protein through the plug, that is general enough to cover both. The protein
+stretches the plug and creates a local deformation. The bubble so created
+(prtoein+deformation) executes random walk in the plug. We find that for faster
+relaxation of the gel, the diffusion of the bubble is greater. Further, on
+using parameters appropriate for the brush, we find that the diffusion
+coefficient is much lower. Hence the gel model seems to be more likely
+explanation for the workings of the plug.

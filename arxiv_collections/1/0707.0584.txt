@@ -1,0 +1,16 @@
+The magnetic susceptibility of the two-dimensional repulsive Hubbard model
+with nearest-neighbor hopping is investigated using the diagram technique
+developed for the case of strong correlations. In this technique a power series
+in the hopping constant is used. At half-filling the calculated zero-frequency
+susceptibility and the square of the site spin reproduce adequately results of
+Monte Carlo simulations. Also in agreement with numerical simulations no
+evidence of ferromagnetic correlations was found in the considered range of
+electron concentrations $0.8\alt\bar{n}\alt 1.2$ for the repulsion parameters
+$8|t|\leq U\leq 16|t|$. However, for larger $U/|t|$ and $|1-\bar{n}|\approx
+0.2$ the nearest neighbor correlations become ferromagnetic. For $\bar{n}\alt
+0.94$ and $\bar{n}\agt 1.06$ the imaginary part of the real-frequency
+susceptibility becomes incommensurate for small frequencies. The
+incommensurability parameter grows with departure from half-filling and
+decreases with increasing the frequency. This behavior of the susceptibility
+can explain the observed low-frequency incommensurate response observed in
+normal-state lanthanum cuprates.

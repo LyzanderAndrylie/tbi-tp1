@@ -1,0 +1,15 @@
+In this work we compare and characterize the behavior of Langevin and
+Dissipative Particle Dynamics (DPD) thermostats in a broad range of
+non-equilibrium simulations of polymeric systems. Polymer brushes in relative
+sliding motion, polymeric liquids in Poiseuille and Couette flows, and
+brush-melt interfaces are used as model systems to analyze the efficiency and
+limitations of different Langevin and DPD thermostat implementations. Widely
+used coarse-grained bead-spring models under good and poor solvent conditions
+are employed to assess the effects of the thermostats. We considered
+equilibrium, transient, and steady state examples for testing the ability of
+the thermostats to maintain constant temperature and to reproduce the
+underlying physical phenomena in non-equilibrium situations. The common
+practice of switching-off the Langevin thermostat in the flow direction is also
+critically revisited. The efficiency of different weight functions for the DPD
+thermostat is quantitatively analyzed as a function of the solvent quality and
+the non-equilibrium situation.

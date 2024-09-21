@@ -1,0 +1,15 @@
+Dynamic properties of molecular motors that fuel their motion by actively
+interacting with underlying molecular tracks are studied theoretically via
+discrete-state stochastic ``burnt-bridge'' models. The transport of the
+particles is viewed as an effective diffusion along one-dimensional lattices
+with periodically distributed weak links. When an unbiased random walker passes
+the weak link it can be destroyed (``burned'') with probability p, providing a
+bias in the motion of the molecular motor. A new theoretical approach that
+allows one to calculate exactly all dynamic properties of motor proteins, such
+as velocity and dispersion, at general conditions is presented. It is found
+that dispersion is a decreasing function of the concentration of bridges, while
+the dependence of dispersion on the burning probability is more complex. Our
+calculations also show a gap in dispersion for very low concentrations of weak
+links which indicates a dynamic phase transition between unbiased and biased
+diffusion regimes. Theoretical findings are supported by Monte Carlo computer
+simulations.

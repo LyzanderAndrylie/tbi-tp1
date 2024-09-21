@@ -1,0 +1,20 @@
+Cosmological shock waves result from supersonic flow motions induced by
+hierarchical clustering of nonlinear structures in the universe. These shocks
+govern the nature of cosmic plasma through thermalization of gas and
+acceleration of nonthermal, cosmic-ray (CR) particles. We study the statistics
+and energetics of shocks formed in cosmological simulations of a concordance
+$\Lambda$CDM universe, with a special emphasis on the effects of
+non-gravitational processes such as radiative cooling, photoionization/heating,
+and galactic superwind feedbacks. Adopting an improved model for gas
+thermalization and CR acceleration efficiencies based on nonlinear diffusive
+shock acceleration calculations, we then estimate the gas thermal energy and
+the CR energy dissipated at shocks through the history of the universe. Since
+shocks can serve as sites for generation of vorticity, we also examine the
+vorticity that should have been generated mostly at curved shocks in
+cosmological simulations. We find that the dynamics and energetics of shocks
+are governed primarily by the gravity of matter, so other non-gravitational
+processes do not affect significantly the global energy dissipation and
+vorticity generation at cosmological shocks. Our results reinforce scenarios in
+which the intracluster medium and warm-hot intergalactic medium contain
+energetically significant populations of nonthermal particles and turbulent
+flow motions.

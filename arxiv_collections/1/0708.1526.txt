@@ -1,0 +1,10 @@
+We present EXAFS data at the Mn K and Tb L3 edges that provide upper limits
+on the possible displacements of any atoms in TbMnO3. The displacements must be
+less than 0.005-0.01A for all atoms which eliminates the possibility of
+moderate distortions (0.02A) with a small c-axis component, but for which the
+displacements in the ab plane average to zero. Assuming the polarization arises
+from a displacement of the O2 atoms along the c-axis, the measured polarization
+then leads to an O2 displacement that is at least 6X10^{-4}A, well below our
+experimental limit. Thus a combination of the EXAFS and the measured electrical
+polarization indicate that the atomic displacements likely lie in the range
+6X10^{-4} - 5X10^{-3}A.

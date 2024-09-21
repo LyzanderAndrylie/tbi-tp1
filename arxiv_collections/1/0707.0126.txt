@@ -1,0 +1,15 @@
+We present a detailed comparison of the self-consistent calculations based on
+the Hartree-Fock and the spin density functional theory for a spit-gate quantum
+wire in the IQH regime. We demonstrate that both approaches provide
+qualitatively (and in most cases quantitatively) similar results for the
+spin-resolved electron density, spin polarization, spatial spin separation at
+the edges and the effective $g$ factor. The both approach give the same values
+of the magnetic fields corresponding to the successive subband depopulation and
+qualitatively similar evolution of the magnetosubbands. Quantitatively,
+however, the HF and the DFT subbands are different (even though the
+corresponding total electron densities are practically the same). In contrast
+to the HF approach, the DFT calculations predict much larger spatial spin
+separation near the wire edge for the low magnetic fields (when the
+compressible strips for spinless electrons are not formed yet). In the opposite
+limit of the large fields, the Hatree-Fock and the DFT approaches give very
+similar values for the spatial spin separation.

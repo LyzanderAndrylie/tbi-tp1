@@ -1,0 +1,8 @@
+We study experimentally a system comprised of linear chains of spin-1/2
+nuclei that provides a test-bed for multi-body dynamics and quantum information
+processing. This system is a paradigm for a new class of quantum information
+devices that can perform particular tasks even without universal control of the
+whole quantum system. We investigate the extent of control achievable on the
+system with current experimental apparatus and methods to gain information on
+the system state, when full tomography is not possible and in any case highly
+inefficient.

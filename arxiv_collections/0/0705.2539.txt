@@ -1,0 +1,12 @@
+We consider a chirally invariant lattice Higgs-Yukawa model based on the
+Neuberger overlap operator. As a first step towards the eventual determination
+of Higgs mass bounds we study the phase diagram of the model analytically in
+the large Nf-limit. We present an expression for the effective potential at
+tree-level in the regime of small Yukawa and quartic coupling constants and
+determine the order of the phase transitions. In the case of strong Yukawa
+couplings the model effectively becomes an O(4)-symmetric non-linear
+sigma-model for all values of the quartic coupling constant. This leads to the
+existence of a symmetric phase also in the regime of large values of the Yukawa
+coupling constant. On finite and small lattices, however, strong finite volume
+effects prevent the expectation value of the Higgs field from vanishing thus
+obscuring the existence of the symmetric phase at strong Yukawa couplings.

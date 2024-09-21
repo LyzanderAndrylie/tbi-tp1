@@ -1,0 +1,8 @@
+Test set with redundancy is one of the focuses in recent bioinformatics
+research. Set cover greedy algorithm (SGA for short) is a commonly used
+algorithm for test set with redundancy. This paper proves that the
+approximation ratio of SGA can be $(2-\frac{1}{2r})\ln n+{3/2}\ln r+O(\ln\ln
+n)$ by using the potential function technique. This result is better than the
+approximation ratio $2\ln n$ which directly derives from set multicover, when
+$r=o(\frac{\ln n}{\ln\ln n})$, and is an extension of the approximability
+results for plain test set.

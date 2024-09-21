@@ -1,0 +1,9 @@
+We consider the reversible adsorption of dimers on a regular lattice, where
+adsorption occurs on a finite fraction of sites selected randomly. By comparing
+this system to the pure system where all sites are available for adsorption, we
+show that when the activity goes to infinity, there exists a mapping between
+this model and the pure system at the same density. By examining the
+susceptibilities, we demonstrate that there is no mapping at finite activity.
+However, when the site density is small or moderate, this mapping exists up to
+second order in site density. We also propose and evaluate approximate
+approaches that may be applied to systems where no analytic result is known.

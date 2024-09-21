@@ -1,0 +1,10 @@
+We study the distribution of finite size pseudo-critical points in a
+one-dimensional random quantum magnet with a quantum phase transition described
+by an infinite randomness fixed point. Pseudo-critical points are defined in
+three different ways: the position of the maximum of the average entanglement
+entropy, the scaling behavior of the surface magnetization, and the energy of a
+soft mode. All three lead to a log-normal distribution of the pseudo-critical
+transverse fields, where the width scales as $L^{-1/\nu}$ with $\nu=2$ and the
+shift of the average value scales as $L^{-1/\nu_{typ}}$ with $\nu_{typ}=1$,
+which we related to the scaling of average and typical quantities in the
+critical region.

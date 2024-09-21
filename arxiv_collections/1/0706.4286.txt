@@ -1,0 +1,15 @@
+Initial data for evolving black-hole binaries can be constructed via many
+techniques, and can represent a wide range of physical scenarios. However,
+because of the way that different schemes parameterize the physical aspects of
+a configuration, it is not alway clear what a given set of initial data
+actually represents. This is especially important for quasiequilibrium data
+constructed using the conformal thin-sandwich approach. Most initial-data
+studies have focused on identifying data sets that represent binaries in
+quasi-circular orbits. In this paper, we consider initial-data sets
+representing equal-mass black holes binaries in eccentric orbits. We will show
+that effective-potential techniques can be used to calibrate initial data for
+black-hole binaries in eccentric orbits. We will also examine several different
+approaches, including post-Newtonian diagnostics, for measuring the
+eccentricity of an orbit. Finally, we propose the use of the ``Komar-mass
+difference'' as a useful, invariant means of parameterizing the eccentricity of
+relativistic orbits.

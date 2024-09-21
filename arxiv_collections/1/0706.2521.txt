@@ -1,0 +1,15 @@
+The collapse of cavities under shock is a key problem in various fields
+ranging from erosion of material, ignition of explosive, to sonoluminescence,
+etc. We study such processes using the material-point-method developed recently
+in the field of solid physics. The main points of the research include the
+relations between symmetry of collapsing and the strength of shock, other
+coexisting interfaces, as well as hydrodynamic and thermal-dynamic behaviors
+ignored by the pure fluid models. In the case with strong shock, we study the
+procedure of jet creation in the cavity; in the case with weak shock, we found
+that the cavity can not be collapsed completely by the shock and the cavity may
+collapse in a nearly isotropic way. The history of collapsing significantly
+influences the distribution of "hot spots" in the shocked material. The change
+in symmetry of collapsing is investigated. Since we use the Mie-Gr% \"{u}neisen
+equation of state and the effects of strain rate are not taken into account,
+the behavior is the same if one magnifies the spatial and temporal scales in
+the same way.

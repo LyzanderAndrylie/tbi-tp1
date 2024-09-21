@@ -1,0 +1,17 @@
+This paper considers broadcast channels with L antennas at the base station
+and m single-antenna users, where each user has perfect channel knowledge and
+the base station obtains channel information through a finite rate feedback.
+The key observation of this paper is that the optimal number of on-users (users
+turned on), say s, is a function of signal-to-noise ratio (SNR) and other
+system parameters. Towards this observation, we use asymptotic analysis to
+guide the design of feedback and transmission strategies. As L, m and the
+feedback rates approach infinity linearly, we derive the asymptotic optimal
+feedback strategy and a realistic criterion to decide which users should be
+turned on. Define the corresponding asymptotic throughput per antenna as the
+spatial efficiency. It is a function of the number of on-users s, and
+therefore, s should be appropriately chosen. Based on the above asymptotic
+results, we also develop a scheme for a system with finite many antennas and
+users. Compared with other works where s is presumed constant, our scheme
+achieves a significant gain by choosing the appropriate s. Furthermore, our
+analysis and scheme is valid for heterogeneous systems where different users
+may have different path loss coefficients and feedback rates.

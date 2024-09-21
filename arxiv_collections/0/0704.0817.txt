@@ -1,0 +1,5 @@
+The classical Littlewood-Richardson coefficients C(lambda,mu,nu) carry a
+natural $S_3$ symmetry via permutation of the indices. Our "carton rule" for
+computing these numbers transparently and uniformly explains these six
+symmetries; previously formulated Littlewood-Richardson rules manifest at most
+three of the six.

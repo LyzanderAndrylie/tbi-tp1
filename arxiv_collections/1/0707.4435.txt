@@ -1,0 +1,9 @@
+Certain proposed extended Bose-Hubbard models may exhibit topologically
+ordered ground states with excitations obeying non-Abelian braid statistics. A
+sufficient tuning of Hubbard parameters could yield excitation braiding rules
+allowing implementation of a universal set of topologically protected quantum
+gates. We discuss potential difficulties in realizing a model with a proposed
+non-Abelian topologically ordered ground state using optical lattices
+containing bosonic dipoles. Our direct implementation scheme does not realize
+the necessary anisotropic hopping, anisotropic interactions, and low
+temperatures.

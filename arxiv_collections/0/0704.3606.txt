@@ -1,0 +1,8 @@
+We consider the future dynamics of a transient phantom dominated phase of the
+universe in LQC and in the RS braneworld, which both have a non-standard
+Friedmann equation. We find that for a certain class of potentials, the Hubble
+parameter oscillates with simple harmonic motion in the LQC case and therefore
+avoids any future singularity. For more general potentials we find that damping
+effects eventually lead to the Hubble parameter becoming constant. On the other
+hand in the braneworld case we find that although the type I singularity can be
+avoided, the scale factor still diverges at late times.

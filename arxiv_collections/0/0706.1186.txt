@@ -1,0 +1,8 @@
+Present data on neutrino masses and mixing favor the highly symmetric
+tribimaximal neutrino mixing matrix which suggests an underlying flavor
+symmetry. A systematic study of non-abelian finite groups of order $g \leq 31$
+reveals that tribimaximal mixing can be derived not only from the well known
+tetrahedral flavor symmetry $T \equiv A_4$, but also by using the binary
+tetrahedral symmetry $T^{'} \equiv SL_2(F_3)$ which does not contain the
+tetrahedral group as a subgroup. $T^{'}$ has the further advantage that it can
+also neatly accommodate the quark masses including a heavy top quark.

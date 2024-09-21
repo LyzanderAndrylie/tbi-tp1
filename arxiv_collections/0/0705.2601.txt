@@ -1,0 +1,13 @@
+Heteroepitaxial self-assembled quantum dots (SAQDs) will allow breakthroughs
+in electronics and optoelectronics. SAQDs are a result of Stranski-Krastanow
+growth whereby a growing planar film becomes unstable after an initial wetting
+layer is formed. Common systems are Ge$_{x}$Si$_{1-x}$/Si and
+In$_{x}$Ga$_{1-x}$As/GaAs. For applications, SAQD arrays need to be ordered.
+The role of crystal anisotropy, random initial conditions and thermal
+fluctuations in influencing SAQD order during early stages of SAQD formation is
+studied through a simple stochastic model of surface diffusion. Surface
+diffusion is analyzed through a linear and perturbatively nonlinear analysis.
+The role of crystal anisotropy in enhancing SAQD order is elucidated. It is
+also found that SAQD order is enhanced when the deposited film is allowed to
+evolve at heights near the critical wetting surface height that marks the onset
+of non-planar film growth.

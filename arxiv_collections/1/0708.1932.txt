@@ -1,0 +1,7 @@
+One more derivation of the quantum probability rule is presented in order to
+shed more light on the versatile aspects of this fundamental law. It is shown
+that the change of state in minimal quantum non-demolition measurement, also
+known as ideal measurement, implies the probability law in a simple way.
+Namely, the very requirement of minimal change of state, put in proper
+mathematical form, gives the well known Lueders formula, which contains the
+probability rule.

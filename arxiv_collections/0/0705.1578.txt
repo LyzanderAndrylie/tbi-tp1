@@ -1,0 +1,6 @@
+A general theory of summation of divergent series based on the
+Hardy-Kolmogorov axioms is developed. A class of functional series is
+investigated by means of ergodic theory. The results are formulated in terms of
+solvability of some cohomological equations, all solutions to which are
+nonmeasurable. In particular, this realizes a construction of a nonmeasurable
+function as first conjectured by Kolmogorov.

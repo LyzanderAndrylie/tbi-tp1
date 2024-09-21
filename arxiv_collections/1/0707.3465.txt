@@ -1,0 +1,18 @@
+In a recent article, Desai and Fisher (2007) proposed that the speed of
+adaptation in an asexual population is determined by the dynamics of the
+stochastic edge of the population, that is, by the emergence and subsequent
+establishment of rare mutants that exceed the fitness of all sequences
+currently present in the population. Desai and Fisher perform an elaborate
+stochastic calculation of the mean time $\tau$ until a new class of mutants has
+been established, and interpret $1/\tau$ as the speed of adaptation. As they
+note, however, their calculations are valid only for moderate speeds. This
+limitation arises from their method to determine $\tau$: Desai and Fisher
+back-extrapolate the value of $\tau$ from the best-fit class' exponential
+growth at infinite time. This approach is not valid when the population adapts
+rapidly, because in this case the best-fit class grows non-exponentially during
+the relevant time interval. Here, we substantially extend Desai and Fisher's
+analysis of the stochastic edge. We show that we can apply Desai and Fisher's
+method to high speeds by either exponentially back-extrapolating from finite
+time or using a non-exponential back-extrapolation. Our results are compatible
+with predictions made using a different analytical approach (Rouzine et al.
+2003, 2007), and agree well with numerical simulations.

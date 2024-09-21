@@ -1,0 +1,9 @@
+It is shown that the rank-$k$ numerical range of every $n$-by-$n$ complex
+matrix is non-empty if $n \ge 3k - 2$. The proof is based on a recent
+characterization of the rank-$k$ numerical range by Li and Sze, the Helly's
+theorem on compact convex sets, and some eigenvalue inequalities. In
+particular, the result implies that $\Lambda_2(A)$ is non-empty if $n \ge 4$.
+This confirms a conjecture of Choi et al. If $3k-2>n>0$, an $n$-by-$n$ complex
+matrix is given for which the rank-$k$ numerical range is empty. Extension of
+the result to bounded linear operators acting on an infinite dimensional
+Hilbert space is also discussed.

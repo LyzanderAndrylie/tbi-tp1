@@ -1,0 +1,9 @@
+One of the problems concerning entanglement witnesses (EWs) is the
+construction of them by a given set of operators. Here several multi-qubit EWs
+called stabilizer EWs are constructed by using the stabilizer operators of some
+given multi-qubit states such as GHZ, cluster and exceptional states. The
+general approach to manipulate the multi-qubit stabilizer EWs by
+exact(approximate) linear programming (LP) method is described and it is shown
+that the Clifford group play a crucial role in finding the hyper-planes
+encircling the feasible region. The optimality, decomposability and
+non-decomposability of constructed stabilizer EWs are discussed.

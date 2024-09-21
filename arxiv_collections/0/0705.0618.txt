@@ -1,0 +1,22 @@
+The differing M_bh-Luminosity relations presented in McLure & Dunlop, Marconi
+& Hunt and Erwin et al. have been investigated. A number of issues have been
+identified and addressed in each of these studies, including but not limited
+to: the removal of a dependency on the Hubble constant; a correction for dust
+attenuation in the bulges of disc galaxies; the identification of lenticular
+galaxies previously treated as elliptical galaxies; and application of the same
+(Y|X) regression analysis. These adjustments result in relations which now
+predict similar black hole masses. The optimal K-band relation is
+log(M_bh/M_sun) = -0.37(+/-0.04)[M_K +24] + 8.29(+/-0.08), with a total (not
+intrinsic) scatter in log M_bh equal to 0.33 dex. This level of scatter is
+similar to the value of 0.34 dex from the M_bh-sigma relation of Tremaine et
+al. and compares favourably with the value of 0.31 dex from the M_bh-n relation
+of Graham & Driver. Using different photometric data, consistent relations in
+the B- and R-band are also provided, although we do note that the small (N=13)
+R-band sample used by Erwin et al. is found here to have a slope of
+-0.30(+/-0.06) and a total scatter of 0.31 dex. Performing a symmetrical
+regression on the larger K-band sample gives a slope of -0.40, implying M_bh ~
+L^{1.00}. Implications for galaxy-black hole coevolution, in terms of dry
+mergers, are briefly discussed, as are predictions for intermediate mass black
+holes. Finally, as previously noted by Tundo et al., a potential bias in the
+galaxy sample used to define the M_bh-L relations is shown and a corrective
+formula provided.

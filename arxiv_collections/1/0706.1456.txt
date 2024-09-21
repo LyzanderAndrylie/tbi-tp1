@@ -1,0 +1,10 @@
+We present the mathematical foundations of the contract-based model developed
+in the framework of the SPEEDS project. SPEEDS aims at developing methods and
+tools to support "speculative design", a design methodology in which
+distributed designers develop different aspects of the overall system, in a
+concurrent but controlled way. Our generic mathematical model of contract
+supports this style of development. This is achieved by focusing on behaviors,
+by supporting the notion of "rich component" where diverse (functional and
+non-functional) aspects of the system can be considered and combined, by
+representing rich components via their set of associated contracts, and by
+formalizing the whole process of component composition.

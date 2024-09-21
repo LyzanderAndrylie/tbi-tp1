@@ -1,0 +1,13 @@
+After reexamining the above barrier diffusion problem where we notice that
+the wave packet collision implies the existence of {\em multiple} reflected and
+transmitted wave packets, we analyze the way of obtaining phase times for
+tunneling/reflecting particles in a particular colliding configuration where
+the idea of multiple peak decomposition is recovered. To partially overcome the
+analytical incongruities which frequently rise up when the stationary phase
+method is adopted for computing the (tunneling) phase time expressions, we
+present a theoretical exercise involving a symmetrical collision between two
+identical wave packets and a unidimensional squared potential barrier where the
+scattered wave packets can be recomposed by summing the amplitudes of
+simultaneously reflected and transmitted wave components so that the conditions
+for applying the stationary phase principle are totally recovered. Lessons
+concerning the use of the stationary phase method are drawn.

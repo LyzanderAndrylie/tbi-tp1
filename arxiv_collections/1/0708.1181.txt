@@ -1,0 +1,11 @@
+We present a detailed analysis of the one-electron physics of the actinides.
+Various LMTO basis sets are analyzed in order to determine a robust bare
+Hamiltonian for the actinides. The hybridization between f- an spd- states is
+compared with the f-f hopping in order to understand the Anderson-like and
+Hubbard-like contributions to itineracy in the actinides. We show that both
+contributions decrease strongly as one move from the light actinides to the
+heavy actinides, while the Anderson-like contribution dominates in all cases. A
+real-space analysis of the band structure shows that nearest-neighbor hopping
+dominates the physics in these materials. Finally, we discuss the implications
+of our results to the delocalization transition as function of atomic number
+across the actinide series.

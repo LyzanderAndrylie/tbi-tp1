@@ -1,0 +1,9 @@
+We consider pattern containment and avoidance with a very tight definition
+that was used first by Riordan more than 60 years ago. Using this definition,
+we prove the monotone pattern is easier to avoid than almost any other pattern
+of the same length.
+  We also show that with this definition, almost all patterns of length $k$ are
+avoided by the same number of permutations of length $n$. The corresponding
+statements are not known to be true for more relaxed definitions of pattern
+containment. This is the first time we know of that expectations are used to
+compare numbers of permutations avoiding certain patterns.

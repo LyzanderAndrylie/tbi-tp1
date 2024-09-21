@@ -1,0 +1,13 @@
+this paper we consider the problem of separating noisy instantaneous linear
+mixtures of document images in the Bayesian framework. The source image is
+modeled hierarchically by a latent labeling process representing the common
+classifications of document objects among different color channels and the
+intensity process of pixels given the class labels. A Potts Markov random field
+is used to model regional regularity of the classification labels inside object
+regions. Local dependency between neighboring pixels can also be accounted by
+smoothness constraint on their intensities. Within the Bayesian approach, all
+unknowns including the source, the classification, the mixing coefficients and
+the distribution parameters of these variables are estimated from their
+posterior laws. The corresponding Bayesian computations are done by MCMC
+sampling algorithm. Results from experiments on synthetic and real image
+mixtures are presented to illustrate the performance of the proposed method.

@@ -1,0 +1,10 @@
+We present a measurement of the CP violation parameters in B0 ->Kspi0pi0 and
+B0 -> KsKs decays using a data sample containing 657x10^6 BBbar pairs collected
+with the Belle detector at the KEKB asymmetric-energy e+e- collider operating
+at the Y(4S) resonance. We measure
+  SKspi0pi0 = +0.43+/-0.49+/-0.09,
+  AKspi0pi0 = -0.17+/-0.24+/-0.06,
+  SKsKs = -0.38+/-0.77+/-0.08 and
+  AKsKs = -0.38+/-0.38+/-0.05,
+  where the first and second errors are statistical and systematic,
+respectively.

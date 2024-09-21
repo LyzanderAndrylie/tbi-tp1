@@ -1,0 +1,10 @@
+We study the shift of the chiral condensate in a constant electromagnetic
+field in the context of chiral perturbation theory. Using the Schwinger
+proper-time formalism, we derive a one-loop expression correct to all orders in
+$m_{\pi}^2 / eH$. Our result correctly reproduces a previously derived
+``low-energy theorem'' for $m_\pi = 0$. We show that it is essential to include
+corrections due to non-vanishing $m_\pi$ in order for a low energy theorem to
+have any approximate regime of validity in the physical universe. We generalize
+these results to systems containing electric fields, and discuss the regime of
+validity for the results. In particular, we discuss the circumstances in which
+the method formally breaks down due to pair creation in an electric field.

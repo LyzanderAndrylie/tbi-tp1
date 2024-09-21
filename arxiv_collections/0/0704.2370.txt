@@ -1,0 +1,12 @@
+We consider a nano-system connected to measurement probes via non interacting
+leads. When the electrons interact inside the nano-system, the coefficient
+|ts(E_F)|^2 describing its effective transmission at the Fermi energy E_F
+ceases to be local. This effect of electron-electron interactions upon
+|ts(E_F)|^2 is studied using a one dimensional model of spinless fermions and
+the Hartree-Fock approximation. The non locality of |ts(E_F)|^2 is due to the
+coupling between the Hartree and Fock corrections inside the nano-system and
+the scatterers outside the nano-system via long range Friedel oscillations.
+Using this phenomenon, one can vary |ts(E_F)|^2 by an Aharonov-Bohm flux
+threading a ring which is attached to one lead at a distance Lc from the
+nano-system. For small distances Lc, the variation of the quantum conductance
+induced by this non local effect can exceed 0.1 (e^2/h).

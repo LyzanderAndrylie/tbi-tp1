@@ -1,0 +1,13 @@
+We discuss the processes underlying the excitation of fishbone-like internal
+kink instabilities driven by supra-thermal electrons generated experimentally
+by different means: Electron Cyclotron Resonance Heating (ECRH) and by Lower
+Hybrid (LH) power injection. The peculiarity and interest of exciting these
+electron fishbones by ECRH only or by LH only is also analyzed. Not only the
+mode stability is explained, but also the transition between steady state
+nonlinear oscillations to bursting (almost regular) pulsations, as observed in
+FTU, is interpreted in terms of the LH power input. These results are directly
+relevant to the investigation of trapped alpha particle interactions with
+low-frequency MHD modes in burning plasmas: in fact, alpha particles in reactor
+relevant conditions are characterized by small dimensionless orbits, similarly
+to electrons; the trapped particle bounce averaged dynamics, meanwhile, depends
+on energy and not mass.

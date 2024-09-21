@@ -1,0 +1,17 @@
+In this paper we explore a possibility that all transport turbulent models
+are contained in a coarse-grained kinetic equation. Building on a recent work
+by H.Chen et al (2004), we account for fluctuations of a single -point
+probability density in turbulence, by introducing a``two-level'' (${\bf
+c,v}$)-phase-space, separating microscopic (${\bf c'\equiv c_{micro}= c-v}$)
+and hydrodynamic (${\bf v'=v-V}$) modes. Unlike traditional kinetic theories,
+with hydrodynamic approximations derived in terms of small deviations from
+thermodynamic equilibrium, the theory developed in this work, is based on a
+far- from -equilibrium isotropic and homogeneous turbulence as an unperturbed
+state. The expansion in dimensionless rate of strain leads to a new class of
+turbulent models, including the well-known ${\cal K}-{\cal E}$, Reynolds stress
+and all possible nonlinear models. The role of interaction of the fluxes in
+physical space with the energy flux across the scales, not present in standard
+modeling, is demonstrated on example of turbulent channel flow. To close the
+system, neither equation for turbulent kinetic energy nor information on
+pressure-velocity correlations, contained in the derived coarse-grained kinetic
+equation, are needed.

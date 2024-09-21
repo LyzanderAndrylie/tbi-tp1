@@ -1,0 +1,9 @@
+We demonstrate that an equilibrium spin current in a 2D electron gas with
+Rashba spin-orbit interaction (Rashba medium) results in a mechanical torque on
+a substrate near an edge of the medium. If the substrate is a cantilever, the
+mechanical torque displaces the free end of the cantilever. The effect can be
+enhanced and tuned by a magnetic field. Observation of this displacement would
+be an effective method to prove existence of equilibrium spin currents. The
+analysis of edges of the Rashba medium demonstrates the existence of localized
+edge states. They form a 1D continuum of states. This suggests a new type of
+quantum wire: spin-orbit quantum wire.

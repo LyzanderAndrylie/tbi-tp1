@@ -1,0 +1,20 @@
+Recent three-dimensional radiative hydrodynamics simulations of
+protoplanetary disks report disparate disk behaviors, and these differences
+involve the importance of convection to disk cooling, the dependence of disk
+cooling on metallicity, and the stability of disks against fragmentation and
+clump formation. To guarantee trustworthy results, a radiative physics
+algorithm must demonstrate the capability to handle both the high and low
+optical depth regimes. We develop a test suite that can be used to demonstrate
+an algorithm's ability to relax to known analytic flux and temperature
+distributions, to follow a contracting slab, and to inhibit or permit
+convection appropriately. We then show that the radiative algorithm employed by
+Meji\'a (2004) and Boley et al. (2006) and the algorithm employed by Cai et al.
+(2006) and Cai et al. (2007, in prep.) pass these tests with reasonable
+accuracy. In addition, we discuss a new algorithm that couples flux-limited
+diffusion with vertical rays, we apply the test suite, and we discuss the
+results of evolving the Boley et al. (2006) disk with this new routine.
+Although the outcome is significantly different in detail with the new
+algorithm, we obtain the same qualitative answers. Our disk does not cool fast
+due to convection, and it is stable to fragmentation. We find an effective
+$\alpha\approx 10^{-2}$. In addition, transport is dominated by low-order
+modes.

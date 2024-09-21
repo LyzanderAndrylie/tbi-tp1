@@ -1,0 +1,9 @@
+Neural networks are used extensively in classification problems in particle
+physics research. Since the training of neural networks can be viewed as a
+problem of inference, Bayesian learning of neural networks can provide more
+optimal and robust results than conventional learning methods. We have
+investigated the use of Bayesian neural networks for signal/background
+discrimination in the search for second generation leptoquarks at the Tevatron,
+as an example. We present a comparison of the results obtained from the
+conventional training of feedforward neural networks and networks trained with
+Bayesian methods.

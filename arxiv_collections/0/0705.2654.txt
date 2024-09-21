@@ -1,0 +1,17 @@
+In the radio regime the mass-loss rate of AGB stars is best probed using
+molecular (and atomic) line emission arising in the CSE formed by the stellar
+wind. The numerical modelling of the circumstellar emission where intricate
+interplays between physical and chemical processes take place, is a challenge.
+The derived mass-loss rates depend crucially on the assumptions in the
+circumstellar model, of which some can be constrained if enough observational
+data exist. Therefore, a reliable mass-loss-rate determination for an
+individual star requires, in addition to a detailed radiative transfer
+analysis, good observational constraints in the form of multi-line observations
+and radial brightness distributions. Of the methods used to estimate mass-loss
+rates from galactic AGB stars those based on radiative transfer modelling of CO
+line emission are most commonly used and possibly also the most accurate.
+Typically, CO multi-transitional observations can constrain the mass-loss rate
+to better than 50%, within the adopted circumstellar model. Comparison with
+complementary methods, such as estimates based on dust radiative transfer
+modelling coupled with a dynamical model, are consistent within a factor of
+three.

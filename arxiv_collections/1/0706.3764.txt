@@ -1,0 +1,11 @@
+We present a scanning tunneling spectroscopy (STS) study of the local
+electronic structure of single and bilayer graphene grown epitaxially on a
+SiC(0001) surface. Low voltage topographic images reveal fine, atomic-scale
+carbon networks, whereas higher bias images are dominated by emergent spatially
+inhomogeneous large-scale structure similar to a carbon-rich reconstruction of
+SiC(0001). STS spectroscopy shows a ~100meV gap-like feature around zero bias
+for both monolayer and bilayer graphene/SiC, as well as significant spatial
+inhomogeneity in electronic structure above the gap edge. Nanoscale structure
+at the SiC/graphene interface is seen to correlate with observed electronic
+spatial inhomogeneity. These results are important for potential devices
+involving electronic transport or tunneling in graphene/SiC.

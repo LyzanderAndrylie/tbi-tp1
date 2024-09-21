@@ -1,0 +1,12 @@
+Discovery Systems (DS) can be considered as entry points for global loosely
+coupled distributed systems. An efficient Discovery System in essence increases
+the performance, reliability and decision making capability of distributed
+systems. With the rapid increase in scale of distributed applications, existing
+solutions for discovery systems are fast becoming either obsolete or incapable
+of handling such complexity. They are particularly ineffective when handling
+service lifetimes and providing up-to-date information, poor at enabling
+dynamic service access and they can also impose unwanted restrictions on
+interfaces to widely available information repositories. In this paper we
+present essential the design characteristics, an implementation and a
+performance analysis for a discovery system capable of overcoming these
+deficiencies in large, globally distributed environments.

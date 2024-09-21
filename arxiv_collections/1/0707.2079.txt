@@ -1,0 +1,11 @@
+In this paper we show how to find nearly optimal embeddings of large trees in
+several natural classes of graphs. The size of the tree T can be as large as a
+constant fraction of the size of the graph G, and the maximum degree of T can
+be close to the minimum degree of G. For example, we prove that any graph of
+minimum degree d without 4-cycles contains every tree of size \epsilon d^2 and
+maximum degree at most (1-2\epsilon)d - 2. As there exist d-regular graphs
+without 4-cycles of size O(d^2), this result is optimal up to constant factors.
+We prove similar nearly tight results for graphs of given girth, graphs with no
+complete bipartite subgraph K_{s,t}, random and certain pseudorandom graphs.
+These results are obtained using a simple and very natural randomized embedding
+algorithm, which can be viewed as a "self-avoiding tree-indexed random walk".

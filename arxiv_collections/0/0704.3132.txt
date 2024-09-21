@@ -1,0 +1,22 @@
+We study the direct CP violation in $\bar{B}^0 \to
+\rho^0(\omega)\rho^0(\omega) \to \pi^+\pi^-\pi^+\pi^-$ (with unpolarized
+$\rho^0(\omega)$) via the $\rho-\omega$ mixing mechanism which causes a large
+strong phase difference and consequently a large CP violating asymmetry when
+the masses of the $\pi^+\pi^-$ pairs are in the vicinity of the $\omega$
+resonance. Since there are two $\rho (\omega)$ mesons in the intermediate state
+$\rho-\omega$ mixing contributes twice to the first order of isospin violation,
+leading to an even larger CP violating asymmetry (could be 30% -- 50% larger)
+than in the case where only one $\rho (\omega)$ meson is involved. The CP
+violating asymmetry depends on the Cabibbo-Kobayashi-Maskawa (CKM) matrix
+elements and the hadronic matrix elements. The factorization approach is
+applied in the calculation of the hadronic matrix elements with the
+nonfactorizable effects being included effectively in an effective parameter,
+$N_c$. We give the constraint on the range of $N_c$ from the latest
+experimental data for the branching ratios for $\bar{B}^0 \to\rho^0\rho^0$ and
+$\bar{B}^0 \to\rho^+\rho^-$. We find that the CP violating asymmetry could be
+very large (even more than 90% for some values of $N_c$). It is shown that the
+sensitivity of the CP violating asymmetry to $N_c$ is large compared with its
+smaller sensitivity to the CKM matrix elements. We also discuss the possibility
+to remove the mod $(\pi)$ ambiguity in the determination of the CP violating
+phase angle $\alpha$ through the measurement of the CP violating asymmetry in
+the decay $\bar{B}^0\to \rho^0(\omega)\rho^0(\omega) \to \pi^+\pi^-\pi^+\pi^-$.

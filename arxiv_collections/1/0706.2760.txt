@@ -1,0 +1,23 @@
+The description of the tunneling of a macroscopic variable in the presence of
+a bath of localized spins is a subject of great fundamental and practical
+interest, and is relevant for many solid-state qubit designs. Instead of
+focusing on the the "central spin" (as is most often done), here we present a
+detailed study of the dynamics of the nuclear spin bath in the Mn12-ac
+single-molecule magnet, probed by NMR experiments down to very low temperatures
+(T = 20 mK). We find that the longitudinal relaxation rate of the 55Mn nuclei
+in Mn12-ac becomes roughly T-independent below T = 0.8 K, and can be strongly
+suppressed with a longitudinal magnetic field. This is consistent with the
+nuclear relaxation being caused by quantum tunneling of the molecular spin, and
+we attribute the tunneling fluctuations to the minority of fast-relaxing
+molecules present in the sample. The transverse nuclear relaxation is also
+T-independent for T < 0.8 K, and can be explained qualitatively and
+quantitatively by the dipolar coupling between like nuclei in neighboring
+molecules. We also show that the isotopic substitution of 1H by 2H leads to a
+slower nuclear longitudinal relaxation, consistent with the decreased tunneling
+probability of the molecular spin. Finally, we demonstrate that, even at the
+lowest temperatures, the nuclear spins remain in thermal equilibrium with the
+lattice phonons, and we investigate the timescale for their thermal
+equilibration. After a review of the theory of macroscopic spin tunneling in
+the presence of a spin bath, we argue that most of our experimental results are
+consistent with that theory, but the thermalization of the nuclear spins is
+not.

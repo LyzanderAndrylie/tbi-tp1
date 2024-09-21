@@ -1,0 +1,18 @@
+A large number of pulsars and X-rays sources are detected in globular
+clusters. To understand the structure and content of these clusters, accurate
+distances are required. We derive the distances of Terzan 5, Liller 1 and UKS 1
+using as a reference a recent distance determination of NGC 6528, based on
+HST/NICMOS and NTT/SOFI infrared photometry. The distance of the metal-poor
+cluster Terzan 4 was derived from a comparison with M92 in NICMOS bands.
+Distances of the metal-rich clusters are obtained by comparison of the
+Horizontal Branch (HB) level of the clusters, relative to the reddening line
+passing through the HB of NGC 6528. We use methods based on NICMOS bands and
+transformations to J and H magnitudes with different assumptions. Liller~1 and
+Terzan~4 are found to be at the central bulge distance, UKS~1 is beyond the
+Galactic center, while Terzan 5 is closer to the Sun than the other four
+clusters. The distance of Terzan 5 is of paramount importance, given the impact
+of its population of 21 pulsars, which is related to the high cluster density.
+The distance of Terzan 5 is found to be d$_{\odot}$=5.5$\pm$0.9 kpc from the
+Sun, thus closer to us than values given in studies of pulsars in Terzan 5. As
+a consequence, the higher cluster density is even more favourable for formation
+of the millisecond pulsars recently detected in this cluster.

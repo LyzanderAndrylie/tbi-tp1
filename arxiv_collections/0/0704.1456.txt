@@ -1,0 +1,10 @@
+The dependence on the temperature of photospheric line-depth ratios (LDRs) in
+the spectral range 6190-6280 A is investigated by using a sample of 174 ELODIE
+Archive stellar spectra of luminosity class from V to III. The rotational
+broadening effect on LDRs is also studied. We provide useful calibrations of
+effective temperature versus LDRs for giant and main sequence stars with
+3800<Teff<6000 K and vsini in the range 0-30 km/s. We found that, with the
+exception of very few line pairs, LDRs, measured at a spectral resolution as
+high as 42000, depend on vsini and that, by neglecting the rotational
+broadening effect, one can mistake the Teff determination of 100 K in the worst
+cases.

@@ -1,0 +1,11 @@
+The dynamics of an open quantum system is usually studied by performing a
+weak-coupling and weak-correlation expansion in the system-bath interaction.
+For systems exhibiting strong couplings and highly non-Markovian behavior this
+approach is not justified. We apply a recently proposed correlated projection
+superoperator technique to the model of a central spin coupled to a spin bath
+via full Heisenberg interaction. Analytical solutions to both the
+Nakajima-Zwanzig and the time-convolutionless master equation are determined
+and compared with the results of the exact solution. The correlated projection
+operator technique significantly improves the standard methods and can be
+applied to many physical problems such as the hyperfine interaction in a
+quantum dot.

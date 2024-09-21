@@ -1,0 +1,3 @@
+Using the recently introduced parametric representation of non-commutative
+quantum field theory, we implement here the dimensional regularization and
+renormalization of the vulcanized $\Phi^{\star 4}_4$ model on the Moyal space.

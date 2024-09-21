@@ -1,0 +1,10 @@
+We give an efficient algorithm to randomly generate finitely generated
+subgroups of a given size, in a finite rank free group. Here, the size of a
+subgroup is the number of vertices of its representation by a reduced graph
+such as can be obtained by the method of Stallings foldings. Our algorithm
+randomly generates a subgroup of a given size n, according to the uniform
+distribution over size n subgroups. In the process, we give estimates of the
+number of size n subgroups, of the average rank of size n subgroups, and of the
+proportion of such subgroups that have finite index. Our algorithm has average
+case complexity $\O(n)$ in the RAM model and $\O(n^2\log^2n)$ in the bitcost
+model.

@@ -1,0 +1,5 @@
+By considering the one-particle and two-particle scattering data of the
+spin-1/2 Heisenberg chain at T=0 we derive a continuum limit relating the spin
+chain to the 1D Bose gas. Applying this limit to the quantum transfer matrix
+approach of the Heisenberg chain we obtain expressions for the correlation
+functions of the Bose gas at arbitrary temperatures.

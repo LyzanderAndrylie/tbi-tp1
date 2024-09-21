@@ -1,0 +1,10 @@
+Quantum information carriers with higher dimension than the canonical qubit
+offer significant advantages. However, manipulating such systems is extremely
+difficult. We show how measurement induced non-linearities can be employed to
+dramatically extend the range of possible transforms on biphotonic qutrits; the
+three level quantum systems formed by the polarisation of two photons in the
+same spatio-temporal mode. We fully characterise the biphoton-photon
+entanglement that underpins our technique, thereby realising the first instance
+of qubit-qutrit entanglement. We discuss an extension of our technique to
+generate qutrit-qutrit entanglement and to manipulate any bosonic encoding of
+quantum information.

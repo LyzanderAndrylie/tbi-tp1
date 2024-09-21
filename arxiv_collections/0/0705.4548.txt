@@ -1,0 +1,9 @@
+The permanent of a square matrix is defined in a way similar to the
+determinant, but without using signs. The exact computation of the permanent is
+hard, but there are Monte-Carlo algorithms that can estimate general
+permanents. Given a planar diagram of a link L with $n$ crossings, we define a
+7n by 7n matrix whose permanent equals to the Jones polynomial of L. This
+result accompanied with recent work of Freedman, Kitaev, Larson and Wang
+provides a Monte-Carlo algorithm to any decision problem belonging to the class
+BQP, i.e. such that it can be computed with bounded error in polynomial time
+using quantum resources.

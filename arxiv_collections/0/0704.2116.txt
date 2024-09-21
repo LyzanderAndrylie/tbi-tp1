@@ -1,0 +1,11 @@
+We have investigated the thermal, transport and magnetic properties of
+URh$_{1-x}$Ru$_x$Ge alloys near the critical concentration $x_{cr} = 0.38$ for
+the suppression of ferromagnetic order. The Curie temperature vanishes linearly
+with $x$ and the ordered moment $m_0$ is suppressed in a continuous way. At
+$x_{cr}$ the specific heat varies as $c \sim TlnT$, the $\gamma$-value
+$c/T|_{0.5K}$ is maximum and the temperature exponent of the resistivity $\rho
+\sim T^n$ attains a minimum value $n=1.2$. These observations provide evidence
+for a ferromagnetic quantum phase transition. Interestingly, the coefficient of
+thermal expansion and the Gr\"uneisen parameter $\Gamma$ remain finite at
+$x_{cr}$ (down to $T = 1$ K), which is at odds with recent scaling results for
+a metallic quantum critical point.

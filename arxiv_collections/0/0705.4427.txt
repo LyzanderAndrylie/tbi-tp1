@@ -1,0 +1,12 @@
+Mortality, birth rates and retirement play a major role in demographic
+changes. In most cases, mortality rates decreased in the past century without
+noticeable decrease in fertility rates, this leads to a significant increase in
+population growth. In many poor countries like Palestinian territories the
+number of births has fallen and the life expectancy increased.
+  In this article we concentrate on measuring, analyzing and extrapolating the
+age structure in Palestine a few decades ago into future. A Fortran program has
+been designed and used for the simulation and analysis of our statistical data.
+This study of demographic change in Palestine has shown that Palestinians will
+have in future problems as the strongest age cohorts are the above-60-year
+olds. We therefore recommend the increase of both the retirement age and women
+employment.

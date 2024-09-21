@@ -1,0 +1,7 @@
+We prove the existence of a close connection between spaces with measured
+walls and median metric spaces. We then relate properties (T) and Haagerup
+(a-T-menability) to actions on median spaces and on spaces with measured walls.
+This allows us to explore the relationship between the classical properties (T)
+and Haagerup and their versions using affine isometric actions on $L^p$-spaces.
+It also allows us to answer an open problem on a dynamical characterization of
+property (T), generalizing results of Robertson-Steger.

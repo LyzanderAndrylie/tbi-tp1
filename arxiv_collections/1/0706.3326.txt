@@ -1,0 +1,6 @@
+Recently, Agrawal and Pati [Phys. Rev. A 74, 062320 (2006)] have given a
+class of W-states that can be used for perfect teleportation. Here, two
+canonical forms of perfect quantum channel are presented by transformation
+operator and the GHZ state and the W state are special case of those two
+canonical forms of perfect quantum channel. Furthermore, the orthogonal
+complete measurement bases are given.

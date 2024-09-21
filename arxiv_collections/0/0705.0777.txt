@@ -1,0 +1,18 @@
+Database search has wide applications and is used as a subroutine in many
+important algorithms. We shall consider a database with one target item.
+Quantum algorithm finds the target item in a database faster than any classical
+algorithm. It frequently occurs in practice that only a portion of information
+about the target item is interesting, or we need to find a group of items
+sharing some common feature as the target item. This problem is in general
+formulated as search for a part of the database [a block] containing the target
+item, instead of the item itself. This is partial search. Partial search trades
+accuracy for speed, i.e. it works faster than a full search. Partial search
+algorithm was discovered by Grover and Radhakrishnan. We shall consider
+optimized version of the algorithm and call it GRK. It can be applied
+successively [in a sequence]. First the database is partitioned into blocks and
+we use GRK to find the target block. Then this target block is partitioned into
+sub-blocks and we use GRK again to find the target sub-block. [We can call it
+binary quantum search.] Another possibility is to partition the database into
+sub-blocks directly and use GRK to find the target sub-block in one time. In
+this paper we prove that the latter is faster [makes less queries to the
+oracle].

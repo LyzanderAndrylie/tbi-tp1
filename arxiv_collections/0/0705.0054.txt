@@ -1,0 +1,13 @@
+We define a new family of random spin models with one-dimensional structure,
+finite-range multi-spin interactions, and bounded average degree (number of
+interactions in which each spin participates). Unfrustrated ground states can
+be described as solutions of a sparse, band diagonal linear system, thus
+allowing for efficient numerical analysis.
+  In the limit of infinite interaction range, we recover the so-called XORSAT
+(diluted p-spin) model, that is known to undergo a random first order phase
+transition as the average degree is increased. Here we investigate the most
+important consequences of a large but finite interaction range: (i)
+Fluctuation-induced corrections to thermodynamic quantities; (ii) The need of
+an inhomogeneous (position dependent) order parameter; (iii) The emergence of a
+finite mosaic length scale. In particular, we study the correlation length
+divergence at the (mean-field) glass transition.

@@ -1,0 +1,6 @@
+We study the charge density distribution, the electric field profile, and the
+resistance of an electrostatically created lateral p-n junction in graphene. We
+show that the electric field at the interface of the electron and hole regions
+is strongly enhanced due to limited screening capacity of Dirac quasiparticles.
+Accordingly, the junction resistance is lower than estimated in previous
+literature.

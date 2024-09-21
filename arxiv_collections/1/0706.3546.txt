@@ -1,0 +1,18 @@
+Checkpointing is an indispensable technique to provide fault tolerance for
+long-running high-throughput applications like those running on desktop grids.
+This paper argues that a dedicated checkpoint storage system, optimized to
+operate in these environments, can offer multiple benefits: reduce the load on
+a traditional file system, offer high-performance through specialization, and,
+finally, optimize data management by taking into account checkpoint application
+semantics. Such a storage system can present a unifying abstraction to
+checkpoint operations, while hiding the fact that there are no dedicated
+resources to store the checkpoint data. We prototype stdchk, a checkpoint
+storage system that uses scavenged disk space from participating desktops to
+build a low-cost storage system, offering a traditional file system interface
+for easy integration with applications. This paper presents the stdchk
+architecture, key performance optimizations, support for incremental
+checkpointing, and increased data availability. Our evaluation confirms that
+the stdchk approach is viable in a desktop grid setting and offers a low cost
+storage system with desirable performance characteristics: high write
+throughput and reduced storage space and network effort to save checkpoint
+images.

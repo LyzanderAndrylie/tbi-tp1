@@ -1,0 +1,12 @@
+We have developed a theoretical method to study scattering processes of an
+incident electron through an N-electron quantum dot (QD) embedded in a
+two-dimensional (2D) semiconductor. The generalized Lippmann-Schwinger
+equations including the electron-electron exchange interaction in this system
+are solved for the continuum electron by using the method of continued
+fractions (MCF) combined with 2D partial-wave expansion technique. The method
+is applied to a one-electron QD case. Cross-sections are obtained for both the
+singlet and triplet couplings between the incident electron and the QD electron
+during the scattering. The total elastic cross-sections as well as the
+spin-flip scattering cross-sections resulting from the exchange potential are
+presented. Furthermore, inelastic scattering processes are also studied using a
+multichannel formalism of the MCF.

@@ -1,0 +1,8 @@
+We present exact analytical and numerical results for the electronic spectra
+and the Friedel oscillations around a substitutional impurity atom in a
+graphene lattice. A chemical dopant in graphene introduces changes in the
+on-site potential as well as in the hopping amplitude. We employ a T-matrix
+formalism and find that disorder in the hopping introduces additional
+interference terms around the impurity that can be understood in terms of
+bound, semi-bound, and unbound processes for the Dirac electrons. These
+interference effects can be detected by scanning tunneling microscopy.

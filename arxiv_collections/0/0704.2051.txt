@@ -1,0 +1,13 @@
+We present the results of a deep 610 MHz survey of the 1^H XMM/Chandra survey
+area with the GMRT. The resulting maps have a resolution of ~7 arcsec and an
+rms noise limit of 60 microJy. To a 5 sigma detection limit of 300 microJy we
+detect 223 sources within a survey area of diameter 64 arcmin. We compute the
+610 MHz source counts and compare them to those measured at other radio
+wavelengths. The well know flattening of the Euclidean-normalised 1.4 GHz
+source counts below ~2 mJy, usually explained by a population of starburst
+galaxies undergoing luminosity evolution, is seen at 610 MHz. The 610 MHz
+source counts can be modelled by the same populations that explain the 1.4 GHz
+source counts, assuming a spectral index of -0.7 for the starburst galaxies and
+the steep spectrum AGN population. We find a similar dependence of luminosity
+evolution on redshift for the starburst galaxies at 610 MHz as is found at 1.4
+GHz (i.e. 'Q'= 2.45 (+0.3,-0.4)).

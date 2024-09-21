@@ -1,0 +1,9 @@
+When looking for a solution, deterministic methods have the enormous
+advantage that they do find global optima. Unfortunately, they are very
+CPU-intensive, and are useless on untractable NP-hard problems that would
+require thousands of years for cutting-edge computers to explore. In order to
+get a result, one needs to revert to stochastic algorithms, that sample the
+search space without exploring it thoroughly. Such algorithms can find very
+good results, without any guarantee that the global optimum has been reached;
+but there is often no other choice than using them. This chapter is a short
+introduction to the main methods used in stochastic optimization.

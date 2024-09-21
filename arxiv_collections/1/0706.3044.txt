@@ -1,0 +1,13 @@
+In 1941, L. Ahlfors gave another proof of a 1933 theorem of H. Cartan on
+approximation to hyperplanes of holomorphic curves in P^n. Ahlfors' proof built
+on earlier work of H. and J. Weyl (1938), and proved Cartan's theorem by
+studying the associated curves of the holomorphic curve. This work has
+subsequently been reworked by H.-H. Wu in 1970, using differential geometry, M.
+Cowen and P. A. Griffiths in 1976, further emphasizing curvature, and by Y.-T.
+Siu in 1987 and 1990, emphasizing meromorphic connections. This paper gives
+another variation of the proof, motivated by successive minima as in the proof
+of Schmidt's Subspace Theorem, and using McQuillan's "tautological inequality."
+In this proof, essentially all of the analysis is encapsulated within a
+modified McQuillan-like inequality, so that most of the proof primarily uses
+methods of algebraic geometry, in particular flag varieties. A diophantine
+conjecture based on McQuillan's inequality is also posed.

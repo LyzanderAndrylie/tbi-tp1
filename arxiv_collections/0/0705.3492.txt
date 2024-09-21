@@ -1,0 +1,5 @@
+We show that direct feedback based on quantum jump detection can be used to
+generate entangled steady states. We present a strategy that is insensitive to
+detection inefficiencies and robust against errors in the control Hamiltonian.
+This feedback procedure is also shown to overcome spontaneous emission effects
+by stabilising states with high degree of entanglement.

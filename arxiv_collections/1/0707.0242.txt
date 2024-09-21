@@ -1,0 +1,8 @@
+We study the electron transport through a magnetic molecular transistor in
+the Kondo limit using the slave boson technique. We include the electron-phonon
+coupling and analyze the cases where the spin of the molecule is either S=1/2
+or S=1. We use the Schrieffer-Wolff transformation to write down a low energy
+Hamiltonian for the system. In the presence of electron-phonon coupling, and
+for $S\smeq1$, the resulting Kondo Hamiltonian has two active channels. At low
+temperature, these two channels interfere destructively, leading to a zero
+conductance.

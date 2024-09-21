@@ -1,0 +1,4 @@
+We prove that a Bers slice is never algebraic, meaning that its Zariski
+closure in the character variety has strictly larger dimension. A corollary is
+that skinning maps are never constant.
+  The proof uses grafting and the theory of complex projective structures.

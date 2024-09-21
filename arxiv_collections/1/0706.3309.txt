@@ -1,0 +1,14 @@
+This review is devoted to the study of stationary solutions of linear and
+nonlinear equations from relativistic quantum mechanics, involving the Dirac
+operator. The solutions are found as critical points of an energy functional.
+Contrary to the Laplacian appearing in the equations of nonrelativistic quantum
+mechanics, the Dirac operator has a negative continuous spectrum which is not
+bounded from below. This has two main consequences. First, the energy
+functional is strongly indefinite. Second, the Euler-Lagrange equations are
+linear or nonlinear eigenvalue problems with eigenvalues lying in a spectral
+gap (between the negative and positive continuous spectra). Moreover, since we
+work in the space domain R^3, the Palais-Smale condition is not satisfied. For
+these reasons, the problems discussed in this review pose a challenge in the
+Calculus of Variations. The existence proofs involve sophisticated tools from
+nonlinear analysis and have required new variational methods which are now
+applied to other problems.

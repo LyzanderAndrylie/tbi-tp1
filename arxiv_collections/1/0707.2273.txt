@@ -1,0 +1,10 @@
+We define and discuss the notion of pseudospherical surfaces in asymptotic
+coordinates on time scales. Thus we extend well known notions of discrete
+pseudospherical surfaces and smooth pseudosperical surfaces on more exotic
+domains (e.g, the Cantor set). In particular, we present a new expression for
+the discrete Gaussian curvature which turns out to be valid for asymptotic nets
+on any time scale. We show that asymptotic Chebyshev nets on an arbitrary time
+scale have constant negative Gaussian curvature. We present also the
+quaternion-valued spectral problem (the Lax pair) and the Darboux-Backlund
+transformation for pseudospherical surfaces (in asymptotic coordinates) on
+arbitrary time scales.

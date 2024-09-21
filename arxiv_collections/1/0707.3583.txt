@@ -1,0 +1,4 @@
+A Galois theory of differential fields with parameters is developed in a
+manner that generalizes Kolchin's theory. It is shown that all connected
+differential algebraic groups are Galois groups of some appropriate
+differential field extension.

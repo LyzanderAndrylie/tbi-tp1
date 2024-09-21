@@ -1,0 +1,12 @@
+The curvature-squared model of gravity, in the affine form proposed by Weyl
+and Yang, is deduced from a topological action in 4D. More specifically, we
+start from the Pontrjagin (or Euler) invariant. Using the BRST antifield
+formalism with a double duality gauge fixing, we obtain a consistent
+quantization in spaces of double dual curvature as classical instanton type
+background.
+  However, exact vacuum solutions with double duality properties exhibit a
+`vacuum degeneracy'. By modifying the duality via a scale breaking term, we
+demonstrate that only Einstein's equations with an induced cosmological
+constant emerge for the topology of the macroscopic background. This may have
+repercussions on the problem of `dark energy' as well as `dark matter' modeled
+by a torsion induced quintaxion.

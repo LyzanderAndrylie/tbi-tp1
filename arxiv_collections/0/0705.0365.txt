@@ -1,0 +1,17 @@
+We report a method for determining the spatial dependence of the magnetic
+exchange coupling, $dJ/dr$, from magnetostriction measurements of a quantum
+magnet. The organic Ni $S = 1$ system NiCl$_2$-4SC(NH$_2$)$_2$ exhibits lattice
+distortions in response to field-induced canted antiferromagnetism between
+$H_{c1} = 2.1$ T and $H_{c2} = 12.6$ T. We are able to model the
+magnetostriction in terms of uniaxial stress on the sample created by magnetic
+interactions between neighboring Ni atoms along the c-axis. The uniaxial strain
+is equal to $(1/E)dJ_c/dx_c < S_{\bf r} \cdot S_{{\bf r}+ {\bf e}_c} >$, where
+$E$, $J_c$, $x_c$ and ${\bf e}_c$ are the Young's modulus, the nearest neighbor
+(NN) exchange coupling, the variable lattice parameter, and the relative vector
+between NN sites along the c-axis. We present magnetostriction data taken at 25
+mK together with Quantum Monte Carlo calculations of the NN spin-spin
+correlation function that are in excellent agreement with each other. We have
+also measured Young's modulus using resonant ultrasound, and we can thus
+extract $dJ_c/dx_c = 2.5$ K/$\AA$, yielding a total change in $J_c$ between
+$H_{c1}$ and $H_{c2}$ of 5.5 mK or 0.25% in response to an 0.022% change in
+length of the sample.

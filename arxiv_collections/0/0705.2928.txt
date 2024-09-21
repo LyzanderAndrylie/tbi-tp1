@@ -1,0 +1,12 @@
+The hermitian Wilson kernel used in the construction of the domain-wall and
+overlap Dirac operators has exceptionally small eigenvalues that make it
+expensive to reach high-quality chiral symmetry for domain-wall fermions, or
+high precision in the case of the overlap operator. An efficient way of
+suppressing such eigenmodes consists of including a positive power of the
+determinant of the Wilson kernel in the Boltzmann weight, but doing this also
+suppresses tunneling between topological sectors. Here we propose a
+modification of the Hybrid Monte-Carlo algorithm which aims to restore
+tunneling between topological sectors by excluding the lowest eigenmodes of the
+Wilson kernel from the molecular-dynamics evolution, and correcting for this at
+the accept/reject step. We discuss the implications of this modification for
+the acceptance rate.

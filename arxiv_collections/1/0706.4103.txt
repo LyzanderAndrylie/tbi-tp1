@@ -1,0 +1,18 @@
+Reynolds' lubrication approximation is used extensively to study flows
+between moving machine parts, in narrow channels, and in thin films. The
+solution of Reynolds' equation may be thought of as the zeroth order term in an
+expansion of the solution of the Stokes equations in powers of the aspect ratio
+$\epsilon$ of the domain. In this paper, we show how to compute the terms in
+this expansion to arbitrary order on a two-dimensional, $x$-periodic domain and
+derive rigorous, a-priori error bounds for the difference between the exact
+solution and the truncated expansion solution. Unlike previous studies of this
+sort, the constants in our error bounds are either independent of the function
+$h(x)$ describing the geometry, or depend on $h$ and its derivatives in an
+explicit, intuitive way. Specifically, if the expansion is truncated at order
+$2k$, the error is $O(\epsilon^{2k+2})$ and $h$ enters into the error bound
+only through its first and third inverse moments $\int_0^1 h(x)^{-m} dx$,
+$m=1,3$ and via the max norms $\big\|\frac{1}{\ell!} h^{\ell-1} \partial_x^\ell
+h\big\|_\infty$, $1\le\ell\le2k+2$. We validate our estimates by comparing with
+finite element solutions and present numerical evidence that suggests that even
+when $h$ is real analytic and periodic, the expansion solution forms an
+asymptotic series rather than a convergent series.

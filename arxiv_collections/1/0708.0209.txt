@@ -1,0 +1,13 @@
+We consider models of financial markets in which all parties involved find
+incentives to participate. Strategies are evaluated directly by their virtual
+wealths. By tuning the price sensitivity and market impact, a phase diagram
+with several attractor behaviors resembling those of real markets emerge,
+reflecting the roles played by the arbitrageurs and trendsetters, and including
+a phase with irregular price trends and positive sums. The positive-sumness of
+the players' wealths provides participation incentives for them. Evolution and
+the bid-ask spread provide mechanisms for the gain in wealth of both the
+players and market-makers. New players survive in the market if the
+evolutionary rate is sufficiently slow. We test the applicability of the model
+on real Hang Seng Index data over 20 years. Comparisons with other models show
+that our model has a superior average performance when applied to real
+financial data.

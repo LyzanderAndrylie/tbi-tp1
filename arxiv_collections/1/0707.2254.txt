@@ -1,0 +1,8 @@
+This paper studies the thermal properties of three-terminal mesoscopic
+dielectric systems in the nonlinear response regime at low temperature. For a
+symmetric three-terminal system, when the temperature is finitely different
+between the left and right thermal reservoirs, the temperature of the central
+thermal reservoir is always higher than the averaging temperature of the
+others. This nonlinear thermal phenomenon is also observed for asymmetric
+three-terminal systems. At the end, a model of thermal rectification is
+presented.

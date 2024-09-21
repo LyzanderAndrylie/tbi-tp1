@@ -1,0 +1,7 @@
+A very compact architecture has been developed for the first level Muon
+Trigger of the LHCb experiment that processes 40 millions of proton-proton
+collisions per second. For each collision, it receives 3.2 kBytes of data and
+it finds straight tracks within a 1.2 microseconds latency. The trigger
+implementation is massively parallel, pipelined and fully synchronous with the
+LHC clock. It relies on 248 high density Field Programable Gate arrays and on
+the massive use of multigigabit serial link transceivers embedded inside FPGAs.

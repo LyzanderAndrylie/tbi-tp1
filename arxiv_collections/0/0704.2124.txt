@@ -1,0 +1,23 @@
+In this paper we continue to pursue a goal of finding an effective theory for
+high energy interaction in QCD based on the colour dipole approach, for which
+the BFKL Pomeron Calculus gives a low energy limit. The key problem, that we
+try to solve in this paper is the probabilistic interpretation of the BFKL
+Pomeron Calculus in terms of the colourless dipoles and their interactions. We
+demonstrate that the BFKL Pomeron Calculus has two equivalent descriptions :
+(i) one is the generating functional which gives a clear probabilistic
+interpretation of the processes of high energy scattering and also provides a
+Hamiltonian-like description of the system of interacting dipoles; (ii) the
+second is the Langevin equation with a specific noise term which is rather
+complicated. We found that at high energies this Langevin equation can be
+reduced to the Langevin equation for directed percolation in the momentum space
+if the impact parameter is large, namely, $b>> 1/k$, where $k$ is the
+transverse momentum of a dipole. Unfortunately, this simplified form of
+Langevin equation is not applicable for summation of Pomeron loops, where one
+integrates over all possible values of impact parameter. We show that the BFKL
+Pomeron calculus with two vertices (splitting $P\to P+P$ and merging $P+P\to P$
+of Pomerons) can be interpreted as a system of colourless dipoles with two
+processes: the decay of one dipole into two and the merging of two dipoles into
+one dipole. However, a number of assumptions we have to make on the way to
+simplify the noise term in the Langevin equation and/or to apply the
+probabilistic interpretation, therefore, we can consider both of these
+approaches in the present form only as the QCD motivated models.

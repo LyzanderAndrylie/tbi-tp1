@@ -1,0 +1,20 @@
+The role of the equation of state for a perfectly conducting, relativistic
+magnetized fluid is the main subject of this work. The ideal constant
+$\Gamma$-law equation of state, commonly adopted in a wide range of
+astrophysical applications, is compared with a more realistic equation of state
+that better approximates the single-specie relativistic gas. The paper focus on
+three different topics. First, the influence of a more realistic equation of
+state on the propagation of fast magneto-sonic shocks is investigated. This
+calls into question the validity of the constant $\Gamma$-law equation of state
+in problems where the temperature of the gas substantially changes across
+hydromagnetic waves. Second, we present a new inversion scheme to recover
+primitive variables (such as rest-mass density and pressure) from conservative
+ones that allows for a general equation of state and avoids catastrophic
+numerical cancellations in the non-relativistic and ultrarelativistic limits.
+Finally, selected numerical tests of astrophysical relevance (including
+magnetized accretion flows around Kerr black holes) are compared using
+different equations of state. Our main conclusion is that the choice of a
+realistic equation of state can considerably bear upon the solution when
+transitions from cold to hot gas (or viceversa) are present. Under these
+circumstances, a polytropic equation of state can significantly endanger the
+solution.

@@ -1,0 +1,4 @@
+If $G_1,...,G_n$ are limit groups and $S\subset G_1\times...\times G_n$ is of
+type $\FP_n(\mathbb Q)$ then $S$ contains a subgroup of finite index that is
+itself a direct product of at most $n$ limit groups. This settles a question of
+Sela.

@@ -1,0 +1,11 @@
+We include in statistical model calculations the facts that in the nuclear
+multifragmentation process the fragments are produced within a given volume and
+have a finite size. The corrections associated with these constraints affect
+the partition modes and, as a consequence, other observables in the process. In
+particular, we find that the favored fragmenting modes strongly suppress the
+collective flow energy, leading to much lower values compared to what is
+obtained from unconstrained calculations. This leads, for a given total
+excitation energy, to a nontrivial correlation between the breakup temperature
+and the collective expansion velocity. In particular we find that, under some
+conditions, the temperature of the fragmenting system may increase as a
+function of this expansion velocity, contrary to what it might be expected.

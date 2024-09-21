@@ -1,0 +1,11 @@
+A class of exact spin ground states with nonzero averages of vector spin
+chirality, $<\v{S}_i \times \v{S}_j \cdot \hat{z}>$, is presented. It is
+obtained by applying non-uniform O(2) rotations of spin operators in the XY
+plane on the SU(2)-invariant Affleck-Kennedy-Lieb-Tasaki (AKLT) states and
+their parent Hamiltonians. Excitation energies of the new ground states are
+studied with the use of single-mode approximation in one dimension for S=1. The
+excitation gap remains robust. Construction of chiral AKLT states is shown to
+be possible in higher dimensions. We also present a general idea to produce
+vector chirality-condensed ground states as non-uniform O(2) rotations of the
+non-chiral parent states. Dzyaloshinskii-Moriya interaction is shown to imply
+non-zero spin chirality.

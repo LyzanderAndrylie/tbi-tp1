@@ -1,0 +1,10 @@
+We examine the performance of a recently developed nonlocal density
+functional in predicting a model noncovalent interaction, the weak bond between
+an aromatic $\pi$ system and an aliphatic C-H group. The new functional is a
+significant improvement over traditional density functionals, providing results
+which compare favorably to high-level quantum-chemistry techniques but at
+considerably lower computational cost. Interaction energies in several model
+C-H/$\pi$ systems are in generally good agreement with coupled-cluster
+calculations, though equilibrium distances are consistently overpredicted when
+using the revPBE functional for exchange. The new functional correctly predicts
+changes in energy upon addition of halogen substituents.

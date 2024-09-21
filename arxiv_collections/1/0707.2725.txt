@@ -1,0 +1,9 @@
+The paper presents a unified approach to different fluctuation relations for
+classical nonequilibrium dynamics described by diffusion processes. Such
+relations compare the statistics of fluctuations of the entropy production or
+work in the original process to the similar statistics in the time-reversed
+process. The origin of a variety of fluctuation relations is traced to the use
+of different time reversals. It is also shown how the application of the
+presented approach to the tangent process describing the joint evolution of
+infinitesimally close trajectories of the original process leads to a
+multiplicative extension of the fluctuation relations.

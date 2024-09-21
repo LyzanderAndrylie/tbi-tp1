@@ -1,0 +1,15 @@
+We investigate kinetically constrained models of glassy transitions, and
+determine which model characteristics are crucial in allowing a rigorous proof
+that such models have discontinuous transitions with faster than power law
+diverging length and time scales. The models we investigate have constraints
+similar to that of the knights model, introduced by Toninelli, Biroli, and
+Fisher (TBF), but differing neighbor relations. We find that such knights-like
+models, otherwise known as models of jamming percolation, need a ``No Parallel
+Crossing'' rule for the TBF proof of a glassy transition to be valid.
+Furthermore, most knight-like models fail a ``No Perpendicular Crossing''
+requirement, and thus need modification to be made rigorous. We also show how
+the ``No Parallel Crossing'' requirement can be used to evaluate the provable
+glassiness of other correlated percolation models, by looking at models with
+more stable directions than the knights model. Finally, we show that the TBF
+proof does not generalize in any straightforward fashion for three-dimensional
+versions of the knights-like models.

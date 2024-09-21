@@ -1,0 +1,12 @@
+We use optical tweezers to perform stretching experiments on DNA molecules
+when interacting with the drugs daunomycin and ethidium bromide, which
+intercalate the DNA molecule. These experiments are performed in the low-force
+regime from zero up to 2 pN. Our results show that the persistence length of
+the DNA-drug complexes increases strongly as the drug concentration increases
+up to some critical value. Above this critical value, the persistence length
+decreases abruptly and remains practically constant for larger drug
+concentrations. The contour length of the molecules increases monotonically and
+saturates as drugs concentration increases. Measured in- tercalants critical
+concentrations for the persistence length transition coincide with reported
+values for the helix-coil transition of DNA-drug complexes, obtained from
+sedimentation experiments.

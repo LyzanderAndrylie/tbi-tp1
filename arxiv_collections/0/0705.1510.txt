@@ -1,0 +1,8 @@
+The scaling limit of the spin cluster boundaries of the Ising model with
+domain wall boundary conditions is SLE with kappa=3. We hypothesise that the
+three-state Potts model with appropriate boundary conditions has spin cluster
+boundaries which are also SLE in the scaling limit, but with kappa=10/3. To
+test this, we generate samples using the Wolff algorithm and test them against
+predictions of SLE: we examine the statistics of the Loewner driving function,
+estimate the fractal dimension and test against Schramm's formula. The results
+are in support of our hypothesis.

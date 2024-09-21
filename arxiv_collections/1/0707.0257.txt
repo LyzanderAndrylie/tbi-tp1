@@ -1,0 +1,9 @@
+In this paper we prove the Local Asymptotic Mixed Normality (LAMN) property
+for the statistical model given by the observation of local means of a
+diffusion process $X$. Our data are given by $ \int_0^1 X_{\frac{s+i}{n}} \dd
+\mu (s)$ for $i=0,...,n-1$ and the unknown parameter appears in the diffusion
+coefficient of the process $X$ only. Although the data are nor Markovian
+neither Gaussian we can write down, with help of Malliavin calculus, an
+explicit expression for the log-likelihood of the model, and then study the
+asymptotic expansion. We actually find that the asymptotic information of this
+model is the same one as for a usual discrete sampling of $X$.

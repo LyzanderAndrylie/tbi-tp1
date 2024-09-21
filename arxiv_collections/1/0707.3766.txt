@@ -1,0 +1,10 @@
+We continue our investigation of the two-dimensional Abelian sandpile model
+in terms of a logarithmic conformal field theory with central charge c=-2, by
+introducing two new boundary conditions. These have two unusual features: they
+carry an intrinsic orientation, and, more strangely, they cannot be imposed
+uniformly on a whole boundary (like the edge of a cylinder). They lead to seven
+new boundary condition changing fields, some of them being in highest weight
+representations (weights -1/8, 0 and 3/8), some others belonging to
+indecomposable representations with rank 2 Jordan cells (lowest weights 0 and
+1). Their fusion algebra appears to be in full agreement with the fusion rules
+conjectured by Gaberdiel and Kausch.

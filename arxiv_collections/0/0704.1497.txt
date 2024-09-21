@@ -1,0 +1,8 @@
+Kinetically constrained spin models are known to exhibit dynamical behavior
+mimicking that of glass forming systems. They are often understood as
+coarse-grained models of glass formers, in terms of some "mobility" field. The
+identity of this "mobility" field has remained elusive due to the lack of
+coarse-graining procedures to obtain these models from a more microscopic point
+of view. Here we exhibit a scheme to map the dynamics of a two-dimensional soft
+disc glass former onto a kinetically constrained spin model, providing an
+attempt at bridging these two approaches.

@@ -1,0 +1,9 @@
+Charge, like mass in Newtonian mechanics, is an irreducible element of
+electromagnetic theory that must be introduced ab initio. Its origin is not
+properly a part of the theory. Fields are then defined in terms of forces on
+either masses--in the case of Newtonian mechanics, or charges in the case of
+electromagnetism. General Relativity changed our way of thinking about the
+gravitational field by replacing the concept of a force field with the
+curvature of space-time. Mass, however, remained an irreducible element. It is
+shown here that the Reissner-Nordstrom solution to the Einstein field equations
+tells us that charge, like mass, has a unique space-time signature.

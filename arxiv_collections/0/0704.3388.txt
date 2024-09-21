@@ -1,0 +1,5 @@
+In [DJL07] it was shown that if A is an affine hyperplane arrangement in C^n,
+then at most one of the L^2-Betti numbers of its complement is non--zero. We
+will prove an analogous statement for complements of any algebraic curve in
+C^2. Furthermore we also recast and extend results of [LM06] in terms of
+L^2-Betti numbers.

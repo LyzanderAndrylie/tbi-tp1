@@ -1,0 +1,8 @@
+Structured materials like photonic crystals require for optimal use a high
+precision both on position and optical characteristics of the components which
+they are made of. Here, we present a simple tomographic algorithm, based on a
+specific Green's function together with a first-order Born approximation, which
+enables us to localize and characterize identical defects in finite-size
+photonic crystals. This algorithm is proposed as a first step to the monitoring
+of such materials. Illustrative numerical results show in particular some
+possibility of focalization beyond the Rayleigh criterion.

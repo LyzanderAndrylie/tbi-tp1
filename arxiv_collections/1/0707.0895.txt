@@ -1,0 +1,11 @@
+We test a segmentation algorithm, based on the calculation of the
+Jensen-Shannon divergence between probability distributions, to two symbolic
+sequences of literary and musical origin. The first sequence represents the
+successive appearance of characters in a theatrical play, and the second
+represents the succession of tones from the twelve-tone scale in a keyboard
+sonata. The algorithm divides the sequences into segments of maximal
+compositional divergence between them. For the play, these segments are related
+to changes in the frequency of appearance of different characters and in the
+geographical setting of the action. For the sonata, the segments correspond to
+tonal domains and reveal in detail the characteristic tonal progression of such
+kind of musical composition.

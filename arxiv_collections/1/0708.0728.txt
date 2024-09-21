@@ -1,0 +1,11 @@
+We optimize Hockney and Eastwood's Particle-Particle Particle-Mesh (P3M)
+algorithm to achieve maximal accuracy in the electrostatic energies (instead of
+forces) in 3D periodic charged systems. To this end we construct an optimal
+influence function that minimizes the RMS errors in the energies. As a
+by-product we derive a new real-space cut-off correction term, give a
+transparent derivation of the systematic errors in terms of Madelung energies,
+and provide an accurate analytical estimate for the RMS error of the energies.
+This error estimate is a useful indicator of the accuracy of the computed
+energies, and allows an easy and precise determination of the optimal values of
+the various parameters in the algorithm (Ewald splitting parameter, mesh size
+and charge assignment order).

@@ -1,0 +1,20 @@
+We derive steady equilibria for lateral downslope moisture flow in an
+idealized thin closed layer as a solution to the 1D Richards' Equation. The
+equilibria are determined by two free parameters: the downslope flux and a
+boundary condition. Solutions exhibit a constant downslope flow speed and
+moisture content for the constant equilibrium flux, which is the product of the
+two. However where an isolated zone of fixed saturation degree exists
+representing a boundary condition, the flow speed immediately upslope is
+reduced and the moisture content correspondingly increased to preserve the
+constant equilibrium flux. The capillary head jump at the saturated zone
+produces a blockage that gives a high moisture content back upslope through a
+pooling distance determined by the equilibrium condition that the downslope
+flux is constant. In our numerical integrations, the vertically projected
+pooling height is more than 10 km for a fully saturated zone in mixed silty or
+clay soils, but decreases by about an order of magnitude with every 10%
+decrease in the boundary-zone saturation degree. The drying of downhill
+saturated zones with the increased speed of mountain moisture outflow and
+corresponding decreased mountain moisture content gives a viable explanation
+for the mysterious ~69% unaccounted drop seen in the spring outflow in the La
+Luz / Fresnal Watershed at Alamogordo's upstream spring-box diversions in the
+semiarid southeastern New Mexico USA.

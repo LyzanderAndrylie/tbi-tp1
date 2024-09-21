@@ -1,0 +1,8 @@
+Nucleon-ion and ion-ion collisions at non relativistic bombarding energies
+can be described by means of Monte Carlo approaches, such as those based on the
+Quantum Molecular Dynamics (QMD) model. We have developed a QMD code, to
+simulate the fast stage of heavy-ion reactions, and we have coupled it to the
+de-excitation module available in the FLUKA Monte Carlo transport and
+interaction code. The results presented in this work span the projectile
+bombarding energy range within 200 - 600 MeV/A, allowing to investigate the
+capabilities and limits of our non-relativistic QMD approach.

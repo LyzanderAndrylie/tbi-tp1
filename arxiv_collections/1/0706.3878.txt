@@ -1,0 +1,6 @@
+Inherent structure theory is used to discover strong connections between
+simple characteristics of protein structure and the energy landscape of a Go
+model. The potential energies and vibrational free energies of inherent
+structures are highly correlated, and both reflect simple measures of networks
+of native contacts. These connections have important consequences for models of
+protein dynamics and thermodynamics.

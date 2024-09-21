@@ -1,0 +1,17 @@
+This paper presents a method to register a pre-operative Computed-Tomography
+(CT) volume to a sparse set of intra-operative Ultra-Sound (US) slices. In the
+context of percutaneous renal puncture, the aim is to transfer planning
+information to an intra-operative coordinate system. The spatial position of
+the US slices is measured by optically localizing a calibrated probe. Assuming
+the reproducibility of kidney motion during breathing, and no deformation of
+the organ, the method consists in optimizing a rigid 6 Degree Of Freedom (DOF)
+transform by evaluating at each step the similarity between the set of US
+images and the CT volume. The correlation between CT and US images being
+naturally rather poor, the images have been preprocessed in order to increase
+their similarity. Among the similarity measures formerly studied in the context
+of medical image registration, Correlation Ratio (CR) turned out to be one of
+the most accurate and appropriate, particularly with the chosen non-derivative
+minimization scheme, namely Powell-Brent's. The resulting matching transforms
+are compared to a standard rigid surface registration involving segmentation,
+regarding both accuracy and repeatability. The obtained results are presented
+and discussed.

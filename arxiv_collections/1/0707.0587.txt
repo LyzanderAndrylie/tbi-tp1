@@ -1,0 +1,6 @@
+We calculate, in the continuum limit of quenched lattice QCD, the matrix
+elements of the heavy-heavy vector current between heavy-light pseudoscalar
+meson states. We present the form factors for different values of the initial
+and final meson masses at finite momentum transfer. In particular, we calculate
+the non-perturbative correction to the differential decay rate of the process B
+--> D l nu including the case of a non-vanishing lepton mass.

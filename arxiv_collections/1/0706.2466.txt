@@ -1,0 +1,12 @@
+The notions of entanglement witnesses, separable and entangled states for two
+qubits system can be visualized in three dimensions using the SLOCC equivalence
+classes. This visualization preserves the duality relations between the various
+sets and allows us to give ``proof by inspection'' of a non-elementary result
+of the Horodeckies that for two qubits, Peres separability test is iff. We then
+show that the CHSH Bell inequalities can be visualized as circles and cylinders
+in the same diagram. This allows us to give a geometric proof of yet another
+result of the Horodeckies, which optimizes the violation of the CHSH Bell
+inequality. Finally, we give numerical evidence that, remarkably, allowing
+Alice and Bob to use three rather than two measurements each, does not help
+them to distinguish any new entangled SLOCC equivalence class beyond the CHSH
+class.

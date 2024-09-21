@@ -1,0 +1,15 @@
+We present a 127deg x 63deg extinction map of the Anticenter of the Galaxy,
+based on <J-H> and <H-K> colour excess maps from 2MASS. This 8001 square degree
+map with a resolution of 4 arcminutes is provided as online material. The
+colour excess ratio <J-H> / <H-K> is used to determine the power law index of
+the reddening law (\beta) for individual regions contained in the area (e.g.
+Orion, Perseus, Taurus, Auriga, Monoceros, Camelopardalis, Cassiopeia). On
+average we find a dominant value of \beta=1.8+-0.2 for the individual clouds,
+in agreement with the canonical value for the interstellar medium. We also show
+that there is an internal scatter of \beta values in these regions, and that in
+some areas more than one dominant \beta value is present. This indicates large
+scale variations in the dust properties. The analysis of the A_V values within
+individual regions shows a change in the slope of the column density
+distribution with distance. This can either be attributed to a change in the
+governing physical processes in molecular clouds on spatial scales of about 1pc
+or an A_V dilution with distance in our map.

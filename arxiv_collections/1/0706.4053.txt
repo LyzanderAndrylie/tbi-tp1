@@ -1,0 +1,4 @@
+In 1984, Anatole Katok conjectured that the only closed orientable manifolds
+that support cohomology-free vector fields are tori and these vector fields are
+smoothly conjugated to Diophantine (constant) ones.
+  In this work we present a proof of Katok conjecture for 3-manifolds.

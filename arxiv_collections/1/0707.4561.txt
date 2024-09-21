@@ -1,0 +1,15 @@
+We present the results of searches for decays of B mesons to final states
+with a b_1 meson and a charged pion or kaon. The data, collected with the BaBar
+detector at the Stanford Linear Accelerator Center, represent 382 million
+B-Bbar pairs produced in e+e- annihilation. The results for the branching
+fractions are, in units of 10^{-6}, B(B+ -> b1^0 pi+) = 6.7 +/- 1.7 +/- 1.0
+(4.0 sigma), B(B+ -> b1^0 K+ = 9.1+/- 1.7+/- 1.0 (5.3 sigma), B(B0 -> b1^-/+
+pi^+/-) = 10.9 +/- 1.2 +/- 0.9 (8.9 sigma), and B(B0 -> b1^-K+) = 7.4 +/- 1.0
++/- 1.0 (6.1 sigma), with the assumption that B(b_1 -> omega pi)=1. We also
+measure charge and flavor asymmetries Ach(B+ -> b1^0 pi+) = 0.05 +/- 0.16 +/-
+0.02, Ach(B+ -> b1^0 K+ = -0.46 +/- 0.20 +/- 0.02, Ach(B0 -> b1^-/+ pi^+/-) =
+-0.05 +/- 0.10 +/- 0.02, C(B0 -> b1^-/+ pi^+/-) = -0.22 +/- 0.23 +/- 0.05,
+deltaC(B0 -> b1^-/+ pi^+/-) = -1.04 +/- 0.23 +/- 0.08, and Ach(B0 -> b1^-K+) =
+-0.07 +/- 0.12 +/- 0.02, The first error quoted is statistical, the second
+systematic, and for the branching fractions, the significance is given in
+parentheses.

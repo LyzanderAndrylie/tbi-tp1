@@ -1,0 +1,12 @@
+The charged-current quasi-elastic scattering of muon neutrinos on oxygen
+target is computed for neutrino energies between 200 MeV and 2.5 GeV using the
+relativistic distorted-wave impulse approximation with relativistic optical
+potential, which was earlier successfully applied to describe electron-nucleus
+data. We study both neutrino and electron processes and show that the reduced
+exclusive cross sections for neutrino and electron scattering are similar. The
+comparison with the relativistic Fermi gas model (RFGM), which is widely used
+in data analyses of neutrino experiments, shows that the RFGM fails completely
+when applied to exclusive cross section data and leads to overestimated values
+of inclusive and total cross sections. We also found significant nuclear-model
+dependence of exclusive, inclusive and total cross sections for about 1 GeV
+energy.

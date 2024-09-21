@@ -1,0 +1,7 @@
+We review the theoretical methods to evaluate fusion cross sections in
+collisions of weakly bound nuclei. We piont out that in such collisions the
+coupling to the breakup channel leads to the appearance of different fusion
+processes. The extentsion of the coupled-channel method to coupling with the
+continuum is the most successful treatment for these collisions. However,
+evaluating separate cross section for each fusion process remains a very hard
+task.

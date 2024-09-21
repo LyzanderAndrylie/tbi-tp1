@@ -1,0 +1,18 @@
+This paper offers a critical view of the "worst-case" approach that is the
+cornerstone of robust control design. It is our contention that a blind
+acceptance of worst-case scenarios may lead to designs that are actually more
+dangerous than designs based on probabilistic techniques with a built-in risk
+factor. The real issue is one of modeling. If one accepts that no mathematical
+model of uncertainties is perfect then a probabilistic approach can lead to
+more reliable control even if it cannot guarantee stability for all possible
+cases. Our presentation is based on case analysis. We first establish that
+worst-case is not necessarily "all-encompassing." In fact, we show that for
+some uncertain control problems to have a conventional robust control solution
+it is necessary to make assumptions that leave out some feasible cases. Once we
+establish that point, we argue that it is not uncommon for the risk of
+unaccounted cases in worst-case design to be greater than that of the accepted
+risk in a probabilistic approach. With an example, we quantify the risks and
+show that worst-case can be significantly more risky. Finally, we join our
+analysis with existing results on computational complexity and probabilistic
+robustness to argue that the deterministic worst-case analysis is not
+necessarily the better tool.

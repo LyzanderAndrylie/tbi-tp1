@@ -1,0 +1,8 @@
+We study the transport properties of two double quantum dots in a parallel
+arrangement at temperatures of a few Kelvin. Thereby, we show that decoherence
+entailed by the substrate phonons affects the shot noise. For asymmetric
+coupling between the dots and the respective lead, the current noise is
+sub-Poissonian for resonant tunneling, but super-Poissonian in the vicinity of
+the resonances. Our results indicate that phonon emission and absorption is
+responsible for the shot noise enhancement. The observed asymmetry of the peaks
+at low temperatures stems from spontaneous emission.

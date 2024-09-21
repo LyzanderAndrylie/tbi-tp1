@@ -1,0 +1,7 @@
+We demonstrate an electric-field control of tunneling magnetoresistance (TMR)
+effect in a semiconductor quantum-dot (QD) spin-valve device. By using
+ferromagnetic Ni nano-gap electrodes, we observe the Coulomb blockade
+oscillations at a small bias voltage. In the vicinity of the Coulomb blockade
+peak, the TMR effect is significantly modulated and even its sign is switched
+by changing the gate voltage, where the sign of the TMR value changes at the
+resonant condition.

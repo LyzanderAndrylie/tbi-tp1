@@ -1,0 +1,18 @@
+The Mott critical point between a metal and a correlated insulator has
+usually been studied via density or spin density bosonic mode fluctuations
+according to the standard Ginzburg-Landau-Wilson phase transition paradigm. A
+moment's reflection leads to increasing doubts that such an approach should
+work as the transition is nonmagnetic, voiding the relevance of spin density
+modes. Charge density modes are irrelevelant since the long range Coulomb
+interaction leads to a large plasmon gap and their incompressibility. In
+solidarity with these doubts, recent measurements of the Mott critical point in
+low dimensional organic materials yield critical exponents in violent
+diasagreement with the bosonic mode criticality lore. We propose that fermionic
+fluctuations control the behavior of the Mott transition. The transition thus
+has an intrinsic quantum aspect despite being a finite temperature phase
+transition. We develop this hitherto unexplored physics, obtain experimental
+predictions and find agreement with one of the novel unexplained experimental
+exponents. We conclude that this Mott transition corresponds to a new
+universality class of finite temperature critical points that contains quantum
+effects and cannot be accounted for by conventional Ginzburg-Landau-Wilson
+wisdom.

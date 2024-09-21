@@ -1,0 +1,8 @@
+We consider the Color Glass Condensate (CGC) at finite temperature, which
+would be relevant to the initial condition of relativistic heavy ion collisions
+and the energy loss of energetic partons in the quark-gluon plasma. In the weak
+source approximation, we derive the thermal BFKL equation. We find that the
+thermal effect shows up as a Bose enhancement of the soft gluon emission if the
+temperature is high enough to match the light-cone energy of the soft gluons.
+This suggests that the saturation regime could be reached sooner than in the
+vacuum.

@@ -1,0 +1,17 @@
+The paper first discusses theoretically the off-resonance selective
+excitation method that is dependent on the atomic internal states and used to
+generate approximately a standard coherent state of harmonic oscillator. The
+coherent average method then is proposed to construct the state-selective
+trigger pulse. A state-selective trigger pulse can keep Gaussian shape
+unchanged but change in an internal-state-dependent form the center-of-mass
+position and/or momentum of an atomic Gaussian wave-packet motional state. A
+Gaussian wave-packet state is one of the simplest wave-packet states that can
+be easily manipulated and controlled in time and space. The paper also
+investigates how to manipulate in time and space an atomic Gaussian wave-packet
+motional state by a generalized quadratic potential field. A general quadratic
+Hamiltonian can affect not only the center-of-mass position and momentum but
+also the complex linewidth of a Gaussian wave-packet motional state while keep
+Gaussian shape of the motional state unchanged. It is shown that generally
+quadratic terms of a quadratic Hamiltonian can control directly the complex
+linewidth, while linear terms of a quadratic Hamiltonian can affect only the
+center-of-mass position and momentum of a Gaussian wave-packet motional state.

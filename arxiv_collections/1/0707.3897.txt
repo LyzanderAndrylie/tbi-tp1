@@ -1,0 +1,15 @@
+We analyze the ground state properties of an array of quantum dots connected
+in series between superconducting electrodes. This system is represented by a
+finite Hubbard chain coupled at both ends to BCS superconductors. The ground
+state is obtained using the Lanczos algorithm within a low energy theory in
+which the bulk superconductors are replaced by effective local pairing
+potentials. We study the conditions for the inversion of the sign of the
+Josephson coupling ($\pi$-junction behavior) as a function of the model
+parameters. Results are presented in the form of phase diagrams which provide a
+direct overall view of the general trends as the size of the system is
+increased, exhibiting a strong even-odd effect. The analysis of the spin-spin
+correlation functions and local charges give further insight into the nature of
+the ground state and how it is transformed by the presence of superconductivity
+in the leads. Finally we study the scaling of the Josephson current with the
+system size and relate these results with previous calculations of Josephson
+transport through a Luttinger liquid.

@@ -1,0 +1,13 @@
+The nuclear modification factor $R_{AA}$ for $\pi_0$ production in Au+Au
+collisions at $\sqrt{s}=200$ AGeV is calculated, and studied at high transverse
+momenta $p_T$. The soft thermalized nuclear medium is described within the
+framework of relativistic ideal three-dimensional hydrodynamics. The energy
+loss of partonic jets is evaluated in the context of gluon bremsstrahlung in
+the thermalized partonic matter. We provide a systematic analysis of the
+azimuthal asymmetry of $\pi_0$ suppression at high $p_T$ in central and
+non-central collisions, at mid and forward rapidity. The determination of
+$R_{AA}$ as a function of $p_T$, at different azimuthal angles, and different
+rapidities makes for a stringent test of our theoretical understanding of jet
+energy loss over a variety of in-medium path lengths, temperatures and initial
+partonic jet energies. This lays the groundwork for a precise tomography of the
+nuclear medium.

@@ -1,0 +1,9 @@
+On the basis of multivariate Langevin processes we present a realization of
+Levy flights as a continuous process. For the simple case of a particle moving
+under the influence of friction and a velocity dependent stochastic force we
+explicitly derive the generalized Langevin equation and the corresponding
+generalized Fokker-Planck equation describing Levy flights. Our procedure is
+similar to the treatment of the Kramers-Fokker Planck equation in the
+Smoluchowski limit. The proposed approach forms a feasible way of tackling Levy
+flights in inhomogeneous media or systems with boundaries what is up to now a
+challenging problem.

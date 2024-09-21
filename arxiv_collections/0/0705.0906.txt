@@ -1,0 +1,6 @@
+We give restrictions on the existence of families of curves on smooth
+projective surfaces $S$ of nonnegative Kodaira dimension all having constant
+geometric genus $g \geq 2$ and hyperelliptic normalizations. In particular, we
+prove a Reider-like result whose proof is ``vector bundle-free'' and relies on
+deformation theory and bending-and-breaking of rational curves in $\Sym^2(S)$.
+We also give examples of families of such curves.

@@ -1,0 +1,8 @@
+We measure the mass of the eta meson using psi(2S) --> eta J/psi events
+acquired with the CLEO-c detector operating at the CESR e+e- collider. Using
+the four decay modes eta --> gamma gamma, 3pi0, pi+pi-pi0, and pi+pi-gamma, we
+find M(eta)=547.785 +- 0.017 +- 0.057 MeV, in which the first uncertainty is
+statistical and the second systematic. This result has an uncertainty
+comparable to the two most precise previous measurements and is consistent with
+that of NA48, but is inconsistent at the level of 6.5sigma with the much
+smaller mass obtained by GEM.

@@ -1,0 +1,9 @@
+Color Glass Condensate (CGC) provides a classical description of dense gluon
+matter at high energies. Using the McLerran-Venugopalan (MV) model we calculate
+the initial energy density \epsilon(\tau) in the early stage of the
+relativistic nucleus-nucleus collision. Our analytical formula reproduces the
+quantitative results from lattice discretized simulations and leads to an
+estimate \epsilon(\tau=0.1fm)=40-50GeV/fm^3 in the Au-Au collision at RHIC
+energy. We then formulate instability with respect to soft fluctuations that
+violate boost invariance inherent to hard CGC backgrounds. We find unstable
+modes arising as a result of ensemble average over the initial CGC fields.

@@ -1,0 +1,9 @@
+It is well known that bosons on an optical lattice undergo a second-order
+superfluid-insulator transition (SIT) when the lattice potential increases. In
+this paper we study SIT when fermions coexist with the bosons. We find that the
+critical properties of particle-hole symmetric SIT with dynamical exponent z=1
+is modified when fermions are present; it either becomes a fluctuation-driven
+first order transition or a different second-order transition. On the other
+hand the more generic particle-hole asymmetric (with z=2) SIT is stable against
+coupling with fermions. We also discuss pairing interaction between fermions
+mediated by quantum critical fluctuations near SIT.

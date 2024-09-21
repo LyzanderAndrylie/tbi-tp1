@@ -1,0 +1,15 @@
+In this talk we discuss at hand of two examples the crucial role played by
+self consistency in hadron physics. The first example concerns the quark-mass
+dependence of the baryon octet and decuplet masses. It is shown that within a
+self consistent one-loop approach based on the chiral Lagrangian the
+'mysterious' quark-mass dependence of the $\Xi$ mass predicted by the MILC
+collaboration may be recovered in terms of a discontinuous chiral
+extrapolation. This is a consequence of self consistency imposed on the partial
+summation, i.e. the masses used in the loop functions are identical to those
+obtained from the baryon self energies. In the second example we discuss recent
+studies on the properties of D mesons in cold nuclear matter as they are
+predicted by coupled-channel dynamics. Here a self consistent many-body
+approach reveals the close interlink of the properties of D meson and
+open-charm baryon resonances in nuclear matter. The relevance of exotic baryon
+resonances for the spectral distortion of the $D_s^\pm$ in nuclear matter is
+pointed out.

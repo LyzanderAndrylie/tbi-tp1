@@ -1,0 +1,8 @@
+We propose a geometric method to measure the wild ramification of a smooth
+etale sheaf along the boundary. Using the method, we study the graded quotients
+of the logarithmic ramification groups of a local field of positive
+characteristic with arbitrary residue field. We also define the characteristic
+cycle of an l-adic sheaf, satisfying certain conditions, as a cycle on the
+logarithmic cotangent bundle and prove that the intersection with the 0-section
+computes the characteristic class, and hence the Euler number.
+  Definition 2.1.1 is corrected in v2.

@@ -1,0 +1,8 @@
+We propose a dielectrophoresis model for phase-separated manganites. Without
+increase of the fraction of metallic phase, an insulator-metal transition
+occurs when a uniform electric field applied across the system exceeds a
+threshold value. Driven by the dielectrophoretic force, the metallic clusters
+reconfigure themselves into stripes along the direction of electric field,
+leading to the filamentous percolation. This process, which is time-dependent,
+irreversible and anisotropic, is a probable origin of the colossal
+electroresistance in manganites.

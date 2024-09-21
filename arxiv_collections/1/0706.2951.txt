@@ -1,0 +1,12 @@
+We present a thorough theoretical assessment of the stability of
+non-collinear spin arrangements in small palladium clusters. We generally find
+that ferromagnetic order is always preferred, but that antiferromagnetic and
+non-collinear configurations of different sorts exist and compete for the first
+excited isomers. We also show that the ground state is insensitive to the
+choice of atomic configuration for the pseudopotential used and to the
+approximation taken for the exchange and correlation potential. Moreover, the
+existence and relative stability of the different excited configurations also
+depends weakly on the approximations employed. These results provide strong
+evidence on the transferability of pseudopotential and exchange and correlation
+functionals for palladium clusters as opposed to the situation found for the
+bulk phases of palladium.

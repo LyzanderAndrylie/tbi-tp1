@@ -1,0 +1,7 @@
+We consider triangular arrays of Markov chains that converge weakly to a
+diffusion process. Second order Edgeworth type expansions for transition
+densities are proved. The paper differs from recent results in two respects. We
+allow nonhomogeneous diffusion limits and we treat transition densities with
+time lag converging to zero. Small time asymptotics are motivated by
+statistical applications and by resulting approximations for the joint density
+of diffusion values at an increasing grid of points.

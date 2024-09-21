@@ -1,0 +1,21 @@
+We present spatially resolved mid-infrared images of the disk surrounding the
+young star IRS 48 in the Ophiuchus cloud complex. The disk exhibits a ring-like
+structure at 18.7 micron, and is dominated by very strong emission from
+polycyclic aromatic hydrocarbons at shorter wavelengths. This allows a detailed
+study of the relative distributions of small and large dust grains.
+  Images of IRS 48 in 5 mid-infrared bands from 8.6 to 18.7 micron as well as a
+low resolution N-band spectrum are obtained with VLT-VISIR. Optical
+spectroscopy is used to determine the spectral type of the central star and to
+measure the strength of the Halpha line.
+  The 18.7 micron ring peaks at a diameter of 110 AU, with a gap of ~ 60 AU.
+The shape of the ring is consistent with an inclination of i = 48 +- 8 degrees.
+In contrast, the 7.5-13 micron PAH emission bands are centered on the source
+and appear to fill the gap within the ring. The measured PAH line strengths are
+10-100x stronger than those typically measured for young M0 stars and can only
+be explained with a high PAH abundance and/or strong excess optical/UV
+emission. The morphology of the images, combined with the absence of a silicate
+emission feature, imply that the inner disk has been cleared of micron-sized
+dust but with a significant population of PAHs remaining. We argue that the gap
+can be due to grain growth and settling or to clearing by an unseen planetary
+or low-mass companion. IRS 48 may represent a short-lived transitional phase
+from a classical to a weak-line T Tauri star.

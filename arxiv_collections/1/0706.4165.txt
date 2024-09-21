@@ -1,0 +1,21 @@
+The angular correlation of the electrons emitted in the neutrinoless double
+beta decay ($0\nu2\beta$) is presented using a general Lorentz invariant
+effective Lagrangian for the leptonic and hadronic charged weak currents. We
+show that the coefficient $K$ in the angular correlation $d\Gamma/d\cos \theta
+\propto (1-K\cos \theta)$ is essentially independent of the nuclear matrix
+element models and present its numerical values for the five nuclei of interest
+($^{76}{Ge}$, $^{82}{Se}$, $^{100}{Mo}$, $^{130}{Te}$, and $^{136}{Xe}$),
+assuming that the $0\nu2\beta$-decays in these nuclei are induced solely by a
+light Majorana neutrino, $\nu_M$. This coefficient varies between $K=0.81$ (for
+the $^{76}{Ge}$ nucleus) and $K=0.88$ (for the $^{82}{Se}$ and $^{100}{Mo}$
+nuclei), calculated taking into account the effects from the nucleon recoil,
+the $S$ and $P$-waves for the outgoing electrons and the electron mass.
+Deviation of $K$ from its values derived here would indicate the presence of
+New Physics (NP) in addition to a light Majorana neutrino, and we work out the
+angular coefficients in several $\nu_M + {NP}$ scenarios for the $^{76}{Ge}$
+nucleus. As an illustration of the correlations among the
+  $0\nu2\beta$ observables (half-life $T_{1/2}$, the coefficient $K$, and the
+effective Majorana neutrino mass $|< m>|$) and the parameters of the underlying
+NP model, we analyze the left-right symmetric models, taking into account
+current phenomenological bounds on the right-handed $W_R$-boson mass and the
+left-right mixing parameter $\zeta$.

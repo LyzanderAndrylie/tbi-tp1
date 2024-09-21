@@ -1,0 +1,9 @@
+The entanglement content of high-dimensional random pure states is almost
+maximal, nevertheless, we show that, due to the complexity of such states, the
+detection of their entanglement using witness operators is rather difficult. We
+discuss the case of unknown random states, and the case of known random states
+for which we can optimize the entanglement witness. Moreover, we show that
+coarse graining, modeled by considering mixtures of m random states instead of
+pure ones, leads to a decay in the entanglement detection probability
+exponential with m. Our results also allow to explain the emergence of
+classicality in coarse grained quantum chaotic dynamics.

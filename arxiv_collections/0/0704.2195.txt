@@ -1,0 +1,21 @@
+We present the stellar calibrator sample and the conversion from instrumental
+to physical units for the 24 micron channel of the Multiband Imaging Photometer
+for Spitzer (MIPS). The primary calibrators are A stars, and the calibration
+factor based on those stars is 4.54*10^{-2} MJy sr^{-1} (DN/s)^{-1}, with a
+nominal uncertainty of 2%. We discuss the data-reduction procedures required to
+attain this accuracy; without these procdures, the calibration factor obtained
+using the automated pipeline at the Spitzer Science Center is 1.6% +/- 0.6%
+lower. We extend this work to predict 24 micron flux densities for a sample of
+238 stars which covers a larger range of flux densities and spectral types. We
+present a total of 348 measurements of 141 stars at 24 micron. This sample
+covers a factor of ~460 in 24 micron flux density, from 8.6 mJy up to 4.0 Jy.
+We show that the calibration is linear over that range with respect to target
+flux and background level. The calibration is based on observations made using
+3-second exposures; a preliminary analysis shows that the calibration factor
+may be 1% and 2% lower for 10- and 30-second exposures, respectively. We also
+demonstrate that the calibration is very stable: over the course of the
+mission, repeated measurements of our routine calibrator, HD 159330, show a
+root-mean-square scatter of only 0.4%. Finally, we show that the point spread
+function (PSF) is well measured and allows us to calibrate extended sources
+accurately; Infrared Astronomy Satellite (IRAS) and MIPS measurements of a
+sample of nearby galaxies are identical within the uncertainties.

@@ -1,0 +1,8 @@
+A self-consistent Thomas-Fermi-Poisson based calculation scheme is used to
+achieve spin resolved incompressible strips (ISs). The effect of exchange and
+correlation is incorporated by an empirically induced g factor. A local version
+of the Ohm's law describes the imposed fixed current, where the discrepancies
+of this model are resolved by a relevant spatial averaging process. The
+longitudinal resistance is obtained as a function of the perpendicular (strong)
+magnetic field at filling factor one and two plateaus. Interrelation between
+the ISs and the longitudinal zeros is explicitly shown.

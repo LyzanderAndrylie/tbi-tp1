@@ -1,0 +1,11 @@
+We propose a physical realization of the two-channel Kondo (2CK) effect,
+where a dynamical defect in a metal has a unique ground state and twofold
+degenerate excited states. In a wide range of parameters the interactions with
+the electrons renormalize the excited double downward below the bare defect
+ground state, thus stabilizing the 2CK fixed point. In addition to the Kondo
+temperature T_K the three-state defect exhibits another low-energy scale,
+associated with ground-to-excited-state transitions, which can be exponentially
+smaller than T_K. Using the perturbative nonequilibrium renormalization group
+we demonstrate explicitly that this can provide the long-sought explanation of
+the sharp conductance spikes observed by Ralph and Buhrman in ultrasmall
+metallic point contacts.

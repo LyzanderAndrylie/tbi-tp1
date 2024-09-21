@@ -1,0 +1,7 @@
+We propose and analyze a general mechanism of disorder-induced order in
+two-component Bose-Einstein condensates, analogous to corresponding effects
+established for XY spin models. We show that a random Raman coupling induces a
+relative phase of pi/2 between two BECs and that the effect is robust. We
+demonstrate it in 1D, 2D and 3D at T=0 and present evidence that it persists at
+small T>0. Applications to phase control in ultracold spinor condensates are
+discussed.

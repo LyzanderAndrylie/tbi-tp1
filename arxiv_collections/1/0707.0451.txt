@@ -1,0 +1,7 @@
+Quantum chaotic maps can efficiently generate pseudo-random states carrying
+almost maximal multipartite entanglement, as characterized by the probability
+distribution of bipartite entanglement between all possible bipartitions of the
+system. We show that such multipartite entanglement is robust, in the sense
+that, when realistic noise is considered, distillable entanglement of
+bipartitions remains almost maximal up to a noise strength that drops only
+polynomially with the number of qubits.

@@ -1,0 +1,16 @@
+Simulated tempering (ST) is an established Markov chain Monte Carlo (MCMC)
+method for sampling from a multimodal density $\pi(\theta)$. Typically, ST
+involves introducing an auxiliary variable $k$ taking values in a finite subset
+of $[0,1]$ and indexing a set of tempered distributions, say $\pi_k(\theta)
+\propto \pi(\theta)^k$. In this case, small values of $k$ encourage better
+mixing, but samples from $\pi$ are only obtained when the joint chain for
+$(\theta,k)$ reaches $k=1$. However, the entire chain can be used to estimate
+expectations under $\pi$ of functions of interest, provided that importance
+sampling (IS) weights are calculated. Unfortunately this method, which we call
+importance tempering (IT), can disappoint. This is partly because the most
+immediately obvious implementation is na\"ive and can lead to high variance
+estimators. We derive a new optimal method for combining multiple IS estimators
+and prove that the resulting estimator has a highly desirable property related
+to the notion of effective sample size. We briefly report on the success of the
+optimal combination in two modelling scenarios requiring reversible-jump MCMC,
+where the na\"ive approach fails.

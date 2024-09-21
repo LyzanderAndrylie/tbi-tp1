@@ -1,0 +1,19 @@
+We present a detailed study of soliton compression of ultra-short pulses
+based on phase-mismatched second-harmonic generation (\textit{i.e.}, the
+cascaded quadratic nonlinearity) in bulk quadratic nonlinear media. The
+single-cycle propagation equations in the temporal domain including
+higher-order nonlinear terms are presented. The balance between the quadratic
+(SHG) and the cubic (Kerr) nonlinearity plays a crucial role: we define an
+effective soliton number -- related to the difference between the SHG and the
+Kerr soliton numbers -- and show that it has to be larger than unity for
+successful pulse compression to take place. This requires that the phase
+mismatch be below a critical level, which is high in a material where the
+quadratic nonlinearity dominates over the cubic Kerr nonlinearity. Through
+extensive numerical simulations we find dimensionless scaling laws, expressed
+through the effective soliton number, which control the behaviour of the
+compressed pulses. These laws hold in the stationary regime, in which
+group-velocity mismatch effects are small, and they are similar to the ones
+observed for fiber soliton compressors. The numerical simulations indicate that
+clean compressed pulses below two optical cycles can be achieved in a
+$\beta$-barium borate crystal at appropriate wavelengths, even for picosecond
+input pulses.

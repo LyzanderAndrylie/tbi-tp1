@@ -1,0 +1,3 @@
+Two averaging algorithms are considered which are intended for choosing an
+optimal plane and an optimal circle approximating a group of points in
+three-dimensional Euclidean space.

@@ -1,0 +1,7 @@
+This article discusses the techniques used to select online promising events
+at high energy and high luminosity colliders. After a brief introduction,
+explaining some general aspects of triggering, the more specific implementation
+options for well established machines like the Tevatron and Large Hadron
+Collider are presented. An outlook on what difficulties need to be met is given
+when designing trigger systems at the Super Large Hadron Collider, or at the
+International Linear Collider

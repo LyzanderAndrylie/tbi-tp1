@@ -1,0 +1,18 @@
+We show that every NP problem is polynomially equivalent to a simple
+combinatorial problem: the membership problem for a special class of digraphs.
+These classes are defined by means of shadows (projections) and by finitely
+many forbidden colored (lifted) subgraphs. Our characterization is motivated by
+the analysis of syntactical subclasses with the full computational power of NP,
+which were first studied by Feder and Vardi.
+  Our approach applies to many combinatorial problems and it induces the
+characterization of coloring problems (CSP) defined by means of shadows. This
+turns out to be related to homomorphism dualities. We prove that a class of
+digraphs (relational structures) defined by finitely many forbidden colored
+subgraphs (i.e. lifted substructures) is a CSP class if and only if all the the
+forbidden structures are homomorphically equivalent to trees. We show a
+surprising richness of coloring problems when restricted to most frequent graph
+classes. Using results of Ne\v{s}et\v{r}il and Ossona de Mendez for bounded
+expansion classes (which include bounded degree and proper minor closed
+classes) we prove that the restriction of every class defined as the shadow of
+finitely many colored subgraphs equals to the restriction of a coloring (CSP)
+class.

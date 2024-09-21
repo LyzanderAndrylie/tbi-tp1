@@ -1,0 +1,20 @@
+We investigate the evolution of dust that formed at Population III supernova
+(SN) explosions and its processing through the collisions with the reverse
+shocks resulting from the interaction of the SN ejecta with the ambient medium.
+In particular, we investigate the transport of the shocked dust within the SN
+remnant (SNR), and its effect on the chemical composition, the size
+distribution, and the total mass of dust surviving in SNR. We find that the
+evolution of the reverse shock, and hence its effect on the processing of the
+dust depends on the thickness of the envelope retained by the progenitor star.
+Furthermore, the transport and survival of the dust grains depend on their
+initial radius, a_{ini}, and composition: For Type II SNRs expanding into the
+interstellar medium (ISM) with a density of n_{H,0}=1 cm^{-3}, small grains
+with a_{ini} < ~ 0.05 micron are completely destroyed by sputtering in the
+postshock flow, while grains with a_{ini}= 0.05--0.2 micron are trapped into
+the dense shell behind the forward shock. Very large grains of a_{ini} > ~ 0.2
+micron are ejected into the ISM without decreasing their sizes significantly.
+We find that the total mass fraction of dust that is destroyed by the reverse
+shock ranges from 0.2 to 1.0, depending on the energy of the explosion and the
+density of the ambient ISM. The results of our calculations have significant
+impact on the abundance pattern of subsequent generation of stars that form in
+the dense shell of primordial SNRs.

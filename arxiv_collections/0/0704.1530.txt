@@ -1,0 +1,22 @@
+A study of the $p d \to p d \eta$ reaction in the energy range where the
+recent data from Uppsala are available, is done in the two-step model of $\eta$
+production including the final state interaction. The $\eta -d$ final state
+interaction is incorporated through the solution of the Lippmann Schwinger
+equation using an elastic scattering matrix element, $T_{\eta d \to \eta d}$,
+which is required to be half off-shell. It is written in a factorized form,
+with an off-shell form factor multiplying an on-shell part given by an
+effective range expansion up to the fourth power in momentum. The parameters of
+this expansion have been taken from an existing recent relativistic Faddeev
+equation solution for the $\eta NN$ system corresponding to different $\eta-N$
+scattering amplitudes. Calculations have also been done using few body
+equations within a finite rank approximation (FRA) to generate $T_{\eta d \to
+\eta d}$. The $p-d$ final state interaction is included in the spirit of the
+Watson-Migdal prescription by multiplying the matrix element by the inverse of
+the Jost function. The $\eta-d$ interaction is found to be dominant in the
+region of small invariant $\eta -d$ mass, $M_{\eta d}$. The $p-d$ interaction
+enhances the cross section in the whole region of $M_{\eta d}$, but is larger
+for large $M_{\eta d}$. We find nearly isotropic angular distributions of the
+proton and the deuteron in the final state. All the above observations are in
+agreement with data. The production mechanism for the entire range of the
+existing data on the $p d \to p d \eta$ reaction seems to be dominated by the
+two-step model of $\eta$ production.

@@ -1,0 +1,17 @@
+Discovered in 1995 at the Caltech Submillimeter Observatory (CSO), the
+vibrationally-excited water maser line at 658 GHz (455 micron) is seen in
+oxygen-rich giant and supergiant stars. Because this maser can be so strong (up
+to thousands of Janskys), it was very helpful during the commissioning phase of
+the highest frequency band (620-700 GHz) of the Submillimeter Array (SMA)
+interferometer. From late 2002 to early 2006, brief attempts were made to
+search for emission from additional sources beyond the original CSO survey.
+These efforts have expanded the source count from 10 to 16. The maser emission
+appears to be quite compact spatially, as expected from theoretical
+considerations; thus these objects can potentially be used as atmospheric phase
+calibrators. Many of these objects also exhibit maser emission in the
+vibrationally-excited SiO maser at 215 GHz. Because both maser lines likely
+originate from a similar physical region, these objects can be used to test
+techniques of phase transfer calibration between millimeter and submillimeter
+bands. The 658 GHz masers will be important beacons to assess the performance
+of the Atacama Large Millimeter Array (ALMA) in this challenging high-frequency
+band.

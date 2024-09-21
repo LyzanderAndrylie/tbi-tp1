@@ -1,0 +1,23 @@
+aims: Our aim is to determine Li abundances in TO stars of the Globular
+Cluster 47 Tuc and test theories about Li variations among TO stars. method: We
+make use of high resolution (R~ 43000), high signal-to-noise ratio (S/N=50--70)
+spectra of 4 turn off (TO) stars obtained with the UVES spectrograph at the
+8.2m VLT Kueyen telescope. results: The four stars observed, span the range
+1.6<~A(Li)} <~ 2.14, providing a mean A(Li) = 1.84 with a standard deviation of
+0.25 dex. When coupled with data of other two TO stars of the cluster,
+available in the literature, the full range in Li abundances observed in this
+cluster is 1.6<~A(Li)<~ 2.3. The variation in A(Li) is at least 0.6 dex (0.7
+dex considering also the data available in the literature) and the scatter is
+six times larger than what expected from the observational error. We claim that
+these variations are real. A(Li) seems to be anti-correlated with A(Na) exactly
+as observed in NGC 6752. No systematic error in our analysis could produce such
+an anti-correlation. conclusions: Na production through p captures on 22Ne at
+temperatures in excess of 3x10^7 K and the contemporary Li destruction could
+result in this anti-correlation. However such nuclear processing cannot have
+taken place in the stars themselves, which do not reach such high temperatures,
+even at their centre. This points towards the processing in a previous
+generation of stars. The low N/O ratios in the observed stars and the apparent
+lack of correlation between N an Li abundances, place a strong constraint on
+the properties of this previous generation. Our results indicate a different
+behaviour among the Globular Clusters so far studied as far as the abundance
+patterns are concerned.

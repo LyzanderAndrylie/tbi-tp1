@@ -1,0 +1,15 @@
+Analyzing football score data with statistical techniques, we investigate how
+the highly co-operative nature of the game is reflected in averaged properties
+such as the distributions of scored goals for the home and away teams. It turns
+out that in particular the tails of the distributions are not well described by
+independent Bernoulli trials, but rather well modeled by negative binomial or
+generalized extreme value distributions. To understand this behavior from first
+principles, we suggest to modify the Bernoulli random process to include a
+simple component of self-affirmation which seems to describe the data
+surprisingly well and allows to interpret the observed deviation from Gaussian
+statistics. The phenomenological distributions used before can be understood as
+special cases within this framework. We analyzed historical football score data
+from many leagues in Europe as well as from international tournaments and found
+the proposed models to be applicable rather universally. In particular, here we
+compare men's and women's leagues and the separate German leagues during the
+cold war times and find some remarkable differences.

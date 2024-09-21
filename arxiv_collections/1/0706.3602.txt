@@ -1,0 +1,6 @@
+We propose Weil and Cartan models for the equivariant cohomology of
+noncommutative spaces which carry a covariant action of Drinfel'd twisted
+symmetries. The construction is suggested by the noncommutative Weil algebra of
+Alekseev and Meinrenken; we show that one can implement a Drinfel'd twist of
+their models in order to take into account the noncommutativity of the spaces
+we are acting on.

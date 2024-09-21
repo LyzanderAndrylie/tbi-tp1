@@ -1,0 +1,10 @@
+A specific, genuinely three-dimensional mechanism of rogue wave formation, in
+a late stage of the modulational instability of a perturbed Stokes deep-water
+wave, is recognized through numerical experiments. The simulations are based on
+fully nonlinear equations describing weakly three-dimensional potential flows
+of an ideal fluid with a free surface in terms of conformal variables.
+Spontaneous formation of zigzag patterns for wave amplitude is observed in a
+nonlinear stage of the instability. If initial wave steepness is sufficiently
+high ($ka>0.06$), these coherent structures produce rogue waves. The most tall
+waves appear in ``turns'' of the zigzags. For $ka<0.06$, the structures decay
+typically without formation of steep waves.

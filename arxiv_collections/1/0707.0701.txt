@@ -1,0 +1,10 @@
+In this paper, we study the application of sparse principal component
+analysis (PCA) to clustering and feature selection problems. Sparse PCA seeks
+sparse factors, or linear combinations of the data variables, explaining a
+maximum amount of variance in the data while having only a limited number of
+nonzero coefficients. PCA is often used as a simple clustering technique and
+sparse factors allow us here to interpret the clusters in terms of a reduced
+set of variables. We begin with a brief introduction and motivation on sparse
+PCA and detail our implementation of the algorithm in d'Aspremont et al.
+(2005). We then apply these results to some classic clustering and feature
+selection problems arising in biology.

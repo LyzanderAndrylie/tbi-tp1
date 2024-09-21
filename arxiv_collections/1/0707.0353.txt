@@ -1,0 +1,17 @@
+The intrinsic Zeeman energy is precisely one half of the cyclotron energy for
+electrons in graphene. As a result a Landau-level mixing occurs to create the
+energy spectrum comprised of the $4j$-fold degenerated zero-energy level and
+4-fold degenerated nonzero-energy levels in the $j$-layer graphene, where
+$j=1,2,3$ for monolayer, bilayer and trilayer, respectively. The degeneracy
+manifests itself in the quantum Hall (QH) effect. We study how the degeneracy
+is removed by the Coulomb interactions. With respect to the zero-energy level,
+an excitonic gap opens by making a BCS-type condensation of electron-hole pairs
+at the filling factor $\nu =0$. It gives birth to the Ising QH ferromagnet at
+$\nu =\pm 1$ for monolayer, $\nu =\pm 1,\pm 3$ for bilayer, and $\nu =\pm 1,\pm
+3,\pm 5$ for trilayer graphene from the zero-energy degeneracy. With respect to
+the nonzero-energy level, a remarkable consequence is derived that the
+effective Coulomb potential depends on spins, since a single energy level
+contains up-spin and down-spin electrons belonging to different Landau levels.
+The spin-dependent Coulomb interaction leads to the valley polarization at $\nu
+=\pm 4, \pm 8, \pm 12, ...$ for monolayer, $\nu =\pm 2, \pm 6, \pm 10, >...$
+for bilayer, and $\nu =\pm 2,\pm 4, \pm 8, \pm 12, ...$ for trilayer graphene.

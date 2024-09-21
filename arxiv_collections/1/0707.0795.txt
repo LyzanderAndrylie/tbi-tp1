@@ -1,0 +1,11 @@
+Let $S$ be a semigroup and $X$ a Banach space. The functional equation $\phi
+(xyz)+ \phi (x) + \phi (y) + \phi (z) = \phi (xy) + \phi (yz) + \phi (xz)$ is
+said to be stable for the pair $(X, S)$ if and only if $f: S\to X$ satisfying
+$\| f(xyz)+f(x) + f(y) + f(z) - f(xy)- f(yz)-f(xz)\| \leq \delta $ for some
+positive real number $\delta$ and all $x, y, z \in S$, there is a solution
+$\phi : S \to X$ such that $f-\phi$ is bounded. In this paper, among others, we
+prove the following results: 1) this functional equation, in general, is not
+stable on an arbitrary semigroup; 2) this equation is stable on periodic
+semigroups; 3) this equation is stable on abelian semigroups; 4) any semigroup
+with left (or right) law of reduction can be embedded into a semigroup with
+left (or right) law of reduction where this equation is stable.

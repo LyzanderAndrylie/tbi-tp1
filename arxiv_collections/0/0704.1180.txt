@@ -1,0 +1,6 @@
+We present a general strategy that allows a more flexible method for the
+construction of fully additive multipartite entanglement monotones than the
+ones so far reported in the literature of axiomatic entanglement measures.
+Within this framework we give a proof of a conjecture of outstanding
+implications in information theory: the full additivity of the Entanglement of
+Formation.

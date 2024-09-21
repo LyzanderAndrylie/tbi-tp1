@@ -1,0 +1,7 @@
+We prove that hyperbolic groups are weakly amenable. This partially extends
+the result of Cowling and Haagerup showing that lattices in simple Lie groups
+of real rank one are weakly amenable. We take a combinatorial approach in the
+spirit of Haagerup and prove that for the word length metric d on a hyperbolic
+group, the Schur multipliers associated with r^d have uniformly bounded norms
+for 0<r<1. We then combine this with a Bozejko-Picardello type inequality to
+obtain weak amenability.

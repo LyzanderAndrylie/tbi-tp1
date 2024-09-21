@@ -1,0 +1,8 @@
+The fate of the charge-neutral Dirac point in graphene in a high magnetic
+field $H$ has been investigated at low temperatures ($T\sim$ 0.3 K). In samples
+with small $V_0$ (the gate voltage needed to access the Dirac point), the
+resistance $R_0$ at the Dirac point diverges steeply with $H$, signalling a
+crossover to an insulating state in intense field. The approach to the
+insulating state is highly unusual. Despite the steep divergence in $R_0$, the
+profile of $R_0$ vs. $T$ in fixed $H$ saturates to a $T$-independent value
+below 2 K, consistent with charge carrying gapless excitations.

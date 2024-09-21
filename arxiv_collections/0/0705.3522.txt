@@ -1,0 +1,10 @@
+In this paper we continue the investigation started in [A.M.St.-Small],
+dealing with bialgebras $A$ with an $H$-bilinear coalgebra projection over an
+arbitrary subbialgebra $H$ with antipode. These bialgebras can be described as
+deformed bosonizations $R#_{\xi} H$ of a pre-bialgebra $R$ by $H$ with a
+cocycle $\xi$. Here we describe the behavior of $\xi$ in the case when $R$ is
+f.d. and thin i.e. it is connected with one dimensional space of primitive
+elements. This is used to analyze the arithmetic properties of $A$. Meaningful
+results are obtained when $H$ is cosemisimple. By means of Ore extension
+construction, we provide some examples of atypical situations (e.g. the
+multiplication of $R$ is not $H$-colinear or $\xi$ is non-trivial).

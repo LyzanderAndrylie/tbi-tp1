@@ -1,0 +1,5 @@
+Motivated by the work of Segal and Segal on the Black-Scholes pricing formula
+in the quantum context, we study a quantum extension of the Black-Scholes
+equation within the context of Hudson-Parthasarathy quantum stochastic
+calculus. Our model includes stock markets described by quantum Brownian motion
+and Poisson process.

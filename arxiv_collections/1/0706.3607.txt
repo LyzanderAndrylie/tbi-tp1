@@ -1,0 +1,9 @@
+We investigate the transport behavior of finite modular quantum systems. Such
+systems have recently been analyzed by different methods. These approaches
+indicate diffusive behavior even and especially for finite systems. Inspired by
+these results we analyze analytically and numerically if and in which sense the
+dynamics of those systems are in agreement with an appropriate Boltzmann
+equation. We find that the transport behavior of a certain type of finite
+modular quantum systems may indeed be described in terms of a Boltzmann
+equation. However, the applicability of the Boltzmann equation appears to be
+rather limited to a very specific type of model.

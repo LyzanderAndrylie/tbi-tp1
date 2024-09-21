@@ -1,0 +1,12 @@
+A spin field effect transistor (FET) is proposed by utilizing a graphene
+nanoribbon as the channel. Similar to the conventional spin FETs, the device
+involves ferromagnetic metals as a source and drain; they, in turn, are
+connected to the graphene channel. Due to the negligible spin-orbital coupling
+in the carbon based materials, the bias can accomplishes spin manipulation by
+means of electrical control of electron exchange interaction with a
+ferromagnetic dielectric attached to the nanoribbon between source and drain.
+The numerical estimations show the feasibility of graphene-based spin FET if a
+bias varies exchange interaction on the amount around 5 meV. It was shown that
+the device stability to the thermal dispersion can provide the armchair
+nanoribbons of specific width that keeps the Dirac point in electron dispersion
+law.

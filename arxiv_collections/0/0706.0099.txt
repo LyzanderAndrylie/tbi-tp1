@@ -1,0 +1,8 @@
+This article consists of a brief discussion of the energy density over time
+or frequency that is obtained with the wavelet transform. Also an efficient
+algorithm is suggested to calculate the continuous transform with the Morlet
+wavelet. The energy values of the Wavelet transform are compared with the power
+spectrum of the Fourier transform. Useful definitions for power spectra are
+given. The focus of the work is on simple measures to evaluate the transform
+with the Morlet wavelet in an efficient way. The use of the transform and the
+defined values is shown in some examples.

@@ -1,0 +1,6 @@
+We calculate electron-hole generation and recombination rates for Coulomb
+scattering (Auger recombination and impact ionization) in Graphene. The
+conduction and valence band dispersion relation in Graphene together with
+energy and momentum conservation requirements restrict the phase space for
+Coulomb scattering so that electron-hole recombination times can be much longer
+than 1 ps for electron-hole densities smaller than $10^{12}$ cm$^{-2}$.

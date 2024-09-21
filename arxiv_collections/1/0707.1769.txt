@@ -1,0 +1,13 @@
+The experimental results obtained for the magneto-transport in the
+InGaAs/InAlAs double quantum wells (DQW) structures of two different shapes of
+wells are reported. The beating-effect occurred in the Shubnikov-de Haas (SdH)
+oscillations was observed for both types of the structures at low temperatures
+in the parallel transport when magnetic field was perpendicular to the layers.
+An approach to the calculation of the Landau levels energies for DQW structures
+was developed and then applied to the analysis and interpretation of the
+experimental data related to the beating-effect. We also argue that in order to
+account for the observed magneto-transport phenomena (SdH and Integer Quantum
+Hall effect), one should introduce two different quasi-Fermi levels
+characterizing two electron sub-systems regarding symmetry properties of their
+states, symmetric and anti-symmetric ones which are not mixed by
+electron-electron interaction.

@@ -1,0 +1,19 @@
+We have investigated a closed system of equations for the quark propagator,
+obtained earlier within our general approach to QCD at low energies. It implies
+quark confinement (the quark propagator has no pole, indeed), as well as the
+dynamical breakdown of chiral symmetry (a chiral symmetry preserving solution
+is forbidded). This system can be solved exactly in the chiral limit. We have
+established the space of the smooth test functions (consisting of the Green's
+functions for the quark propagator and the corresponding quark-gluon vertex) in
+which our generalized function (the confining gluon propagator) becomes a
+continuous linear functional. It is a linear topological space $K(c)$ of the
+infinitely differentiable functions (with respect to the dimensionless momentum
+variable $x$), having compact support in the region $x \leq c$. We develop an
+analytical formalism, the so-called chiral perturbtion theory at the
+fundamental quark level, which allows one to find explicit solution for the
+quark propagator in powers of the light quark masses. We also develop an
+analytical formalism, which allows one to find the solution for the quark
+propagator in the inverse powers of the heavy quark masses. It justifies the
+use for the heavy quark propagator its free counterpart up to terms of the
+order $1/m_Q^3$, where $m_Q$ is the heavy quark mass. So this solution
+automatically possesses the heavy quark spin-flavor symmetry.

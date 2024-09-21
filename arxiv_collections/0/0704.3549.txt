@@ -1,0 +1,8 @@
+Semiclassical calculations using the Herman-Kluk initial value treatment are
+performed to determine energy eigenvalues of bound and resonance states of the
+collinear helium atom. Both the $eZe$ configuration (where the classical motion
+is fully chaotic) and the $Zee$ configuration (where the classical dynamics is
+nearly integrable) are treated. The classical motion is regularized to remove
+singularities that occur when the electrons collide with the nucleus. Very good
+agreement is obtained with quantum energies for bound and resonance states
+calculated by the complex rotation method.

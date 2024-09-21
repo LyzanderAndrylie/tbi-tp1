@@ -1,0 +1,7 @@
+A characterization of qubit quantum channels is introduced. In analogy to
+what happens in the context of Bosonic channels we exploit the possibility of
+representing the states of the system in terms of characteristic function. The
+latter are functions of non-commuting variables (Grassmann variables) and are
+defined in terms of generalized displacement operators. In this context we
+introduce the set of Gaussian channels and show that they share similar
+properties with the corresponding Bosonic counterpart.

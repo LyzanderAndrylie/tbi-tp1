@@ -1,0 +1,18 @@
+We investigate resonant strong field ionization of atomic hydrogen with
+respect to the 1s-2p-transition. By "strong" we understand that Rabi-periods
+are executed on a femtosecond time scale. Ionization and AC Stark shifts modify
+the bound state dynamics severely, leading to nonperturbative signatures in the
+photoelectron spectra. We introduce an analytical model, capable of predicting
+qualitative features in the photoelectron spectra such as the positions of the
+Autler-Townes peaks for modest field strengths. Ab initio solutions of the
+time-dependent Schroedinger equation show a pronounced shift and broadening of
+the left Autler-Townes peak as the field strength is increased. The right peak
+remains rather narrow and shifts less. This result is analyzed and explained
+with the help of exact AC Stark shifts and ionization rates obtained from
+Floquet theory. Finally, it is demonstrated that in the case of finite pulses
+as short as 20fs the Autler-Townes duplet can still be resolved. The fourth
+generation light sources under construction worldwide will provide bright,
+coherent radiation with photon energies ranging from a tenth of a meV up to
+tens of keV, hence covering the regime studied in the paper so that
+measurements of nonperturbative, relative AC Stark shifts should become
+feasible with these new light sources.

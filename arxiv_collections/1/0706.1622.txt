@@ -1,0 +1,11 @@
+Systems with long-range interactions display a short-time relaxation towards
+Quasi Stationary States (QSSs) whose lifetime increases with system size. With
+reference to the Hamiltonian Mean Field (HMF) model, we here show that a
+maximum entropy principle, based on Lynden-Bell's pioneering idea of "violent
+relaxation", predicts the presence of out-of-equilibrium phase transitions
+separating the relaxation towards homogeneous (zero magnetization) or
+inhomogeneous (non zero magnetization) QSSs. When varying the initial condition
+within a family of "water-bags" with different initial magnetization and
+energy, first and second order phase transition lines are found that merge at
+an out--of--equilibrium tricritical point. Metastability is theoretically
+predicted and numerically checked around the first-order phase transition line.

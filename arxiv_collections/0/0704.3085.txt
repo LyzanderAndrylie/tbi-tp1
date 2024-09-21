@@ -1,0 +1,15 @@
+In the present paper we present results of calculations obtained with the use
+of the theoretical method described in our preceding paper [1] and perform
+detail analysis of alpha helix-random coil transition in alanine polypeptides
+of different length. We have calculated the potential energy surfaces of
+polypeptides with respect to their twisting degrees of freedom and construct a
+parameter-free partition function of the polypeptide using the suggested method
+[1]. From the build up partition function we derive various thermodynamical
+characteristics for alanine polypeptides of different length as a function of
+temperature. Thus, we analyze the temperature dependence of the heat capacity,
+latent heat and helicity for alanine polypeptides consisting of 21, 30, 40, 50
+and 100 amino acids. Alternatively, we have obtained same thermodynamical
+characteristics from the use of molecular dynamics simulations and compared
+them with the results of the new statistical mechanics approach. The comparison
+proves the validity of the statistical mechanic approach and establishes its
+accuracy.

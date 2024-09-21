@@ -1,0 +1,14 @@
+This paper investigates the sound production in a system made of a bore
+coupled with a reed valve. Extending previous work (Debut, 2004), the input
+impedance of the bore is projected on the modes of the air column. The acoustic
+pressure is therefore calculated as the sum of modal components. The
+airr&#114;&#64258;ow blown into the bore is modulated by reed motion, assuming
+the reed to be a single degree of freedom oscillator. Calculation of
+self-sustained oscillations controlled by time-varying mouth pressure and
+player's embouchure parameter is performed using ODE solvers. Results emphasize
+the par ticipation of the whole set of components in the mode locking process.
+Another impor tant feature is the mutual inn&#110;&#64258;uence of reed and
+bore resonance during growing blowing pressure transients, oscillation
+threshold being altered by the reed natural frequency and the reed damping.
+Steady-state oscillations are also investigated and compared with results given
+by harmonic balance method and by digital sound synthesis.

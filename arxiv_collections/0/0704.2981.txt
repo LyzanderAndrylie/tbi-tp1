@@ -1,0 +1,7 @@
+We study the asymptotic scaling of the entanglement of a block of spins for
+the ground state of the one-dimensional quantum Ising model with transverse
+field. When the field is sufficiently strong, the entanglement grows at most
+logarithmically in the number of spins. The proof utilises a transformation to
+a model of classical probability called the continuum random-cluster model, and
+is based on a property of the latter model termed ratio weak-mixing. Our proof
+applies equally to a large class of disordered interactions.

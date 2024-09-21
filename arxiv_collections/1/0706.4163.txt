@@ -1,0 +1,11 @@
+In our previous article [4] an approach to derive Papapetrou equations for
+constrained electromagnetic field was demonstrated by use of field variational
+principles. The aim of current work is to present more universal technique of
+deduction of the equations which could be applied to another types of
+non-scalar fields. It is based on Noether theorem formulated in terms of
+Cartan' formalism of orthonormal frames. Under infinitesimal coordinate
+transformation the one leads to equation which includes volume force of
+spin-gravitational interaction. Papapetrou equation for vector of propagation
+of the wave is derived on base of the equation. Such manner of deduction allows
+to formulate more accurately the constraints and clarify equations for the
+potential and for spin.

@@ -1,0 +1,14 @@
+One of the most direct human mechanisms of promoting cooperation is rewarding
+it. We study the effect of sharing a reward among cooperators in the most
+stringent form of social dilemma, namely the Prisoner's Dilemma. Specifically,
+for a group of players that collect payoffs by playing a pairwise Prisoner's
+Dilemma game with their partners, we consider an external entity that
+distributes a fixed reward equally among all cooperators. Thus, individuals
+confront a new dilemma: on the one hand, they may be inclined to choose the
+shared reward despite the possibility of being exploited by defectors; on the
+other hand, if too many players do that, cooperators will obtain a poor reward
+and defectors will outperform them. By appropriately tuning the amount to be
+shared a vast variety of scenarios arises, including traditional ones in the
+study of cooperation as well as more complex situations where unexpected
+behavior can occur. We provide a complete classification of the equilibria of
+the $n$-player game as well as of its evolutionary dynamics.

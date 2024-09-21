@@ -1,0 +1,6 @@
+We consider the wetting transition in the framework of an effective interface
+model of gradient type, in dimension 2 and higher. We prove pathwise estimates
+showing that the interface is localized in the whole thermodynamically-defined
+partial wetting regime considered in earlier works. Moreover, we study how the
+interface delocalizes as the wetting transition is approached. Our main tool is
+reflection positivity in the form of the chessboard estimate.

@@ -1,0 +1,8 @@
+Full quantum state tomography is used to characterize the state of an
+ensemble based qubit implemented through two hyperfine levels in Pr3+ ions,
+doped into a Y2SiO5 crystal. We experimentally verify that single-qubit
+rotation errors due to inhomogeneities of the ensemble can be suppressed using
+the Roos-Moelmer dark state scheme. Fidelities above >90%, presumably limited
+by excited state decoherence, were achieved. Although not explicitly taken care
+of in the Roos-Moelmer scheme, it appears that also decoherence due to
+inhomogeneous broadening on the hyperfine transition is largely suppressed.

@@ -1,0 +1,12 @@
+We have performed 2D hydrodynamic simulations of a pulsed astrophysical jet
+propagating through a medium that is populated with spherical inhomogeneities,
+or "clumps," which are smaller than the jet radius. The clumps are seen to
+affect the jet in several ways, such as impeding jet propagation and deflecting
+the jet off-axis. While there has been some debate as to the prevalence of
+these types of condensations in the ISM or in molecular clouds, the exploration
+of this region of parameter space nonetheless both shows the potential for
+these clumps to disrupt astrophysical jets and yields results which recover
+aspects of recent observations of Herbig-Haro objects. We find that the
+propagation of the jet and the vorticity induced in the clump/ambient medium
+correlate well with a "dynamic filling function" $f_d$ across all the
+simulations.

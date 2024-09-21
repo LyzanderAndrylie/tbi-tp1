@@ -1,0 +1,15 @@
+Mesh numbering is a critical issue in Finite Element Methods, as the
+computational cost of one analysis is highly dependent on the order of the
+nodes of the mesh. This paper presents some preliminary investigations on the
+problem of mesh numbering using Evolutionary Algorithms. Three conclusions can
+be drawn from these experiments. First, the results of the up-to-date method
+used in all FEM softwares (Gibb's method) can be consistently improved; second,
+none of the crossover operators tried so far (either general or problem
+specific) proved useful; third, though the general tendency in Evolutionary
+Computation seems to be the hybridization with other methods (deterministic or
+heuristic), none of the presented attempt did encounter any success yet. The
+good news, however, is that this algorithm allows an improvement over the
+standard heuristic method between 12% and 20% for both the 1545 and 5453-nodes
+meshes used as test-bed. Finally, some strange interaction between the
+selection scheme and the use of problem specific mutation operator was
+observed, which appeals for further investigation.

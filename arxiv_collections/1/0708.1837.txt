@@ -1,0 +1,11 @@
+The basic building blocks for Resonant Tunnelling Diode (RTD) logic circuits
+are Threshold Gates (TGs) instead of the conventional Boolean gates (AND, OR,
+NAND, NOR) due to the fact that, when designing with RTDs, threshold gates can
+be implemented as efficiently as conventional ones, but realize more complex
+functions. Recently, RTD structures implementing Multi-Threshold Threshold
+Gates (MTTGs) have been proposed which further increase the functionality of
+the original TGs while maintaining their operating principle and allowing also
+the implementation of nanopipelining at the gate level. This paper describes
+the design of n-bit adders using these MTTGs. A comparison with a design based
+on TGs is carried out showing advantages in terms of latency, device counts and
+power consumption.

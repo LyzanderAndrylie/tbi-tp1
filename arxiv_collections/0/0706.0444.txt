@@ -1,0 +1,9 @@
+We study metal-insulator transitions between Mott insulators and metals. The
+transition mechanism completely different from the original dynamical mean
+field theory (DMFT) emerges from a cluster extension of it. A consistent
+picture suggests that the quasiparticle weight $Z$ remains nonzero through
+metals and suddenly jumps to zero at the transition, while the gap opens
+continuously in the insulators. This is in contrast with the original DMFT,
+where $Z$ continuously vanishes but the gap opens discontinuously. The present
+results arising from electron differentiation in momentum space agree with
+recent puzzling bulk-sensitive experiments on CaVO$_3$ and SrVO$_3$.

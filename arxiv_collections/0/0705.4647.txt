@@ -1,0 +1,8 @@
+We propose and analyze a probabilistic scheme to entangle two spatially
+separated topological qubits in a $p_{x}+ip_{y}$ superfluid using controlled
+collisions between atoms in movable dipole traps and unpaired atoms inside
+vortex cores in the superfluid. We discuss how to test the violation of Bell's
+inequality with the generated entanglement. A set of universal quantum gates is
+shown to be implementable \textit{deterministically} using the entanglement
+despite the fact that the entangled states can only be created
+probabilistically.

@@ -1,0 +1,12 @@
+We consider the time evolution of a particle bound by an attractive
+one-dimensional delta-function potential (at x = 0) when a uniform
+electrostatic field (F) is applied. We explore explicit expressions for the
+time-dependent wavefunction \psi_F(x,t) and the ionization probability
+{\mathcal{P}}(t), respectively, in the weak-field limit. In doing so,
+\psi_F(0,t) is a key element to their evaluation. We obtain a closed expression
+for \psi_F(0,t) which is an excellent approximation of the exact result being a
+numerical solution of the Lippmann-Schwinger integral equation. The resulting
+probability density |\psi_F(0,t)|^2, as a simple alternative to
+{\mathcal{P}}(t), is also in good agreement to its counterpart from the exact
+one. In doing this, we also find a new and useful integral identity of the Airy
+function.

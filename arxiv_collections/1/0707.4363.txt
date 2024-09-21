@@ -1,0 +1,7 @@
+Heat conduction of a real quasi-one dimensional material, the finite length
+carbon nanowire (CNW), inserted into the single-walled carbon nanotube (SWNT)
+has been studied by the molecular dynamical (MD) method, in which both of the
+longitudinal as well as transverse motions of the chain atoms in the SWNT have
+been permitted. It is found that the thermal conductivity $\kappa $ of the
+carbon nanowire is very high at room temperature, and diverges more likely with
+the chain length logarithmically.

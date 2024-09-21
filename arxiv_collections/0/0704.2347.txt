@@ -1,0 +1,8 @@
+In this paper we study the interaction between two-level atom and quantized
+single-mode field, namely, Jaynes-Cummings model (JCM). The field and the atom
+are initially prepared in the binomial state and the excited atomic state,
+respectively. For this system we prove that the revival-collapse phenomenon
+exhibited in the atomic inversion of the standard JCM can be numerically
+(naturally) manifested in the evolution of the squeezing factor of the
+three-photon (standard) JCM provided that the initial photon-number
+distribution of the radiation has a smooth envelope.

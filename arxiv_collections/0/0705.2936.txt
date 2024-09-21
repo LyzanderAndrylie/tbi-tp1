@@ -1,0 +1,17 @@
+We present XMM-Newton observations of the eclipsing polar V2301 Oph which
+cover nearly 2.5 binary orbital cycles and 2 eclipses. This polar is believed
+to have the lowest magnetic field strength (7 MG) of any known polar. We find
+evidence for structure in the X-ray eclipse profile which shows a `standstill'
+feature lasting 26+/-4 sec. This allows us to place an upper limit on the mass
+of the white dwarf of ~1.2 Msun. We find no evidence for QPOs in the frequency
+range 0.02-10 Hz. This coupled with the absence of QPOs in RXTE data suggest
+that, if present, any oscillations in the shock front have a minimal effect on
+the resultant X-ray flux. We find no evidence for a distinct soft X-ray
+component in its spectrum - it therefore joins another 7 systems which do not
+show this component. We suggest that those systems which are asynchronous, have
+low mass transfer rates, or have accretion occurring over a relatively large
+fraction of the white dwarf are more likely to show this effect. We find that
+the specific mass transfer rate has to be close to 0.1 g cm^-2 s^-1 to predict
+masses which are consistent with that derived from our eclipse analysis. This
+maybe due to the fact that the low magnetic field strength allows accretion to
+take place along a wide range of azimuth.

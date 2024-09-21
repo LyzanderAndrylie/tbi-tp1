@@ -1,0 +1,24 @@
+This is a sequel to [Ca01]=math.AG/0110051. We define the bimeromorphic {\it
+category} of geometric orbifolds. These interpolate between (compact K\" ahler)
+manifolds and such manifolds with logarithmic structure. These geometric
+orbifolds are considered from the point of view of their geometry, and thus
+equipped with the usual invariants of varieties: morphisms and bimeromorphic
+maps, differential forms, fundamental groups and universal covers, fields of
+definition and rational points. The most elementary properties, directly
+adapted from the case of varieties without orbifold structure, are established
+here. The arguments of [Ca01] can then be directly adapted to extend the main
+structure results to this orbifold category. We hope to come back to deeper
+aspects later. The motivation is that the natural frame for the theory of
+classification of compact K\" ahler (and complex projective) manifolds includes
+at least the category of orbifolds, as shown in [Ca01] by the fonctorial
+decomposition of {\it special} manifolds as tower of orbifolds with either
+$\kappa_+=-\infty$ or $\kappa=0$, and also, seemingly, by the minimal model
+program, in which most proofs work only after the adjunction of a "boundary".
+  Also, fibrations enjoy in the bimeromorphic category of geometric orbifolds
+extension properties not satisfied in the category of varieties without
+orbifold structure, permitting to express invariants of the total space from
+those of the generic fibre and of the base. For example, the natural sequence
+of fundamental groups is exact there; also the total space is special if so are
+the generic fibre and the base. This makes this category suitable to lift
+properties from orbifolds having either $\kappa_+=-\infty$ or $\kappa=0$ to
+those which are special.

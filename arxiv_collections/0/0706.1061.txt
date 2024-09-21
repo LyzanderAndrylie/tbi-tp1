@@ -1,0 +1,9 @@
+Design, implementation, and machine learning issues associated with
+developing a control system for a serpentine robotic manipulator are explored.
+The controller developed provides autonomous control of the serpentine robotic
+manipulatorduring operation of the manipulator within an enclosed environment
+such as an underground storage tank. The controller algorithms make use of both
+low-level joint angle control employing force/position feedback constraints,
+and high-level coordinated control of end-effector positioning. This approach
+has resulted in both high-level full robotic control and low-level telerobotic
+control modes, and provides a high level of dexterity for the operator.

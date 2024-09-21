@@ -1,0 +1,14 @@
+The observation of neutrino oscillations requires new physics beyond the
+standard model (SM). A SM-like gauge theory with p lepton families can be
+extended by introducing q heavy right-handed Majorana neutrinos but preserving
+its SU(2)_L x U(1)_Y gauge symmetry. The overall neutrino mass matrix M turns
+out to be a symmetric (p+q) x (p+q) matrix. Given p>q, the rank of M is in
+general equal to 2q, corresponding to 2q non-zero mass eigenvalues. The
+existence of (p-q) massless left-handed Majorana neutrinos is an exact
+consequence of the model, independent of the usual approximation made in
+deriving the Type-I seesaw relation between the effective p x p light Majorana
+neutrino mass matrix M_\nu and the q x q heavy Majorana neutrino mass matrix
+M_R. In other words, the numbers of massive left- and right-handed neutrinos
+are fairly matched. A good example to illustrate this seesaw fair play rule is
+the minimal seesaw model with p=3 and q=2, in which one massless neutrino sits
+on the unbalanced seesaw.

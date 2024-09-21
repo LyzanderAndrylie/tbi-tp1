@@ -1,0 +1,12 @@
+Computing the trajectories of particles in generic beamlines is an important
+ingredient of experimental particle physics, in particular regarding near-beam
+detectors. A new tool, Hector, has been built for such calculations, using the
+transfer matrix approach and energy corrections. The limiting aperture effects
+are also taken into account. As an illustration, the tool was used to simulate
+the LHC beamlines, in particular around the high luminosity interaction points
+(IPs), and validated with results of the Mad-X simulator. The LHC beam
+profiles, trajectories and beta functions are presented. Assuming certain
+forward proton detector scenarios around the IP5, acceptance plots, irradiation
+doses and chromaticity grids are produced. Furthermore, the reconstruction of
+proton kinematic variables at the IP (energy and angle) is studied as well as
+the impact of the misalignment of beamline elements.

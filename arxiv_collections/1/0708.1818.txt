@@ -1,0 +1,11 @@
+An adventure at engineering design and modeling is possible with a Virtual
+Reality Environment (VRE) that uses multiple computer-generated media to let a
+user experience situations that are temporally and spatially prohibiting. In
+this paper, an approach to developing some advanced architecture and modeling
+tools is presented to allow multiple frameworks work together while being
+shielded from the application program. This architecture is being developed in
+a framework of workbench interactive tools for next generation
+nanoparticle-reinforced damping/dynamic systems. Through the use of system, an
+engineer/programmer can respectively concentrate on tailoring an engineering
+design concept of novel system and the application software design while using
+existing databases/software outputs.

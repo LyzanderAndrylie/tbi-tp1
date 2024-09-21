@@ -1,0 +1,8 @@
+As is already known, a spacetime horizon acts like a boundary of a thermal
+system an we can associate with it notions as temperature and entropy.
+Following the work of M. Akbar, in this paper we will show how it is possible
+to interpret the field equation of a charged BTZ black hole near horizon as a
+thermodynamic identity dE=TdS+PdA+PhidQ, where Phi is the electric potential
+and Q is the electric charge of BTZ black hole. These results indicate that the
+field equations for the charged BTZ black hole possess intrinsic thermodynamic
+properties near horizon.

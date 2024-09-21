@@ -1,0 +1,18 @@
+We consider the correlation of two single-particle probability densities
+$|\Psi_{E}({\bf r})|^{2}$ at coinciding points ${\bf r}$ as a function of the
+energy separation $\omega=|E-E'|$ for disordered tight-binding lattice models
+(the Anderson models) and certain random matrix ensembles. We focus on the
+models in the parameter range where they are close but not exactly at the
+Anderson localization transition. We show that even far away from the critical
+point the eigenfunction correlation show the remnant of multifractality which
+is characteristic of the critical states. By a combination of the numerical
+results on the Anderson model and analytical and numerical results for the
+relevant random matrix theories we were able to identify the Gaussian random
+matrix ensembles that describe the multifractal features in the metal and
+insulator phases. In particular those random matrix ensembles describe new
+phenomena of eigenfunction correlation we discovered from simulations on the
+Anderson model. These are the eigenfunction mutual avoiding at large energy
+separations and the logarithmic enhancement of eigenfunction correlations at
+small energy separations in the two-dimensional (2D) and the three-dimensional
+(3D) Anderson insulator. For both phenomena a simple and general physical
+picture is suggested.

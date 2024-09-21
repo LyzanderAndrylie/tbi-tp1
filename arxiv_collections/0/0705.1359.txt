@@ -1,0 +1,10 @@
+The moving puncture method is analyzed for a single, non-spinning black hole.
+It is shown that the puncture region is not resolved by current numerical
+codes. As a result, the geometry near the puncture appears to evolve to an
+infinitely long cylinder of finite areal radius. The puncture itself actually
+remains at spacelike infinity throughout the evolution. In the limit of
+infinite resolution the data never become stationary. However, at any
+reasonable finite resolution the grid points closest to the puncture are
+rapidly drawn into the black hole interior by the Gamma-driver shift condition.
+The data can then evolve to a stationary state. These results suggest that the
+moving puncture technique should be viewed as a type of "natural excision".

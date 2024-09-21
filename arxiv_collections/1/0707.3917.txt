@@ -1,0 +1,8 @@
+We demonstrate a general weak measurement model which allows Gaussian
+preserving entanglement concentration of the two mode squeezed vacuum. The
+power of this simple and elegant protocol is through the constraints it places
+on possible ancilla states and measurement strategies that will allow
+entanglement concentration. In particular, it is shown how previously
+discovered protocols of this kind emerge as special examples of the general
+model described here. Finally, as evidence of its utility, we use it to provide
+another novel example of such a protocol.

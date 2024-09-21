@@ -1,0 +1,12 @@
+Given a family of (almost) disjoint strictly convex subsets of a complete
+negatively curved Riemannian manifold M, such as balls, horoballs, tubular
+neighborhoods of totally geodesic submanifolds, etc, the aim of this paper is
+to construct geodesic rays or lines in M which have exactly once an exactly
+prescribed (big enough) penetration in one of them, and otherwise avoid (or do
+not enter too much in) them. Several applications are given, including a
+definite improvement of the unclouding problem of [PP1], the prescription of
+heights of geodesic lines in a finite volume such M, or of spiraling times
+around a closed geodesic in a closed such M. We also prove that the Hall ray
+phenomenon described by Hall in special arithmetic situations and by
+Schmidt-Sheingorn for hyperbolic surfaces is in fact only a negative curvature
+property.

@@ -1,0 +1,17 @@
+Checkerboard patterns have been proposed in order to explain STM experiments
+on the cuprates BSCCO and Na-CCOC. However the presence of these patterns has
+not been confirmed by a bulk probe such as neutron scattering. In particular,
+simple checkerboard patterns are inconsistent with neutron scattering data, in
+that they have low energy incommsensurate (IC) spin peaks rotated 45 degrees
+from the direction of the charge IC peaks. However, it is unclear whether other
+checkerboard patterns can solve the problem. In this paper, we have studied
+more complicated checkerboard patterns ("modulated checkerboards") by using
+spin wave theory and analyzed noncollinear checkerboards as well. We find that
+the high energy response of the modulated checkerboards is inconsistent with
+neutron scattering results, since they fail to exhibit a resonance peak at
+(pi,pi), which has recently been shown to be a universal feature of cuprate
+superconductors. We further argue that the newly proposed noncollinear
+checkerboard also lacks a resonance peak. We thus conclude that to date no
+checkerboard pattern has been proposed which satisfies both the low energy
+constraints and the high energy constraints imposed by the current body of
+experimental data in cuprate superconductors.

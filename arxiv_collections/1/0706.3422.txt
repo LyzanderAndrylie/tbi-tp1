@@ -1,0 +1,5 @@
+We consider the expectation value of a Polyakov loop in 3d SU(2) lattice
+Yang--Mills theory and transform it to the dual representation in terms of sums
+over spins. The spin dependence of the amplitudes is computed explicitly by a
+graphical method. We also determine the asymptotic (large spin) limit of the
+amplitude factors.

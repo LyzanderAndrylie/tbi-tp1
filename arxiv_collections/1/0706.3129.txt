@@ -1,0 +1,8 @@
+We calculate the Lyapunov exponent for the non-Hermitian Zakharov-Shabat
+eigenvalue problem corresponding to the attractive non-linear Schroedinger
+equation with a Gaussian random pulse as initial value function. Using an
+extension of the Thouless formula to non-Hermitian random operators, we
+calculate the corresponding average density of states. We analyze two cases,
+one with circularly symmetric complex Gaussian pulses and the other with real
+Gaussian pulses. We discuss the implications in the context of the information
+transmission through non-linear optical fibers.

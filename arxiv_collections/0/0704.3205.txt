@@ -1,0 +1,23 @@
+Quantum gravity is analyzed from the viewpoint of the renormalization group.
+The analysis is based on methods introduced by J. Polchinski concerning the
+perturbative renormalization with flow equations. In the first part of this
+work, the program of renormalization with flow equations is reviewed and then
+extended to effective field theories that have a finite UV cutoff. This is done
+for a scalar field theory by imposing additional renormalization conditions for
+some of the nonrenormalizable couplings. It turns out that one so obtains a
+statement on the predictivity of the effective theory at scales far below the
+UV cutoff. In particular, nonrenormalizable theories can be treated without
+problems in the proposed framework. In the second part, the standard covariant
+BRS quantization program for Euclidean Einstein gravity is applied. A momentum
+cutoff regularization is imposed and the resulting violation of the
+Slavnov-Taylor identities is discussed. Deriving Polchinski's renormalization
+group equation for Euclidean quantum gravity, the predictivity of effective
+quantum gravity at scales far below the Planck scale is investigated with flow
+equations. A fine-tuning procedure for restoring the violated Slavnov-Taylor
+identities is proposed and it is argued that in the effective quantum gravity
+context, the restoration will only be accomplished with finite accuracy.
+Finally, the no-cutoff limit of Euclidean quantum gravity is analyzed from the
+viewpoint of the Polchinski method. It is speculated whether a limit with
+nonvanishing gravitational constant might exist where the latter would
+ultimatively be determined by the cosmological constant and the masses of the
+elementary particles.

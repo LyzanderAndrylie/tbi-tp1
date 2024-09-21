@@ -1,0 +1,7 @@
+In this work, fundamental results for carrier statistics in graphene
+2-dimensional sheets and nanoscale ribbons are derived. Though the behavior of
+intrinsic carrier densities in 2d graphene sheets is found to differ
+drastically from traditional semiconductors, very narrow (sub-10 nm) ribbons
+are found to be similar to traditional narrow-gap semiconductors. The quantum
+capacitance, an important parameter in the electrostatic design of devices, is
+derived for both 2d graphene sheets and nanoribbons.

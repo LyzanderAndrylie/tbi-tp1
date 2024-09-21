@@ -1,0 +1,9 @@
+We derive an effective theory for dense, cold and massive quark matter. To
+this end, we employ a general effective action formalism where antiquarks and
+quarks far from the Fermi surface, as well as hard gluons, are integrated out
+explicitly. We show that the resulting effective action depends crucially on
+the projectors used to separate quarks from antiquarks. If one neglects the
+quark masses in these projectors, the Feynman rules of the effective theory
+involve quark mass insertions which connect quark with antiquark propagators.
+Including the quark masses into these projectors, mass insertions do not appear
+and the Feynman rules are identical to those found in the zero-mass limit.

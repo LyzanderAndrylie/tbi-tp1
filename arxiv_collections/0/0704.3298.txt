@@ -1,0 +1,6 @@
+We present the construction and properties of a self-dual perverse sheaf S_0
+whose cohomology fulfills some of the requirements of String theory as outlined
+by T. Hubsch in hep-th/9612075. The construction of this S_0 utilizes
+techniques that follow from MacPherson-Vilonen (Inv. Math. vol. 84, pp.
+403-435, 1986). Finally, we will discuss its properties as they relate to
+String theory.

@@ -1,0 +1,19 @@
+This is the second of two papers reporting observations and analysis of the
+unusually bright (m_b=14.4), luminous (M_B=-25.5), nearby (z=0.192) narrow-line
+quasar PHL 1811. The first paper reported that PHL 1811 is intrinsically X-ray
+weak, and presented a spectral energy distribution (SED). Here we present HST
+STIS optical and UV spectra, and ground-based optical spectra. The optical and
+UV line emission is very unusual. There is no evidence for forbidden or
+semiforbidden lines. The near-UV spectrum is dominated by very strong FeII and
+FeIII, and unusual low-ionization lines such as NaID and CaII H&K are observed.
+High-ionization lines are very weak; CIV has an equivalent width of 6.6A, a
+factor of ~5 smaller than measured from quasar composite spectra. An unusual
+feature near 1200A can be deblended in terms of Ly\alpha, NV, SiII, and CIII*
+using the blueshifted CIV profile as a template. Photoionization modeling shows
+that the unusual line emission can be explained qualitatively by the unusually
+soft SED. Principally, a low gas temperature results in inefficient emission of
+collisionally excited lines, including the semiforbidden lines generally used
+as density diagnostics. The emission resembles that of high-density gas; in
+both cases this is a consequence of inefficient cooling. PHL 1811 is very
+unusual, but we note that quasar surveys are generally biased against finding
+similar objects.

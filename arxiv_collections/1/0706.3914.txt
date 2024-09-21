@@ -1,0 +1,11 @@
+By using the transfer matrix approach, we investigate the asymptotic behavior
+of the entropy of flexible chains with $M$ monomers each placed on stripes. In
+the limit of high density of monomers, we study the behavior of the entropy as
+a function of the density of monomers and the width of the stripe, inspired by
+recent analytical studies of this problem for the particular case of dimers
+(M=2). We obtain the entropy in the asymptotic regime of high densities for
+chains with $M=2,..,9$ monomers, as well as for the special case of polymers,
+where $M\to\infty$, and find that the results show a regular behavior similar
+to the one found analytically for dimers. We also verify that in the
+low-density limit the mean-field expression for the entropy is followed by the
+results from our transfer matrix calculations.

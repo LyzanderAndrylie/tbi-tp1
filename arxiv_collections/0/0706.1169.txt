@@ -1,0 +1,9 @@
+We apply the replica method to analyze vector precoding, a method to reduce
+transmit power in antenna array communications. The analysis applies to a very
+general class of channel matrices. The statistics of the channel matrix enter
+the transmitted energy per symbol via its R-transform. We find that vector
+precoding performs much better for complex than for real alphabets. As a
+byproduct, we find a nonlinear precoding method with polynomial complexity that
+outperforms NP-hard Tomlinson-Harashima precoding for binary modulation on
+complex channels if the number of transmit antennas is slightly larger than
+twice the number of receive antennas.

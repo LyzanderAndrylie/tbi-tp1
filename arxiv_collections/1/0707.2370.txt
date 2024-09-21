@@ -1,0 +1,22 @@
+We calculate the electron-ion temperature equilibration rate in a fully
+ionized, weakly to moderately coupled plasma, using an exact treatment of the
+Fermi-Dirac electrons. The temperature is sufficiently high so that the
+quantum-mechanical Born approximation to the scattering is valid. At the heart
+of this calculation lies the method of dimensional continuation, a technique
+that we borrow from quantum field theory and use in a novel fashion to regulate
+the kinetic equations in a consistent manner. We can then perform a systematic
+perturbation expansion and thereby obtain a finite first-principles result to
+leading and next-to-leading order. Unlike model building, this systematic
+calculation yields an estimate of its own error and thus prescribes its domain
+of applicability. The calculational error is small for a weakly to moderately
+coupled plasma, for which our result is nearly exact. It should also be
+emphasized that our calculation becomes unreliable for a strongly coupled
+plasma, where the perturbative expansion that we employ breaks down, and one
+must then utilize model building and computer simulations. Besides providing
+new and potentially useful results, we use this calculation as an opportunity
+to explain the method of dimensional continuation in a pedagogical fashion.
+Interestingly, in the regime of relevance for many inertial confinement fusion
+experiments, the degeneracy corrections are comparable in size to the
+subleading quantum correction below the Born approximation. For consistency, we
+therefore present this subleading quantum-to-classical transition correction in
+addition to the degeneracy correction.

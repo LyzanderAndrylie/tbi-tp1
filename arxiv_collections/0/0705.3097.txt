@@ -1,0 +1,16 @@
+The redshift-distance modulus relation, the Hubble Diagram, derived from
+Cosmological General Relativity has been extended to arbitrarily large
+redshifts. Numerical methods were employed and a density function was found
+that results in a valid solution of the field equations at all redshifts. The
+extension has been compared to 302 type Ia supernova data as well as to 69
+Gamma-ray burst data. The latter however do not not truly represent a `standard
+candle' as the derived distance modulii are not independent of the cosmology
+used. Nevertheless the analysis shows a good fit can be achieved without the
+need to assume the existence of dark matter.
+  The Carmelian theory is also shown to describe a universe that is always
+spatially flat. This results from the underlying assumption of the energy
+density of a cosmological constant $\Omega_{\Lambda} = 1$, the result of vacuum
+energy. The curvature of the universe is described by a \textit{spacevelocity}
+metric where the energy content of the curvature at any epoch is $\Omega_K =
+\Omega_{\Lambda} - \Omega = 1-\Omega$, where $\Omega$ is the matter density of
+the universe. Hence the total density is always $\Omega_K + \Omega = 1$

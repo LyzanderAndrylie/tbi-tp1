@@ -1,0 +1,12 @@
+The techniques developed by Butscher in arXiv:math/0703469 for constructing
+constant mean curvature (CMC) hypersurfaces in the (n+1)-sphere by gluing
+together spherical building blocks are generalized to handle less symmetric
+initial configurations. The outcome is that the approximately CMC hypersurface
+obtained by gluing the initial configuration together can be perturbed into an
+exactly CMC hypersurface only when certain global geometric conditions are met.
+These `balancing conditions' are analogous to those that must be satisfied in
+the `classical' context of gluing constructions of CMC hypersurfaces in
+Euclidean space, although they are more restrictive in the (n+1)-sphere case.
+An example of an initial configuration is given which demonstrates this fact;
+and another example of an initial configuration is given which possesses no
+symmetries at all.

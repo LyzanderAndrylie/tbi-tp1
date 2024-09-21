@@ -1,0 +1,15 @@
+Evolutionary Learning proceeds by evolving a population of classifiers, from
+which it generally returns (with some notable exceptions) the single
+best-of-run classifier as final result. In the meanwhile, Ensemble Learning,
+one of the most efficient approaches in supervised Machine Learning for the
+last decade, proceeds by building a population of diverse classifiers. Ensemble
+Learning with Evolutionary Computation thus receives increasing attention. The
+Evolutionary Ensemble Learning (EEL) approach presented in this paper features
+two contributions. First, a new fitness function, inspired by co-evolution and
+enforcing the classifier diversity, is presented. Further, a new selection
+criterion based on the classification margin is proposed. This criterion is
+used to extract the classifier ensemble from the final population only
+(Off-line) or incrementally along evolution (On-line). Experiments on a set of
+benchmark problems show that Off-line outperforms single-hypothesis
+evolutionary learning and state-of-art Boosting and generates smaller
+classifier ensembles.

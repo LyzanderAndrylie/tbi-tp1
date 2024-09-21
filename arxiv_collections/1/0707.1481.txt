@@ -1,0 +1,10 @@
+We have measured the nuclear transparency of the A(e,e' pi^+) process in
+^{2}H,^{12}C, ^{27}Al, ^{63}Cu and ^{197}Au targets. These measurements were
+performed at the Jefferson Laboratory over a four momentum transfer squared
+range Q^2 = 1.1 - 4.7 (GeV/c)^2. The nuclear transparency was extracted as the
+super-ratio of $(\sigma_A/\sigma_H)$ from data to a model of
+pion-electroproduction from nuclei without pi-N final state interactions. The
+Q^2 and atomic number dependence of the nuclear transparency both show
+deviations from traditional nuclear physics expectations, and are consistent
+with calculations that include the quantum chromodynamical phenomenon of color
+transparency.

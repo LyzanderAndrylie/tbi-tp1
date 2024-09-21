@@ -1,0 +1,7 @@
+Communication security with quantum key distribution has been one of the
+important features of quantum information theory. A novel concept of secured
+direct communication has been the next step forward without the need to
+establish any shared secret key. The present paper is based on the ping-pong
+protocol with three particle GHZ state as the initial state where the receiver
+can simultaneously receive information from two parties. Possible eavesdropping
+on the travelling particle has been examined.

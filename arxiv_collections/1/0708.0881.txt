@@ -1,0 +1,9 @@
+The photon helicity may be mapped to a spin-1/2, whereby we put forward an
+intrinsic interaction between a polarized light beam as a ``photon spin
+current'' and a pure spin current in a semiconductor, which arises from the
+spin-orbit coupling in valence bands as a pure relativity effect without
+involving the Rashba or the Dresselhaus effect due to inversion asymmetries.
+The interaction leads to circular optical birefringence, which is similar to
+the Faraday rotation in magneto-optics but nevertheless involve no net
+magnetization. The birefringence effect provide a direct, non-demolition
+measurement of pure spin currents.

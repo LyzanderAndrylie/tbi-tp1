@@ -1,0 +1,4 @@
+In this paper we give an upper bound for the Picard number of the rational
+surfaces which resolve minimally the singularities of toric log Del Pezzo
+surfaces of given index $\ell$. This upper bound turns out to be a quadratic
+polynomial in the variable $\ell$.

@@ -1,0 +1,9 @@
+Molecular dynamics simulations are used to study the local dynamics of
+counterion-charged polymer association at charge densities above and below the
+counterion condensation threshold. Surprisingly, the counterions form
+weakly-interacting clusters which exhibit short range orientational order, and
+which decay slowly due to migration of ions across the diffuse double layer.
+The cluster dynamics are insensitive to an applied electric field, and
+qualitatively agree with the available experimental data. The results are
+consistent with predictions of the classical theory only over much longer time
+scales.

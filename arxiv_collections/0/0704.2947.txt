@@ -1,0 +1,7 @@
+Let $x$ be a cyclic sequence of $n$ elements of the finite field
+$\mathbb{F}_q$ (the first element immediately follows the $n$-th one). Let us
+define the operation $\Delta$ as the transition from $x$ to the sequence of
+differences of the neighbouring elements from $x$. The aim of this work is to
+give graphs of the dynamic system $\Delta$ for $q=2$, $n\le 300$ and $q=3$,
+$n\le 150$. These results enable us to define more precisely the Arnold
+hypotheses and to prove them.

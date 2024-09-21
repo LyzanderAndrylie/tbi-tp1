@@ -1,0 +1,11 @@
+We consider insurance derivatives depending on an external physical risk
+process, for example a temperature in a low dimensional climate model. We
+assume that this process is correlated with a tradable financial asset. We
+derive optimal strategies for exponential utility from terminal wealth,
+determine the indifference prices of the derivatives, and interpret them in
+terms of diversification pressure. Moreover we check the optimal investment
+strategies for standard admissibility criteria. Finally we compare the static
+risk connected with an insurance derivative to the reduced risk due to a
+dynamic investment into the correlated asset. We show that dynamic hedging
+reduces the risk aversion in terms of entropic risk measures by a factor
+related to the correlation.

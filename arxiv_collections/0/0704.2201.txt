@@ -1,0 +1,7 @@
+In this paper we present the creation of an Arabic version of Automated
+Speech Recognition System (ASR). This system is based on the open source
+Sphinx-4, from the Carnegie Mellon University. Which is a speech recognition
+system based on discrete hidden Markov models (HMMs). We investigate the
+changes that must be made to the model to adapt Arabic voice recognition.
+  Keywords: Speech recognition, Acoustic model, Arabic language, HMMs,
+CMUSphinx-4, Artificial intelligence.

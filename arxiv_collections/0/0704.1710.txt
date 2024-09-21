@@ -1,0 +1,10 @@
+We calculate the spectral function of the massive quark at finite temperature
+(T) using a Yukawa model and show that the peak in the negative energy region
+among the three-peaks found in a previous work for the massless quark is
+largely suppressed. To explore the underlying mechanism of this behavior, we
+also investigate the pole structure of the retarded Green function of the
+quark. We will show the result only for the massless quark. We find the
+residues of the poles corresponding the three-peaks are all comparable at
+$T\sim m_b$. We also show that the multi-peak structure of the quark spectra is
+well described in the pole approximation which indicates that the quasi-paricle
+picture is valid in this $T$ region.

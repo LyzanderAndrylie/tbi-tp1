@@ -1,0 +1,14 @@
+We consider the ferromagnetic large-$q$ state Potts model in complex evolving
+networks, which is equivalent to an optimal cooperation problem, in which the
+agents try to optimize the total sum of pair cooperation benefits and the
+supports of independent projects. The agents are found to be typically of two
+kinds: a fraction of $m$ (being the magnetization of the Potts model) belongs
+to a large cooperating cluster, whereas the others are isolated one man's
+projects. It is shown rigorously that the homogeneous model has a strongly
+first-order phase transition, which turns to second-order for random
+interactions (benefits), the properties of which are studied numerically on the
+Barab\'asi-Albert network. The distribution of finite-size transition points is
+characterized by a shift exponent, $1/\tilde{\nu}'=.26(1)$, and by a different
+width exponent, $1/\nu'=.18(1)$, whereas the magnetization at the transition
+point scales with the size of the network, $N$, as: $m\sim N^{-x}$, with
+$x=.66(1)$.

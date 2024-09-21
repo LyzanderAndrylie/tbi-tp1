@@ -1,0 +1,8 @@
+Using the local spin-density approximation (LSDA) and the (non
+self-consistent) GW approach, the (quasi-particle) band structure is calculated
+for MnTe in zinc-blende geometry. Different parameters characterizing the
+electronic structure are computed for an antiferromagnetic and the
+ferromagnetic phase and compared with the experiment. The strong Hubbard-type
+repulsion on the Mn-3d orbitals and the p-d hybridization are seen to be
+responsible for substantial defects found in the LSDA picture. It is discussed
+to which extent these can be improved upon by means of the GW approach.

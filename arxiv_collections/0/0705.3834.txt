@@ -1,0 +1,11 @@
+R. Rim\'anyi defined the incidence class of two singularities X and Y as
+$[X]|_Y$, the restriction of the Thom polynomial of X to Y. He conjectured that
+(under mild conditions) the incidence is not zero if and only if Y is in the
+closure of X. Generalizing this notion we define the incidence class of two
+orbits X and Y of a representation. We give a sufficient condition (positivity)
+for Y to have the property that the incidence class $[X]|_Y$ is not zero if and
+only if Y is in the closure of X for any other orbit X. We show that for many
+interesting cases, e.g. the quiver representations of Dynkin type positivity
+holds for all orbits. In other words in these cases the incidence classes
+completely determine the hierarchy of the orbits. We also study the case of
+singularities where positivity doesn't hold for all orbits.

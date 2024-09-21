@@ -1,0 +1,9 @@
+The paper presents probabilistic extensions of interval temporal logic (ITL)
+and duration calculus (DC) with infinite intervals and complete Hilbert-style
+proof systems for them. The completeness results are a strong completeness
+theorem for the system of probabilistic ITL with respect to an abstract
+semantics and a relative completeness theorem for the system of probabilistic
+DC with respect to real-time semantics. The proposed systems subsume
+probabilistic real-time DC as known from the literature. A correspondence
+between the proposed systems and a system of probabilistic interval temporal
+logic with finite intervals and expanding modalities is established too.

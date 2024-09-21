@@ -1,0 +1,6 @@
+Doped graphene sheets are pseudochiral two-dimensional Fermi liquids with
+abnormal electron-electron interaction physics. We address graphene's Fermi
+liquid properties quantitatively using a microscopic random-phase-approximation
+theory and comment on the importance of using exchange-correlation potentials
+based on the properties of a chiral two-dimensional electron gas in
+density-functional-theory applications to graphene nanostructures.

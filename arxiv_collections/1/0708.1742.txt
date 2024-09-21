@@ -1,0 +1,11 @@
+We approximate a Euclidean version of a D+1 dimensional manifold with a
+bifurcate Killing horizon by a product of a two-dimensional Rindler space and a
+D-1 dimensional manifold M. We obtain approximate formulas for the Green
+functions. We study the behaviour of Green functions near the horizon and their
+dimensional reduction. We show that if M is compact then the massless minimally
+coupled quantum field contains a zero mode which is a conformal invariant free
+field on R^2. Then, the Green function near the horizon can be approximated by
+the Green function of the two-dimensional quantum field theory. The correction
+term is exponentially small away from the horizon. If the volume of a geodesic
+ball is growing to infinity with its radius then the Green function cannot be
+approximated by a two-dimensional one.

@@ -1,0 +1,23 @@
+To study the effects of galactic winds on the stellar metallicity
+distributions and on the evolution of Draco and Ursa Minor dwarf spheroidal
+galaxies, we compared the predictions of several chemical evolution models,
+adopting different prescriptions for the galactic winds, with the
+photometrically-derived stellar metallicity distributions of both galaxies. The
+chemical evolution models for Draco and Ursa Minor, which are able to reproduce
+several observational features of these two galaxies, such as the several
+abundance ratios, take up-to-date nucleosynthesis into account for
+intermediate-mass stars and supernovae of both types, as well as the effect of
+these objects on the energetics of the systems. For both galaxies, the model
+that best fits the data contains an intense continuous galactic wind, occurring
+at a rate proportional to the star formation rate. Models with a wind rate
+assumed to be proportional only to the supernova rate also reproduce the
+observed SMD, but do not match the gas mass, whereas the models with no
+galactic winds fail to reproduce the observed SMDs. In the case of Ursa Minor,
+the same model as in previous works reproduces the observed distribution very
+well with no need to modify the main parameters of the model. The model for
+Draco, on the other hand, is slightly modified. The observed SMD requires a
+model with a lower supernova type Ia thermalization efficiency ($\eta_{SNeIa}$
+= 0.5 instead of $\eta_{SNeIa}$ = 1.0) in order to delay the galactic wind,
+whereas all the other parameters are kept the same. The model results, compared
+to observations, strongly suggest that intense and continuous galactic winds
+play a very important role in the evolution of local dSphs.

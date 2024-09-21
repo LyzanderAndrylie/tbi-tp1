@@ -1,0 +1,9 @@
+We demonstrate the spin valve effect by ballistic transport in fully
+epitaxial MnAs ferromagnetic metal / GaAs semiconductor / GaAs:MnAs granular
+hybrid heterostructures. The GaAs:MnAs material contains ferromagnetic MnAs
+nanoparticles in a GaAs matrix, and acts as a spin injector and a spin
+detector. Although the barrier height of the GaAs/MnAs interface was found to
+be very small, relatively large magnetoresistance was observed. This result
+shows that by using ballistic transport, we can realize a large spin valve
+effect without inserting a high tunnel barrier at the ferromagnetic metal /
+semiconductor interface.

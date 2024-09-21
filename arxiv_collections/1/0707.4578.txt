@@ -1,0 +1,7 @@
+We update our former analysis of the Nuclear Modification Factors (NMF) for
+different hadron species at RHIC and LHC. This update is motivated by the new
+experimental data from STAR which presents differences with the preliminary
+data used to fix some of the parameters in our model. The main change is the
+use of AKK fragmentation functions for the hard part of the spectrum and minor
+adjustments of the coalescence (soft) contribution. We confirm that observation
+of the NMF for the f_0 meson can shed light on its quark composition.

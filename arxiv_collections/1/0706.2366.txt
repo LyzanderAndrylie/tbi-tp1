@@ -1,0 +1,15 @@
+We present a detailed study of the structural behavior and polarization
+reversal mechanism in phase III of KNO$_3$, an unusual ferroelectric material
+in which the nitrate groups rotate during polarization reversal. This material
+was one of several studied in a previous work [O. Di\'eguez and D. Vanderbilt,
+Phys. Rev. Lett. {\bf 96}, 056401 (2006)] where methods were described for
+computing curves of energy versus electric polarization. In the present work we
+extend and systematize the previous first-principles calculations on KNO$_3$,
+and analyze in detail a two-parameter model in which the energy of the system
+is written as a low-order expansion in the polarization and the nitrate group
+orientation. We confirm that this model reproduces the first-principles results
+for KNO$_3$ very well and construct its parameter-space phase diagram,
+describing regions where unusual triple-well potentials appear. We also present
+first-principles calculations of KNO$_3$ under pressure, finding that its
+energy-versus-polarization curves change character by developing a
+first-derivative discontinuity at zero polarization.

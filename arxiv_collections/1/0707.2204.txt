@@ -1,0 +1,7 @@
+We quantize odd dimensional anti-de Sitter spaces by applying the method of
+deforming contact manifolds proposed by Rajeev. The construction in the present
+paper consists of the identification of the odd dimensional anti-de Sitter
+space as a hypersurface of contact type and the subsequent use of
+'symplectization' principle. We also show that this construction generalizes to
+any odd dimensional hypersurface which can be represented as a nonzero level
+set of a homogenous function.

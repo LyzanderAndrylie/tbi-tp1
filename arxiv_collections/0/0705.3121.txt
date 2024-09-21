@@ -1,0 +1,9 @@
+In this work we derive an analytic expression for the Kolmogorov-Sinai
+entropy of dilute wet granular matter, valid for any spatial dimension. The
+grains are modelled as hard spheres and the influence of the wetting liquid is
+described according to the Capillary Model, in which dissipation is due to the
+hysteretic cohesion force of capillary bridges. The Kolmogorov-Sinai entropy is
+expanded in a series with respect to density. We find a rapid increase of the
+leading term when liquid is added. This demonstrates the sensitivity of the
+granular dynamics to humidity, and shows that the liquid significantly
+increases the chaoticity of the granular gas.

@@ -1,0 +1,7 @@
+In a very recent paper, M. Rahman introduced a remarkable family of
+polynomials in two variables as the eigenfunctions of the transition matrix for
+a nontrivial Markov chain due to M. Hoare and M. Rahman. I indicate here that
+these polynomials are bispectral. This should be just one of the many
+remarkable properties enjoyed by these polynomials. For several challenges,
+including finding a general proof of some of the facts displayed here the
+reader should look at the last section of this paper.

@@ -1,0 +1,5 @@
+We establish existence and various estimates of fundamental matrices and
+Green's matrices for divergence form, second order strongly parabolic systems
+in arbitrary cylindrical domains under the assumption that solutions of the
+systems satisfy an interior H\"{o}lder continuity estimate. We present a
+unified approach valid for both the scalar and the vectorial cases.

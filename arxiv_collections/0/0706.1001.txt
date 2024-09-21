@@ -1,0 +1,5 @@
+We provide here an epistemic analysis of arbitrary strategic games based on
+the possibility correspondences. Such an analysis calls for the use of
+transfinite iterations of the corresponding operators. Our approach is based on
+Tarski's Fixpoint Theorem and applies both to the notions of rationalizability
+and the iterated elimination of strictly dominated strategies.

@@ -1,0 +1,15 @@
+In nuclear chiral perturbation theory (ChPT), an operator is defined in a
+space with a cutoff which may be varied within a certain range. The operator
+runs as a result of the variation of the cutoff [renormalization group (RG)
+running]. In order for ChPT to be useful, the operator should run in a way
+consistent with the counting rule; that is, the running of chiral counter terms
+have to be of natural size. We vary the cutoff using the Wilsonian
+renormalization group (WRG) equation, and examine this consistency. As an
+example, we study the s-wave pion production operator for NN\to d pi, derived
+in ChPT. We demonstrate that the WRG running does not generate any
+chiral-symmetry-violating (CSV) interaction, provided that we start with an
+operator which does not contain a CSV term. We analytically show how the
+counter terms are generated in the WRG running in case of the infinitesimal
+cutoff reduction. Based on the analytic result, we argue a range of the cutoff
+variation for which the running of the counter terms is of natural size. Then,
+we numerically confirm this.

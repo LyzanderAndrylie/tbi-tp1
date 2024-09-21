@@ -1,0 +1,5 @@
+This note presents a comparative study of various options to reduce the
+errors coming from the discretization of a Quantum Field Theory in a lattice
+with hypercubic symmetry. We show that it is possible to perform an
+extrapolation towards the continuum which is able to eliminate systematically
+the artifacts which break the O(4) symmetry.

@@ -1,0 +1,7 @@
+For pure gravity in AdS_3, Witten has given a recipe for the construction of
+holomorphically factorizable partition functions of pure gravity theories with
+central charge c=24k. The partition function was found to be a polynomial in
+the modular invariant j-function. We show that the partition function can be
+obtained instead as a modular sum which has a more physical interpretation as a
+sum over geometries. We express both the j-function and its derivative in terms
+of such a sum.

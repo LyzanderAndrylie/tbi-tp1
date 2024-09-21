@@ -1,0 +1,22 @@
+In object-oriented or object-relational databases such as multimedia
+databases or most XML databases, access patterns are not static, i.e.,
+applications do not always access the same objects in the same order
+repeatedly. However, this has been the way these databases and associated
+optimisation techniques such as clustering have been evaluated up to now. This
+paper opens up research regarding this issue by proposing a dynamic object
+evaluation framework (DOEF). DOEF accomplishes access pattern change by
+defining configurable styles of change. It is a preliminary prototype that has
+been designed to be open and fully extensible. Though originally designed for
+the object-oriented model, it can also be used within the object-relational
+model with few adaptations. Furthermore, new access pattern change models can
+be added too. To illustrate the capabilities of DOEF, we conducted two
+different sets of experiments. In the first set of experiments, we used DOEF to
+compare the performances of four state of the art dynamic clustering
+algorithms. The results show that DOEF is effective at determining the
+adaptability of each dynamic clustering algorithm to changes in access pattern.
+They also led us to conclude that dynamic clustering algorithms can cope with
+moderate levels of access pattern change, but that performance rapidly degrades
+to be worse than no clustering when vigorous styles of access pattern change
+are applied. In the second set of experiments, we used DOEF to compare the
+performance of two different object stores: Platypus and SHORE. The use of DOEF
+exposed the poor swapping performance of Platypus.

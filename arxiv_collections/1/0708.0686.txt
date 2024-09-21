@@ -1,0 +1,6 @@
+The spectrum of a one-parameter family of signed transfer operators
+associated to the Farey map is studied in detail. We show that when acting on a
+suitable Hilbert space of analytic functions they are self-adjoint and exhibit
+absolutely continuous spectrum and no non-zero point spectrum. Polynomial
+eigenfunctions when the parameter is a negative half-integer are also
+discussed.

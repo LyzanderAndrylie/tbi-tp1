@@ -1,0 +1,10 @@
+Using the theory developed by Kenig, Ponce, and Vega, we prove that the
+Hirota-Satsuma system is locally well-posed in Sobolev spaces $H^s(\mathbb{R})
+\times H^{s}(\mathbb{R})$ for $3/4<s\le1$. We introduce some Bourgain-type
+spaces $X_{s,b}^a$ for $a\not =0$, $s,b \in \mathbb{R}$ to obtain local
+well-posedness for the Gear-Grimshaw system in $H^s(\mathbb{R})\times
+H^s(\mathbb{R})$ for $s>-3/4$, by establishing new mixed-bilinear estimates
+involving the two Bourgain-type spaces $X_{s,b}^{-\alpha_-}$ and
+$X_{s,b}^{-\alpha_+}$ adapted to $\partial_t+\alpha_-\partial_x^3$ and
+$\partial_t+\alpha_+\partial_x^3$ respectively, where
+$|\alpha_+|=|\alpha_-|\not = 0$.

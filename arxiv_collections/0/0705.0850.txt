@@ -1,0 +1,8 @@
+In this analysis we measure the azimuthal angle($\phi$) dependence of hadrons
+with respect to the reaction plane ($\Psi_{RP}$) in events that were triggered
+by a high-$p_T$ $\pi^0$ of 5-10 GeV. Fitting the distribution of hadrons with a
+function of the type $\xi(1+2v_2\cos{(2(\phi-\Psi_{RP})}))$, we observe that
+there is no significant statistical difference between $v_2$ inclusive hadrons
+and those hadrons from hard scattering events. We also compare the near-side
+jet widths using PYTHIA simulations with $h^{\pm}$-$h^{\pm}$ correlations in
+Au+Au at $\sqrt{s_{NN}}=200$ GeV.

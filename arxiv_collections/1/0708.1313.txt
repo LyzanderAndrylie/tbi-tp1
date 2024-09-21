@@ -1,0 +1,10 @@
+The spin conductivity in the integrable spin-1/2 XXZ-chain is known to be
+infinite at finite temperatures T for anisotropies -1 < Delta < 1.
+Perturbations which break integrability, e.g. a next-nearest neighbor coupling
+J', render the conductivity finite. We construct numerically a non-local
+conserved operator J_parallel which is responsible for the finite spin Drude
+weight of the integrable model and calculate its decay rate for small J'. This
+allows us to obtain a lower bound for the spin conductivity sigma_s >= c(T) /
+J'^2, where c(T) is finite for J' to 0. We discuss the implication of our
+result for the general question how non-local conservation laws affect
+transport properties.

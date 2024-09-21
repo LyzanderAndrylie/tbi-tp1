@@ -1,0 +1,22 @@
+By solving the kinetic spin Bloch equations, we study the time evolution of
+the transient spin grating, whose spin polarization varies periodically in real
+space, confined in (001) GaAs quantum wells. With this study we can investigate
+the properties of both the spin transport and the spin relaxation at the same
+time. The Fourier component of the spin signal decays double exponentially with
+two decay rates $1/\tau_+$ and $1/\tau_-$. In high temperature regime, the
+average of these two rates varies with the grating wave-vector $q$
+quadratically, i.e., $(1/\tau_++1/\tau_-)/2=D_sq^2+1/\tilde{\tau}_s$, with
+$D_s$ and $\tilde{\tau}_s$ representing the spin diffusion coefficient and the
+average of the out-of-plane and the in-plane spin relaxation times
+respectively. $\tau_{\pm}$ calculated from our theory are in good agreement
+with the experimental data by Weber {\em et al.} [Phys. Rev. Lett. {\bf 98},
+076604 (2007)]. By comparing $D_s$ with and without the electron-electron
+Coulomb scattering, we calculate the contribution of Coulomb drag to the spin
+diffusion coefficient. With the transient spin grating result, we further
+reveal the relations among different characteristic parameters such as spin
+diffusion coefficient $D_s$, spin relaxation time $\tau_s$, and spin injection
+length $L_s$. We show that in the presence of the Dresselhaus and/or Rashba
+spin-orbit coupling, the widely used relation $L_s=\sqrt{D_s\tau_s}$ is
+generally inaccurate and can even be very wrong in some special cases. We
+present an accurate way to extract the steady-state transport characteristic
+parameters from the transient spin grating signals.

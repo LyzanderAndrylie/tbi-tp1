@@ -1,0 +1,15 @@
+The fusion procedure provides a way to construct new solutions to the
+Yang-Baxter equation. In the case of the symmetric group the fusion procedure
+has been used to construct diagonal matrix elements using a decomposition of
+the Young diagram into its rows or columns. We present a new construction which
+decomposes the diagram into hooks, the great advantage of this is that it
+minimises the number of auxiliary parameters needed in the procedure. We go on
+to use the hook fusion procedure to find diagonal matrix elements
+computationally and calculate supporting evidence to a previous conjecture.
+  We are motivated by the construction of certain elements that allow us to
+generate representations of the symmetric group and single out particular
+irreducible components. In this way we may construct higher representations of
+the symmetric group from elementary ones. We go some way to generalising the
+hook fusion procedure by considering other decompositions of Young diagrams,
+specifically into ribbons. Finally, we adapt our construction to the quantum
+deformation of the symmetric group algebra known as the Hecke algebra.

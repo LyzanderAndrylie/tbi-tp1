@@ -1,0 +1,14 @@
+In the present paper, we develop a semiclassical quasi-static model
+accounting for molecular double ionization in an intense laser pulse. With this
+model, we achieve insight into the dynamics of two highly-correlated valence
+electrons under the combined influence of a two-center Coulomb potential and an
+intense laser field, and reveal the significant influence of molecular
+alignment on the ratio of double over single ion yield. Analysis on the
+classical trajectories unveils sub-cycle dynamics of the molecular double
+ionization. Many interesting features, such as the accumulation of emitted
+electrons in the first and third quadrants of parallel momentum plane, the
+regular pattern of correlated momentum with respect to the time delay between
+closest collision and ionization moment, are revealed and successfully
+explained by back analyzing the classical trajectories. Quantitative agreement
+with experimental data over a wide range of laser intensities from tunneling to
+over-the-barrier regime is presented.

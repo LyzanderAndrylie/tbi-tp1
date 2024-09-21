@@ -1,0 +1,8 @@
+A Galerkin finite element (FEM) formulation for the Bloch equations with
+dipolar field is presented which makes possible the derivation of weak
+solutions to the Bloch equations. The FEM formulation has the advantage that
+the equations of motion are local in real space, eliminating the global
+truncation errors associated with calculations of the dipolar field in Fourier
+space. The dipolar field and other geometric parameters are calculated only
+once, before the simulation, and used as an initial condition rather than
+re-calculated at every time step of some numerical integration.

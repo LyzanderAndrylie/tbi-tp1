@@ -1,0 +1,11 @@
+An exactly solvable position-dependent mass Schr\"odinger equation in two
+dimensions, depicting a particle moving in a semi-infinite layer, is
+re-examined in the light of recent theories describing superintegrable
+two-dimensional systems with integrals of motion that are quadratic functions
+of the momenta. To get the energy spectrum a quadratic algebra approach is used
+together with a realization in terms of deformed parafermionic oscillator
+operators. In this process, the importance of supplementing algebraic
+considerations with a proper treatment of boundary conditions for selecting
+physical wavefunctions is stressed. Some new results for matrix elements are
+derived. This example emphasizes the interest of a quadratic algebra approach
+to position-dependent mass Schr\"odinger equations.

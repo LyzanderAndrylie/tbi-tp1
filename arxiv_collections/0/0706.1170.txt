@@ -1,0 +1,10 @@
+We have realized a two dimensional permanent magnetic lattice of
+Ioffe-Pritchard microtraps for ultracold atoms. The lattice is formed by a
+single 300 nm magnetized layer of FePt, patterned using optical lithography.
+Our magnetic lattice consists of more than 15000 tightly confining microtraps
+with a density of 1250 traps/mm$^2$. Simple analytical approximations for the
+magnetic fields produced by the lattice are used to derive relevant trap
+parameters. We load ultracold atoms into at least 30 lattice sites at a
+distance of approximately 10 $\mu$m from the film surface. The present result
+is an important first step towards quantum information processing with neutral
+atoms in magnetic lattice potentials.

@@ -1,0 +1,11 @@
+Based on an assumption that an S_4 flavor symmetry is embedded into SU(3), a
+lepton mass matrix model is investigated. A Frogatt-Nielsen type model is
+assumed, and the flavor structures of the masses and mixing are caused by VEVs
+of SU(2)_L-singlet scalars \phi_u and \phi_d which are nonets (8+1) of the
+SU(3) flavor symmetry, and which are broken into 2+3+3' and 1 of S_4. If we
+require the invariance under the transformation (\phi^{(8)},\phi^{(1)}) \to
+(-\phi^{(8)},+\phi^{(1)}) for the superpotential of the nonet field
+\phi^{(8+1)}, the model leads to a beautiful relation for the charged lepton
+masses. The observed tribimaximal neutrino mixing is understood by assuming two
+SU(3) singlet right-handed neutrinos \nu_R^{(\pm)} and an SU(3) triplet scalar
+\chi.

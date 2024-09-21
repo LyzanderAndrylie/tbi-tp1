@@ -1,0 +1,14 @@
+We compute the effect of local electrons on the CMB temperature anisotropies.
+The number density and distribution of free electrons in our Galaxy has been
+accurately measured from pulsar dispersion measurements. Because of their
+distribution, the dynamics of our Galaxy and the Galaxy peculiar velocity with
+respect to the Hubble flow, these free electrons leave a frequency-independent
+imprint on the cosmic microwave background (CMB). In particular, the coherent
+motion of the free electrons respect to us and to the CMB rest frame produce a
+kinetic Sunyaev-Zeldovich signal. We compute this effect and we note that the
+large-scale antisymmetry of the signal gives it an angular power spectrum with
+a sawtooth pattern where even multipoles are suppressed with respect to the odd
+ones. We find the signal to be small (~ 2 uK) and sub-dominant compared to the
+primary CMB and other foreground signals. However, since there are no free
+parameters in the modeling of this signal, it can be taken into account if more
+precise measurements of the primordial signal are required.

@@ -1,0 +1,18 @@
+We predict the nature (attractive or repulsive) and range (exponentially
+screened or long-range power law) of the electrostatic interactions of
+oppositely charged and planar plates as a function of the salt concentration
+and surface charge densities (whose absolute magnitudes are not necessarily
+equal). An analytical expression for the crossover between attractive and
+repulsive pressure is obtained as a function of the salt concentration. This
+condition reduces to the high-salt limit of Parsegian and Gingell where the
+interaction is exponentially screened and to the zero salt limit of Lau and
+Pincus in which the important length scales are the inter-plate separation and
+the Gouy-Chapman length. In the regime of low salt and high surface charges we
+predict - for any ratio of the charges on the surfaces - that the attractive
+pressure is long-ranged as a function of the spacing. The attractive pressure
+is related to the decrease in counter-ion concentration as the inter-plate
+distance is decreased. Our theory predicts several scaling regimes with
+different scaling expressions for the pressure as function of salinity and
+surface charge densities. The pressure predictions can be related to surface
+force experiments of oppositely charged surfaces that are prepared by coating
+one of the mica surfaces with an oppositely charged polyelectrolyte.

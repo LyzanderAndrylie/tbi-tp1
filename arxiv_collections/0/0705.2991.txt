@@ -1,0 +1,5 @@
+In this paper we report our systematic study of a promising absolute
+calibration technique of analog photo-detectors, based on the properties of
+parametric down conversion. Our formal results and a preliminary uncertainty
+analysis show that the proposed method can be effectively developed with
+interesting applications to metrology.

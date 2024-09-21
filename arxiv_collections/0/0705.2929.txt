@@ -1,0 +1,7 @@
+We study the Josephson current through a ferromagnetic trilayer, both in the
+diffusive and clean limits. For colinear (parallel or antiparallel)
+magnetizations in the layers, the Josephson current is small due to short range
+proximity effect in superconductor/ferromagnet structures. For non colinear
+magnetizations, we determine the conditions for the Josephson current to be
+dominated by another contribution originating from long range triplet proximity
+effect.

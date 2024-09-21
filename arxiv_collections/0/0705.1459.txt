@@ -1,0 +1,16 @@
+We study the connection between the appearance of a `metastable' behavior of
+weakly chaotic orbits, characterized by a constant rate of increase of the
+Tsallis q-entropy (Tsallis 1988), and the solutions of the variational
+equations of motion for the same orbits. We demonstrate that the variational
+equations yield transient solutions, lasting for long time intervals, during
+which the length of deviation vectors of nearby orbits grows in time almost as
+a power-law. The associated power exponent can be simply related to the
+entropic exponent for which the q-entropy exhibits a constant rate of increase.
+This analysis leads to the definition of a new sensitive indicator
+distinguishing regular from weakly chaotic orbits, that we call `Average Power
+Law Exponent' (APLE). We compare the APLE with other established indicators of
+the literature. In particular, we give examples of application of the APLE in
+a) a thin separatrix layer of the standard map, b) the stickiness region around
+an island of stability in the same map, and c) the web of resonances of a 4D
+symplectic map. In all these cases we identify weakly chaotic orbits exhibiting
+the `metastable' behavior associated with the Tsallis q-entropy.

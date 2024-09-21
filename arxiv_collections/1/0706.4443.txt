@@ -1,0 +1,8 @@
+We predict dilepton invariant-mass spectra for central 5.5 ATeV Pb-Pb
+collisions at LHC. Hadronic emission in the low-mass region is calculated using
+in-medium spectral functions of light vector mesons within hadronic many-body
+theory. In the intermediate-mass region thermal radiation from the Quark-Gluon
+Plasma, evaluated perturbatively with hard-thermal loop corrections, takes
+over. An important source over the entire mass range are decays of correlated
+open-charm hadrons, rendering the nuclear modification of charm and bottom
+spectra a critical ingredient.

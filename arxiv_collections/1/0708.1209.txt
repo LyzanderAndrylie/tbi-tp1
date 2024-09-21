@@ -1,0 +1,23 @@
+Since the early works[1-4] on the so-called nondiffracting waves (called also
+Localized Waves), a great deal of results has been published on this important
+subject, from both the theoretical and the experimental point of view.
+Initially, the theory was developed taking into account only free space;
+however, in recent years, it has been extended for more complex media
+exhibiting effects such as dispersion[5-7], nonlinearity[8], anisotropy[9] and
+losses[10]. Such extensions have been carried out along with the development of
+efficient methods for obtaining nondiffracting beams and pulses in the
+subluminal, luminal and superluminal regimes[11-18]. This paper (partly a
+review) addresses some theoretical methods related to nondiffracting solutions
+of the linear wave equation in unbounded homogeneous media, as well as to some
+interesting applications of such waves. In section II we analyze the general
+structure of the Localized Waves, develop the so called Generalized
+Bidirectional Decomposition, and use it to obtain several luminal and
+superluminal (especially X-shaped) nondiffracting solutions of the wave
+equation. In section III we develop a space-time focusing method by a
+continuous superposition of X-Shaped pulses of different velocities. Section IV
+addresses the properties of chirped optical X-Shaped pulses propagating in
+material media without boundaries. Finally, in Section V, we show how a
+suitable superposition of Bessel beams can be used to obtain stationary
+localized wave fields, with a static envelope and a high transverse
+localization, and whose longitudinal intensity pattern can assume any desired
+shape within a chosen interval of the propagation axis.

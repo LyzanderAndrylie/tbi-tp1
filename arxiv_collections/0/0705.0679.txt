@@ -1,0 +1,15 @@
+In the present paper we study two qubit entanglement in the most general
+$XYZ$ Heisenberg magnetic chain with (non)homogeneous magnetic fields and the
+DM anisotropic antisymmetric exchange interaction, arising from the spin-orbit
+coupling . The model includes all known results as particular cases, for both
+antiferromagnetic and ferromagnetic $XX, XY, XXX, XXZ, XYZ$ chains. The
+concurrence of two qubit thermal entanglement and its dependence on anisotropic
+parameters, external magnetic field and temperature are studied in details. We
+found that in all cases, inclusion of the DM interaction, which is responsible
+for weak ferromagnetism in mainly antiferromagnetic crystals and spin
+arrangement in low symmetry magnets, creates (when it does not exist) or
+strengthens (when it exists) entanglement in $XYZ$ spin chain. This implies
+existence of a relation between arrangement of spins and entanglement, in which
+the DM coupling plays an essential role. It suggests also that anisotropic
+antisymmetric exchange interaction could be an efficient control parameter of
+entanglement in the general $XYZ$ case.

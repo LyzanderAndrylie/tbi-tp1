@@ -1,0 +1,7 @@
+We construct and study a class of algebras associated to generalized layered
+graphs, i.e. directed graphs with a ranking function on their vertices. Each
+finite directed acyclic graph admits countably many structures of a generalized
+layered graph. We construct linear bases in such algebras and compute their
+Hilbert series. Our interest to generalized layered graphs and algebras
+associated to those graphs is motivated by their relations to factorizations of
+polynomials over noncommutative rings.

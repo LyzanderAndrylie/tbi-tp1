@@ -1,0 +1,5 @@
+A procedure is described for defining a generalized solution for stochastic
+differential equations using the Cameron-Martin version of the Wiener Chaos
+expansion. Existence and uniqueness of this Wiener Chaos solution is
+established for parabolic stochastic PDEs such that both the drift and the
+diffusion operators are of the second order.

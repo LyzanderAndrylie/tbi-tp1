@@ -1,0 +1,10 @@
+This paper describes a systems architecture for a hybrid Centralised/Swarm
+based multi-agent system. The issue of local goal assignment for agents is
+investigated through the use of a global agent which teaches the agents
+responses to given situations. We implement a test problem in the form of a
+Pursuit game, where the Multi-Agent system is a set of captor agents. The
+agents learn solutions to certain board positions from the global agent if they
+are unable to find a solution. The captor agents learn through the use of
+multi-layer perceptron neural networks. The global agent is able to solve board
+positions through the use of a Genetic Algorithm. The cooperation between
+agents and the results of the simulation are discussed here. .

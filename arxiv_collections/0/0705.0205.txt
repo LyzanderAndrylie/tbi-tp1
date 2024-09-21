@@ -1,0 +1,4 @@
+This note elaborates the procedures involved in the derivation of breakup
+densities in nuclear fragmentation. It is stressed that the formalism employed
+in the analysis served only as a spectral fitting function and does not imply
+any specific reaction mechanism.

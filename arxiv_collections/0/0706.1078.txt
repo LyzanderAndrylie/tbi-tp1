@@ -1,0 +1,15 @@
+We model a sheared disordered solid using the theory of Shear Transformation
+Zones (STZs). In this mean-field continuum model the density of zones is
+governed by an effective temperature that approaches a steady state value as
+energy is dissipated. We compare the STZ model to simulations by Shi, et
+al.(Phys. Rev. Lett. 98 185505 2007), finding that the model generates
+solutions that fit the data,exhibit strain localization, and capture important
+features of the localization process. We show that perturbations to the
+effective temperature grow due to an instability in the transient dynamics, but
+unstable systems do not always develop shear bands. Nonlinear energy
+dissipation processes interact with perturbation growth to determine whether a
+material exhibits strain localization. By estimating the effects of these
+interactions, we derive a criterion that determines which materials exhibit
+shear bands based on the initial conditions alone. We also show that the shear
+band width is not set by an inherent diffusion length scale but instead by a
+dynamical scale that depends on the imposed strain rate.

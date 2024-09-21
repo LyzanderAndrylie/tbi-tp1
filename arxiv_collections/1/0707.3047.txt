@@ -1,0 +1,11 @@
+Metapopulation models describing cities with different populations coupled by
+the travel of individuals are of great importance in the understanding of
+disease spread on a large scale. An important example is the Rvachev-Longini
+model [{\it Math. Biosci.} {\bf 75}, 3-22 (1985)] which is widely used in
+computational epidemiology. Few analytical results are however available and in
+particular little is known about paths followed by epidemics and disease
+arrival times. We study the arrival time of a disease in a city as a function
+of the starting seed of the epidemics. We propose an analytical Ansatz, test it
+in the case of a spreading on the world wide air transportation network, and
+show that it predicts accurately the arrival order of a disease in world-wide
+cities.

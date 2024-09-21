@@ -1,0 +1,11 @@
+We present the potential for discovering the Standard Model Higgs boson
+produced by the vector-boson fusion mechanism. We considered the decay of Higgs
+bosons into the W+W- final state, with both W-bosons subsequently decaying
+leptonically. The main background is ttbar with one or more jets produced. This
+study is based on a full simulation of the CMS detector, and up-to-date
+reconstruction codes. The result is that a signal of 5 sigma significance can
+be obtained with an integrated luminosity of 12-72 1/fb for Higgs boson masses
+between 130-200 GeV. In addition, the major background can be measured directly
+to 7% from the data with an integrated luminosity of 30 1/fb. In this study, we
+also suggested a method to obtain information in Higgs mass using the
+transverse mass distributions.

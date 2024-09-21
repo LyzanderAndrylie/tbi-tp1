@@ -1,0 +1,12 @@
+We combine the ideas of scaling theory and universal conductance fluctuations
+with density-functional theory to analyze the conductance properties of doped
+silicon nanowires. Specifically, we study the cross-over from ballistic to
+diffusive transport in boron (B) or phosphorus (P) doped Si-nanowires by
+computing the mean free path, sample averaged conductance <G>, and
+sample-to-sample variations std(G) as a function of energy, doping density,
+wire length, and the radial dopant profile. Our main findings are: (i) the main
+trends can be predicted quantitatively based on the scattering properties of
+single dopants; (ii) the sample-to-sample fluctuations depend on energy but not
+on doping density, thereby displaying a degree of universality, and (iii) in
+the diffusive regime the analytical predictions of the DMPK theory are in good
+agreement with our ab initio calculations.

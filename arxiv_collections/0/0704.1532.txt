@@ -1,0 +1,11 @@
+The nitrogen fluorescence induced in air is used to detect ultra-high energy
+cosmic rays and to measure their energy. The precise knowledge of the absolute
+fluorescence yield is the key quantity to improve the accuracy on the cosmic
+ray energy. The total yield has been measured in dry air using a 90Sr source
+and a [300-430 nm] filter. The fluorescence yield in air is 4.23 $\pm$ 0.20
+photons per meter when normalized to 760 mmHg, 15 degrees C and with an
+electron energy of 0.85 MeV. This result is consistent with previous
+experiments made at various energies, but with an accuracy improved by a factor
+of about 3. For the first time, the absolute continuous spectrum of nitrogen
+excited by 90Sr electrons has also been measured with a spectrometer. Details
+of this experiment are given in one of the author's PhD thesis [32].

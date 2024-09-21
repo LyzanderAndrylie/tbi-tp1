@@ -1,0 +1,23 @@
+A cascade model is described based on multiplier distributions determined
+from 3D direct numerical simulations (DNS) of turbulent particle laden flows,
+which include two-way coupling between the phases at global mass loadings equal
+to unity. The governing Eulerian equations are solved using pseudo-spectral
+methods on up to 512**3 computional grid points. DNS results for particle
+concentration and enstrophy at Taylor microscale Reynolds numbers in the range
+34 - 170 were used to directly determine multiplier distributions (PDFs) on
+spatial scales 3 times the Kolmogorov length scale. The width of the PDFs,
+which is a measure of intermittency, decreases with increasing mass loading
+within the local region where the multipliers are measured. The functional form
+of this dependence is not sensitive to Reynolds numbers in the range
+considered. A partition correlation probability is included in the cascade
+model to account for the observed spatial anticorrelation between particle
+concentration and enstrophy. Joint probability distribution functions of
+concentration and enstrophy generated using the cascade model are shown to be
+in excellent agreement with those derived directly from our 3D simulations.
+Probabilities predicted by the cascade model are presented at Reynolds numbers
+well beyond what is achievable by direct simulation. These results clearly
+indicate that particle mass loading significantly reduces the probabilities of
+high particle concentration and enstrophy relative to those resulting from
+unloaded runs. Particle mass density appears to reach a limit at around 100
+times the gas density. This approach has promise for significant computational
+savings in certain applications.

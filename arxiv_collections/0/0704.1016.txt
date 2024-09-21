@@ -1,0 +1,20 @@
+Motivated by recent inelastic neutron scattering (INS) experiments on
+La-based cuprates and based on the fermiology theories, we study the spin
+susceptibility for La-based (e.g., La$_{2-x}$Sr$_x$CuO$_4$) and Y-based (e.g.,
+YBa$_2$Cu$_3$O$_y$) cuprates, respectively. The spin excitation in
+YBa$_2$Cu$_3$O$_y$ is dominated by a sharp resonance peak at the frequency 40
+meV in the superconducting state. Below and above the resonance frequency, the
+incommensurate (IC) peaks develop and the intensity of the peaks decreases
+dramatically. In the normal state, the resonant excitation does not occur and
+the IC peaks are merged into commensurate ones. The spin excitation of
+La$_{2-x}$Sr$_x$CuO$_4$ is significantly different from that of Y-based ones,
+namely, the resonance peak does not exist due to the decreasing of the
+superconducting gap and the presence of the possible spin-stripe order. The
+spectra are only enhanced at the expected resonance frequency (about 18 meV)
+while it is still incommensurate. On the other hand, another frequency scale at
+the frequency 55 meV is also revealed, namely the spectra are commensurate and
+local maximum at this frequency. We elaborate all the results based on the
+Fermi surface topology and the d-wave superconductivity, and suggest that the
+spin-stripe order be also important in determining the spin excitation of
+La-based cuprates. A coherent picture for the spin excitations is presented for
+Y-based and La-based cuprates.

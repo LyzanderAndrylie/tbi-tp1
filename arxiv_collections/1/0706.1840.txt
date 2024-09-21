@@ -1,0 +1,11 @@
+The formation of vortices by topological phase engineering has been realized
+experimentally to create the first two- and four-quantum vortices in dilute
+atomic Bose-Einstein condensates [A. E. Leanhardt et al., Phys. Rev. Lett. 89,
+190403 (2002)]. We consider a similar system, but in addition to the
+Ioffe-Pritchard magnetic trap we employ an additional hexapole field. By
+controlling cyclicly the strengths of these magnetic fields, we show that a
+fixed amount of vorticity can be added to the condensate in each cycle. In an
+adiabatic operation of this vortex pump, the appearance of vortices into the
+condensate is interpreted as the accumulation of a local Berry phase. Our
+design can be used as an experimentally realizable vortex source for possible
+vortex-based applications of dilute Bose-Einstein condensates.

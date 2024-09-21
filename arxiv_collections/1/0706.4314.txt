@@ -1,0 +1,20 @@
+We study the distribution of domain areas, areas enclosed by domain
+boundaries (''hulls''), and perimeters for curvature-driven two-dimensional
+coarsening, employing a combination of exact analysis and numerical studies,
+for various initial conditions. We show that the number of hulls per unit area,
+$n_h(A,t) dA$, with enclosed area in the interval $(A,A+dA)$, is described, for
+a disordered initial condition, by the scaling function $n_h(A,t) = 2c_h/(A +
+\lambda_h t)^2$, where $c_h=1/8\pi\sqrt{3} \approx 0.023$ is a universal
+constant and $\lambda_h$ is a material parameter. For a critical initial
+condition, the same form is obtained, with the same $\lambda_h$ but with $c_h$
+replaced by $c_h/2$. For the distribution of domain areas, we argue that the
+corresponding scaling function has, for random initial conditions, the form
+$n_d(A,t) = 2c_d (\lambda_d t)^{\tau'-2}/(A + \lambda_d t)^{\tau'}$, where
+$c_d=c_h + {\cal O}(c_h^2)$, $\lambda_d=\lambda_h + {\cal O}(c_h)$, and $\tau'
+= 187/91 \approx 2.055$. For critical initial conditions, one replaces $c_d$ by
+$c_d/2$ (possibly with corrections of ${\cal O}(c_h^2)$) and the exponent is
+$\tau = 379/187 \approx 2.027$. These results are extended to describe the
+number density of the length of hulls and domain walls surrounding connected
+clusters of aligned spins. These predictions are supported by extensive
+numerical simulations. We also study numerically the geometric properties of
+the boundaries and areas.

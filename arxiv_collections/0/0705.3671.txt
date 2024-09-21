@@ -1,0 +1,4 @@
+We prove the existence of a global attractor for the Newton-Boussinesq
+equation defined in a two-dimensional channel. The asymptotic compactness of
+the equation is derived by the uniform estimates on the tails of solutions. We
+also establish the regularity of the global attractor.

@@ -1,0 +1,23 @@
+We study the growth of correlations in systems with weak long-range
+interactions. Starting from the BBGKY hierarchy, we determine the evolution of
+the two-body correlation function by using an expansion of the solutions of the
+hierarchy in powers of 1/N in a proper thermodynamic limit $N\to +\infty$.
+These correlations are responsible for the ``collisional'' evolution of the
+system beyond the Vlasov regime due to finite $N$ effects. We obtain a general
+kinetic equation that can be applied to spatially inhomogeneous systems and
+that takes into account memory effects. These peculiarities are specific to
+systems with unshielded long-range interactions. For spatially homogeneous
+systems with short memory time like plasmas, we recover the classical Landau
+(or Lenard-Balescu) equations. An interest of our approach is to develop a
+formalism that remains in physical space (instead of Fourier space) and that
+can deal with spatially inhomogeneous systems. This enlightens the basic
+physics and provides novel kinetic equations with a clear physical
+interpretation. However, unless we restrict ourselves to spatially homogeneous
+systems, closed kinetic equations can be obtained only if we ignore some
+collective effects between particles. General exact coupled equations taking
+into account collective effects are also given. We use this kinetic theory to
+discuss the processes of violent collisionless relaxation and slow collisional
+relaxation in systems with weak long-range interactions. In particular, we
+investigate the dependence of the relaxation time with the system size and
+provide a coherent discussion of all the numerical results obtained for these
+systems.

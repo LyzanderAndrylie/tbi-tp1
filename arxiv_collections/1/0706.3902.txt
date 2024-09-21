@@ -1,0 +1,9 @@
+We derive different relations quantifying duality in a generic two-way
+interferometer. These relations set different upper bounds to the visibility V
+of the fringes measured at the output port of the interferometer. A hierarchy
+of inequalities is presented which exhibits the influence of the availability
+to the experimenter of different sources of which-way information contributing
+to the total distinguishability D of the ways. For mixed states and unbalanced
+interferometers an inequality is derived, V^2+ Xi^2 \leq 1, which can be more
+stringent than the one associated with the distinguishability (V^2+ D^2 \leq
+1).

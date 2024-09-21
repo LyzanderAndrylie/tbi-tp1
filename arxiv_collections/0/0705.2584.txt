@@ -1,0 +1,20 @@
+Energetic feedback processes during the formation of galaxy clusters may have
+heated and ionized a large fraction of the intergalactic gas in proto-cluster
+regions. When such a highly ionized hot ``super-bubble'' falls along the
+sightline to a background quasar, it would be seen as a large void, with little
+or no absorption, in the Lyman alpha forest. We examine the spectra of 137
+quasars in the Sloan Digital Sky Survey, to search for such voids, and find no
+clear evidence of their existence. The size distribution of voids in the range
+5-70 Angstrom (corresponding to physical sizes of approximately 3-35 comoving
+Mpc/h) is consistent with the standard model for the Lyman alpha forest without
+additional hot bubbles. We adapt a physical model for HII bubble growth during
+cosmological reionization (Furlanetto, Zaldarriaga and Hernquist 2004), to
+describe the expected size-distribution of hot super-bubbles at redshift around
+z = 3. This model incorporates the conjoining of bubbles around individual
+neighboring galaxies. Using the non-detection of voids, we find that models in
+which the volume filling factor of hot bubbles exceeds approximately 20 percent
+at z=3 can be ruled out, primarily because they overproduce the number of large
+(40-50 Angstrom) voids. We conclude that any pre-heating mechanism that
+explains galaxy cluster observations must avoid heating the low-density gas in
+the proto-cluster regions, either by operating relatively recently (z<3) or by
+depositing entropy in the high-density regions.

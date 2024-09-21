@@ -1,0 +1,8 @@
+We study fundamental limitations on the energy relaxation rate of a
+superconducting charge qubit with a large-gap Cooper-pair box, $\Delta_b >
+\Delta_r$. At a sufficiently large mismatch between the gap energies in the box
+$\Delta_b$ and in the reservoir $\Delta_r$,"quasiparticle poisoning" becomes
+ineffective even in the presence of nonequilibrium quasiparticles in the
+reservoir. The qubit relaxation still may occur due to higher-order (Andreev)
+processes. In this paper we evaluate the qubit energy relaxation rate due to
+Andreev processes.

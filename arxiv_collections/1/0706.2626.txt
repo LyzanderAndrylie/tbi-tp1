@@ -1,0 +1,9 @@
+We propose a unifying phase-space approach to the construction of mutually
+unbiased bases for a two-qubit system. It is based on an explicit
+classification of the geometrical structures compatible with the notion of
+unbiasedness. These consist of bundles of discrete curves intersecting only at
+the origin and satisfying certain additional properties. We also consider the
+feasible transformations between different kinds of curves and show that they
+correspond to local rotations around the Bloch-sphere principal axes. We
+suggest how to generalize the method to systems in dimensions that are powers
+of a prime.

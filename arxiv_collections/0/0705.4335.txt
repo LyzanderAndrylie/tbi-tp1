@@ -1,0 +1,14 @@
+We apply the general principles of effective field theories to the
+construction of effective interactions suitable for few- and many-body
+calculations in a no-core shell model framework. We calculate the spectrum of
+systems with three and four two-component fermions in a harmonic trap. In the
+unitary limit, we find that three-particle results are within 10% of known
+semi-analytical values even in small model spaces. The method is very general,
+and can be readily extended to other regimes, more particles, different species
+(e.g., protons and neutrons in nuclear physics), or more-component fermions (as
+well as bosons). As an illustration, we present calculations of the
+lowest-energy three-fermion states away from the unitary limit and find a
+possible inversion of parity in the ground state in the limit of trap size
+large compared to the scattering length. Furthermore, we investigate the lowest
+positive-parity states for four fermions, although we are limited by the
+dimensions we can currently handle in this case.

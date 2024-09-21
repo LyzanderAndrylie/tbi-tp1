@@ -1,0 +1,12 @@
+We study magnetic ordering of an extended Kondo-lattice model including an
+additional on-site Coulomb interaction between the itinerant states. The model
+is solved in the dynamical mean-field theory using Wilson's numerical
+renormalization group approach as impurity solver. For a bipartite lattice we
+find at half filling the expected antiferromagnetic phase. Upon doping this
+phase is gradually suppressed and hints towards phase separation are observed.
+For large doping the model exhibits ferromagnetism, the appearance of which can
+at first sight be explained by Rudermann-Kittel-Kasuya-Yosida interaction.
+However, for large values of the Kondo coupling $J$ significant differences to
+a simple Rudermann-Kittel-Kasuya-Yosida picture can be found. We furthermore
+observe signs of quantum critical points for antiferromagnetic Kondo coupling
+between the local spins and band states.

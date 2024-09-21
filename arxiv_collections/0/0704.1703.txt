@@ -1,0 +1,13 @@
+The large-scale Galactic interstellar radiation field (ISRF) is the result of
+stellar emission and dust re-processing of starlight. Where the energy density
+of the ISRF is high (e.g., the Galactic Centre), the dominant gamma-ray
+emission in individual supernova remnants (SNRs), such as G0.9+0.1, may come
+from inverse Compton (IC) scattering of the ISRF. Several models of the ISRF
+exist. The most recent one, which has been calculated by us, predicts a
+significantly higher ISRF than the well-used model of Mathis, Mezger, and
+Panagia. However,comparison with data is limited to local observations. Based
+on our current estimate of the ISRF we predict the gamma-ray emission in the
+SNRs G0.9+0.1 and RXJ1713, and pair-production absorption features above 20 TeV
+in the spectra of G0.9+0.1, J1713-381, and J1634-472. We discuss how GLAST,
+along with current and future very high energy instruments, may be able to
+provide upper bounds on the large-scale ISRF.

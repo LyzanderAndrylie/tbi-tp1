@@ -1,0 +1,12 @@
+The recent discovery of unstable travelling waves (TWs) in pipe flow has been
+hailed as a significant breakthrough with the hope that they populate the
+turbulent attractor. We confirm the existence of coherent states with internal
+fast and slow streaks commensurate in both structure and energy with known TWs
+using numerical simulations in a long pipe. These only occur, however, within
+less energetic regions of (localized) `puff' turbulence at low Reynolds numbers
+(Re=2000-2400), and not at all in (homogeneous) `slug' turbulence at Re=2800.
+This strongly suggests that all currently known TWs sit in an intermediate
+region of phase space between the laminar and turbulent states rather than
+being embedded within the turbulent attractor itself. New coherent fast streak
+states with strongly decelerated cores appear to populate the turbulent
+attractor instead.

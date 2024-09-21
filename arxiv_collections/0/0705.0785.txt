@@ -1,0 +1,13 @@
+The Navier-Stokes equations in a finite cylinder are written in terms of
+poloidal and toroidal potentials in order to impose incompressibility.
+Regularity of the solutions is ensured in several ways: First, the potentials
+are represented using a spectral basis which is analytic at the cylindrical
+axis. Second, the non-physical discontinuous boundary conditions at the
+cylindrical corners are smoothed using a polynomial approximation to a steep
+exponential profile. Third, the nonlinear term is evaluated in such a way as to
+eliminate singularities. The resulting pseudo-spectral code is tested using
+exact polynomial solutions and the spectral convergence of the coefficients is
+demonstrated. Our solutions are shown to agree with exact polynomial solutions
+and with previous axisymmetric calculations of vortex breakdown and of
+nonaxisymmetric calculations of onset of helical spirals. Parallelization by
+azimuthal wavenumber is shown to be highly effective.

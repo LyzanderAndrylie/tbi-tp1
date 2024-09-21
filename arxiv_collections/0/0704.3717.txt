@@ -1,0 +1,8 @@
+We study ion condensation onto a patterned surface of alternating charges.
+The competition between self-energy and ion-surface interactions leads to the
+formation of ionic crystalline structures at low temperatures. We consider
+different arrangements of underlying ionic crystals, including single ion
+adsorption, as well as the formation of dipoles at the interface between
+charged domains. Molecular dynamic simulation illustrates existence of single
+and mixed phases. Our results contribute to understanding pattern recognition,
+and molecular separation and synthesis near patterned surfaces.

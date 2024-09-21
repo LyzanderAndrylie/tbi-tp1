@@ -1,0 +1,20 @@
+We present the studies of the decays $B\to a_1(1260) \pi$ and $a_1(1260) K$
+within the framework of QCD factorization. Due to the G-parity, unlike the
+vector meson, the chiral-odd two-parton light-cone distribution amplitudes of
+the $a_1$ are antisymmetric under the exchange of quark and anti-quark momentum
+fractions in the SU(2) limit. The branching ratios for $a_1 \pi$ modes are
+sensitive to tree--penguin interference. The resultant ${\cal B}(B^0 \to
+a_1^\pm \pi^\mp)$ are in good agreement with the data. However, using the
+current Cabibbo--Kobayashi--Maskawa angles, $\beta=22.0^\circ$ and
+$\gamma=59.0^\circ$, our results for the mixing-induced parameter $S$ and
+$\alpha_{\rm eff}$ differ from the measurements of the time-dependent CP
+asymmetries in the decay $B^0\to a_1^\pm \pi^\mp$ at about the $3.7\sigma$
+level. This puzzle may be resolved by using a larger $\gamma \gtrsim 80^\circ$.
+For $a_1 K$ modes, the annihilation topologies give sizable contributions and
+are sensitive to the first Gegenbauer moment of the leading-twist tensor
+(chiral-odd) distribution amplitude of the $a_1$ meson. The $B\to a_1 K$
+amplitudes resemble the corresponding $B\to \pi K$ ones very much. Taking the
+ratios of corresponding CP-averaged $a_1 K$ and $\pi K$ branching ratios, we
+can extract information relevant to the electroweak penguins and annihilations.
+The existence of new-physics in the electroweak penguin sector and final state
+interactions during decays can thus be explored.

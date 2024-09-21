@@ -1,0 +1,7 @@
+Consider in $L^2(R^d)$, $d\geq 1$, the operator family $H(g):=H_0+igW$. $\ds
+H_0= a^\ast_1a_1+... +a^\ast_da_d+d/2$ is the quantum harmonic oscillator with
+rational frequencies, $W$ a $P$ symmetric bounded potential, and $g$ a real
+coupling constant. We show that if $|g|<\rho$, $\rho$ being an explicitly
+determined constant, the spectrum of $H(g)$ is real and discrete. Moreover we
+show that the operator $\ds H(g)=a^\ast_1 a_1+a^\ast_2a_2+ig a^\ast_2a_1$ has
+real discrete spectrum but is not diagonalizable.

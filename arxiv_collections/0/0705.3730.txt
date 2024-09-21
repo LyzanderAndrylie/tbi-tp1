@@ -1,0 +1,13 @@
+Effect of an anisotropic detachment on a heteroepitaxial island shape is
+studied by means of a kinetic Monte Carlo simulation of a square lattice gas
+model. Only with molecular deposition followed by surface diffusion, islands
+grow in a ramified dendritic shape, similar to DLA. Introduction of molecular
+detachment from edges makes islands compact. To understand an anisotropic
+island shape observed in the experiment of pentacene growth on a
+hydrogen-terminated Si(111) vicinal surface, asymmetry in detachment around the
+substrate step is assumed. Edge molecules detach more to the higher terrace
+than to the lower terrace. The island edge from which molecules are easy to
+detach is smooth and the one hard to detach is dendritic. If islands are close
+to each other, islands tend to align in a line, since detached molecules from
+the smooth edge of the right island are fed to the dendritic and fast growing
+edge of the left island.

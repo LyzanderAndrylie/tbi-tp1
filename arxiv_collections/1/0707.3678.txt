@@ -1,0 +1,6 @@
+We review the q-deformed spin network approach to topological quantum field
+theory and apply these methods to produce unitary representations of the braid
+groups that are dense in the unitary groups. The simplest case of these models
+is the Fibonacci model, itself universal for quantum computation. We here
+formulate these braid group representations in a shape suitable for computation
+and algebraic work.

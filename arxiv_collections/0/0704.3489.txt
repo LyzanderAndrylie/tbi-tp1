@@ -1,0 +1,12 @@
+We investigate the behavior of a circuit QED device when the resonator is
+initially populated with a mesoscopic coherent field. The strong coupling
+between the cavity and the qubit produces an entangled state involving
+mesoscopic quasi-pointer states with respect to cavity dissipation. The overlap
+of the associated field components results in collapse and revivals for the
+Rabi oscillation. Although qubit relaxation and dephasing do not preserve these
+states, a simple analytical description of the dissipative dynamics of the
+circuit QED device including cavity relaxation as well as qubit dissipation is
+obtained from the Monte-Carlo approach. Explicit predictions for the
+spontaneous and induced Rabi oscillation signals are derived and sucessfully
+compared with exact calculations. We show that these interesting effects could
+be observed with a 10 photon field in forthcoming circuit QED experiments.

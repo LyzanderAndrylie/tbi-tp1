@@ -1,0 +1,10 @@
+We calculate the ratios R_{e/mu}^{(P)} = Gamma(P -> e nu)/Gamma (P -> mu nu)
+(P=pi,K) in Chiral Perturbation Theory to order e^2 p^4. We complement the one-
+and two-loop effective theory results with a matching calculation of the local
+counterterm, performed within the large-$N_C$ expansion. We find
+R_{e/mu}^{(\pi)} = (1.2352 \pm 0.0001)*10^{-4} and R_{e/mu}^{(K)} = (2.477 \pm
+0.001)*10^{-5}, with uncertainty induced by the matching procedure and chiral
+power counting. Given the sensitivity of upcoming new measurements, our results
+provide a clean baseline to detect or constrain effects from weak-scale new
+physics in these rare decays. As a by-product, we also update the theoretical
+analysis of the individual pi/K -> \ell nu modes.

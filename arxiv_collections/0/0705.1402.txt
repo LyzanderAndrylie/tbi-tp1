@@ -1,0 +1,8 @@
+The t-t'-t''-J model of electrons interacting with three phonon modes
+(breathing, apical breathing, and buckling) is considered. The wave-vector
+dependence of the matrix elements of the electron-phonon interaction leads to
+opposite contributions to the pairing potential with the d-symmetry: the
+buckling mode facilitates electron pairing, while the breathing mode suppresses
+it. As a result, the critical temperature of La{2 - x}Sr{x}CuO{4} that is
+associated with the magnetic mechanism is lowered when phonons are taken into
+account.

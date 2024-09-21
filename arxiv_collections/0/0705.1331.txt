@@ -1,0 +1,13 @@
+We investigate the hydrodynamics of accretion channelled by a dipolar
+magnetic field (funnel flows). We consider situations in which the electrons
+and ions in the flow cannot maintain thermal equilibrium (two-temperature
+effects) due to strong radiative loss, and determine the effects on the keV
+X-ray properties of the systems. We apply this model to investigate the
+accretion shocks of white dwarfs in magnetic cataclysmic variables. We have
+found that the incorporation of two-temperature effects could harden the keV
+X-rays. Also, the dipolar model yields harder X-ray spectra than the standard
+planar model if white dwarf is sufficiently massive (>~1M_sun). When fitting
+observed keV X-ray spectra of magnetic cataclysmic variables, the inclusion of
+two-temperature hydrodynamics and a dipolar accretion geometry lowers estimates
+for white-dwarf masses when compared with masses inferred from models excluding
+these effects. We find mass reductions <~9% in the most massive cases.

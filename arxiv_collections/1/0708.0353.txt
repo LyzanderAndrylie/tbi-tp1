@@ -1,0 +1,6 @@
+We investigate the local fractal properties of the financial time series
+based on the evolution of the Warsaw Stock Exchange Index (WIG) connected with
+the largest developing financial market in Europe. Calculating the local Hurst
+exponent for the WIG time series we find an interesting dependence between the
+behavior of the local fractal properties of the WIG time series and the crashes
+appearance on the financial market.

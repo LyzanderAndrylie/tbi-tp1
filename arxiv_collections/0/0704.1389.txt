@@ -1,0 +1,9 @@
+We introduce a novel extension of the Gutzwiller variational wavefunction
+able to deal with insulators that escape any mean-field like description, as
+for instance non-magnetic insulators. As an application, we study the Mott
+transition from a paramagnetic metal into a non-magnetic Peierls, or
+valence-bond, Mott insulator. We analyze this model by means of our Gutzwiller
+wavefunction analytically in the limit of large coordination lattices, where we
+find that: (1) the Mott transition is first order; (2) the Peierls gap is large
+in the Mott insulator, although it is mainly contributed by the electron
+repulsion; (3) singlet-superconductivity arises around the transition.

@@ -1,0 +1,9 @@
+The family of metric operators, constructed by Musumbu {\sl et al} (2007 {\sl
+J. Phys. A: Math. Theor.} {\bf 40} F75), for a harmonic oscillator Hamiltonian
+augmented by a non-Hermitian $\cal PT$-symmetric part, is re-examined in the
+light of an su(1,1) approach. An alternative derivation, only relying on
+properties of su(1,1) generators, is proposed. Being independent of the
+realization considered for the latter, it opens the way towards the
+construction of generalized non-Hermitian (not necessarily $\cal PT$-symmetric)
+oscillator Hamiltonians related by similarity to Hermitian ones. Some examples
+of them are reviewed.

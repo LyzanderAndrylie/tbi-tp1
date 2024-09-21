@@ -1,0 +1,9 @@
+We use the phenomenological model proposed in our previous paper [Phys. Rev.
+Lett. {\bf 98}, 237001 (2007)] to analyse the magnetic field dependence of the
+onset temperature for two-dimensional fluctuating superconductivity $T^{**}
+(H)$. We demonstrate that the slope of $T^{**} (H)$ progressively goes down as
+$H$ increases, such that the upper critical field progressively increases as
+$T$ decreases. The quantitative agreement with the recent measurements of
+$T^{**} (H)$ in $La_{1.85}Ba_{0.125}CuO_4$ is achieved for the same parameter
+value as was derived in our previous publication from the analysis of the
+electron self energy.

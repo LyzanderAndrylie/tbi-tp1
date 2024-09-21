@@ -1,0 +1,13 @@
+Quantum computers have the capability of out-performing their classical
+counterparts for certain computational problems. Several scalable quantum
+computing architectures have been proposed. An attractive architecture is a
+large set of physically independant qubits, arranged in three spatial regions
+where (i) the initialized qubits are stored in a register, (ii) two qubits are
+brought together to realize a gate, and (iii) the readout of the qubits is
+performed. For a neutral atom-based architecture, a natural way to connect
+these regions is to use optical tweezers to move qubits within the system. In
+this letter we demonstrate the coherent transport of a qubit, encoded on an
+atom trapped in a sub-micron tweezer, over a distance typical of the separation
+between atoms in an array of optical traps. Furthermore, we transfer a qubit
+between two tweezers, and show that this manipulation also preserves the
+coherence of the qubit.

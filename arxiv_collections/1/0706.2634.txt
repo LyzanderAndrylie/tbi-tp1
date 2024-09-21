@@ -1,0 +1,4 @@
+We will describe natural `Lax pairs' for the difference Painleve equations
+with affine Weyl symmetry groups of types E6, E7 and E8, showing that they do
+indeed arise as symmetries of certain Fuchsian systems of differential
+equations.

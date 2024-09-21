@@ -1,0 +1,11 @@
+Wave chaos is a concept which has already proved its practical usefulness in
+design of double-clad fibers for cladding-pumped fiber lasers and fiber
+amplifiers. In general, classically chaotic geometries will favor strong pump
+absorption and we address the extent of chaotic wave dynamics in typical
+air-clad geometries. While air-clad structures supporting sup-wavelength convex
+air-glass interfaces (viewed from the high-index side) will promote chaotic
+dynamics we find guidance of regular whispering-gallery modes in air-clad
+structures resembling an overall cylindrical symmetry. Highly symmetric
+air-clad structures may thus suppress the pump-absorption efficiency eta below
+the ergodic scaling law eta proportional to Ac/Acl, where Ac and Acl are the
+areas of the rare-earth doped core and the cladding, respectively.

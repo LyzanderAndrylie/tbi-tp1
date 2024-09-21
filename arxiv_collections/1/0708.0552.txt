@@ -1,0 +1,9 @@
+We present a novel approach to look for the existence of maximum entanglement
+in a system of two identical quantum dots coupled by the Forster process and
+interacting with a classical laser field. Our approach is not only able to
+explain the existing treatments, but also provides further detailed insights
+into the coupled dynamics of quantum dots systems. The result demonstrates that
+there are two ways for generating maximum entangled states, one associated with
+far off-resonance interaction, and the other associated with the weak field
+limit. Moreover, it is shown that exciton decoherence results in the decay of
+entanglement.

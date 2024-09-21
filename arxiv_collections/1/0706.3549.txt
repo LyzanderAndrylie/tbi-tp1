@@ -1,0 +1,8 @@
+We propose a method to probe the nature of phase transitions in lattice QCD
+at finite temperature and density, which is based on the investigation of an
+effective potential as a function of the average plaquette. We analyze data
+obtained in a simulation of two-flavor QCD using p4-improved staggered quarks
+with bare quark mass $m/T = 0.4$, and find that a first order phase transition
+line appears in the high density regime for $\mu_q/T \simge 2.5$. We also
+discuss the difference between the phase structures of QCD with non-zero quark
+chemical potential and non-zero isospin chemical potential.

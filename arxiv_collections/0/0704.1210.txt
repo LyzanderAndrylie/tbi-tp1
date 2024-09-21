@@ -1,0 +1,18 @@
+We study the possibility that the mutual interactions between Jupiter and
+Saturn prevented Type II migration from driving these planets much closer to
+the Sun. Our work extends previous results by Masset and Snellgrove (2001), by
+exploring a wider set of initial conditions and disk parameters, and by using a
+new hydrodynamical code that properly describes for the global viscous
+evolution of the disk. Initially both planets migrate towards the Sun, and
+Saturn's migration tends to be faster. As a consequence, they eventually end up
+locked in a mean motion resonance. If this happens in the 2:3 resonance, the
+resonant motion is particularly stable, and the gaps opened by the planets in
+the disk may overlap. This causes a drastic change in the torque balance for
+the two planets, which substantially slows down the planets' inward migration.
+If the gap overlap is substantial, planet migration may even be stopped or
+reversed. As the widths of the gaps depend on disk viscosity and scale height,
+this mechanism is particularly efficient in low viscosity, cool disks. We
+discuss the compatibility of our results with the initial conditions adopted in
+Tsiganis et al. (2005) and Gomes et al. (2005) to explain the current orbital
+architecture of the giant planets and the origin of the Late Heavy Bombardment
+of the Moon.

@@ -1,0 +1,8 @@
+We consider a large class of optical cavities and gain media with an off-axis
+external feedback which introduces a two-point nonlocality. This nonlocality
+moves the lasing threshold and opens large windows of control parameters where
+weak light spots can be strongly amplified while the background radiation
+remains very low. Furthermore, transverse phase and group velocities of a
+signal can be independently tuned and this enables to steer it non
+mechanically, to control its spatial chirping and to split it into two
+counter-propagating ones.

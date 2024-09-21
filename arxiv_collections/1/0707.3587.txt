@@ -1,0 +1,16 @@
+Searching for an accurate optical clock which can serve as a better time
+standard than the present day atomic clock is highly demanding from several
+areas of science and technology. Several attempts have been made to built more
+accurate clocks with different ion species. In this article we discuss the
+electric quadrupole and hyperfine shifts in the $5d^{9}6s^{2}
+^{2}D_{5/2}(F=0,m_{F}=0)\leftrightarrow5d^{10}6s ^{2}S_{1/2}(F=2,m_{F}=0)$
+clock transition in $ ^{199}Hg^{+}$, one of the most promising candidates for
+next generation optical clocks. We have applied Fock-space unitary
+coupled-cluster (FSUCC) theory to study the electric quadrupole moment of the
+$5d^{9}6s^{2} ^{2}D_{5/2}$ state and magnetic dipole hyperfine constants of
+$5d^{9}6s^{2} ^{2}D_{3/2,5/2}$ and $5d^{10}6s^{1} ^{2}S_{1/2}$ states
+respectively of $ ^{199}Hg^{+}$. We have also compared our results with
+available data. To the best of our knowledge, this is the first time a variant
+of coupled-cluster (CC) theories has been applied to study these kinds of
+properties of $Hg^{+}$and is the most accurate estimate of these quantities to
+date.

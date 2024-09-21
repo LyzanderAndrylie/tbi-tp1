@@ -1,0 +1,14 @@
+We investigate the possibility for a quark-antiquark pair to form a bound
+state at temperatures higher than the critical one ($T>T_c$), thus after
+deconfinement. Our main goal is to find analytical criteria constraining the
+existence of such mesons. Our formalism relies on a Schr\"{o}dinger equation
+for which we study the physical consequences of both using the free energy and
+the internal energy as potential term, assuming a widely accepted
+temperature-dependent Yukawa form for the free energy and a recently proposed
+nonperturbative form for the screening mass. We show that using the free energy
+only allows for the 1S bottomonium to be bound above $T_c$, with a dissociation
+temperature around $1.5\times T_c$. The situation is very different with the
+internal energy, where we show that no bound states at all can exist in the
+deconfined phase. But, in this last case, quasi-bound states could be present
+at higher temperatures because of a positive barrier appearing in the
+potential.

@@ -1,0 +1,10 @@
+We report a molecular dynamics simulation of melting of tungsten (W)
+nanoparticles. The modified embedded atom method (MEAM) interatomic potentials
+are used to describe the interaction between tungsten atoms. The melting
+temperature of unsupported tungsten nanoparticles of different sizes are found
+to decrease as the size of the particles decreases. The melting temperature
+obtained in the present study is approximately a decreasing function of inverse
+radius, in a good agreement with the predictions of thermodynamic models. We
+also observed that the melting of a W nanoparticle is preceded by the
+premelting of its outer skin at a temperature lower than its melting
+temperature.

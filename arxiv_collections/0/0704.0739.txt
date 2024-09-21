@@ -1,0 +1,3 @@
+We compute the loss of power in likelihood ratio tests when we test the
+original parameter of a probability density extended by the first Lehmann
+alternative.

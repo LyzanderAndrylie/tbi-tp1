@@ -1,0 +1,17 @@
+The photon box thought experiment can be considered a forerunner of the
+EPR-experiment: by performing suitable measurements on the box it is possible
+to ``prepare'' the photon, long after it has escaped, in either of two
+complementary states. Consistency requires that the corresponding box
+measurements be complementary as well. At first sight it seems, however, that
+these measurements can be jointly performed with arbitrary precision: they
+pertain to different systems (the center of mass of the box and an internal
+clock, respectively). But this is deceptive. As we show by explicit
+calculation, although the relevant quantities are simultaneously measurable,
+they develop non-vanishing commutators when calculated back to the time of
+escape of the photon. This justifies Bohr's qualitative arguments in a precise
+way; and it illustrates how the details of the dynamics conspire to guarantee
+the requirements of complementarity. In addition, our calculations exhibit a
+``fine structure'' in the distribution of the uncertainties over the
+complementary quantities: depending on when the box measurement is performed,
+the resulting quantum description of the photon differs. This brings us close
+to the argumentation of the later EPR thought experiment.

@@ -1,0 +1,16 @@
+Accretion-powered X-ray pulsars are among the most luminous X-ray sources in
+the Galaxy. However, despite decades of theoretical and observational work
+since their discovery, no satisfactory model for the formation of the observed
+X-ray spectra has emerged. In this paper, we report on a self-consistent
+calculation of the spectrum emerging from a pulsar accretion column that
+includes an explicit treatment of the bulk and thermal Comptonization occurring
+in the radiation-dominated shocks that form in the accretion flows. Using a
+rigorous eigenfunction expansion method, we obtain a closed-form expression for
+the Green's function describing the upscattering of monochromatic radiation
+injected into the column. The Green's function is convolved with
+bremsstrahlung, cyclotron, and blackbody source terms to calculate the emergent
+photon spectrum. We show that energization of photons in the shock naturally
+produces an X-ray spectrum with a relatively flat continuum and a high-energy
+exponential cutoff. Finally, we demonstrate that our model yields good
+agreement with the spectra of the bright pulsar Her X-1 and the low luminosity
+pulsar X Per.

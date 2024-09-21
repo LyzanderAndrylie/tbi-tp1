@@ -1,0 +1,8 @@
+An all-electrical spin resonance effect in a GaAs few-electron double quantum
+dot is investigated experimentally and theoretically. The magnetic field
+dependence and absence of associated Rabi oscillations are consistent with a
+novel hyperfine mechanism. The resonant frequency is sensitive to the
+instantaneous hyperfine effective field, and the effect can be used to detect
+and create sizable nuclear polarizations. A device incorporating a micromagnet
+exhibits a magnetic field difference between dots, allowing electrons in either
+dot to be addressed selectively.

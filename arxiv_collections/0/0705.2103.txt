@@ -1,0 +1,11 @@
+Two types of surface models have been investigated by Monte Carlo simulations
+on triangulated spheres with compartmentalized domains. Both models are found
+to undergo a first-order collapsing transition and a first-order surface
+fluctuation transition. The first model is a fluid surface one. The vertices
+can freely diffuse only inside the compartments, and they are prohibited from
+the free diffusion over the surface due to the domain boundaries. The second is
+a skeleton model. The surface shape of the skeleton model is maintained only by
+the domain boundaries, which are linear chains with rigid junctions. Therefore,
+we can conclude that the first-order transitions occur independent of whether
+the shape of surface is mechanically maintained by the skeleton (= the domain
+boundary) or by the surface itself.

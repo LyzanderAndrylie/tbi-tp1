@@ -1,0 +1,9 @@
+A classical lazy random walk on cycles is known to mix to the uniform
+distribution. In contrast, we show that a continuous-time quantum walk on
+cycles exhibit strong non-uniform mixing properties. Our results include the
+following:
+  - The instantaneous distribution of a quantum walk on most even-length cycles
+is never uniform. - The average distribution of a quantum walk on any Abelian
+circulant graph is never uniform. As a corollary, the average distribution of a
+quantum walk on any standard circulant graph, such as the cycles, complete
+graphs, and even hypercubes, is never uniform.

@@ -1,0 +1,9 @@
+We study theoretically the electronic and transport properties of a diffusive
+superconductor-normal metal-superconductor (SNS) junction in the presence of a
+perpendicular magnetic field. We show that the field dependence of the critical
+current crosses over from the well-known Fraunhofer pattern in wide junctions
+to a monotonous decay when the width of the normal wire is smaller than the
+magnetic length \xi_H = \sqrt{\Phi_0/H}, where H is the magnetic field and
+\Phi_0 the flux quantum. We demonstrate that this behavior is a direct
+consequence of the magnetic vortex structure appearing in the normal region and
+predict how such structure is manifested in the local density of states.

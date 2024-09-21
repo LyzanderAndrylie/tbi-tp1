@@ -1,0 +1,13 @@
+A microscopic description of the quasielastic (p,n) charge-exchange reaction
+(here, charge-exchange scattering between analogue states) is presented and
+discussed. Emphasis is focused on the spin-isospin structure of the
+projectile-target coupling. The model is a coupled-channel extension of the
+full-folding optical model approach (OMP) developed for nucleon elastic
+scattering, where emphasis is placed on retaining the genuine off-shell
+behavior of realistic effective interactions in the nuclear medium. The
+resulting non-local optical potentials are applied to the calculation of (p,n)
+differential cross sections, with particular emphasis on small-angle Fermi
+($\Delta S=0$) cross-sections to isobaric analog states. These parameter-free
+results provide a reasonable description of the $^{14}$C(p,n)-data at proton
+energies above $\sim$100 MeV, but deteriorate for heavier targets. These
+shortcomings are analyzed and possible ways to correct them are discussed.

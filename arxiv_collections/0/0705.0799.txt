@@ -1,0 +1,12 @@
+The phonon dynamics in a one dimensional Heisenberg spin chain coupled to
+finite-frequency bond phonons is studied. We present the first detailed phonon
+spectra for these systems using Quantum Monte Carlo. The quantum phase
+transition is dominated by a central peak, yet the renormalisation of the main
+phonon branch depends strongly on the bare phonon frequency omega_0. The main
+branch remains largely unaffected at omega_0 \gsim J, but it softens completely
+when omega_0 is low enough. This is an unusual scenario for a structural phase
+transition and was observable only on sufficiently large systems. Approaching
+the dimerized phase from finite temperature, the lattice dynamics mirrors the
+behavior of a three dimensional system. For the efficient measurement of Greens
+functions, we introduce a mapping from the stochastic series expansion to
+continuous imaginary time.

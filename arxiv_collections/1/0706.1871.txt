@@ -1,0 +1,18 @@
+Spatiotemporal correlations of the two-dimensional spring-block
+(Burridge-Knopoff) model of earthquakes are extensively studied by means of
+numerical computer simulations. The model is found to exhibit either
+``subcritical'' or ``supercritical'' behavior, depending on the values of the
+model parameters. Transition between these regimes is either continuous or
+discontinuous. Seismic events in the ``subcritical'' regime and those in the
+``supercritical'' regime at larger magnitudes exhibit universal scaling
+properties. In the ``supercritical'' regime, eminent spatiotemporal
+correlations, {\it e.g.}, remarkable growth of seismic activity preceding the
+mainshock, arise in earthquake occurrence, whereas such spatiotemporal
+correlations are significantly suppressed in the ``subcritical'' regime.
+Seismic activity is generically suppressed just before the mainshock in a close
+vicinity of the epicenter of the upcoming event while it remains to be active
+in the surroundings (the Mogi doughnut). It is also observed that, before and
+after the mainshock, the apparent $B$-value of the magnitude distribution
+decreases or increases in the ``supercritical'' or ``subcritical'' regimes,
+respectively. Such distinct precursory phenomena may open a way to the
+prediction of the upcoming large event.

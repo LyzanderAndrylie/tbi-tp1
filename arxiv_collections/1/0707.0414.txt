@@ -1,0 +1,6 @@
+We compute Poisson kernels for integer weight parameter standard weighted
+biharmonic operators in the unit disc with Dirichlet boundary conditions. The
+computations performed extend the supply of explicit examples of such kernels
+and suggest similar formulas for these Poisson kernels to hold true in more
+generality. Computations have been carried out using the open source computer
+algebra package Maxima.

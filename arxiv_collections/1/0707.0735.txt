@@ -1,0 +1,13 @@
+We report on the optical characterization of an ultra-high diffraction
+efficiency grating in 1st order Littrow configuration. The apparatus used was
+an optical cavity built from the grating under investigation and an additional
+high reflection mirror. Measurement of the cavity finesse provided precise
+information about the grating's diffraction efficiency and its optical loss. We
+measured a finesse of 1580 from which we deduced a diffraction efficiency of
+(99.635$\pm$0.016)% and an overall optical loss due to scattering and
+absorption of just 0.185 %.
+  Such high quality gratings, including the tool used for their
+characterization, might apply for future gravitational wave detectors. For
+example the demonstrated cavity itself presents an all-reflective, low-loss
+Fabry-Perot resonator that might replace conventional arm cavities in advanced
+high power Michelson interferometers.

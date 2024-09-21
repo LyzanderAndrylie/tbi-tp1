@@ -1,0 +1,8 @@
+Let U(N) denote the maximal length of arithmetic progressions in a random
+uniform subset of {0,1}^N. By an application of the Chen-Stein method, we show
+that U(N)- 2 log(N)/log(2) converges in law to an extreme type (asymmetric)
+distribution. The same result holds for the maximal length W(N) of arithmetic
+progressions (mod N). When considered in the natural way on a common
+probability space, we observe that U(N)/log(N) converges almost surely to
+2/log(2), while W(N)/log(N) does not converge almost surely (and in particular,
+limsup W(N)/log(N) is at least 3/log(2)).

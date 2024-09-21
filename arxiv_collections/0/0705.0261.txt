@@ -1,0 +1,14 @@
+Using the matrix product formalism, we define a multi-parameter family of
+spin models on one dimensional chains, with nearest and next-nearest neighbor
+anti-ferromagnetic interaction for which exact analytical expressions can be
+found for its doubly degenerate ground states. The family of Hamiltonians which
+we define, depend on 5 continuous parameters and the Majumdar-Ghosh model is a
+particular point in this parameter space. Like the Majumdar-Ghosh model, the
+doubly degenerate ground states of our models have a very simple structure,
+they are the product of entangled states on adjacent sites. In each of these
+states there is a non-zero staggered magnetization, which vanishes when we take
+their translation-invariant combination as the new ground states. At the
+Majumdar-Ghosh point, these entangled states become the spin-singlets
+pertaining to this model. We will also calculate in closed form the two point
+correlation functions, both for finite size of the chain and in the
+thermodynamic limit.

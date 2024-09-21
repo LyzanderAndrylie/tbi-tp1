@@ -1,0 +1,16 @@
+The concept of individuality in quantum mechanics shows radical differences
+from the concept of individuality in classical physics, as E. Schroedinger
+pointed out in the early steps of the theory. Regarding this fact, some authors
+suggested that quantum mechanics does not possess its own language, and
+therefore, quantum indistinguishability is not incorporated in the theory from
+the beginning. Nevertheless, it is possible to represent the idea of quantum
+indistinguishability with a first order language using quasiset theory (Q). In
+this work, we show that Q cannot capture one of the most important features of
+quantum non individuality, which is the fact that there are quantum systems for
+which particle number is not well defined. An axiomatic variant of Q, in which
+quasicardinal is not a primitive concept (for a kind of quasisets called finite
+quasisets), is also given. This result encourages the searching of theories in
+which the quasicardinal, being a secondary concept, stands undefined for some
+quasisets, besides showing explicitly that in a set theory about collections of
+truly indistinguishable entities, the quasicardinal needs not necessarily be a
+primitive concept.

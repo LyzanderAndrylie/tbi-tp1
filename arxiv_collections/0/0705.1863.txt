@@ -1,0 +1,11 @@
+We consider a piecewise-deterministic Markov process governed by a jump
+intensity function, a rate function that determines the behaviour between
+jumps, and a stochastic kernel describing the conditional distribution of jump
+sizes. We study the point process of upcrossings of a level $b$ by the Markov
+process. Our main result shows that, under a suitable scaling $\nu(b)$, the
+point process converges, as $b$ tends to infinity, weakly to a geometrically
+compound Poisson process. We also prove a version of Rice's formula relating
+the stationary density of the process to level crossing intensities. This
+formula provides an interpretation of the scaling factor $\nu(b)$. While our
+proof of the limit theorem requires additional assumptions, Rice's formula
+holds whenever the (stationary) overall intensity of jumps is finite.

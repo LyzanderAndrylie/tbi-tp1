@@ -1,0 +1,9 @@
+The spontaneous breaking of chiral symmetry in QCD is known to be linked to a
+non-zero density of eigenvalues of the massless Dirac operator near the origin.
+Numerical studies of two-flavour QCD now suggest that the low quark modes are
+locally coherent to a certain extent. As a consequence, the modes can be
+simultaneously deflated, using local projectors, with a total computational
+effort proportional to the lattice volume (rather than its square). Deflation
+has potentially many uses in lattice QCD. The technique is here worked out for
+the case of quark propagator calculations, where large speed-up factors and a
+flat scaling behaviour with respect to the quark mass are achieved.

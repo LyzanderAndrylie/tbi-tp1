@@ -1,0 +1,10 @@
+We construct equilibrium networks by introducing an energy function depending
+on the degree of each node as well as the product of neighboring degrees. With
+this topological energy function, networks constitute a canonical ensemble,
+which follows the Boltzmann distribution for given temperature. It is observed
+that the system undergoes a topological phase transition from a random network
+to a star or a fully-connected network as the temperature is lowered. Both
+mean-field analysis and numerical simulations reveal strong first-order phase
+transitions at temperatures which decrease logarithmically with the system
+size. Quantitative discrepancies of the simulation results from the mean-field
+prediction are discussed in view of the strong first-order nature.

@@ -1,0 +1,4 @@
+We provide supplementary appendices to the paper Misere quotients for
+impartial games. These include detailed solutions to many of the octal games
+discussed in the paper, and descriptions of the algorithms used to compute most
+of our solutions.

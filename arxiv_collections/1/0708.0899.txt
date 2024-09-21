@@ -1,0 +1,5 @@
+Some linear dynamical systems over finite fields are studied and the
+self-similar character of their development is proved. Connections with
+aperiodic tilings, Delanoy numbers and other topics are also proved. The prime
+fields F_p have a canonical presentation as sets of self-similar carpets. The
+multiplicative inverse corresponds to mirroring.

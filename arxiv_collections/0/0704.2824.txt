@@ -1,0 +1,7 @@
+Let $K$ be a totally real number field with Galois closure $L$. We prove that
+if $f \in \mathbb Q[x_1,...,x_n]$ is a sum of $m$ squares in $K[x_1,...,x_n]$,
+then $f$ is a sum of \[4m \cdot 2^{[L: \mathbb Q]+1} {[L: \mathbb Q] +1 \choose
+2}\] squares in $\mathbb Q[x_1,...,x_n]$. Moreover, our argument is
+constructive and generalizes to the case of commutative $K$-algebras. This
+result gives a partial resolution to a question of Sturmfels on the algebraic
+degree of certain semidefinite programing problems.

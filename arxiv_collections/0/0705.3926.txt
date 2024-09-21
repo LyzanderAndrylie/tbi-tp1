@@ -1,0 +1,7 @@
+The previous investigation on Rayleigh-B\'enard convection of a dilute
+classical gas [T. Kita: J. Phys. Soc. Jpn. {\bf 75} (2006) 124005] is extended
+to calculate entropy change of the convective transition with the rigid
+boundaries. We obtain results qualitatively similar to those of the stress-free
+boundaries. Above the critical Rayleigh number, the roll convection is realized
+among possible steady states with periodic structures, carrying the highest
+entropy as a function of macroscopic mechanical variables.

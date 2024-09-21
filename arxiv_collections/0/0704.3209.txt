@@ -1,0 +1,14 @@
+We study the Coulomb drag between two single graphene sheets in intrinsic and
+extrinsic graphene systems with no interlayer tunneling. The general expression
+for the nonlinear susceptibility appropriate for single-layer graphene systems
+is derived using the diagrammatic perturbation theory, and the corresponding
+exact zero-temperature expression is obtained analytically. We find that,
+despite the existence of a non-zero conductivity in an intrinsic graphene
+layer, the Coulomb drag between intrinsic graphene layers vanishes at all
+temperatures. In extrinsic systems, we obtain numerical results and an
+approximate analytical result for the drag resistivity $\rho_{\textrm{D}}$, and
+find that $\rho_{\textrm{D}}$ goes as $T^2$ at low temperature $T$, as $1/d^4$
+for large bilayer separation $d$ and $1/n^3$ for high carrier density $n$. We
+also discuss qualitatively the effect of plasmon-induced enhancement on the
+Coulomb drag, which should occur at a temperature of the order of or higher
+than the Fermi temperature.

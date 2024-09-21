@@ -1,0 +1,18 @@
+The space-time geometry is considered to be a physical geometry, i.e. a
+geometry described completely by the world function. All geometrical concepts
+and geometric objects are taken from the proper Euclidean geometry. They are
+expressed via the Euclidean world function \sigma_E and declared to be concepts
+and objects of any physical geometry, provided the Euclidean world function
+\sigma_E is replaced by the world function \sigma of the physical geometry in
+question. The set of physical geometries is more powerful, than the set of
+Riemannian geometries, and one needs to choose a true space-time geometry. In
+general, the physical geometry is multivariant (there are many vectors which
+are equivalent to a given vector, but are not equivalent between themselves).
+The multivariance admits one to describe quantum effects as geometric effects
+and to consider existence of elementary particles as a geometrical problem,
+when the possibility of the physical existence of an elementary geometric
+object in the form of a physical body is determined by the space-time geometry.
+Multivariance admits one to describe discrete and continuous geometries, using
+the same technique. A use of physical geometry admits one to realize the
+geometrical approach to the quantum theory and to the theory of elementary
+particles.

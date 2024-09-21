@@ -1,0 +1,9 @@
+One cannot always obtain information about entanglement by the D\"ur-Cirac
+(DC) method. The impracticality is attributed to the decrease of entanglement
+by local operations in the DC method. We show that, even in 2--qubit systems,
+there exist states whose entangled property the DC method never evaluates. The
+class of such states in 2--qubit systems is completely characterized by the
+value of the fully entangled fraction. Actually, a state whose fully entangled
+fraction is less than or equal to 1/2 is always transformed into a separable
+state by local operations in the DC method, even if it has negative partial
+transposition.

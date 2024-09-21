@@ -1,0 +1,17 @@
+We implement a standard Monte Carlo algorithm to study the slow, equilibrium
+dynamics of a silica melt in a wide temperature regime, from 6100 K down to
+2750 K. We find that the average dynamical behaviour of the system is in
+quantitative agreement with results obtained from molecular dynamics
+simulations, at least in the long-time regime corresponding to the
+alpha-relaxation. By contrast, the strong thermal vibrations related to the
+Boson peak present at short times in molecular dynamics are efficiently
+suppressed by the Monte Carlo algorithm. This allows us to reconsider silica
+dynamics in the context of mode-coupling theory, because several shortcomings
+of the theory were previously attributed to thermal vibrations. A mode-coupling
+theory analysis of our data is qualitatively correct, but quantitative tests of
+the theory fail, raising doubts about the very existence of an avoided
+singularity in this system. We discuss the emergence of dynamic heterogeneity
+and report detailed measurements of a decoupling between translational
+diffusion and structural relaxation, and of a growing four-point dynamic
+susceptibility. Dynamic heterogeneity appears to be less pronounced than in
+more fragile glass-forming models, but not of a qualitatively different nature.

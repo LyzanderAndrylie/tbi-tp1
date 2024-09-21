@@ -1,0 +1,8 @@
+Pumping of charge current by spin dynamics in the presence of the Rashba
+spin-orbit interaction is theoretically studied. Considering disordered
+electron, the exchange coupling and spin-orbit interactions are treated
+perturbatively. It is found that dominant current induced by the spin dynamics
+is interpreted as a consequence of the conversion from spin current via the
+inverse spin Hall effect. We also found that the current has an additional
+component from a fictitious conservative field. Results are applied to the case
+of moving domain wall.

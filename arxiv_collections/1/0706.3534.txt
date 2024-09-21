@@ -1,0 +1,8 @@
+We investigate the non-equilibrium dynamics of the 2D Potts model on the
+square lattice after a quench below the discontinuous transition point. By
+means of numerical simulations of systems with q =12,24 and 48 we observe the
+onset of a stationary regime below the temperature-driven transition, in a
+temperature interval decreasing with the system size and increasing with q.
+These results obtained dynamically agree with those obtained from the
+analytical continuation of the free energy (Meunier and Morel, 2000), from
+which metastability in the 2D Potts model results to be a finite size effect.

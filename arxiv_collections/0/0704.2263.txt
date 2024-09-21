@@ -1,0 +1,14 @@
+We investigate the {\em nonlinearity-assisted quantum tunneling} and
+formation of nonlinear collective excitations in a matter-wave interferometer,
+which is realised by the adiabatic transformation of a double-well potential
+into a single-well harmonic trap. In contrast to the linear quantum tunneling
+induced by the crossing (or avoided crossing) of neighbouring energy levels,
+the quantum tunneling between different nonlinear eigenstates is assisted by
+the nonlinear mean-field interaction. When the barrier between the wells
+decreases, the mean-field interaction aids quantum tunneling between the ground
+and excited nonlinear eigenstates. The resulting {\em non-adiabatic evolution}
+depends on the input states. The tunneling process leads to the generation of
+dark solitons, and the number of the generated dark solitons is highly
+sensitive to the matter-wave nonlinearity. The results of the numerical
+simulations of the matter-wave dynamics are successfully interpreted with a
+coupled-mode theory for multiple nonlinear eigenstates.

@@ -1,0 +1,10 @@
+A set of integers is $S$-recognizable in an abstract numeration system $S$ if
+the language made up of the representations of its elements is accepted by a
+finite automaton. For abstract numeration systems built over bounded languages
+with at least three letters, we show that multiplication by an integer
+$\lambda\ge2$ does not preserve $S$-recognizability, meaning that there always
+exists a $S$-recognizable set $X$ such that $\lambda X$ is not
+$S$-recognizable. The main tool is a bijection between the representation of an
+integer over a bounded language and its decomposition as a sum of binomial
+coefficients with certain properties, the so-called combinatorial numeration
+system.

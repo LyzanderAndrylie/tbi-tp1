@@ -1,0 +1,21 @@
+The global colors of galaxies have recently been shown to follow bimodal
+distributions. Galaxies separate into a ``red sequence'', populated
+prototypically by early-type galaxies, and a ``blue cloud'', whose typical
+objects are late-type disk galaxies. Intermediate-type (Sa-Sbc) galaxies
+populate both regions. It has been suggested that this bimodality reflects the
+two-component nature of disk-bulge galaxies. However, it has now been
+established that there are two types of bulges: ``classical bulges'' that are
+dynamically hot systems resembling (little) ellipticals, and ``pseudobulges'',
+dynamically cold, flattened, disk-like structures that could not have formed
+via violent relaxation. Therefore thee question is whether at types Sa-Sbc,
+where both bulge types are found, the red-blue dichotomy separates galaxies at
+some value of disk-to-bulge ratio, $B/T$, or, whether it separates galaxies of
+different bulge type, irrespective of their $B/T$. We identify classical bulges
+and pseudobulges morphologically with HST images in a sample of nearby
+galaxies. Detailed surface photometry reveals that: (1) The red -- blue
+dichotomy is a function of bulge type: at the same $B/T$, pseudobulges are in
+globally blue galaxies and classical bulges are in globally red galaxies. (2)
+Bulge type also predicts where the galaxy lies in other (bimodal) global
+structural parameters. (3) Hence, the red -- blue dichotomy is not due to
+decreasing bulge prominence alone, and the bulge type of a galaxy carries
+significance for the galaxy's evolutionary history ... (Abridged)

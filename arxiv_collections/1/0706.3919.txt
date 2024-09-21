@@ -1,0 +1,17 @@
+A calculational scheme for obtaining the electric polarizability of the
+neutron in lattice QCD with dynamical quarks is developed, using the background
+field approach. The scheme differs substantially from methods previously used
+in the quenched approximation, the physical reason being that the QCD ensemble
+is no longer independent of the external electromagnetic field in the dynamical
+quark case. One is led to compute (certain integrals over) four-point
+functions. Particular emphasis is also placed on the physical role of constant
+external gauge fields on a finite lattice; the presence of these fields
+complicates the extraction of polarizabilities, since it gives rise to an
+additional shift of the neutron mass unrelated to polarizability effects. The
+method is tested on a SU(3) flavor-symmetric ensemble furnished by the MILC
+Collaboration, corresponding to a pion mass of m_pi = 759 MeV. Disconnected
+diagrams are evaluated using stochastic estimation. A small negative electric
+polarizability of alpha =(-2.0 +/- 0.9) 10^(-4) fm^3 is found for the neutron
+at this rather large pion mass; this result does not seem implausible in view
+of the qualitative behavior of alpha as a function of m_pi suggested by Chiral
+Effective Theory.

@@ -1,0 +1,7 @@
+This paper gives game-theoretic versions of several results on "merging of
+opinions" obtained in measure-theoretic probability and algorithmic randomness
+theory. An advantage of the game-theoretic versions over the measure-theoretic
+results is that they are pointwise, their advantage over the algorithmic
+randomness results is that they are non-asymptotic, but the most important
+advantage over both is that they are very constructive, giving explicit and
+efficient strategies for players in a game of prediction.

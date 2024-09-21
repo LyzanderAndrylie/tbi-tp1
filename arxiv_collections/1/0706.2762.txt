@@ -1,0 +1,6 @@
+I study the contact between a rigid solid with a randomly rough surface and
+an elastic block with a flat surface. I derive a relation between the (average)
+interfacial separation $u$ and the applied normal squeezing pressure $p$. I
+show that for non-adhesive inte raction and small applied pressure, p is
+proportional to exp (-u/u_0), in good agreement with recent experimental
+observation.

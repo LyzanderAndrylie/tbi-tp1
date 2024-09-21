@@ -1,0 +1,11 @@
+Clear evidence for symplectic symmetry in low-lying states of $^{12}$C and
+$^{16}$O is reported. Eigenstates of $^{12}$C and $^{16}$O, determined within
+the framework of the no-core shell model using the JISP16 $NN$ realistic
+interaction, typically project at the 85-90% level onto a few of the most
+deformed symplectic basis states that span only a small fraction of the full
+model space. The results are nearly independent of whether the bare or
+renormalized effective interactions are used in the analysis. The outcome
+confirms Elliott's \SU{3} model which underpins the symplectic scheme, and
+above all, points to the relevance of a symplectic no-core shell model that can
+reproduce experimental B(E2) values without effective charges as well as
+deformed spatial modes associated with clustering phenomena in nuclei.

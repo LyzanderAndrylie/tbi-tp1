@@ -1,0 +1,14 @@
+We investigate analytically and numerically the critical line in undirected
+random Boolean networks with arbitrary degree distributions, including
+scale-free topology of connections $P(k)\sim k^{-\gamma}$. We show that in
+infinite scale-free networks the transition between frozen and chaotic phase
+occurs for $3<\gamma < 3.5$. The observation is interesting for two reasons.
+First, since most of critical phenomena in scale-free networks reveal their
+non-trivial character for $\gamma<3$, the position of the critical line in
+Kauffman model seems to be an important exception from the rule. Second, since
+gene regulatory networks are characterized by scale-free topology with
+$\gamma<3$, the observation that in finite-size networks the mentioned
+transition moves towards smaller $\gamma$ is an argument for Kauffman model as
+a good starting point to model real systems. We also explain that the
+unattainability of the critical line in numerical simulations of classical
+random graphs is due to percolation phenomena.

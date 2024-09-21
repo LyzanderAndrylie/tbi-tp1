@@ -1,0 +1,8 @@
+The limiting behavior of the normalized K\"ahler-Ricci flow for manifolds
+with positive first Chern class is examined under certain stability conditions.
+First, it is shown that if the Mabuchi K-energy is bounded from below, then the
+scalar curvature converges uniformly to a constant. Second, it is shown that if
+the Mabuchi K-energy is bounded from below and if the lowest positive
+eigenvalue of the $\bar\partial^\dagger \bar\partial$ operator on smooth vector
+fields is bounded away from 0 along the flow, then the metrics converge
+exponentially fast in $C^\infty$ to a K\"ahler-Einstein metric.

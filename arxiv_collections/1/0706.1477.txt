@@ -1,0 +1,9 @@
+We extend the transfer theorem of [KP2007] to the complex field. That is, we
+investigate the links between the class VPSPACE of families of polynomials and
+the Blum-Shub-Smale model of computation over C. Roughly speaking, a family of
+polynomials is in VPSPACE if its coefficients can be computed in polynomial
+space. Our main result is that if (uniform, constant-free) VPSPACE families can
+be evaluated efficiently then the class PAR of decision problems that can be
+solved in parallel polynomial time over the complex field collapses to P. As a
+result, one must first be able to show that there are VPSPACE families which
+are hard to evaluate in order to separate P from NP over C, or even from PAR.

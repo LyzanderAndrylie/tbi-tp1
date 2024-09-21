@@ -1,0 +1,6 @@
+We study the azimuthal correlation distribution for dijet production in QCD
+hard processes. This observable is sensitive to soft and/or collinear emissions
+in the back-to-back region, giving rise to single and double logarithms. We
+provide resummed predictions to NLL accuracy for both DIS at HERA and hadronic
+collisions at Tevatron and perform a NLO matching to NLOJET++ results in the
+DIS case.

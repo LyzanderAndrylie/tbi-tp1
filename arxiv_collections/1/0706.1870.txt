@@ -1,0 +1,14 @@
+We study the energetic and dynamic stability of coreless vortices in
+nonrotated spin-1 Bose-Einstein condensates, trapped with a three-dimensional
+optical potential and a Ioffe-Pritchard field. The stability of stationary
+vortex states is investigated by solving the corresponding Bogoliubov
+equations. We show that the quasiparticle excitations corresponding to
+axisymmetric stationary states can be taken to be eigenstates of angular
+momentum in the axial direction. Our results show that coreless vortex states
+can occur as local or global minima of the condensate energy or become
+energetically or dynamically unstable depending on the parameters of the
+Ioffe-Pritchard field. The experimentally most relevant coreless vortex state
+containing a doubly quantized vortex in one of the hyperfine spin components
+turned out to have very non-trivial stability regions, and especially a
+quasiperiodic dynamic instability region which corresponds to splitting of the
+doubly quantized vortex.

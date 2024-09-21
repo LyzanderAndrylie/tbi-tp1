@@ -1,0 +1,16 @@
+We define Poincar\'e series associated to a toric or analytically irreducible
+quasi-ordinary hypersurface singularity, (S,0), by a finite sequence of
+monomial valuations, such that at least one of them is centered at the origin
+0. This involves the definition of a multi-graded ring associated to the
+analytic algebra of the singularity by the sequence of valuations. We prove
+that the Poincar\'e series is a rational function with integer coefficients,
+which can be defined also as an integral with respect of the Euler
+characteristic, over the projectivization of the analytic algebra of the
+singularity, of a function defined by the valuations. In particular, the
+Poincar\'e series associated to the set of divisorial valuations associated to
+the essential divisors, considered both over the singular locus and over the
+point 0, is an analytic invariant of the singularity. In the quasi-ordinary
+hypersurface case we prove that this Poincar\'e series determines and it is
+determined by the normalized sequence of characteristic monomials. These
+monomials in the analytic case define a complete invariant of the embedded
+topological type of the hypersurface singularity.

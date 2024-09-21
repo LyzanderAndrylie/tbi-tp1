@@ -1,0 +1,10 @@
+The modular multiplication operator, a central subroutine in Shor's factoring
+algorithm, is shown to be a coherent superposition of two quantum bakers maps
+when the multiplier is 2. The classical limit of the maps being completely
+chaotic, it is shown that there exist perturbations that push the modular
+multiplication operator into regimes of generic quantum chaos with spectral
+fluctuations that are those of random matrices. For the initial state of
+relevance to Shor's algorithm we study fidelity decay due to phase and bit-flip
+errors in a single qubit and show exponential decay with shoulders at multiples
+or half-multiples of the order. A simple model is used to gain some
+understanding of this behavior.

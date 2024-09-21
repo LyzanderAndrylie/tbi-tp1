@@ -1,0 +1,7 @@
+We use numerical optimization to study the properties of (1) the class of
+one-dimensional potential energy functions and (2) systems of point charges in
+two-dimensions that yield the largest hyperpolarizabilities, which we find to
+be within 30% of the fundamental limit. We investigate the character of the
+potential energy functions and resulting wavefunctions and find that a broad
+range of potentials yield the same intrinsic hyperpolarizability ceiling of
+0.709.

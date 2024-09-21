@@ -1,0 +1,9 @@
+We discuss the possibility that the strain field introduced by the structural
+supermodulation in Bi-2212 and certain other cuprate materials may modulate the
+superconducting pairing interaction. We calculate the amplitude of this effect,
+visible in scanning tunneling spectroscopy experiments, and thereby relate a
+change in the local superconducting gap with the change in the local dopant
+displacements induced by the supermodulation. In principle, since this
+modulation is periodic, sufficiently accurate x-ray measurements or ab initio
+calculations should enable one to determine which atomic displacements enhance
+pairing and therefore T_c.

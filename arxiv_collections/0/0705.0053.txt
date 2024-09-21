@@ -1,0 +1,5 @@
+We show that the mutual fund theorems of Merton (1971) extend to the problem
+of optimal investment to minimize the probability of lifetime ruin. We obtain
+two such theorems by considering a financial market both with and without a
+riskless asset for random consumption. The striking result is that we obtain
+two-fund theorems despite the additional source of randomness from consumption.

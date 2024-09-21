@@ -1,0 +1,21 @@
+We consider a general Hamiltonian describing coexistence of itinerant
+ferromagnetism, spin-orbit coupling and mixed spin-singlet/triplet
+superconducting pairing in the context of mean-field theory. The Hamiltonian is
+diagonalized and exact eigenvalues are obtained, thus allowing us to write down
+the coupled gap equations for the different order parameters. Our results may
+then be applied to any model describing coexistence of any combination of these
+three phenomena. As a specific application of our results, we consider
+tunneling between a normal metal and a noncentrosymmetric superconductor with
+mixed singlet and triplet gaps. The conductance spectrum reveals information
+about these gaps in addition to how the influence of spin-orbit coupling is
+manifested. We also consider the coexistence of itinerant ferromagnetism and
+triplet superconductivity as a model for recently discovered ferromagnetic
+superconductors. The coupled gap equations are solved self-consistently, and we
+study the conditions necessary to obtain the coexistent regime of
+ferromagnetism and superconductivity. Analytical expressions are presented for
+the order parameters, and we provide an analysis of the free energy to identify
+the preferred system state. Moreover, we make specific predictions concerning
+the heat capacity for a ferromagnetic superconductor. In particular, we report
+a nonuniversal relative jump in the specific heat, depending on the
+magnetization of the system, at the uppermost superconducting phase transition.
+[Shortened abstract due to arXiv submission.]

@@ -1,0 +1,11 @@
+We present a genetic algorithm which is distributed in two novel ways: along
+genotype and temporal axes. Our algorithm first distributes, for every member
+of the population, a subset of the genotype to each network node, rather than a
+subset of the population to each. This genotype distribution is shown to offer
+a significant gain in running time. Then, for efficient use of the
+computational resources in the network, our algorithm divides the candidate
+solutions into pipelined sets and thus the distribution is in the temporal
+domain, rather that in the spatial domain. This temporal distribution may lead
+to temporal inconsistency in selection and replacement, however our experiments
+yield better efficiency in terms of the time to convergence without incurring
+significant penalties.

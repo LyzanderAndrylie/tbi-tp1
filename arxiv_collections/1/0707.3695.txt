@@ -1,0 +1,9 @@
+We propose a protocol for a controlled experiment to measure a weak value of
+the electron's spin in a solid state device. The weak value is obtained by a
+two step procedure -- weak measurement followed by a strong one
+(post-selection), where the outcome of the first measurement is kept provided a
+second post-selected outcome occurs. The set-up consists of a double quantum
+dot and a weakly coupled quantum point contact to be used as a detector.
+Anomalously large values of the spin of a two electron system are predicted, as
+well as negative values of the total spin. We also show how to incorporate the
+adverse effect of decoherence into this procedure.

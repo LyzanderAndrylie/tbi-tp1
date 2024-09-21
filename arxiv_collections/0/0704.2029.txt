@@ -1,0 +1,18 @@
+The character ring \CGL of covariant irreducible tensor representations of
+the general linear group admits a Hopf algebra structure isomorphic to the Hopf
+algebra \Sym$ of symmetric functions. Here we study the character rings \CO and
+\CSp of the orthogonal and symplectic subgroups of the general linear group
+within the same framework of symmetric functions. We show that \CO and \CSp
+also admit natural Hopf algebra structures that are isomorphic to that of \CGL,
+and hence to \Sym. The isomorphisms are determined explicitly, along with the
+specification of standard bases for \CO and \CSp analogous to those used for
+\Sym. A major structural change arising from the adoption of these bases is the
+introduction of new orthogonal and symplectic Schur-Hall scalar products.
+Significantly, the adjoint with respect to multiplication no longer coincides,
+as it does in the \CGL case, with a Foulkes derivative or skew operation. The
+adjoint and Foulkes derivative now require separate definitions, and their
+properties are explored here in the orthogonal and symplectic cases. Moreover,
+the Hopf algebras \CO and \CSp are not self-dual. The dual Hopf algebras \CO^*
+and \CSp^* are identified. Finally, the Hopf algebra of the universal rational
+character ring \CGLrat of mixed irreducible tensor representations of the
+general linear group is introduced and its structure maps identified.

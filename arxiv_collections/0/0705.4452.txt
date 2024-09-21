@@ -1,0 +1,9 @@
+We find an exact solution for the stability limit of relativistic charged
+spheres for the case of constant gravitational mass density and constant charge
+density. We argue that this provides an absolute stability limit for any
+relativistic charged sphere in which the gravitational mass density decreases
+with radius and the charge density increases with radius. We then provide a
+cruder absolute stability limit that applies to any charged sphere with a
+spherically symmetric mass and charge distribution. We give numerical results
+for all cases. In addition, we discuss the example of a neutral sphere
+surrounded by a thin, charged shell.

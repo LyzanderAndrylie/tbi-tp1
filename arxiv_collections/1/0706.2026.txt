@@ -1,0 +1,7 @@
+The Kashaev invariants of 3-manifolds are based on $6j$-symbols from the
+representation theory of the Weyl algebra, a Hopf algebra corresponding to the
+Borel subalgebra of $U_q(sl(2,\C))$. In this paper, we show that Kashaev's
+$6j$-symbols are intertwining operators of local representations of quantum
+Teichm\"uller spaces. This relates Kashaev's work with the theory of quantum
+Teichm\"uller space, which was developed by Chekhov-Fock, Kashaev and continued
+by Bonahon-Liu.

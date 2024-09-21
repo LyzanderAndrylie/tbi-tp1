@@ -1,0 +1,6 @@
+Predictions for the pseudorapidity density of charged particles produced in
+Pb-Pb central collisions at $\sqrt{s_{NN}}=5.5$ TeV are presented. Particle
+production in such collisions is computed in the framework of
+k_t-factorization, using running coupling non-linear evolution to determine the
+transverse momentum and rapidity dependence of the nuclear unintegrated gluon
+distributions.

@@ -1,0 +1,9 @@
+We show that a given rational Shimura curve Y with strictly maximal Higgs
+field in the moduli space of g-dimensional abelian varieties does not
+generically intersect the Schottky locus for large g.
+  We achieve this by using a result of Viehweg and Zuo which says that if Y
+parameterizes a family of curves of genus g, then the corresponding family of
+Jacobians is isogenous over Y to the g-fold product of a modular family of
+elliptic curves. After reducing the situation from the field of complex numbers
+to a finite field, we will see, combining the Weil and Sato-Tate conjectures,
+that this is impossible for large genus g.

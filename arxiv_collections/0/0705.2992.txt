@@ -1,0 +1,6 @@
+The paper 0705.0332v1 seeks to study the effect of non-trivial spatial
+curvature in homogeneous and isotropic models. We note that the space
+considered is not homogeneous, and that the equations of motion used are
+inconsistent with the metric. Also, we explain why the spatial curvature of
+homogeneous and isotropic spacetimes always evolves like 1/a^2, contrary to the
+central assumption of 0705.0332v1.

@@ -1,0 +1,7 @@
+The two-state vector formalism (TSVF), the time-symmetric description of the
+standard quantum mechanics originated by Aharonov, Bergmann and Lebowitz is
+reviewed. The TSVF describes a quantum system at a particular time by two
+quantum states: the usual one, evolving forward in time, defined by the results
+of a complete measurement at the earlier time, and by the quantum state
+evolving backward in time, defined by the results of a complete measurement at
+a later time.

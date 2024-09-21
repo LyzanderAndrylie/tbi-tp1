@@ -1,0 +1,9 @@
+The 4th Concept detector presently being designed for the International
+Linear Collider introduces several innovations in order to achieve the
+necessary experimental goal of a detecter that is 2-to-10 times better than the
+already excellent SLC and LEP detectors. We introduce a dual-readout
+calorimeter system, a cluster counting drift chamber, and a second solenoid to
+return the magnetic flux without iron. We discuss particle identification,
+momentum and energy resolutions, and the machine-detector interface that
+together offer the possibility of a very high-performance detector for
+e^+e^-physics up to $\sqrt{s} = 1$ TeV.

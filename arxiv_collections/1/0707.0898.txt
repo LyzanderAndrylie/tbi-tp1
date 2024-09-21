@@ -1,0 +1,12 @@
+When a physical system is put in contact with a very large thermal bath, it
+undergoes a dissipative (i.e., an apparently irreversible) process that leads
+to thermal equilibrium. This dynamical process can be described fully within
+quantum physics, involving only unitary, therefore reversible, maps. The
+information, initially present in the system, is not erased, but is diluted in
+the bath because of entanglement. Irreversibility may arise if, after quantum
+information has been thus diluted, some classical information is lost. This
+paper reviews a model for thermalization that displays these features. Two new
+analytical results are provided for the zero-temperature channels: a new
+quantitative measure of entanglement, and a study of irreversibility in the
+case where the lost classical information is the label of the particles in the
+bath.

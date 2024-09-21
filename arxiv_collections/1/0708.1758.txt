@@ -1,0 +1,14 @@
+This paper concerns with numerical approximations of solutions of second
+order fully nonlinear partial differential equations (PDEs). A new notion of
+weak solutions, called moment solutions, is introduced for second order fully
+nonlinear PDEs. Unlike viscosity solutions, moment solutions are defined by a
+constructive method, called vanishing moment method, hence, they can be readily
+computed by existing numerical methods such as finite difference, finite
+element, spectral Galerkin, and discontinuous Galerkin methods with
+"guaranteed" convergence. The main idea of the proposed vanishing moment method
+is to approximate a second order fully nonlinear PDE by a higher order, in
+particular, a fourth order quasilinear PDE. We show by various numerical
+experiments the viability of the proposed vanishing moment method. All our
+numerical experiments show the convergence of the vanishing moment method, and
+they also show that moment solutions coincide with viscosity solutions whenever
+the latter exist.

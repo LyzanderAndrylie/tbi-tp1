@@ -1,0 +1,3 @@
+We study finite sections of weighted Carleman's inequality following the
+approach of De Bruijn. Similar to the unweighted case, we obtain an asymptotic
+expression for the optimal constant.

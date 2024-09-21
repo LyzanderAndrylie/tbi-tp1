@@ -1,0 +1,10 @@
+In this paper we introduce linear mapping D from WnF\subset Ln into Lm\times
+Rm, induced by linear differential equation d/dt
+Fx(t)-C(t)x(t)=f(t),Fx(t_0)=f_0. We prove that D is closed dense defined
+mapping for any m\times n-matrix F. Also adjoint mapping D* is constructed and
+its domain WmF is described. Some kind of so-called "integration by parts"
+formula for vectors from WnF, WmF is suggested. We obtain a necessary and
+sufficient condition for existence of generalized solution of equation
+Dx=(f,f_0). Also we find a sufficient criterion for closureness of the R(D) in
+Lm\times Rm which is formulated in terms of transparent conditions for blocks
+of matrix C(t). Some examples are supplied to illustrate obtained results.

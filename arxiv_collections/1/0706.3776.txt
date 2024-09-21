@@ -1,0 +1,8 @@
+We construct a N-dimensional Gaussian landscape with multiscale, translation
+invariant, logarithmic correlations and investigate the statistical mechanics
+of a single particle in this environment. In the limit of high dimension N>>1
+the free energy of the system in the thermodynamic limit coincides with the
+most general version of Derrida's Generalized Random Energy Model. The
+low-temperature behaviour depends essentially on the spectrum of length scales
+involved in the construction of the landscape. We argue that our construction
+is in fact valid in any finite spatial dimensions, starting from N=1.

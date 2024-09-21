@@ -1,0 +1,11 @@
+We present a systematic method to extract each standard model (SM)-{\it like}
+hadronic parameter as well as new physics parameters in analytic way for $B\to
+K\pi$ decays. Using the analytic method to the currently available experimental
+data, we find two possible solutions analytically equivalent: one showing the
+large SM-{\it like} color-suppressed tree contribution and the other showing
+the large SM-{\it like} EWP contribution. The magnitude of the NP amplitude and
+its weak phase are quite large. For instance, we find $|P^{NP}/P| =
+0.39\pm0.13$, $\phi^{NP}=91^\circ\pm15^\circ$ and
+$\delta^{NP}=8^\circ\pm27^\circ$, which are the ratio of the NP-to-SM
+contribution, the weak and the relative strong phase of the NP amplitude,
+respectively.

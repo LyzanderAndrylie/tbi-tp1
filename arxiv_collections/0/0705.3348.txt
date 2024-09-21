@@ -1,0 +1,19 @@
+We study the non-equilibrium relaxation of an elastic line described by the
+Edwards-Wilkinson equation. Although this model is the simplest representation
+of interface dynamics, we highlight that many (not though all) important
+aspects of the non-equilibrium relaxation of elastic manifolds are already
+present in such quadratic and clean systems. We analyze in detail the aging
+behaviour of several two-times averaged and fluctuating observables taking into
+account finite-size effects and the crossover to the stationary and equilibrium
+regimes. We start by investigating the structure factor and extracting from its
+decay a growing correlation length. We present the full two-times and size
+dependence of the interface roughness and we generalize the Family-Vicsek
+scaling form to non-equilibrium situations. We compute the incoherent cattering
+function and we compare it to the one measured in other glassy systems. We
+analyse the response functions, the violation of the fluctuation-dissipation
+theorem in the aging regime, and its crossover to the equilibrium relation in
+the stationary regime. Finally, we study the out-of-equilibrium fluctuations of
+the previously studied two-times functions and we characterize the scaling
+properties of their probability distribution functions. Our results allow us to
+obtain new insights into other glassy problems such as the aging behavior in
+colloidal glasses and vortex glasses.

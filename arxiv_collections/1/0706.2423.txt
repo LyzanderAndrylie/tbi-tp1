@@ -1,0 +1,12 @@
+We present experimental results attempting to fingerprint nonanalyticities in
+the magnetization curves of spin glasses found by Katzgraber et al. [Phys. Rev.
+Lett. 89, 257202 (2002)] via zero-temperature Monte Carlo simulations of the
+Edwards-Anderson Ising spin glass. Our results show that the singularities at
+zero temperature due to the reversal-field memory effect are washed out by the
+finite temperatures of the experiments. The data are analyzed via the first
+order reversal curve (FORC) magnetic fingerprinting method. The experimental
+results are supported by Monte Carlo simulations of the Edwards-Anderson Ising
+spin glass at finite temperatures which agree qualitatively very well with the
+experimental results. This suggests that the hysteretic behavior of real Ising
+spin-glass materials is well described by the Edwards-Anderson Ising spin
+glass. Furthermore, reversal-field memory is a purely zero-temperature effect.

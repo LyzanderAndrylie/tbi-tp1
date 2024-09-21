@@ -1,0 +1,7 @@
+Modern compiler implementations use the Static Single Assignment
+representation as a way to efficiently implement optimizing algorithms. However
+this representation is not well adapted to architectures with a predicated
+instruction set. The Psi-SSA representation extends the SSA representation such
+that standard SSA algorithms can be easily adapted to an architecture with a
+fully predicated instruction set. A new pseudo operation, the Psi operation, is
+introduced to merge several conditional definitions into a unique definition.

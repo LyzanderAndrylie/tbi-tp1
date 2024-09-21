@@ -1,0 +1,14 @@
+We discuss the possibility of observing quantum nonlocality using the
+so-called mode entanglement, analyzing the differences between different types
+of particles in this context. We first discuss the role of coherent states in
+such experiments, and we comment on the existence of coherent states in nature.
+The discussion of coherent states naturally raises questions about the role of
+particle statistics in this problem. Although the Pauli exclusion principle
+precludes coherent states with a large number of fermionic particles, we find
+that a large number of fermionic coherent states, each containing at most one
+particle, can be used to achieve the same effect as a bosonic coherent state
+for the purposes of this problem. The discussion of superselection rules arises
+naturally in this context, because their applicability to a given situation
+prohibits the use of coherent states. This limitation particularly affects the
+scenario that we propose for detecting the mode entanglement of fermionic
+particles.

@@ -1,0 +1,9 @@
+All the Doubly Special Relativity (DSR) models studied in literature so far
+involve a deformation of the energy conservation rule that forces us to release
+the hypothesis of the additivity of the energy for composite systems. In view
+of the importance of the issue for a consistent formulation of a DSR
+statistical mechanics and a DSR thermodynamics, we show that DSR models
+preserving the usual (i.e. additive) energy conservation rule can be found.
+These models allow the construction of a DSR-covariant extensive energy. The
+implications of the analysis for the dynamics of DSR-covariant multiparticle
+systems are also briefly discussed.

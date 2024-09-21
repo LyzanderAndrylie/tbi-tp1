@@ -1,0 +1,7 @@
+We present the spectrum of the (normalized) graph Laplacian as a systematic
+tool for the investigation of networks, and we describe basic properties of
+eigenvalues and eigenfunctions. Processes of graph formation like motif joining
+or duplication leave characteristic traces in the spectrum. This can suggest
+hypotheses about the evolution of a graph representing biological data. To this
+data, we analyze several biological networks in terms of rough qualitative data
+of their spectra.

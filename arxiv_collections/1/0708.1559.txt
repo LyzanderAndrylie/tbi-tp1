@@ -1,0 +1,9 @@
+Applying the fact that guided photons inside a waveguide can be treated as
+massive particles, one can study the superluminality of evanescent modes via
+showing that a massive particle can propagate over a spacelike interval, which
+corresponds to quantum tunneling effects. For this purpose, we treat the
+particle as a quantum reference frame, while attach an inertia observer to a
+classical reference frame, and then quantize the formulae for the Lorentz
+transformation between the quantum and classical reference frames, from which
+we obtain the conclusion that, owing to the Heisenberg's uncertainty relation,
+the particle can propagate over a spacelike interval.

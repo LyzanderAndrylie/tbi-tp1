@@ -1,0 +1,8 @@
+We present an original method to magnetically pattern thin layers of
+(Ga,Mn)As. It relies on local hydrogen passivation to significantly lower the
+hole density, and thereby locally suppress the carrier-mediated ferromagnetic
+phase. The sample surface is thus maintained continuous, and the minimal
+structure size is of about 200 nm. In micron-sized ferromagnetic dots
+fabricated by hydrogen passivation on perpendicularly magnetized layers, the
+switching fields can be maintained closer to the continuous film coercivity,
+compared to dots made by usual dry etch techniques.

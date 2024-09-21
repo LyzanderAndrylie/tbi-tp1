@@ -1,0 +1,18 @@
+In this paper we extend the work synthetically presented in Ref.[1] and give
+theoretical details and complete tables of numerical results. We exploit
+calculations within a Bethe-Salpeter (BS) formalism adjusted for QCD, in order
+to extract an ``experimental'' strong coupling \alpha_s^{exp}(Q^2) below 1 GeV
+by comparison with the meson spectrum. The BS potential follows from a proper
+ansatz on the Wilson loop to encode confinement and is the sum of a
+one-gluon-exchange and a confinement terms. Besides, the common perturbative
+strong coupling is replaced by the ghost-free expression \alpha_E(Q^2)
+according to the prescription of Analytic Perturbation Theory (APT). The
+agreement of \alpha_s^{exp}(Q^2) with the APT coupling \alpha_E(Q^2) turns out
+to be reasonable from 1 GeV down to the 200 MeV scale, thus confirming
+quantitatively the validity of the APT prescription. Below this scale, the
+experimental points could give a hint on the vanishing of \alpha_s(Q^2) as Q
+approaches zero. This infrared behaviour would be consistent with some lattice
+results and a ``massive'' generalization of the APT approach. As a main result,
+we claim that the combined BS-APT theoretical scheme provides us with a rather
+satisfactory correlated understanding of very high and rather low energy
+phenomena from few hundreds MeV to few hundreds GeV.

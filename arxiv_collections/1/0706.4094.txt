@@ -1,0 +1,9 @@
+We present an accurate numerical algorithm, called quantum belief propagation
+(QBP), for simulation of one-dimensional quantum systems at non-zero
+temperature. The algorithm exploits the fact that quantum effects are
+short-range in these systems at non-zero temperature, decaying on a length
+scale inversely proportional to the temperature. We compare to exact results on
+a spin-1/2 Heisenberg chain. Even a very modest calculation, requiring
+diagonalizing only 10-by-10 matrices, reproduces the peak susceptibility with a
+relative error of less than $10^{-5}$, while more elaborate calculations
+further reduce the error.

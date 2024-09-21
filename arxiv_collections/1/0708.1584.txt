@@ -1,0 +1,14 @@
+Physics of non-inertial reference frames is a generalizing of Newton's laws
+to any reference frames. The first, Law of Kinematic in non-inertial reference
+frames reads: the kinematic state of a body free of forces conserves and
+determinates a constant n-th order derivative with respect to time being equal
+in absolute value to an invariant of the observer's reference frame. The
+second, Law of Dynamic extended Newton's second law to non-inertial reference
+frames and also contains additional variables there are higher derivatives of
+coordinates. Dynamics Law in non-inertial reference frames reads: a force
+induces a change in the kinematic state of the body and is proportional to the
+rate of its change. It is mean that if the kinematic invariant of the reference
+frame is n-th derivative with respect the time, then the dynamics of a body
+being affected by the force F is described by the (n+1)-th differential
+equation. The third, Law of Static in non-inertial reference frames reads: the
+sum of all forces acting a body at rest is equal to zero.

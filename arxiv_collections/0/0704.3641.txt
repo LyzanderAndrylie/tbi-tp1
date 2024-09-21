@@ -1,0 +1,10 @@
+In a single-walled carbon nanotube, we observe the spin-1/2 Kondo effect. The
+energy of spin-resolved Kondo peaks is proportional to magnetic field at high
+fields, contrary to recent reports. At lower fields, the energy falls below
+this linear dependence, in qualitative agreement with theoretical expectations.
+For even electron occupancy, we observe a spin-1 Kondo effect due to the
+degeneracy of the triplet ground states. Tuning gate voltage within the same
+Coulomb diamond drives a transition to a singlet ground state. We also
+independently tune the energy difference between singlet and triplet states
+with a magnetic field. The Zeeman splitting thus measured confirms the value of
+the g-factor measured from the spin-1/2 Kondo feature.

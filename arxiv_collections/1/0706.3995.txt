@@ -1,0 +1,10 @@
+We investigate the stability of an attractive Bose-Einstein condensate in a
+moving 1D optical lattice in the presence of transverse confinement. By means
+of a Bogoliubov linear stability analysis we find that the system is
+dynamically unstable for low quasimomenta and becomes stable near the band
+edge, in a specular fashion with respect to the repulsive case. For low
+interactions the instability occurs via long wavelength excitations that are
+not sufficient for spoiling the condensate coherence, producing instead an
+oscillating density pattern both in real and momentum space. This behaviour is
+illustrated by simulations for the expansion of the condensate in a moving
+lattice.

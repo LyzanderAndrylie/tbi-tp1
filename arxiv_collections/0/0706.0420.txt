@@ -1,0 +1,11 @@
+The effect of the magnetic field on the critical behavior of Sr0:9La0:1CuO2
+is explored in terms of reversible magnetization data. As the correlation
+length transverse to the magnetic field Hi,applied along the i-axis, cannot
+grow beyond the limiting magnetic length LHi, related to the average distance
+between vortex lines, one expects a magnetic field induced finite size effect.
+Invoking the scaling theory of critical phenomena we provide clear evidence for
+this effect. It implies that in type II superconductors there is a 3D to 1D
+crossover line Hpi(T). Consequently, below Tc and above Hpi(T) uperconductivity
+is confined to cylinders with diameter LHi(1D). Accordingly, there is no
+continuous phase transition in the (H,T)-plane along the Hc2-lines as predicted
+by the mean-field treatment.

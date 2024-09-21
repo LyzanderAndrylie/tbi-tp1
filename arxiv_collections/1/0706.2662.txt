@@ -1,0 +1,18 @@
+The classical theory of ion beam sputtering predicts the instability of a
+flat surface to uniform ion irradiation at any incidence angle. We relax the
+assumption of the classical theory that the average surface erosion rate is
+determined by a Gaussian response function representing the effect of the
+collision cascade and consider the surface dynamics for other
+physically-motivated response functions. We show that although instability of
+flat surfaces at any beam angle results from all Gaussian and a wide class of
+non-Gaussian erosive response functions, there exist classes of modifications
+to the response that can have a dramatic effect. In contrast to the classical
+theory, these types of response render the flat surface linearly stable, while
+imperceptibly modifying the predicted sputter yield vs. incidence angle. We
+discuss the possibility that such corrections underlie recent reports of a
+``window of stability'' of ion-bombarded surfaces at a range of beam angles for
+certain ion and surface types, and describe some characteristic aspects of
+pattern evolution near the transition from unstable to stable dynamics. We
+point out that careful analysis of the transition regime may provide valuable
+tests for the consistency of any theory of pattern formation on ion sputtered
+surfaces.

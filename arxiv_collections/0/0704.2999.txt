@@ -1,0 +1,15 @@
+Heavy-quark jets are important in many of today's collider studies and
+searches, yet predictions for them are subject to much larger uncertainties
+than for light jets. This is because of strong enhancements in higher orders
+from large logarithms, ln(p_t/m_Q). We propose a new definition of heavy-quark
+jets, which is free of final-state logarithms to all orders and such that all
+initial-state collinear logarithms can be resummed into the heavy-quark parton
+distributions. Heavy-jet spectra can then be calculated in the massless
+approximation, which is simpler than a massive calculation and reduces the
+theoretical uncertainties by a factor of three. This provides the first ever
+accurate predictions for inclusive b- and c-jets, and the latter have
+significant discriminatory power for the intrinsic charm content of the proton.
+The techniques introduced here could be used to obtain heavy-flavour jet
+results from existing massless next-to-leading order calculations for a wide
+range of processes. We also discuss the experimental applicability of our
+flavoured jet definition.

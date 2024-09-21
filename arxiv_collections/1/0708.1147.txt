@@ -1,0 +1,11 @@
+We investigate the influence of polymer-pore interactions on the
+translocation dynamics using Langevin dynamics simulations. An attractive
+interaction can greatly improve translocation probability. At the same time, it
+also increases translocation time slowly for weak attraction while exponential
+dependence is observed for strong attraction. For fixed driving force and chain
+length the histogram of translocation time has a transition from Gaussian
+distribution to long-tailed distribution with increasing attraction. Under a
+weak driving force and a strong attractive force, both the translocation time
+and the residence time in the pore show a non-monotonic behavior as a function
+of the chain length. Our simulations results are in good agreement with recent
+experimental data.

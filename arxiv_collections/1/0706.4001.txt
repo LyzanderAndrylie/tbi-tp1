@@ -1,0 +1,8 @@
+With paying special attention to the divergence in the compressibility
+$\kappa$, we study the Coulombic screening in alkali metals to find singular
+long-range fluctuations in the electronic polarization originating from this
+divergence. As a consequence of this singularity, we predict the decrease of
+the equilibration distance between ions against the increase of $r_s$ the
+Wigner-Seitz radius of valence electrons, provided that the condition of $2r_c
+< r_s < 4r_c$ is satisfied with $r_c$ the ion-core radius. This prediction is
+in good quantitative agreement with the recent experiment on liquid Rb.

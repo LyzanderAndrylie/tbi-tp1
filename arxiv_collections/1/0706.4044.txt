@@ -1,0 +1,13 @@
+For lack of general algorithmic methods that apply to wide classes of logics,
+establishing a complexity bound for a given modal logic is often a laborious
+task. The present work is a step towards a general theory of the complexity of
+modal logics. Our main result is that all rank-1 logics enjoy a shallow model
+property and thus are, under mild assumptions on the format of their
+axiomatisation, in PSPACE. This leads to a unified derivation of tight
+PSPACE-bounds for a number of logics including K, KD, coalition logic, graded
+modal logic, majority logic, and probabilistic modal logic. Our generic
+algorithm moreover finds tableau proofs that witness pleasant proof-theoretic
+properties including a weak subformula property. This generality is made
+possible by a coalgebraic semantics, which conveniently abstracts from the
+details of a given model class and thus allows covering a broad range of logics
+in a uniform way.

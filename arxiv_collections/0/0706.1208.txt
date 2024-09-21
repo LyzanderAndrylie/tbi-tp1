@@ -1,0 +1,13 @@
+A soft particle model for diblock (AB) copolymer melts is proposed. Each
+molecule is mapped onto two soft spheres built by Gaussian A- and B-monomer
+distributions. An approximate analytical expression for the joint distribution
+function for the distance between both spheres and their radii of gyration is
+derived, which determines the entropic contribution to the intramolecular free
+energy. Adding a mean-field expression for the intermolecular interactions, we
+obtain the total free energy of the system. Based on this free energy, Monte
+Carlo simulations are carried out to study the kinetics of microphase ordering
+in the bulk and its effect on molecular diffusion. This is followed by an
+analysis of thin films with emphasis on pattern transfer from walls with a
+periodic structure. It is shown that the level of coarse graining in the soft
+particle model is suitable to describe structural and kinetic properties of
+copolymers on mesoscopic scales.

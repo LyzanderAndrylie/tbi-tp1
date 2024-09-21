@@ -1,0 +1,14 @@
+We develop a "chain-boson model" master equation, within the Born-Markov
+approximation, for a few superconducting quantum interference devices (SQUIDs)
+coupled into a chain and exchanging their angular momenta with a low
+temperature phonon bath. Our master equation has four generators; we
+concentrate on the damping and diffusion and use them to study the relaxation
+and decoherence of a Heisenberg SQUID chain whose spectrum exhibits critical
+point energy-level crossings, entangled states, and pairs of resonant
+transitions. We note that at an energy-level crossing the relevant bath
+wavelengths are so long that even well-spaced large SQUIDs can partially
+exhibit collective coupling to the bath, dramatically reducing certain
+relaxation and decoherence rates. Also, transitions into entangled states can
+occur even in the case of an independent coupling of each SQUID to the bath.
+Finally, the pairs of resonant transitions can cause decaying oscillations to
+emerge in a lower energy subspace.

@@ -1,0 +1,5 @@
+Let X be a geometrically integral projective cubic hypersurface defined over
+the rationals, with dimension D and singular locus of dimension at most D-4.
+For any \epsilon>0, we show that X contains O(B^{D+\epsilon}) rational points
+of height at most B. The implied constant in this estimate depends upon the
+choice of \epsilon and the coefficients of the cubic form defining X.

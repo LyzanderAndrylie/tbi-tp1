@@ -1,0 +1,9 @@
+We formulate a general cluster Dual Fermion Approach to nonlocal correlations
+in crystals. The scheme allows the treatment of long-range correlations beyond
+cluster DMFT and nonlocal effects in realistic calculations of multiorbital
+systems. We show that the the simplest approximation exactly corresponds to
+free cluster DMFT. We further consider the relation between the two-particle
+Green functions in real and dual variables. We apply this approach by
+calculating the Green function of the Hubbard model in one dimension starting
+from the two-site cluster DMFT solution. The result agrees well with the Green
+function obtained from a DMRG calculation.

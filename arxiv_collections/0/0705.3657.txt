@@ -1,0 +1,12 @@
+The four Bell states can be represented by separable coherent states which
+are products of individual non-hermitian spin operators. In the absence of
+interactions, the non-hermitian states are predicted to form a new quantum
+state of spin magnitude 1/sqrt(2) rather than 1/2. Properties of these states
+show that an isolated spin is a resonance state with zero net angular momentum,
+consistent with a point particle. In addition, the Bell states are shown to
+take on the identical mathematical form when the two spins are bound (local) or
+unbound (non-local). The bound Bell states are resonances between four states.
+When the separate, they do so from only one of its resonance states and their
+ensemble average defines the unbound Bell states. The bound and unbound Bell
+states have the same mathematical form due to the persistence of the
+rotationally invariance of sigma(1)dot sigma(2).

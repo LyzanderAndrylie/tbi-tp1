@@ -1,0 +1,18 @@
+We present a detailed study of the ionization fraction of the Barnard 68
+pre-stellar core, using millimeter H13CO+ and DCO+ lines observations. These
+observations are compared to the predictions of a radiative transfer model
+coupled to a chemical network that includes depletion on grains and gas phase
+deuterium fractionation. Together with previous observations and modelling of
+CO and isotopologues, our H13CO+ and DCO+ observations and modelling allow to
+place constraints on the metal abundance and the cosmic ionization rate. The
+H13CO+ emission is well reproduced for metals abundances lower than 3e-9 and a
+standard cosmic ray ionization rate. However, the observations are also
+consistent with a complete depletion of metals, i.e. with cosmic rays as the
+only source of ionization at visual extinctions greater than a few Av . The
+DCO+ emission is found to be dependent of the ortho to para H2 ratio, and
+indicates a ratio of ~1e-2. The derived ionization fraction is about 5e-9 with
+respect to H nuclei, which is about an order of magnitude lower than the one
+observed in the L1544 core. The corresponding ambipolar diffusion timescale is
+found to be an order of magnitude larger than the free fall timescale at the
+center of the core. The inferred metal abundance suggests that magnetically
+inactive regions (dead zones) are present in protostellar disks.

@@ -1,0 +1,9 @@
+We reinvestigate the 2D problem of the inhomogeneous incipient infinite
+cluster where, in an independent percolation model, the density decays to p_c
+with an inverse power, \lambda, of the distance to the origin. Assuming the
+existence of critical exponents (as is known in the case of the triangular site
+lattice) if the power is less than 1/\nu, with \nu the correlation length
+exponent, we demonstrate an infinite cluster with scale dimension given by
+D_H=2-\beta\lambda. Further, we investigate the critical case \lambda_c=1/\nu
+and show that iterated logarithmic corrections will tip the balance between the
+possibility and impossibility of an infinite cluster.

@@ -1,0 +1,10 @@
+We analyze the class of nonlocal realistic theories that was originally
+considered by Leggett [Found. Phys. 33, 1469 (2003)] and tested by us in a
+recent experiment [Nature (London) 446, 871 (2007)]. We derive an
+incompatibility theorem that works for finite numbers of polarizer settings and
+that does not require the previously assumed rotational symmetry of the
+two-particle correlation functions. The experimentally measured case involves
+seven different measurement settings. Using polarization-entangled photon
+pairs, we exclude this broader class of nonlocal realistic models by
+experimentally violating a new Leggett-type inequality by 80 standard
+deviations.

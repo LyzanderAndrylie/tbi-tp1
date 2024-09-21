@@ -1,0 +1,11 @@
+We apply a model for sand dunes to calculate formation of dunes on Mars under
+the present Martian atmospheric conditions. We find that different dune shapes
+as those imaged by Mars Global Surveyor could have been formed by the action of
+sand-moving winds occuring on today's Mars. Our calculations show, however,
+that Martian dunes could be only formed due to the higher efficiency of Martian
+winds in carrying grains into saltation. The model equations are solved to
+study saltation transport under different atmospheric conditions valid for
+Mars. We obtain an estimate for the wind speed and migration velocity of
+barchan dunes at different places on Mars. From comparison with the shape of
+bimodal sand dunes, we find an estimate for the timescale of the changes in
+Martian wind regimes.

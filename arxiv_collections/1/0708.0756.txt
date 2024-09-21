@@ -1,0 +1,4 @@
+We study the limit behaviour of solutions of a class of solutions of
+nonlinear parabolic equations with a degenerate strong absorption. We prove
+that two types of phenomena can occur: the pointwise singularity or the
+formation of razor blades (or persistent singularities).

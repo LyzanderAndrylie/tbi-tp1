@@ -1,0 +1,11 @@
+We invert experimental data for heavy-ion fusion reactions at energies well
+below the Coulomb barrier in order to directly determine the internucleus
+potential between the colliding nuclei. In contrast to the previous
+applications of the inversion formula, we explicitly take into account the
+effect of channel couplings on fusion reactions, by assuming that fusion cross
+sections at deep subbarrier energies are governed by the lowest barrier in the
+barrier distribution. We apply this procedure to the $^{16}$O +$^{144}$Sm and
+$^{16}$O +$^{208}$Pb reactions, and find that the inverted internucleus
+potential are much thicker than phenomenological potentials. A relation to the
+steep fall-off phenomenon of fusion cross sections recently found at deep
+subbarrier energies is also discussed.

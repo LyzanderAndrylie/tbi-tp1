@@ -1,0 +1,5 @@
+We present a family of nonlocal games in which the inputs the players receive
+are continuous. We study three representative members of the family. For the
+first two a team sharing quantum correlations (entanglement) has an advantage
+over any team restricted to classical correlations. We conjecture that this is
+true for the third member of the family as well.

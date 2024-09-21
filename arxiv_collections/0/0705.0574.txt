@@ -1,0 +1,24 @@
+By combining the REFLEX and NORAS cluster datasets with the NVSS radio
+catalogue, we obtain a sample of 145, z<0.3, X-ray selected clusters brighter
+than 3 10^(-12) erg/s/cm^2 that show a central radio emission above 3 mJy. For
+virial masses M_vir<~10^(14.5) M_sun, 11 clusters out of 12 (corresponding to
+92% of the systems) are inhabited by a central radio source. This fraction
+decreases with higher masses as M_vir^(-0.4) and suggests that the majority of
+X-ray selected clusters host in their centre a radio source brighter than about
+10^(20) W/Hz/sr. A division of the sample into clusters harbouring either
+point-like or an extended radio-loud AGN reveals that the steepening of the
+L_X-T relation for low-temperature clusters is strongly associated with the
+presence of central radio objects with extended jets and/or lobe structures. In
+the latter case, L_X\propto T^(4) while for point-like sources one recovers an
+approximately self-similar relation L_X\propto T^(2.3). Monte Carlo simulations
+show that the steepening of the L_X-T relation is not caused by clusters being
+under-luminous in the X-ray band, but rather by overheating, most likely caused
+by the interplay between the extended radio structures and the intracluster
+medium. In the case of low-mass systems, we also find a tight correlation
+between radio luminosity and cluster temperature. The effects of the central
+radio source on the thermal state of a cluster become less important with
+increasing cluster mass. (Abridged) The luminosity distribution of the cluster
+radio population differs from that of all radio sources, as there is a deficit
+of low-luminosity (L_R<~10^(22) W/Hz/sr) objects, while the number of
+high-luminosity ones is boosted. The net effect on the radio luminosity
+function is of a flattening at all luminosities L_R<~ 10^(24) W/Hz/sr.

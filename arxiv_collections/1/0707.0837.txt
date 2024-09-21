@@ -1,0 +1,7 @@
+In this paper, we derive an explicit formula for constructing the confidence
+interval of binomial parameter with guaranteed coverage probability. The
+formula overcomes the limitation of normal approximation which is asymptotic in
+nature and thus inevitably introduce unknown errors in applications. Moreover,
+the formula is very tight in comparison with classic Clopper-Pearson's approach
+from the perspective of interval width. Based on the rigorous formula, we also
+obtain approximate formulas with excellent performance of coverage probability.

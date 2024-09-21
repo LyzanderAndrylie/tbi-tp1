@@ -1,0 +1,7 @@
+The Parameter-Less Self-Organizing Map (PLSOM) is a new neural network
+algorithm based on the Self-Organizing Map (SOM). It eliminates the need for a
+learning rate and annealing schemes for learning rate and neighbourhood size.
+We discuss the relative performance of the PLSOM and the SOM and demonstrate
+some tasks in which the SOM fails but the PLSOM performs satisfactory. Finally
+we discuss some example applications of the PLSOM and present a proof of
+ordering under certain limited conditions.

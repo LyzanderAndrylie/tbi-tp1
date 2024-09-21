@@ -1,0 +1,9 @@
+We develop a model of the nonlinear response to a DC electrical current of a
+two dimensional electron system(2DES) placed on a magnetic field. Based on the
+exact solution of the Schroedinger equation in arbitrarily strong electric and
+magnetic fields, and separating the relative and guiding center coordinates, a
+Kubo-like formula for the current is worked out as a response to the impurity
+scattering. Self-consistent expressions determine the longitudinal and Hall
+components of the electric field in terms of the DC current. The differential
+resistivity displays strong Hall field-induced oscillations, in agreement with
+the main features of the phenomenon observed in recent experiments.

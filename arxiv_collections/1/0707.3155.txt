@@ -1,0 +1,4 @@
+A change of variables is introduced to reduce certain nonlinear stochastic
+evolution equations with multiplicative noise to the corresponding
+deterministic equation. The result is then used to investigate a stochastic
+porous medium equation.

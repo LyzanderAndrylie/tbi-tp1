@@ -1,0 +1,13 @@
+The linearized relativistic magnetohydrodynamic (RMHD) equations describing a
+uniform axially magnetized cylindrical relativistic jet spine embedded in a
+uniform axially magnetized relativistically moving sheath are derived. The
+displacement current is retained in the equations so that effects associated
+with Alfven wave propagation near light speed can be studied. A dispersion
+relation for the normal modes is obtained. Analytical solutions for the normal
+modes in the low and high frequency limits are found and a general stability
+condition is determined. A trans-Alfvenic and even a super-Alfvenic
+relativistic jet spine can be stable to velocity shear driven Kelvin-Helmholtz
+modes. The resonance condition for maximum growth of the normal modes is
+obtained in the kinetically and magnetically dominated regimes. Numerical
+solution of the dispersion relation verifies the analytical solutions and is
+used to study the regime of high sound and Alfven speeds.

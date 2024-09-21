@@ -1,0 +1,9 @@
+We present an improved search for single top quarks in two production modes,
+s-channel (tb) and t-channel (tqb). The search is performed in the
+electron+jets and muon+jets decay channels, with one or more b-tagged jets, on
+nearly 370 pb^{-1} of D0 Run II data collected between August 2002 and October
+2004. Impact-parameter based b-quark tagging is used to select signal-like
+events. We use a likelihood discriminant method to separate signals from
+backgrounds. The resulting expected/observed 95% confidence level upper limits
+on the single top quark production cross sections are 3.3/5.0pb (s-channel) and
+4.3/4.4pb (t-channel).

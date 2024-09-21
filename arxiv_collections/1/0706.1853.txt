@@ -1,0 +1,7 @@
+This paper reports the realization of a 5 MHz frequency difference x10
+pre-multiplier, developed in the laboratory to replace an obsolete one. The
+principle we chose is to synthesize a 45 MHz and a 50 MHz from a reference
+signal and from the signal to be measured, and to subtract one to the other to
+generate a 5 MHz, whose precision on the measurement is increased by a factor
+10. Obtained Allan variance &#61555;y(&#61556;) at 1 s is 5.10-14 and output
+spectral density of phase noise floor is about -160 dBc/Hz at 5 MHz.

@@ -1,0 +1,10 @@
+Twisted torus links are given by twisting a subset of strands on a closed
+braid representative of a torus link. T--links are a natural generalization,
+given by repeated positive twisting. We establish a one-to-one correspondence
+between positive braid representatives of Lorenz links and T--links, so Lorenz
+links and T--links coincide. Using this correspondence, we identify over half
+of the simplest hyperbolic knots as Lorenz knots. We show that both hyperbolic
+volume and the Mahler measure of Jones polynomials are bounded for infinite
+collections of hyperbolic Lorenz links. The correspondence provides unexpected
+symmetries for both Lorenz links and T-links, and establishes many new results
+for T-links, including new braid index formulas.

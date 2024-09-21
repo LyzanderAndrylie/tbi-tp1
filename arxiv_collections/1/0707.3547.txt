@@ -1,0 +1,21 @@
+The spatial coherence of a measured variable (e.g. temperature or pressure)
+is often studied to determine the regions where this variable varies the most
+or to find teleconnections, i.e. correlations between specific regions. While
+usual methods to find spatial patterns, such as Principal Components Analysis
+(PCA), are constrained by linear symmetries, the dependence of variables such
+as temperature or pressure at different locations is generally nonlinear. In
+particular, large deviations from the sample mean are expected to be strongly
+affected by such nonlinearities. Here we apply a newly developed nonlinear
+technique (Maxima of Cumulant Function, MCF) for the detection of typical
+spatial patterns that largely deviate from the mean. In order to test the
+technique and to introduce the methodology, we focus on the El Nino/Southern
+Oscillation and its spatial patterns. We find nonsymmetric temperature patterns
+corresponding to El Nino and La Nina, and we compare the results of MCF with
+other techniques, such as the symmetric solutions of PCA, and the nonsymmetric
+solutions of Nonlinear PCA (NLPCA). We found that MCF solutions are more
+reliable than the NLPCA fits, and can capture mixtures of principal components.
+Finally, we apply Extreme Value Theory on the temporal variations extracted
+from our methodology. We find that the tails of the distribution of extreme
+temperatures during La Nina episodes is bounded, while the tail during El Ninos
+is less likely to be bounded. This implies that the mean spatial patterns of
+the two phases are asymmetric, as well as the behaviour of their extremes.

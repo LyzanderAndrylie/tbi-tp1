@@ -1,0 +1,12 @@
+We propose that cosmological magnetic fields generated in regions of finite
+spatial dimensions may manifest themselves in the global dynamics of the
+Universe as `dark energy'. We test our model in the context of spatially flat
+cosmological models by assuming that the Universe contains non-relativistic
+matter $\rho_m\propto \alpha^{-3}$, dark energy $\rho_{Q}\propto
+\alpha^{-3(1+w)}$, and an extra fluid with $\rho_{B} \propto \alpha^{n-3}$ that
+corresponds to the magnetic field. We place constraints on the main
+cosmological parameters of our model by combining the recent supernovae type Ia
+data and the differential ages of passively evolving galaxies. In particular,
+we find that the model which best reproduces the observational data when
+$\Omega_m=0.26$ is one with $\Omega_{B}\simeq 0.03$, $n\simeq 7.68$,
+$\Omega_{Q}\simeq 0.71$ and $w\simeq -0.8$.

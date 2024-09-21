@@ -1,0 +1,9 @@
+The information rates achievable by using electromagnetic radiation affected
+by thermal noise and signal decoherence are studied. The standard coherent
+Gaussian model is compared with an alternative photon gas model which
+represents lack of a shared phase reference between transmitter and receiver.
+At any frequency, information rates over the photon gas model essentially
+coincide with those over the Gaussian model when the signal-to-noise ratio is
+below a threshold. Only above the threshold does decoherence cause a loss in
+information rates; the loss can amount to half of the capacity. The threshold
+exceeds 40 dB for radio frequencies and vanishes at optical frequencies.

@@ -1,0 +1,12 @@
+A key idea in coding for the broadcast channel (BC) is binning, in which the
+transmitter encode information by selecting a codeword from an appropriate bin
+(the messages are thus the bin indexes). This selection is normally done by
+solving an appropriate (possibly difficult) combinatorial problem. Recently it
+has been shown that binning for the Blackwell channel --a particular BC-- can
+be done by iterative schemes based on Survey Propagation (SP). This method uses
+decimation for SP and suffers a complexity of O(n^2). In this paper we propose
+a new variation of the Belief Propagation (BP) algorithm, named Reinforced BP
+algorithm, that turns BP into a solver. Our simulations show that this new
+algorithm has complexity O(n log n). Using this new algorithm together with a
+non-linear coding scheme, we can efficiently achieve rates close to the border
+of the capacity region of the Blackwell channel.

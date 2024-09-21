@@ -1,0 +1,7 @@
+It is revealed that in spin helix state of (001) quantum well system, strong
+suppression of D'yakonov-Perel' spin relaxation process occurs by an interplay
+between Rashba and Dresselhaus couplings over a wide range of Rashba coupling
+strength. Contrary to common belief in early works, this leads to the finding
+that Datta-Das type spin-field effect transistor is actually applicable to more
+realistic non-ballistic transport regime in two dimensional electron gas
+system.

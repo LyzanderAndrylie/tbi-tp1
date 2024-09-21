@@ -1,0 +1,13 @@
+At any resolution level of wavelet expansions the physical observable of the
+kinetic energy is represented by an infinite matrix which is ``canonically''
+chosen as the projection of the operator $-\Delta/2$ onto the subspace of the
+given resolution. It is shown, that this canonical choice is not optimal, as
+the regular grid of the basis set introduces an artificial consequence of
+periodicity, and it is only a particular member of possible operator
+representations. We present an explicit method of preparing a near optimal
+kinetic energy matrix which leads to more appropriate results in numerical
+wavelet based calculations. This construction works even in those cases, where
+the usual definition is unusable (i.e., the derivative of the basis functions
+does not exist). It is also shown, that building an effective kinetic energy
+matrix is equivalent to the renormalization of the kinetic energy by a momentum
+dependent effective mass compensating for artificial periodicity effects.

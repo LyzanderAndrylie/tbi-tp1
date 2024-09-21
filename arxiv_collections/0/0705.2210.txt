@@ -1,0 +1,8 @@
+The results of a beam test performed at the KEK PS in June 2005 are
+presented. Drift properties of an argon-isobutane mixture have been accurately
+measured and compared with predictions at magnetic fields between 0 and 1
+Tesla. The r.m.s. point resolution of a padrow is compared with simulation and
+with an analytical calculation. The fundamental limitations due to detector
+geometry and gas properties are reviewed and the measured performances of the
+detector are found to be close to this limit. A numerical application to the
+case of a Linear Collider TPC is presented.

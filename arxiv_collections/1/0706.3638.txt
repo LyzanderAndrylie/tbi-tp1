@@ -1,0 +1,6 @@
+We study certain Schur functors which preserve singularity categories of
+rings and we apply them to study the singularity category of triangular matrix
+rings. In particular, combining these results with Buchweitz-Happel's theorem,
+we can describe singularity categories of certain non-Gorenstein rings via the
+stable category of maximal Cohen-Macaulay modules. Three concrete examples of
+finite-dimensional algebras with the same singularity category are discussed.

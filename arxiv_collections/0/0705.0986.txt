@@ -1,0 +1,13 @@
+We discuss two new observational techniques that use observations of the
+Cosmic Microwave Background (CMB) to place constraints upon the mass, distance,
+and size distribution of small objects in the Kuiper Belt and inner Oort Cloud,
+collectively known as Trans-Neptunian Objects (TNOs). The first new technique
+considers the spectral distortion of the isotropic, or monopole, CMB by TNOs
+that have been heated by solar radiation to temperatures above that of the CMB.
+We apply this technique to the spectral measurements of the CMB by the Far
+Infrared Absolute Spectrophotometer (FIRAS) on the Cosmic Background Explorer
+(COBE). The second technique utilizes the change in amplitude of the TNO signal
+due to the orbital motion of the observer to separate the TNO signal from the
+invariant extra-galactic CMB and construct a map of the mass distribution in
+the outer Solar System. We estimate the ability of future CMB experiments to
+create such a map.

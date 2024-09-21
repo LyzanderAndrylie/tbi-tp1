@@ -1,0 +1,9 @@
+Radiation from an ultra-stable 240 GHz solid-state source has been injected,
+through an isolator, into the cavity of the University of California Santa
+Barbara (UCSB) MM-wave free-electron laser (FEL). High-power FEL emission,
+normally distributed among many of the cavity's longitudinal modes, is
+concentrated into the single mode to which the solid state source has been
+tuned. The linewidth of the FEL emission is 0.5 MHz, consistent with the
+Fourier transform limit for the 2 microsecond pulses. This demonstration of
+frequency-stable, ultra-narrow-band FEL emission is a critical milestone on the
+road to FEL-based pulsed electron paramagnetic resonance spectroscopy.

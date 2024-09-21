@@ -1,0 +1,21 @@
+Electrons in solids have been conventionally classified as either band-like
+itinerant ones or atomic-like localized ones depending on their properties. For
+heavy Fermion (HF) compounds, however, the f electrons show both itinerant and
+localized behaviours depending on temperature. Above the characteristic
+temperature T*, which is typically of the order of few K to few tens K, their
+magnetic properties are well described by the ionic f-electron models,
+suggesting that the f-electrons behave as 'localized' electrons. On the other
+hand, well below T*, their Fermi surfaces (FS's) have been observed by
+magneto-oscillatory techniques, and generally they can be explained well by the
+'itinerant' f-electron model. These two models assume totally different natures
+of felectrons, and how they transform between localized and itinerant state as
+a function of temperatures has never been understood on the level of their
+electronic structures. Here we have studied the band structure of the HF
+antiferromagnetic superconductor UPd2Al3 well below and above T* by
+angle-resolved photoelectron spectroscopy (ARPES), and revealed the temperature
+dependence of the electronic structure. We have found that the f-bands, which
+form the FS's at low temperatures are excluded from FS's at high temperatures.
+The present results demonstrate how the same f-electrons show both itinerant
+and localized behaviours on the level of electronic structure, and provide an
+important information for the unified description of the localized and
+itinerant nature of HF compounds.

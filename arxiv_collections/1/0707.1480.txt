@@ -1,0 +1,10 @@
+This paper presents an interaction model adapted to mixed reality
+environments known as IRVO (Interacting with Real and Virtual Objects). IRVO
+aims at modeling the interaction between one or more users and the Mixed
+Reality system by representing explicitly the objects and tools involved and
+their relationship. IRVO covers the design phase of the life cycle and models
+the intended use of the system. In a first part, we present a brief review of
+related HCI models. The second part is devoted to the IRVO model, its notation
+and some examples. In the third part, we present how IRVO is used for designing
+applications and in particular we show how this model can be integrated in a
+Model-Based Approach (CoCSys) which is currently designed at our lab.

@@ -1,0 +1,12 @@
+We prove regularity properties of the self-energy, to all orders in
+perturbation theory, for systems with singular Fermi surfaces which contain Van
+Hove points where the gradient of the dispersion relation vanishes. In this
+paper, we show for spatial dimensions $d \ge 3$ that despite the Van Hove
+singularity, the overlapping loop bounds we proved together with E. Trubowitz
+for regular non--nested Fermi surfaces [J. Stat. Phys. 84 (1996) 1209] still
+hold, provided that the Fermi surface satisfies a no-nesting condition. This
+implies that for a fixed interacting Fermi surface, the self-energy is a
+continuously differentiable function of frequency and momentum, so that the
+quasiparticle weight and the Fermi velocity remain close to their values in the
+noninteracting system to all orders in perturbation theory. In a companion
+paper, we treat the more singular two-dimensional case.

@@ -1,0 +1,8 @@
+Exact solutions with torsion in Einstein-Gauss-Bonnet gravity are derived.
+These solutions have a cross product structure of two constant curvature
+manifolds. The equations of motion give a relation for the coupling constants
+of the theory in order to have solutions with nontrivial torsion. This relation
+is not the Chern-Simons combination. One of the solutions has a $AdS_2\times
+S^3$ structure and is so the purely gravitational analogue of the
+Bertotti-Robinson space-time where the torsion can be seen as the dual of the
+covariantly constant electromagnetic field.

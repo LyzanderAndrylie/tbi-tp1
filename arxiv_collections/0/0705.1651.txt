@@ -1,0 +1,9 @@
+We investigated the switching dynamics of two kinds of EuBa2Cu3Oy (Eu123)
+intrinsic Josephson junctions (IJJs) with different anisotropy parameters gamma
+(= (m*c/m*ab)1/2) tuned to 37 and 22. In contrast to weakly-coupled IJJs in
+Bi2212, significant deviations from the thermally activated escape model of a
+single-stack Josephson junction were observed in their switching current
+distributions, P(I), due to the strongly-coupled nature of the Eu123 IJJs, The
+P(I) of the two IJJs are found to be independent of temperature, below 1.4 K
+and 4.2 K, respectively; which indicates the observation of macroscopic quantum
+tunneling at high temperatures of liquid He.

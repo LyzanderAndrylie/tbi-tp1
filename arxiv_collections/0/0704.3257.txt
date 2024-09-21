@@ -1,0 +1,24 @@
+CO observations have been so far the best way to trace molecular gas in
+external galaxies, but at low metallicity the gas mass deduced could be largely
+underestimated. At present, the kinematic information of CO data cubes are used
+to estimate virial masses and trace the total mass of the molecular clouds.
+Millimeter dust emission can also be used as a dense gas tracer and could
+unveil H2 envelopes lacking CO. These different tracers must be compared in
+different environments. This study compares virial masses to masses deduced
+from millimeter emission, in two GMC samples: the local molecular clouds in our
+Galaxy and their equivalents in the Small Magellanic Cloud (SMC), one of the
+nearest low metallicity dwarf galaxy. In our Galaxy, mass estimates deduced
+from millimeter emission are consistent with masses deduced from gamma ray
+analysis and trace the total mass of the clouds. Virial masses are
+systematically larger (twice on average) than mass estimates from millimeter
+dust emission. This difference decreases toward high masses and has already
+been reported in previous studies. In the SMC however, molecular cloud masses
+deduced from SIMBA millimeter observations are systematically higher (twice on
+average for conservative values of the dust to gas ratio and dust emissivity)
+than the virial masses from SEST CO observations. The observed excess can not
+be accounted for by any plausible change of dust properties. Taking a general
+form for the virial theorem, we show that a magnetic field strength of ~15
+micro Gauss in SMC clouds could provide additional support to the clouds and
+explain the difference observed. Masses of SMC molecular clouds have therefore
+been underestimated so far. Magnetic pressure may contribute significantly to
+their support.

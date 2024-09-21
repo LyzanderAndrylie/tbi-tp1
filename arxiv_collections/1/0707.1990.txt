@@ -1,0 +1,7 @@
+We introduce a stochastic algorithm that acts as a prime number generator.
+The dynamics of such algorithm gives rise to a continuous phase transition
+which separates a phase where the algorithm is able to reduce a whole set of
+integers into primes and a phase where the system reaches a frozen state with
+low prime density. We present both numerical simulations and an analytical
+approach in terms of an annealed approximation, by means of which the data are
+collapsed. A critical slowing down phenomenon is also outlined.

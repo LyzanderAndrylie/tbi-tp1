@@ -1,0 +1,6 @@
+We create a Josephson parametric amplifier from a transmission line resonator
+whose inner conductor is made from a series SQUID array. By changing the
+magnetic flux through the SQUID loops, we are able to adjust the circuit's
+resonance frequency and, consenquently, the center of the amplified band,
+between 4 and 7.8 GHz. We observe that the amplifier has gains as large as 28
+dB and infer that it adds less than twice the input vacuum noise.

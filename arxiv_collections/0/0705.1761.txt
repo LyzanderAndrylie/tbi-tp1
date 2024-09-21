@@ -1,0 +1,8 @@
+Bayesian neural networks were used to model the relationship between input
+parameters, Democracy, Allies, Contingency, Distance, Capability, Dependency
+and Major Power, and the output parameter which is either peace or conflict.
+The automatic relevance determination was used to rank the importance of input
+variables. Control theory approach was used to identify input variables that
+would give a peaceful outcome. It was found that using all four controllable
+variables Democracy, Allies, Capability and Dependency; or using only
+Dependency or only Capabilities avoids all the predicted conflicts.

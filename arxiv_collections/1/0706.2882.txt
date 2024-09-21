@@ -1,0 +1,16 @@
+We report on muon spin rotation measurements of the internal magnetic field
+distribution n(B) in the vortex solid phase of YBa2Cu3Oy (YBCO) single
+crystals, from which we have simultaneously determined the hole doping
+dependences of the in-plane Ginzburg-Landau (GL) length scales in the
+underdoped regime. We find that Tc has a sublinear dependence on
+1/lambda_{ab}^2, where lambda_{ab} is the in-plane magnetic penetration depth
+in the extrapolated limits T -> 0 and H -> 0. The power coefficient of the
+sublinear dependence is close to that determined in severely underdoped YBCO
+thin films, indicating that the same relationship between Tc and the superfluid
+density is maintained throughout the underdoped regime. The in-plane GL
+coherence length (vortex core size) is found to increase with decreasing hole
+doping concentration, and exhibit a field dependence that is explained by
+proximity-induced superconductivity on the CuO chains. Both the magnetic
+penetration depth and the vortex core size are enhanced near 1/8 hole doping,
+supporting the belief by some that stripe correlations are a universal property
+of high-Tc cuprates.

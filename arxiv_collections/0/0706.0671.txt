@@ -1,0 +1,6 @@
+Let A be an excellent integral henselian local noetherian ring, k its residue
+field of characteristic p>0 and K its fraction field. Using an algebraization
+technique introduced by the first named author, and the one-dimension case
+already proved by Kazuya KATO, we prove the following formula: cd_p(K) = dim(A)
++ p-rank(k), if k is separably closed and K of characteristic zero. A similar
+statement is valid without those assumptions on k and K.

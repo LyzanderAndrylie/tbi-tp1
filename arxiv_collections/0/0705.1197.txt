@@ -1,0 +1,8 @@
+We cool the fundamental mode of a miniature cantilever by capacitively
+coupling it to a driven rf resonant circuit. Cooling results from the rf
+capacitive force, which is phase shifted relative to the cantilever motion. We
+demonstrate the technique by cooling a 7 kHz cantilever from room temperature
+to 45 K, obtaining reasonable agreement with a model for the cooling, damping,
+and frequency shift. Extending the method to higher frequencies in a cryogenic
+system could enable ground state cooling and may prove simpler than related
+optical experiments in a low temperature apparatus.

@@ -1,0 +1,9 @@
+This paper the utilizes atomistic-continuum mechanics (ACM) to investigate
+the mechanical properties of single-walled carbon nanotubes (SWCNTs). By
+establishing a linkage between structural mechanics and molecular mechanics,
+not only the Young's moduli could be obtained but also the modal analysis could
+be achieved. In addition, according to atomistic-continuum mechanics and finite
+element method, an effective atomistic-continuum model is constructed to
+investigate the above two mechanical properties of SWCNTs with affordable
+computational time by personal computers. The validity of the results is
+demonstrated by comparing them with existing results.

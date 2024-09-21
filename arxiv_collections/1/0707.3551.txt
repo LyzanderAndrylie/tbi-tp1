@@ -1,0 +1,6 @@
+Using the harmonic theory developed by Takegoshi for representation of
+relative cohomology and the framework of computation of curvature of direct
+images bundles by Berndtsson, we prove that the higher direct images by a
+smooth morphism of the relative canonical bundle twisted by a semi-positive
+vector bundle are locally free and semi-positively curved, when endowed with a
+suitable Hodge type metric.

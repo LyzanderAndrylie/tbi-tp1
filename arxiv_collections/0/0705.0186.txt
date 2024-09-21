@@ -1,0 +1,4 @@
+We exactly prove the no-passing rule in the ground state evolution of the
+random-field Ising model (RFIM) with monotonically varying external field. In
+particular, we show that the application of the no-passing rule can speed up
+the calculation of the zero-temperature equilibrium $M(H)$ curve dramatically.

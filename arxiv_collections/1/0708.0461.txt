@@ -1,0 +1,8 @@
+We employ a cryogenic High Electron Mobility Transistor (HEMT) amplifier to
+increase the bandwidth of a charge detection setup with a quantum point contact
+(QPC) charge sensor. The HEMT is operating at 1K and the circuit has a
+bandwidth of 1 MHz. The noise contribution of the HEMT at high frequencies is
+only a few times higher than that of the QPC shot noise. We use this setup to
+monitor single-electron tunneling to and from an adjacent quantum dot and we
+measure fluctuations in the dot occupation as short as 400 nanoseconds, 20
+times faster than in previous work.

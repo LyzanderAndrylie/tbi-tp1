@@ -1,0 +1,13 @@
+We analyze the fractional quantization of the ballistic conductance
+associated with the light and heavy holes bands in Si, Ge and GaAs systems. It
+is shown that the formation of the localized hole state in the region of the
+quantum point contact connecting two quasi-1D hole leads modifies drastically
+the conductance pattern. Exchange interaction between localized and propagating
+holes results in the fractional quantization of the ballistic conductance
+different from those in electronic systems. The value of the conductance at the
+additional plateaux depends on the offset between the bands of the light and
+heavy holes, \Delta, and the sign of the exchange interaction constant. For
+\Delta=0 and ferromagnetic exchange interaction, we observe additional plateaux
+around the values 7e^{2}/4h, 3e^{2}/h and 15e^{2}/4h, while antiferromagnetic
+interaction plateaux are formed around e^{2}/4h, e^{2}/h and 9e^{2}/4h. For
+large \Delta, the single plateau is formed at e^2/h.

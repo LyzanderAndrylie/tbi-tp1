@@ -1,0 +1,16 @@
+It is becoming increasingly apparent that probabilistic approaches can
+overcome conservatism and computational complexity of the classical worst-case
+deterministic framework and may lead to designs that are actually safer. In
+this paper we argue that a comprehensive probabilistic robustness analysis
+requires a detailed evaluation of the robustness function and we show that such
+evaluation can be performed with essentially any desired accuracy and
+confidence using algorithms with complexity linear in the dimension of the
+uncertainty space. Moreover, we show that the average memory requirements of
+such algorithms are absolutely bounded and well within the capabilities of
+today's computers.
+  In addition to efficiency, our approach permits control over statistical
+sampling error and the error due to discretization of the uncertainty radius.
+For a specific level of tolerance of the discretization error, our techniques
+provide an efficiency improvement upon conventional methods which is inversely
+proportional to the accuracy level; i.e., our algorithms get better as the
+demands for accuracy increase.

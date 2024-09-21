@@ -1,0 +1,14 @@
+We study the general structure of Fermi conformal nets of von Neumann
+algebras on the circle, consider a class of topological representations, the
+general representations, that we characterize as Neveu-Schwarz or Ramond
+representations, in particular a Jones index can be associated with each of
+them. We then consider a supersymmetric general representation associated with
+a Fermi modular net and give a formula involving the Fredholm index of the
+supercharge operator and the Jones index. We then consider the net associated
+with the super-Virasoro algebra and discuss its structure. If the central
+charge c belongs to the discrete series, this net is modular by the work of F.
+Xu and we get an example where our setting is verified by considering the
+Ramond irreducible representation with lowest weight c/24. We classify all the
+irreducible Fermi extensions of any super-Virasoro net in the discrete series,
+thus providing a classification of all superconformal nets with central charge
+less than 3/2.

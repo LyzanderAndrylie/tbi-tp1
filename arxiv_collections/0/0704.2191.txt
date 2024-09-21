@@ -1,0 +1,13 @@
+Chargaff's second parity rule holds empirically for most types of DNA that
+along single strands of DNA the base contents are equal for complimentary
+bases, A = T, G = C. A Markov chain model is constructed to track the evolution
+of any single base position along single strands of genomes whose organisms are
+equipped with replication mismatch repair. Under the key assumptions that
+mismatch error rates primarily depend the number of hydrogen bonds of
+nucleotides and that the mismatch repairing process itself makes strand
+recognition error, the model shows that the steady state probabilities for any
+base position to take on one of the 4 nucleotide bases are equal for
+complimentary bases. As a result, Chargaff's second parity rule is the
+manifestation of the Law of Large Number acting on the steady state
+probabilities. More importantly, because the model pinpoints mismatch repair as
+a basis of the rule, it is suitable for experimental verification.

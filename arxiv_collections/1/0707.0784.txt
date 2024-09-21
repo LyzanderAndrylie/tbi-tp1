@@ -1,0 +1,20 @@
+We study the spin-dependent scattering of charge carriers in a magnetized one
+dimensional Luttinger liquid from a localized non-homogeneous magnetic field,
+which might be brought about by the stray field of magnetic tip near a uniform
+liquid, or by a transverse domain wall (DW) between two oppositely magnetized
+liquids.
+  From a renormalization group treatment of the electron interactions we deduce
+scaling equations for the transmission and reflection amplitudes as the
+bandwidth is progressively reduced to an energy scale set by the temperature.
+The repulsive interactions dictate two possible zero temperature insulator
+fixed points: one in which electrons are reflected in the same spin channel and
+another where the electron spin is reversed upon reflection. In the latter
+case, a finite spin current emerges in the absence of a charge current at zero
+temperature and the Friedel oscillations form a transverse spiraling spin
+density. Adding a purely potential scattering term has no effect on the fixed
+points of a uniformly magnetized liquid. For a DW we find that the introduction
+of potential scattering stabilizes the spin-flip insulator phase even if the
+single-particle spin-flip scattering produced by the DW is arbitrarily weak.
+The potential can be induced externally, e.g. by a local gate voltage or a
+constriction, providing a means for controlling the transport properties of the
+wire.

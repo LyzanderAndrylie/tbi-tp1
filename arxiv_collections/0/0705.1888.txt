@@ -1,0 +1,8 @@
+We study quantum phases of ultracold bosonic atoms in a two-dimensional
+optical superlattice. The extended Bose-Hubbard model derived from the system
+of ultracold bosonic atoms in an optical superlattice is solved numerically
+with Gutzwiller approach. We find that the modulated superfluid(MS),
+Mott-insulator (MI) and density-wave(DW) phases appear in some regimes of
+parameters. The experimental detection of the first order correlations and the
+second order correlations of different quantum phases with time-of-flight and
+noise-correlation techniques is proposed.

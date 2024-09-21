@@ -1,0 +1,9 @@
+Current induced precession states in spin-transfer devices are studied in the
+case of large easy plane anisotropy (present in most experimental setups). It
+is shown that the effective one-dimensional planar description provides a
+simple qualitative understanding of the emergence and evolution of such states.
+Switching boundaries are found analytically for the collinear device and the
+spin-flip transistor. The latter can generate microwave oscillations at zero
+external magnetic field without either special functional form of spin-transfer
+torque, or ``field-like'' terms, if Gilbert constant corresponds to the
+overdamped planar regime.

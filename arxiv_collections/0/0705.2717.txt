@@ -1,0 +1,10 @@
+During Cycle 14 a total of 113 HST orbits were secured to observe five
+isolated dwarf galaxies, namely Tucana, LGS3, LeoA, IC1613, and Cetus. The aim
+of the project is a full characterization of the stellar content of these
+galaxies, in term of their SFH, radial distributions, halo populations and
+variable stars. Deep (V~29) F475W, F814W data allowed us to fully sample all
+the evolutionary phases from the tip of the Red Giant Branch (RGB) to well
+below the old Main Sequence Turnoff (MSTO). Here we describe the observational
+design, and the reduction and calibration strategy adopted. A comparison of the
+results obtained using two different packages, ALLFRAME and Dolphot, is
+presented.

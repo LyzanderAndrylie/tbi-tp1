@@ -1,0 +1,8 @@
+By applying the idea of parafermionic clustering to composite bosons with
+positive as well as negative flux, a new series of trial wavefunctions to
+describe fractional quantum Hall states is proposed. These non-Abelian states
+compete at filling factors k/(3k +/- 2) with other ground states like stripes
+or composite fermion states. These two series contain all the states recently
+discovered by Pan et al. [Phys. Rev. Lett. 90, 016801 (2003)] including the
+even denominator cases. Exact diagonalization studies on the sphere and torus
+point to their possible relevance for filling factors 3/7, 3/11, and 3/8.

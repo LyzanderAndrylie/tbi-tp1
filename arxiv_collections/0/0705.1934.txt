@@ -1,0 +1,8 @@
+We have studied the interplay of an Anderson impurity in Landau quantized
+graphene, with special emphasis on the influence of the chemical potential.
+Within the slave-boson mean-field theory, we found reentrant Kondo behaviour by
+varying the chemical potential or gate voltage. Between Landau levels, the
+density of states is suppressed, and by changing the graphene's Fermi energy,
+we cross from metallic to semiconducting regions. Hence, the corresponding
+Kondo behaviour is also influenced. The f-level spectral function reveals both
+the presence of Landau levels in the conduction band and the Kondo resonance.

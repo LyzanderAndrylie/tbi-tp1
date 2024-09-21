@@ -1,0 +1,10 @@
+We study the behaviour of the C60 molecule under very high internal or
+external pressure using Tersoff as well as Brenner potentials. As a result, we
+estimate the critical internal and external pressures that lead to its
+instability. We also calculate stretching force constant and bulk modulus of
+this molecule at several pressures under which the molecule remains stable. The
+values of these estimated here at zero pressure agree closely with those
+obtained in earlier calculations. We also observe that at high pressures, a
+finite value of parameter of Tersoff potential gives physically acceptable
+results in contrast to its value zero, which is usually taken for the carbon
+systems.

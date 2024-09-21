@@ -1,0 +1,10 @@
+In this article we give examples which show that the TQFT representations of
+the mapping class groups derived from quantum SU(N) for N>2 are generically
+decomposable. One general decomposition of the representations is induced by
+the symmetry which exchanges SU(N) representation labels by their conjugates.
+The respective summands of a given parity are typically still reducible into
+many further components.
+  Specifically, we give an explicit basis for an irreducible direct summand in
+the SL(2,Z) representation obtained from quantum PSU(3) when the order of the
+root of unity is a prime r=2 mod 3. We show that this summand is isomorphic to
+the respective PSU(2) representation.

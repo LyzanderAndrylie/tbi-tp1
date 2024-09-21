@@ -1,0 +1,4 @@
+For two given bipartite-entangled pure states, an expression is obtained for
+the least upper bound of conversion probabilities using catalysis. The
+attainability of the upper bound can also be decided if that bound is less than
+one.

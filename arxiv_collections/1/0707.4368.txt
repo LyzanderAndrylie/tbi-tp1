@@ -1,0 +1,10 @@
+We present a detailed study of the spectral properties of a locally
+correlated site embedded in a BCS superconducting medium. To this end the
+Anderson impurity model with superconducting bath is analysed by numerical
+renormalisation group (NRG) calculations. We calculate one and two-particle
+dynamic response function to elucidate the spectral excitation and the nature
+of the ground state for different parameter regimes with and without
+particle-hole symmetry. The position and weight of the Andreev bound states is
+given for all relevant parameters. We also present phase diagrams for the
+different ground state parameter regimes. This work is also relevant for
+dynamical mean field theory extensions with superconducting symmetry breaking.

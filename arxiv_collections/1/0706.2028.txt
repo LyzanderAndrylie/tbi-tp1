@@ -1,0 +1,5 @@
+Given a Riemannian submersion, we study the relation between lambda constants
+introduced by G.Perelman on the base manifold and the total space of a
+Riemannian submersion. We also discuss the relationship between the first
+eigenvalues of Laplacians on the base manifold and that of the total space. The
+quantities on warped products are discussed in detail.

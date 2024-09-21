@@ -1,0 +1,19 @@
+Suppose that local characteristics of several independent compound Poisson
+and Wiener processes change suddenly and simultaneously at some unobservable
+disorder time. The problem is to detect the disorder time as quickly as
+possible after it happens and minimize the rate of false alarms at the same
+time. These problems arise, for example, from managing product quality in
+manufacturing systems and preventing the spread of infectious diseases. The
+promptness and accuracy of detection rules improve greatly if multiple
+independent information sources are available. Earlier work on sequential
+change detection in continuous time does not provide optimal rules for
+situations in which several marked count data and continuously changing signals
+are simultaneously observable. In this paper, optimal Bayesian sequential
+detection rules are developed for such problems when the marked count data is
+in the form of independent compound Poisson processes, and the continuously
+changing signals form a multi-dimensional Wiener process. An auxiliary optimal
+stopping problem for a jump-diffusion process is solved by transforming it
+first into a sequence of optimal stopping problems for a pure diffusion by
+means of a jump operator. This method is new and can be very useful in other
+applications as well, because it allows the use of the powerful optimal
+stopping theory for diffusions.

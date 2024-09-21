@@ -1,0 +1,9 @@
+The refractive index of a dielectric medium comprising both passive and
+inverted components in its permittivity was determined using two methods: (i)
+in the time domain, a finite-difference algorithm to compute the
+frequency-domain reflectance from reflection data for a pulsed plane wave that
+is normally incident on a dielectric half-space, and (ii) in the frequency
+domain, the deflection of an obliquely incident Gaussian beam on transmission
+through a dielectric slab. The dielectric medium was found to be an active
+medium with a negative real part for its refractive index. Thereby, a recent
+controversy in the scientific literature was resolved.

@@ -1,0 +1,20 @@
+The properties of the known superconductors can be explained with the
+correlations dominated superconducting mechanism (CSM). The correlations have
+the spin correlation, the charge correlation and the spin-charge correlation,
+and their strengths can be described by the related correlation lengths in
+their correlation functions. Our evaluation from many superconductors is that
+superconductivities occur if both the spin correlation and the charge
+correlation are stronger, and the calculation of a Hubbard model showed that
+the spin-charge correlation may govern superconductivities1. Afterwards, this
+mechanism has led a model which includes various superconductivities and
+magnetisms, and the relation between superconductivities and magnetisms can be
+understood on this model2 (these results have been shown by calculations). This
+mechanism is very practical, for example, to turn a material into a
+superconductor or increase the Tc of a superconductor, what we will do is to
+increase the spin-charge correlation. In this letter, we first describe the
+relations between the spin-charge correlation, the spin correlation and the
+charge correlation, take these relations as the basis of constructing a new
+phase diagram, and then classify the known superconductors into various
+sections in this phase diagram. This letter also gives a new explanation about
+the pressure effect on Tc, the isotope effect on Tc and the pairing symmetry
+with the CSM.

@@ -1,0 +1,21 @@
+The paper presents results from a small survey of 22 young, nearby stars that
+was designed to detect substellar companions and ultimately giant extrasolar
+planets down to Jupiter masses. The targets are members of the Tucana and Beta
+Pictoris moving groups apart from the somewhat older star HIP 71395 that has a
+radial velocity trend suggesting a massive planet in large orbit. The survey
+was carried out in the L-band using adaptive optics assisted imaging with
+NAOS-CONICA (NACO) at the VLT. The chosen observation wavelength is well suited
+to search for close companions around young stars and delivers unprecedented
+detection limits. The presented technique reaches some of the best
+sensitivities as of today and is currently the most sensitive method for the
+contrast limited detection of substellar companions that are cooler than about
+1000K. The companion to 51 Eri, GJ 3305, was found to be a very close binary on
+an eccentric orbit. No substellar companions were found around the target
+stars, although the method permitted to detect companions down to a few Jupiter
+masses at orbital distances of typically 5 astronomical units. A planet with a
+mass >1 M_Jup at distances >5 AU around AU Mic can be excluded at the time of
+our observations. The absence of detected planets sets constraints on the
+frequency distribution and maximum orbital distance of giant exoplanets. For
+example, a radial distribution power law index of 0.2 in combination with a
+maximum orbital radius exceeding 30 AU can be rejected at a 90% confidence
+level.

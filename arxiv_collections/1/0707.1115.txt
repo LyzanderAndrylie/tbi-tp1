@@ -1,0 +1,9 @@
+MiniBooNE (Mini Booster Neutrino Experiment) searches for the
+$\nu_\mu\to\nu_e$ oscillations with $\Delta m^2 \sim 1 \eV^2/c^4$ indicated by
+the LSND experiment. The LSND evidence, when taken with the solar and
+atmospheric neutrino oscillations, suggests new physics beyond the Standard
+Model. However, this evidence has not been confirmed by other experiments.
+MiniBooNE has completed its first $\nu_\mu\to\nu_e$ oscillation search using a
+sample of $\sim 1$ GeV neutrino events obtained with $5.58\times 10^{20}$
+protons delivered to the Booster Neutrino Beamline. The analysis finds no
+significant excess of $\nu_e$ events in the analysis region of 475-3000 MeV.

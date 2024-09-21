@@ -1,0 +1,17 @@
+Sub-Riemannian Geometry is proved to play an important role in many
+applications, e.g., Mathematical Physics and Control Theory. The simplest
+example of sub-Riemannian structure is provided by the 3-D Heisenberg group.
+Sub-Riemannian Geometry enjoys major differences from the Riemannian being a
+generalisation of the latter at the same time, e.g., geodesics are not unique
+and may be singular, the Hausdorff dimension is larger than the manifold
+topological dimension. There exists a large amount of literature developing
+sub-Riemannian Geometry. However, very few is known about its natural extension
+to pseudo-Riemannian analogues. It is natural to begin such a study with some
+low-dimensional manifolds. Based on ideas from sub-Riemannian geometry we
+develop sub-Lorentzian geometry over the classical 3-D anti-de Sitter space.
+Two different distributions of the tangent bundle of anti-de Sitter space yield
+two different geometries: sub-Lorentzian and sub-Riemannian. It is shown that
+the set of timelike and spacelike `horizontal' curves is non-empty and we study
+the problem of horizontal connectivity in anti-de Sitter space. We also use
+Lagrangian and Hamiltonian formalisms for both sub-Lorentzian and
+sub-Riemannian geometries to find geodesics.

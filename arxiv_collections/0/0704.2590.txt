@@ -1,0 +1,9 @@
+We analyze theoretically adiabatic quantum pumping through a normal conductor
+that couples the normal regions of two superconductor/normal
+metal/superconductor Josephson junctions. By using the phases of the
+superconducting order parameter in the superconducting contacts as pumping
+parameters, we demonstrate that a non zero pumped charge can flow through the
+device. The device exploits the evolution of the superconducting phases due to
+the ac Josephson effect, and can therefore be operated at very high frequency,
+resulting in a pumped current as large as a few nanoAmperes. The experimental
+relevance of our calculations is discussed.

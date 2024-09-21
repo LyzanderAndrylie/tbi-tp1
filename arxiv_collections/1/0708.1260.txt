@@ -1,0 +1,16 @@
+We study the temperature dependence of the pseudoscalar meson properties in a
+relativistic bound-state approach exhibiting the chiral behavior mandated by
+QCD. Concretely, we adopt the Dyson-Schwinger approach with a rank-2 separable
+model interaction. After extending the model to the strange sector and fixing
+its parameters at zero temperature, T=0, we study the T-dependence of the
+masses and decay constants of all ground-state mesons in the pseudoscalar
+nonet. Of chief interest are $\eta$ and $\eta^\prime$. The influence of the QCD
+axial anomaly on them is successfully obtained through the Witten-Veneziano
+relation at T=0. The same approach is then extended to T>0, using lattice QCD
+results for the topological susceptibility. The most conspicuous finding is an
+increase of the $\eta^\prime$ mass around the chiral restoration temperature
+$T_{\rm Ch}$, which would suggest a suppression of $\eta^\prime$ production in
+relativistic heavy-ion collisions. The increase of the $\eta^\prime$ mass may
+also indicate that the extension of the Witten-Veneziano relation to finite
+temperatures becomes unreliable around and above $T_{\rm Ch}$. Possibilities of
+an improved treatment are discussed.

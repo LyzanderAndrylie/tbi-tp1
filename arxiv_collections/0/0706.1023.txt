@@ -1,0 +1,12 @@
+In this communication we have studied the electronic structure, magnetic and
+optical properties of bcc \fecr alloys in the ferromagnetic phase. We have used
+the augmented space recursion technique coupled with tight-binding linearized
+muffin-tin orbital technique (TB-LMTO-ASR) as well as the coherent-potential
+approximation based on the Korringa-Kohn-Rostocker method (KKR-CPA). Also the
+plane wave projector augmented wave (PAW) method has been used with the
+disorder simulated by the special quasi-random structure method f or
+configuration averaging (SQS). This was to provide a comparison between the
+different methods in common use for random alloys. Moreover, using the
+self-consistent potential parameters from TB-LMTO-ASR ca lculations we obtained
+the spin resolved optical conductivity using the generalized recursion
+technique proposed by M\"uller and Vishwanathan.

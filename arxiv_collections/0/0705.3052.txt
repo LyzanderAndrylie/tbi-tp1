@@ -1,0 +1,18 @@
+We present a semi-analytic model for shaping the nebula around eta Carinae
+that accounts for the simultaneous production of bipolar lobes and an
+equatorial disk through a rotating surface explosion. Material is launched
+normal to the surface of an oblate rotating star with an initial kick velocity
+that scales approximately with the local escape speed. Thereafter, ejecta
+follow ballistic orbital trajectories, feeling only a central force
+corresponding to a radiatively reduced gravity. Our model is conceptually
+similar to the wind-compressed disk model of Bjorkman & Cassinelli, but we
+modify it to an explosion instead of a steady line-driven wind, we include a
+rotationally-distorted star, and we treat the dynamics somewhat differently.
+Continuum-driving avoids the disk inhibition that normally operates in
+line-driven winds. Our model provides a simple method by which rotating hot
+stars can simultaneously produce intrinsically bipolar and equatorial mass
+ejections, without an aspherical environment or magnetic fields. Although
+motivated by eta Carinae, the model may have generic application to other LBVs,
+B[e] stars, or SN1987A's nebula. When near-Eddington radiative driving is less
+influential, our model generalizes to produce bipolar morphologies without
+disks, as seen in many PNe.

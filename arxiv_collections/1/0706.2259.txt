@@ -1,0 +1,20 @@
+Low-dimensional systems are beautiful examples of many-body quantum physics.
+For one-dimensional systems the Luttinger liquid approach provides insight into
+universal properties. Much is known of the equilibrium state, both in the
+weakly and strongly interacting regime. However, it remains a challenge to
+probe the dynamics by which this equilibrium state is reached. Here we present
+a direct experimental study of the coherence dynamics in both isolated and
+coupled degenerate 1d Bose gases. Dynamic splitting is used to create two 1d
+systems in a phase coherent state. The time evolution of the coherence is
+revealed in local phase shifts of the subsequently observed interference
+patterns. Completely isolated 1d Bose gases are observed to exhibit a universal
+sub-exponential coherence decay in excellent agreement with recent predictions
+by Burkov et al. [Phys. Rev. Lett. 98, 200404 (2007)]. For two coupled 1d Bose
+gases the coherence factor is observed to approach a non-zero equilibrium value
+as predicted by a Bogoliubov approach. This coupled-system decay to finite
+coherence is the matter wave equivalent of phase locking two lasers by
+injection. The non-equilibrium dynamics of superfluids plays an important role
+in a wide range of physical systems, such as superconductors, quantum-Hall
+systems, superfluid Helium, and spin systems. Our experiments studying
+coherence dynamics show that 1d Bose gases are ideally suited for investigating
+this class of phenomena.

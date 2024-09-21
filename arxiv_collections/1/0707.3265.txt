@@ -1,0 +1,9 @@
+Magnetization measurements in superconductor/ferromagnet Nb/Co superlattices
+show a complex behavior as a function of temperature, applied field and sample
+history. In base to a simple model it is shown that this behavior is due to an
+interplay between the superconductor magnetization temperature dependence, the
+ferromagnet magnetization time dependence, and the stray fields of both
+materials. It is also shown that the magnetic state of the Co layers is
+modified by the Nb superconducting response, implying that the problem of a
+superconductor/ferromagnetic heterogeneous sample has to be solved in a
+self-consistent manner.

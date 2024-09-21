@@ -1,0 +1,17 @@
+Autoregressive processes (AR) have typical short-range memory. Detrended
+Fluctuation Analysis (DFA) was basically designed to reveal long range
+correlation in non stationary processes. However DFA can also be regarded as a
+suitable method to investigate both long-range and short range correlation in
+non-stationary and stationary systems. Applying DFA to AR processes can help
+understanding the non uniform correlation structure of such processes. We
+systematically investigated a first order autoregressive model AR(1) by DFA and
+established the relationship between the interaction constant of AR(1) and the
+DFA correlation exponent. The higher the interaction constant the higher is the
+short range correlation exponent. They are exponentially related. The
+investigation was extended to AR(2) processes. The presence of a distant
+positive interaction in addition to a near by interaction will increase the
+correlation exponent and the range of correlation while the effect of a distant
+negative interaction will decrease significantly only the range of interaction.
+This analysis demonstrate the possibility to identify and AR(1) model in an
+unknown DFA plot or to distinguish among AR(1) and AR(2) models. The analysis
+was performed on medium long series of 1000 terms.

@@ -1,0 +1,15 @@
+To reveal how nonequilibrium physics and relativity theory intertwine, this
+articles studies relativistic Brownian motion under cosmic expansion. Two
+fluctuation theorems for the entropy ds, which is locally produced in this
+extreme nonequilibrium situation, are presented and proven. The first,
+<exp(-ds)>=1, is a generalization of the second law of thermodynamics, that
+remains valid at relativistic particle energies and under high cosmic expansion
+rates. From this relation follows, that the probability to observe a local
+reduction of entropy is exponentially small even if the universe was to
+recollapse. For the special case of the Einstein-de Sitter universe an
+additional relation, <exp(-ds-dh)>=1, is derived which holds simultaneously
+with the first relation and where dh is proportional to the Hubble constant.
+Furthermore, the fluctuation theorems are shown to provide a physical criterion
+to resolve the known discretization dilemma arising in special-relativistic
+Brownian motion. Explicit examples and a general method for the computation of
+non-Gaussian entropy fluctuations are provided.

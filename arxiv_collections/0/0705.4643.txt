@@ -1,0 +1,24 @@
+We study the late evolution of solar metallicity stars in the transition
+region between white dwarf formation and core collapse. This includes the
+super-asymptotic giant branch (super-AGB, SAGB) stars, which have massive
+enough cores to ignite carbon burning and form an oxygen-neon (ONe) core. The
+most massive SAGB stars have cores that may grow to the Chandrasekhar mass
+because of continued shell-burning. Their cores collapse, triggering a so
+called electron capture supernovae (ECSN). From stellar evolution models we
+find that the initial mass range for SAGB evolution is 7.5 ... 9.25\msun. We
+perform calculations with three different stellar evolution codes to
+investigate the sensitivity of this mass range to some of the uncertainties in
+current stellar models. The mass range significantly depends on the treatment
+of semiconvective mixing and convective overshooting. To consider the effect of
+a large number of thermal pulses, as expected in SAGB stars, we construct
+synthetic SAGB models that include a semi-analytical treatment of dredge-up,
+hot-bottom burning, and thermal pulse properties. This synthetic model enables
+us to compute the evolution of the main properties of SAGB stars from the onset
+of thermal pulses until the core reaches the Chandrasekhar mass or is uncovered
+by the stellar wind. Thereby, we determine the stellar initial mass ranges that
+produce ONe-white dwarfs and electron-capture supernovae. The latter is found
+to be 9.0 ... 9.25\msun for our fiducial model, implying that electron-capture
+supernovae would constitute about 4% of all supernovae in the local universe.
+Our synthetic approach allows us to explore the uncertainty of this number
+imposed by uncertainties in the third dredge-up efficiency and ABG mass loss
+rate. We find for ECSNe a upper limit of ~20% of all supernovae (abridged).

@@ -1,0 +1,7 @@
+A closed Riemannian manifold is said to have cross blocking if whenever
+distinct points p and q are at distance less than the diameter, all light rays
+from p can be shaded away from q with at most two point shades. Similarly, a
+closed Riemannian manifold is said to have sphere blocking if for each point p,
+all the light rays from p are shaded away from p by a single point shade. We
+prove that Riemannian manifolds with cross and sphere blocking are isometric to
+round spheres.

@@ -1,0 +1,15 @@
+With the aid of the Keldysh technique we develop a microscopic theory of
+non-local electron transport in three-terminal NSN structures consisting of a
+chaotic superconducting quantum dot attached to one superconducting and two
+normal electrodes. Our theory fully accounts for non-equilibrium effects and
+disorder in a superconducting terminal. We go beyond perturbation theory in
+tunneling and derive a general expression for the system conductance matrix
+which remains valid in both weak and strong tunneling limits. We demonstrate
+that the proximity effect yields a decrease of crossed Andreev reflection
+(CAR). Beyond weak tunneling limit the contribution of CAR to the non-local
+conductance does not cancel that of direct electron transfer between two normal
+terminals. We argue that temperature dependence of the non-local resistance of
+NSN devices is determined by the two competing processes -- Andreev reflection
+and charge imbalance -- and it has a pronounced peak occurring at the crossover
+between these two processes. This behavior is in a good agreement with recent
+experimental observations.

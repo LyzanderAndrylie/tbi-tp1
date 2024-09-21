@@ -1,0 +1,12 @@
+We study the dynamics of Bose-Einstein condensates flowing in optical
+lattices on the basis of quantum field theory. For such a system, a
+Bose-Einstein condensate shows a unstable behavior which is called the
+dynamical instability. The unstable system is characterized by the appearance
+of modes with complex eigenvalues. Expanding the field operator in terms of
+excitation modes including complex ones, we attempt to diagonalize the
+unperturbative Hamiltonian and to find its eigenstates. It turns out that
+although the unperturbed Hamiltonian is not diagonalizable in the conventional
+bosonic representation the appropriate choice of physical states leads to a
+consistent formulation. Then we analyze the dynamics of the system in the
+regime of the linear response theory. Its numerical results are consitent with
+as those given by the discrete nonlinear Schrodinger equation.

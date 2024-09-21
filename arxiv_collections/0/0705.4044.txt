@@ -1,0 +1,16 @@
+We study the critical behavior of magnetic thin films as a function of the
+film thickness. We use the ferromagnetic Ising model with the high-resolution
+multiple histogram Monte Carlo (MC) simulation. We show that though the 2D
+behavior remains dominant at small thicknesses, there is a systematic
+continuous deviation of the critical exponents from their 2D values. We observe
+that in the same range of varying thickness the deviation of the exponent $\nu$
+is very small from its 2D value, while exponent $\beta$ suffers a larger
+deviation. Moreover, as long as the film thickness is fixed, i. e. no finite
+size scaling is done in the $z$ direction perpendicular to the film, the 3D
+values of the critical exponents cannot be attained even with very large (but
+fixed) thickness. The crossover to 3D universality class cannot therefore take
+place without finite size scaling applied in the $z$ direction, in the limit of
+numerically accessible thicknesses. From values of exponent $\alpha$ obtained
+by MC, we estimate the effective dimension of the system. We conclude that with
+regard to the critical behavior, thin films behave as systems with effective
+dimension between 2 and 3.

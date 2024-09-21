@@ -1,0 +1,11 @@
+We classify complactly generated t-structures on the derived category of
+modules over a commutative Noetherian ring R in terms of decreasing filtrations
+by supports on Spec(R). A decreasing filtration by supports \phi : Z -> Spec(R)
+satisfies the weak Cousin condition if for any integer i \in Z, the set \phi(i)
+contains all the inmediate generalizations of each point in \phi(i+1). Every
+t-structure on D^b_fg(R) (equivalently, on D^-_fg(R)) is induced by complactly
+generated t-structures on D(R) whose associated filtrations by supports satisfy
+the weak Cousin condition. If the ring R has dualizing complex we prove that
+these are exactly the t-structures on D^b_fg(R). More generally, if R has a
+pointwise dualizing complex we classify all compactly generated t-structures on
+D_fg(R).

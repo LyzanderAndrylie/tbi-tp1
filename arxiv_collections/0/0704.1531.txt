@@ -1,0 +1,10 @@
+The exact formula for the neutrino oscillation probability in matter with
+constant density, which was discovered by Kimura, Takamura and Yokomakura, has
+been applied mostly to the standard case with three flavor neutrino so far. In
+this paper applications of their formula to more general cases are discussed.
+It is shown that this formalism can be generalized to various cases where the
+matter potential have off-diagonal components, and the two non-trivial examples
+are given: the case with magnetic moments and a magnetic field and the case
+with non-standard interactions. It is pointed out that their formalism can be
+applied also to the case in the long baseline limit with matter whose density
+varies adiabatically as in the case of solar neutrino.

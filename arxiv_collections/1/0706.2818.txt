@@ -1,0 +1,12 @@
+A simple lattice model, recently introduced as a generalization of the
+Wako--Sait\^o model of protein folding, is used to investigate the properties
+of widely studied molecules under external forces. The equilibrium properties
+of the model proteins, together with their energy landscape, are studied on the
+basis of the exact solution of the model. Afterwards, the kinetic response of
+the molecules to a force is considered, discussing both force clamp and dynamic
+loading protocols and showing that theoretical expectations are verified. The
+kinetic parameters characterizing the protein unfolding are evaluated by using
+computer simulations and agree nicely with experimental results, when these are
+available. Finally, the extended Jarzynski equality is exploited to investigate
+the possibility of reconstructing the free energy landscape of proteins with
+pulling experiments.

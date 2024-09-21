@@ -1,0 +1,6 @@
+Recent calculations of collisionless, Case-B, He I emissivities were
+performed by Bauman et al. (2005). The source code used in the calculation has
+been freely available online since that paper was published. A number of
+changes have been made to simplify the use of the code by third parties. Here I
+provide details on how to obtain, compile, and execute the program and
+interpret the results.

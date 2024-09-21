@@ -1,0 +1,21 @@
+We propose two novel experiments on the measurement of the Casimir force
+acting between a gold coated sphere and semiconductor plates with markedly
+different charge carrier densities. In the first of these experiments a
+patterned Si plate is used which consists of two sections of different dopant
+densities and oscillates in the horizontal direction below a sphere. The
+measurement scheme in this experiment is differential, i.e., allows the direct
+high-precision measurement of the difference of the Casimir forces between the
+sphere and sections of the patterned plate or the difference of the equivalent
+pressures between Au and patterned parallel plates with static and dynamic
+techniques, respectively. The second experiment proposes to measure the Casimir
+force between the same sphere and a VO${}_2$ film which undergoes the
+insulator-metal phase transition with the increase of temperature. We report
+the present status of the interferometer based variable temperature apparatus
+developed to perform both experiments and present the first results on the
+calibration and sensitivity. The magnitudes of the Casimir forces and pressures
+in the experimental configurations are calculated using different theoretical
+approaches to the description of optical and conductivity properties of
+semiconductors at low frequencies proposed in the literature. It is shown that
+the suggested experiments will aid in the resolution of theoretical problems
+arising in the application of the Lifshitz theory at nonzero temperature to
+real materials. They will also open new opportunities in nanotechnology.

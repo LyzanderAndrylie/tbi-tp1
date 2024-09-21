@@ -1,0 +1,19 @@
+We consider the generalized evolution of compact level sets by functions of
+their normal vectors and second fundamental forms on a Riemannian manifold M.
+The level sets of a function $u:M\to\mathbb{R}$ evolve in such a way whenever u
+solves an equation $u_{t}+F(Du, D^{2}u)=0$, for some real function F satisfying
+a geometric condition. We show existence and uniqueness of viscosity solutions
+to this equation under the assumptions that M has nonnegative curvature, F is
+continuous off Du=0, (degenerate) elliptic, and locally invariant by parallel
+translation. We then prove that this approach is geometrically consistent,
+hence it allows to define a generalized evolution of level sets by very
+general, singular functions of their curvatures. For instance, these
+assumptions on F are satisfied when F is given by the evolutions of level sets
+by their mean curvature (even in arbitrary codimension) or by their positive
+Gaussian curvature. We also prove that the generalized evolution is consistent
+with the classical motion by the corresponding function of the curvature,
+whenever the latter exists. When M is not of nonnegative curvature, the same
+results hold if one additionally requires that F is uniformly continuous with
+respect to D^2 u. Finally we give some counterexamples showing that several
+well known properties of the evolutions in $\mathbb{R}^{n}$ are no longer true
+when M has negative sectional curvature.

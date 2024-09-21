@@ -1,0 +1,17 @@
+We present a measurement of moments of the inclusive hadronic-mass and
+-energy spectrum in semileptonic $\bar{B} \to X_{c} \ell^{-} \bar{\nu}$ decays.
+This study is based on a sample of 232 million $\Upsilon(4S) \to B\bar{B}$
+decays recorded by the BABAR detector at the PEP-II $e^+e^-$-storage rings. We
+reconstruct the semileptonic decay by identifying a lepton in events tagged by
+a fully reconstructed hadronic decay of the second $B$ meson. We report
+preliminary results for the moments $<m_X^k>$ with $k=1,...,6$ and $<n_X^k>$
+with $k=2,4,6$ and $n_X^2 = m_X^2 c^4 - 2 \tilde{\Lambda} E_X +
+\tilde{\Lambda}^2$, with $m_X$ the mass of the hadronic system, $E_X$ its
+energy, and $\tilde\Lambda$ a constant of $0.65 \mathrm{GeV}$, for different
+minimal lepton momenta between 0.8 and $1.9 \mathrm{GeV}/c$ measured in the
+$B$-meson rest frame. These are predicted in the framework of a Heavy Quark
+Expansion (HQE), which allows the extraction of the total semileptonic
+branching fraction, the CKM-matrix element $|V_{cb}|$, and the quark masses
+$m_b$ and $m_c$, together with the dominant non-perturbative HQE parameters. We
+find as preliminary results $|V_{cb}| = (41.88 \pm 0.81) \cdot 10^{-3}$ and
+$m_b = (4.552 \pm 0.055) \mathrm{GeV}/c^2$.

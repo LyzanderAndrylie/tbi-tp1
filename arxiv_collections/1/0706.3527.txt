@@ -1,0 +1,15 @@
+The extension of quantum trajectory theory to incorporate realistic
+imperfections in the measurement of solid-state qubits is important for quantum
+computation, particularly for the purposes of state preparation and
+error-correction as well as for readout of computations. Previously this has
+been achieved for low-frequency (dc) weak measurements. In this paper we extend
+realistic quantum trajectory theory to include radio frequency (rf) weak
+measurements where a low-transparency quantum point contact (QPC), coupled to a
+charge qubit, is used to damp a classical oscillator circuit. The resulting
+realistic quantum trajectory equation must be solved numerically. We present an
+analytical result for the limit of large dissipation within the oscillator
+(relative to the QPC), where the oscillator slaves to the qubit. The rf+dc mode
+of operation is considered. Here the QPC is biased (dc) as well as subjected to
+a small-amplitude sinusoidal carrier signal (rf). The rf+dc QPC is shown to be
+a low-efficiency charge-qubit detector, that may nevertheless be higher than
+the dc-QPC (which is subject to 1/f noise).

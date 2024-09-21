@@ -1,0 +1,19 @@
+The one-step replica symmetry breaking (RSB) is used to study a
+two-sublattice fermionic infinite-range Ising spin glass (SG) model in a
+transverse field $\Gamma$. The problem is formulated in a Grassmann path
+integral formalism within the static approximation. In this model, a parallel
+magnetic field $H$ breaks the symmetry of the sublattices. It destroys the
+antiferromagnetic (AF) order, but it can favor the nonergodic mixed phase
+(SG+AF) characterizing an asymmetric RSB region. In this region,
+intra-sublattice disordered interactions $V$ increase the difference between
+the RSB solutions of each sublattice. The freezing temperature shows a higher
+increase with $H$ when $V$ enhances. A discontinue phase transition from the
+replica symmetry (RS) solution to the RSB solution can appear with the presence
+of an intra-sublattice ferromagnetic average coupling. The $\Gamma$ field
+introduces a quantum spin flip mechanism that suppresses the magnetic orders
+leading them to quantum critical points. Results suggest that the quantum
+effects are not able to restore the RS solution. However, in the asymmetric RSB
+region, $\Gamma$ can produce a stable RS solution at any finite temperature for
+a particular sublattice while the other sublattice still presents RSB solution
+for the special case in which only the intra-sublattice spins couple with
+disordered interactions.

@@ -1,0 +1,8 @@
+Let G be a smooth algebraic group acting on a variety X. Let F and E be
+coherent sheaves on X. We show that if all the higher Tor sheaves of F against
+G-orbits vanish, then for generic g in G, the sheaf Tor^X_j(gF, E) vanishes for
+all j >0. This generalizes a result of Miller and Speyer for transitive group
+actions and a result of Speiser, itself generalizing the classical
+Kleiman-Bertini theorem, on generic transversality, under a general group
+action, of smooth subvarieties over an algebraically closed field of
+characteristic 0.

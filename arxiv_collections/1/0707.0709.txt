@@ -1,0 +1,10 @@
+We study a Bose-Einstein condensate (BEC) of a dilute gas with dipolar
+interactions, at finite temperature, using the Hartree-Fock-Bogoliubov (HFB)
+theory within the Popov approximation. An additional approximation involving
+the dipolar exchange interaction is made to facilitate the computation. We
+calculate the temperature dependence of the condensate fraction of a condensate
+confined in a cylindrically symmetric harmonic trap. We show that the
+bi-concave shaped condensates found in Ref. \cite{Ronen07} in certain pancake
+traps at zero temperature, are also stable at finite temperature. Surprisingly,
+the dip in the central density of these structured condensates is actually
+enhanced at low finite temperatures. We explain this effect.

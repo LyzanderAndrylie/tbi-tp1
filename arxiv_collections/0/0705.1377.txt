@@ -1,0 +1,22 @@
+The dynamic scaling properties of the one dimensional Burgers equation are
+expected to change with the inclusion of additional conserved degrees of
+freedom. We study this by means of 1-D driven lattice gas models that conserve
+both mass and momentum. The most elementary version of this is the
+Arndt-Heinzel-Rittenberg (AHR) process, which is usually presented as a two
+species diffusion process, with particles of opposite charge hopping in
+opposite directions and with a variable passing probability.
+  From the hydrodynamics perspective this can be viewed as two coupled Burgers
+equations, with the number of positive and negative momentum quanta
+individually conserved. We determine the dynamic scaling dimension of the AHR
+process from the time evolution of the two-point correlation functions, and
+find numerically that the dynamic critical exponent is consistent with simple
+Kardar-Parisi-Zhang (KPZ) type scaling. We establish that this is the result of
+perfect screening of fluctuations in the stationary state. The two-point
+correlations decay exponentially in our simulations and in such a manner that
+in terms of quasi-particles, fluctuations fully screen each other at coarse
+grained length scales. We prove this screening rigorously using the analytic
+matrix product structure of the stationary state. The proof suggests the
+existence of a topological invariant. The process remains in the KPZ
+universality class but only in the sense of a factorization, as $({KPZ})^2$.
+The two Burgers equations decouple at large length scales due to the perfect
+screening.

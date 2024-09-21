@@ -1,0 +1,23 @@
+We present a detailed analysis of the prompt and afterglow emission of GRB
+050410 and GRB 050412 detected by Swift for which no optical counterpart was
+observed. The 15-150 keV energy distribution of the GRB 050410 prompt emission
+shows a peak energy at 53 keV. The XRT light curve of this GRB decays as a
+power law with a slope of alpha=1.06+/-0.04. The spectrum is well reproduced by
+an absorbed power law with a spectral index Gamma_x=2.4+/-0.4 and a low energy
+absorption N_H=4(+3;-2)x10^21 cm^(-2) which is higher than the Galactic value.
+The 15-150 keV prompt emission in GRB 050412 is modelled with a hard
+(Gamma=0.7+/-0.2) power law. The XRT light curve follows a broken power law
+with the first slope alpha_1=0.7+/-0.4, the break time T_break=254(-41;+79) s
+and the second slope alpha_2=2.8(-0.8;+0.5). The spectrum is fitted by a power
+law with spectral index Gamma_x=1.3+/-0.2 which is absorbed at low energies by
+the Galactic column. The GRB 050410 afterglow reveals the expected
+characteristics of the third component of the canonical Swift light curve.
+Conversely, a complex phenomenology was detected in the GRB 050412 because of
+the presence of the very early break. The light curve in this case can be
+interpreted as being the last peak of the prompt emission. The two bursts
+present tight upper limits for the optical emission, however, neither of them
+can be clearly classified as dark. For GRB 050410, the suppression of the
+optical afterglow could be attributed to a low density interstellar medium
+surrounding the burst. For GRB 050412, the evaluation of the darkness is more
+difficult due to the ambiguity in the extrapolation of the X-ray afterglow
+light curve.

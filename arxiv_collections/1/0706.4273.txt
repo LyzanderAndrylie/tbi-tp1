@@ -1,0 +1,8 @@
+Electrically generated spin accumulation due to the spin Hall effect is
+imaged in n-GaAs channels using Kerr rotation microscopy, focusing on its
+spatial distribution and time-averaged behavior in a magnetic field.
+Spatially-resolved imaging reveals that spin accumulation observed in
+transverse arms develops due to longitudinal drift of spin polarization
+produced at the sample boundaries. One- and two-dimensional drift-diffusion
+modeling is used to explain these features, providing a more complete
+understanding of observations of spin accumulation and the spin Hall effect.

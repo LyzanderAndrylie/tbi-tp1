@@ -1,0 +1,7 @@
+We propose a two-color scheme of atom guide and 1D optical lattice using
+evanescent light fields of different transverse modes. The optical waveguide
+carries a red-detuned light and a blue-detuned light, with both modes far from
+resonance. The atom guide and 1D optical lattice potentials can be transformed
+to each other by using a Mach-Zehnder interferometer to accurately control mode
+transformation. This might provide a new approach to realize flexible
+transition between the guiding and trapping states of atoms.

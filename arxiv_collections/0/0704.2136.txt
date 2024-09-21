@@ -1,0 +1,19 @@
+We investigate colour selection techniques for high redshift galaxies in the
+UKIDSS Ultra Deep Survey Early Data Release (UDS EDR). Combined with very deep
+Subaru optical photometry, the depth (K_AB = 22.5) and area (0.62 deg^2) of the
+UDS EDR allows us to investigate optical/near-IR selection using a large sample
+of over 30,000 objects. By using the B-z, z-K colour-colour diagram (the BzK
+technique) we identify over 7500 candidate galaxies at z > 1.4, which can be
+further separated into passive and starforming systems (pBzK and sBzK
+respectively). Our unique sample allows us to identify a new feature not
+previously seen in BzK diagrams, consistent with the passively evolving track
+of early type galaxies at z < 1.4. We also compare the BzK technique with the
+R-K colour selection of Extremely Red Objects (EROs) and the J-K selection of
+Distant Red Galaxies (DRGs), and quantify the overlap between these
+populations. We find that the majority of DRGs, at these relatively bright
+magnitudes are also EROs. Since previous studies have found that DRGs at these
+magnitudes have redshifts of z ~ 1 we determine that these DRG/ERO galaxies
+have SEDs consistent with being dusty star-forming galaxies or AGN at z < 2.
+Finally we observe a flattening in the number counts of pBzK galaxies, similar
+to other studies, which may indicate that we are sampling the luminosity
+function of passive z > 1 galaxies over a narrow redshift range.

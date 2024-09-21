@@ -1,0 +1,8 @@
+We prove that a customary Sturm-Liouville form of second-order $q$-difference
+equation for the continuous $q$-ultraspherical polynomials $C_n(x;\beta| q)$ of
+Rogers can be written in a factorized form in terms of some explicitly defined
+$q$-difference operator ${\mathcal D}_x^{\beta, q}$. This reveals the fact that
+the continuous $q$-ultraspherical polynomials $C_n(x;\beta| q)$ are actually
+governed by the $q$-difference equation ${\mathcal D}_x^{\beta, q} C_n(x;\beta|
+q)= (q^{-n/2}+\beta q^{n/2}) C_n(x;\beta| q)$, which can be regarded as a
+square root of the equation, obtained from its original form.

@@ -1,0 +1,12 @@
+Inelastic effects in the Coulomb blockade and Kondo regimes of electron
+transport through molecular junctions are considered within a simple
+nonequilibrium equation-of-motion (EOM) approach. The scheme is
+self-consistent, and can qualitatively reproduce the main experimental
+observations of vibrational features in Coulomb blockade [H.Park et al., Nature
+407, 57 (2000)] and Kondo [L.H.Yu et al., Phys. Rev. Lett. 93, 266802 (2004)]
+regimes. Considerations similar to the equilibrium EOM approach by Meir et al.
+[Phys. Rev. Lett. 66, 3048 (1991); ibid. 70, 2601 (1993)] are used on the
+Keldysh contour to account for the nonequilibrium nature of the junction, and
+dressing by appropriate Franck-Condon (FC) factors is used to account for
+vibrational features. Results of the equilibrium EOM scheme by Meir et al. are
+reproduced in the appropriate limit.

@@ -1,0 +1,6 @@
+We reduce the question whether a given quantum mixed state is separable or
+entangled to the problem of existence of a certain full family of commuting
+normal matrices whose matrix elements are partially determined by components of
+the pure states constituting a decomposition of the considered mixture. The
+method reproduces many known entanglement and/or separability criteria, and
+provides yet another geometrical characterization of mixed separable states.

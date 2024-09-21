@@ -1,0 +1,8 @@
+Developing intuition about quantum information theory problems is difficult,
+as is verifying or ruling-out of hypothesis. We present a Matlab package
+intended to provide the QIT community with a new and powerful tool-set for
+quantum information theory calculations. The package covers most of the "QI
+textbook" and includes novel parametrization of quantum objects and a robust
+optimization mechanism. New ways of re-examining well-known results is
+demonstrated. QLib is designed to be further developed and enhanced by the
+community and is available for download at www.qlib.info

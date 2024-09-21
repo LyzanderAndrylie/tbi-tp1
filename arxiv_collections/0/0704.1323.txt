@@ -1,0 +1,9 @@
+We study the three-dimensional compact U(1) lattice gauge theory with $N$
+Higgs fields numerically. This model is relevant to multi-component
+superconductors, antiferromagnetic spin systems in easy plane, inflational
+cosmology, etc. For N=2, the system has a second-order phase transition line
+$\tilde{c}_1(c_2)$ in the $c_2$(gauge coupling)$-c_1$(Higgs coupling) plane,
+which separates the confinement phase and the Higgs phase. For N=3, the
+critical line is separated into two parts; one for $c_2 \alt 2.25$ with
+first-order transitions, and the other for $c_2 \agt 2.25$ with second-order
+transitions.

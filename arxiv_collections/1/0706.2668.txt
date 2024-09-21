@@ -1,0 +1,8 @@
+A simple model is applied to study a high temperature rather dense plasma
+ball. It is assumed that the ions and delocalized electrons are distributed
+uniformly throughout the ball, and extra/missing charge is found in a thin
+layer on the surface of a ball. It is shown in the framework of this model that
+regarded plasma ball can be relatively stable as a metastable state.
+Calculations show that electrostatic forces, repulsive forces between the ions,
+and atmospheric pressure can provide stability of a plasma ball. Presented
+model could be useful to understand the nature of a ball lightning.

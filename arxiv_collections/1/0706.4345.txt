@@ -1,0 +1,9 @@
+We calculate the temperature dependence of NMR relaxation rate and electrical
+resistivity for coupling to a local, strongly anharmonic phonon mode. We argue
+that the two-phonon Raman process is dominating NMR relaxation. Due to the
+strong anharmonicity of the phonon an unusual temperature dependence is found
+having a low temperature peak and becoming constant towards higher
+temperatures. The electrical resistivity is found to vary like T^2 at low
+temperatures and following a sqrt{T} behavior at high temperatures. Both
+results are in qualitative agreement with recent observations on
+beta-pyrochlore oxide superconductors.

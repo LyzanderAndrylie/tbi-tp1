@@ -1,0 +1,17 @@
+Cancer results from genetic alterations that disturb the normal cooperative
+behavior of cells. Recent high-throughput genomic studies of cancer cells have
+shown that the mutational landscape of cancer is complex and that individual
+cancers may evolve through mutations in as many as 20 different
+cancer-associated genes. We use data published by Sjoblom et al. (2006) to
+develop a new mathematical model for the somatic evolution of colorectal
+cancers. We employ the Wright-Fisher process for exploring the basic parameters
+of this evolutionary process and derive an analytical approximation for the
+expected waiting time to the cancer phenotype. Our results highlight the
+relative importance of selection over both the size of the cell population at
+risk and the mutation rate. The model predicts that the observed genetic
+diversity of cancer genomes can arise under a normal mutation rate if the
+average selective advantage per mutation is on the order of 1%. Increased
+mutation rates due to genetic instability would allow even smaller selective
+advantages during tumorigenesis. The complexity of cancer progression thus can
+be understood as the result of multiple sequential mutations, each of which has
+a relatively small but positive effect on net cell growth.

@@ -1,0 +1,20 @@
+A charge injection technique is applied to the X-ray CCD camera, XIS (X-ray
+Imaging Spectrometer) onboard Suzaku. The charge transfer inefficiency (CTI) in
+each CCD column (vertical transfer channel) is measured by the injection of
+charge packets into a transfer channel and subsequent readout. This paper
+reports the performances of the charge injection capability based on the ground
+experiments using a radiation damaged device, and in-orbit measurements of the
+XIS. The ground experiments show that charges are stably injected with the
+dispersion of 91eV in FWHM in a specific column for the charges equivalent to
+the X-ray energy of 5.1keV. This dispersion width is significantly smaller than
+that of the X-ray events of 113eV (FWHM) at approximately the same energy. The
+amount of charge loss during transfer in a specific column, which is measured
+with the charge injection capability, is consistent with that measured with the
+calibration source. These results indicate that the charge injection technique
+can accurately measure column-dependent charge losses rather than the
+calibration sources. The column-to-column CTI correction to the calibration
+source spectra significantly reduces the line widths compared to those with a
+column-averaged CTI correction (from 193eV to 173eV in FWHM on an average at
+the time of one year after the launch). In addition, this method significantly
+reduces the low energy tail in the line profile of the calibration source
+spectrum.

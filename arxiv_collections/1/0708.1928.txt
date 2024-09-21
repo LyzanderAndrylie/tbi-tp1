@@ -1,0 +1,10 @@
+Thermal shape fluctuations of grafted microtubules were studied using high
+resolution particle tracking of attached fluorescent beads. First mode
+relaxation times were extracted from the mean square displacement in the
+transverse coordinate. For microtubules shorter than 10 um, the relaxation
+times were found to follow an L^2 dependence instead of L^4 as expected from
+the standard wormlike chain model. This length dependence is shown to result
+from a complex length dependence of the bending stiffness which can be
+understood as a result of the molecular architecture of microtubules. For
+microtubules shorter than 5 um, high drag coefficients indicate contributions
+from internal friction to the fluctuation dynamics.

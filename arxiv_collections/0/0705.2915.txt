@@ -1,0 +1,8 @@
+We introduce a theory of jeu de taquin for increasing tableaux, extending
+fundamental work of [Sch\"{u}tzenberger '77] for standard Young tableaux. We
+apply this to give a new combinatorial rule for the K-theory Schubert calculus
+of Grassmannians via K-theoretic jeu de taquin, providing an alternative to the
+rules of [Buch '02] and others. This rule naturally generalizes to give a
+conjectural root-system uniform rule for any minuscule flag variety G/P,
+extending [Thomas-Yong '06]. We also present analogues of results of Fomin,
+Haiman, Schensted and Sch\"{u}tzenberger.

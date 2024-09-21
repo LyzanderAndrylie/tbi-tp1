@@ -1,0 +1,15 @@
+We consider Higgs boson production by gluon fusion in hadron collisions. We
+study the doubly-differential transverse-momentum (q_T) and rapidity (y)
+distribution of the Higgs boson in perturbative QCD. In the region of small q_T
+(q_T << M_H, M_H being the mass of the Higgs boson), we include the effect of
+logarithmically-enhanced contributions due to multiparton radiation to all
+perturbative orders. We use the impact parameter and double Mellin moments to
+implement and factorize the multiparton kinematics constraint of transverse-
+and longitudinal-momentum conservation. The logarithmic terms are then
+systematically resummed in exponential form. At small q_T, we perform the
+all-order resummation of large logarithms up to next-to-next-to-leading
+logarithmic accuracy, while at large q_T (q_T ~ M_H), we apply a matching
+procedure that recovers the fixed-order perturbation theory up to
+next-to-leading order. We present quantitative results for the differential
+cross section in q_T and y at the LHC, and we comment on the comparison with
+the q_T cross section integrated over y.

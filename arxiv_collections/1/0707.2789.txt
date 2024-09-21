@@ -1,0 +1,8 @@
+We present the exact solution of the Falicov-Kimball model after a sudden
+change of its interaction parameter using non-equilibrium dynamical mean-field
+theory. For different interaction quenches between the homogeneous metallic and
+insulating phases the system relaxes to a non-thermal steady state on time
+scales on the order of hbar/bandwidth, showing collapse and revival with an
+approximate period of h/interaction if the interaction is large. We discuss the
+reasons for this behavior and provide a statistical description of the final
+steady state by means of generalized Gibbs ensembles.

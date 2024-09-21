@@ -1,0 +1,8 @@
+We compute energy distributions of three particles emerging from decaying
+many-body resonances. We reproduce the measured energy distributions from
+decays of two archetypal states chosen as the lowest $0^{+}$ and
+$1^{+}$-resonances in $^{12}$C populated in $\beta$-decays. These states are
+dominated by sequential, through the $^{8}$Be ground state, and direct decays,
+respectively. These decay mechanisms are reflected in the ``dynamic'' evolution
+from small, cluster or shell-model states, to large distances, where the
+coordinate or momentum space continuum wavefunctions are accurately computed.

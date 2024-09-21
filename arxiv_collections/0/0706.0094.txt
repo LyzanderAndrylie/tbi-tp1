@@ -1,0 +1,5 @@
+In these lectures I will review some theoretical results that have been
+obtained for spin glasses. I will concentrate my attention on the formulation
+of the mean field approach and on its numerical and experimental verifications.
+I will present the various hypothesis at the basis of the theory and I will
+discuss their mathematical and physical status.

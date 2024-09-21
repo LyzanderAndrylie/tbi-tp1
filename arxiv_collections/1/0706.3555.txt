@@ -1,0 +1,5 @@
+Formulae of Berezin and Karpelevic for the radial parts of invariant
+differential operators and the spherical function on a complex Grassmann
+manifold are generalized to the hypergeometric functions associated with root
+system of type $BC_n$ under condition that the multiplicity of the middle roots
+is zero or one.

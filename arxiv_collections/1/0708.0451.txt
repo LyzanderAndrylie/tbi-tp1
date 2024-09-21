@@ -1,0 +1,21 @@
+We study s-wave superconductivity in the two-dimensional square lattice
+attractive Hubbard Hamiltonian for various inhomogeneous patterns of
+interacting sites. Using the Bogoliubov-de Gennes (BdG) mean field
+approximation, we obtain the phase diagram for inhomogeneous patterns in which
+the on-site attractive interaction U_i between the electrons takes on two
+values, U_i=0 and -U/(1-f) (with f the concentration of non-interacting sites)
+as a function of average electron occupation per site n, and study the
+evolution of the phase diagram as f varies. In certain regions of the phase
+diagram, inhomogeneity results in a larger zero temperature average pairing
+amplitude (order parameter) and also a higher superconducting (SC) critical
+temperature T_c, relative to a uniform system with the same mean interaction
+strength (U_i=-U on all sites). These effects are observed for stripes,
+checkerboard, and even random patterns of the attractive centers, suggesting
+that the pattern of inhomogeneity is unimportant. The phase diagrams also
+include regions where superconductivity is obliterated due to the formation of
+various charge ordered phases. The enhancement of T_{c} due to inhomogeneity is
+robust as long as the electron doping per site n is less than twice the
+fraction of interacting sites [2(1-f)] regardless of the pattern. We also show
+that for certain inhomogeneous patterns, when n = 2(1-f), increasing
+temperature can work against the stability of existing charge ordered phases
+for large f and as a result, enhance T_{c}.

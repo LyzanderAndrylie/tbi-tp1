@@ -1,0 +1,9 @@
+The long-ranged elastic model, which is believed to describe the evolution of
+a self-affine rough crack-front, is analyzed to linear and non-linear orders.
+It is shown that the nonlinear terms, while important in changing the front
+dynamics, are not changing the scaling exponent which characterizes the
+roughness of the front. The scaling exponent thus predicted by the model is
+much smaller than the one observed experimentally. The inevitable conclusion is
+that the gap between the results of experiments and the model that is supposed
+to describe them is too large, and some new physics has to be invoked for
+another model.

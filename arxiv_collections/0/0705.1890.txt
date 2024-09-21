@@ -1,0 +1,19 @@
+A microscopic analysis of the superconducting quantum critical point realized
+via a pair-breaking quantum phase transition is presented. Finite temperature
+crossovers are derived for the electrical conductivity, which is a key probe of
+superconducting fluctuations. By using the diagrammatic formalism for
+disordered systems, we are able to incorporate the interplay between
+fluctuating Cooper pairs and electrons, that is outside the scope of a
+time-dependent Ginzburg Landau or effective bosonic action formalism. It is
+essential to go beyond the standard approximation in order to capture the zero
+temperature correction which results purely from the (dynamic) quantum
+fluctuations and dictates the behavior of the conductivity in an entire low
+temperature quantum regime. All dynamic contributions are of the same order and
+conspire to add up to a negative total, thereby inhibiting the conductivity as
+a result of superconducting fluctuations. On the contrary, the classical and
+the intermediate regimes are dominated by the positive bosonic channel. Our
+theory is applicable in one, two and three dimensions and is relevant for
+experiments on superconducting nanowires, doubly-connected cylinders, thin
+films and bulk in the presence of magnetic impurities, magnetic field or other
+pair-breakers. A window of non-monotonic behavior is predicted to exist as
+either the temperature or the pair-breaking parameter is swept.

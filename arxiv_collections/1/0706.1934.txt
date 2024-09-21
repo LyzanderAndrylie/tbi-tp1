@@ -1,0 +1,10 @@
+The NA60 experiment has measured low-mass muon pair production in In-In
+collisions at 158 A GeV with unprecedented precision. We show that this data is
+reproduced very well by a dynamical model with parameters scaled from fits to
+measurements of hadronic transverse mass spectra and Hanbury-Brown and Twiss
+correlations in Pb-Pb and Pb-Au collisions at the same energy. The data is
+consistent with in-medium properties of $\rho$ and $\omega$-mesons at finite
+temperature and density as deduced from empirical forward-scattering
+amplitudes. Inclusion of the vacuum decay of the $\rho$-meson after freeze-out
+is necessary for an understanding of the mass and transverse momentum spectrum
+of dimuons with $M \apprle 0.9 {\rm GeV}/c^2$.

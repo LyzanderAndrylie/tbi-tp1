@@ -1,0 +1,6 @@
+The method for the recursive calculation of the effective potential is
+applied successfully in case of weak coupling limit (g tend to zero) to a
+multidimensional complex cubic potential. In strong-coupling limit (g tend to
+infinity), the result is resumed using the variational perturbation theory
+(VPT). It is found that the convergence of VPT-results approaches those
+expected.

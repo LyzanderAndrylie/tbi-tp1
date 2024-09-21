@@ -1,0 +1,6 @@
+We calculate the volume dependence of the ground-state energy of n identical
+bosons with short-range repulsive interactions in a periodic spatial volume of
+side L, up to and including terms of order 1/L^6. With this result, Lattice QCD
+calculations of the ground-state energies of three or more pions will allow for
+a systematic extraction of the three-pion interaction at this order in the
+volume expansion.

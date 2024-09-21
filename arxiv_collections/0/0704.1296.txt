@@ -1,0 +1,7 @@
+We discuss prospects of using multi-dimensional time-dependent simulations to
+study the atmospheres of brown dwarfs and extrasolar giant planets, including
+the processes of convection, radiation, dust formation, and rotation. We argue
+that reasonably realistic simulations are feasible, however, separated into two
+classes of local and global models. Numerical challenges are related to
+potentially large dynamic ranges, and the treatment of scattering of radiation
+in multi-D geometries.

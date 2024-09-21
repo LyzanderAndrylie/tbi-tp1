@@ -1,0 +1,14 @@
+A solution to the equivalence problem in three-dimensional gravity is given
+and a practically useful method to obtain a coordinate invariant description of
+local geometry is presented. The method is a nontrivial adaptation of Karlhede
+invariant classification of spacetimes of general relativity. The local
+geometry is completely determined by the curvature tensor and a finite number
+of its covariant derivatives in a frame where the components of the metric are
+constants. The results are presented in the framework of real two-component
+spinors in three-dimensional spacetimes, where the algebraic classifications of
+the Ricci and Cotton-York spinors are given and their isotropy groups and
+canonical forms are determined. As an application we discuss Goedel-type
+spacetimes in three-dimensional General Relativity. The conditions for local
+space and time homogeneity are derived and the equivalence of three-dimensional
+Goedel-type spacetimes is studied and the results are compared with previous
+works on four-dimensional Goedel-type spacetimes.

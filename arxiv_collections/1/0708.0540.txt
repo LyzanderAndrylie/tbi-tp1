@@ -1,0 +1,14 @@
+We have investigated the effect of the magnetic field (B) on the very
+low-temperature equilibrium heat capacity ceq of the quasi-1 D organic compound
+(TMTTF)2Br, characterized by a commensurate Spin Density Wave (SDW) ground
+state. Below 1K, ceq is dominated by a Schottky-like contribution, very
+sensitive to the experimental time scale, a property that we have previously
+measured in numerous DW compounds. Under applied field (in the range 0.2- 7 T),
+the equilibrium dynamics, and hence ceq extracted from the time constant,
+increases enormously. For B = 2-3 T, ceq varies like B2, in agreement with a
+magnetic Zeeman coupling. Another specific property, common to other
+Charge/Spin density wave (DW) compounds, is the occurrence of metastable
+branches in ceq, induced at very low temperature by the field exceeding a
+critical value. These effects are discussed within a generalization to SDWs in
+a magnetic field of the available Larkin-Ovchinnikov local model of strong
+pinning. A limitation of the model when compared to experiments is pointed out.

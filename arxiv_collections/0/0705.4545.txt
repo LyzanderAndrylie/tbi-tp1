@@ -1,0 +1,11 @@
+The Nielsen Realization problem asks when the group homomorphism from Diff(M)
+to pi_0 Diff(M) admits a section. For M a closed surface, Kerckhoff proved that
+a section exists over any finite subgroup, but Morita proved that if the genus
+is large enough then no section exists over the entire mapping class group. We
+prove the first nonexistence theorem of this type in dimension 4: if M is a
+smooth closed oriented 4-manifold which contains a K3 surface as a connected
+summand then no section exists over the whole of the mapping class group. This
+is done by showing that certain obstructions lying in the rational cohomology
+of B(pi_0 Diff(M)) are nonzero. We detect these classes by showing that they
+are nonzero when pulled back to the moduli space of Einstein metrics on a K3
+surface.

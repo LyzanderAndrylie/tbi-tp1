@@ -1,0 +1,5 @@
+An approximation of the real line shape of a scintillation detector with a
+generalized gamma distribution is proposed. The approximation describes the
+ideal scintillation line shape better than the conventional normal
+distribution. Two parameters of the proposed function are uniquely defined by
+the first two moments of the detector response.

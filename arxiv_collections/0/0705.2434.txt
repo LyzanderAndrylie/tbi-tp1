@@ -1,0 +1,18 @@
+Heterogeneous materials abound in nature and man-made situations. Examples
+include porous media, biological materials, and composite materials. Diverse
+and interesting properties exhibited by these materials result from their
+complex microstructures, which also make it difficult to model the materials.
+In this first part of a series of two papers, we collect the known necessary
+conditions on the standard two-point correlation function S2(r) and formulate a
+new conjecture. In particular, we argue that given a complete two-point
+correlation function space, S2(r) of any statistically homogeneous material can
+be expressed through a map on a selected set of bases of the function space. We
+provide new examples of realizable two-point correlation functions and suggest
+a set of analytical basis functions. Moreover, we devise an efficient and
+isotropy- preserving construction algorithm, namely, the Lattice-Point
+algorithm to generate realizations of materials from their two- point
+correlation functions based on the Yeong-Torquato technique. Subsequent
+analysis can be performed on the generated images to obtain desired macroscopic
+properties. These developments are integrated here into a general scheme that
+enables one to model and categorize heterogeneous materials via two-point
+correlation functions.

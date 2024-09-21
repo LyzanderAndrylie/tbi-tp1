@@ -1,0 +1,6 @@
+We report a practical non-postselection entanglement concentration scheme in
+which a maximally entangled Bell-state photon pair is produced from two pairs
+of partially (or non-maximally) entangled photons. Since this scheme is built
+only upon linear optical elements and does not require photon-number resolving
+detectors, it has immediate applications in experimental implementations of
+various quantum information protocols which require two-photon Bell-states.

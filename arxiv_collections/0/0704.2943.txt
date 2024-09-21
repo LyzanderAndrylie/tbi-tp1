@@ -1,0 +1,14 @@
+The magneto-rotational instability is presently the most promising source of
+turbulent transport in accretion disks. However, some important issues still
+need to be addressed to quantify the role of MRI in disks; in particular no
+systematic investigation of the role of the physical dimensionless parameters
+of the problem on the dimensionless transport has been undertaken yet. First,
+we complete existing investigations on the field strength dependence by showing
+that the transport in high magnetic pressure disks close to marginal stability
+is highly time-dependent and surprisingly efficient. Second, we bring to light
+a significant dependence of the global transport on the magnetic Prandtl
+number, with $\alpha\propto Pm^\delta$ for the explored range: $0.12<Pm<8$ and
+$200<Re<6400$ ($\delta$ being in the range 0.25 to 0.5). We show that the
+dimensionless transport is not correlated to the dimensionless linear growth
+rate, contrarily to a largely held expectation. More generally, these results
+stress the need to control dissipation processes in astrophysical simulations.

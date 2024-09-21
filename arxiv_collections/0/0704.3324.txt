@@ -1,0 +1,14 @@
+There exist methods for determining effective conservative interactions in
+coarse grained particle based mesoscopic simulations. The resulting models can
+be used to capture thermal equilibrium behavior, but in the model system we
+study do not correctly represent transport properties. In this article we
+suggest the use of force covariance to determine the full functional form of
+dissipative and stochastic interactions. We show that a combination of the
+radial distribution function and a force covariance function can be used to
+determine all interactions in dissipative particle dynamics. Furthermore we use
+the method to test if the effective interactions in dissipative particle
+dynamics (DPD) can be adjusted to produce a force covariance consistent with a
+projection of a microscopic Lennard-Jones simulation. The results indicate that
+the DPD ansatz may not be consistent with the underlying microscopic dynamics.
+We discuss how this result relates to theoretical studies reported in the
+literature.

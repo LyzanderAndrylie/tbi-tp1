@@ -1,0 +1,22 @@
+We calculate exactly the von Neumann and topological entropies of the toric
+code as a function of system size and temperature. We do so for systems with
+infinite energy scale separation between magnetic and electric excitations, so
+that the magnetic closed loop structure is fully preserved while the electric
+loop structure is tampered with by thermally excited electric charges. We find
+that the entanglement entropy is a singular function of temperature and system
+size, and that the limit of zero temperature and the limit of infinite system
+size do not commute. From the entanglement entropy we obtain the topological
+entropy, which is shown to drop to half its zero-temperature value for any
+infinitesimal temperature in the thermodynamic limit, and remains constant as
+the temperature is further increased. Such discontinuous behavior is replaced
+by a smooth decreasing function in finite-size systems. If the separation of
+energy scales in the system is large but finite, we argue that our results hold
+at small enough temperature and finite system size, and a second drop in the
+topological entropy should occur as the temperature is raised so as to disrupt
+the magnetic loop structure by allowing the appearance of free magnetic
+charges. We interpret our results as an indication that the underlying magnetic
+and electric closed loop structures contribute equally to the topological
+entropy (and therefore to the topological order) in the system. Since each loop
+structure \emph{per se} is a classical object, we interpret the quantum
+topological order in our system as arising from the ability of the two
+structures to be superimposed and appear simultaneously.

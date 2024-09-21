@@ -1,0 +1,8 @@
+Motivated by recent scanning tunneling experiments on zigzag-terminated
+graphene this paper investigates an interplay of evanescent and extended
+quasiparticle states in the local density of states (LDOS) near a zigzag edge
+using the Green's function of the Dirac equation. A model system is considered
+where the local electronic structure near the edge influences transport of both
+normal and superconducting electrons via a Fano resonance. In particular, the
+temperature enhancement of the critical Josephson current and 0-pi transitions
+are predicted.

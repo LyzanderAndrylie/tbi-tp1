@@ -1,0 +1,12 @@
+Spin blockade occurs when an electron is unable to access an energetically
+favorable path through a quantum dot due to spin conservation, resulting in a
+blockade of the current through the dot. Spin blockade is the basis of a number
+of recent advances in spintronics, including the measurement and the
+manipulation of individual electron spins. We report measurements of the spin
+blockade regime in a silicon double quantum dot, revealing a complementary
+phenomenon: lifetime-enhanced transport. We argue that our observations arise
+because the decay times for electron spins in silicon are long, enabling the
+electron to maintain its spin throughout its transit across the quantum dot and
+access fast paths that exist in some spin channels but not in others. Such long
+spin lifetimes are important for applications such as quantum computation and,
+more generally, spintronics.

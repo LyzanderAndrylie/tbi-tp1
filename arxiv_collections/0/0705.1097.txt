@@ -1,0 +1,19 @@
+The emergence of magnetic flux from the convection zone into the corona is an
+important process for the dynamical evolution of the coronal magnetic field. In
+this paper we extend our previous numerical investigations, by looking at the
+process of flux interaction as an initially twisted flux tube emerges into a
+plane parallel, coronal magnetic field. Significant differences are found in
+the dynamical appearance and evolution of the emergence process depending on
+the relative orientation between the rising flux system and any preexisting
+coronal field. When the flux systems are nearly anti-parallel, the experiments
+show substantial reconnection and demonstrate clear signatures of a high
+temperature plasma located in the high velocity outflow regions extending from
+the reconnection region. However, the cases that have a more parallel
+orientation of the flux systems show very limited reconnection and none of the
+associated features. Despite the very different amount of reconnection between
+the two flux systems, it is found that the emerging flux that is still
+connected to the original tube, reaches the same height as a function of time.
+As a compensation for the loss of tube flux, a clear difference is found in the
+extent of the emerging loop in the direction perpendicular to the main axis of
+the initial flux tube. Increasing amounts of magnetic reconnection decrease the
+volume, which confines the remaining tube flux.

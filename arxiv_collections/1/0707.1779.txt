@@ -1,0 +1,16 @@
+On the basis of gauge principle in the field theory, a new variational
+formulation is presented for flows of an ideal fluid. The fluid is defined
+thermodynamically by mass density and entropy density, and its flow fields are
+characterized by symmetries of translation and rotation. A structure of
+rotation symmetry is equipped with a Lagrangian $\Lambda_A$ including
+vorticity, in addition to Lagrangians of translation symmetry. From the action
+principle, Euler's equation of motion is derived. In addition, the equations of
+continuity and entropy are derived from the variations. Equations of conserved
+currents are deduced as the Noether theorem in the space of Lagrangian
+coordinate $\ba$. It is shown that, with the translation symmetry alone, there
+is freedom in the transformation between the Lagrangian $\ba$-space and
+Eulerian $\bx$-space. The Lagrangian $\Lambda_A$ provides non-trivial topology
+of vorticity field and yields a source term of the helicity. The vorticity
+equation is derived as an equation of the gauge field. Present formulation
+provides a basis on which the transformation between the $\ba$ space and the
+$\bx$ space is determined uniquely.

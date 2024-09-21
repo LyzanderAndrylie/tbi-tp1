@@ -1,0 +1,7 @@
+Boson-fermion pairing is considered in a discrete environment of bosons and
+fully spin-polarized fermions, coupled via an attractive Bose-Fermi Hubbard
+Hamiltonian in one dimension. The results of the T-matrix approximation for
+particles of equal mass and at double half filling are compared with the
+results of exact diagonalization and with Quantum Monte Carlo results.
+Satisfactory agreement for most quantities is found. The appearance of a
+stable, weak-coupling pairing mode is also confirmed.

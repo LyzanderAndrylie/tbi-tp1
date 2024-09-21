@@ -1,0 +1,7 @@
+A recent article by Stiles et al. (cond-mat/0702020) argued in favor of the
+Landau-Lifshitz damping term in the micromagnetic equations of motion over that
+of the more commonly accepted Gilbert damping form. Much of their argument
+revolved around spin-torque driven domain wall motion in narrow magnetic wires,
+since the presence of spin-torques can more acutely draw a distinction between
+the two forms of damping. In this article, the author uses simple arguments and
+examples to offer an alternative point of view favoring Gilbert.

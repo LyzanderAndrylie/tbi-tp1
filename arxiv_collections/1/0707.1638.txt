@@ -1,0 +1,9 @@
+In two articles, the authors claim that the Heisenberg uncertainty principle
+limits the precision of simultaneous measurements of the position and velocity
+of a particle and refer to experimental evidence that supports their claim.
+  It is true that ever since the inception of quantum mechanics, the
+uncertainty relation that corresponds to a pair of observables represented by
+non-commuting operators is interpreted by many scientists and engineers,
+including Heisenberg himself, as a limitation on the accuracy with which
+observables can be measured. However, such a limitation cannot be deduced from
+the postulates and theorems of quantum thermodynamics.

@@ -1,0 +1,8 @@
+We demonstrate a sequence of two quantum teleportations of optical coherent
+states, combining two high-fidelity teleporters for continuous variables. In
+our experiment, the individual teleportation fidelities are evaluated as F_1 =
+0.70 \pm 0.02 and F_2 = 0.75 \pm 0.02, while the fidelity between the input and
+the sequentially teleported states is determined as F^{(2)} = 0.57 \pm 0.02.
+This still exceeds the optimal fidelity of one half for classical teleportation
+of arbitrary coherent states and almost attains the value of the first
+(unsequential) quantum teleportation experiment with optical coherent states.

@@ -1,0 +1,6 @@
+Generalized uncertainty relations are known to provide a minimal length
+$\hbar\sqrt{\beta}$. The effect of such minimal length in the Casimir-Polder
+interactions between neutral atoms (molecules) is studied. The first order
+correction term in the minimal uncertainty parameter is derived and found to
+describe an attractive potential scaling as $r^{-9}$ as opposed to the well
+known $r^{-7}$ long range retarded potential.

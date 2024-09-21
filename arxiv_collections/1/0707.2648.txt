@@ -1,0 +1,8 @@
+In this follow-up of the article: Quantum Group of Isometries in Classical
+and Noncommutative Geometry(arXiv:0704.0041) by Goswami, where quantum isometry
+group of a noncommutative manifold has been defined, we explicitly compute such
+quantum groups for a number of classical as well as noncommutative manifolds
+including the spheres and the tori. It is also proved that the quantum isometry
+group of an isospectral deformation of a (classical or noncommutative) manifold
+is a suitable deformation of the quantum isometry group of the original
+(undeformed) manifold.

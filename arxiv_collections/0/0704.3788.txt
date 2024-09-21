@@ -1,0 +1,11 @@
+We experimentally investigate the evolution of linear and nonlinear waves in
+a realization of the Anderson model using disordered one dimensional waveguide
+lattices. Two types of localized eigenmodes, flat-phased and staggered, are
+directly measured. Nonlinear perturbations enhances localization in one type,
+and induce delocalization in the other. In a complementary approach, we study
+the evolution on short time scales of $\delta$-like wavepackets in the presence
+of disorder. A transition from ballistic wavepacket expansion to exponential
+(Anderson) localization is observed. We find an intermediate regime in which
+the ballistic and localized components coexist while diffusive dynamics is
+absent. Evidence is found for a faster transition into localization under
+nonlinear conditions.

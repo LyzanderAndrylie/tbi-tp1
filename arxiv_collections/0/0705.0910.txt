@@ -1,0 +1,14 @@
+In this paper we present the guidelines for an extrasolar planet taxonomy.
+The discovery of an increasing number of extrasolar planets showing a vast
+variety of planetary parameters, like Keplerian orbital elements and
+environmental parameters, like stellar masses, spectral types, metallicity
+etc., prompts the development of a planetary taxonomy. In this work via
+principal component analysis followed by hierarchical clustering analysis, we
+report the definition of five robust groups of planets. We also discuss the
+physical relevance of such analysis, which may provide a valid basis for
+disentangling the role of the several physical parameters involved in the
+processes of planet formation and subsequent evolution. For instance, we were
+able to divide the hot Jupiters into two main groups on the basis of their
+stellar masses and metallicities. Moreover, for some groups, we find strong
+correlations between metallicity, semi-major axis and eccentricity. The
+implications of these findings are discussed.

@@ -1,0 +1,11 @@
+A generalized Fermi-Bose mapping method is used to determine the exact ground
+states of several models of mixtures of strongly interacting ultracold gases in
+tight waveguides, which are generalizations of the Tonks-Girardeau (TG) gas (1D
+Bose gas with point hard cores) and fermionic Tonks-Girardeau (FTG) gas (1D
+spin-aligned Fermi gas with infinitely strong zero-range attractions). We
+detail the case of a Bose-Fermi mixture with TG boson-boson (BB) and
+boson-fermion (BF) interactions. Exact results are given for density profiles
+in a harmonic trap, single-particle density matrices, momentum distributions,
+and density-density correlations. Since the ground state is highly degenerate,
+we analyze the splitting of the ground manifold for large but finite BB and BF
+repulsions.

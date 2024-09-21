@@ -1,0 +1,22 @@
+Given existing empirical spectral patterns of excited hadrons it has been
+suggested that chiral symmetry is approximately restored in excited hadrons at
+zero temperature/density (effective symmetry restoration). If correct, this
+implies that mass generation mechanisms and physics in excited hadrons is very
+different as compared to the lowest states. One needs an alternative and
+independent experimental information to confirm this conjecture. Using very
+general chiral symmetry arguments it is shown that strict chiral restoration in
+a given excited nucleon forbids its decay into the N \pi channel. Hence those
+excited nucleons which are assumed from the spectroscopic patterns to be in
+approximate chiral multiplets must only "weakly" decay into the N \pi channel,
+(f_{N^*N\pi}/f_{NN\pi})^2 << 1. However, those baryons which have no chiral
+partner must decay strongly with a decay constant comparable with f_{NN\pi}.
+Decay constants can be extracted from the existing decay widths and branching
+ratios. It turnes out that for all those well established excited nucleons
+which can be classified into chiral doublets N_+(1440) - N_-(1535), N_+(1710) -
+N_-(1650), N_+(1720) - N_-(1700), N_+(1680) - N_-(1675), N_+(2220) - N_-(2250),
+N_+(?) - N_-(2190), N_+(?) - N_-(2600), the ratio is (f_{N^*N\pi}/f_{NN\pi})^2
+~ 0.1 or much smaller for the high-spin states. In contrast, the only well
+established excited nucleon for which the chiral partner cannot be identified
+from the spectroscopic data, N(1520), has a decay constant into the N\pi
+channel that is comparable with f_{NN\pi}. This gives an independent
+experimental verification of the chiral symmetry restoration scenario.

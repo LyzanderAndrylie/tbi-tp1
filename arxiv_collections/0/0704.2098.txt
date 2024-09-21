@@ -1,0 +1,3 @@
+We give accurate estimates for the bond percolation critical probabilities on
+seven Archimedean lattices, for which the critical probabilities are unknown,
+using an algorithm of Newman and Ziff.

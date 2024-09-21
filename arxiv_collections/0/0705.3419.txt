@@ -1,0 +1,14 @@
+Given a quiver algebra A with relations defined by a superpotential, this
+paper defines a set of invariants of A counting framed cyclic A-modules,
+analogous to rank-1 Donaldson-Thomas invariants of Calabi-Yau threefolds. For
+the special case when A is the non-commutative crepant resolution of the
+threefold ordinary double point, it is proved using torus localization that the
+invariants count certain pyramid-shaped partition-like configurations, or
+equivalently infinite dimer configurations in the square dimer model with a
+fixed boundary condition. The resulting partition function admits an infinite
+product expansion, which factorizes into the rank-1 Donaldson-Thomas partition
+functions of the commutative crepant resolution of the singularity and its
+flop. The different partition functions are speculatively interpreted as
+counting stable objects in the derived category of A-modules under different
+stability conditions; their relationship should then be an instance of wall
+crossing in the space of stability conditions on this triangulated category.

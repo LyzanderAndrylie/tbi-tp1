@@ -1,0 +1,5 @@
+Experimental one-way decoy pulse quantum key distribution running
+continuously for 60 hours is demonstrated over a fiber distance of 20km. We
+employ a decoy protocol which involves one weak decoy pulse and a vacuum pulse.
+The obtained secret key rate is on average over 10kbps. This is the highest
+rate reported using this decoy protocol over this fiber distance and duration.

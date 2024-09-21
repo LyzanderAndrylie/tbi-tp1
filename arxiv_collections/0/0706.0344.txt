@@ -1,0 +1,24 @@
+We present a new multi-annulus code for the study of collisionally evolving
+extended debris discs. We first aim to confirm results obtained for a
+single-annulus system, namely that the size distribution in "real" debris discs
+always departs from the theoretical collisional equilibrium
+$dN\proptoR^{-3.5}dR$ power law, especially in the crucial size range of
+observable particles (<1cm), where it displays a characteristic wavy pattern.
+We also aim at studying how debris discs density distributions, scattered light
+luminosity profiles, and SEDs are affected by the coupled effect of collisions
+and radial mixing due to radiation pressure affected small grains. The size
+distribution evolution is modeled from micron-sized grains to 50km-sized
+bodies. The model takes into account the crucial influence of radiation
+pressure-affected small grains. We consider the collisional evolution of a
+fiducial a=120AU radius disc with an initial surface density in
+$\Sigma(a)\propto a^{\alpha}$. We show that the system's radial extension plays
+a crucial role: in most regions the collisional and size evolution of the dust
+is imposed by small particles on eccentric or unbound orbits produced further
+inside the disc. The spatial distribution of small grains strongly departs from
+the initial profile, while the bigger objects, containing most of the system's
+mass, still follow the initial distribution. This has consequences on the
+scattered--light radial profiles which get significantly flatter, and we
+propose an empirical law to trace back the distribution of large unseen parent
+bodies from the observed profiles. We finally provide empirical formula for the
+collisional size distribution and collision timescale that can be used for
+future debris disc modeling.

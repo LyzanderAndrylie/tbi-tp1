@@ -1,0 +1,9 @@
+Based upon the observations (i) that their in-plane lattice constants match
+almost perfectly and (ii) that their electronic structures overlap in
+reciprocal space for one spin direction only, we predict perfect spin filtering
+for interfaces between graphite and (111) fcc or (0001) hcp Ni or Co. The spin
+filtering is quite insensitive to roughness and disorder. The formation of a
+chemical bond between graphite and the open $d$-shell transition metals that
+might complicate or even prevent spin injection into a single graphene sheet
+can be simply prevented by dusting Ni or Co with one or a few monolayers of Cu
+while still preserving the ideal spin injection property.

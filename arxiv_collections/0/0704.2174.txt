@@ -1,0 +1,6 @@
+Since October 1, 2006, spectroscopic data from the two FORS instruments have
+been reduced with a new pipeline, which is based on a bottom-up calibration
+approach. I give a short description of the pipeline and discuss first
+experiences with automatic data reduction using this software, which has
+significantly increased the percentage of processed data for both instruments.
+I will also describe possible new options for Quality Control.

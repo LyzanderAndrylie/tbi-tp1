@@ -1,0 +1,11 @@
+Consider a Hamiltonian system that consists of a slow subsystem S and a fast
+subsystem F. The autonomous dynamics of S is driven by an effective
+Hamiltonian, but its thermodynamics is unexpected. We show that a well-defined
+thermodynamic arrow of time (second law) emerges for S whenever there is a
+well-defined causal arrow from S to F and the back-action is negligible. This
+is because the back-action of F on S is described by a non-globally Hamiltonian
+Born-Oppenheimer term that violates the Liouville theorem, and makes the second
+law inapplicable to S. If S and F are mixing, under the causal arrow condition
+they are described by microcanonic distributions P(S) and P(S|F). Their
+structure supports a causal inference principle proposed recently in machine
+learning.

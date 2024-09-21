@@ -1,0 +1,8 @@
+Perturbative NLO and NNLO QCD evolutions of parton distributions are studied,
+in particular in the (very) small-x region, where they are in very good
+agreement with all recent precision measurements of F_2^p(x,Q^2). These
+predictions turn out to be also rather insensitive to the specific choice of
+the factorization scheme (MS or DIS). A characteristic feature of perturbative
+QCD evolutions is a positive curvature of F_2^p which increases as x decreases.
+This perturbatively stable prediction provides a sensitive test of the range of
+validity of perturbative QCD.

@@ -1,0 +1,14 @@
+Random sequential adsorption of binary mixtures of extended objects on a
+two-dimensional triangular lattice is studied numerically by means of Monte
+Carlo simulations. The depositing objects are formed by self-avoiding random
+walks on the lattice. We concentrate here on the influence of the symmetry
+properties of the shapes on the kinetics of the deposition processes in
+two-component mixtures. Approach to the jamming limit in the case of mixtures
+is found to be exponential, of the form: $\theta(t) \sim
+\theta_{jam}-\Delta\theta \exp (-t/\sigma),$ and the values of the parameter
+$\sigma$ are determined by the order of symmetry of the less symmetric object
+in the mixture. Depending on the local geometry of the objects making the
+mixture, jamming coverage of a mixture can be either greater than both
+single-component jamming coverages or it can be in between these values.
+Results of the simulations for various fractional concentrations of the objects
+in the mixture are also presented.

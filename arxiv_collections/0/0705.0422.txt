@@ -1,0 +1,8 @@
+A $k$-frugal colouring of a graph $G$ is a proper colouring of the vertices
+of $G$ such that no colour appears more than $k$ times in the neighbourhood of
+a vertex. This type of colouring was introduced by Hind, Molloy and Reed in
+1997. In this paper, we study the frugal chromatic number of planar graphs,
+planar graphs with large girth, and outerplanar graphs, and relate this
+parameter with several well-studied colourings, such as colouring of the
+square, cyclic colouring, and $L(p,q)$-labelling. We also study frugal
+edge-colourings of multigraphs.

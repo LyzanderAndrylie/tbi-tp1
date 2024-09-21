@@ -1,0 +1,14 @@
+Dilute Fermi systems with large s-wave scattering length a_s exhibit
+universal properties if the interparticle spacing r_o greatly exceeds the range
+of the underlying two-body interaction potential. In this regime, r_o is the
+only relevant length scale and observables such as the energy per particle
+depend only on r_o (or, equivalently, the energy E_{FG} of the free Fermi gas).
+This paper investigates Bose and Fermi systems with non-vanishing angular
+momentum l using the lowest order constrained variational method. We focus on
+the regime where the generalized scattering length becomes large and determine
+the relevant length scales. For Bose gases with large generalized scattering
+lengths, we obtain simple expressions for the energy per particle in terms of a
+l-dependent length scale \xi_l, which depends on the range of the underlying
+two-body potential and the average interparticle spacing. We discuss possible
+implications for dilute two-component Fermi systems with finite l. Furthermore,
+we determine the equation of state of liquid and gaseous bosonic helium.

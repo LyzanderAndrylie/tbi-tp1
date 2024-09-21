@@ -1,0 +1,19 @@
+We investigate the effects of relatively rapid variations of the boundaries
+of an overmoded cavity on the stochastic properties of its interior acoustic or
+electromagnetic field. For quasi-static variations, this field can be
+represented as an ideal incoherent and statistically homogeneous isotropic
+random scalar or vector field, respectively. A physical model is constructed
+showing that the field dynamics can be characterized as a generalized diffusion
+process. The Langevin--It\^{o} and Fokker--Planck equations are derived and
+their associated statistics and distributions for the complex analytic field,
+its magnitude and energy density are computed. The energy diffusion parameter
+is found to be proportional to the square of the ratio of the standard
+deviation of the source field to the characteristic time constant of the
+dynamic process, but is independent of the initial energy density, to first
+order. The energy drift vanishes in the asymptotic limit. The time-energy
+probability distribution is in general not separable, as a result of
+nonstationarity. A general solution of the Fokker--Planck equation is obtained
+in integral form, together with explicit closed-form solutions for several
+asymptotic cases. The findings extend known results on statistics and
+distributions of quasi-stationary ideal random fields (pure diffusions), which
+are retrieved as special cases.

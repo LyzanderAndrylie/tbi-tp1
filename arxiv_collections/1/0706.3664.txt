@@ -1,0 +1,14 @@
+The Hamiltonian Mean-Field model has been investigated, since its
+introduction about a decade ago, to study the equilibrium and dynamical
+properties of long-range interacting systems. Here we study the long-time
+behavior of long-lived, out-of-equilibrium, quasi-stationary dynamical states,
+whose lifetime diverges in the thermodynamic limit. The nature of these states
+has been the object of a lively debate, in the recent past. We introduce a new
+numerical tool, based on the fluctuations of the phase of the instantaneous
+magnetization of the system. Using this tool, we study the quasi-stationary
+states that arise when the system is started from different classes of initial
+conditions, showing that the new observable can be exploited to compute the
+lifetime of these states. We also show that quasi-stationary states are present
+not only below, but also above the critical temperature of the second order
+magnetic phase transition of the model. We find that at supercritical
+temperatures the lifetime is much larger than at subcritical temperatures.

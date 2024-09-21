@@ -1,0 +1,16 @@
+We develop a methodology for the calculation of surface free energies based
+on the probability distribution of a wandering interface. Using a simple
+extension of the NpT sampling, we allow the interface area to randomly probe
+the available space and evaluate the surface free energy from histogram
+analysis and the corresponding average. The method is suitable for studying
+systems with either continuous or discontinuous potentials, as it does not
+require explicit evaluation of the virial. The proposed algorithm is compared
+with known results for the surface tension of Lennard--Jones and Square Well
+fluid, as well as for the interface tension of a bead--spring polymer model and
+good agreement is found. We also calculate interfacial tensions of freely
+jointed tangent hard sphere chains on athermal walls for a wide range of chain
+lengths and densities. The results are compared with three different
+theoretical approaches, Scaled Particle Theory, the Yu and Wu density
+functional theory and an analytical approximation based on the latter approach.
+Whereas SPT only yields qualitative results, the last two approaches are found
+to yield very good agreement with simulations.

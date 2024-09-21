@@ -1,0 +1,11 @@
+The off-resonant hyperpolarizability is calculated using the dipole-free
+sum-over-stats expression from a randomly chosen set of energies and transition
+dipole moments that are forced to be consistent with the sum rules. The process
+is repeated so that the distribution of hyperpolarizabilities can be
+determined. We find this distribution to be a cycloid-like function. In
+contrast to variational techniques that when applied to the potential energy
+function yield an intrinsic hyperpolarizability less than 0.71, our Monte Carlo
+method yields values that approach unity. While many transition dipole moments
+are large when the calculated hyperpolarizability is near the fundamental
+limit, only two excited states dominate the hyperpolarizability - consistent
+with the three-level ansatz.

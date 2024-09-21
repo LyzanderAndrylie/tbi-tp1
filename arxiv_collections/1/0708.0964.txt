@@ -1,0 +1,8 @@
+A convex combination mapping of a planar graph is a plane mapping in which
+the external vertices are mapped to the corners of a convex polygon and every
+internal vertex is a proper weighted average of its neighbours. If a planar
+graph is nodally 3-connected or triangulated then every such mapping is an
+embedding (Tutte, Floater).
+  We give a simple characterisation of nodally 3-connected planar graphs, and
+generalise the above result to any planar graph which admits any convex
+embedding.

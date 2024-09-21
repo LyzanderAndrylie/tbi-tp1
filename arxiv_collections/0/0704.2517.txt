@@ -1,0 +1,13 @@
+The following question is addressed: under what conditions can a strange
+diffusive process, defined by a semi-dynamical V-Langevin equation or its
+associated Hybrid kinetic equation (HKE), be described by an equivalent purely
+stochastic process, defined by a Continuous Time Random Walk (CTRW) or by a
+Fractional Differential Equation (FDE)? More specifically, does there exist a
+class of V-Langevin equations with long-range (algebraic) velocity temporal
+correlation, that leads to a time-fractional superdiffusive process? The answer
+is always affirmative in one dimension. It is always negative in two
+dimensions: any algebraically decaying temporal velocity correlation (with a
+Gaussian spatial correlation) produces a normal diffusive process. General
+conditions relating the diffusive nature of the process to the temporal
+exponent of the Lagrangian velocity correlation (in Corrsin approximation) are
+derived.

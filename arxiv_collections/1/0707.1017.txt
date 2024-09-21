@@ -1,0 +1,15 @@
+We considered the lattice electroweak theory at realistic values of $\alpha$
+and $\theta_W$ and for large values of the Higgs mass. We investigated
+numerically the properties of topological objects that are identified with
+quantum Nambu monopoles. We have found that the action density near the Nambu
+monopole worldlines exceeds the density averaged over the lattice in the
+physical region of the phase diagram. Moreover, their percolation probability
+is found to be an order parameter for the transition between the symmetric and
+the broken phases. Therefore, these monopoles indeed appear as real physical
+objects. However, we have found that their density on the lattice increases
+with increasing ultraviolet cutoff. Thus we conclude, that the conventional
+lattice electroweak theory is not able to predict the density of Nambu
+monopoles. This means that the description of Nambu monopole physics based on
+the lattice Weinberg - Salam model with finite ultraviolet cutoff is
+incomplete. We expect that the correct description may be obtained only within
+the lattice theory that involves the description of TeV - scale physics.

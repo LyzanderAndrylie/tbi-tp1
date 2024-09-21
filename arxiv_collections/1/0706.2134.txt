@@ -1,0 +1,11 @@
+We examine the stacking order of multilayer graphene grown on the
+SiC$(000\bar{1})$ surface using low-energy electron diffraction and surface
+X-ray diffraction. We show that the films contain a high density of rotational
+stacking faults caused by three types of rotated graphene: sheets rotated
+$30^\circ$ and $\pm 2.20^\circ$ relative to the SiC substrate. These angles are
+unique because they correspond to commensurate phases of layered graphene, both
+with itself and with the SiC substrate. {\it Ab intio} calculations show that
+these rotational phases electronically decouple adjacent graphene layers. The
+band structure from graphene at fault boundaries displays linear energy
+dispersion at the $K$-point (Dirac cones), nearly identical to that of a single
+graphene sheet.

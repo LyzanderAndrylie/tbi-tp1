@@ -1,0 +1,13 @@
+We microscopically model the decoherence dynamics of entangled coherent
+states under the influence of vacuum fluctuation. We derive an exact master
+equation with time-dependent coefficients reflecting the memory effect of the
+environment, by using the Feynman-Vernon influence functional theory in the
+coherent-state representation. Under the Markovian approximation, our master
+equation recovers the widely used Lindblad equation in quantum optics. We then
+investigate the non-Markovian entanglement dynamics of the quantum channel in
+terms of the entangled coherent states under noise. Compared with the results
+in Markovian limit, it shows that the non-Markovian effect enhances the
+disentanglement to the initially entangled coherent state. Our analysis also
+shows that the decoherence behaviors of the entangled coherent states depend
+sensitively on the symmetrical properties of the entangled coherent states as
+well as the interactions between the system and the environment.

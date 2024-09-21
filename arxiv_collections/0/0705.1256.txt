@@ -1,0 +1,13 @@
+The combination of quantum teleportation and quantum memory of photonic
+qubits is essential for future implementations of large-scale quantum
+communication and measurement-based quantum computation. Both steps have been
+achieved separately in many proof-of-principle experiments, but the
+demonstration of memory-built-in teleportation of photonic qubits remains an
+experimental challenge. Here, we demonstrate teleportation between photonic
+(flying) and atomic (stationary) qubits. In our experiment, an unknown
+polarization state of a single photon is teleported over 7 m onto a remote
+atomic qubit that also serves as a quantum memory. The teleported state can be
+stored and successfully read out for up to 8 micro-second. Besides being of
+fundamental interest, teleportation between photonic and atomic qubits with the
+direct inclusion of a readable quantum memory represents a step towards an
+efficient and scalable quantum network.

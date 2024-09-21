@@ -1,0 +1,7 @@
+We consider a non-spherical colloidal particle immersed in a fluid close to
+its critical point. The temperature dependence of the corresponding order
+parameter profile is calculated explicitly. We perform a systematic expansion
+of the order parameter profile in powers of the local curvatures of the surface
+of the colloidal particle. This curvature expansion reduces to the short
+distance expansion of the order parameter profile in the case that the solvent
+is at the critical composition.

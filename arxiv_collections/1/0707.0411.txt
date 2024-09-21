@@ -1,0 +1,9 @@
+We calculate the modulation by a magnetic field of the critical current of a
+long disordered Josephson junction in the diffusive limit, i.e. when the
+dimensions of the junction are larger that the elastic mean free path, and when
+the length $L$ is much larger than the width $w$. Due to the averaging of the
+gauge invariant phase factor over diffusive trajectories, the well-known
+oscillations of the Fraunhofer pattern are smoothed out and replaced by an
+exponential decay at large field. The predicted pattern is universal, i.e., it
+is independent of the disorder strength. We point out an interesting relation
+with the physics of speckle correlations in optics of turbid media.

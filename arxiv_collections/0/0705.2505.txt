@@ -1,0 +1,24 @@
+HD 52265 is the only known exoplanet-host star selected as a main target for
+the seismology programme of the CoRoT satellite. As such, it will be observed
+continuously during five months, which is of particular interest in the
+framework of planetary systems studies. This star was misclassified as a giant
+in the Bright Star Catalog, while it is more probably on the main-sequence or
+at the beginning of the subgiant branch. We performed an extensive analysis of
+this star, showing how asteroseismology may lead to a precise determination of
+its external parameters and internal structure. We first reviewed the
+observational constraints on the metallicity, the gravity and the effective
+temperature derived from the spectroscopic observations of HD 52265. We also
+derived its luminosity using the Hipparcos parallax. We computed the
+evolutionary tracks for models of various metallicities which cross the
+relevant observational error boxes in the gravity-effective temperature plane.
+We selected eight different stellar models which satisfy the observational
+constraints, computed their p-modes frequencies and analysed specific seismic
+tests. The possible models for HD 52265, which satisfy the constraints derived
+from the spectroscopic observations, are different in both their external and
+internal parameters. They lie either on the main sequence or at the beginning
+of the subgiant branch. The differences in the models lead to quite different
+properties of their oscillation frequencies. We give evidences of an
+interesting specific behaviour of these frequencies in case of helium-rich
+cores: the ``small separations'' may become negative and give constraints on
+the size of the core. We expect that the observations of this star by the CoRoT
+satellite wi ll allow choosing between these possible models.

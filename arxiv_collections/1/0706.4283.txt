@@ -1,0 +1,10 @@
+The Gaussian quantum key distribution protocol based on coherent states and
+heterodyne detection [Phys. Rev. Lett. 93, 170504 (2004)] has the advantage
+that no active random basis switching is needed on the receiver's side. Its
+security is, however, not very satisfyingly understood today because the bounds
+on the secret key rate that have been derived from Heisenberg relations are not
+attained by any known scheme. Here, we address the problem of the optimal
+Gaussian individual attack against this protocol, and derive tight upper bounds
+on the information accessible to an eavesdropper. The optical scheme achieving
+this bound is also exhibited, which concludes the security analysis of this
+protocol.

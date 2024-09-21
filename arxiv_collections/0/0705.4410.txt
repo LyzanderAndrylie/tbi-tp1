@@ -1,0 +1,19 @@
+Stellar evolution in close binary systems is strongly influenced by mass
+transfer from one star to the other when one component fills its zero-velocity
+surface or Roche Lobe. SS Lep is a fairly nearby close binary showing the Algol
+paradox and a shell spectrum, both indicative of (past) mass transfer. To study
+the process of mass transfer and its evolutionary consequences, we aim at a
+direct characterisation of the spatial dimensions of the different components
+of SS Lep with IR interferometry. We use VINCI/VLTI interferometric
+observations in the K band and photometric observations from the UV to the
+far-IR. The visibilities are interpreted with simple geometrical models and the
+Spectral Energy Distribution (SED) is decomposed into the three main
+components: A star, M star and dust shell/disk. From the SED, we find that the
+main emitters in the K band are the M star and the circumstellar environment.
+Both are spatially resolved with the VINCI observations, showing the excess to
+be circumbinary and showing the M star to have a size equal to its Roche Lobe.
+We conclude that we have, for the first time, directly resolved a star filling
+its Roche Lobe. The resulting mass transfer is probably the cause of (1) the
+circumbinary dust disk of which we see the hot inner region spatially resolved
+in our observations, (2) the unusually high luminosity of the A star and (3)
+the shell spectrum seen in the UV and optical spectra.

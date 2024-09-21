@@ -1,0 +1,17 @@
+Self-stabilization is a versatile technique to withstand any transient fault
+in a distributed system. Mobile robots (or agents) are one of the emerging
+trends in distributed computing as they mimic autonomous biologic entities. The
+contribution of this paper is threefold. First, we present a new model for
+studying mobile entities in networks subject to transient faults. Our model
+differs from the classical robot model because robots have constraints about
+the paths they are allowed to follow, and from the classical agent model
+because the number of agents remains fixed throughout the execution of the
+protocol. Second, in this model, we study the possibility of designing
+self-stabilizing algorithms when those algorithms are run by mobile robots (or
+agents) evolving on a graph. We concentrate on the core building blocks of
+robot and agents problems: naming and leader election. Not surprisingly, when
+no constraints are given on the network graph topology and local execution
+model, both problems are impossible to solve. Finally, using minimal hypothesis
+with respect to impossibility results, we provide deterministic and
+probabilistic solutions to both problems, and show equivalence of these
+problems by an algorithmic reduction mechanism.

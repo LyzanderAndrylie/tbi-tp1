@@ -1,0 +1,20 @@
+The apparent contradiction between the recently observed weak charge
+disproportion and the traditional Mn$^{3+}$/Mn$^{4+}$ picture of the
+charge-orbital orders in half-doped manganites is resolved by a novel Wannier
+states analysis of the LDA$+U$ electronic structure. Strong electron itinerancy
+in this charge-transfer system significantly delocalizes the occupied
+low-energy "Mn$^{3+}$" Wannier states such that charge leaks into the
+"Mn$^{4+}$"-sites. Furthermore, the leading mechanisms of the charge order are
+quantified via our first-principles derivation of the low-energy effective
+Hamiltonian. The electron-electron interaction is found to play a role as
+important as the electron-lattice interaction. \ignore{A general picture of
+doped holes in strongly correlated charge-transfer systems is presented and
+applied to the study of charge order in half-doped manganites, using a novel
+Wannier states analysis of the LDA$+U$ electronic structure. While residing
+primarily in the oxygen atoms, the doped holes form additional effective $e_g$
+orbitals at the low-energy scale, leading to an effective Mn$^{3+}$/Mn$^{4+}$
+valence picture that enables weak charge disproportion, resolving the current
+serious contradictions between the recent experimental observations of charge
+distribution and traditional models. Furthermore, the leading mechanisms of the
+observed charge order are quantified via our first-principles derivation of the
+low-energy effective Hamiltonian

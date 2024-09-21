@@ -1,0 +1,6 @@
+We study encodings that give the best known thresholds for the non-zero
+capacity of quantum channels, i.e., the upper bound for correctable noise,
+using an entropic approach to calculation of the threshold values. Our results
+show that Pauli noise is correctable up to the hashing bound. For a
+depolarizing channel, this approach allows one to achieve a non-zero capacity
+for a fidelity (probability of no error) of f=0.80870.

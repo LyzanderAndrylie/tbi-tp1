@@ -1,0 +1,12 @@
+We investigate the equation of state and elastic properties of nonmagnetic
+hcp iron at high pressures and high temperatures using the first principles
+linear response linear-muffin-tin-orbital method in the generalized-gradient
+approximation. We calculate the Helmholtz free energy as a function of volume,
+temperature, and volume-constrained strain, including the electronic excitation
+contributions from band structures and lattice vibrational contributions from
+quasi-harmonic lattice dynamics. We perform detailed investigations on the
+behavior of elastic moduli and equation of state properties as a function of
+temperature and pressure, including the pressure-volume equation of state, bulk
+modulus, the thermal expansion coefficient, the Gruneisen ratio, and the shock
+Hugoniots. A detailed comparison has been made with available experimental
+measurements and theoretical predictions.

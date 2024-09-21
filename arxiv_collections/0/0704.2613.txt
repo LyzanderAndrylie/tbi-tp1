@@ -1,0 +1,8 @@
+The conditions for N=1 supersymmetry in type II supergravity have been
+previously reformulated in terms of generalized complex geometry. We improve
+that reformulation so as to completely eliminate the remaining explicit
+dependence on the metric. Doing so involves a natural generalization of the
+Dolbeault operator. As an application, we present some general arguments about
+supersymmetric moduli. In particular, a subset of them are then classified by a
+certain cohomology. We also argue that the Dolbeault reformulation should make
+it easier to find existence theorems for the N=1 equations.

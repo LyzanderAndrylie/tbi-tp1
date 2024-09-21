@@ -1,0 +1,10 @@
+We investigated domain nucleation process in epitaxial Pb(Zr,Ti)O3 capacitors
+under a modified piezoresponse force microscope. We obtained domain evolution
+images during polarization switching process and observed that domain
+nucleation occurs at particular sites. This inhomogeneous nucleation process
+should play an important role in an early stage of switching and under a high
+electric field. We found that the number of nuclei is linearly proportional to
+log(switching time), suggesting a broad distribution of activation energies for
+nucleation. The nucleation sites for a positive bias differ from those for a
+negative bias, indicating that most nucleation sites are located at
+ferroelectric/electrode interfaces.

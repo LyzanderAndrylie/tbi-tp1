@@ -1,0 +1,8 @@
+This survey paper begins with the description of the duality between arc
+systems and ribbon graphs embedded in a punctured surface. Then we explain how
+to cellularize the moduli space of curves in two different ways: using
+Jenkins-Strebel differentials and using hyperbolic geometry. We also briefly
+discuss how these two methods are related. Next, we recall the definition of
+Witten cycles and we illustrate their connection with tautological classes and
+Weil-Petersson geometry. Finally, we exhibit a simple direct argument to prove
+that Witten classes are stable.

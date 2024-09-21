@@ -1,0 +1,19 @@
+Disclinations, first observed in mesomorphic phases, are relevant to a number
+of ill-ordered condensed matter media, with continuous symmetries or frustrated
+order. They also appear in polycrystals at the edges of grain boundaries. They
+are of limited interest in solid single crystals, where, owing to their large
+elastic stresses, they mostly appear in close pairs of opposite signs. The
+relaxation mechanisms associated with a disclination in its creation, motion,
+change of shape, involve an interplay with continuous or quantized dislocations
+and/or continuous disclinations. These are attached to the disclinations or are
+akin to Nye's dislocation densities, well suited here. The notion of 'extended
+Volterra process' takes these relaxation processes into account and covers
+different situations where this interplay takes place. These concepts are
+illustrated by applications in amorphous solids, mesomorphic phases and
+frustrated media in their curved habit space. The powerful topological theory
+of line defects only considers defects stable against relaxation processes
+compatible with the structure considered. It can be seen as a simplified case
+of the approach considered here, well suited for media of high plasticity
+or/and complex structures. Topological stability cannot guarantee energetic
+stability and sometimes cannot distinguish finer details of structure of
+defects.

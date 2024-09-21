@@ -1,0 +1,17 @@
+An epidemic multi-strain model with temporary cross-immunity shows chaos,
+even in a previously unexpected parameter region. Especially dengue fever
+models with strong enhanced infectivity on secondary infection have previously
+shown deterministic chaos motivated by experimental findings of
+antibody-dependent-enhancement (ADE). Including temporary cross-immunity in
+such models, which is common knowledge among field researchers in dengue, we
+find a deterministically chaotic attractor in the more realistic parameter
+region of reduced infectivity on secondary infection (''inverse ADE'' parameter
+region). This is realistic for dengue fever since on second infection people
+are more likely to be hospitalized, hence do not contribute to the force of
+infection as much as people with first infection.
+  Our finding has wider implications beyond dengue in any multi-strain
+epidemiological systems with altered infectivity upon secondary infection,
+since we can relax the condition of rather high infectivity on secondary
+infection previously required for deterministic chaos. For dengue the finding
+of wide ranges of chaotic attractors open new ways to analysis of existing data
+sets.

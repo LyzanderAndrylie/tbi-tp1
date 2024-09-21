@@ -1,0 +1,5 @@
+We present a multimode treatment of the optical parametric oscillator, which
+is valid for both pulsed and continuous-wave pump fields. The two-time
+correlation functions of the output field are derived, and we apply the theory
+to analyze a scheme for heralded production of non-classical field states that
+may be subsequently stored in an atomic quantum memory.

@@ -1,0 +1,7 @@
+This thesis provides an overview of an approach to quantum simulations using
+magnesium-25 ions stored in a linear Paul trap as the carriers of quantum
+information. Their quantum state is manipulated and read out using ultraviolet
+laser beams. Several important steps towards realising the first experiments
+have been undertaken, the most striking of which is cooling the ions to their
+motional ground state. We describe a first experiment simulating cosmological
+particle creation in the Early Universe and discuss the expected results.

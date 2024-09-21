@@ -1,0 +1,12 @@
+We investigate electron transport through single conjugated molecules -
+including benzenedithiol, oligo-phenylene-ethynylenes of different lengths, and
+a ferrocene-containing molecule sandwiched between two gold electrodes with
+different contact structures - by using a single-particle Green function method
+combined with density functional theory calculation. We focus on the effect of
+the basis set in the ab initio calculation. It is shown that the position of
+the Fermi energy in the transport gap is sensitive to the molecule-lead charge
+transfer which is affected by the size of basis set. This can dramatically
+change, by orders of magnitude, the conductance for long molecules, though the
+effect is only minor for short ones. A resonance around the Fermi energy tends
+to pin the position of the Fermi energy and suppress this effect. The result is
+discussed in comparison with experimental data.

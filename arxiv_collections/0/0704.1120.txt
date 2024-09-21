@@ -1,0 +1,14 @@
+Human beings like to believe they are in control of their destiny. This
+ubiquitous trait seems to increase motivation and persistence, and is probably
+evolutionarily adaptive. But how good really is our ability to control? How
+successful is our track record in these areas? There is little understanding of
+when and under what circumstances we may over-estimate or even lose our ability
+to control and optimize outcomes, especially when they are the result of
+aggregations of individual optimization processes. Here, we demonstrate
+analytically using the theory of Markov Chains and by numerical simulations in
+two classes of games, the Minority game and the Parrondo Games, that agents who
+optimize their strategy based on past information actually perform worse than
+non-optimizing agents. In other words, low-entropy (more informative)
+strategies under-perform high-entropy (or random) strategies. This provides a
+precise definition of the "illusion of control" in set-ups a priori defined to
+emphasize the importance of optimization.

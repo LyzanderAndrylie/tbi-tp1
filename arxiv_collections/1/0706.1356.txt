@@ -1,0 +1,11 @@
+This paper, which commented on Newman and Leicht's "Mixture models and
+exploratory analysis in networks" (2007, PNAS 104, 9564-9569), has been
+withdrawn. The reason for this removal is that we misinterpreted the conceptual
+framework that the authors of the original paper use. Specifically, it is
+assumed in our paper that the variable theta_ri denotes the *a priori*
+probability that there exists an edge from group r to vertex i. The correct
+interpretation is that theta_ri denotes the probability that a given edge from
+group r connects to vertex i.
+  We are very grateful to Mark Newman and Elizabeth Leicht not only for
+pointing out our misinterpretation, but also for doing it so politely and
+gracefully.

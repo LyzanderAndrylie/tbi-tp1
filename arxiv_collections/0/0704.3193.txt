@@ -1,0 +1,12 @@
+The unbinding process of a protein-ligand complex of major biological
+interest was investigated by means of a computational approach at atomistic
+classical mechanical level. An energy minimisation-based technique was used to
+determine the dissociation paths of the system by probing only a relevant set
+of generalized coordinates. The complex problem was reduced to a
+low-dimensional scanning along a selected distance between the protein and the
+ligand. Orientational coordinates of the escaping fragment (the ligand) were
+also assessed in order to further characterise the unbinding. Solvent effects
+were accounted for by means of the Poisson--Boltzmann continuum model. The
+corresponding dissociation time was derived from the calculated barrier height,
+in compliance with the experimentally reported Arrhenius-like behaviour. The
+computed results are in good agreement with the available experimental data.

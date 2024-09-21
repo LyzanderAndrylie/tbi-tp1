@@ -1,0 +1,11 @@
+In this paper, correlation inequalities which have been considered on Ising
+model are extended to q-Potts model. It is considered on generalized Potts
+model with interaction of any number of spins. We replace the set of spin
+values $F=\{1,2,..., q\}$ by the centered set $F=\{-(q-1)/2,-(q-3)/2,...
+,(q-3)/2,(q-1)/2\}$. Let $N$ be the subset of one-dimensional lattice with $n$
+vertices, $\g=(\s_1,\s_2,...,\s_n):N \to F^c$ be a configuration where
+${(\s_i)}_\g$ is the number which appears as the ith spin (component) in $\g$
+and $\s_i$ be a random variable whose value at $\g$ is ${(\s_i)}_\g$. Define
+$\s^R=\prod_{i \in R}\s_i$ for any list $R$ where any $i \in R$ implies that $i
+\in N$. We first prove that $<\s^R > \ge 0$ then we prove that for any two
+lists $R$ and $S$, we have $<\s^R \s^S >- < \s^R > < \s^S > \ge 0$.

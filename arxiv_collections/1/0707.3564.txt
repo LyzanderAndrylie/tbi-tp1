@@ -1,0 +1,13 @@
+The aim of this paper is to present a new six degree-of-freedom (dof) haptic
+device using two parallel mechanisms. The first one, called orthoglide,
+provides the translation motions and the second one produces the rotational
+motions. These two motions are decoupled to simplify the direct and inverse
+kinematics, as it is needed for real-times control. To reduce the inertial
+load, the motors are fixed on the base and a transmission with two universal
+joints is used to transmit the rotational motions from the base to the
+end-effector. The main feature of the orthoglide and of the agile eye mechanism
+is the existence of an isotropic configuration. The length of the legs and the
+range limits of the orthoglide are optimized to have homogeneous performance
+throughout the Cartesian workspace, which has a nearly cubic workspace. These
+properties permit to have a high stiffness throughout the workspace and
+workspace limits that are easily understandable by the user.

@@ -1,0 +1,12 @@
+The long-range quadrupole-quadrupole ($\sim R^{-5}$) and leading dispersion
+($\sim R^{-6}$) interactions between all pairs of excited Hg($6s6p$) $^3P_0$,
+$^3P_1$, $^3P_2$, and $^1P_1$ atoms are determined. The quadrupole moments are
+calculated using the {\it ab initio} relativistic configuration-interaction
+method coupled with many-body perturbation theory. The van der Waals
+coefficients are approximated using previously calculated static
+polarizabilities and expressions for the dispersion energy that are validated
+with similar systems. The long-range interactions are critical for associative
+ionization in thermal and cold collisions, and are found to be quite different
+for different pairs of interacting states. Based on this knowledge and the
+short-range parts of previously calculated potential curves, improved estimates
+of the chemi-ionization cross sections are obtained.

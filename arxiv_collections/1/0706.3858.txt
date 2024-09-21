@@ -1,0 +1,12 @@
+We study some aspects of a Monte Carlo method invented by Maggs and Rossetto
+for simulating systems of charged particles. It has the feature that the
+discretized electric field is updated locally when charges move. Results of
+simulations of the two dimensional one-component plasma are presented. Highly
+accurate results can be obtained very efficiently using this lattice method
+over a large temperature range. The method differs from global methods in
+having additional degrees of freedom which leads to the question of how a
+faster method can result. We argue that efficient sampling depends on charge
+mobility and find that the mobility is close to maximum for a low rate of
+independent plaquette updates for intermediate temperatures. We present a
+simple model to account for this behavior. We also report on the role of
+uniform electric field sampling using this method.

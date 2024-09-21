@@ -1,0 +1,11 @@
+This paper gives a critical account of the minority game literature. The
+minority game is a simple congestion game: players need to choose between two
+options, and those who have selected the option chosen by the minority win. The
+learning model proposed in this literature seems to differ markedly from the
+learning models commonly used in economics. We relate the learning model from
+the minority game literature to standard game-theoretic learning models, and
+show that in fact it shares many features with these models. However, the
+predictions of the learning model differ considerably from the predictions of
+most other learning models. We discuss the main predictions of the learning
+model proposed in the minority game literature, and compare these to
+experimental findings on congestion games.

@@ -1,0 +1,11 @@
+In this work, we present a theoretical study of a quantum dot-microcavity
+system which includes a constant magnetic field in the growth direction of the
+micropillar. First, we study the zero temperature case by means of a
+selfconsistent procedure with a trial function composed by a coherent photon
+field and a BCS function for the electron-hole pairs. The dependence of the
+ground-state energy on the magnetic field and the number of polaritons is
+found. We show that the magnetic field can be used as a control parameter of
+the photon number, and we make explicit the scaling of the total energy with
+the number of polaritons. Next, we study this problem at finite temperatures
+and obtain the scaling of the critical temperature with the number of
+polaritons.

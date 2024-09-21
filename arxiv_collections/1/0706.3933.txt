@@ -1,0 +1,9 @@
+We report negative capacitance at low frequencies in organic semiconductor
+based diodes and show that it appears only under bipolar injection conditions.
+We account quantitatively for this phenomenon by the recombination current due
+to electron-hole annihilation. Simple addition of the recombination current to
+the well established model of space charge limited current in the presence of
+traps, yields excellent fits to the experimentally measured admittance data.
+The dependence of the extracted characteristic recombination time on the bias
+voltage is indicative of a recombination process which is mediated by localized
+traps.

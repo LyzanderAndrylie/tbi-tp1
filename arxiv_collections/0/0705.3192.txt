@@ -1,0 +1,6 @@
+We discuss how to obtain the nonrelativistic limit of a self-consistent
+relativistic effective field theory for dynamic problems. It is shown that the
+standard v/c expansions yields Galilean invariance only to first order in v/c,
+whereas second order is required to obtain important contributions such as the
+spin-orbit force. We propose a modified procedure which is a mapping rather
+than a strict v/c expansion.

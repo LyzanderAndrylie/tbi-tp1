@@ -1,0 +1,16 @@
+We re-analyze the direct $\jp$ production processes at the Fermilab Tevatron
+in view of the recent observation at the B-factories, where both $\jp$
+inclusive and exclusive production rates are found to be about an order of
+magnitude larger than the leading order estimates of non-relativistic QCD. The
+charm quark fragmentation to $\jp$, which is the dominant color-singlet process
+at high $p_T$, is normalized by the B-factory measurements. The process
+receives further enhancement due to the charm sea contribution which has so far
+been ignored in most analyses. After summing up all sub-process contributions,
+we find that the color-singlet mechanism alone can account for 20% to 90% of
+the observed direct $\jp$ high $p_T$ production. The polarization rate of the
+directly produced $\jp$ is sensitive to the fraction of the color-octet
+contribution, which is employed to fill the gap between the color-singlet
+prediction and experimental data. With a bigger $K$-factor for the charm quark
+fragmentation probability, we envisage a smaller matrix element for the
+color-octet $^3S_1^{(8)}$ state, and this can be examined at the LHC in near
+future.

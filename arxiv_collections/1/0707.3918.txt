@@ -1,0 +1,11 @@
+We propose a new scheme of spin filtering employing ballistic nanostructures
+in two dimensional electron gases (2DEGs). The proposal is essentially based on
+the spin-orbit (SO) interaction arising from the lateral confining electric
+field. This sets the basic difference with other works employing ballistic
+crosses and T junctions with the conventional SO term arising from 2DEG
+confinement. We discuss the consequences of this different approach on
+magnetotransport properties of the device, showing that the filter can in
+principle be used not only to generate a spin polarized current but also to
+perform an electric measurement of the spin polarization of a charge current.
+We focus on single-channel transport and investigate numerically the spin
+polarization of the current.

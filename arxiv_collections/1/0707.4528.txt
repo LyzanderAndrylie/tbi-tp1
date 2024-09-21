@@ -1,0 +1,19 @@
+Given a holomorphic vector bundle $\cale$ on a connected compact complex
+manifold X, [FLS] construct a $\compl$-linear functional $I_{\cale}$ on
+$\hh{2n}{\compl}$. This is done by constructing a linear functional on the 0-th
+completed Hochschild homology $\choch{0}{(\dif(\cale))}$ of the sheaf of
+holomorphic differential operators on $\cale$ using topological quantum
+mechanics. They show that this functional is $\int_X$ if $\cale$ has non zero
+Euler characteristic. They conjecture that this functional is $\int_X$ for all
+$\cale$.
+  A subsequent work [Ram] by the author proved that the linear functional
+$I_{\cale}$ is independent of the vector bundle $\cale$. This note builds upon
+the work in [Ram] to prove that $I_{\cale}=\int_X$ for an arbitrary holomorphic
+vector bundle $\cale$ on an arbitrary connected compact complex manifold X.
+This is done using an argument that is very natural from the geometric point of
+view. This argument enables us to extend the construction in [FLS] to a
+construction of a linear functional $I_{\cale}$ on
+$\text{H}^{2n}_{c}(Y,\compl)$ for an arbitrary holomorphic vector bundle
+$\cale$ on an arbitrary connected complex manifold Y and prove that $I_{\cale}
+= \int_Y$. We also generalize a result of [Ram] pertaining to "cyclic homology
+analogs" of $I_{\cale}$.

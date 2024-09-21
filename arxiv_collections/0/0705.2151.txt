@@ -1,0 +1,19 @@
+Solar neutrino fluxes depend both on astrophysical and on nuclear physics
+inputs, namely on the cross sections of the reactions responsible for neutrino
+production inside the Solar core. While the flux of solar 8B neutrinos has been
+recently measured at Superkamiokande with a 3.5% uncertainty and a precise
+measurement of 7Be neutrino flux is foreseen in the next future, the predicted
+fluxes are still affected by larger errors. The largest nuclear physics
+uncertainty to determine the fluxes of 8B and 7Be neutrinos comes from the
+3He(alpha,gamma)7Be reaction. The uncertainty on its S-factor is due to an
+average discrepancy in results obtained using two different experimental
+approaches: the detection of the delayed gamma rays from 7Be decay and the
+measurement of the prompt gamma emission. Here we report on a new high
+precision experiment performed with both techniques at the same time. Thanks to
+the low background conditions of the Gran Sasso LUNA accelerator facility, the
+cross section has been measured at Ecm = 170, 106 and 93 keV, the latter being
+the lowest interaction energy ever reached.
+  The S-factors from the two methods do not show any discrepancy within the
+experimental errors. An extrapolated S(0)= 0.560+/-0.017 keV barn is obtained.
+Moreover, branching ratios between the two prompt gamma-transitions have been
+measured with 5-8% accuracy.

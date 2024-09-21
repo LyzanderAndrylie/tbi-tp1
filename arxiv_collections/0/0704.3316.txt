@@ -1,0 +1,13 @@
+We analyze a large-scale snapshot of del.icio.us and investigate how the
+number of different tags in the system grows as a function of a suitably
+defined notion of time. We study the temporal evolution of the global
+vocabulary size, i.e. the number of distinct tags in the entire system, as well
+as the evolution of local vocabularies, that is the growth of the number of
+distinct tags used in the context of a given resource or user. In both cases,
+we find power-law behaviors with exponents smaller than one. Surprisingly, the
+observed growth behaviors are remarkably regular throughout the entire history
+of the system and across very different resources being bookmarked. Similar
+sub-linear laws of growth have been observed in written text, and this
+qualitative universality calls for an explanation and points in the direction
+of non-trivial cognitive processes in the complex interaction patterns
+characterizing collaborative tagging.

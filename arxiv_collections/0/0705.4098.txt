@@ -1,0 +1,11 @@
+Open topological string amplitudes on compact Calabi-Yau threefolds are shown
+to satisfy an extension of the holomorphic anomaly equation of Bershadsky,
+Cecotti, Ooguri and Vafa. The total topological charge of the D-brane
+configuration must vanish in order to satisfy tadpole cancellation. The
+boundary state of such D-branes is holomorphically captured by a Hodge
+theoretic normal function. Its Griffiths' infinitesimal invariant is the
+analogue of the closed string Yukawa coupling and plays the role of the
+terminator in a Feynman diagram expansion for the topological string with
+D-branes. The holomorphic anomaly equation is solved and the holomorphic
+ambiguity is fixed for some representative worldsheets of low genus and with
+few boundaries on the real quintic.

@@ -1,0 +1,5 @@
+In the general context of complex data processing, this paper reviews a
+recent practical approach to the continuous wavelet formalism on the sphere.
+This formalism notably yields a correspondence principle which relates wavelets
+on the plane and on the sphere. Two fast algorithms are also presented for the
+analysis of signals on the sphere with steerable wavelets.

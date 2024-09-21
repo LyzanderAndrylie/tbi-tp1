@@ -1,0 +1,4 @@
+In this paper we give an algorithm to recognize triangulable locally
+nilpotent derivations in dimension three. In case the given derivation is
+triangulable, our method produces a coordinate system in which it exhibits a
+triangular form.

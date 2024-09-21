@@ -1,0 +1,13 @@
+Hybrid branching-time logics are introduced as extensions of CTL-like logics
+with state variables and the downarrow-binder. Following recent work in the
+linear framework, only logics with a single variable are considered. The
+expressive power and the complexity of satisfiability of the resulting logics
+is investigated.
+  As main result, the satisfiability problem for the hybrid versions of several
+branching-time logics is proved to be 2EXPTIME-complete. These branching-time
+logics range from strict fragments of CTL to extensions of CTL that can talk
+about the past and express fairness-properties. The complexity gap relative to
+CTL is explained by a corresponding succinctness result.
+  To prove the upper bound, the automata-theoretic approach to branching-time
+logics is extended to hybrid logics, showing that non-emptiness of alternating
+one-pebble Buchi tree automata is 2EXPTIME-complete.

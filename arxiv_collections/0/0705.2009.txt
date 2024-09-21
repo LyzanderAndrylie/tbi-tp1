@@ -1,0 +1,14 @@
+This paper addresses the performance of bit-interleaved coded multiple
+beamforming (BICMB) [1], [2] with imperfect knowledge of beamforming vectors.
+Most studies for limited-rate channel state information at the transmitter
+(CSIT) assume that the precoding matrix has an invariance property under an
+arbitrary unitary transform. In BICMB, this property does not hold. On the
+other hand, the optimum precoder and detector for BICMB are invariant under a
+diagonal unitary transform. In order to design a limited-rate CSIT system for
+BICMB, we propose a new distortion measure optimum under this invariance. Based
+on this new distortion measure, we introduce a new set of centroids and employ
+the generalized Lloyd algorithm for codebook design. We provide simulation
+results demonstrating the performance improvement achieved with the proposed
+distortion measure and the codebook design for various receivers with linear
+detectors. We show that although these receivers have the same performance for
+perfect CSIT, their performance varies under imperfect CSIT.

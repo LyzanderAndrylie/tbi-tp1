@@ -1,0 +1,13 @@
+We examine the interplay between size quantization and Landau quantization in
+the De Haas-Van Alphen oscillations of clean, metallic nanowires in a
+longitudinal magnetic field for `hard' boundary conditions, i.e. those of an
+infinite round well, as opposed to the `soft' parabolically confined boundary
+conditions previously treated in Alexandrov and Kabanov (Phys. Rev. Lett. {\bf
+95}, 076601 (2005) (AK)). We find that there exist {\em two} fundamental
+frequencies as opposed to the one found in bulk systems and the three
+frequencies found by AK with soft boundary counditions. In addition, we find
+that the additional `magic resonances' of AK may be also observed in the
+infinite well case, though they are now damped. We also compare the numerically
+generated energy spectrum of the infinite well potential with that of our
+analytic approximation, and compare calculations of the oscillatory portions of
+the thermodynamic quantities for both models.

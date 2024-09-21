@@ -1,0 +1,9 @@
+We examine the transverse momentum $Q_\perp$ dependence of the helicity
+structure functions for massive vector bosons of mass $Q$ in hadron reactions.
+We demonstrate that large logarithmic terms of the form $\ln(Q/Q_\perp)$ in the
+helicity structure functions have the same origin as the logarithmic terms in
+the angular-integrated cross section and that they can be resummed to all
+orders in the strong coupling $\alpha_s$, in the same way as the
+angular-integrated cross section. As a consequence of current conservation, the
+resummed part of the helicity structure functions preserves the Lam-Tung
+relation as a function of $Q_\perp$ to all orders in $\alpha_s$.

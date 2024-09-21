@@ -1,0 +1,7 @@
+Polyadic arithmetics is a branch of mathematics related to $p$--adic theory.
+The aim of the present paper is to show that there are very close relations
+between polyadic arithmetics and the classic theory of commutative Banach
+algebras. Namely, let $\ms A$ be the algebra consisting of all complex periodic
+functions on $\Z$ with the uniform norm. Then the polyadic topological ring can
+be defined as the ring of all characters $\ms A\to\C$ with convolution
+operations and the Gelfand topology.

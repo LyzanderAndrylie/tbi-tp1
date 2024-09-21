@@ -1,0 +1,11 @@
+Forward time step integrators are splitting algorithms with only positive
+splitting coefficients. When used in solving physical evolution equations,
+these positive coefficients correspond to positive time steps. Forward
+algorithms are essential for solving time-irreversible equations that cannot be
+evolved using backward time steps. However, forward integrators are also better
+in solving time-reversible equations of classical dynamics by tracking as
+closely as possible the physical trajectory. This work compares in detail
+various forward and non-forward fourth-order integrators using three, fourth,
+five and six force evaluations. In the case of solving the 2D Kepler orbit, all
+non-forward integrators are optimized by simply minimizing the size of their
+backward time steps.

@@ -1,0 +1,14 @@
+We study the five-quark system $uudd{\bar s}$ in the standard
+non-relativistic quark model by solving the scattering problem. Using the
+Gaussian Expansion Method (GEM), we perform the almost precise multi-quark
+calculations by treating a very large five-body modelspace including the NK
+scattering channel explicitly. Although a lot of pseudostates (discretized
+continuum states) with $J^\pi={1/2}^\pm$ and $J^\pi={3/2}^\pm$ are obtained
+within the bound-state approximation, all the states in $1.4-1.85$ GeV in mass
+around ${\rm {\rm \Theta}}^+(1540)$ melt into non-resonant continuum states
+through the coupling with the NK scattering state in the realistic case, i.e.,
+there is no five-quark resonance below 1.85GeV. Instead, we predict a
+five-quark resonance state of $J^\pi={1/2}^-$ with the mass of about 1.9GeV and
+the width of $\Gamma \simeq$ 2.68MeV. Similar calculation is done for the
+four-quark system $c{\bar c}q{\bar q}$ ($q=u,d$) in connection with
+X$^0$(3872).

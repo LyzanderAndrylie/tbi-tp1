@@ -1,0 +1,11 @@
+The recent debate on hypercomputation has arisen new questions both on the
+computational abilities of quantum systems and the Church-Turing Thesis role in
+Physics. We propose here the idea of "effective physical process" as the
+essentially physical notion of computation. By using the Bohm and Hiley active
+information concept we analyze the differences between the standard form
+(quantum gates) and the non-standard one (adiabatic and morphogenetic) of
+Quantum Computing, and we point out how its Super-Turing potentialities derive
+from an incomputable information source in accordance with Bell's constraints.
+On condition that we give up the formal concept of "universality", the
+possibility to realize quantum oracles is reachable. In this way computation is
+led back to the logic of physical world.

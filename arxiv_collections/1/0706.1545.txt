@@ -1,0 +1,9 @@
+In this paper, we carry a detailed study of mechanical systems with
+configuration space $Q\longrightarrow Q/G$ for which the base $Q/G$ variables
+are being controlled. The overall system's motion is considered to be induced
+from the base one due to the presence of general non-holonomic constraints. It
+is shown that the solution can be factorized into dynamical and geometrical
+parts. Moreover, under favorable kinematical circumstances, the dynamical part
+admits a further factorization since it can be reconstructed from an
+intermediate (body) momentum solution, yielding a reconstruction phase formula.
+Finally, we apply this results to the study of concrete mechanical systems.

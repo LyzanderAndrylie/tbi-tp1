@@ -1,0 +1,4 @@
+DPMJET-III with chain fusion is used to calculate inclusive distributions of
+Pb-Pb collisions at LHC energies. We present rapidity distributions as well as
+scaled multiplicities at mid-rapidity as function of the collision energy and
+the number of participants.

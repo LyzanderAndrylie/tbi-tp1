@@ -1,0 +1,9 @@
+We report experimental measurements of the transmission spectrum of an
+optical cavity coupled with cold Rb atoms. We observe the multi-atom vacuum
+Rabi splitting of a composite cavity and atom system. When a coupling field is
+applied to the atoms and induces the resonant two-photon Raman transition with
+the cavity field in a Lamda-type three-level system, we observe a cavity
+transmission spectrum with two vacuum Rabi sidebands and a central peak
+representing the intracavity dark state. The central peak linewidth is
+significantly narrowed by the dark-state resonance and its position is
+insensitive to the frequency change of the empty cavity.

@@ -1,0 +1,21 @@
+We present a detailed numerical simulation study of the effects caused by the
+magnetodipolar interaction between ferromagnetic (FM) layers of a trilayer
+magnetic nanoelement on its magnetization dynamics. As an example we use a
+Co/Cu/Ni80Fe20 element with a square lateral shape where the magnetization of
+FM layers forms a closed Landau-like domain pattern. First we show that when
+the thickness of the non-magnetic (NM) spacer is in the technology relevant
+region h ~ 10 nm, magnetodipolar interaction between 90o Neel domain walls in
+FM layers qualitatively changes the equilibrium magnetization state of these
+layers. In the main of the paper we compare the magnetization dynamics induced
+by a sub-nsec field pulse in a single-layer Ni80Fe20 (Py) element and in the
+Co/Cu/Py trilayer element. Here we show that (i) due to the spontaneous
+symmetry breaking of the Landau state in the FM/NM/FM trilayer its domains and
+domain walls oscillate with different frequencies and have different spatial
+oscillation patterns; (ii) magnetization oscillations of the trilayer domains
+are strongly suppressed due to different oscillation frequencies of domains in
+Co and Py; (iii) magnetization dynamics qualitatively depends on the relative
+rotation sense of magnetization states in Co and Py layers and on the
+magnetocrystalline anisotropy kind of Co crystallites. Finally we discuss the
+relation of our findings with experimental observations of magnetization
+dynamics in magnetic trilayers, performed using the element-specific
+time-resolved X-ray microscopy.

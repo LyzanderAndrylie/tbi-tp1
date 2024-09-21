@@ -1,0 +1,12 @@
+We introduce a composition of quantum states of a bipartite system which is
+based on the reshuffling of density matrices. This non-Abelian product is
+associative and stems from the composition of quantum maps acting on a simple
+quantum system. It induces a semi-group in the subset of states with maximally
+mixed partial traces. Subadditivity of the von Neumann entropy with respect to
+this product is proved. It is equivalent to subadditivity of the entropy of
+bistochastic maps with respect to their composition, where the entropy of a map
+is the entropy of the corresponding state under the Jamiolkowski isomorphism.
+Strong dynamical subadditivity of a concatenation of three bistochastic maps is
+established. Analogous bounds for the entropy of a composition are derived for
+general stochastic maps. In the classical case they lead to new bounds for the
+entropy of a product of two stochastic matrices.

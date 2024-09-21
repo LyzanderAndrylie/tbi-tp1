@@ -1,0 +1,9 @@
+We present a new generation of nano-electromechanical systems (NEMS), which
+are realized by doping the semiconductor base material. In contrast to the
+traditional approach these doped NEMS (D-NEMS) do not require a metallization
+layer. This makes them far lighter and hence increases resonance frequency and
+quality factor. Additionally, D-NEMS can be tuned from the conductive state
+into an insulating one. This will enable a host of new device designs, like
+mechanically tunable pin-junctions and nanomechanical single electron switches.
+We demonstrate D-NEMS fabrication and operation from the intrinsic, to the
+light, and to the heavy regime of doping.

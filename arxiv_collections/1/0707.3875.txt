@@ -1,0 +1,9 @@
+The non-local nature of the polaron formation in t-t'-t"-J model is studied
+in large lattices up to 64 sites by developing a new numerical method. We show
+that the effect of longer-range hoppings t' and t" is a large anisotropy of the
+electron-phonon interaction (EPI) leading to a completely different influence
+of EPI on the nodal and antinodal points in agreement with the experiments.
+Furthermore, nonlocal EPI preserves polaron's quantum motion, which destroys
+the antiferromagnetic order effectively, even at strong coupling regime,
+although the quasi-particle weight in angle-resolved-photoemission spectroscopy
+is strongly suppressed.

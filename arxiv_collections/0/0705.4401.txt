@@ -1,0 +1,6 @@
+By dividing a sample of 48 long-duration gamma-ray bursts (GRBs) into four
+groups with redshift from low to high and fitting each group with the Amati
+relation log Eiso = a + b log Epeak, I find that parameters a and b vary with
+the mean redshift of the GRBs in each group systematically and significantly.
+The results suggest that GRBs evolve strongly with the cosmic redshift and
+hence are not standard candles.

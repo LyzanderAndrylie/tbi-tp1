@@ -1,0 +1,16 @@
+We compute QCD corrections to QED calculations for vacuum polarization in
+background magnetic fields. Formally, the diagram for virtual $e\bar{e}$ loops
+is identical to the one for virtual $q\bar{q}$ loops. However due to
+confinement, or to the growth of $\alpha_s$ as $p^2$ decreases, a direct
+calculation of the diagram is not allowed. At large $p^2$ we consider the
+virtual $q\bar{q}$ diagram, in the intermediate region we discuss the role of
+the contribution of quark condensates $\left< q\bar{q}\right>$ and at the
+low-energy limit we consider the $\pi^0$, as well as charged pion $\pi^+\pi^-$
+loops. Although these effects seem to be out of the measurement accuracy of
+photon-photon laboratory experiments they may be relevant for $\gamma$-ray
+burst propagation. In particular, for emissions from the center of the galaxy
+(8.5 kpc), we show that the mixing between the neutral pseudo-scalar pion
+$\pi_0$ and photons renders a deviation from the power-law spectrum in the
+$TeV$ range. As for scalar quark condensates $\left< q\bar{q} right>$ and
+virtual $q\bar{q}$ loops are relevant only for very high radiation density
+$\sim 300 MeV/fm^3$ and very strong magnetic fields of order $\sim 10^{14} T$.

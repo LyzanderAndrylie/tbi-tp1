@@ -1,0 +1,7 @@
+We extend the stationary-state work fluctuation theorem to periodically
+modulated nonlinear systems. Such systems often have coexisting stable periodic
+states. We show that work fluctuations sharply increase near a kinetic phase
+transition where the state populations are close to each other. The work
+variance is proportional here to the reciprocal rate of interstate switching.
+We also show that the variance displays scaling with the distance to a
+bifurcation point and find the critical exponent for a saddle-node bifurcation.

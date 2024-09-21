@@ -1,0 +1,19 @@
+The Kac model describes the local evolution of a gas of $N$ particles with
+three dimensional velocities by a random walk in which the steps correspond to
+binary collisions that conserve momentum as well as energy. The state space of
+this walk is a sphere of dimension $3N - 4$. The Kac conjecture concerns the
+spectral gap in the one step transition operator $Q$ for this walk. In this
+paper, we compute the exact spectral gap.
+  As in previous work by Carlen, Carvalho and Loss where a lower bound on the
+spectral gap was proved, we use a method that relates the spectral properties
+of $Q$ to the spectral properties of a simpler operator $P$, which is simply an
+average of certain non commuting projections. The new feature is that we show
+how to use a knowledge of certain eigenfunctions and eigenvalues of $P$ to
+determine spectral properties of $Q$, instead of simply using the spectral gap
+for $P$ to bound the spectral gap for $Q$, inductively in $N$, as in previous
+work. The methods developed here can be applied to many other high--dimensional
+stochastic process, as we shall explain.
+  We also use some deep results on Jacobi polynomials to obtain the required
+spectral information on $P$, and we show how the identity through which Jacobi
+polynomials enter our problem may be used to obtain new bounds on Jacobi
+polynomials.

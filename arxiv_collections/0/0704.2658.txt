@@ -1,0 +1,9 @@
+The proof of the fact that there are no nontrivial, consistent
+cross-couplings that can be added between the Weyl graviton and the massless
+Rarita-Schwinger field is accomplished by means of a cohomological approach,
+based on the deformation of the solution to the master equation from the
+antifield-Becchi-Rouet-Stora-Tyutin (BRST) formalism. The procedure developed
+here relies on the assumptions of locality, smoothness, (background) Lorentz
+invariance, Poincare invariance, and preservation of the number of derivatives
+with respect to each field (the last hypothesis was made only in antighost
+number zero).

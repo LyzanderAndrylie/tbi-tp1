@@ -1,0 +1,12 @@
+We show that solutions $u(x,t)$ of the non-stationnary incompressible
+Navier--Stokes system in $\R^d$ ($d\geq2$) starting from mild decaying data $a$
+behave as $|x|\to\infty$ as a potential field: u(x,t) = e^{t\Delta}a(x) +
+\gamma_d\nabla_x(\sum_{h,k} \frac{\delta_{h,k}|x|^2 - d x_h x_k}{d|x|^{d+2}}
+K_{h,k}(t))+\mathfrak{o}(\frac{1}{|x|^{d+1}}) where $\gamma_d$ is a constant
+and $K_{h,k}=\int_0^t(u_h| u_k)_{L^2}$ is the energy matrix of the flow. We
+deduce that, for well localized data, and for small $t$ and large enough $|x|$,
+c t |x|^{-(d+1)} \le |u(x,t)|\le c' t |x|^{-(d+1)}, where the lower bound holds
+on the complementary of a set of directions, of arbitrary small measure on
+$\mathbb{S}^{d-1}$. We also obtain new lower bounds for the large time decay of
+the weighted-$L^p$ norms, extending previous results of Schonbek, Miyakawa, Bae
+and Jin.

@@ -1,0 +1,8 @@
+The RICE experiment seeks to measure ultra-high energy neutrinos (E(nu)>10
+PeV) by detection of the radio wavelength Cherenkov radiation produced by
+neutrino-ice collisions within Antarctic ice. An array of 16 dipole antennas,
+buried at depths of 100-400 m, and sensitive over the 100-500 MHz frequency
+range, has been continuously taking data for the last seven years. We herein
+describe the design and performance of the RICE experiment's event trigger and
+data acquisition system, highlighting elements not covered as extensively in
+previous publications.

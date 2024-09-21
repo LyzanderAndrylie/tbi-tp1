@@ -1,0 +1,9 @@
+The resolution associated with the so-called perfect lens of thickness $d$ is
+$-2\pi d/\ln(|\chi+2|/2)$. Here the susceptibility $\chi$ is a Hermitian
+function in $H^2$ of the upper half-plane, i.e., a $H^2$ function satisfying
+$\chi(-\omega)=\bar{\chi(\omega)}$. An additional requirement is that the
+imaginary part of $\chi$ be nonnegative for nonnegative arguments. Given an
+interval $I$ on the positive half-axis, we compute the distance in
+$L^\infty(I)$ from a negative constant to this class of functions. This result
+gives a surprisingly simple and explicit formula for the optimal resolution of
+the perfect lens on a finite bandwidth.

@@ -1,0 +1,6 @@
+Four-qubit cluster states of two photons entangled in polarization and linear
+momentum have been used to realize a complete set of single qubit rotations and
+the C-NOT gate for equatorial qubits with high values of fidelity. By the
+computational equivalence of the two degrees of freedom our result demonstrate
+the suitability of two photon cluster states for rapid and efficient one-way
+quantum computing.

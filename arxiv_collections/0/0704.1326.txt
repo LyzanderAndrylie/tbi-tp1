@@ -1,0 +1,6 @@
+We prove that any globally periodic rational discrete system in K^k(where K
+denotes either R or C), has unconfined singularities, zero algebraic entropy
+and it is complete integrable (that is, it has as many functionally independent
+first integrals as the dimension of the phase space). In fact, for some of
+these systems the unconfined singularities are the key to obtain first
+integrals using the Darboux-type method of integrability.

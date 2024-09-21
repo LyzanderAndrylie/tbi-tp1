@@ -1,0 +1,11 @@
+We present results of measurements of electrical, magnetic and thermal
+properties of EuB$_{5.99}$C$_{0.01}$. The observed anomalously large negative
+magnetoresistance as above, so below the Curie temperature of ferromagnetic
+ordering $T_C$ is attributed to fluctuations in carbon concentration. Below
+$T_C$ the carbon richer regions give rise to helimagnetic domains, which are
+responsible for an additional scattering term in the resistivity, which can be
+suppressed by a magnetic field. Above $T_C$ these regions prevent the process
+of percolation of magnetic polarons (MPs), acting as "spacers" between MPs. We
+propose that such "spacers", being in fact volumes incompatible with existence
+of MPs, may be responsible for the decrease of the percolation temperature and
+for the additional (magneto)resistivity increase in systems with MPs.

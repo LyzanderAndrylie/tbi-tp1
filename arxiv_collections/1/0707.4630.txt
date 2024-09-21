@@ -1,0 +1,9 @@
+The ground-state phase properties of a two-dimensional Bose system with
+dipole-dipole interactions is studied by means of quantum Monte Carlo
+techniques. Limitations of mean-field theory in a two-dimensional geometry are
+discussed. A quantum phase transition from gas to solid is found. Crystal is
+tested for existence of a supersolid in the vicinity of the phase transition.
+Existence of mesoscopic analogue of the off-diagonal long-range order is shown
+in the one-body density matrix in a finite-size crystal. Non-zero superfluid
+fraction is found in a finite-size crystal, the signal being dramatically
+increased in presence of vacancies.

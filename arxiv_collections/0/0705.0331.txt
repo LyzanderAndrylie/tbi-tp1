@@ -1,0 +1,7 @@
+The Peierls-Yoccoz projection method is used to study the motion of a
+relativistic system of nucleons interacting with sigma and omega mesons. The
+nuclear system is described in a mean-field Hartree approach, including
+explicitly the meson contribution and the formalism is applied to some selected
+N=Z spherical nuclei. The center-of-mass motion correction makes the system too
+much bounded, but we show that an appropriate refitting of the model brings the
+radii and binding energies close to the experimental values.

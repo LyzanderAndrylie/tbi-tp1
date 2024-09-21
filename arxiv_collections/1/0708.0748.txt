@@ -1,0 +1,11 @@
+In this paper we have criticized the so-called Landau damping theory. We have
+analyzed solutions of the standard dispersion equations for longitudinal
+(electric) and transversal (electromagnetic and electron) waves in
+half-infinite slab of the uniform collisionless plasmas with non-Maxwellian and
+Maxwellian-like electron energy distribution functions. One considered the most
+typical cases of both the delta-function type distribution function (the plasma
+stream with monochromatic electrons) and distribution functions, different from
+Maxwellian ones as with a surplus as well as with a shortage in the Maxwellian
+distribution function tail. It is shown that there are present for the
+considered cases both collisionless damping and also non-damping electron waves
+even in the case of non-Maxwellian distribution function.

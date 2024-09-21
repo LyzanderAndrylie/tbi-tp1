@@ -1,0 +1,5 @@
+We establish the superconductor-insulator phase diagram for quasi-one
+dimensional wires by measuring a large set of MoGe nanowires. This diagram is
+consistent with the Chakravarty-Schmid-Bulgadaev phase boundary, namely with
+the critical resistance being equal to R_Q = h/4e^2. We find that transport
+properties of insulating nanowires exhibit a weak Coulomb blockade behavior.

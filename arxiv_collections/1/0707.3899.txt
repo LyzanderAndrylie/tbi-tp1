@@ -1,0 +1,24 @@
+The basic aim of the thesis is the study of the propagation of particles and
+quasiparticles in non-trivial backgrounds from the quantum field theory point
+of view. By "non-trivial background" we mean either a non-vacuum state in
+Minkowski spacetime or an arbitrary state in a curved spacetime. Starting with
+the case of a flat spacetime, the basic properties of the particle and
+quasiparticle propagation are analyzed using two different methods other than
+the conventional mean-field-based techniques: on the one hand, the quantum
+state corresponding to the quasiparticle excitation is explicitly constructed;
+on the other hand, the spectral representation of the two-point propagators is
+analyzed. Both methods lead to the same results: the energy and decay rate of
+the quasiparticles are determined by the real and imaginary parts of the
+retarded self-energy respectively. These general results are applied to two
+particular quantum systems: first, a scalar particle immersed in a thermal
+graviton bath; second, a simplified atomic model, seizing the opportunity to
+connect with other statistical and first-quantized approaches. In the second
+part of the thesis the results are extended to curved spacetime. Working with a
+quasilocal quasiparticle concept the flat-spacetime results are recovered. In
+cosmology, within the adiabatic approximation, it is possible to go beyond the
+flat spacetime results and find additional effects due to the universe
+expansion. The cosmologically-induced effects are analyzed, obtaining that
+there might be an additional contribution to the particle decay due to the
+universe expansion. In the de Sitter case, this additional contribution
+coincides with the decay rate in a thermal bath in a flat spacetime at the
+corresponding de Sitter temperature.

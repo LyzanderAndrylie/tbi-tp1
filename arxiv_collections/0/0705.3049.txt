@@ -1,0 +1,8 @@
+We discuss properties of hypothetical scale invariant (unparticle) matter by
+viewing it as a tower of massive particles. We show how peculiar properties of
+unparticles emerge in the limit when the mass spacing parameter Delta vanishes.
+We explain why unparticle cannot decay in this limit and how, for finite Delta,
+the decays manifest themselves in a relation between the reconstructed
+invariant mass and vertex displacement. We describe a model field theory in
+AdS5 which explicitly implements the deconstruction procedure by truncating the
+extra dimension to size of order 1/Delta.

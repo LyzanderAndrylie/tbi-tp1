@@ -1,0 +1,5 @@
+A generalization of the heapsort algorithm is proposed. At the expense of
+about 50% more comparison and move operations for typical cases, the dualheap
+sort algorithm offers several advantages over heapsort: improved cache
+performance, better performance if the input happens to be already sorted, and
+easier parallel implementations.

@@ -1,0 +1,9 @@
+Dephasing is a ubiquitous phenomenon that leads to the loss of coherence in
+quantum systems and the corruption of quantum information. We present a
+universal dynamical control approach to combat dephasing during all stages of
+quantum computation, namely, storage, single- and two-qubit operators. We show
+that (a) tailoring multi-frequency gate pulses to the dephasing dynamics can
+increase fidelity; (b) cross-dephasing, introduced by entanglement, can be
+eliminated by appropriate control fields; (c) counter-intuitively and contrary
+to previous schemes, one can increase the gate duration, while simultaneously
+increasing the total gate fidelity.

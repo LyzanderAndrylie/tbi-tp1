@@ -1,0 +1,8 @@
+We study electronic transport properties of ferromagnetic nanoparticle arrays
+and nanodomain materials near the Curie temperature in the limit of weak
+coupling between the grains. We calculate the conductivity in the Ohmic and
+non-Ohmic regimes and estimate the magnetoresistance jump in the resistivity at
+the transition temperature. The results are applicable for many emerging
+materials, including artificially self-assembled nanoparticle arrays and a
+certain class of manganites, where localization effects within the clusters can
+be neglected.

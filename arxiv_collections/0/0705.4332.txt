@@ -1,0 +1,12 @@
+Calculations are presented to demonstrate the feasibility of Moon shadow
+observations for mean primary energies in the region 0.5-1.5 TeV using a muon
+detector operating under the Pyramid of the Sun at Teotihuacan, Mexico. Due to
+the small height of that monument (65 m), the experiment is capable of
+providing considerably high statistics, although with reduced angular accuracy
+for primary particle direction reconstruction. Our estimates are based on
+simulations of muon production and transport in the atmosphere by CORSIKA and
+along the body of the pyramid by GEANT4. The deflection of primaries in the
+earth magnetic field is calculated using the IGRF model. The statistics for the
+Moon shadow observations, which depends on different factors affecting the
+accuracy of the primary particle direction reconstruction, are analyzed in
+detail.

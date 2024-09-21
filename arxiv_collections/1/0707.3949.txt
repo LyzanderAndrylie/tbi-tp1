@@ -1,0 +1,11 @@
+In the present article we consider some general class of divergent diagrams
+in Keldysh diagram technique. These divergences arise for nonequilibrium matter
+and closely related to the divergences in the kinetic theory of gases. We
+suggest a scheme of renormalization of such divergences and illustrate it on
+some examples. In the other papers of these series we develop the general
+theory of renormalization of nonequilibrium diagram technique. The fact that
+thermal divergences in non-equilibrium diagram technique can be renormalized
+leads to the following consequence: to prove that the system tends to the
+thermal equilibrium one should to take into account the behaviour of the system
+on its boundary. In this paper we illustrate this fact on Bogoliubov derivation
+of kinetic equations.

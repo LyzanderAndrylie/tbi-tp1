@@ -1,0 +1,17 @@
+We propose a biologically motivated quantity, twinness, to evaluate local
+similarity between nodes in a network. The twinness of a pair of nodes is the
+number of connected, labeled subgraphs of size n in which the two nodes possess
+identical neighbours. The graph animal algorithm is used to estimate twinness
+for each pair of nodes (for subgraph sizes n=4 to n=12) in four different
+protein interaction networks (PINs). These include an Escherichia coli PIN and
+three Saccharomyces cerevisiae PINs -- each obtained using state-of-the-art
+high throughput methods. In almost all cases, the average twinness of node
+pairs is vastly higher than expected from a null model obtained by switching
+links. For all n, we observe a difference in the ratio of type A twins (which
+are unlinked pairs) to type B twins (which are linked pairs) distinguishing the
+prokaryote E. coli from the eukaryote S. cerevisiae. Interaction similarity is
+expected due to gene duplication, and whole genome duplication paralogues in S.
+cerevisiae have been reported to co-cluster into the same complexes. Indeed, we
+find that these paralogous proteins are over-represented as twins compared to
+pairs chosen at random. These results indicate that twinness can detect
+ancestral relationships from currently available PIN data.

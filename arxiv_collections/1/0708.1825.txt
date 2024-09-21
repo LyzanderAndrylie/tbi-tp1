@@ -1,0 +1,8 @@
+We address the problem of observables in generally invariant spacetime
+theories such as Einstein's general relativity. Using the refined notion of an
+event as a ``point-coincidence'' between scalar fields that completely
+characterise a spacetime model, we propose a generalisation of the relational
+local observables that does not require the existence of four everywhere
+invertible scalar fields. The collection of all point-coincidences forms in
+generic situations a four-dimensional manifold, that is naturally identified
+with the physical spacetime.

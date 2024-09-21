@@ -1,0 +1,8 @@
+We discuss the properties of ultracold Rydberg atoms in a Ioffe-Pritchard
+magnetic field configuration. The derived two-body Hamiltonian unveils how the
+large size of Rydberg atoms affects their coupling to the inhomogeneous
+magnetic field. The properties of the compound electronic and center of mass
+quantum states are thoroughly analyzed. We find very tight confinement of the
+center of mass motion in two dimensions to be achievable while barely changing
+the electronic structure compared to the field free case. This paves the way
+for generating a one-dimensional ultracold quantum Rydberg gas.

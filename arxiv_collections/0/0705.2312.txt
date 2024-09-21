@@ -1,0 +1,9 @@
+A major difficulty in realizing a solid-state quantum computer is the
+reliable measurement of the states of the quantum registers. In this paper, we
+propose an efficient readout scheme making use of the resonant tunneling of a
+ballistic electron produced by a single electron pump. We treat the measurement
+interaction in detail by modeling the full spatial configuration, and show that
+for pumped electrons with suitably chosen energy the transmission coefficient
+is very sensitive to the qubit state. We further show that by using a short
+sequence of pumping events, coupled with a simple feedback control procedure,
+the qubit can be measured with high accuracy.

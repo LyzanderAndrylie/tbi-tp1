@@ -1,0 +1,13 @@
+Min, Veeravalli, and Barlas have recently proposed strategies to minimize the
+overall execution time of one or several divisible loads on a heterogeneous
+linear network, using one or more installments. We show on a very simple
+example that their approach does not always produce a solution and that, when
+it does, the solution is often suboptimal. We also show how to find an optimal
+schedule for any instance, once the number of installments per load is given.
+Then, we formally state that any optimal schedule has an infinite number of
+installments under a linear cost model as the one assumed in the original
+papers. Therefore, such a cost model cannot be used to design practical
+multi-installment strategies. Finally, through extensive simulations we
+confirmed that the best solution is always produced by the linear programming
+approach, while solutions of the original papers can be far away from the
+optimal.

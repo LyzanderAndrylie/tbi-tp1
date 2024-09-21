@@ -1,0 +1,19 @@
+A theoretical description of radiation-matter coupling for
+semiconductor-based photonic crystal slabs is presented, in which quantum wells
+are embedded within the waveguide core layer. A full quantum theory is
+developed, by quantizing both the electromagnetic field with a spatial
+modulation of the refractive index and the exciton center of mass field in a
+periodic piecewise constant potential. The second-quantized hamiltonian of the
+interacting system is diagonalized with a generalized Hopfield method, thus
+yielding the complex dispersion of mixed exciton-photon modes including losses.
+The occurrence of both weak and strong coupling regimes is studied, and it is
+concluded that the new eigenstates of the system are described by
+quasi-particles called photonic crystal polaritons, which can occur in two
+situations: (i) below the light line, when a resonance between exciton and
+non-radiative photon levels occurs (guided polaritons), (ii) above the light
+line, provided the exciton-photon coupling is larger than the intrinsic
+radiative damping of the resonant photonic mode (radiative polaritons). For a
+square lattice of air holes, it is found that the energy minimum of the lower
+polariton branch can occur around normal incidence. The latter result has
+potential implications for the realization of polariton parametric interactions
+in photonic crystal slabs.

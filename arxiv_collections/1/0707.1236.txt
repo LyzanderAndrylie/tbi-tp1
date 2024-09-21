@@ -1,0 +1,10 @@
+We study a three dimensional system of a rectangular-waveguide resonator with
+an inserted thin ferrite disk. The interplay of reflection and transmission at
+the disk interfaces together with material gyrotropy effect, gives rise to a
+rich variety of wave phenomena. We analyze the wave propagation based on full
+Maxwell-equation numerical solutions of the problem. We show that the
+power-flow lines of the microwave-cavity field interacting with a ferrite disk,
+in the proximity of its ferromagnetic resonance, form whirlpool-like
+electromagnetic vortices. Such vortices are characterized by the dynamical
+symmetry breaking. The role of ohmic losses in waveguide walls and dielectric
+and magnetic losses in a disk is a subject of our investigations.

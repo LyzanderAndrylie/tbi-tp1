@@ -1,0 +1,4 @@
+We study boundary blow-up solutions of semilinear elliptic equations
+$Lu=u_+^p$ with $p>1$, or $Lu=e^{au}$ with $a>0$, where $L$ is a second order
+elliptic operator with measurable coefficients. Several uniqueness theorems and
+an existence theorem are obtained.

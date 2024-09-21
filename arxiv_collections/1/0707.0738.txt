@@ -1,0 +1,14 @@
+In this paper, we investigate the closure of a large class of Teichm\"uller
+discs in the stratum Q(1,1,1,1) or equivalently, in a GL^+_2(R)-invariant locus
+L of translation surfaces of genus three. We describe a systematic way to prove
+that the GL^+_2(R)-orbit closure of a translation surface in L is the whole of
+L. The strategy of the proof is an analysis of completely periodic directions
+on such a surface and an iterated application of Ratner's theorem to unipotent
+subgroups acting on an ``adequate'' splitting. This analysis applies for
+example to all Teichmueller discs stabilized obtained by Thurston's
+construction with a trace field of degree three which moreover ``obviously not
+Veech''. We produce an infinite series of such examples and show moreover that
+the favourable splitting situation does not arise everywhere on L, contrary to
+the situation in genus two. We also study completely periodic directions on
+translation surfaces in L. For instance, we prove that completely periodic
+directions are dense on surfaces obtained by Thurston's construction.

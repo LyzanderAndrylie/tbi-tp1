@@ -1,0 +1,5 @@
+The $O(\alpha_s^2)$ massive operator matrix elements for unpolarized and
+polarized heavy flavor production at asymptotic values $Q^2 >> m^2$ are
+calculated in Mellin space without applying the integration-by-parts method. We
+confirm previous results given in Refs. \cite{BU1,BU2}, however, obtain much
+more compact representations.

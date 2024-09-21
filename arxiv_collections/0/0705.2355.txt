@@ -1,0 +1,11 @@
+Both short interfering RNAs (siRNAs) and microRNAs (miRNAs) mediate the
+repression of specific sequences of mRNA through the RNA interference pathway.
+In the last years several experiments have supported the hypothesis that siRNAs
+and miRNAs may be functionally interchangeable, at least in cultured cells. In
+this work we verify that this hypothesis is also supported by a computational
+evidence. We show that a method specifically trained to predict the activity of
+the exogenous siRNAs assigns a high silencing level to experimentally
+determined human miRNAs. This result not only supports the idea of siRNAs and
+miRNAs equivalence but indicates that it is possible to use computational tools
+developed using synthetic small interference RNAs to investigate endogenous
+miRNAs.

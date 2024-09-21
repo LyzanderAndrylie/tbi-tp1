@@ -1,0 +1,6 @@
+The notion of representative statistical ensembles, correctly representing
+statistical systems, is strictly formulated. This notion allows for a proper
+description of statistical systems, avoiding inconsistencies in theory. As an
+illustration, a Bose-condensed system is considered. It is shown that a
+self-consistent treatment of the latter, using a representative ensemble,
+always yields a conserving and gapless theory.

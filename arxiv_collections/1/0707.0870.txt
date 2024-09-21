@@ -1,0 +1,10 @@
+We analyze the dynamics of ultracold atoms in optical lattices induced by a
+sudden shift of the underlying harmonic trapping potential. In order to study
+the effect of strong interactions, dimensionality and lattice topology on
+transport properties, we consider bosonic atoms with arbitrarily strong
+repulsive interactions, on a two-dimensional square lattice and a hexagonal
+lattice. On the square lattice we find insulating behavior for weakly
+interacting atoms and slow relaxation for strong interactions, even when a Mott
+plateau is present, which in one dimension blocks the dynamics. On the
+hexagonal lattice the center of mass relaxes to the new equilibrium for any
+interaction strength.

@@ -1,0 +1,9 @@
+We study the volume dependence of the left-current correlator with
+non-degenerate quark masses to next-to-leading order in the chiral expansion.
+We consider three possible regimes: all quark masses are in the
+$\epsilon$-regime, all are in the $p$-regime and a mixed-regime where the
+lighest quark masses satisfy $m_v \Sigma V \leq 1$ while the heavier $m_s
+\Sigma V \gg 1$. These results can be used to match lattice QCD and the Chiral
+Effective Theory in a large but finite box in which the Compton wavelength of
+the lightest pions is of the order of the box size. We consider both the full
+and partially-quenched results.

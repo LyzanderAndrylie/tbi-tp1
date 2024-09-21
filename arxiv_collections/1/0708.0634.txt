@@ -1,0 +1,9 @@
+Drinfel'd used associators to construct families of universal representations
+of braid groups. We consider semi-associators (i.e., we drop the pentagonal
+axiom and impose a normalization in degree one). We show that the process may
+be reversed, to obtain semi-associators from universal representations of
+3-braids. We view braid groups as subgroups of braid-permutation groups. We
+construct a family of universal representations of braid-permutation groups,
+without using associators. All representations in the family are faithful,
+defined over $\bbQ$ by simple explicit formulae. We show that they give
+universal Vassiliev-type invariants for braid-permutation groups.

@@ -1,0 +1,14 @@
+We consider a long, semiflexible polymer, with persistence length $P$ and
+contour length $L$, fluctuating in a narrow cylindrical channel of diameter
+$D$. In the regime $D\ll P\ll L$ the free energy of confinement $\Delta F$ and
+the length of the channel $R_\parallel$ occupied by the polymer are given by
+Odijk's relations $\Delta F/R_\parallel=A_\circ k_BTP^{-1/3}D^{-2/3}$ and
+$R_\parallel=L[1-\alpha_\circ(D/P)^{2/3}]$, where $A_\circ$ and $\alpha_\circ$
+are dimensionless amplitudes. Using a simulation algorithm inspired by PERM
+(Pruned Enriched Rosenbluth Method), which yields results for very long
+polymers, we determine $A_\circ$ and $\alpha_\circ$ and the analogous
+amplitudes for a channel with a rectangular cross section. For a semiflexible
+polymer confined to the surface of a cylinder, the corresponding amplitudes are
+derived with an exact analytic approach. The results are relevant for
+interpreting experiments on biopolymers in microchannels or microfluidic
+devices.

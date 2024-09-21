@@ -1,0 +1,4 @@
+We find an improved estimate of the radius of analyticity of the pressure of
+the hard-sphere gas in $d$ dimensions. The estimates are determined by the
+volume of multidimensional regions that can be numerically computed. For $d=2$,
+for instance, our estimate is about 40% larger than the classical one.

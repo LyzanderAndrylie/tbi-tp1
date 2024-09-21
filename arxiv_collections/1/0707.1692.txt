@@ -1,0 +1,8 @@
+We study the proximity effect between an s-wave superconductor and the
+surface states of a strong topological insulator. The resulting two dimensional
+state resembles a spinless p_x+ip_y superconductor, but does not break time
+reversal symmetry. This state supports Majorana bound states at vortices. We
+show that linear junctions between superconductors mediated by the topological
+insulator form a non chiral 1 dimensional wire for Majorana fermions, and that
+circuits formed from these junctions provide a method for creating,
+manipulating and fusing Majorana bound states.

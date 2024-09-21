@@ -1,0 +1,11 @@
+Using recently proposed improvements of Reflection Electron Microsopy (REM)
+we study in perfectly controlled thermodynamics conditions spiral shapes and
+spirals on Si(111) surface. It is shown that the new method named low
+distortion reflection electron microscopy (LODREM) is a powerful instrument,
+resolving in much more details (compared with REM) growth or evaporation
+spirals at the crystal surface. More precisely, we examine the distance between
+two successive steps of a spiral at growth (or evaporation) with respect to the
+supersaturation (or undersaturation). It is found that this distance scales
+with an exponent close to -1/2. This result, which deviates from the BCF theory
+originates from a non local behavior with a slow kinetic of attachment of the
+adatoms at the steps.

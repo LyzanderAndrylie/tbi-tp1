@@ -1,0 +1,8 @@
+The generic band structure of high-T$_C$ copper oxides is simulated by the
+nearly free-electron model (NFE) in two dimensions (2-D) with parameters from
+band calculations. Interaction between phonons and spin waves will cause
+potential modulations and pseudogaps, and the strength of the modulations, the
+wave lengths and the doping, are all related. A Fermi-surface "arc" is found
+for dynamic spin/phonon waves. The confinement of superconductivity between two
+limiting dopings can be a result of competition with the pseudogap at low
+doping and weak coupling at high doping.

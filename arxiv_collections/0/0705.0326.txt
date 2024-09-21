@@ -1,0 +1,9 @@
+Optimal delay-throughput trade-offs for two-dimensional i.i.d mobility models
+have been established in [23], where we showed that the optimal trade-offs can
+be achieved using rate-less codes when the required delay guarantees are
+sufficient large. In this paper, we extend the results to other mobility models
+including two-dimensional hybrid random walk model, one-dimensional i.i.d.
+mobility model and one-dimensional hybrid random walk model. We consider both
+fast mobiles and slow mobiles, and establish the optimal delay-throughput
+trade-offs under some conditions. Joint coding-scheduling algorithms are also
+proposed to achieve the optimal trade-offs.

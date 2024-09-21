@@ -1,0 +1,8 @@
+There exists presently considerable debate over the question whether local
+Coulomb interactions can explain the absence of the small e'_g Fermi surface
+hole pockets in photoemission studies of Na_{0.3}CoO_2. By comparing dynamical
+mean field results for different single particle Hamiltonians and exact
+diagonalization as well as quantum Monte Carlo treatments, we show that, for
+realistic values of the Coulomb energy U and Hund exchange J, the e'_g pockets
+can be slightly enhanced or reduced compared to band structure predictions, but
+they do not disappear.

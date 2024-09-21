@@ -1,0 +1,13 @@
+We present a measurement of the fractions F_0 and F_+ of longitudinally
+polarized and right-handed W bosons in top-quark decays using data collected
+with the CDF II detector. The data set used in the analysis corresponds to an
+integrated luminosity of approximately 955 pb-1. We select top-antitop
+candidate events with one lepton, at least four jets, and missing transverse
+energy. Our helicity measurement uses the decay angle theta*, which is defined
+as the angle between the momentum of the charged lepton in the W boson
+rest-frame and the W momentum in the top-quark rest-frame. The cos(theta*)
+distribution in the data is determined by full kinematic reconstruction of the
+top-antotop candidates. We find F_0 = 0.59 +- 0.12 (stat) +0.07 -0.06 (syst)
+and F_+ = -0.03 +- 0.06 (stat) +0.04 -0.03 (syst), which is consistent with the
+standard model prediction. We set an upper limit on the fraction of
+right-handed W-bosons of F_+ < 0.1 at the 95% confidence level.

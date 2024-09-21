@@ -1,0 +1,14 @@
+The Photonic Force Microscope (PFM) is an opto-mechanical technique based on
+an optical trap that can be assumed to probe forces in microscopic systems.
+This technique has been used to measure forces in the range of pico- and
+femto-Newton, assessing the mechanical properties of biomolecules as well as of
+other microscopic systems. For a correct use of the PFM, the force field to
+measure has to be invariable (homogeneous) on the scale of the Brownian motion
+of the trapped probe. This condition implicates that the force field must be
+conservative, excluding the possibility of a rotational component. However,
+there are cases where these assumptions are not fulfilled Here, we show how to
+improve the PFM technique in order to be able to deal with these cases. We
+introduce the theory of this enhanced PFM and we propose a concrete analysis
+workflow to reconstruct the force field from the experimental time-series of
+the probe position. Furthermore, we experimentally verify some particularly
+important cases, namely the case of a conservative or rotational force-field.

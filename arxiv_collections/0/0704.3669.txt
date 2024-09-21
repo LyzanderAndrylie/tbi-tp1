@@ -1,0 +1,9 @@
+For every rational homology 3-sphere with 2-torsion only we construct a
+unified invariant (which takes values in a certain cyclotomic completion of a
+polynomial ring), such that the evaluation of this invariant at any odd root of
+unity provides the SO(3) Witten-Reshetikhin-Turaev invariant at this root and
+at any even root of unity the SU(2) quantum invariant. Moreover, this unified
+invariant splits into a sum of the refined unified invariants dominating spin
+and cohomological refinements of quantum SU(2) invariants. New results on the
+Ohtsuki series and the integrality of quantum invariants are the main
+applications of our construction.

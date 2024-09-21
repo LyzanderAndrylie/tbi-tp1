@@ -1,0 +1,13 @@
+The conformational behavior of a giant DNA mediated by condensing agents in
+the bulk solution has been investigated through experimental and theoretical
+approaches. Experimentally, a pronounced conformational hysteresis is observed
+for folding and unfolding processes, by increasing and decreasing the
+concentration of condensing agent PEG (Polyethylene glycol), respectively. To
+elucidate the observed hysteresis, a semiflexible chain model is studied by
+using Monte Carlo simulations for the coil-globule transition. In the
+simulations, the hysteresis loop emerges for stiff enough chains, indicating
+distinct pathways for folding and unfolding processes. Also, our results show
+that globular state is thermodynamically more stable than coiled state in the
+hysteresis loop. Our findings suggest that increasing chain stiffness may
+reduce the chain conformations relevant to the folding pathway, which impedes
+the folding process.

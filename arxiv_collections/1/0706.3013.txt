@@ -1,0 +1,11 @@
+We report experimental and theoretical study of a rotating diode-pumped
+Nd-YAG ring laser with active beat note stabilization. Our experimental setup
+is described in the usual Maxwell-Bloch formalism. We analytically derive a
+stability condition and some frequency response characteristics for the
+solid-state ring laser gyroscope, illustrating the important role of mode
+coupling effects on the dynamics of such a device. Experimental data are
+presented and compared with the theory on the basis of realistic laser
+parameters, showing a very good agreement. Our results illustrate the duality
+between the very rich non linear dynamics of the diode-pumped solid-state ring
+laser (including chaotic behavior) and the possibility to obtain a very stable
+beat note, resulting in a potentially new kind of rotation sensor.

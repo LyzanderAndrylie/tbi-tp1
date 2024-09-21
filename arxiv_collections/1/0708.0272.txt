@@ -1,0 +1,16 @@
+Spectrometry is a general physical-analysis approach for investigating
+light-matter interactions. However, the complex designs of existing
+spectrometers render them resistant to simplification and miniaturization, both
+of which are vital for applications in micro- and nanotechnology and which are
+now undergoing intensive research. Stationary-wave integrated Fourier-transform
+spectrometry (SWIFTS)-an approach based on direct intensity detection of a
+standing wave resulting from either reflection (as in the principle of colour
+photography by Gabriel Lippmann) or counterpropagative interference
+phenomenon-is expected to be able to overcome this drawback. Here, we present a
+SWIFTS-based spectrometer relying on an original optical near-field detection
+method in which optical nanoprobes are used to sample directly the evanescent
+standing wave in the waveguide. Combined with integrated optics, we report a
+way of reducing the volume of the spectrometer to a few hundreds of cubic
+wavelengths. This is the first attempt, using SWIFTS, to produce a very small
+integrated one-dimensional spectrometer suitable for applications where
+microspectrometers are essential.

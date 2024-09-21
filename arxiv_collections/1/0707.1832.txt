@@ -1,0 +1,9 @@
+The low-temperature (up to about 100K) collisional (de)excitation cross
+sections are computed using the full coupled-channel (CC) quantum dynamics for
+both Li$_2$ and Li$_2^+$ molecular targets in collision with $^4$He. The
+interaction forces are obtained from fairly accurate {\it ab initio}
+calculations and the corresponding pseudo-rates are also computed. The results
+show surprising similarities between sizes of inelastic flux distributions
+within final states in both systems and the findings are connected with the
+structural change in the molecular rotor features when the neutral species is
+replaced by its ionic counterpart.

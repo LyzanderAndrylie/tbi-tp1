@@ -1,0 +1,6 @@
+The notion of a Weyl module, previously defined for the untwisted affine
+algebras, is extended here to the twisted affine algebras. We describe an
+identification of the Weyl modules for the twisted affine algebras with
+suitably chosen Weyl modules for the untwisted affine algebras. This
+identification allows us to use known results in the untwisted case to compute
+the dimensions and characters of the Weyl modules for the twisted algebras.

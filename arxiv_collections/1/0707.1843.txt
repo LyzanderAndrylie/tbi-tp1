@@ -1,0 +1,5 @@
+We find the transition kernels for four Markovian interacting particle
+systems on the line, by proving that each of these kernels is intertwined with
+a Karlin-McGregor type kernel. The resulting kernels all inherit the
+determinantal structure from the Karlin-McGregor formula, and have a similar
+form to Schutz's kernel for the totally asymmetric simple exclusion process.

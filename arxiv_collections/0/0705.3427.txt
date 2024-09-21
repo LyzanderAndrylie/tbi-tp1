@@ -1,0 +1,8 @@
+An embedding of chaotic data into a suitable phase space creates a
+diffeomorphism of the original attractor with the reconstructed attractor.
+Although diffeomorphic, the original and reconstructed attractors may not be
+topologically equivalent. In a previous work we showed how the original and
+reconstructed attractors can differ when the original is three-dimensional and
+of genus-one type. In the present work we extend this result to
+three-dimensional attractors of arbitrary genus. This result describes
+symmetries exhibited by the Lorenz attractor and its reconstructions.

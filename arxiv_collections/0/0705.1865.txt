@@ -1,0 +1,8 @@
+We study the effects of dissipation on a disordered quantum phase transition
+with O$(N)$ order parameter symmetry by applying a strong-disorder
+renormalization group to the Landau-Ginzburg-Wilson field theory of the
+problem. We find that Ohmic dissipation results in a non-perturbative
+infinite-randomness critical point with unconventional activated dynamical
+scaling while superohmic damping leads to conventional behavior. We discuss
+applications to the superconductor-metal transition in nanowires and to Hertz'
+theory of the itinerant antiferromagnetic transition.

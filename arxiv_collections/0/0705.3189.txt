@@ -1,0 +1,13 @@
+We present a fully microscopic approach to the transition rate of two
+exciton-photon polaritons. The non-trivial consequences of the polariton
+composite nature -- here treated exactly through a development of our
+composite-exciton many-body theory -- lead to results noticeably different from
+the ones of the conventional approaches in which polaritons are mapped into
+elementary bosons. Our work reveals an appealing fundamental scattering which
+corresponds to a photon-assisted exchange -- in the absence of Coulomb process.
+This scattering being dominant when one of the scattered polaritons has a
+strong photon character, it should be directly accessible to experiment. In the
+case of microcavity polaritons, it produces a significant enhancement of the
+polariton transition rate when compared to the one coming from Coulomb
+interaction. This paper also contains the crucial tools to securely tackle the
+many-body physics of polaritons, in particular towards its possible BEC.

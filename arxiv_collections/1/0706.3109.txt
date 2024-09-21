@@ -1,0 +1,11 @@
+In order to resolve the long-standing issue of how the itinerant
+ferromagnetism is affected by the lattice structure and Hund's coupling, we
+have compared various three-dimensional lattice structures in the single- and
+multiorbital Hubbard models with the dynamical mean-field theory with an
+improved quantum Monte Carlo algorithm that preserves the spin-SU(2) symmetry.
+The result indicates that {\it both} the lattice structure and the d-orbital
+degeneracy are essential for the ferromagnetism in the parameter region
+representing a transition metal. Specifically, (a) Hund's coupling, despite the
+common belief, is important, which is here identified to come from
+particle-hole scatterings, and (b) the ferromagnetism is a correlation effect
+(outside the Stoner picture) as indicated from the band-filling dependence.

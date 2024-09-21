@@ -1,0 +1,12 @@
+The magnetic and electrical transport properties of Mn-doped amorphous
+silicon (\textit{a-}Mn$_{x}$Si$_{1-x}$) thin films have been measured. The
+magnetic susceptibility obeys the Curie-Weiss law for a wide range of $x$
+(0.005-0.175) and the saturation moment is small. While all Mn atoms contribute
+to the electrical transport, only a small fraction (interstitial Mn$^{2+}$
+states with $J$=$S$=5/2) contribute to the magnetization. The majority of the
+Mn atoms do not possess any magnetic moment, contrary to what is predicted by
+the Ludwig-Woodbury model for Mn in crystalline silicon. Unlike
+\textit{a-}Gd$_{x}$Si$_{1-x}$ films which have an enormous \textit{negative}
+magnetoresistance, \textit{a-}Mn$_{x}$Si$_{1-x}$ films have only a small
+\textit{positive} magnetoresistance, which can be understood by this quenching
+of the Mn moment.

@@ -1,0 +1,12 @@
+Given a finite number of copies of an unknown qubit state that have already
+been measured optimally, can one still extract any information about the
+original unknown state? We give a positive answer to this question and quantify
+the information obtainable by a given observer as a function of the number of
+copies in the ensemble, and of the number of independent observers that, one
+after the other, have independently measured the same ensemble of qubits before
+him. The optimality of the protocol is proven and extensions to other states
+and encodings are also studied. According to the general lore, the state after
+a measurement has no information about the state before the measurement. Our
+results manifestly show that this statement has to be taken with a grain of
+salt, specially in situations where the quantum states encode confidential
+information.

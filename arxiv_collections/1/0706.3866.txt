@@ -1,0 +1,17 @@
+We present a theory of Hall effect in granular systems at large tunneling
+conductance $g_{T}\gg 1$. Hall transport is essentially determined by the
+intragrain electron dynamics, which, as we find using the Kubo formula and
+diagrammatic technique, can be described by nonzero diffusion modes inside the
+grains. We show that in the absence of Coulomb interaction the Hall resistivity
+$\rho_{xy}$ depends neither on the tunneling conductance nor on the intragrain
+disorder and is given by the classical formula $\rho_{xy}=H/(n^* e c)$, where
+$n^*$ differs from the carrier density $n$ inside the grains by a numerical
+coefficient determined by the shape of the grains and type of granular lattice.
+Further, we study the effects of Coulomb interactions by calculating
+first-order in $1/g_T$ corrections and find that (i) in a wide range of
+temperatures $T \gtrsim \Ga$ exceeding the tunneling escape rate $\Ga$, the
+Hall resistivity $\rho_{xy}$ and conductivity $\sig_{xy}$ acquire logarithmic
+in $T$ corrections, which are of local origin and absent in homogeneously
+disordered metals; (ii) large-scale ``Altshuler-Aronov'' correction to
+$\sig_{xy}$, relevant at $T\ll\Ga$, vanishes in agreement with the theory of
+homogeneously disordered metals.

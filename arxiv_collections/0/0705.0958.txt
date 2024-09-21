@@ -1,0 +1,4 @@
+We compute expectation values of mixed traces containing both matrices in a
+two matrix model, i.e. generating function for counting bicolored discrete
+surfaces with non uniform boundary conditions. As an application, we prove the
+$x-y$ symmetry of the algebraic curve invariants introduced in math-ph/0702045.

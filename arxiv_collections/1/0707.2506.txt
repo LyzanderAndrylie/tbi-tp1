@@ -1,0 +1,14 @@
+We consider the problem of finding an n-agent joint-policy for the optimal
+finite-horizon control of a decentralized Pomdp (Dec-Pomdp). This is a problem
+of very high complexity (NEXP-hard in n >= 2). In this paper, we propose a new
+mathematical programming approach for the problem. Our approach is based on two
+ideas: First, we represent each agent's policy in the sequence-form and not in
+the tree-form, thereby obtaining a very compact representation of the set of
+joint-policies. Second, using this compact representation, we solve this
+problem as an instance of combinatorial optimization for which we formulate a
+mixed integer linear program (MILP). The optimal solution of the MILP directly
+yields an optimal joint-policy for the Dec-Pomdp. Computational experience
+shows that formulating and solving the MILP requires significantly less time to
+solve benchmark Dec-Pomdp problems than existing algorithms. For example, the
+multi-agent tiger problem for horizon 4 is solved in 72 secs with the MILP
+whereas existing algorithms require several hours to solve it.

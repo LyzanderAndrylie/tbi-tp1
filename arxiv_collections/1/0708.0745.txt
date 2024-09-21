@@ -1,0 +1,11 @@
+In this article, we study the Coulomb corrections to the Delbrueck scattering
+amplitude. We consider the limit when the energy of the photon is much less
+than the electron mass. The calculations are carried out in the coordinate
+representation using the exact relativistic Green function of an electron in a
+Coulomb field. The resulting relative corrections are of the order of a few
+percent for scattering on for a large charge of the nucleus. We compare the
+corrections with the corresponding ones calculated through the dispersion
+integral of the pair production cross section and also with the magnetic loop
+contribution to the g-factor of a bound electron. The last one is in a good
+agreement with our results but the corrections calculated through the
+dispersion relation are not.

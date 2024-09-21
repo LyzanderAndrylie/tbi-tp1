@@ -1,0 +1,10 @@
+We report the first search for CP violating decays of the $\Upsilon(4S)$
+using a data sample that contains 535 million $\Upsilon(4S)$ mesons with the
+Belle detector at the KEKB asymmetric-energy e^+ e^- collider. A partial
+reconstruction technique is employed to enhance the signal sensitivity. No
+significant signals were observed. We obtain an upper limit of $4 \times
+10^{-7}$ at the 90 % confidence level for the branching fractions of the $CP$
+violating modes, $\Upsilon(4S) \to B^0\bar{B}^0 \to J/\psi K^0_S +
+J/\psi(\eta_c) K^0_S$. Extrapolating the result, we find that an observation
+with 5$\sigma$ significance is expected with a 30 ab^{-1} data sample, which is
+within the reach of a future super B factory.

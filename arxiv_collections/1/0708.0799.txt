@@ -1,0 +1,9 @@
+We present molecular dynamics simulations on the structural relaxation of a
+simple bead-spring model for polymer blends. The introduction of a different
+monomer size induces a large time scale separation for the dynamics of the two
+components. Simulation results for a large set of observables probing density
+correlations, Rouse modes, and orientations of bond and chain end-to-end
+vectors, are analyzed within the framework of the Mode Coupling Theory (MCT).
+An unusually large value of the exponent parameter is obtained. This feature
+suggests the possibility of an underlying higher-order MCT scenario for dynamic
+arrest.

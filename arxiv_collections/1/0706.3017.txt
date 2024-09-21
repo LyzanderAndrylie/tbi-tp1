@@ -1,0 +1,10 @@
+The variational method, within the Hamiltonian formalism of reformulated QED
+is used to determine relativistic wave equations for a system of three fermions
+of arbitrary mass interacting electromagnetically. The interaction kernels of
+the equations are, in essence, the invariant $\mathcal{M}$ matrices in lowest
+order. The equations are used to obtain relativistic $O(\alpha^2)$ corrections
+to the non-relativistic ground state energy levels of the Muonium negative ion
+($\mu^+ e^- e^-$) as well as of $\mathrm{Ps}^-$ and $\mathrm{H}^-$, using
+approximate variational three-body wave functions. The results are compared
+with other calculations, where available. The relativistic correction for
+Mu$^-$ is found to be $-1.0773 \times 10^{-4}$ eV.

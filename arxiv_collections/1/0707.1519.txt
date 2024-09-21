@@ -1,0 +1,6 @@
+Finsler and Lagrange spaces can be equivalently represented as almost Kahler
+manifolds enabled with a metric compatible canonical distinguished connection
+structure generalizing the Levi Civita connection. The goal of this paper is to
+perform a natural Fedosov-type deformation quantization of such geometries. All
+constructions are canonically derived for regular Lagrangians and/or
+fundamental Finsler functions on tangent bundles.

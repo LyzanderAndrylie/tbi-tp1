@@ -1,0 +1,11 @@
+As a solvable and broadly applicable model system, the totally asymmetric
+exclusion process enjoys iconic status in the theory of non-equilibrium phase
+transitions. Here, we focus on the time dependence of the total number of
+particles on a 1-dimensional open lattice, and its power spectrum. Using both
+Monte Carlo simulations and analytic methods, we explore its behavior in
+different characteristic regimes. In the maximal current phase and on the
+coexistence line (between high/low density phases), the power spectrum displays
+algebraic decay, with exponents -1.62 and -2.00, respectively. Deep within the
+high/low density phases, we find pronounced \emph{oscillations}, which damp
+into power laws. This behavior can be understood in terms of driven biased
+diffusion with conserved noise in the bulk.

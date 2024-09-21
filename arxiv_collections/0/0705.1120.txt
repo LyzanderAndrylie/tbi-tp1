@@ -1,0 +1,7 @@
+We sketch a natural affirmative answer to the question based on a joint work
+[11] with J. Wess. There we argue that a proper enforcement of the "twisted
+Poincare'" covariance makes any differences $(x-y)^\mu$ of coordinates of two
+copies of the Moyal-Weyl deformation of Minkowski space like undeformed. Then
+QFT in an operator approach becomes compatible with (minimally adapted)
+Wightman axioms and time-ordered perturbation theory, and physically equivalent
+to ordinary QFT, as observables involve only coordinate differences.

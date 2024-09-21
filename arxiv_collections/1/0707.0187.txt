@@ -1,0 +1,13 @@
+Unparticles ($\U$) interact weakly with particles. The direct signature of
+unparticles will be in the form of missing energy. We study constraints on
+unparticle interactions using totally invisible decay modes of $Z$, vector
+quarkonia $V$ and neutrinos. The constraints on the unparticle interaction
+scale $\Lambda_\U$ are very sensitive to the dimension $d_\U$ of the
+unparticles. From invisible $Z$ and $V$ decays, we find that with $d_\U$ close
+to 1 for vector $\U$, the unparticle scale $\Lambda_\U$ can be more than $10^4$
+TeV, and for $d_\U$ around 2, the scale can be lower than one TeV. From
+invisible neutrino decays, we find that if $d_\U$ is close to 3/2, the scale
+can be more than the Planck mass, but with $d_\U$ around 2 the scale can be as
+low as a few hundred GeV. We also study the possibility of using $V (Z)\to
+\gamma + \U$ to constrain unparticle interactions, and find that present data
+give weak constraints.

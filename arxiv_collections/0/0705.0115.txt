@@ -1,0 +1,19 @@
+Based on previous studies deriving the chiral Lagrangian for pseudo scalar
+mesons from the first principle of QCD, we derive the electroweak chiral
+Lagrangian and build up a formulation for computing its coefficients from
+one-doublet technicolor model and a schematic topcolor-assisted technicolor
+model. We find that the coefficients of the electroweak chiral Lagrangian for
+the topcolor-assisted technicolor model are divided into three parts: direct
+TC2 interaction part, TC1 and TC2 induced effective Z' particle contribution
+part, and ordinary quarks contribution part. The first two parts are computed
+in this paper and we show that the direct TC2 interaction part is the same as
+that in the one-doublet technicolor model, while effective Z' contributions are
+at least proportional to the p^2 order parameter \beta_1 in the electroweak
+chiral Lagrangian and typical features of topcolor-assisted technicolor model
+are that it only allows positive T and U parameters and the T parameter varies
+in the range 0\sim 1/(25\alpha), the upper bound of T parameter will decrease
+as long as Z' mass become large. The S parameter can be either positive or
+negative depending on whether the Z' mass is large or small. The Z' mass is
+also bounded above and the upper bound depend on value of T parameter. We
+obtain the values for all the coefficients of the electroweak chiral Lagrangian
+up to order of p^4.

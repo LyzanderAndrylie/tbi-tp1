@@ -1,0 +1,14 @@
+Based on the postulate that photon propagation is governed by a dynamically
+broken SU(2) gauge symmetry (scale $\sim 10^{-4} $eV) we make predictions for
+temperature offsets due to a low-temperature (a few times the present CMB
+temperature) spectral anomaly at low frequencies. Temperature offsets are
+extracted from least-square fits of the anomalous black-body spectra to their
+conventional counterparts. We discuss statistical errors, compare our results
+with those obtained from calibration data of the FIRAS instrument, and point
+out that our predicted offsets are screened by experimental errors given the
+frequency range used by FIRAS to perform their spectral fits. We also make
+contact with the WMAP observation by blueshifting their frequency bands.
+Although our results hint towards a strong dynamical component in the CMB
+dipole and an explanation of low-$l$ suppression it is important in view of its
+particle-physics implications that the above postulate be verified/falsified by
+an independent low-temperature black-body precision experiment.

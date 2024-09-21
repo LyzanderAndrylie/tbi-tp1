@@ -1,0 +1,9 @@
+We study the motion of two non-interacting quantum particles performing a
+random walk on a line and analyze the probability that the two particles are
+detected at a particular position after a certain number of steps (meeting
+problem). The results are compared to the corresponding classical problem and
+differences are pointed out. Analytic formulas for the meeting probability and
+its asymptotic behavior are derived. The decay of the meeting probability for
+distinguishable particles is faster then in the classical case, but not
+quadratically faster. Entangled initial states and the bosonic or fermionic
+nature of the walkers are considered.

@@ -1,0 +1,4 @@
+We show how to calculate the Euler characteristic of a local system
+associated to an irreducible representation of the symplectic group of genus 3
+on the moduli space of curves of genus 3 and the moduli space of principally
+polarized abelian varieties of dimension 3.

@@ -1,0 +1,18 @@
+We present general relativistic correction terms appearing in Newton's
+gravity to the second-order perturbations of cosmological fluids. In our
+previous work we have shown that to the second-order perturbations, the density
+and velocity perturbation equations of general relativistic zero-pressure,
+irrotational, single-component fluid in a flat background coincide exactly with
+the ones known in Newton's theory. Here, we present the general relativistic
+second-order correction terms arising due to (i) pressure, (ii)
+multi-component, (iii) background curvature, and (iv) rotation. In case of
+multi-component zero-pressure, irrotational fluids under the flat background,
+we effectively do not have relativistic correction terms, thus the relativistic
+result again coincides with the Newtonian ones. In the other three cases we
+generally have pure general relativistic correction terms. In case of pressure,
+the relativistic corrections appear even in the level of background and linear
+perturbation equations. In the presence of background curvature, or rotation,
+pure relativistic correction terms directly appear in the Newtonian equations
+of motion of density and velocity perturbations to the second order. In the
+small-scale limit (far inside the horizon), relativistic equations including
+the rotation coincide with the ones in Newton's gravity.

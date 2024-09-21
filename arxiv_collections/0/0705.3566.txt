@@ -1,0 +1,10 @@
+Quantum mechanical phase factors can be related to dynamical effects or to
+the geometrical properties of a trajectory in a given space - either parameter
+space or Hilbert space. Here, we experimentally investigate a quantum
+mechanical phase factor that reflects the topology of the SO(3) group: since
+rotations by $\pi$ around antiparallel axes are identical, this space is doubly
+connected. Using pairs of nuclear spins in a maximally entangled state, we
+subject one of the spins to a cyclic evolution. If the corresponding trajectory
+in SO(3) can be smoothly deformed to a point, the quantum state at the end of
+the trajectory is identical to the initial state. For all other trajectories
+the quantum state changes sign.

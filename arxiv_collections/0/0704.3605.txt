@@ -1,0 +1,5 @@
+We discuss the current conservation laws in sigma models based on a compact
+Lie groups of the same dimensionality and connected to each other via
+pseudoduality transformations in two dimensions. We show that pseudoduality
+transformations induce an infinite number of nonlocal conserved currents on the
+pseudodual manifold.

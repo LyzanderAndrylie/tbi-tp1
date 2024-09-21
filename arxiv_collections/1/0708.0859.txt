@@ -1,0 +1,10 @@
+We give the first exponential separation between quantum and classical
+multi-party communication complexity in the (non-interactive) one-way and
+simultaneous message passing settings.
+  For every k, we demonstrate a relational communication problem between k
+parties that can be solved exactly by a quantum simultaneous message passing
+protocol of cost O(log n) and requires protocols of cost n^{c/k^2}, where c>0
+is a constant, in the classical non-interactive one-way message passing model
+with shared randomness and bounded error.
+  Thus our separation of corresponding communication classes is superpolynomial
+as long as k=o(\sqrt{\log n / \log\log n}) and exponential for k=O(1).

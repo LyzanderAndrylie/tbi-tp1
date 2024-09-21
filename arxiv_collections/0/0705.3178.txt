@@ -1,0 +1,9 @@
+We analyze the non-Gaussianity for primordial curvature perturbations
+generated in multi-scalar slow-roll inflation model including the model with
+non-separable potential by making use of $\delta N$ formalism. Many authors
+have investigated the possibility of large non-Gaussianity for the models with
+separable potential, and they have found that the non-linear parameter,
+$f_{NL}$, is suppressed by the slow-roll parameters. We show that for the
+non-separable models $f_{NL}$ is given by the product of a factor which is
+suppressed by the slow-roll parameters and a possible enhancement factor which
+is given by exponentials of quantities of O(1).

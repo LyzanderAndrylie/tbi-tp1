@@ -1,0 +1,15 @@
+We carry out the non-perturbative renormalization of the chromo-magnetic
+operator in Heavy Quark Effective Theory. At order 1/m of the expansion, the
+operator is responsible for the mass splitting between the pseudoscalar and
+vector B mesons. We obtain its two-loop anomalous dimension in a Schr"odinger
+functional scheme by successive one-loop conversions to the lattice MS scheme
+and the MS-bar scheme. We then compute the scale evolution of the operator
+non-perturbatively in the N_f=0 theory between $\mu \approx 0.3$ GeV and $\mu
+\approx 100$ GeV, where contact is made with perturbation theory. The overall
+renormalization factor that converts the bare lattice operator to its
+renormalization group invariant form is given for the Wilson gauge action and
+two standard discretizations of the heavy-quark action. As an application, we
+find that this factor brings the previous quenched predictions of the B* - B
+mass splitting closer to the experimental value than found with a perturbative
+renormalization. The same renormalization factor is applicable to the
+spin-dependent potentials of Eichten and Feinberg.

@@ -1,0 +1,23 @@
+We report the results of spectroscopic mapping observations carried out
+toward small (1 x 1 arcmin) regions within the supernova remnants W44, W28,
+IC443, and 3C391 using the Infrared Spectrograph of the Spitzer Space
+Telescope. These observations, covering the 5.2 - 37 micron spectral region,
+have led to the detection of a total of 15 fine structure transitions of Ne+,
+Ne++, Si+, P+, S, S++, Cl+, Fe+, and Fe++; the S(0) - S(7) pure rotational
+lines of molecular hydrogen; and the R(3) and R(4) transitions of hydrogen
+deuteride. In addition to these 25 spectral lines, the 6.2, 7.7, 8.6, 11.3 and
+12.6 micron PAH emission bands were also observed. Most of the detected line
+transitions have proven strong enough to map in several sources, providing a
+comprehensive picture of the relative distribution of the various line
+emissions observable in the Spitzer/IRS bandpass. A principal component
+analysis of the spectral line maps reveals that the observed emission lines
+fall into five distinct groups, each of which may exhibit a distinct spatial
+distribution: (1) lines of S and H2 (J > 2); (2) the H2 S(0) line; (3) lines of
+ions with appearance potentials less than 13.6 eV; (4) lines of ions with
+appearance potentials greater than 13.6 eV, not including S++; (5) lines of
+S++. Lines of group (1) likely originate in molecular material subject to a
+slow, nondissociative shock that is driven by the overpressure within the
+supernova remnant, and lines in groups (3) - (5) are associated primarily with
+dissociative shock fronts with a range of (larger) shock velocities. The H2
+S(0) line shows a low-density diffuse emission component, and - in some sources
+- a shock-excited component.

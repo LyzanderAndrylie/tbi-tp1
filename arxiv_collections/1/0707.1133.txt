@@ -1,0 +1,17 @@
+In this paper we first investigate zero-sum two-player stochastic
+differential games with reflection with the help of theory of Reflected
+Backward Stochastic Differential Equations (RBSDEs). We will establish the
+dynamic programming principle for the upper and the lower value functions of
+this kind of stochastic differential games with reflection in a
+straight-forward way. Then the upper and the lower value functions are proved
+to be the unique viscosity solutions of the associated upper and the lower
+Hamilton-Jacobi-Bellman-Isaacs equations with obstacles, respectively. The
+method differs heavily from those used for control problems with reflection, it
+has its own techniques and its own interest. On the other hand, we also prove a
+new estimate for RBSDEs being sharper than that in El Karoui, Kapoudjian,
+Pardoux, Peng and Quenez [7], which turns out to be very useful because it
+allows to estimate the $L^p$-distance of the solutions of two different RBSDEs
+by the $p$-th power of the distance of the initial values of the driving
+forward equations. We also show that the unique viscosity solution of the
+approximating Isaacs equation which is constructed by the penalization method
+converges to the viscosity solution of the Isaacs equation with obstacle.

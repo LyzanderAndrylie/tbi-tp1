@@ -1,0 +1,4 @@
+In this article, we describe how to develop a mode converter that transforms
+a plane electromagnetic wave into an inward moving dipole wave. The latter one
+is intended to bring a single atom or ion from its ground state to its excited
+state by absorption of a single photon wave packet with near-100% efficiency.

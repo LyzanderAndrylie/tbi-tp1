@@ -1,0 +1,13 @@
+The Hamiltonian Theory of the fractional quantum Hall effect is an operator
+description that subsumes many properties of Composite Fermions, applies to
+gapped and gapless cases, and has been found to provide results in quantitative
+accord with data on gaps, relaxation rates and polarizations at temperatures of
+$300mK$ and above. The only free parameter is $\lambda$, which is related to
+the sample thickness and appears in the Zhang-Das Sarma potential $v(q) = {2\pi
+e^2\over \kappa q} e^{-ql\lambda}$ where $l$ and $\kappa $ are the magnetic
+length and dielectric constant. Here we examine the recent data of Tracy and
+Eisenstein on the nuclear magnetic resonance relaxation rate at filling factor
+$\nu=\half$ deduced from resistivity measurements at temperatures as low as
+$45mK$. We find that their results can be satisfactorily described by this
+theory, if in addition to a $v(q)$ with $\lambda \simeq 2$, a constant disorder
+width $\Gamma\simeq 100 mK$ is incorporated.

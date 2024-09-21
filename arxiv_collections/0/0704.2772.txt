@@ -1,0 +1,9 @@
+We present a study of interlayer coupling and proximity effects in a
+La$_{0.66}$Ca$_{0.33}$MnO$_3$(10 nm)/YBa$_2$Cu$_3$O$_7$(10 nm) superlattice.
+Using element-sensitive x-ray probes, the magnetic state of Mn can be probed
+without seeing the strong diamagnetism of the superconductor, which makes this
+approach ideal to study changes in the magnetic properties across the
+superconducting transition. By a combined experiment using {\it in situ}
+transport measurements during polarized soft x-ray measurements, we were able
+to see no noticeable influence of the superconducting state on the magnetic
+properties and no evidence for magnetic coupling across a 10 nm YBCO layer.

@@ -1,0 +1,23 @@
+The formalism of non-standard four-fermion interactions provides a
+convenient, model-independent way of parameterizing a wide class of ``new
+physics'' scenarios. In this article, we study the performance of reactor and
+superbeam neutrino experiments in the presence of such non-standard
+interactions (NSI). Due to interference between the standard and non-standard
+amplitudes, sizeable effects are to be expected if the NSI parameters are close
+to their current upper limits. We derive approximate formulas for the relevant
+oscillation probabilities including NSI, and show how the leading effects can
+be understood intuitively even without any calculations. We will present a
+classification of all possible NSI according to their impact on reactor and
+superbeam experiments, and it will turn out that these experiments are highly
+complementary in terms of their sensitivity to the non-standard parameters. The
+second part of the paper is devoted to detailed numerical simulations, which
+will demonstrate how a standard oscillation fit of the mixing angle theta-13
+may fail if experimental data is affected by NSI. We find that for some
+non-standard terms, reactor and superbeam experiments would yield seemingly
+conflicting results, while in other cases, they may agree well with each other,
+but the resulting value for theta-13 could be far from the true value. This
+offset may be so large that the true theta-13 is even ruled out erroneously. In
+the last section of the paper, we demonstrate that reactor and superbeam data
+can actually establish the presence of non-standard interactions. Throughout
+our discussion, we pay special attention to the impact of the complex phases,
+and of the near detectors.

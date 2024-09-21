@@ -1,0 +1,6 @@
+Many 2D lattice models of physical phenomena are conjectured to have
+conformally invariant scaling limits: percolation, Ising model, self-avoiding
+polymers, ... This has led to numerous exact (but non-rigorous) predictions of
+their scaling exponents and dimensions. We will discuss how to prove the
+conformal invariance conjectures, especially in relation to Schramm-Loewner
+Evolution.

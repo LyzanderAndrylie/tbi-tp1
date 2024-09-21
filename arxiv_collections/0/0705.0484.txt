@@ -1,0 +1,16 @@
+The calculation of conserved charges of black holes is a rich problem, for
+which many methods are known. Until recently, there was some controversy on the
+proper definition of conserved charges in asymptotically anti-de Sitter (AdS)
+spaces in arbitrary dimensions. This paper provides a systematic and explicit
+Hamiltonian derivation of the energy and the angular momenta of both
+asymptotically flat and asymptotically AdS spacetimes in any dimension D bigger
+or equal to 4. This requires as a first step a precise determination of the
+asymptotic conditions of the metric and of its conjugate momentum. These
+conditions happen to be achieved in ellipsoidal coordinates adapted to the
+rotating solutions.The asymptotic symmetry algebra is found to be isomorphic
+either to the Poincare algebra or to the so(D-1, 2) algebra, as expected. In
+the asymptotically flat case, the boundary conditions involve a generalization
+of the parity conditions, introduced by Regge and Teitelboim, which are
+necessary to make the angular momenta finite. The charges are explicitly
+computed for Kerr and Kerr-AdS black holes for arbitrary D and they are shown
+to be in agreement with thermodynamical arguments.

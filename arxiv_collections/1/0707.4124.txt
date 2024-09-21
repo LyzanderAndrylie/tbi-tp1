@@ -1,0 +1,8 @@
+We analyze the service times of customers in a stable M/M/1 queue in
+equilibrium depending on their position in a busy period. We give the law of
+the service of a customer at the beginning, at the end, or in the middle of the
+busy period. It enables as a by-product to prove that the process of instants
+of beginning of services is not Poisson. We then proceed to a more precise
+analysis. We consider a family of polynomial generating series associated with
+Dyck paths of length 2n and we show that they provide the correlation function
+of the successive services in a busy period with (n+1) customers.

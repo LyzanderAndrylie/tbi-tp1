@@ -1,0 +1,11 @@
+The electronic transport in polypyrrole thin films synthesized chemically
+from the vapor phase is studied as a function of temperature as well as of
+electric and magnetic fields. We find distinct differences in comparison to the
+behavior of both polypyrrole films prepared by electrochemical growth as well
+as of the bulk films obtained from conventional chemical synthesis. For small
+electric fields F, a transition from Efros-Shklovskii variable range hopping to
+Arrhenius activated transport is observed at 30 K. High electric fields induce
+short range hopping. The characteristic hopping distance is found to be
+proportional to F^(-1/2). The magnetoresistance R(B) is independent of F below
+a critical magnetic field, above which F counteracts the magnetic field induced
+localization.

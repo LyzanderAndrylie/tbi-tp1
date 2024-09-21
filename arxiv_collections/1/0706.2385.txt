@@ -1,0 +1,9 @@
+The authors study the ultrafast switching-on and -off of planar GaAs/AlAs
+microcavities. Up to 0.8% refractive index changes are achieved by optically
+exciting free carriers at 1720 nm and a pulse energy of 1.8 micro Joules. The
+cavity resonance is dynamically tracked by measuring reflectivity versus time
+delay with tunable laser pulses, and is found to shift by as much as 3.3
+linewidths within a few picoseconds. The switching-off occurs with a decay time
+of around 50 ps. The authors derive the dynamic behavior of the carrier density
+and of the complex refractive index. They propose that the inferred 10 GHz
+switching rate may be tenfold improved by optimized sample growth.

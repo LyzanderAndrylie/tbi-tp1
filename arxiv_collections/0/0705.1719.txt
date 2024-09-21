@@ -1,0 +1,14 @@
+Parton showers are widely used to generate fully exclusive final states
+needed to compare theoretical models to experimental observations. While, in
+general, parton showers give a good description of the experimental data, the
+precise functional form of the probability distribution underlying the event
+generation is generally not known. The reason is that realistic parton showers
+are required to conserve four-momentum at each vertex. In this paper we
+investigate in detail how four-momentum conservation is enforced in a standard
+parton shower and why this destroys the analytic control of the probability
+distribution. We show how to modify a parton shower algorithm such that it
+conserves four-momentum at each vertex, but for which the full analytic form of
+the probability distribution is known. We then comment how this analytic
+control can be used to match matrix element calculations with parton showers,
+and to estimate effects of power corrections and other uncertainties in parton
+showers.

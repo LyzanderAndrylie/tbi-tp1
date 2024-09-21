@@ -1,0 +1,15 @@
+In this work we study the ac dissipation of mesoscopic superconductors at
+microwave frequencies using the time dependent Ginzburg-Landau equations. Our
+numerical simulations show that the ac dissipation is strongly dependent on the
+orientation of the ac magnetic field ($h_{ac}$) relative to the dc magnetic
+field ($H_{dc}$). When $h_{ac}$ is parallel to $H_{dc}$ we observe that each
+vortex penetration event produces a significant supression of the ac losses
+because the imaginary part of the ac susceptibility as a function of $H_{dc}$
+increases before the penetration of vortices, and then it decreases abruptly
+after vortices have entered into the sample. In the second case, when $h_{ac}$
+is perpendicular to $H_{dc}$, we observe that the jumps in dissipation occur at
+the same values of $H_{dc}$ but are much smaller than in the parallel
+configuration. The behavior of the dissipation in the perpendicular
+configuration is similar to previous results obtained in recent microwave
+experiments using mesoscopic litographed squares of Pb [J. Low Temp. Phys. 135,
+119 (2004)].

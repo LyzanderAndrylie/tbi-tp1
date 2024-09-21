@@ -1,0 +1,21 @@
+The production of a sterile species via active-sterile mixing in a thermal
+medium is studied in an exactly solvable model. The \emph{exact} time evolution
+of the sterile distribution function is determined by the dispersion relations
+and damping rates $\Gamma_{1,2}$ for the quasiparticle modes. These depend on
+$\wtg = \Gamma_{aa}/2\Delta E$, with $\Gamma_{aa}$ the interaction rate of the
+active species in absence of mixing and $\Delta E$ the oscillation frequency in
+the medium without damping. $\wtg \ll1,\wtg \gg 1$ describe the weak and strong
+damping limits respectively. For $\wtg\ll1$, $\Gamma_1 = \Gamma_{aa}\cos^2\tm ;
+\Gamma_{2}=\Gamma_{aa}\sin^2\tm$ where $\tm$ is the mixing angle in the medium
+and the sterile distribution function \emph{does not} obey a simple rate
+equation. For $\wtg \gg 1$, $\Gamma_1= \Gamma_{aa}$ and $\Gamma_2 = \Gamma_{aa}
+\sin^22\tm/4\wtg^2$, is the sterile production rate. In this regime sterile
+production is suppressed and the oscillation frequency \emph{vanishes} at an
+MSW resonance, with a breakdown of adiabaticity. These are consequences of
+quantum Zeno suppression. For active neutrinos with standard model interactions
+the strong damping limit is \emph{only} available near an MSW resonance
+\emph{if} $\sin\theta \lesssim \alpha_w$ with $\theta$ the vacuum mixing angle.
+The full set of quantum kinetic equations for sterile production for arbitrary
+$\wtg$ are obtained from the quantum master equation. Cosmological resonant
+sterile neutrino production is quantum Zeno suppressed relieving potential
+uncertainties associated with the QCD phase transition.

@@ -1,0 +1,13 @@
+In this article, we study control of electron-nuclear spin dynamics at
+magnetic field strengths where the Larmor frequency of the nucleus is
+comparable to the hyperfine coupling strength. The quantization axis for the
+nuclear spin differs from the static B_0 field direction and depends on the
+state of the electron spin. The quantization axis can be switched by flipping
+the state of electron spin, allowing for universal control on nuclear spin
+states. We show that by performing a sequence of flips (each followed by a
+suitable delay), we can perform any desired rotation on the nuclear spins,
+which can also be conditioned on the state of the electron spin. These
+operations, combined with electron spin rotations can be used to synthesize any
+unitary transformation on the coupled electron-nuclear spin system. We discuss
+how these methods can be used for design of experiments for transfer of
+polarization from the electron to the nuclear spins.

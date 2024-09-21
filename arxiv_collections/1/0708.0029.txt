@@ -1,0 +1,20 @@
+The two-dimensional electron gas in a bilayer quantum Hall system can sustain
+an interlayer coherence at filling factor nu=1 even in the absence of tunneling
+between the layers. This system has low-energy charged excitations which may
+carry textures in real spin or pseudospin. Away from filling factor nu =1 a
+finite density of these is present in the ground state of the 2DEG and forms a
+crystal. Depending on the relative size of the various energy scales, such as
+tunneling (Delta_SAS), Zeeman coupling (Delta_Z) or electrical bias (Delta_b),
+these textured crystal states can involve spin, pseudospin, or both
+intertwined. In this article, we present a comprehensive numerical study of the
+collective excitations of these textured crystals using the GRPA. For the pure
+spin case, at finite Zeeman coupling the state is a Skyrmion crystal with a
+gapless phonon mode, and a separate Goldstone mode that arises from a broken
+U(1) symmetry. At zero Zeeman coupling, we demonstrate that the constituent
+Skyrmions break up, and the resulting state is a meron crystal with 4 gapless
+modes. In contrast, a pure pseudospin Skyrme crystal at finite tunneling has
+only the phonon mode. For Delta_SAS=0, the state evolves into a meron crystal
+and supports an extra gapless U(1) mode in addition to the phonon. For a CP(3)
+Skyrmion crystal, we find a U(1) gapless mode in the presence of the
+symmetry-breaking fields. In addition, a second mode with a very small gap is
+present in the spectrum.

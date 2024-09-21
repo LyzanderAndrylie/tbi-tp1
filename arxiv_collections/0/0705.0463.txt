@@ -1,0 +1,6 @@
+We discuss threshold resummation in radiative and charmless semileptonic B
+decays. To deal with the large non perturbative effects, we introduce a model
+for NNLL resummed form factors based on the analytic QCD coupling. By means of
+this model we can reproduce with good accuracy the experimental data. Finally
+we briefly present an improved threshold resummed formula to deal with jets
+initiated by massive quarks as in the case of semileptonic charmed decays.

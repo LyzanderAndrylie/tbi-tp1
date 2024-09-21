@@ -1,0 +1,10 @@
+The weak ferromagnetism present in insulating La_{2}CuO_4 at low doping leads
+to a spin flop transition, and to transverse (interplane) hopping of holes in a
+strong external magnetic field. This results in a dimensional crossover 2D
+$\to$ 3D for the in-plane transport, which in turn leads to an increase of the
+hole's localization length and increased conduction. We demonstrate
+theoretically that as a consequence of this mechanism, a frequency-dependent
+jump of the in-plane ac hopping conductivity occurs at the spin flop
+transition. We predict the value and the frequency dependence of the jump.
+Experimental studies of this effect would provide important confirmation of the
+emerging understanding of lightly doped insulating La_{2-x}Sr_xCuO_4.

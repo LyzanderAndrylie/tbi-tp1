@@ -1,0 +1,7 @@
+We express the classical r-matrix of AdS/CFT in terms of tensor products
+involving an infinite family of generators, which takes a form suggestive of
+the universal expression obtained from a Yangian double. This should provide an
+insight into the structure of the infinite dimensional symmetry algebra
+underlying the integrability of the model, and give a clue to the construction
+of its universal R-matrix. We derive the commutation relations under which the
+algebra of these new generators close.

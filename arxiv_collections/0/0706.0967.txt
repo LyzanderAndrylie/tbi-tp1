@@ -1,0 +1,5 @@
+The basic one-bit gates (X, Y, Z, Hadamard, phase, pi/8) as well as the
+controlled cnot and Toffoli gates are reformulated in the language of
+geometric-algebra quantum-like computation. Thus, all the quantum algorithms
+can be reformulated in purely geometric terms without any need of tensor
+products.

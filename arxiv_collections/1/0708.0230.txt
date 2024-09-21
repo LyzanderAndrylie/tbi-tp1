@@ -1,0 +1,15 @@
+Superconductors separated by a thin tunneling barrier exhibit the Josephson
+effect that allows charge transport at zero voltage, typically with no phase
+shift between the superconductors in the lowest energy state. Recently,
+Josephson junctions with ground state phase shifts of pi proposed by theory
+three decades ago have been demonstrated. In superconducting loops,
+pi-junctions cause spontaneous circulation of persistent currents in zero
+magnetic field, analogous to spin-1/2 systems. Here we image the spontaneous
+zero-field currents in superconducting networks of temperature-controlled
+pi-junctions with weakly ferromagnetic barriers using a scanning SQUID
+microscope. We find an onset of spontaneous supercurrents at the 0-pi
+transition temperature of the junctions Tpi = 3 K. We image the currents in
+non-uniformly frustrated arrays consisting of cells with even and odd numbers
+of pi-junctions. Such arrays are attractive model systems for studying the
+exotic phases of the 2D XY-model and achieving scalable adiabatic quantum
+computers.

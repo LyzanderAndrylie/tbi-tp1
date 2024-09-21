@@ -1,0 +1,7 @@
+We discuss the recent proposal of implementing Doubly Special Relativity in
+configuration space by means of Finsler geometry. Although this formalism leads
+to a consistent description of the dynamics of a particle, it does not seem to
+give a complete description of the physics. In particular, the Finsler line
+element is not invariant under the deformed Lorentz transformations of Doubly
+Special Relativity. We study in detail some simple applications of the
+formalism.

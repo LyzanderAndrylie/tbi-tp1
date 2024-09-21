@@ -1,0 +1,12 @@
+We report measurements of the optical gap in a GdN film at temperatures from
+300 to 6K, covering both the paramagnetic and ferromagnetic phases. The gap is
+1.31eV in the paramagnetic phase and red-shifts to 0.9eV in the spin-split
+bands below the Curie temperature. The paramagnetic gap is larger than was
+suggested by very early experiments, and has permitted us to refine a
+(LSDA+U)-computed band structure. The band structure was computed in the full
+translation symmetry of the ferromagnetic ground state, assigning the
+paramagnetic-state gap as the average of the majority- and minority-spin gaps
+in the ferromagnetic state. That procedure has been further tested by a band
+structure in a 32-atom supercell with randomly-oriented spins. After fitting
+only the paramagnetic gap the refined band structure then reproduces our
+measured gaps in both phases by direct transitions at the X point.

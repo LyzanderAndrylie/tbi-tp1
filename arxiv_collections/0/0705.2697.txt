@@ -1,0 +1,15 @@
+The common wisdom that the phonon mechanism of electron pairing in the
+weak-coupling Bardeen-Cooper-Schrieffer (BCS) superconductors leads to
+conventional s-wave Cooper pairs is revised. An inevitable anisotropy of sound
+velocity in crystals makes the phonon-mediated attraction of electrons
+non-local in space providing unconventional Cooper pairs with a nonzero orbital
+momentum in a wide range of electron densities. As a result of this anisotropy
+quasi-two dimensional charge carriers undergo a quantum phase transition from
+an unconventional d-wave superconducting state to a conventional s-wave
+superconductor with more carriers per unit cell. In the opposite
+strong-coupling regime rotational symmetry breaking appears as a result of a
+reduced Coulomb repulsion between unconventional bipolarons dismissing thereby
+some constraints on unconventional pairing in the Bose-Einstein condensation
+(BEC) limit. The conventional phonons, and not superexchange, are shown to be
+responsible for the d-wave symmetry of cuprate superconductors, where the
+on-site Coulomb repulsion is large.

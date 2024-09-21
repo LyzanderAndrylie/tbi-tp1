@@ -1,0 +1,9 @@
+We derive Ginzburg-Landau action by systematically integrating out electronic
+degrees of freedom in the framework of the Keldysh nonlinear sigma-model of
+disordered superconductors. The resulting Ginzburg-Landau functional contains a
+nonlocal $\Delta$-dependent contribution to the diffusion constant, which
+leads, for example, to Maki-Thompson corrections. It also exhibits an anomalous
+Gor'kov-Eliashberg coupling between $\Delta$ and the scalar potential, as well
+as a peculiar nonlocal nonlinear term. The action is gauge invariant and
+satisfies the fluctuation dissipation theorem. It may be employed e.g. for
+calculation of higher moments of the current fluctuations.

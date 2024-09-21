@@ -1,0 +1,13 @@
+By examining the structure in momentum and coordinate space of a two-body
+interaction spherically symmetric in its local coordinate, we demonstrate that
+it can be disentangled into two distinctive contributions. One of them is a
+medium-independent and momentum-conserving term, whereas the other is
+functionally --and exclusively-- proportional to the radial derivative of the
+reduced matrix element. As example, this exact result was applied to the
+unabridged optical potential in momentum space, leading to an explicit
+separation between the medium-free and medium-dependent contributions. The
+latter does not depend on the strength of the reduced effective interaction but
+only on its variations with respect to the density. The modulation of radial
+derivatives of the density enhances the effect in the surface and suppresses it
+in the saturated volume. The generality of this result may prove to be useful
+for the study of surface-sensitive phenomena.

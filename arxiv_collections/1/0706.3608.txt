@@ -1,0 +1,8 @@
+A projective structure on a compact Riemann surface X of genus g is given by
+an atlas with transition functions in PGL(2,C). Equivalently, a projective
+structure is given by a projective sl(2,C)-bundle over X equipped with a
+section s and a foliation F which is both transversal to the fibers and the
+section s. From this latter geometric bundle picture, we survey on classical
+problems and results on projective structures. We will give a complete
+description of projective (actually affine) structures on the torus with an
+explicit versal family of foliated bundle picture.

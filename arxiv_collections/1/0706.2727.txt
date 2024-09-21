@@ -1,0 +1,15 @@
+We demonstrate the existence of spherically-symmetric truly naked black holes
+(TNBH) for which the Kretschmann scalar is finite on the horizon but some
+curvature components including those responsible for tidal forces as well as
+the energy density $\bar{\rho}$ measured by a free-falling observer are
+infinite. We choose a rather generic power-like asymptotics for the metric
+functions and analyze possible types of a horizon depending on the behavior of
+curvature components in the free-falling frame. It is also shown in a general
+case of distorted black holes that $\bar{\rho}$ and tidal forces are either
+both finite or both infinite. The general approach developed in the article
+includes previously found examples and, in particular, TNBHs with an infinite
+area of a horizon. The fact that the detection of singularity depends on a
+frame may be relevant for a more accurate definition of the cosmic censorship
+conjecture. TNBHs may be considered as a new example of so-called non-scalar
+singularities for which the scalar curvature invariants are finite but some
+components of the Riemann tensor may diverge in certain frames.

@@ -1,0 +1,9 @@
+In most modern operating systems, init (as in "initialization") is the
+program launched by the kernel at boot time. It runs as a daemon and typically
+has PID 1. Init is responsible for spawning all other processes and scavenging
+zombies. It is also responsible for reboot and shutdown operations. This
+document describes existing solutions that implement the init process and/or
+init scripts in Unix-like systems. These solutions range from the legacy and
+still-in-use BSD and SystemV schemes, to recent and promising schemes from
+Ubuntu, Apple, Sun and independent developers. Our goal is to highlight their
+focus and compare their sets of features.

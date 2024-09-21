@@ -1,0 +1,14 @@
+Parameters defined via general estimating equations (GEE) can be estimated by
+maximizing the empirical likelihood (EL). Newey and Smith [Econometrica 72
+(2004) 219--255] have recently shown that this EL estimator exhibits desirable
+higher-order asymptotic properties, namely, that its $O(n^{-1})$ bias is small
+and that bias-corrected EL is higher-order efficient. Although EL possesses
+these properties when the model is correctly specified, this paper shows that,
+in the presence of model misspecification, EL may cease to be root n convergent
+when the functions defining the moment conditions are unbounded (even when
+their expectations are bounded). In contrast, the related exponential tilting
+(ET) estimator avoids this problem. This paper shows that the ET and EL
+estimators can be naturally combined to yield an estimator called exponentially
+tilted empirical likelihood (ETEL) exhibiting the same $O(n^{-1})$ bias and the
+same $O(n^{-2})$ variance as EL, while maintaining root n convergence under
+model misspecification.

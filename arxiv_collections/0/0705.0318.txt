@@ -1,0 +1,6 @@
+Decomposition systems with rapidly decaying elements (needlets) based on
+Hermite functions are introduced and explored. It is proved that the
+Triebel-Lizorkin and Besov spaces on $\R^d$ induced by Hermite expansions can
+be characterized in terms of the needlet coefficients. It is also shown that
+the Hermite Triebel-Lizorkin and Besov spaces are, in general, different from
+the respective classical spaces.

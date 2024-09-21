@@ -1,0 +1,14 @@
+A method is presented, which employs the density matrix renormalization group
+technique in order to construct exact ground state exchange correlation
+functionals for models of correlated electron systems coupled to external
+reservoirs. The technique is applied to the M-site resonant level model. We
+calculate its exact Kubo-conductance, which is available within DMRG, and
+compare to the single-particle conductance obtained from Kohn-Sham energies and
+orbitals of the exact ground state density functional theory (DFT). It is found
+that the position of transport resonances is reproduced essentially exactly,
+while deviations in the level broadening can be less than 1% and do not exceed
+10%. Our findings lend strong support to a recently held point of view, namely
+that approximations in the ground state functionals used in DFT based transport
+calculations can lead to drastic errors in transport calculations while
+exchange correlation contributions to the induced effective potential tend to
+be less significant.

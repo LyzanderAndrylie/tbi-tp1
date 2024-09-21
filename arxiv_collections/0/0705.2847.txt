@@ -1,0 +1,24 @@
+This paper studies the ergodic capacity of time- and frequency-selective
+multipath fading channels in the ultrawideband (UWB) regime when training
+signals are used for channel estimation at the receiver. Motivated by recent
+measurement results on UWB channels, we propose a model for sparse multipath
+channels. A key implication of sparsity is that the independent degrees of
+freedom (DoF) in the channel scale sub-linearly with the signal space dimension
+(product of signaling duration and bandwidth). Sparsity is captured by the
+number of resolvable paths in delay and Doppler. Our analysis is based on a
+training and communication scheme that employs signaling over orthogonal
+short-time Fourier (STF) basis functions. STF signaling naturally relates
+sparsity in delay-Doppler to coherence in time-frequency. We study the impact
+of multipath sparsity on two fundamental metrics of spectral efficiency in the
+wideband/low-SNR limit introduced by Verdu: first- and second-order optimality
+conditions. Recent results by Zheng et. al. have underscored the large gap in
+spectral efficiency between coherent and non-coherent extremes and the
+importance of channel learning in bridging the gap. Building on these results,
+our results lead to the following implications of multipath sparsity: 1) The
+coherence requirements are shared in both time and frequency, thereby
+significantly relaxing the required scaling in coherence time with SNR; 2)
+Sparse multipath channels are asymptotically coherent -- for a given but large
+bandwidth, the channel can be learned perfectly and the coherence requirements
+for first- and second-order optimality met through sufficiently large signaling
+duration; and 3) The requirement of peaky signals in attaining capacity is
+eliminated or relaxed in sparse environments.

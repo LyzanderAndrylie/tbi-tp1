@@ -1,0 +1,11 @@
+We introduce and formalize the concept of information flux in a many-body
+register as the influence that the dynamics of a specific element receive from
+any other element of the register. By quantifying the information flux in a
+protocol, we can design the most appropriate initial state of the system and,
+noticeably, the distribution of coupling strengths among the parts of the
+register itself. The intuitive nature of this tool and its flexibility, which
+allow for easily manageable numerical approaches when analytic expressions are
+not straightforward, are greatly useful in interacting many-body systems such
+as quantum spin chains. We illustrate the use of this concept in quantum
+cloning and quantum state transfer and we also sketch its extension to
+non-unitary dynamics.

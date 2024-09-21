@@ -1,0 +1,5 @@
+The purpose of this paper is to determine the asymptotic of the average
+energy of a configuration of N zeros of system of random polynomials of degree
+N as N tends to infinity and more generally the zeros of random holomorphic
+sections of a line bundle L over any Riemann surface M. And we compare our
+results to the well-known minimum of energies.

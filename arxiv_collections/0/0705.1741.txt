@@ -1,0 +1,14 @@
+We present a theoretical study of the interplay between cyclotron motion and
+spin splitting of charge carriers in solids. While many of our results apply
+more generally, we focus especially on discussing the Rashba model describing
+electrons in the conduction band of asymmetric semiconductor heterostructures.
+Appropriate semiclassical limits are distinguished that describe various
+situations of experimental interest. Our analytical fomulae, which take full
+account of Zeeman splitting, are used to analyse recent magnetic-focusing data.
+Surprisingly, it turns out that the Rashba effect can dominate the splitting of
+cyclotron orbits even when the Rashba and Zeeman spin-splitting energies are of
+the same order. We also find that the origin of spin-dependent cyclotron motion
+can be traced back to Zitterbewegung-like oscillatory dynamics of charge
+carriers from spin-split bands. The relation between the two phenomena is
+discussed, and we estimate the effect of Zitterbewegung-related corrections to
+the charge carriers' canonical position.

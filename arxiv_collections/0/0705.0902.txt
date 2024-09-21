@@ -1,0 +1,14 @@
+We explore the possible role of elastic mismatch between epidermis and
+mesophyll as a driving force for the development of leaf venation. The current
+prevalent 'canalization' hypothesis for the formation of veins claims that the
+transport of the hormone auxin out of the leaves triggers cell differentiation
+to form veins. Although there is evidence that auxin plays a fundamental role
+in vein formation, the simple canalization mechanism may not be enough to
+explain some features observed in the vascular system of leaves, in particular,
+the abundance of vein loops. We present a model based on the existence of
+mechanical instabilities that leads very naturally to hierarchical patterns
+with a large number of closed loops. When applied to the structure of high
+order veins, the numerical results show the same qualitative features as actual
+venation patterns and, furthermore, have the same statistical properties. We
+argue that the agreement between actual and simulated patterns provides strong
+evidence for the role of mechanical effects on venation development.

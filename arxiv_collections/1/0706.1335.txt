@@ -1,0 +1,11 @@
+We study analytically and numerically field/intensity correlations in wave
+transport through volume-disordered waveguide. The obtained channel and spacial
+correlations deviate from those found in framework of
+Dorokhov-Mello-Pereyra-Kumar (DMPK) formalism, that we relate to
+inapplicability of equivalent channel approximation in DMPK. We show that this
+can be remedied by introducing boundary correction -- an escape function which
+depends on the waveguide geometry -- that describes wave transport near a
+boundary between random medium and free space. We obtain the expressions for
+field/intensity channel and spacial correlation functions which agree with the
+numerics and are consistent with the perturbative expressions in slab geometry
+as well as experiments conducted in Q1D.

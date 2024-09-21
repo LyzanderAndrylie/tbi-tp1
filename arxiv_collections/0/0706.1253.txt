@@ -1,0 +1,9 @@
+We consider a trapped Fermi gas with population imbalance at finite
+temperatures and map out the detailed phase diagram across a wide Feshbach
+resonance. We take the Larkin-Ovchinnikov-Fulde-Ferrel (LOFF) state into
+consideration and minimize the thermodynamical potential to ensure stability.
+Under the local density approximation, we conclude that a stable LOFF state is
+present only on the BCS side of the Feshbach resonance, but not on the BEC side
+or at unitarity. Furthermore, even on the BCS side, a LOFF state is restricted
+at low temperatures and in a small region of the trap, which makes a direct
+observation of LOFF state a challenging task.

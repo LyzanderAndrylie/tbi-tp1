@@ -1,0 +1,9 @@
+Using combinatorial properties of complex reflection groups, we show that the
+generalised Calogero-Moser space associated to the centre of the corresponding
+rational Cherednik algebra is singular for all values of its deformation
+parameter c if and only if the group is different from the wreath product
+$S_n\wr C_m$ and the binary tetrahedral group. This result and a theorem of
+Ginzburg and Kaledin imply that there does not exist a symplectic resolution of
+the singular symplectic variety h+h*/W outside of these cases; conversely we
+show that there exists a symplectic resolution for the binary tetrahedral group
+(Hilbert schemes provide resolutions for the wreath product case).

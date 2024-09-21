@@ -1,0 +1,9 @@
+Taking advantage of the recent litterature on exact simulation algorithms
+(Beskos, Papaspiliopoulos and Roberts) and unbiased estimation of the
+expectation of certain fonctional integrals (Wagner, Beskos et al. and
+Fearnhead et al.), we apply an exact simulation based technique for pricing
+continuous arithmetic average Asian options in the Black and Scholes framework.
+Unlike existing Monte Carlo methods, we are no longer prone to the
+discretization bias resulting from the approximation of continuous time
+processes through discrete sampling. Numerical results of simulation studies
+are presented and variance reduction problems are considered.

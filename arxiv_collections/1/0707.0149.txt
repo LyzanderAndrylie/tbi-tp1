@@ -1,0 +1,7 @@
+We report on the first experimental demonstration of purification of
+nonclassical continuous variable states. The protocol uses two copies of
+phase-diffused states overlapped on a beam splitter and provides Gaussified,
+less mixed states with the degree of squeezing improved. The protocol uses only
+linear optical devices such as beam splitters and homodyne detection, thereby
+proving these optical elements can be used for successful purification of this
+type of state decoherence which occurs in optical transmission channels.

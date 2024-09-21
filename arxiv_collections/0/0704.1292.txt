@@ -1,0 +1,9 @@
+The amplitude mode of a fermionic superfluid, analogous to the Higgs Boson,
+becomes undamped in the strong coupling regime when its frequency is pushed
+inside the BCS energy gap. We argue that this is the case in cold gases due to
+the energy dispersion and nonlocality of the pairing interaction, and propose
+to use the Feshbach resonance regime for parametric excitation of this mode.
+The results presented for the BCS pairing dynamics indicate that even weak
+dispersion suppresses dephasing and gives rise to persistent oscillations. The
+frequency of oscillations extracted from our simulation of the BCS dynamics
+agrees with the prediction of the many-body theory.

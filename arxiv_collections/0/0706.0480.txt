@@ -1,0 +1,11 @@
+We investigate the ergodic problem of growth-rate maximization under a class
+of risk constraints in the context of incomplete, It\^{o}-process models of
+financial markets with random ergodic coefficients. Including {\em
+value-at-risk} (VaR), {\em tail-value-at-risk} (TVaR), and {\em limited
+expected loss} (LEL), these constraints can be both wealth-dependent(relative)
+and wealth-independent (absolute). The optimal policy is shown to exist in an
+appropriate admissibility class, and can be obtained explicitly by uniform,
+state-dependent scaling down of the unconstrained (Merton) optimal portfolio.
+This implies that the risk-constrained wealth-growth optimizer locally behaves
+like a CRRA-investor, with the relative risk-aversion coefficient depending on
+the current values of the market coefficients.

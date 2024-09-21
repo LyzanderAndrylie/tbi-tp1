@@ -1,0 +1,8 @@
+In this work, we investigate how and to which extent a quantum system can be
+driven along a prescribed path in space by a suitably tailored laser pulse. The
+laser field is calculated with the help of quantum optimal control theory
+employing a time-dependent formulation for the control target. Within a
+two-dimensional (2D) model system we have successfully optimized laser fields
+for two distinct charge transfer processes. The resulting laser fields can be
+understood as a complicated interplay of different excitation and de-excitation
+processes in the quantum system.

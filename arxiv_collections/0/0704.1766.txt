@@ -1,0 +1,9 @@
+We investigate the Jeans instability of a galactic disk embedded in a
+dynamically responsive dark halo. It is shown that the disk-halo system becomes
+nominally Jeans unstable. On small scales the instability is suppressed, if the
+Toomre stability index Q_T is higher than a certain threshold, but on large
+scales the Jeans instability sets invariably in. However, using a simple
+self-consistent disk-halo model it is demonstrated that this occurs on scales
+which are much larger than the system so that this is indeed only a nominal
+effect. From a practical point of view the Jeans instability of galactic disks
+is not affected by a live dark halo.

@@ -1,0 +1,4 @@
+We prove an analogue of Gutzmer's formula for Hermite expansions. As a
+consequence we obtain a new proof of a characterisation of the image of $
+L^2(\R^n) $ under the Hermite semigroup. We also obtain some new orthogonality
+relations for complexified Hermite functions.

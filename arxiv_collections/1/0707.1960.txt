@@ -1,0 +1,7 @@
+The current-voltage characteristic of a planar vacuum diode with electrons
+possessing velocity distribution function during an emission from the cathode
+(electron beam) is theoretically considered in this article. The electron beam
+movement in the volume is examined. An integral-differential equation for the
+electric field potential is got in a correct form. A current-voltage
+characteristic of the diode for a model function of the velocity distribution
+of the emitted electrons is obtained.

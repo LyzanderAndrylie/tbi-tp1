@@ -1,0 +1,18 @@
+The physical interpretation of scattering line polarization offers a novel
+diagnostic window for exploring the thermal and magnetic structure of the quiet
+regions of the solar atmosphere. Here we evaluate the impact of isotropic
+collisions with neutral hydrogen atoms on the scattering polarization signals
+of the 13 lines of multiplet 42 of Ti I and on those of the K line and of the
+IR triplet of Ca II, with emphasis on the collisional transfer rates between
+nearby J-levels. To this end, we calculate the linear polarization produced by
+scattering processes considering realistic multilevel models and solving the
+statistical equilibrium equations for the multipolar components of the atomic
+density matrix. We confirm that the lower levels of the 13 lines of multiplet
+42 of Ti I are completely depolarized by elastic collisions. We find that
+upper-level collisional depolarization turns out to have an unnoticeable impact
+on the emergent linear polarization amplitudes, except for the ${\lambda 4536$
+line for which it is possible to notice a rather small depolarization caused by
+the collisional transfer rates. Concerning the Ca II lines, we show that the
+collisional rates play no role on the polarization of the upper level of the K
+line, while they have a rather small depolarizing effect on the atomic
+polarization of the metastable lower levels of the Ca II IR triplet.

@@ -1,0 +1,12 @@
+One of the few methods for generating efficient function spaces for multi-D
+Schrodinger eigenproblems is given by Garashchuk and Light in J.Chem.Phys. 114
+(2001) 3929. Their Gaussian basis functions are wider and sparser in high
+potential regions, and narrower and denser in low ones. We suggest a
+modification of their approach based on the following observation: In very
+steep potential regions, wide, sparse, Gaussians should be avoided even if
+their centers have high potential values. Our numerical results illustrate that
+a dramatic improvement in accuracy may be obtained in this way. We also compare
+the errors of collocation to those of a Galerkin approach, test a criterion for
+scaling Gaussian widths based on deviation from orthogonality of collocation
+eigenfunctions, and suggest a criterion for scaling Gaussian widths based on
+Hamiltonian trace minimization.

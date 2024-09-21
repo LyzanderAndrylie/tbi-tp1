@@ -1,0 +1,11 @@
+In the strong uniform magnetic field, the noncommutative plane (NCP) caused
+by the lowest Landau level (LLL) effect, and QED with NCP (QED-NCP) are
+studied. Being similar to the condensed matter theory of quantum Hall effect,
+an effective filling factor $f(B)$ is introduced to character the possibility
+that the electrons stay on the LLL. The analytic and numerical results of the
+differential cross section for the process of backward Compton scattering in
+the accelerator with unpolarized or polarized initial photons are calculated.
+The existing data of BL38B2 in Spring-8 have been analyzed roughly and compared
+with the numerical predictions primitively. We propose a precise measurement of
+the differential cross sections of backward Compton scattering in a strong
+perpendicular magnetic field, which may lead to reveal the effects of QED-NCP.

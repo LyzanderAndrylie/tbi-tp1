@@ -1,0 +1,18 @@
+The dynamics of populations is rich, taking into account that both, the
+individual's actions and the population's fitness are coupled. The way in which
+an individual chooses a strategy depends off course on the interaction with
+other individuals and the relation between selection and mutation within the
+population. The present model considers individuals with {\it memory}. This
+memory is represented by a device where information of past actions is stored
+as bits in a 1D Ising chain. The selection of a new individual action depends
+on the individual's memory. If the selection of a strategy does not improve the
+individual's fitness, a new individual with different memory size replaces it.
+Both, actions and memory are observables that characterize the population. They
+can change in time, and both depend on the fitness of the population. This
+model allows the implementation of {\it learning} parameters as well as an {\it
+external information source}, acting as an {\it external field} which drives
+individuals to select one preferred action. In particular we show that the {\it
+diversity} of the population, measured as a {\it Shannon's diversity index}
+(equivalent to a neg-entropy), is not only related to the {\it energy
+consumption and size} of the system, but is also related to the way in which
+the individuals are influenced by the {\it external field}.

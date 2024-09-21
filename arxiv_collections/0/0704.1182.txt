@@ -1,0 +1,16 @@
+We present a five (u*,g',r',i',z') band optical photometry catalog of the
+sources in the North Ecliptic Pole (NEP) region based on deep observations made
+with MegaCam at CFHT. The source catalog covers about 2 square degree area
+centered at the NEP and reaches depths of about 26 mag for u*, g', r' bands,
+about 25 mag for i' band, and about 24 mag for z' band (4 sigma detection over
+an 1 arcsec aperture). The total number of cataloged sources brighter than r'=
+23 mag is about 56,000 including both point sources and extended sources. From
+the investigation of photometric properties using the color-magnitude diagrams
+and color-color diagrams, we have found that the colors of extended sources are
+mostly (u*-r') < 3.0 and (g'-z') > 0.5. This can be used to separate the
+extended sources from the point sources reliably, even for the faint source
+domain where typical morphological classification schemes hardly work
+efficiently. We have derived an empirical color-redshift relation of the red
+sequence galaxies using the Sloan Digital Sky Survey data. By applying this
+relation to our photometry catalog and searching for any spatial overdensities,
+we have found two galaxy clusters and one nearby galaxy group.

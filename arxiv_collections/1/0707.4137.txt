@@ -1,0 +1,7 @@
+We report a preliminary measurement of the slope parameter $\alpha$ for the
+$\eta\to 3\piz$ decay carried out with KLOE at DA$\Phi$NE; where $\alpha$ is
+the parameter describing the energy dependence of the square of the matrix
+element for this decay. By fitting the event density in the Dalitz plot with a
+collected statistic of 420 pb$^{-1}$ we determine $\alpha = -0.027 \pm 0.004
+(stat) ^{+0.004}_{-0.006} (syst)$. This result is consistent with current
+chiral perturbation theory calculations within the unitary approach.

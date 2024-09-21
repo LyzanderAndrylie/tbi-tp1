@@ -1,0 +1,7 @@
+Continuous-time random walks are a well suited tool for the description of
+market behaviour at the smallest scale: the tick-to-tick evolution. We will
+apply this kind of market model to the valuation of perpetual American options:
+derivatives with no maturity that can be exercised at any time. Our approach
+leads to option prices that fulfil financial formulas when canonical
+assumptions on the dynamics governing the process are made, but it is still
+suitable for more exotic market conditions.

@@ -1,0 +1,17 @@
+Barchans are dunes of high mobility which have a crescent shape and propagate
+under conditions of unidirectional wind. However, sand dunes only appear above
+a critical size, which scales with the saturation distance of the sand flux [P.
+Hersen, S. Douady, and B. Andreotti, Phys. Rev. Lett. {\bf{89,}} 264301 (2002);
+B. Andreotti, P. Claudin, and S. Douady, Eur. Phys. J. B {\bf{28,}} 321 (2002);
+G. Sauermann, K. Kroy, and H. J. Herrmann, Phys. Rev. E {\bf{64,}} 31305
+(2001)]. It has been suggested by P. Hersen, S. Douady, and B. Andreotti, Phys.
+Rev. Lett. {\bf{89,}} 264301 (2002) that this flux fetch distance is itself
+constant. Indeed, this could not explain the proto size of barchan dunes, which
+often occur in coastal areas of high litoral drift, and the scale of dunes on
+Mars. In the present work, we show from three dimensional calculations of sand
+transport that the size and the shape of the minimal barchan dune depend on the
+wind friction speed and the sand flux on the area between dunes in a field. Our
+results explain the common appearance of barchans a few tens of centimeter high
+which are observed along coasts. Furthermore, we find that the rate at which
+grains enter saltation on Mars is one order of magnitude higher than on Earth,
+and is relevant to correctly obtain the minimal dune size on Mars.

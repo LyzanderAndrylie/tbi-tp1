@@ -1,0 +1,6 @@
+In the framework of the Lindblad theory for open quantum systems, we
+determine the degree of quantum decoherence of a harmonic oscillator
+interacting with a thermal bath. It is found that the system manifests a
+quantum decoherence which is more and more significant in time. We calculate
+also the decoherence time scale and analyze the transition from quantum to
+classical behaviour of the considered system.

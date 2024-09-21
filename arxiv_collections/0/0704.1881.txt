@@ -1,0 +1,7 @@
+Wavefunction correlations and density matrices for few or many particles are
+derived from the properties of semiclassical energy Green functions. Universal
+features of fixed energy (microcanonical) random wavefunction correlation
+functions appear which reflect the emergence of the canonical ensemble as the
+number of particles approaches infinity. This arises through a little known
+asymptotic limit of Bessel functions. Constraints due to symmetries,
+boundaries, and collisions between particles can be included.

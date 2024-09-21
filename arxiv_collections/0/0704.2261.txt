@@ -1,0 +1,20 @@
+The scaling behaviors of graphene nanoribbon (GNR) Schottky barrier
+field-effect transistors (SBFETs) are studied by solving the non-equilibrium
+Green's function (NEGF) transport equation in an atomistic basis set
+self-consistently with a three-dimensional Poisson equation. The armchair edge
+GNR channel shares similarities with a zigzag CNT, but it has a different
+geometry and quantum confinement boundary condition in the transverse
+direction. The results indicate that the I-V characteristics are ambipolar and
+strongly depend on the GNR width because the bandgap of the GNR is
+approximately inversely proportional to its width, which agrees with recent
+experiments. A multiple gate geometry improves immunity to short channel
+effects, but it offers smaller improvement than it does for Si MOSFETs in terms
+of the on-current and transconductance. Reducing the oxide thickness is more
+useful for improving transistor performance than using a high-k gate insulator.
+Significant increase of the minimal leakage current is observed when the
+channel length is scaled below 10nm because the small effective mass
+facilitates strong source-drain tunneling. The GNRFET, therefore, does not
+promise extending the ultimate scaling limit of Si MOSFETs. The intrinsic
+switching speed of a GNR SBFET, however, is several times faster than that of
+Si MOSFETs, which could lead to promising high speed electronics applications,
+where the large leakage of GNR SBFETs is of less concern.

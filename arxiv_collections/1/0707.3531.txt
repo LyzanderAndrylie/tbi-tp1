@@ -1,0 +1,11 @@
+Within the context of the nascent e-Science infrastructure in Venezuela, we
+describe several web-based scientific applications developed at the Centro
+Nacional de Calculo Cientifico Universidad de Los Andes (CeCalCULA), Merida,
+and at the Instituto Venezolano de Investigaciones Cientificas (IVIC), Caracas.
+The different strategies that have been followed for implementing quantum
+chemistry and atomic physics applications are presented. We also briefly
+discuss a damage portal based on dynamic, nonlinear, finite elements of lumped
+damage mechanics and a biomedical portal developed within the framework of the
+\textit{E-Infrastructure shared between Europe and Latin America} (EELA)
+initiative for searching common sequences and inferring their functions in
+parasitic diseases such as leishmaniasis, chagas and malaria.

@@ -1,0 +1,12 @@
+We define and analyse the concept of entanglement production during the
+evolution of a general quantum mechanical dissipative system. While it is
+important to minimise entropy production in order to achieve thermodynamical
+efficiency, maximising the rate of change of entanglement is important in
+quantum information processing. Quantitative relations are obtained between
+entropy and entanglement productions, under specific assumptions detailed in
+the text. We apply these to the processes of dephasing and decay of
+correlations between two initially entangled qubits. Both the Master equation
+treatment as well as the higher Hilbert space analysis are presented. Our
+formalism is very general and contains as special cases many reported
+individual instance of entanglement dynamics, such as, for example, the
+recently discovered notion of the sudden death of entanglement.

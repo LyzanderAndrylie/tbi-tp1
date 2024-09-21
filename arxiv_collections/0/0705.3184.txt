@@ -1,0 +1,8 @@
+We present a Monte-Carlo (MC) calculation of the propagation of cosmic ray
+protons in the Galaxy for energies above 1 PeV. We discuss the relative
+strengths of competing effects such as parallel/perpendicular diffusion and
+drifts in toy models of the Galaxy. We compare our estimates with the results
+of the MC calculation for the toy models and then we apply the MC calculation
+to a few more realistic models of the Galactic magnetic field. We study the
+containment times in different models of the magnetic field in order to
+understand which one may be consistent with the low energy data.

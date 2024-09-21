@@ -1,0 +1,11 @@
+The interest of quadratic algebras for position-dependent mass Schr\"odinger
+equations is highlighted by constructing spectrum generating algebras for a
+class of d-dimensional radial harmonic oscillators with $d \ge 2$ and a
+specific mass choice depending on some positive parameter $\alpha$. Via some
+minor changes, the one-dimensional oscillator on the line with the same kind of
+mass is included in this class. The existence of a single unitary irreducible
+representation belonging to the positive-discrete series type for $d \ge 2$ and
+of two of them for d=1 is proved. The transition to the constant-mass limit
+$\alpha \to 0$ is studied and deformed su(1,1) generators are constructed.
+These operators are finally used to generate all the bound-state wavefunctions
+by an algebraic procedure.

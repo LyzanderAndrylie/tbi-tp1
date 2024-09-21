@@ -1,0 +1,13 @@
+The infrared behavior of gluon and ghost propagators in Yang-Mills theories
+is of central importance for understanding quark and gluon confinement in QCD.
+While simulations of pure SU(3) gauge theory correspond to the physical case in
+the limit of infinite quark mass, the SU(2) case (i.e. pure two-color QCD) is
+usually employed as a simplification, in the hope that qualitative features be
+the same as for the SU(3) case. Here we carry out the first comparative study
+of lattice (Landau) propagators for these two gauge groups. Our data were
+especially produced with equivalent lattice parameters in order to allow a
+careful comparison of the two cases. We find very good agreement between SU(2)
+ans SU(3) propagators, showing that in the IR limit the equivalence of the two
+cases is quantitative, at least down to about 1 GeV. Our results suggest that
+the infrared behavior of these propagators is independent of the gauge group
+SU(N_c), as predicted by Schwinger-Dyson equations.

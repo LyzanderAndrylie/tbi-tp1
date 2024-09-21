@@ -1,0 +1,8 @@
+This paper describes the design of near-field focusing plates, which are
+grating-like structures that can focus electromagnetic radiation to spots or
+lines of arbitrarily small subwavelength dimension. A general procedure is
+outlined for designing a near-field plate given a desired image, and its
+implementation at microwave frequencies is discussed. Full-wave (method of
+moments) simulations clearly demonstrate the near-field plate's ability to
+overcome the diffraction limit. Finally, it is shown that the performance of
+near-field plates is weakly affected by losses.

@@ -1,0 +1,20 @@
+It is known that within the interacting electron model Hamiltonian for the
+one-dimensional 1/4-filled band, the singlet ground state is a Wigner crystal
+only if the nearest neighbor electron-electron repulsion is larger than a
+critical value. We show that this critical nearest neighbor Coulomb interaction
+is different for each spin subspace, with the critical value decreasing with
+increasing spin. As a consequence, with the lowering of temperature, there can
+occur a transition from a Wigner crystal charge-ordered state to a spin-Peierls
+state that is a Bond-Charge-Density Wave with charge occupancies different from
+the Wigner crystal. This transition is possible because spin excitations from
+the spin-Peierls state in the 1/4-filled band are necessarily accompanied by
+changes in site charge densities. We apply our theory to the 1/4-filled band
+quasi-one-dimensional organic charge-transfer solids in general and to 2:1
+tetramethyltetrathiafulvalene (TMTTF) and tetramethyltetraselenafulvalene
+(TMTSF) cationic salts in particular. We believe that many recent experiments
+strongly indicate the Wigner crystal to Bond-Charge-Density Wave transition in
+several members of the TMTTF family. We explain the occurrence of two different
+antiferromagnetic phases but a single spin-Peierls state in the generic phase
+diagram for the 2:1 cationic solids. The antiferromagnetic phases can have
+either the Wigner crystal or the Bond-Charge-Spin-Density Wave charge
+occupancies. The spin-Peierls state is always a Bond-Charge-Density Wave.

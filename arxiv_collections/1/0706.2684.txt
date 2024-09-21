@@ -1,0 +1,12 @@
+The unzipping of vortex lines using magnetic-force microscopy from extended
+defects is studied theoretically. We study both the unzipping isolated vortex
+from common defects, such as columnar pins and twin-planes, and the unzipping
+of a vortex from a plane in the presence of other vortices. We show, using
+analytic and numerical methods, that the universal properties of the unzipping
+transition of a single vortex depend only on the dimensionality of the defect
+in the presence and absence of disorder. For the unzipping of a vortex from a
+plane populated with many vortices is shown to be very sensitive to the
+properties of the vortices in the two-dimensional plane. In particular such
+unzipping experiments can be used to measure the ``Luttinger liquid parameter''
+of the vortices in the plane. In addition we suggest a method for measuring the
+line tension of the vortex directly using the experiments.

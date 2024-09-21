@@ -1,0 +1,8 @@
+We analyze the features of the graphene mono- and multilayer reflectance in
+the far-infrared region as a function of frequency, temperature, and carrier
+density taking the intraband conductance and the interband electron absorbtion
+into account. The dispersion of plasmon mode of the multilayers is calculated
+using Maxwell's equations with the influence of retardation included. At low
+temperatures and high electron densities, the reflectance of multilayers as a
+function of frequency has the sharp downfall and the subsequent deep well due
+to the threshold of electron interband absorbtion.

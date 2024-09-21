@@ -1,0 +1,22 @@
+Based on our sample of 10095 galaxies with bulge-disc decompositions we
+derive the empirical B-band internal attenuation--inclination relation for
+galaxy discs and their associated central bulges. Our results agree well with
+the independently derived dust models of Tuffs et al., leading to a direct
+constraint on the mean opacity of spiral discs of Tau_B^f = 3.8 +/- 0.7
+(central face-on B-band opacity). Depending on inclination, the B-band
+attenuation correction varies from 0.2 -- 1.1 mag for discs and from 0.8 -- 2.6
+mag for bulges. We find that, overall, 37 per cent of all B-band photons
+produced in discs in the nearby universe are absorbed by dust, a figure that
+rises to 71 per cent for bulge photons. The severity of internal dust
+extinction is such that one must incorporate internal dust corrections in all
+optical studies of large galaxy samples. This is particularly pertinent for
+optical HST comparative evolutionary studies as the dust properties will also
+be evolving. We use the new results to revise our recent estimates of the
+spheroid and disc luminosity functions. From our best fitting dust models we
+derive a redshift zero cosmic dust density of rho_{dust} ~ (5.3 +/- 1.7) x
+10^5, h M_{odot} Mpc^-3. This implies that (0.0083 +/- 0.0027), h per cent of
+the baryons in the Universe are in the form of dust and (11.9 +/- 1.7), h per
+cent (Salpeter-`lite' IMF) are in the form of stars (~58 per cent reside in
+galaxy discs, ~10 per cent in red elliptical galaxies, ~29 per cent in
+classical galaxy bulges and the remainder in low luminosity blue spheroid
+systems/components). [Abridged]

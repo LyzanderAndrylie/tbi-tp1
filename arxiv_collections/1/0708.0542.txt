@@ -1,0 +1,10 @@
+Diffusion Monte Carlo (DMC) calculations typically yield highly accurate
+results in solid-state and quantum-chemical calculations. However, operators
+that do not commute with the Hamiltonian are at best sampled correctly up to
+second order in the error of the underlying trial wavefunction, once simple
+corrections have been applied. This error is of the same order as that for the
+energy in variational calculations. Operators that suffer from these problems
+include potential energies and the density. This paper presents a new method,
+based on the Hellman-Feynman theorem, for the correct DMC sampling of all
+operators diagonal in real space. Our method is easy to implement in any
+standard DMC code.

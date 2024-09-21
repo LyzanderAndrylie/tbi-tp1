@@ -1,0 +1,11 @@
+We show experimental results demonstrating multiple rounds of heat-bath
+algorithmic cooling in a 3 qubit solid-state nuclear magnetic resonance quantum
+information processor. By dynamically pumping entropy out of the system of
+interest and into the heat-bath, we are able show purification of a single
+qubit to a polarization 1.69 times that of the heat-bath and thus go beyond the
+Shannon bound for closed system cooling. The cooling algorithm implemented
+requires both high fidelity coherent control and a deliberate controlled
+interaction with the environment. We discuss the improvements in control that
+allowed this demonstration. This experimental work shows that given this level
+of quantum control in systems with sufficiently large polarizations, nearly
+pure qubits should be achievable.

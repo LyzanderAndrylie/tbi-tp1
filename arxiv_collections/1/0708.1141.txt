@@ -1,0 +1,15 @@
+The periodic standing wave method studies circular orbits of compact objects
+coupled to helically symmetric standing wave gravitational fields. From this
+solution an approximation is extracted for the strong field, slowly
+inspiralling motion of black holes and binary stars. Previous work on this
+model has dealt with nonlinear scalar models, and with linearized general
+relativity. Here we present the results of the method for the post-Minkowski
+(PM) approximation to general relativity, the first step beyond linearized
+gravity. We compute the PM approximation in two ways: first, via the standard
+approach of computing linearized gravitational fields and constructing from
+them quadratic driving sources for second-order fields, and second, by solving
+the second-order equations as an ``exact'' nonlinear system. The results of
+these computations have two distinct applications: (i) The computational
+infrastructure for the ``exact'' PM solution will be directly applicable to
+full general relativity. (ii) The results will allow us to begin supplying
+initial data to collaborators running general relativistic evolution codes.

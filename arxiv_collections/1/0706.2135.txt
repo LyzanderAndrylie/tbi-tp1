@@ -1,0 +1,15 @@
+We consider a version of a Glauber dynamics for a p-spin
+Sherrington--Kirkpatrick model of a spin glass that can be seen as a time
+change of simple random walk on the N-dimensional hypercube. We show that, for
+any p>2 and any inverse temperature \beta>0, there exist constants g>0, such
+that for all exponential time scales, $\exp(\gamma N)$, with $\gamma< g$, the
+properly rescaled clock process (time-change process), converges to an
+\alpha-stable subordinator where \alpha=\gamma/\beta^2<1. Moreover, the
+dynamics exhibits aging at these time scales with time-time correlation
+function converging to the arcsine law of this \alpha-stable subordinator. In
+other words, up to rescaling, on these time scales (that are shorter than the
+equilibration time of the system), the dynamics of p-spin models ages in the
+same way as the REM, and by extension Bouchaud's REM-like trap model,
+confirming the latter as a universal aging mechanism for a wide range of
+systems. The SK model (the case p=2) seems to belong to a different
+universality class.

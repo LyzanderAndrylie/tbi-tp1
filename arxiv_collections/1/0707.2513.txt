@@ -1,0 +1,16 @@
+The traversal times for an electromagnetic pulse traversing a slab of
+dispersive and dissipative material with negative dielectric permittivity
+($\epsilon$) and magnetic permeability ($\mu$) have been calculated by using
+the average flow of electromagnetic energy in the medium. The effects of
+bandwidth of the pulse and dissipation in the medium have been investigated.
+While both large bandwidth and large dissipation have similar effects in
+smoothening out the resonant features that appear due to Fabry-P\'{e}rot
+resonances, large dissipation can result in very small or even negative
+traversal times near the resonant frequencies. We have also investigated the
+traversal times and Wigner delay times for obliquely incident pulses and
+evanescent pulses. The coupling to slab plasmon polariton modes in frequency
+ranges with negative $\epsilon$ or $\mu$ is shown to result in large traversal
+times at the resonant conditions. We also find that the group velocity mainly
+contributes to the delay times for pulse propagating across a slab with n=-1.
+We have checked that the traversal times are positive and subluminal for pulses
+with sufficiently large bandwidths.

@@ -1,0 +1,5 @@
+Sturm oscillation theorem for second order differential equations was
+generalized to systems and higher order equations with positive leading
+coefficient by several authors. What we propose here is a Sturm oscillation
+theorem for systems of even order having strongly indefinite leading
+coefficient.

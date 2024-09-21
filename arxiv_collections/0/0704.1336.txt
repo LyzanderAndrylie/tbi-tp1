@@ -1,0 +1,13 @@
+The total photo-absorption cross section of $^4$He is evaluated
+microscopically using two- (NN) and three-nucleon (NNN) interactions based upon
+chiral effective field theory ($\chi$EFT). The calculation is performed using
+the Lorentz integral transform method along with the {\em ab initio} no-core
+shell model approach. An important feature of the present study is the
+consistency of the NN and NNN interactions and also, through the Siegert
+theorem, of the two- and three-body current operators. This is due to the
+application of the $\chi$EFT framework. The inclusion of the NNN interaction
+produces a suppression of the low-energy peak and enhancement of the
+high-energy tail of the cross section. We compare to calculations obtained
+using other interactions and to representative experiments. The rather confused
+experimental situation in the giant resonance region prevents discrimination
+among different interaction models.

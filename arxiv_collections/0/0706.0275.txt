@@ -1,0 +1,17 @@
+We explore the hierarchy of hidden space-time symmetries of noncritical
+strings in RNS formalism, realized nonlinearly. Under these symmetry
+transformations the variation of the matter part of the RNS action is cancelled
+by that of the ghost part. These symmetries, referred to as the
+$\alpha$-symmetries, are induced by special space-time generators, violating
+the equivalence of ghost pictures. We classify the $\alpha$-symmetry generators
+in terms of superconformal ghost cohomologies $H_{n}\sim{H_{-n-2}}(n\geq{0})$
+and associate these generators with a chain of hidden space-time dimensions,
+with each ghost cohomology $H_{n}\sim{H_{-n-2}}$ ``contributing'' an extra
+dimension. Namely, we show that each ghost cohomology $H_{n}\sim{H_{-n-2}}$ of
+non-critical superstring theory in $d$-dimensions contains $d+n+1$
+$\alpha$-symmetry generators and the generators from
+$H_{k}\sim{H_{-k-2}},1\leq{k}\leq{n}$, combined together, extend the space-time
+isometry group from the naive $SO(d,2)$ to $SO(d+n,2)$. In the simplest case of
+$n=1$ the $\alpha$-generators are identified with the extra symmetries of the
+$2T$-physics formalism, also known to originate from a hidden space-time
+dimension.

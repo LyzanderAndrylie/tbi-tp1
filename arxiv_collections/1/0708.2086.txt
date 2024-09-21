@@ -1,0 +1,7 @@
+Angle-dependent magnetoresistance measurements are used to determine the
+isotropic and anisotropic components of the transport scattering rate in
+overdoped Tl$_2$Ba$_2$CuO$_{6+\delta}$ for a range of $T_c$ values between 15K
+and 35K. The size of the anisotropic scattering term is found to scale linearly
+with $T_c$, establishing a link between the superconducting and normal state
+physics. Comparison with results from angle resolved photoemission spectroscopy
+indicates that the transport and quasiparticle lifetimes are distinct.

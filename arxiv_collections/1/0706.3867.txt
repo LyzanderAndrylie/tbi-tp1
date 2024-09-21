@@ -1,0 +1,13 @@
+It is generally assumed that quantum field theory (QFT) is gauge invariant.
+However it is well known that non-gauge invariant terms appear in various
+calculations. This problem was recently examined in [9] for a "simple" field
+theory and it was shown that for this case QFT in the Schroedinger picture is
+not, in fact, gauge invariant. In order to shed further light on this problem
+we will examine the Heisenberg and Schroedinger formulations of QFT. It is
+generally assumed that these two "pictures" are equivalent; however we will
+show that this is not necessarily the case. We shall consider a simple field
+theory consisting of a quantized fermion field in the presence of a classical
+electromagnetic field. We will show that, although the two pictures are
+formally equivalent, the Heisenberg picture is gauge invariant but that the
+Schroedinger picture is not. This suggests that the proper way to formulate QFT
+is to use the Heisenberg picture.

@@ -1,0 +1,7 @@
+Coupled spin-charge drift-diffusion equations are derived for a biased
+two-dimensional electron gas with weak Rashba spin-orbit interaction. The basic
+equations formally agree with recent results obtained for spin-orbit coupled
+small polarons. It is shown that effects of an in-plane electric field on a
+homogeneous spin system can completely be described by an associated in-plane
+magnetic field. Exploiting this analogy, we predict among other things the
+electric-field equivalent of the Hanle effect.

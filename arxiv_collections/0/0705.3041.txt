@@ -1,0 +1,14 @@
+We study the sensitivity of the ATLAS experiment to Wtb anomalous couplings
+in top pair production with semileptonic decay, pp -> t tbar -> W+ b W- bbar,
+with one of the W bosons decaying leptonically and the other hadronically.
+Several observables are examined, including the W helicity fractions and new
+quantities recently introduced, such as the ratios of helicity fractions and
+some angular asymmetries defined in the W rest frame. The dependence on
+anomalous couplings of all these observables has been previously obtained. In
+this work we show that some of the new observables also have smaller systematic
+uncertainties than the helicity fractions, with a dependence on anomalous
+couplings similar or stronger than for helicity fractions. Consequently, their
+measurement can significantly improve the limits on anomalous couplings.
+Moreover, the most sensitive measurements can be combined. In this case, the
+precision achieved in the determination of Wtb anomalous couplings can be of a
+few percent in the semileptonic channel alone.

@@ -1,0 +1,14 @@
+Electron-electron interactions play a major role in determining the
+low-temperature rate of phase loss of electrons in mesoscopic systems. The
+study of the dephasing rate is expected to contribute to the understanding of
+the many-body nature of such systems. Closed quantum dots are of special
+interest in this respect, due to theoretical predictions suggesting a possible
+transition temperature below which the dephasing rate vanishes. This prediction
+has attracted much attention, since closed quantum dots are prime candidates
+for storage units in quantum computers, and thus their phase coherence
+properties are of great importance. However, an effective method for measuring
+the dephasing rate within a closed quantum dot is still lacking. Here we study
+two-level systems and show that the Fano factor has a sharp peak as a function
+of the chemical potential, the location of which can be simply related to the
+dephasing rate. We thus suggest to use the properties of the Fano factor peak
+in the super-Poissonian regime as a probe for the dephasing rate.

@@ -1,0 +1,14 @@
+The tilt modulus of a defective Abrikosov vortex lattice pinned by material
+line defects is computed using the boson analogy. It tends to infinity at long
+wavelength, which yields a Bose glass state that is robust to the addition of
+weak point-pinning centers, and which implies a restoring force per vortex line
+for rigid translations about mechanical equilibrium that is independent of
+magnetic field. It also indicates that the Bose glass state breaks into pieces
+along the direction of the correlated pinning centers if the latter have finite
+length. The critical current is predicted to crossover from two dimensional to
+three dimensional behavior as a function of sample thickness along the
+correlated pinning centers in such case. That crossover notably can occur at a
+film thickness that is much larger than that expected from point pins of
+comparable strength. The above is compared to the dependence on thickness shown
+by the critical current in certain films of high-temperature superconductors
+currently being developed for wire technology.

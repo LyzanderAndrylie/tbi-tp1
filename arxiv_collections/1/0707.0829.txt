@@ -1,0 +1,10 @@
+Cet article est consacre a l'etude des mesures limites associees a la
+solution de l'equation de Helmholtz avec un terme source se concentrant en un
+point. Le potentiel est suppose regulier et l'operateur non-captif. La solution
+de l'equation de Schrodinger semi-classique s'ecrit alors micro-localement
+comme somme finie de distributions lagrangiennes.
+  Sous une hypothese geometrique, qui generalise l'hypothese du viriel, on en
+deduit que la mesure limite existe et qu'elle verifie des proprietes standard.
+Enfin, on donne un exemple d'operateur qui ne verifie pas l'hypothese
+geometrique et pour lequel la mesure limite n'est pas unique. Le cas de deux
+termes sources est aussi traite.

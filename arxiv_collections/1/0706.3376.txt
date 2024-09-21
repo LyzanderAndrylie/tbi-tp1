@@ -1,0 +1,12 @@
+We propose a method to perform precision measurements of the interaction
+parameters in systems of N ultra-cold spin 1/2 atoms. The spectroscopy is
+realized by first creating a coherent spin superposition of the two relevant
+internal states of each atom and then letting the atoms evolve under a
+squeezing Hamiltonian. The non-linear nature of the Hamiltonian decreases the
+fundamental limit imposed by the Heisenberg uncertainty principle to N^(-2), a
+factor of N smaller than the fundamental limit achievable with non-interacting
+atoms. We study the effect of decoherence and show that even with decoherence,
+entangled states can outperform the signal to noise limit of non-entangled
+states. We present two possible experimental implementations of the method
+using Bose-Einstein spinor condensates and fermionic atoms loaded in optical
+lattices and discuss their advantages and disadvantages.

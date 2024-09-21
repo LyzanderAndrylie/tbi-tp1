@@ -1,0 +1,4 @@
+This dissertation collects together results on Patience Sorting and its
+generalizations. It incorporates the results of math.CO/0506358,
+math.CO/0507031, and math.CO/0512122, as well as previously unpublished
+results.

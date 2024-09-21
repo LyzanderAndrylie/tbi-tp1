@@ -1,0 +1,24 @@
+We present a study of rotation (vsini) and chromospheric activity (Halpha EW)
+based on an extensive set of high-resolution optical spectra obtained with MIKE
+on the 6.5m Magellan Clay telescope. Our targets are 74 F-M dwarfs in the young
+stellar associations Eta Cha, TW Hydrae, Beta Pic, and Tuc-Hor, spanning ages
+from 6 to 30 Myr. While the Halpha EW for most F and G stars are consistent
+with pure photospheric absorption, most K and M stars show chromospheric
+emission. By comparing Halpha EW in our sample to results in the literature, we
+see a clear evolutionary sequence: Chromospheric activity declines steadily
+from the T Tauri phase to the main sequence. Using activity as an age
+indicator, we find a plausible age range for the Tuc-Hor association of 10-40
+Myr. Between 5 and 30 Myr, we do not see evidence for rotational braking in the
+total sample, thus angular momentum is conserved, in contrast to younger stars.
+This difference indicates a change in the rotational regulation at 5-10 Myr,
+possibly because disk braking cannot operate longer than typical disk
+lifetimes, allowing the objects to spin up. The rotation-activity relation is
+flat in our sample; in contrast to main-sequence stars, there is no linear
+correlation for slow rotators. We argue that this is because young stars
+generate their magnetic fields in a fundamentally different way from
+main-sequence stars, and not just the result of a saturated solar-type dynamo.
+By comparing our rotational velocities with published rotation periods for a
+subset of stars, we determine ages of 13 (7-20) Myr and 9 (7-17} Myr for the
+Eta Cha and TWA associations, respectively, consistent with previous estimates.
+Thus we conclude that stellar radii from evolutionary models by Baraffe et al.
+(1998) are in agreement with the observed radii within +-15%. (abridged)

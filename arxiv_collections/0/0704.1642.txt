@@ -1,0 +1,13 @@
+We study ground state properties and excitation spectra for hard-core Bosons
+on square and triangular lattices, at half filling, using series expansion
+methods. Nearest-neighbor repulsion between the Bosons leads to the development
+of short-range density order at the antiferromagnetic wavevector, and
+simultaneously a roton minima in the density excitation spectra. On the
+square-lattice, the model maps on to the well studied XXZ model, and the roton
+gap collapses to zero precisely at the Heisenberg symmetry point, leading to
+the well known spectra for the Heisenberg antiferromagnet. On the
+triangular-lattice, the collapse of the roton gap signals the onset of the
+supersolid phase. Our results suggest that the transition from the superfluid
+to the supersolid phase maybe weakly first order. We also find several features
+in the density of states, including two-peaks and a sharp discontinuity, which
+maybe observable in experimental realization of such systems.

@@ -1,0 +1,12 @@
+Recent observations of the J/psi spectrum produced in e^+e^- collisions at
+the Upsilon(4S) resonance are in conflict with fixed-order calculations using
+Non-Relativsitic QCD effective theory (NRQCD). One problem is an enhancement in
+the cross section when the J/psi has maximal energy, due to large perturbative
+corrections (Sudakov logarithms). In a recent paper, the Sudakov logarithms in
+the color-octet contribution were summed by combining NRQCD with the
+Soft-Collinear Effective Theory. However to be consistent, the color-singlet
+contributions must also be summed in the endpoint region which was not done in
+that paper. In this paper, we sum the leading and next-to-leading logarithms in
+the color-singlet contribution to the J/psi production cross section. We find
+that the color-singlet cross section is suppressed near endpoint compared to
+the fixed order NRQCD prediction.

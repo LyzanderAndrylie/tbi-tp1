@@ -1,0 +1,11 @@
+Chemical reactions in cell are subject to intense stochastic fluctuations. An
+important question is how the fundamental physiological behavior of cell is
+kept stable against those noisy perturbations. In this paper a stochastic model
+of cell cycle of budding yeast is constructed to analyze the effects of noise
+on the cell cycle oscillation. The model predicts intense noise in levels of
+mRNAs and proteins, and the simulated protein levels explain the observed
+statistical tendency of noise in populations of synchronous and asynchronous
+cells. In spite of intense noise in levels of proteins and mRNAs, cell cycle is
+stable enough to bring the largely perturbed cells back to the physiological
+cyclic oscillation. The model shows that consecutively appearing fixed points
+are the origin of this stability of cell cycle.

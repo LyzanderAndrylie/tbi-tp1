@@ -1,0 +1,11 @@
+We consider an agent interacting with an unmodeled environment. At each time,
+the agent makes an observation, takes an action, and incurs a cost. Its actions
+can influence future observations and costs. The goal is to minimize the
+long-term average cost. We propose a novel algorithm, known as the active LZ
+algorithm, for optimal control based on ideas from the Lempel-Ziv scheme for
+universal data compression and prediction. We establish that, under the active
+LZ algorithm, if there exists an integer $K$ such that the future is
+conditionally independent of the past given a window of $K$ consecutive actions
+and observations, then the average cost converges to the optimum. Experimental
+results involving the game of Rock-Paper-Scissors illustrate merits of the
+algorithm.

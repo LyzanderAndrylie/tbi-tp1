@@ -1,0 +1,10 @@
+We show that classical and quantum Kolmogorov complexity of binary strings
+agree up to an additive constant. Both complexities are defined as the minimal
+length of any (classical resp. quantum) computer program that outputs the
+corresponding string.
+  It follows that quantum complexity is an extension of classical complexity to
+the domain of quantum states. This is true even if we allow a small
+probabilistic error in the quantum computer's output. We outline a mathematical
+proof of this statement, based on an inequality for outputs of quantum
+operations and a classical program for the simulation of a universal quantum
+computer.

@@ -1,0 +1,16 @@
+We present bright-dark vector solitons in quasi-one-dimensional spinor (F=1)
+Bose-Einstein condensates. Using a multiscale expansion technique, we reduce
+the corresponding nonintegrable system of three coupled Gross-Pitaevskii
+equations (GPEs) to a completely integrable Yajima-Oikawa system. In this way,
+we obtain approximate solutions for small-amplitude vector solitons of
+dark-dark-bright and bright-bright-dark types, in terms of the $m_{F}=+1,-1,0$
+spinor components, respectively. By means of numerical simulations of the full
+GPE system, we demonstrate that these states indeed feature soliton properties,
+i.e., they propagate undistorted and undergo quasi-elastic collisions. It is
+also shown that, in the presence of a parabolic trap of strength $\omega $, the
+bright component(s) is (are) guided by the dark one(s), and, as a result, the
+small-amplitude vector soliton as a whole performs harmonic oscillations of
+frequency $\omega/ \sqrt{2}$ in the shallow soliton limit. We investigate
+numerically deviations from this prediction, as the depth of the solitons is
+increased, as well as when the strength of the spin-dependent interaction is
+modified.

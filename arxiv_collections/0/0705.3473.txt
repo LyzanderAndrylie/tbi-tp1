@@ -1,0 +1,16 @@
+Mechanistic home range models are important tools in modeling animal dynamics
+in spatially-complex environments. We introduce a class of stochastic models
+for animal movement in a habitat of varying preference. Such models interpolate
+between spatially-implicit resource selection analysis (RSA) and
+advection-diffusion models, possessing these two models as limiting cases. We
+find a closed-form solution for the steady-state (equilibrium) probability
+distribution u* using a factorization of the redistribution operator into
+symmetric and diagonal parts. How space use is controlled by the preference
+function w then depends on the characteristic width of the redistribution
+kernel: when w changes rapidly compared to this width, u* ~ w, whereas on
+global scales large compared to this width, u* ~ w^2. We analyse the behavior
+at discontinuities in w which occur at habitat type boundaries. We simulate the
+dynamics of space use given two-dimensional prey-availability data and explore
+the effect of the redistribution kernel width. Our factorization allows such
+numerical simulations to be done extremely fast; we expect this to aid the
+computationally-intensive task of model parameter fitting and inverse modeling.

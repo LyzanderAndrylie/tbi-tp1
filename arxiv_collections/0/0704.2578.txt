@@ -1,0 +1,6 @@
+We calculate the formal group law which represents the completion of the
+N\'eron model of an algebraic torus over the rationals that splits in a tamely
+ramified abelian extension. As a tools in the proof, we define and give
+criterions to compute the Weil restriction of a formal group law and the analog
+of the fixed part of a formal group law with respect to the action of a
+(finite) group.

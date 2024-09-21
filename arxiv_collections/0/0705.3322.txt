@@ -1,0 +1,16 @@
+The low-lying eigenvalue spectrum of the QCD Dirac operator in the
+epsilon-regime is expected to match with that of chiral Random Matrix Theory
+(ChRMT). We study this correspondence for the case including sea quarks by
+performing two-flavor QCD simulations on the lattice. Using the overlap fermion
+formulation, which preserves exact chiral symmetry at finite lattice spacings,
+we push the sea quark mass down to \sim 3 MeV on a 16^3\times 32 lattice at a
+lattice spacing a \simeq 0.11 fm. We compare the low-lying eigenvalue
+distributions and find a good agreement with the analytical predictions of
+ChRMT. By matching the lowest-lying eigenvalue we extract the chiral
+condensate, \Sigma(2 GeV)[MSbar] = [251(7)(11) MeV]^3, where errors represent
+statistical and higher order effects in the epsilon expansion. We also
+calculate the eigenvalue distributions on the lattices with heavier sea quarks
+at two lattice spacings. Although the epsilon expansion is not applied for
+those sea quarks, we find a reasonable agreement of the Dirac operator spectrum
+with ChRMT. The value of Sigma, after extrapolating to the chiral limit, is
+consistent with the estimate in the epsilon-regime.

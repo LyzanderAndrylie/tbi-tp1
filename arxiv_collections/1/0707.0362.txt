@@ -1,0 +1,8 @@
+Let $G$ be a group which is the semidirect product of a normal subgroup $N$
+and some subgroup $T$. Let $I^n(G)$, $n\ge 1$, denote the powers of the
+augmentation ideal $I(G)$ of the group ring $\Z(G)$. Using homological methods
+the groups $Q_n(G,H) = I^{n-1}(G)I(H)/I^{n}(G)I(H)$, $H=G,N,T$, are
+functorially expressed in terms of enveloping algebras of certain Lie rings
+associated with $N$ and $T$, in the following cases: for $n\le 4$ and arbitrary
+$G,N,T$ (except from one direct summand of $Q_4(G,N)$), and for all $n\ge 2$ if
+certain filtration quotients of $N$ and $T$ are torsionfree.

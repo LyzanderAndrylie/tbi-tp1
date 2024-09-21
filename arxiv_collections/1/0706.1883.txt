@@ -1,0 +1,15 @@
+The extended Falicov-Kimball model, with both an on-site hybridization
+potential and dispersive narrow band, is examined within the saddle-point
+approximation to the Kotliar-Ruckenstein slave boson theory. We first set the
+hybridization potential to zero and find that the phase diagram depends
+strongly upon the orbital structure: for degenerate orbitals, a
+correlated-insulating state is found at sufficiently strong interaction
+strengths, whereas a finite orbital energy difference can lead to discontinuous
+valence transitions. The obtained phase diagram is very sensitive to the
+presence of a finite hybridization potential. As in Hartree-Fock theory, we
+find an enhancement of the hybridization by the inter-orbital Coulomb
+repulsion. The more precise treatment of correlation effects, however, leads to
+large deviations from the Hartree-Fock results. In the limit of vanishing
+hybridization an excitonic insulator state is only found when the orbitals are
+degenerate, which restricts this phase to a much smaller parameter space than
+in other available mean-field theories.

@@ -1,0 +1,12 @@
+It is widely acknowledged that good object clustering is critical to the
+performance of object-oriented databases. However, object clustering always
+involves some kind of overhead for the system. The aim of this paper is to
+propose a modelling methodology in order to evaluate the performances of
+different clustering policies. This methodology has been used to compare the
+performances of three clustering algorithms found in the literature (Cactis, CK
+and ORION) that we considered representative of the current research in the
+field of object clustering. The actual performance evaluation was performed
+using simulation. Simulation experiments we performed showed that the Cactis
+algorithm is better than the ORION algorithm and that the CK algorithm totally
+outperforms both other algorithms in terms of response time and clustering
+overhead.

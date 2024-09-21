@@ -1,0 +1,11 @@
+The double zeta function is a function of two arguments defined by a double
+Dirichlet series, and was first studied by Euler in response to a letter from
+Goldbach in 1742. By calculating many examples, Euler inferred a closed form
+evaluation of the double zeta function in terms of values of the Riemann zeta
+function, in the case when the two arguments are positive integers with
+opposite parity. Here, we consider a signed analog of Euler's evaluation:
+namely a reduction formula for the signed double zeta function that reduces to
+Euler's evaluation when the signs are specialized to 1. This formula was first
+stated in a 1997 paper by Borwein, Bradley and Broadhurst and was subsequently
+proved by Flajolet and Salvy using contour integration. The purpose here is to
+give an elementary proof based on a partial fraction identity.

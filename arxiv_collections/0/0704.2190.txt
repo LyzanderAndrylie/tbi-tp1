@@ -1,0 +1,9 @@
+The principal limits for the accuracy of the resonance frequency measurements
+set by the asymmetry of the natural resonance line shape are studied and
+applied to the recent accurate frequency measurements in the two-photon 1s-2s
+resonance and in the one-photon 1s-2p resonance in hydrogen atom. This limit
+for 1s-2s resonance is found to be $\sim 10^{-5}$ Hz compared to the accuracy
+achieved in experiment $\pm 46$ Hz. In case of deuterium atom the limit is
+essentially larger: $10^{-2}$ Hz. For 1s-2p resonance the accuracy limit is
+0.17 MHz while the uncertainty of the recent frequency measurement is about 6
+MHz.

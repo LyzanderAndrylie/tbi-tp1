@@ -1,0 +1,10 @@
+A deterministic finite-state automaton (FSA) is an abstract sequential
+machine that reads the symbols comprising an input word one at a time. An FSA
+is symmetric if its output is independent of the order in which the input
+symbols are read, i.e., if the output is invariant under permutations of the
+input. We show how to convert a symmetric FSA A into an automaton-like
+divide-and-conquer process whose intermediate results are no larger than the
+size of A's memory. In comparison, a similar result for general FSA's has been
+long known via functional composition, but entails an exponential increase in
+memory size. The new result has applications to parallel processing and
+symmetric FSA networks.

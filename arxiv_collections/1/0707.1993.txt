@@ -1,0 +1,9 @@
+We consider a particle coupled to a dissipative environment and derive a
+perturbative formula for the dephasing rate based on the purity of the reduced
+probability matrix. We apply this formula to the problem of a particle on a
+ring, that interacts with a dirty metal environment. At low but finite
+temperatures we find a dephasing rate $\propto T^{3/2}$, and identify dephasing
+lengths for large and for small rings. These findings shed light on recent
+Monte Carlo data regarding the effective mass of the particle. At zero
+temperature we find that spatial fluctuations suppress the possibility of
+having a power law decay of coherence.

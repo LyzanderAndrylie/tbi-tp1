@@ -1,0 +1,13 @@
+We prove that the correlations present in a multipartite quantum state have
+an \emph{operational} quantum character as soon as the state does not simply
+encode a multipartite classical probability distribution, i.e. does not
+describe the joint state of many classical registers. Even unentangled states
+may exhibit such \emph{quantumness}, that is pointed out by the new task of
+\emph{local broadcasting}, i.e. of locally sharing pre-established
+correlations: this task is feasible if and only if correlations are classical
+and derive a no-local-broadcasting theorem for quantum correlations. Thus,
+local broadcasting is able to point out the quantumness of correlations, as
+standard broadcasting points out the quantum character of single system states.
+Further, we argue that our theorem implies the standard no-broadcasting theorem
+for single systems, and that our operative approach leads in a natural way to
+the definition of measures for quantumness of correlations.

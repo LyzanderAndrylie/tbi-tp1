@@ -1,0 +1,11 @@
+We present a new model for the propagation of polarized light in a random
+birefringent medium. This model is based on a decomposition of the higher order
+statistics of the reduced Stokes parameters along the irreducible
+representations of the rotation group. We show how this model allows a detailed
+description of the propagation, giving analytical expressions for the
+probability densities of the Mueller matrix and the Stokes vector throughout
+the propagation. It also allows an exact description of the evolution of
+averaged quantities, such as the degree of polarization. We will also discuss
+how this model allows a generalization of the concepts of reduced Stokes
+parameters and degree of polarization to higher order statistics. We give some
+notes on how it can be extended to more general random media.

@@ -1,0 +1,8 @@
+In 1999 A. Connes and D. Kreimer have discovered a Hopf algebra structure on
+the Feynman graphs of scalar field theory. They have found that the
+renormalization can be interpreted as a solving of some Riemann - Hilbert
+problem. In this work the generalization of their scheme to the case of
+nonabelian gauge theories is proposed. The action of the gauge group on the
+Hopf algebra is defined and the proof that this action is in consistent with
+the Hopf algebra structure is given. The scetch of new proof of S-matrix, based
+on the Hopf algebra is given.

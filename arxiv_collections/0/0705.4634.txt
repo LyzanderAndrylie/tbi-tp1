@@ -1,0 +1,23 @@
+Selective control in a population is the ability to control a member of the
+population while leaving the other members relatively unaffected. The concept
+of selective control is developed using cell death or apoptosis in
+heterogeneous cell populations as an example. Apoptosis signaling in
+heterogeneous cells is described by an ensemble of gene networks with identical
+topology but different link strengths. Selective control depends on the
+statistics of signaling in the ensemble of networks and we analyse the effects
+of superposition, non-linearity and feedback on these statistics. Parallel
+pathways promote normal statistics while series pathways promote skew
+distributions which in the most extreme cases become log-normal. We also show
+that feedback and non-linearity can produce bimodal signaling statistics, as
+can discreteness and non-linearity. Two methods for optimizing selective
+control are presented. The first is an exhaustive search method and the second
+is a linear programming based approach. Though control of a single gene in the
+signaling network yields little selectivity, control of a few genes typically
+yields higher levels of selectivity. The statistics of gene combinations
+susceptible to selective control is studied and is used to identify general
+control strategies. We found that selectivity is promoted by acting on the
+least sensitive nodes in the case of weak populations, while selective control
+of robust populations is optimized through perturbations of more sensitive
+nodes. High throughput experiments with heterogeneous cell lines could be
+designed in an analogous manner, with the further possibility of incorporating
+the selectivity optimization process into a closed-loop control system.

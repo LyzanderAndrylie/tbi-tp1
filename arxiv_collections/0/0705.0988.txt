@@ -1,0 +1,14 @@
+Star formation happens in a clustered way which is why the star cluster
+population of a particular galaxy is closely related to the star formation
+history of this galaxy. From the probabilistic nature of a mass function
+follows that the mass of the most-massive cluster of a complete population,
+M_max, has a distribution with the total mass of the population as a parameter.
+The total mass of the population is connected to the star formation rate (SFR)
+by the length of a formation epoch.
+  Since due to evolutionary effects only massive star clusters are observable
+up to high ages it is convenient to use this M_max(SFR) relation for the
+reconstruction of a star formation history. The age-distribution of the
+most-massive clusters can therefore be used to constrain the star formation
+history of a galaxy. The method, including an assessment of the inherent
+uncertainties, is introduced with this contribution, while following papers
+will apply this method to a number of galaxies.

@@ -1,0 +1,18 @@
+We provide the perturbative and non-perturbative arguments showing that
+theories with large number of species of the quantum fields, imply an
+inevitable hierarchy between the masses of the species and the Planck scale,
+shedding a different light on the hierarchy problem. In particular, using the
+black hole physics, we prove that any consistent theory that includes N number
+of the Z_2-conserved species of the quantum fields of mass \Lambda, puts a
+lower bound on the Planck mass, which in large N limit is given by N\Lambda^2.
+An useful byproduct of this proof is that any exactly conserved quantum charge,
+not associated with a long-range classical field, must be defined maximum
+modulo N, bounded by the the ratio of the Planck to the unit charge masses
+squared. For example, a continuous global U(1) `baryon number' symmetry, must
+be explicitly broken by gravity, at least down to a Z_N subgroup, with N
+bounded by the ratio of the Planck to baryon masses squared. The same
+constraint applies to any discrete gauge symmetry, as well as to other
+quantum-mechanically detectable black hole charges that are associated with the
+massive quantum hair of the black hole. We show that the
+gravitationally-coupled N-species sector that solves the gauge hirearchy
+problem, should be probed by LHC.

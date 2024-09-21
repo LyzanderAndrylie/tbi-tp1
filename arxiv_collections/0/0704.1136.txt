@@ -1,0 +1,7 @@
+In this paper we construct spherical thin-shell wormholes supported by a
+Chaplygin gas. For a rather general class of geometries we introduce a new
+approach for the stability analysis of static solutions under perturbations
+preserving the symmetry. We apply this to wormholes constructed from
+Schwarzschild, Schwarzschild-de Sitter, Schwarzschild-anti de Sitter and
+Reissner-Nordstrom metrics. In the last two cases, we find that there are
+values of the parameters for which stable static solutions exist.

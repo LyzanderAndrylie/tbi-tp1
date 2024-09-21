@@ -1,0 +1,18 @@
+In this letter we report {\it in situ} small--angle neutron scattering
+results on the high--density (HDA) and low-density amorphous (LDA) ice
+structures and on intermediate structures as found during the temperature
+induced transformation of HDA into LDA. We show that the small--angle signal is
+characterised by two $Q$ regimes featuring different properties ($Q$ is the
+modulus of the scattering vector defined as $Q =
+4\pi\sin{(\Theta)}/\lambda_{\rm i}$ with $\Theta$ being half the scattering
+angle and $\lambda_{\rm i}$ the incident neutron wavelength). The very low--$Q$
+regime ($< 5\times 10^{-2}$ \AA $^{-1}$) is dominated by a Porod--limit
+scattering. Its intensity reduces in the course of the HDA to LDA
+transformation following a kinetics reminiscent of that observed in wide--angle
+diffraction experiments. The small--angle neutron scattering formfactor in the
+intermediate regime of $5 \times 10^{-2} < Q < 0.5$ \AA$^{-1}$ HDA and LDA
+features a rather flat plateau. However, the HDA signal shows an ascending
+intensity towards smaller $Q$ marking this amorphous structure as
+heterogeneous. When following the HDA to LDA transition the formfactor shows a
+pronounced transient excess in intensity marking all intermediate structures as
+strongly heterogeneous on a length scale of some nano--meters.

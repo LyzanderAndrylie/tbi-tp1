@@ -1,0 +1,7 @@
+The Friedel oscillations resulting from coupling a quantum dot to one edge of
+a disordered one-dimensional wire in the Mott insulator regime, are calculated
+numerically using the DMRG method. By investigating the influence of the
+disorder on the Friedel oscillations decay we find that the effect of disorder
+is reduced by increasing the interaction strength. This behavior is opposite to
+the recently reported influence of disorder in the Anderson insulator regime,
+where disorder led to a stronger decay of the Friedel oscillations.

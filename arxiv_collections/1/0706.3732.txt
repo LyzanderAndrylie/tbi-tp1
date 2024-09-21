@@ -1,0 +1,21 @@
+We present an accurate approximation of the full gravitational radiation
+waveforms generated in the merger of non-eccentric systems of two non-spinning
+black holes. Utilizing information from recent numerical relativity simulations
+and the natural flexibility of the effective-one-body (EOB) model, we extend
+the latter so that it can successfully match the numerical relativity waveforms
+during the last stages of inspiral, merger and ringdown. By ``successfully''
+here, we mean with phase differences < 8% of a gravitational-wave cycle
+accumulated by the end of the ringdown phase, maximizing only over time of
+arrival and initial phase. We obtain this result by simply adding a
+4-post-Newtonian order correction in the EOB radial potential and determining
+the (constant) coefficient by imposing high-matching performances with
+numerical waveforms of mass ratios m1/m2 = 1, 3/2, 2 and 4, m1 and m2 being the
+individual black-hole masses. The final black-hole mass and spin predicted by
+the numerical simulations are used to determine the ringdown frequency and
+decay time of three quasi-normal-mode damped sinusoids that are attached to the
+EOB inspiral-(plunge) waveform at the EOB light-ring. The EOB waveforms might
+be tested and further improved in the future by comparison with extremely long
+and accurate inspiral numerical-relativity waveforms. They may already be
+employed for coherent searches and parameter estimation of gravitational waves
+emitted by non-spinning coalescing binary black holes with ground-based
+laser-interferometer detectors.

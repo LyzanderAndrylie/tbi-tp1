@@ -1,0 +1,8 @@
+We present a complete analytical solution of a system of Potts spins on a
+random k-regular graph in both the canonical and microcanonical ensembles,
+using the Large Deviation Cavity Method (LDCM). The solution is shown to be
+composed of three different branches, resulting in an non-concave entropy
+function.The analytical solution is confirmed with numerical Metropolis and
+Creutz simulations and our results clearly demonstrate the presence of a region
+with negative specific heat and, consequently, ensemble inequivalence between
+the canonical and microcanonical ensembles.

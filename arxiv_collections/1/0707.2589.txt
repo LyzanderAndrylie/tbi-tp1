@@ -1,0 +1,11 @@
+Using recent CLEO III results for the cross section for $e^+e^- \to {\rm
+hadrons}$ at seven centre-of-mass energies between 6.964 and 10.538 GeV, we
+derive a value for the strong coupling constant
+$\alpha_s(M_Z^2)=0.110_{-0.012}^{-0.010}{}_{-0.011}^{+0.010}$ where the
+uncertainties are uncorrelated and correlated, respectively. Our result differs
+significantly from the one derived by CLEO III, as a consequence of inclusion
+of quark mass effects and the proper matching between the effective theories
+with four and five flavours. Combining this new result with an analysis based
+on earlier cross section measurements in the energy region between 2 and 10.6
+GeV, we obtain $\alpha_s(M_Z^2)=0.119^{+0.009}_{-0.011}$, well consistent with
+the current world average.

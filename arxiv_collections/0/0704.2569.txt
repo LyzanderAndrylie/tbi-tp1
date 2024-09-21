@@ -1,0 +1,18 @@
+Clumping in the winds of massive stars may significantly reduce empirical
+mass-loss rates, and which in turn may have a large impact on our understanding
+of massive star evolution. Here, we investigate wind-clumping through the
+linear polarization induced by light scattering off the clumps. Through the use
+of an analytic wind clumping model, we predict the time evolution of the linear
+polarimetry over a large parameter space. We concentrate on the Luminous Blue
+Variables, which display the greatest amount of polarimetric variability and
+for which we recently conducted a spectropolarimetric survey. Our model results
+indicate that the observed level of polarimetric variability can be reproduced
+for two regimes of parameter space: one of a small number of massive,
+optically-thick clumps; and one of a very large number of low-mass clumps.
+Although a systematic time-resolved monitoring campaign is required to
+distinguish between the two scenarios, we currently favour the latter, given
+the short timescale of the observed polarization variability. As the
+polarization is predicted to scale linearly with mass-loss rate, we anticipate
+that all hot stars with very large mass-loss rates should display polarimetric
+variability. This is consistent with recent findings that intrinsic
+polarization is more common in stars with strong H$\alpha$ emission.

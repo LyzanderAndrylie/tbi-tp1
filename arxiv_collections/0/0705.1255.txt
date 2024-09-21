@@ -1,0 +1,6 @@
+We propose a scheme which implements a controllable change of the state of
+the target spin qubit in such a way that both the control and the target spin
+qubits remain in their ground states. The interaction between the two spins is
+mediated by an auxiliary spin, which can transfer to its excited state. Our
+scheme suggests a possible relationship between the gate and adiabatic quantum
+computation.

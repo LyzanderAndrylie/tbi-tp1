@@ -1,0 +1,21 @@
+Strong evidence for the presence of a warped Keplerian accretion disc in
+NGC4258 (M 106) has been inferred from the kinematics of water masers detected
+at sub-parsec scales. Assuming a power-law accretion disc and using constraints
+on the disc parameters derived from observational data, we have analyzed the
+relativistic Bardeen-Petterson effect driven by a Kerr black hole as the
+potential physical mechanism responsible for the disc warping. We found that
+the Bardeen-Petterson radius is comparable to or smaller than the inner radius
+of the maser disc (independent of the allowed value for the black hole spin
+parameter). Numerical simulations for a wide range of physical conditions have
+shown that the evolution of a misaligned disc due to the Bardeen-Petterson
+torques usually produces an inner flat disc and a warped transition region with
+a smooth gradient in the tilt and twist angles. Since this structure is similar
+to that seen in NGC 4258, we propose that the Bardeen-Petterson effect may be
+responsible for the disc warping in this galaxy. We estimated the time-scale
+necessary for the disc inside of the Bardeen-Petterson radius to align with the
+black hole's equator, as a function of the black hole spin. Our results show
+that the Bardeen-Petterson effect can align the disc within a few billion years
+in the case of NGC 4258. Finally, we show that if the observed curvature of the
+outer anomalous arms in the galactic disc of NGC 4258 is associated with the
+precession of its radio jet/counterjet, then the Bardeen-Petterson effect can
+provide the required precession period.

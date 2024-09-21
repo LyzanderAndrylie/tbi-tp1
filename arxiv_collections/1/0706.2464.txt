@@ -1,0 +1,10 @@
+We classify all integrable 3-dimensional scalar discrete quasilinear
+equations Q=0 on an elementary cubic cell of the 3-dimensional lattice. An
+equation Q=0 is called integrable if it may be consistently imposed on all
+3-dimensional elementary faces of the 4-dimensional lattice.
+  Under the natural requirement of invariance of the equation under the action
+of the complete group of symmetries of the cube we prove that the only
+nontrivial (non-linearizable) integrable equation from this class is the
+well-known dBKP-system. (Version 2: A small correction in Table 1 (p.7) for n=2
+has been made.) (Version 3: A few small corrections: one more reference added,
+the main statement stated more explicitly.)

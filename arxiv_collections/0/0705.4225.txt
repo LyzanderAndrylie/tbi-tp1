@@ -1,0 +1,9 @@
+A possibility to detect correlations between two quantum mechanical systems
+only from the information of a subsystem is investigated. For generic cases, we
+prove that there exist correlations between two quantum systems if the
+time-derivative of the reduced purity is not zero. Therefore, an
+experimentalist can conclude non-zero correlations between his/her system and
+some environment if he/she finds the time-derivative of the reduced purity is
+not zero. A quantitative estimation of a time-derivative of the reduced purity
+with respect to correlations is also given. This clarifies the role of
+correlations in the mechanism of decoherence in open quantum systems.

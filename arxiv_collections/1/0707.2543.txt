@@ -1,0 +1,14 @@
+The planned tracking upgrade of the STAR experiment at RHIC includes a
+large-area GEM tracker used to determine the charge sign of electrons and
+positrons produced from W+(-) decays. For such a large-scale project commercial
+availability of GEM foils is necessary. We report first results obtained with a
+triple GEM detector using GEM foils produced by Tech-Etch Inc. of Plymouth, MA,
+USA. Measurements of gain uniformity, long-term stability as well as
+measurements of the energy resolution for X-Rays are compared to results
+obtained with an identical detector using GEM foils produced at CERN. A quality
+assurance procedure based on optical tests using an automated high-resolution
+scanner has been established, allowing a study of the correlation of the
+observed behavior of the detector and the geometrical properties of the GEM
+foils. Detectors based on Tech-Etch and CERN produced foils both show good
+uniformity of the gain over the active area and stable gain after an initial
+charge-up period, making them well suited for precision tracking applications.

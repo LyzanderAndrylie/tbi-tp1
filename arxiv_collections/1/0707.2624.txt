@@ -1,0 +1,7 @@
+An analytic approach for controlling quantum states, which was originally
+applied to fully random matrix systems [T. Takami and H. Fujisaki, Phys. Rev. E
+75, 036219 (2007)], is extended to deal with more realistic quantum systems
+with a banded random matrix (BRM). The validity of the new analytic field is
+confirmed by directly solving the Schroedinger equation with a BRM interaction.
+We find a threshold of the width of the BRM for the quantum control to be
+successful.

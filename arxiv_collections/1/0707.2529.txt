@@ -1,0 +1,10 @@
+In double quantum dots, the exchange interaction between two electron spins
+renormalizes the excitation energy of pair-flips in the nuclear spin bath,
+which in turn modifies the non-Markovian bath dynamics. As the energy
+renormalization varies with the Overhauser field mismatch between the quantum
+dots, the electron singlet-triplet decoherence resulting from the bath dynamics
+depends on sampling of nuclear spin states from an ensemble, leading to the
+transition from exponential decoherence in single-sample dynamics to power-law
+decay under ensemble averaging. In contrast, the decoherence of a single
+electron spin in one dot is essentially the same for different choices of the
+nuclear spin configuration.

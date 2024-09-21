@@ -1,0 +1,10 @@
+We discuss the structure of Dyson--Schwinger equations in quantum gravity and
+conclude in particular that all relevant skeletons are of first order in the
+loop number. There is an accompanying sub Hopf algebra on gravity amplitudes
+equivalent to identities between n-graviton scattering amplitudes which
+generalize the Slavnov Taylor identities. These identities map the infinite
+number of charges and finite numbers of skeletons in gravity to an infinite
+number of skeletons and a finite number of charges needing renormalization. Our
+analysis suggests that gravity, regarded as a probability conserving but
+perturbatively non-renormalizable theory, is renormalizable after all, thanks
+to the structure of its Dyson--Schwinger equations.

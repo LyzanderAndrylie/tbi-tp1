@@ -1,0 +1,13 @@
+Thus far, sparse representations have been exploited largely in the context
+of robustly estimating functions in a noisy environment from a few
+measurements. In this context, the existence of a basis in which the signal
+class under consideration is sparse is used to decrease the number of necessary
+measurements while controlling the approximation error. In this paper, we
+instead focus on applications in numerical analysis, by way of sparse
+representations of linear operators with the objective of minimizing the number
+of operations needed to perform basic operations (here, multiplication) on
+these operators. We represent a linear operator by a sum of rank-one operators,
+and show how a sparse representation that guarantees a low approximation error
+for the product can be obtained from analyzing an induced quadratic form. This
+construction in turn yields new algorithms for computing approximate matrix
+products.

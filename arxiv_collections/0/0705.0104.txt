@@ -1,0 +1,21 @@
+The relaxation dynamics of a model fluid of platelike colloidal particles is
+investigated by means of a phenomenological dynamic density functional theory.
+The model fluid approximates the particles within the Zwanzig model of
+restricted orientations. The driving force for time-dependence is expressed
+completely by gradients of the local chemical potential which in turn is
+derived from a density functional -- hydrodynamic interactions are not taken
+into account. These approximations are expected to lead to qualitatively
+reliable results for low densities as those within the isotropic-nematic
+two-phase region. The formalism is applied to model an initially spatially
+homogeneous stable or metastable isotropic fluid which is perturbed by
+switching a two-dimensional array of Gaussian laser beams. Switching on the
+laser beams leads to an accumulation of colloidal particles in the beam
+centers. If the initial chemical potential and the laser power are large enough
+a preferred orientation of particles occurs breaking the symmetry of the laser
+potential. After switching off the laser beams again the system can follow
+different relaxation paths: It either relaxes back to the homogeneous isotropic
+state or it forms an approximately elliptical high-density core which is
+elongated perpendicular to the dominating orientation in order to minimize the
+surface free energy. For large supersaturations of the initial isotropic fluid
+the high-density cores of neighboring laser beams of the two-dimensional array
+merge into complex superstructures.

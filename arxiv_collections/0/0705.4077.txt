@@ -1,0 +1,20 @@
+We study the computational strength of quantum particles (each of finite
+dimensionality) arranged on a line. First, we prove that it is possible to
+perform universal adiabatic quantum computation using a one-dimensional quantum
+system (with 9 states per particle). This might have practical implications for
+experimentalists interested in constructing an adiabatic quantum computer.
+Building on the same construction, but with some additional technical effort
+and 12 states per particle, we show that the problem of approximating the
+ground state energy of a system composed of a line of quantum particles is
+QMA-complete; QMA is a quantum analogue of NP. This is in striking contrast to
+the fact that the analogous classical problem, namely, one-dimensional
+MAX-2-SAT with nearest neighbor constraints, is in P. The proof of the
+QMA-completeness result requires an additional idea beyond the usual techniques
+in the area: Not all illegal configurations can be ruled out by local checks,
+so instead we rule out such illegal configurations because they would, in the
+future, evolve into a state which can be seen locally to be illegal. Our
+construction implies (assuming the quantum Church-Turing thesis and that
+quantum computers cannot efficiently solve QMA-complete problems) that there
+are one-dimensional systems which take an exponential time to relax to their
+ground states at any temperature, making them candidates for being
+one-dimensional spin glasses.

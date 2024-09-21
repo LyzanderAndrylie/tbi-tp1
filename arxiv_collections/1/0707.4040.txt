@@ -1,0 +1,9 @@
+Coherent single electron spin oscillation in a double quantum dot system
+driven by a magnetic electron spin resonance field is studied theoretically
+using a Bloch-type rate equation approach. The oscillation frequency and
+relaxation time obtained using typical model parameters are consistent with
+experiment findings. The dominant decoherence mechanism is identified to be a
+leakage current through a Coulomb blockade barrier at a quantum dot during the
+spin manipulation. Nuclear field fluctuations which induce a long relaxation
+time are found to contribute only negligibly to the decoherence despite an
+earlier suggestion.

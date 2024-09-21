@@ -1,0 +1,14 @@
+We present the results of non-linear tunnelling spectroscopy between an array
+of independent quantum wires and an adjacent two-dimensional electron gas
+(2DEG) in a double-quantum-well structure. The two layers are separately
+contacted using a surface-gate scheme, and the wires are all very regular, with
+dimensions chosen carefully so that there is minimal modulation of the 2DEG by
+the gates defining the wires. We have mapped the dispersion spectrum of the 1D
+wires down to the depletion of the last 1D subband by measuring the conductance
+\emph{G} as a function of the in-plane magnetic field \emph{B}, the interlayer
+bias $V_{\rm dc}$ and the wire gate voltage. There is a strong suppression of
+tunnelling at zero bias, with temperature and dc-bias dependences consistent
+with power laws, as expected for a Tomonaga-Luttinger Liquid caused by
+electron-electron interactions in the wires. In addition, the current peaks fit
+the free-electron model quite well, but with just one 1D subband there is extra
+structure that may indicate interactions.

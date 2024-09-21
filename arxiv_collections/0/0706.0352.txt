@@ -1,0 +1,12 @@
+Transferring quantum information between two qubits is a basic requirement
+for many applications in quantum communication and quantum information
+processing. In the iterative quantum state transfer (IQST) proposed by D.
+Burgarth et al. [Phys. Rev. A 75, 062327 (2007)], this is achieved by a static
+spin chain and a sequence of gate operations applied only to the receiving end
+of the chain. The only requirement on the spin chain is that it transfers a
+finite part of the input amplitude to the end of the chain, where the gate
+operations accumulate the information. For an appropriate sequence of
+evolutions and gate operations, the fidelity of the transfer can asymptotically
+approach unity. We demonstrate the principle of operation of this transfer
+scheme by implementing it in a nuclear magnetic resonance quantum information
+processor.

@@ -1,0 +1,16 @@
+Across all kingdoms of biological life, protein-coding genes exhibit unequal
+usage of synonmous codons. Although alternative theories abound, translational
+selection has been accepted as an important mechanism that shapes the patterns
+of codon usage in prokaryotes and simple eukaryotes. Here we analyze patterns
+of codon usage across 74 diverse bacteriophages that infect E. coli, P.
+aeruginosa and L. lactis as their primary host. We introduce the concept of a
+`genome landscape,' which helps reveal non-trivial, long-range patterns in
+codon usage across a genome. We develop a series of randomization tests that
+allow us to interrogate the significance of one aspect of codon usage, such a
+GC content, while controlling for another aspect, such as adaptation to
+host-preferred codons. We find that 33 phage genomes exhibit highly non-random
+patterns in their GC3-content, use of host-preferred codons, or both. We show
+that the head and tail proteins of these phages exhibit significant bias
+towards host-preferred codons, relative to the non-structural phage proteins.
+Our results support the hypothesis of translational selection on viral genes
+for host-preferred codons, over a broad range of bacteriophages.

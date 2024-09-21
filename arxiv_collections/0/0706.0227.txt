@@ -1,0 +1,23 @@
+For many real spin-glass materials, the Edwards-Anderson model with
+continuous-symmetry spins is more realistic than the rather better understood
+Ising variant. In principle, the nature of an occurring spin-glass phase in
+such systems might be inferred from an analysis of the zero-temperature
+properties. Unfortunately, with few exceptions, the problem of finding
+ground-state configurations is a non-polynomial problem computationally, such
+that efficient approximation algorithms are called for. Here, we employ the
+recently developed genetic embedded matching (GEM) heuristic to investigate the
+nature of the zero-temperature phase of the bimodal XY spin glass in two
+dimensions. We analyze bulk properties such as the asymptotic ground-state
+energy and the phase diagram of disorder strength vs. disorder concentration.
+For the case of a symmetric distribution of ferromagnetic and antiferromagnetic
+bonds, we find that the ground state of the model is unique up to a global O(2)
+rotation of the spins. In particular, there are no extensive degeneracies in
+this model. The main focus of this work is on an investigation of the
+excitation spectrum as probed by changing the boundary conditions. Using
+appropriate finite-size scaling techniques, we consistently determine the
+stiffness of spin and chiral domain walls and the corresponding fractal
+dimensions. Most noteworthy, we find that the spin and chiral channels are
+characterized by two distinct stiffness exponents and, consequently, the system
+displays spin-chirality decoupling at large length scales. Results for the
+overlap distribution do not support the possibility of a multitude of
+thermodynamic pure states.

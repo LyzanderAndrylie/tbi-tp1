@@ -1,0 +1,9 @@
+Since molecular energy transformations are responsible for chemical reaction
+rates at the most fundamental level, chemical kinetics should provide some
+information about molecular energies. This is the premise and objective of this
+note. We describe a Hamiltonian formulation for kinetic rate equations where
+the concentrations are the generalized coordinates and the conjugate momenta
+are simply related to individual average molecular energies. Simple examples
+are presented and the resulting energy relations naturally include
+non-equilibrium reactions. An analysis predicts the reasonable outcome that
+thermal agitation of a composite molecule increases its rate of dissociation.

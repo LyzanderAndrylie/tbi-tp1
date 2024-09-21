@@ -1,0 +1,7 @@
+A second-order Taylor series expansion of the free energy functional provides
+analytical expressions for the magnetic field dependence of the free energy and
+of the magnetization of ferrofluids, here modelled by dipolar Yukawa
+interaction potentials. The corresponding hard core dipolar Yukawa reference
+fluid is studied within the framework of the mean spherical approximation. Our
+findings for the magnetic and phase equilibrium properties are in quantitative
+agreement with previously published and new Monte Carlo simulation data.

@@ -1,0 +1,8 @@
+The vast use of computers on scientific numerical computation makes the
+awareness of the limited precision that these machines are able to provide us
+an essential matter. A limited and insufficient precision allied to the
+truncation and rounding errors may induce the user to incorrect interpretation
+of his/hers answer. In this work, we have developed a computational package to
+minimize this kind of error by offering arbitrary precision numbers and
+calculation. This is very important in Physics where we can work with numbers
+too small and too big simultaneously.

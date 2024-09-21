@@ -1,0 +1,10 @@
+We provide sensitivity comparisons for two competing versions of the
+dimension reduction method principal Hessian directions (pHd). These
+comparisons consider the effects of small perturbations on the estimation of
+the dimension reduction subspace via the influence function. We show that the
+two versions of pHd can behave completely differently in the presence of
+certain observational types. Our results also provide evidence that outliers in
+the traditional sense may or may not be highly influential in practice. Since
+influential observations may lurk within otherwise typical data, we consider
+the influence function in the empirical setting for the efficient detection of
+influential observations in practice.

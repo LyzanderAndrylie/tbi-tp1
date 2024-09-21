@@ -1,0 +1,12 @@
+In planar nano-magnetic devices magnetization direction is kept close to a
+given plane by the large easy-plane magnetic anisotropy, for example by the
+shape anisotropy in a thin film. In this case magnetization shows effectively
+in-plane dynamics with only one angle required for its description. Moreover,
+the motion can become overdamped even for small values of Gilbert damping. We
+derive the equations of effective in-plane dynamics in the presence of
+spin-transfer torques. The simplifications achieved in the overdamped regime
+allow to study systems with several dynamic magnetic pieces (``free layers'').
+A transition from a spin-transfer device with a static polarizer to a device
+with two equivalent magnets is observed. When the size difference between the
+magnets is less than critical, the device does not exhibit switching, but goes
+directly into the ``windmill'' precession state.

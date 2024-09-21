@@ -1,0 +1,11 @@
+Anchoring is a term used in psychology to describe the common human tendency
+to rely too heavily (anchor) on one piece of information when making decisions.
+A trading algorithm inspired by biological motors, introduced by L.
+Gil\cite{Gil}, is suggested as a testing ground for anchoring in financial
+markets. An exact solution of the algorithm is presented for arbitrary price
+distributions. Furthermore the algorithm is extended to cover the case of a
+market neutral portfolio, revealing additional evidence that anchoring is
+involved in the decision making of market participants. The exposure of
+arbitrage possibilities created by anchoring gives yet another illustration on
+the difficulty proving market efficiency by only considering lower order
+correlations in past price time series

@@ -1,0 +1,19 @@
+A construction of fully abstract typed models for PCF and PCF^+ (i.e., PCF +
+"parallel conditional function"), respectively, is presented. It is based on
+general notions of sequential computational strategies and wittingly consistent
+non-deterministic strategies introduced by the author in the seventies.
+Although these notions of strategies are old, the definition of the fully
+abstract models is new, in that it is given level-by-level in the finite type
+hierarchy. To prove full abstraction and non-dcpo domain theoretic properties
+of these models, a theory of computational strategies is developed. This is
+also an alternative and, in a sense, an analogue to the later game strategy
+semantics approaches of Abramsky, Jagadeesan, and Malacaria; Hyland and Ong;
+and Nickau. In both cases of PCF and PCF^+ there are definable universal
+(surjective) functionals from numerical functions to any given type,
+respectively, which also makes each of these models unique up to isomorphism.
+Although such models are non-omega-complete and therefore not continuous in the
+traditional terminology, they are also proved to be sequentially complete (a
+weakened form of omega-completeness), "naturally" continuous (with respect to
+existing directed "pointwise", or "natural" lubs) and also "naturally"
+omega-algebraic and "naturally" bounded complete -- appropriate generalisation
+of the ordinary notions of domain theory to the case of non-dcpos.

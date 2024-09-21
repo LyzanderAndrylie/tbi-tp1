@@ -1,0 +1,14 @@
+A probabilistic framework is developed that gives a unifying perspective on
+both the classical and the quantum games. We suggest exploiting peculiar
+probabilities involved in Einstein-Podolsky-Rosen (EPR) experiments to
+construct quantum games. In our framework a game attains classical
+interpretation when joint probabilities are factorizable and a quantum game
+corresponds when these probabilities cannot be factorized. We analyze how
+non-factorizability changes Nash equilibria in two-player games while
+considering the games of Prisoner's Dilemma, Stag Hunt, and Chicken. In this
+framework we find that for the game of Prisoner's Dilemma even non-factorizable
+EPR joint probabilities cannot be helpful to escape from the classical outcome
+of the game. For a particular version of the Chicken game, however, we find
+that the two non-factorizable sets of joint probabilities, that maximally
+violates the Clauser-Holt-Shimony-Horne (CHSH) sum of correlations, indeed
+result in new Nash equilibria.

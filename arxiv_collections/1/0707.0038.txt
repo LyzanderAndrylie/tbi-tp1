@@ -1,0 +1,5 @@
+We give a criterion allowing to verify whether or not two tilted algebras
+have the same relation-extension (thus correspond to the same cluster-tilted
+algebra). This criterion is in terms of a combinatorial configuration in the
+Auslander-Reiten quiver of the cluster-tilted algebra, which we call local
+slice.

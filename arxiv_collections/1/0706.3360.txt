@@ -1,0 +1,22 @@
+The physics of quantum degenerate Fermi gases in uniform as well as in
+harmonically trapped configurations is reviewed from a theoretical perspective.
+Emphasis is given to the effect of interactions which play a crucial role,
+bringing the gas into a superfluid phase at low temperature. In these dilute
+systems interactions are characterized by a single parameter, the s-wave
+scattering length, whose value can be tuned using an external magnetic field
+near a Feshbach resonance. The BCS limit of ordinary Fermi superfluidity, the
+Bose-Einstein condensation (BEC) of dimers and the unitary limit of large
+scattering length are important regimes exhibited by interacting Fermi gases.
+In particular the BEC and the unitary regimes are characterized by a high value
+of the superfluid critical temperature, of the order of the Fermi temperature.
+Different physical properties are discussed, including the density profiles and
+the energy of the ground-state configurations, the momentum distribution, the
+fraction of condensed pairs, collective oscillations and pair breaking effects,
+the expansion of the gas, the main thermodynamic properties, the behavior in
+the presence of optical lattices and the signatures of superfluidity, such as
+the existence of quantized vortices, the quenching of the moment of inertia and
+the consequences of spin polarization. Various theoretical approaches are
+considered, ranging from the mean-field description of the BCS-BEC crossover to
+non-perturbative methods based on quantum Monte Carlo techniques. A major goal
+of the review is to compare the theoretical predictions with the available
+experimental results.

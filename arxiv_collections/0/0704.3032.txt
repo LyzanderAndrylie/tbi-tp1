@@ -1,0 +1,5 @@
+We implement the Bethe anstaz method for the elliptic quantum group
+$E_{\tau,\eta}(A_2^{(2)})$. The Bethe creation operators are constructed as
+polynomials of the Lax matrix elements expressed through a recurrence relation.
+We also give the eigenvalues of the family of commuting transfer matrices
+defined in the tensor product of fundamental representations.

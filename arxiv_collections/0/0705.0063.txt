@@ -1,0 +1,20 @@
+The physical characteristics of the Lyman-alpha forest cloud systems are
+combined with observations on the baryonic mass density of the Universe and
+constraints from primordial nucleosynthesis to set boundary conditions on the
+Intergalactic Medium (IGM) at the epoch of z=2.5. The Universe is considered a
+closed system and allowed to expand adiabatically from the epoch when QSOs
+first ionized the IGM (5 <= z_on <= 20). The average kinetic energy of a gas is
+calculated in the region where the gas transitions from relativistic to
+non-relativistic behavior. All of the above measurements are then used to
+determine the thermal history of the IGM in the redshift range 2.5 <= z <=
+z_on. The hot IGM is assumed to inverse Compton scatter photons from the Cosmic
+Microwave Background (CMBR) and consequently distort the CMBR as seen at the
+present epoch. The temperature of the IGM at z=2.5 and the epoch z_on are
+adjusted, within the constraints defined above, to give the best overall
+agreement with published data on the temperature of the IGM. We find that the
+model of the IGM proposed here does not grossly distort the CMBR, and in fact
+agrees quite closely with the preliminary results from the Cosmic Background
+Explorer (COBE) satellite. However, our model of the IGM cannot explain the
+observed cosmic x ray background.
+  This paper was originally written in 1990. It was never submitted for
+publication.

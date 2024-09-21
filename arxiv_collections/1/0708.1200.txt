@@ -1,0 +1,9 @@
+The time reversal Aharonov-Casher (AC) interference effect in the mesoscopic
+ring structures, based on the experiment in Phys. Rev. Lett. \textbf{97},
+196803 (2006), is studied theoretically. The transmission curves are calculated
+from the scattering matrix formalism, and the time reversal AC interference
+frequency is singled out from the Fourier spectra in numerical simulations.
+This frequency is in good agreement with analytical result. It is also shown
+that in the absent of magnetic field, the Altshuler-Aronov-Spivak type (time
+reversal) AC interference retains under the influence of strong disorder, while
+the Aharonov-Bohm type AC interference is suppressed.

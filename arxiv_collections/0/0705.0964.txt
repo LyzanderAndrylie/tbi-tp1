@@ -1,0 +1,9 @@
+The compatibility of the pure power law infrared solution of QCD and lattice
+data for the gluon and ghost propagators in Landau gauge is discussed. For the
+gluon propagator, the lattice data is well described by a pure power law with
+an infrared exponent $\kappa \sim 0.53$, in the Dyson-Schwinger notation.
+$\kappa$ is measured using a technique that suppresses finite volume effects.
+This value implies a vanishing zero momentum gluon propagator, in agreement
+with the Gribov-Zwanziger confinement scenario. For the ghost propagator, the
+lattice data seem not to follow a pure power law, at least for the range of
+momenta accessed in our simulation.

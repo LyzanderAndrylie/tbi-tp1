@@ -1,0 +1,9 @@
+The spin-Hall conductivity in spatially-homogeneous two-dimensional electron
+systems described by the spin-orbit Hamiltonian \hbar \Omega_p \sigma is
+presented as a sum of the universal part Me/8 \pi \hbar determined by the Berry
+phase \Phi=M \pi (M is an odd integer, the winding number of the vector
+\Omega_p) and a non-universal part which vanishes under certain conditions
+determined by the analytical properties of \Omega_p. The analysis reveals a
+rich and complicated behavior of the spin-Hall conductivity which is relevant
+to both electron and hole states in quantum wells and can be detected in
+experiments.

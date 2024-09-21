@@ -1,0 +1,6 @@
+The perturbative QCD approach is based on $k_T$ factorization, including the
+Sudakov form factors so that to avoid the endpoint singularity. In this
+approach, we calculate the charmless B decays like $B\to \pi\pi$ decays etc. to
+produce the right number of branching ratios and also CP asymmetry parameters.
+For final states with at least one charmed meson, like $B\to D\pi$ decays, our
+results also agree with the experiments.

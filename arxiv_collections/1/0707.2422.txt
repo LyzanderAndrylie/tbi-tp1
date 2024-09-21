@@ -1,0 +1,14 @@
+The exactly solvable Lieb-Liniger model of interacting bosons in
+one-dimension has attracted renewed interest as current experiments with
+ultra-cold atoms begin to probe this regime. Here we numerically solve the
+equations arising from the Bethe ansatz solution for the exact many-body wave
+function in a finite-size system of up to twenty particles for attractive
+interactions. We discuss the novel features of the solutions, and how they
+deviate from the well-known string solutions [H. B. Thacker, Rev. Mod. Phys.\
+\textbf{53}, 253 (1981)] at finite densities. We present excited state string
+solutions in the limit of strong interactions and discuss their physical
+interpretation, as well as the characteristics of the quantum phase transition
+that occurs as a function of interaction strength in the mean-field limit.
+Finally we compare our results to those of exact diagonalization of the
+many-body Hamiltonian in a truncated basis. We also present excited state
+solutions and the excitation spectrum for the repulsive 1D Bose gas on a ring.

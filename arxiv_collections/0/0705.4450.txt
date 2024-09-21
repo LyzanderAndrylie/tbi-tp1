@@ -1,0 +1,14 @@
+Equation for evolution of the four-component Stokes vector in weakly
+anisotropic and smoothly inhomogeneous media is derived on the basis of
+quasi-isotropic approximation of the geometrical optics method, which provides
+consequent asymptotic solution of Maxwell equations. Our equation generalizes
+previous results, obtained for the normal propagation of electromagnetic waves
+in stratified media. It is valid for curvilinear rays with torsion and is
+capable to describe normal modes conversion in the inhomogeneous media.
+Remarkably, evolution of the Stokes vector is described by the
+Bargmann-Michel-Telegdi equation for relativistic spin precession, whereas the
+equation for the three-component Stokes vector resembles the Landau-Lifshitz
+equation for spin precession in ferromegnetic systems. General theory is
+applied for analysis of polarization evolution in a magnetized plasma. We also
+emphasize fundamental features of the non-Abelian polarization evolution in
+anisotropic inhomogeneous media and illustrate them by simple examples.

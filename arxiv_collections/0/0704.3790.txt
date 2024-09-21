@@ -1,0 +1,17 @@
+We calculate next-to-leading-order (NLO) corrections to exclusive processes
+in $k_T$ factorization theorem, taking $\pi\gamma^*\to\gamma$ as an example.
+Partons off-shell by $k_T^2$ are considered in both the quark diagrams from
+full QCD and the effective diagrams for the pion wave function. The gauge
+dependences in the above two sets of diagrams cancel, when deriving the
+$k_T$-dependent hard kernel as their difference. The gauge invariance of the
+hard kernel is then proven to all orders by induction. The light-cone
+singularities in the $k_T$-dependent pion wave function are regularized by
+rotating the Wilson lines away from the light cone. This regularization
+introduces a factorization-scheme dependence into the hard kernel, which can be
+minimized in the standard way. Both the large double logarithms $\ln^2k_T$ and
+$\ln^2 x$, $x$ being a parton momentum fraction, arise from the loop correction
+to the virtual photon vertex, the former being absorbed into the pion wave
+function and organized by the $k_T$ resummation, and the latter absorbed into a
+jet function and organized by the threshold resummation. The NLO corrections
+are found to be only few-percent for $\pi\gamma^*\to\gamma$, if setting the
+factorization scale to the momentum transfer from the virtual photon.

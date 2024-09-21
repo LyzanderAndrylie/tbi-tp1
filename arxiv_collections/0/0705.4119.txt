@@ -1,0 +1,10 @@
+We demonstrate coherent control of two logical qubits encoded in a
+decoherence free subspace (DFS) of four dipolar-coupled protons in an NMR
+quantum information processor. A pseudo-pure fiducial state is created in the
+DFS, and a unitary logical qubit entangling operator evolves the system to a
+logical Bell state. The four-spin molecule is partially aligned by a liquid
+crystal solvent, which introduces strong dipolar couplings among the spins.
+Although the system Hamiltonian is never fully specified, we demonstrate high
+fidelity control over the logical degrees of freedom. In fact, the DFS encoding
+leads to higher fidelity control than is available in the full four-spin
+Hilbert space.

@@ -1,0 +1,7 @@
+We use the chiral quark soliton model to estimate masses and widths of the
+two eikosiheptaplets (27-plets of SU(3) flavor) of spin 3/2 and 1/2 that emerge
+in the rigid rotator quantization. We use as input: hyperon decays, Theta+ mass
+and width. While 27_{3/2} has small widths (although much larger than the
+values allowed by the partial wave analysis), 27_{1/2} has large decay widths
+to antidecuplet. However exactly for this decay channels the widths are
+suppressed in the large N_{c} limit.

@@ -1,0 +1,10 @@
+We carry out numerical simulations to study transport behavior about the
+jamming transition of a model granular material in two dimensions at zero
+temperature. Shear viscosity \eta is computed as a function of particle volume
+density \rho and applied shear stress \sigma, for diffusively moving particles
+with a soft core interaction. We find an excellent scaling collapse of our data
+as a function of the scaling variable \sigma/|\rho_c-\rho|^\Delta, where \rho_c
+is the critical density at \sigma=0 ("point J"), and \Delta is the crossover
+scaling critical exponent. Our results show that jamming is a true critical
+phenomenon, extending to driven steady states along the non-equilibrium \sigma
+axis of the \rho-\sigma phase diagram.

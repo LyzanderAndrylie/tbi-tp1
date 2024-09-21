@@ -1,0 +1,10 @@
+We have constructed a systematic low-energy effective theory for hole- and
+electron-doped antiferromagnets, where holes reside in momentum space pockets
+centered at $(\pm\frac{\pi}{2a},\pm\frac{\pi}{2a})$ and where electrons live in
+pockets centered at $(\frac{\pi}{a},0)$ or $(0,\frac{\pi}{a})$. The effective
+theory is used to investigate the magnon-mediated binding between two holes or
+two electrons in an otherwise undoped system. We derive the one-magnon exchange
+potential from the effective theory and then solve the corresponding
+two-quasiparticle Schr\"odinger equation. As a result, we find bound state wave
+functions that resemble $d_{x^2-y^2}$-like or $d_{xy}$-like symmetry. We also
+study possible ground states of lightly doped antiferromagnets.

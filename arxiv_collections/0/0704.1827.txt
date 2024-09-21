@@ -1,0 +1,14 @@
+This paper analyses the possibilities of performing parallel
+transaction-oriented simulations with a special focus on the space-parallel
+approach and discrete event simulation synchronisation algorithms that are
+suitable for transaction-oriented simulation and the target environment of Ad
+Hoc Grids. To demonstrate the findings a Java-based parallel
+transaction-oriented simulator for the simulation language GPSS/H is
+implemented on the basis of the promising Shock Resistant Time Warp
+synchronisation algorithm and using the Grid framework ProActive. The
+validation of this parallel simulator shows that the Shock Resistant Time Warp
+algorithm can successfully reduce the number of rolled back Transaction moves
+but it also reveals circumstances in which the Shock Resistant Time Warp
+algorithm can be outperformed by the normal Time Warp algorithm. The conclusion
+of this paper suggests possible improvements to the Shock Resistant Time Warp
+algorithm to avoid such problems.

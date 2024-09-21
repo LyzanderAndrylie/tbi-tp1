@@ -1,0 +1,18 @@
+We present a theoretical study of the electronic transport through a
+many-level quantum dot driven by time-dependent signals applied at the contacts
+to the leads. If the barriers oscillate out of phase the system operates like a
+turnstile pump under a finite constant bias, as observed in the experiments of
+Kouwenhoven {\it et al.} [Phys. Rev. Lett. {\bf 67}, 1626 (1991)]. The
+time-dependent currents and their averages over succesive pumping periods are
+computed from the Keldysh formalism for tight-binding models. The calculation
+considers a sudden application of the pumping potentials at $t=0$ which leads
+to transient features of the time-dependent and averaged currents during the
+first pumping cycles which turn out to be important in the high-frequency
+regime. We show that in the transient regime the efficiency of the system as a
+pump is rather poor because it mainly absorbs charge from both leads in order
+to fill the levels located below the bias window. Under a finite bias and a
+low-frequency pumping signal the charge transferred across the system depends
+on the number of levels located within the bias window. The internal charge
+dynamics and the role of energy sidebands are investigated. The so called
+satellite peaks of the averaged current are observed also in the transient
+regime.

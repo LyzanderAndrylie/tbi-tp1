@@ -1,0 +1,12 @@
+Different techniques of Glow Discharge AES are described in this paper. The
+most important parameters at such investigations are: the power of VHF-field,
+pressure of the inert gas and concentration of the easily ionizable additive,
+e.g. NaCl. The influences of these parameters were studied It is proposed a
+high sensitive flash desorption method, which enables investigation of the
+water desorption rate from humidified samples of biological origin, namely DNA
+and chromatin. The ways of minimizing of detection limit are considered as the
+most important characteristics of an analytical device. The concentration of
+any measured element is detectable if it correlates to the signal equal to
+tripled standard deviation of the results of background measurement. Electron
+temperature of the Helium has been evaluated by absorption rate at two lines of
+helium \lambda=353.828nm; \lambda'=344.759nm that was equal to T_c ~ 15000 K.

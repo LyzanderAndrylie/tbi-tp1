@@ -1,0 +1,10 @@
+In this paper, we study the existence and non-existence result of positive
+solutions to a singular elliptic equation with negative power on the bounded
+smooth domain or in the whole Euclidean space. Our model arises in the study of
+the steady states of thin films and other applied physics. We can get some
+useful local gradient estimate and L1 lower bound for positive solutions of the
+elliptic equation. A uniform positive lower bound for convex positive solutions
+is also obtained. We show that in lower dimensions, there is no stable positive
+solutions in the whole space. In the whole space of dimension two, we can show
+that there is no positive smooth solution with finite Morse index. Symmetry
+properties of related integral equations are also given.

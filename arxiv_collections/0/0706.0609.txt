@@ -1,0 +1,9 @@
+We study a simple model of N-component fermions with contact interactions
+which describes fermionic atoms with N=2F+1 hyperfine states loaded into a
+one-dimensional optical lattice. We show by means of analytical and numerical
+approaches that, for attractive interaction, a quasi-long-range molecular
+superfluid phase emerges at low density. In such a phase, the pairing
+instability is strongly suppressed and the leading instability is formed from
+bound-states made of N fermions. At small density, the molecular superfluid
+phase is generic and exists for a wide range of attractive contact interactions
+without an SU(N) symmetry between the hyperfine states.

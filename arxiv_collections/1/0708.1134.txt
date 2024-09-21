@@ -1,0 +1,15 @@
+Electron transport in periodic quantum dot arrays in the presence of
+interactions with phonons was investigated using the formalism of
+nonequilibrium Green's functions. The self-consistent Born approximation was
+used to model the self-energies. Its validity was checked by comparison with
+the results obtained by direct diagonalization of the Hamiltonian of
+interacting electrons and longitudinal optical phonons. The nature of charge
+transport at electron -- phonon resonances was investigated in detail and
+contributions from scattering and coherent tunnelling to the current were
+identified. It was found that at larger values of the structure period the main
+peak in the current -- field characteristics exhibits a doublet structure which
+was shown to be a transport signature of polaron effects. At smaller values of
+the period, electron -- phonon resonances cause multiple peaks in the
+characteristics. A phenomenological model for treatment of nonuniformities of a
+realistic quantum dot ensemble was also introduced to estimate the influence of
+nonuniformities on current -- field characteristics.

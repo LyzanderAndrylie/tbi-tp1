@@ -1,0 +1,17 @@
+The evolution of multicellular organisms from monocellular ancestors
+represents one of the greatest advances of the history of life. The assembly of
+such multicellular organisms requires signalling and response between cells:
+over millions of years these signalling processes have become extremely
+sophisticated and refined by evolution, such that study of modern organisms may
+not be able to shed much light on the original ancient processes . Here we are
+interested in determining how simple a signalling method can be, while still
+achieving self-assembly. In 2D a coupled cellular automaton/differential
+equation approach models organisms and chemotaxic chemicals, producing
+spiralling aggregation. In 3D Lennard-Jones-like particles are used to
+represent single cells, and their evolution in response to signalling is
+followed by molecular dynamics. It is found that if a single cell is able to
+emit a signal which induces others to move towards it, then a colony of
+single-cell organisms can assemble into shapes as complex as a tower, a ball
+atop a stalk, or a fast-moving slug. The similarity with the behaviour of
+modern Dictyostelium slime molds signalling with cyclic adenosine monophosphate
+(cAMP) is striking.

@@ -1,0 +1,12 @@
+We investigate the behaviour of an original traffic model. The model
+considers a single multi-lane street, populated by autonomous vehicles directed
+from either end to the other. Lanes have no intrinsic directionality, and the
+vehicles are inserted at random at either end and any lane. Collision avoidance
+is fully automatic and, to enhance the transport capacity of the street,
+vehicles form_trains_ in which they may travel at high speed quite close to the
+vehicle in front.
+  We report on the transit times for vehicles under a wide variety of
+conditions: vehicle insertion probability & imbalance and their maximum speed
+distribution. We also outline an interesting feature of the model, that the
+complex interactions of many vehicles are considerably more powerful than a
+simple "keep left" directive which each vehicle should obey.

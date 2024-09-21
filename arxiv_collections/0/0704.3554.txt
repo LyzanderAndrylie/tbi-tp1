@@ -1,0 +1,17 @@
+We present the basic equations and sample solutions for the steady-state
+global transonic solutions of the advection-dominated accretion flows (ADAFs)
+with a causal viscosity prescription. The procedures for the stable numerical
+calculations and all explicit formula for obtaining the solutions of ADAFs are
+also presented. We solve the transonic solutions of ADAFs by using the explicit
+numerical integrations, as in the Runge-Kutta method. In this calculation
+method, we first solve the physical values at the sonic radius where
+L'Hopital's rule is used. Then, we numerically solve the coupled differential
+equations of the radial velocity, the angular momentum, and the sound speed
+from the sonic radius in the inward and outward directions. By the calculation
+procedures presented in this paper, we can cover all parameter spaces of the
+transonic solutions of ADAFs. Sample transonic solutions for ADAF-thick disk
+and ADAF-thin disk are presented. The explicit formula for the analytical
+expansion around the singular points, the sonic and the viscous points, are
+presented. If we set the diffusion timescale to null, the formalism in this
+study becomes the formalism of the acausal viscosity that is usually used in
+past studies for calculating of the ADAF structure.

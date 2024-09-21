@@ -1,0 +1,22 @@
+We formulate a bosonic dynamical mean-field theory (B-DMFT) which provides a
+comprehensive, thermodynamically consistent framework for the theoretical
+investigation of correlated lattice bosons. The B-DMFT is applicable for
+arbitrary values of the coupling parameters and temperature and becomes exact
+in the limit of high spatial dimensions d or coordination number Z of the
+lattice. In contrast to its fermionic counterpart the construction of the
+B-DMFT requires different scalings of the hopping amplitudes with Z depending
+on whether the bosons are in their normal state or in the Bose-Einstein
+condensate. A detailed discussion of how this conceptual problem can be
+overcome by performing the scaling in the action rather than in the Hamiltonian
+itself is presented. The B-DMFT treats normal and condensed bosons on equal
+footing and thus includes the effects caused by their dynamic coupling. It
+reproduces all previously investigated limits in parameter space such as the
+Beliaev-Popov and Hartree-Fock-Bogoliubov approximations and generalizes the
+existing mean-field theories of interacting bosons. The self-consistency
+equations of the B-DMFT are those of a bosonic single-impurity coupled to two
+reservoirs corresponding to bosons in the condensate and in the normal state,
+respectively. We employ the B-DMFT to solve a model of itinerant and localized,
+interacting bosons analytically. The local correlations are found to enhance
+the condensate density and the Bose-Einstein condensate (BEC) transition
+temperature T_{BEC}. This effect may be used experimentally to increase T_{BEC}
+of bosonic atoms in optical lattices.

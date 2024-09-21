@@ -1,0 +1,6 @@
+In this short note, we prove that for \beta < 1/5 every graph G with n
+vertices and n^{2-\beta} edges contains a subgraph G' with at least
+cn^{2-2\beta} edges such that every pair of edges in G' lie together on a cycle
+of length at most 8. Moreover edges in G' which share a vertex lie together on
+a cycle of length at most 6. This result is best possible up to the constant
+factor and settles a conjecture of Duke, Erdos, and Rodl.

@@ -1,0 +1,4 @@
+This article is devoted to a Log improvement of Prodi-Serrin criterion for
+global regularity to solutions to Navier-Stokes equations in dimension 3. It is
+shown that the global regualrity holds under the condition that |u|^5/ log
+(1+|u|) is integrable in space time variables.

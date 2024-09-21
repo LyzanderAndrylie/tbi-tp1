@@ -1,0 +1,10 @@
+Measurements of the low frequency electrical noise in the ferromagnetic
+semiconductor (Ga,Mn)As reveal an enhanced integrated noise at low temperature.
+For moderate localization, we find a 1/f normalized power spectrum density over
+the entire range of temperatures studied (4.2K < T < 70K). However, for
+stronger localization and a high density of Mn interstitials, we observe
+Lorentzian noise spectra accompanied by random telegraph noise. Magnetic field
+dependence and annealing studies suggest that interstitial Mn defects couple
+with substitutional Mn atoms to form nanoscale magnetic clusters characterized
+by a net moment of about 20 Bohr magnetons whose fluctuations modulate hole
+transport.

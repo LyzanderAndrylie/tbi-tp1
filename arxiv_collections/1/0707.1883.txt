@@ -1,0 +1,13 @@
+The control of quantum dynamics via specially tailored laser pulses is a
+long-standing goal in physics and chemistry. Partly, this dream has come true,
+as sophisticated pulse shaping experiments allow to coherently control product
+ratios of chemical reactions. The theoretical design of the laser pulse to
+transfer an initial state to a given final state can be achieved with the help
+of quantum optimal control theory (QOCT). This tutorial provides an
+introduction to QOCT. It shows how the control equations defining such an
+optimal pulse follow from the variation of a properly defined functional. We
+explain the most successful schemes to solve these control equations and show
+how to incorporate additional constraints in the pulse design. The algorithms
+are then applied to simple quantum systems and the obtained pulses are
+analyzed. Besides the traditional final-time control methods, the tutorial also
+presents an algorithm and an example to handle time-dependent control targets.

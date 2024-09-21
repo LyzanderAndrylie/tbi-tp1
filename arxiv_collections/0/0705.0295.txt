@@ -1,0 +1,12 @@
+Coherent Harmonic Generation (CHG), and in particular Nonlinear Harmonic
+Generation (NHG), is of importance for both short wavelength Free-Electron
+Lasers (FELs), in relation with the achievement of shorter wavelengths with a
+fixed electron-beam energy, and high-average power FEL resonators, in relation
+with destructive effects of higher harmonics radiation on mirrors. In this
+paper we present a treatment of NHG from helical wigglers with particular
+emphasis on the second harmonic. Our study is based on an exact analytical
+solution of Maxwell's equations, derived with the help of a Green's function
+method. In particular, we demonstrate that nonlinear harmonic generation (NHG)
+from helical wigglers vanishes on axis. Our conclusion is in open contrast with
+results in literature, that include a kinematical mistake in the description of
+the electron motion.

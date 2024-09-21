@@ -1,0 +1,16 @@
+We provide the geometrical interpretation for the Becchi-Rouet-Stora-Tyutin
+(BRST) and anti-BRST symmetry invariance of the Lagrangian density of a four (3
++ 1)-dimensional (4D) interacting U(1) gauge theory within the framework of
+superfield approach to BRST formalism. This interacting theory, where there is
+an explicit coupling between the U(1) gauge field and matter (Dirac) fields, is
+considered on a (4, 2)-dimensional supermanifold parametrized by the four
+spacetime variables x^\mu (\mu = 0, 1, 2, 3) and a pair of Grassmannian
+variables \theta and \bar\theta (with \theta^2 = \bar \theta^2 = 0, \theta
+\bar\theta + \bar \theta \theta = 0$). We express the Lagrangian density and
+(anti-)BRST charges in the language of the superfields and show that (i) the
+(anti-)BRST invariance of the 4D Lagrangian density is equivalent to the
+translation of the super Lagrangian density along the Grassmannian direction(s)
+(\theta and/or \bar\theta) of the (4, 2)-dimensional supermanifold such that
+the outcome of the above translation(s) is zero, and (ii) the anticommutativity
+and nilpotency of the (anti-)BRST charges are the automatic consequences of our
+superfield formulation.

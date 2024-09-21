@@ -1,0 +1,12 @@
+This paper studies the gap between quantum one-way communication complexity
+$Q(f)$ and its classical counterpart $C(f)$, under the {\em unbounded-error}
+setting, i.e., it is enough that the success probability is strictly greater
+than 1/2. It is proved that for {\em any} (total or partial) Boolean function
+$f$, $Q(f)=\lceil C(f)/2 \rceil$, i.e., the former is always exactly one half
+as large as the latter. The result has an application to obtaining (again an
+exact) bound for the existence of $(m,n,p)$-QRAC which is the $n$-qubit random
+access coding that can recover any one of $m$ original bits with success
+probability $\geq p$. We can prove that $(m,n,>1/2)$-QRAC exists if and only if
+$m\leq 2^{2n}-1$. Previously, only the construction of QRAC using one qubit,
+the existence of $(O(n),n,>1/2)$-RAC, and the non-existence of
+$(2^{2n},n,>1/2)$-QRAC were known.

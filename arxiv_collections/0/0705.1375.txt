@@ -1,0 +1,5 @@
+We give the Thom polynomials for the singularities $I_{2,2}$ associated with
+maps $({\bf C}^{\bullet},0) \to ({\bf C}^{\bullet+k},0)$ with parameter $k\ge
+0$. Our computations combine the characterization of Thom polynomials via the
+``method of restriction equations'' of Rimanyi et al. with the techniques of
+Schur functions.

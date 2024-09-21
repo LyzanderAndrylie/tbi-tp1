@@ -1,0 +1,10 @@
+The aim of this work is to give a pedagogical derivation of polarization
+observables for the annihilation reaction $e^+ + e^- \to N+ \bar N$. The
+reaction mechanism is one photon + two photon exchange, the last is described
+by axial parametrization. After deriving the general expressions for the cross
+section of a binary process, the matrix element is written in terms of three
+complex amplitudes. The method to derive polarization observables is detailed
+and all expressions are given in terms of generalized form factors. The
+strategy for determining physical form factors in annihilation reactions in
+presence of two photon exchange is suggested, on the basis of model independent
+properties of the relevant observables.

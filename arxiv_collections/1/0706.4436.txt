@@ -1,0 +1,17 @@
+We consider the moment operators of the observable (i.e. a semispectral
+measure or POM) associated with the balanced homodyne detection statistics,
+with paying attention to the correct domains of these unbounded operators. We
+show that the high amplitude limit, when performed on the moment operators,
+actually determines uniquely the entire statistics of a rotated quadrature
+amplitude of the signal field, thereby verifying the usual assumption that the
+homodyne detection achieves a measurement of that observable. We also consider,
+in a general setting, the possibility of constructing a measurement of a single
+quantum observable from a sequence of observables by taking the limit on the
+level of moment operators of these observables. In this context, we show that
+under some natural conditions (each of which is satisfied by the homodyne
+detector example), the existence of the moment limits ensures that the
+underlying probability measures converge weakly to the probability measure of
+the limiting observable. The moment approach naturally requires that the
+observables be determined by their moment operator sequences (which does not
+automatically happen), and it turns out, in particular, that this is the case
+for the balanced homodyne detector.

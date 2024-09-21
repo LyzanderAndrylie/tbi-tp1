@@ -1,0 +1,5 @@
+We demonstrate numerically the existence of a spin-motive force acting on
+spin-carriers when moving in a time and space dependent internal field. This is
+the case of electrons in a one-dimensional wires with a precessing domain wall.
+The effect can be explained solely by considering adiabatic dynamics and it is
+shown to exist for both classical and quantum systems.

@@ -1,0 +1,12 @@
+To understand the mechanism of the fermion pair and fermion-antifermion pair
+condensation,the solutions of Bethe-Salpeter equation in QED$_{3}$ is
+examined.In the ladder appoximation our solution for the axial-scalar is
+consistent with Ward-Takahashi-identity for the axial vector currents.Since the
+massless scalar-vector sector is described by a coupled integral equation,it is
+difficult to solve explicitly.We approximate the equation for large and small
+momentum region separately and convert them into differential equations in
+position space.These equation can be solved easily.Boundary condition at the
+origin leads the eigenvalue for dimensionless coupling constant
+$\lambda=e^{2}/m$.There exists solutions for massless scalar-vector
+fermion-antifermion (fa) system with discrete spectrum. In our approximation
+massless-scalar-vector ff systemes does not seem to exist.

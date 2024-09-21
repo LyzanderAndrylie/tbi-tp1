@@ -1,0 +1,8 @@
+In the framework of adelic approach we consider real and p-adic properties of
+dynamical system given by linear fractional map f (x) = (a x + b)/(c x + d),
+where a, b, c and d are rational numbers. In particular, we investigate
+behavior of this adelic dynamical system when fixed points are rational. It is
+shown that any of rational fixed points is p-adic indifferent for all but a
+finite set of primes. Only for finite number of p-adic cases a rational fixed
+point may be attractive or repelling. The present analysis is a continuation of
+the paper math-ph/0612058. Some possible generalizations are discussed.

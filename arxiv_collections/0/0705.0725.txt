@@ -1,0 +1,7 @@
+We introduce an approach to implement full coherent control on nanometer
+length scales. It is based on spatio-temporal modulation of the surface plasmon
+polariton (SPP) fields at the thick edge of a nanowedge. The SPP wavepackets
+propagating toward the sharp edge of this nanowedge are compressed and
+adiabatically concentrated at a nanofocus, forming an ultrashort pulse of local
+fields. The one-dimensional spatial profile and temporal waveform of this pulse
+are completely coherently controlled.

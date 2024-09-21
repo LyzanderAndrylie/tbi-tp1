@@ -1,0 +1,10 @@
+The master asymptotic behavior of the usual parachor correlations, expressing
+surface tension $\sigma$ as a power law of the density difference
+$\rho_{L}-\rho_{V}$ between coexisting liquid and vapor, is analyzed for a
+series of pure compounds close to their liquid-vapor critical point, using only
+four critical parameters $(\beta_{c})^{-1}$, $\alpha_{c}$, $Z_{c}$ and $Y_{c}$,
+for each fluid.
+  ... The main consequences of these theoretical estimations are discussed in
+the light of engineering applications and process simulations where parachor
+correlations constitute one of the most practical method for estimating surface
+tension from density and capillary rise measurements.

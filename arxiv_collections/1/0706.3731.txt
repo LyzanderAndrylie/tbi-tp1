@@ -1,0 +1,9 @@
+The axial charge g_A is calculated in the epsilon regime of Heavy Baryon
+Chiral Perturbation Theory to order epsilon^3. To perform this calculation, we
+develop a technique to compute baryon properties in the epsilon regime of
+Chiral Perturbation Theory. This technique includes contributions from pion
+zero momentum modes and can be used at arbitrary order, diagram by diagram, in
+the $\epsilon$ regime to calculate any matrix element. Also, a calculation of
+g_A in the epsilon' regime to order epsilon'^3 is performed. A discussion of
+the domain of applicability for both the epsilon and epsilon' regimes is also
+included.

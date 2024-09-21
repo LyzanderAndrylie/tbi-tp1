@@ -1,0 +1,21 @@
+Random networks with specified degree distributions have been proposed as
+realistic models of population structure, yet the problem of dynamically
+modeling SIR-type epidemics in random networks remains complex. I resolve this
+dilemma by showing how the SIR dynamics can be modeled with a system of three
+nonlinear ODE's. The method makes use of the probability generating function
+(PGF) formalism for representing the degree distribution of a random network
+and makes use of network-centric quantities such as the number of edges in a
+well-defined category rather than node-centric quantities such as the number of
+infecteds or susceptibles. The PGF provides a simple means of translating
+between network and node-centric variables and determining the epidemic
+incidence at any time. The theory also provides a simple means of tracking the
+evolution of the degree distribution among susceptibles or infecteds. The
+equations are used to demonstrate the dramatic effects that the degree
+distribution plays on the final size of an epidemic as well as the speed with
+which it spreads through the population. Power law degree distributions are
+observed to generate an almost immediate expansion phase yet have a smaller
+final size compared to homogeneous degree distributions such as the Poisson.
+The equations are compared to stochastic simulations, which show good agreement
+with the theory. Finally, the dynamic equations provide an alternative way of
+determining the epidemic threshold where large-scale epidemics are expected to
+occur, and below which epidemic behavior is limited to finite-sized outbreaks.

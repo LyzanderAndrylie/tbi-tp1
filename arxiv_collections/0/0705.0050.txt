@@ -1,0 +1,9 @@
+We formulate a general super duality conjecture on connections between
+parabolic categories O of modules over Lie superalgebras and Lie algebras of
+type A, based on a Fock space formalism of their Kazhdan-Lusztig theories which
+was initiated by Brundan. We show that the Brundan-Kazhdan-Lusztig (BKL)
+polynomials for Lie superalgebra gl(m|n) in our parabolic setup can be
+identified with the usual parabolic Kazhdan-Lusztig polynomials. We establish
+some special cases of the BKL conjecture on the parabolic category O of
+gl(m|n)-modules and additional results which support the BKL conjecture and
+super duality conjecture.

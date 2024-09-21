@@ -1,0 +1,10 @@
+We study the decoherence of two coupled spins that interact with a chaotic
+spin-bath environment. It is shown that connectivity of spins in the bath is of
+crucial importance for the decoherence of the central system. The previously
+found phenomenon of two-step decoherence (Phys. Rev. Lett. {\bf 90}, 210401
+(2003)) turns out to be typical for the bath with a slow enough dynamics or no
+dynamics. For a generic random system with chaotic dynamics a conventional
+exponential relaxation to the pointer states takes place. Our results confirm a
+conjecture of Paz and Zurek (Phys. Rev. Lett. {\bf 82}, 5181 (1999)) that for
+weak enough interactions the pointer states are eigenstates of the central
+system.

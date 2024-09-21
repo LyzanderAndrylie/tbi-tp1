@@ -1,0 +1,21 @@
+We study spontaneous symmetry breaking in a system of two parallel
+quasi-one-dimensional traps, equipped with optical lattices (OLs) and filled
+with a Bose-Einstein condensate (BEC). The cores are linearly coupled by
+tunneling. Analysis of the corresponding system of linearly coupled
+Gross-Pitaevskii equations (GPEs) reveals that spectral bandgaps of the single
+GPE split into subgaps. Symmetry breaking in two-component BEC solitons is
+studied in cases of the attractive (AA) and repulsive (RR) nonlinearity in both
+traps; the mixed situation, with repulsion in one trap and attraction in the
+other (RA), is considered too. In all the cases, stable asymmetric solitons are
+found, bifurcating from symmetric or antisymmetric ones (and destabilizing
+them), in the AA and RR systems, respectively. In either case, bi-stability is
+predicted, with a nonbifurcating stable branch, either antisymmetric or
+symmetric, coexisting with asymmetric ones. Solitons destabilized by the
+bifurcation tend to rearrange themselves into their stable asymmetric
+counterparts. The impact of a phase mismatch, between the OLs in the two cores
+is also studied. Also considered is a related model, for a binary BEC in a
+single-core trap with the OL, assuming that the two species (representing
+different spin states of the same atom) are coupled by linear interconversion.
+In that case, the symmetry-breaking bifurcations in the AA and RR models switch
+their character, if the inter-species nonlinear interaction becomes stronger
+than the intra-species nonlinearity.

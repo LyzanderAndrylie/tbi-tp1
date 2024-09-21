@@ -1,0 +1,8 @@
+We analyze the decay B0 --> K+ K- K0 using 383 million B-Bbar events
+collected by the BaBar detector at SLAC to extract CP violation parameter
+values over the Dalitz plot. Combining all K+ K- K0 events, we find A_CP =
+-0.015 +/- 0.077 +/- 0.053 and beta_eff = 0.352 +/- 0.076 +/- 0.026 rad,
+corresponding to a CP violation significance of 4.8 sigma. A second solution
+near pi/2 - beta_eff is disfavored with a significance of 4.5 sigma. We also
+report A_CP and beta_eff separately for decays to phi(1020) K0, f0(980) K0, and
+K+ K- K0 with m_{K+ K-} > 1.1 GeV/c^2.

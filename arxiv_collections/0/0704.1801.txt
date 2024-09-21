@@ -1,0 +1,8 @@
+We perform a lattice Monte-Carlo calculation of the two-point functions of
+the energy-momentum tensor at finite temperature in the SU(3) gauge theory.
+Unprecedented precision is obtained thanks to a multi-level algorithm. The
+lattice operators are renormalized non-perturbatively and the classical
+discretization errors affecting the correlators are corrected for. A robust
+upper bound for the shear viscosity to entropy density ratio is derived, eta/s
+< 1.0, and our best estimate is eta/s = 0.134(33) at T=1.65Tc under the
+assumption of smoothness of the spectral function in the low-frequency region.

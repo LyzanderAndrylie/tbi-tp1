@@ -1,0 +1,9 @@
+False discovery rate (FDR) has been widely used as an error measure in large
+scale multiple testing problems, but most research in the area has been focused
+on procedures for controlling the FDR based on independent test statistics or
+the properties of such procedures for test statistics with certain types of
+stochastic dependence. Based on an approach proposed in Tang and Zhang (2005),
+we further develop in this paper empirical Bayes methods for controlling the
+FDR with dependent data. We implement our methodology in a time series model
+and report the results of a simulation study to demonstrate the advantages of
+the empirical Bayes approach.

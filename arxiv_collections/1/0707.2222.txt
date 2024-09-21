@@ -1,0 +1,8 @@
+In the framework of the impact picture we compute the analyzing power $A_N$
+for $pp$ elastic scattering at high energy and in the very forward direction.
+We consider the full set of Coulomb amplitudes and show that the interference
+between the hadronic non-flip amplitude and the single-flip Coulomb amplitude
+is sufficient to obtain a good agreement with the present experimental data.
+This leads us to conclude that the single-flip hadronic amplitude is small in
+this low momentum transfer region and it strongly suggests that this process
+can be used as an absolute polarimeter at the BNL-RHIC $pp$ collider.

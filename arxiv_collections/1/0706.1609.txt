@@ -1,0 +1,20 @@
+We study phase transitions of coupled two dimensional XY systems with spatial
+anisotropy and $U(1) \times \mathbb{Z}_2$ symmetry, motivated by spinless
+bosonic atoms trapped in square optical lattice on the metastable first excited
+$p-$level orbitals with anisotropic hopping amplitudes. The phase transitions
+of the system are generally split into an Ising transition and an XY
+transition, but the sequence and the nature of the transitions depend on the
+ratio between the anisotropic couplings. In the isotropic limit the XY
+variables are expected to be disordered before the Ising variables when thermal
+or quantum fluctuations are turned on gradually. In the anisotropic limit with
+zero perpendicular hoppings, the finite temperature transition is a
+Kosterlitz-Thouless transition driven by proliferation of hybrid half vortices,
+and the zero temperature quantum phase transition is split into a bond order
+transition and a 3D XY transition, which can be driven by the condensation of
+either single vortices or half vortices. After the condensation of half
+vortices the resultant state is a Mott Insulator of paired bosons. A small
+perpendicular hopping $J_b$ leads to a 2D Ising transition at low temperature
+and a 2+1d quantum Ising transition with a small charging energy at zero
+temperature. Global phase diagrams for both classical and quantum phase
+transitions are drawn. The analytical results obtained in this work are
+expected to be checked both numerically and experimentally.

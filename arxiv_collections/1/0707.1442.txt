@@ -1,0 +1,15 @@
+We discuss microscopic mechanisms of the violent dynamics following strong
+laser excitation of a metal cluster embedded in a rare gas matrix, taking as
+test case Na$_8$@Ar$_434$. This covers at least two aspects : first, it
+represents the typical experimental situation of metal clusters handled in
+raregas matrices or a finite drop of surrounding raregas material, and second,
+it serves as a generic test case for highly excited chromophores in inert
+surroundings addressing questions of energy transport and perturbation of the
+medium. We simulate the process up to 10 ps using a mixed quantum mechanical
+(for the electrons) and classical (ions and atoms) approach and analyze the
+emerging dynamics with respect to all basic constituents : cluster electrons,
+cluster ions, and matrix atoms. We find several stages of relaxation taking
+place with time scales from a few fs to over a few ps and much slower processes
+remaining for long after the simulation. A particularly interesting aspect is
+that the surrounding raregas material stabilizes a highly charged metal cluster
+which would otherwise explode without delay.

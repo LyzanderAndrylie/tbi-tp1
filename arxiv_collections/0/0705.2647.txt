@@ -1,0 +1,9 @@
+We present the results of our QCD analysis for polarized quark distribution
+and structure function $xg_1 (x,Q^2)$. We use very recently experimental data
+to parameterize our model. New parameterizations are derived for the quark and
+gluon distributions for the kinematic range $x \epsilon [10^{-8},1]$, $Q^2
+\epsilon [1,10^6]$ GeV^2. The analysis is based on the Jacobi polynomials
+expansion of the polarized structure functions. Our calculations for polarized
+parton distribution functions based on the Jacobi polynomials method are in
+good agreement with the other theoretical models. The values of $\Lambda_{QCD}$
+and $\alpha_s(M_z)$ are determined.

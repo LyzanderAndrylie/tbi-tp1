@@ -1,0 +1,9 @@
+The thermophoretic motion of a charged spherical colloidal particle and its
+accompanying cloud of counterions and co-ions in a temperature gradient is
+studied theoretically. Using the Debye-Huckel approximation, the Soret drift
+velocity of a weakly charged colloid is calculated analytically. For highly
+charged colloids, the nonlinear system of electrokinetic equations is solved
+numerically, and the effects of high surface potential, dielectrophoresis, and
+convection are examined. Our results are in good agreement with some of the
+recent experiments on highly charged colloids without using adjustable
+parameters.

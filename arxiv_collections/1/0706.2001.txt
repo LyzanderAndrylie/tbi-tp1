@@ -1,0 +1,8 @@
+In a variety of situations, isolated polymer molecules are found in a vacuum
+and here we examine their properties. Angular momentum conservation is shown to
+significantly alter the average size of a chain and its conservation is only
+broken slowly by thermal radiation. The time autocorrelation for monomer
+position oscillates with a characteristic time proportional to chain length.
+The oscillations and damping are analyzed in detail. Short range repulsive
+interactions suppress oscillations and speed up relaxation but stretched chains
+still show damped oscillatory time correlations.

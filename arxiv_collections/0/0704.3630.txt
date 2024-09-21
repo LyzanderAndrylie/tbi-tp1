@@ -1,0 +1,12 @@
+We introduce the idea of using adiabatic rotation to generate superpositions
+of a large class of quantum states. For quantum computing this is an
+interesting alternative to the well-studied "straight line" adiabatic
+evolution. In ways that complement recent results, we show how to efficiently
+prepare three types of states: Kitaev's toric code state, the cluster state of
+the measurement-based computation model and the history state used in the
+adiabatic simulation of quantum circuit. We also show that the method, when
+adapted for quantum search, provides quadratic speedup as other optimal methods
+do with the advantages that the problem Hamiltonian is time-independent and
+that the energy gap above the ground state is strictly nondecreasing with time.
+Likewise the method can be used for optimization as an alternative to the usual
+adiabatic algorithm.

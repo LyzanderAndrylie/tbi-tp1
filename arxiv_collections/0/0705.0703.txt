@@ -1,0 +1,19 @@
+Production of a sterile species is studied within an effective model of
+active-sterile neutrino mixing in a medium in thermal equilibrium. The quantum
+kinetic equations for the distribution functions and coherences are obtained
+from two independent methods: the effective action and the quantum master
+equation. The decoherence time scale for active-sterile oscillations is
+$\tau_{dec} = 2/\Gamma_{aa}$, but the evolution of the distribution functions
+is determined by the two different time scales associated with the damping
+rates of the quasiparticle modes in the medium: $\Gamma_1=\Gamma_{aa}\cos^2\tm
+; \Gamma_2=\Gamma_{aa}\sin^2\tm$ where $\Gamma_{aa}$ is the interaction rate of
+the active species in absence of mixing and $\tm$ the mixing angle in the
+medium. These two time scales are widely different away from MSW resonances and
+preclude the kinetic description of active-sterile production in terms of a
+simple rate equation. We give the complete set of quantum kinetic equations for
+the active and sterile populations and coherences and discuss in detail the
+various approximations. A generalization of the active-sterile transition
+probability \emph{in a medium} is provided via the quantum master equation. We
+derive explicitly the usual quantum kinetic equations in terms of the
+``polarization vector'' and show their equivalence to those obtained from the
+quantum master equation and effective action.

@@ -1,0 +1,12 @@
+We study resonances of multidimensional chaotic map dynamics. We use the
+calculus of variations to determine the additive forcing function that induces
+the largest response, that is, the greatest deviation from the unperturbed
+dynamics. We include the additional constraint that only select degrees of
+freedom be forced, corresponding to a very general class of problems in which
+not all of the degrees of freedom in an experimental system are accessible to
+forcing. We find that certain Lagrange multipliers take on a fundamental
+physical role as the efficiency of the forcing function and the effective
+forcing experienced by the degrees of freedom which are not forced directly.
+Furthermore, we find that the product of the displacement of nearby
+trajectories and the effective total forcing function is a conserved quantity.
+We demonstrate the efficacy of this methodology with several examples.

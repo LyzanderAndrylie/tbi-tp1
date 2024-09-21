@@ -1,0 +1,9 @@
+Standard choices of quasi-circular orbit parameters for black-hole binary
+evolutions result in eccentric inspiral. We introduce a conceptually simple
+method, which is to integrate the post-Newtonian equations of motion through
+hundreds of orbits, and read off the values of the momenta at the separation at
+which we wish to start a fully general relativistic numerical evolution. For
+the particular case of non-spinning equal-mass inspiral with an initial
+coordinate separation of $D = 11M$ we show that this approach reduces the
+eccentricity by at least a factor of five to $e < 0.002$ as compared to using
+standard quasi-circular initial parameters.

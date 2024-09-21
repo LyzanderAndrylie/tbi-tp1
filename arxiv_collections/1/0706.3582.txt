@@ -1,0 +1,4 @@
+We prove that the abscissas of Bohr and Rogosinski for ordinary Dirichlet
+series, mapping the right half-plane into the bounded convex domain $G\subset
+\mathbb{C} $ are independent of the domain $G$. Furthermore, we obtain new
+estimates about these abscissas.

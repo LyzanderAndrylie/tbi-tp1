@@ -1,0 +1,5 @@
+We study the entropy of Schwarzschild black holes on DGP brane. The radius of
+event horizon on DGP brane is obtained by a numerical method. It is smaller
+than that of Einstein gravity in the conventional branch, and is larger in the
+accelerated branch. However, the difference is very small. The entropy of the
+black hole is calculated by using the improved brick-wall method.

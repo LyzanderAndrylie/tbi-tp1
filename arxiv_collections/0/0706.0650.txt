@@ -1,0 +1,13 @@
+We computed the phase diagram for a system of model anisotropic particles
+with six attractive patches in an octahedral arrangement. We chose to study
+this model for a relatively narrow value of the patch width where the
+lowest-energy configuration of the system is a simple cubic crystal. At this
+value of the patch width, there is no stable vapour-liquid phase separation,
+and there are three other crystalline phases in addition to the simple cubic
+crystal that is most stable at low pressure. Firstly, at moderate pressures, it
+is more favourable to form a body-centred cubic crystal, which can be viewed as
+two interpenetrating, and almost non-interacting, simple cubic
+lattices.Secondly, at high pressures and low temperatures, an orientationally
+ordered face-centred cubic structure becomes favourable. Finally, at high
+temperatures a face-centred cubic plastic crystal is the most stable solid
+phase.

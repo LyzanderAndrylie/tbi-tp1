@@ -1,0 +1,9 @@
+Bose-Einstein correlations of charged and neutral kaons have been measured in
+e+-p deep inelastic scattering with an integrated luminosity of 121 pb-1 using
+the ZEUS detector at HERA. The two-particle correlation function was studied as
+a function of the four-momentum difference of the kaon pairs,
+Q_12=sqrt{-(p_1-p_2)^2}, assuming a Gaussian shape for the particle source. The
+values of the radius of the production volume, r, and of the correlation
+strength, lambda, were obtained for both neutral and charged kaons. The radii
+for charged and neutral kaons are similar and are consistent with those
+obtained at LEP.

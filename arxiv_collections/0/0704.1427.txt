@@ -1,0 +1,9 @@
+We consider the fluctuations of the electrical current (shot noise) in the
+presence of a voltage time-modulation. For a non-interacting metal, it is known
+that the derivative of the photo-assisted noise has a staircase behavior. In
+the presence of Coulomb interactions, we show that the photo-assisted noise
+presents a more complex profile, in particular for the two following systems:
+1) a two-dimensional electron gas in the fractional quantum Hall regime for
+which we have obtained evenly spaced singularities in the noise derivative,
+with a spacing related to the filling factor and, 2) a carbon nanotube for
+which a smoothed staircase in the noise derivative is obtained.

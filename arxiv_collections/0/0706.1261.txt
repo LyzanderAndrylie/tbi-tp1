@@ -1,0 +1,8 @@
+A lattice field theory approach to the statistical mechanics of charged
+polymers in electrolyte solutions [S. Tsonchev, R. D. Coalson, and A. Duncan,
+Phys. Rev. E 60, 4257, (1999)] is applied to the study of a polymer chain
+contained in a spherical cavity but able to diffuse into a surrounding gel. The
+distribution of the polymer chain between the cavity and the gel is described
+by its partition coefficient, which is computed as a function of the number of
+monomers in the chain, the monomer charge, and the ion concentrations in the
+solution.

@@ -1,0 +1,5 @@
+We study the action of metaplectic operators on Wiener amalgam spaces, giving
+upper bounds for their norms. As an application, we obtain new fixed-time
+estimates in these spaces for Schr\"odinger equations with general quadratic
+Hamiltonians and Strichartz estimates for the Schr\"odinger equation with
+potentials $V(x)=\pm|x|^2$.

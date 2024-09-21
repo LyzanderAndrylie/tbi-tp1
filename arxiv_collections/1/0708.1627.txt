@@ -1,0 +1,7 @@
+This paper applies a regularization procedure called increasing rearrangement
+to monotonize Edgeworth and Cornish-Fisher expansions and any other related
+approximations of distribution and quantile functions of sample statistics.
+Besides satisfying the logical monotonicity, required of distribution and
+quantile functions, the procedure often delivers strikingly better
+approximations to the distribution and quantile functions of the sample mean
+than the original Edgeworth-Cornish-Fisher expansions.

@@ -1,0 +1,8 @@
+In the process of training Support Vector Machines (SVMs) by decomposition
+methods, working set selection is an important technique, and some exciting
+schemes were employed into this field. To improve working set selection, we
+propose a new model for working set selection in sequential minimal
+optimization (SMO) decomposition methods. In this model, it selects B as
+working set without reselection. Some properties are given by simple proof, and
+experiments demonstrate that the proposed method is in general faster than
+existing methods.

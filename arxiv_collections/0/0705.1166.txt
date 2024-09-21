@@ -1,0 +1,9 @@
+We present a {\sl non--perturbative} method, called {\sl Parametric
+Perturbation Theory} (PPT), which is alternative to the ordinary perturbation
+theory. The method relies on a principle of simplicity for the observable
+solutions, which are constrained to be linear in a certain (unphysical)
+parameter. The perturbative expansion is carried out in this parameter and not
+in the physical coupling (as in ordinary perturbation theory). We show that the
+method is capable to resum the divergent perturbative series, to {\sl extract}
+the leading asymptotic (strong coupling) behavior and {\sl predict} with high
+accuracy the coefficients of the perturbative series.

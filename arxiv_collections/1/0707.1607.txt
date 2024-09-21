@@ -1,0 +1,13 @@
+Gamma Ray Bursts (GRBs) are intense narrowly-beamed flashes of gamma-rays of
+cosmological origin. They are among the most scientifically interesting
+astrophysical systems, and the riddle concerning their central engines and
+emission mechanisms is one of the most complex and challenging problems of
+astrophysics today. In this article we outline our petascale approach to the
+GRB problem and discuss the computational toolkits and numerical codes that are
+currently in use and that will be scaled up to run on emerging petaflop scale
+computing platforms in the near future.
+  Petascale computing will require additional ingredients over conventional
+parallelism. We consider some of the challenges which will be caused by future
+petascale architectures, and discuss our plans for the future development of
+the Cactus framework and its applications to meet these challenges in order to
+profit from these new architectures.

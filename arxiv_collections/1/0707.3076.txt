@@ -1,0 +1,8 @@
+We develop a novel self-consistent approach for studying the angle resolved
+photoemission spectra (ARPES) of a hole in the t-J-Holstein model giving
+perfect agreement with numerically exact Diagrammatic Monte Carlo data at zero
+temperature for all regimes of electron-phonon coupling. Generalizing the
+approach to finite temperatures we find that the anomalous temperature
+dependence of the ARPES in undoped cuprates is explained by cooperative
+interplay of coupling of the hole to magnetic fluctuations and strong
+electron-phonon interaction.

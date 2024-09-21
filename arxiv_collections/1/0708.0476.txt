@@ -1,0 +1,21 @@
+To match the precision of present and future measurements of W-boson
+production at hadron colliders electroweak radiative corrections must be
+included in the theory predictions. In this paper we consider their effect on
+the transverse momentum (p_T) distribution of W bosons, with emphasis on large
+p_T. We evaluate the full electroweak O(alpha) corrections to the processes pp
+-> W+jet and p\bar p -> W+jet including virtual and real photonic
+contributions. We present the explicit expressions in analytical form for the
+virtual corrections and provide results for the real corrections, discussing in
+detail the treatment of soft and collinear singularities. We also provide
+compact approximate expressions which are valid in the high-energy region,
+where the electroweak corrections are strongly enhanced by logarithms of
+\hat{s}/M_W^2. These expressions describe the complete asymptotic behaviour at
+one loop as well as the leading and next-to-leading logarithms at two loops.
+Numerical results are presented for proton-proton collisions at 14 TeV and
+proton-antiproton collisions at 2 TeV. The corrections are negative and their
+size increases with p_T. At the LHC, where transverse momenta of 2 TeV or more
+can be reached, the one- and two-loop corrections amount up to -40% and +10%,
+respectively, and will be important for a precise analysis of W production. At
+the Tevatron, transverse momenta up to 300 GeV are within reach. In this case
+the electroweak corrections amount up to -10% and are thus larger than the
+expected statistical error.

@@ -1,0 +1,10 @@
+We present in this paper a generic object-oriented benchmark (the Object
+Clustering Benchmark) that has been designed to evaluate the performances of
+clustering policies in object-oriented databases. OCB is generic because its
+sample database may be customized to fit the databases introduced by the main
+existing benchmarks (e.g., OO1). OCB's current form is clustering-oriented
+because of its clustering-oriented workload, but it can be easily adapted to
+other purposes. Lastly, OCB's code is compact and easily portable. OCB has been
+implemented in a real system (Texas, running on a Sun workstation), in order to
+test a specific clustering policy called DSTC. A few results concerning this
+test are presented.

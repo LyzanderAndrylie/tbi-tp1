@@ -1,0 +1,13 @@
+Drastic change in dynamics and statistics in a chemical reaction system,
+induced by smallness in the molecule number, is reported. Through stochastic
+simulations for random catalytic reaction networks, transition to a novel state
+is observed with the decrease in the total molecule number N, characterized by:
+i) large fluctuations in chemical concentrations as a result of intermittent
+switching over several states with extinction of some molecule species and ii)
+strong deviation of time averaged distribution of chemical concentrations from
+that expected in the continuum limit, i.e., $N \to \infty$. The origin of
+transition is explained by the deficiency of molecule leading to termination of
+some reactions. The critical number of molecules for the transition is obtained
+as a function of the number of molecules species M and that of reaction paths
+K, while total reaction rates, scaled properly, are shown to follow a universal
+form as a function of NK/M.

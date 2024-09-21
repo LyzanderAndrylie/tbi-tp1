@@ -1,0 +1,4 @@
+In Bohmian mechanics the distribution $|\psi|^2$ is regarded as the
+equilibrium distribution. We consider its uniqueness, finding that it is the
+unique equivariant distribution that is also a local functional of the wave
+function $\psi$.

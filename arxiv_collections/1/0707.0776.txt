@@ -1,0 +1,10 @@
+We report the measurement of Beliaev damping of bulk excitations in cigar
+shaped Bose Einstein condensates of atomic vapor. By using post selection,
+excitation line shapes of the total population are compared with those of the
+undamped excitations. We find that the damping depends on the initial
+excitation energy of the decaying quasi particle, as well as on the excitation
+momentum. We model the condensate as an infinite cylinder and calculate the
+damping rates of the different radial modes. The derived damping rates are in
+good agreement with the experimentally measured ones. The damping rates
+strongly depend on the destructive interference between pathways for damping,
+due to the quantum many-body nature of both excitation and damping products.

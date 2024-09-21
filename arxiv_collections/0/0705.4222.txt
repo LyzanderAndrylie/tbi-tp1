@@ -1,0 +1,10 @@
+We study thermal instability in NbN superconducting stripline resonators. The
+system exhibits extreme nonlinearity near a bifurcation, which separates a
+monostable zone and an astable one. The lifetime of the metastable state, which
+is locally stable in the monostable zone, is measure near the bifurcation and
+the results are compared with a theory. Near bifurcation, where the lifetime
+becomes relatively short, the system exhibits strong amplification of a weak
+input modulation signal. We find that the frequency bandwidth of this
+amplification mechanism is limited by the rate of thermal relaxation. When the
+frequency of the input modulation signal becomes comparable or larger than this
+rate the response of the system exhibits sub-harmonics of various orders.

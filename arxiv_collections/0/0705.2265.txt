@@ -1,0 +1,12 @@
+Data assimilation refers to the process of obtaining an estimate of a
+system's state using a model for the system's time evolution and a time series
+of measurements that are possibly noisy and incomplete. However, for practical
+reasons, the high dimensionality of large spatiotemporally chaotic systems
+prevents the use of classical data assimilation techniques. Here, via numerical
+computations on the paradigmatic example of large aspect ratio Rayleigh-Benard
+convection, we demonstrate the applicability of a recently developed data
+assimilation method designed to circumvent this difficulty. In addition, we
+describe extensions of the algorithm for estimating unknown system parameters.
+Our results suggest the potential usefulness of our data assimilation technique
+to a broad class of situations in which there is spatiotemporally chaotic
+behavior.

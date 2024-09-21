@@ -1,0 +1,7 @@
+We describe the thermal and electrical conductivities of quasi-one
+dimensional wires, across a quantum phase transition from a superconductor to a
+metal induced by pairbreaking perturbations. Fluctuation corrections to BCS
+theory motivate a field theory for quantum criticality. We describe deviations
+in the Wiedemann-Franz ratio from the Lorenz number, which can act as sensitive
+tests of the theory. We also describe the crossovers out of the quantum
+critical region into the metallic and superconducting phases.

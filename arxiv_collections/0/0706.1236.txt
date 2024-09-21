@@ -1,0 +1,15 @@
+An investigation of the possible inflation of stimulated Brillouin
+backscattering (SBS) due to ion kinetic effects is presented using
+electromagnetic particle simulations and integrations of three-wave
+coupled-mode equations with linear and nonlinear models of the nonlinear ion
+physics. Electrostatic simulations of linear ion Landau damping in an ion
+acoustic wave, nonlinear reduction of damping due to ion trapping, and
+nonlinear frequency shifts due to ion trapping establish a baseline for
+modeling the electromagnetic SBS simulations. Systematic scans of the laser
+intensity have been undertaken with both one-dimensional particle simulations
+and coupled-mode-equations integrations, and two values of the electron-to-ion
+temperature ratio (to vary the linear ion Landau damping) are considered. Three
+of the four intensity scans have evidence of SBS inflation as determined by
+observing more reflectivity in the particle simulations than in the
+corresponding three-wave mode-coupling integrations with a linear ion-wave
+model, and the particle simulations show evidence of ion trapping.

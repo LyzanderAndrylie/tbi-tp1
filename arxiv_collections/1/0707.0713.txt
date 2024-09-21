@@ -1,0 +1,4 @@
+We investigate the relation between multilinear mappings and multipartite
+states. We show that the isomorphism between multilinear mapping and tensor
+product completely characterizes decomposable multipartite states in a
+mathematically well-defined manner.

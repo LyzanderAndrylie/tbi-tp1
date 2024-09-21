@@ -1,0 +1,9 @@
+We explore a computational approach to coarse graining the evolution of the
+large-scale features of a randomly forced Burgers equation in one spatial
+dimension. The long term evolution of the solution energy spectrum appears
+self-similar in time. We demonstrate coarse projective integration and coarse
+dynamic renormalization as tools that accelerate the extraction of macroscopic
+information (integration in time, self-similar shapes, and nontrivial dynamic
+exponents) from short bursts of appropriately initialized direct simulation.
+These procedures solve numerically an effective evolution equation for the
+energy spectrum without ever deriving this equation in closed form.

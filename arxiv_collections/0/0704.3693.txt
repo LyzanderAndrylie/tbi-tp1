@@ -1,0 +1,4 @@
+We introduce a new class of algebras, called reconstruction algebras, and
+present some of their basic properties. These non-commutative rings dictate in
+every way the process of resolving the Cohen-Macaulay singularities C^2/G where
+G is a finite small cyclic subgroup of GL(2,C).

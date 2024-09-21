@@ -1,0 +1,10 @@
+With the imminent advent of mesoscopic rotating BECs in the lowest Landau
+level (LLL) regime, we explore LLL vortex nucleation. An exact many-body
+analysis is presented in a weakly elliptical trap for up to 400 particles.
+Striking non-mean field features are exposed at filling factors >>1 . Eg near
+the critical rotation frequency pairs of energy levels approach each other with
+exponential accuracy. A physical interpretation is provided by requantising a
+mean field theory, where 1/N plays the role of Planck's constant, revealing two
+vortices cooperatively tunneling between classically degenerate energy minima.
+The tunnel splitting variation is described in terms of frequency, particle
+number and ellipticity.

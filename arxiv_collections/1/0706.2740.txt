@@ -1,0 +1,8 @@
+A family of interpolating graphs $\calC (S, \xi)$ of complexity $\xi$ is
+constructed for a surface $S$ and $-2 \leq \xi \leq \xi (S)$. For $\xi = -2,
+-1, \xi (S) -1$ these specialise to graphs quasi-isometric to the marking
+graph, the pants graph and the curve graph respectively. We generalise Theorems
+of Brock-Farb and Behrstock-Minsky to show that the rank of $\calC (S, \xi)$ is
+$r_\xi$, the largest number of disjoint copies of subsurfaces of complexity
+greater than $\xi $ that may be embedded in $S$. The interpolating graphs
+$\calC (S, \xi)$ interpolate between the pants graph and the curve graph.

@@ -1,0 +1,16 @@
+Rapidly oscillating potentials with a vanishing time average have been used
+for a long time to trap charged particles in source-free regions. It has been
+argued that the motion of a particle in such a potential can be approximately
+described by a time independent effective potential, which does not depend upon
+the initial phase of the oscillating potential. However, here we show that the
+motion of a particle and its trapping condition significantly depend upon this
+initial phase for arbitrarily high frequencies of the potential's oscillation.
+We explain this novel phenomenon by showing that the motion of a particle is
+determined by the effective potential stated in the literature only if its
+initial conditions are transformed according to a transformation which we show
+to significantly depend on the potential's initial phase for arbitrarily high
+frequencies. We confirm our theoretical findings by numerical simulations.
+Further, we demonstrate that the found phenomenon offers new ways to manipulate
+the dynamics of particles which are trapped by rapidly oscillating potentials.
+Finally, we propose a simple experiment to verify the theoretical findings of
+this work.

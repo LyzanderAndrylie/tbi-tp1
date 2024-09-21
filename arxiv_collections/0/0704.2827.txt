@@ -1,0 +1,9 @@
+We systematically evaluate the potential energy at the touching configuration
+for heavy-ion reactions using various potential models. We point out that the
+energy at the touching point, especially that estimated with the
+Krappe-Nix-Sierk (KNS) potential, strongly correlates with the threshold
+incident energy for steep fall-off of fusion cross sections observed recently
+for several systems at extremely low energies. This clearly indicates that the
+steep fall-off phenomenon can be attributed to the dynamics after the target
+and projectile touch with each other, e.g., the tunneling process and the
+nuclear saturation property in the overlap region.

@@ -1,0 +1,15 @@
+We report on measurements of cross-species thermalization inside a
+magnetically trapped spin-polarized mixture of $^{87}$Rb and $^7$Li atoms with
+both atoms in their respective low field seeking magnetic substates
+$|F=2,m_F=2\right>$. Measurement of the thermalization velocity in the
+ultracold regime below $10 \mu$K allows for the derivation of the absolute
+value of the pure triplet s-wave scattering length governing the interaction.
+We find $|a_{7,87}|=(59\pm19) a_{\rm B}$. We propose to study both species in
+the condensed regime to derive the sign of $a_{7,87}$. In this context, we
+present numerical solutions to the coupled Gross-Pitaevskii equation based on
+the hypothesis of a positive sign. According to the simulations, phase
+separation of the Li and Rb $|2,2\right>$ clouds occurs along with a mean-field
+stabilization allowing for larger atom numbers of condensed $^7$Li atoms before
+collapse sets in. Observation of this mean-field stabilization would directly
+fix the sign of $a_{7,87}$. We discuss our results in the light of this
+proposal.

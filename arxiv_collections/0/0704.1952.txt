@@ -1,0 +1,14 @@
+We study cascading failures in networks using a dynamical flow model based on
+simple conservation and distribution laws to investigate the impact of
+transient dynamics caused by the rebalancing of loads after an initial network
+failure (triggering event). It is found that considering the flow dynamics may
+imply reduced network robustness compared to previous static overload failure
+models. This is due to the transient oscillations or overshooting in the loads,
+when the flow dynamics adjusts to the new (remaining) network structure. We
+obtain {\em upper} and {\em lower} limits to network robustness, and it is
+shown that {\it two} time scales $\tau$ and $\tau_0$, defined by the network
+dynamics, are important to consider prior to accurately addressing network
+robustness or vulnerability. The robustness of networks showing cascading
+failures is generally determined by a complex interplay between the network
+topology and flow dynamics, where the ratio $\chi=\tau/\tau_0$ determines the
+relative role of the two of them.

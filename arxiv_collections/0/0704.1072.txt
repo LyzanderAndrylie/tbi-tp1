@@ -1,0 +1,9 @@
+A Bethe-Salpeter-Faddeev (BSF) calculation is performed for the pentaquark
+$\Theta^+$ in the diquark picture of Jaffe and Wilczek in which $\Theta^+$ is a
+diquark-diquark-${\bar s}$ three-body system.
+  Nambu-Jona-Lasinio (NJL) model is used to calculate the lowest order diagrams
+in the two-body scatterings of ${\bar s}D$ and $D D$. With the use of coupling
+constants determined from the meson sector, we find that ${\bar s}D$
+interaction is attractive while $DD$ interaction is repulsive, and there is no
+bound $\frac 12^+$ pentaquark state. A bound pentaquark $\Theta^+$ can only be
+obtained with unphysically strong vector mesonic coupling constants.

@@ -1,0 +1,13 @@
+In this paper we examine the detailed theory of the American football in
+flight, with spin and air resistance included. We find the theory has much in
+common with the theory of a gyroscope and also rocket trajectory with a
+misaligned thruster. Unfortunately most of the air resistance data, for
+rocketry and ballistics, is for speeds of Mach 1 or higher, where the air
+resistance increases dramatically. We shall approximate a realistic air
+resistance, at the slower speeds of football flight, with a drag force
+proportional to cross sectional area and either $v$ or $v^2$, depending on
+speed, where $v$ is velocity of the football. We begin with a discussion of the
+motion, giving as much detail as possible without the use of complex analytic
+calculations. We point out the previous errors made with moments of inertia and
+make the necessary corrections for more accurate results. We show that the
+shape of an American football closely resembles a parabola of revolution.

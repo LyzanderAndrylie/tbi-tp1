@@ -1,0 +1,11 @@
+We report measurements of spectroscopic linewidth and Rabi oscillations in
+three thin-film dc SQUID phase qubits. One device had a single-turn Al loop,
+the second had a 6-turn Nb loop, and the third was a first order gradiometer
+formed from 6-turn wound and counter-wound Nb coils to provide isolation from
+spatially uniform flux noise. In the 6 - 7.2 GHz range, the spectroscopic
+coherence times for the gradiometer varied from 4 ns to 8 ns, about the same as
+for the other devices (4 to 10 ns). The time constant for decay of Rabi
+oscillations was significantly longer in the single-turn Al device (20 to 30
+ns) than either of the Nb devices (10 to 15 ns). These results imply that
+spatially uniform flux noise is not the main source of decoherence or
+inhomogenous broadening in these devices.

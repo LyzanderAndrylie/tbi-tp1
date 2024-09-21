@@ -1,0 +1,9 @@
+In this work, the spin dynamics of a single electron under parametric
+modulation of a lateral quantum dot's electrostatic potential in the presence
+of spin-orbit coupling is investigated. Numerical and theoretical calculations
+demonstrate that, by squeezing and/or moving the electron's wave function, spin
+rotations with Rabi frequencies on the order of tens of megahertz can be
+achieved with experimentally accessible parameters in both parabolic and square
+lateral quantum dots. Applications of parametric excitations for determining
+spin-orbit coupling parameters and for increasing the spin polarization in the
+electronic ground are demonstrated.

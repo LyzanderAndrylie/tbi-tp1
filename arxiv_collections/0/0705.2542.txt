@@ -1,0 +1,24 @@
+We present the results of a uniform analysis of the soft X-ray spectra of
+fifteen type I AGN observed with the high resolution X-ray gratings on board
+\emph{Chandra}. We found that ten of the fifteen AGN exhibit signatures of an
+intrinsic ionized absorber. The absorbers are photoionized and outflowing, with
+velocities in the range $\sim 10^{1}-10^{3}$ km $\rm{s}^{-1}$. The column
+density of the warm absorbing gas is $\sim 10^{20-23} \rm{cm}^{-2}$. Nine of
+the ten AGN exhibiting warm absorption are best--fit by multiple ionization
+components and three of the ten AGN \emph{require} multiple kinematic
+components. The warm absorbing gas in our AGN sample has a wide range of
+ionization parameter, spanning roughly four orders of magnitude ($\xi \sim
+10^{0-4}$ ergs cm $\rm{s}^{-1}$) in total, and often spanning three orders of
+magnitude in the same gas. Warm absorber components with ionization parameter
+$\xi<10$ generate an unresolved transition array due to Fe in seven of the ten
+AGN exhibiting warm absorption. These low ionization state absorbers may also
+carry away the largest mass outflows from the AGN. The mass outflow rate
+depends critically on the volume filling factor of the gas, which cannot yet be
+directly measured. However, upper limits on the mass outflow ratesfor filling
+factors of unity can be much greater than the expected accretion rate onto the
+central supermassive black hole and filling factors as small as 1% can give
+outflow rates comparable to the accretion rate. There appears to be a gap in
+the outflow velocities in our sample between $\sim 300-500$ km $\rm{s}^{-1}$,
+the origin of which is not clear. The outflow components with velocities below
+this gap tend to be associated with lower column densities than those with
+velocities above the gap.

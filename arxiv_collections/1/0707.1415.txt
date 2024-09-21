@@ -1,0 +1,10 @@
+Every closed oriented PL 4-manifold is a branched cover of the 4-sphere
+branched over a PL-surface with finitely many singularities by Piergallini
+[Topology 34(3):497-508, 1995]. This generalizes a long standing result by
+Hilden and Montesinos to dimension four. Izmestiev and Joswig [Adv. Geom.
+3(2):191-225, 2003] gave a combinatorial equivalent of the Hilden and
+Montesinos result, constructing closed oriented combinatorial 3-manifolds as
+simplicial branched covers of combinatorial 3-spheres. The construction of
+Izmestiev and Joswig is generalized and applied to the result of Piergallini,
+obtaining closed oriented combinatorial 4-manifolds as simplicial branched
+covers of simplicial 4-spheres.

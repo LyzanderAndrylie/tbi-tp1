@@ -1,0 +1,14 @@
+One and two photon wave functions are derived by projecting the quantum state
+vector onto simultaneous eigenvectors of the number operator and a recently
+constructed photon position operator [Phys. Rev A 59, 954 (1999)] that couples
+spin and orbital angular momentum. While only the Landau-Peierls wave function
+defines a positive definite photon density, a similarity transformation to a
+biorthogonal field-potential pair of positive frequency solutions of Maxwell's
+equations preserves eigenvalues and expectation values. We show that this real
+space description of photons is compatible with all of the usual rules of
+quantum mechanics and provides a framework for understanding the relationships
+amongst different forms of the photon wave function in the literature. It also
+gives a quantum picture of the optical angular momentum of beams that applies
+to both one photon and coherent states. According to the rules of qunatum
+mechanics, this wave function gives the probability to count a photon at any
+position in space.

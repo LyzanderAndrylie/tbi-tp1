@@ -1,0 +1,5 @@
+The Grothendieck rings of finite dimensional representations of the basic
+classical Lie superalgebras are explicitly described in terms of the
+corresponding generalised root systems. We show that they can be interpreted as
+the subrings in the weight group rings invariant under the action of certain
+groupoids called Weyl groupoids.

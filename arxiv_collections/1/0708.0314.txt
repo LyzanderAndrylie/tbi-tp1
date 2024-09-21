@@ -1,0 +1,9 @@
+We show both theoretically and experimentally that scanning tunneling
+spectroscopy (STS) images of semiconductor quantum dots may display clear
+signatures of electron-electron correlation. We apply many-body tunneling
+theory to a realistic model which fully takes into account correlation effects
+and dot anisotropy. Comparing measured STS images of freestanding InAs quantum
+dots with those calculated by the full configuration interaction method, we
+explain the wave function sequence in terms of images of one- and two-electron
+states. The STS map corresponding to double charging is significantly distorted
+by electron correlation with respect to the non-interacting case.

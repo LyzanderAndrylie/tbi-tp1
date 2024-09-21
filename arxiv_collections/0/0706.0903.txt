@@ -1,0 +1,13 @@
+An analysis of traveling wave solutions of partial differential equation
+(PDE) systems with cross-diffusion is presented. The systems under study fall
+in a general class of the classical Keller-Segel models to describe chemotaxis.
+The analysis is conducted using the theory of the phase plane analysis of the
+corresponding wave systems without a priory restrictions on the boundary
+conditions of the initial PDE. Special attention is paid to families of
+traveling wave solutions. Conditions for existence of front-impulse,
+impulse-front, and front-front traveling wave solutions are formulated. In
+particular, the simplest mathematical model is presented that has an
+impulse-impulse solution; we also show that a non-isolated singular point in
+the ordinary differential equation (ODE) wave system implies existence of
+free-boundary fronts. The results can be used for construction and analysis of
+different mathematical models describing systems with chemotaxis.

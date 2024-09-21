@@ -1,0 +1,15 @@
+The search for elementary excitations with fractional quantum numbers is a
+central challenge in modern condensed matter physics. We explore the
+possibility in a realistic model for several materials, the spin-1/2 spatially
+anisotropic frustrated Heisenberg antiferromagnet in two dimensions. By
+restricting the Hilbert space to that expressed by exact eigenstates of the
+Heisenberg chain, we derive an effective Schr\"odinger equation valid in the
+weak interchain-coupling regime. The dynamical spin correlations from this
+approach agree quantitatively with inelastic neutron measurements on the
+triangular antiferromagnet Cs_2CuCl_4. The spectral features in such
+antiferromagnets can be attributed to two types of excitations: descendents of
+one-dimensional spinons of individual chains, and coherently propagating
+"triplon" bound states of spinon pairs. We argue that triplons are generic
+features of spatially anisotropic frustrated antiferromagnets, and arise
+because the bound spinon pair lowers its kinetic energy by propagating between
+chains.

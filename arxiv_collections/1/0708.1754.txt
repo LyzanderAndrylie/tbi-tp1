@@ -1,0 +1,23 @@
+In the currently accepted models of the nonlinear optics, the nonlinear
+radiation was treated as the result of an infinitesimally thin polarization
+sheet layer, and a three layer model was generally employed. The direct
+consequence of this approach is that an apriori dielectric constant, which
+still does not have a clear definition, has to be assigned to this polarization
+layer. Because the Second Harmonic Generation (SHG) and the Sum-Frequency
+Generation vibrational Spectroscopy (SFG-VS) have been proven as the sensitive
+probes for interfaces with the submonolayer coverage, the treatment based on
+the more realistic discrete induced dipole model needs to be developed. Here we
+show that following the molecular optics theory approach the SHG, as well as
+the SFG-VS, radiation from the monolayer or submonolayer at an interface can be
+rigorously treated as the radiation from an induced dipole lattice at the
+interface. In this approach, the introduction of the polarization sheet is no
+longer necessary. Therefore, the ambiguity of the unaccounted dielectric
+constant of the polarization layer is no longer an issue. Moreover, the
+anisotropic two dimensional microscopic local field factors can be explicitly
+expressed with the linear polarizability tensors of the interfacial molecules.
+Based on the planewise dipole sum rule in the molecular monolayer, crucial
+experimental tests of this microscopic treatment with SHG and SFG-VS are
+discussed. Many puzzles in the literature of surface SHG and SFG spectroscopy
+studies can also be understood or resolved in this framework. This new
+treatment may provide a solid basis for the quantitative analysis in the
+surface SHG and SFG studies.

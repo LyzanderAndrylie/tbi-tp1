@@ -1,0 +1,18 @@
+Ebert et al. [Phys. Rev. Lett. 77, 3827 (1996)] have fractured icosahedral
+Al-Mn-Pd single crystals in ultrahigh vacuum and have investigated the cleavage
+planes in-situ by scanning tunneling microscopy (STM). Globular patterns in the
+STM-images were interpreted as clusters of atoms. These are significant
+structural units of quasicrystals. The experiments of Ebert et al. imply that
+they are also stable physical entities, a property controversially discussed
+currently. For a clarification we performed the first large scale fracture
+simulations on three-dimensional complex binary systems. We studied the
+propagation of mode I cracks in an icosahedral model quasicrystal by molecular
+dynamics techniques at low temperature. In particular we examined how the shape
+of the cleavage plane is influenced by the clusters inherent in the model and
+how it depends on the plane structure. Brittle fracture with no indication of
+dislocation activity is observed. The crack surfaces are rough on the scale of
+the clusters, but exhibit constant average heights for orientations
+perpendicular to high symmetry axes. From detailed analyses of the fractured
+samples we conclude that both, the plane structure and the clusters, strongly
+influence dynamic fracture in quasicrystals and that the clusters therefore
+have to be regarded as physical entities.

@@ -1,0 +1,8 @@
+The h index was introduced by Hirsch to quantify an individual's scientific
+research output. It has been widely used in different fields to show the
+relevance of the research work of prominent scientists. I have worked out 26
+practical cases of physicists which are not so prominent. Therefore this case
+study should be more relevant to discuss various features of the Hirsch index
+which are interesting or disturbing or both for the more average situation. In
+particular, I investigate quantitatively some pitfalls in the evaluation and
+the influence of self-citations.

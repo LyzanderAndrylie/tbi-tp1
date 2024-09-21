@@ -1,0 +1,18 @@
+Analytic execution architectures have been proposed by the same authors as a
+means to conceptualize the cooperation between heterogeneous collectives of
+components such as programs, threads, states and services. Interface groups
+have been proposed as a means to formalize interface information concerning
+analytic execution architectures. These concepts are adapted to organization
+architectures with a focus on financial transfers. Interface groups (and
+monoids) now provide a technique to combine interface elements into interfaces
+with the flexibility to distinguish between directions of flow dependent on
+entity naming.
+  The main principle exploiting interface groups is that when composing a
+closed system of a collection of interacting components, the sum of their
+interfaces must vanish in the interface group modulo reflection. This certainly
+matters for financial transfer interfaces.
+  As an example of this, we specify an interface group and within it some
+specific interfaces concerning the financial transfer architecture for a part
+of our local academic organization.
+  Financial transfer interface groups arise as a special case of more general
+service architecture interfaces.

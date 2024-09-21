@@ -1,0 +1,9 @@
+The phase transition of Bose-Einstein condensation is studied in the critical
+regime, when fluctuations extend far beyond the length scale of thermal de
+Broglie waves. Using matter-wave interference we measure the correlation length
+of these critical fluctuations as a function of temperature. The diverging
+behavior of the correlation length above the critical temperature is observed,
+from which we determine the critical exponent of the correlation length for a
+trapped, weakly interacting Bose gas to be $\nu=0.67\pm 0.13$. This measurement
+has direct implications for the understanding of second order phase
+transitions.

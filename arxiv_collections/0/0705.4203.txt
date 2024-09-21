@@ -1,0 +1,14 @@
+Let $\mu$ be a Gibbs measure of the doubling map $T$ of the circle. For a
+$\mu$-generic point $x$ and a given sequence $\{r_n\} \subset \R^+$, consider
+the intervals $(T^nx - r_n \pmod 1, T^nx + r_n \pmod 1)$. In analogy to the
+classical Dvoretzky covering of the circle we study the covering properties of
+this sequence of intervals. This study is closely related to the local entropy
+function of the Gibbs measure and to hitting times for moving targets. A mass
+transference principle is obtained for Gibbs measures which are multifractal.
+Such a principle was shown by Beresnevich and Velani \cite{BV} only for
+monofractal measures. In the symbolic language we completely describe the
+combinatorial structure of a typical relatively short sequence, in particular
+we can describe the occurrence of ''atypical'' relatively long words. Our
+results have a direct and deep number-theoretical interpretation via
+inhomogeneous diadic diophantine approximation by numbers belonging to a given
+(diadic) diophantine class.

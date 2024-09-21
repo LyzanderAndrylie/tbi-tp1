@@ -1,0 +1,14 @@
+We present a new statistical method to optimally link local weather extremes
+to large-scale atmospheric circulation structures. The method is illustrated
+using July-August daily mean temperature at 2m height (T2m) time-series over
+the Netherlands and 500 hPa geopotential height (Z500) time-series over the
+Euroatlantic region of the ECMWF reanalysis dataset (ERA40). The method
+identifies patterns in the Z500 time-series that optimally describe, in a
+precise mathematical sense, the relationship with local warm extremes in the
+Netherlands. Two patterns are identified; the most important one corresponds to
+a blocking high pressure system leading to subsidence and calm, dry and sunny
+conditions over the Netherlands. The second one corresponds to a rare, easterly
+flow regime bringing warm, dry air into the region. The patterns are robust;
+they are also identified in shorter subsamples of the total dataset. The method
+is generally applicable and might prove useful in evaluating the performance of
+climate models in simulating local weather extremes.

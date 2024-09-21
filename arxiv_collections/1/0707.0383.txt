@@ -1,0 +1,7 @@
+We design a model of correlated hopping for bosonic atoms in optical
+lattices. Such model exhibits three kinds of phases, comprehending a Mott
+insulator, a charge density wave and a pair quasi-condensate. The
+implementation of the model relies on two-state atoms embedded in
+state-dependent lattices and having spin-dependent interactions. Contrary to
+other models of pairing, our design is not based on perturbative effects and
+should be observable in current experiments.

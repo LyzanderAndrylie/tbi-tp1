@@ -1,0 +1,14 @@
+This paper considers gauge-invariant and covariant gravitational
+perturbations on arbitrary vacuum locally rotationally symmetric (LRS) class II
+space-times. Ultimately, we derive four decoupled equations governing four
+specific combinations of the gravito-electromagnetic (GEM) 2-tensor harmonic
+amplitudes. We use the gauge-invariant and covariant 1+1+2 formalism which
+Clarkson and Barrett developed for analysis of vacuum Schwarzschild
+perturbations. In particular we focus on the first-order 1+1+2 GEM system and
+use linear algebra techniques suitable for exploiting its structure.
+Consequently, we express the GEM system new 1+1+2 complex form by choosing new
+complex GEM tensors, which is conducive to decoupling. We then show how to
+derive a gauge-invariant and covariant decoupled equation governing a newly
+defined complex GEM 2-tensor. Finally, the GEM 2-tensor is expanded in terms of
+arbitrary tensor harmonics and linear algebra is used once again to decouple
+the system further into 4 real decoupled equations.

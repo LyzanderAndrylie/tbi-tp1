@@ -1,0 +1,15 @@
+We present an analytic theory of the diffraction of (matter) waves by a
+lattice in the "quasi-Bragg" regime, by which we mean the transition region
+between the long-interaction Bragg and "channelling" regimes and the
+short-interaction Raman-Nath regime. The Schroedinger equation is solved by
+adiabatic expansion, using the conventional adiabatic approximation as a
+starting point, and re-inserting the result into the Schroedinger equation to
+yield a second order correction. Closed expressions for arbitrary pulse shapes
+and diffraction orders are obtained and the losses of the population to output
+states otherwise forbidden by the Bragg condition are derived. We consider the
+phase shift due to couplings of the desired output to these states that depends
+on the interaction strength and duration and show how these can be kept
+negligible by a choice of smooth (e.g., Gaussian) envelope functions even in
+situations that substantially violate the adiabaticity condition. We also give
+an efficient method for calculating the effective Rabi frequency (which is
+related to the eigenvalues of Mathieu functions) in the quasi-Bragg regime.

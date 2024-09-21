@@ -1,0 +1,3 @@
+The aim of this paper is to provide a method for explicit computation of the
+Bures metric over the space of $N$-level quantum system, based on the coset
+parametrization of density matrices.

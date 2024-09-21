@@ -1,0 +1,15 @@
+Reversible circuits for SR flip flop, JK flip flop, D flip flop, T flip flop,
+Master Slave D flip flop and Master Slave JK flip flop have been provided with
+three different logical approaches. All the circuits have been optimized with
+the help of existing local optimization algorithms (e.g. template matching,
+moving rule and deletion rule) and the optimized sequential circuits have been
+compared with the earlier proposals for the same. It has been shown that the
+present proposals have lower gate complexities and lower number of garbage bits
+compared to the earlier proposals. It has also been shown that the advantage in
+gate count obtained in some of the earlier proposals by introduction of New
+gates is an \textcolor{black}{artifact} and if it is allowed then every circuit
+block (unless there is a measurement) can be reduced to a single gate. Further,
+it is shown that a reversible flip flop can be constructed even without a
+feedback. In this context, some important conceptual issues related to the
+designing and optimization of sequential reversible circuits have also been
+addressed.

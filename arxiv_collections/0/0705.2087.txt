@@ -1,0 +1,9 @@
+Quantum transport properties in quantum Hall wires in the presence of
+spatially correlated random potential are investigated numerically. It is found
+that the potential correlation reduces the localization length associated with
+the edge state, in contrast to the naive expectation that the potential
+correlation increases it. The effect appears as the sizable shift of quantized
+conductance plateaus in long wires, where the plateau transitions occur at
+energies much higher than the Landau band centers. The scale of the shift is of
+the order of the strength of the random potential and is insensitive to the
+strength of magnetic fields. Experimental implications are also discussed.

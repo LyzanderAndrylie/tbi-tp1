@@ -1,0 +1,12 @@
+The accuracy and precision of current atom-interferometric inertialsensors
+rival state-of-the-art conventional devices using artifact-based test masses .
+Atomic sensors are well suited for fundamental measurements of gravito-inertial
+fields. The sensitivity required to test gravitational theories can be achieved
+by extending the baseline of the interferometer. The I.C.E.
+(Interf\'erom\'etrie Coh\'erente pour l'Espace) interferometer aims to achieve
+long interrogation times in compact apparatus via reduced gravity. We have
+tested a cold-atom source during airplane parabolic flights. We show that this
+environment is compatible with free-fall interferometric measurements using up
+to 4 second interrogation time. We present the next-generation apparatus using
+degenerate gases for low release-velocity atomic sources in space-borne
+experiments.

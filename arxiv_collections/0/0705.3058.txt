@@ -1,0 +1,13 @@
+We study and compare the Shannon capacity region and the stable throughput
+region for a random access system in which source nodes multicast their
+messages to multiple destination nodes. Under an erasure channel model which
+accounts for interference and allows for multipacket reception, we first
+characterize the Shannon capacity region. We then consider a queueing-theoretic
+formulation and characterize the stable throughput region for two different
+transmission policies: a retransmission policy and random linear coding. Our
+results indicate that for large blocklengths, the random linear coding policy
+provides a higher stable throughput than the retransmission policy.
+Furthermore, our results provide an example of a transmission policy for which
+the Shannon capacity region strictly outer bounds the stable throughput region,
+which contradicts an unproven conjecture that the Shannon capacity and stable
+throughput coincide for random access systems.

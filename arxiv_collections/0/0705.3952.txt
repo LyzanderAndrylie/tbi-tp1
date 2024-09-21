@@ -1,0 +1,8 @@
+We study a generalized amplitude damping channel when environment is
+initially in the single-qubit mixed state. Representing the affine
+transformation of the generalized amplitude damping by a three-dimensional
+volume, we plot explicitly the volume occupied by the channels simulatable by a
+single-qubit mixed-state environment. As expected, this volume is embedded in
+the total volume by the channels which is simulated by two-qubit enviroment.
+The volume ratio is approximately 0.08 which is much smaller than 3/8, the
+volume ratio for generalized depolarizing channels.

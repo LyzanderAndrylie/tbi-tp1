@@ -1,0 +1,6 @@
+It is a well known fact that an quantum state $|\psi(\theta,\phi)>$ is
+represented by a point on the Bloch sphere, characterized by two parameters
+$\theta$ and $\phi$. In a recent work we already proved that it is impossible
+to partially swap these quantum parameters. Here in this work we will show that
+this impossibility theorem is consistent with principles like unitarity of
+quantum mechanics and no signalling principle.

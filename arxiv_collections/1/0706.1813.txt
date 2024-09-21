@@ -1,0 +1,11 @@
+A classical deterministic, reversible dynamical systems, reproducing the
+Einstein--Podolsky--Rosen (EPR) correlations in full respect of causality and
+locality and without the introduction of any ad hoc selection procedure, was
+constructed in the paper [AIR02].
+  In the present paper we prove that the above mentioned model is unique (see
+Theorem (2) in the sense that any local causal probability measure which
+reproduces the EPR correlations must coincide, under natural and generic
+assumptions, with the one constructed in [AIR02].
+  [AIR02] L. Accardi, K. Imafuku and M. Regoli, "ON THE EPR--CHAMELEON
+EXPERIMENT", Infinite Dimensional Analysis, Quantum Probability and Related
+Topics, vol. 5 (2002) 1--20.

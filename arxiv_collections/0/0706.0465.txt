@@ -1,0 +1,21 @@
+The SEMATECH sponsored J-88-E project teaming Texas Instruments with
+NeuroDyne (et al.) focused on Fault Detection and Classification (FDC) on a Lam
+9600 aluminum plasma etch reactor, used in the process of semiconductor
+fabrication. Fault classification was accomplished by implementing a series of
+virtual sensor models which used data from real sensors (Lam Station sensors,
+Optical Emission Spectroscopy, and RF Monitoring) to predict recipe setpoints
+and wafer state characteristics. Fault detection and classification were
+performed by comparing predicted recipe and wafer state values with expected
+values. Models utilized include linear PLS, Polynomial PLS, and Neural Network
+PLS. Prediction of recipe setpoints based upon sensor data provides a
+capability for cross-checking that the machine is maintaining the desired
+setpoints. Wafer state characteristics such as Line Width Reduction and
+Remaining Oxide were estimated on-line using these same process sensors (Lam,
+OES, RFM). Wafer-to-wafer measurement of these characteristics in a production
+setting (where typically this information may be only sparsely available, if at
+all, after batch processing runs with numerous wafers have been completed)
+would provide important information to the operator that the process is or is
+not producing wafers within acceptable bounds of product quality. Production
+yield is increased, and correspondingly per unit cost is reduced, by providing
+the operator with the opportunity to adjust the process or machine before
+etching more wafers.

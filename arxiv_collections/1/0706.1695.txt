@@ -1,0 +1,6 @@
+We propose a proof of convergence of an adaptive method used in molecular
+dynamics to compute free energy profiles. Mathematically, it amounts to
+studying the long-time behavior of a stochastic process which satisfies a
+non-linear stochastic differential equation, where the drift depends on
+conditional expectations of some functionals of the process. We use entropy
+techniques to prove exponential convergence to the stationary state.

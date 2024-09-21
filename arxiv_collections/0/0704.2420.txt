@@ -1,0 +1,24 @@
+The chemical composition of Earth's atmosphere has undergone substantial
+evolution over the course of its history. It is possible, even likely, that
+terrestrial planets in other planetary systems have undergone similar changes;
+consequently, the age distribution of nearby stars is an important
+consideration in designing surveys for Earth-analogues. Valenti & Fischer
+(2005) provide age and metallicity estimates for 1039 FGK dwarfs in the Solar
+Neighbourhood. Using the Hipparcos catalogue as a reference to calibrate
+potential biases, we have extracted volume-limited samples of nearby stars from
+the Valenti-Fischer dataset. Unlike other recent investigations, our analysis
+shows clear evidence for an age-metallicity relation in the local disk, albeit
+with substantial dispersion at any epoch. The mean metallicity increases from
+-0.3 dex at a lookback time of ~10 Gyrs to +0.15 dex at the present day.
+Supplementing the Valenti-Fischer measurements with literature data to give a
+complete volume-limited sample, the age distribution of nearby FGK dwarfs is
+broadly consistent with a uniform star-formation rate over the history of the
+Galactic disk. In striking contrast, most stars known to have planetary
+companions are younger than 5 Gyrs; however, stars with planetary companions
+within 0.4 AU have a significantly flatter age distribution, indicating that
+those systems are stable on timescales of many Gyrs. Several of the older,
+lower metallicity host stars have enhanced [alpha/Fe] ratios, implying
+membership of the thick disk. If the frequency of terrestrial planets is also
+correlated with stellar metallicity, then the median age of such planetary
+system is likely to be ~3 Gyrs. We discuss the implications of this hypothesis
+in designing searches for Earth analogues among the nearby stars.

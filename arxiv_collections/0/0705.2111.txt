@@ -1,0 +1,14 @@
+We study electrical excitation of nonlinear plasma waves in heterostructures
+with two-dimensional electron channels and with split gates, and the
+propagation of these waves using hydrodynamic equations for electron transport
+coupled with two-dimensional Poisson equation for self-consistent electric
+potential. The term related to electron collisions with impurities and phonons
+as well as the term associated with viscosity are included into the
+hydrodynamic equations. We demonstrate the formation of shock and soliton-like
+waves as a result of the evolution of strongly nonuniform initial electron
+density distribution. It is shown that the shock wave front and the shape of
+soliton-like pulses pronouncedly depend on the coefficient of viscosity, the
+thickness of the gate layer and the nonuniformity of the donor distribution
+along the channel. The electron collisions result in damping of the shock and
+soliton-like waves, while they do not markedly affect the thickness of the
+shock wave front.

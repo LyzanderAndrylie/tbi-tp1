@@ -1,0 +1,5 @@
+We investigate the possible character values of torsion units of the
+normalized unit group of the integral group ring of Mathieu sporadic group
+$M_{22}$. We confirm the Kimmerle conjecture on prime graphs for this group and
+specify the partial augmentations for possible counterexamples to the stronger
+Zassenhaus conjecture.

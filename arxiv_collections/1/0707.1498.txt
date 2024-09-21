@@ -1,0 +1,12 @@
+A self-organized system composed of classical particles confined in a
+two-dimensional parabolic trap and interacting through a potential with a
+short-range attractive part and long-range repulsive part is studied as
+function of temperature. The influence of the competition between the
+short-range attractive part of the inter-particle potential and its long-range
+repulsive part on the melting temperature is studied. Different behaviors of
+the melting temperature are found depending on the screening length ($\kappa$)
+and the strength ($B$) of the attractive part of the inter-particle potential.
+A re-entrant behavior and a thermal induced phase transition is observed in a
+small region of ($\kappa,B$)-space. A structural hysteresis effect is observed
+as a function of temperature and physically understood as due to the presence
+of a potential barrier between different configurations of the system.

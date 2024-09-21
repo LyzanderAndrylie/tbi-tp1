@@ -1,0 +1,16 @@
+We present a method for the direct and continuous separation of red and white
+blood cells from plasma at the microscale. The method is implemented in a
+microfluidic system with magnetic functionality. The fluidic structure within
+the microsystem consists of an inlet and a single microfluidic channel with
+multiple outlets. The magnetic functionality is provided by an array of
+integrated soft-magnetic elements that are embedded transverse and adjacent to
+the microchannel. The elements are magnetized using an external field, and once
+magnetized they produce a magnetic force on blood cells as they flow through
+the microchannel. In whole blood, white blood cells (WBCs) behave as
+diamagnetic microparticles, while red blood cells (RBCs) exhibit diamagnetic or
+paramagnetic behavior depending on the oxygenation of their hemoglobin. We
+study the motion of blood cells through the microchannel using a mathematical
+model that takes into account the magnetic, fluidic and gravitational forces on
+the cells. We use the model to study blood cell separation, and our analysis
+indicates that the microsystem is capable of separating WBC-rich plasma,
+deoxygenated RBC-rich plasma and cell-depleted plasma into respective outlets.

@@ -1,0 +1,16 @@
+The effective action associated with the trace anomaly provides a general
+algorithm for approximating the expectation value of the stress tensor of
+conformal matter fields in arbitrary curved spacetimes. In static, spherically
+symmetric spacetimes, the algorithm involves solving a fourth order linear
+differential equation in the radial coordinate r for the two scalar auxiliary
+fields appearing in the anomaly action, and its corresponding stress tensor. By
+appropriate choice of the homogeneous solutions of the auxiliary field
+equations, we show that it is possible to obtain finite stress tensors on all
+Reissner-Nordstrom event horizons, including the extreme Q=M case. We compare
+these finite results to previous analytic approximation methods, which yield
+invariably an infinite stress-energy on charged black hole horizons, as well as
+with detailed numerical calculations that indicate the contrary. The
+approximation scheme based on the auxiliary field effective action reproduces
+all physically allowed behaviors of the quantum stress tensor, in a variety of
+quantum states, for fields of any spin, in the vicinity of the entire family (0
+le Q le M) of RN horizons.

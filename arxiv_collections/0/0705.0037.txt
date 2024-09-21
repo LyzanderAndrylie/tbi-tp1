@@ -1,0 +1,13 @@
+The possibility of having positronium (Ps) physisorbed at a material surface
+is of great fundamental interest, since it can lead to new insight regarding
+quantum sticking and is a necessary first step to try to obtain a Ps$_2$
+molecule on a material host. Some experiments in the past have produced
+evidence for physisorbed Ps on a quartz surface, but firm theoretical support
+for such a conclusion was lacking. We present a first-principles
+density-functional calculation of the key parameters determining the
+interaction potential between Ps and an $\alpha$-quartz surface. We show that
+there is indeed a bound state with an energy of 0.14 eV, a value which agrees
+very well with the experimental estimate of $\sim0.15$ eV. Further, a brief
+energy analysis invoking the Langmuir-Hinshelwood mechanism for the reaction of
+physisorbed atoms shows that the formation and desorption of a Ps$_2$ molecule
+in that picture is consistent with the above results.

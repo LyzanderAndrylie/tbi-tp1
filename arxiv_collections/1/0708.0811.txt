@@ -1,0 +1,7 @@
+We prove that the Gelfand-Shilov spaces $S^\beta_\alpha$ are topological
+algebras under the Moyal star product if and only if $\alpha\ge\beta$. These
+spaces of test functions can be used in quantum field theory on noncommutative
+spacetime. The star product depends on the noncommutativity parameter
+continuously in their topology. We also prove that the series expansion of the
+Moyal product converges absolutely in $S^\beta_\alpha$ if and only if
+$\beta<1/2$.

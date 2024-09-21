@@ -1,0 +1,8 @@
+In this fourth of our series of papers on observables we show that one can
+associate to each von Neumann algebra R a pair of isomorphic presheaves, the
+upper presheaf O^{+}_{R} and the lower presheaf O^{-}_{R}, on the category of
+abelian von Neumann subalgebras of R. Each $A \in R_{sa}$ induces a global
+section of O^{+}_{R} and of O^{-}_{R} respectively. We call them \emph
+{contextual observables}. But we show that, in general, not every global
+section of these presheaves arises in this way. Moreover, we discuss states of
+a von Neumann algebra in the presheaf context.

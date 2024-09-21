@@ -1,0 +1,8 @@
+We determine the existence of critical lines in dimerized quantum spin
+ladders in their phase diagram of coupling constants using the finite-size DMRG
+algorithm. We consider both staggered and columnar dimerization patterns, and
+antiferromagnetic and ferromagnetic inter-leg couplings. The existence of
+critical phases depends on the precise combination of these patterns. The
+nature of the massive phases separating the critical lines are characterized
+with generalized string order parameters that determine their valence bond
+solid (VBS) content.

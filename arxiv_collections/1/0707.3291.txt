@@ -1,0 +1,9 @@
+For all 1 < p < 2, we demonstrate the existence of quantum channels with
+non-multiplicative maximal p-norms. Equivalently, the minimum output Renyi
+entropy of order p of a quantum channel is not additive for all 1 < p < 2. The
+violations found are large. As p approaches 1, the minimum output Renyi entropy
+of order p for a product channel need not be significantly greater than the
+minimum output entropy of its individual factors. Since p=1 corresponds to the
+von Neumann entropy, these counterexamples demonstrate that if the additivity
+conjecture of quantum information theory is true, it cannot be proved as a
+consequence of maximal p-norm multiplicativity.

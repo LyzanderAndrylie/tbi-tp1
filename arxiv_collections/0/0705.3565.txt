@@ -1,0 +1,8 @@
+A scheme for a THz frequency standard based on three-photon coherent
+population trapping in stored ions is proposed. Assuming the propagation
+directions of the three lasers obey the phase matching condition, we show that
+stability of few 10$^{-14}$ at one second can be reached with a precision
+limited by power broadening to $10^{-11}$ in the less favorable case. The
+referenced THz signal can be propagated over long distances, the useful
+information being carried by the relative frequency of the three optical
+photons.

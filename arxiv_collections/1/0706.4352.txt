@@ -1,0 +1,10 @@
+Understanding orbital ordered (OO) Mott insulating states lies at the heart
+of a consistent resolution of the colossal magneto-resistance (CMR) observed in
+manganites, where its melting induces a low-$T$ insulator-metal transition for
+$0.25 \le x\le 0.45$. Motivated thereby, we study the OO states in a planar
+model for bilayer manganites using DMFT and finite-size diagonalisation
+methods. We derive the correct OO ground states observed in manganites for
+$x=0,{1/2},{2/3},{3/4}$ in exact agreement with observations, including the
+charge-orbital-magnetic ordered stripe phases for $x>{1/2}$. These OO states
+are {\it exactly} shown to be associated with an ``alloy'' ordering of the
+$d_{3x^{2}-r^{2}}/d_{3y^{2}-r^{2}}$ orbitals on each $Mn^{3+}$ site.

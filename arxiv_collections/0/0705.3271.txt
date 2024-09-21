@@ -1,0 +1,3 @@
+We compute the volumes of the eigenform loci in the moduli space of genus two
+Abelian differentials. From this, we obtain asymptotic formulas for counting
+closed billiards paths in certain L-shaped polygons with barriers.

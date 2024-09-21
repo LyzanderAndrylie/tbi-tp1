@@ -1,0 +1,8 @@
+We discuss several methods to produce superpositions of optical coherent
+states (also known as "cat states"). Cat states have remarkable properties that
+could allow them to be powerful tools for quantum information processing and
+metrology. A number of proposals for how one can produce cat states have
+appeared in the literature in recent years. We describe these proposals and
+present new simulation and analysis of them incorporating practical issues such
+as photon loss, detector inefficiency, and limited strength of nonlinear
+interactions. We also examine how each would perform in a realistic experiment.

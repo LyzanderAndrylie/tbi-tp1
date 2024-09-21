@@ -1,0 +1,8 @@
+We show that there exists a deep link between the two disciplines of
+information theory and spectral geometry. This allows us to obtain new results
+on a well known quantum gravity motivated natural ultraviolet cutoff which
+describes an upper bound on the spatial density of information. Concretely, we
+show that, together with an infrared cutoff, this natural ultraviolet cutoff
+beautifully reduces the path integral of quantum field theory on curved space
+to a finite number of ordinary integrations. We then show, in particular, that
+the subsequent removal of the infrared cutoff is safe.

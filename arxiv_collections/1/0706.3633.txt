@@ -1,0 +1,21 @@
+We study the dynamics of the quantum phase distribution associated with the
+reduced density matrix of a system for a number of situations of practical
+importance, as the system evolves under the influence of its environment,
+interacting via a quantum nondemoliton type of coupling, such that there is
+decoherence without dissipation, as well as when it interacts via a dissipative
+interaction, resulting in decoherence as well as dissipation. The system is
+taken to be either a two-level atom (or equivalently, a spin-1/2 system) or a
+harmonic oscillator, and the environment is modeled as a bath of harmonic
+oscillators, starting out in a squeezed thermal state. The impact of the
+different environmental parameters on the dynamics of the quantum phase
+distribution for the system starting out in various initial states, is
+explicitly brought out. An interesting feature that emerges from our work is
+that the relationship between squeezing and temperature effects depends on the
+type of system-bath interaction. In the case of quantum nondemolition type of
+interaction, squeezing and temperature work in tandem, producing a diffusive
+effect on the phase distribution. In contrast, in case of a dissipative
+interaction, the influence of temperature can be counteracted by squeezing,
+which manifests as a resistence to randomization of phase. We make use of the
+phase distributions to bring out a notion of complementarity in atomic systems.
+We also study the dispersion of the phase using the phase distributions
+conditioned on particular initial states of the system.

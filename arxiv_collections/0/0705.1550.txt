@@ -1,0 +1,14 @@
+We present a study of eegamma and mumugamma events using 1109 (1009) pb-1 of
+data in the electron (muon) channel, respectively. These data were collected
+with the D0 detector at the Fermilab Tevatron ppbar Collider at sqrt(s) = 1.96
+TeV. Having observed 453 (515) candidates in the eegamma (mumugamma) final
+state, we measure the Zgamma production cross section for a photon with
+transverse energy ET > 7 GeV, separation between the photon and leptons Delta
+R(lgamma) > 0.7, and invariant mass of the di-lepton pair M(ll) > 30 GeV/c^2,
+to be 4.96 +/- 0.30(stat. + syst.) +/- 0.30(lumi.) pb, in agreement with the
+standard model prediction of 4.74 +/- 0.22 pb. This is the most precise Zgamma
+cross section measurement at a hadron collider. We set limits on anomalous
+trilinear Zgammagamma and ZZgamma gauge boson couplings of -0.085 <
+h(30)^(gamma) < 0.084, -0.0053 < h(40)^(gamma) < 0.0054 and -0.083 < h(30)^(Z)
+< 0.082, -0.0053 < h(40)^(Z) < 0.0054 at the 95% C.L. for the form-factor scale
+Lambda = 1.2 TeV.

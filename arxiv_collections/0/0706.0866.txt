@@ -1,0 +1,11 @@
+We use all-electrical methods to inject, transport, and detect spin-polarized
+electrons vertically through a 350-micron-thick undoped single-crystal silicon
+wafer. Spin precession measurements in a perpendicular magnetic field at
+different accelerating electric fields reveal high spin coherence with at least
+13pi precession angles. The magnetic-field spacing of precession extrema are
+used to determine the injector-to-detector electron transit time. These transit
+time values are associated with output magnetocurrent changes (from in-plane
+spin-valve measurements), which are proportional to final spin polarization.
+Fitting the results to a simple exponential spin-decay model yields a
+conduction electron spin lifetime (T1) lower bound in silicon of over 500ns at
+60K.

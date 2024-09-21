@@ -1,0 +1,18 @@
+We consider single-file diffusion in an open system with two species $A,B$ of
+particles. At the boundaries we assume different reservoir densities which
+drive the system into a non-equilibrium steady state. As a model we use an
+one-dimensional two-component simple symmetric exclusion process with two
+different hopping rates $D_A,D_B$ and open boundaries. For investigating the
+dynamics in the hydrodynamic limit we derive a system of coupled non-linear
+diffusion equations for the coarse-grained particle densities. The relaxation
+of the initial density profile is analyzed by numerical integration. Exact
+analytical expressions are obtained for the self-diffusion coefficients, which
+turns out to be length-dependent, and for the stationary solution. In the
+steady state we find a discontinuous boundary-induced phase transition as the
+total exterior density gradient between the system boundaries is varied. At one
+boundary a boundary layer develops inside which the current flows against the
+local density gradient. Generically the width of the boundary layer and the
+bulk density profiles do not depend on the two hopping rates. At the phase
+transition line, however, the individual density profiles depend strongly on
+the ratio $D_A/D_B$. Dynamic Monte Carlo simulation confirm our theoretical
+predictions.

@@ -1,0 +1,15 @@
+The ARCH process (R. F. Engle, 1982) constitutes a paradigmatic generator of
+stochastic time series with time-dependent variance like it appears on a wide
+broad of systems besides economics in which ARCH was born. Although the ARCH
+process captures the so-called "volatility clustering" and the asymptotic
+power-law probability density distribution of the random variable, it is not
+capable to reproduce further statistical properties of many of these time
+series such as: the strong persistence of the instantaneous variance
+characterised by large values of the Hurst exponent (H > 0.8), and asymptotic
+power-law decay of the absolute values self-correlation function. By means of
+considering an effective return obtained from a correlation of past returns
+that has a q-exponential form we are able to fix the limitations of the
+original model. Moreover, this improvement can be obtained through the correct
+choice of a sole additional parameter, $q_{m}$. The assessment of its validity
+and usefulness is made by mimicking daily fluctuations of SP500 financial
+index.

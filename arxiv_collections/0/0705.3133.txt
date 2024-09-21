@@ -1,0 +1,14 @@
+We discuss exclusive charmless B decays within the Standard Model of particle
+physics. In particular, we consider hadronic two-body decays as B -> pi pi and
+perform a conceptual analysis of heavy-to-light form factors which encode the
+strong interaction effects in semi-leptonic decays as B -> pi l nu. Concerning
+the hadronic decays we compute NNLO QCD corrections which are particularly
+important with respect to strong interaction phases and hence direct CP
+asymmetries. We present results for the imaginary part of the topological tree
+amplitudes and a partial calculation of the real part of the amplitudes which
+is technically more involved. In our conceptual analysis of the QCD dynamics in
+heavy-to-light transitions we consider form factors between non-relativistic
+bound states. We perform a NLO analysis and compute the so-called soft-overlap
+contribution which is calculable in our set-up. As a byproduct of our analysis,
+we calculate leading-twist light-cone distribution amplitudes for
+non-relativistic bound states which can be applied for B_c or eta_c mesons.

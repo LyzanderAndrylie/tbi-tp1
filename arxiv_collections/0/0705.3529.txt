@@ -1,0 +1,5 @@
+Following a model recently investigated by Veneziano and Wosiek we briefly
+introduce Planar Quantum Mechanics (PQM). Then, we present high precision
+numerical results in the sectors with two and three fermions. We confirm, that
+the transition point in the 't Hooft's coupling constant lambda in these
+sectors occurs at lambda = 1, as was expected.

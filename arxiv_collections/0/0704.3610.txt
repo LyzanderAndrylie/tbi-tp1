@@ -1,0 +1,7 @@
+In cuprate superconductors doping is believed to create holes on the O-sites,
+which couple antiferromagnetically with holes on the Cu-sites to form the
+so-called Zhang-Rice singlets. Here we study a d-wave pairing state based on
+the Zhang-Rice singlet states. Upper and lower bounds of an off-diagonal
+long-range order parameter with d-wave symmetry for this state are estimated.
+We also introduce a concrete model with on-site Coulomb repulsion and kinds of
+antiferromagnetic interactions whose ground state is this d-wave pairing state.

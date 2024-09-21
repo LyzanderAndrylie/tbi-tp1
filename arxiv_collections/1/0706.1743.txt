@@ -1,0 +1,12 @@
+We present three different matrix bases that can be used to decompose density
+matrices of d--dimensional quantum systems, so-called qudits: the generalized
+Gell-Mann matrix basis, the polarization operator basis, and the Weyl operator
+basis. Such a decomposition can be identified with a vector --the Bloch vector,
+i.e. a generalization of the well known qubit case-- and is a convenient
+expression for comparison with measurable quantities and for explicit
+calculations avoiding the handling of large matrices. We consider the important
+case of an isotropic two--qudit state and decompose it according to each basis.
+Investigating the geometry of entanglement of special parameterized two--qubit
+and two--qutrit states, in particular we calculate the Hilbert--Schmidt measure
+of entanglement, we find that the Weyl operator basis is the optimal choice
+since it is closely connected to the entanglement of the considered states.

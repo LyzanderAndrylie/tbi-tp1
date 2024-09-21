@@ -1,0 +1,17 @@
+We systematically analyze the influence of the superconducting gap symmetry
+and the electronic structure on the dynamical spin susceptibility in
+superconducting Na_xCoO_2$\cdot y$H_2O within a three different models: the
+single a_{1g}-band model with nearest-neighbor hoppings, the realistic
+three-band t_{2g}-model with, and without e'_g pockets present at the Fermi
+surface. We show that the magnetic response in the normal state is dominated by
+the incommensurate antiferromagnetic spin density wave fluctuations at large
+momenta in agreement with experimental temperature dependence of the
+spin-lattice relaxation rate. Also, we demonstrate that the presence or the
+absence of the e'_g-pockets at the Fermi surface does not affect significantly
+this conclusion. In the superconducting state our results for d_{x^2-y^2}- or
+d_{xy}-wave symmetries of the superconducting order parameter are consistent
+with experimental data and exclude nodeless $d_{x^2-y^2} + id_{xy}$-wave
+symmetry. We further point out that the spin-resonance peak proposed earlier is
+improbable for the realistic band structure of Na_xCoO_2$\cdot y$H_2O.
+Moreover, even if present the resonance peak is confined to the
+antiferromagnetic wave vector and disappears away from it.

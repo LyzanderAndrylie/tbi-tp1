@@ -1,0 +1,12 @@
+In this paper we investigate the impact of the floating-point precision and
+interpolation scheme on the results of direct numerical simulations (DNS) of
+turbulence by pseudo-spectral codes. Three different types of floating-point
+precision configurations show no differences in the statistical results. This
+implies that single precision computations allow for increased Reynolds numbers
+due to the reduced amount of memory needed. The interpolation scheme for
+obtaining velocity values at particle positions has a noticeable impact on the
+Lagrangian acceleration statistics. A tri-cubic scheme results in a slightly
+broader acceleration probability density function than a tri-linear scheme.
+Furthermore the scaling behavior obtained by the cubic interpolation scheme
+exhibits a tendency towards a slightly increased degree of intermittency
+compared to the linear one.

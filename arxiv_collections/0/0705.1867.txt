@@ -1,0 +1,8 @@
+We investigate the degree of the polar transformations associated to a
+certain class of multi-valued homogeneous functions. In particular we prove
+that the degree of the pre-image of generic linear spaces by a polar
+transformation associated to a homogeneous polynomial $F$ is determined by the
+zero locus of $F$. For zero dimensional-dimensional linear spaces this was
+conjecture by Dolgachev and proved by Dimca-Papadima using topological
+arguments. Our methods are algebro-geometric and rely on the study of the Gauss
+map of naturally associated logarithmic foliations.

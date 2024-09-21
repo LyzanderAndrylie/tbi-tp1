@@ -1,0 +1,6 @@
+We generalize the generating formula for plane partitions known as MacMahon's
+formula as well as its analog for strict plane partitions. We give a
+2-parameter generalization of these formulas related to Macdonald's symmetric
+functions. The formula is especially simple in the Hall-Littlewood case. We
+also give a bijective proof of the analog of MacMahon's formula for strict
+plane partitions.

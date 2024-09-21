@@ -1,0 +1,16 @@
+We report on transcritical bifurcations of periodic orbits in non-integrable
+two-dimensional Hamiltonian systems. We discuss their existence criteria and
+some of their properties using a recent mathematical description of
+transcritical bifurcations in families of symplectic maps. We then present
+numerical examples of transcritical bifurcations in a class of generalized
+H\'enon-Heiles Hamiltonians and illustrate their stabilities and unfoldings
+under various perturbations of the Hamiltonians. We demonstrate that for
+Hamiltonians containing straight-line librating orbits, the transcritical
+bifurcation of these orbits is the typical case which occurs also in the
+absence of any discrete symmetries, while their isochronous pitchfork
+bifurcation is an exception. We determine the normal forms of both types of
+bifurcations and derive the uniform approximation required to include
+transcritically bifurcating orbits in the semiclassical trace formula for the
+density of states of the quantum Hamiltonian. We compute the coarse-grained
+density of states in a specific example both semiclassically and quantum
+mechanically and find excellent agreement of the results.

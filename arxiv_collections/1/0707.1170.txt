@@ -1,0 +1,5 @@
+We propose a possible setup of testing the Bell's inequality in mesoscopic
+conductors. The particular implementation uses two coupled electronic
+Mach-Zehnder interferometers in which electrons are injected into the
+conductors in the quantum Hall regime. It is shown that the Bell's inequality
+is violated for an arbitrary coupling strength between the two interferometers.

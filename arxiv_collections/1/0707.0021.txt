@@ -1,0 +1,6 @@
+I show how to protect adiabatic quantum computation (AQC) against decoherence
+and certain control errors, using a hybrid methodology involving dynamical
+decoupling, subsystem and stabilizer codes, and energy gaps. Corresponding
+error bounds are derived. As an example I show how to perform
+decoherence-protected AQC against local noise using at most two-body
+interactions.

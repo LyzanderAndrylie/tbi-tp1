@@ -1,0 +1,8 @@
+Schematic su(2)+h3 interaction Hamiltonians, where su(2) plays the role of
+the pseudo-spin algebra of fermion operators and h3 is the Heisenberg algebra
+for bosons, are shown to be closely related to certain nonlinear models defined
+on a single quantum algebra q-su(2) of quasifermions. In particular, q-su(2)
+analogues of the Da Providencia-Schutte and extended Lipkin models are
+presented. The connection between q and the physical parameters of the
+fermion-boson system is analysed, and the integrability properties of the
+interaction Hamiltonians are discussed by using polynomial algebras.

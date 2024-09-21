@@ -1,0 +1,6 @@
+Ananda Mohan suggested that the first New Chinese Remainder Theorem
+introduced by Wang can be derived from the constructive proof of the well-known
+Chinese Remainder Theorem (CRT) and claimed that Wang's approach is the same as
+the one proposed earlier by Huang. Ananda Mohan's proof is however erroneous
+and we show here that Wang's New CRT I is a rewriting of an algorithm
+previously sketched by Hitz and Kaltofen.

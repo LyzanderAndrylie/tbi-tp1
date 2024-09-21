@@ -1,0 +1,13 @@
+The position and momentum information entropies of $D$-dimensional quantum
+systems with central potentials, such as the isotropic harmonic oscillator and
+the hydrogen atom, depend on the entropies of the (hyper)spherical harmonics.
+In turn, these entropies are expressed in terms of the entropies of the
+Gegenbauer (ultraspherical) polynomials $C_n^{(\lambda)}(x)$, the parameter
+$\lambda$ being either an integer or a half-integer number. Up to now, however,
+the exact analytical expression of the entropy of Gegenbauer polynomials of
+arbitrary degree $n$ has only been obtained for the particular values of the
+parameter $\lambda=0,1,2$. Here we present a novel approach to the evaluation
+of the information entropy of Gegenbauer polynomials, which makes use of
+trigonometric representations for these polynomials and complex integration
+techniques. Using this method, we are able to find the analytical expression of
+the entropy for arbitrary values of both $n$ and $\lambda\in\mathbb{N}$.

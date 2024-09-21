@@ -1,0 +1,11 @@
+The simplicial volume introduced by Gromov provides a topologically
+accessible lower bound for the minimal volume. Lafont and Schmidt proved that
+the simplicial volume of closed, locally symmetric spaces of non-compact type
+is positive. In this paper, we present a generalization of this result to
+certain non-compact locally symmetric spaces of finite volume, to so-called
+Hilbert modular varieties. The key idea is to reduce the problem to the compact
+case by first relating the simplicial volume of these manifolds to the
+Lipschitz simplicial volume and then taking advantage of a proportionality
+principle for the Lipschitz simplicial volume. Moreover, using computations of
+Bucher-Karlsson for the simplicial volume of products of closed surfaces, we
+obtain the exact value of the simplicial volume of Hilbert modular surfaces.

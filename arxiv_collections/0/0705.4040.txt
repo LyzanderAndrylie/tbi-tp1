@@ -1,0 +1,13 @@
+We develop a theoretical approach for the dynamics of Rydberg excitations in
+ultracold gases, with a realistically large number of atoms. We rely on the
+reduction of the single-atom Bloch equations to rate equations, which is
+possible under various experimentally relevant conditions. Here, we explicitly
+refer to a two-step excitation-scheme. We discuss the conditions under which
+our approach is valid by comparing the results with the solution of the exact
+quantum master equation for two interacting atoms. Concerning the emergence of
+an excitation blockade in a Rydberg gas, our results are in qualitative
+agreement with experiment. Possible sources of quantitative discrepancy are
+carefully examined. Based on the two-step excitation scheme, we predict the
+occurrence of an antiblockade effect and propose possible ways to detect this
+excitation enhancement experimentally in an optical lattice as well as in the
+gas phase.

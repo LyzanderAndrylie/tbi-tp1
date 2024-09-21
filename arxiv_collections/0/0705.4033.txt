@@ -1,0 +1,10 @@
+We study a simple transport model driven out of equilibrium by reservoirs at
+the boundaries, corresponding to the hydrodynamic limit of the symmetric simple
+exclusion process. We show that a nonlocal transformation of densities and
+currents maps the large deviations of the model into those of an open, isolated
+chain satisfying detailed balance, where rare fluctuations are the time
+reversals of relaxations. We argue that the existence of such a mapping is the
+immediate reason why it is possible for this model to obtain an explicit
+solution for the large-deviation function of densities through elementary
+changes of variables. This approach can be generalized to the other models
+previously treated with the macroscopic fluctuation theory.

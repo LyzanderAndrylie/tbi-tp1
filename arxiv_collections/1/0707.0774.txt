@@ -1,0 +1,5 @@
+We study Caratheodory-Herglotz functions whose values are continuous
+operators from a locally convex topological space which admits the
+factorization property into its conjugate dual space. We show how this case can
+be reduced to the case of functions whose values are bounded operators from a
+Hilbert space into itself.

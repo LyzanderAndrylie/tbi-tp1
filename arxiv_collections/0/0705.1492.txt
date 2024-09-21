@@ -1,0 +1,5 @@
+For the equation (-\Delta u = | |x|-2 |^\alpha u^{p-1}), (1 < |x| < 3), we
+prove the existence of two solutions for (\alpha) large, and of two additional
+solutions when (p) is close to the critical Sobolev exponent (2^*=2N/(N-2)). A
+symmetry--breaking phenomenon appears, showing that the least--energy solutions
+cannot be radial functions.

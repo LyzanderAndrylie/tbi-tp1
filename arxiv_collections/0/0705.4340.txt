@@ -1,0 +1,10 @@
+We propose a new model for describing baryon semi-leptonic decays for
+estimating $F$ and $D$ values with explicit breaking effects of both SU(3) and
+SU(2) flavor symmetry, where all possible SU(3) and SU(2) breaking effects are
+induced from an effective interaction. An overall fit including the weak
+magnetism form factor yields $F=0.477\pm 0.001$ and $D=0.835\pm 0.001$ with
+$\chi^2=4.43/5$ d.o.f. with $V_{ud}=0.975\pm 0.002$ and $V_{us}=0.221\pm
+0.002$. The spin content of strange quarks $\Delta s$ is estimated from the
+obtained values $F$ and $D$, and the nucleon spin problem is re-examined.
+Furthermore, the unmeasured values of $(g_1/f_1)$ and $(g_1)$ for other hyperon
+semi-leptonic decays are predicted from this new formula.

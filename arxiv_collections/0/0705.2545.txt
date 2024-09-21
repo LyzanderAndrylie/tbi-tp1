@@ -1,0 +1,22 @@
+In recent years, there has been increasing interest in the specific heat $C$
+of insulators and semiconductors because of the availability of samples with
+different isotopic masses and the possibility of performing \textit{ab initio}
+calculations of its temperature dependence $C(T)$ using as a starting point the
+electronic band structure. Most of the crystals investigated are elemental
+(e.g., germanium) or binary (e.g., gallium nitride) semiconductors. The initial
+electronic calculations were performed in the local density approximation and
+did not include spin-orbit interaction. Agreement between experimental and
+calculated results was usually found to be good, except for crystals containing
+heavy atoms (e.g., PbS) for which discrepancies of the order of 20% existed at
+the low temperature maximum found for $C/T^3$. It has been conjectured that
+this discrepancies result from the neglect of spin-orbit interaction which is
+large for heavy atoms ($\Delta_0\sim$1.3eV for the $p$ valence electrons of
+atomic lead). Here we discuss measurements and \textit{ab initio} calculations
+of $C(T)$ for crystalline bismuth ($\Delta_0\sim$1.7 eV), strictly speaking a
+semimetal but in the temperature region accessible to us ($T >$ 2K) acting as a
+semiconductor. We extend experimental data available in the literature and
+notice that the \textit{ab initio} calculations without spin-orbit interaction
+exhibit a maximum at $\sim$8K, about 20% lower than the measured one. Inclusion
+of spin-orbit interaction decreases the discrepancy markedly: The maximum of
+$C(T)$ is now only 7% larger than the measured one. Exact agreement is obtained
+if the spin-orbit hamiltonian is reduced by a factor of $\sim$0.8.

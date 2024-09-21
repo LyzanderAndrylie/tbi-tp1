@@ -1,0 +1,5 @@
+We prove that the algebra of endomorphisms of a Weyl module of critical level
+is isomorphic to the algebra of functions on the space of monodromy-free opers
+on the disc with regular singularity and residue determined by the highest
+weight of the Weyl module. This result may be used to test the local geometric
+Langlands correspondence proposed in our earlier work arXiv:math/0508382.

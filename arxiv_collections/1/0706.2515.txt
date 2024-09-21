@@ -1,0 +1,11 @@
+We study perturbations of diffeomorphisms that have a saddle connection
+between a pair of normally hyperbolic invariant manifolds. We develop a
+first-order deformation calculus for invariant manifolds and show that a
+generalized Melnikov function or Melnikov displacement can be written in a
+canonical way. This function is defined to be a section of the normal bundle of
+the saddle connection.
+  We show how our definition reproduces the classical methods of Poincar\'{e}
+and Melnikov and specializes to methods previously used for exact symplectic
+and volume-preserving maps. We use the method to detect the transverse
+intersection of stable and unstable manifolds and relate this intersection to
+the set of zeros of the Melnikov displacement.

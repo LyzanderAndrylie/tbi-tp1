@@ -1,0 +1,14 @@
+In this letter, a theoretical method for the analysis of diffusive
+flux/current to limited scale self-affine random fractals is presented and
+compared with experimentally measured electrochemical current for such
+roughness. The theory explains the several experimental findings of the
+temporal scale invariance as well as deviation from this of current transients
+in terms of three dominant fractal parameters for the limited-length scales of
+roughness. This theoretical method is based on limited scale power-law
+characterization of the interfacial roughness spectrum and the solution of
+diffusion equation under the diffusion-limited boundary conditions on rough
+interfaces. More broadly, these calculations challenges the earlier belief that
+the anomalous behavior is solely dependent on fractal dimension of roughness
+and highlight the potential to apply this equation for the scale invariant
+roughness determination. Finally, the validity of theoretical result is tested
+with extensive experimental data.

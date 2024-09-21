@@ -1,0 +1,8 @@
+Iron, cobalt and nickel nanoparticles, grown in the gas phase, are known to
+arrange in chains and bracelet-like rings due to the long-range dipolar
+interaction between the ferromagnetic (or super-paramagnetic) particles. We
+investigate the dynamics and thermodynamics of such magnetic dipolar
+nanoparticles for low densities using molecular dynamics simulations and
+analyze the influence of temperature and external magnetic fields on two- and
+three-dimensional systems. The obtained phase diagrams can be understood by
+using simple energetic arguments.

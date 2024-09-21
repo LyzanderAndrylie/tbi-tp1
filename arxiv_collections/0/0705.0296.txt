@@ -1,0 +1,6 @@
+We prove a higher order asymptotic formula for traces of finite block
+Toeplitz matrices with symbols belonging to H\"older-Zygmund spaces. The
+remainder in this formula goes to zero very rapidly for very smooth symbols.
+This formula refine previous asymptotic trace formulas by Szeg\"o and Widom and
+complement higher order asymptotic formulas for determinants of finite block
+Toeplitz matrices due to B\"ottcher and Silbermann.

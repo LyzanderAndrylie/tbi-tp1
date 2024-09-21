@@ -1,0 +1,3 @@
+Given a Gelfand pair of Lie groups, we identify the spectrum with a suitable
+subset of C^n and we prove the equivalence between Gelfand topology and
+euclidean topology.

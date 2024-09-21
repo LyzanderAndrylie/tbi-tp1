@@ -1,0 +1,8 @@
+We measure the time dependence of the scintillator light-emission pulses in
+NaI(Tl) crystals at different temperatures, after activation by gamma rays. We
+confirm that there are two main nonexponential components to the time decay and
+find that their amplitude ratio shows Arrhenius temperature dependence. We
+explain these nonexponential components as arising from two competing
+mechanisms of carrier transport to the Tl activation levels. The total light
+output of the NaI(Tl) detectors shows a linear temperature dependence explained
+by our model.

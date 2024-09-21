@@ -1,0 +1,12 @@
+Recently, it has been showed that a slow expansion, which is asymptotically a
+static state in infinite past and may be described as an evolution with
+\epsilon \ll -1, of early universe may lead to the generation of primordial
+perturbation responsible for the structure formation of observable universe.
+However, its feasibility depends on whether the growing mode of Bardeen
+potential before phase transition can be inherited by the constant mode of
+curvature perturbation after phase transition. In this note, we phenomenally
+regard this slow expansion as that driven by multi NEC violating scalar fields.
+We calculate the curvature perturbation induced by the entropy perturbation
+before phase transition, and find that the spectrum is naturally scale
+invariant with a slight red tilt. The result has an interesting similarity to
+that of slow roll inflation.

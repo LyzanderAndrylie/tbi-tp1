@@ -1,0 +1,7 @@
+We discuss the calculation of evanescent states in quasi-one-dimensional
+quantum wires in the presence of Rashba spin-orbit interaction. We suggest a
+computational algorithm devised for cases in which longitudinal and transverse
+motions are coupled. The dispersion relations are given for some selected
+cases, illustrating the feasibility of the proposed computational method. As a
+practical application, we discuss the solutions for a wire containing a
+potential step.

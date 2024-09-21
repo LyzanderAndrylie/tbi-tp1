@@ -1,0 +1,12 @@
+Optimal decoding of bit interleaved coded modulation (BICM) MIMO-OFDM where
+an imperfect channel estimate is available at the receiver is investigated.
+First, by using a Bayesian approach involving the channel a posteriori density,
+we derive a practical decoding metric for general memoryless channels that is
+robust to the presence of channel estimation errors. Then, we evaluate the
+outage rates achieved by a decoder that uses our proposed metric. The
+performance of the proposed decoder is compared to the classical mismatched
+decoder and a theoretical decoder defined as the best decoder in the presence
+of imperfect channel estimation. Numerical results over Rayleigh block fading
+MIMO-OFDM channels show that the proposed decoder outperforms mismatched
+decoding in terms of bit error rate and outage capacity without introducing any
+additional complexity.

@@ -1,0 +1,11 @@
+Let $\Omega\subset\C^n$ be a bounded smooth pseudoconvex domain. We show that
+compactness of the complex Green operator $G_{q}$ on $(0,q)$-forms on $b\Omega$
+implies compactness of the $\bar{\partial}$-Neumann operator $N_{q}$ on
+$\Omega$. We prove that if $1 \leq q \leq n-2$ and $b\Omega$ satisfies $(P_q)$
+and $(P_{n-q-1})$, then $G_{q}$ is a compact operator (and so is $G_{n-1-q}$).
+Our method relies on a jump type formula to represent forms on the boundary,
+and we prove an auxiliary compactness result for an `annulus' between two
+pseudoconvex domains. Our results, combined with the known characterization of
+compactness in the $\bar{\partial}$-Neumann problem on locally convexifiable
+domains, yield the corresponding characterization of compactness of the complex
+Green operator(s) on these domains.

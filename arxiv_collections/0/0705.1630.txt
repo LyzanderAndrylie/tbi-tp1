@@ -1,0 +1,7 @@
+By means of a multi-scale analysis we describe the typical geometrical
+structure of the clusters under the FK measure in random media. Our result
+holds in any dimension greater or equal to 2 provided that slab percolation
+occurs under the averaged measure, which should be the case in the whole
+supercritical phase. This work extends the one of Pisztora and provides an
+essential tool for the analysis of the supercritical regime in disordered FK
+models and in the corresponding disordered Ising and Potts models.

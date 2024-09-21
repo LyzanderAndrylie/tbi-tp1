@@ -1,0 +1,7 @@
+In this Comment we compute the contributions of the radiation reaction force
+in the 2.5 post-Newtonian (PN) gravitational wave polarizations for compact
+binaries in circular orbits. (i) We point out and correct an inconsistency in
+the derivation of Arun, Blanchet, Iyer, and Qusailah. (ii) We prove that all
+contributions from radiation reaction in the 2.5PN waveform are actually
+negligible since they can be absorbed into a modification of the orbital phase
+at the 5PN order.

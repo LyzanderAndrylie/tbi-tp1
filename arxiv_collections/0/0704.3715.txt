@@ -1,0 +1,21 @@
+We present an exhaustive study of more than 250 ab initio potential energy
+surfaces (PESs) of the model dipeptide HCO-L-Ala-NH2. The model chemistries
+(MCs) used are constructed as homo- and heterolevels involving possibly
+different RHF and MP2 calculations for the geometry and the energy. The basis
+sets used belong to a sample of 39 selected representants from Pople's
+split-valence families, ranging from the small 3-21G to the large
+6-311++G(2df,2pd). The reference PES to which the rest are compared is the
+MP2/6-311++G(2df,2pd) homolevel, which, as far as we are aware, is the more
+accurate PES of a dipeptide in the literature. The aim of the study presented
+is twofold: On the one hand, the evaluation of the influence of polarization
+and diffuse functions in the basis set, distinguishing between those placed at
+1st-row atoms and those placed at hydrogens, as well as the effect of different
+contraction and valence splitting schemes. On the other hand, the investigation
+of the heterolevel assumption, which is defined here to be that which states
+that heterolevel MCs are more efficient than homolevel MCs. The heterolevel
+approximation is very commonly used in the literature, but it is seldom
+checked. As far as we know, the only tests for peptides or related systems,
+have been performed using a small number of conformers, and this is the first
+time that this potentially very economical approximation is tested in full
+PESs. In order to achieve these goals, all data sets have been compared and
+analyzed in a way which captures the nearness concept in the space of MCs.

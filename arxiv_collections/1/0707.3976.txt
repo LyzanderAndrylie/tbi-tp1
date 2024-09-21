@@ -1,0 +1,13 @@
+Magnetic gates in close proximity to graphene can induce ferromagnetic
+correlations. We study the effect of such induced magnetization dependent
+Zeeman splittings on the graphene transport properties. We estimate that
+induced spin splittings of the order of \Delta ~ 5 meV could be achieved with
+the use of magnetic insulator gates, e.g. EuO-gates, deposited on top of
+graphene. We demonstrate that such splittings in proximity induced
+ferromagnetic graphene could be determined directly from the tunneling
+resonances in the linear response conductance, as the top gate creates also a
+tunable barrier in the graphene layer. We show how such splittings could also
+be determined independently by magnetoresistance measurements in a spin-valve
+geometry. Because the spin polarization of the current near the Dirac point
+increases with the length of the barrier, long magnetic gates are desirable for
+determining \Delta experimentally.

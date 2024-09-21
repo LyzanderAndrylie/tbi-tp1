@@ -1,0 +1,5 @@
+We study the interface propagation in superconductors by means of a
+variational method. We compute the lower and upper bounds for which the planar
+front speed propagation is valid. To take into account delay or memory effects
+in the front propagation, an hyperbolic differential equation is introduced as
+an extension of the model.

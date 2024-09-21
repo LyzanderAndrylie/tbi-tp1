@@ -1,0 +1,19 @@
+We present a nonrelativistic theory for the quantum mechanical description of
+longitudinal atomic beam spin echo experiments, where a beam of neutral atoms
+is subjected to static electric and magnetic fields. The atomic wave function
+is the solution of a matrix-valued Schroedinger equation and can be written as
+superposition of local (atomic) eigenstates of the potential matrix. The
+position- and time-dependent amplitude function of each eigenstate represents
+an atomic wave packet and can be calculated in a series expansion with a master
+formula that we derive. The zeroth order of this series expansion describes the
+adiabatic limit, whereas the higher order contributions contain the mixing of
+the eigenstates and the corresponding amplitude functions.
+  We give a tutorial for the theoretical description of longitudinal atomic
+beam spin echo experiments and for the so-called Fahrplan model, which is a
+visualisation tool for the propagation of wave packets of different atomic
+eigenstates.
+  As an example for the application of our theory, we study parity violating
+geometric (Berry-)phases. In this context, we define geometric flux densities,
+which for certain field configurations can be used to illustrate geometric
+phases in a vector diagram. Considering an example with a specific field
+configuration, we prove the existence of a parity violating geometric phase.

@@ -1,0 +1,12 @@
+We consider the dynamics of a single electron in a chain of tunnel coupled
+quantum dots, exploring the formal analogies of this system with some of the
+laser-driven multilevel atomic or molecular systems studied by Bruce W. Shore
+and collaborators over the last 30 years. In particular, we describe two
+regimes for achieving complete coherent transfer of population in such a
+multistate system. In the first regime, by carefully arranging the coupling
+strengths, the flow of population between the states of the system can be made
+periodic in time. In the second regime, by employing a "counterintuitive"
+sequence of couplings, the coherent population trapping eigenstate of the
+system can be rotated from the initial to the final desired state, which is an
+equivalent of the STIRAP technique for atoms or molecules. Our results may be
+useful in future quantum computation schemes.

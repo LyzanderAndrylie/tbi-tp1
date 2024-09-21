@@ -1,0 +1,12 @@
+We incorporate an Al-AlO_x-Al single-electron transistor as the gate of a
+narrow (~100 nm) metal-oxide-semiconductor field-effect transistor (MOSFET).
+Near the MOSFET channel conductance threshold, we observe oscillations in the
+conductance associated with Coulomb blockade in the channel, revealing the
+formation of a Si single-electron transistor. Abrupt steps present in sweeps of
+the Al transistor conductance versus gate voltage are correlated with
+single-electron charging events in the Si transistor, and vice versa. Analysis
+of these correlations using a simple electrostatic model demonstrates that the
+two single-electron transistor islands are closely aligned, with an
+inter-island capacitance approximately equal to 1/3 of the total capacitance of
+the Si transistor island, indicating that the Si transistor is strongly coupled
+to the Al transistor.

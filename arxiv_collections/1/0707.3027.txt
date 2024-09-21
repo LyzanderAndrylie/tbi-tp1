@@ -1,0 +1,23 @@
+The Bakamjian-Thomas relativistic quark model provides a Poincar\'e
+representation of bound states with a fixed number of constituents and, in the
+heavy quark limit, form factors of currents satisfy covariance and Isgur-Wise
+scaling. We compute the Light Cone Distribution Amplitudes of $B$ mesons
+$\phi_{\pm}^B(\omega)$ as well as the Shape Function $S(\omega)$, that enters
+in the decay $B \to X_s \gamma$, that are also covariant in this class of
+models. The LCDA and the SF are related through the quark model wave function.
+The former satisfy, in the limit of vanishing constituent light quark mass, the
+integral relation given by QCD in the valence sector of Fock space. Using a
+gaussian wave function, the obtained $S(\omega)$ is identical to the so-called
+Roman Shape Function. From the parameters for the latter that fit the $B \to
+X_s\gamma$ spectrum we predict the behaviour of $\phi_{\pm}^B(\omega)$. We
+discuss the important role played by the constituent light quark mass. In
+particular, although $\phi_-^B(0) \not= 0$ for vanishing light quark mass, a
+non-vanishing mass implies the unfamiliar result $\phi_-^B (0) = 0$. Moreover,
+we incorporate the short distance behaviour of QCD to $\phi_+^B (\omega)$,
+which has sizeable effects at large $\omega$. We obtain the values for the
+parameters $\bar{\Lambda} \cong 0.35$ GeV and $\lambda_B^{-1} \cong 1.43$
+GeV$^{-1}$. We compare with other theoretical approaches and illustrate the
+great variety of models found in the literature for the functions $\phi_{\pm}^B
+(\omega)$; hence the necessity of imposing further constraints as in the
+present paper. We briefly review also the different phenomena that are
+sensitive to the LCDA.

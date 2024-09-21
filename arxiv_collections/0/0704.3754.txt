@@ -1,0 +1,11 @@
+In this paper we present large-scale correlated calculations of linear
+optical absorption spectrum of oligo-acenes containing up to seven benzene
+rings. For the calculations we used the Pariser-Parr-Pople (P-P-P) Hamiltonian,
+along with the configuration interaction (CI) technique at various levels such
+as the full CI (FCI), the quadruple CI (QCI) and multi-reference
+singles-doubles CI (MRSDCI). The role of Coulomb parameters used in the P-P-P
+Hamiltonian was examined by considering standard Ohno parameters, as well as a
+screened set of parameters. A detailed analysis of the many-body character of
+the important excited states contributing to the linear absorption has also
+been performed. The results of our calculations have been compared extensively
+with the theoretical work of other authors, as well as with the experiments.

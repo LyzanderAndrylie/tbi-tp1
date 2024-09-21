@@ -1,0 +1,12 @@
+Quantum pseudo-telepathy is an intriguing phenomenon which results from the
+application of quantum information theory to communication complexity. To
+demonstrate this phenomenon researchers in the field of quantum communication
+complexity devised a number of quantum non-locality games. The setting of these
+games is as follows: the players are separated so that no communication between
+them is possible and are given a certain computational task. When the players
+have access to a quantum resource called entanglement, they can accomplish the
+task: something that is impossible in a classical setting. To an observer who
+is unfamiliar with the laws of quantum mechanics it seems that the players
+employ some sort of telepathy; that is, they somehow exchange information
+without sharing a communication channel. This paper provides a formal framework
+for specifying, implementing, and analysing quantum non-locality games.

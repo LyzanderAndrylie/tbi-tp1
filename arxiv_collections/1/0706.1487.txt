@@ -1,0 +1,9 @@
+In ballistic conductors, there is a low-time threshold for the appearance of
+quantum effects in transport coefficients. This low-time threshold is the
+Ehrenfest time. Most previous studies of the Ehrenfest-time dependence of
+quantum transport assumed ergodic electron dynamics, so that they could be
+applied to ballistic quantum dots only. In this article we present a theory of
+the Ehrenfest-time dependence of three signatures of quantum transport - the
+Fano factor for the shot noise power, the weak localization correction to the
+conductance, and the conductance fluctuations - for arbitrary ballistic
+conductors.

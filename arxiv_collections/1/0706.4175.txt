@@ -1,0 +1,15 @@
+Multicast is a central challenge for emerging multi-hop wireless
+architectures such as wireless mesh networks, because of its substantial cost
+in terms of bandwidth. In this report, we study one specific case of multicast:
+broadcasting, sending data from one source to all nodes, in a multi-hop
+wireless network. The broadcast we focus on is based on network coding, a
+promising avenue for reducing cost; previous work of ours showed that the
+performance of network coding with simple heuristics is asymptotically optimal:
+each transmission is beneficial to nearly every receiver. This is for
+homogenous and large networks of the plan. But for small, sparse or for
+inhomogeneous networks, some additional heuristics are required. This report
+proposes such additional new heuristics (for selecting rates) for broadcasting
+with network coding. Our heuristics are intended to use only simple local
+topology information. We detail the logic of the heuristics, and with
+experimental results, we illustrate the behavior of the heuristics, and
+demonstrate their excellent performance.

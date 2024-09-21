@@ -1,0 +1,15 @@
+A population of committees of agents that learn by using neural networks is
+implemented to simulate the stock market. Each committee of agents, which is
+regarded as a player in a game, is optimised by continually adapting the
+architecture of the agents using genetic algorithms. The committees of agents
+buy and sell stocks by following this procedure: (1) obtain the current price
+of stocks; (2) predict the future price of stocks; (3) and for a given price
+trade until all the players are mutually satisfied. The trading of stocks is
+conducted by following these rules: (1) if a player expects an increase in
+price then it tries to buy the stock; (2) else if it expects a drop in the
+price, it sells the stock; (3)and the order in which a player participates in
+the game is random. The proposed procedure is implemented to simulate trading
+of three stocks, namely, the Dow Jones, the Nasdaq and the S&P 500. A linear
+relationship between the number of players and agents versus the computational
+time to run the complete simulation is observed. It is also found that no
+player has a monopolistic advantage.

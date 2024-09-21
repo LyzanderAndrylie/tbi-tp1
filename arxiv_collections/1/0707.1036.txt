@@ -1,0 +1,13 @@
+Temporal evolution of a macroscopic condensate of ultra cold atoms is usually
+driven by mean field potentials, either due to scattering between atoms or due
+to coupling to external fields; and coherent quantum dynamics have been
+observed in various cold-atom experiments. In this article, we report results
+of studies of a class of quantum spin dynamics which are purely driven by zero
+point quantum fluctuations of spin collective coordinates. Unlike the usual
+mean-field coherent dynamics, quantum fluctuation-controlled spin dynamics or
+QFCSD studied here are very sensitive to variation of quantum fluctuations and
+can be tuned by four to five order of magnitude using optical lattices. They
+have unique dependence on optical lattice potential depths and quadratic Zeeman
+fields. QFCSD can be potentially used to calibrate quantum fluctuations and
+investigate correlated fluctuations and various universal scaling properties
+near quantum critical points.

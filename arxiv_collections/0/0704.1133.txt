@@ -1,0 +1,12 @@
+We report on FUSE spectra of three U Gem-type, long period, dwarf novae, UU
+Aql, BV Cen and CH UMa taken during their quiescence intervals. We discuss the
+line identifications in their spectra and attempt to characterize the source(s)
+of their FUV flux distribution. Archival IUE spectrum of CH UMa and BV Cen in
+quiescence were identified as having a matching flux level with the FUSE
+spectra and these were combined with each FUSE spectrum to broaden the
+wavelength coverage and further constrain model fits. Multi-component synthetic
+spectral fits from our model grids, consisting of single temperature white
+dwarfs, two-temperature white dwarfs, accretion disks and white dwarfs plus
+accretion disks, were applied to the FUSE spectra alone and to the combined
+FUSE + IUE spectra. We present the results of our model analyses and their
+implications.

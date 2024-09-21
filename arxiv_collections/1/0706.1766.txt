@@ -1,0 +1,19 @@
+We have analyzed the symmetry properties and the ground state of an orbital
+Hubbard model with two orbital flavors, describing a partly filled
+spin-polarized $e_g$ band on a cubic lattice, as in ferromagnetic manganites.
+We demonstrate that the off-diagonal hopping responsible for transitions
+between $x^2-y^2$ and $3z^2-r^2$ orbitals, and the absence of SU(2) invariance
+in orbital space, have important implications. One finds that superexchange
+contributes in all orbital ordered states, the Nagaoka theorem does not apply,
+and the kinetic energy is much enhanced as compared with the spin case.
+Therefore, orbital ordered states are harder to stabilize in the Hartree-Fock
+approximation (HFA), and the onset of a uniform ferro-orbital polarization and
+antiferro-orbital instability are similar to each other, unlike in spin case.
+Next we formulate a cubic (gauge) invariant slave boson approach using the
+orbitals with complex coefficients. In the mean-field approximation it leads to
+the renormalization of the kinetic energy, and provides a reliable estimate for
+the ground state energy of the disordered state. Using this approach one finds
+that the HFA fails qualitatively in the regime of large Coulomb repulsion
+$U\to\infty$ -- the orbital order is unstable, and instead a strongly
+correlated orbital liquid with disordered orbitals is realized at any electron
+filling.

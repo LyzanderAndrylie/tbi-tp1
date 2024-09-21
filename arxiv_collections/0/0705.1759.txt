@@ -1,0 +1,15 @@
+This paper proposes the response surface method for finite element model
+updating. The response surface method is implemented by approximating the
+finite element model surface response equation by a multi-layer perceptron. The
+updated parameters of the finite element model were calculated using genetic
+algorithm by optimizing the surface response equation. The proposed method was
+compared to the existing methods that use simulated annealing or genetic
+algorithm together with a full finite element model for finite element model
+updating. The proposed method was tested on an unsymmetri-cal H-shaped
+structure. It was observed that the proposed method gave the updated natural
+frequen-cies and mode shapes that were of the same order of accuracy as those
+given by simulated annealing and genetic algorithm. Furthermore, it was
+observed that the response surface method achieved these results at a
+computational speed that was more than 2.5 times as fast as the genetic
+algorithm and a full finite element model and 24 times faster than the
+simulated annealing.

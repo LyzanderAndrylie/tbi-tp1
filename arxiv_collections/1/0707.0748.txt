@@ -1,0 +1,21 @@
+Objectives: Grid-based technologies are emerging as potential solutions for
+managing and collaborating distributed resources in the biomedical domain. Few
+examples exist, however, of successful implementations of Grid-enabled medical
+systems and even fewer have been deployed for evaluation in practice. The
+objective of this paper is to evaluate the use in clinical practice of a
+Grid-based imaging prototype and to establish directions for engineering future
+medical Grid developments and their subsequent deployment. Method: The
+MammoGrid project has deployed a prototype system for clinicians using the Grid
+as its information infrastructure. To assist in the specification of the system
+requirements (and for the first time in healthgrid applications), use-case
+modelling has been carried out in close collaboration with clinicians and
+radiologists who had no prior experience of this modelling technique. A
+critical qualitative and, where possible, quantitative analysis of the
+MammoGrid prototype is presented leading to a set of recommendations from the
+delivery of the first deployed Grid-based medical imaging application. Results:
+We report critically on the application of software engineering techniques in
+the specification and implementation of the MammoGrid project and show that
+use-case modelling is a suitable vehicle for representing medical requirements
+and for communicating effectively with the clinical community. This paper also
+discusses the practical advantages and limitations of applying the Grid to
+real-life clinical applications and presents the consequent lessons learned.

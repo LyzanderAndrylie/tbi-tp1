@@ -1,0 +1,9 @@
+We investigate electrical conduction through individual oligopeptide
+molecules thiol-bonded between gold nanocontacts using ab initio and
+semi-empirical techniques. Our theory explains for the first time these
+molecules' experimentally observed current-voltage characteristics, including
+both the magnitude and rectification of the current, and uses no adjustable
+parameters. We identify the mechanism of the observed current rectification,
+and predict that it will result in negative differential resistance at moderate
+biases. Our findings open the way to the realization of protein-based
+nanoelectronic devices.

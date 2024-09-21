@@ -1,0 +1,17 @@
+We present new results on dynamical instabilities in rapidly rotating
+neutron-stars. In particular, using numerical simulations in full General
+Relativity, we analyse the effects that the stellar compactness has on the
+threshold for the onset of the dynamical bar-mode instability, as well as on
+the appearance of other dynamical instabilities. By using an extrapolation
+technique developed and tested in our previous study [1], we explicitly
+determine the threshold for a wide range of compactnesses using four sequences
+of models of constant baryonic mass comprising a total of 59 stellar models.
+Our calculation of the threshold is in good agreement with the Newtonian
+prediction and improves the previous post-Newtonian estimates. In addition, we
+find that for stars with sufficiently large mass and compactness, the m=3
+deformation is the fastest growing one. For all of the models considered, the
+non-axisymmetric instability is suppressed on a dynamical timescale with an m=1
+deformation dominating the final stages of the instability. These results,
+together with those presented in [1], suggest that an m=1 deformation
+represents a general and late-time feature of non-axisymmetric dynamical
+instabilities both in full General Relativity and in Newtonian gravity.

@@ -1,0 +1,4 @@
+It is shown that a large subset of initial data with finite energy ($L^2$
+norm)evolves nearly linearly in nonlinear Schr\" odinger equation with periodic
+boundary conditions. These new solutions are not perturbations of the known
+ones such as solitons, semiclassical or weakly linear solutions.

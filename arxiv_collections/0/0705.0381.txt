@@ -1,0 +1,15 @@
+We present molecular simulation data for viscosity, self-diffusivity, and the
+local structural ordering of (i) a hard-sphere fluid and (ii) a square-well
+fluid with short-range attractions. The latter fluid exhibits a region of
+dynamic anomalies in its phase diagram, where its mobility increases upon
+isochoric cooling, which is found to be a subset of a larger region of
+structural anomalies, in which its pair correlations strengthen upon isochoric
+heating. This "cascade of anomalies" qualitatively resembles that found in
+recent simulations of liquid water. The results for the hard-sphere and
+square-well systems also show that the breakdown of the Stokes-Einstein
+relation upon supercooling occurs for conditions where viscosity and
+self-diffusivity develop different couplings to the degree of pairwise
+structural ordering of the liquid. We discuss how these couplings reflect
+dynamic heterogeneities. Finally, we note that the simulation data suggests how
+repulsive and attractive glasses may generally be characterized by two distinct
+levels of short-range structural order.

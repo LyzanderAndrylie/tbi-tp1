@@ -1,0 +1,9 @@
+We numerically investigate gauge field instabilities in anisotropic SU(2)
+plasmas using weak field initial conditions. The growth of unstable modes is
+stopped by non-abelian effects for moderate anisotropy. If we increase the
+anisotropy the growth continues beyond the non-abelian saturation bound. We
+find strong indications that the continued growth is not due to over-saturation
+of infrared field modes, but instead due to very rapid growth of high momentum
+modes which are not unstable in the weak field limit. The saturation amplitude
+strongly depends on the initial conditions. For strong initial fields we do not
+observe the sustained growth.

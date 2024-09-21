@@ -1,0 +1,6 @@
+An initial measurement of the lifetime of the positive muon to a precision of
+16 parts per million (ppm) has been performed with the FAST detector at the
+Paul Scherrer Institute. The result is tau_mu = 2.197083 (32) (15) microsec,
+where the first error is statistical and the second is systematic. The muon
+lifetime determines the Fermi constant, G_F = 1.166353 (9) x 10^-5 GeV^-2 (8
+ppm).

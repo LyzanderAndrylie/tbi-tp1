@@ -1,0 +1,12 @@
+The Bell-Evans-Polanyi principle that is valid for a chemical reaction that
+proceeds along the reaction coordinate over the transition state is extended to
+molecular dynamics trajectories that in general do not cross the dividing
+surface between the initial and the final local minima at the exact transition
+state. Our molecular dynamics Bell-Evans-Polanyi principle states that low
+energy molecular dynamics trajectories are more likely to lead into the basin
+of attraction of a low energy local minimum than high energy trajectories. In
+the context of global optimization schemes based on molecular dynamics our
+molecular dynamics Bell-Evans-Polanyi principle implies that using low energy
+trajectories one needs to visit a smaller number of distinguishable local
+minima before finding the global minimum than when using high energy
+trajectories.

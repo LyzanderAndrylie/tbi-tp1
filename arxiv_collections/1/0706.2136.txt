@@ -1,0 +1,16 @@
+Using methods of effective field theory, a systematic analysis of the
+fragmentation functions D_{a/H}(x,m_Q) of a hadron H containing a heavy quark Q
+is performed (with a=Q,Q_bar,q,q_bar,g). By integrating out pair production of
+virtual and real heavy quarks, the fragmentation functions are matched onto a
+single nonperturbative function describing the fragmentation of the heavy quark
+Q into the hadron H in "partially quenched" QCD. All calculable, short-distance
+dependence on x is extracted in this step. For x->1, the remaining
+fragmentation function can be matched further onto a universal function defined
+in heavy-quark effective theory in order to factor off its residual dependence
+on the heavy-quark mass. By solving the evolution equation in the effective
+theory analytically, large logarithms of the ratio mu/m_Q are resummed to all
+orders in perturbation theory. Connections with existing approaches to
+heavy-quark fragmentation are discussed. In particular, it is shown that
+previous attempts to extract log^n(1-x) terms from the fragmentation function
+D_{Q/H}(x,m_Q) are incompatible with a proper separation of short- and
+long-distance effects.

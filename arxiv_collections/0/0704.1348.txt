@@ -1,0 +1,10 @@
+Using particle system methodologies we study the propagation of financial
+distress in a network of firms facing credit risk. We investigate the
+phenomenon of a credit crisis and quantify the losses that a bank may suffer in
+a large credit portfolio. Applying a large deviation principle we compute the
+limiting distributions of the system and determine the time evolution of the
+credit quality indicators of the firms, deriving moreover the dynamics of a
+global financial health indicator. We finally describe a suitable version of
+the "Central Limit Theorem" useful to study large portfolio losses. Simulation
+results are provided as well as applications to portfolio loss distribution
+analysis.

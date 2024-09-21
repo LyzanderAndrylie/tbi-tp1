@@ -1,0 +1,8 @@
+The evolution and propagation of a partially coherent matter wave (PCMW) is
+investigated theoretically by the correlation function method. The ABCD matrix
+formalism previously used for a fully coherent matter wave is extended to the
+PCMW domain. A new ABCD law is derived, using a tensor method to describe the
+evolution of a PCMW. An analytical solution of the first-order correlation
+function is obtained that makes the propagation and evolution of a PCMW very
+simple and clear. As an example, the propagation of a PCMW in a gravitational
+field is calculated numerically.

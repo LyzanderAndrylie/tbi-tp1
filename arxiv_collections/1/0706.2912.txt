@@ -1,0 +1,11 @@
+Suppose several two-valued input-output systems are designed by setting the
+levels of several controllable factors. For this situation, Taguchi method has
+proposed to assign the controllable factors to the orthogonal array and use
+ANOVA model for the standardized SN ratio, which is a natural measure for
+evaluating the performance of each input-output system. Though this procedure
+is simple and useful in application indeed, the result can be unreliable when
+the estimated standard errors of the standardized SN ratios are unbalanced. In
+this paper, we treat the data arising from the full factorial or fractional
+factorial designs of several controllable factors as the frequencies of
+high-dimensional contingency tables, and propose a general testing procedure
+for the main effects or the interaction effects of the controllable factors.

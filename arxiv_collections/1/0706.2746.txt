@@ -1,0 +1,17 @@
+A quantum storage device differs radically from a conventional physical
+storage device. Its state can be set to any value in a certain (infinite) state
+space, but in general every possible read operation yields only partial
+information about the stored state.
+  The purpose of this paper is to initiate the study of a combinatorial
+abstraction, called abstract storage device (ASD), which models deterministic
+storage devices with the property that only partial information about the state
+can be read, but that there is a degree of freedom as to which partial
+information should be retrieved.
+  This concept leads to a number of interesting problems which we address, like
+the reduction of one device to another device, the equivalence of devices,
+direct products of devices, as well as the factorization of a device into
+primitive devices. We prove that every ASD has an equivalent ASD with minimal
+number of states and of possible read operations. Also, we prove that the
+reducibility problem for ASD's is NP-complete, that the equivalence problem is
+at least as hard as the graph isomorphism problem, and that the factorization
+into binary-output devices (if it exists) is unique.

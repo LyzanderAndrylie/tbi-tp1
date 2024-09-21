@@ -1,0 +1,15 @@
+We characterize the dynamical behavior of continuous-time, Markovian quantum
+systems with respect to a subsystem of interest. Markovian dynamics describes a
+wide class of open quantum systems of relevance to quantum information
+processing, subsystem encodings offering a general pathway to faithfully
+represent quantum information. We provide explicit linear-algebraic
+characterizations of the notion of invariant and noiseless subsystem for
+Markovian master equations, under different robustness assumptions for
+model-parameter and initial-state variations. The stronger concept of an
+attractive quantum subsystem is introduced, and sufficient existence conditions
+are identified based on Lyapunov's stability techniques. As a main control
+application, we address the potential of output-feedback Markovian control
+strategies for quantum pure state-stabilization and noiseless-subspace
+generation. In particular, explicit results for the synthesis of stabilizing
+semigroups and noiseless subspaces in finite-dimensional Markovian systems are
+obtained.

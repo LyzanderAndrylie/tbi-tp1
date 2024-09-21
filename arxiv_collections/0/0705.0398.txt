@@ -1,0 +1,11 @@
+Motivated by the polarization anomaly in the B->phi(1020)K*(892) decay, we
+extend our search for other K* final states in the decay B0->phi(1020)K^*0 with
+the K*0->K+pi- invariant mass above 1.6 GeV. The final states considered
+include the K*(1680)0, K3*(1780)0, K4*(2045)0, and a Kpi spin-zero nonresonant
+component. We also search for B0->phiDbar0 decay with the same final state. The
+analysis is based on a sample of about 384 million BBbar pairs recorded with
+the BABAR detector. We place upper limits on the branching fractions
+BR(B0->phiK*(1680)0)<3.5*10^-6, BR(B0->phiK3*(1780)0)<2.7*10^-6,
+BR(B0->phiK4*(2045)0)<15.3*10^-6, and BR(B0->phiDbar0)<11.7*10^-6 at 90% C.L.
+The nonresonant contribution is consistent with the measurements in the lower
+invariant mass range.

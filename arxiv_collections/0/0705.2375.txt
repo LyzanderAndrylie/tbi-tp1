@@ -1,0 +1,9 @@
+We demonstrate a spin diode consisting of a semiconductor free nano-scale
+Fe/MgO-based double tunnel junction. The device exhibits a near perfect
+spin-valve effect combined with a strong diode effect. The mechanism consistent
+with our data is resonant tunneling through discrete states in the middle
+ferromagnetic layer sandwiched by tunnel barriers of different spin-dependent
+transparency. The observed magneto-resistance is record high, ~4000%,
+essentially making the structure an on/off spin-switch. This, combined with the
+strong diode effect, ~100, offers a new device that should be promising for
+such technologies as magnetic random access memory and re-programmable logic.

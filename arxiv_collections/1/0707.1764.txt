@@ -1,0 +1,16 @@
+The Standard Approach (SA) for description of the structure function g_1
+combines the DGLAP evolution equations and Standard Fits for the initial parton
+densities. The DGLAP equations describe the region of large Q^2 and large x, so
+there are not theoretical grounds to exploit them at small x. In practice,
+extrapolation of DGLAP into the region of large Q^2 and small x is done with
+complementing DGLAP with special, singular (~x^{-a}) phenomenological fits for
+the initial parton densities. The factors x^{-a} are wrongly believed to be of
+the non-perturbative origin. Actually, they mimic the resummation of logs of x
+and should be expelled from the fits when the resummation is accounted for.
+Contrary to SA, the resummaton of logarithms of x is a straightforward and
+natural way to describe g_1 in the small-x region. This approach can be used at
+both large and small Q^2 where DGLAP cannot be used by definition. Confronting
+this approach and SA demonstrates that the singular initial parton densities
+and the power Q^2-corrections (or at least a sizable part of them) are rather
+not real physical phenomena but the artefacts caused by extrapolating DGLAP
+into the small-x region.

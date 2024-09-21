@@ -1,0 +1,11 @@
+We investigate one of the consequences of the twisted Poincare symmetry. We
+derive the charge conservation law and show that the equivalence principle is
+satisfied in the canonical noncommutative spacetime. We applied the twisted
+Poincare symmetry to the Weinberg's analysis. To this end, we generalize our
+earlier construction of the twisted S matrix \cite{Bu}, which apply the
+noncommutativity to the fourier modes, to the massless fields of integer spins.
+The transformation formula for the twisted S matrix for the massless fields of
+integer spin has been obtained. For massless fields of spin 1, we obtain the
+conservation of charge, and the universality of coupling constant for massless
+fields of spin 2, which can be interpreted as the equality of gravitational
+mass and inertial mass, i.e., the equivalence principle.

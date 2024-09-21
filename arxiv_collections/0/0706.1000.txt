@@ -1,0 +1,22 @@
+We present a general computational scheme based on molecular dynamics (m.d.)
+simulation for calculating the chemical potential of adsorbed molecules in
+thermal equilibrium on the surface of a material. The scheme is based on the
+calculation of the mean force in m.d. simulations in which the height of a
+chosen molecule above the surface is constrained, and subsequent integration of
+the mean force to obtain the potential of mean force and hence the chemical
+potential. The scheme is valid at any coverage and temperature, so that in
+principle it allows the calculation of the chemical potential as a function of
+coverage and temperature. It avoids all statistical mechanical approximations,
+except for the use of classical statistical mechanics for the nuclei, and
+assumes nothing in advance about the adsorption sites. From the chemical
+potential, the absolute desorption rate of the molecules can be computed,
+provided the equilibration rate on the surface is faster than the desorption
+rate. We apply the theory by {\em ab initio} m.d. simulation to the case of
+H$_2$O on MgO (001) in the low-coverage limit, using the Perdew-Burke-Ernzerhof
+(PBE) form of exchange-correlation. The calculations yield an {\em ab initio}
+value of the Polanyi-Wigner frequency prefactor, which is more than two orders
+of magnitude greater than the value of $10^{13}$ s$^{-1}$ often assumed in the
+past. Provisional comparison with experiment suggests that the PBE adsorption
+energy may be too low, but the extension of the calculations to higher
+coverages is needed before firm conclusions can be drawn. The possibility of
+including quantum nuclear effects by using path-integral simulations is noted.

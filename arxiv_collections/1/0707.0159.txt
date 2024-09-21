@@ -1,0 +1,9 @@
+We parallelize density-matrix renormalization group to directly extend it to
+2-dimensional ($n$-leg) quantum lattice models. The parallelization is made
+mainly on the exact diagonalization for the superblock Hamiltonian since the
+part requires an enormous memory space as the leg number $n$ increases. The
+superblock Hamiltonian is divided into three parts, and the correspondent
+superblock vector is transformed into a matrix, whose elements are uniformly
+distributed into processors. The parallel efficiency shows a high rate as the
+number of the states kept $m$ increases, and the eigenvalue converges within
+only a few sweeps in contrast to the multichain algorithm.

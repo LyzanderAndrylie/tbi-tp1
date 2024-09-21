@@ -1,0 +1,5 @@
+We consider quantum walks on the cycle in the non-stationary case where the
+`coin' operation is allowed to change at each time step. We characterize, in
+algebraic terms, the set of possible state transfers and prove that, as opposed
+to the stationary case, it is possible to asymnptotically reach a uniform
+distribution among the nodes of the associated graph.

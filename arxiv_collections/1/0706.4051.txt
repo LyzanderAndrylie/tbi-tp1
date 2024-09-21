@@ -1,0 +1,16 @@
+For a generic gauge-invariant correlator <{\cal Q}[A_{\mu}]>_{A}, we
+reformulate the standard D=4 Yang-Mills theory as a renormalizable system of
+two interacting fields a_{\mu} and B_{\mu} which faithfully represent high- and
+low-energy degrees of freedom of the single gauge field A_{\mu} in the original
+formulation. It opens a possibility to synthesize an infrared-nonsingular
+weak-coupling series, employed to integrate over a_{\mu} for a given background
+B_{\mu}, with qualitatively different methods. These methods are to be applied
+to evaluate the resulting (after the a_{\mu}-integration) representation of
+<{\cal Q}[A_{\mu}]>_{A} in terms of gauge-invariant generically non-local
+low-energy observables, like Wilson loops. The latter observables are averaged
+over B_{\mu} with respect to a gauge-invariant Wilsonean effective action
+S_{eff}[B]. To avoid a destructive dissipation between the high- and low-energy
+excitations, we implement a specific fine-tuning of the interaction between the
+pair of the fields: prior to the integration over B_{\mu}, the expectation
+value <a_{\mu}>_{a} vanishes, in the tree order of the loop-wise expansion, for
+an arbitrary configuration of B_{\mu}.

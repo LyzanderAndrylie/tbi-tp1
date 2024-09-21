@@ -1,0 +1,12 @@
+A Boolean function is symmetric if it is invariant under all permutations of
+its arguments; it is quasi-symmetric if it is symmetric with respect to the
+arguments on which it actually depends. We present a test that accepts every
+quasi-symmetric function and, except with an error probability at most delta>0,
+rejects every function that differs from every quasi-symmetric function on at
+least a fraction epsilon>0 of the inputs. For a function of n arguments, the
+test probes the function at O((n/epsilon)\log(n/delta)) inputs. Our
+quasi-symmetry test acquires information concerning the arguments on which the
+function actually depends. To do this, it employs a generalization of the
+property testing paradigm that we call attribute estimation. Like property
+testing, attribute estimation uses random sampling to obtain results that have
+only "one-sided'' errors and that are close to accurate with high probability.

@@ -1,0 +1,24 @@
+The positive and not completely positive maps of density matrices, which are
+contractive maps, are discussed as elements of a semigroup. A new kind of
+positive map (the purification map), which is nonlinear map, is introduced. The
+density matrices are considered as vectors, linear maps among matrices are
+represented by superoperators given in the form of higher dimensional matrices.
+Probability representation of spin states (spin tomography) is reviewed and
+U(N)-tomogram of spin states is presented. Properties of the tomograms as
+probability distribution functions are studied. Notion of tomographic purity of
+spin states is introduced. Entanglement and separability of density matrices
+are expressed in terms of properties of the tomographic joint probability
+distributions of random spin projections which depend also on unitary group
+parameters. A new positivity criterion for hermitian matrices is formulated. An
+entanglement criterion is given in terms of a function depending on unitary
+group parameters and semigroup of positive map parameters. The function is
+constructed as sum of moduli of U(N)-tomographic symbols of the hermitian
+matrix obtained after action on the density matrix of composite system by a
+positive but not completely positive map of the subsystem density matrix. Some
+two-qubit and two-qutritt states are considered as examples of entangled
+states. The connection with the star-product quantisation is discussed. The
+structure of the set of density matrices and their relation to unitary group
+and Lie algebra of the unitary group are studied. Nonlinear quantum evolution
+of state vector obtained by means of applying purification rule of density
+matrices evolving via dynamical maps is considered. Some connection of positive
+maps and entanglement with random matrices is discussed and used.

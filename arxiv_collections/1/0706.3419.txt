@@ -1,0 +1,19 @@
+IIn 2006 the PVLAS collaboration reported the observation of an optical
+rotation generated in vacuum by a magnetic field. To further check against
+possible instrumental artifacts several upgrades to the PVLAS apparatus have
+been made during the last year. Two data taking runs, at the wavelength of 1064
+nm, have been performed in the new configuration with magnetic field strengths
+of 2.3 T and 5 T. The 2.3 T field value was chosen in order to avoid stray
+fields. The new observations do not show the presence of a rotation signal down
+to the levels of $1.2\cdot 10^{-8}$ rad at 5 T and $1.0\cdot 10^{-8}$ rad at
+2.3 T (at 95% c.l.) with 45000 passes in the magnetic field zone. In the same
+conditions no ellipticity signal was detected down to $1.4\cdot 10^{-8}$ at 2.3
+T (at 95% c.l.), whereas at 5 T a signal is still present. The physical nature
+of this ellipticity as due to an effect depending on $B^2$ can be excluded by
+the measurement at 2.3 T. These new results completely exclude the previously
+published magnetically induced vacuum dichroism results, indicating that they
+were instrumental artifacts. These new results therefore also exclude the
+particle interpretation of the previous PVLAS results as due to a spin zero
+boson. The background ellipticity at 2.3 T can be used to determine a new limit
+on the total photon-photon scattering cross section of $\sigma_{\gamma\gamma} <
+4.5 \cdot10^{-34}$ barn at 95% c.l..

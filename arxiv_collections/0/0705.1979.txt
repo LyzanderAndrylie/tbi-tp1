@@ -1,0 +1,9 @@
+Selection of an ensemble of equally prepared quantum systems, based on
+measurements on it, is a basic step in quantum state purification. For an
+ensemble of single qubits, iterative application of selective dynamics has been
+shown to lead to complex chaos, which is a novel form of quantum chaos with
+true sensitivity to the initial conditions. The Julia set of initial valuse
+with no convergence shows a complicated structre on the complex plane. The
+shape of the Julia set varies with the parameter of the dynamics. We present
+here results for the two qubit case demonstrating how a purification process
+can be destroyed with chaotic oscillations.

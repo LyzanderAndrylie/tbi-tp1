@@ -1,0 +1,21 @@
+Belle Collaboration has recently observed a new state, the X(4160), in the
+process of double charm production $e^+e^-\to J/\psi+X(4160)$ followed by
+$X(4160)\to D^*\bar{D^*}$. We discuss possible interpretations for the X(4160)
+based on the NRQCD calculations and the potential model estimates for the
+charmonium spectrum. We first focus on the D-wave spin-singlet $2^{-+}$
+charmonium $^1D_2(2D)$, which is estimated to have a small production rate of
+about 5% of that for $e^+e^-\to J/\psi+\eta_c(1S)$, and therefore is
+incompatible with the observed data for X(4160). We then discuss the
+possibility that the X(4160) is the known $J^{PC}=1^{--}$ charmonium state
+$\psi(4160)$, which can be produced via two photon fragmentation, but the
+production rate is much smaller than observed for $e^+e^-\to J/\psi+X(4160)$.
+In contrast to above two possibilities, the $\eta_c(4S)$ assignment is a likely
+one, which is supported by the observed relatively large production rate and
+non-observation of $D\bar D$ decay of X(4160), but we have to understand why
+$\eta_c(4S)$ has such a low mass, which deserves further studies. The P-wave
+excited state $\chi_{c0}(3P)$ is also an interesting candidate, if the observed
+broad peak around 3.8-3.9 GeV in the recoil mass of $D\bar D$ against $J/\psi$
+in $e^++e^-\to J/\psi+D\bar D$ is due to the $\chi_{c0}(2P)$ state.
+Measurements of production angular distributions will be helpful to distinguish
+between $\eta_c(4S)$ and $\chi_{c0}(3P)$ assignments. Production mechanisms in
+nonrelativistic QCD are emphasized.

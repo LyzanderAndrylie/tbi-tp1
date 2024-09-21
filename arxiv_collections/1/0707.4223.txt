@@ -1,0 +1,9 @@
+The property of quantum many-body systems under spatial reflection and the
+relevant physics of renormalization group (RG) procedure are revealed. By
+virtue of the matrix product state (MPS) representation, various attributes for
+translational invariant systems associated with spatial reflection are
+manifested. We demonstrate subsequently a conservation rule of the conjugative
+relation for reflectional MPS pairs under RG transformations and illustrate
+further the property of the fixed points of RG flows. Finally, we show that a
+similar rule exists with respect to the target states in the density matrix
+renormalization group algorithm.

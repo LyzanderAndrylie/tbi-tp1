@@ -1,0 +1,24 @@
+We explore the thermodynamic and global structural properties of a local
+patch of an accretion disk whose parameters were chosen so that radiation
+pressure and gas pressure would be comparable in magnitude. Heating, radiative
+transport, and cooling are computed self-consistently with the structure by
+solving the equations of radiation MHD in the shearing-box approximation. Using
+a fully 3-d and energy-conserving code, we compute the structure and energy
+balance of this disk segment over a span of more than forty cooling times. As
+is also true when gas pressure dominates, the disk's upper atmosphere is
+magnetically-supported. However, unlike the gas-dominated case, no steady-state
+is reached; instead, the total (i.e., radiation plus gas) energy content
+fluctuates by factors of 3--4 over timescales of several tens of orbits, with
+no secular trend. Because the radiation pressure varies much more than the gas
+pressure, the ratio of radiation pressure to gas pressure varies over the
+approximate range 0.5--2. The volume-integrated dissipation rate generally
+increases with increasing total energy, but the mean trend is somewhat slower
+than linear, and the instantaneous dissipation rate is often a factor of two
+larger or smaller than the mean for that total energy level. Locally, the
+dissipation rate per unit volume scales approximately in proportion to the
+current density; the time-average dissipation rate per unit mass is
+proportional to m^{-1/2}, where m is the horizontally-averaged mass column
+density to the nearer of the top or bottom surface. As in our earlier study of
+a gas-dominated shearing-box, we find that energy transport is completely
+dominated by radiative diffusion, with Poynting flux carrying less than 1% of
+the energy lost from the box.

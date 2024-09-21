@@ -1,0 +1,8 @@
+The quantum lifetime of two-dimensional holes in a GaAs/AlGaAs double quantum
+well is determined via tunneling spectroscopy. At low temperatures the lifetime
+is limited by impurity scattering but at higher temperatures hole-hole Coulomb
+scattering dominates. Our results are consistent with Fermi liquid theory, at
+least up to r_s = 11. At the highest temperatures the measured width of the
+hole spectral function becomes comparable to the Fermi energy. A new,
+tunneling-spectroscopic, method for determining the in-plane effective mass of
+the holes is also demonstrated.

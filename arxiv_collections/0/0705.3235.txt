@@ -1,0 +1,22 @@
+Most cool core clusters of galaxies possess active galactic nuclei (AGN) in
+their centers. These AGN inflate buoyant bubbles containing non-thermal radio
+emitting particles. If such bubbles efficiently confine cosmic rays (CR) then
+this could explain ``radio ghosts'' seen far from cluster centers. We simulate
+the diffusion of cosmic rays from buoyant bubbles inflated by AGN. Our
+simulations include the effects of the anisotropic particle diffusion
+introduced by magnetic fields. Our models are consistent with the X-ray
+morphology of AGN bubbles, with disruption being suppressed by the magnetic
+draping effect. We conclude that for such magnetic field topologies, a
+substantial fraction of cosmic rays can be confined inside the bubbles on
+buoyant rise timescales even when the parallel diffusivity coefficient is very
+large. For isotropic diffusion at a comparable level, cosmic rays would leak
+out of the bubbles too rapidly to be consistent with radio observations. Thus,
+the long confinement times associated with the magnetic suppression of CR
+diffusion can explain the presence of radio ghosts. We show that the partial
+escape of cosmic rays is mostly confined to the wake of the rising bubbles, and
+speculate that this effect could: (1) account for the excitation of the
+H$\alpha$ filaments trailing behind the bubbles in the Perseus cluster, (2)
+inject entropy into the metal enriched material being lifted by the bubbles
+and, thus, help to displace it permanently from the cluster center and (3)
+produce observable $\gamma$-rays via the interaction of the diffusing cosmic
+rays with the thermal intracluster medium (ICM).

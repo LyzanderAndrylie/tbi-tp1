@@ -1,0 +1,7 @@
+We study electronic transport in graphene nanoribbons with rough edges. We
+first consider a model of weak disorder that corresponds to an armchair ribbon
+whose width randomly changes by a single unit cell size. We find that in this
+case, the low-temperature conductivity is governed by an effective
+one-dimensional hopping between segments of distinct band structure. We then
+provide numerical evidence and qualitative arguments that similar behavior also
+occurs in the limit of strong uncorrelated boundary disorder.

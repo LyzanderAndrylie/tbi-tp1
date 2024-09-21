@@ -1,0 +1,7 @@
+We consider the possibility of performing linear optical quantum computation
+making use of extra photonic degrees of freedom. In particular we focus on the
+case where we use photons as quadbits. The basic 2-quadbit cluster state is a
+hyper-entangled state across polarization and two spatial mode degrees of
+freedom. We examine the non-deterministic methods whereby such states can be
+created from single photons and/or Bell pairs, and then give some mechanisms
+for performing higher-dimensional fusion gates.

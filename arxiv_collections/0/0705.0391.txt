@@ -1,0 +1,4 @@
+This paper presents a method for using a PC soundcard, microphone and a
+chronograph to determine bullet BC with an accuracy of 6%. This is useful when
+a second chronograph is unavailable or when the projectile accuracy is
+insufficient to use a far chronograph.

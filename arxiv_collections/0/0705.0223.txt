@@ -1,0 +1,22 @@
+Disordered systems present multifractal properties at criticality. In
+particular, as discovered by Ludwig (A.W.W. Ludwig, Nucl. Phys. B 330, 639
+(1990)) on the case of diluted two-dimensional Potts model, the moments
+$\bar{\rho^q(r)}$ of the local order parameter $\rho(r)$ scale with a set
+$x(q)$ of non-trivial exponents $x(q) \neq q x(1)$. In this paper, we revisit
+these ideas to incorporate more recent findings: (i) whenever a multifractal
+measure $w(r)$ normalized over space $ \sum_r w(r)=1$ occurs in a random
+system, it is crucial to distinguish between the typical values and the
+disorder averaged values of the generalized moments $Y_q =\sum_r w^q(r)$, since
+they may scale with different generalized dimensions $D(q)$ and $\tilde D(q)$
+(ii) as discovered by Wiseman and Domany (S. Wiseman and E. Domany, Phys Rev E
+{\bf 52}, 3469 (1995)), the presence of an infinite correlation length induces
+a lack of self-averaging at critical points for thermodynamic observables, in
+particular for the order parameter. After this general discussion valid for any
+random critical point, we apply these ideas to random polymer models that can
+be studied numerically for large sizes and good statistics over the samples. We
+study the bidimensional wetting or the Poland-Scheraga DNA model with loop
+exponent $c=1.5$ (marginal disorder) and $c=1.75$ (relevant disorder). Finally,
+we argue that the presence of finite Griffiths ordered clusters at criticality
+determines the asymptotic value $x(q \to \infty) =d$ and the minimal value $
+\alpha_{min}=D(q \to \infty)=d-x(1) $ of the typical multifractal spectrum
+$f(\alpha)$.

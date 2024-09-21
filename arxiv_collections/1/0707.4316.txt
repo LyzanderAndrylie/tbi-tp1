@@ -1,0 +1,6 @@
+M. Bestvina has shown that for any given torsion-free CAT(0) group G, all of
+its boundaries are shape equivalent. He then posed the question of whether they
+satisfy the stronger condition of being cell-like equivalent. In this article
+we prove that the answer is "Yes" in the situation where the group in question
+splits as a direct product with infinite factors. We accomplish this by proving
+an interesting theorem in shape theory.

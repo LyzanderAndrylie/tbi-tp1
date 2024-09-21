@@ -1,0 +1,6 @@
+We derive a new expression for the q-analogue of the Young symmetrizer which
+generate irreducible representations of the Hecke algebra. We obtain this new
+expression using Cherednik's fusion procedure. However, instead of splitting
+Young diagrams into their rows or columns, we consider their principal hooks.
+This minimises the number of auxiliary parameters needed in the fusion
+procedure.

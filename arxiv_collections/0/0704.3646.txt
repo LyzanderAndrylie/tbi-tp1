@@ -1,0 +1,12 @@
+We consider games that have (k,t)-robust equilibria when played with a
+mediator, where an equilibrium is (k,t)-robust if it tolerates deviations by
+coalitions of size up to k and deviations by up to $t$ players with unknown
+utilities. We prove lower bounds that match upper bounds on the ability to
+implement such mediators using cheap talk (that is, just allowing communication
+among the players). The bounds depend on (a) the relationship between k, t, and
+n, the total number of players in the system; (b) whether players know the
+exact utilities of other players; (c) whether there are broadcast channels or
+just point-to-point channels; (d) whether cryptography is available; and (e)
+whether the game has a $k+t)-punishment strategy; that is, a strategy that, if
+used by all but at most $k+t$ players, guarantees that every player gets a
+worse outcome than they do with the equilibrium strategy.

@@ -1,0 +1,22 @@
+We obtained H-band polarimetric data of IRAS 19312+1950 using the
+near-infrared camera (CIAO) on the 8 m Subaru telescope. In order to
+investigate the physical properties of the central star and the nebula, we
+performed dust radiative transfer modeling and compared the model results with
+the observed spectral energy distributions (SEDs), the radial profiles of the
+total intensity image, and the fraction of linear polarization map. The total
+intensity image shows a nearly spherical core with ~3" radius, an S-shaped arm
+extending ~10" in the northwest to southeast direction, and an extended lobe
+towards the southwest. The polarization map shows a centro-symmetric vector
+alignment in almost the entire nebula and low polarizations along the S-shaped
+arm. These results suggest that the nebula is accompanied by a central star,
+and the S-shaped arm has a physically ring-like structure. From our radiative
+transfer modeling, we estimated the stellar temperature, the bolometric
+luminosity, and the current mass-loss rate to be 2800 K, 7000 L_sun, and
+5.3x10^{-6} M_sun yr^{-1}, respectively. Taking into account previous
+observational results, such as the detection of SiO maser emissions and
+silicate absorption feature in the 10 $\mu$m spectrum, our dust radiative
+transfer analysis based on our NIR imaging polarimetry suggests that (1) the
+central star of IRAS 19312+1950 is likely to be an oxygen-rich, dust-enshrouded
+AGB star and (2) most of the circumstellar material originates from other
+sources (e.g. ambient dark clouds) rather than as a result of mass loss from
+the central star.

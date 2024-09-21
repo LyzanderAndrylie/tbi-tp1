@@ -1,0 +1,6 @@
+Let F be a field and A a free associative F-algebra or a group algebra of a
+free group with an infinite set X of generators. We find a necessary and
+sufficient condition for the inclusion I' into I, where I=I_1...I_k and
+I'=I'_1...I'_l are any products of T-ideals in A. A canonical reformulation in
+terms of products of group representation varieties answers a question posed in
+1986

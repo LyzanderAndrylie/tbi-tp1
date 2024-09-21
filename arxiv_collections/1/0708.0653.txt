@@ -1,0 +1,11 @@
+We report the first experimental violation of Bell's inequality in the
+spatial domain using the Einstein--Podolsky--Rosen state. Two-photon states
+generated via optical spontaneous parametric downconversion are shown to be
+entangled in the parity of their one-dimensional transverse spatial profile.
+Superpositions of Bell states are prepared by manipulation of the optical
+pump's transverse spatial parity--a classical parameter. The Bell-operator
+measurements are made possible by devising simple optical arrangements that
+perform rotations in the one-dimensional spatial-parity space of each photon of
+an entangled pair and projective measurements onto a basis of even--odd
+functions. A Bell-operator value of 2.389 +- 0.016 is recorded, a violation of
+the inequality by more than 24 standard deviations.

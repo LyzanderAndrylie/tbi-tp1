@@ -1,0 +1,6 @@
+We show theoretically that a broad area bidirectional laser with slightly
+different cavity losses for the two counterpropagating fields sustains cavity
+solitons (CSs). These structures are complementary, i.e., there is a bright
+(dark) CS in the field with more (less) losses. Interestingly, the CSs can be
+written/erased by injecting suitable pulses in any of the two
+counterpropagating fields.

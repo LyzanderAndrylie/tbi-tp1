@@ -1,0 +1,10 @@
+We introduce an approach to determining the required waveforms to coherently
+control the optical energy localization in plasmonic nanosystems. This approach
+is based on the impulsive localized excitation of the nanosystem and time
+reversal of the generated far-zone field at a single point with one
+polarization. Despite strong interaction and significant dephasing and
+dissipation in metal plasmonic systems, and incompleteness of this time
+reversal, the proposed approach proves to be very efficient in controlling the
+nanoscale optical fields. Possible applications include nanoscale spectroscopy
+and photomodification, ultradense memory, and information processing on the
+nanoscale.

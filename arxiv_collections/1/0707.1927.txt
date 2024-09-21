@@ -1,0 +1,8 @@
+A quantum coherent capacitor subject to large amplitude pulse cycles can be
+made to emit or reabsorb an electron in each half cycle. Quantized currents
+with pulse cycles in the GHz range have been demonstrated experimentally. We
+develop a non-linear dynamical scattering theory for arbitrary pulses to
+describe the properties of this very fast single electron source. Using our
+theory we analyze the accuracy of the current quantization and investigate the
+noise of such a source. Our results are important for future scientific and
+possible metrological applications of this source.

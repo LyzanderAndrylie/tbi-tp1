@@ -1,0 +1,13 @@
+We consider the nonminimally coupled lambda phi^4 scalar field theory in de
+Sitter space and construct the renormalization group improved renormalized
+effective theory at the one-loop level. Based on the corresponding quantum
+Friedmann equation and the scalar field equation of motion, we calculate the
+quantum radiative corrections to the scalar spectral index n_s, gravitational
+wave spectral index n_g and the ratio r of tensor to scalar perturbations. When
+compared with the standard (tree-level) values, we find that the quantum
+contributions are suppressed by lambda N^2 where N denotes the number of
+e-foldings. Hence there is an N^2 enhancement with respect to the naive
+expectation, which is due to the infrared enhancement of scalar vacuum
+fluctuations characterising de Sitter space. Since observations constrain
+lambda to be very small lambda ~ 10^(-12) and N ~ 50-60, the quantum
+corrections in this inflationary model are unobservably small.

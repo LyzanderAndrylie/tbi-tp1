@@ -1,0 +1,4 @@
+Using our solution for the open spin-1/2 XXZ quantum spin chain with N spins
+and two arbitrary boundary parameters at roots of unity, the central charge and
+the conformal dimensions for bulk hole excitations are derived from the 1/N
+correction to the energy (Casimir energy).

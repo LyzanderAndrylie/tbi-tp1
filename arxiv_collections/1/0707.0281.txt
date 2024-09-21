@@ -1,0 +1,10 @@
+For a group $G$, N-series $\cal G$ of $G$ and commutative ring $R$ let
+$I^n_{R,\cal G}(G)$, $n\ge 0$, denote the filtration of the group algebra
+$R(G)$ induced by $\cal G$, and $I_R(G)$ its augmentation ideal. For subgroups
+$H$ of $G$, left ideals $J$ of $R(H)$ and right $H$-submodules $M$ of $I_Z(G)$
+the quotients $I_R(G)J/MJ$ are studied by homological methods, notably for $M=
+I_Z(G)I_Z(H)$, $I_Z(H)I_Z(G) + I_Z([H,G])Z(G)$ and $Z(G)I_Z(N) +I^n_{Z,\cal
+G}(G)$ with $N \lhd G$ where the group $I_R(G)J/MJ$ is completely determined
+for $n=2$. The groups $I^{n-1}_{Z,\cal G}(G)I_Z(H)/I^n_{Z,\cal G}(G)I_Z(H)$ are
+studied and explicitly computed for $n\le 3$ in terms of enveloping rings of
+certain graded Lie rings and of torsion products of abelian groups.

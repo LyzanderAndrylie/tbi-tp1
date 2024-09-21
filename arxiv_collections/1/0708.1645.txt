@@ -1,0 +1,16 @@
+The kinetics of droplet and bridge formation within striped nano-capillaries
+is studied when the wetting film grows via interface-limited growth. The
+phenomenological time-dependent Ginzburg-Landau (TDGL)-type model with thermal
+noise is used and numerically solved using the cell dynamics method. The model
+is two-dimensional and consists of undersaturated vapor confined within a
+nano-capillary made of two infinitely wide flat substrates. The surface of the
+substrate is chemically heterogeneous with a single stripe of lyophilic domain
+that exerts long-range attractive potential to the vapor molecule. The dynamics
+of nucleation and subsequent growth of droplet and bridge can be simulated and
+visualized. In particular, the evolution of the morphology from droplet or bump
+to bridge is clearly identified. Crucial role played by the substrate potential
+on the morphology of bridge of nanoscopic size is clarified. Nearly
+temperature-independent evolution of capillary condensation is predicted when
+the interface-limited growth dominates. In addition, it is shown that the
+dynamics of capillary condensation follows the scenario of capillary
+condensation proposed by Everett and Haynes three decades ago.

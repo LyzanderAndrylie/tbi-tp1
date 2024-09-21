@@ -1,0 +1,16 @@
+We establish the first hardness results for the problem of computing the
+value of one-round games played by a verifier and a team of provers who can
+share quantum entanglement. In particular, we show that it is NP-hard to
+approximate within an inverse polynomial the value of a one-round game with (i)
+quantum verifier and two entangled provers or (ii) classical verifier and three
+entangled provers. Previously it was not even known if computing the value
+exactly is NP-hard. We also describe a mathematical conjecture, which, if true,
+would imply hardness of approximation to within a constant.
+  We start our proof by describing two ways to modify classical multi-prover
+games to make them resistant to entangled provers. We then show that a strategy
+for the modified game that uses entanglement can be ``rounded'' to one that
+does not. The results then follow from classical inapproximability bounds. Our
+work implies that, unless P=NP, the values of entangled-prover games cannot be
+computed by semidefinite programs that are polynomial in the size of the
+verifier's system, a method that has been successful for more restricted
+quantum games.

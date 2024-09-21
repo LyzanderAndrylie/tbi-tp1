@@ -1,0 +1,5 @@
+In this paper we study the dynamics of 1- and 2- dimensional cellular
+automata, using a 2-adic representation of the states, we give a simple
+graphical technique for finding periodic solutions. We also study the
+continuity properties of the associated 2-adic system and show how to compute
+the entropy.

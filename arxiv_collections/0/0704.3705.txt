@@ -1,0 +1,10 @@
+We introduce a model-checking tool intended specially for the analysis of
+quantum information protocols. The tool incorporates an efficient
+representation of a certain class of quantum circuits, namely those expressible
+in the so-called stabiliser formalism. Models of protocols are described using
+a simple, imperative style simulation language which includes commands for the
+unitary operators in the Clifford group as well as classical integer and
+boolean variables. Formulas for verification are expressed using a subset of
+quantum computational tree logic (QCTL). The model-checking procedure treats
+quantum measurements as the source of non-determinism, leading to multiple
+protocol runs, one for each outcome. Verification is performed for each run.

@@ -1,0 +1,10 @@
+The purpose of this paper is to present simple and general algebraic methods
+for describing series connections in quantum networks. These methods build on
+and generalize existing methods for series (or cascade) connections by allowing
+for more general interfaces, and by introducing an efficient algebraic tool,
+the series product. We also introduce another product, which we call the
+concatenation product, that is useful for assembling and representing systems
+without necessarily having connections. We show how the concatenation and
+series products can be used to describe feedforward and feedback networks. A
+selection of examples from the quantum control literature are analyzed to
+illustrate the utility of our network modeling methodology.

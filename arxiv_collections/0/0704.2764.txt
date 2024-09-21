@@ -1,0 +1,10 @@
+A sixth-order quadrupole boson Hamiltonian is used to describe 26 states
+$0^+$ and 67 states $2^+$ which have been recently identified in $^{168}Er$.
+Two closed expressions are alternatively used for energy levels. One
+corresponds to a semi-classical approach while the other one represents the
+exact eigenvalue of the model Hamiltonian. The semi-classical expression
+involves four parameters, while the exact eigenvalue is determined by five
+parameters. In each of the two descriptions a least square fit procedure is
+adopted.
+  Both expressions provide a surprisingly good agreement with the experimental
+data.

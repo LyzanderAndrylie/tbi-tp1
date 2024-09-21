@@ -1,0 +1,11 @@
+The a0(980)-f0(980) mixing intensity has been predicted to be in the range of
+0.01 to 0.1 by various theoretical models, but lacking firm experimental
+observation. We examine the possibility of extracting the a0(980)-f0(980)
+mixing from J/psi -> phi f0 -> phi a0 reaction at upgraded Beijing Electron
+Positron Collider with BESIII detector. While the branching ratio of this
+process through the a0(980)-f0(980) mixing is expected to be about $O(10^{-6})$
+similar to the estimated total amount from two background reactions J/psi ->
+gamma* -> phi a0 and J/psi -> K* K + c.c. -> phi a0, the peak width from the
+a0(980)-f0(980) mixing is about 8 MeV, much smaller than that from other
+mechanisms. With $10^9$ $J/\psi$ events at BESIII, the a0(980)-f0(980) mixing
+intensity is expected to be unambiguously and precisely measured.

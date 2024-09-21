@@ -1,0 +1,13 @@
+In this paper we consider module-composed graphs, i.e. graphs which can be
+defined by a sequence of one-vertex insertions v_1,...,v_n, such that the
+neighbourhood of vertex v_i, 2<= i<= n, forms a module (a homogeneous set) of
+the graph defined by vertices v_1,..., v_{i-1}.
+  We show that module-composed graphs are HHDS-free and thus homogeneously
+orderable, weakly chordal, and perfect. Every bipartite distance hereditary
+graph, every (co-2C_4,P_4)-free graph and thus every trivially perfect graph is
+module-composed. We give an O(|V_G|(|V_G|+|E_G|)) time algorithm to decide
+whether a given graph G is module-composed and construct a corresponding
+module-sequence.
+  For the case of bipartite graphs, module-composed graphs are exactly distance
+hereditary graphs, which implies simple linear time algorithms for their
+recognition and construction of a corresponding module-sequence.

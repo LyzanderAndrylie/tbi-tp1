@@ -1,0 +1,7 @@
+We introduce the tau-function of a rational d-connection and its isomonodromy
+transformations. We show that in a continuous limit our tau-function agrees
+with the Jimbo-Miwa-Ueno tau-function, compute the tau-function for the
+isomonodromy transformations leading to difference Painleve V and difference
+Painleve VI equations, and prove that the gap probability for a wide class of
+discrete random matrix type models can be viewed as the tau-function for an
+associated d-connection.

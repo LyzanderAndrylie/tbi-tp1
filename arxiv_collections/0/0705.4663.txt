@@ -1,0 +1,9 @@
+Screening of charge impurities in graphene is analyzed using the exact
+solution for vacuum polarization obtained from the massless Dirac-Kepler
+problem. For the impurity charge below certain critical value no density
+perturbation is found away from the impurity, in agreement with the linear
+response theory result. For supercritical charge, however, the polarization
+distribution is shown to have a power law profile, leading to screening of the
+excess charge at large distances. The Dirac-Kepler scattering states give rise
+to standing wave oscillations in the local density of states which appear and
+become prominent in the supercritical regime.

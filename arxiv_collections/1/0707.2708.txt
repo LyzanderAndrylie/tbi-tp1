@@ -1,0 +1,9 @@
+The self-adjointness of the reduced Hamiltonian operators arising from the
+Laplace-Beltrami operator of a complete Riemannian manifold through quantum
+Hamiltonian reduction based on a compact isometry group is studied. A simple
+sufficient condition is provided that guarantees the inheritance of essential
+self-adjointness onto a certain class of restricted operators and allows us to
+conclude the self-adjointness of the reduced Laplace-Beltrami operators in a
+concise way. As a consequence, the self-adjointness of spin Calogero-Sutherland
+type reductions of `free' Hamiltonians under polar actions of compact Lie
+groups follows immediately.

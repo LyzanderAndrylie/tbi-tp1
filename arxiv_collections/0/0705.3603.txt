@@ -1,0 +1,7 @@
+The Vlasov equation for the collisionless evolution of the single-particle
+probability distribution function (PDF) is a well-known Lie-Poisson Hamiltonian
+system. Remarkably, the operation of taking the moments of the Vlasov PDF
+preserves the Lie-Poisson structure. The individual particle motions correspond
+to singular solutions of the Vlasov equation. The paper focuses on singular
+solutions of the problem of geodesic motion of the Vlasov moments. These
+singular solutions recover geodesic motion of the individual particles.

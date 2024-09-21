@@ -1,0 +1,10 @@
+Asymptotic levels of the A $^1\Sigma_u^+$ state of the two isotopomers
+$^{39}{\rm K}_2$ and $^{39}{\rm K}^{41}{\rm K}$ up to the dissociation limit
+are investigated with a Doppler-free high resolution laser-spectroscopic
+experiment in a molecular beam. The observed level structure can be reproduced
+correctly only if a mass dependent correction term is introduced for the
+interaction potential. The applied relative correction in the depth of the
+potential is $10^{-6}$, which is in the order of magnitude expected for
+corrections of the Born-Oppenheimer approximation. A similar change in ground
+state potentials might lead to significant changes of mass-scaled properties
+describing cold collisions like the s-wave scattering length.

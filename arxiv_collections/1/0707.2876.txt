@@ -1,0 +1,12 @@
+We present a design improvement for a recently proposed type of
+Shack-Hartmann wavefront sensor that uses a cylindrical (lenticular) lenslet
+array. The improved sensor design uses optical binning and requires
+significantly fewer detector pixels than the corresponding conventional or
+cylindrical Shack-Hartmann sensor, and so detector readout noise causes less
+signal degradation. Additionally, detector readout time is significantly
+reduced, which reduces the latency for closed loop systems, and data processing
+requirements. We provide simple analytical noise considerations and Monte-Carlo
+simulations, and show that the optically binned Shack-Hartmann sensor can offer
+better performance than the conventional counterpart in most practical
+situations, and our design is particularly suited for use with astronomical
+adaptive optics systems.

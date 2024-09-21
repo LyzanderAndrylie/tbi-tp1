@@ -1,0 +1,8 @@
+We find exact solutions to the Dirac equation in D-dimensional de Sitter
+spacetime. Using these solutions we analytically calculate the de Sitter
+quasinormal (QN) frequencies of the Dirac field. For the massive Dirac field
+this computation is similar to that previously published for massive fields of
+half-integer spin moving in four dimensions. However to calculate the QN
+frequencies of the massless Dirac field we must use distinct methods in odd and
+even dimensions, therefore the computation is different from that already known
+for other massless fields of integer spin.

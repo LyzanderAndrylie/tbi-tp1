@@ -1,0 +1,15 @@
+Neural network has been attracting more and more researchers since the past
+decades. The properties, such as parameter sensitivity, random similarity,
+learning ability, etc., make it suitable for information protection, such as
+data encryption, data authentication, intrusion detection, etc. In this paper,
+by investigating neural networks' properties, the low-cost authentication
+method based on neural networks is proposed and used to authenticate images or
+videos. The authentication method can detect whether the images or videos are
+modified maliciously. Firstly, this chapter introduces neural networks'
+properties, such as parameter sensitivity, random similarity, diffusion
+property, confusion property, one-way property, etc. Secondly, the chapter
+gives an introduction to neural network based protection methods. Thirdly, an
+image or video authentication scheme based on neural networks is presented, and
+its performances, including security, robustness and efficiency, are analyzed.
+Finally, conclusions are drawn, and some open issues in this field are
+presented.

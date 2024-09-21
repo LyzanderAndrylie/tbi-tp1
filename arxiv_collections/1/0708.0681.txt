@@ -1,0 +1,21 @@
+Feynman one of the founders of Quantum Electronic Dynamics (QED) introduced
+in his diagrams virtual particles as intermediate states of an interaction
+process. Such virtual particles are not observable, however, from the
+theoretical point of view they represent necessary intermediate states between
+observable real states. Such virtual particles were introduced for describing
+the interaction process between an electron and a positron and for much more
+complicated interaction processes. Other candidates for virtual photons are
+evanescent modes known from optics. Evanescent modes have a purely imaginary
+wave number, they represent the mathematical analogy of the tunneling solutions
+of the Schr\"odinger equation. Evanescent modes are present in the optical
+processes of total reflection and in undersized wave guides for instance. The
+most prominent example of the occurrence of evanescent modes is frustrated
+total internal reflection at double prisms. In 1949 Sommerfeld
+\cite{Sommerfeld} pointed out that this optical phenomenon represents the
+analogy of quantum mechanical tunneling. The evanescent modes and tunneling
+violate the theory of special relativity, obviously, they represent the
+exception which proves the special theory of relativity. We demonstrate the
+quantum mechanical behavior of evanescent modes \textbf{with digital microwave}
+signals at a macroscopic scale of the order of a meter and show that evanescent
+modes are well described by virtual photons as predicted by former QED
+calculations.

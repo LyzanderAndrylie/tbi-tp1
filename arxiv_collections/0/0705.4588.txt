@@ -1,0 +1,15 @@
+We propose the variable selection procedure incorporating prior constraint
+information into lasso. The proposed procedure combines the sample and prior
+information, and selects significant variables for responses in a narrower
+region where the true parameters lie. It increases the efficiency to choose the
+true model correctly. The proposed procedure can be executed by many
+constrained quadratic programming methods and the initial estimator can be
+found by least square or Monte Carlo method. The proposed procedure also enjoys
+good theoretical properties. Moreover, the proposed procedure is not only used
+for linear models but also can be used for generalized linear models({\sl
+GLM}), Cox models, quantile regression models and many others with the help of
+Wang and Leng (2007)'s LSA, which changes these models as the approximation of
+linear models. The idea of combining sample and prior constraint information
+can be also used for other modified lasso procedures. Some examples are used
+for illustration of the idea of incorporating prior constraint information in
+variable selection procedures.

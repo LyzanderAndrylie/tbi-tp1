@@ -1,0 +1,4 @@
+We prove a dynamical version of the Mordell-Lang conjecture for subvarieties
+of the affine space A^g over a p-adic field, endowed with polynomial actions on
+each coordinate of A^g. We use analytic methods similar to the ones employed by
+Skolem, Chabauty, and Coleman for studying diophantine equations.

@@ -1,0 +1,12 @@
+Recent neutron scattering experiments have revealed that the generic form of
+the magnetic excitations in the high-Tc cuprates of wide range of doping has
+the so-called "hourglass" shape; it features both upward and downward
+excitations at the incommensurate (IC) momenta spanning from the resonance peak
+at the commensurate momentum $(\pi,\pi)$. We propose the two-component
+spin-fermion model as a minimal phenomenological model which has both local
+spins and itinerant fermions as independent degrees of freedom. Our
+calculations of the dynamic spin correlation function provide good agreement
+with experiments and show: (1) the upward dispersion branch of magnetic
+excitations is mostly due to the local spin excitations; (2) the downward
+dispersion branch is from collective spin excitations of fermions; (3) the
+resonance mode is a mixture of both degrees of freedom.

@@ -1,0 +1,13 @@
+We investigate the process \rreeG at the future International Linear
+Collider(ILC), where G_n is the Kaluza-Klein graviton in the Large Extra
+Dimension Model. When the fundamental energy scale is of a few ${\rm TeV}$, the
+cross section of this process can reach several hundred fb at a photon-photon
+collider with $\sqrt{s}=500 \sim 1000 GeV$, and the cross section in J=2
+polarized photon collision mode is much larger than that in J=0 polarized
+photon collision mode. We present strategies to distinguish the graviton signal
+from numerous SM backgrounds, and find that the graviton signal with extra
+dimensions $\delta=3$ can be detected when ${\rm M_S} \le 2.67(1.40) {\rm TeV}$
+and $\gamma \gamma$ c.m.s. energy $\sqrt{s}=1000(500) {\rm GeV}$ in unpolarized
+photon collision mode, while the detecting upper limit can be increased to
+2.79(1.44) ${\rm TeV}$ in $+ -$ ($\lambda_1=1$, $\lambda_2=-1$) polarized
+photon collision mode(with photon polarization efficiency $P_{\gamma}=0.9$).

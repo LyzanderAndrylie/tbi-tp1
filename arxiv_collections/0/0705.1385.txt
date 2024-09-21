@@ -1,0 +1,11 @@
+We derive a new class of correlation Bell-type inequalities. The inequalities
+are valid for any number of outcomes of two observables per each of n parties,
+including continuous and unbounded observables. We show that there are no
+first-moment correlation Bell inequalities for that scenario, but such
+inequalities can be found if one considers at least second moments. The
+derivation stems from a simple variance inequality by setting local commutators
+to zero. We show that above a constant detector efficiency threshold, the
+continuous variable Bell violation can survive even in the macroscopic limit of
+large n. This method can be used to derive other well-known Bell inequalities,
+shedding new light on the importance of non-commutativity for violations of
+local realism.

@@ -1,0 +1,12 @@
+In an earlier paper of mine relating vector bundles and Gromov-Hausdorff
+distance for ordinary compact metric spaces, it was crucial that the Lipschitz
+seminorms from the metrics satisfy a strong Leibniz property. In the present
+paper, for the now non-commutative situation of matrix algebras converging to
+the sphere (or to other spaces) for quantum Gromov-Hausdorff distance, we show
+how to construct suitable seminorms that also satisfy the strong Leibniz
+property. This is in preparation for making precise certain statements in the
+literature of high-energy physics concerning "vector bundles" over matrix
+algebras that "correspond" to monopole bundles over the sphere. We show that a
+fairly general source of seminorms that satisfy the strong Leibniz property
+consists of derivations into normed bimodules. For matrix algebras our main
+technical tools are coherent states and Berezin symbols.

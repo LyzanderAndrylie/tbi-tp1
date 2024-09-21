@@ -1,0 +1,4 @@
+In this work we consider a functional method in the theory of exactly
+solvable models based on the Yang-Baxter algebra. Using this method we derive
+the eigenvalues of the XXZ model with non-diagonal twisted and open boundary
+conditions for general values of the anisotropy and boundary parameters.

@@ -1,0 +1,12 @@
+Based on a microscopic many-particle theory we investigate the influence of
+excitonic correlations on the vectorial polarization state characteristics of
+the parametric amplification of polaritons in semiconductor microcavities. We
+study a microcavity with perfect in-plane isotropy. A linear stability analysis
+of the cavity polariton dynamics shows that in the co-linear (TE-TE or TM-TM)
+pump-probe polarization state configuration, excitonic correlations diminish
+the parametric scattering process whereas it is enhanced by excitonic
+correlations in the cross-linear (TE-TM or TM-TE) configuration. Without any
+free parameters, our microscopic theory gives a quantitative understanding how
+many-particle effects can lead to a rotation or change of the outgoing
+(amplified) probe signal's vectorial polarization state relative to the
+incoming one's.

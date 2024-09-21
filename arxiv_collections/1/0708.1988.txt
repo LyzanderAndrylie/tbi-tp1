@@ -1,0 +1,13 @@
+The theory, computer simulations, and experimental measurements are presented
+for electrically small two-element supergain arrays with near optimal endfire
+gains of 7 dB. We show how the difficulties of narrow tolerances, large
+mismatches, low radiation efficiencies, and reduced scattering of electrically
+small parasitic elements are overcome by using electrically small resonant
+antennas as the elements in both separately driven and singly driven
+(parasitic) two-element electrically small supergain endfire arrays. Although
+rapidly increasing narrow tolerances prevent the practical realization of the
+maximum theoretically possible endfire gain of electrically small arrays with
+many elements, the theory and preliminary numerical simulations indicate that
+near maximum supergains are also achievable in practice for electrically small
+arrays with three (and possibly more) resonant elements if the decreasing
+bandwidth with increasing number of elements can be tolerated.

@@ -1,0 +1,8 @@
+We propose a novel method for studying the production of anticentauro events
+in high energy heavy ion collisions utilizing Chebyshev expansion coefficients.
+These coefficients have proved to be very efficient in investigating the
+pattern of fluctuations in neutral pion fraction. For the anticentauro like
+events, the magnitude of first few coefficients is strongly enhanced (~3 times)
+as compared to those of normal HIJING events. Various characteristics of
+Chebyshev coefficients are studied in detail and the probability of formation
+of exotic events is calculated from the simulated events.

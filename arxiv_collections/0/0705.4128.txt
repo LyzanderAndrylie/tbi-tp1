@@ -1,0 +1,15 @@
+We present a new control algorithm and system design for a network of quantum
+repeaters, and outline the end-to-end protocol architecture. Such a network
+will create long-distance quantum states, supporting quantum key distribution
+as well as distributed quantum computation. Quantum repeaters improve the
+reduction of quantum-communication throughput with distance from exponential to
+polynomial. Because a quantum state cannot be copied, a quantum repeater is not
+a signal amplifier, but rather executes algorithms for quantum teleportation in
+conjunction with a specialized type of quantum error correction called
+purification to raise the fidelity of the quantum states. We introduce our
+banded purification scheme, which is especially effective when the fidelity of
+coupled qubits is low, improving the prospects for experimental realization of
+such systems. The resulting throughput is calculated via detailed simulations
+of a long line composed of shorter hops. Our algorithmic improvements increase
+throughput by a factor of up to fifty compared to earlier approaches, for a
+broad range of physical characteristics.

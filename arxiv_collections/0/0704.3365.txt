@@ -1,0 +1,17 @@
+Multicanonical molecular dynamics (MD) is a powerful technique for sampling
+conformations on rugged potential surfaces such as protein. However, it is
+notoriously difficult to estimate the multicanonical temperature effectively.
+Wang and Landau developed a convenient method for estimating the density of
+states based on a multicanonical Monte Carlo method. In their method, the
+density of states is calculated autonomously during a simulation. In this paper
+we develop a set of techniques to effectively apply the Wang-Landau method to
+MD simulations. In the multicanonical MD, the estimation of the derivative of
+the density of states is critical. In order to estimate it accurately, we
+devise two original improvements. First, the correction for the density of
+states is made smooth by using the Gaussian distribution obtained by a short
+canonical simulation. Second, an approximation is applied to the derivative,
+which is based on the Gaussian distribution and the multiple weighted histogram
+technique. A test of this method was performed with small polypeptides,
+Met-enkephalin and Trp-cage, and it is demonstrated that Wang-Landau MD is
+consistent with replica exchange MD but can sample much larger conformational
+space.

@@ -1,0 +1,12 @@
+The low temperature heat capacity C_{p} of Fe_{1-x}Ga_{x} alloys with large
+magnetostriction has been investigated. The data were analyzed in the standard
+way using electron ($\gamma T$) and phonon ($\beta T^{3}$) contributions. The
+Debye temperature $\Theta_{D}$ decreases approximately linearly with increasing
+Ga concentration, consistent with previous resonant ultrasound measurements and
+measured phonon dispersion curves. Calculations of $\Theta_{D}$ from lattice
+dynamical models and from measured elastic constants C_{11}, C_{12} and C_{44}
+are in agreement with the measured data. The linear coefficient of electronic
+specific heat $\gamma$ remains relatively constant as the Ga concentration
+increases, despite the fact that the magnetoelastic coupling increases. Band
+structure calculations show that this is due to the compensation of majority
+and minority spin states at the Fermi level.

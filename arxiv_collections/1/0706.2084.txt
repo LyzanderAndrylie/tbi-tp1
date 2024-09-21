@@ -1,0 +1,12 @@
+We show that the observed evolution of the transmission phase through
+multi-electron quantum dots with more than approximately ten electrons, which
+shows a universal (i.e., independent of N) as yet unexplained behavior, is
+consistent with an electrostatic model, where electron-electron interaction is
+described by a mean-field approach. Moreover, we perform exact calculations for
+an open 1D quantum dot and show that carrier correlations may give rise to a
+non-universal (i.e., N-dependent) behavior of the transmission phase, ensuing
+from Fano resonances, which is consistent with experiments with a few (N < 10)
+carriers. Our results suggest that in the universal regime the coherent
+transmission takes place through a single level while in the few-particle
+regime the correlated scattering state is determined by the number of bound
+particles.

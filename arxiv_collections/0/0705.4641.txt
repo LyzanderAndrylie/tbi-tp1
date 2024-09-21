@@ -1,0 +1,13 @@
+Equations of fully general relativistic radiation hydrodynamics in Kerr
+space-time are derived. While the interactions between matter and radiation are
+introduced in the comoving frame, the derivatives used when describing the
+global evolutions of both the matter and the radiation are given in the
+Boyer-Lindquist frame (BLF) which is a frame fixed to the coordinate describing
+the central black hole. Around a rotating black hole, both the matter and the
+radiation are influenced by the frame-dragging effects due to the black hole's
+rotation. As a fixed frame, we use the locally non-rotating reference frame
+(LNRF) which is one of the orthonormal frame. While the special relativistic
+effects such as beaming effects are introduced by the Lorentz transformation
+connecting the comoving frame and the LNRF, the general relativistic effects
+such as frame-dragging and gravitational redshift are introduced by the tetrads
+connecting the LNRF and the BLF.

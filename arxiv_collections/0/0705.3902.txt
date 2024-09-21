@@ -1,0 +1,23 @@
+A derivation of the equations of motion of general relativity is presented
+that does not invoke the Axiom of Choice, but requires the explicit
+construction of a choice function q for continuous three-space regions. The
+motivation for this (seemingly academic) endeavour is to take the background
+independence intrinsic to Einstein gravity one step further, and to assure that
+both the equations of motion and the way in which those equations of motion are
+derived are as self-consistent as possible. That is, solutions to the equations
+of motion of general relativity endow a three-space region with a physical and
+distinguishing geometry in four-dimensional space-time. However, in order to
+derive these equations of motion one should first be able to choose a
+three-space region without having any prior knowledge of its physically
+appropriate geometry. The expression of this choice process requires a
+three-dimensional topological manifold Q, to which all considered three-space
+regions belong, and that generates an equation of motion whose solutions are q.
+These solutions relate the effects of curvature to the source term through the
+topology of Q and constitute Einstein gravity. Q is given by 2T^3+3S^1xS^2, and
+is embedded in four dimensions. This points toward a hidden topological content
+for general relativity, best phrased as: Q and q provide a structure for how to
+choose a three-space region irrespective of what geometric properties it has,
+while at the same time Q and q determine that only GR can endow a three-space
+with those geometric properties. In this sense, avoiding the Axiom of Choice
+allows one to gain physical insight into GR. Possible links with holography are
+pointed out.

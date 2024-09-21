@@ -1,0 +1,10 @@
+Process of stripe formation is analyzed numerically in a binary mixture. The
+system consists of particles of two sizes, without any direct mutual
+interactions. Overlapping of large particles, surrounded by a dense system of
+smaller particles induces indirect entropy driven interactions between large
+particles. Under an influence of an external driving force the system orders
+and stripes are formed. Mean width of stripes grows logarithmically with time,
+in contrast to a typical power law temporal increase observed for driven
+interacting lattice gas systems. We describe the mechanism responsible for this
+behavior and attribute the logarithmic growth to a random walk of large
+particles in a random potential due to the small ones.

@@ -1,0 +1,6 @@
+We show the existence of an anti-pluricanonical curve on every smooth
+projective rational surface X which has an infinite group G of automorphisms of
+either null entropy or of type Z . Z (semi-direct product), provided that the
+pair (X, G) is minimal. This was conjectured by Curtis T. McMullen (2005) and
+further traced back to Marat Gizatullin and Brian Harbourne (1987). We also
+prove (perhaps) the strongest form of the famous Tits alternative theorem.

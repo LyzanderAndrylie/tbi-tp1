@@ -1,0 +1,12 @@
+A generalized Fermi-Bose mapping method is used to determine the exact ground
+states of six models of strongly interacting ultracold gases of two-level atoms
+in tight waveguides, which are generalizations of the Tonks-Girardeau (TG) gas
+(1D Bose gas with point hard cores) and fermionic Tonks-Girardeau (FTG) gas (1D
+spin-aligned Fermi gas with infinitely strong zero-range attractions). Three of
+these models exhibit a quantum phase transition in the presence of an external
+magnetic field, associated with a cooperative ground state rearrangement
+wherein Fermi energy is traded for internal excitation energy. After
+investigation of these models in the absence of an electromagnetic field, one
+is generalized to include resonant interactions with a single photon mode,
+leading to a possible thermal phase transition associated with Dicke
+superradiance.

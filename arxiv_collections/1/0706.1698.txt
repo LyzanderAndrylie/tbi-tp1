@@ -1,0 +1,10 @@
+An explicit formula for the chaotic representation of the powers of
+increments, (X_{t+t_0}-X_{t_0})^n, of a Levy process is presented. There are
+two different chaos expansions of a square integrable functional of a Levy
+process: one with respect to the compensated Poisson random measure and the
+other with respect to the orthogonal compensated powers of the jumps of the
+Levy process. Computationally explicit formulae for both of these chaos
+expansions of (X_{t+t_0}-X_{t_0})^n are given in this paper. Simulation results
+verify that the representation is satisfactory. The CRP of a number of
+financial derivatives can be found by expressing them in terms of
+(X_{t+t_0}-X_{t_0})^n using Taylor's expansion.

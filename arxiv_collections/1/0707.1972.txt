@@ -1,0 +1,7 @@
+The extremal and partly marginally trapped surfaces in Minkowski 4-space,
+which are invariant under the group of boost isometries, are classified.
+Moreover, it is shown that there do not exist extremal surfaces of this kind
+with constant Gaussian curvature. A procedure is given in order to construct a
+partly marginally trapped surface by gluing two marginally trapped surfaces
+which are invariant under the group of boost isometries. As an application, a
+proper star-surface is constructed.

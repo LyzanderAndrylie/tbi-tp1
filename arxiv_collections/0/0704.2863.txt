@@ -1,0 +1,6 @@
+We find and study a two-parameter family of coupled Painlev\'e II systems in
+dimension four with affine Weyl group symmetry of several types. Moreover, we
+find a three-parameter family of polynomial Hamiltonian systems in two
+variables $t,s$. Setting $s=0$, we can obtain an autonomous version of the
+coupled Painlev\'e II systems. We also show its symmetry and holomorphy
+conditions.

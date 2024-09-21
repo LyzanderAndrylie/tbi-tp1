@@ -1,0 +1,10 @@
+In this paper we consider a special class of polymorphisms with invariant
+measure, - (cf.[1])- the algebraic polymorphisms of compact groups. A general
+polymorphism is -- by definition -- a many-valued map with invariant measure,
+and the conjugate operator of a polymorphism is a Markov operator (i.e., a
+positive operator on $L^2$ of norm 1 which preserves the constants). In the
+algebraic case a polymorphism is a correspondence in the sense of algebraic
+geometry, but here we investigate it from a dynamical point of view. The most
+important examples are the algebraic polymorphisms of torus, where we introduce
+a parametrization of the semigroup of toral polymorphisms in terms of rational
+matrices and describe the spectra of the corresponding Markov operators.

@@ -1,0 +1,14 @@
+Local pure states are an important resource for quantum computing. The
+problem of distilling local pure states from mixed ones can be cast in an
+information theoretic paradigm. The bipartite version of this problem where
+local purity must be distilled from an arbitrary quantum state shared between
+two parties, Alice and Bob, is closely related to the problem of separating
+quantum and classical correlations in the state and in particular, to a measure
+of classical correlations called the one-way distillable common randomness. In
+Phys. Rev. A 71, 062303 (2005), the optimal rate of local purity distillation
+is derived when many copies of a bipartite quantum state are shared between
+Alice and Bob, and the parties are allowed unlimited use of a unidirectional
+dephasing channel. In the present paper, we extend this result to the setting
+in which the use of the channel is bounded. We demonstrate that in the case of
+a classical-quantum system, the expression for the local purity distilled is
+efficiently computable and provide examples with their tradeoff curves.

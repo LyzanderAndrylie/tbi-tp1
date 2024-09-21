@@ -1,0 +1,7 @@
+We consider a social system of interacting heterogeneous agents with learning
+abilities, a model close to Random Field Ising Models, where the random field
+corresponds to the idiosyncratic willingness to pay. Given a fixed price,
+agents decide repeatedly whether to buy or not a unit of a good, so as to
+maximize their expected utilities. We show that the equilibrium reached by the
+system depends on the nature of the information agents use to estimate their
+expected utilities.

@@ -1,0 +1,10 @@
+Let $T$ be the triangle with vertices (1,0), (0,1), (1,1). We study certain
+integrals over $T$, one of which was computed by Euler. We give expressions for
+them both as a linear combination of multiple zeta values, and as a polynomial
+in single zeta values. We obtain asymptotic expansions of the integrals, and of
+sums of certain multiple zeta values with constant weight. We also give related
+expressions for Euler's constant. In the final section, we evaluate more
+general integrals -- one is a Chen (Drinfeld-Kontsevich) iterated integral --
+over some polytopes that are higher-dimensional analogs of $T$. This leads to a
+relation between certain multiple polylogarithm values and multiple zeta
+values.

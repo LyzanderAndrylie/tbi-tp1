@@ -1,0 +1,11 @@
+We study triplet pairing correlations in clean Ferromagnet (F)/Superconductor
+(S) nanojunctions, via fully self consistent solution of the Bogoliubov-de
+Gennes equations. We consider FSF trilayers, with S being an s-wave
+superconductor, and an arbitrary angle $\alpha$ between the magnetizations of
+the two F layers. We find that contrary to some previous expectations, triplet
+correlations, odd in time, are induced in both the S and F layers in the clean
+limit. We investigate their behavior as a function of time, position, and
+$\alpha$. The triplet amplitudes are largest at times on the order of the
+inverse ``Debye'' frequency, and at that time scale they are long ranged in
+both S and F. The zero temperature condensation energy is found to be lowest
+when the magnetizations are antiparallel.

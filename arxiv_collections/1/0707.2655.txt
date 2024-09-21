@@ -1,0 +1,10 @@
+Using 226 million $B\bar{B}$ events recorded on the $\Upsilon(4S)$ resonance
+with the BABAR detector at the SLAC $e^+e^-$ storage rings PEPII, we
+reconstruct $B^-\to D^{*0} e^-\bar\nu_e$ decays using the decay chain
+$D^{*0}\to{}D^0{}\pi^0$ and $D^{0}\to{}K^-\pi^+$. From the dependence of their
+differential rate on $w$, the product of the four-velocities of $B^-${} and
+$D^{*0}$, and using the description of the form factor $F(w)$ by Caprini et
+al., we obtain the preliminary results $\rho^2_{A_1} = 1.15\pm 0.06 \pm 0.08$,
+$F(1)\cdot|V_{cb}| = (36.3\pm 0.6 \pm 1.4)\cdot 10^{-3}$, and ${\cal B}(B^-\to
+D^{*0} e^-\bar\nu_e) = (5.71\pm 0.08\pm 0.41)%$. The first errors are
+statistical and the second ones are systematic. \\

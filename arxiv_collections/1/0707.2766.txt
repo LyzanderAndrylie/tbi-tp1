@@ -1,0 +1,16 @@
+Helicases are molecular motors that unwind double-stranded nucleic acids
+(dsNA), such as DNA and RNA). Typically a helicase translocates along one of
+the NA single strands while unwinding and uses adenosine triphosphate (ATP)
+hydrolysis as an energy source. Here we model of a helicase motor that can
+switch between two states, which could represent two different points in the
+ATP hydrolysis cycle. Our model is an extension of the earlier
+Betterton-J\"ulicher model of helicases to incorporate switching between two
+states. The main predictions of the model are the speed of unwinding of the
+dsNA and fluctuations around the average unwinding velocity. Motivated by a
+recent claim that the NS3 helicase of Hepatitis C virus follows a flashing
+ratchet mechanism, we have compared the experimental results for the NS3
+helicase with a special limit of our model which corresponds to the flashing
+ratchet scenario. Our model accounts for one key feature of the experimental
+data on NS3 helicase. However, contradictory observations in experiments
+carried out under different conditions limit the ability to compare the model
+to experiments.

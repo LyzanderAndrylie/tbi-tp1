@@ -1,0 +1,10 @@
+We review a recently introduced set of N-dimensional quasi-maximally
+superintegrable Hamiltonian systems describing geodesic motions, that can be
+used to generate "dynamically" a large family of curved spaces. From an
+algebraic viewpoint, such spaces are obtained through kinetic energy
+Hamiltonians defined on either the sl(2) Poisson coalgebra or a quantum
+deformation of it. Certain potentials on these spaces and endowed with the same
+underlying coalgebra symmetry have been also introduced in such a way that the
+superintegrability properties of the full system are preserved. Several new N=2
+examples of this construction are explicitly given, and specific Hamiltonians
+leading to spaces of non-constant curvature are emphasized.

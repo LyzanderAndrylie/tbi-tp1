@@ -1,0 +1,9 @@
+We study the interplay of Klein tunneling (= interband tunneling) between
+n-doped and p-doped regions in graphene and Andreev reflection (= electron-hole
+conversion) at a superconducting electrode. The tunneling conductance of an
+n-p-n junction initially increases upon lowering the temperature, while the
+coherence time of the electron-hole pairs is still less than their lifetime,
+but then drops back again when the coherence time exceeds the lifetime. This
+reentrance effect, known from diffusive conductors and ballistic quantum dots,
+provides a method to detect phase coherent Klein tunneling of electron-hole
+pairs.

@@ -1,0 +1,13 @@
+Grid Computing has made substantial advances in the past decade; these are
+primarily due to the adoption of standardized Grid middleware. However Grid
+computing has not yet become pervasive because of some barriers that we believe
+have been caused by the adoption of middleware centric approaches. These
+barriers include: scant support for major types of applications such as
+interactive applications; lack of flexible, autonomic and scalable Grid
+architectures; lack of plug-and-play Grid computing and, most importantly, no
+straightforward way to setup and administer Grids. PhantomOS is a project which
+aims to address many of these barriers. Its goal is the creation of a user
+friendly pervasive Grid computing platform that facilitates the rapid
+deployment and easy maintenance of Grids whilst providing support for major
+types of applications on Grids of almost any topology. In this paper we present
+the detailed system architecture and an overview of its implementation.

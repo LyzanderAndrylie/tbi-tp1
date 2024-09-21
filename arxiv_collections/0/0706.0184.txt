@@ -1,0 +1,17 @@
+The recent observation of a insulator to metal transition (IMT) [I. Loa et
+al, PRL 87, 125501 (2001)] in pure LaMnO$_3$ at 32 GPa and room temperature,
+well above the Neel temperature (145 K) and below the Jahn-Teller transition
+temperature (780 K), opens the way to a study of the role of the orbital
+degrees of freedom on the electronic structure in a stoichiometric material. In
+this paper we focus our attention in the orbital aspects of the insulator to
+metal transition. We use a model Hamiltonian for the $e_g$ orbitals of Mn that
+includes the on site Coulomb repulsion $U$, the hopping $t$, and its dependence
+with pressure. In order to include in an appropriate way the strong
+correlations induced by the dominant electron-electron interactions we
+introduce auxiliary fields (Slave Bosons,SB) to the description of the low
+energy states. We use a O-Mn distance ($d$) dependence of $t$ and the
+pressure-$d$ relation from the experimental data to describe the evolution of
+the electronic structure with pressure. Our results confirm and make
+transparent the conclusion reached in previous ab-initio calculations: the
+inclusion of the Coulomb energy is necessary and constitutes an important
+factor enhancing the orbital polarization in these compounds.

@@ -1,0 +1,5 @@
+We prove dispersive estimates for the low frequency part of the Schrodinger
+group for a large class of potentials in dimensions greater or equal to four.
+As a consequence, we extend the result of Journe, Sofer and Sogge to a larger
+class of potentials. In this revised version a mistake in the proof of the
+estimate (B.4) is removed.

@@ -1,0 +1,16 @@
+We analyze the vacuum structure of SU(2) QCD with multiple massless adjoint
+representation fermions formulated on a small spatial $S^1 \times \R^3$. The
+absence of thermal fluctuations, and the fact that quantum fluctuations
+favoring the vacuum with unbroken center symmetry in a weakly coupled regime
+renders the interesting dynamics of these theories analytically calculable.
+Confinement, the area law behavior for large Wilson loops, and the generation
+of the mass gap in the gluonic sector are shown analytically. By abelian
+duality transformation, the long distance effective theory of QCD is mapped
+into an amalgamation of $d=3$ dimensional Sine-Gordon and NJL models. The
+duality necessitates going to IR first. In this regime, theory exhibits
+confinement without continuous chiral symmetry breaking. However, a flavor
+singlet chiral condensate (which breaks a discrete chiral symmetry) persists at
+arbitrarily small $S^1$. Under the reasonable assumption that the theory on
+$\R^4$ exhibits chiral symmetry breaking, there must exist a zero temperature
+chiral phase transition in the absence of any change in spatial center symmetry
+realizations.

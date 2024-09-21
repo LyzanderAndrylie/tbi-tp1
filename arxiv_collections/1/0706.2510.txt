@@ -1,0 +1,11 @@
+We study the arrival time distribution of overdamped particles driven by a
+constant force in a piecewise linear random potential which generates the
+dichotomous random force. Our approach is based on the path integral
+representation of the probability density of the arrival time. We explicitly
+calculate the path integral for a special case of dichotomous disorder and use
+the corresponding characteristic function to derive prominent properties of the
+arrival time probability density. Specifically, we establish the scaling
+properties of the central moments, analyze the behavior of the probability
+density for short, long, and intermediate distances. In order to quantify the
+deviation of the arrival time distribution from a Gaussian shape, we evaluate
+the skewness and the kurtosis.

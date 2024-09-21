@@ -1,0 +1,8 @@
+A novel way to induce ultrafast currents in molecular wires using two
+incident laser frequencies, $\omega$ and $2\omega$, is demonstrated. The
+mechanism relies on Stark shifts, instead of photon absorption, to transfer
+population to the excited states and exploits the temporal profile of the field
+to generate phase controllable transport. Calculations in a
+\emph{trans}-polyacetylene oligomer coupled to metallic leads indicate that the
+mechanism is highly efficient and robust to ultrafast electronic dephasing
+processes induced by vibronic couplings.

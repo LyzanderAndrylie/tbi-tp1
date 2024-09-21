@@ -1,0 +1,10 @@
+In this paper, bound states energies and corresponding wave functions of
+H-shaped quantum wires are calculated numerically in the presence of external
+magnetic and electric fields and within the Landau gauge. With a suitable
+definition of external confinement potential, we present a numerical algorithm
+to calculate the profile of probability distribution of charge carriers. Our
+analysis shows that in the presence of external electric and magnetic fields,
+bound state properties of carriers are sensitive functions of an asymmetric
+parameter $a=\frac{W_{x}}{W_{y}}$ which measures the relative width of the well
+in two directions. We also study many body effect of bandgap renormalization in
+this quasi one dimensional system within dynamical random phase approximation.

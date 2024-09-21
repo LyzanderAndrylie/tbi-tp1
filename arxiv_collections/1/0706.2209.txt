@@ -1,0 +1,9 @@
+A new Lorentz-covariant gauge is presented for SU(3). In this gauge, both the
+ghosts and the gauge fields in the (4, 5, 6, 7) gauge directions acquire
+half-integral spin. As a result, the ghosts in these directions have the
+correct relationship between spin and statistics, while the gauge fields have
+the incorrect relationship. Consequently, asymptotic ghost states are not
+forbidden in this gauge and can possibly form new matter states. Conversely,
+asymptotic gauge fields in the (4, 5, 6, 7) directions are forbidden in this
+gauge, so the SU(3) symmetry is broken down to an SU(2)xU(1) symmetry
+asymptotically.

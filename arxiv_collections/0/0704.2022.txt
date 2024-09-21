@@ -1,0 +1,6 @@
+When n is odd, consider the finite general linear and unitary groups of rank
+n, extended by the inverse transpose automorphism. There are elements in the
+extended groups which square to a regular unipotent element, and we evaluate
+the values of irreducible characters of the extended groups on these elements.
+Several intermediate results on real conjugacy classes and real-valued
+characters of these groups are obtained along the way.

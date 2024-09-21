@@ -1,0 +1,13 @@
+The motion of assemblies of point vortices in a periodic parallelogram can be
+described by the complex position $z_j(t)$ whose time derivative is given by
+the sum of the complex velocities induced by other vortices and the solid
+rotation centered at $z_j$. A numerical simulation up to 100 vortices in a
+square periodic box is performed with various initial conditions, including
+single and double rows, uniform spacing, checkered pattern, and complete
+spatial randomness. Point process theory in spatial ecology is applied in order
+to quantify clustering of the distribution of vortices. In many cases,
+clustering of the distribution persists after a long time if the initial
+condition is clustered. In the case of positive and negative vortices with the
+same absolute value of strength, the $L$ function becomes positive for both
+types of vortices. Scattering or recoupling of pairs of vortices by a third
+vortex is remarkable.

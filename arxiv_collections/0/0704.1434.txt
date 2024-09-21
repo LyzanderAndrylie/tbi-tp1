@@ -1,0 +1,11 @@
+We generalize the rotationally-invariant formulation of the slave-boson
+formalism to multiorbital models, with arbitrary interactions, crystal fields,
+and multiplet structure. This allows for the study of multiplet effects on the
+nature of low-energy quasiparticles. Non-diagonal components of the matrix of
+quasiparticle weights can be calculated within this framework. When combined
+with cluster extensions of dynamical mean-field theory, this method allows us
+to address the effects of spatial correlations, such as the generation of the
+superexchange and the momentum dependence of the quasiparticle weight. We
+illustrate the method on a two-band Hubbard model, a Hubbard model made of two
+coupled layers, and a two-dimensional single-band Hubbard model (within a
+two-site cellular dynamical mean-field approximation).

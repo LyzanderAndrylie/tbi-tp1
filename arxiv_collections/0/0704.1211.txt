@@ -1,0 +1,14 @@
+Many features of granular media can be modelled as a fluid of hard spheres
+with {\em inelastic} collisions. Under rapid flow conditions, the macroscopic
+behavior of grains can be described through hydrodynamic equations. At
+low-density, a fundamental basis for the derivation of the hydrodynamic
+equations and explicit expressions for the transport coefficients appearing in
+them is provided by the Boltzmann kinetic theory conveniently modified to
+account for inelastic binary collisions. The goal of this chapter is to give an
+overview of the recent advances made for binary granular gases by using kinetic
+theory tools. Some of the results presented here cover aspects such as
+transport properties, energy nonequipartition, instabilities, segregation or
+mixing, non-Newtonian behavior, .... In addition, comparison of the analytical
+results with those obtained from Monte Carlo and molecular dynamics simulations
+is also carried out, showing the reliability of kinetic theory to describe
+granular flows even for strong dissipation.

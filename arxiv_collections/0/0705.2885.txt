@@ -1,0 +1,11 @@
+We compare two non-relativistic (NR) reduction schemes (heavy-fermion and
+Foldy-Wouthuysen) that are used to derive low-energy effective-field-theory
+Lagrangians. We give the explicit transformation between the two types of
+fields to O(1/m^2), derived from a quite general, relativistic Lagrangian.
+Beyond leading order the NR reductions always involve the smaller components of
+the Dirac spinors that are to be integrated out to formulate the NR theory.
+Even so, the transformation between the NR Lagrangians can be carried out
+explicitly to O(1/m^2) using a field renormalization, as long as the lower
+components of the Lagrangian are known. The fixed coefficient corrections to
+some low-energy constants at O(1/m^2) will depend on the particular scheme
+chosen, but will match after the field renormalization.

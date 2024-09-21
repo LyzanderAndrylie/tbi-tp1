@@ -1,0 +1,7 @@
+Electron holography in a transmission electron microscope was applied to
+measure the phase shift induced by Au clusters as a function of the cluster
+size. Large phase shifts Df observed for small Au clusters cannot be described
+by the well-known equation Df=C_E V_0 t (C_E: interaction constant, V_0: mean
+inner Coulomb potential (MIP) of bulk gold, t: cluster thickness). The rapid
+increase of the Au MIP with decreasing cluster size derived from Df, can be
+explained by the compressive strain of surface atoms in the cluster.

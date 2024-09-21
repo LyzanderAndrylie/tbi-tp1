@@ -1,0 +1,9 @@
+We demonstrate superradiant conversion between a two-mode collective atomic
+state and a single-mode light field in an elongated cloud of Bose-condensed
+atoms. Two off-resonant write beams induce superradiant Raman scattering,
+producing two independent coherence gratings with a different wave vector in
+the cloud. By applying phase-matched read beams after a controllable delay, the
+gratings can be selectively converted into the light field also in a
+superradiant way. Due to the large cooperativity parameter and the small
+velocity width of the condensate, a high conversion efficiency of $> 70$ % and
+a long storage time of $> 120$ $\mu$s were achieved.

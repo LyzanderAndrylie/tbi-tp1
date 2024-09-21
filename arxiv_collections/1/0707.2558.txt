@@ -1,0 +1,8 @@
+A movable inclusion in an elastic material oscillates as a rigid body with
+six degrees of freedom. Displacement/rotation and force/moment tensors which
+express the motion of the inclusion in terms of the displacement and force at
+arbitrary exterior points are introduced. Using reciprocity arguments two
+general identities are derived relating these tensors. Applications of the
+identities to spherical particles provide several new results, including simple
+expressions for the force and moment on the particle due to plane wave
+excitation.

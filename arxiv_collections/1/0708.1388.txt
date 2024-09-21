@@ -1,0 +1,9 @@
+We report the coexistence of ferromagnetic order and superconductivity in
+UCoGe at ambient pressure. Magnetization measurements show that UCoGe is a weak
+ferromagnet with a Curie temperature T_{C}= 3 K and a small ordered moment
+$m_{0}$= 0.03 $\mu_B$. Superconductivity is observed with a resistive
+transition temperature T_{s} = 0.8 K for the best sample. Thermal-expansion and
+specific-heat measurements provide solid evidence for bulk magnetism and
+superconductivity. The proximity to a ferromagnetic instability, the defect
+sensitivity of T_{s}, and the absence of Pauli limiting, suggest triplet
+superconductivity mediated by critical ferromagnetic fluctuations.

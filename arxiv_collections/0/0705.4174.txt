@@ -1,0 +1,11 @@
+In two recent articles, Meiser and Meystre describe the coupled dynamics of a
+dense gas of atoms and an optical cavity pumped by a laser field. They make two
+important simplifying assumptions: (i) the gas of atoms forms a regular lattice
+and can be replaced by a fictitious mirror, and (ii) the atoms strive to
+minimize the dipole potential. We show that the two assumptions are
+inconsistent: the configuration of atoms minimizing the dipole potential is not
+a perfect lattice. Assumption (ii) is erroneous, as in the strong coupling
+regime the dipole force does not arise from the dipole potential. The real
+steady state, where the dipole forces vanish, is indeed a regular lattice.
+Furthermore, the bistability predicted by Meiser and Meystre does not occur in
+this system.

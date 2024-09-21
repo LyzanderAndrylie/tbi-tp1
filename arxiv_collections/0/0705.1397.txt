@@ -1,0 +1,7 @@
+The work presented in this paper is related to the use of a haptic device in
+an environment of robotic simulation. Such device introduces a new approach to
+feel and to understand the boundaries of the workspace of mechanisms as well as
+its kinetostatic properties. Indeed, these concepts are abstract and thus often
+difficult to understand for the end-users. To catch his attention, we propose
+to amplify the problems of the mechanisms in order to help him to take the good
+decisions.

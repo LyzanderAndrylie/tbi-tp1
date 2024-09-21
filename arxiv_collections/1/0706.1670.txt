@@ -1,0 +1,12 @@
+We report on the realization of a Chromium Bose-Einstein condensate (BEC)
+with strong dipolar interaction. By using a Feshbach resonance, we reduce the
+usual isotropic contact interaction, such that the anisotropic magnetic
+dipole-dipole interaction between 52Cr atoms becomes comparable in strength.
+This induces a change of the aspect ratio of the cloud, and, for strong dipolar
+interaction, the inversion of ellipticity during expansion - the usual "smoking
+gun" evidence for BEC - can even be suppressed. These effects are accounted for
+by taking into account the dipolar interaction in the superfluid hydrodynamic
+equations governing the dynamics of the gas, in the same way as classical
+ferrofluids can be described by including dipolar terms in the classical
+hydrodynamic equations. Our results are a first step in the exploration of the
+unique properties of quantum ferrofluids.

@@ -1,0 +1,9 @@
+A coarse-grained multi-blob description of polymer solutions is presented,
+based on soft, transferable effective interactions between bonded and
+non-bonded blobs. The number of blobs is chosen such that the blob density does
+not exceed their overlap threshold, allowing polymer concentrations to be
+explored deep into the semi-dilute regime. This quantitative multi-blob
+description is shown to preserve known scaling laws of polymer solutions and
+provides accurate estimates of amplitudes, while leading to orders of magnitude
+increase of simulation efficiency and allowing analytic calculations of
+structural and thermodynamic properties.

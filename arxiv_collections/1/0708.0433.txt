@@ -1,0 +1,6 @@
+This paper is devoted to the study of the emptiness formation probability
+$\tau\pa{m}$ of the open XXZ chain. We derive a closed form for $\tau\pa{m}$ at
+$\Delta=\tf{1}{2}$ when the boundary field vanishes. Moreover we obtain its
+leading asymptotics for an arbitrary boundary field at the free fermion point.
+Finally, we compute the first term of the asymptotics of $\ln\pa{\tau\pa{m}}$
+in the whole massless regime $-1<\Delta<1$.

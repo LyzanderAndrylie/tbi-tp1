@@ -1,0 +1,10 @@
+The nucleation of carbon nanotubes on small nickel clusters is studied using
+a tight binding model coupled to grand canonical Monte Carlo simulations. This
+technique closely follows the conditions of the synthesis of carbon nanotubes
+by chemical vapor deposition. The possible formation of a carbon cap on the
+catalyst particle is studied as a function of the carbon chemical potential,
+for particles of different size, either crystalline or disordered. We show that
+these parameters strongly influence the structure of the cap/particle interface
+which in turn will have a strong effect on the control of the structure of the
+nanotube. In particular, we discuss the presence of carbon on surface or in
+subsurface layers.

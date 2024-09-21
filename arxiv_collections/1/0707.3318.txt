@@ -1,0 +1,17 @@
+Recent work in the literature has studied the quantum-mechanical decay of a
+Schwarzschild-like black hole, formed by gravitational collapse, into
+almost-flat space-time and weak radiation at a very late time. The relevant
+quantum amplitudes have been evaluated for bosonic and fermionic fields,
+showing that no information is lost in collapse to a black hole. On the other
+hand, recent developments in noncommutative geometry have shown that, in
+general relativity, the effects of non-commutativity can be taken into account
+by keeping the standard form of the Einstein tensor on the left-hand side of
+the field equations and introducing a modified energy-momentum tensor as a
+source on the right-hand side. Relying on the recently obtained
+non-commutativity effect on a static, spherically symmetric metric, we have
+considered from a new perspective the quantum amplitudes in black hole
+evaporation. The general relativity analysis of spin-2 amplitudes has been
+shown to be modified by a multiplicative factor F depending on a constant
+non-commutativity parameter and on the upper limit R of the radial coordinate.
+Limiting forms of F have been derived which are compatible with the adiabatic
+approximation.

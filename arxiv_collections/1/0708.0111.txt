@@ -1,0 +1,9 @@
+Twist stiffness and an asymmetric bending stiffness of a polymer or a polymer
+bundle is captured by the elastic ribbon model. We investigate the effects a
+ring geometry induces to a thermally fluctuating ribbon, finding bend-bend
+coupling in addition to twist-bend coupling. Furthermore, due to the geometric
+constraint the polymer's effective bending stiffness increases. A new parameter
+for experimental investigations of polymer bundles is proposed: the mean square
+diameter of a ribbonlike ring, which is determined analytically in the
+semiflexible limit. Monte Carlo simulations are performed which affirm the
+model's prediction up to high flexibility.

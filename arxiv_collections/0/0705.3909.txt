@@ -1,0 +1,16 @@
+We compute one of the bulk viscosity coefficients of cold CFL quark matter in
+the temperature regime where the contribution of mesons, quarks and gluons to
+transport phenomena is Boltzmann suppressed. In that regime dissipation occurs
+due to collisions of superfluid phonons, the Goldstone modes associated to the
+spontaneous breaking of baryon symmetry. We first review the hydrodynamics of
+relativistic superfluids, and remind that there are at least three bulk
+viscosity coefficients in these systems. We then compute the bulk viscosity
+coefficient associated to the normal fluid component of the superfluid. In our
+analysis we use Son's effective field theory for the superfluid phonon, amended
+to include scale breaking effects proportional to the square of the strange
+quark mass m_s. We compute the bulk viscosity at leading order in the scale
+breaking parameter, and find that it is dominated by collinear splitting and
+joining processes. The resulting transport coefficient is zeta=0.011 m_s^4/T,
+growing at low temperature T until the phonon fluid description stops making
+sense. Our results are relevant to study the rotational properties of a compact
+star formed by CFL quark matter.

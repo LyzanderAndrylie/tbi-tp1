@@ -1,0 +1,10 @@
+Starting from the governing equations for a quantum magnetoplasma including
+the quantum Bohm potential and electron spin-1/2 effects, we show that the
+system of quantum magnetohydrodynamic (QMHD) equations admit rarefactive
+solitons due to the balance between nonlinearities and quantum
+diffraction/tunneling effects. It is found that the electron spin-1/2 effect
+introduces a pressure-like term with negative sign in the QMHD equations, which
+modifies the shape of the solitary magnetosonic waves and makes them wider and
+shallower. Numerical simulations of the time-dependent system shows the
+development of rarefactive QMHD solitary waves that are modified by the spin
+effects.

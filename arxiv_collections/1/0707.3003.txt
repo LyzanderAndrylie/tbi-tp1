@@ -1,0 +1,12 @@
+We explore the total cross section of ground state polar molecules in an
+electric field at various energies, focusing on RbCs and RbK. An external
+electric field polarizes the molecules and induces strong dipolar interactions
+leading to non-zero partial waves contributing to the scattering even as the
+collision energy goes to zero. This results in the need to compute scattering
+problems with many different values of total M to converge the total cross
+section. An accurate and efficient approximate total cross section is
+introduced and used to study the low field temperature dependence. To
+understand the scattering of the polar molecules we compare a semi-classical
+cross section with quantum unitarity limit. This comparison leads to the
+ability to characterize the scattering based on the value of the electric field
+and the collision energy.

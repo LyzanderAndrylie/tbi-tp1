@@ -1,0 +1,16 @@
+Aims: We describe a fast, robust and automatic detection algorithm, TRUFAS,
+and apply it to data that are being expected from the CoRoT mission. Methods:
+The procedure proposed for the detection of planetary transits in light curves
+works in two steps: 1) a continuous wavelet transformation of the detrended
+light curve with posterior selection of the optimum scale for transit
+detection, and 2) a period search in that selected wavelet transformation. The
+detrending of the light curves are based on Fourier filtering or a discrete
+wavelet transformation. TRUFAS requires the presence of at least 3 transit
+events in the data. Results: The proposed algorithm is shown to identify
+reliably and quickly the transits that had been included in a standard set of
+999 light curves that simulate CoRoT data. Variations in the pre-processing of
+the light curves and in the selection of the scale of the wavelet transform
+have only little effect on TRUFAS' results. Conclusions: TRUFAS is a robust and
+quick transit detection algorithm, especially well suited for the analysis of
+very large volumes of data from space or ground-based experiments, with long
+enough durations for the target-planets to produce multiple transit events.

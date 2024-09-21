@@ -1,0 +1,5 @@
+We established a physically utilizable Bell inequality based on the
+Peres-Horodecki criterion. The new quadratic probabilistic Bell inequality
+naturally provides us a necessary and sufficient way to test all entangled
+two-qubit or qubit-qutrit states including the Werner states and the maximally
+entangled mixed states.

@@ -1,0 +1,6 @@
+In order to determine the chemical freeze-out parameters of the
+hadron-emitting source in relativistic heavy ion collisions some studies in
+literature perform fits by using as data input a subsample of ratios calculated
+out of experimentally measured hadron yields instead of yields themselves. We
+show that this is a statistically incorrect method fit, implying a bias in the
+extracted parameters.

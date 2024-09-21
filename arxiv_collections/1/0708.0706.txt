@@ -1,0 +1,12 @@
+We study a dynamic mechanism to passively suppress the thermal noise of a
+micromechanical resonator through an intrinsic self-feedback that is genuinely
+non-Markovian. We use two coupled resonators, one as the target resonator and
+the other as an ancillary resonator, to illustrate the mechanism and its noise
+reduction effect. The intrinsic feedback is realized through the dynamics of
+coupling between the two resonators: the motions of the target resonator and
+the ancillary resonator mutually influence each other in a cyclic fashion.
+Specifically, the states that the target resonator has attained earlier will
+affect the state it attains later due to the presence of the ancillary
+resonator. We show that the feedback mechanism will bring forth the effect of
+noise suppression in the spectrum of displacement, but not in the spectrum of
+momentum.

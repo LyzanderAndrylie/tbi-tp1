@@ -1,0 +1,10 @@
+We use femtosecond optical pulses to induce, control and monitor
+magnetization precession in ferromagnetic Ga0.965Mn0.035As. At temperatures
+below ~40 K we observe coherent oscillations of the local Mn spins, triggered
+by an ultrafast photoinduced reorientation of the in-plane easy axis. The
+amplitude saturation of the oscillations above a certain pump intensity
+indicates that the easy axis remains unchanged above ~TC/2. We find that the
+observed magnetization precession damping (Gilbert damping) is strongly
+dependent on pump laser intensity, but largely independent on ambient
+temperature. We provide a physical interpretation of the observed light-induced
+collective Mn-spin relaxation and precession.

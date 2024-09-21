@@ -1,0 +1,14 @@
+Current research on micro-mechanical resonators strives for quantum-limited
+detection of the motion of macroscopic objects. Prerequisite to this goal is
+the observation of measurement backaction consistent with quantum metrology
+limits. However, thermal noise presently dominates measurements and precludes
+ground-state preparation of the resonator. Here we establish the collective
+motion of an ultracold atomic gas confined tightly within a Fabry-Perot optical
+cavity as a system for investigating the quantum mechanics of macroscopic
+bodies. The cavity-mode structure selects a single collective vibrational mode
+that is measured by the cavity's optical properties, actuated by the cavity
+optical field, and subject to backaction by the quantum force fluctuations of
+this field. Experimentally, we quantify such fluctuations by measuring the
+cavity-light-induced heating of the intracavity atomic ensemble. These
+measurements represent the first observation of backaction on a macroscopic
+mechanical resonator at the standard quantum limit.

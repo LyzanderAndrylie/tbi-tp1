@@ -1,0 +1,10 @@
+The Navier-Stokes equations and magnetohydrodynamics equations are written in
+terms of poloidal and toroidal potentials in a finite cylinder. This
+formulation insures that the velocity and magnetic fields are divergence-free
+by construction, but leads to systems of partial differential equations of
+higher order, whose boundary conditions are coupled. The influence matrix
+technique is used to transform these systems into decoupled parabolic and
+elliptic problems. The magnetic field in the induction equation is matched to
+that in an exterior vacuum by means of the Dirichlet-to-Neumann mapping, thus
+eliminating the need to discretize the exterior. The influence matrix is scaled
+in order to attain an acceptable condition number.

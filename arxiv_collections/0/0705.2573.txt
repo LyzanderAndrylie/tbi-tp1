@@ -1,0 +1,7 @@
+We report the first measurement of the \emph{dynamical response} of shot
+noise (measured at frequency $\omega$) of a tunnel junction to an ac excitation
+at frequency $\omega_0$. The experiment is performed in the quantum regime,
+$\hbar\omega\sim\hbar\omega_0\gg k_BT$ at very low temperature T=35mK and high
+frequency $\omega_0/2\pi=6.2$ GHz. We observe that the noise responds in phase
+with the excitation, but not adiabatically. The results are in very good
+agreement with a prediction based on a new current-current correlator.

@@ -1,0 +1,11 @@
+We consider the problem of designing almost optimal predictors for dynamical
+systems from a finite sequence of noisy observations and incomplete knowledge
+of the dynamics and the noise. We first discuss the properties of the optimal
+(Bayes) predictor and present the limitations of memory-free forecasting
+methods, and of any finite memory methods in general. We then show that a
+nonparametric support vector machine approach to forecasting can consistently
+learn the optimal predictor for all pairs of dynamical systems and bounded
+observational noise processes that possess summable correlation sequences.
+Numerical experiments show that this approach adapts the memory length of the
+forecaster to the complexity of the learning task and the size of the
+observation sequence.

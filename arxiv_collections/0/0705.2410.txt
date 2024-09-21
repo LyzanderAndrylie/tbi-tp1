@@ -1,0 +1,10 @@
+We describe field-theory T^2/Z_n orbifolds that offer new ways of breaking
+SU(N) to lower rank subgroups. We introduce a novel way of embedding the point
+group into the gauge group, beyond the usual mapping of torus and root
+lattices. For this mechanism to work the torus Wilson lines must carry
+nontrivial 't Hooft flux. The rank lowering mechanism proceeds by inner
+automorphisms but is not related to continous Wilson lines and does not give
+rise to any associated moduli. We give a complete classification of all
+possible SU(N) breaking patterns. We also show that the case of general gauge
+group can already be understood entirely in terms of the SU(N) case and the
+knowledge of standard orbifold constructions with vanishing 't Hooft flux.

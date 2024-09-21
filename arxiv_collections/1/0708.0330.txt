@@ -1,0 +1,9 @@
+Spin noise sets fundamental limits to the precision of measurements using
+spin-polarized atomic vapors, such as performed with sensitive atomic
+magnetometers. Spin squeezing offers the possibility to extend the measurement
+precision beyond the standard quantum limit of uncorrelated atoms. Contrary to
+the current understanding, we show that even in the presence of spin
+relaxation, spin squeezing can lead to a significant reduction of spin noise,
+and hence an increase in magnetometric sensitivity, for a long measurement
+time. This is the case when correlated spin relaxation due to binary
+alkali-atom collisions dominates independently acting decoherence processes.

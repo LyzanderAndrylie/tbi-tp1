@@ -1,0 +1,12 @@
+The Nash Equilibrium is a much discussed, deceptively complex, method for the
+analysis of non-cooperative games. If one reads many of the commonly available
+definitions the description of the Nash Equilibrium is deceptively simple in
+appearance. Modern research has discovered a number of new and important
+complex properties of the Nash Equilibrium, some of which remain as
+contemporary conundrums of extraordinary difficulty and complexity. Among the
+recently discovered features which the Nash Equilibrium exhibits under various
+conditions are heteroclinic Hamiltonian dynamics, a very complex asymptotic
+structure in the context of two-player bi-matrix games and a number of
+computationally complex or computationally intractable features in other
+settings. This paper reviews those findings and then suggests how they may
+inform various market prediction strategies.

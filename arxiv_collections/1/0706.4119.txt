@@ -1,0 +1,11 @@
+Relations between scattering and production amplitudes are studied in a
+microscopic multichannel model for meson-meson scattering, with coupling to
+confined quark-antiquark channels. Overlapping resonances and a proper
+threshold behaviour are treated exactly in the model. Under the spectator
+assumption, it is found that the two-particle production amplitude shares a
+common denominator with the elastic scattering amplitude, besides a numerator
+consisting of a linear combination of all elastic and some inelastic matrix
+elements. The coefficients in these linear combinations are shown to be
+generally complex. Finally, the standard operator expressions relating
+production and scattering amplitudes, viz. A=T/V and Im(A)=T*A, are fulfilled,
+while in the small-coupling limit the usual isobar model is recovered.

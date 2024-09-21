@@ -1,0 +1,15 @@
+We consider an asexual population evolving on rugged fitness landscapes which
+are defined on the multi-dimensional genotypic space and have many local
+optima. We track the most populated genotype as it changes when the population
+jumps from a fitness peak to a better one during the process of adaptation.
+This is done using the dynamics of the shell model which is a simplified
+version of the quasispecies model for infinite populations and standard
+Wright-Fisher dynamics for large finite populations. We show that the
+population fraction of a genotype obtained within the quasispecies model and
+the shell model match for fit genotypes and at short times, but the dynamics of
+the two models are identical for questions related to the most populated
+genotype. We calculate exactly several properties of the jumps in infinite
+populations some of which were obtained numerically in previous works. We also
+present our preliminary simulation results for finite populations. In
+particular, we measure the jump distribution in time and find that it decays as
+$t^{-2}$ as in the quasispecies problem.

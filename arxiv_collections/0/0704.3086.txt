@@ -1,0 +1,11 @@
+We consider gradient fields $(\phi_x:x\in \mathbb{Z}^d)$ whose law takes the
+Gibbs--Boltzmann form $Z^{-1}\exp\{-\sum_{< x,y>}V(\phi_y-\phi_x)\}$, where the
+sum runs over nearest neighbors. We assume that the potential $V$ admits the
+representation \[V(\eta):=-\log\int\varrho({d}\kappa)\exp\biggl[-{1/2}\kappa\et
+a^2\biggr],\] where $\varrho$ is a positive measure with compact support in
+$(0,\infty)$. Hence, the potential $V$ is symmetric, but nonconvex in general.
+While for strictly convex $V$'s, the translation-invariant, ergodic gradient
+Gibbs measures are completely characterized by their tilt, a nonconvex
+potential as above may lead to several ergodic gradient Gibbs measures with
+zero tilt. Still, every ergodic, zero-tilt gradient Gibbs measure for the
+potential $V$ above scales to a Gaussian free field.

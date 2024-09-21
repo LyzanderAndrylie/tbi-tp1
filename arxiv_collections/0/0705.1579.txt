@@ -1,0 +1,9 @@
+We investigate the integer quantum Hall system in a two dimensional lattice
+model with spatially correlated disorder by using the efficient method to
+calculate the Chern number proposed by Fukui \textit{et al}. Distribution of
+charge density indicates that the extended states at the center of each Landau
+band have percolating current paths, which are topologically equivalent to the
+edge states that exist in a system with boundaries. As increasing the strength
+of disorder, floating feature is observed in an averaged Hall conductance as a
+function of filling factor. Its relation to the observed experiments is also
+discussed.

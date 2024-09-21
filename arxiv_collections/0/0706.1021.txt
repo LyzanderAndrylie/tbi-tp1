@@ -1,0 +1,3 @@
+Let $G$ be a compact Lie group acting on a compact complex manifold $M$. We
+prove a trace density formula for the $G$-Lefschetz number of a differential
+operator on $M$. We generalize Engeli and Felder's recent results to orbifolds.

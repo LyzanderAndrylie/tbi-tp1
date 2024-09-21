@@ -1,0 +1,8 @@
+Based on consideration of the system symmetry and its Hilbert space, we show
+that strongly interacting fermions in an optical lattice or superlattice can be
+generically described by a lattice resonance Hamiltonian. The latter can be
+mapped to a general Hubbard model with particle assisted tunneling rates. We
+investigate the model under population imbalance and show the attractive and
+the repulsive models have the same complexity in phase diagram under the
+particle-hole mapping. Using this mapping, we propose an experimental method to
+detect possible exotic superfluid/magnetic phases for this system.

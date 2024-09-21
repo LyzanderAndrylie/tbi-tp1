@@ -1,0 +1,20 @@
+Utilizing 21 new Chandra observations as well as archival Chandra, ROSAT, and
+XMM-Newton data, we study the X-ray properties of a representative sample of 59
+of the most optically luminous quasars in the Universe (M_i~~-29.3 to -30.2)
+spanning a redshift range of z~~1.5-4.5. Our full sample consists of 32 quasars
+from the Sloan Digital Sky Survey (SDSS) Data Release 3 (DR3) quasar catalog,
+two additional objects in the DR3 area that were missed by the SDSS selection
+criteria, and 25 comparably luminous quasars at z>~4. This is the largest X-ray
+study of such luminous quasars to date. By jointly fitting the X-ray spectra of
+our sample quasars, excluding radio-loud and broad absorption line (BAL)
+objects, we find a mean X-ray power-law photon index of
+Gamma=1.92^{+0.09}_{-0.08} and constrain any neutral intrinsic absorbing
+material to have a mean column density of N_H<~2x10^{21} cm^{-2}. We find,
+consistent with other studies, that Gamma does not change with redshift, and we
+constrain the amount of allowed Gamma evolution for the most-luminous quasars.
+Our sample, excluding radio-loud and BAL quasars, has a mean X-ray-to-optical
+spectral slope of a_ox=-1.80+/-0.02, as well as no significant evolution of
+a_ox with redshift. We also comment upon the X-ray properties of a number of
+notable quasars, including an X-ray weak quasar with several strong narrow
+absorption-line systems, a mildly radio-loud BAL quasar, and a well-studied
+gravitationally lensed quasar.

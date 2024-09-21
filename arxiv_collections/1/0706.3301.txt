@@ -1,0 +1,8 @@
+We analyze the symmetries and other invariant qualities of the
+$\mathcal{D}$-metrics (type D aligned Einstein Maxwell solutions with
+cosmological constant whose Debever null principal directions determine
+shear-free geodesic null congruences). We recover some properties and deduce
+new ones about their isometry group and about their quadratic first integrals
+of the geodesic equation, and we analyze when these invariant symmetries
+characterize the family of metrics. We show that the subfamily of the Kerr-NUT
+solutions are those admitting a Papapetrou field aligned with the Weyl tensor.

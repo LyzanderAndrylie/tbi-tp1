@@ -1,0 +1,8 @@
+The theory of optical dispersive shocks generated in propagation of light
+beams through photorefractive media is developed. Full one-dimensional
+analytical theory based on the Whitham modulation approach is given for the
+simplest case of sharp step-like initial discontinuity in a beam with
+one-dimensional strip-like geometry. This approach is confirmed by numerical
+simulations which are extended also to beams with cylindrical symmetry. The
+theory explains recent experiments where such dispersive shock waves have been
+observed.

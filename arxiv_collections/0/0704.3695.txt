@@ -1,0 +1,7 @@
+We construct SU(2) calorons, with non-trivial holonomy, instanton charge 2
+and magnetic charge 0 or -1; these calorons have two constituent monopoles,
+with charges (2,2) or (2,1). Our calorons are U(1)-symmetric and are
+constructed via the Nahm transform. They fall into distinct families which can
+be classified using representation theory. We consider large scale and large
+period limits of these calorons; in particular, the large scale limit may be a
+monopole, or a caloron with different topological charges.

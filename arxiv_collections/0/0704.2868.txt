@@ -1,0 +1,12 @@
+In this paper we study random induced subgraphs of the binary $n$-cube,
+$Q_2^n$. This random graph is obtained by selecting each $Q_2^n$-vertex with
+independent probability $\lambda_n$. Using a novel construction of
+subcomponents we study the largest component for
+$\lambda_n=\frac{1+\chi_n}{n}$, where $\epsilon\ge \chi_n\ge n^{-{1/3}+
+\delta}$, $\delta>0$. We prove that there exists a.s. a unique largest
+component $C_n^{(1)}$. We furthermore show that $\chi_n=\epsilon$, $|
+C_n^{(1)}|\sim \alpha(\epsilon) \frac{1+\chi_n}{n} 2^n$ and for $o(1)=\chi_n\ge
+n^{-{1/3}+\delta}$, $| C_n^{(1)}| \sim 2 \chi_n \frac{1+\chi_n}{n} 2^n$ holds.
+This improves the result of \cite{Bollobas:91} where constant $\chi_n=\chi$ is
+considered. In particular, in case of $\lambda_n=\frac{1+\epsilon} {n}$, our
+analysis implies that a.s. a unique giant component exists.

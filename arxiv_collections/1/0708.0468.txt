@@ -1,0 +1,10 @@
+Excitonic polaron is directly demonstrated for the first time in InAs/GaAs
+quantum dots with photoluminescence method. A new peak ($s'$) below the ground
+state of exciton ($s$) comes out as the temperature varies from 4.2 K to 285 K,
+and a huge anticrossing energy of 31 meV between $s'$ and $s$ is observed at
+225 K, which can only be explained by the formation of excitonic polaron. The
+results also provide a strong evidence for the invalidity of Huang-Rhys
+formulism in dealing with carrier-longitudinal optical phonon interaction in
+quantum dot. Instead, we propose a simple two-band model, and it fits the
+experimental data quite well. The reason for the finding of the anticrossing is
+also discussed.

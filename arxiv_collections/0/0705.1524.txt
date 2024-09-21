@@ -1,0 +1,20 @@
+We describe the role of GeV gamma-ray observations with GLAST-LAT (Gamma-ray
+Large Area Space Telescope - Large Area Telescope) in identifying interaction
+sites of cosmic-ray proton (or hadrons) with interstellar medium (ISM). We
+expect to detect gamma rays from neutral pion decays in high-density ISM
+regions in the Galaxy, Large Magellanic Cloud, and other satellite galaxies.
+These gamma-ray sources have been detected already with EGRET (Energetic Gamma
+Ray Experiment Telescope) as extended sources (eg. LMC and Orion clouds) and
+GLAST-LAT will detect many more with a higher spatial resolution and in a wider
+spectral range. We have developed a novel image restoration technique based on
+the Richardson-Lucy algorithm optimized for GLAST-LAT observation of extended
+sources. Our algorithm calculates PSF (point spread function) for each event.
+This step is very important for GLAST-LAT and EGRET image analysis since PSF
+varies more than one order of magnitude from one gamma ray to another depending
+on its energy as well as its impact point and angle in the instrument. The
+GLAST-LAT and EGRET image analysis has to cope with Poisson fluctuation due to
+low number of detected photons for most sources. Our technique incorporates
+wavelet filtering to minimize effects due to the fluctuation. Preliminary
+studies on some EGRET sources are presented, which shows potential of this
+novel image restoration technique for the identification and characterisation
+of extended gamma-ray sources.

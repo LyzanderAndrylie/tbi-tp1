@@ -1,0 +1,13 @@
+Semiclassical limits of generic multiparameter quantized coordinate rings A =
+O_q(k^n) of affine spaces are constructed and related to A, for k an
+algebraically closed field of characteristic zero and q a multiplicatively
+antisymmetric matrix whose entries generate a torsionfree subgroup of k*. A
+semiclassical limit of A is a Poisson algebra structure on the corresponding
+classical coordinate ring R = O(k^n), and results of Oh, Park, Shin and the
+authors are used to construct homeomorphisms from the Poisson prime and Poisson
+primitive spectra of R onto the prime and primitive spectra of A. The Poisson
+primitive spectrum of R is then identified with the space of symplectic cores
+in k^n in the sense of Brown and Gordon, and an example is presented (over the
+complex numbers) for which the Poisson primitive spectrum of R is not
+homeomorphic to the space of symplectic leaves in k^n. Finally, these results
+are extended from quantum affine spaces to quantum affine toric varieties.

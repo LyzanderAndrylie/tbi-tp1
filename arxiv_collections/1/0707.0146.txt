@@ -1,0 +1,17 @@
+In two previous articles [Phys. Rev. D71 (2005) 124307 (gr-qc/0503007), and
+gr-qc/0607001] we have discussed several "algorithmic" techniques that permit
+one (in a purely mechanical way) to generate large classes of general
+relativistic static perfect fluid spheres. Working in Schwarzschild curvature
+coordinates, we used these algorithmic ideas to prove several
+"solution-generating theorems" of varying levels of complexity. In the present
+article we consider the situation in other coordinate systems: In particular,
+in general diagonal coordinates we shall generalize our previous theorems, in
+isotropic coordinates we shall encounter a variant of the so-called "Buchdahl
+transformation", while in other coordinate systems (such as Gaussian polar
+coordinates, Synge isothermal coordinates, and Buchdahl coordinates) we shall
+find a number of more complex "Buchdahl-like transformations" and
+"solution-generating theorems" that may be used to investigate and classify the
+general relativistic static perfect fluid sphere. Finally by returning to
+general diagonal coordinates and making a suitable ansatz for the functional
+form of the metric components we place the Buchdahl transformation in its most
+general possible setting.

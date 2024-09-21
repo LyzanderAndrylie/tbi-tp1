@@ -1,0 +1,14 @@
+Many complex systems are characterized by intriguing spatio-temporal
+structures. Their mathematical description relies on the analysis of
+appropriate correlation functions. Functional integral techniques provide a
+unifying formalism that facilitates the computation of such correlation
+functions and moments, and furthermore allows a systematic development of
+perturbation expansions and other useful approximative schemes. It is explained
+how nonlinear stochastic processes may be mapped onto exponential probability
+distributions, whose weights are determined by continuum field theory actions.
+Such mappings are madeexplicit for (1) stochastic interacting particle systems
+whose kinetics is defined through a microscopic master equation; and (2)
+nonlinear Langevin stochastic differential equations which provide a mesoscopic
+description wherein a separation of time scales between the relevant degrees of
+freedom and background statistical noise is assumed. Several well-studied
+examples are introduced to illustrate the general methodology.

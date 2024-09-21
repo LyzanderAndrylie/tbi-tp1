@@ -1,0 +1,4 @@
+A heavy focus for optical quantum computing is the introduction of
+error-correction, and the minimisation of resource requirements. We detail a
+complete encoding and manipulation scheme designed for linear optics quantum
+computing, incorporating scalable operations and loss-tolerant architecture.

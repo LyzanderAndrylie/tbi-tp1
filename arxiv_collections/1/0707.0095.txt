@@ -1,0 +1,11 @@
+As was noted already by A. N. Kolmogorov, any random variable has a Bernoulli
+component. This observation provides a tool for the extension of results which
+are known for Bernoulli random variables to arbitrary distributions. Two
+applications are provided here: i. an anti-concentration bound for a class of
+functions of independent random variables, where probabilistic bounds are
+extracted from combinatorial results, and ii. a proof, based on the Bernoulli
+case, of spectral localization for random Schroedinger operators with arbitrary
+probability distributions for the single site coupling constants. For a general
+random variable, the Bernoulli component may be defined so that its conditional
+variance is uniformly positive. The natural maximization problem is an optimal
+transport question which is also addressed here.

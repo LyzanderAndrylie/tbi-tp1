@@ -1,0 +1,8 @@
+We construct the scalar and graviton propagator in quasi de Sitter space up
+to first order in the slow roll parameter $\epsilon\equiv -\dot{H}/H^2$. After
+a rescaling, the propagators are similar to those in de Sitter space with an
+$\epsilon$ correction to the effective mass. The limit $\epsilon\to 0$
+corresponds to the E(3) vacuum that breaks de Sitter symmetry, but does not
+break spatial isotropy and homogeneity. The new propagators allow for a
+self-consistent, dynamical study of quantum back-reaction effects during
+inflation.

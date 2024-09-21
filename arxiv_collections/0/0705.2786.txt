@@ -1,0 +1,13 @@
+Virtualization became recently a hot topic once again, after being dormant
+for more than twenty years. In the meantime, it has been almost forgotten, that
+virtual machines are not so perfect isolating environments as it seems, when
+looking at the principles. These lessons were already learnt earlier when the
+first virtualized systems have been exposed to real life usage.
+  Contemporary virtualization software enables instant creation and destruction
+of virtual machines on a host, live migration from one host to another,
+execution history manipulation, etc. These features are very useful in
+practice, but also causing headaches among security specialists, especially in
+current hostile network environments.
+  In the present contribution we discuss the principles, potential benefits and
+risks of virtualization in a deja vu perspective, related to previous
+experiences with virtualization in the mainframe era.

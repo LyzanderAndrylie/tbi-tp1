@@ -1,0 +1,23 @@
+[abridged] We present the results of a spectroscopic survey of the recently
+discovered faint Milky Way satellites Boo, UMaI, UMaII and Wil1. Using the
+DEIMOS spectrograph on Keck, we have obtained samples that contain from 15 to
+85 probable members of these satellites for which we derive radial velocities
+precise to a few km/s down to i~21-22. About half of these stars are observed
+with a high enough S/N to estimate their metallicity to within \pm0.2 dex. From
+this dataset, we show that UMaII is the only object that does not show a clear
+radial velocity peak. However, the measured systemic radial velocity
+(v_r=115\pm5 km/s) is in good agreement with recent simulations in which this
+object is the progenitor of the recently discovered Orphan Stream. The three
+other satellites show velocity dispersions that make them highly dark-matter
+dominated systems. In particular the Willman 1 object is not a globular cluster
+given its metallicity scatter over -2.0<[Fe/H]<-1.0 and is therefore almost
+certainly a dwarf galaxy or dwarf galaxy remnant. We measure a radial velocity
+dispersion of only 4.3_{-1.3}^{+2.3} km/s around a systemic velocity of
+-12.3\pm2.3 km/s which implies a mass-to-light ratio of ~700 and a total mass
+of ~5x10^5 Msun for this satellite, making it the least massive satellite
+galaxy known to date. Such a low mass could mean that the 10^7 Msun limit that
+had until now never been crossed for Milky Way and Andromeda satellite galaxies
+may only be an observational limit and that fainter, less massive systems exist
+within the Local Group. However, more modeling and an extended search for
+potential extra-tidal stars are required to rule out the possibility that these
+systems have not been significantly heated by tidal interaction.

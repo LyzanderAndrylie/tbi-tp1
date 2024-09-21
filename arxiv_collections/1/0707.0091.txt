@@ -1,0 +1,14 @@
+We open out one of incorrect solutions of the Driac equation in the Coulomb
+field given in a published paper. By introducing a transformation of function,
+the paper transformed the original radial first-order Dirac-Coulomb equation
+into two second-order Dirac-Coulomb equation. However, each of the second-order
+differential equations has differential energy eigenvalues set. The original
+paper wrote the two differential equations into one of forms, and then gave the
+distinguished energy eigenvalues. The mathematical procedure is not correct.
+For the same quantum system, introducing a transformation of function yields
+two different energy eigenvaluse, the result violates the uniqueness of
+solution. It actually shows that the given second-order differential equations
+have no solution. On the other hand, the given formal solutions of the
+second-order Dirac-Coulomb equations violate the conditions for determining
+solution. Consequently, the solutions given by the author are pseudo solution,
+and the corresponding energy eigenvalues set is also a pseudo eigenvalues set.

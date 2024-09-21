@@ -1,0 +1,11 @@
+We propose a new method to determine the mass and width differences of the
+two D meson mass-eigenstates as well as the CP violating parameters associated
+with D^0-\bar{D}^0 mixing. We show that an accurate measurement of all the
+mixing parameters is possible for an arbitrary CP violating phase, by combining
+observables from a time dependent study of D decays to a doubly Cabibbo
+suppressed mode with information from a CP eigenstate. As an example we
+consider D^0-> K^{*0} \pi^0 decays where the K^{*0} is reconstructed in both
+K^+\pi^- and K_S\pi^0. We also show that decays to the CP eigenstate D-> K^+K^-
+together with D-> K^+\pi^- can be used to extract all the mixing parameters. A
+combined analysis using D^0-> K^{*0} \pi^0 and D-> K^+K^- can also be used to
+reduce the ambiguity in the determination of parameters.

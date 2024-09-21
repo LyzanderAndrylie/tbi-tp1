@@ -1,0 +1,16 @@
+We introduce here a rewrite system in the group of unimodular matrices,
+\emph{i.e.}, matrices with integer entries and with determinant equal to $\pm
+1$. We use this rewrite system to precisely characterize the mechanism of the
+Gaussian algorithm, that finds shortest vectors in a two--dimensional lattice
+given by any basis. Putting together the algorithmic of lattice reduction and
+the rewrite system theory, we propose a new worst--case analysis of the
+Gaussian algorithm. There is already an optimal worst--case bound for some
+variant of the Gaussian algorithm due to Vall\'ee \cite {ValGaussRevisit}. She
+used essentially geometric considerations. Our analysis generalizes her result
+to the case of the usual Gaussian algorithm. An interesting point in our work
+is its possible (but not easy) generalization to the same problem in higher
+dimensions, in order to exhibit a tight upper-bound for the number of
+iterations of LLL--like reduction algorithms in the worst case. Moreover, our
+method seems to work for analyzing other families of algorithms. As an
+illustration, the analysis of sorting algorithms are briefly developed in the
+last section of the paper.

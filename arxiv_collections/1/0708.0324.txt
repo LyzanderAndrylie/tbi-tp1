@@ -1,0 +1,20 @@
+The naive time reversal odd (``T-odd'') parton distribution $h_{1}^{\perp}$,
+the so-called Boer-Mulders function, for both up ($u$) and down ($d$) quarks is
+considered in the diquark spectator model. While the results of different
+articles in the literature suggest that the signs of the Boer-Mulders function
+in semi-inclusive DIS for both flavors $u$ and $d$ are the same and negative, a
+previous calculation in the diquark-spectator model found that
+$h_{1}^{\perp(u)}$ and $h_{1}^{\perp(d)}$ have different signs. The flavor
+dependence is of significance for the analysis of the azimuthal $\cos(2\phi)$
+asymmetries in unpolarized SIDIS and DY-processes, as well as for the overall
+physical understanding of the distribution of transversely polarized quarks in
+unpolarized nucleons. We find substantial differences with previous work. In
+particular we obtain half and first moments of Boer-Mulders function that are
+negative over the full range in Bjorken $x$ for both the $u$- and $d$- quarks.
+In conjunction with the Collins function we then predict the $\cos(2\phi)$
+azimuthal asymmetry for $\pi^{+}$ and $\pi^{-}$ in this framework. We also find
+that the Sivers $u$- and $d$- quark are negative and positive respectively. As
+a by-product of the formalism, we calculate the chiral-odd but ``T-even''
+function $h_{1L}^{\perp}$, which allows us to present a prediction for the
+single spin asymmetry $A_{UL}^{\sin(2\phi)}$ for a longitudinally polarized
+target in SIDIS.

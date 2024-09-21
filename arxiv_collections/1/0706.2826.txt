@@ -1,0 +1,12 @@
+The stationary nonlinear Schr\"odinger equation (or Gross-Pitaevskii
+equation) for one-dimensional potential scattering is studied. The nonlinear
+transmission function shows a distorted profile, which differs from the
+Lorentzian one found in the linear case. This nonlinear profile function is
+analyzed and related to Siegert type complex resonances. It is shown, that the
+characteristic nonlinear profile function can be conveniently described in
+terms of skeleton functions depending on a few instructive parameters. These
+skeleton functions also determine the decay behavior of the underlying
+resonance state. Furthermore we extend the Siegert method for calculating
+resonances, which provides a convenient recipe for calculating nonlinear
+resonances. Applications to a double Gaussian barrier and a square well
+potential illustrate our analysis.

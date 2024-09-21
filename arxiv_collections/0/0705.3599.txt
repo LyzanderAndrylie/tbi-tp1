@@ -1,0 +1,6 @@
+We completely describe all integer symmetric matrices that have all their
+eigenvalues in the interval [-2,2]. Along the way we classify all signed
+graphs, and then all charged signed graphs, having all their eigenvalues in
+this same interval. We then classify subsets of the above for which the integer
+symmetric matrices, signed graphs and charged signed graphs have all their
+eigenvalues in the open interval (-2,2).

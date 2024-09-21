@@ -1,0 +1,21 @@
+We present results of the HST Advanced Camera for Surveys spectroscopic
+ground-based redshift survey in the field of A1689. We measure 98 redshifts,
+increasing the number of spectroscopically confirmed objects by sixfold. We
+present two spectra from this catalog of the Sextet Arcs, images which arise
+from a strongly-lensed Lyman Break Galaxy (LBG) at a redshift of z=3.038.
+Gravitational lensing by the cluster magnifies its flux by a factor of ~16 and
+produces six separate images with a total r-band magnitude of r_625=21.7. The
+two spectra, each of which represents emission from different regions of the
+LBG, show H I and interstellar metal absorption lines at the systemic redshift.
+Significant variations are seen in Ly-alpha profile across a single galaxy,
+ranging from strong absorption to a combination of emission plus absorption. A
+spectrum of a third image close to the brightest arc shows Ly-alpha emission at
+the same redshift as the LBG, arising from either another spatially distinct
+region of the galaxy, or from a companion galaxy close to the LBG. Taken as a
+group, the Ly-alpha equivalent width in these three spectra decreases with
+increasing equivalent width of the strongest interstellar absorption lines. We
+discuss how these variations can be used to understand the physical conditions
+in the LBG. Intrinsically, this LBG is faint, ~0.1L*, and forming stars at a
+modest rate, ~4 solar masses per year. We also detect absorption line systems
+toward the Sextet Arcs at z=2.873 and z=2.534. The latter system is seen across
+two of our spectra.

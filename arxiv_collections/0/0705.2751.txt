@@ -1,0 +1,7 @@
+We study the dynamic critical behavior of the Chayes-Machta dynamics for the
+Fortuin-Kasteleyn random-cluster model, which generalizes the Swendsen-Wang
+dynamics for the q-state Potts model to noninteger q, in two and three spatial
+dimensions, by Monte Carlo simulation. We show that the Li-Sokal bound z \ge
+\alpha/\nu is close to but probably not sharp in d=2, and is far from sharp in
+d=3, for all q. The conjecture z \ge \beta/\nu is false (for some values of q)
+in both d=2 and d=3.

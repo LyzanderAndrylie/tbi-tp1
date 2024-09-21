@@ -1,0 +1,9 @@
+We explore the parameter space of a Constrained Next-to-Minimal
+Supersymmetric Standard Model with GUT scale boundary conditions (CNMSSM) and
+find regions where the relic density of the lightest neutralino is compatible
+with the WMAP measurement. We emphasize differences with the MSSM: cases where
+annihilation of the LSP occurs via a Higgs resonance at low values of tan\beta
+and cases where the LSP has a large singlino component. The particle spectrum
+as well as theoretical and collider constraints are calculated with NMSSMTools.
+All neutralino annihilation and coannihilation processes are then computed with
+micrOMEGAs, taking into account higher order corrections to the Higgs sector.

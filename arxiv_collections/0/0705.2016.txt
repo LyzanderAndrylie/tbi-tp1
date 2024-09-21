@@ -1,0 +1,11 @@
+We compare experimental resistivity data on Ga_{1-x}Mn_xAs films with
+theoretical calculations using a scaling theory for strongly disordered
+ferromagnets. All characteristic features of the temperature dependence of the
+resistivity can be quantitatively understood through this approach as
+originating from the close vicinity of the metal-insulator transition. In
+particular, we find that the magnetic field induced changes in resistance
+cannot be explained within a mean-field treatment of the magnetic state, and
+that accounting for thermal fluctuations is crucial for a quantitative
+analysis. Similarly, while the non-interacting scaling theory is in reasonable
+agreement with the data, we find clear evidence in favor of interaction effects
+at low temperatures.

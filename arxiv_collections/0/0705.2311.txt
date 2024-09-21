@@ -1,0 +1,15 @@
+In the classical one-dimensional solution of fluid dynamics equations all
+unknown functions depend only on time t and Cartesian coordinate x. Although
+fluid spreads in all directions (velocity vector has three components) the
+whole picture of motion is relatively simple: trajectory of one fluid particle
+from plane x=const completely determines motion of the whole plane. Basing on
+the symmetry analysis of differential equations we propose generalization of
+this solution allowing movements in different directions of fluid particles
+belonging to plane x=const. At that, all functions but an angle determining the
+direction of particle's motion depend on t and x only, whereas the angle
+depends on all coordinates. In this solution the whole picture of motion
+superposes from identical trajectories placed under different angles in 3D
+space. Orientations of the trajectories are restricted by a finite relation
+possessing functional arbitrariness. The solution describes three-dimensional
+nonlinear processes and singularities in infinitely conducting plasma, gas or
+incompressible liquid.

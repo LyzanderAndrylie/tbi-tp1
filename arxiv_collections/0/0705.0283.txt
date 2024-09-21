@@ -1,0 +1,8 @@
+The analytical expressions and the numerical values of the renormalisation
+constants of ${\cal O}(a)$ improved static-light currents are given at one-loop
+order of perturbation theory in the framework of Heavy Quark Effective Theory:
+the static quark is described by the HYP action and the light quark is
+described either with the Clover or the Neuberger action. These factors are
+relevant to extract from a lattice computation the decay constants $f_B$,
+$f_{B_S}$ and the set of bag parameters $B_i$ associated with $B-\bar{B}$
+mixing phenomenology in the Standard Model and beyond.

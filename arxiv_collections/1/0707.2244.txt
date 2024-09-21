@@ -1,0 +1,8 @@
+We propose a technique for achieving large improvements in carrier mobilities
+in 2- and 1-dimensional semiconductor nanostructures by modifying their
+dielectric environments. We show that by coating the nanostructures with
+high-$\kappa$ dielectrics, scattering from Coulombic impurities can be strongly
+damped. Though screening is also weakened, the damping of Coulombic scattering
+is much larger, and the resulting improvement in mobilities of carriers can be
+as much as an order of magnitude for thin 2D semiconductor membranes, and more
+for semiconductor nanowires.

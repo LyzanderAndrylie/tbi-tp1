@@ -1,0 +1,21 @@
+Using optical tweezers and a haptic device, microspheres having diameters
+ranging from 3 to 4 um (floating in a fluid solution) are manipulated in order
+to form patterns of coupled optical microresonators by assembling the spheres
+via chemical binding. For this purpose, biotin-coated microspheres trapped by a
+laser beam are steered and chemically attached to an immobilized
+streptavidin-coated sphere (i.e. anchor sphere) one by one using an XYZ piezo
+scanner controlled by a haptic device. The positions of all spheres in the
+scene are detected using a CCD camera and a collision-free path for each
+manipulated sphere is generated using the potential field approach. The forces
+acting on the manipulated particle due to the viscosity of the fluid and the
+artificial potential field are scaled and displayed to the user through the
+haptic device for better guidance and control during steering. In addition, a
+virtual fixture is implemented such that the desired angle of approach and
+strength are achieved during the binding phase. Our experimental studies in
+virtual and real environments with 8 human subjects show that haptic feedback
+significantly improves the user performance by reducing the task completion
+time, the number of undesired collisions during steering, and the positional
+errors during binding. To our knowledge, this is the first time that a haptic
+device is coupled with OT to guide the user during an optical manipulation task
+involving steering and assembly of microspheres to construct a coupled
+microresonator.

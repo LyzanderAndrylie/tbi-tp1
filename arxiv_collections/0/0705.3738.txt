@@ -1,0 +1,12 @@
+In the framework of the Neutronic and Nuclear Assessment Task Group of the
+MEGAPIE experiment we measured the delayed neutron (DN) flux at the top of the
+target. The measurement was proposed mainly for radioprotection purposes since
+the DN flux at the top of the target has been estimated to be of the same order
+of magnitude as the prompt neutron flux. Given the strong model-dependence of
+DN predictions, the measurement of DN contribution to the total neutron
+activity at the top of the target was thus desired. Moreover, this measurement
+is complementary to the DN experiments performed at PNPI (Gatchina) on solid
+lead and bismuth targets. The DN measurement at MEGAPIE was performed during
+the start-up phase of the target. In this paper we present a detailed
+description of the experimental setup and some preliminary results on decay
+spectra.

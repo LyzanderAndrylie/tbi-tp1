@@ -1,0 +1,12 @@
+Two neutrino mixing angles have been measured, and much of the neutrino
+community is turning its attention to the unmeasured mixing angle, $\quq$,
+whose best limit comes from the reactor neutrino experiment
+CHOOZ.\cite{bib:chooz} New two detector reactor neutrino experiments are being
+planned, along with more ambitious accelerator experiments, to measure or
+further limit $\quq$. Here I will overview how to measure $\quq$ using reactor
+neutrinos, mention some experiments that were considered and are not going
+forward, and review the current status of four projects: Double Chooz in
+France, Daya Bay in China, RENO in South Korea and Angra in Brazil. Finally I
+will mention how the neutrino observer can gauge progress in these projects two
+years from now as we approach the times corresponding to early estimates for
+new results.

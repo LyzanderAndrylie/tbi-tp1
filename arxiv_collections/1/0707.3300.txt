@@ -1,0 +1,7 @@
+The breaking of SO(10) to SU(3)_C x U(1)_EM can be accomplished by just four
+Higgs fields: the symmetric rank-two tensor, S(54); a pair of spinors, C(16)
+and Cbar(16bar); and a vector, T(10). This setup is also able to generate
+realistic fermion masses. The heavy color triplets in the vector and spinor
+fields mediate proton decay via dimension-five operators. The experimental
+bounds on proton decay constrain the structure and size of the Yukawa
+operators.

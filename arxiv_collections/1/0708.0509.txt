@@ -1,0 +1,5 @@
+Interacting Growth Walks is a recently proposed stochastic model for studying
+the coil-globule transition of linear polymers. We propose a flat energy
+histogram version for Interacting Growth Walk. We demonstrate the algorithm on
+two dimensional square and triangular lattices by calculating the density of
+energy states of Interacting Self Avoiding Walks.

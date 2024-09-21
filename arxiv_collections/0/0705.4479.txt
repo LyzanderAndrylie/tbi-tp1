@@ -1,0 +1,14 @@
+Nonequilibrium steady-state currents, unlike their equilibrium counterparts,
+continuously dissipate energy into their physical surroundings leading to
+entropy production and time-reversal symmetry breaking. This letter discusses
+these issues in the context of quantum impurity models driven out of
+equilibrium by attaching the impurity to leads at different chemical potentials
+and temperatures. We start by pointing out that entropy production is often
+hidden in traditional treatments of quantum-impurity models. We then use simple
+thermodynamic arguments to define the rate of entropy production. Using the
+scattering framework recently developed by the authors we show that the rate of
+entropy production has a simple information theoretic interpretation in terms
+of the Shannon entropy and Kullback-Leibler divergence of nonequilibrium
+distribution function. This allows us to show that the entropy production is
+strictly positive for any nonequilibrium steady-state. We conclude by applying
+these ideas to the Resonance Level Model and the Kondo model.

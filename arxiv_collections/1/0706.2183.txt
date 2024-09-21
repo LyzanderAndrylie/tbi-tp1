@@ -1,0 +1,6 @@
+We calculate quarkonium spectral functions in a quark-gluon plasma using a
+potential model based on full QCD lattice calculations of the free energy of
+static quark-antiquark pair. We estimate the binding energy and the thermal
+width of different quarkonium states. The estimated upper limit for the
+dissociation temperatures is considerably lower than the ones suggested in the
+recent literature.

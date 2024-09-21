@@ -1,0 +1,11 @@
+We calculate the transverse-momentum (p_T) distribution for the inclusive
+hadroproduction of B mesons at intermediate values of p_T at next-to-leading
+order (NLO) in a dedicated finite-mass scheme using realistic non-perturbative
+fragmentation functions that are obtained through a global fit to e^+e^- data
+from CERN LEP1 and SLAC SLC exploiting their universality and scaling
+violations. We find that finite-mass effects moderately enhance the cross
+section, by about 20% at p_T = 2 m_b, and rapidly fade out with increasing
+value of p_T, so that the zero-mass prediction is reached. We also perform
+comparisons with recent ppbar data taken by the CDF Collaboration in run II at
+the Fermilab Tevatron and comment on the usefulness of the fixed-flavor-number
+scheme.

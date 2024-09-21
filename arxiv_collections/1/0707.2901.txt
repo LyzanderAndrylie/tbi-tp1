@@ -1,0 +1,14 @@
+Field-tuned superconductor-insulator transition (FSIT) behavior in 2D
+isotropic and homogeneous thin films is usually accompanied by a nonvanishing
+critical resistance at low $T$. It is shown that, in a 2D film including line
+defects paralle to each other but with random positions perpendicular to them,
+the (apparent) critical resistance in low $T$ limit vanishes, as in the 1D
+quantum superconducting (SC) transition, under a current parallel to the line
+defects. This 1D-like critical resistive behavior is more clearly seen in
+systems with weaker point disorder and may be useful in clarifying whether the
+true origin of FSIT behavior in the parent superconductor is the glass
+fluctuation or the quantum SC fluctuation. As a by-product of the present
+calculation, it is also pointed out that, in 2D films with line-like defects
+with a long but {\it finite} correlation length parallel to the lines, a
+quantum metallic behavior intervening the insulating and SC ones appears in the
+resistivity curves.

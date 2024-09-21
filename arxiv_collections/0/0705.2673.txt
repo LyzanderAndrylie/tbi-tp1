@@ -1,0 +1,9 @@
+Time-of-flight (TOF) cameras are based on a new technology that delivers
+distance maps by the use of a modulated light source. In this paper we first
+describe a set of experiments that we performed with TOF cameras. We then
+propose a noise model which is able to explain some of the phenomena observed
+in the experiments. The model is based on assuming a noise source that is
+correlated with the light source (shot noise) and an additional additive noise
+source (dark current noise). The model predicts well the dependency of the
+distance errors on the image intensity and the true distance at an individual
+pixel.

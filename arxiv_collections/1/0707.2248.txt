@@ -1,0 +1,8 @@
+Drinfeld defined a unitarized R-matrix for any quantum group U_q(g). This
+gives a commutor for the category of U_q(g) representations, making it into a
+coboundary category. Henriques and Kamnitzer defined another commutor which
+also gives U_q(g) representations the structure of a coboundary category. We
+show that a particular case of Henriques and Kamnitzer's construction agrees
+with Drinfeld's commutor. We then describe the action of Drinfeld's commutor on
+a tensor product of two crystal bases, and explain the relation to the crystal
+commutor.

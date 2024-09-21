@@ -1,0 +1,16 @@
+We demonstrate that the transfer matrix of the inhomogeneous $N$-state chiral
+Potts model with two vertical superintegrable rapidities serves as the
+$Q$-operator of XXZ chain model for a cyclic representation of $U_{\sf
+q}(sl_2)$ with $N$th root-of-unity ${\sf q}$ and representation-parameter for
+odd $N$. The symmetry problem of XXZ chain with a general cyclic $U_{\sf
+q}(sl_2)$-representation is mapped onto the problem of studying $Q$-operator of
+some special one-parameter family of generalized $\tau^{(2)}$-models. In
+particular, the spin-$\frac{N-1}{2}$ XXZ chain model with ${\sf q}^N=1$ and the
+homogeneous $N$-state chiral Potts model at a specific superintegrable point
+are unified as one physical theory. By Baxter's method developed for producing
+$Q_{72}$-operator of the root-of-unity eight-vertex model, we construct the
+$Q_R, Q_L$- and $Q$-operators of a superintegrable $\tau^{(2)}$-model, then
+identify them with transfer matrices of the $N$-state chiral Potts model for a
+positive integer $N$. We thus obtain a new method of producing the
+superintegrable $N$-state chiral Potts transfer matrix from the
+$\tau^{(2)}$-model by constructing its $Q$-operator.

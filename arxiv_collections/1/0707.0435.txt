@@ -1,0 +1,12 @@
+We report a mode-locked Ti:sapphire femtosecond laser with 5GHz repetition
+rate. Spectral broadening of the 24 fs pulses in a microstructured fiber yields
+an octave-spanning spectrum and permits self-referencing and active
+stabilization of the emitted femtosecond laser frequency comb (FLFC). The
+individual modes of the 5GHz FLFC are resolved with a high-resolution
+spectrometer based on a virtually imaged phased array (VIPA) spectral
+disperser. Isolation of single comb elements at a microwatt average power level
+is demonstrated. The combination of the high-power, frequency-stabilized 5GHz
+laser and the straightforward resolution of its many modes will benefit
+applications in direct frequency comb spectroscopy. Additionally, such a
+stabilized FLFC should serve as a useful tool for direct mode-by-mode Fourier
+synthesis of arbitrary optical waveforms.

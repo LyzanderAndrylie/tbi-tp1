@@ -1,0 +1,8 @@
+Let S be a finite set of primes, p in S, and Q_S a maximal algebraic
+extension of Q unramified outside S and infinity. Assume that |S|>=2. We show
+that the natural maps Gal(Q_p^bar/Q_p) --> Gal(Q_S/Q) are injective. Much of
+the paper is devoted to the problem of constructing selfdual automorphic
+cuspidal representations of GL(2n,A_Q) with prescribed properties at all
+places, that we study via the twisted trace formula of J. Arthur. The
+techniques we develop shed also some lights on the orthogonal/symplectic
+alternative for selfdual representations of GL(2n).

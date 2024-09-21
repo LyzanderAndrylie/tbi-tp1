@@ -1,0 +1,8 @@
+It is shown that large deviation statistical quantities of the discrete time,
+finite state Markov process $P_{n+1}^{(j)}=\sum_{k=1}^NH_{jk}P_n^{(k)}$, where
+P_n^{(j)} is the probability for the j-state at the time step n and H_{jk} is
+the transition probability, completely coincides with those from the Kalman map
+corresponding to the above Markov process. Furthermore, it is demonstrated that
+by using simple examples, time correlation functions in finite state Markov
+processes can be well described in terms of unstable periodic orbits embedded
+in the equivalent Kalman maps.

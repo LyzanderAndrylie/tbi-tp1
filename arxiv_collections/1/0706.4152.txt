@@ -1,0 +1,9 @@
+Models undergoing a phase transition to an absorbing state weakly broken by
+the addition of a very low spontaneous nucleation rate are shown to exhibit
+hysteresis loops whose width $\Delta\lambda$ depends algebraically on the ramp
+rate $r$. Analytical arguments and numerical simulations show that
+$\Delta\lambda \sim r^{\kappa}$ with $\kappa = 1/(\beta'+1)$, where $\beta'$ is
+the critical exponent governing the survival probability of a seed near
+threshold. These results explain similar hysteresis scaling observed before in
+liquid crystal convection experiments. This phenomenon is conjectured to occur
+in a variety of other experimental systems.

@@ -1,0 +1,16 @@
+We have used the very large JVAS/CLASS 8.4-GHz surveys of flat-spectrum radio
+sources to test the hypothesis that there is a systematic alignment of
+polarization position angle vectors on cosmological scales of the type claimed
+by Hutsemekers et al (2005). The polarization position angles of 4290 sources
+with polarized flux density >=1 mJy have been examined. They do not reveal
+large-scale alignments either as a whole or when split in half into
+high-redshift (z >= 1.24) and low-redshift sub-samples. Nor do the radio
+sources which lie in the specific areas covered by Hutsemekers et al (2005).
+show any significant effect. We have also looked at the position angles of
+parsec-scale jets derived from VLBI observations and again find no evidence for
+systematic alignments. Finally, we have investigated the correlation between
+the polarization position angle and those of the parsec-scale jets. As
+expected, we find that there is a tendency for the polarization angles to be
+perpendicular to the jet angles. However, the difference in jet and
+polarization position angles does not show any systematic trend in different
+parts of the sky.

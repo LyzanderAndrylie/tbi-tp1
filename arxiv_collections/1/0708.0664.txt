@@ -1,0 +1,5 @@
+Grassmannian local hidden variables are shown to generate all possible
+quantum correlations in a bipartite quantum system. Grassmann representation of
+fermions, common in field theory, opens a related perspective. Although
+Grassmann hidden variables can not challange Bell's locality theorem, they can
+become an interesting mathematical tool to investigate entanglement.

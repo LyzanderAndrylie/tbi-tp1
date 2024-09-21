@@ -1,0 +1,9 @@
+We report an experimental demonstration of a complied version of Shor's
+algorithm using four photonic qubits. We choose the simplest instance of this
+algorithm, that is, factorization of N=15 in the case that the period $r=2$ and
+exploit a simplified linear optical network to coherently implement the quantum
+circuits of the modular exponential execution and semi-classical quantum
+Fourier transformation. During this computation, genuine multiparticle
+entanglement is observed which well supports its quantum nature. This
+experiment represents a step toward full realization of Shor's algorithm and
+scalable linear optics quantum computation.

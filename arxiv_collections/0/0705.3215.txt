@@ -1,0 +1,5 @@
+We consider the size and structure of the automorphism groups of a variety of
+empirical `real-world' networks and find that, in contrast to classical random
+graph models, many real-world networks are richly symmetric. We relate
+automorphism group structure to network topology and discuss generic forms of
+symmetry and their origin in real-world networks.

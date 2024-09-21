@@ -1,0 +1,5 @@
+I explore the origins of the unphysical predictions from rooted staggered
+fermion algorithms. Before rooting, the exact chiral symmetry of staggered
+fermions is a flavored symmetry among the four "tastes." The rooting procedure
+averages over tastes of different chiralities. This averaging forbids the
+appearance of the correct 't Hooft vertex for the target theory.

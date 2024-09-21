@@ -1,0 +1,12 @@
+The inverse square law of gravity is poorly probed by experimental tests at
+distances of ~ 10 AUs. Recent analysis of the trajectory of the Pioneer 10 and
+11 spacecraft have shown an unmodeled acceleration directed toward the Sun
+which was not explained by any obvious spacecraft systematics, and occurred
+when at distances greater than 20 AUs from the Sun. If this acceleration
+represents a departure from Newtonian gravity or is indicative of an additional
+mass distribution in the outer solar system, it should be detectable in the
+orbits of Trans-Neptunian Objects (TNOs). To place limits on deviations from
+Newtonian gravity, we have selected a well observed sample of TNOs found
+orbiting between 20 and 100 AU from the Sun. By examining their orbits with
+modified orbital fitting software, we place tight limits on the perturbations
+of gravity that could exist in this region of the solar system.

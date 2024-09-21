@@ -1,0 +1,7 @@
+The future laser interferometric gravitational-wave detectors sensitivity can
+be improved using squeezed light. In particular, recently a scheme which uses
+the optical field with frequency dependent squeeze factor, prepared by means of
+a relatively short (~30 m) amplitude filter cavity, was proposed
+\cite{Corbitt2004-3}. Here we consider an improved version of this scheme,
+which allows to further reduce the quantum noise by exploiting the quantum
+entanglement between the optical fields at the filter cavity two ports.

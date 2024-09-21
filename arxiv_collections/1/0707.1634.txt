@@ -1,0 +1,8 @@
+We study the optimal generation of entanglement between two qubits subject to
+local unitary control. With the only assumptions of linear control and unitary
+dynamics, by means of a numerical protocol based on the variational approach
+(Pontryagin's Minimum Principle), we evaluate the optimal control strategy
+leading to the maximal achievable entanglement in an arbitrary interaction
+time, taking into account the energy cost associated to the controls. In our
+model we can arbitrarily choose the relative weight between a large
+entanglement and a small energy cost.

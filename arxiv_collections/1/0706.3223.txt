@@ -1,0 +1,5 @@
+The immersions of a smooth manifold $M$ in a symplectic manifold $(N,\sigma)$
+inducing a given closed form $\omega$ on $M$ satisfy the $C^0$-dense
+$h$-principle in the space of all continuous maps which pull back the deRham
+cohomology class of $\sigma$ onto that of $\omega$. In this paper we prove a
+foliated version of this result due to Gromov.

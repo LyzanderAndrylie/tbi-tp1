@@ -1,0 +1,10 @@
+Why do we not experience a violation of macroscopic realism in every-day
+life? Normally, no violation can be seen either because of decoherence or the
+restriction of coarse-grained measurements, transforming the time evolution of
+any quantum state into a classical time evolution of a statistical mixture. We
+find the sufficient condition for these classical evolutions for spin systems
+under coarse-grained measurements. Then we demonstrate that there exist
+"non-classical" Hamiltonians whose time evolution cannot be understood
+classically, although at every instant of time the quantum spin state appears
+as a classical mixture. We suggest that such Hamiltonians are unlikely to be
+realized in nature because of their high computational complexity.

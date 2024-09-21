@@ -1,0 +1,11 @@
+This article reports about a novel extension of dissipative particle dynamics
+(DPD) that allows the study of the collective dynamics of complex chemical and
+structural systems in a spatially resolved manner with a combinatorially
+complex variety of different system constituents. We show that introducing
+multipolar interactions between particles leads to extended membrane structures
+emerging in a self-organized manner and exhibiting both the necessary
+mechanical stability for transport and fluidity so as to provide a
+two-dimensional self-organizing dynamic reaction environment for kinetic
+studies in the context of cell biology. We further show that the emergent
+dynamics of extended membrane bound objects is in accordance with scaling laws
+imposed by physics.

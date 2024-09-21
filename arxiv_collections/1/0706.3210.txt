@@ -1,0 +1,10 @@
+We describe the behavior of the Perdew-Zunger self-interaction-corrected
+local density approximation (SIC-LDA) functional when implemented in a
+plane-wave pseudopotential formalism with Wannier functions. Prototypical
+semiconductors and wide-bandgap oxides show a large overcorrection of the LDA
+bandgap. Application to transition-metal oxides and elements with d electrons
+is hindered by a serious breaking of the spherical symmetry, which appears even
+in a closed shell free atom. Our results indicate that, when all spherical
+approximations are lifted, the general applicability of orbital-dependent
+potentials is very limited and should be reconsidered in favor of rotationally
+invariant functionals.

@@ -1,0 +1,11 @@
+Integrating areas of current research into undergraduate physics labs can be
+a difficult task. The location of the magnetopause is one problem that can be
+examined with no prior exposure to space physics. The magnetopause location can
+be viewed as a pressure balance between the dynamic pressure of the solar wind
+and the magnetic pressure of the magnetosphere. In this lab sophomore and
+junior students examine the magnetopause location using simulation results from
+BATS-R-US global MHD code run at NASA's Community Coordinated Modeling Center.
+Students also analyze data from several spacecraft to find magnetopause
+crossings. The students get reasonable agreement between their results and
+model predictions from this lab as well as exposure to the tools and techniques
+of space physics.

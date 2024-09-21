@@ -1,0 +1,10 @@
+We calculate shear viscosity of the quark matter at finite temperature and
+density. If we assume that the quark interacts with the soft mode, which is a
+collective mode of quark-antiquark pair, the self energy of the quark is
+calculated by using the quasi-particle random phase approximation. It is shown
+that its imaginary part is large and the mean free path of the quark is short.
+With the use of the Kubo formula, the shear viscosity of quark matter becomes
+small. The Reynolds number of the quark matter is estimated to be about $3\sim
+30$. As the temperature increases, the shear viscosity increases gradually for
+$T>200{\rm MeV}$. Moreover it is shown that the shear viscosity is not
+sensitive to the chemical potential.

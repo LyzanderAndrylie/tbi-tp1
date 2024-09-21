@@ -1,0 +1,15 @@
+The two-body interaction in dilute solutions of polymer chains in good
+solvents can be modeled by means of effective bounded potentials, the simplest
+of which being that of penetrable spheres (PSs). In this paper we construct two
+simple analytical theories for the structural properties of PS fluids: a
+low-temperature (LT) approximation, that can be seen as an extension to PSs of
+the well-known solution of the Percus-Yevick (PY) equation for hard spheres,
+and a high-temperature (HT) approximation based on the exact asymptotic
+behavior in the limit of infinite temperature. Monte Carlo simulations for a
+wide range of temperatures and densities are performed to assess the validity
+of both theories. It is found that, despite their simplicity, the HT and LT
+approximations exhibit a fair agreement with the simulation data within their
+respective domains of applicability, so that they complement each other. A
+comparison with numerical solutions of the PY and the hypernetted-chain
+approximations is also carried out, the latter showing a very good performance,
+except inside the core at low temperatures.

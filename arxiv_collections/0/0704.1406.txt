@@ -1,0 +1,7 @@
+We use a third-order perturbation theory and Melnikov's method to prove the
+existence of chaos in spinning circular disks subject to a lateral point load.
+We show that the emergence of transverse homoclinic and heteroclinic points
+respectively lead to a random reversal in the traveling direction of
+circumferential waves and a random phase shift of magnitude $\pi$ for both
+forward and backward wave components. These long-term phenomena occur in
+imperfect low-speed disks sufficiently far from fundamental resonances.

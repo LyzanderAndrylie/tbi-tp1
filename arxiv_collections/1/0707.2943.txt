@@ -1,0 +1,18 @@
+We report on the structural, magnetic, and electron transport properties of a
+L1o-ordered epitaxial iron-platinum alloy layer fabricated by
+magnetron-sputtering on a MgO(001) substrate. The film studied displayed a long
+range chemical order parameter of S~0.90, and hence has a very strong
+perpendicular magnetic anisotropy. In the diffusive electron transport regime,
+for temperatures ranging from 2 K to 258 K, we found hysteresis in the
+magnetoresistance mainly due to electron scattering from magnetic domain walls.
+At 2 K, we observed an overall domain wall magnetoresistance of about 0.5 %. By
+evaluating the spin current asymmetry alpha = sigma_up / sigma_down, we were
+able to estimate the diffusive spin current polarization. At all temperatures
+ranging from 2 K to 258 K, we found a diffusive spin current polarization of >
+80%. To study the ballistic transport regime, we have performed point-contact
+Andreev-reflection measurements at 4.2 K. We obtained a value for the ballistic
+current spin polarization of ~42% (which compares very well with that of a
+polycrystalline thin film of elemental Fe). We attribute the discrepancy to a
+difference in the characteristic scattering times for oppositely spin-polarized
+electrons, such scattering times influencing the diffusive but not the
+ballistic current spin polarization.

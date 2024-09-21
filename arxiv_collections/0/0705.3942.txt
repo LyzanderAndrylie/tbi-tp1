@@ -1,0 +1,10 @@
+The electromagnetic field in an anisotropic and inhomogeneous
+magnetodielectric is quantized by modelling the medium with two independent
+quantum fields. Some coupling tensors coupling the electromagnetic field with
+the medium are introduced. Electric and magnetic polarizations are obtained in
+terms of the ladder operators of the medium and the coupling tensors
+explicitly. Using a minimal coupling scheme for electric and magnetic
+interactions, the Maxwell equations and the constitutive equations of the
+medium are obtained. The electric and magnetic susceptibility tensors of the
+medium are calculated in terms of the coupling tensors. Finally the efficiency
+of the approach is elucidated by some examples.

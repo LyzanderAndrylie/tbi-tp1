@@ -1,0 +1,8 @@
+We show that finite size superconductors have a spectrum of states at
+extremely low energy, i.e. inside the superconducting gap. The presence of this
+{\it thin spectrum} is a generic feature and related to the fact that in a
+superconductor the global phase rotation symmetry is spontaneously broken. For
+a strong coupling superconductor we find the spectrum by exactly solving the
+Lieb-Mattis type Hamiltonian onto which the problem maps. One of the physical
+consequences of the presence of thin states is that they cause quantum
+decoherence in superconducting qubits of finite extent.

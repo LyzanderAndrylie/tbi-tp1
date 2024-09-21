@@ -1,0 +1,22 @@
+Estimates of molecular divergence times when rates of evolution vary require
+the assumption of a model of rate change. Brownian motion is one such model,
+and since rates cannot become negative, a log Brownian model seems appropriate.
+Divergence time estimates can then be made using weighted least squares
+penalties. As sequences become long, this approach effectively becomes
+equivalent to penalized likelihood or Bayesian approaches. Different forms of
+the least squares penalty are considered to take into account correlation due
+to shared ancestors. It is shown that a scale parameter is also needed since
+the sum of squares changes with the scale of time. Errors or uncertainty on
+fossil calibrations, may be folded in with errors due to the stochastic nature
+of Brownian motion and ancestral polymorphism, giving a total sum of squares to
+be minimized. Applying these methods to placental mammal data the estimated age
+of the root decreases from 125 to about 94 mybp. However, multiple fossil
+calibration points and relative molecular divergence times inflate the sum of
+squares more than expected. If fossil data are also bootstrapped, then the
+confidence interval for the root of placental mammals varies widely from ~70 to
+130 mybp. Such a wide interval suggests that more and better fossil calibration
+data is needed and/or better models of rate evolution are needed and/or better
+molecular data are needed. Until these issues are thoroughly investigated, it
+is premature to declare either the old molecular dates frequently obtained
+(e.g. > 110 mybp) or the lack of identified placental fossils in the
+Cretaceous, more indicative of when crown-group placental mammals evolved.

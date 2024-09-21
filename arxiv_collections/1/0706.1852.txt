@@ -1,0 +1,14 @@
+The Epstein-Barr virus (EBV) infects more than 90% of the human population,
+and is the cause of several both serious and mild diseases. It is a
+tumorivirus, and has been widely studied as a model system for gene
+(de)regulation in human. A central feature of the EBV life cycle is its ability
+to persist in human B cells in states denoted latency I, II and III. In latency
+III the host cell is driven to cell proliferation and hence expansion of the
+viral population, but does not enter the lytic pathway, and no new virions are
+produced, while the latency I state is almost completely dormant. In this paper
+we study a physico-chemical model of the switch between latency I and latency
+III in EBV. We show that the unusually large number of binding sites of two
+competing transcription factors, one viral and one from the host, serves to
+make the switch sharper (higher Hill coefficient), either by cooperative
+binding between molecules of the same species when they bind, or by competition
+between the two species if there is sufficient steric hindrance.

@@ -1,0 +1,10 @@
+The purpose of this article is to establish regularity and pointwise upper
+bounds for the (relative) fundamental solution of the heat equation associated
+to the weighted dbar-operator in $L^2(C^n)$ for a certain class of weights. The
+weights depend on a parameter, and we find pointwise bounds for heat kernel, as
+well as its derivatives in time, space, and the parameter. We also prove
+cancellation conditions for the heat semigroup. We reduce the $n$-dimensional
+case to the one-dimensional case, and the estimates in one-dimensional case are
+achieved by Duhamel's principle and commutator properties of the operators. As
+an application, we recover estimates of heat kernels on polynomial models in
+$C^2$.

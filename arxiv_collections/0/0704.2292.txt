@@ -1,0 +1,13 @@
+We show that the transverse double spin asymmetry (DSA) in the Drell-Yan
+process contributed only from the Sivers functions can be picked out by the
+weighting function
+$\frac{Q_T}{M^2}(\cos(\phi-\phi_{S_1})\cos(\phi-\phi_{S_2})+3\sin(\phi-\phi_{S_1})\sin(\phi-\phi_{S_2}))$.
+The asymmetry is proportional to the product of two Sivers functions from each
+hadron $f_{1T}^{\perp(1)}\times f_{1T}^{\perp (1)}$. Using two sets of Sivers
+functions extracted from the semi-inclusive deeply elastic scattering data at
+HERMES, we estimate this asymmetry in the $p^\uparrow\bar{p}^\uparrow$
+Drell-Yan process which is possible to be performed in HESR at GSI. The
+prediction of DSA in the Drell-Yan process contributed by the function
+$g_{1T}(x,\Vec k_T^2)$, which can be extracted by the weighting function
+$\frac{Q_T}{M^2}(3\cos(\phi-\phi_{S_1})\cos(\phi-\phi_{S_2})+\sin(\phi-\phi_{S_1})\sin(\phi-\phi_{S_2}))$,
+is also given at GSI.

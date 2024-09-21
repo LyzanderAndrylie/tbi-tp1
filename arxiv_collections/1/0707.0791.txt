@@ -1,0 +1,9 @@
+We study the two-dimensional paramagnetic Anderson-Hubbard model using an
+extension of dynamical mean-field theory that allows us to treat disorder and
+strong electronic correlations on equal footing. We investigate the scaling of
+the inverse participation ratio at quarter- and half-filling and find a
+nonmonotonic dependence of the localization length on the interaction strength.
+We do not find evidence for an insulator-metal transition. The disorder
+potential becomes unscreened near the Mott transition. Furthermore, strong
+correlations suppress the Altshuler-Aronov density of states anomaly near
+half-filling.

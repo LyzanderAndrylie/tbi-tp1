@@ -1,0 +1,13 @@
+We confront the Two-Higgs-Doublet Model with a variety of experimental
+constraints as well as theoretical consistency conditions. The most
+constraining data are the \bar B\to X_s\gamma decay rate (at low values of
+M_{H^\pm}), and \Delta\rho (at both low and high M_{H^\pm}). We also take into
+account the B\bar B oscillation rate and R_b, or the width \Gamma(Z\to b\bar b)
+(both of which restrict the model at low values of \tan\beta), and the
+B^-\to\tau\nu_\tau decay rate, which restricts the model at high \tan\beta and
+low M_{H^\pm}. Furthermore, the LEP2 non-discovery of a light, neutral Higgs
+boson is considered, as well as the muon anomalous magnetic moment. Since
+perturbative unitarity excludes high values of \tan\beta, the model turns out
+to be very constrained. We outline the remaining allowed regions in the
+\tan\beta-M_{H^\pm} plane for different values of the masses of the two
+lightest neutral Higgs bosons, and describe some of their properties.

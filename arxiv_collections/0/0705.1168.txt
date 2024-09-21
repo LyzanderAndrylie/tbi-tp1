@@ -1,0 +1,19 @@
+We devise a {\sl non--perturbative} method, called {\sl Parametric
+Perturbation Theory} (PPT), which is alternative to the ordinary perturbation
+theory. The method relies on a principle of simplicity for the observable
+solutions, which are constrained to be linear in a certain (unphysical)
+parameter. The perturbative expansion is carried out in this parameter and not
+in the physical coupling (as in ordinary perturbation theory). We provide a
+number of nontrivial examples, where our method is capable to resum the
+divergent perturbative series, {\sl extract} the leading asymptotic (strong
+coupling) behavior and {\sl predict} with high accuracy the coefficients of the
+perturbative series. In the case of a zero dimensional field theory we prove
+that PPT can be used to provide the imaginary part of the solution, when the
+problem is analytically continued to negative couplings. In the case of a
+$\phi^4$ lattice model 1+1 and of elastic theory we have shown that the
+observables resummed with PPT display a branch point at a finite value of the
+coupling, signaling the transition from a stable to a metastable state. We have
+also applied the method to the prediction of the virial coefficients for a hard
+sphere gas in two and three dimensions; in this example we have also found that
+the solution resummed with PPT has a singularity at finite density. Predictions
+for the unknown virial coefficients are made.

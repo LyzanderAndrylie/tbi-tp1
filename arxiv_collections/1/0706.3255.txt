@@ -1,0 +1,12 @@
+We discuss the application of a recently introduced numerical linked-cluster
+(NLC) algorithm to strongly correlated itinerant models. In particular, we
+present a study of thermodynamic observables: chemical potential, entropy,
+specific heat, and uniform susceptibility for the t-J model on the square
+lattice, with J/t=0.5 and 0.3. Our NLC results are compared with those obtained
+from high-temperature expansions (HTE) and the finite-temperature Lanczos
+method (FTLM). We show that there is a sizeable window in temperature where NLC
+results converge without extrapolations whereas HTE diverges. Upon
+extrapolations, the overall agreement between NLC, HTE, and FTLM is excellent
+in some cases down to 0.25t. At intermediate temperatures NLC results are
+better controlled than other methods, making it easier to judge the convergence
+and numerical accuracy of the method.

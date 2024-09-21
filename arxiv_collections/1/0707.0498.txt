@@ -1,0 +1,14 @@
+This paper I assume that in humans the creation of knowledge depends on a
+discrete time, or stage, sequential decision-making process subjected to a
+stochastic, information transmitting environment. For each time-stage, this
+environment randomly transmits Shannon type information-packets to the
+decision-maker, who examines each of them for relevancy and then determines his
+optimal choices. Using this set of relevant information-packets, the
+decision-maker adapts, over time, to the stochastic nature of his environment,
+and optimizes the subjective expected rate-of-growth of knowledge. The
+decision-maker's optimal actions, lead to a decision function that involves,
+over time, his view of the subjective entropy of the environmental process and
+other important parameters at each time-stage of the process. Using this model
+of human behavior, one could create psychometric experiments using computer
+simulation and real decision-makers, to play programmed games to measure the
+resulting human performance.

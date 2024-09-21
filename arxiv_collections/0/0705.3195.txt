@@ -1,0 +1,11 @@
+The behavior of interacting populations typically displays irregular temporal
+and spatial patterns that are difficult to reconcile with an underlying
+deterministic dynamics. A classical example is the heterogeneous distribution
+of plankton communities, which has been observed to be patchy over a wide range
+of spatial and temporal scales. Here, we use plankton communities as prototype
+systems to present theoretical approaches for the analysis of the combined
+effects of turbulent advection and stochastic growth in the spatiotemporal
+dynamics of the population. Incorporation of these two factors into
+mathematical models brings an extra level of realism to the description and
+leads to better agreement with experimental data than that of previously
+proposed models based on reaction-diffusion equations.

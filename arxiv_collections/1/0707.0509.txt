@@ -1,0 +1,6 @@
+We investigate the functional form of the order-parameter (two-point)
+correlation function in quantum critical phenomena. Contrary to the common
+lore, when there is no particle-hole symmetry we find that the equal-time
+correlation function at criticality does not display a diverging correlation
+length. We illustrate our conclusions by Monte Carlo calculations of the
+quantum rotor model in $d=2$ space dimensions

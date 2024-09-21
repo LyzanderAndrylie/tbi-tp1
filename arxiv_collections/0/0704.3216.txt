@@ -1,0 +1,10 @@
+Employing Morse theory for the global control of monodromy and the method of
+analytic discs for local extension, we establish a version of the global
+Hartogs extension theorem in a singular setting: for every domain D of an
+(n-1)-complete normal complex space X of pure dimension n >= 2 and for every
+compact set K in D such that D - K is connected, holomorphic or meromorphic
+functions in D - K extend holomorphically or meromorphically to D. Normality is
+an unvavoidable assumption for holomorphic extension, but we show that
+meromorphic extension holds on a reduced globally irreducible (not necessarily
+normal) X of pure dimension n >=2 provided that the regular part of D - K is
+connected.

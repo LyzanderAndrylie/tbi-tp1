@@ -1,0 +1,5 @@
+Using the the convex semidefinite programming method and superoperator
+formalism we obtain the finite quantum tomography of some mixed quantum states
+such as: qudit tomography, N-qubit tomography, phase tomography and coherent
+spin state tomography, where that obtained results are in agreement with those
+of References \cite{schack,Pegg,Barnett,Buzek,Weigert}.

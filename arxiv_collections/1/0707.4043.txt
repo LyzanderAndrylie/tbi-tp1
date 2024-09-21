@@ -1,0 +1,10 @@
+Critical curves "critical current - external magnetic field" of long
+Josephson junctions with inhomogeneity and variable width are studied. We
+demonstrate the existence of the regions of magnetic field where some fluxon
+states are stable only, if the external current through the junction is
+different from zero. Position and size of such regions depend on length of the
+junction, its geometry, parameters of inhomogeneity and form of the junction.
+The noncentral (left and right) pure fluxon states are appeared in the
+inhomogeneous Josephson junction with increase in the junction length. We
+demonstrate new bifurcation points with change in width of the inhomogeneity
+and amplitude of the Josephson current through the inhomogeneity.

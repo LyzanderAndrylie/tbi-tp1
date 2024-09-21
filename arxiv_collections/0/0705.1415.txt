@@ -1,0 +1,10 @@
+Reversible diffusion limited cluster aggregation of hard spheres with rigid
+bonds was simulated and the self diffusion coefficient was determined for
+equilibrated systems. The effect of increasing attraction strength was
+determined for systems at different volume fractions and different interaction
+ranges. It was found that the slowing down of the diffusion coefficient due to
+crowding is decoupled from that due to cluster formation. The diffusion
+coefficient could be calculated from the cluster size distribution and became
+zero only at infinite attraction strength when permanent gels are formed. It is
+concluded that so-called attractive glasses are not formed at finite
+interaction strength.

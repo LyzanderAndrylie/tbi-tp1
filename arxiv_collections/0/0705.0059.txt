@@ -1,0 +1,15 @@
+Levels of trace radiopurity in active detector materials is a subject of
+major concern in low-background experiments. Among the radio-isotopes, $\k40$
+is one of the most abundant and yet whose signatures are difficult to reject.
+Procedures were devised to measure trace potassium concentrations in the
+inorganic salt CsI as well as in organic liquid scintillator (LS) with
+Accelerator Mass Spectrometry (AMS), giving, respectively, the
+$\k40$-contamination levels of $\sim 10^{-10}$ and $\sim 10^{-13}$ g/g.
+Measurement flexibilities and sensitivities are improved over conventional
+methods. The projected limiting sensitivities if no excess of potassium signals
+had been observed over background are $8 \times 10^{-13}$ g/g and $3 \times
+10^{-17}$ g/g for the CsI and LS, respectively. Studies of the LS samples
+indicate that the radioactive contaminations come mainly in the dye solutes,
+while the base solvents are orders of magnitude cleaner. The work demonstrate
+the possibilities of measuring naturally-occurring isotopes with the AMS
+techniques.

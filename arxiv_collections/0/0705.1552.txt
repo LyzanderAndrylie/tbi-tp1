@@ -1,0 +1,9 @@
+In the presence of noncompact symmetry, the stability of relative equilibria
+under momentum-preserving perturbations does not generally imply robust
+stability under momentum-changing perturbations. For axisymmetric relative
+equilibria of Hamiltonian systems with Euclidean symmetry, we investigate
+different mechanisms of stability: stability by energy-momentum confinement,
+KAM, and Nekhoroshev stability, and we explain the transitions between these.
+We apply our results to the Kirchhoff model for the motion of an axisymmetric
+underwater vehicle, and we numerically study dissipation induced instability of
+KAM stable relative equilibria for this system.

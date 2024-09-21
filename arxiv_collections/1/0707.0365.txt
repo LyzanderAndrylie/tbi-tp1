@@ -1,0 +1,15 @@
+The Desktop Grid offers solutions to overcome several challenges and to
+answer increasingly needs of scientific computing. Its technology consists
+mainly in exploiting resources, geographically dispersed, to treat complex
+applications needing big power of calculation and/or important storage
+capacity. However, as resources number increases, the need for scalability,
+self-organisation, dynamic reconfigurations, decentralisation and performance
+becomes more and more essential. Since such properties are exhibited by P2P
+systems, the convergence of grid computing and P2P computing seems natural. In
+this context, this paper evaluates the scalability and performance of P2P tools
+for discovering and registering services. Three protocols are used for this
+purpose: Bonjour, Avahi and Free-Pastry. We have studied the behaviour of
+theses protocols related to two criteria: the elapsed time for registrations
+services and the needed time to discover new services. Our aim is to analyse
+these results in order to choose the best protocol we can use in order to
+create a decentralised middleware for desktop grid.

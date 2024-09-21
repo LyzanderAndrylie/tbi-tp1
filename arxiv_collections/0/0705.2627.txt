@@ -1,0 +1,8 @@
+In realistic continuous variable quantum key distribution protocols, an
+eavesdropper may exploit the additional Gaussian noise generated during
+transmission to mask her presence. We present a theoretical framework for a
+post-selection based protocol which explicitly takes into account excess
+Gaussian noise. We derive a quantitative expression of the secret key rates
+based on the Levitin and Holevo bounds. We experimentally demonstrate that the
+post-selection based scheme is still secure against both individual and
+collective Gaussian attacks in the presence of this excess noise.

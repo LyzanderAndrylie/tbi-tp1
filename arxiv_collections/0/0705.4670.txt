@@ -1,0 +1,6 @@
+This article concerns the stability of a model for mass-spring systems with
+positive damping and negative stiness. It is well known that when the
+coefficients are frozen in time the system is unstable. Here we find conditions
+on the variable cofficients to prove stability. In particular, we disprove the
+believe that if the eigenvalues of the system change slowly in time the system
+remains unstable. We extend some of our results for nonlinear systems.

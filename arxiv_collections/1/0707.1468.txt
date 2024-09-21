@@ -1,0 +1,8 @@
+The mapping class group invariant ideal cell decomposition of the
+Teichmueller space of a punctured surface times an open simplex has been used
+in a number of computations. This paper answers a question about the
+asymptotics of this decomposition, namely, in a given cell of the
+decomposition, which curves can be short? Screens are a new combinatorial
+structure which provide an answer to this question. The heart of the
+calculation here involves Ptolemy transformations and the triangle inequalities
+on lambda lengths.

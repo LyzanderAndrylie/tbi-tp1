@@ -1,0 +1,5 @@
+In present paper we introduce the notion of dissipative quadratic stochastic
+operator and cubic stochastic operator. We prove necessary conditions for
+dissipativity of quadratic stochastic operators. Besides, it is studied certain
+limit behavior of such operators. Finally we prove ergodic theorem for
+dissipative operators.

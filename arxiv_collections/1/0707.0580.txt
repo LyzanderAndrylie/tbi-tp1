@@ -1,0 +1,19 @@
+Experimental variables of optical tweezers instrumentation that affect RNA
+folding/unfolding kinetics were investigated. A model RNA hairpin, P5ab, was
+attached to two micron-sized beads through hybrid RNA/DNA handles; one bead was
+trapped by dual-beam lasers and the other was held by a micropipette. Several
+experimental variables were changed while measuring the unfolding/refolding
+kinetics, including handle lengths, trap stiffness, and modes of force applied
+to the molecule. In constant-force mode where the tension applied to the RNA
+was maintained through feedback control, the measured rate coefficients varied
+within 40% when the handle lengths were changed by 10 fold (1.1 to 10.2 Kbp);
+they increased by two- to three-fold when the trap stiffness was lowered to one
+third (from 0.1 to 0.035 pN/nm). In the passive mode, without feedback control
+and where the force applied to the RNA varied in response to the end-to-end
+distance change of the tether, the RNA hopped between a high-force folded-state
+and a low-force unfolded-state. In this mode, the rates increased up to
+two-fold with longer handles or softer traps. Overall, the measured rates
+remained with the same order-of-magnitude over the wide range of conditions
+studied. In the companion paper (1), we analyze how the measured kinetics
+parameters differ from the intrinsic molecular rates of the RNA, and thus how
+to obtain the molecular rates.

@@ -1,0 +1,4 @@
+In this paper we evaluate the entanglement assisted classical capacity of a
+class of quantum channels with long-term memory, which are convex combinations
+of memoryless channels. The memory of such channels can be considered to be
+given by a Markov chain which is aperiodic but not irreducible.

@@ -1,0 +1,4 @@
+In the setting of additive regression model for continuous time process, we
+establish the optimal uniform convergence rates and optimal asymptotic
+quadratic error of additive regression. To build our estimate, we use the
+marginal integration method.

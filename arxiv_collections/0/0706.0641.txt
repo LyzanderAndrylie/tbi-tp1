@@ -1,0 +1,24 @@
+The dynamics of information dissemination in social networks is of paramount
+importance in processes such as rumors or fads propagation, spread of product
+innovations or "word-of-mouth" communications. Due to the difficulty in
+tracking a specific information when it is transmitted by people, most
+understanding of information spreading in social networks comes from models or
+indirect measurements. Here we present an integrated experimental and
+theoretical framework to understand and quantitatively predict how and when
+information spreads over social networks. Using data collected in Viral
+Marketing campaigns that reached over 31,000 individuals in eleven European
+markets, we show the large degree of variability of the participants' actions,
+despite them being confronted with the common task of receiving and forwarding
+the same piece of information. This have a profound effect on information
+diffusion: Firstly, most of the transmission takes place due to super-spreading
+events which would be considered extraordinary in population-average models.
+Secondly, due to the different way individuals schedule information
+transmission we observe a slowing down of the spreading of information in
+social networks that happens in logarithmic time. Quantitative description of
+the experiments is possible through an stochastic branching process which
+corroborates the importance of heterogeneity. Since high variability of both
+the intensity and frequency of human responses are found in many other
+activities, our findings are pertinent to many other human driven diffusion
+processes like rumors, fads, innovations or news which has important
+consequences for organizations management, communications, marketing or
+electronic social communities.

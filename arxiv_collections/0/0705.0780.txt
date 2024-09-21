@@ -1,0 +1,21 @@
+We first present chemodynamical simulations to investigate how stellar winds
+of massive stars influence early dynamical and chemical evolution of forming
+globular clusters (GCs). In our numerical models, GCs form in
+turbulent,high-density giant molecular clouds (GMCs), which are embedded in a
+massive dark matter halo at high redshifts. We show how high-density, compact
+stellar systems are formed from GMCs influenced both by physical processes
+associated with star formation and by tidal fields of their host halos. We also
+show that chemical pollution of GC-forming GMCs by stellar winds from massive
+stars can result in star-to-star abundance inhomogeneities among light elements
+(e.g., C, N, and O) of stars in GCs. The present model with a canonical initial
+mass function (IMF) also shows a C-N anticorrelation that stars with smaller
+[C/Fe] have larger [N/Fe] in a GC. Although these results imply that
+``self-pollution'' of GC-forming GMCs by stellar winds from massive stars can
+cause abundance inhomogeneities of GCs, the present models with different
+parameters and canonical IMFs can not show N-rich stars with [N/Fe] ~ 0.8
+observed in some GCs (e.g., NGC 6752). We discuss this apparent failure in the
+context of massive star formation preceding low-mass one within GC-forming GMCs
+(``bimodal star formation scenario''). We also show that although almost all
+stars (~97%) show normal He abundances (Y) of ~0.24 some stars later formed in
+GMCs can have Y as high as ~0.3 in some models. The number fraction of He-rich
+stars with Y >0.26 is however found to be small (~10^-3) for most models.

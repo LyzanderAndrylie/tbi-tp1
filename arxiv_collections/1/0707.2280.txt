@@ -1,0 +1,20 @@
+We have studied possible candidates for laser cooling transitions in
+$^{169}$Tm in the spectral region 410 -- 420 nm. By means of saturation
+absorption spectroscopy we have measured the hyperfine structure and rates of
+two nearly closed cycling transitions from the ground state
+$4\textrm{f}^{13}6\textrm{s}^2(^2\textrm{F}_0)(J_g=7/2)$ to upper states
+$4\textrm{f}^{12}(^3\textrm{H}_5)5\textrm{d}_{3/2}6\textrm{s}^2(J_e=9/2)$ at
+410.6 nm and
+$4\textrm{f}^{12}(^3\textrm{F}_4)5\textrm{d}_{5/2}6\textrm{s}^2(J_e=9/2)$ at
+420.4 nm and evaluated the life times of the excited levels as 15.9(8) ns and
+48(6) ns respectively. Decay rates from these levels to neighboring
+opposite-parity levels are evaluated by means of Hartree-Fock calculations. We
+conclude, that the strong transition at 410.6 nm has an optical leak rate of
+less then $2\cdot10^{-5}$ and can be used for efficient laser cooling of
+$^{169}$Tm from a thermal atomic beam. The hyperfine structure of two other
+even-parity levels which can be excited from the ground state at 409.5 nm and
+418.9 nm is also measured by the same technique. In addition we give a
+calculated value of $7(2)$ s$^{-1}$ for the rate of magnetic-dipole transition
+at 1.14 $\mu$m between the fine structure levels
+$(J_g=7/2)\leftrightarrow(J'_g=5/2)$ of the ground state which can be
+considered as a candidate for applications in atomic clocks.

@@ -1,0 +1,12 @@
+We have calculated the atomic electric dipole moments (EDMs) d of ^3He and
+^{171}Yb induced by their respective nuclear Schiff moments S. Our results are
+d(He)= 8.3x10^{-5} and d(Yb)= -1.9 in units 10^{-17}S/(e{fm}^3)e cm. By
+considering the nuclear Schiff moments induced by the parity and time-reversal
+violating nucleon-nucleon interaction we find d(^{171}Yb)~0.6d(^{199}Hg). For
+^3He the nuclear EDM coupled with the hyperfine interaction gives a larger
+atomic EDM than the Schiff moment. The result for ^3He is required for a
+neutron EDM experiment that is under development, where ^3He is used as a
+comagnetometer. We find that the EDM for He is orders of magnitude smaller than
+the neutron EDM. The result for Yb is needed for the planning and
+interpretation of experiments that have been proposed to measure the EDM of
+this atom.

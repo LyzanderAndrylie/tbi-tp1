@@ -1,0 +1,10 @@
+Let (M^n,g) be a Riemannian spin manifold. The basic equations in
+supergravity models of type IIa string theory with 4-form flux involve a 3-form
+T, a 4-form F, a spinorial covariant derivative \nabla depending on \nabla^g,
+T, F, and a \nabla-parallel spinor field \Psi. We classify and construct many
+explicit families of solutions to this system of spinorial field equations by
+means of non-integrable special geometries. The latter include \alpha-Sasakian
+structures in dimensions 5 and 7, almost Hermitian structures in dimension 6
+and cocalibrated G_2-structures in dimension 7. We show that there are several
+examples also satisfying an additional constraint for the energy-momentum
+tensor.

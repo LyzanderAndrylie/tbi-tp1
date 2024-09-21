@@ -1,0 +1,9 @@
+It is shown that the tight-binding approximation of the nonlinear
+Schr\"odinger equation with a periodic linear potential and periodic in space
+nonlinearity coefficient gives rise to a number of nonlinear lattices with
+complex, both linear and nonlinear, neighbor interactions. The obtained
+lattices present non-standard possibilities, among which we mention a
+quasi-linear regime, where the pulse dynamics obeys essentially the linear
+Schr{\"o}dinger equation. We analyze the properties of such models both in
+connection with their modulational stability, as well as in regard to the
+existence and stability of their localized solitary wave solutions.

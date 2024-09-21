@@ -1,0 +1,7 @@
+We study theoretically the parallel quantum wires of the experiment by
+Auslaender et al. [Science 308, 88 (2005)] at low electron density. It is shown
+that a Hall effect as observed in two- or three-dimensional electron systems
+develops as one of the two wires enters the spin-incoherent regime of small
+spin bandwidth. This together with magnetic field dependent tunneling exponents
+clearly identifies spin-incoherence in such experiments and it serves to
+distinguish it from disorder effects.

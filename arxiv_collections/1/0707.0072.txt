@@ -1,0 +1,5 @@
+When a region is conquered by people speaking another language, we assume
+within the Schulze model that at each iteration each person with probability s
+shifts to the conquering language. The time needed for the conquering language
+to become dominating is about 2/s for directed Barabasi-Albert networks, but
+diverges on the square lattice for decreasing s at some critical value sc

@@ -1,0 +1,7 @@
+Recent advances in quantum key distribution (QKD) have given rise to systems
+that operate at transmission periods significantly shorter than the dead times
+of their component single-photon detectors. As systems continue to increase in
+transmission rate, security concerns associated with detector dead times can
+limit the production rate of sifted bits. We present a model of high-speed QKD
+in this limit that identifies an optimum transmission rate for a system with
+given link loss and detector response characteristics.

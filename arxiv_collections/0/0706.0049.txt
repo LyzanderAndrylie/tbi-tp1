@@ -1,0 +1,9 @@
+We extend the Bipolar Theorem of Brannath and Schachermayer (1999) to the
+space of nonnegative cadlag supermartingales on a filtered probability space.
+We formulate the notion of fork-convexity as an analogue to convexity in this
+setting. As an intermediate step in the proof of our main result we establish a
+conditional version of the Bipolar theorem. In an application to mathematical
+finance we describe the structure of the set of dual processes of the utility
+maximization problem of Kramkov and Schachermayer (1999) and give a
+budget-constraint characterization of admissible consumption processes in an
+incomplete semimartingale market.

@@ -1,0 +1,18 @@
+We present supplementary information on the recent indirect measurement of
+the Casimir pressure between two parallel plates using a micromachined
+oscillator. The equivalent pressure between the plates is obtained by means of
+the proximity force approximation after measuring the force gradient between a
+gold coated sphere and a gold coated plate. The data are compared with a new
+theoretical approach to the thermal Casimir force based on the use of the
+Lifshitz formula, combined with a generalized plasma-like dielectric
+permittivity which takes into account interband transitions of core electrons.
+The theoretical Casimir pressures calculated using the new approach are
+compared with those computed in the framework of the previously used impedance
+approach and also with the Drude model approach. The latter is shown to be
+excluded by the data at a 99.9% confidence level within a wide separation range
+from 210 to 620 nm. The level of agreement between the data and theoretical
+approaches based on the generalized plasma model, or the Leontovich surface
+impedance, is used to set stronger constraints on the Yukawa forces predicted
+from the exchange of light elementary particles and/or extra-dimensional
+physics. The resulting constraints are the strongest in the interaction region
+from 20 to 86 nm with a largest improvement by a factor of 4.4 at 26 nm.

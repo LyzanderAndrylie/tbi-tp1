@@ -1,0 +1,15 @@
+We study the effects of preparation of input states in a quantum tomography
+experiment. We show that maps arising from a quantum process tomography
+experiment (called process maps) differ from the well know dynamical maps. The
+difference between the two is due to the preparation procedure that is
+necessary for any quantum experiment. We study two preparation procedures,
+stochastic preparation and preparation by measurements. The stochastic
+preparation procedure yields process maps that are linear, while the
+preparations using von Neumann measurements lead to non-linear processes, and
+can only be consistently described by a bi-linear process map. A new process
+tomography recipe is derived for preparation by measurement for qubits. The
+difference between the two methods is analyzed in terms of a quantum process
+tomography experiment. A verification protocol is proposed to differentiate
+between linear processes and bi-linear processes. We also emphasize the
+preparation procedure will have a non-trivial effect for any quantum experiment
+in which the system of interest interacts with its environment.

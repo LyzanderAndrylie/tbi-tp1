@@ -1,0 +1,13 @@
+We analyse the 30 October, 2004, X1.2/SF solar event that occurred in AR
+10691 (N13 W18) at around 11:44 UT. Observations at 212 and 405 GHz of the
+Solar Submillimeter Telescope (SST), with high time resolution (5 ms), show an
+intense impulsive burst followed by a long-lasting thermal phase. EUV images
+from the Extreme Ultraviolet Imaging Telescope (SOHO/EIT) are used to identify
+the possible emitting sources. Data from the Radio Solar Telescope Network
+(RSTN) complement our spectral observations below 15 GHz. During the impulsive
+phase the turnover frequency is above 15.4 GHz. The long-lasting phase is
+analysed in terms of thermal emission and compared with GOES observations. From
+the ratio between the two GOES soft X-ray bands, we derive the temperature and
+emission measure, which is used to estimate the free-free submillimeter flux
+density. Good temporal agreement is found between the estimated and observed
+profiles, however the former is larger than the latter.

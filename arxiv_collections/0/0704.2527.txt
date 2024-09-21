@@ -1,0 +1,4 @@
+We study the Whitham equations for all the higher order KdV equations. The
+Whitham equations are neither strictly hyperbolic nor genuinely nonlinear. We
+are interested in the solution of the Whitham equations when the initial values
+are given by a step function.

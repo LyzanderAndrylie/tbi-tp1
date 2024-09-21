@@ -1,0 +1,5 @@
+This is a semi-expository article concerning Langlands functoriality and
+Deligne's conjecture on the special values of $L$-functions. The emphasis is on
+symmetric power $L$-functions associated to a holomorphic cusp form, while
+appealing to a recent work of Mahnkopf on the special values of automorphic
+$L$-functions.

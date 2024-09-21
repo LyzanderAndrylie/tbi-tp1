@@ -1,0 +1,14 @@
+We compare results of the $k_t$-factorization approach and the
+next-to-leading order collinear-factorization approach for photon-jet
+correlations in $pp$ and $p \bar p$ collisions at RHIC and Tevatron energies.
+We discuss correlations in the azimuthal angle as well as in the
+two-dimensional space of transverse momentum of photon and jet. Different
+unintegrated parton distributions (UPDF) are included in the
+$k_t$-factorization approach. The results depend on UPDFs used. The standard
+collinear approach gives cross section comparable to the $k_t$-factorization
+approach. For correlations of the photon and any jet the NLO contributions
+dominate at relatively small azimuthal angles as well as for asymmetric
+transverse momenta. For correlations of the photon with the leading jet (the
+one having the biggest transverse momentum) the NLO approach gives zero
+contribution at $\phi_{-} < \pi/2$ which opens a possibility to study
+higher-order terms and/or UPDFs in this region.

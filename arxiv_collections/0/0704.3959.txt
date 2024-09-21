@@ -1,0 +1,10 @@
+The manipulation of cold atoms with optical fields is a very promising
+technique for a variety of applications ranging from laser cooling and trapping
+to coherent atom transport and matter wave interferometry. Optical fields have
+also been proposed as interesting tools for quantum information processing with
+cold atoms. In this paper, we present a theoretical study of the dynamics of a
+cold 87Rb atomic cloud falling in the gravity field in the presence of two
+crossing dipole guides. The cloud is either deflected or split between the two
+branches of this guide. We explore the possibilities of optimization of this
+device and present preliminary results obtained in the case of zero-temperature
+dilute Bose-Einstein condensates.

@@ -1,0 +1,12 @@
+The paper studies the modes of vibrations of a lattice with rod-like
+particles, in a continuum model where the sites of the lattice are the
+connections among strings and rigid rods. In these structures then,
+translational and rotational degrees of freedom are strongly coupled. We will
+discuss in particular two-dimensional lattices with auxetic-like behaviour.
+Auxetics are materials with a negative Poisson elastic parameter, meaning that
+they have a lateral extension, instead to shrink, when they are stretched. We
+assume as "auxetic-like" two-dimensional structures, structures which do not
+collapse, when stretched in one of the in-plane directions. The presence of
+rigid rod-like particles in the lattice prevents the shrinking of the membrane.
+Complete bandgaps between acoustic and optical modes are observed in analogy
+with the behaviour of crystalline materials.

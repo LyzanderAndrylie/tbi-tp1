@@ -1,0 +1,14 @@
+New unification theories predict Large Extra Dimensions (LEDs). If that is
+the case, gravity would be stronger at short ranges than what Newtonian gravity
+predicts. LEDs could also have effects at atomic level. In this paper we
+propose a new method to constrain the size of gravity-only LEDs by analyzing
+how these LEDs modify the energy of the atomic transitions 1s-2s and 2s-2p
+(Lamb shift), for the particular case of the hydrogen and muonium atoms. We
+estimate these effects by using Bethe's non-relativistic treatment of Lamb
+shift. For the particular case of three LEDs, which may be a candidate to
+explain the interaction mechanism of dark matter particles, we have found that
+current knowledge in atomic spectroscopy could constrain their sizes to be less
+than 10 * 10^(-6) m. Although our contributions do not reach the sensitivity
+given by SN1987a, they are still slightly better than recent constraints given
+by Inverse Square Law tests of Eot-Wash group at Washington University, which
+gave R3 < 36.6 * 10^(-6) m.

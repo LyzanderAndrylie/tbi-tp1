@@ -1,0 +1,8 @@
+The viscosity and self-diffusion constant of a mesoscale hydrodynamic method,
+dissipative particle dynamics (DPD), are investigated. The viscosity of DPD
+with finite time step, including the Lowe-Anderson thermostat, is derived
+analytically for the ideal-gas equation of state and phenomenologically for
+systems with soft repulsive potentials. The results agree well with numerical
+data. The scaling of the local relative velocity in molecular dynamics
+simulations is shown to be useful to obtain faster diffusion than for the DPD
+thermostat.

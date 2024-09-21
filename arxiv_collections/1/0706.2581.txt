@@ -1,0 +1,9 @@
+We analyze under which conditions the missing label problem associated to a
+reduction chain $\frak{s}^{\prime}\subset \frak{s}$ of (simple) Lie algebras
+can be completely solved by means of an In\"on\"u-Wigner contraction $\frak{g}$
+naturally related to the embedding. This provides a new interpretation of the
+missing label operators in terms of the Casimir operators of the contracted
+algebra, and shows that the available labeling operators are not completely
+equivalent. Further, the procedure is used to obtain upper bounds for the
+number of invariants of affine Lie algebras arising as contractions of
+semisimple algebras.

@@ -1,0 +1,12 @@
+Semantic network research has seen a resurgence from its early history in the
+cognitive sciences with the inception of the Semantic Web initiative. The
+Semantic Web effort has brought forth an array of technologies that support the
+encoding, storage, and querying of the semantic network data structure at the
+world stage. Currently, the popular conception of the Semantic Web is that of a
+data modeling medium where real and conceptual entities are related in
+semantically meaningful ways. However, new models have emerged that explicitly
+encode procedural information within the semantic network substrate. With these
+new technologies, the Semantic Web has evolved from a data modeling medium to a
+computational medium. This article provides a classification of existing
+computational modeling efforts and the requirements of supporting technologies
+that will aid in the further growth of this burgeoning domain.

@@ -1,0 +1,11 @@
+The PHENIX experiment presents results from the RHIC 2005 run with polarized
+proton collisions at sqrt(s)=200 GeV, for inclusive \pi^0 production at
+mid-rapidity. Unpolarized cross section results are given for transverse
+momenta p_T=0.5 to 20 GeV/c, extending the range of published data to both
+lower and higher p_T. The cross section is described well for p_T < 1 GeV/c by
+an exponential in p_T, and, for p_T > 2 GeV/c, by perturbative QCD. Double
+helicity asymmetries A_LL are presented based on a factor of five improvement
+in uncertainties as compared to previously published results, due to both an
+improved beam polarization of 50%, and to higher integrated luminosity. These
+measurements are sensitive to the gluon polarization in the proton, and exclude
+maximal values for the gluon polarization.

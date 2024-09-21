@@ -1,0 +1,14 @@
+In wireless data networks, communication is particularly susceptible to
+eavesdropping due to its broadcast nature. Security and privacy systems have
+become critical for wireless providers and enterprise networks. This paper
+considers the problem of secret communication over the Gaussian broadcast
+channel, where a multi-antenna transmitter sends independent confidential
+messages to two users with perfect secrecy. That is, each user would like to
+obtain its own message reliably and confidentially. First, a computable
+Sato-type outer bound on the secrecy capacity region is provided for a
+multi-antenna broadcast channel with confidential messages. Next, a dirty-paper
+secure coding scheme and its simplified version are described. For each case,
+the corresponding achievable rate region is derived under the perfect secrecy
+requirement. Finally, two numerical examples demonstrate that the Sato-type
+outer bound is consistent with the boundary of the simplified dirty-paper
+coding secrecy rate region.

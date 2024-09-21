@@ -1,0 +1,15 @@
+The dissertation consists of two parts. The first presents an account of the
+effective worldvolume description of $N$ coincident M2-branes ending on an
+M5-brane in M-theory. It reviews Basu and Harvey's recent description of the
+worldvolume theory of the M2-branes in terms of a Bogomol'nyi equation, and its
+solution via a fuzzy (three-) funnel. Tests of the consistency of this picture
+are then performed and many of the issues with it are addressed. This is
+followed by a discussion of how a refinement of the fuzzy three-sphere algebra
+used can lead to the correct $N^{3/2}$ scaling of degrees of freedom for this
+system. A reduction of this Basu-Harvey picture to the D1-string picture of the
+D1-D3 intersection is then performed via constructing a reduction of the
+fuzzy-three sphere to the fuzzy two-sphere.
+  The second part of the dissertation describes how a holomorphic factorisation
+argument can be used to demonstrate quantum equivalence of the doubled
+formalism of string theory with the standard formalism by deriving the
+partition function, including instanton and oscillator sectors.

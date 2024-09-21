@@ -1,0 +1,20 @@
+IRAM 30m observations reveal that the deeply obscured IR-luminous galaxy
+NGC4418 has a rich molecular chemistry - including unusually luminous HC3N line
+emission. We furthermore detect: ortho-H2CO 2-1, 3-2; CN 1-0, 2-1; HCO+, 1-0.
+3-2, HCN 3-2, HNC 1-0, 3-2 (and tentatively OCS 12-11). The HCN, HCO+, H2CO and
+CN line emission can be fitted to densities of n=5 x 10E4 - 10E5 cm-3 and gas
+temperatures Tk=80-150 K. Both HNC and HC3N are, however, significantly more
+excited than the other species which requires higher gas densities - or
+radiative excitation through e.g. mid-IR pumping. The HCN line intensity is
+fainter than that of HCO+ and HNC for the 3-2 transition, in contrast to
+previous findings for the 1-0 lines where the HCN emission is the most
+luminous. We tentatively suggest that the observed molecular line emission is
+consistent with a young starburst, where the emission can be understood as
+emerging from dense, warm gas with an additional PDR component. We find that
+X-ray chemistry is not required to explain the observed mm line emission,
+including the HCN/HCO+ 1-0 and 3-2 line ratios. The luminous HC3N line emission
+is an expected signature of dense, starforming gas. A deeply buried AGN can not
+be excluded, but its impact on the surrounding molecular medium is then
+suggested to be limited. However, detailed modelling of HC3N abundances in
+X-ray dominated regions (XDRs) should be carried out. The possibility of
+radiative excitation should also be further investigated

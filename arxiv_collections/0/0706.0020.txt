@@ -1,0 +1,15 @@
+Let K be a 3-stranded knot (or link), and let L denote the number of
+crossings in K. Let $\epsilon_{1}$ and $\epsilon_{2}$ be two positive real
+numbers such that $\epsilon_{2}$ is less than or equal to 1.
+  In this paper, we create two algorithms for computing the value of the Jones
+polynomial of K at all points $t=exp(i\phi)$ of the unit circle in the complex
+plane such that the absolute value of $\phi$ is less than or equal to $\pi/3$.
+  The first algorithm, called the classical 3-stranded braid (3-SB) algorithm,
+is a classical deterministic algorithm that has time complexity O(L). The
+second, called the quantum 3-SB algorithm, is a quantum algorithm that computes
+an estimate of the Jones polynomial of K at $exp(i\phi))$ within a precision of
+$\epsilon_{1}$ with a probability of success bounded below by $1-\epsilon_{2}%.
+The execution time complexity of this algorithm is O(nL), where n is the
+ceiling function of (ln(4/\epsilon_{2}))/(2(\epsilon_{2})^2). The compilation
+time complexity, i.e., an asymptotic measure of the amount of time to assemble
+the hardware that executes the algorithm, is O(L).

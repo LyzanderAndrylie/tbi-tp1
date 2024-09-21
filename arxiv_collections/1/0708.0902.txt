@@ -1,0 +1,4 @@
+We propose a quantum key distribution (QKD) protocol that enables three
+parties agree at once on a shared common random bit string in presence of an
+eavesdropper without use of entanglement. We prove its unconditional security
+and analyze the key rate.

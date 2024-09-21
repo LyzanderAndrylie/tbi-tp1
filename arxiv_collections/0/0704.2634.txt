@@ -1,0 +1,11 @@
+We develop a general strategy, based on gauge theoretical methods, to prove
+existence of curves on class VII surfaces. We prove that, for $b_2=2$, every
+minimal class VII surface has a cycle of rational curves hence, by a result of
+Nakamura, is a global deformation of a one parameter family of blown up primary
+Hopf surfaces. The case $b_2=1$ has been solved in a previous article. The
+fundamental object intervening in our strategy is the moduli space ${\mathcal
+M}^{\pst}(0,{\mathcal K})$ of polystable bundles ${\mathcal E}$ with
+$c_2({\mathcal E})=0$, $\det({\mathcal E})={\mathcal K}$. For large $b_2$ the
+geometry of this moduli space becomes very complicated. The case $b_2=2$
+treated here in detail requires new ideas and difficult techniques of both
+complex geometric and gauge theoretical nature.

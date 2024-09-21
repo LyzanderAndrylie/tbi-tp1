@@ -1,0 +1,16 @@
+In the paper, we apply the $k_T$ factorization approach to deal with the
+$B\to K$ transition form factor $F^{B\to K}_{+,0}(q^2)$ in the large recoil
+regions. The B-meson wave functions $\Psi_B$ and $\bar\Psi_B$ that include the
+three-particle Fock states' contributions are adopted to give a consistent PQCD
+analysis of the form factor up to ${\cal O} (1/m^2_b)$. It has been found that
+both the wave functions $\Psi_B$ and $\bar\Psi_B$ can give sizable
+contributions to the form factor and should be kept for a better understanding
+of the $B$ meson decays. Then the contributions from different twist structures
+of the kaon wavefunction are discussed, including the $SU_f(3)$-breaking
+effects. A sizable contribution from the twist-3 wave function $\Psi_p$ is
+found, whose model dependence is discussed by taking two group of parameters
+that are determined by different distribution amplitude moments obtained in the
+literature. It is also shown that $F^{B\to K}_{+,0}(0)=0.30\pm0.04$ and
+$[F^{B\to K}_{+,0}(0)/F^{B\to \pi}_{+,0}(0)]=1.13\pm0.02$, which are more
+reasonable and consistent with the light-cone sum rule results in the large
+recoil regions.

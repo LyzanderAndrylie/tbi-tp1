@@ -1,0 +1,21 @@
+The Hubbard model in the strong-coupling regime is mainly studied by
+Kondo-lattice theory or 1/d expansion theory, with d the spatial
+dimensionality. In two dimensions and higher, the ground state within the
+Hilbert subspace with no order parameter is a normal Fermi liquid except for
+n=1 and U/W=+infinity, with n the electron density per unit cell, U the on-site
+repulsion, and W the bandwidth; the cooperation between the Kondo effect, which
+favors a local singlet on each unit cell, and a resonating-valence-bond effect,
+which favors a local singlet on each pair of nearest-neighbor unit cells,
+stabilizes the Fermi liquid, whose ground state is a singlet as a whole, in the
+strong-coupling regime. In the whole Hilbert space with no restriction, the
+normal Fermi liquid is unstable at least against a magnetic or superconducting
+state. This analysis confirms an early Fermi-liquid theory of high-temperature
+superconductivity, F. J. Ohkawa, Jpn. J. Appl. Phys. 26, L652 (1987). The
+ground state for n=1 and U/W=+infinity is a Mott insulator. Actual
+metal-insulator transitions cannot be explained within the Hubbard model. In
+order to explain them, the electron-phonon interaction, multi-band or
+multi-orbital effects, and effects of disorder should be considered beyond the
+Hubbard model. The crossover between local-moment magnetism and
+itinerant-electron magnetism corresponds to that between a localized spin and a
+normal Fermi liquid in the Kondo effect and it is simply a Mott metal-insulator
+crossover.

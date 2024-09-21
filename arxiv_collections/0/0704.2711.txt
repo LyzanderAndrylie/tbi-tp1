@@ -1,0 +1,10 @@
+We perform a quantitative analysis of extensive chess databases and show that
+the frequencies of opening moves are distributed according to a power-law with
+an exponent that increases linearly with the game depth, whereas the pooled
+distribution of all opening weights follows Zipf's law with universal exponent.
+We propose a simple stochastic process that is able to capture the observed
+playing statistics and show that the Zipf law arises from the self-similar
+nature of the game tree of chess. Thus, in the case of hierarchical
+fragmentation the scaling is truly universal and independent of a particular
+generating mechanism. Our findings are of relevance in general processes with
+composite decisions.

@@ -1,0 +1,17 @@
+The transport of polymers with folded configurations across membrane pores is
+investigated theoretically by analyzing simple discrete stochastic models. The
+translocation dynamics is viewed as a sequence of two events: motion of the
+folded segment through the channel followed by the linear part of the polymer.
+The transition rates vary for the folded and linear segments because of
+different interactions between the polymer molecule and the pore. It is shown
+that the translocation time depends non-monotonously on the length of the
+folded segment for short polymers and weak external fields, while it becomes
+monotonous for long molecules and large fields. Also, there is a critical
+interaction between the polymers and the pore that separates two dynamic
+regimes. For stronger interactions the folded polymer moves slower, while for
+weaker interactions the linear chain translocation is the fastest. In addition,
+our calculations show that the folding does not change the translocation
+scaling properties of the polymer. These phenomena can be explained by the
+interplay between the translocation distances and transition rates for the
+folded and linear segments of the polymer. Theoretical results are applied for
+analysis of experimental translocations through solid-state nanopores.

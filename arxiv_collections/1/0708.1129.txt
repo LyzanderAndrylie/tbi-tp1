@@ -1,0 +1,8 @@
+We report the first demonstration of a quantum game on an all-optical one-way
+quantum computer. Following a recent theoretical proposal we implement a
+quantum version of Prisoner's Dilemma, where the quantum circuit is realized by
+a 4-qubit box-cluster configuration and the player's local strategies by
+measurements performed on the physical qubits of the cluster. This
+demonstration underlines the strength and versatility of the one-way model and
+we expect that this will trigger further interest in designing quantum
+protocols and algorithms to be tested in state-of-the-art cluster resources.

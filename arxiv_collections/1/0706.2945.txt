@@ -1,0 +1,9 @@
+The existence of bound state of the polarizable neutral atom in the inverse
+square potential created by the electric field of single walled charged carbon
+nanotube (SWNT) is shown to be theoretically possible. The consideration of
+inequivalent boundary conditions due to self-adjoint extensions lead to this
+nontrivial bound state solution. It is also shown that the scaling anomaly is
+responsible for the existence of bound state. Binding of the polarizable atoms
+in the coupling constant interval \eta^2\in[0,1) may be responsible for the
+smearing of the edge of steps in quantized conductance, which has not been
+considered so far in literature.

@@ -1,0 +1,11 @@
+We have studied anisotropic magnetoresistance (MR) and magnetization with
+rotating magnetic field (B) within $CuO_2$ plane in lightly doped AF
+$Nd_{2-x}Ce_xCuO_{4}$. \emph{A giant anisotropy} in MR is observed at low
+temperature below 5 K. The c-axis resistivity can be tuned about one order of
+magnitude just by changing B direction within $CuO_2$ plane and a scaling
+behavior between out-of-plane and in-plane MR is found. A "Spin valve" effect
+is proposed to understand the giant anisotropy of out-of-plane MR and the
+evolution of scaling parameters with the external field. It is found that the
+field-induced spin-flop transition of Nd$^{3+}$ layer under high magnetic field
+is the key to understand the giant anisotropy. These results suggest that a
+novel entanglement between charge and spin dominates the underlying physics.

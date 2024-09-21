@@ -1,0 +1,15 @@
+We consider the ground state and the elementary excitations of an array of
+spin-Peierls chains coupled by elastic and magnetic interactions. It is
+expected that the effect of the magnetic interchain coupling will be to reduce
+the dimerization amplitude and that of the elastic coupling will be to confine
+the spin one-half solitons corresponding to each isolated chain. We show that
+this is the case when these interactions are not frustrated. On the other hand,
+in the frustrated case we show that the amplitude of dimerization in the ground
+state is independent of the strength of the interchain magnetic interaction in
+a broad range of values of this parameter. We also show that free solitons
+could be the elementary excitations when only nearest neighbor interactions are
+considered. The case of an elastic interchain coupling is analyzed on a general
+energetic consideration. To study the effect of the magnetic interchain
+interaction the problem is simplified to a two-leg ladder which is solved using
+DMRG calculations. We show that the deconfinement mechanism is effective even
+with a significantly strong antiferromagnetic interchain coupling.

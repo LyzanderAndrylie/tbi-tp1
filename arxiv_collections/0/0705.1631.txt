@@ -1,0 +1,7 @@
+We calculate the response of a molecular magnet subject to a time-varying
+magnetic field and coupled to a heat bath. We propose that observations of
+calculated oscillations transverse to the field direction may be an effective
+way of demonstrating quantum tunneling and thus probing the details of level
+repulsion. The effective model of a triangle of Heisenberg spins and weak
+anisotropies, as has been used to model the molecular magnets V15 and Cu3, is
+used to illustrate this.

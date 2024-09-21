@@ -1,0 +1,9 @@
+We report on the realization of a multi-orbital system with ultracold atoms
+in the excited bands of a 3D optical lattice by selectively controlling the
+band population along a given lattice direction. The lifetime of the atoms in
+the excited band is found to be considerably longer (10-100 times) than the
+characteristic time scale for inter-site tunneling, thus opening the path for
+orbital selective many-body physics with ultracold atoms. Upon exciting the
+atoms from an initial lowest band Mott insulating state to higher lying bands,
+we observe the dynamical emergence of coherence in 1D (and 2D), compatible with
+Bose-Einstein condensation to a non-zero momentum state.

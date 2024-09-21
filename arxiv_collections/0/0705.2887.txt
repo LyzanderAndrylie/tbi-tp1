@@ -1,0 +1,18 @@
+Protons and antiprotons at collider energies are a source of high energy
+Weizs\"acker--Williams photons. This may open a possibility to study exclusive
+photoproduction of heavy vector mesons at energies much larger than possible at
+the HERA accelerator. Here we present a detailed investigation of the exclusive
+$J/\psi$ photoproduction in proton-proton (RHIC, LHC) and proton-antiproton
+(Tevatron) collisions. We calculate several differential distributions in $t_1,
+t_2, y, \phi$, as well as transverse momentum distributions of $J/\Psi$'s. We
+discuss correlations in the azimuthal angle between outgoing protons or proton
+and antiproton as well as in the ($t_1, t_2$) space. Differently from
+electroproduction experiments, here both colliding beam particles can be a
+source of photons, and we find large interference terms in azimuthal angle
+distributions in a broad range of rapidities of the produced meson. We also
+include the spin--flip parts in the electromagnetic vertices. We discuss the
+effect of absorptive corrections on various distributions. Interestingly,
+absorption corrections induce a charge asymmetry in rapidity distributions, and
+are larger for $p p$ reactions than for the $p \bar p$ case. The reaction
+considered here constitutes an important nonreduceable background in recently
+proposed searches for odderon exchange.

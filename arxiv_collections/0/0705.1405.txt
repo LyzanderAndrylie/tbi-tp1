@@ -1,0 +1,11 @@
+We propose a qubit-qubit coupling scheme for superconducting flux quantum
+bits (qubits), where a quantized Josephson junction resonator and microwave
+irradiation are utilized. The junction is used as a tunable inductance
+controlled by changing the bias current flowing through the junction, and thus
+the circuit works as a tunable resonator. This enables us to make any qubits
+interact with the resonator. Entanglement between two of many qubits whose
+level splittings satisfy some conditions, is formed by microwave irradiation
+causing a two-photon Rabi oscillation. Since the size of the resonator can be
+as large as sub-millimeters and qubits interact with it via mutual inductance,
+our scheme makes it possible to construct a quantum gate involving remote
+qubits

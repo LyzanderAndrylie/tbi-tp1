@@ -1,0 +1,14 @@
+In ultracold gases many experiments use atom imaging as a basic observable.
+The resulting image is averaged over a number of realizations and mostly only
+this average is used. Only recently the noise has been measured to extract
+physical information. In the present paper we investigate the quantum noise
+arising in these gases at zero temperature. We restrict ourselves to the
+homogeneous situation and study the fluctuations in particle number found
+within a given volume in the gas, and more specifically inside a sphere of
+radius $R$. We show that zero-temperature fluctuations are not extensive and
+the leading term scales with sphere radius $R$ as $R^2\ln R$ (or $\ln R$) in
+three- (or one-) dimensional systems. We calculate systematically the next term
+beyond this leading order. We consider first the generic case of a compressible
+superfluid. Then we investigate the whole Bose-Einstein-condensation (BEC)-BCS
+crossover crossover, and in particular the limiting cases of the weakly
+interacting Bose gas and of the free Fermi gas.

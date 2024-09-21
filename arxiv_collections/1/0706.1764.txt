@@ -1,0 +1,17 @@
+A description of the martensitic transformations between the $\alpha$,
+$\beta$ and $\omega$ phases of titanium that includes nucleation and growth
+requires an accurate classical potential. Optimization of the parameters of a
+modified embedded atom potential to a database of density-functional
+calculations yields an accurate and transferable potential as verified by
+comparison to experimental and density functional data for phonons, surface and
+stacking fault energies and energy barriers for homogeneous martensitic
+transformations. Molecular dynamics simulations map out the
+pressure-temperature phase diagram of titanium. For this potential the
+martensitic phase transformation between $\alpha$ and $\beta$ appears at
+ambient pressure and 1200 K, between $\alpha$ and $\omega$ at ambient
+conditions, between $\beta$ and $\omega$ at 1200 K and pressures above 8 GPa,
+and the triple point occurs at 8GPa and 1200 K. Molecular dynamics explorations
+of the dynamics of the martensitic $\alpha-\omega$ transformation show a
+fast-moving interface with a low interfacial energy of 30 meV/\AA$^2$. The
+potential is applicable to the study of defects and phase transformations of
+Ti.

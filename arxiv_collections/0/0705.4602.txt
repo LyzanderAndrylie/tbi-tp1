@@ -1,0 +1,13 @@
+We study complex projective manifolds X that admit surjective endomorphisms
+f:X->X of degree at least two. In case f is etale, we prove structure theorems
+that describe X. In particular, a rather detailed description is given if X is
+a uniruled threefold. As to the ramified case, we first prove a general theorem
+stating that the vector bundle associated to a Galois covering of projective
+manifolds is ample (resp. nef) under very mild conditions. This is applied to
+the study of ramified endomorphisms of Fano manifolds with second Betti number
+one. It is conjectured that the projective space is the only Fano manifold
+admitting admitting an endomorphism of degree d>1, and we prove that in several
+cases.
+  A part of the argumentation is based on a new characterization of the
+projective space as the only manifold that admits an ample subsheaf in its
+tangent bundle.

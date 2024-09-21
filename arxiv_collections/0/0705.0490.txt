@@ -1,0 +1,11 @@
+We introduce a new model for the dynamics of a wormlike chain in an
+environment that gives rise to a rough free energy landscape, which we baptise
+the glassy wormlike chain. It is obtained from the common wormlike chain by an
+exponential stretching of the relaxation spectrum of its long-wavelength
+eigenmodes, controlled by a single stretching parameter. Predictions for
+pertinent observables such as the dynamic structure factor and the
+microrheological susceptibility exhibit the characteristics of soft glassy
+rheology and compare favourably with experimental data for reconstituted
+cytoskeletal networks and live cells. We speculate about the possible
+microscopic origin of the stretching, implications for the nonlinear rheology,
+and the potential physiological significance of our results.

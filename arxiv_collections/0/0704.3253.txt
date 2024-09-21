@@ -1,0 +1,10 @@
+Quantum key distribution (QKD) systems can send signals over more than 100 km
+standard optical fiber and are widely believed to be secure. Here, we show
+experimentally for the first time a technologically feasible attack, namely the
+time-shift attack, against a commercial QKD system. Our result shows that,
+contrary to popular belief, an eavesdropper, Eve, has a non-negligible
+probability (~4%) to break the security of the system. Eve's success is due to
+the well-known detection efficiency loophole in the experimental testing of
+Bell inequalities. Therefore, the detection efficiency loophole plays a key
+role not only in fundamental physics, but also in technological applications
+such as QKD.

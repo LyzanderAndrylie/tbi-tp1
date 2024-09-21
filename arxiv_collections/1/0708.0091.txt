@@ -1,0 +1,11 @@
+Both ecological systems and convective fluid systems are examples of open
+systems which operate far-from-equilibrium. This article demonstrates that
+there is a correspondence between a resource-consumer chemostat ecosystem and
+the Rayleigh-Benard (RB) convective fluid system. The Lorenz dynamics of the RB
+system can be translated into an ecosystem dynamics. Not only is there a
+correspondence between the dynamical equations, also the physical
+interpretations show interesting analogies. By using this fluid-ecosystem
+analogy, we are able to derive the correct value of the size of convection
+rolls by competitive fitness arguments borrowed from ecology. We finally
+conjecture that the Lorenz dynamics can be extended to describe more complex
+convection patterns that resemble ecological predation.

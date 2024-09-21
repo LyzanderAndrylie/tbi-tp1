@@ -1,0 +1,15 @@
+We address a two-dimensional nonlinear elliptic problem with a
+finite-amplitude periodic potential. For a class of separable symmetric
+potentials, we study the bifurcation of the first band gap in the spectrum of
+the linear Schr\"{o}dinger operator and the relevant coupled-mode equations to
+describe this bifurcation. The coupled-mode equations are derived by the
+rigorous analysis based on the Fourier--Bloch decomposition and the Implicit
+Function Theorem in the space of bounded continuous functions vanishing at
+infinity. Persistence of reversible localized solutions, called gap solitons,
+beyond the coupled-mode equations is proved under a non-degeneracy assumption
+on the kernel of the linearization operator. Various branches of reversible
+localized solutions are classified numerically in the framework of the
+coupled-mode equations and convergence of the approximation error is verified.
+Error estimates on the time-dependent solutions of the Gross--Pitaevskii
+equation and the coupled-mode equations are obtained for a finite-time
+interval.

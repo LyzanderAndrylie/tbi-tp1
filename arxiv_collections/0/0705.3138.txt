@@ -1,0 +1,9 @@
+The NA60 experiment at the CERN SPS has studied low-mass muon pairs in 158
+AGeV In-In collisions. A strong excess of pairs is observed above the yield
+expected from neutral meson decays. The unprecedented sample size of close to
+400K events and the good mass resolution of about 2% have made it possible to
+isolate the excess by subtraction of the decay sources (keeping the $\rho$).
+The shape of the resulting mass spectrum exhibits considerable broadening, but
+essentially no shift in mass. The acceptance-corrected transverse-momentum
+spectra have a shape atypical for radial flow and show a significant mass
+dependence, pointing to different sources in different mass regions.

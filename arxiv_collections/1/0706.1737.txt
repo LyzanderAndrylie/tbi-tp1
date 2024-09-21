@@ -1,0 +1,6 @@
+We show that the intriguing observation of noise enhancement in the charge
+transport through two vertically coupled quantum dots can be explained by the
+interplay of quantum coherence and strong Coulomb blockade. We demonstrate that
+this novel mechanism for super-Poissonian charge transfer is very sensitive to
+decoherence caused by electron-phonon scattering as inferred from the measured
+temperature dependence.

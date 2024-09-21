@@ -1,0 +1,11 @@
+The paper is devoted to the construction of the superstatistical description
+for nonequilibrium Markovian systems. It is based on Kirchhoff's diagram
+technique and the assumption on the system under consideration to possess a
+wide variety of cycles with vanishing probability fluxes. The latter feature
+enables us to introduce equivalence classes called channels within which
+detailed balance holds individually. Then stationary probability as well as
+flux distributions are represented as some sums over the channels. The latter
+construction actually forms the superstatistical description, which, however,
+deals with a certain superposition of equilibrium subsystems rather then is a
+formal expansion of the nonequilibrium steady state distribution into terms of
+the Boltzmann type.

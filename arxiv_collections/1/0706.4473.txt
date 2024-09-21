@@ -1,0 +1,9 @@
+We study relations between quaternionic Riemannian manifolds admitting
+different types of symmetries. We show that any hyperKahler manifold admitting
+hyperKahler potential and triholomorphic action of S^1 can be constructed from
+another hyperKahler manifold (of lower dimention) with an action of S^1 which
+fixes one complex structure and rotates the other two and vice versa. We also
+study corresponding quaternionic Kahler manifolds equipped with a quaternionic
+Kahler action of the circle. In particular we show that any positive
+quaternionic Kahler manifold with S^1 symmetry admits a Kahler metric on an
+open everywhere dense subset.

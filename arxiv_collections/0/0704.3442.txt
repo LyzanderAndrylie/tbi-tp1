@@ -1,0 +1,11 @@
+We study supersymmetric branes in AdS_7 x S^4 and AdS_4 x S^7. We show that
+in the former case the membranes should be viewed as M5 branes with fluxes and
+we identify two types of such fivebranes (they are analogous to giant gravitons
+and to dual giants). In AdS_4 x S^7 we find both M5 branes with fluxes and
+freestanding stacks of membranes. We also go beyond probe approximation and
+construct regular supergravity solutions describing geometries produced by the
+branes. The metrics are completely specified by one function which satisfies
+either Laplace or Toda equation and we give a complete classification of
+boundary conditions leading to smooth geometries. The brane configurations
+discussed in this paper are dual to various defects in three- and
+six-dimensional conformal field theories.

@@ -1,0 +1,9 @@
+In this paper, we show that there is a large class of fermionic systems for
+which it is possible to find, for any dimension, a finite closed set of
+eigenoperators and eigenvalues of the Hamiltonian. Then, the hierarchy of the
+equations of motion closes and analytical expressions for the Green's functions
+are obtained in terms of a finite number of parameters, to be self-consistently
+determined. Several examples are given. In particular, for these examples it is
+shown that in the one-dimensional case it is possible to derive by means of
+algebraic constraints a set of equations which allow us to determine the
+self-consistent parameters and to obtain a complete exact solution.

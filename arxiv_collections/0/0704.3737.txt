@@ -1,0 +1,8 @@
+Let G be a Lie group over a local field of positive characteristic which
+admits a contractive automorphism f (i.e., the forward iterates f^n(x) of each
+group element x converge to the neutral element 1). We show that then G is a
+torsion group of finite exponent and nilpotent. We also obtain results
+concerning the interplay between contractive automorphisms of Lie groups over
+local fields, contractive automorphisms of their Lie algebras, and positive
+gradations thereon. Some of the results even extend to Lie groups over
+arbitrary complete ultrametric fields.

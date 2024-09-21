@@ -1,0 +1,7 @@
+We develop a generalized theory of quantum error correction (QEC) that
+applies to any linear map, in particular maps that are not completely positive
+(CP). This theory describes entanglement-assisted QEC for invertible noise
+maps, which we use to provides an example of the physical implementation of
+non-CP recovery maps. We argue that a consistent map-based theory of
+fault-tolerant QEC (whether Markovian or not) requires linear, non-CP maps, and
+that this impacts the value of the fault-tolerance threshold.

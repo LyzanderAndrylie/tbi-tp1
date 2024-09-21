@@ -1,0 +1,6 @@
+A simplified model of the bird skeleton along with elongation parameters for
+the flight feathers is used to explore the diversity of bird shapes. Varying a
+small number of parameters simulates a wide range of observed bird silhouettes.
+The model may serve to examine developmental factors involved, help museum
+curators develop computational approaches to bird morphometry and has
+applications in computer generated illustration.

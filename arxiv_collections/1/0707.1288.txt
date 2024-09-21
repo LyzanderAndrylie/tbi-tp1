@@ -1,0 +1,9 @@
+In decision-support systems, the visual component is important for On Line
+Analysis Processing (OLAP). In this paper, we propose a new approach that faces
+the visualization problem due to data sparsity. We use the results of a
+Multiple Correspondence Analysis (MCA) to reduce the negative effect of
+sparsity by organizing differently data cube cells. Our approach does not
+reduce sparsity, however it tries to build relevant representation spaces where
+facts are efficiently gathered. In order to evaluate our approach, we propose
+an homogeneity criterion based on geometric neighborhood of cells. The obtained
+experimental results have shown the efficiency of our method.

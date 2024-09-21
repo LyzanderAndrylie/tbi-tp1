@@ -1,0 +1,11 @@
+We study a hybrid system consisting of a spin-incoherent Luttinger liquid
+adjoined at one or both ends to a superconductor. We find the tunneling density
+of states diverges at low energies and exhibits a universal frequency
+dependence independent of the strength of the interactions in the system. We
+show that in spite of exponentially decaying pair correlations with distance
+into the spin-incoherent Luttinger liquid, the Josephson current remains
+robust. Compared to the zero temperature Luttinger liquid case there is a
+factor of 2 reduction in the critical current and a halving of the period in
+the phase difference between the superconductors. Our results open the way for
+a new class of experiments in the spin-incoherent regime of one dimensional
+systems.

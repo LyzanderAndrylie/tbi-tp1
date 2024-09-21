@@ -1,0 +1,11 @@
+A system of two interacting photon modes, without constraints on the photon
+number, in the presence of a Kerr nonlinearity, exhibits BEC if the transfer
+amplitude is greater than the mode frequency. A symmetry-breaking field (SBF)
+can be introduced by taking into account a classical electron current. The
+ground state, in the limit of small nonlinearity, becomes a squeezed state, and
+thus the modes become entangled. The smaller is the SBF, the greater is
+entanglement. Superfluid-like behavior is observed in the study of entanglement
+growth from an initial coherent state, since in the short-time range the growth
+does not depend on the SBF amplitude, and on the initial state amplitude. On
+the other hand, the latter is the only parameter which determines entanglement
+in the absence of the SBF.

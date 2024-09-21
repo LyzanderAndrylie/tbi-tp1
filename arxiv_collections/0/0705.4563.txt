@@ -1,0 +1,8 @@
+We discuss two separate techniques for Kalman Filtering in the presence of
+state space equality constraints. We then prove that despite the lack of
+similarity in their formulations, under certain conditions, the two methods
+result in mathematically equivalent constrained estimate structures. We
+conclude that the potential benefits of using equality constraints in Kalman
+Filtering often outweigh the computational costs, and as such, equality
+constraints, when present, should be enforced by way of one of these two
+methods.

@@ -1,0 +1,11 @@
+We study the United States Congress by constructing networks between Members
+of Congress based on the legislation that they cosponsor. Using the concept of
+modularity, we identify the community structure of Congressmen, as connected
+via sponsorship/cosponsorship of the same legislation, to investigate the
+collaborative communities of legislators in both chambers of Congress. This
+analysis yields an explicit and conceptually clear measure of political
+polarization, demonstrating a sharp increase in partisan polarization which
+preceded and then culminated in the 104th Congress (1995-1996), when
+Republicans took control of both chambers. Although polarization has since
+waned in the U.S. Senate, it remains at historically high levels in the House
+of Representatives.

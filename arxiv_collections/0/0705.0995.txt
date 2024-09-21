@@ -1,0 +1,14 @@
+A general theory is presented for the treatment of decoherence of a
+multilevel quantum system (with many degrees of freedom) interacting with
+multi-bath reservoir and driven by ac fields. In this approach, the system is
+described by a reduced density operator and the multi-bath reservoir is
+characterized by a number of spectral densities. The reduced density operator
+is governed by the master equation in which the effect of ac driving fields and
+the leakage to non-computational states are included. The theory is applied to
+the study of decoherence of a two-dimensional (2D) SQUID flux qubit coupled to
+control and readout circuits. The predicted results are in very good agreement
+with available experimental results in the absence of driving fields and with
+the analytic results of a dissipative two-level system in the presence of weak
+driving fields. The relaxation and decoherence times versus the parameters and
+temperature of the control and readout circuits are also explored in details to
+facilitate the optimization of the 2D SQUID qubit.

@@ -1,0 +1,4 @@
+In 1954 it was proved if f is infinitely differentiable in the interval I and
+some derivative (of order depending on x) vanishes at each x, then f is a
+polynomial. Later it was generalized for multi-variable case. In this paper we
+give an extension for distributions.

@@ -1,0 +1,8 @@
+We report on our recent results for deep-inelastic neutrino-proton
+scattering. We have computed the perturbative QCD corrections to three loops
+for the harged current structure functions F_2, F_L and F_3 for the combination
+nu P - nubar P. In leading twist approximation we have calculated the first six
+odd-integer Mellin moments in the case of F_2 and F_L and the first six
+even-integer moments in the case of F_3. As a new result we have obtained the
+coefficient functions to O(alpha_s^3) and we have found the corresponding
+anomalous dimensions to agree with known results in the literature.

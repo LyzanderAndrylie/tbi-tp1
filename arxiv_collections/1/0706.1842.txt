@@ -1,0 +1,9 @@
+An earlier study (Nettle 1999b) concluded, based on computer simulations and
+some inferences from empirical data, that languages will change the more slowly
+the larger the population gets. We replicate this study using a more complete
+language model for simulations (the Schulze model combined with a
+Barabasi-Albert net- work) and a richer empirical dataset (the World Atlas of
+Language Structures edited by Haspelmath et al. 2005). Our simulations show
+either a weak or stronger dependence of language change on population sizes
+depending on the parameter settings, and empirical data, like some of the
+simulations, show a weak dependence.

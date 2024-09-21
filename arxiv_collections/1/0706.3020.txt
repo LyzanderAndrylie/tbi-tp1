@@ -1,0 +1,19 @@
+We study two aspects of the elasticity of smectic-$A$ elastomers that make
+these materials genuinely and qualitatively different from conventional
+uniaxial rubbers. Under strain applied parallel to the layer normal, monodomain
+smectic-$A$ elastomers exhibit a drastic change in Young's modulus above a
+threshold strain value of about 3%, as has been measured in experiments by
+Nishikawa and Finkelmann [Macromol. Chem. Phys. {\bf 200}, 312 (1999)]. Our
+theory predicts that such strains induce a transition to a smectic-$C$-like
+state and that it is this transition that causes the change in elastic modulus.
+We calculate the stress-strain behavior as well as the tilt of the smectic
+layers and the molecular orientation for strain along the layer normal, and we
+compare our findings with the experimental data. We also study the
+electroclinic effect in chiral smectic-$A^\ast$ elastomers. According to
+experiments by Lehmann {\em et al}. [Nature {\bf 410}, 447 (2001)] and
+K\"{o}hler {\em et al}. [Applied Physics A {\bf 80}, 381 (2003)], this effect
+leads in smectic-$A^\ast$ elastomers to a giant or, respectively, at least very
+large lateral electrostriction. Incorporating polarization into our theory, we
+calculate the height change of smectic-$A^\ast$ elastomer films in response to
+a lateral external electric field, and we compare this result to the
+experimental findings.

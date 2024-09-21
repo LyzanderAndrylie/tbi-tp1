@@ -1,0 +1,14 @@
+We use the, covariant and gauge-invariant, 1+1+2 formalism developed by
+Clarkson and Barrett, and develop new techniques, to decouple electromagnetic
+(EM) perturbations on arbitrary locally rotationally symmetric (LRS)
+space-times. Ultimately, we derive 3 decoupled complex equations governing 3
+complex scalars. One of these is a new Regge-Wheeler (RW) equation generalized
+for LRS space-times, whereas the remaining two are new generalizations of the
+Bardeen-Press (BP) equations. This is achieved by first using linear algebra
+techniques to rewrite the first-order Maxwell equations in a new complex 1+1+2
+form which is conducive to decoupling. This new complex system immediately
+yields the generalized RW equation, and furthermore, we also derive a decoupled
+equation governing a newly defined complex EM 2-vector. Subsequently, a further
+decomposition of the 1+1+2 formalism into a 1+1+1+1 formalism is developed,
+allowing us to decompose the complex EM 2-vector, and its governing equations,
+into spin-weighted scalars, giving rise to the generalized BP equations.

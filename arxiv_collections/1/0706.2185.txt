@@ -1,0 +1,8 @@
+We discuss the effect of electron-electron interactions on the static
+polarization properties of graphene beyond RPA. Divergent self-energy
+corrections are naturally absorbed into the renormalized coupling constant
+$\alpha$. We find that the lowest order vertex correction, which is the first
+non-trivial correlation contribution, is finite, and about 30% of the RPA
+result at strong coupling $\alpha \sim 1$. The vertex correction leads to
+further reduction of the effective charge. Finite contributions to dielectric
+screening are expected in all orders of perturbation theory.

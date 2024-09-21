@@ -1,0 +1,5 @@
+This paper describes an optimization model for setting bid levels for certain
+types of advertisements on web pages. This model is non-convex, but we are able
+to obtain optimal or near-optimal solutions rapidly using branch and cut
+open-source software. The financial benefits obtained using the prototype
+system have been substantial.

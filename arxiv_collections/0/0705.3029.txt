@@ -1,0 +1,19 @@
+Force induced stretching of polymers is important in a variety of contexts.
+We have used theory and simulations to describe the response of homopolymers,
+with $N$ monomers, to force ($f$) in good and poor solvents. In good solvents
+and for {{sufficiently large}} $N$ we show, in accord with scaling predictions,
+that the mean extension along the $f$ axis $<Z>\sim f$ for small $f$, and
+$<Z>\sim f^{{2/3}}$ (the Pincus regime) for intermediate values of $f$. The
+theoretical predictions for $\la Z\ra$ as a function of $f$ are in excellent
+agreement with simulations for N=100 and 1600. However, even with N=1600, the
+expected Pincus regime is not observed due to the the breakdown of the
+assumptions in the blob picture for finite $N$. {{We predict the Pincus scaling
+in a good solvent will be observed for $N\gtrsim 10^5$}}. The force-dependent
+structure factors for a polymer in a poor solvent show that there are a
+hierarchy of structures, depending on the nature of the solvent. For a weakly
+hydrophobic polymer, various structures (ideal conformations, self-avoiding
+chains, globules, and rods) emerge on distinct length scales as $f$ is varied.
+A strongly hydrophobic polymer remains globular as long as $f$ is less than a
+critical value $f_c$. Above $f_c$, an abrupt first order transition to a
+rod-like structure occurs. Our predictions can be tested using single molecule
+experiments.

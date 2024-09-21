@@ -1,0 +1,3 @@
+A simple proof of a key inequality required by the paper's analysis is
+presented. An introductory section discussing the paper's setup may be helpful
+to some readers. An alternative statistical analysis is suggested.

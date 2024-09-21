@@ -1,0 +1,8 @@
+In these notes we construct a quantization functor, associating an Hilbert
+space H(V) to a finite dimensional symplectic vector space V over a finite
+field F_q. As a result, we obtain a canonical model for the Weil representation
+of the symplectic group Sp(V). The main technical result is a proof of a
+stronger form of the Stone-von Neumann theorem for the Heisenberg group over
+F_q. Our result answers, for the case of the Heisenberg group, a question of
+Kazhdan about the possible existence of a canonical Hilbert space attached to a
+coadjoint orbit of a general unipotent group over F_q.

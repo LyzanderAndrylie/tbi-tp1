@@ -1,0 +1,12 @@
+An exact solvable 'zig-zag' ladder model of degenerated spinless fermions is
+proposed and solved exactly by the means of the Bethe ansatz. An effective
+attractive hard-core interaction and direct Coulomb repulsion of fermions on
+the nearest-neighbor sites of different chains induce a new phase state of the
+ladder. We give a detailed analysis of the exact phase diagram at zero
+temperature, that is characterized by two phases at the filling exceeding 2/3:
+itinerant and 'frozen' fermions, for which two different species reside in
+spatially separate regions. The critical exponents describing asymptotic
+behavior of the correlation functions are calculated using the Bethe ansatz and
+conformal field theory. It is shown also, that the density of the magnetization
+of the corresponding zig-zag spin-1/2 ladder has a jump equal to 1/3 at the
+magnetic field equal to zero.

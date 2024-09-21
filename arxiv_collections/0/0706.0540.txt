@@ -1,0 +1,12 @@
+We describe a sensor for the measurement of thin dielectric layers capable of
+operation in a variety of environments. The sensor is obtained by
+microfabricating a capacitor with interleaved aluminum fingers, exposed to the
+dielectric to be measured. In particular, the device can measure thin layers of
+solid frozen from a liquid or gaseous medium. Sensitivity to single atomic
+layers is achievable in many configurations and, by utilizing fast, high
+sensitivity capacitance read out in a feedback system onto environmental
+parameters, coatings of few layers can be dynamically maintained. We discuss
+the design, read out and calibration of several versions of the device
+optimized in different ways. We specifically dwell on the case in which
+atomically thin solid xenon layers are grown and stabilized, in cryogenic
+conditions, from a liquid xenon bath.

@@ -1,0 +1,7 @@
+In this paper we provide a possible realization of Penrose's idea of
+nonlinear gravitons by constructing a solution to the initial value constraints
+in Ashtekar variables. The solution inputs are a spatial SU(2) connection and
+two free functions of position, and can be constructed as a formal operatorial
+expansion in powers of the cosmological constant about spacetimes of Petrov
+Type O. We first present the linear case, and then provide a simple nonlinear
+example to first order using a spatially homogeneous connection.

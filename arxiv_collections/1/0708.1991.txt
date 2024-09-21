@@ -1,0 +1,24 @@
+The very insightful Trivers-Willard hypothesis, proposed in the early 1970s,
+states that females in good physiological conditions are more likely to produce
+male offspring, when the variance of reproductive success amongst males is
+high. A number of studies, aimed at its experimental verification, have found
+adequate supportive evidence in its favour. Theoretical investigations,
+however, have been few, perhaps because formulating a population-genetic model
+for describing the Trivers-Willard hypothesis turns out to be surprisingly
+complex. The present study describes a minimal population genetic model to
+explore one specific scenario, viz. how is the preference for a male offspring
+by females in good condition altered when 'g', the proportion of such females
+in the population changes from a low to a high value. As expected, when the
+proportion of such females is low, i.e., for low values of 'g', the
+Trivers-Willard (TW) strategy goes to fixation against the equal investment
+strategy. This holds true up to gmax, a critical value of 'g', above which the
+two strategies coexist, but the proportion of the TW strategy steadily
+decreases as 'g' increases to unity. Similarly, when the effect of well-endowed
+males attaining disproportionately high number of matings is more pronounced,
+the TW strategy is more likely to go to fixation. Interestingly, the success of
+the TW strategy has a complex dependence on the variance in the physiological
+condition of females. If the difference in the two types of conditions is not
+large, TW strategy is favoured, and its success is more likely as the
+difference increases. However, beyond a critical value of the difference, the
+TW strategy is found to be less and less likely to succeed as the difference
+becomes larger. Possible reasons for these effects are discussed.

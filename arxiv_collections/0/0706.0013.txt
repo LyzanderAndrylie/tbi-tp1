@@ -1,0 +1,18 @@
+Within a general theoretical framework we study the effective,
+deformation-induced interaction between two colloidal particles trapped at a
+fluid interface in the regime of small deformations. In many studies, this
+interaction has been computed with the ansatz that the actual interface
+configuration for the pair is given by the linear superposition of the
+interface deformations around the single particles. Here we assess the validity
+of this approach and compute the leading term of the effective interaction for
+large interparticle separation beyond this so-called superposition
+approximation. As an application, we consider the experimentally relevant case
+of interface deformations owing to the electrostatic field emanating from
+charged colloidal particles. In mechanical isolation, i.e., if the net force
+acting on the total system consisting of the particles plus the interface
+vanishes, the superposition approximation is actually invalid. The effective
+capillary interaction is governed by contributions beyond this approximation
+and turns out to be attractive. For sufficiently small surface charges on the
+colloids, such that linearization is strictly valid, and at asymptotically
+large separations, the effective interaction does not overcome the direct
+electrostatic repulsion between the colloidal particles.

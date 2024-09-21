@@ -1,0 +1,5 @@
+We consider shape, size and regularity of the hulls of the chordal
+Schramm-Loewner evolution driven by a symmetric alpha-stable process. We obtain
+derivative estimates, show that the complements of the hulls are Hoelder
+domains, prove that the hulls have Hausdorff dimension 1, and show that the
+trace is right-continuous with left limits almost surely.

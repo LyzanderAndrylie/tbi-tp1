@@ -1,0 +1,7 @@
+In analogy with optical near-field scanning methods, we use tapered
+dielectric waveguides as probes for a millimeter wave vector network analyzer.
+By scanning thin samples between two such probes we are able to map the
+spatially varying dielectric properties of materials with sub-wavelength
+resolution; using a 150 GHz probe in transmision mode we see spatial resolution
+of around 500 microns. We have applied this method to a variety of highly
+heterogeneous materials. Here we show dielectric maps of granite and oil shale.

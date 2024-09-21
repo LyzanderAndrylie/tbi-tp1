@@ -1,0 +1,12 @@
+An efficient quantum cryptography network protocol is proposed with
+d-dimension polarized photons, without resorting to entanglement and quantum
+memory. A server on the network, say Alice, provides the service for preparing
+and measuring single photons whose initial state are |0>. The users code the
+information on the single photons with some unitary operations. For preventing
+the untrustworthy server Alice from eavesdropping the quantum lines, a
+nonorthogonal-coding technique (decoy-photon technique) is used in the process
+that the quantum signal is transmitted between the users. This protocol does
+not require the servers and the users to store the quantum state and almost all
+of the single photons can be used for carrying the information, which makes it
+more convenient for application than others with present technology. We also
+discuss the case with a faint laser pulse.

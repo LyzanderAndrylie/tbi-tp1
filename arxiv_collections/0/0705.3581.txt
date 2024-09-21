@@ -1,0 +1,10 @@
+A detailed analysis of the wave-mode structure in a bend and its
+incorporation into a stable algorithm for calculation of the scattering matrix
+of the bend is presented. The calculations are based on the modal approach. The
+stability and precision of the algorithm is numerically and analytically
+analysed. The algorithm enables precise numerical calculations of scattering
+across the bend. The reflection is a purely quantum phenomenon and is discussed
+in more detail over a larger energy interval. The behaviour of the reflection
+is explained partially by a one-dimensional scattering model and heuristic
+calculations of the scattering matrix for narrow bends. In the same spirit we
+explain the numerical results for the Wigner-Smith delay time in the bend.

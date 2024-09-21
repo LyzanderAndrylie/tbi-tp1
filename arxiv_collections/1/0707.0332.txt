@@ -1,0 +1,7 @@
+The structure function of the vortex lattice of layered superconductor is
+calculated to one-loop order. Based on a phenomenological melting criterion
+concerning the Debye-Waller factor, we calculate the melting line of the vortex
+lattice, and compare our results to Monte Carlo simulation and experiment. We
+find that our results are quantitatively in good agreement with the Monte Carlo
+results. Moreover, our analytic calculation of the melting line of BSCCO fits
+the experiment reasonably well in a temperature range not far from Tc.

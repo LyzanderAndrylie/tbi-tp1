@@ -1,0 +1,11 @@
+We proposed a new search heuristic using the scuba diving metaphor. This
+approach is based on the concept of evolvability and tends to exploit
+neutrality in fitness landscape. Despite the fact that natural evolution does
+not directly select for evolvability, the basic idea behind the scuba search
+heuristic is to explicitly push the evolvability to increase. The search
+process switches between two phases: Conquest-of-the-Waters and
+Invasion-of-the-Land. A comparative study of the new algorithm and standard
+local search heuristics on the NKq-landscapes has shown advantage and limit of
+the scuba search. To enlighten qualitative differences between neutral search
+processes, the space is changed into a connected graph to visualize the
+pathways that the search is likely to follow.

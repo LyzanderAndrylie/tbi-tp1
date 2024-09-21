@@ -1,0 +1,14 @@
+Atoms at liquid metal surfaces are known to form layers parallel to the
+surface. We analyze the two-dimensional arrangement of atoms within such layers
+at the surface of liquid sodium, using ab initio molecular dynamics (MD)
+simulations based on density functional theory. Nearest neighbor distributions
+at the surface indicate mostly 5-fold coordination, though there are noticeable
+fractions of 4-fold and 6-fold coordinated atoms. Bond angle distributions
+suggest a movement toward the angles corresponding to a six-fold coordinated
+hexagonal arrangement of the atoms as the temperature is decreased towards the
+solidification point. We rationalize these results with a distorted hexagonal
+order at the surface, showing a mixture of regions of five and six-fold
+coordination. The liquid surface results are compared with classical MD
+simulations of the liquid surface, with similar effects appearing, and with ab
+initio MD simulations for a model solid-liquid interface, where a pronounced
+shift towards hexagonal ordering is observed as the temperature is lowered.

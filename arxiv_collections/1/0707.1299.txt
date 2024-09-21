@@ -1,0 +1,8 @@
+We present a second-order accurate method to include arbitrary distributions
+of force densities in the lattice Boltzmann formulation of hydrodynamics. Our
+method may be used to represent singular force densities arising either from
+momentum-conserving internal forces or from external forces which do not
+conserve momentum. We validate our method with several examples involving point
+forces and find excellent agreement with analytical results. A minimal model
+for dilute sedimenting particles is presented using the method which promises a
+substantial gain in computational efficiency.

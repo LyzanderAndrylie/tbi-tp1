@@ -1,0 +1,8 @@
+We analyze mixed multi-qubit states composed of a W class state and a product
+state with all qubit in |0>. We find the optimal pure state decomposition and
+convex roofs for higher-tangle with bipartite partition between one qubit and
+the rest qubits for those mixed states. The optimality of the decomposition is
+ensured by the Coffman-Kundu-Wootters (CKW) inequality which describes the
+monogamy of quantum entanglement. The generalized monogamy inequality is found
+to be true for W class states with arbitrary partitions between one qubit and
+multi-qubit.

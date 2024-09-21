@@ -1,0 +1,10 @@
+We report an optical technique that yields an enhancement of single-molecule
+photostability, by greatly suppressing photobleaching pathways which involve
+photoexcitation from the triplet state. This is accomplished by dynamically
+switching off the excitation laser when a quantum-jump of the molecule to the
+triplet state is optically detected. This procedure leads to a lengthened
+single-molecule observation time and an increased total number of detected
+photons. The resulting improvement in photostability unambiguously confirms the
+importance of photoexcitation from the triplet state in photobleaching
+dynamics, and may allow the investigation of new phenomena at the
+single-molecule level.

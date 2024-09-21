@@ -1,0 +1,11 @@
+We study the symmetric-side-channel-assisted private capacity of a quantum
+channel, for which we provide a single-letter formula. This capacity is
+additive, convex, and, for degradable channels, equal to the unassisted private
+capacity. While a channel's (unassisted) capacity for for private classical
+communication may be strictly larger than its quantum capacity, we will show
+that these capacities are equal for degradable channels, thus demonstrating the
+equivalence of privacy and quantum coherence in this context. We use these
+ideas to find new bounds on the key rate of quantum key distribution protocols
+with one-way classical post-processing. For the Bennett-Brassard-84 (BB84)
+protocol, our results demonstrate that collective attacks are strictly stronger
+than individual attacks.

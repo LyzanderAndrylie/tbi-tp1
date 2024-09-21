@@ -1,0 +1,13 @@
+The standard model can be interpreted as the leading order of a Low-Energy
+Effective Theory (LEET) invariant under a higher non linearly realized symmetry
+$S_{nat}\supset SU(2)_W \times U(1)_Y$ equipped with a systematic power
+counting. Within the minimal version of this ``not quite decoupling'' LEET, the
+dominant non-standard effect appears at next-to-leading order (NLO) and is a
+modification of the couplings of fermions to W and Z. In particular, the
+coupling of right-handed quarks to Z is modified and a direct coupling of
+right-handed quarks to W emerges. Charged right-handed lepton currents are
+forbidden by an additional discrete symmetry in the lepton sector originally
+designed to suppress Dirac neutrino masses. A complete NLO analysis of
+experimental constraints on these modified couplings is presented. Concerning
+couplings of light quarks, the interface of the electroweak tests with QCD
+aspects is discussed in detail.

@@ -1,0 +1,3 @@
+In this paper we find solutions $u_\epsilon$ to a certain class of
+vector-valued parabolic Allen-Cahn equation that as $\epsilon \to 0$ develops
+as interface a given triod evolving under curve shortening flow.

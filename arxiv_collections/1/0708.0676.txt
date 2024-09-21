@@ -1,0 +1,7 @@
+We study a class of two-dimensional spin models with the Kitaev-type
+couplings in mosaic structure lattices to implement topological orders. We show
+that they are exactly solvable by reducing them to some free Majorana fermion
+models with gauge symmetries. The typical case with a 4-8-8 close packing is
+investigated in detail to display the quantum phases with Abelian and
+non-Abelian anyons. Its topological properties characterized by Chern numbers
+are revealed through the edge modes of its spectrum.

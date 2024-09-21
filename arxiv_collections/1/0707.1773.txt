@@ -1,0 +1,9 @@
+We report here the first observation of a pyroelectric effect in a non-polar
+semiconductor. This effect originates in the temperature dependent electric
+dipole of the p-n junction. The junction was illuminated by a chopped CO2 laser
+beam, and periodic and single-pulse pyroelectric signals were observed and
+measured as a function of temperature, reverse bias voltage and chopper
+frequency. The measured pyroelectric coefficient is about 10^(-3) microC/cm2K
+in the region of 40-80 K. The theoretical model describes quantitatively all
+experimental features. The time evolution of the temperature inside the
+junction region was reconstructed.

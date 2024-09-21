@@ -1,0 +1,10 @@
+The degeneracy of quarter BPS dyons in N=4 supersymmetric string theories is
+known to jump across walls of marginal stability on which a quarter BPS dyon
+can decay into a pair of half BPS dyons. We show that as long as the electric
+and magnetic charges of the original dyon are primitive elements of the charge
+lattice, the subspaces of the moduli space on which a quarter BPS dyon becomes
+marginally unstable against decay into a pair of quarter BPS dyons or a half
+BPS dyon and a quarter BPS dyon are of codimension two or more. As a result any
+pair of generic points in the moduli space can be connected by a path avoiding
+these subspaces and there is no jump in the spectrum associated with these
+subspaces.

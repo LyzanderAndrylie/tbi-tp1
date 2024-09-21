@@ -1,0 +1,12 @@
+We experimentally investigate the temperature dependence of Rabi oscillations
+and Ramsey fringes in superconducting phase qubits driven by microwave pulses.
+In a wide range of temperatures, we find that both the decay time and the
+amplitude of these coherent oscillations remain nearly unaffected by thermal
+fluctuations. The oscillations are observed well above the crossover
+temperature from thermally activated escape to quantum tunneling for undriven
+qubits. In the two-level limit, coherent qubit response rapidly vanishes as
+soon as the energy of thermal fluctuations kT becomes larger than the energy
+level spacing of the qubit. Our observations shed new light on the origin of
+decoherence in superconducting qubits. The experimental data suggest that,
+without degrading already achieved coherence times, phase qubits can be
+operated at temperatures much higher than those reported till now.

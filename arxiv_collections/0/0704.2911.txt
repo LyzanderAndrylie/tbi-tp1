@@ -1,0 +1,6 @@
+We report an experimental observation of polaritonic optical bistability of
+the laser emission in a planar semiconductor microcavity with a $100\AA$ GaAs
+single quantum well in the strong-coupling regime. The bistability curves show
+crossings that indicate a competition between a Kerr-like effect induced by the
+polariton population and thermal effects. Associated with the bistability,
+laser-like emission occurs at the bare cavity mode.

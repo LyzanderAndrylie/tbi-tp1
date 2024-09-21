@@ -1,0 +1,12 @@
+We study the two orbital double-exchange model in two dimensions in the
+presence of antiferromagnetic (AF) superexchange, strong Jahn-Teller coupling,
+and substitutional disorder. At hole doping x=0.5 we explore the `bicritical'
+regime where the energy of a ferromagnetic metal and a charge and orbital
+ordered (CO-OO) CE state are closely balanced, and compare the impact of weak
+homogeneous disorder to that of a low density of strong scatterers. Even
+moderate homogeneous disorder suppresses the CE-CO-OO phase and leads to a
+glass with nanoscale correlations. Dilute strong scatterers of comparable
+strength, however, convert the CE-CO-OO phase to a phase separated state with
+ferromagnetic and AF-CO-OO clusters. We provide the first spatial description
+of these phenomena and compare our results in detail to experiments on the
+half-doped manganites.

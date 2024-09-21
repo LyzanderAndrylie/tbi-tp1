@@ -1,0 +1,12 @@
+We prove a nearly optimal bound on the number of stable homotopy types
+occurring in a k-parameter semi-algebraic family of sets in $\R^\ell$, each
+defined in terms of m quadratic inequalities. Our bound is exponential in k and
+m, but polynomial in $\ell$. More precisely, we prove the following. Let $\R$
+be a real closed field and let \[ {\mathcal P} = \{P_1,...,P_m\} \subset
+\R[Y_1,...,Y_\ell,X_1,...,X_k], \] with ${\rm deg}_Y(P_i) \leq 2, {\rm
+deg}_X(P_i) \leq d, 1 \leq i \leq m$. Let $S \subset \R^{\ell+k}$ be a
+semi-algebraic set, defined by a Boolean formula without negations, whose atoms
+are of the form, $P \geq 0, P\leq 0, P \in {\mathcal P}$. Let $\pi: \R^{\ell+k}
+\to \R^k$ be the projection on the last k co-ordinates. Then, the number of
+stable homotopy types amongst the fibers $S_{\x} = \pi^{-1}(\x) \cap S$ is
+bounded by \[ (2^m\ell k d)^{O(mk)}. \]

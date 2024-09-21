@@ -1,0 +1,10 @@
+Typing of lambda-terms in Elementary and Light Affine Logic (EAL, LAL, resp.)
+has been studied for two different reasons: on the one hand the evaluation of
+typed terms using LAL (EAL, resp.) proof-nets admits a guaranteed polynomial
+(elementary, resp.) bound; on the other hand these terms can also be evaluated
+by optimal reduction using the abstract version of Lamping's algorithm. The
+first reduction is global while the second one is local and asynchronous. We
+prove that for LAL (EAL, resp.) typed terms, Lamping's abstract algorithm also
+admits a polynomial (elementary, resp.) bound. We also show its soundness and
+completeness (for EAL and LAL with type fixpoints), by using a simple geometry
+of interaction model (context semantics).

@@ -1,0 +1,5 @@
+In this letter, first we give a decomposition for any Lie-Poisson structure
+$\pi_g$ associated to the modular vector. In particular, $\pi_g$ splits into
+two compatible Lie-Poisson structures if $dim{g} \leq 3$. As an application, we
+classified quadratic deformations of Lie-Poisson structures on $\mathbb R^3$ up
+to linear diffeomorphisms.

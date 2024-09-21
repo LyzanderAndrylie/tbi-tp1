@@ -1,0 +1,20 @@
+With increasing applied current we show that the moving vortex lattice
+changes its structure from a triangular one to a set of parallel vortex rows in
+a pinning free superconductor. This effect originates from the change of the
+shape of the vortex core due to non-equilibrium effects (similar to the
+mechanism of vortex motion instability in the Larkin-Ovchinnikov theory). The
+moving vortex creates a deficit of quasiparticles in front of its motion and an
+excess of quasiparticles behind the core of the moving vortex. This results in
+the appearance of a wake (region with suppressed order parameter) behind the
+vortex which attracts other vortices resulting in an effective
+direction-dependent interaction between vortices. When the vortex velocity $v$
+reaches the critical value $v_c$ quasi-phase slip lines (lines with fast vortex
+motion) appear which may coexist with slowly moving vortices between such
+lines. Our results are found within the framework of the time-dependent
+Ginzburg-Landau equations and are strictly valid when the coherence length
+$\xi(T)$ is larger or comparable with the decay length $L_{in}$ of the
+non-equilibrium quasiparticle distribution function. We qualitatively explain
+experiments on the instability of vortex flow at low magnetic fields when the
+distance between vortices $a \gg L_{in} \gg \xi (T)$. We speculate that a
+similar instability of the vortex lattice should exist for $v>v_c$ even when
+$a<L_{in}$.

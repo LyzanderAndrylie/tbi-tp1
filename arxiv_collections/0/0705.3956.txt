@@ -1,0 +1,11 @@
+We discuss the finite temperature properties of ultracold bosons in optical
+lattices in the presence of an additional, smoothly varying potential, as in
+current experiments. Three regimes emerge in the phase diagram: a
+low-temperature Mott regime similar to the zero-temperature quantum phase, an
+intermediate regime where MI features persist, but where superfluidity is
+absent, and a thermal regime where features of the Mott insulator state have
+disappeared. We obtain the thermodynamic functions of the Mott phase in the
+latter cases. The results are used to estimate the temperatures achieved by
+adiabatic loading in current experiments. We point out the crucial role of the
+trapping potential in determining the final temperature, and suggest a scheme
+for further cooling by adiabatic decompression.

@@ -1,0 +1,4 @@
+We construct an action of the big cactus group (the fundamental group of the
+Deligne-Mumford compactification of the moduli space of real curves of genus
+zero with n undistinguished marked points) on Fock-Goncharov's SL_m analog of
+the decorated Teichmuller space of ideal n-gons.

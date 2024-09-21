@@ -1,0 +1,9 @@
+The collision of a high energy cosmic ray with a nucleon in the upper
+atmosphere could produce long-lived heavy particles. Such particles would be
+very penetrating, since the energy loss in matter scales as the inverse mass,
+and could reach a neutrino telescope like IceCube from large zenith angles.
+Here we study this possibility and focus on the long-lived stau of SUSY models
+with a gravitino LSP. The signal would be a pair of muon-like parallel tracks
+separated by 50 meters along the detector. We evaluate the background of muon
+pairs and show that any events from zenith angles above 80 degrees could be
+explained by the production of these heavy particles by cosmic rays.

@@ -1,0 +1,13 @@
+We have determined the physical ground state properties of the compounds
+CeRuPO and CeOsPO by means of magnetic susceptibility chi(T), specific heat
+C(T), electrical resistivity rho(T), and thermopower S(T) measurements. chi(T)
+reveals a trivalent 4f1 cerium state in both compounds. For CeRuPO a pronounced
+decrease of rho(T) below 50K indicates the onset of coherent Kondo scattering
+which is confirmed by enhanced S(T). The temperature and magnetic field
+dependence of chi(T) and C(T) evidence ferromagnetic (FM) order at TC=15K.
+Thus, CeRuPO seems to be one of the rare example of a FM Kondo lattice. In
+contrast, CeOsPO shows antiferromagnetic order at TN=4.4K despite only minor
+changes in lattice parameters and electronic configuration. Additional 31P NMR
+results support these scenarios. LSDA+U calculations evidence a quasi two
+dimensional electronic band structure, reflecting a strong covalent bonding
+within the CeO and RuP layers and a weak ionic like bonding between the layers.

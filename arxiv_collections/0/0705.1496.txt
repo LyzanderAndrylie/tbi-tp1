@@ -1,0 +1,20 @@
+We perform a comprehensive analysis of the Minimal Supersymmetric Standard
+Model (MSSM) in the scenario where the scalar partners of the fermions and the
+Higgs particles (except for the Standard-Model-like one) are assumed to be very
+heavy and are removed from the low-energy spectrum. We first summarize our
+determination of the mass spectrum, in which we include the one-loop radiative
+corrections and resum to all orders the leading logarithms of the large scalar
+masses, and describe the implementation of these features in the FORTRAN code
+SuSpect which calculates the masses and couplings of the MSSM particles. We
+then study in detail the phenomenology of the model in scenarios where the
+gaugino mass parameters are non-universal at the GUT scale, which leads to very
+interesting features that are not present in the widely studied case of
+universal gaugino mass parameters. We discuss the constraints from collider
+searches and high-precision measurements, the cosmological constraints on the
+relic abundance of the neutralino candidate for the Dark Matter in the Universe
+- where new and interesting channels for neutralino annihilation appear - and
+the gluino lifetime. We then analyze, in the case of non-universal gaugino
+masses, the decays of the Higgs boson (in particular decays into and
+contributions of SUSY particles), of charginos and neutralinos (in particular
+decays into Higgs bosons and photons) and of gluinos, and highlight the
+differences from the case of universal gaugino masses.

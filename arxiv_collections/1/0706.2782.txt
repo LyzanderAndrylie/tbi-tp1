@@ -1,0 +1,4 @@
+We refine previous results to provide examples, and in some cases precise
+classifications, of extremal subsets of {1,...,n} containing no solutions to a
+wide class of non-invariant, homogeneous linear equations in three variables,
+i.e.: equations of the form ax+by=cz with a+b \neq c.

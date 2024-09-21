@@ -1,0 +1,7 @@
+We derive exact expressions for the mean value of Meyer-Wallach entanglement
+Q for localized random vectors drawn from various ensembles corresponding to
+different physical situations. For vectors localized on a randomly chosen
+subset of the basis, <Q> tends for large system sizes to a constant which
+depends on the participation ratio, whereas for vectors localized on adjacent
+basis states it goes to zero as a constant over the number of qubits.
+Applications to many-body systems and Anderson localization are discussed.

@@ -1,0 +1,11 @@
+By virtue of a silicon high-Q photonic crystal nanocavity, we propose and
+examine theoretically interactions between a stationary electron spin qubit of
+a semiconductor nanocrystal and a flying photon qubit. Firstly, we introduce,
+derive and demonstrate for the first time the explicit conditions towards
+realization of a spin-photon two-qubit phase gate, and propose these
+interactions as a generalized quantum interface for quantum information
+processing. Secondly, we examine novel single-spin-induced reflections as
+direct evidence of intrinsic bare and dressed modes in our coupled
+nanocrystal-cavity system. The excellent physical integration of this silicon
+system provides tremendous potential for large-scale quantum information
+processing.

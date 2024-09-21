@@ -1,0 +1,17 @@
+Aims: The primary objective of this study is to search for and identify wave
+modes within a sunspot penumbra.
+  Methods: Infrared spectropolarimetric time series data are inverted using a
+model comprising two atmospheric components in each spatial pixel. Fourier
+phase difference analysis is performed on the line-of-sight velocities
+retrieved from both components to determine time delays between the velocity
+signals. In addition, the vertical separation between the signals in the two
+components is calculated from the Stokes velocity response functions.
+  Results: The inversion yields two atmospheric components, one permeated by a
+nearly horizontal magnetic field, the other with a less-inclined magnetic
+field. Time delays between the oscillations in the two components in the
+frequency range 2.5-4.5 mHz are combined with speeds of atmospheric wave modes
+to determine wave travel distances. These are compared to expected path lengths
+obtained from response functions of the observed spectral lines in the
+different atmospheric components. Fast-mode (i.e., modified p-mode) waves
+exhibit the best agreement with the observations when propagating toward the
+sunspot at an angle ~50 degrees to the vertical.

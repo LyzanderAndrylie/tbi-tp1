@@ -1,0 +1,10 @@
+This article considers the application of particle filtering to
+continuous-discrete optimal filtering problems, where the system model is a
+stochastic differential equation, and noisy measurements of the system are
+obtained at discrete instances of time. It is shown how the Girsanov theorem
+can be used for evaluating the likelihood ratios needed in importance sampling.
+It is also shown how the methodology can be applied to a class of models, where
+the driving noise process is lower in the dimensionality than the state and
+thus the laws of state and noise are not absolutely continuous.
+Rao-Blackwellization of conditionally Gaussian models and unknown static
+parameter models is also considered.

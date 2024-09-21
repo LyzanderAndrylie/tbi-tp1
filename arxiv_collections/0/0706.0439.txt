@@ -1,0 +1,12 @@
+The effective superconducting penetration depth measured in the vortex state
+of PrOs4Sb12 using transverse-field muon spin rotation (TF-muSR) exhibits an
+activated temperature dependence at low temperatures, consistent with a nonzero
+gap for quasiparticle excitations. In contrast, Meissner-state radiofrequency
+(rf) inductive measurements of the penetration depth yield a T^2 temperature
+dependence, suggestive of point nodes in the gap. A scenario based on the
+recent discovery of extreme two-band superconductivity in PrOs4Sb12 is proposed
+to resolve this difference. In this picture a large difference between large-
+and small-gap coherence lengths renders the field distribution in the vortex
+state controlled mainly by supercurrents from a fully-gapped large-gap band. In
+zero field all bands contribute, yielding a stronger temperature dependence to
+the rf inductive measurements.

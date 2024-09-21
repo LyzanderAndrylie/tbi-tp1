@@ -1,0 +1,8 @@
+An AlAs two-dimensional electron system patterned with an anti-dot lattice
+exhibits a giant piezoresistance (GPR) effect, with a sign opposite to the
+piezoresistance observed in the unpatterned region. We trace the origin of this
+anomalous GPR to the non-uniform strain in the anti-dot lattice and the
+exclusion of electrons occupying the two conduction band valleys from different
+regions of the sample. This is analogous to the well-known giant
+magnetoresistance (GMR) effect, with valley playing the role of spin and strain
+the role of magnetic field.

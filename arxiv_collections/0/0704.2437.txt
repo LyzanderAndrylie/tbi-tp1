@@ -1,0 +1,9 @@
+Solid state lasers are demanding independent control in the gain media and
+cavity loss to achieve ultra short laser pulses using passive mode-locking.
+Recently, laser mode-locking is achieved with a MBE structure with multiple
+quantum wells, designed to achieve two functions; Bragg mirror and changes in
+absorption to control the cavity dynamics. The use of an AlGaAs/AlAs Bragg
+mirror with a 15 nm GaAs saturable absorber used in a Cr:LiSAF tuneable laser
+proved to be effective to produce femtosecond pulses. The use of saturable
+absorbers thus far is a trial and error procedure that is changing due to the
+correlation with more predictive procedures.

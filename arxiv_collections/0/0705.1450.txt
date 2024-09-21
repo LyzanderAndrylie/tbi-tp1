@@ -1,0 +1,11 @@
+This paper presents an algorithm for detecting and computing the cusp points
+in the joint space of 3-RPR planar parallel manipulators. In manipulator
+kinematics, cusp points are special points, which appear on the singular curves
+of the manipulators. The nonsingular change of assembly mode of 3-RPR parallel
+manipulators was shown to be associated with the existence of cusp points. At
+each of these points, three direct kinematic solutions coincide. In the
+literature, a condition for the existence of three coincident direct kinematic
+solutions was established, but has never been exploited, because the algebra
+involved was too complicated to be solved. The algorithm presented in this
+paper solves this equation and detects all the cusp points in the joint space
+of these manipulators.

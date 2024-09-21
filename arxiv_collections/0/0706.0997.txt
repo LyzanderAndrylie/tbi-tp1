@@ -1,0 +1,11 @@
+We present numerical simulations of a model of cellulose consisting of long
+stiff rods, representing cellulose microfibrils, connected by stretchable
+crosslinks, representing xyloglucan molecules, hydrogen bonded to the
+microfibrils. Within a broad range of temperature the competing interactions in
+the resulting network give rise to a slow glassy dynamics. In particular, the
+structural relaxation described by orientational correlation functions shows a
+logarithmic time dependence. The glassy dynamics is found to be due to the
+frustration introduced by the network of xyloglucan molecules. Weakening of
+interactions between rod and xyloglucan molecules results in a more marked
+reorientation of cellulose microfibrils, suggesting a possible mechanism to
+modify the dynamics of the plant cell wall.

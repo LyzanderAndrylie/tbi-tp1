@@ -1,0 +1,19 @@
+We describe the methodology and compute the illumination of geometrically
+thin accretion disks around black holes of arbitrary spin parameter $a$ exposed
+to the radiation of a point-like, isotropic source at arbitrary height above
+the disk on its symmetry axis. We then provide analytic fitting formulae for
+the illumination as a function of the source height $h$ and the black hole
+angular momentum $a$. We find that for a source on the disk symmetry axis and
+$h/M > 3$, the main effect of the parameter $a$ is allowing the disk to extend
+to smaller radii (approaching $r/M \to 1$ as $a/M \to 1$) and thus allow the
+illumination of regions of much higher rotational velocity and redshift. We
+also compute the illumination profiles for anisotropic emission associated with
+the motion of the source relative to the accretion disk and present the
+fractions of photons absorbed by the black hole, intercepted by the disk or
+escaping to infinity for both isotropic and anisotropic emission for $a/M=0$
+and $a/M=0.99$. As the anisotropy (of a source approaching the disk) increases
+the illumination profile reduces (approximately) to a single power-law, whose
+index, $q$, because of absorption of the beamed photons by the black hole,
+saturates to a value no higher than $q \gtrsim 3$. Finally, we compute the
+fluorescence Fe line profiles associated with the specific illumination and
+compare them among various cases.

@@ -1,0 +1,14 @@
+The extended Hubbard Hamiltonian is a widely accepted model for uncovering
+the effects of strong correlations on the phase diagram of low-dimensional
+systems, and a variety of theoretical techniques have been applied to it. In
+this paper the world-line quantum Monte Carlo method is used to study spin,
+charge, and bond order correlations of the one-dimensional extended Hubbard
+model in the presence of coupling to the lattice. A static alternating lattice
+distortion (the ionic Hubbard model) leads to enhanced charge density wave
+correlations at the expense of antiferromagnetic order. When the lattice
+degrees of freedom are dynamic (the Hubbard-Holstein model), we show that a
+similar effect occurs even though the charge asymmetry must arise
+spontaneously. Although the evolution of the total energy with lattice coupling
+is smooth, the individual components exhibit sharp crossovers at the phase
+boundaries. Finally, we observe a tendency for bond order in the region between
+the charge and spin density wave phases.

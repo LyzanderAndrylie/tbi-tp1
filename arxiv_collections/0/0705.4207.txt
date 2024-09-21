@@ -1,0 +1,15 @@
+Spin-polarized currents can transfer spin angular momentum to a ferromagnet,
+generating a torque that can efficiently reorient its magnetization. Achieving
+quantitative measurements of the spin-transfer-torque vector in magnetic tunnel
+junctions (MTJs) is important for understanding fundamental mechanisms
+affecting spin-dependent tunneling, and for developing magnetic memories and
+nanoscale microwave oscillators. Here we present direct measurements of both
+the magnitude and direction of the spin torque in Co60Fe20B20/MgO/Co60Fe20B20
+MTJs. At low bias V, the differential torque vector d{tau}/dV lies in the plane
+defined by the electrode magnetizations, and its magnitude is in excellent
+agreement with a prediction for highly-spin-polarized tunneling. With
+increasing bias, the in-plane component d{tau}_{parallel}/dV remains large, in
+striking contrast to the decreasing magnetoresistance ratio. The differential
+torque vector also rotates out of the plane under bias; we measure a
+perpendicular component tau_{perp}(V) with bias dependence proportional to V^2
+for low V, that becomes as large as 30% of the in-plane torque.

@@ -1,0 +1,10 @@
+The contributions of neutrons to hadronic signals from the DREAM calorimeter
+are measured by analyzing the time structure of these signals. The neutrons,
+which mainly originate from the evaporation stage of nuclear breakup in the
+hadronic shower development process, contribute through elastic scattering off
+protons in the plastic scintillating fibers which provide the $dE/dx$
+information in this calorimeter. This contribution is characterized by an
+exponential tail in the pulse shape, with a time constant of $\sim 25$ ns. The
+relative contribution of neutrons to the signals increases with the distance
+from the shower axis. As expected, the neutrons do not contribute to the DREAM
+\v{C}erenkov signals.

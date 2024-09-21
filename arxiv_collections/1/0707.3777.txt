@@ -1,0 +1,4 @@
+The authors conjectured previously that a knot is nonfibered if and only if
+its infinite cyclic cover has uncountably many finite covers. We prove the
+conjecture for a class of knots that includes all knots of genus 1, using
+techniques from symbolic dynamics.

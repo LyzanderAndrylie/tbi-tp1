@@ -1,0 +1,11 @@
+We consider the continuum version of an elastic chain supporting topological
+and non-topological degrees of freedom; this generalizes a model for the
+dynamics of DNA recently proposed and investigated by ourselves. In a certain
+limit, the non-topological degrees of freedom are frozen, and the model reduces
+to the sine-Gordon equations and thus supports well-known topological soliton
+solutions. We consider a (singular) perturbative expansion around this limit
+and study in particular how the non-topological field assume the role of an
+auxiliary field. This provides a more general framework for the slaving of this
+degree of freedom on the topological one, already observed elsewhere in the
+context of the mentioned DNA model; in this framework one expects such
+phenomenon to arise in a quite large class of field-theoretical models.

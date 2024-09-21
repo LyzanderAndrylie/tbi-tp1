@@ -1,0 +1,11 @@
+We follow a constructive approach and find higher-dimensional black holes
+with Ricci nilsoliton horizons. The spacetimes are solutions to Einstein's
+equation with a negative cosmological constant and generalises therefore,
+anti-de Sitter black hole spacetimes. The approach combines a work by Lauret --
+which relate so-called Ricci nilsolitons and Einstein solvmanifolds -- and an
+earlier work by the author. The resulting black hole spacetimes are
+asymptotically Einstein solvmanifolds and thus, are examples of solutions which
+are not asymptotically Anti-de Sitter. We show that any nilpotent group in
+dimension $n\leq 6$ has a corresponding Ricci nilsoliton black hole solution in
+dimension (n+2). Furthermore, we show that in dimensions (n+2)>8, there exists
+an infinite number of locally distinct Ricci nilsoliton black hole metrics.

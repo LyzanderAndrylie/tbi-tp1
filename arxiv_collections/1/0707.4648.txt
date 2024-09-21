@@ -1,0 +1,11 @@
+Realistic electronic-structure calculations for correlated Mott insulators
+are notoriously hard. Here we present an ab initio multiconfiguration scheme
+that adequately describes strong correlation effects involving Cu 3d and O 2p
+electrons in layered cuprates. In particular, the O 2p states giving rise to
+the Zhang-Rice band are explicitly considered. Renormalization effects due to
+nonlocal spin interactions are also treated consistently. We show that the
+dispersion of the lowest band observed in photoemission is reproduced with
+quantitative accuracy. Additionally, the evolution of the Fermi surface with
+doping follows directly from our ab initio data. Our results thus open a new
+avenue for the first-principles investigation of the electronic structure of
+correlated Mott insulators.

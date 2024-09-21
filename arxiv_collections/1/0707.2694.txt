@@ -1,0 +1,8 @@
+We show that rotational angles of electrons moving in two dimensions (2D) in
+a perpendicular magnetic field can be synchronized by an external microwave
+field which frequency is close to the Larmor frequency. The synchronization
+eliminates collisions between electrons and thus creates a regime with zero
+diffusion corresponding to the zero-resistance states observed in experiments
+with high mobility 2D electron gas (2DEG). For long range Coulomb interactions
+electrons form a rotating hexagonal Wigner crystal. Possible relevance of this
+effect for planetary rings is discussed.

@@ -1,0 +1,17 @@
+This paper defines and implements a non-Bayesian fusion rule for combining
+densities of probabilities estimated by local (non-linear) filters for tracking
+a moving target by passive sensors. This rule is the restriction to a strict
+probabilistic paradigm of the recent and efficient Proportional Conflict
+Redistribution rule no 5 (PCR5) developed in the DSmT framework for fusing
+basic belief assignments. A sampling method for probabilistic PCR5 (p-PCR5) is
+defined. It is shown that p-PCR5 is more robust to an erroneous modeling and
+allows to keep the modes of local densities and preserve as much as possible
+the whole information inherent to each densities to combine. In particular,
+p-PCR5 is able of maintaining multiple hypotheses/modes after fusion, when the
+hypotheses are too distant in regards to their deviations. This new p-PCR5 rule
+has been tested on a simple example of distributed non-linear filtering
+application to show the interest of such approach for future developments. The
+non-linear distributed filter is implemented through a basic particles
+filtering technique. The results obtained in our simulations show the ability
+of this p-PCR5-based filter to track the target even when the models are not
+well consistent in regards to the initialization and real cinematic.

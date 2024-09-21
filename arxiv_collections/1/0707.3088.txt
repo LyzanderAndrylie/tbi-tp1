@@ -1,0 +1,5 @@
+We present a next-to-leading order calculation of heavy flavour production in
+hadronic collisions that can be interfaced to shower Monte Carlo programs. The
+calculation is performed in the context of the POWHEG method. It is suitable
+for the computation of charm, bottom and top hadroproduction. In the case of
+top production, spin correlations in the decay products are taken into account.

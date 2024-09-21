@@ -1,0 +1,8 @@
+We propose an experiment for generating and detecting vacuum-induced
+dissipative motion. A high frequency mechanical resonator driven in resonance
+is expected to dissipate energy in quantum vacuum via photon emission. The
+photons are stored in a high quality electromagnetic cavity and detected
+through their interaction with ultracold alkali-metal atoms prepared in an
+inverted population of hyperfine states. Superradiant amplification of the
+generated photons results in a detectable radio-frequency signal temporally
+distinguishable from the expected background.

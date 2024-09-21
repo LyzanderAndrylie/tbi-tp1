@@ -1,0 +1,12 @@
+A consistent approach to Cosmology requires an explicit averaging of the
+Einstein equations, to describe a homogeneous and isotropic geometry. Such an
+averaging will in general modify the Einstein equations. The averaging
+procedure due to Buchert has attracted considerable attention recently since it
+offers the tantalizing hope of explaining the phenomenon of dark energy through
+such corrections. This approach has been criticized, however, on the grounds
+that its effects may be gauge artifacts. We apply the fully covariant formalism
+of Zalaletdinov's Macroscopic Gravity and show that, after making some
+essential gauge choices, the Cosmological equations receive \emph{spacetime
+scalar} corrections which are therefore observable in principle, and further,
+that the broad structure of these corrections is \emph{identical} to those
+derived by Buchert.

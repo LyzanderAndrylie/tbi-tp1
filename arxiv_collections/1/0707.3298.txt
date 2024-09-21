@@ -1,0 +1,3 @@
+We show that the numerical code used in the above mentioned paper does not
+take into account the multiple scattering effects of electromagnetic field
+properly and is therefore incorrect.

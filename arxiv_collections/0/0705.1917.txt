@@ -1,0 +1,10 @@
+We investigate the usefulness of different classes of genuine quadripartite
+entangled states as quantum resources for teleportation and superdense coding.
+We examine the possibility of teleporting unknown one, two and three qubit
+states. We show that one can use the teleportation protocol to send any general
+one and two qubit states. A restricted class of three qubit states can also be
+faithfully teleported. We also explore superdense coding protocol in
+single-receiver and multi-receiver scenarios. We show that there exist genuine
+quadripartite entangled states that can be used to transmit four cbits by
+sending two qubits. We also discuss some interesting features of multi-receiver
+scenario under LOCC paradigm.

@@ -1,0 +1,9 @@
+The Peierl's tight-binding model, with the band Hamiltonian matrix, is used
+to calculate the magnetoelectronic structure of a monolayergraphite. There are
+many flat Landau levels and some oscillatory Landau levels. The low
+Landau-level energies are characterized by a simple relation, not for others.
+State degeneracy is, respectively, fourfold degenerate and doubly degenerate at
+low and high energies. The level spacing declines quickly and then grows
+gradually in the increase of state energy. The main features of electronic
+properties are directly reflected in density of states. The predicted results
+could be verified by the optical spectroscopy.

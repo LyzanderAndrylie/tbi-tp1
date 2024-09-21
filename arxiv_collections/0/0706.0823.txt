@@ -1,0 +1,14 @@
+We investigate the behavior of ultracold bosons in optical lattices with a
+disorder potential generated via a secondary species frozen in random
+configurations. The statistics of disorder is associated with the physical
+state in which the secondary species is prepared. The resulting random
+potential, albeit displaying algebraic correlations, is found to lead to
+localization of all single-particle states. We then investigate the real-time
+dynamics of localization for a hardcore gas of mobile bosons which are brought
+into sudden interaction with the random potential. Regardless of their initial
+state and for any disorder strength, the mobile particles are found to reach a
+steady state characterized by exponentially decaying off-diagonal correlations
+and by the absence of quasi-condensation; when the mobile particles are
+initially confined in a tight trap and then released in the disorder potential,
+their expansion is stopped and the steady state is exponentially localized in
+real space, clearly revealing Anderson localization.

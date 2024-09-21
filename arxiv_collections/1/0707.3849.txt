@@ -1,0 +1,10 @@
+The phase diagram of a chirally invariant lattice Higgs-Yukawa model is
+explored by means of numerical simulations. The results revealing a rich phase
+structure are compared to analytical large Nf calculations which we performed
+earlier. The analytical and numerical results are in excellent agreement at
+large values of Nf. In the opposite case the large Nf computation still gives a
+good qualitative description of the phase diagram. In particular we find
+numerical evidence for the predicted ferrimagnetic phase at intermediate values
+of the Yukawa coupling constant and for the symmetric phase at strong Yukawa
+couplings. Emphasis is put on the finite size effects which can hide the
+existence of the latter symmetric phase.

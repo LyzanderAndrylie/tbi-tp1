@@ -1,0 +1,20 @@
+We present new continuum VLA observations of the nearby Sy 1.5 galaxy NGC
+5033, made at 4.9 and 8.4 GHz on 8 April 2003. Combined with VLA archival
+observations at 1.4 and 4.9 GHz made on 7 August 1993, 29 August 1999, and 31
+October 1999, we sample the galaxy radio emission at scales ranging from the
+nuclear regions (<~ 100 pc) to the outer regions of the disk (~ 40 kpc). The
+high-resolution VLA images show a core-jet structure for the Sy 1.5 nucleus.
+While the core has a moderately steep non-thermal radio spectrum (S_\nu ~
+\nu^\alpha; \alpha_{1.5}^{4.9} \approx -0.4), the inner kpc region shows a
+steeper spectrum (\alpha_{1.5}^{8.4} \approx -0.9). This latter spectrum is
+typical of galaxies where energy losses are high, indicating that the escape
+rate of cosmic ray electrons in NGC 5033 is low. The nucleus contributes little
+to the total 1.4 GHz radio power of NGC 5033 and, based on the radio to
+far-infrared (FIR) relation, it appears that the radio and far-infrared
+emission from NGC 5033 are dominated by a starburst that during the last 10 Myr
+produced stars at a rate of ~2.8 M_sun/yr, yielding a supernova (type Ib/c and
+II) rate of 0.045 #/yr. This supernova rate corresponds to about 1 SN event
+every 22 yr. Finally, from our deep 8.4 GHz VLA-D image, we suggest the
+existence of a radio spur in NGC 5033, which could have been due to a hot
+superbubble formed as a consequence of sequential supernova explosions
+occurring during the lifetime of a giant molecular cloud.

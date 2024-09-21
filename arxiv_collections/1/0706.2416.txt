@@ -1,0 +1,9 @@
+In this paper, we give an explicit construction of dynamical systems (defined
+within a solid torus) containing any knot (or link) and arbitrarily knotted
+chaos. The first is achieved by expressing the knots in terms of braids,
+defining a system containing the braids and extending periodically to obtain a
+system naturally defined on a torus and which contains the given knotted
+trajectories. To get explicit differential equations for dynamical systems
+containing the braids, we will use a certain function to define a tube
+neigbourhood of the braid. The second one, generating chaotic systems, is
+realized by modeling the Smale horseshoe.

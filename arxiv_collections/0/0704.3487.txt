@@ -1,0 +1,8 @@
+We report on the fabrication and transport studies of a single-layer graphene
+p-n junction. Carrier type and density in two adjacent regions are individually
+controlled by electrostatic gating using a local top gate and a global back
+gate. A functionalized Al203 oxide that adheres to graphene and does not
+significantly affect its electronic properties is described. Measurements in
+the quantum Hall regime reveal new plateaus of two-terminal conductance across
+the junction at 1 and 3/2 times the quantum of conductance, e2/h, consistent
+with theory.

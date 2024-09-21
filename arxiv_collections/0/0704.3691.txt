@@ -1,0 +1,13 @@
+We present a Regge-plus-resonance (RPR) description of the p(e,e'K^+)Y
+processes (Y=\Lambda,\Sigma^0) in the resonance region. The background
+contributions to the RPR amplitude are constrained by the high-energy p(\gamma,
+K^+)Y data. As a result, the number of free model parameters in the resonance
+region is considerably reduced compared to typical effective-Lagrangian
+approaches. We compare a selection of RPR model variants, originally
+constructed to describe $KY$ photoproduction, with the world electroproduction
+database. The electromagnetic form factors of the intermediate N^*s and
+$\Delta^*s are computed in the Bonn constituent-quark model. With this input,
+we find a reasonable description of the p(e,e'K^+)Y data without adding or
+readjusting any parameters. It is demonstrated that the electroproduction
+response functions are extremely useful for fine-tuning both the background and
+resonant contributions to the reaction dynamics.

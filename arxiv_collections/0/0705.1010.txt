@@ -1,0 +1,12 @@
+Halo samples that have no kinematic bias have been successfully isolated by
+photometric observations. We show that the near-UV (NUV) magnitude of the GALEX
+All-Sky Survey can be used, together with Johnson BV magnitudes in a (NUV-V)_0
+vs. (B-V)_0 plot, to distinguish blue horizontal branch (BHB) from other A
+stars of the same B-V color for 12<V<18. In addition, we use SDSS gr magnitudes
+in a (NUV - r)_0 vs. (g-r)_0 plot for 14<r<18. The faint limit will be extended
+by ~3 magnitudes for the GALEX Medium-Deep Survey. Attempts to use NUV in
+conjunction with 2MASS magnitudes and ROTSE m_r magnitudes did not prove
+useful. The (NUV - V)_0 vs. (B-V)_0 plot was used to examine BHB star
+candidates of varying quality near the South Galactic Pole. We conclude that
+the addition of the GALEX NUV significantly adds to the reliabilty with which
+these stars can be identified.

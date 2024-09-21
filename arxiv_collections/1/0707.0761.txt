@@ -1,0 +1,22 @@
+Grids enable the aggregation, virtualization and sharing of massive
+heterogeneous and geographically dispersed resources, using files, applications
+and storage devices, to solve computation and data intensive problems, across
+institutions and countries via temporary collaborations called virtual
+organizations (VO). Most implementations result in complex superposition of
+software layers, often delivering low quality of service and quality of
+applications. As a consequence, Grid-based applications design and development
+is increasingly complex, and the use of most classical engineering practices is
+unsuccessful. Not only is the development of such applications a
+time-consuming, error prone and expensive task, but also the resulting
+applications are often hard-coded for specific Grid configurations, platforms
+and infra-structures. Having neither guidelines nor rules in the design of a
+Grid-based application is a paradox since there are many existing architectural
+approaches for distributed computing, which could ease and promote rigorous
+engineering methods based on the re-use of software components. It is our
+belief that ad-hoc and semi-formal engineer-ing approaches, in current use, are
+insufficient to tackle tomorrows Grid develop-ments requirements. Because
+Grid-based applications address multi-disciplinary and complex domains (health,
+military, scientific computation), their engineering requires rigor and
+control. This paper therefore advocates a formal model-driven engineering
+process and corresponding design framework and tools for building the next
+generation of Grids.

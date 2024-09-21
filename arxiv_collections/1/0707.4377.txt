@@ -1,0 +1,9 @@
+We have analyzed the morphology of ferroelectric domains in very thin films
+of multiferroic BiFeO3. Unlike the more common stripe domains observed in
+thicker films BiFeO3 or in other ferroics, the domains tend not to be straight,
+but irregular in shape, with significant domain wall roughening leading to a
+fractal dimensionality. Also contrary to what is usually observed in other
+ferroics, the domain size appears not to scale as the square root of the film
+thickness. A model is proposed in which the observed domain size as a function
+of film thickness can be directly linked to the fractal dimension of the
+domains.

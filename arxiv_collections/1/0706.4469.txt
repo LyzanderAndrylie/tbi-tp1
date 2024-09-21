@@ -1,0 +1,8 @@
+We develop the Density Matrix Renormalization Group (DMRG) technique for
+numerically studying incompressible fractional quantum Hall (FQH) states on the
+sphere. We calculate accurate estimates for ground state energies and
+excitationgaps at FQH filling fractions \nu=1/3 and \nu=5/2 for systems that
+are almost twice as large as the largest ever studied by exact diagonalization.
+We establish, by carefully comparing with existing numerical results on smaller
+systems, that DMRG is a highly effective numerical tool for studying
+incompressible FQH states.

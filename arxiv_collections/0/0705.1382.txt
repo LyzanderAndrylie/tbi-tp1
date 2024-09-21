@@ -1,0 +1,21 @@
+We give a quantitative analysis of the previously published nuclear magnetic
+resonance (NMR) experiments in the k-(ET)2X family of organic charge transfer
+salts by using the phenomenological spin fluctuation model of Moriya, and
+Millis, Monien and Pines (M-MMP). For temperatures above T_nmr ~ 50 K, the
+model gives a good quantitative description of the data in the metallic phases
+of several k-(ET)2X materials. These materials display antiferromagnetic
+correlation lengths which increase with decreasing temperature and grow to
+several lattice constants by T_nmr. It is shown that the fact that the
+dimensionless Korringa ratio is much larger than unity is inconsistent with a
+broad class of theoretical models (such as dynamical mean-field theory) which
+neglects spatial correlations and/or vertex corrections. For materials close to
+the Mott insulating phase the nuclear spin relaxation rate, the Knight shift
+and the Korringa ratio all decrease significantly with decreasing temperature
+below T_nmr. This cannot be described by the M-MMP model and the most natural
+explanation is that a pseudogap, similar to that observed in the underdoped
+cuprate superconductors, opens up in the density of states below T_nmr. Such a
+pseudogap has recently been predicted to occur in the dimerised organic charge
+transfer salts materials by the resonating valence bond (RVB) theory. We
+propose specific new experiments on organic superconductors to elucidate these
+issues. For example, measurements to see if high magnetic fields or high
+pressures can be used to close the pseudogap would be extremely valuable.

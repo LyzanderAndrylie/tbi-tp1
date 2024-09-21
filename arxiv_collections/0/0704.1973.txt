@@ -1,0 +1,11 @@
+We calculate characteristic correlation functions for the Anderson model with
+additional phonon-assisted coupling to the odd conduction channel. This model
+describes, for example, the behavior of a molecule embedded between two
+electrodes in linear transport experiments where the position of the molecule
+with respect to the leads affects the tunneling amplitudes. We use variational
+projection-operator method and numerical renormalization group (NRG) method.
+The spin is Kondo screened either by even or odd conduction channel depending
+on the gate voltage and electron-phonon coupling. However, in all regimes the
+gate-voltage dependence of the zero temperature conductance is found to be
+qualitatively the same as in the model with no coupling to the vibrational
+mode.

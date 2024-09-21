@@ -1,0 +1,15 @@
+We introduce topological methods for quantifying spatially heterogeneous
+dynamics, and use these tools to analyze particle-tracking data for a
+quasi-two-dimensional granular system of air-fluidized beads on approach to
+jamming. In particular we define two overlap order parameters, which quantify
+the correlation between particle configurations at different times, based on a
+Voronoi construction and the persistence in the resulting cells and nearest
+neighbors. Temporal fluctuations in the decay of the persistent area and bond
+order parameters define two alternative dynamic four-point susceptibilities,
+XA(t) and XB(t), well-suited for characterizing spatially-heterogeneous
+dynamics. These are analogous to the standard four-point dynamic susceptibility
+X4(l,t), but where the space-dependence is fixed uniquely by topology rather
+than by discretionary choice of cutoff function. While these three
+susceptibilities yield characteristic time scales that are somewhat different,
+they give domain sizes for the dynamical heterogeneities that are in good
+agreement and that diverge on approach to jamming.

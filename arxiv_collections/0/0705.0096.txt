@@ -1,0 +1,14 @@
+We examine whether or not it is possible to derive the field strength
+distribution of quiet Sun internetwork regions from very high spatial
+resolution polarimetric observations in the visible. In particular, we consider
+the case of the spectropolarimeter attached to the Solar Optical Telescope
+aboard Hinode. Radiative magneto-convection simulations are used to synthesize
+the four Stokes profiles of the \ion{Fe}{1} 630.2 nm lines. Once the profiles
+are degraded to a spatial resolution of 0\farcs32 and added noise, we infer the
+atmospheric parameters by means of Milne-Eddington inversions. The comparison
+of the derived values with the real ones indicates that the visible lines yield
+correct internetwork field strengths and magnetic fluxes, with uncertainties
+smaller than $\sim$150 G, when a stray light contamination factor is included
+in the inversion. Contrary to the results of ground-based observations at
+1\arcsec, weak fields are retrieved wherever the field is weak in the
+simulation.

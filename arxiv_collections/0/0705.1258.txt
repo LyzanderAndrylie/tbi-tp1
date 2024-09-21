@@ -1,0 +1,11 @@
+We present a method of transferring a cold atom between spatially separated
+microtraps by means of a Raman transition between the ground motional states of
+the two traps. The intermediate states for the Raman transition are the
+vibrational levels of a third microtrap, and we determine the experimental
+conditions for which the overlap of the wave functions leads to an efficient
+transfer. There is a close analogy with the Franck-Condon principle in the
+spectroscopy of molecules. Spin-dependent manipulation of neutral atoms in
+microtraps has important applications in quantum information processing. We
+also show that starting with several atoms, precisely one atom can be
+transferred to the final potential well hence giving deterministic preparation
+of single atoms.

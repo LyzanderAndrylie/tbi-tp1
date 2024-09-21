@@ -1,0 +1,7 @@
+The dephasing rate of an electron level in a quantum dot, placed next to a
+fluctuating edge current in the fractional quantum Hall effect, is considered.
+Using perturbation theory, we first show that this rate has an anomalous
+dependence on the bias voltage applied to the neighboring quantum point
+contact, because of the Luttinger liquid physics which describes the fractional
+Hall fluid. Next, we describe exactly the weak to strong backscattering
+crossover using the Bethe-Ansatz solution.

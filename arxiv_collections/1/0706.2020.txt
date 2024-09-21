@@ -1,0 +1,7 @@
+The real Ginibre ensemble consists of random $N \times N$ matrices formed
+from i.i.d. standard Gaussian entries. By using the method of skew orthogonal
+polynomials, the general $n$-point correlations for the real eigenvalues, and
+for the complex eigenvalues, are given as $n \times n$ Pfaffians with explicit
+entries. A computationally tractable formula for the cumulative probability
+density of the largest real eigenvalue is presented. This is relevant to May's
+stability analysis of biological webs.

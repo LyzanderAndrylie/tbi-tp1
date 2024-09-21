@@ -1,0 +1,10 @@
+Grand canonical and canonical ensembles become equivalent in the
+thermodynamic limit, but when the system size is finite the results obtained in
+the two ensembles deviate from each other. In many important cases, the
+canonical ensemble provides an appropriate physical description but it is often
+much easier to perform the calculations in the corresponding grand canonical
+ensemble. We present a method to compute averages in canonical ensemble based
+on calculations of the expectation values in grand canonical ensemble. The
+number of particles, which is fixed in the canonical ensemble, is not
+necessarily the same as the average number of particles in the grand canonical
+ensemble.

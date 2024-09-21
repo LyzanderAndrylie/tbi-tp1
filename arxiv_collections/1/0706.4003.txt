@@ -1,0 +1,9 @@
+The shot noise power and the Fano factor of a spinless resonant level model
+is calculated. The Coulomb interaction which in this model acts between the
+lead electron and the impurity is considered in the first order approximation.
+The logarithmic divergencies which appeared in the expressions for shot noise
+and the transport current are removed by renormalization group analysis. It is
+shown that Keldysh technique gives an adequate description of perturbation
+theory results. By passing to the bosonized form of the resonance model it is
+proven that in the strong interaction limit the tunnelling becomes irrelevant
+and decreases.

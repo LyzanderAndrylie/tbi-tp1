@@ -1,0 +1,20 @@
+Recent observations have demonstrated a significant growth in the integrated
+stellar mass of the red sequence since z=1, dominated by a steadily increasing
+number of galaxies with stellar masses M* < 10^11 M_sun. In this paper, we use
+the COMBO-17 photometric redshift survey in conjunction with deep Spitzer 24
+micron data to explore the relationship between star formation and the growth
+of stellar mass. We calculate `star formation rate functions' in four different
+redshift slices, splitting also into contributions from the red sequence and
+blue cloud for the first time. We find that the growth of stellar mass since
+z=1 is consistent with the integrated star formation rate. Yet, most of the
+stars formed are in blue cloud galaxies. If the stellar mass already in, and
+formed in, z<1 blue cloud galaxies were to stay in the blue cloud the total
+stellar mass in blue galaxies would be dramatically overproduced. We explore
+the expected evolution of stellar mass functions, finding that in this picture
+the number of massive M* > 3x10^10 M_sun blue galaxies would also be
+overproduced; i.e., most of the new stars formed in blue cloud galaxies are in
+the massive galaxies. We explore a simple truncation scenario in which these
+`extra' blue galaxies have their star formation suppressed by an unspecified
+mechanism or mechanisms; simple cessation of star formation in these extra blue
+galaxies is approximately sufficient to build up the red sequence at M*<10^11
+M_sun.

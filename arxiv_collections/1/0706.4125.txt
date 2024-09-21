@@ -1,0 +1,6 @@
+Numerical simulations of the bosonic sector of the $SU(2)\times U(1)$
+electroweak Standard Model in 3+1 dimensions have demonstrated the existence of
+an oscillon -- an extremely long-lived, localized, oscillatory solution to the
+equations of motion -- when the Higgs mass is equal to twice the $W^\pm$ boson
+mass. It contains total energy roughly 30 TeV localized in a region of radius
+0.05 fm. A detailed description of these numerical results is presented.

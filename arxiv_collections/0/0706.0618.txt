@@ -1,0 +1,17 @@
+Fluids in which the interparticle potential has a hard core, is attractive at
+moderate separations, and repulsive at greater separations are known to exhibit
+novel phase behavior, including stable inhomogeneous phases. Here we report a
+joint simulation and theoretical study of such a fluid, focusing on the
+relationship between the liquid-vapor transition line and any new phases. The
+phase diagram is studied as a function of the amplitude of the attraction for a
+certain fixed amplitude of the long ranged repulsion. We find that the effect
+of the repulsion is to substitute the liquid-vapor critical point and a portion
+of the associated liquid-vapor transition line, by two first order transitions.
+One of these transitions separates the vapor from a fluid of spherical
+liquidlike clusters; the other separates the liquid from a fluid of spherical
+voids. At low temperature, the two transition lines intersect one another and a
+vapor-liquid transition line at a triple point. While most integral equation
+theories are unable to describe the new phase transitions, the Percus Yevick
+approximation does succeed in capturing the vapor-cluster transition, as well
+as aspects of the structure of the cluster fluid, in reasonable agreement with
+the simulation results.

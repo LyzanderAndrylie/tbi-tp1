@@ -1,0 +1,6 @@
+We resolve an old problem about the existence of hidden parameters in a
+three-dimensional quantum system by constructing an appropriate Bell's type
+inequality. This reveals a nonclassical nature of most spin-$1$ states. We
+shortly discuss some physical implications and an underlying cause of this
+nonclassical behavior, as well as a perspective of its experimental
+verification.

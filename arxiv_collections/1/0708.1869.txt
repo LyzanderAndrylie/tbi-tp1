@@ -1,0 +1,7 @@
+We present a scheme for broadcasting of continuous variable entanglement. We
+show how an initial two-mode squeezed state of the electromagnetic field shared
+by two distant parties can be broadcasted into two nonlocal bipartite entangled
+states. Our protocol uses a local linear amplifier and a beam splitter at each
+end. We compute the fidelity of the output entangled states and show that the
+broadcasting can be implemented for a variety of input squeezed states and
+amplifier phases.

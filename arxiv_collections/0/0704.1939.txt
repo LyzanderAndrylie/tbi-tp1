@@ -1,0 +1,9 @@
+The Schr{\"o}dinger-Robertson inequality generally provides a stronger bound
+on the product of uncertainties for two noncommuting observables than the
+Heisenberg uncertainty relation, and as such, it can yield a stricter
+separability condition in conjunction with partial transposition. In this
+paper, using the Schr{\"o}dinger-Robertson uncertainty relation, the
+separability condition previously derived from the su(2) and the su(1,1)
+algebra is made stricter and refined to a form invariant with respect to local
+phase shifts. Furthermore, a linear optical scheme is proposed to test this
+invariant separability condition.

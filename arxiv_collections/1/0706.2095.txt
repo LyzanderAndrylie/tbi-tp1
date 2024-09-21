@@ -1,0 +1,4 @@
+In this paper we investigate the behavior of particles crossing a neat
+interface between two media. A Monte Carlo and analytical model, based on
+fractional derivatives, are presented and discussed in detail, together with a
+comparison. Anomalous and normal diffusion are consdered.

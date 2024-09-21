@@ -1,0 +1,9 @@
+Photoluminescence is commonly used to identify the electronic structure of
+individual nanotubes. But, nanotubes naturally occur in bundles. Thus, we
+investigate photoluminescence of nanotube bundles. We show that their complex
+spectra are simply explained by exciton energy transfer between adjacent tubes,
+whereby excitation of large gap tubes induces emission from smaller gap ones
+via Forster interaction between excitons. The consequent relaxation rate is
+faster than non-radiative recombination, leading to enhanced photoluminescence
+of acceptor tubes. This fingerprints bundles with different compositions and
+opens opportunities to optimize them for opto-electronics.

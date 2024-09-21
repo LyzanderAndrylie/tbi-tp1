@@ -1,0 +1,8 @@
+A curved two dimensional electron gas with spin-orbit interactions due to the
+radial confinement asymmetry is considered. At certain relation between the
+spin-orbit coupling strength and curvature radius the tangential component of
+the electron spin becomes a conserved quantity for any spin-independent
+scattering potential that leads to a number of interesting effects such as
+persistent spin helix and strong anisotropy of spin relaxation times. The
+effect proposed can be utilized in the non-ballistic spin-field-effect
+transistors.

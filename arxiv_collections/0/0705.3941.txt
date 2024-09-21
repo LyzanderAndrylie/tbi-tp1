@@ -1,0 +1,7 @@
+We study strongly correlated electrons on a kagome lattice at 1/6 and 1/3
+filling. They are described by an extended Hubbard Hamiltonian. We are
+concerned with the limit |t|<<V<<U with hopping amplitude t, nearest-neighbor
+repulsion V and on-site repulsion U. We derive an effective Hamiltonian and
+show, with the help of the Perron-Frobenius theorem, that the system is
+ferromagnetic at low temperatures. The robustness of ferromagnetism is
+discussed and extensions to other lattices are indicated.

@@ -1,0 +1,4 @@
+We provide the details for Gromov's proof of Stallings' theorem on groups
+with infinitely many ends using harmonic functions. The main technical result
+of the paper is a compactness theorem for a certain family of harmonic
+functions.

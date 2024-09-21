@@ -1,0 +1,14 @@
+Electronic structure of stripe ordered La$_{2-x}$Sr$_{x}$NiO$_{4}$ is
+investigated. The system with x=1/3 is insulator, in LSDA+U calculations, and
+shows charge and spin stripe, consistent with the experimental results. Highly
+correlated system of x=1/2 is studied by using exact diagonalization of
+multi-orbital many body Hamiltonian derived from LDA calculations and including
+on-site and inter-site Coulomb interactions. The fluctuation of the residual
+spin on Ni$^{3+}$ (hole) site couples with the charge fluctuation between
+Ni$^{3+}$ and Ni$^{2+}$ states and this correlation lowers the total energy.
+The resultant ground state is insulator with charge and spin stripe of the
+energy gap 0.9eV, consistent with observed one. The on-site Coulomb interaction
+stabilizes integral valency of each Ni ion (Ni$^{3+}$ and Ni$^{2+}$), but does
+not induce the charge order. Two quantities, inter-site Coulomb interaction and
+anisotropy of hopping integrals, play an important role to form the charge and
+spin stripe order in a system of x=1/2.

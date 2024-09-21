@@ -1,0 +1,9 @@
+Quantum walks are considered in a one-dimensional random medium characterized
+by static or dynamic disorder. Quantum interference for static disorder can
+lead to Anderson localization which completely hinders the quantum walk and it
+is contrasted with the decoherence effect of dynamic disorder having strength
+W, where a quantum to classical crossover at time $t_{c}\propto W^{-2}$
+transforms the quantum walk into an ordinary random walk with diffusive
+spreading. We demonstrate these localization and decoherence phenomena in
+quantum carpets of the observed time evolution and examine in detail a dimer
+lattice which corresponds to a single qubit subject to randomness.

@@ -1,0 +1,15 @@
+In this study we present an optimization method based on the quantum Monte
+Carlo diagonalization for many-fermion systems. Using the Hubbard-Stratonovich
+transformation, employed to decompose the interactions in terms of auxiliary
+fields, we expand the true ground-state wave function. The ground-state wave
+function is written as a linear combination of the basis wave functions. The
+Hamiltonian is diagonalized to obtain the lowest energy state, using the
+variational principle within the selected subspace of the basis functions. This
+method is free from the difficulty known as the negative sign problem. We can
+optimize a wave function using two procedures. The first procedure is to
+increase the number of basis functions. The second improves each basis function
+through the operators, $e^{-\Delta\tau H}$, using the Hubbard-Stratonovich
+decomposition. We present an algorithm for the Quantum Monte Carlo
+diagonalization method using a genetic algorithm and the renormalization
+method. We compute the ground-state energy and correlation functions of small
+clusters to compare with available data.

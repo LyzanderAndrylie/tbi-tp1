@@ -1,0 +1,12 @@
+We report a computational first-principles study of positron trapping at
+vacancy defects in metals and semiconductors. The main emphasis is on the
+energetics of the trapping process including the interplay between the positron
+state and the defect's ionic structure and on the ensuing annihilation
+characteristics of the trapped state. For vacancies in covalent semiconductors
+the ion relaxation is a crucial part of the positron trapping process enabling
+the localization of the positron state. However, positron trapping does not
+strongly affect the characteristic features of the electronic structure, e.g.,
+the ionization levels change only moderately. Also in the case of metal
+vacancies the positron-induced ion relaxation has a noticeable effect on the
+calculated positron lifetime and momentum distribution of annihilating
+electron-positron pairs.

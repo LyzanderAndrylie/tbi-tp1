@@ -1,0 +1,9 @@
+We consider a $\phi^4$-theory with a position-dependent distance from the
+critical point. One realization of this model is a classical ferromagnet
+subject to non-uniform mechanical stress. We find a sharp phase transition
+where the envelope of the local magnetization vanishes uniformly. The
+first-order transition in a quantum ferromagnet also remains sharp. The
+universal mechanism leading to a tricritical point in an itinerant quantum
+ferromagnet is suppressed, and in principle one can recover a quantum critical
+point with mean-field exponents. Observable consequences of these results are
+discussed.

@@ -1,0 +1,22 @@
+We study the transmission through different small systems as a function of
+the coupling strength $v$ to the two attached leads. The leads are identical
+with only one propagating mode $\xi^E_C$ in each of them. Besides the
+conductance $G$, we calculate the phase rigidity $\rho$ of the scattering wave
+function $\Psi^E_C$ in the interior of the system. Most interesting results are
+obtained in the regime of strongly overlapping resonance states where the
+crossover from staying to traveling modes takes place. The crossover is
+characterized by collective effects. Here, the conductance is plateau-like
+enhanced in some energy regions of finite length while corridors with zero
+transmission (total reflection) appear in other energy regions. This
+transmission picture depends only weakly on the spectrum of the closed system.
+It is caused by the alignment of some resonance states of the system with the
+propagating modes $\xi^E_C$ in the leads. The alignment of resonance states
+takes place stepwise by resonance trapping, i.e. it is accompanied by the
+decoupling of other resonance states from the continuum of propagating modes.
+This process is quantitatively described by the phase rigidity $\rho$ of the
+scattering wave function. Averaged over energy in the considered energy window,
+$<G>$ is correlated with $1-<\rho>$. In the regime of strong coupling, only two
+short-lived resonance states survive each aligned with one of the channel wave
+functions $\xi^E_C$. They may be identified with traveling modes through the
+system. The remaining $M-2$ trapped narrow resonance states are well separated
+from one another.

@@ -1,0 +1,9 @@
+We present the theoretical predictions up to QCD NLO for the cross section of
+high-mass electron-muon pair production at the Tevatron and the LHC,
+considering only the dominant contributions from the third-generation
+sneutrino. The dependence of the renormalization and factorization scales on
+the total cross section, and the effects on the K-factor due to the uncertainty
+of parton distribution function(PDF) have been carefully investigated. By
+considering soft-gluon resummation effects to all order in $\alpha_s$ of
+leading logarithm, we present the transverse momentum distributions of the
+final $e\mu$ pair.

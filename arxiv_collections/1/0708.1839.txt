@@ -1,0 +1,12 @@
+This paper describes a design of a molecular propagation system in molecular
+communication. Molecular communication is a new communication paradigm where
+biological and artificially-created nanomachines communicate over a short
+distance using molecules. A molecular propagation system in molecular
+communication directionally transports molecules from a sender to a receiver.
+In the design described in this paper, protein filaments glide over immobilized
+motor proteins along preconfigured microlithographic tracks, and the gliding
+protein filaments carry and transport molecules from a sender to a receiver. In
+the design, DNA hybridization is used to load and unload the molecules onto and
+from the carriers at a sender and a receiver. In the design,
+loading/transporting/unloading processes are autonomous and require no external
+control.

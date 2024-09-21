@@ -1,0 +1,6 @@
+We study maximal helicity three gaugino operators in N=4 Super Yang-Mills
+theory. We show that the lowest anomalous dimension of scaling operators with
+generic finite spin can be expressed in terms of the universal anomalous
+dimension appearing at twist-2. This statement is rigourously proved at three
+loops. The reason for this universality between sectors with different twist is
+the hidden psu(1|1) invariance of the su(2|1) subsector of the theory.

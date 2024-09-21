@@ -1,0 +1,15 @@
+The lowest-Landau-level anyon model becomes nonperiodic in the statistics
+parameter when the finite size of the attached flux tubes is taken into
+account. The finite-size effects cause the inverse proportional relation
+between the critical filling factor and the statistics parameter to be
+nonperiodically continued in the screening regime, where the fluxes are
+anti-parallel to the external magnetic field -- at critical filling, the
+external magnetic field is entirely screened by the mean magnetic field
+associated with the flux tubes. A clustering argument is proposed to select
+particular values of the statistics parameter. In this way, IQHE and FQHE
+fillings are obtained in terms of gapped nondegenerate LLL-anyonic wave
+functions. Jain's series are reproduced without the need to populate higher
+Landau levels. New FQHE series are proposed, like, in particular, the
+particle-hole complementary series of the Laughlin one. For fast-rotating
+Bose-Einstein condensates, a corresponding clustering argument yields
+particular fractional filling series.

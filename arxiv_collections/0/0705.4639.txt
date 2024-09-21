@@ -1,0 +1,5 @@
+This paper extends the construction of invariants for virtual knots to
+virtual long knots and introduces two new invariant modules of virtual long
+knots. Several interesting features are described that distinguish virtual long
+knots from their classical counterparts with respect to their symmetries and
+the concatenation product.

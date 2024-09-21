@@ -1,0 +1,7 @@
+We present an analysis of the quantum state resulting from the dissociation
+of diatomic molecules prepared in a condensate vortex state. The many-body
+state preserves the rotational symmetry of the system in quantum correlated
+states by having two equally populated components with angular momentum adding
+to unity. A simple two-mode analysis and a full quantum field analysis is
+presented for the case of non-interacting atoms and weak depletion of the
+molecular condensate.

@@ -1,0 +1,8 @@
+We generalize the relativistic flux tube model for arbitrary two- or
+three-body systems. The spin-independent and spin-dependent contributions of
+the flux tube to the total Hamiltonian are computed in perturbation. In
+particular, we show that the spin-dependent part exhibits a universal
+spin-orbit form: It does not depend on the nature of the confined particles.
+The general equations we present, being well-defined for light particles, can
+thus be applied to usual as well as exotic hadrons such as hybrid mesons and
+glueballs.

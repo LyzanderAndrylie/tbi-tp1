@@ -1,0 +1,11 @@
+The response of ultracold atomic Bose gases in time-dependent optical
+lattices is discussed based on direct simulations of the time-evolution of the
+many-body state in the framework of the Bose-Hubbard model. We focus on
+small-amplitude modulations of the lattice potential as implemented in several
+recent experiment and study different observables in the region of the first
+resonance in the Mott-insulator phase. In addition to the energy transfer we
+investigate the quasimomentum structure of the system which is accessible via
+the matter-wave interference pattern after a prompt release. We identify
+characteristic correlations between the excitation frequency and the
+quasimomentum distribution and study their structure in the presence of a
+superlattice potential.

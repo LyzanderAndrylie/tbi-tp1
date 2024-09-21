@@ -1,0 +1,10 @@
+We describe the properties of a pair of ultracold bosonic atoms in a
+one-dimensional harmonic trapping potential with a tunable zero-ranged barrier
+at the trap centre. The full characterisation of the ground state is done by
+calculating the reduced single-particle density, the momentum distribution and
+the two-particle entanglement. We derive several analytical expressions in the
+limit of infinite repulsion (Tonks-Girardeau limit) and extend the treatment to
+finite interparticle interactions by numerical solution. As pair interactions
+in double wells form a fundamental building block for many-body systems in
+periodic potentials, our results have implications for a wide range of
+problems.

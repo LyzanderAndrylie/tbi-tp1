@@ -1,0 +1,6 @@
+In this note we study the first-order Hawking-Page phase transition of
+R-charged black hole in truncated Anti-de Sitter space of various dimensions.
+This corresponds to confinement/deconfinement phase transition in the dual
+gauge field theory with fixed chemical potential. We demonstrate in general
+this critical temperature decreases with increasing charge density but with
+decreasing IR cutoff.

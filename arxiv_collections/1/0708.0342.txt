@@ -1,0 +1,16 @@
+Recently, several studies have investigated the transcription process
+associated to specific genetic regulatory networks. In this work, we present a
+stochastic approach for analyzing the dynamics and effect of negative feedback
+loops (FBL) on the transcriptional noise. First, our analysis allows us to
+identify a bimodal activity depending of the strength of self-repression
+coupling D. In the strong coupling region D>>1, the variance of the
+transcriptional noise is found to be reduced a 28 % more than described
+earlier. Secondly, the contribution of the noise effect to the abundance of
+regulating protein becomes manifest when the coefficient of variation is
+computed. In the strong coupling region, this coefficient is found to be
+independent of all parameters and in fair agreement with the experimentally
+observed values. Finally, our analysis reveals that the regulating protein is
+significantly induced by the intrinsic and external noise in the strong
+coupling region. In short, it indicates that the existence of inherent noise in
+FBL makes it possible to produce a basal amount of proteins even though the
+repression level D is very strong.

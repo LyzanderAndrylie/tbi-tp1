@@ -1,0 +1,13 @@
+We review our recent measurements of the complex AC conductivity of thin
+InO_x films studied as a function of magnetic field through the nominal 2D
+superconductor-insulator transition. These measurements - the first of their
+type to probe nonzero frequency - reveals a significant finite frequency
+superfluid stiffness well into the insulating regime. Unlike conventional
+fluctuation superconductivity in which thermal fluctuations give a
+superconducting response in regions of parameter space that don't exhibit long
+range order, these fluctuations are temperature independent as T --> 0 and are
+exhibited in samples where the resistance is large (greater than 10^6
+Ohms/Square) and strongly diverging. We interpret this as the direct
+observation of quantum superconducting fluctuations around an insulating ground
+state. This system serves as a prototype for other insulating states of matter
+that derive from superconductors.

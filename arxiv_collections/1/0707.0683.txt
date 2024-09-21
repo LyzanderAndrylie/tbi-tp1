@@ -1,0 +1,11 @@
+We find normal forms for parabolic Monge-Ampere equations. Of these, the most
+general one holds for any equation admitting a complete integral. Moreover, we
+explicitly give the determining equation for such integrals; restricted to the
+analytic case, this equation is shown to have solutions. The other normal forms
+exhaust the different classes of parabolic Monge-Ampere equations with symmetry
+properties, namely, the existence of classical or nonholonomic intermediate
+integrals. Our approach is based on the equivalence between parabolic
+Monge-Ampere equations and particular distributions on a contact manifold, and
+involves a classification of vector fields lying in the contact structure.
+These are divided into three types and described in terms of the simplest ones
+(characteristic fields of first order PDE's).

@@ -1,0 +1,13 @@
+The Internet-based encyclopaedia Wikipedia has grown to become one of the
+most visited web-sites on the Internet. However, critics have questioned the
+quality of entries, and an empirical study has shown Wikipedia to contain
+errors in a 2005 sample of science entries. Biased coverage and lack of sources
+are among the "Wikipedia risks". The present work describes a simple assessment
+of these aspects by examining the outbound links from Wikipedia articles to
+articles in scientific journals with a comparison against journal statistics
+from Journal Citation Reports such as impact factors. The results show an
+increasing use of structured citation markup and good agreement with the
+citation pattern seen in the scientific literature though with a slight
+tendency to cite articles in high-impact journals such as Nature and Science.
+These results increase confidence in Wikipedia as an good information organizer
+for science in general.

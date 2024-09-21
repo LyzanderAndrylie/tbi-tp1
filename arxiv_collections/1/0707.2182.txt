@@ -1,0 +1,14 @@
+This paper focuses on the design of multiplier-less decimation filters
+suitable for oversampled digital signals. The aim is twofold. On one hand, it
+proposes an optimization framework for the design of constituent decimation
+filters in a general multistage decimation architecture. The basic building
+blocks embedded in the proposed filters belong, for a simple reason, to the
+class of cyclotomic polynomials (CPs): the first 104 CPs have a z-transfer
+function whose coefficients are simply {-1,0,+1}. On the other hand, the paper
+provides a bunch of useful techniques, most of which stemming from some key
+properties of CPs, for designing the proposed filters in a variety of
+architectures. Both recursive and non-recursive architectures are discussed by
+focusing on a specific decimation filter obtained as a result of the
+optimization algorithm.
+  Design guidelines are provided with the aim to simplify the design of the
+constituent decimation filters in the multistage chain.

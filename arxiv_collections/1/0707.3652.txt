@@ -1,0 +1,10 @@
+We present a simple formalism for parton-shower Markov chains. As a first
+step towards more complete uncertainty bands, we incorporate a comprehensive
+exploration of the ambiguities inherent in such calculations. To reduce this
+uncertainty, we then introduce a matching formalism which allows a generated
+event sample to simultaneously reproduce any infrared safe distribution
+calculated at leading or next-to-leading order in perturbation theory, up to
+sub-leading corrections. To enable a more universal definition of perturbative
+calculations, we also propose a more general definition of the hadronization
+cutoff. Finally, we present an implementation of some of these ideas for
+final-state gluon showers, in a code dubbed VINCIA.

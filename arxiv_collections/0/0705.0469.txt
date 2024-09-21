@@ -1,0 +1,13 @@
+We calculate the nuclear matrix elements of the neutrinoless double beta
+($0\nu\beta\beta$) decays of $^{76}$Ge and $^{82}$Se for the light-neutrino
+exchange mechanism. The nuclear wave functions are obtained by using realistic
+two-body forces within the proton-neutron quasiparticle random-phase
+approximation (pnQRPA). We include the effects that come from the finite size
+of a nucleon, from the higher-order terms of nucleonic weak currents, and from
+the nucleon-nucleon short-range correlations. Most importantly, we improve on
+the presently available calculations by replacing the rudimentary Jastrow
+short-range correlations by the more advanced unitary correlation operator
+method (UCOM). The UCOM corrected matrix elements turn out to be notably larger
+in magnitude than the Jastrow corrected ones. This has drastic consequences for
+the detectability of $0\nu\beta\beta$ decay in the present and future double
+beta experiments.

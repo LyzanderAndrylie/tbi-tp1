@@ -1,0 +1,5 @@
+We apply the Average Spectrum Method to the problem of getting the excitation
+spectrum from imaginary-time quantum Monte Carlo simulations. We show that with
+high quality QMC data this method reproduces the dominant spectral features
+very well. It is also capable of giving information on the spectrum in regions
+dominated by the many-particle continuum of excitations.

@@ -1,0 +1,22 @@
+Recently, the iterative approach named linear tabling has received
+considerable attention because of its simplicity, ease of implementation, and
+good space efficiency. Linear tabling is a framework from which different
+methods can be derived based on the strategies used in handling looping
+subgoals. One decision concerns when answers are consumed and returned. This
+paper describes two strategies, namely, {\it lazy} and {\it eager} strategies,
+and compares them both qualitatively and quantitatively. The results indicate
+that, while the lazy strategy has good locality and is well suited for finding
+all solutions, the eager strategy is comparable in speed with the lazy strategy
+and is well suited for programs with cuts. Linear tabling relies on depth-first
+iterative deepening rather than suspension to compute fixpoints. Each cluster
+of inter-dependent subgoals as represented by a top-most looping subgoal is
+iteratively evaluated until no subgoal in it can produce any new answers. Naive
+re-evaluation of all looping subgoals, albeit simple, may be computationally
+unacceptable. In this paper, we also introduce semi-naive optimization, an
+effective technique employed in bottom-up evaluation of logic programs to avoid
+redundant joins of answers, into linear tabling. We give the conditions for the
+technique to be safe (i.e. sound and complete) and propose an optimization
+technique called {\it early answer promotion} to enhance its effectiveness.
+Benchmarking in B-Prolog demonstrates that with this optimization linear
+tabling compares favorably well in speed with the state-of-the-art
+implementation of SLG.

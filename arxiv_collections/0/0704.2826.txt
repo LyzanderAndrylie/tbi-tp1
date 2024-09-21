@@ -1,0 +1,7 @@
+We calculate crossing probabilities and one-sided last exit time densities
+for a class of moving barriers on an interval $[0,T]$ via Schwartz
+distributions. We derive crossing probabilities and first hitting time
+densities for another class of barriers on $[0,T]$ by proving a Schwartz
+distribution version of the method of images. Analytic expressions for crossing
+probabilities and related densities are given for new explicit and
+semi-explicit barriers.

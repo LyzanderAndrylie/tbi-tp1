@@ -1,0 +1,15 @@
+We study the virtual effects of unparticle physics in the lepton flavor
+violating processes $M^0\to l^+l'^-$ and $e^+e^-\to l^+l'^-$ scattering, where
+$M^0$ denotes the pseudoscalar mesons: $\pi^0,K_L, D_0,B_0,B_s^0$ and $l,l'$
+denote two different lepton flavors. For the decay of $B^0\to l^+l'^-$, there
+is no constraint from the current experimental upper bounds on the vector
+unparticle coupling with leptons. The constraint on the coupling constant
+between scalar unparticle field and leptons is sensitive to the scaling
+dimension of the unparticle $d_{\cal U}$. For the scattering process $e^-e^+\to
+l^-l'^+$, there is only constraint from experiments on the vector unparticle
+couplings with leptons but no constraint on the scalar unparticle. We study the
+$\sqrt s$ dependence of the cross section $ \frac{1}{\sigma}
+\frac{d\sigma}{d\sqrt s}$ of $e^+e^-\to l^-l'^+$ with different values of
+$d_{\cal U}$. If $d_{\cal U}=1.5$, the cross section is independent on the
+center mass energy. For $d_{\cal U}>1.5$, the cross section increases with
+$\sqrt s$.

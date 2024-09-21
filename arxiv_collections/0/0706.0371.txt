@@ -1,0 +1,12 @@
+We study the competition between the long-range Coulomb interaction, disorder
+scattering, and lattice effects in the integer quantum Hall effect (IQHE) in
+graphene. By direct transport calculations, both $\nu=1$ and $\nu=3$ IQHE
+states are revealed in the lowest two Dirac Landau levels. However, the
+critical disorder strength above which the $\nu=3$ IQHE is destroyed is much
+smaller than that for the $\nu=1$ IQHE, which may explain the absence of a
+$\nu=3$ plateau in recent experiments. While the excitation spectrum in the
+IQHE phase is gapless within numerical finite-size analysis, we do find and
+determine a mobility gap, which characterizes the energy scale of the stability
+of the IQHE. Furthermore, we demonstrate that the $\nu=1$ IQHE state is a Dirac
+valley and sublattice polarized Ising pseudospin ferromagnet, while the $\nu=3$
+state is an $xy$ plane polarized pseudospin ferromagnet.

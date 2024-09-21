@@ -1,0 +1,12 @@
+The dynamics of entanglement and fidelity for a subsystem of two separate
+spin-1/2 qubits prepared in Bell states is investigated. One of the subsystem
+qubit labelled $A$ is under the influence of a Heisenberg XY spin-bath, while
+another one labelled $B$ is uncoupled with that. We discuss two cases: (i) the
+number of bath spins $N\to\infty$; (ii) $N$ is finite: N=40. In both cases, the
+bath is initially prepared in a thermal equilibrium state. It is shown that the
+time dependence of the concurrence and the fidelity of the two subsystem qubits
+can be controlled by tuning the parameters of the spin-bath, such as the
+anisotropic parameter, the temperature and the coupling strength with qubit
+$A$. It is interesting to find the dynamics of the concurrence is independent
+of four different initial Bell states and that of the fidelity is divided into
+two groups.

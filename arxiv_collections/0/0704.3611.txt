@@ -1,0 +1,24 @@
+We measure star formation rates of ~50,000 optically-selected galaxies in the
+local universe (z~0.1), spanning a range from gas-rich dwarfs to massive
+ellipticals. We obtain dust-corrected SFRs by fitting the GALEX (UV) and SDSS
+(optical) photometry to a library of population synthesis models that include
+dust attenuation. For star-forming galaxies, our UV-based SFRs compare
+remarkably well with those derived from SDSS H alpha. Deviations from perfect
+agreement between these two methods are due to differences in the dust
+attenuation estimates. In contrast to H alpha, UV provides reliable SFRs for
+galaxies with weak or no H alpha emission, and where H alpha is contaminated
+with an emission from an AGN. We use full-SED SFRs to calibrate a simple
+prescription that uses GALEX UV magnitudes to produce good SFRs for normal
+star-forming galaxies. The specific SFR is considered as a function of stellar
+mass for (1) star-forming galaxies with no AGN, (2) those hosting an AGN, and
+for (3) galaxies without H alpha emission. We find that the three have distinct
+star formation histories, with AGN lying intermediate between the star-forming
+and the quiescent galaxies. Normal star forming galaxies (without an AGN) lie
+on a relatively narrow linear sequence. Remarkably, galaxies hosting a strong
+AGN appear to represent the massive continuation of this sequence. Weak AGN,
+while also massive, have lower SFR, sometimes extending to the realm of
+quiescent galaxies. We propose an evolutionary sequence for massive galaxies
+that smoothly connects normal star-forming galaxies to quiescent (red sequence)
+galaxies via strong and weak AGN. We confirm that some galaxies with no H alpha
+emission show signs of SF in the UV. We derive a UV-based cosmic SFR density at
+z=0.1 with smaller total error than previous measurements (abridged).

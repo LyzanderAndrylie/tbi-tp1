@@ -1,0 +1,24 @@
+The multi-frequency Sedentary Survey is a flux limited, statistically
+well-defined sample of highly X-ray dominated BL Lacertae objects (HBLs) which
+includes 150 sources. In this paper, the third of the series, we report the
+results of a dedicated optical spectroscopy campaign that, together with
+results from other independent optical follow up programs, led to the
+spectroscopic identification of all sources in the sample. We carried out a
+systematic spectroscopic campaign for the observation of all unidentified
+objects of the sample using the ESO 3.6m, the KPNO 4m, and the TNG optical
+telescopes. We present new identifications and optical spectra for 76 sources,
+50 of which are new BL Lac objects, 18 are sources previously referred as BL
+Lacs but for which no redshift information was available, and 8 are broad
+emission lines AGNs. We find that the multi-frequency selection technique used
+to build the survey is highly efficient (about 90%) in selecting BL Lacs
+objects. We present positional and spectroscopic information for all confirmed
+BL Lac objects. Our data allowed us to determined 36 redshifts out of the 50
+new BL Lacs and 5 new redshifts for the previously known objects. The redshift
+distribution of the complete sample is presented and compared with that of
+other BL Lacs samples. For 26 sources without recognizable absorption features,
+we calculated lower limits to the redshift using a method based on simulated
+optical spectra with different ratios between jet and galaxy emission. For a
+subsample of 38 object with high-quality spectra, we find a correlation between
+the optical spectral slope, the 1.4 GHz radio luminosity, and the Ca H&K break
+value, indicating that for powerful/beamed sources the optical light is
+dominated by the non-thermal emission from the jet.

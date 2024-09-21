@@ -1,0 +1,9 @@
+We show that the intriguing localization of a free particle wave-packet is
+possible due to a hidden scale present in the system. Self-adjoint extensions
+(SAE) is responsible for introducing this scale in quantum mechanical models
+through the nontrivial boundary conditions. We discuss a couple of classically
+scale invariant free particle systems to illustrate the issue. In this context
+it has been shown that a free quantum particle moving on a full line may have
+localized wave-packet around the origin. As a generalization, it has also been
+shown that particles moving on a portion of a plane or on a portion of a three
+dimensional space can have unusual localized wave-packet.

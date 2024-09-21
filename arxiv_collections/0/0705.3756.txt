@@ -1,0 +1,6 @@
+The purpose of this paper is to describe the relation between the Legendre
+and the Lenstra constants. Indeed we show that they are equal whenever the
+Legendre constant exists; in particular, this holds for both Rosen continued
+fractions and $\alpha$-continued fractions. We also give the explicit value of
+the entropy of the Rosen map with respect to the absolutely continuous
+invariant probability measure.

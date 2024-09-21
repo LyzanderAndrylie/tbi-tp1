@@ -1,0 +1,8 @@
+We present an analytical model for the time-developing turbulent boundary
+layer (TD-TBL) over a flat plate. The model provides explicit formulae for the
+temporal behavior of the wall-shear stress and both the temporal and spatial
+distributions of the mean streamwise velocity, the turbulence kinetic energy
+and Reynolds shear stress. The resulting profiles are in good agreement with
+the DNS results of spatially-developing turbulent boundary layers at momentum
+thickness Reynolds number equal to 1430 and 2900. Our analytical model is, to
+the best of our knowledge, the first of its kind for TD-TBL.

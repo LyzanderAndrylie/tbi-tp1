@@ -1,0 +1,12 @@
+This paper proposes the use of particle swarm optimization method (PSO) for
+finite element (FE) model updating. The PSO method is compared to the existing
+methods that use simulated annealing (SA) or genetic algorithms (GA) for FE
+model for model updating. The proposed method is tested on an unsymmetrical
+H-shaped structure. It is observed that the proposed method gives updated
+natural frequencies the most accurate and followed by those given by an updated
+model that was obtained using the GA and a full FE model. It is also observed
+that the proposed method gives updated mode shapes that are best correlated to
+the measured ones, followed by those given by an updated model that was
+obtained using the SA and a full FE model. Furthermore, it is observed that the
+PSO achieves this accuracy at a computational speed that is faster than that by
+the GA and a full FE model which is faster than the SA and a full FE model.

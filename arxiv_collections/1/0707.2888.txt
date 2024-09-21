@@ -1,0 +1,17 @@
+We develop a long wavelength approximation in order to describe the
+low-energy states of carbon nanotubes in a transverse magnetic field. We show
+that, in the limit where the square of the magnetic length $l = \sqrt{\hbar c
+/e B}$ is much larger than the $C$-$C$ distance times the nanotube radius $R$,
+the low-energy theory is given by the linear coupling of a two-component Dirac
+spinor to the corresponding vector potential. We investigate in this regime the
+evolution of the band structure of zig-zag nanotubes for values of $R/l > 1$,
+showing that for radius $R \approx 20$ nm a clear pattern of Landau levels
+start to develop for magnetic field strength $B \gtrsim 10$ T. The levels tend
+to be four-fold degenerate, and we clarify the transition to the typical
+two-fold degeneracy of graphene as the nanotube is unrolled to form a curved
+strip. We show that the dynamics of the Dirac fermions leads to states which
+are localized at the flanks of the nanotube and that carry chiral currents in
+the longitudinal direction. We discuss the possibility to observe the
+quantization of the Hall conductivity in thick carbon nanotubes, which should
+display steps at even multiples of $2 e^2/h$, with values doubled with respect
+to those in the odd-integer quantization of graphene.

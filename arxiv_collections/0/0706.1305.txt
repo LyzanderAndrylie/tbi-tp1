@@ -1,0 +1,18 @@
+We analyze numerical-relativity (NR) waveforms that cover nine orbits (18
+gravitational-wave cycles) before merger of an equal-mass system with low
+eccentricity, with numerical uncertainties of 0.25 radians in the phase and
+less than 2% in the amplitude; such accuracy allows a direct comparison with
+post-Newtonian (PN) waveforms. We focus on one of the PN approximants that has
+been proposed for use in gravitational-wave data analysis, the restricted 3.5PN
+``TaylorT1'' waveforms, and compare these with a section of the numerical
+waveform from the second to the eighth orbit, which is about one and a half
+orbits before merger. This corresponds to a gravitational-wave frequency range
+of $M\omega = 0.0455$ to 0.1. Depending on the method of matching PN and NR
+waveforms, the accumulated phase disagreement over this frequency range can be
+within numerical uncertainty. Similar results are found in comparisons with an
+alternative PN approximant, 3PN ``TaylorT3''. The amplitude disagreement, on
+the other hand, is around 6%, but roughly constant for all 13 cycles that are
+compared, suggesting that only 4.5 orbits need be simulated to match PN and NR
+waves with the same accuracy as is possible with nine orbits. If, however, we
+model the amplitude up to 2.5PN order, the amplitude disagreement is roughly
+within numerical uncertainty up to about 11 cycles before merger.

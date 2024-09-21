@@ -1,0 +1,16 @@
+Photon-induced reactions play a key role in the nucleosynthesis of rare
+neutron-deficient p-nuclei. The paper focuses on (gamma,alpha), (gamma,p), and
+(gamma,n) reactions which define the corresponding p-process path. The relation
+between stellar reaction rates and laboratory cross sections is analyzed for
+photon-induced reactions and their inverse capture reactions to evaluate
+various experimental approaches. An improved version S_C(E) of the
+astrophysical S-factor is suggested which is based on the Coulomb wave
+functions. S_C(E) avoids the apparent energy dependence which is otherwise
+obtained for capture reactions on heavy nuclei. It is found that a special type
+of synchrotron radiation available at SPring-8 that mimics stellar blackbody
+radiation at billions of Kelvin is a promising tool for future experiments. By
+using the blackbody synchrotron radiation, sufficient event rates for
+(gamma,alpha) and (gamma,p) reactions in the p-process path can be expected.
+These experiments will provide data to improve the nuclear parameters involved
+in the statistical model and thus reduce the uncertainties of nucleosynthesis
+calculations.

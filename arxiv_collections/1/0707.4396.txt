@@ -1,0 +1,11 @@
+This article is the $\mathrm{Z}_l$-version of my paper "Monodromie du
+faisceau pervers des cycles \'evanescents de quelques vari\'et\'es de Shimura
+simples" in Invent. Math. 2009 vol 177 pp. 239-280, where we study the
+vanishing cycles of some unitary Shimura variety. The aim is to prove that the
+cohomology sheaves of this complexe are free so that, thanks to the main
+theorem of Berkovich on vanishing cycles, we can deduce that the
+$\mathrm{Z}_l$-cohomology of the model of Deligne-Carayol is free. There will
+be a second article which will be the $\mathrm{Z}_l$ version of my paper
+"Conjecture de monodromie-poids pour quelques vari\'t\'es de Shimura unitaires"
+in Compositio vol 146 part 2, pp. 367-403. The aim of this second article will
+be to study the torsion of the cohomology groups of these Shimura varieties.

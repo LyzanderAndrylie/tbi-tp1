@@ -1,0 +1,21 @@
+We study the quantum dynamics of a one-dimensional spin-1/2 anisotropic XY
+model in a transverse field when the transverse field or the anisotropic
+interaction is quenched at a slow but uniform rate. The two quenching schemes
+are called transverse and anisotropic quenching respectively. Our emphasis in
+this paper is on the anisotropic quenching scheme and we compare the results
+with those of the other scheme. In the process of anisotropic quenching, the
+system crosses all the quantum critical lines of the phase diagram where the
+relaxation time diverges. The evolution is non-adiabatic in the time interval
+when the parameters are close to their critical values, and is adiabatic
+otherwise. The density of defects produced due to non-adiabatic transitions is
+calculated by mapping the many-particle system to an equivalent Landau-Zener
+problem and is generally found to vary as $1/\sqrt{\tau}$, where $\tau$ is the
+characteristic time scale of quenching, a scenario that supports the
+Kibble-Zurek mechanism. Interestingly, in the case of anisotropic quenching,
+there exists an additional non-adiabatic transition, in comparison to the
+transverse quenching case, with the corresponding probability peaking at an
+incommensurate value of the wave vector. In the special case in which the
+system passes through a multi-critical point, the defect density is found to
+vary as $1/\tau^{1/6}$. The von Neumann entropy of the final state is shown to
+maximize at a quenching rate around which the ordering of the final state
+changes from antiferromagnetic to ferromagnetic.

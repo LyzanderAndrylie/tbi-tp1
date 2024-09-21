@@ -1,0 +1,10 @@
+We study the excitation of spatial patterns by resonant, multi-frequency
+forcing in systems undergoing a Hopf bifurcation to spatially homogeneous
+oscillations. Using weakly nonlinear analysis we show that for small amplitudes
+only stripe or hexagon patterns are linearly stable, whereas square patterns
+and patterns involving more than three modes are unstable. In the case of
+hexagon patterns up- and down-hexagons can be simultaneously stable. The
+third-order, weakly nonlinear analysis predicts stable square patterns and
+super-hexagons for larger amplitudes. Direct simulations show, however, that in
+this regime the third-order weakly nonlinear analysis is insufficient, and
+these patterns are, in fact unstable.

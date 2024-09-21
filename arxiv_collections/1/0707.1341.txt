@@ -1,0 +1,11 @@
+We investigate the coherence properties of individual nuclear spin quantum
+bits in diamond [Dutt et al., Science, 316, 1312 (2007)] when a proximal
+electronic spin associated with a nitrogen-vacancy (NV) center is being
+interrogated by optical radiation. The resulting nuclear spin dynamics are
+governed by time-dependent hyperfine interaction associated with rapid
+electronic transitions, which can be described by a spin-fluctuator model. We
+show that due to a process analogous to motional averaging in nuclear magnetic
+resonance, the nuclear spin coherence can be preserved after a large number of
+optical excitation cycles. Our theoretical analysis is in good agreement with
+experimental results. It indicates a novel approach that could potentially
+isolate the nuclear spin system completely from the electronic environment.

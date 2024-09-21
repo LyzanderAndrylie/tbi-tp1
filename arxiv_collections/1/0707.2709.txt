@@ -1,0 +1,10 @@
+We propose a way to measure the momentum p of a nanomechanical oscillator.
+The p-detector is based on two tunnel junctions in a Aharonov-Bohm-type setup.
+One of the tunneling amplitudes depends on the motion of the oscillator, the
+other one not. Although the coupling between the detector and the oscillator is
+assumed to be linear in the position x of the oscillator, it turns out that the
+finite-frequency noise output of the detector will in general contain a term
+proportional to the momentum spectrum of the oscillator. This is a true quantum
+phenomenon, which can be realized in practice if the phase of the tunneling
+amplitude of the detector is tuned by the Aharonov-Bohm flux Phi to a
+p-sensitive value.

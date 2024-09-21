@@ -1,0 +1,18 @@
+With sufficiently light up and down quarks the isovector ($a_0$) and
+isosinglet ($f_0$) scalar meson propagators are dominated at large distance by
+two-meson states. In the staggered fermion formulation of lattice quantum
+chromodynamics, taste-symmetry breaking causes a proliferation of two-meson
+states that further complicates the analysis of these channels. Many of them
+are unphysical artifacts of the lattice approximation. They are expected to
+disappear in the continuum limit. The staggered-fermion fourth-root procedure
+has its purported counterpart in rooted staggered chiral perturbation theory
+(rSXPT). Fortunately, the rooted theory provides a strict framework that
+permits the analysis of scalar meson correlators in terms of only a small
+number of low energy couplings. Thus the analysis of the point-to-point scalar
+meson correlators in this context gives a useful consistency check of the
+fourth-root procedure and its proposed chiral realization. Through numerical
+simulation we have measured correlators for both the $a_0$ and $f_0$ channels
+in the ``Asqtad'' improved staggered fermion formulation in a lattice ensemble
+with lattice spacing $a = 0.12$ fm. We analyze those correlators in the context
+of rSXPT and obtain values of the low energy chiral couplings that are
+reasonably consistent with previous determinations.

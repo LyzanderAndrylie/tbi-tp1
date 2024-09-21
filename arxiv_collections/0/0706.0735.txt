@@ -1,0 +1,9 @@
+The magnetoconductance of p-n junctions formed in clean single wall carbon
+nanotubes is studied in the noninteracting electron approximation and
+perturbatively in electron-electron interaction, in the geometry where a
+magnetic field is along the tube axis. For long junctions the low temperature
+magnetoconductance is anomalously large: the relative change in the conductance
+becomes of order unity even when the flux through the tube is much smaller than
+the flux quantum. The magnetoconductance is negative for metallic tubes. For
+semiconducting and small gap tubes the magnetoconductance is nonmonotonic;
+positive at small and negative at large fields.

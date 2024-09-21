@@ -1,0 +1,10 @@
+The Extended Theory of Finite Fermi Systems(ETFFS) describes nuclear
+excitations considering phonons and pairing degrees of freedom, using
+experimental single particle energies and the effective Landau-Migdal
+interaction. Here we use the Skyrme interactions in order to extend the range
+of applicability of the ETFFS to experimentally not yet investigated
+short-lived isotopes. We find that Skyrme interactions which reproduce at the
+mean field level both ground state properties and nuclear excitations are able
+to describe the spreading widths of the giant resonances in the new approach,
+but produce shifts of the centroid energies. A renormalization of the Skyrme
+interactions is required for approaches going beyond the mean field level.

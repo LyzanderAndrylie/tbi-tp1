@@ -1,0 +1,8 @@
+Basic physics concepts of the QGSJET model are discussed, starting from the
+general picture of high energy hadronic interactions and addressing in some
+detail the treatment of multiple scattering processes, contributions of
+``soft'' and ``semihard'' parton dynamics, implementation of non-linear
+interaction effects. The predictions of the new model version (QGSJET II.03)
+are compared to selected accelerator data. Future developments are outlined and
+the expected input from the LHC collider for constraining model predictions is
+discussed.

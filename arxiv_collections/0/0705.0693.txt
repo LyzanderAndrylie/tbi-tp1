@@ -1,0 +1,13 @@
+The act of bluffing confounds game designers to this day. The very nature of
+bluffing is even open for debate, adding further complication to the process of
+creating intelligent virtual players that can bluff, and hence play,
+realistically. Through the use of intelligent, learning agents, and carefully
+designed agent outlooks, an agent can in fact learn to predict its opponents
+reactions based not only on its own cards, but on the actions of those around
+it. With this wider scope of understanding, an agent can in learn to bluff its
+opponents, with the action representing not an illogical action, as bluffing is
+often viewed, but rather as an act of maximising returns through an effective
+statistical optimisation. By using a tee dee lambda learning algorithm to
+continuously adapt neural network agent intelligence, agents have been shown to
+be able to learn to bluff without outside prompting, and even to learn to call
+each others bluffs in free, competitive play.

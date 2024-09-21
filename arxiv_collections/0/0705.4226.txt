@@ -1,0 +1,14 @@
+The characterization of second-order type isomorphisms is a purely
+syntactical problem that we propose to study under the enlightenment of game
+semantics. We study this question in the case of second-order
+&#955;$\mu$-calculus, which can be seen as an extension of system F to
+classical logic, and for which we de&#64257;ne a categorical framework: control
+hyperdoctrines. Our game model of &#955;$\mu$-calculus is based on polymorphic
+arenas (closely related to Hughes' hyperforests) which evolve during the play
+(following the ideas of Murawski-Ong). We show that type isomorphisms coincide
+with the "equality" on arenas associated with types. Finally we deduce the
+equational characterization of type isomorphisms from this equality. We also
+recover from the same model Roberto Di Cosmo's characterization of type
+isomorphisms for system F. This approach leads to a geometrical comprehension
+on the question of second order type isomorphisms, which can be easily extended
+to some other polymorphic calculi including additional programming features.

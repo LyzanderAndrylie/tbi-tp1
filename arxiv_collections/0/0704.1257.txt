@@ -1,0 +1,5 @@
+We prove a double-exponential upper bound on the degree and on the complexity
+of constructing a Janet basis of a $D$-module. This generalizes a well known
+bound on the complexity of a Gr\"obner basis of a module over the algebra of
+polynomials. We would like to emphasize that the obtained bound can not be
+immediately deduced from the commutative case.

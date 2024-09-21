@@ -1,0 +1,11 @@
+We determine chiral loop corrections to the B meson decay amplitudes to
+positive and negative parity charmed mesons within a framework which combines
+heavy quark and chiral symmetries. Then we investigate the impact of the
+lowest-lying positive parity heavy mesons on the determination of the
+Isgur-Wise functions. The corrections due to these states are competitive with
+the contributions arising from K and eta meson loops. Since lattice studies
+rely on the chiral behavior of the amplitudes we discuss the chiral limit of
+our results. We find that the determination of the slope at zero recoil of the
+Isgur-Wise function xi for the B transition to negative parity charm mesons is
+moderately affected by the inclusion of new states, while the slope of
+tau_{1/2} is affected significantly more.

@@ -1,0 +1,10 @@
+Differential cross sections for transitions of known weak strength were
+measured with the (3He,t) reaction at 420 MeV on targets of 12C, 13C, 18O,
+26Mg, 58Ni, 60Ni, 90Zr, 118Sn, 120Sn and 208Pb. Using this data, it is shown
+the proportionalities between strengths and cross sections for this probe
+follow simple trends as a function of mass number. These trends can be used to
+confidently determine Gamow-Teller strength distributions in nuclei for which
+the proportionality cannot be calibrated via beta-decay strengths. Although
+theoretical calculations in distorted-wave Born approximation overestimate the
+data, they allow one to understand the main experimental features and to
+predict deviations from the simple trends observed in some of the transitions.

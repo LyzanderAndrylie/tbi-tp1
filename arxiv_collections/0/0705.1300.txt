@@ -1,0 +1,6 @@
+The number of domino tilings of a region with reflective symmetry across a
+line is combinatorially shown to depend on the number of domino tilings of
+particular subregions, modulo 4. This expands upon previous congruency results
+for domino tilings, modulo 2, and leads to a variety of corollaries, including
+that the number of domino tilings of a k x 2k rectangle is congruent to 1 mod
+4.

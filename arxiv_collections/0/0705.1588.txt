@@ -1,0 +1,6 @@
+The state space for the $N$-spin mean field (SK) spin glass--nominally an
+$N$-cube--is embedded in a low dimensional continuous space in such a way that
+metastable and stable phases can easily be discerned, a concept of nearness of
+configurations defined, and peaks in the Parisi $q$-parameter overlap
+distribution identified. The dynamical and partly hierarchical interrelation of
+these phases can be directly imaged.

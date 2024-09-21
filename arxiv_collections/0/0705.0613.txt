@@ -1,0 +1,16 @@
+The recent extension of the standard model to include massive neutrinos in
+the framework of noncommutative geometry and the spectral action principle
+involves new scalar fields and their interactions with the usual complex scalar
+doublet. After ensuring that they bring no unphysical consequences, we address
+the question of how these fields affect the physics predicted in Weinberg-Salam
+theory, particularly in the context of the Electroweak phase transition.
+Applying the Dolan-Jackiw procedure, we calculate the finite temperature
+corrections, and find that the phase transition is first order. The new scalar
+interactions significantly improve the stability of the Electroweak Z string,
+through the ``bag'' phenomenon described by Watkins and Vachaspati. (Recently
+cosmic strings have climbed back into interest due to new evidence). Sourced by
+static embedded strings, an internal space analogy of Cartan's torsion is
+drawn, and a possible Higgs-force-like `gravitational' effect of this
+non-propagating torsion on the fermion masses is described. We also check that
+the field generating the Majorana mass for the $\nu_R$ is non-zero in the
+physical vacuum.

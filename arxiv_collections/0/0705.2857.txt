@@ -1,0 +1,10 @@
+We derive an explicit expression for the Fourier-Laplace transform of the
+two-point distribution function $p(x_1,t_1;x_2,t_2)$ of a continuous time
+random walk (CTRW), thus generalizing the result of Montroll and Weiss for the
+single point distribution function $p(x_1,t_1)$. The multi-point distribution
+function has a structure of a convolution of the Montroll-Weiss CTRW and the
+aging CTRW single point distribution functions. The correlation function
+$<x(t_1) x(t_2) >$ for the biased CTRW process is found. The random walk
+foundation of the multi-time-space fractional diffusion equation [Baule and
+Friedrich [{\em Europhysics Letters} {\bf 77} 10002 (2007)] is investigated
+using the unbiased CTRW in the continuum limit.

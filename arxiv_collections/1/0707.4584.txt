@@ -1,0 +1,5 @@
+We deal with fixed-time and Strichartz estimates for the Schr\"odinger
+propagator as an operator on Wiener amalgam spaces. We discuss the sharpness of
+the known estimates and we provide some new estimates which generalize the
+classical ones. As an application, we present a result on the wellposedness of
+the linear Schr\"odinger equation with a rough time dependent potential.

@@ -1,0 +1,8 @@
+We introduce the notion of the descent set polynomial as an alternative way
+of encoding the sizes of descent classes of permutations. Descent set
+polynomials exhibit interesting factorization patterns. We explore the question
+of when particular cyclotomic factors divide these polynomials. As an instance
+we deduce that the proportion of odd entries in the descent set statistics in
+the symmetric group S_n only depends on the number on 1's in the binary
+expansion of n. We observe similar properties for the signed descent set
+statistics.

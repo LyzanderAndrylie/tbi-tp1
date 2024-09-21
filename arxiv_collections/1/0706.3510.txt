@@ -1,0 +1,15 @@
+There remains the old question of how long a quantum particle takes to tunnel
+through a potential barrier higher than its incident kinetic energy. In this
+article a solution of the question is proposed on the basis of a realistic
+explanation of quantum mechanics. The explanation implies that the tunneling
+particle has a certain chance to borrow enough energy from self-interference to
+high-jump over the barrier. The root-mean-square velocity and the effective
+tunneling time of an electron tunneling through a rectangular barrier are
+numerically calculated. No superluminal effect (Hartman effect) is found for
+the tunneling electron. Heisenberg's energy-time uncertainty relation for the
+tunneling effect is verified by calculating an introduced coefficient
+representing uncertainty. The present author argues that phase time, dwell time
+and B\"{u}tticker-Landauer time are not appropriate expressions for the actual
+transit time in a tunneling process. A quantum high-jumping model is presented
+to resolve the paradox that kinetic energy of the tunneling particle is
+negative and its momentum is imaginary.

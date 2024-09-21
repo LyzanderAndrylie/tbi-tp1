@@ -1,0 +1,17 @@
+RNA motifs typically consist of short, modular patterns that include base
+pairs formed within and between modules. Estimating the abundance of these
+patterns is of fundamental importance for assessing the statistical
+significance of matches in genomewide searches, and for predicting whether a
+given function has evolved many times in different species or arose from a
+single common ancestor. In this manuscript, we review in an integrated and
+self-contained manner some basic concepts of automata theory, generating
+functions and transfer matrix methods that are relevant to pattern analysis in
+biological sequences. We formalize, in a general framework, the concept of
+Markov chain embedding to analyze patterns in random strings produced by a
+memoryless source. This conceptualization, together with the capability of
+automata to recognize complicated patterns, allows a systematic analysis of
+problems related to the occurrence and frequency of patterns in random strings.
+The applications we present focus on the concept of synchronization of
+automata, as well as automata used to search for a finite number of keywords
+(including sets of patterns generated according to base pairing rules) in a
+general text.

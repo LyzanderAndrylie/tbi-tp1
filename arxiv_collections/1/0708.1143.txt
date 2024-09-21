@@ -1,0 +1,15 @@
+The large magnetic anisotropy in the layered ferromagnet Fe_{1/4}TaS_2 leads
+to very sharp reversals of the magnetization $\bf M$ at the coercive field. We
+have exploited this feature to measure the anomalous Hall effect (AHE),
+focussing on the AHE conductivity $\sigma^A_{xy}$ in the inelastic regime. At
+low temperature T (5-50 K), $\sigma^A_{xy}$ is T-independent, consistent with
+the Berry-phase/Karplus-Luttinger theory. Above 50 K, we extract an inelastic
+AHE conductivity $\sigma^{in}_{xy}$ that scales as the square of $\Delta\rho$
+(the T dependent part of the resistivity $\rho$). The term $\sigma^{in}_{xy}$
+clarifies the T dependence and sign-reversal of the AHE coefficient R_s(T). We
+discuss the possible ubiquity of $\sigma^{in}_{xy}$ in ferromagnets, and ideas
+for interpreting its scaling with $(\Delta\rho)^2$. Measurements of the
+magnetoresistance (MR) reveal a rich pattern of behavior vs. T and field
+tilt-angle. We show that the 2 mechanisms, the anisotropic MR effect and
+field-suppression of magnons, account for the intricate MR behavior, including
+the bow-tie features caused by the sharp reversals in $\bf M$.

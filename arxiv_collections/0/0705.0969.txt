@@ -1,0 +1,13 @@
+Water plays a pivotal role in many physical processes, and most importantly
+in sustaining human life, animal life and plant life. Water supply entities
+therefore have the responsibility to supply clean and safe water at the rate
+required by the consumer. It is therefore necessary to implement mechanisms and
+systems that can be employed to predict both short-term and long-term water
+demands. The increasingly growing field of computational intelligence
+techniques has been proposed as an efficient tool in the modelling of dynamic
+phenomena. The primary objective of this paper is to compare the efficiency of
+two computational intelligence techniques in water demand forecasting. The
+techniques under comparison are the Artificial Neural Networks (ANNs) and the
+Support Vector Machines (SVMs). In this study it was observed that the ANNs
+perform better than the SVMs. This performance is measured against the
+generalisation ability of the two.

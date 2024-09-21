@@ -1,0 +1,14 @@
+We consider a list decoding algorithm recently proposed by Pellikaan-Wu
+\cite{PW2005} for $q$-ary Reed-Muller codes $\mathcal{RM}_q(\ell, m, n)$ of
+length $n \leq q^m$ when $\ell \leq q$. A simple and easily accessible
+correctness proof is given which shows that this algorithm achieves a relative
+error-correction radius of $\tau \leq (1 - \sqrt{{\ell q^{m-1}}/{n}})$. This is
+an improvement over the proof using one-point Algebraic-Geometric codes given
+in \cite{PW2005}. The described algorithm can be adapted to decode
+Product-Reed-Solomon codes.
+  We then propose a new low complexity recursive algebraic decoding algorithm
+for Reed-Muller and Product-Reed-Solomon codes. Our algorithm achieves a
+relative error correction radius of $\tau \leq \prod_{i=1}^m (1 -
+\sqrt{k_i/q})$. This technique is then proved to outperform the Pellikaan-Wu
+method in both complexity and error correction radius over a wide range of code
+rates.

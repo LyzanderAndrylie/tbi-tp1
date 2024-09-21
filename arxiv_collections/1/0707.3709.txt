@@ -1,0 +1,16 @@
+We discuss the issue of phase separation in the SU(2) slave boson theory of
+Wen and Lee of the doped Mott insulator. It is shown that the constraint
+structure of the theory leads to the interpretation of the holons to have
+hard-core interactions, which is demonstrated further by studying the empty
+limit (no electrons). Surprisingly, with hard-core interactions even the empty
+limit is described well by the slave-boson theory, both as an energy density
+and with the regard to dynamical properties. The consequences are investigated
+in the overdoped superconducting regime, where both phase separation and a d+s
+structure of the order parameter is obtained. This s-wave component is already
+imminent in the description of the hole in the slave boson theory. The
+interacting nature of the holons also lead to sound modes in the
+single-electron propagator. The novel idea of the isospin spiral is introduced,
+based on the projective symmetry principles of Wen. This isospin spiral
+explains the coexistence of superconductivity and the Mott insulating state,
+being the consequence of phase separation. Secondly, it might be able to
+explain why nodal fermions survive in the presence of charge inhomogeneities.

@@ -1,0 +1,8 @@
+Recently proposed novel idea of "crabbed waist" beam-beam collisions will be
+tested at DAFNE during the collider run for the Siddharta experiment. In order
+to achieve the goal luminosity, large dynamic aperture is a matter of primary
+importance. A new method of a dynamic aperture optimization based on
+step-by-step chromaticity compensation with choosing the "best" sextupole pair
+at each step was applied to the DAFNE upgrade lattice. Several tune points were
+considered taking into account both high luminosity and large dynamic aperture.
+Algorithm and results of optimization will be presented.

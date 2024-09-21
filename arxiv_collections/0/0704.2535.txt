@@ -1,0 +1,16 @@
+We use high-resolution hydrodynamic re-simulations to investigate the
+properties of the thermal Sunyaev-Zel'dovich (SZ) effect from galaxy clusters.
+We compare results obtained using different physical models for the
+intracluster medium (ICM), and show how they modify the SZ emission in terms of
+cluster profiles and scaling relations. We also produce realistic mock
+observations to verify whether the results from hydrodynamic simulations can be
+confirmed. We find that SZ profiles depend marginally on the modelled physical
+processes, while they exhibit a strong dependence on cluster mass. The central
+and total SZ emission strongly correlate with the cluster X-ray luminosity and
+temperature. The logarithmic slopes of these scaling relations differ from the
+self-similar predictions by less than 0.2; the normalization of the relations
+is lower for simulations including radiative cooling. The observational test
+suggests that SZ cluster profiles are unlikely to be able to probe the ICM
+physics. The total SZ decrement appears to be an observable much more robust
+than the central intensity, and we suggest using the former to investigate
+scaling relations.

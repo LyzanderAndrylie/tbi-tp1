@@ -1,0 +1,7 @@
+Molecular spiders are synthetic bio-molecular systems which have "legs" made
+of short single-stranded segments of DNA. Spiders move on a surface covered
+with single-stranded DNA segments complementary to legs. Different mappings are
+established between various models of spiders and simple exclusion processes.
+For spiders with simple gait and varying number of legs we compute the
+diffusion coefficient; when the hopping is biased we also compute their
+velocity.

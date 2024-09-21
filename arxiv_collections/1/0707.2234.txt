@@ -1,0 +1,15 @@
+The friction coefficient of a particle can depend on its position as it does
+when the particle is near a wall. We formulate the dynamics of particles with
+such state-dependent friction coefficients in terms of a general Langevin
+equation with multiplicative noise, whose evaluation requires the introduction
+of specific rules. Two common conventions, the Ito and the Stratonovich,
+provide alternative rules for evaluation of the noise, but other conventions
+are possible. We show the requirement that a particle's distribution function
+approach the Boltzmann distribution at long times dictates that a drift term
+must be added to the Langevin equation. This drift term is proportional to the
+derivative of the diffusion coefficient times a factor that depends on the
+convention used to define the multiplicative noise. We explore the consequences
+of this result in a number examples with spatially varying diffusion
+coefficients. We also derive path integral representations for arbitrary
+interpretation of the noise, and use it in a perturbative study of correlations
+in a simple system.

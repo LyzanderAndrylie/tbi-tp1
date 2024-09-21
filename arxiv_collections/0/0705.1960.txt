@@ -1,0 +1,12 @@
+We propose a new field-theoretic framework for formulating the
+non-relativistic quantum mechanics of D particles in a Fock space of U(N)
+Yang-Mills theories with all different N in a unified way. D-particle field
+operators, creating and annihilating a D particle and hence changing N one by
+one, are defined. The base space of these D-particle fields is a (complex)
+vector space of infinite dimensions. The gauge invariance of Yang-Mills quantum
+mechanics is reinterpreted as a quantum-statistical symmetry, which is taken
+into account by setting up a novel algebraic and projective structure in the
+formalism. Ordinary physical observables of Yang-Mills theory, obeying the
+standard algebra, are expressed as bilinear forms of the D-particle fields.
+Together with the open-closed string duality, our new formulation suggests a
+trinity of three different but mutually dual viewpoints in string theory.

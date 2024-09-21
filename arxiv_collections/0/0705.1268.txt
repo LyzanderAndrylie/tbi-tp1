@@ -1,0 +1,11 @@
+In this paper we consider two processes driven by diffusions and jumps. The
+jump components are Levy processes and they can both have finite activity and
+infinite activity. Given discrete observations we estimate the covariation
+between the two diffusion parts and the co-jumps. The detection of the co-jumps
+allows to gain insight in the dependence structure of the jump components and
+has important applications in finance. Our estimators are based on a threshold
+principle allowing to isolate the jumps. This work follows Gobbi and Mancini
+(2006) where the asymptotic normality for the estimator of the covariation,
+with convergence speed given by the squared root of h, was obtained when the
+jump components have finite activity. Here we show that the speed is the
+squared root of h only when the activity of the jump components is moderate.

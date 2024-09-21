@@ -1,0 +1,19 @@
+The introduction of coordinates representing the points of view of various
+observers results in the possibility of horizons when acceleration and
+gravitation are included. A horizon is a surface of possible light beams in a
+region of space of finite distance from the observer, which means that since
+nothing travels faster than light, events on the far side of a horizon cannot
+influence those on the causal side. A black hole has such a horizon, where some
+radially outgoing light beams can never reach a distant (or even nearby)
+observer. However, since one suspects that black holes can swallow energy, and
+even evaporate by Hawking radiation, such horizons must take on a time
+dependency. A naive introduction of temporal dependency results in infinities
+(singularities) in energy densities, suggesting in such descriptions that an
+in-falling observer would encounter a hard surface at the horizon. However, if
+coordinates representing space-time as analogous to a "flowing river" are used
+to describe the dynamics of a black hole, no such singularities are
+encountered. Such a parameterization of time dependent horizons will be offered
+in this presentation. A Penrose space-time diagram (which represents the entire
+space-time on a finite diagram with light beams always moving at a 45 degree
+angle to vertical) describing the growth and evaporation of an example black
+hole, along with the resulting coordinate anomaly, will be constructed.

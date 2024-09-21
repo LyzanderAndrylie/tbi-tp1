@@ -1,0 +1,9 @@
+This article provides a formalism making it possible to manage the solutions
+of the direct and inverse kinematic models of the fully parallel manipulators.
+We introduce the concept of working modes to separate the solutions from the
+opposite geometrical model. Then, we define, for each working mode, the aspects
+of these manipulators. To separate the solutions from the direct kinematics
+model, we introduce the concept of characteristic surfaces. Then, we define the
+uniqueness domains, as being the greatest domains of the workspace in which
+there is unicity of solutions. The principal applications of this work are the
+design, the trajectory planning.

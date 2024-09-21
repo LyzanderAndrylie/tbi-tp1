@@ -1,0 +1,7 @@
+Using a conventional Hall-bar geometry with a micro-metal strip on top of the
+surface, we demonstrate an electrical coherent control of nuclear spins in an
+AlGaAs/GaAs semiconductor heterostructure. A breakdown of integer quantum Hall
+(QH) effect is utilized to dynamically polarize nuclear spins. By applying a
+pulse rf magnetic field with the metal strip, the quantum state of the nuclear
+spins shows Rabi oscillations, which is detected by measuring longitudinal
+voltage of the QH conductor.

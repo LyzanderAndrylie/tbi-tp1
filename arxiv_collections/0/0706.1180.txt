@@ -1,0 +1,7 @@
+We compute analytically the probability distribution of large deviations in
+the spin-glass free energy for the Sherrington-Kirkpatrick mean field model,
+i.e. we compute the exponentially small probability of finding a system with
+intensive free energy smaller than the most likely one. This result is obtained
+by computing the average value of the partition function to the power $n$ as a
+function of $n$. At zero temperature this absolute prediction displays a
+remarkable quantitative agreement with the numerical data.

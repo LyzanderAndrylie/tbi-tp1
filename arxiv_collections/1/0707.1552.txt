@@ -1,0 +1,5 @@
+Let f and g be nonconstant polynomials over an arbitrary field K. In this
+paper we study the intersection of the polynomial rings K[f] and K[g], and in
+particular we ask whether this intersection is larger than K. We completely
+resolve this question when K has characteristic zero, and in positive
+characteristic we present various results, examples, and algorithms.

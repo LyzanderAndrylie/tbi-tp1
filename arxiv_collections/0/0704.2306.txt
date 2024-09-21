@@ -1,0 +1,13 @@
+Spatially resolved electron energy-loss spectroscopy (EELS) in a scanning
+transmission electron microscope (STEM) has been used to investigate as fluidic
+phase in nanoubbles embedded in a metallic Pd90Pt10 matrix. Using the 1s->2p
+excitation of the He atoms, maps of the He distribution, in particular of its
+density an pressure in bubbles of different diameter have been realized, thus
+providing an indication of the involved bubble formation mechanism. However,
+the short-range Pauli repulsion mechanism between electrons on neighboring
+atoms seems insufficient to interpret minute variations of the local local
+measurements performed at the interface between the metal and the He bubble.
+Simulations relying on the continuum dielectric model have show that these
+deviations could be interpreted as an interfzce polarization effect on the He
+atomic transition, which should be accounted for when measuring the densities
+within the smaller bubbles.

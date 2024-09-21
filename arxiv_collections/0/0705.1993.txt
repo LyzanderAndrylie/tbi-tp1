@@ -1,0 +1,8 @@
+We reduce complex stripped patterns to a basic topological network of edges
+and vertices to define defects and measure their influence on the pattern. We
+present statistics on the spatial and temporal distribution of defects within
+the state of spiral defect chaos state in experiments on Rayleigh Benard
+convection. These measure the role of boundary influence on the dynamics, and
+suggest an exponential distribution for the length of edges in the pattern. We
+also indicate a systematic method to study hierarchies of defect interactions
+based on the network structure.

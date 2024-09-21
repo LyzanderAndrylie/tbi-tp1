@@ -1,0 +1,8 @@
+We define and study virtual representation spaces having both positive and
+negative dimensions at the vertices of a quiver without oriented cycles. We
+consider the natural semi-invariants on these spaces which we call virtual
+semi-invariants and prove that they satisfy the three basic theorems: the First
+Fundamental Theorem, the Saturation Theorem and the Canonical Decomposition
+Theorem. In the special case of Dynkin quivers with n vertices this gives the
+fundamental interrelationship between supports of the semi-invariants and the
+Tilting Triangulation of the (n-1)-sphere.

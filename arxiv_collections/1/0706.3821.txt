@@ -1,0 +1,6 @@
+We develop the work of Christandl et al. [M. Christandl, N. Datta, T. C.
+Dorlas, A. Ekert, A. Kay, and A. J. Landahl, Phys. Rev. A 71, 032312 (2005)],
+to show how a d-hypercube homogenous network can be dressed by additional links
+to perfectly route quantum information between any given input and output nodes
+in a duration which is independent of the routing chosen and, surprisingly,
+size of the network.

@@ -1,0 +1,17 @@
+Concomitant with the development of metal-based spintronics in the late
+1980's and 1990's, important advances were made on the growth of high-quality
+oxide thin films and heterostructures. While this was at first motivated by the
+discovery of high-temperature superconductivity in perovskite Cu oxides, this
+technological breakthrough was soon applied to other transition metal oxides,
+and notably mixed-valence manganites. The discovery of colossal
+magnetoresistance in manganite films triggered an intense research activity on
+these materials, but the first notable impact of magnetic oxides in the field
+of spintronics was the use of such manganites as electrodes in magnetic tunnel
+junctions, yielding tunnel magnetoresistance ratios one order of magnitude
+larger than what had been obtained with transition metal electrodes. Since
+then, the research on oxide spintronics has been intense with the latest
+developments focused on diluted magnetic oxides and more recently on
+multiferroics. In this paper, we will review the most important results on
+oxide spintronics, emphasizing materials physics as well as spin-dependent
+transport phenomena, and finally give some perspectives on how the flurry of
+new magnetic oxides could be useful for next-generation spintronics devices.

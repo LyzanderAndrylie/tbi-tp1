@@ -1,0 +1,8 @@
+The linear polarizability absorption spectra of the double-walled carbon
+nanotubes (DWNTs) have been calculated by using the tight-binding (TB) model
+and sum-over-state (SOS) method, supplemented by the first principles CASTEP
+calculations. It is found that the chiral symmetries of both outer and inner
+tubes in the DWNTs can always be identified distinctly by the characteristic
+peaks in the absorption spectra of the DWNTs, no matter what kind of the outer
+tube is, offering a powerful experimental tool to measure precisely the chiral
+angle of the inner tube of a DWNT.

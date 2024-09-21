@@ -1,0 +1,3 @@
+The purpose of this paper is to show that in a finite dimensional metric
+space with Alexandrov's curvature bounded below, Monge's transport problem for
+the quadratic cost admits a unique solution.

@@ -1,0 +1,18 @@
+In this article we derive longitudinal impedance and wake function for an
+undulator setup with arbitrary undulator parameter, taking into account a
+finite transverse size of the electron bunch. Earlier studies considered a line
+density-distribution of electrons instead. We focus our attention on the
+long-wavelength asymptote (compared with resonance wavelength), at large
+distance of the electron bunch from the undulator entrance compared to the
+overtaking length, and for large vacuum-chamber size compared to the typical
+transverse size of the field. These restrictions define a parameter region of
+interest for practical applications. We calculate a closed expression for
+impedance and wake function that may be evaluated numerically in the most
+general case. Such expression allows us to derive an analytical solution for a
+Gaussian transverse and longitudinal bunch shape. Finally, we study the
+feasibility of current-enhanced SASE schemes (ESASE) recently proposed for
+LCLS, that fall well-within our approximations. Numerical estimations presented
+in this paper indicate that impedance-induced energy spread is sufficient to
+seriously degrade the FEL performance. Our conclusion is in contrast with
+results in literature, where wake calculations for the LCLS case are given in
+free-space, as if the presence of the undulator were negligible.

@@ -1,0 +1,5 @@
+We construct a microlocalization of the rational Cherednik algebras $H$ of
+type $S_n$. This is achieved by a quantization of the Hilbert scheme
+$\Hilb^n\C^2$ of $n$ points in $\C^2$. We then prove the equivalence of the
+category of $H$-modules and the one of modules over its microlocalization under
+certain conditions on the parameter.

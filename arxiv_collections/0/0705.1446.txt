@@ -1,0 +1,9 @@
+We present quantum query complexity bounds for testing algebraic properties.
+For a set S and a binary operation on S, we consider the decision problem
+whether $S$ is a semigroup or has an identity element. If S is a monoid, we
+want to decide whether S is a group.
+  We present quantum algorithms for these problems that improve the best known
+classical complexity bounds. In particular, we give the first application of
+the new quantum random walk technique by Magniez, Nayak, Roland, and Santha
+that improves the previous bounds by Ambainis and Szegedy. We also present
+several lower bounds for testing algebraic properties.

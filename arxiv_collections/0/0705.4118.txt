@@ -1,0 +1,11 @@
+The author presents a method for calculating the magnetic fields near a
+planar surface of a superconductor with a given intrinsic magnetization in the
+London limit. He computes solutions for various magnetic domain boundary
+configurations and derives relations between the spectral densities of the
+magnetization and the resulting field in the vacuum half space, which are
+useful if the magnetization can be considered as a statistical quantity and its
+features are too small to be resolved individually. The results are useful for
+analyzing and designing magnetic scanning experiments. Application to existing
+data from such experiments on Sr$_2$RuO$_4$ show that a domain wall would have
+been detectable, but the magnetic field of randomly oriented small domains and
+small defects may have been smaller than the experimental noise level.

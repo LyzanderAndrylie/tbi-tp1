@@ -1,0 +1,18 @@
+A cognitive radio can operate as a secondary system in a given spectrum. This
+operation should use limited power in order not to disturb the communication by
+primary spectrum user. Under such conditions, in this paper we investigate how
+to maximize the spectral efficiency in the secondary system. A secondary
+receiver observes a multiple access channel of two users, the secondary and the
+primary transmitter, respectively. We show that, for spectrally-efficient
+operation, the secondary system should apply Opportunistic Interference
+Cancellation (OIC). With OIC, the secondary system decodes the primary signal
+when such an opportunity is created by the primary rate and the power received
+from the primary system. For such an operation, we derive the achievable data
+rate in the secondary system. When the primary signal is decodable, we devise a
+method, based on superposition coding, by which the secondary system can
+achieve the maximal possible rate. Finally, we investigate the power allocation
+in the secondary system when multiple channels are used. We show that the
+optimal power allocation with OIC can be achieved through intercepted
+water-filling instead of the conventional water-filling. The results show a
+significant gain for the rate achieved through an opportunistic interference
+cancellation.

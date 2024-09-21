@@ -1,0 +1,5 @@
+We prove that the maximal number of limit cycles which bifurcate from an open
+period annulus under a given multi-parameter analytic deformation of a given
+analytic vector field is the same as in an appropriate one-parameter analytic
+deformation of the field, provided that this cyclicity is finite. Along the
+same lines we give also a bound of the cyclicity of homoclinic saddle loops.

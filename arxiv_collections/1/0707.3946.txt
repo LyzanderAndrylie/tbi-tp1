@@ -1,0 +1,9 @@
+We study a linear array of coupled cavities interacting with two level
+systems and show how to construct individually addressable qubits in this
+system from the long-lived atom-photon excitations (polaritons) at each site.
+We derive the system dynamics and show that is described by an XY Hamiltonian.
+We proceed by showing how to implement non-local quantum gates and show that
+combined with the inherent ability for individual addressing, universal quantum
+computation is possible in this system. We finally discuss the prospects for
+experimental implementation using various technologies involving dopants as
+atoms, quantum dots or Cooper pair boxes.

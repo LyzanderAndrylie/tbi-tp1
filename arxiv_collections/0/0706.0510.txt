@@ -1,0 +1,8 @@
+A general method to determine covariant Lyapunov vectors in both discrete-
+and continuous-time dynamical systems is introduced. This allows to address
+fundamental questions such as the degree of hyperbolicity, which can be
+quantified in terms of the transversality of these intrinsic vectors. For
+spatially extended systems, the covariant Lyapunov vectors have localization
+properties and spatial Fourier spectra qualitatively different from those
+composing the orthonormalized basis obtained in the standard procedure used to
+calculate the Lyapunov exponents.

@@ -1,0 +1,4 @@
+Consider a smooth log Fano variety over the function field of a curve.
+Suppose that the boundary has positive normal bundle. Choose an integral model
+over the curve. Then integral points are Zariski dense, after removing an
+explicit finite set of points on the base curve.

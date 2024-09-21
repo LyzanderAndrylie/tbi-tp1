@@ -1,0 +1,3 @@
+A general reconstruction and calibration procedure for tracking and wire
+position determination of the OPERA drift tubes is presented. The mathematics
+of the pattern recognition and the track fit are explained.

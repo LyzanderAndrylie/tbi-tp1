@@ -1,0 +1,9 @@
+We describe a novel approach to prepare, detect and characterize magnetic
+quantum phases in ultra-cold spinor atoms loaded in optical superlattices. Our
+technique makes use of singlet-triplet spin manipulations in an array of
+isolated double well potentials in analogy to recently demonstrated quantum
+control in semiconductor quantum dots. We also discuss the many-body
+singlet-triplet spin dynamics arising from coherent coupling between nearest
+neighbor double wells and derive an effective description for such system. We
+use it to study the generation of complex magnetic states by adiabatic and
+non-equilibrium dynamics.

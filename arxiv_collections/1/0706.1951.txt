@@ -1,0 +1,8 @@
+Atomic systems in regular lattices are intriguing systems for implementing
+ideas in quantum simulation and information processing. Focusing on laser
+cooled ions forming Wigner crystals in Penning traps, we find a robust and
+simple approach to engineering non-trivial 2-body interactions sufficient for
+universal quantum computation. We then consider extensions of our approach to
+the fast generation of large cluster states, and a non-local architecture using
+an asymmetric entanglement generation procedure between a Penning trap system
+and well-established linear Paul trap designs.

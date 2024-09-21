@@ -1,0 +1,14 @@
+We present a systematic theory of Coulomb-induced correlation effects in the
+nonlinear optical processes within the strong-coupling regime. In this paper we
+shall set a dynamics controlled truncation scheme \cite{Axt Stahl} microscopic
+treatment of nonlinear parametric processes in SMCs including the
+electromagnetic field quantization. It represents the starting point for the
+microscopic approach to quantum optics experiments in the strong coupling
+regime without any assumption on the quantum statistics of electronic
+excitations (excitons) involved. We exploit a previous technique, used in the
+semiclassical context, which, once applied to four-wave mixing in quantum
+wells, allowed to understand a wide range of observed phenomena \cite{Sham
+PRL95}. We end up with dynamical equations for exciton and photon operators
+which extend the usual semiclassical description of Coulomb interaction
+effects, in terms of a mean-field term plus a genuine non-instantaneous
+four-particle correlation, to quantum optical effects.

@@ -1,0 +1,16 @@
+The two and three-body correlation functions of the ground state of an
+optically trapped ultracold spin-1/2 Fermi gas (SFG) in a tight waveguide (1D
+regime) are calculated in the plane of even and odd-wave coupling constants,
+assuming a 1D attractive zero-range odd-wave interaction induced by a 3D p-wave
+Feshbach resonance, as well as the usual repulsive zero-range even-wave
+interaction stemming from 3D s-wave scattering. The calculations are based on
+the exact mapping from the SFG to a ``Lieb-Liniger-Heisenberg'' model with
+delta-function repulsions depending on isotropic Heisenberg spin-spin
+interactions, and indicate that the SFG should be stable against three-body
+recombination in a large region of the coupling constant plane encompassing
+parts of both the ferromagnetic and antiferromagnetic phases. However, the
+limiting case of the fermionic Tonks-Girardeau gas (FTG), a spin-aligned 1D
+Fermi gas with infinitely attractive p-wave interactions, is unstable in this
+sense. Effects due to the dipolar interaction and a Zeeman term due to a
+resonance-generating magnetic field do not lead to shrinkage of the region of
+stability of the SFG.

@@ -1,0 +1,10 @@
+We define a metric operator in the 1/2-BPS sector of the D1-D5 CFT, the
+eigenstates of which have a good semi-classical supergravity dual; the
+non-eigenstates cannot be mapped to semi-classical gravity duals. We also
+analyse how the data defining a CFT state manifests itself in the gravity side,
+and show that it is arranged into a set of multipoles. Interestingly, we find
+that quantum mechanical interference in the CFT can have observable
+manifestations in the semi-classical gravity dual. We also point out that the
+multipoles associated to the normal statistical ensemble fluctuate wildly,
+indicating that the mixed thermal state should not be associated to a
+semi-classical geometry.

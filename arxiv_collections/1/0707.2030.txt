@@ -1,0 +1,5 @@
+In the framework of effective field theory we show that, at two-loop order,
+the mass and width of the \Delta resonance defined via the (relativistic)
+Breit-Wigner parametrization both depend on the choice of field variables. In
+contrast, the complex-valued position of the pole of the propagator is
+independent of this choice.

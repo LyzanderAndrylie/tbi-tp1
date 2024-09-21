@@ -1,0 +1,16 @@
+We study the evolution and saturation of the gluon distribution function in
+the quark-gluon plasma as probed by a propagating parton and its effect on the
+computation of jet quenching or transport parameter $\hat{q}$. For thermal
+partons, the saturation scale $Q^2_s$ is found to be proportional to the Debye
+screening mass $\mu_D^2$. For hard probes, evolution at small $x=Q^2_s/6ET$
+leads to jet energy dependence of $\hat{q}$. We study this dependence for both
+a conformal gauge theory in weak and strong coupling limit and for (pure gluon)
+QCD. The energy dependence can be used to extract the shear viscosity $\eta$ of
+the medium since $\eta$ can be related to the transport parameter for thermal
+partons in a transport description. We also derive upper bounds on the
+transport parameter for both energetic and thermal partons. The later leads to
+a lower bound on shear viscosity-to-entropy density ratio which is consistent
+with the conjectured lower bound $\eta/s\geq 1/4\pi$. We also discuss the
+implications on the study of jet quenching at the BNL Relativistic Heavy Ion
+Collider and the CERN Large Hadron Collider and the bulk properties of the
+dense matter.

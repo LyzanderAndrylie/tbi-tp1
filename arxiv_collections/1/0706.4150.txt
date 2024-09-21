@@ -1,0 +1,11 @@
+Within the context of superconducting gap engineering, Al-\alox-Al tunnel
+junctions have been used to study the variation in superconducting gap,
+$\Delta$, with film thickness. Films of thickness 5, 7, 10 and 30 nm were used
+to form the small area superconductor-insulator-superconductor (SIS) tunnel
+junctions. In agreement with previous measurements we have observed an increase
+in the superconducting energy gap of aluminium with a decrease in film
+thickness. In addition, we find grain size in small area films with thickness
+\textbf{$\geq$} 10 nm has no appreciable effect on energy gap. Finally, we
+utilize 7 and 30 nm films in a single Cooper-pair transistor, and observe the
+modification of the finite bias transport processes due to the engineered gap
+profile.

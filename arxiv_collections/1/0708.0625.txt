@@ -1,0 +1,6 @@
+We propose a protocol of remote implementations of quantum operations by
+hybridizing bidirectional quantum state teleportation's (BQST) and Wang's one.
+The protocol is available for remote implemetations of quantum operations in
+the restricted sets specified in Sec. III. We also give the proof of the
+protocol and point out its optimization. As an extension, this hybrid protocol
+can be reduced to BQST and Wang protocols.

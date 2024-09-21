@@ -1,0 +1,12 @@
+Gravity gradiometry research and development has intensified in recent years
+to the extent that technologies providing a resolution of about 1 Eotvos per 1
+sec average shall likely soon be available for multiple critical applications
+such as natural resources exploration, oil reservoir monitoring and defence
+establishment. Much of the content of this paper was composed a decade ago, and
+only minor modifications were required for the conclusions to be just as
+applicable today. In this paper we demonstrate how gravity gradient data can be
+modeled, and show some examples of how gravity gradient data can be combined in
+order to extract valuable information. In particular, this study demonstrates
+the importance of two gravity gradient components, Txz and Tyz which, when
+processed together, can provide more information on subsurface density
+contrasts than that derived solely from the vertical gravity gradient (Tzz).

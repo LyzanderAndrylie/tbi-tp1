@@ -1,0 +1,7 @@
+We combine the fixed-order evaluation of the $b\bar{b}$ sum rules with a
+non-relativistic effective-theory approach. The combined result for the $n$-th
+moment includes all terms suppressed with respect to the leading-order result
+by ${\cal O}(\alpha_s^3)$ and ${\cal O}((\alpha_s \sqrt{n})^l \alpha_s^2)$,
+counting $\alpha_s \sqrt{n} \sim 1$. When compared to experimental data, the
+moments thus obtained show a remarkable consistency and allow for an analysis
+in the whole range $1\le n\lesssim 16$.

@@ -1,0 +1,10 @@
+For investigation of electron transport on the nanoscale, a system possessing
+a simple to interpret electronic structure is composed of alkane chains
+bridging two electrodes via end groups; to date the majority of experiments and
+theoretical investigations on such structures have considered thiols bonding to
+gold electrodes. Recently experiments show that well defined molecular
+conductances may be resolved if the thiol end groups are replaced by amines. In
+this theoretical study, we investigate the bonding of amine groups to gold
+clusters and calculate electron transport across the resulting tunnel
+junctions. We find very good agreement with recent experiments for alkane
+diamines and discuss differences with respect to the alkane dithiol system.

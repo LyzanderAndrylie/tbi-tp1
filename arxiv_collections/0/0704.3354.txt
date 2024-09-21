@@ -1,0 +1,14 @@
+The purpose of the present work is to treat a new notion related to linear
+dynamics, which can be viewed as a "localization" of the notion of
+hypercyclicity. In particular, let $T$ be a bounded linear operator acting on a
+Banach space $X$ and let $x$ be a non-zero vector in $X$ such that for every
+open neighborhood $U\subset X$ of $x$ and every non-empty open set $V\subset X$
+there exists a positive integer $n$ such that $T^{n}U\cap V\neq\emptyset$. In
+this case $T$ will be called a $J$-class operator. We investigate the class of
+operators satisfying the above property and provide various examples. It is
+worthwhile to mention that many results from the theory of hypercyclic
+operators have their analogues in this setting. For example we establish
+results related to the Bourdon-Feldman theorem and we characterize the
+$J$-class weighted shifts. We would also like to stress that even non-separable
+Banach spaces which do not support topologically transitive operators, as for
+example $l^{\infty}(\mathbb{N})$, do admit $J$-class operators.

@@ -1,0 +1,13 @@
+We use the Newtonian limit of a general scalar-tensor theory around a
+background field to study astrophysical effects. The gravitational theory
+modifies the standard Newtonian potential by adding a Yukawa term to it, which
+is quantified by two theoretical parameters: $\lambda$, the lenghtscale of the
+gravitational interaction and its strength, $\alpha$. Within this formalism we
+firstly present a numerical study on the formation of bars in isolated
+galaxies. We have found for positive $\alpha$ that the modified gravity
+destabilizes the galactic discs and leads to rapid bar formation in isolated
+galaxies. Values of $\lambda$ in the range $\approx 8$ -- 14 kpc produce
+strongest bars in isolated models. Then, we extent this work by considering
+tidal effects due to interacting galaxies. We send two spirals to collide and
+study the bar properties of the remnant. We characterize the bar kinematical
+properties in terms of our parameters ($\lambda, \alpha$).

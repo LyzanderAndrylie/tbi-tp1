@@ -1,0 +1,9 @@
+We propose a topological quantum phase transition for quantum states with
+different Berry phases in hole-doped III-V semiconductor quantum wells with
+bulk and structure inversion asymmetry. The Berry phase of the occupied Bloch
+states can be characteristic of topological metallic states. It is found that
+the adjustment of thickness of the quantum well may cause a transition of Berry
+phase in two-dimensional hole gas. Correspondingly, the jump of spin Hall
+conductivity accompanies the change of the Berry phase. This property is robust
+against the impurity potentials in the system. Experimental detection of this
+topological quantum phase transition is discussed.

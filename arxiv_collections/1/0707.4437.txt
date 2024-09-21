@@ -1,0 +1,17 @@
+Conformal fields in flat space-time of even dimension greater than or equal
+to four are studied. Second-derivative formulation for spin 0,1,2 conformal
+bosonic fields and first-derivative formulation for spin 1/2,3/2 conformal
+fermionic fields are developed. For the spin 1,3/2,2 conformal fields, we
+obtain gauge invariant Lagrangians and the corresponding gauge transformations.
+Gauge symmetries are realized by involving Stueckelberg fields and auxiliary
+fields. Realization of global conformal boost symmetries is obtained. Modified
+Lorentz and de Donder gauge conditions are introduced. Ordinary-derivative
+Lagrangian of interacting Weyl gravity in 4d is obtained. In our approach, the
+field content of Weyl gravity, in addition to conformal graviton field,
+includes one auxiliary rank-2 symmetric tensor field and one Stueckelberg
+vector field. With respect to the auxiliary tensor field, the Lagrangian
+contains, in addition to other terms, the Pauli-Fierz mass term. Using the
+ordinary-derivative Lagrangian of Weyl gravity, we discuss interrelation of
+Einstein AdS gravity and Weyl gravity via breaking conformal gauge symmetries.
+Also, we demonstrate use of the light-cone gauge for counting on-shell degrees
+of freedom in higher-derivative conformal field theories.

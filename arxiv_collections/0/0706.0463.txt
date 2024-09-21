@@ -1,0 +1,19 @@
+The existence of a singularity by definition implies a preferred scale--the
+affine parameter distance from/to the singularity of a causal geodesic that is
+used to define it. However, this variable scale is also captured by the
+expansion along the geodesic, and this can be used to obtain a regularized
+state space picture by means of a conformal transformation that factors out the
+expansion. This leads to the conformal `Hubble-normalized' orthonormal frame
+approach which allows one to translate methods and results concerning spatially
+homogeneous models into the generic inhomogeneous context, which in turn
+enables one to derive the dynamical nature of generic cosmological
+singularities. Here we describe this approach and outline the derivation of the
+`cosmological billiard attractor,' which describes the generic dynamical
+asymptotic behavior towards a generic spacelike singularity. We also compare
+the `dynamical systems picture' resulting from this approach with other work on
+generic spacelike singularities: the metric approach of Belinskii, Lifschitz,
+and Khalatnikov, and the recent Iwasawa based Hamiltonian method used by
+Damour, Henneaux, and Nicolai; in particular we show that the cosmological
+billiards obtained by the latter and the cosmological billiard attractor form
+complementary `dual' descriptions of the generic asymptotic dynamics of generic
+spacelike singularities.

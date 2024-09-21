@@ -1,0 +1,12 @@
+Gaseous detectors are fundamental components of all present and planned high
+energy physics experiments.
+  Over the past decade two representatives (GEM, Micromegas) of the
+Micro-Pattern Gas Detector (MPGD) concept have become increasingly important;
+the high radiation resistance and excellent spatial and time resolution make
+them an invaluable tool to confront future detector challenges at the next
+generation of colliders.
+  Novel structures where GEM and Micromegas are directly coupled to the CMOS
+multi-pixel readout represent an exciting field and allow to reconstruct
+fine-granularity, two-dimensional images of physics events. Originally
+developed for the high energy physics, MPGD applications have expanded to
+astrophysics, neutrino physics, neutron detection and medical imaging.

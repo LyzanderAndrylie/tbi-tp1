@@ -1,0 +1,13 @@
+Planetary systems consisting of one star and n planets with equal planet
+masses \mu and scaled orbital separation are referred as EMS systems. They
+represent an ideal model for planetary systems during the post-oligarchic
+evolution. Through the calculation of Lyapunov exponents, we study the boundary
+between chaotic and regular regions of EMS systems. We find that for n > 2,
+there does not exist a transition region in the initial separation space,
+whereas for n=2, a clear borderline occurs with relative separation ~ \mu^{2/7}
+due to overlap of resonances (Wisdom, 1980). This phenomenon is caused by the
+slow diffusion of velocity dispersion (~ t^{1/2}, t is the time) in planetary
+systems with n >2, which leads to chaotic motions at the time of roughly two
+orders of magnitude before the orbital crossing occurs.
+  This result does not conflict with the existence of transition boundary in
+the full phase space of N-body systems.

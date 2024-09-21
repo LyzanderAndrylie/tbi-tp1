@@ -1,0 +1,13 @@
+It is shown that a relativistic multiple scattering theory for hadron-nucleus
+scattering can be consistently formulated in four-dimensions in the context of
+meson exchange. We give a multiple scattering series for the optical potential
+and discuss the differences between the relativistic and non-relativistic
+versions. We develop the relativistic multiple scattering series by separating
+out the one boson exchange term from the rest of the Feynman series. However
+this particular separation is not absolutely necessary and we discuss how to
+include other terms. We then show how to make a three-dimensional reduction for
+hadron-nucleus scattering calculations and we find that the relative energy
+prescription used in the elastic scattering equation should be consistent with
+the one used in the free two-body t-matrix involved in the optical potential.
+We also discuss what assumptions are involved in making a Dirac Relativistic
+Impulse Approximation (RIA).

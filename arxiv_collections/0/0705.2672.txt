@@ -1,0 +1,21 @@
+Following the recent insight in the material structure of comets,
+protoplanetesimals are assumed to have low densities and to be highly porous
+agglomerates. It is still unclear if planetesimals can be formed from these
+objects by collisional growth. Therefore, it is important to study numerically
+the collisional outcome from low velocity impacts of equal sized porous
+agglomerates which are too large to be examined in a laboratory experiment. We
+use the Lagrangian particle method Smooth Particle Hydrodynamics to solve the
+equations that describe the dynamics of elastic and plastic bodies.
+Additionally, to account for the influence of porosity, we follow a previous
+developed equation of state and certain relations between the material strength
+and the relative density. Collisional growth seems possible for rather low
+collision velocities and particular material strengths. The remnants of
+collisions with impact parameters that are larger than 50% of the radius of the
+colliding objects tend to rotate. For small impact parameters, the colliding
+objects are effectively slowed down without a prominent compaction of the
+porous structure, which probably increases the possibility for growth. The
+protoplanetesimals, however, do not stick together for the most part of the
+employed material strengths. An important issue in subsequent studies has to be
+the influence of rotation to collisional growth. Moreover, for realistic
+simulations of protoplanetesimals it is crucial to know the correct material
+parameters in more detail.

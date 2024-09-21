@@ -1,0 +1,9 @@
+By explicitly representing the reaction times of discrete chemical systems as
+the firing times of independent, unit rate Poisson processes, we develop a new
+adaptive tau-leaping procedure. The procedure developed is novel in that
+accuracy is guaranteed by performing postleap checks. Because the
+representation we use separates the randomness of the model from the state of
+the system, we are able to perform the postleap checks in such a way that the
+statistics of the sample paths generated will not be biased by the rejections
+of leaps. Further, since any leap condition is ensured with a probability of
+one, the simulation method naturally avoids negative population values

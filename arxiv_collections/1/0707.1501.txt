@@ -1,0 +1,11 @@
+In this paper we discuss generic properties of "random subgroups" of a given
+group G. It turns out that in many groups G (even in most exotic of them) the
+random subgroups have a simple algebraic structure and they "sit" inside G in a
+very particular way. This gives a strong mathematical foundation for
+cryptanalysis of several group-based cryptosystems and indicates on how to
+chose "strong keys". To illustrate our technique we analyze the
+Anshel-Anshel-Goldfeld (AAG) cryptosystem and give a mathematical explanation
+of recent success of some heuristic length-based attacks on it. Furthermore, we
+design and analyze a new type of attacks, which we term the quotient attacks.
+Mathematical methods we develop here also indicate how one can try to choose
+"parameters" in AAG to foil the attacks.

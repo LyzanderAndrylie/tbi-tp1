@@ -1,0 +1,11 @@
+In this work we implement the self-consistent Thomas-Fermi model that also
+incorporates a local conductivity model to an electron-electron bilayer system,
+in order to describe novel magneto-transport properties such as the Drag
+Phenomenon. The model can successfully account for the poor screening of the
+potential within the incompressible strips and its impact on the interlayer
+Coulomb interaction. An externally applied current in the active layer results
+in the tilting of the Landau levels and built-up of a Hall potential across the
+layer, which, in turn, induces a tilted potential profile in the passive layer
+as well. We investigate the effect of the current intensity, temperature,
+magnetic field, and unequal density of layers on the self-consistent density
+and potential profiles of the bilayer system.

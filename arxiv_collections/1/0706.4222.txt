@@ -1,0 +1,10 @@
+We present a detailed analysis of meson-induced massive lepton (muon)
+Drell--Yan production for the process $\pi^{-}N\to\mu^{+}\mu^{-}X$, considering
+both an unpolarized nucleon target and longitudinally polarized protons. Using
+a QCD framework, we focus on the angular distribution of $\mu^+$, which is
+sensitive to the shape of the pion distribution amplitude, the goal being to
+test corresponding results against available experimental data. Predictions are
+made, employing various pion distribution amplitudes, for the azimuthal angle
+dependence of the $\mu^{+}$ distribution in the polarized case, relevant for
+the planned COMPASS experiment. QCD evolution is given particular attention in
+both considered cases.

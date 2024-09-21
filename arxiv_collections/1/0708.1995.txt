@@ -1,0 +1,22 @@
+The basis of synchronous manipulation of individual electrons in solid-state
+devices was laid by the rise of single-electronics about two decades ago.
+Ultra-small structures in a low temperature environment form an ideal domain of
+addressing electrons one by one. A long-standing challenge in this field has
+been the realization of a source of electric current that is accurately related
+to the operation frequency $f$. There is an urgent call for a quantum standard
+of electric current and for the so-called metrological triangle, where voltage
+from Josephson effect and resistance from quantum Hall effect are tested
+against current via Ohm's law for a consistency check of the fundamental
+constants of Nature, $\hbar$ and $e$. Several attempts to create a metrological
+current source that would comply with the demanding criteria of extreme
+accuracy, high yield, and implementation with not too many control parameters
+have been reported. However, no satisfactory solution exists as yet despite
+many ingenious achievements that have been witnessed over the years. Here we
+propose and prove the unexpected concept of a hybrid metal-superconductor
+turnstile in the form of a one-island single-electron transistor with one gate,
+which demonstrates robust current plateaus at multiple levels of $ef$ within
+the uncertainty of our current measurement. Our theoretical estimates show that
+the errors of the present system can be efficiently suppressed by further
+optimizations of design and proper choice of the device parameters and
+therefore we expect it to eventually meet the stringent specifications of
+quantum metrology.

@@ -1,0 +1,13 @@
+We address existence of moving gap solitons (traveling localized solutions)
+in the Gross-Pitaevskii equation with a small periodic potential. Moving gap
+solitons are approximated by the explicit localized solutions of the
+coupled-mode system. We show however that exponentially decaying traveling
+solutions of the Gross-Pitaevskii equation do not generally exist in the
+presence of a periodic potential due to bounded oscillatory tails ahead and
+behind the moving solitary waves. The oscillatory tails are not accounted in
+the coupled-mode formalism and are estimated by using techniques of spatial
+dynamics and local center-stable manifold reductions. Existence of bounded
+traveling solutions of the Gross--Pitaevskii equation with a single bump
+surrounded by oscillatory tails on a finite large interval of the spatial scale
+is proven by using these technique. We also show generality of oscillatory
+tails in other nonlinear equations with a periodic potential.

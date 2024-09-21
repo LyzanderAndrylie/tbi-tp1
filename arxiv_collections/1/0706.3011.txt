@@ -1,0 +1,16 @@
+We evaluate the nucleon axial form factor, $G_A(q^2)$, and induced
+pseudoscalar form factor, $G_p(q^2)$, as well as the pion-nucleon form factor,
+$G_{\pi N N}(q^2)$, in lattice QCD. We also evaluate the corresponding nucleon
+to $\Delta$ transition form factors, $C_5^A(q^2)$ and $C_6^A(q^2)$, and the
+pion-nucleon-$\Delta$ form factor $G_{\pi N\Delta}(q^2)$. The nucleon form
+factors are evaluated in the quenched theory and with two degenerate flavors of
+dynamical Wilson fermions. The nucleon to $\Delta$ form factors, besides Wilson
+fermions, are evaluated using domain wall valence fermions with staggered sea
+quark configurations for pion masses as low as about 350 MeV. Using these form
+factors, together with an evaluation of the renormalized quark mass, we
+investigate the validity of the diagonal and non-diagonal Goldberger-Treiman
+relations. The ratios $G_{\pi N\Delta}(q^2)/G_{\pi NN}(q^2)$ and
+$2C_5^A(q^2)/G_A(q^2)$ are constant as a function of the momentum transfer
+squared and show almost no dependence on the quark mass. We confirm equality of
+these two ratios consistent with the Goldberger-Treiman relations extracting a
+mean value of $1.61(2)$.

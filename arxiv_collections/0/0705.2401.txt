@@ -1,0 +1,10 @@
+We describe a technique for mapping the spatial variation of static electric,
+static magnetic, and rf magnetic fields using a pulsed atomic or molecular
+beam. The method is demonstrated using a beam designed to measure the electric
+dipole moment of the electron. We present maps of the interaction region,
+showing sensitivity to (i) electric field variation of 1.5 V/cm at 3.3 kV/cm
+with a spatial resolution of 15 mm; (ii) magnetic field variation of 5 nT with
+25 mm resolution; (iii) radio-frequency magnetic field amplitude with 15 mm
+resolution. This new diagnostic technique is very powerful in the context of
+high-precision atomic and molecular physics experiments, where pulsed beams
+have not hitherto found widespread application.

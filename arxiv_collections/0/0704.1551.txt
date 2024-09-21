@@ -1,0 +1,12 @@
+The quantum Zeno effect arises due to frequent observation. That implies the
+existence of some experimenter and its interaction with the system. In this
+contribution, we examine what happens for a closed system if one considers a
+quantum Zeno type of question, namely: "what is the probability of a system,
+remaining always in a particular subspace". This has implications to the
+arrival time problem that is also discussed. We employ the decoherent histories
+approach to quantum theory, as this is the better developed formulation of
+closed system quantum mechanics, and in particular, dealing with questions that
+involve time in a non-trivial way. We get a very restrictive decoherence
+condition, that implies that even if we do introduce an environment, there will
+be very few cases that we can assign probabilities to these histories, but in
+those cases, the quantum Zeno effect is still present.

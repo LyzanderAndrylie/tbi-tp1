@@ -1,0 +1,9 @@
+In this note we consider three issues related to the unitary Fermi gas in a
+harmonic trap. We present a short proof of a virial theorem, which states that
+the average energy of a particle system at unitarity in a harmonic trap is
+twice larger than the average potential energy. The theorem is valid for all
+systems with no intrinsic scale, at zero or finite temperature. We discuss the
+odd-even splitting in a unitarity Fermi gas in a harmonic trap. We show that at
+large number of particles N the odd-even splitting is proportional to
+N^{1/9}\hbar\omega, with an undetermined numerical constant. We also show that
+for odd N the lowest excitation energies are of order N^{-1/3}\hbar\omega.

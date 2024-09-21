@@ -1,0 +1,17 @@
+We consider an unambiguous identification of an unknown coherent state with
+one of two unknown coherent reference states. Specifically, we consider two
+modes of an electromagnetic field prepared in unknown coherent states alpha_1
+and alpha_2, respectively. The third mode is prepared either in the state
+alpha_1 or in the state alpha_2. The task is to identify (unambiguously) which
+of the two modes are in the same state. We present a scheme consisting of three
+beamsplitters capable to perform this task. Although we don't prove the
+optimality, we show that the performance of the proposed setup is better than
+the generalization of the optimal measurement known for a finite-dimensional
+case. We show that a single beamsplitter is capable to perform an unambiguous
+quantum state comparison for coherent states optimally. Finally we propose an
+experimental setup consisting of 2N-1 beamsplitters for unambiguous
+identification among N unknown coherent states. This setup can be considered as
+a search in a quantum database. The elements of the database are unknown
+coherent states encoded in different modes of an electromagnetic field. The
+task is to specify the two modes that are excited in the same, though unknown,
+coherent state.

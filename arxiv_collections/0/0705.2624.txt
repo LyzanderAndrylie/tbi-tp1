@@ -1,0 +1,9 @@
+We analyze resonant tunneling subject to a non-adiabatic time-dependent
+bias-voltage through an asymmetric single molecular quantum dot with coupling
+between the electronic and vibrational degrees of freedom using a {\em
+Tien-Gordon-type} rate equation. Our results clearly exhibit the appearance of
+photon-assisted satellites in the current-voltage characteristics and the
+elimination of hot-phonon-induced negative differential conductance with
+increasing ac driving amplitude for an asymmetric system. This can be ascribed
+to an {\em ac-induced suppression} of unequilibrated (hot) phonons in an
+asymmetric system.

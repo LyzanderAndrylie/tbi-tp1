@@ -1,0 +1,8 @@
+We study the flow response to an externally imposed homogeneous magnetic
+field in a turbulent swirling flow of liquid sodium -- the VKS2 experiment in
+which magnetic Reynolds numbers Rm up to 50 are reached. Induction effects are
+larger than in the former VKS1 experiment. At Rm larger than about 25, the
+local amplitude of induced field components supersedes that of the applied
+field, and exhibits non-Gaussian fluctuations. Slow dynamical instationarities
+and low-frequency bimodal dynamics are observed in the induction, presumably
+tracing back to large scale fluctuations in the hydrodynamic flow.

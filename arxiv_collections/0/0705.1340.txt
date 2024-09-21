@@ -1,0 +1,18 @@
+A unified analytical framework for optimum power allocation in the unordered
+V-BLAST algorithm and its comparative performance analysis are presented.
+Compact closed-form approximations for the optimum power allocation are
+derived, based on average total and block error rates. The choice of the
+criterion has little impact on the power allocation and, overall, the optimum
+strategy is to allocate more power to lower step transmitters and less to
+higher ones. High-SNR approximations for optimized average block and total
+error rates are given. The SNR gain of optimization is rigorously defined and
+studied using analytical tools, including lower and upper bounds, high and low
+SNR approximations. The gain is upper bounded by the number of transmitters,
+for any modulation format and type of fading channel. While the average
+optimization is less complex than the instantaneous one, its performance is
+almost as good at high SNR. A measure of robustness of the optimized algorithm
+is introduced and evaluated. The optimized algorithm is shown to be robust to
+perturbations in individual and total transmit powers. Based on the algorithm
+robustness, a pre-set power allocation is suggested as a low-complexity
+alternative to the other optimization strategies, which exhibits only a minor
+loss in performance over the practical SNR range.

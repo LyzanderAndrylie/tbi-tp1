@@ -1,0 +1,6 @@
+We discuss various methods of all-optical spin control in semiconductor
+quantum dots. We present different ways of rotating a single confined electron
+spin by optical coupling to a trion state. We also discuss a method for
+controlling the polarization of a confined exciton via a two-photon transition.
+Finally, we analyze the effect of phonon-induced decoherence on the fidelity of
+these optical spin control protocols.

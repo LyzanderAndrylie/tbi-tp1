@@ -1,0 +1,13 @@
+Building a refrigerator based on the conversion of heat into optical energy
+is an ongoing engineering challenge. Under well-defined conditions, spontaneous
+anti-Stokes fluorescence of a dopant material in a host matrix is capable of
+lowering the host temperature. The fluorescence is conveying away a part of the
+thermal energy stored in the vibrational oscillations of the host lattice. In
+particular, applying this principle to the cooling of (solid-state) lasers
+opens up many potential device applications, especially in the domain of
+high-power lasers. In this paper, an alternative optical cooling scheme is
+outlined, leading to radiative cooling of solid-state lasers. It is based on
+converting the thermal energy stored in the host, into optical energy by means
+of a stimulated nonlinear process, rather than a spontaneous process. This
+should lead to better cooling efficiencies and a higher potential of applying
+the principle for device applications.

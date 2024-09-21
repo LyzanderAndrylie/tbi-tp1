@@ -1,0 +1,14 @@
+The increasing interest in the Mueller density-matrix-functional theory has
+led us to a systematic mathematical investigation of its properties. This
+functional is similar to the Hartree-Fock functional, but with a modified
+exchange term in which the square of the density matrix \gamma(X, X') is
+replaced by the square of \gamma^{1/2}(X, X'). After an extensive introductory
+discussion of density-matrix-functional theory we show, among other things,
+that this functional is convex (unlike the HF functional) and that energy
+minimizing \gamma's have unique densities \rho(x), which is a physically
+desirable property often absent in HF theory. We show that minimizers exist if
+N \leq Z, and derive various properties of the minimal energy and the
+corresponding minimizers. We also give a precise statement about the equation
+for the orbitals of \gamma, which is more complex than for HF theory. We state
+some open mathematical questions about the theory together with conjectured
+solutions.

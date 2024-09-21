@@ -1,0 +1,6 @@
+An elastic surface model is investigated by using the canonical Monte Carlo
+simulation technique on triangulated spherical meshes. The model undergoes a
+first-order collapsing transition and a continuous surface fluctuation
+transition. The shape of surfaces is maintained by a one-dimensional bending
+energy, which is defined on the mesh, and no two-dimensional bending energy is
+included in the Hamiltonian.

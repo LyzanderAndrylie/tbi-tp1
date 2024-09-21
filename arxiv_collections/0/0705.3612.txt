@@ -1,0 +1,13 @@
+We investigate the hydrodynamic interactions between microorganisms swimming
+at low Reynolds number. By considering simple model swimmers, and combining
+analytic and numerical approaches, we investigate the time-averaged flow field
+around a swimmer. At short distances the swimmer behaves like a pump. At large
+distances the velocity field depends on whether the swimming stroke is
+invariant under a combined time-reversal and parity transformation. We then
+consider two swimmers and find that the interaction between them consists of
+two parts; a dead term, independent of the motion of the second swimmer, which
+takes the expected dipolar form and a live term resulting from the simultaneous
+swimming action of both swimmers which does not. We argue that, in general, the
+latter dominates. The swimmer--swimmer interaction is a complicated function of
+their relative displacement, orientation and phase, leading to motion that can
+be attractive, repulsive or oscillatory.

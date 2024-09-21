@@ -1,0 +1,14 @@
+We have obtained the exact asymptotics of the determinant $\det_{1\leq
+r,s\leq L}[\binom{r+s-2}{r-1}+\exp(i\theta)\delta_{r,s}]$. Inverse symbolic
+computing methods were used to obtain exact analytical expressions for all
+terms up to relative order $L^{-14}$ to the leading term. This determinant is
+known to give weighted enumerations of cyclically symmetric plane partitions,
+weighted enumerations of certain families of vicious walkers and it has been
+conjectured to be proportional to the one point function of the O$(1)$ loop
+model on a cylinder of circumference $L$. We apply our result to the loop model
+and give exact expressions for the asymptotics of the average of the number of
+loops surrounding a point and the fluctuation in this number. For the related
+bond percolation model, we give exact expressions for the asymptotics of the
+probability that a point is on a cluster that wraps around a cylinder of even
+circumference and the probability that a point is on a cluster spanning a
+cylinder of odd circumference.

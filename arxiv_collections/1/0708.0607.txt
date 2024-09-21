@@ -1,0 +1,9 @@
+We have developed a monitoring and control system for LIPI's Public Cluster.
+The system consists of microcontrollers and full web-based user interfaces for
+daily operation. It is argued that, due to its special natures, the cluster
+requires fully dedicated and self developed control and monitoring system. We
+discuss the implementation of using parallel port and dedicated
+micro-controller for this purpose. We also show that integrating such systems
+enables an autonomous control system based on the real time monitoring, for
+instance an autonomous power supply control based on the actual temperature,
+etc.

@@ -1,0 +1,6 @@
+Phase shifts for single-channel elastic electron-atom scattering are derived
+from time-dependent density functional theory. The H$^-$ ion is placed in a
+spherical box, its discrete spectrum found, and phase shifts deduced.
+Exact-exchange yields an excellent approximation to the ground-state Kohn-Sham
+potential, while the adiabatic local density approximation yields good singlet
+and triplet phase shifts.

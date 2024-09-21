@@ -1,0 +1,10 @@
+A fundamental assumption in our understanding of material rheology is that
+when microscopic deformations are reversible, the material responds elastically
+to external loads. Plasticity, i.e. dissipative and irreversible macroscopic
+changes in a material, is assumed to be the consequence of irreversible
+microscopic events. Here we show direct evidence for reversible plastic events
+at the microscopic scale in both experiments and simulations of two-dimensional
+foam. In the simulations, we demonstrate a link between reversible plastic
+rearrangement events and pathways in the potential energy landscape of the
+system. These findings represent a fundamental change in our understanding of
+materials--microscopic reversibility does not necessarily imply elasticity.

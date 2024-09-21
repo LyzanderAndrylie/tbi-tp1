@@ -1,0 +1,22 @@
+The experimental literature on the motion of mesoscopic probe particles
+through polymer solutions is systematically reviewed. The primary focus is the
+study of diffusive motion of small probe particles. Comparison is made with
+measurements of solution viscosities. A coherent description was obtained,
+namely that the probe diffusion coefficient generally depends on polymer
+concentration as D_p = D_0 exp(-alpha c^nu). One finds that alpha depends on
+polymer molecular weights as alpha ~ M^0.8, and \nu appears to have large-M and
+small-M values with a crossover linking them. The probe diffusion coefficient
+does not simply track the solution viscosity; instead, D_p eta typically
+increases markedly with increasing polymer concentration and molecular weight.
+In some systems, e.g., hydroxypropylcellulose:water, the observed probe spectra
+are bi- or tri-modal. Extended analysis of the full probe phenomenology implies
+that hydroxypropylcellulose solutions are characterized by a single,
+concentration-independent, length scale that is approximately the size of a
+polymer coil. In a very few systems, one sees re-entrant or
+low-concentration-plateau behaviors of uncertain interpretation; from their
+rarity, these behaviors are reasonably interpreted as corresponding to specific
+chemical effects. True microrheological studies examining the motion of
+mesoscopic particles under the influence of a known external force are also
+examined. Viscosity from true microrheological measurements is in many cases
+substantially smaller than the viscosity measured with a macroscopic
+instrument.

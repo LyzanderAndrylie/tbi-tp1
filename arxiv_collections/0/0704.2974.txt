@@ -1,0 +1,11 @@
+We investigate relaxation and dephasing of an electron spin confined in a
+semiconductor quantum dot and subject to spin-orbit coupling. Even in vanishing
+magnetic field, B = 0, slow noise coupling to the electron's orbital degree of
+freedom leads to dephasing of the spin due to a random, in general non-Abelian
+Berry phase acquired by the spin. For illustration we first present a simple
+quasiclassical description, then consider a model with 2 orbital states only,
+and finally present a perturbative quantum treatment appropriate for an
+electron in a realistic (roughly parabolic, not too strongly confining) quantum
+dot. We further compare the effect of different sources of noise. While at
+large magnetic fields phonons dominate the relaxation processes, at low fields
+electron-hole excitations and possibly 1/f noise may dominate.

@@ -1,0 +1,20 @@
+We present the preliminary results from two new surveys of blazars that have
+direct implications on the GLAST detection of extragalactic sources from two
+different perspectives: microwave selection and a combined deep X-ray/radio
+selection. The first one is a 41 GHz flux-limited sample extracted from the
+WMAP 3-yr catalog of microwave point sources. This is a statistically well
+defined sample of about 200 blazars and radio galaxies, most of which are
+expected to be detected by GLAST. The second one is a new deep survey of
+Blazars selected among the radio sources that are spatially coincident with
+serendipitous sources detected in deep X-ray images (0.3-10 keV) centered on
+the Gamma Ray Bursts (GRB) discovered by the Swift satellite. This sample is
+particularly interesting from a statistical viewpoint since a) it is unbiased
+as GRBs explode at random positions in the sky, b) it is very deep in the X-ray
+band (\fx \simgt $10^{-15}$ \ergs) with a position accuracy of a few
+arc-seconds, c) it will cover a fairly large (20-30 square deg.) area of sky,
+d) it includes all blazars with radio flux (1.4 GHz) larger than 10 mJy, making
+it approximately two orders of magnitude deeper than the WMAP sample and about
+one order of magnitude deeper than the deepest existing complete samples of
+radio selected blazars, and e) it can be used to estimate the amount of
+unresolved GLAST high latitude gamma-ray background and its anisotropy
+spectrum.

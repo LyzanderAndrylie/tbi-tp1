@@ -1,0 +1,20 @@
+[Abridged] We have studied the optical spectra of 28 O- and early B-type
+stars in the Large Magellanic Cloud, 22 of which are associated with the young
+star-forming region N11. Stellar parameters are determined using an automated
+fitting method, combining the stellar atmosphere code FASTWIND with the
+genetic-algorithm optimisation routine PIKAIA. Results for stars in the LH9 and
+LH10 associations of N11 are consistent with a sequential star formation
+scenario, in which activity in LH9 triggered the formation of LH10. Our sample
+contains four stars of spectral type O2, of which the hottest is found to be
+~49-54 kK (cf. ~45-46 kK for O3 stars). The masses of helium-enriched dwarfs
+and giants are systematically lower than those implied by non-rotating
+evolutionary tracks. We interpret this as evidence for efficient
+rotationally-enhanced mixing, leading to the surfacing of primary helium and to
+an increase of the stellar luminosity. This result is consistent with findings
+for SMC stars by Mokiem et al. For bright giants and supergiants no such
+mass-discrepancy is found, implying that these stars follow tracks of modestly
+(or non-)rotating objects. Stellar mass-loss properties were found to be
+intermediate to those found in massive stars in the Galaxy and the SMC, and
+comparisons with theoretical predictions at LMC metallicity yielded good
+agreement over the luminosity range of our targets, i.e. 5.0 < log L/L(sun) <
+6.1.

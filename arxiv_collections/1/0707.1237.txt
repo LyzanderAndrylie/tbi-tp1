@@ -1,0 +1,14 @@
+Quantum Antidot (AD) structures have remarkable properties in the integer
+quantum Hall regime, exhibiting Coulomb-blockade charging and the Kondo effect
+despite their open geometry. In some regimes a simple single-particle (SP)
+model suffices to describe experimental observations while in others
+interaction effects are clearly important, although exactly how and why
+interactions emerge is unclear. We present a combination of experimental data
+and the results of new calculations concerning SP orbital states which show how
+the observed suppression of the energy spacing between states can be explained
+through a full consideration of the AD potential, without requiring any effects
+due to electron interactions such as the formation of compressible regions
+composed of multiple states, which may occur at higher magnetic fields. A full
+understanding of the regimes in which these effects occur is important for the
+design of devices to coherently manipulate electrons in edge states using AD
+resonances.

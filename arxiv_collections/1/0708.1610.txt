@@ -1,0 +1,8 @@
+We electron-dope single crystal samples of SrTiO_3 by exposing them to Ar^+
+irradiation and observe carrier mobility similar in its magnitude and
+temperature dependence to the carrier mobility in other electron-doped SrTiO3
+systems. We find that some transport properties are time-dependent. In
+particular, the sheet resistance increases with time at a temperature-dependent
+rate, suggesting an activation barrier on the order of 1 eV. We attribute the
+relaxation effects to diffusion of oxygen vacancies - a process with energy
+barrier similar to the observed activation energy.

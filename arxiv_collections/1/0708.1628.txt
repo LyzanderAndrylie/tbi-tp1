@@ -1,0 +1,9 @@
+The length of minimal and maximal blocks equally distant on log-log scale
+versus fluctuation function considerably influences bias and variance of DFA.
+Through a number of extensive Monte Carlo simulations and different fractional
+Brownian motion/fractional Gaussian noise generators, we found the pair of
+minimal and maximal blocks that minimizes the sum of mean-squared error of
+estimated Hurst exponents for the series of length N=2^p, p=7,...,15.
+Sensitivity of DFA to sort-range correlations was examined using ARFIMA(p,d,q)
+generator. Due to the bias of the estimator for anti-persistent processes, we
+narrowed down the range of Hurst exponent to 1/2<=H< 1.

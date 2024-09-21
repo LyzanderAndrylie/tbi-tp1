@@ -1,0 +1,18 @@
+A quantum control landscape is defined as the observable as a function(al) of
+the system control variables. Such landscapes were introduced to provide a
+basis to understand the increasing number of successful experiments controlling
+quantum dynamics phenomena. This paper extends the concept to encompass the
+broader context of the environment having an influence. For the case that the
+open system dynamics are fully controllable, it is shown that the control
+landscape for open systems can be lifted to the analysis of an equivalent
+auxiliary landscape of a closed composite system that contains the
+environmental interactions. This inherent connection can be analyzed to provide
+relevant information about the topology of the original open system landscape.
+Application to the optimization of an observable expectation value reveals the
+same landscape simplicity observed in former studies on closed systems. In
+particular, no false sub-optimal traps exist in the system control landscape
+when seeking to optimize an observable, even in the presence of complex
+environments. Moreover, a quantitative study of the control landscape of a
+system interacting with a thermal environment shows that the enhanced
+controllability attainable with open dynamics significantly broadens the range
+of the achievable observable values over the control landscape.

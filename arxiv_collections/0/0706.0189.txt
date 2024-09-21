@@ -1,0 +1,17 @@
+Most ocean models in current use are built upon structured meshes. It follows
+that most existing tools for extracting diagnostic quantities (volume and
+surface integrals, for example) from ocean model output are constructed using
+techniques and software tools which assume structured meshes. The greater
+complexity inherent in unstructured meshes (especially fully unstructured grids
+which are unstructured in the vertical as well as the horizontal direction) has
+left some oceanographers, accustomed to traditional methods, unclear on how to
+calculate diagnostics on these meshes. In this paper we show that tools for
+extracting diagnostic data from the new generation of unstructured ocean models
+can be constructed with relative ease using open source software. Higher level
+languages such as Python, in conjunction with packages such as NumPy, SciPy,
+VTK and MayaVi, provide many of the high-level primitives needed to perform 3D
+visualisation and evaluate diagnostic quantities, e.g. density fluxes. We
+demonstrate this in the particular case of calculating flux of vector fields
+through isosurfaces, using flow data obtained from the unstructured mesh finite
+element ocean code ICOM, however this tool can be applied to model output from
+any unstructured grid ocean code.

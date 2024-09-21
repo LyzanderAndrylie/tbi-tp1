@@ -1,0 +1,13 @@
+The ordered addition of two Lorentz boosts is normally shown to result in a
+boost by utilizing concepts from group theory and non-Euclidian geometry. We
+present a method for achieving this addition by performing a sequence of
+spatial rotations and uni-dimensional Lorentz transformations. The method is
+first developed for two-dimensional space and it is then extended to
+three-dimensional space by utilizing the commutative property of the rotation
+of the y-z plane and a boost along the x-axis. The method employs only matrix
+multiplication and certain invariant quantities that are natural consequences
+of spatial rotations and Lorentz transformations. The combining of two boosts
+in different directions into a single boost cannot be expected a priori because
+we show that the converse of this statement is not true. That is, two rotations
+interspersed with a boost cannot always be reduced to a single rotation
+preceded and followed by boosts.

@@ -1,0 +1,11 @@
+We report on the kinetics of a low-temperature gas of indirect excitons in
+the optically-induced exciton trap. The excitons in the region of laser
+excitation are found to rapidly -- within 4 ns -- cool to the lattice
+temperature T = 1.4 K, while the excitons at the trap center are found to be
+cold -- essentially at the lattice temperature -- even during the excitation
+pulse. The loading time of excitons to the trap center is found to be about 40
+ns, longer than the cooling time yet shorter than the lifetime of the indirect
+excitons. The observed time hierarchy is favorable for creating a dense and
+cold exciton gas in optically-induced traps and for in situ control of the gas
+by varying the excitation profile in space and time before the excitons
+recombine.

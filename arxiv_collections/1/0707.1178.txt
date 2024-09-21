@@ -1,0 +1,9 @@
+We present a quantum multi-modal treatment describing Electromagnetically
+Induced Transparency (EIT) as a mechanism for storing continuous variable
+quantum information in light fields. Taking into account the atomic noise and
+decoherences of realistic experiments, we model numerically the propagation,
+storage, and readout of signals contained in the sideband amplitude and phase
+quadratures of a light pulse. An analytical treatment of the effects predicted
+by this more sophisticated model is then presented. Finally, we use quantum
+information benchmarks to examine the properties of the EIT-based memory and
+show the parameters needed to operate beyond the quantum limit.

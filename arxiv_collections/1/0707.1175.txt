@@ -1,0 +1,6 @@
+It is known that Green's formula over finite fields gives rise to the
+comultiplications of Ringel-Hall algebras and quantum groups (see\cite{Green},
+also see \cite{Lusztig}). In this paper, we deduce the projective version of
+Green's formula in a geometric way. Then following the method of Hubery in
+\cite{Hubery2005}, we apply this formula to proving Caldero-Keller's
+multiplication formula for acyclic cluster algebras of arbitrary type.

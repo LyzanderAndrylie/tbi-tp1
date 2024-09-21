@@ -1,0 +1,11 @@
+In this paper we present an improved process for producing elastomer
+transistor stamps and high-mobility organic field-effect transistors (FETs)
+based on semiconducting acene molecular crystals. In particular, we have
+removed the need to use a silanized Si wafer for curing the stamps and to
+handle a fragile micron-thickness polydimethylsiloxane (PDMS) insulating film
+and laminate it, bubble free, against the PDMS transistor stamp. We find that
+despite the altered design, rougher PDMS surface, and lamination and
+measurement of the device in air, we still achieve electrical mobilities of
+order 10 cm^2/Vs, comparable to the current state of the art in organic FETs.
+Our device shows hole conduction with a threshold voltage of order -9V, which
+corresponds to a trap density of 1.4 x 10^10 cm^-2.

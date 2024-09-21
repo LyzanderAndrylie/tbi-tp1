@@ -1,0 +1,9 @@
+Engineering software systems is a multidisciplinary activity, whereby a
+number of artifacts must be created - and maintained - synchronously. In this
+paper we investigate whether production code and the accompanying tests
+co-evolve by exploring a project's versioning system, code coverage reports and
+size-metrics. Three open source case studies teach us that testing activities
+usually start later on during the lifetime and are more "phased", although we
+did not observe increasing testing activity before releases. Furthermore, we
+note large differences in the levels of test coverage given the proportion of
+test code.

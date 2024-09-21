@@ -1,0 +1,9 @@
+We find a general formula for the distribution of time-averaged observables
+for systems modeled according to the sub-diffusive continuous time random walk.
+For Gaussian random walks coupled to a thermal bath we recover ergodicity and
+Boltzmann's statistics, while for the anomalous subdiffusive case a weakly
+non-ergodic statistical mechanical framework is constructed, which is based on
+L\'evy's generalized central limit theorem. As an example we calculate the
+distribution of $\bar{X}$: the time average of the position of the particle,
+for unbiased and uniformly biased particles, and show that $\bar{X}$ exhibits
+large fluctuations compared with the ensemble average $<X>$.

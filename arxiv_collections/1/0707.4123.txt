@@ -1,0 +1,11 @@
+We study systematic errors of the ground-state parameters obtained by
+Shifman-Vainshtein-Zakharov (SVZ) sum rules, making use of the
+harmonic-oscillator potential model as an example. In this case, one knows the
+exact solution for the polarization operator, which allows one to obtain both
+the OPE to any order and the parameters (masses and decay constants) of the
+bound states. We determine the parameters of the ground state making use of the
+standard procedures of the method of sum rules, and compare the obtained
+results with the known exact values. We show that in the situation when the
+continuum contribution to the polarization operator is not known and is
+modelled by an effective continuum, the method of sum rules does not allow to
+control the systematic uncertainties of the extracted ground-state parameters.

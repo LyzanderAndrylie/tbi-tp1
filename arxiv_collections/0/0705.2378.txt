@@ -1,0 +1,24 @@
+We detected X-ray emission from the 50-kyr-old pulsar J1809-1917 and resolved
+its pulsar wind nebula (PWN) with Chandra. The pulsar spectrum fits PL+BB model
+with the photon index of 1.2 and the BB temperature of 2 MK for n_{H}=0.7\times
+10^{22} cm^{-2}. The luminosities are(4\pm 1)\times 10^{31} ergs s^{-1} for the
+PL component (in the 0.5-8 keV band) and ~1\times 10^{32} ergs s^{-1} for the
+BB component (bolometric) at a plausible distance of 3.5 kpc. The bright inner
+PWN component of a 3''\times12'' size is elongated in the north-south
+direction, with the pulsar close to its south end. This component is immersed
+in a larger (20''\times40''), similarly elongated outer PWN component of lower
+surface brightness. The elongated shape of the compact PWN can be explained by
+the ram pressure confinement of the pulsar wind due to the supersonic motion of
+the pulsar. The PWN spectrum fits a PL model with photon index of 1.4\pm0.1 and
+0.5-8 keV luminosity of 4\times10^{32} ergs s^{-1}. The compact PWN appears to
+be inside a large-scale (~4'\times4') emission more extended to the south of
+the pulsar, i.e. in the direction of the alleged pulsar motion. To explain the
+extended X-ray emission ahead of the moving pulsar, one has to invoke strong
+intrinsic anisotropy of the pulsar wind or assume that this emission comes from
+a relic PWN swept by the asymmetrical reverse SNR shock. The pulsar and its PWN
+are located within the extent of the unidentified TeV source HESS J1809-193
+whose brightest part is offset by ~8' to the south of the pulsar, i.e. in the
+same direction as the large-scale X-ray emission. Although the association
+between J1809-1917 and HESS J1809-193 is plausible, an alternative source of
+relativistic electrons powering HESS J1809-193 might be the serendipitously
+discovered X-ray source CXOU J180940.7-192544.

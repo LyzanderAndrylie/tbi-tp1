@@ -1,0 +1,6 @@
+We use Beck's quasi-additivity of Tsallis entropies for $n$ independent
+subsystems to show that like the case of $n=2$, the entropic index $q$
+approaches 1 by increasing system size. Then, we will generalize that concept
+to correlated subsystems to find that in the case of correlated subsystems,
+when system size increases, $q$ also approaches a value corresponding to the
+additive case.

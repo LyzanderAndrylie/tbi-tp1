@@ -1,0 +1,15 @@
+We review in generality why time-independent endstates can be reached in
+black hole and collapse simulations, with and without excision. We characterise
+the Killing states of the Bona-Masso slicing condition with time derivative
+along the normals to the slice ("BMn") as solutions of a mixed
+elliptic/hyperbolic differential equation on the slice. We show numerically
+that these steady states can be reached as end states from typical initial data
+with excision but can be reached with the puncture method only if the puncture
+is not numerically well resolved. During the evolution, BMn slicings often form
+gauge shocks. It may be that these are not seen in current 3D simulations only
+through lack of resolution, although we expect that they can be avoided with
+some care. Finally we point out that excision with BMn as currently implemented
+is ill-posed and therefore not expected to converge; this can be cured. In
+technical appendixes, we derive the equations of pure gauge systems on a fixed
+spacetime, and bring the BSSN/NOR equations into 3-dimensional tensor form
+suitable for multiple coordinate patches or spherical polar coordinates.

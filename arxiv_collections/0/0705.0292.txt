@@ -1,0 +1,8 @@
+We investigate the relation between the scaling of block entropies and the
+efficient simulability by Matrix Product States (MPS), and clarify the
+connection both for von Neumann and Renyi entropies (see Table I). Most
+notably, even states obeying a strict area law for the von Neumann entropy are
+not necessarily approximable by MPS. We apply these results to illustrate that
+quantum computers might outperform classical computers in simulating the time
+evolution of quantum systems, even for completely translational invariant
+systems subject to a time independent Hamiltonian.

@@ -1,0 +1,19 @@
+We introduce a notion of left-symmetric bialgebra which is an analogue of the
+notion of Lie bialgebra. We prove that a left-symmetric bialgebra is equivalent
+to a symplectic Lie algebra with a decomposition into a direct sum of the
+underlying vector spaces of two Lagrangian subalgebras. The latter is called a
+parak\"ahler Lie algebra or a phase space of a Lie algebra in mathematical
+physics. We introduce and study coboundary left-symmetric bialgebras and our
+study leads to what we call "$S$-equation", which is an analogue of the
+classical Yang-Baxter equation. In a certain sense, the $S$-equation associated
+to a left-symmetric algebra reveals the left-symmetry of the products. We show
+that a symmetric solution of the $S$-equation gives a parak\"ahler Lie algebra.
+We also show that such a solution corresponds to the symmetric part of a
+certain operator called "${\cal O}$-operator", whereas a skew-symmetric
+solution of the classical Yang-Baxter equation corresponds to the
+skew-symmetric part of an ${\cal O}$-operator. Thus a method to construct
+symmetric solutions of the $S$-equation (hence parak\"ahler Lie algebras) from
+${\cal O}$-operators is provided. Moreover, by comparing left-symmetric
+bialgebras and Lie bialgebras, we observe that there is a clear analogue
+between them and, in particular, parak\"ahler Lie groups correspond to
+Poisson-Lie groups in this sense.

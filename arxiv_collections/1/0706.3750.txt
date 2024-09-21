@@ -1,0 +1,6 @@
+We provide a new characterization of convex geometries via a multivariate
+version of an identity that was originally proved by Maneva, Mossel and
+Wainwright for certain combinatorial objects arising in the context of the
+k-SAT problem. We thus highlight the connection between various
+characterizations of convex geometries and a family of removal processes
+studied in the literature on random structures.

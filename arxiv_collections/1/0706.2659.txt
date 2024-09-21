@@ -1,0 +1,14 @@
+This paper is concerned with the subduction problem of type A quantum
+Iwahori-Hecke algebras $\mathbb{C} \mathbf{H}(\mathfrak{S}_f,q^2)$ with a real
+deformation parameter $q$, i.e. the problem of decomposing irreducible
+representations of such algebras as direct sum of irreducible representations
+of the subalgebras $\mathbb{C}\mathbf{H}(\mathfrak{S}_{f_1}, q^2) \times
+\mathbb{C}\mathbf{H}(\mathfrak{S}_{f_2}, q^2)$, with $f_1 + f_2 = f$. After
+giving a suitable combinatorial description for the subduction issue, we
+provide a selection rule, based on the Richardson-Littlewood criterion, which
+allows to determine the vanishing coupling coefficients between standard basis
+vectors for such representations, and we also present an equivariance condition
+for the subduction coefficients. Such results extend those ones corresponding
+to the subduction problem in symmetric group algebras $\mathbb{C}\mathfrak{S}_f
+\downarrow \mathbb{C}\mathfrak{S}_{f_1} \times \mathbb{C} \mathfrak{S}_{f_2}$
+which are obtained by $q$ approaching the value 1.

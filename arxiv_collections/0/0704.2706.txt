@@ -1,0 +1,18 @@
+The dynamical discrete web (DDW), introduced in recent work of Howitt and
+Warren, is a system of coalescing simple symmetric one-dimensional random walks
+which evolve in an extra continuous dynamical parameter s. The evolution is by
+independent updating of the underlying Bernoulli variables indexed by discrete
+space-time that define the discrete web at any fixed s. In this paper, we study
+the existence of exceptional (random) values of s where the paths of the web do
+not behave like usual random walks and the Hausdorff dimension of the set of
+such exceptional s. Our results are motivated by those about exceptional times
+for dynamical percolation in high dimension by H\"aggstrom, Peres and Steif,
+and in dimension two by Schramm and Steif. The exceptional behavior of the
+walks in DDW is rather different from the situation for dynamical random walks
+of Benjamini, H\"aggstrom, Peres and Steif. In particular, we prove that there
+are exceptional values of s for which the walk from the origin S^s(n) has
+limsup S^s(n)/\sqrt n \leq K with a nontrivial dependence of the Hausdorff
+dimension on K. We also discuss how these and other results extend to the
+dynamical Brownian web, a natural scaling limit of DDW. The scaling limit is
+the focus of a paper in preparation; it was studied by Howitt and Warren and is
+related to the Brownian net of Sun and Swart.

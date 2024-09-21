@@ -1,0 +1,24 @@
+The absolute calibration and characterization of the Multiband Imaging
+Photometer for Spitzer (MIPS) 70 micron coarse- and fine-scale imaging modes
+are presented based on over 2.5 years of observations. Accurate photometry
+(especially for faint sources) requires two simple processing steps beyond the
+standard data reduction to remove long-term detector transients. Point spread
+function (PSF) fitting photometry is found to give more accurate flux densities
+than aperture photometry. Based on the PSF fitting photometry, the calibration
+factor shows no strong trend with flux density, background, spectral type,
+exposure time, or time since anneals. The coarse-scale calibration sample
+includes observations of stars with flux densities from 22 mJy to 17 Jy, on
+backgrounds from 4 to 26 MJy sr^-1, and with spectral types from B to M. The
+coarse-scale calibration is 702 +/- 35 MJy sr^-1 MIPS70^-1 (5% uncertainty) and
+is based on measurements of 66 stars. The instrumental units of the MIPS 70
+micron coarse- and fine-scale imaging modes are called MIPS70 and MIPS70F,
+respectively. The photometric repeatability is calculated to be 4.5% from two
+stars measured during every MIPS campaign and includes variations on all time
+scales probed. The preliminary fine-scale calibration factor is 2894 +/- 294
+MJy sr^-1 MIPS70F^-1 (10% uncertainty) based on 10 stars. The uncertainty in
+the coarse- and fine-scale calibration factors are dominated by the 4.5%
+photometric repeatability and the small sample size, respectively. The 5-sigma,
+500 s sensitivity of the coarse-scale observations is 6-8 mJy. This work shows
+that the MIPS 70 micron array produces accurate, well calibrated photometry and
+validates the MIPS 70 micron operating strategy, especially the use of frequent
+stimulator flashes to track the changing responsivities of the Ge:Ga detectors.

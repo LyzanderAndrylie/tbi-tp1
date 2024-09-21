@@ -1,0 +1,7 @@
+Kubo's formula relates bulk viscosity to the retarded Green's function of the
+trace of the energy-momentum tensor. Using low energy theorems of QCD for the
+latter we derive the formula which relates the bulk viscosity to the energy
+density and pressure of hot matter. We then employ the available lattice QCD
+data to extract the bulk viscosity as a function of temperature. We find that
+close to the deconfinement temperature bulk viscosity becomes large, with
+viscosity-to-entropy ratio zeta/s about 1.

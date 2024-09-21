@@ -1,0 +1,17 @@
+In this paper we study the possible microscopic origin of heavy-tailed
+probability density distributions for the price variation of financial
+instruments. We extend the standard log-normal process to include another
+random component in the so-called stochastic volatility models. We study these
+models under an assumption, akin to the Born-Oppenheimer approximation, in
+which the volatility has already relaxed to its equilibrium distribution and
+acts as a background to the evolution of the price process. In this
+approximation, we show that all models of stochastic volatility should exhibit
+a scaling relation in the time lag of zero-drift modified log-returns. We
+verify that the Dow-Jones Industrial Average index indeed follows this scaling.
+We then focus on two popular stochastic volatility models, the Heston and
+Hull-White models. In particular, we show that in the Hull-White model the
+resulting probability distribution of log-returns in this approximation
+corresponds to the Tsallis (t-Student) distribution. The Tsallis parameters are
+given in terms of the microscopic stochastic volatility model. Finally, we show
+that the log-returns for 30 years Dow Jones index data is well fitted by a
+Tsallis distribution, obtaining the relevant parameters.

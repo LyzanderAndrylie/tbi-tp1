@@ -1,0 +1,7 @@
+We report on the spontaneous production of fluxons in the presence of a
+symmetry-breaking magnetic field for annular Josephson tunnel junctions during
+a thermal quench. The dependence on field intensity $B$ of the probability
+$\bar{f_1}$ to trap a single defect during the N-S phase transition drastically
+depends on the sample circumferences. We show that the data can be understood
+in the framework of the Kibble-Zurek picture of spontaneous defect formation
+controlled by causal bounds.

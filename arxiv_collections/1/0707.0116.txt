@@ -1,0 +1,17 @@
+We numerically analyze Non-Oberbeck-Boussinesq (NOB) effects in
+two-dimensional Rayleigh-Benard flow in glycerol, which shows a dramatic change
+in the viscosity with temperature. The results are presented both as functions
+of the Rayleigh number (Ra) up to $10^8$ (for fixed temperature difference
+between the top and bottom plates) and as functions of
+"non-Oberbeck-Boussinesqness'' or "NOBness'' ($\Delta$) up to 50 K (for fixed
+Ra). For this large NOBness the center temperature $T_c$ is more than 5 K
+larger than the arithmetic mean temperature $T_m$ between top and bottom plate
+and only weakly depends on Ra. To physically account for the NOB deviations of
+the Nusselt numbers from its Oberbeck-Boussinesq values, we apply the
+decomposition of $Nu_{NOB}/Nu_{OB}$ into the product of two effects, namely
+first the change in the sum of the top and bottom thermal BL thicknesses, and
+second the shift of the center temperature $T_c$ as compared to $T_m$. While
+for water the origin of the $Nu$ deviation is totally dominated by the second
+effect (cf. Ahlers et al., J. Fluid Mech. 569, pp. 409 (2006)) for glycerol the
+first effect is dominating, in spite of the large increase of $T_c$ as compared
+to $T_m$.

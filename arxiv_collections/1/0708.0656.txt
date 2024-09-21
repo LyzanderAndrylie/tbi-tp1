@@ -1,0 +1,7 @@
+Let $f:[0,1)^d \to {\mathbb R}$ be an integrable function. An objective of
+many computer experiments is to estimate $\int_{[0,1)^d} f(x) dx$ by evaluating
+f at a finite number of points in [0,1)^d. There is a design issue in the
+choice of these points and a popular choice is via the use of randomized
+orthogonal arrays. This article proves a multivariate central limit theorem for
+a class of randomized orthogonal array sampling designs [Owen (1992a)] as well
+as for a class of OA-based Latin hypercubes [Tang (1993)].

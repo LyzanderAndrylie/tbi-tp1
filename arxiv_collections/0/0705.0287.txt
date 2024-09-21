@@ -1,0 +1,21 @@
+This paper describes the Wide Field Spectrograph (WiFeS) under construction
+at the Research School of Astronomy and Astrophysics (RSAA) of the Australian
+National University (ANU) for the ANU 2.3m telescope at the Siding Spring
+Observatory. WiFeS is a powerful integral field, double-beam, concentric,
+image-slicing spectrograph designed to deliver excellent thoughput, wavelength
+stability, spectrophotometric performance and superb image quality along with
+wide spectral coverage throughout the 320-950 nm wavelength region. It provides
+a 25x38 arcsec. field with 0.5 arcsec. sampling along each of twenty five 38X1
+arcsec slitlets. The output format is optimized to match the 4096x4096 pixel
+CCD detectors in each of two cameras individually optimized for the blue and
+the red ends of the spectrum, respectively. A process of "interleaved
+nod-and-shuffle" will be applied to permit quantum noise-limited sky
+subtraction. Using VPH gratings, spectral resolutions of 3000 and 7000 are
+provided. The full spectral range is covered in a single exposure at R=3000,
+and in two exposures in the R=7000 mode. The use of transmissive coated optics,
+VPH gratings and optimized mirror coatings ensures a throughput (including
+telescope atmosphere and detector) > 30% over a wide spectral range. The
+concentric image-slicer design ensures an excellent and uniform image quality
+across the full field. To maximize scientific return, the whole instrument is
+configured for remote observing, pipeline data reduction, and the accumulation
+of calibration image libraries.

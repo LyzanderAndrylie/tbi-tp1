@@ -1,0 +1,11 @@
+We show that the cyclic lamplighter group $C_2 \bwr C_n$ embeds into Hilbert
+space with distortion ${\rm O}(\sqrt{\log n})$. This matches the lower bound
+proved by Lee, Naor and Peres in \cite{LeeNaoPer}, answering a question posed
+in that paper. Thus the Euclidean distortion of $C_2 \bwr C_n$ is
+$\Theta(\sqrt{\log n})$. Our embedding is constructed explicitly in terms of
+the irreducible representations of the group. Since the optimal Euclidean
+embedding of a finite group can always be chosen to be equivariant, as shown by
+Aharoni, Maurey and Mityagin \cite{AhaMauMit} and by Gromov (see
+\cite{deCTesVal}), such representation-theoretic considerations suggest a
+general tool for obtaining upper and lower bounds on Euclidean embeddings of
+finite groups.

@@ -1,0 +1,9 @@
+The goal of this paper is to define the n-connected regions in the Cartesian
+workspace of fully-parallel manipulators, i.e. the maximal regions where it is
+possible to execute point-to-point motions. The manipulators considered in this
+study may have multiple direct and inverse kinematic solutions. The N-connected
+regions are characterized by projection, onto the Cartesian workspace, of the
+connected components of the reachable configuration space defined in the
+Cartesian product of the Cartesian space by the joint space. Generalized octree
+models are used for the construction of all spaces. This study is illustrated
+with a simple planar fully-parallel manipulator.

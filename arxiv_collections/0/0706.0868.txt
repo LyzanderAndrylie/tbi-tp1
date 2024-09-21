@@ -1,0 +1,8 @@
+We describe an algorithm to simulate time evolution using the Multi-scale
+Entanglement Renormalization Ansatz (MERA) and test it by studying a critical
+Ising chain with periodic boundary conditions and with up to L ~ 10^6 quantum
+spins. The cost of a simulation, which scales as L log(L), is reduced to log(L)
+when the system is invariant under translations. By simulating an evolution in
+imaginary time, we compute the ground state of the system. The errors in the
+ground state energy display no evident dependence on the system size. The
+algorithm can be extended to lattice systems in higher spatial dimensions.

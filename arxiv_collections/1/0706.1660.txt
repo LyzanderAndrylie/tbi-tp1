@@ -1,0 +1,16 @@
+We review and extend the progress made over the past few years in
+understanding the structure of toric quiver gauge theories; those which are
+induced on the world-volume of a stack of D3-branes placed at the tip of a
+toric Calabi-Yau cone, at an ``orbifold point'' in Kaehler moduli space. These
+provide an infinite class of four-dimensional N=1 superconformal field theories
+which may be studied in the context of the AdS/CFT correspondence. It is now
+understood that these gauge theories are completely specified by certain
+two-dimensional torus graphs, called brane tilings, and the combinatorics of
+the dimer models on these graphs. In particular, knowledge of the dual
+Sasaki-Einstein metric is not required to determine the gauge theory, only
+topological and symplectic properties of the toric Calabi-Yau cone. By
+analyzing the symmetries of the toric quiver theories we derive the dimer
+models and use them to construct the moduli space of the theory both
+classically and semiclassically. Using mirror symmetry the brane tilings are
+shown to arise in string theory on the world-volumes of the fractional
+D6-branes that are mirror to the stack of D3-branes at the tip of the cone.

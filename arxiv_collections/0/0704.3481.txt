@@ -1,0 +1,5 @@
+We calculate the Z boson propagator correction, as described by the S
+parameter, in technicolor theories with extended technicolor interactions
+included. Our method is to solve the Bethe-Salpeter equation for the requisite
+current-current correlation functions. Our results suggest that the inclusion
+of extended technicolor interactions has a relatively small effect on S.

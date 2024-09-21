@@ -1,0 +1,15 @@
+We work in the context of the infinitely many alleles model. The allelic
+partition associated with a coalescent process started from n individuals is
+obtained by placing mutations along the skeleton of the coalescent tree; for
+each individual, we trace back to the most recent mutation affecting it and
+group together individuals whose most recent mutations are the same. The number
+of blocks of each of the different possible sizes in this partition is the
+allele frequency spectrum. The celebrated Ewens sampling formula gives precise
+probabilities for the allele frequency spectrum associated with Kingman's
+coalescent. This (and the degenerate star-shaped coalescent) are the only
+Lambda coalescents for which explicit probabilities are known, although they
+are known to satisfy a recursion due to Moehle. Recently, Berestycki,
+Berestycki and Schweinsberg have proved asymptotic results for the allele
+frequency spectra of the Beta(2-alpha,alpha) coalescents with alpha in (1,2).
+In this paper, we prove full asymptotics for the case of the
+Bolthausen-Sznitman coalescent.

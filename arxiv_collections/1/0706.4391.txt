@@ -1,0 +1,6 @@
+We propose a generalization of the cavity method to quantum spin glasses on
+fixed connectivity lattices. Our work is motivated by the recent refinements of
+the classical technique and its potential application to quantum computational
+problems. We numerically solve for the phase structure of a connectivity $q=3$
+transverse field Ising model on a Bethe lattice with $\pm J$ couplings, and
+investigate the distribution of various classical and quantum observables.

@@ -1,0 +1,16 @@
+I consider the question of the interaction between a QCD string and the spin
+of a quark or an antiquark on whose worldline the string terminates. The
+problem is analysed from the point of view of a string representation for the
+expectation value of a Wilson loop for a spin-half particle. A string
+representation of the super Wilson loop is obtained starting from an effective
+string representation of a Wilson Loop. The action obtained in this manner is
+invariant under a worldline supersymmetry and has a boundary term which
+contains the spin-string interaction. For rectangular loops the spin-string
+interaction vanishes and there is no spin-spin term in the resulting heavy
+quark potential. On the other hand if an allowance is made for the finite
+intrinsic thickness of the flux-tube, by assuming that the spin-string
+interaction takes place not just at the boundary of the string world-sheet but
+extends to a distance of the order of the intrinsic thickness of the flux tube,
+then we do obtain a spin-spin interaction which falls as the fifth power of the
+distance. Such a term was previously suggested by Kogut and Parisi in the
+context of a flux-tube model of confinement.

@@ -1,0 +1,8 @@
+In some cases water droplets can completely wet micro-structured
+superhydrophobic surfaces. The {\it dynamics} of this rapid process is analyzed
+by ultra-high-speed imaging. Depending on the scales of the micro-structure,
+the wetting fronts propagate smoothly and circularly or -- more interestingly
+-- in a {\it stepwise} manner, leading to a growing {\it square-shaped} wetted
+area: entering a new row perpendicular to the direction of front propagation
+takes milliseconds, whereas once this has happened, the row itself fills in
+microseconds ({\it ``zipping''})

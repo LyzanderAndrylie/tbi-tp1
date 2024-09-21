@@ -1,0 +1,11 @@
+The study of impurities in antiferromagnets is of considerable interest in
+condensed matter physics. In this paper we address the elementary question of
+the effect of vacancies on the orientation of the surrounding magnetic moments
+in an antiferromagnet. In the presence of a magnetic field, alternating
+magnetic moments are induced, which can be described by a universal expression
+that is valid in any ordered antiferromagnet and turns out to be independent of
+temperature over a large range. The universality is not destroyed by quantum
+fluctuation, which is demonstrated by quantum Monte Carlo simulations in the
+two-dimensional Heisenberg antiferromagnet. Physical predictions for finite
+doping are made, which are relevant for experiments probing Knight shifts and
+the order parameter.

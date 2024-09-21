@@ -1,0 +1,11 @@
+With the organic compound $\kappa$-(BEDT-TTF)$_2$-Cu$_2$(CN)$_3$ in mind, we
+consider a spin liquid system where a spinon Fermi surface is coupled to a U(1)
+gauge field. Using the non-equilibrium Green's function formalism, we derive
+the Quantum Boltzmann Equation (QBE) for this system. In this system, however,
+one cannot a priori assume the existence of Landau quasiparticles. We show that
+even without this assumption one can still derive a linearized equation for a
+generalized distribution function. We show that the divergence of the effective
+mass and of the finite temperature self-energy do not enter these transport
+coefficients and thus they are well-defined. Moreover, using a variational
+method, we calculate the temperature dependence of the spin resistivity and
+thermal conductivity of this system.

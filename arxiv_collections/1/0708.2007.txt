@@ -1,0 +1,7 @@
+We propose a new texture for the light neutrino mass matrix. The proposal is
+based upon imposing zero-trace condition on the two by two sub-matrices of the
+complex symmetric Majorana mass matrix in the flavor basis where the charged
+lepton mass matrix is diagonal. Restricting the mass matrix to have two
+traceless sub-matrices may be found sufficient to describe the current data.
+Eight out of fifteen independent possible cases are found to be compatible with
+current data. Numerical and some approximate analytical results are presented.

@@ -1,0 +1,16 @@
+Elastic light scattering by mature red blood cells (RBCs) was theoretically
+and experimentally analyzed with the discrete dipole approximation (DDA) and
+the scanning flow cytometry (SFC), respectively. SFC permits measurement of
+angular dependence of light-scattering intensity (indicatrix) of single
+particles. A mature RBC is modeled as a biconcave disk in DDA simulations of
+light scattering. We have studied the effect of RBC orientation related to the
+direction of the incident light upon the indicatrix. Numerical calculations of
+indicatrices for several aspect ratios and volumes of RBC have been carried
+out. Comparison of the simulated indicatrices and indicatrices measured by SFC
+showed good agreement, validating the biconcave disk model for a mature RBC. We
+simulated the light-scattering output signals from the SFC with the DDA for
+RBCs modeled as a disk-sphere and as an oblate spheroid. The biconcave disk,
+the disk-sphere, and the oblate spheroid models have been compared for two
+orientations, i.e. face-on and rim-on incidence. Only the oblate spheroid model
+for rim-on incidence gives results similar to the rigorous biconcave disk
+model.

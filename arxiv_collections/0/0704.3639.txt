@@ -1,0 +1,22 @@
+Position determination in biological systems is often achieved through
+protein concentration gradients. Measuring the local concentration of such a
+protein with a spatially-varying distribution allows the measurement of
+position within the system. In order for these systems to work effectively,
+position determination must be robust to noise. Here, we calculate fundamental
+limits to the precision of position determination by concentration gradients
+due to unavoidable biochemical noise perturbing the gradients. We focus on
+gradient proteins with first order reaction kinetics. Systems of this type have
+been experimentally characterised in both developmental and cell biology
+settings. For a single gradient we show that, through time-averaging, great
+precision can potentially be achieved even with very low protein copy numbers.
+As a second example, we investigate the ability of a system with oppositely
+directed gradients to find its centre. With this mechanism, positional
+precision close to the centre improves more slowly with increasing averaging
+time, and so longer averaging times or higher copy numbers are required for
+high precision. For both single and double gradients, we demonstrate the
+existence of optimal length scales for the gradients, where precision is
+maximized, as well as analyzing how precision depends on the size of the
+concentration measuring apparatus. Our results provide fundamental constraints
+on the positional precision supplied by concentration gradients in various
+contexts, including both in developmental biology and also within a single
+cell.

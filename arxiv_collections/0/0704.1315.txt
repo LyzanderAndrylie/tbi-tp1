@@ -1,0 +1,24 @@
+We present CaII K and TiII optical spectra of early-type stars taken mainly
+from the UVES Paranal Observatory Project, plus HI 21-cm spectra from the
+Vila-Elisa and Leiden-Dwingeloo surveys, which are employed to obtain distances
+to intermediate and high velocity clouds. HI emission at a velocity of -117
+km/s towards the sightline HD 30677 with NHI=1.7x10^19 cm-2 has no
+corresponding CaII K absorption, which has a signal-to-noise (S/N) ratio of
+610. The star has a spectroscopically determined distance of 2.7-kpc, and hence
+sets this as a firm lower distance limit towards Anti-Centre cloud ACII.
+Towards another sightline (HD 46185), HI at +122 km/s and NHI=1.2x10^19 cm-2 is
+seen. The CaII K spectrum has a S/N = 780, although no absorption is observed
+at the cloud velocity. This similarly places a firm lower distance limit of
+2.9-kpc towards this parcel of gas that may be an intermediate velocity cloud.
+The lack of intermediate velocity (IV) CaII K absorption towards HD 196426 at a
+S/N = 500 reinforces a lower distance limit of 700-pc towards this part of
+Complex gp, where NHI is 1.1x10^19 cm-2 and velocity is +78 km/s. Additionally,
+no IV CaII K is seen in absorption in the spectrum of HD 19445, which is strong
+in HI with NHI=8x10^19 cm-2 at -42 km/s, placing a firm although uninteresting
+lower distance limit of 39-pc to this part of IV South. Finally, no HV CaII K
+absorption is seen towards HD 115363 at a S/N = 410, placing a lower distance
+of 3.2-kpc towards the HVC gas at velocity of +224 km/s and NHI=5.2x10^19 cm-2.
+This gas is in the same region of the sky as complex WE (Wakker 2001), but at
+higher velocities. The non-detection of CaII K absorption sets a lower distance
+of 3.2-kpc towards the HVC, which is unsurprising if this feature is indeed
+related to the Magellanic System.

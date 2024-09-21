@@ -1,0 +1,9 @@
+We present a fast and accurate method to calculate the electrostatic energy
+and forces of interacting particles with the boundary conditions appropriate to
+surfaces, i.e periodic in the two directions parallel to the surface and free
+in the perpendicular direction. In the spirit of the Ewald method the problem
+is divided into a short range and long range part. The charge density
+responsible for the long range part is represented by plane waves in the
+periodic directions and by finite elements in the non-periodic direction. Our
+method has computational complexity of O(N_g log(N_g)) with a very small
+prefactor, where N_g is the number of grid points.

@@ -1,0 +1,12 @@
+Let $ X: M \hook S^5$ be a compact Legendrian surface in pseudoconformal(CR)
+5-sphere. We introduce a pseudoconformally invariant Willmore type second order
+functional $ \W(X)$, and study its critical points called Willmore Legendrian
+surfaces. The fifth order structure equations show that Willmore dual can be
+defined for a class of Willmore Legendrian surfaces. Moreover when this dual is
+constant, Willmore Legendrian surface admits a Weierstra\ss type representation
+in terms of immersed meromorphic curve in $ \C^2$ satisfying an appropriate
+real period condition via pseudoconformal stereographic projection. We show
+that every compact Riemann surface admits a generally one to one, conformal,
+Willmore Legendrian immersion in $ S^5$ with constant Willmore dual. As a
+corollary, every compact Riemann surface can be conformally immersed in $ \C^2$
+as an exact, algebraic Lagrangian surface.

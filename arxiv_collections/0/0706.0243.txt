@@ -1,0 +1,10 @@
+Braided doubles provide a unifying framework for classical and quantum
+universal enveloping algebras and rational Cherednik algebras. They are a class
+of algebras with triangular decomposition, arising from a deformation problem,
+the solutions to which are called quasi-Yetter-Drinfeld modules. A basic family
+of quasi-YD modules is provided by braidings (matrices satisfying the quantum
+Yang-Baxter equation); these give rise to quantum versions of the Weyl algebra,
+where the role of polynomial rings is played by Nichols-Woronowicz algebras.
+Rational Cherednik algebras for t = 0 emerge as subalgebras in doubles of
+Nichols-Woronowicz algebras. For nonzero t, the Nichols-Woronowicz algebra is
+replaced with an algebra associated to the classical Yang-Baxter equation.

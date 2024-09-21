@@ -1,0 +1,15 @@
+We study thermal effects at the depinning transition by numerical simulations
+of driven one-dimensional elastic interfaces in a disordered medium. We find
+that the velocity of the interface, evaluated at the critical depinning force,
+can be correctly described with the power law $v\sim T^\psi$, where $\psi$ is
+the thermal exponent. Using the sample-dependent value of the critical force,
+we precisely evaluate the value of $\psi$ directly from the temperature
+dependence of the velocity, obtaining the value $\psi = 0.15 \pm 0.01$. By
+measuring the structure factor of the interface we show that both the
+thermally-rounded and the T=0 depinning, display the same large-scale geometry,
+described by an identical divergence of a characteristic length with the
+velocity $\xi \propto v^{-\nu/\beta}$, where $\nu$ and $\beta$ are respectively
+the T=0 correlation and depinning exponents. We discuss the comparison of our
+results with previous estimates of the thermal exponent and the direct
+consequences for recent experiments on magnetic domain wall motion in
+ferromagnetic thin films.

@@ -1,0 +1,9 @@
+It is shown that a graphene ribbon, a ballistic strip of carbon monolayer,
+may serve as a quantum wire whose electronic properties can be continuously and
+reversibly controlled by an externally applied transverse voltage. The electron
+bands of armchair-edge ribbons undergo dramatic transformations: The Fermi
+surface fractures, Fermi velocity and effective mass change sign, and
+excitation gaps are reduced by the transverse field. These effects are manifest
+in the conductance plateaus, van Hove singularities, thermopower, and activated
+transport. The control over one-dimensional bands may help enhance effects of
+electron correlations, and be utilized in device applications.

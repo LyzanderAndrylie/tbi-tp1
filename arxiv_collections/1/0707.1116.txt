@@ -1,0 +1,9 @@
+Newton' viscosity law for the momentum flux and Fourier's law for the heat
+flux define Navier-Stokes hydrodynamics for a simple, one component fluid.
+There is ample evidence that a hydrodynamic description applies as well to a
+mesoscopic granular fluid with the same form for Newton's viscosity law.
+However, theory predicts a qualitative difference for Fourier's law with an
+additional contribution from density gradients even at uniform temperature. The
+reasons for the absence of such terms for normal fluids are indicated, and a
+related microscopic explanation for their existence in granular fluids is
+presented.

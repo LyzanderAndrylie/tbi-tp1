@@ -1,0 +1,12 @@
+An exact analytical description of extreme intensity statistics in complex
+random states is derived. These states have the statistical properties of the
+Gaussian and Circular Unitary Ensemble eigenstates of random matrix theory.
+Although the components are correlated by the normalization constraint, it is
+still possible to derive compact formulae for all values of the dimensionality
+N. The maximum intensity result slowly approaches the Gumbel distribution even
+though the variables are bounded, whereas the minimum intensity result rapidly
+approaches the Weibull distribution. Since random matrix theory is conjectured
+to be applicable to chaotic quantum systems, we calculate the extreme
+eigenfunction statistics for the standard map with parameters at which its
+classical map is fully chaotic. The statistical behaviors are consistent with
+the finite-N formulae.

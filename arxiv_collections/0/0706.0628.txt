@@ -1,0 +1,15 @@
+A brief survey of the theoretical, numerical and experimental studies of the
+random field Ising model during last three decades is given. Nature of the
+phase transition in the three-dimensional RFIM with Gaussian random fields is
+discussed. Using simple scaling arguments it is shown that if the strength of
+the random fields is not too small (bigger than a certain threshold value) the
+finite temperature phase transition in this system is equivalent to the
+low-temperature order-disorder transition which takes place at variations of
+the strength of the random fields. Detailed study of the zero-temperature phase
+transition in terms of simple probabilistic arguments and modified mean-field
+approach (which take into account nearest-neighbors spin-spin correlations) is
+given. It is shown that if all thermally activated processes are suppressed the
+ferromagnetic order parameter m(h) as the function of the strength $h$ of the
+random fields becomes history dependent. In particular, the behavior of the
+magnetization curves m(h) for increasing and for decreasing $h$ reveals the
+hysteresis loop.

@@ -1,0 +1,21 @@
+We report results of investigations of structural and transport properties of
+GaAs/Ga(1-x)In(x)As/GaAs quantum wells (QWs) having a 0.5-1.8 ML thick Mn
+layer, separated from the QW by a 3 nm thick spacer. The structure has hole
+mobility of about 2000 cm2/(V*s) being by several orders of magnitude higher
+than in known ferromagnetic two-dimensional structures. The analysis of the
+electro-physical properties of these systems is based on detailed study of
+their structure by means of high-resolution X-ray diffractometry and
+glancing-incidence reflection, which allow us to restore the depth profiles of
+structural characteristics of the QWs and thin Mn containing layers. These
+investigations show absence of Mn atoms inside the QWs. The quality of the
+structures was also characterized by photoluminescence spectra from the QWs.
+Transport properties reveal features inherent to ferromagnetic systems: a
+specific maximum in the temperature dependence of the resistance and the
+anomalous Hall effect (AHE) observed in samples with both "metallic" and
+activated types of conductivity up to ~100 K. AHE is most pronounced in the
+temperature range where the resistance maximum is observed, and decreases with
+decreasing temperature. The results are discussed in terms of interaction of
+2D-holes and magnetic Mn ions in presence of large-scale potential fluctuations
+related to random distribution of Mn atoms. The AHE values are compared with
+calculations taking into account its "intrinsic" mechanism in ferromagnetic
+systems.

@@ -1,0 +1,13 @@
+This study builds upon the work of Palacios and MacDonald (Phys. Rev. Lett.
+{\bf 76}, 118 (1996)), wherein they identify the bosonic excitations of Wen's
+approach for the edge of the 1/3 fractional quantum Hall state with certain
+operators introduced by Stone. Using a quantum Monte Carlo method, we extend to
+larger systems containing up to 40 electrons and obtain more accurate
+thermodynamic limits for various matrix elements for a short range interaction.
+The results are in agreement with those of Palacios and MacDonald for small
+systems, but offer further insight into the detailed approach to the
+thermodynamic limit. For the short range interaction, the results are
+consistent with the chiral Luttinger liquid predictions.We also study
+excitations using the Coulomb ground state for up to nine electrons to
+ascertain the effect of interactions on the results; in this case our tests of
+the chiral Luttinger liquid approach are inconclusive.

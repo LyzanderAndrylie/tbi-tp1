@@ -1,0 +1,14 @@
+We analyze the problem of correlating pp interaction data from the central
+detectors with a subevent measured in an independent system of leading proton
+detectors using FP420 as an example.
+  FP420 is an R&D project conducted by a collaboration formed by members of
+ATLAS and CMS to investigate the possibility of detecting new physics in the
+central exclusive channel, PP -> P + X + P,where the central system X may be a
+single particle, for example a Standard Model Higgs boson. With standard LHC
+optics, the protons emerge from the beam at a distance of 420m from the
+Interaction Point, for M_X ~ 120 GeV. The mass of the central system can be
+measured from the outgoing protons alone, with a resolution of order 2 GeV
+irrespective of the decay products of the central system. In addition, to a
+very good approximation, only central systems with 0^++ quantum numbers can be
+produced, meaning that observation of a SM or MSSM Higgs Boson in this channel
+would lead to a direct determination of the quantum numbers.

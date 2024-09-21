@@ -1,0 +1,14 @@
+The vibrational modes of some single wall carbon nanotube (SWNT)
+intramolecular junctions (IMJs) have been calculated using the newest Brenner
+reactive empirical bond order (REBO) potential, based upon which their
+nonresonant Raman spectra have been further calculated using the empirical bond
+polarizability model. It is found that the Raman peaks induced by pentagon
+defects lie out of the $G$-band of the SWNTs, so the high-frequency part of the
+Raman spectra of the SWNT IMJs can be used to determine experimentally their
+detailed geometrical structures. Also, the intensity of the Raman spectra has a
+close relation with the number of pentagon defects in the SWNT IMJs. Following
+the Descartes-Euler Polyhedral Formula (DEPF), the number of heptagon defects
+in the SWNT IMJs can also be determined. The first-principle calculations are
+also performed, verifying the results obtained by the REBO potential. The $G$
+band width of the SWNT IMJ can reflect the length of its transition region
+between the pentagon and heptagon rings.

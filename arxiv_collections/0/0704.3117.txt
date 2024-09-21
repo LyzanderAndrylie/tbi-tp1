@@ -1,0 +1,11 @@
+The structure of the unnatural parity states of PsH, LiPs, NaPs and KPs are
+investigated with the configuration interaction and stochastic variational
+methods. The binding energies (in hartree) are found to be 8.17x10-4,
+4.42x10-4, 15.14x10-4 and 21.80x10-4 respectively. These states are constructed
+by first coupling the two electrons into a configuration which is predominantly
+3Pe, and then adding a p-wave positron. All the active particles are in states
+in which the relative angular momentum between any pair of particles is at
+least L = 1. The LiPs state is Borromean since there are no 3-body bound
+subsystems (of the correct symmetry) of the (Li+, e-, e-, e+) particles that
+make up the system. The dominant decay mode of these states will be radiative
+decay into a configuration that autoionizes or undergoes positron annihilation.

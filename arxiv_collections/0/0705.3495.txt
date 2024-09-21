@@ -1,0 +1,18 @@
+We consider transmission band edge resonance in periodic layered structures
+involving birefringent layers. Previously we have shown that the presence of
+birefringent layers with misaligned in-plane anisotropy can dramatically
+enhance the performance of the photonic-crystal Fabry-Perot resonator. It
+allows to reduce its size by an order of magnitude without compromising on its
+performance. The key characteristic of the enhanced photonic-crystal cavity is
+that its Bloch dispersion relation displays a degenerate photonic band edge,
+rather than only regular ones. This can be realized in specially arranged
+stacks of misaligned anisotropic layers. On the down side, the presence of
+birefringent layers results in the Fabry-Perot resonance being coupled only
+with one (elliptic) polarization component of the incident wave, while the
+other polarization component is reflected back to space. In this paper we show
+how a small modification of the periodic layered array can solve the above
+fundamental problem and provide a perfect impedance match regardless of the
+incident wave polarization, while preserving the giant transmission resonance,
+characteristic of a degenerate photonic band edge. Both features are of
+critical importance for a variety of practical applications, including
+antennas, light amplification, optical and microwave filters, etc.

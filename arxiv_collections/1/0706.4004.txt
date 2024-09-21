@@ -1,0 +1,9 @@
+In recent years, there has been a strong interest in measuring the available
+bandwidth of network paths. Several methods and techniques have been proposed
+and various measurement tools have been developed and evaluated. However, there
+have been few comparative studies with regards to the actual performance of
+these tools. This paper presents a study of available bandwidth measurement
+techniques and undertakes a comparative analysis in terms of accuracy,
+intrusiveness and response time of active probing tools. Finally, measurement
+errors and the uncertainty of the tools are analysed and overall conclusions
+made.

@@ -1,0 +1,21 @@
+We present a comprehensive mass reconstruction of the rich galaxy cluster Cl
+0024+17 at z~0.4 from ACS data, unifying both strong- and weak-lensing
+constraints. The weak-lensing signal from a dense distribution of background
+galaxies (~120 per square arcmin) across the cluster enables the derivation of
+a high-resolution parameter-free mass map. The strongly-lensed objects tightly
+constrain the mass structure of the cluster inner region on an absolute scale,
+breaking the mass-sheet degeneracy. The mass reconstruction of Cl 0024+17
+obtained in such a way is remarkable. It reveals a ringlike dark matter
+substructure at r~75" surrounding a soft, dense core at r~50". We interpret
+this peculiar sub-structure as the result of a high-speed line-of-sight
+collision of two massive clusters 1-2 Gyr ago. Such an event is also indicated
+by the cluster velocity distribution. Our numerical simulation with purely
+collisionless particles demonstrates that such density ripples can arise by
+radially expanding, decelerating particles that originally comprised the
+pre-collision cores. Cl 0024+17 can be likened to the bullet cluster 1E0657-56,
+but viewed $along$ the collision axis at a much later epoch. In addition, we
+show that the long-standing mass discrepancy for Cl 0024+17 between X-ray and
+lensing can be resolved by treating the cluster X-ray emission as coming from a
+superposition of two X-ray systems. The cluster's unusual X-ray surface
+brightness profile that requires a two isothermal sphere description supports
+this hypothesis.

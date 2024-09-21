@@ -1,0 +1,16 @@
+We study the collider signatures of a T-odd gauge boson $W_{H}$ pair
+production in the Littlest Higgs Model with T-parity (LHT) at Large Hadron
+Collider (LHC) and Linear Collider (LC). At the LHC, we search for the $W_{H}$
+boson using its leptonic decay, i.e. $pp\to W_{H}^{+}W_{H}^{-}\to
+A_{H}A_{H}\ell^{+}\nu_{\ell}\ell^{\prime-}\bar{\nu}_{\ell^{\prime}}$, which
+gives rise to a collider signature of $\ell^{+}\ell^{\prime-}+\met$. We
+demonstrate that the LHC not only has a great potential of discovering the
+$W_{H}$ boson in this channel, but also can probe enormous parameter space of
+the LHT. Due to four missing particles in the final state, one cannot
+reconstruct the mass of $W_{H}$ at the LHC. But such a mass measurement can be
+easily achieved at the LC in the process of $e^{+}e^{-}\to
+W_{H}^{+}W_{H}^{-}\to A_{H}A_{H}W^{+}W^{-}\to A_{H}A_{H}jjjj$. We present an
+algorithm of measuring the mass and spin of the $W_{H}$ boson at the LC.
+Furthermore, we illustrate that the spin correlation between the $W$ boson and
+its mother particle ($W_{H}$) can be used to distinguish the LHT from other new
+physics models.

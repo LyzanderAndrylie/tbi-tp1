@@ -1,0 +1,7 @@
+Stewart has provided a position-space derivation of an identity for the
+volume integral of the square of a vector field that was quoted by Gubarev,
+Stodolsky and Zakharov. In this comment, I provide a momentum-space derivation
+of this result, generalized to the scalar product of two complex vector fields.
+This approach demonstrates the effective use of the Fourier transform technique
+in the context of vector analysis at a level suitable for undergraduate
+instruction.

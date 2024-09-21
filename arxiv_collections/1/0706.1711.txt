@@ -1,0 +1,6 @@
+We present the results of exact diagonalization calculations of the isolated
+and isothermal on-site static susceptibilities in the anisotropic extended
+Heisenberg model on a linear chain with periodic boundary conditions. Based on
+the ergodicity considerations we conclude that the isothermal susceptibility
+will diverge as $T\to 0$ both in finite clusters and in the bulk system in two
+non-ergodic regions of the phase diagram of the system.

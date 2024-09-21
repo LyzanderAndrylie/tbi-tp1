@@ -1,0 +1,24 @@
+We report on the transport and magnetic properties of hybrid trilayers and
+bilayers that consist of low spin-polarized Ni80Fe20 exhibiting in-plane but no
+uniaxial anisotropy and low-Tc Nb. We reveal a magnetoresistance effect that is
+pronounced. In our trilayers the magnetoresistance exhibits an increase of two
+orders of magnitude when the superconducting state is reached: from the
+conventional normal-state values 0.6 % it goes up to 1000 % for temperatures
+below Tc. In contrast, in the bilayers the effect is only minor since from 3%
+in the normal state increases only to 70 % for temperatures below Tc.
+Magnetization data of both the longitudinal and transverse magnetic components
+are presented. Most importantly, we present data not only for the normal state
+of Nb but also in its superconducting state. Strikingly, these data show that
+below its Tc SC the Nb interlayer under the influence of the outer Ni80Fe20
+layers attains a magnetization component transverse to the external field. By
+comparing the transport and magnetization data we propose a candidate mechanism
+that could motivate the pronounced magnetoresistance effect observed in the
+trilayers. Adequate magnetostatic coupling of the outer Ni80Fe20 layers is
+motivated by stray fields that emerge naturally in their whole surface due to
+the multidomain magnetic structure that they attain near coercivity. Atomic
+force microscopy is employed in order to examine the possibility that such
+magnetostatic coupling could be promoted by interface roughness. Referring to
+the bilayers, although out-of-plane rotation of the magnetization of the single
+Ni80Fe20 layer is still observed, in these structures magnetostatic coupling
+does not occur due to the absence of a second Ni80Fe20 one so that the observed
+magnetoresistance peaks are only modest.

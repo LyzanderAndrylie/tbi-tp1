@@ -1,0 +1,14 @@
+Hamiltonian and Schrodinger evolution equations on finite-dimensional
+projective space are analyzed in detail. Hartree-Fock (HF) manifold is
+introduced as a submanifold of many electron projective space of states.
+Evolution equations, exact and linearized, on this manifold are studied.
+Comparison of matrices of linearized Schrodinger equations on many electron
+projective space and on the corresponding HF manifold reveals the appearance in
+the HF case a constraining matrix that involves matrix elements of
+many-electron Hamiltonian between HF state and double excited determinants.
+Character of dependence of transition energies on the matrix elements of
+constraining matrix is established by means of perturbation analysis. It is
+demonstrated that success of time-dependent HF theory in calculation of
+transition energies is mainly due to the wrong behavior of these energies as
+functions of matrix elements of constraining matrix as compared with the exact
+transition energies

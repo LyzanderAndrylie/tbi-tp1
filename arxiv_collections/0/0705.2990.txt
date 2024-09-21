@@ -1,0 +1,9 @@
+We study and solve the ground-state problem of a microscopic model for a
+family of orbitally degenerate quantum magnets. The orbital degrees of freedom
+are assumed to have directional character and are represented by static
+Potts-like variables. In the limit of vanishing Hund's coupling, the
+ground-state manifold of such a model is spanned by the hard-core dimer (spin
+singlet) coverings of the lattice. The extensive degeneracy of dimer coverings
+is lifted at a finite Hund's coupling through an order-out-of-disorder
+mechanism by virtual triplet excitations. The relevance of our results to
+several experimentally studied systems is discussed.

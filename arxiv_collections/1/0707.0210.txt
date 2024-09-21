@@ -1,0 +1,13 @@
+A novel approximation scheme is proposed to describe the dynamics of the
+spin-boson problem. Being nonperturbative in the coupling strength nor in the
+tunneling frequency, it gives reliable results over a wide regime of
+temperatures and coupling strength to the thermal environment for a large class
+of bath spectral densities.
+  We use a path-integral approach and start from the exact solution for the
+two-level system population difference in the form of a generalized master
+equation (GME). Then, we approximate inter-blip and blip-sojourns interactions
+up to linear order, while retaining all intra-blip correlations to find the
+kernels entering the GME in analytical form. Our approximation scheme, which we
+call Weakly-Interacting Blip Approximation (WIBA), fully agrees with
+conventional perturbative approximations in the tunneling matrix element
+(Non-Interacting Blip Approximation) or in the system-bath coupling strength.

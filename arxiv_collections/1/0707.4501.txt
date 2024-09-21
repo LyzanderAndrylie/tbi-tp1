@@ -1,0 +1,8 @@
+We consider within-host virus models with more than one strain and allow
+mutation between the strains. If there is no mutation, a Lyapunov function
+establishes global stability of the steady state corresponding to the fittest
+strain. For small perturbations this steady state persists, perhaps with small
+concentrations of some or all other strains, depending on the connectivity of
+the graph describing all possible mutations. Moreover, using a perturbation
+result due to Smith and Waltman, we show that this steady state also preserves
+global stability.

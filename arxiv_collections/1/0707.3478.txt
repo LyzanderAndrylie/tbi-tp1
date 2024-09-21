@@ -1,0 +1,12 @@
+We set up a structural model to study credit risk for a portfolio containing
+several or many credit contracts. The model is based on a jump--diffusion
+process for the risk factors, i.e. for the company assets. We also include
+correlations between the companies. We discuss that models of this type have
+much in common with other problems in statistical physics and in the theory of
+complex systems. We study a simplified version of our model analytically.
+Furthermore, we perform extensive numerical simulations for the full model. The
+observables are the loss distribution of the credit portfolio, its moments and
+other quantities derived thereof. We compile detailed information about the
+parameter dependence of these observables. In the course of setting up and
+analyzing our model, we also give a review of credit risk modeling for a
+physics audience.

@@ -1,0 +1,12 @@
+We study boundary states in (p,q) minimal superstring theory, combining the
+explicit form of matter wave functions. Within the modular bootstrap framework,
+Cardy states of (p,q) minimal superconformal field theory are completely
+determined in both cases of the different supercharge combinations, and the
+remaining consistency checks in the super-Liouville case are also performed.
+Using these boundary states, we determine the explicit form of FZZT- and
+ZZ-brane boundary states both in type 0A and 0B GSO projections. Annulus
+mplitudes of FZZT branes are evaluated and principal FZZT branes are
+identified. In particular, we found that these principal FZZT branes do not
+satisfy Cardy's consistency conditions for each other and play a role of
+order/disorder parameters of the Kramers-Wannier duality in spacetime of this
+superstring theory.

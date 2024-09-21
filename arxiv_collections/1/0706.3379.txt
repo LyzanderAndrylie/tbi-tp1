@@ -1,0 +1,21 @@
+We consider what the implications would be if there were a discrete
+fundamental model of physics based on locally-finite self-interacting
+information, in which there is no presumption of the familiar space and laws of
+physics, but from which such space and laws can nevertheless be shown to be
+able to emerge stably from such a fundamental model. We argue that if there is
+such a model, then the familiar laws of physics, including Standard Model
+constants, etc., must be encodable by a finite quantity C, called the
+complexity, of self-interacting information I, called a Space-Cell. Copies of
+Space-Cell I must be distributed throughout space, at a roughly constant and
+near-Planck density, and copies must be created or destroyed as space expands
+or contracts. We then argue that each Space-Cell is a self-replicator that can
+duplicate in times ranging from as fast as near-Planck-times to as slow as
+Cosmological-Constant-time which is 10^{61} Planck-times. From standard
+considerations of computation, we argue this slowest duplication rate just
+requires that 10^{61} is less than about 2^C, the number of length-C binary
+strings, hence requiring only the modest complexity C at least 203, and at most
+a few thousand. We claim this provides a reasonable explanation for a
+dimensionless constant being as large as 10^{61}, and hence for the
+Cosmological Constant being a tiny positive 10^{-122}. We also discuss a
+separate conjecture on entropy flow in Hole-Bang Transitions. We then present
+Cosmological Natural Selection II.

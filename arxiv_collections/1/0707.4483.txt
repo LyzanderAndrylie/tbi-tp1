@@ -1,0 +1,15 @@
+Single and double coincidence nucleon spectra in the $\Lambda$-hypernuclei
+weak decay are evaluated and discussed using a microscopic formalism. Nuclear
+matter is employed together with the local density approximation which allows
+us to analyze the $^{12}_{\Lambda}C$ hypernucleus non-mesonic weak decay. Final
+state interactions (FSI) are included via the first order (in the nuclear
+residual interaction) terms to the RPA, where the strong residual interaction
+is modelled by a Bonn potential. At this level of approximation, these FSI are
+pure quantum interference terms between the primary decay $(\Lambda N \to NN)$
+and $(\Lambda N \to NN \to NN)$, where the strong interaction is responsible
+for the last piece in the second reaction. Also the Pauli exchange
+contributions are explicitly evaluated. We show that the inclusion of Pauli
+exchange terms is important. A comparison with data is made. We conclude that
+the limitations in phase space in the RPA makes this approximation inadequate
+to reproduce the nucleon spectra. This fact, does not allow us to draw a
+definite conclusion about the importance of the interference terms.

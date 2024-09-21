@@ -1,0 +1,18 @@
+We report experiments on Fabry-Perot electron interferometers in the integer
+quantum Hall regime. The GaAs/AlGaAs heterostructure devices consist of two
+constrictions defined by etch trenches in 2D electron layer, enclosing an
+approximately circular island. The interferometer is formed by
+counterpropagating chiral edge channels coupled by tunneling in the two
+constrictions. Interference fringes are observed as conductance oscillations,
+similar to the Aharonov-Bohm effect. Front gates deposited in etch trenches
+allow to fine-tune the device and to change the constriction filling f relative
+to the bulk filling. Quantum-coherent conductance oscillations are observed on
+the f = 1 - 4 plateaus. On plateau f we observe f conductance oscillations per
+fundamental flux period h/e. This is attributed to the dominance of the
+electron-electron Coulomb interaction, effectively mixing Landau level
+occupation. On the other hand, the back-gate charge period is the same (one
+electron) on all plateaus, independent of filling. This is attributed to the
+self-consistent electrostatics in the large electron island. We also report
+dependence of the oscillation period on front-gate voltage for f = 1, 2 and 4
+for three devices. We find a linear dependence, with the slope inversely
+proportional to f for f = 1 and 2.

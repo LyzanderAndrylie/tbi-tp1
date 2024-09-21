@@ -1,0 +1,10 @@
+We report interlayer tunneling measurements between very dilute
+two-dimensional GaAs hole layers. Surprisingly, the shape and
+temperature-dependence of the tunneling spectrum can be explained with a Fermi
+liquid-based tunneling model, but the peak amplitude is much larger than
+expected from the available hole band parameters. Data as a function of
+parallel magnetic field reveal additional anomalous features, including a
+recurrence of a zero-bias tunneling peak at very large fields. In a
+perpendicular magnetic field, we observe a robust and narrow tunneling peak at
+total filling factor $\nu_T=1$, signaling the formation of a bilayer quantum
+Hall ferromagnet.

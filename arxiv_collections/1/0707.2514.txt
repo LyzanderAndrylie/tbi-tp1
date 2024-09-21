@@ -1,0 +1,21 @@
+Harvesting condensed atmospheric vapour as dew water can be an alternative or
+complementary potable water resource in specific arid or insular areas. Such
+radiation-cooled condensing devices use already existing flat surfaces (roofs)
+or innovative structures with more complex shapes to enhance the dew yield. The
+Computational Fluid Dynamic - CFD - software PHOENICS has been programmed and
+applied to such radiation cooled condensers. For this purpose, the sky
+radiation is previously integrated and averaged for each structure. The
+radiative balance is then included in the CFD simulation tool to compare the
+efficiency of the different structures under various meteorological parameters,
+for complex or simple shapes and at various scales. It has been used to precise
+different structures before construction. (1) a 7.32 m^2 funnel shape was
+studied; a 30 degree tilted angle (60 degree cone half-angle) was computed to
+be the best compromise for funnel cooling. Compared to a 1 m^2 flat condenser,
+the cooling efficiency was expected to be improved by 40%. Seventeen months
+measurements in outdoor tests presented a 138 % increased dew yield as compared
+to the 1 m^2 flat condenser. (2) The simulation results for 5 various condenser
+shapes were also compared with experimental measurement on corresponding pilots
+systems: 0.16 m^2 flat planar condenser, 1 m^2 and 30 degree tilted planar
+condenser, 30 m^2 and 30 degree tilted planar condenser, 255 m^2 multi ridges,
+a preliminary construction of a large scale dew plant being implemented in the
+Kutch area (Gujarat, India).

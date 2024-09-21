@@ -1,0 +1,10 @@
+We study classical twists of Lie bialgebra structures on the polynomial
+current algebra $\mathfrak{g}[u]$, where $\mathfrak{g}$ is a simple complex
+finite-dimensional Lie algebra. We focus on the structures induced by the
+so-called quasi-trigonometric solutions of the classical Yang-Baxter equation.
+It turns out that quasi-trigonometric $r$-matrices fall into classes labelled
+by the vertices of the extended Dynkin diagram of $\mathfrak{g}$. We give
+complete classification of quasi-trigonometric $r$-matrices belonging to
+multiplicity free simple roots (which have coefficient 1 in the decomposition
+of the maximal root). We quantize solutions corresponding to the first root of
+$\mathfrak{sl}(n)$.

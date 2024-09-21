@@ -1,0 +1,5 @@
+It is shown that every orthogonal terrain, i.e., an orthogonal (right-angled)
+polyhedron based on a rectangle that meets every vertical line in a segment,
+has a grid unfolding: its surface may be unfolded to a single non-overlapping
+piece by cutting along grid edges defined by coordinate planes through every
+vertex.

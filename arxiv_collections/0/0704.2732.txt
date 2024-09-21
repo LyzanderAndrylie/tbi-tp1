@@ -1,0 +1,10 @@
+The diagram algebra introduced by Brauer that describes the centralizer
+algebra on tensor products of the natural representation of an orthogonal group
+has a presentation by generators and relations that only depends on the graph
+of type An on n nodes. Here we describe an algebra depending on an arbitrary
+graph of type M. We study its structure when the type is An, Dn, E6, E7, E8. We
+determine the representations and find the dimensions. The algebra is
+generically semisimple and contains the group algebra of the Coxeter type M as
+a subalgebra. It is a ring homomorphism of the Birman-Murakami-Wenzl algebra of
+these types. This fact will be used in later work determining the structure of
+Birman-Murakami-Wenzl algebras of simply laced spherical type.

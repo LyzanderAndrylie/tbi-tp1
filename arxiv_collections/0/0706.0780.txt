@@ -1,0 +1,5 @@
+The paper analyses volt-ampere characteristics of a planar vacuum diode with
+mono-energetic electrons, emitted by the cathode (an electron beam). The
+movement of the electron beam in the volume of the diode is described. An
+analytic dependence of the volt-ampere characteristics in an unlimited and
+limited by the field mode of the electron beam is derived.

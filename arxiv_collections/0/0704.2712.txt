@@ -1,0 +1,11 @@
+We show that if a meromorphic function has a direct singularity over
+infinity, then the escaping set has an unbounded component and the intersection
+of the escaping set with the Julia set contains continua. This intersection has
+an unbounded component if and only if the function has no Baker wandering
+domains. We also give estimates of the Hausdorff dimension and the upper box
+dimension of the Julia set of a meromorphic function with a logarithmic
+singularity over infinity. The above theorems are deduced from more general
+results concerning functions which have "direct or logarithmic tracts", but
+which need not be meromorphic in the plane. These results are obtained by using
+a generalization of Wiman-Valiron theory. The method is also applied to complex
+differential equations.

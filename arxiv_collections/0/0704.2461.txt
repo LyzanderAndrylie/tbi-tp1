@@ -1,0 +1,23 @@
+Context:A significant fraction of progenitors for long gamma-ray bursts
+(GRBs) are believed to be massive stars. The investigation of long GRBs
+therefore requires modeling the propagation of ultra-relativistic blastwaves
+through the circumburst medium surrounding massive stars. We simulate the
+expansion of an isotropic, adiabatic relativistic fireball into the wind-shaped
+medium around a massive GRB progenitor. The circumburst medium is composed of a
+realistically stratified stellar wind zone up to its termination shock,
+followed by a region of shocked wind characterized by a constant density. Aims:
+We followed the evolution of the blastwave through all its stages, including
+the extremely rapid acceleration up to a Lorentz factor 75 flow, its
+deceleration by interaction with stellar wind, its passage of the wind
+termination shock, until its propagation through shocked wind. Methods: We used
+the adaptive mesh refinement versatile advection code to follow the evolution
+of the fireball. Results: We show that the acceleration from purely thermal to
+ultra-relativistic kinetic regimes is abrupt and produces an internally
+structured blastwave. We resolved the structure of this ultra-relativistic
+shell in all stages, thanks to the adaptive mesh. We comment on the dynamical
+roles played by forward and reverse shock pairs in the phase of interaction
+with the free stellar wind and clearly identify the complex shock-dominated
+structure created when the shell crosses the terminal shock. Conclusion: We
+show that in our model where the terminal shock is taken relatively close to
+the massive star, the phase of self-similar deceleration of Blandford-McKee
+type can only be produced in the constant density, shocked wind zone.

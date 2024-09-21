@@ -1,0 +1,6 @@
+We investigate the use of photon number states to identify eavesdropping
+attacks on quantum key distribution (QKD) schemes. The technique is based on
+the fact that different photon numbers traverse a channel with different
+transmittivity. We then describe two QKD schemes that utilize this method, one
+of which overcomes the upper limit on the key generation rate imposed by the
+dead time of detectors when using a heralded source of photons.

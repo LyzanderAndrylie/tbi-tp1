@@ -1,0 +1,7 @@
+Let $A$ be a finite dimensional $Q-$algebra and $\Gamma subset A$ a
+$Z-$order. We classify those $A$ with the property that $Z^2$ does not embed in
+$\mathcal{U}(\Gamma)$. We call this last property the hyperbolic property. We
+apply this in the case that $A = KS$ a semigroup algebra with $K = Q$ or $K =
+Q(\sqrt{-d})$. In particular, when $KS$ is semi-simple and has no nilpotent
+elements, we prove that $S$ is an inverse semigroup which is the disjoint union
+of Higman groups and at most one cyclic group $C_n$ with $n \in \{5,8,12\}$.

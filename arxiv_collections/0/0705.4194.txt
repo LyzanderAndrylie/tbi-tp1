@@ -1,0 +1,9 @@
+Let $M$ be a 1-connected closed manifold and $LM$ be the space of free loops
+on $M$. In \cite{C-S} M. Chas and D. Sullivan defined a structure of BV-algebra
+on the singular homology of $LM$, $H_\ast(LM; \bk)$. When the field of
+coefficients is of characteristic zero, we prove that there exists a BV-algebra
+structure on $\hH^\ast(C^\ast (M); C^\ast (M))$ which carries the canonical
+structure of Gerstenhaber algebra. We construct then an isomorphism of
+BV-algebras between $\hH^\ast (C^\ast (M); C^\ast (M)) $ and the shifted $
+H_{\ast+m} (LM; {\bk})$. We also prove that the Chas-Sullivan product and the
+BV-operator behave well with the Hodge decomposition of $H_\ast (LM) $.

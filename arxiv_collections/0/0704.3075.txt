@@ -1,0 +1,7 @@
+We analyze how measured quantum dynamical systems store and process
+information, introducing sofic quantum dynamical systems. Using recently
+introduced information-theoretic measures for quantum processes, we quantify
+their information storage and processing in terms of entropy rate and excess
+entropy, giving closed-form expressions where possible. To illustrate the
+impact of measurement on information storage in quantum processes, we analyze
+two spin-1 sofic quantum systems that differ only in how they are measured.

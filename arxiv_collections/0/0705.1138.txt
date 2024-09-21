@@ -1,0 +1,11 @@
+We evaluate a Gaussian entanglement measure for a symmetric two-mode Gaussian
+state of the quantum electromagnetic field in terms of its Bures distance to
+the set of all separable Gaussian states. The required minimization procedure
+was considerably simplified by using the remarkable properties of the Uhlmann
+fidelity as well as the standard form II of the covariance matrix of a
+symmetric state. Our result for the Gaussian degree of entanglement measured by
+the Bures distance depends only on the smallest symplectic eigenvalue of the
+covariance matrix of the partially transposed density operator. It is thus
+consistent to the exact expression of the entanglement of formation for
+symmetric two-mode Gaussian states. This non-trivial agreement is specific to
+the Bures metric.

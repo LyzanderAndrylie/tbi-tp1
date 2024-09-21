@@ -1,0 +1,9 @@
+We investigate the dynamics of a relativistic electron in a strongly
+nonlinear plasma wave in terms of classical mechanics by taking into account
+the action of the radiative reaction force. The two limiting cases are
+considered. In the first case where the energy of the accelerated electrons is
+low, the electron makes many betatron oscillations during the acceleration. In
+the second case where the energy of the accelerated electrons is high, the
+betatron oscillation period is longer than the electron residence time in the
+accelerating phase. We show that the force of radiative friction can severely
+limit the rate of electron acceleration in a plasma accelerator.

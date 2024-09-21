@@ -1,0 +1,7 @@
+Conditions for the gluing matrix defining consistent boundary conditions of
+two-dimensional nonlinear sigma-models are analyzed and reformulated.
+Transformation properties of the right-invariant fields under Poisson-Lie
+T-plurality are used to derive a formula for the transformation of the boundary
+conditions. Examples of transformation of D-branes in two and three dimensions
+are presented. We investigate obstacles arising in this procedure and propose
+possible solutions.

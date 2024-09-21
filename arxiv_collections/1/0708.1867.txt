@@ -1,0 +1,9 @@
+We consider some classical fibre bundles furnished with almost complex
+structures of twistor type, deduce their integrability in some cases and study
+\textit{self-holomorphic} sections of a \textit{symplectic} twistor space. With
+these we define a moduli space of $\omega$-compatible complex structures. We
+recall the theory of flag manifolds in order to study the Siegel domain and
+other domains alike, which is the fibre of the referred twistor space. Finally
+the structure equations for the twistor of a Riemann surface with the canonical
+symplectic-metric connection are deduced, based on a given conformal coordinate
+on the surface. We then relate with the moduli space defined previously.

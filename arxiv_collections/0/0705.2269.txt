@@ -1,0 +1,24 @@
+We investigate the coupled formation and evolution of galaxies and their
+embedded supermassive black holes using state-of-the-art hydrodynamic
+simulations of cosmological structure formation. For the first time, we
+self-consistently follow the dark matter dynamics, radiative gas cooling, star
+formation, as well as black hole growth and associated feedback processes,
+starting directly from initial conditions appropriate for the LambdaCDM
+cosmology. Our modeling of the black hole physics is based on an approach we
+have developed in simulations of isolated galaxy mergers. Here we examine: (i)
+the predicted global history of black hole mass assembly (ii) the evolution of
+the local black hole-host mass correlations and (iii) the conditions that allow
+rapid growth of the first quasars, and the properties of their hosts and
+descendants today. We find a total black hole mass density in good agreement
+with observational estimates. The black hole accretion rate density peaks at
+lower redshift and evolves more strongly at high redshift than the star
+formation rate density, but the ratio of black hole to stellar mass densities
+shows only a moderate evolution at low redshifts. We find strong correlations
+between black hole masses and properties of the stellar systems, agreeing well
+with the measured local M_BH-sigma and M_BH -M_* relationships, but also
+suggesting (dependent on the mass range) a weak evolution with redshift in the
+normalization and the slope. Our simulations also produce massive black holes
+at high redshift, due to extended periods of exponential growth in regions that
+collapse early and exhibit strong gas inflows. These first supermassive BH
+systems however are not necessarily the most massive ones today, since they are
+often overtaken in growth by quasars that form later. (abridged)

@@ -1,0 +1,11 @@
+Noether-Lefschetz divisors in the moduli of K3 surfaces are the loci
+corresponding to Picard rank at least 2. We relate the degrees of the
+Noether-Lefschetz divisors in 1-parameter families of K3 surfaces to the
+Gromov-Witten theory of the 3-fold total space. The reduced K3 theory and the
+Yau-Zaslow formula play an important role. We use results of Borcherds and
+Kudla-Millson for O(2,19) lattices to determine the Noether-Lefschetz degrees
+in classical families of K3 surfaces of degrees 2, 4, 6 and 8. For the quartic
+K3 surfaces, the Noether-Lefschetz degrees are proven to be the Fourier
+coefficients of an explicitly computed modular form of weight 21/2 and level 8.
+The interplay with mirror symmetry is discussed. We close with a conjecture on
+the Picard ranks of moduli spaces of K3 surfaces.

@@ -1,0 +1,6 @@
+We extend harmonic map techniques to the setting of more general differential
+equations in conformal geometry. We obtain an extension of Siu's rigidity to
+Kahler-Weyl geometry and apply the latter to Vaisman's conjecture. Other
+applications include topological obstructions to the existence of Kahler-Weyl
+structures. For example, we show that no co-compact lattice in SO(1,n), n>2,
+can be the fundamental group of a compact Kahler-Weyl manifold of certain type.

@@ -1,0 +1,12 @@
+We present results on the performance of the first prototype of the CASTOR
+quartz-tungsten sampling calorimeter, to be installed in the very forward
+region of the CMS experiment at the LHC. This study includes GEANT Monte Carlo
+simulations of the Cherenkov light transmission efficiency of different types
+of air-core light guides, as well as analysis of the calorimeter linearity and
+resolution as a function of energy and impact-point, obtained with 20-200 GeV
+electron beams from CERN/SPS tests in 2003. Several configurations of the
+calorimeter have been tested and compared, including different combinations of
+(i) structures for the active material of the calorimeter (quartz plates and
+fibres), (ii) various light-guide reflecting materials (glass and foil
+reflectors) and (iii) photodetector devices (photomultipliers and avalanche
+photodiodes).

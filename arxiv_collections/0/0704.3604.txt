@@ -1,0 +1,22 @@
+We use HST/ACS observations of the spiral galaxy M51 in F435W, F555W and
+F814W to select a large sample of star clusters with accurate effective radius
+measurements in an area covering the complete disc of M51. We present the
+dataset and study the radius distribution and relations between radius, colour,
+arm/interarm region, galactocentric distance, mass and age. We select a sample
+of 7698 (F435W), 6846 (F555W) and 5024 (F814W) slightly resolved clusters and
+derive their effective radii by fitting the spatial profiles with analytical
+models convolved with the point spread function. The radii of 1284 clusters are
+studied in detail. We find cluster radii between 0.5 and ~10 pc, and one
+exceptionally large cluster candidate with a radius of 21.6 pc. The median
+radius is 2.1 pc. We find 70 clusters in our sample which have colours
+consistent with being old GC candidates and we find 6 new "faint fuzzy"
+clusters in, or projected onto, the disc of M51. The radius distribution can
+not be fitted with a power law, but a log-normal distribution provides a
+reasonable fit to the data. This indicates that shortly after the formation of
+the clusters from a fractal gas, their radii have changed in a non-uniform way.
+We find an increase in radius with colour as well as a higher fraction of
+redder clusters in the interarm regions, suggesting that clusters in spiral
+arms are more compact. We find a correlation between radius and galactocentric
+distance which is considerably weaker than the observed correlation for old
+Milky Way GCs. We find weak relations between cluster luminosity and radius,
+but we do not observe a correlation between cluster mass and radius.

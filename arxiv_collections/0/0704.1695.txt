@@ -1,0 +1,6 @@
+We present a detailed calculation of the electron-positron production rate
+using neutrinos in an intense background magnetic field. The computation is
+done for the process nu -> nu e- e+ (where nu can be nu_e, nu_mu, or nu_tau)
+within the framework of the Standard Model. Results are given for various
+combinations of Landau-levels over a range of possible incoming neutrino
+energies and magnetic field strengths.

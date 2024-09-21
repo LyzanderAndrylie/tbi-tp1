@@ -1,0 +1,5 @@
+We study a mean-field relativistic model which is able to describe both the
+behavior of finitely many spin-1/2 particles like electrons and of the Dirac
+sea which is self-consistently polarized in the presence of the real particles.
+The model is derived from the QED Hamiltonian in Coulomb gauge neglecting the
+photon field. All our results are non-perturbative and mathematically rigorous.

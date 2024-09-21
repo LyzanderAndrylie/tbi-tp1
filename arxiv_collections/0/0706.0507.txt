@@ -1,0 +1,21 @@
+The new requirement for "collaboration" between multidisciplinary
+collaborators induces to exchange and share adequate information on the
+product, processes throughout the products' lifecycle. Thus, effective capture
+of information, and also its extraction, recording, exchange, sharing, and
+reuse become increasingly critical. These lead companies to adopt new improved
+methodologies in managing the exchange and sharing of information. The aim of
+this paper is to describe a collaborative framework system to exchange and
+share information, which is based on: (i) The Product Process Collaboration
+Organization model (PPCO) which defines product and process information, and
+the various collaboration methods for the organizations involved in the supply
+chain. (ii) Viewpoint model describes relationships between each actor and the
+comprehensive Product/Process model, defining each actor's "domain of interest"
+within the evolving product definition. (iii) A layer which defines the
+comprehensive organization and collaboration relationships between the actors
+within the supply chain. (iv) Based on the above relationships, the last layer
+proposes a typology of exchanged messages. A communication method, based on
+XML, is developed that supports optimal exchange/sharing of information. To
+illustrate the proposed framework system, an example is presented related to
+collaborative design of a new piston for an automotive engine. The focus is on
+user-viewpoint integration to ensure that the adequate information is retrieved
+from the PPCO.

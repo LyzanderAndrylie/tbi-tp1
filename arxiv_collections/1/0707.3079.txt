@@ -1,0 +1,19 @@
+We review recently developed two-step approach for description of electronic
+and magnetic properties of a new class of materials, the diluted magnetic
+semiconductors. In the first step we construct, on the basis of the
+state-of-the-art first-principles electronic structure calculations, the
+effective Ising and Heisenberg Hamiltonians which describe, respectively, the
+alloy phase stability and the magnetic excitations in the system. In the second
+step, we analyze properties of these effective Hamiltonians by various methods
+of statistical physics. As a case study, the prototypical diluted magnetic
+semiconductor Ga_{1-x}Mn_{x}As is studied in detail. We determine, among
+others, a possibility for clustering in this system, formation energies of
+various compensating defects, and estimate short-range order parameters
+describing ordering tendencies in a system. On the other hand, by using
+recently developed local random-phase approximation approach, we evaluate the
+system Curie temperature and demonstrate its strong dependence on the sample
+preparation. We also emphasize the relevance of proper inclusion of the
+randomness in positions of magnetic impurities for a reliable estimate of the
+system critical temperature. Finally, we compare calculated Curie temperatures
+with available experimental data and briefly mention relation to other
+theoretical approaches.

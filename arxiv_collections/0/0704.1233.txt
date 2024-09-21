@@ -1,0 +1,8 @@
+We study the unfolding of a single polymer chain due to an external force. We
+use a simplified model which allows to perform all calculations in closed form
+without assuming a Boltzmann-Gibbs form for the equilibrium distribution.
+Temperature is then defined by calculating the Legendre transform of the
+entropy under certain constraints. The application of the model is limited to
+flexible polymers. It exhibits a gradual transition from compact globule to
+rod. The boundary line between these two phases shows reentrant behavior. This
+behavior is explained by the presence of residual entropy.

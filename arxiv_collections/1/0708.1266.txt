@@ -1,0 +1,8 @@
+We present a hybrid light-emitting diode structure composed of an n-type
+gallium nitride nanowire on a p-type silicon substrate in which current is
+injected along the length of the nanowire. The device emits ultraviolet light
+under both bias polarities. Tunnel-injection of holes from the p-type substrate
+(under forward bias) and from the metal (under reverse bias) through thin
+native oxide barriers consistently explains the observed electroluminescence
+behaviour. This work shows that the standard p-n junction model is generally
+not applicable to this kind of device structure.

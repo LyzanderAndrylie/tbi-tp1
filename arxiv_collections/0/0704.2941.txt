@@ -1,0 +1,10 @@
+Decoy State Quantum Key Distribution (QKD), being capable of beating PNS
+attack and uncon- ditionally secure, have become an attractive one recently.
+But, in many QKD systems, disturbances of transmission channel make quantum bit
+error rate (QBER) increase which limits both security distance and key bit rate
+of real-life decoy state QKD systems. We demonstrate the two-intensity decoy
+QKD with one-way Faraday-Michelson phase modulation system, which is free of
+channel dis- turbance and keeps interference fringe visibility (99%) long
+period, near 130KM single mode optical fiber in telecom (1550 nm) wavelength.
+This is longest distance fiber decoy state QKD system based on two intensity
+protocol.

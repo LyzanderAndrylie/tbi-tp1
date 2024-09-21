@@ -1,0 +1,14 @@
+The approximate atomic self-interaction corrections (ASIC) method to density
+functional theory is put to the test by calculating the exchange interaction
+for a number of prototypical materials, critical to local exchange and
+correlation functionals. ASIC total energy calculations are mapped onto an
+Heisenberg pair-wise interaction and the exchange constants J are compared to
+those obtained with other methods. In general the ASIC scheme drastically
+improves the bandstructure, which for almost all the cases investigated
+resemble closely available photo-emission data. In contrast the results for the
+exchange parameters are less satisfactory. Although ASIC performs reasonably
+well for systems where the magnetism originates from half-filled bands, it
+suffers from similar problems than those of LDA for other situations. In
+particular the exchange constants are still overestimated. This reflects a
+subtle interplay between exchange and correlation energy, not captured by the
+ASIC.

@@ -1,0 +1,16 @@
+The nonadiabatic Heisenberg model (NHM) proposed as an extension of the
+Heisenberg model makes a contribution to the eigenstate problem of
+superconductivity. The Hamiltonian H^n derived within this group-theoretical
+model has superconducting eigenstates if and only if the considered material
+possesses a narrow, roughly half-filled "superconducting" energy band of
+special symmetry in its band structure. This paper shows that the
+high-temperature superconductor YBa_2Cu_3O_7 possesses such a superconducting
+band. This new result together with previous observations about other
+superconductors and non-superconductors corroborates the theoretical evidence
+within the NHM that stable superconducting states are connected with
+superconducting bands. It is proposed that the type of superconductivity, i.e.,
+whether the material is a conventional low-T_c or a high-T_c superconductor, is
+determined by the energetically lowest boson excitations that carry the crystal
+spin 1*hbar and are sufficiently stable to transport this crystal spin-angular
+momentum through the crystal. This mechanism provides the electron-phonon
+mechanism that enters the BCS theory in conventional superconductors.

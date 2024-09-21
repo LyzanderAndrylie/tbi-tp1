@@ -1,0 +1,7 @@
+We construct a new class of physical states of the free Klein-Gordon field in
+Robertson-Walker spacetimes. This is done by minimizing the expectation value
+of smeared stress-energy. We get an explicit expression for the state depending
+on the smearing function. We call it a state of low energy. States of low
+energy are an improvement of the concept of adiabatic vacua on Robertson-Walker
+spacetimes. The latter are approximations of the former. It is shown that
+states of low energy are Hadamard states.

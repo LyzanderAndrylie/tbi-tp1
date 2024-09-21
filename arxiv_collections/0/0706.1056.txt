@@ -1,0 +1,13 @@
+In the present paper we study the spontaneous photon emission due to a
+magnetic spin-flip transition of a two-level atom in the vicinity of a
+dielectric body like a normal conducting metal or a superconductor. For
+temperatures below the transition temperature T_c of a superconductor, the
+corresponding spin-flip lifetime is boosted by several orders of magnitude as
+compared to the case of a normal conducting body. Numerical results of an exact
+formulation are also compared to a previously derived approximative analytical
+expression for the spin-flip lifetime and we find an excellent agreement. We
+present results on how the spin-flip lifetime depends on the temperature T of a
+superconducting body as well as its thickness H. Finally, we study how
+non-magnetic impurities as well as possible Eliashberg strong-coupling effects
+influence the spin-flip rate. It is found that non-magnetic impurities as well
+as strong-coupling effects have no dramatic impact on the spin-flip lifetime.

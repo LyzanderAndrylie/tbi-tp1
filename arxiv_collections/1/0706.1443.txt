@@ -1,0 +1,6 @@
+We find membrane configurations in AdS_4 x S^7, which correspond to the
+continuous limit of the SU(2) integrable spin chain, considered as a limit of
+the SU(3) spin chain, arising in N=4 SYM in four dimensions, dual to strings in
+AdS_5 x S^5. We also discuss the relationship with the Neumann-Rosochatius
+integrable system at the level of Lagrangians, comparing the string and
+membrane cases.

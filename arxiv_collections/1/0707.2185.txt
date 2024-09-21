@@ -1,0 +1,6 @@
+In this article, we propose a method for calculation of the inverse and
+direct dynamic models of the Orthoglide, a parallel robot with threedegrees of
+freedom in translation. These models are calculated starting from the elements
+of the dynamic model of the kinematic chain structure and equations of
+Newton-Euler applied to the platform. These models are obtained in explicit
+form having an interesting physical interpretation.

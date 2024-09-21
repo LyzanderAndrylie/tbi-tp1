@@ -1,0 +1,6 @@
+The velocity of a ~3 GeV neutrino beam is measured by comparing detection
+times at the Near and Far detectors of the MINOS experiment, separated by 734
+km. A total of 473 Far Detector neutrino events was used to measure (v-c)/c =
+5.1 +/- 2.9 x 10^-5 (at 68% C.L.). By correlating the measured energies of 258
+charged-current neutrino events to their arrival times at the Far Detector, a
+limit is imposed on the neutrino mass of m_nu < 50 MeV/c^2 (99% C.L.).

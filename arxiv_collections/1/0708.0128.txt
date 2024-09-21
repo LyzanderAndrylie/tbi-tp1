@@ -1,0 +1,8 @@
+We show that the slopes between h-extrema of the drifted 1D Brownian motion
+form a stationary alternating marked point process, extending the result of J.
+Neveu and J. Pitman for the non drifted case. Our analysis covers the results
+on the statistics of h-extrema obtained by P. Le Doussal, C. Monthus and D.
+Fisher via a Renormalization Group analysis and gives a complete description of
+the slope between h-extrema covering the origin by means of the Palm--Khinchin
+theory. Moreover, we analyze the behavior of the Brownian motion near its
+h-extrema.

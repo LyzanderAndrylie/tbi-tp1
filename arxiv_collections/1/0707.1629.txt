@@ -1,0 +1,9 @@
+Considering a network of dissipative quantum harmonic oscillators we deduce
+and analyze the optimum topologies which are able to store, for the largest
+period of time, a quantum superposition previously prepared in one of the
+network oscillators. The storage of the superposition is made dynamically, in
+that the state to be protected evolves through the network before being
+retrieved back in the oscillator where it was prepared. The decoherence time
+during the dynamic storage process is computed and we demonstrate that it is
+proportional to the number of oscillators in the network for a particular
+regime of parameters.

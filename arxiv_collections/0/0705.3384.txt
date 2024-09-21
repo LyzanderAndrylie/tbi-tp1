@@ -1,0 +1,11 @@
+The efficiency of a coherent VUV source at 125 nm, based on 2-photon resonant
+four-wave mixing in mercury vapor, has been enhanced by up to 2 orders of
+magnitude. This enhancement was obtained by locally heating a liquid Hg surface
+with a pulsed excimer laser, resulting in a high density vapor plume in which
+the nonlinear interaction occurred. Energies up to 5 &#956;J (1 kW peak power)
+have been achieved while keeping the overall Hg cell at room temperature,
+avoiding the use of a complex heat pipe. We have observed a strong saturation
+of the VUV yield when peak power densities of the fundamental beams exceed the
+GW/cm2 range, as well as a large intensity-dependant broadening (up to ~30
+cm-1) of the two-photon resonance. The source has potential applications for
+high resolution interference lithography and photochemistry.

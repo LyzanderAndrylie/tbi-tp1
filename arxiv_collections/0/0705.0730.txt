@@ -1,0 +1,14 @@
+The function exp(iwt) describes an oscillating motion. Energy of the
+oscillator is proportional to the square of w. exp(iwt) is the solution of a
+differential equation. We have replaced this differential equation by the
+corresponding finite-time difference equation with d as the smallest span of
+time. We have, then, symmetrized the equation so that it remains invariant
+under the change d going to -d. This symmetric equation has solutions in pairs.
+The angular speed w is modified to w' or w". w' contains a part with an
+integer. w" contains a part with a half-integer. This corresponds to quantum
+mechanical oscillator energy levels. F= a.exp(iwt) describes oscillation
+between -a and +a. If we make w=0, F describes free oscillation between -a and
++a. Reciprocal symmetric oscillator, thus, unifies quantum and classical
+harmonic oscillators on one hand, and a harmonic oscillator and a free particle
+in a potential well on the other hand. No quantum mechanical postulates are
+involved.

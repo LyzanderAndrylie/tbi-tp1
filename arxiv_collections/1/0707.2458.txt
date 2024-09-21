@@ -1,0 +1,12 @@
+Recently, a finite-temperature real-time static potential has been introduced
+via a Schr\"odinger-type equation satisfied by a certain heavy quarkonium
+Green's function. Furthermore, it has been pointed out that it possesses an
+imaginary part, which induces a finite width for the tip of the quarkonium peak
+in the thermal dilepton production rate. The imaginary part originates from
+Landau-damping of low-frequency gauge fields, which are essentially classical
+due to their high occupation number. Here we show how the imaginary part can be
+measured with classical lattice gauge theory simulations, accounting
+non-perturbatively for the infrared sector of finite-temperature field theory.
+We demonstrate that a non-vanishing imaginary part indeed exists
+non-perturbatively; and that its value agrees semi-quantitatively with that
+predicted by Hard Loop resummed perturbation theory.

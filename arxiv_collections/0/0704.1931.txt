@@ -1,0 +1,11 @@
+We propose a scalable approach to building cluster states of matter qubits
+using coherent states of light. Recent work on the subject relies on the use of
+single photonic qubits in the measurement process. These schemes have a low
+initial success probability and low detector efficiencies cause a serious
+blowup in resources. In contrast, our approach uses continuous variables and
+highly efficient measurements. We present a two-qubit scheme, with a simple
+homodyne measurement system yielding an entangling operation with success
+probability 1/2. Then we extend this to a three-qubit interaction, increasing
+this probability to 3/4. We discuss the important issues of the overhead cost
+and the time scaling, showing how these can be vastly improved with access to
+this new probability range.

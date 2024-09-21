@@ -1,0 +1,11 @@
+The manipulation of locked intrinsic localized modes/discrete breathers is
+studied experimentally in nonlinear electric transmission line arrays.
+Introducing a static lattice impurity in the form of a capacitor, resistor or
+inductor has been used both to seed or destroy and attract or repel these
+localized excitations. In a nonlinear di-element array counter propagating
+short electrical pulses traveling in the acoustic branch are used to generate a
+stationary intrinsic localized mode in the optic branch at any particular
+lattice site. By changing the pulse polarity the same localized excitation can
+be eliminated demonstrating that the dynamical impurity associated with the
+propagating electrical pulse in the acoustic branch can trigger optical
+localized mode behavior.

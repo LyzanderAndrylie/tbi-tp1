@@ -1,0 +1,13 @@
+Comparison of the thermodynamic entropy with Boltzmann's principle shows that
+under conditions of constant volume the total number of arrangements in simple
+thermodynamic systems with temperature-independent heat capacities is TC/k. A
+physical interpretation of this function is given for three such systems; an
+ideal monatomic gas, an ideal gas of diatomic molecules with rotational motion,
+and a solid in the Dulong-Petit limit of high temperature. T1/2 emerges as a
+natural measure of the number of accessible states for a single particle in one
+dimension. Extension to N particles in three dimensions leads to TC/k as the
+total number of possible arrangements or microstates. The different microstates
+of the system are thus shown a posteriori to be equally probable, with
+probability T-C/k, which implies that for the purposes of counting states the
+particles of the gas are distinguishable. The most probable energy state of the
+system is determined by the degeneracy of the microstates.

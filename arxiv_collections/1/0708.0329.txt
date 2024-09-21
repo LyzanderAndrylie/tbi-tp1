@@ -1,0 +1,4 @@
+The general model of coagulation is considered.
+  For basic classes of unbounded coagulation kernels the central limit theorem
+(CLT) is obtained for the fluctuations around the dynamic law of large numbers
+(LLN). A rather precise rate of convergence is given both for LLN and CLT.

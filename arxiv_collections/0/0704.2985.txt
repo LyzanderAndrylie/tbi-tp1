@@ -1,0 +1,21 @@
+First principles calculations were performed to study the ground state
+electronic properties of BaFeO3 (BFO) within the density functional theory
+(DFT). Adopting generalized gradient approximation (GGA) exchange and
+correlation functional and Vosko-Wilk-Nusair correlation energy functional
+interpolation, we have systematically conducted the band structure, density of
+states and electronic distribution along different crystalline planes.
+Calculating results show that band gap in the majority spin band structure and
+band gap in the minority spin band structure were found to be 2.7012 eV and
+0.6867 eV respectively. Up-spin Fe t2g were fully occupied and down-spin Fe eg
+were empty. Moreover, the up-spin Fe eg and down-spin Fe t2g were partially
+occupied near the Fermi energy, leading to a finite density of states. The
+Fe4+-O-Fe4+ plane superexchange coupling should rearrange the magnetic order to
+make the ferromagnetic characteristic being possible, moreover the tetragonal
+displacement along the c axis could induce the perovskites materials to acquire
+ferroelectric property. These reasons could lead to the fact that the
+tetragonal phase BFO could be a potential multiferroics while it was produced
+under the very experimental conditions. The charge density along different
+crystalline planes were illustrated to show that strong covalent bonding
+between O and Fe can be used to investigate the exchange coupling, and this
+strong hybridization may further increase the superexchange coupling to enhance
+the magnetic ordering.

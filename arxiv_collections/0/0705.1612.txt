@@ -1,0 +1,16 @@
+In this paper, a family of low-density parity-check (LDPC) degree
+distributions, whose decoding threshold on the binary erasure channel (BEC)
+admits a simple closed form, is presented. These degree distributions are a
+subset of the check regular distributions (i.e. all the check nodes have the
+same degree), and are referred to as $p$-positive distributions. It is given
+proof that the threshold for a $p$-positive distribution is simply expressed by
+$[\lambda'(0)\rho'(1)]^{-1}$. Besides this closed form threshold expression,
+the $p$-positive distributions exhibit three additional properties. First, for
+given code rate, check degree and maximum variable degree, they are in some
+cases characterized by a threshold which is extremely close to that of the best
+known check regular distributions, under the same set of constraints. Second,
+the threshold optimization problem within the $p$-positive class can be solved
+in some cases with analytic methods, without using any numerical optimization
+tool. Third, these distributions can achieve the BEC capacity. The last
+property is shown by proving that the well-known binomial degree distributions
+belong to the $p$-positive family.

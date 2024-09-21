@@ -1,0 +1,12 @@
+The orbits of stars close to a massive black hole are nearly Keplerian
+ellipses. Such orbits exert long term torques on each other, which lead to an
+enhanced angular momentum relaxation known as resonant relaxation. Under
+certain conditions, this process can modify the angular momentum distribution
+and affect the interaction rates of the stars with the massive black hole more
+efficiently than non-resonant relaxation. The torque on an orbit exerted by the
+cluster depends on the eccentricity of the orbit. In this paper, we calculate
+this dependence and determine the resonant relaxation timescale as a function
+of eccentricity. In particular, we show that the component of the torque that
+changes the magnitude of the angular momentum is linearly proportional to
+eccentricity, so resonant relaxation is much more efficient on eccentric orbits
+than on circular orbits.

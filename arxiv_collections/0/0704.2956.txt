@@ -1,0 +1,8 @@
+We discuss in this paper two ways of defining the concept of "effective field
+theory": effective field theory defined by low energy effectiveness and
+effective field theory defined by 4D effectiveness out of higher dimensions. We
+argue that these two views are actually equivalent, that effective field
+theories at low energy can in fact be regarded as field theories of higher
+dimensions confined on a 4D spcaetime. We examine this idea through comparing
+two different regularization schemes: Momentum Cutoff and Dimensional
+Regularization, and through analyzing how fields can be localized on branes.

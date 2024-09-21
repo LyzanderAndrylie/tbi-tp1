@@ -1,0 +1,20 @@
+Kinetic equations governing time evolution of positions and momenta of atoms
+in extended systems are derived using quantum-classical ensembles within the
+Non-Equilibrium Statistical Operator Method (NESOM). Ions are treated
+classically, while their electrons quantum mechanically; however, the
+statistical operator is not factorised in any way and no simplifying
+assumptions are made concerning the electronic subsystem. Using this method, we
+derive kinetic equations of motion for the classical degrees of freedom (atoms)
+which account fully for the interaction and energy exchange with the quantum
+variables (electrons). Our equations, alongside the usual Newtonian-like terms
+normally associated with the Ehrenfest dynamics, contain additional terms,
+proportional to the atoms velocities, which can be associated with the
+electronic friction. Possible ways of calculating the friction forces which are
+shown to be given via complicated non-equilibrium correlation functions, are
+discussed. In particular, we demonstrate that the correlation functions are
+directly related to the thermodynamic Matsubara Green's functions, and this
+relationship allows for the diagrammatic methods to be used in treating
+electron-electron interaction perturbatively when calculating the correlation
+functions. This work also generalises previous attempts, mostly based on model
+systems, of introducing the electronic friction into Molecular Dynamics
+equations of atoms.

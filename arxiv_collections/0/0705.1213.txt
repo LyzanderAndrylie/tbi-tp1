@@ -1,0 +1,6 @@
+This note is a correction of (statement and proof of) proposition 3.3.1 of
+Toby Gee's preprint intitled *On the weights of mod p Hilbert modular forms*.
+The aim is to compare Galois representations arising from extensions of some
+group schemes (over the ring of integers of a p-adic field) endowed with a
+descent data, and extensions of some crystalline representations with given
+Hodge-Tate weights. The main tool of the proof is the theory of Breuil.

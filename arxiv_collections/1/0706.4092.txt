@@ -1,0 +1,11 @@
+The release of a gas limited by surface desorption, or by diffusion from the
+bulk of spherical pebbles is revisited. A method is proposed to identify the
+release limiting process, by comparing a partial temperature ramp, up to
+slightly beyond the release peak, followed by a rapid temperature drop, to a
+second, full release ramp. Comparing the release curve from the second ramp to
+that of the first one: i) the peak is unmoved in first order desorption
+kinetics, and moves to higher temperature in the other cases, ii) as compared
+to the Arrhenius analysis of the first curve, that of the second is, again,
+identical in first order kinetics, in second order desorption it maintains the
+slope but lowers the intercept at the reciprocal temperature origin, and it is
+inapplicable in bulk diffusion kinetics.

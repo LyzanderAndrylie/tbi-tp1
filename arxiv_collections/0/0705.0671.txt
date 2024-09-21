@@ -1,0 +1,19 @@
+We determine the energetically lowest lying states in the BEC-BCS crossover
+regime of s-wave interacting two-component Fermi gases under harmonic
+confinement by solving the many-body Schrodinger equation using two distinct
+approaches. Essentially exact basis set expansion techniques are applied to
+determine the energy spectrum of systems with N=4 fermions. Fixed-node
+diffusion Monte Carlo methods are applied to systems with up to N=20 fermions,
+and a discussion of different guiding functions used in the Monte Carlo
+approach to impose the proper symmetry of the fermionic system is presented.
+The energies are calculated as a function of the s-wave scattering length a_s
+for N=2-20 fermions and different mass ratios \kappa of the two species. On the
+BEC and BCS sides, our energies agree with analytically-determined first-order
+correction terms. We extract the scattering length and the effective range of
+the dimer-dimer system up to \kappa = 20. Our energies for the
+strongly-interacting trapped system in the unitarity regime show no shell
+structure, and are well described by a simple expression, whose functional form
+can be derived using the local density approximation, with one or two
+parameters. The universal parameter \xi for the trapped system for various
+\kappa is determined, and comparisons with results for the homogeneous system
+are presented.

@@ -1,0 +1,6 @@
+We consider a factorization of the non-stationary Schrodinger operator based
+on the parabolic Dirac operator introduced by Cerejeiras/ Kahler/ Sommen. Based
+on the fundamental solution for the parabolic Dirac operators, we shall
+construct appropriated Teodorescu and Cauchy-Bitsadze operators. Afterwards we
+will describe how to solve the nonlinear Schrodinger equation using Banach
+fixed point theorem.

@@ -1,0 +1,10 @@
+Anomalous scaling in the statistics of an active scalar in homogeneous
+turbulent convection is studied using a dynamical shell model. We extend
+refined similarity ideas for homogeneous and isotropic turbulence to
+homogeneous turbulent convection and attribute the origin of the anomalous
+scaling to variations of the entropy transfer rate. We verify the consequences
+and thus the validity of our hypothesis by showing that the conditional
+statistics of the active scalar and the velocity at fixed values of entropy
+transfer rate are not anomalous but have simple scaling with exponents given by
+dimensional considerations, and that the intermittency corrections are given by
+the scaling exponents of the moments of the entropy transfer rate.

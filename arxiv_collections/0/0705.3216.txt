@@ -1,0 +1,8 @@
+Dynamical properties of complex networks are related to the spectral
+properties of the Laplacian matrix that describes the pattern of connectivity
+of the network. In particular we compute the synchronization time for different
+types of networks and different dynamics. We show that the main dependence of
+the synchronization time is on the smallest nonzero eigenvalue of the Laplacian
+matrix, in contrast to other proposals in terms of the spectrum of the
+adjacency matrix. Then, this topological property becomes the most relevant for
+the dynamics.

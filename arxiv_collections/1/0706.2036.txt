@@ -1,0 +1,11 @@
+We experimentally demonstrate a cancellation of back-action noise in optical
+measurements. Back-action cancellation was first proposed within the framework
+of gravitational-wave detection by dual resonators as a way to drastically
+improve their sensitivity. We have developed an experiment based on a
+high-finesse Fabry-Perot cavity to study radiation-pressure effects in
+ultra-sensitive displacement measurements. Using an intensity-modulated
+intracavity field to mimic the quantum radiation-pressure noise, we report the
+first observation of back-action cancellation due to a destructive interference
+between radiation-pressure effects on both mirrors of the cavity. We have
+observed a sensitivity improvement by a factor larger than 20 both in
+displacement and weak force measurements.

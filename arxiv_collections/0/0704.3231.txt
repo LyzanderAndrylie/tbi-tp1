@@ -1,0 +1,15 @@
+Given an object over the algebraic closure Qbar of Q, there is often no
+reason for invariants of the corresponding holomorphic object to be preserved
+by the absolute Galois group Gal(Qbar/Q), and in general this is not true,
+although it is sometimes surprising to observe in practice. The case of covers
+of the projective line branched only over the points 0, 1, and infinity,
+through Belyi's theorem, leads to Grothendieck's dessins d'enfants program for
+understanding the absolute Galois group through its faithful action on such
+covers. This note is motivated by Catanese's question about a
+higher-dimensional analogue: does the absolute Galois group act faithfully on
+the deformation equivalence classes of smooth surfaces? (These equivalence
+classes are of course by definition the strongest deformation invariants.) We
+give a short proof of a weaker result: the absolute Galois group acts
+faithfully on the irreducible components of the moduli space of smooth surfaces
+(of general type, canonically polarized). Bauer, Catanese, and Grunewald have
+recently answered Catanese's original question using a different construction.

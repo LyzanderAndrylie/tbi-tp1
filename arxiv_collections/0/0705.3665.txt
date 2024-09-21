@@ -1,0 +1,14 @@
+An array of Neutral-Current Detectors (NCDs) has been built in order to make
+a unique measurement of the total active flux of solar neutrinos in the Sudbury
+Neutrino Observatory (SNO). Data in the third phase of the SNO experiment were
+collected between November 2004 and November 2006, after the NCD array was
+added to improve the neutral-current sensitivity of the SNO detector. This
+array consisted of 36 strings of proportional counters filled with a mixture of
+$^3$He and CF$_4$ gas capable of detecting the neutrons liberated by the
+neutrino-deuteron neutral current reaction in the D$_2$O, and four strings
+filled with a mixture of $^4$He and CF$_4$ gas for background measurements. The
+proportional counter diameter is 5 cm. The total deployed array length was 398
+m. The SNO NCD array is the lowest-radioactivity large array of proportional
+counters ever produced. This article describes the design, construction,
+deployment, and characterization of the NCD array, discusses the electronics
+and data acquisition system, and considers event signatures and backgrounds.

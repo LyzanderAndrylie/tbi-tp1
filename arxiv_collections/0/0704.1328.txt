@@ -1,0 +1,20 @@
+Diffuse emission is produced in energetic cosmic ray (CR) interactions,
+mainly protons and electrons, with the interstellar gas and radiation field and
+contains the information about particle spectra in distant regions of the
+Galaxy. It may also contain information about exotic processes such as dark
+matter annihilation, black hole evaporation etc. A model of the diffuse
+emission is important for determination of the source positions and spectra.
+Calculation of the Galactic diffuse continuum gamma-ray emission requires a
+model for CR propagation as the first step. Such a model is based on theory of
+particle transport in the interstellar medium as well as on many kinds of data
+provided by different experiments in Astrophysics and Particle and Nuclear
+Physics. Such data include: secondary particle and isotopic production cross
+sections, total interaction nuclear cross sections and lifetimes of radioactive
+species, gas mass calibrations and gas distribution in the Galaxy (H_2, H I, H
+II), interstellar radiation field, CR source distribution and particle spectra
+at the sources, magnetic field, energy losses, gamma-ray and synchrotron
+production mechanisms, and many other issues. We are continuously improving the
+GALPROP model and the code to keep up with a flow of new data. Improvement in
+any field may affect the Galactic diffuse continuum gamma-ray emission model
+used as a background model by the GLAST LAT instrument. Here we report about
+the latest improvements of the GALPROP and the diffuse emission model.

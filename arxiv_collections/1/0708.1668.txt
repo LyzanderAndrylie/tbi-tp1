@@ -1,0 +1,7 @@
+We report an improved measurement of the B+ -> D+ D0bar and B0 -> D0 D0bar
+decays based on 656.7 10^6 BBar events collected with the Belle detector at
+KEKB. We measure the branching fraction and charge asymmetry for the B+ -> D+
+D0bar decay: Br(B+ -> D+ D0bar)= (3.85 +- 0.31 +- 0.38) 10^-4 and A_{CP}(B+ ->
+D+ D0bar)=0.00 +- 0.08 +- 0.02, where the first error is statistical and the
+second is systematical. We also set the upper limit for the B0 -> D0 D0bar
+decay: Br(B0 -> D0 D0bar) < 0.42 10^-4 at 90% CL.

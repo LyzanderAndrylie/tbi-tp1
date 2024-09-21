@@ -1,0 +1,5 @@
+In this paper we describe the well studied process of renormalization of
+quadratic polynomials from the point of view of their natural extensions. In
+particular, we describe the topology of the inverse limit of infinitely
+renormalizable quadratic polynomials and prove that when they satisfy a-priori
+bounds, the topology is rigid modulo its combinatorics.

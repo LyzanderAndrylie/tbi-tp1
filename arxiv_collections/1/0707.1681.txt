@@ -1,0 +1,7 @@
+We investigate the static and dynamic properties of a celebrated model of
+social segregation, providing a complete explanation of the mechanisms leading
+to segregation both in one- and two-dimensional systems. Standard statistical
+physics methods shed light on the rich phenomenology of this simple model,
+exhibiting static phase transitions typical of kinetic constrained models,
+nontrivial coarsening like in driven-particle systems and percolation-related
+phenomena.

@@ -1,0 +1,11 @@
+The Lifshitz-type formulas describing the free energy and the force of the
+van der Waals interaction between an atom (molecule) and a single-wall carbon
+nanotube are obtained. The single-wall nanotube is considered as a cylindrical
+sheet carrying a two-dimensional free electron gas with appropriate boundary
+conditions on the electromagnetic field. The obtained formulas are used to
+calculate the van der Waals free energy and force between a hydrogen atom
+(molecule) and single-wall carbon nanotubes of different radia. Comparison
+studies of the van der Waals interaction of hydrogen atoms with single- and
+multi-wall carbon nanotubes show that depending on atom-nanotube separation
+distance the idealization of graphite dielectric permittivity is already
+applicable to nanotubes with only two or three walls.

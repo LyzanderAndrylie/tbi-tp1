@@ -1,0 +1,10 @@
+We propose a minimal model resolving a puzzle of enigmatic correlations
+observed in sodium-rich Na$_x$CoO$_2$ where one expects a simple, free motion
+of the dilute $S=1/2$ holes doped into a band insulator NaCoO$_2$. The model
+also predicts singlet superconductivity at experimentally observed
+compositions. The model is based on a key property of cobalt oxides -- the
+spin-state quasidegeneracy of CoO$_6$ octahedral complex -- leading to an
+unusual physics of, {\it e.g.}, LaCoO$_3$. We show that correlated hopping
+between $t_{2g}$ and $e_g$ states leads to the spin-polaron physics at $x\sim
+1$, and to an extended s-wave pairing at larger doping when coherent fermionic
+bands are formed.

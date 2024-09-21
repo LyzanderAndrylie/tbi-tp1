@@ -1,0 +1,22 @@
+Van Marle et al. (2005) showed that circumstellar absorption lines in early
+Type Ib/c supernova and gamma-ray burst afterglow spectra may reveal the
+progenitor evolution of the exploding Wolf-Rayet star. While the quoted paper
+deals with Wolf-Rayet stars which evolved through a red supergiant stage, we
+investigate here the initially more massive Wolf-Rayet stars which are thought
+to evolve through a Luminous Blue Variable (LBV) stage. We perform hydrodynamic
+simulations of the evolution of the circumstellar medium around a 60 Msol star,
+from the main sequence through the LBV and Wolf-Rayet stages, up to core
+collapse. We then compute the column density of the circumstellar matter as a
+function of radial velocity, time and angle. This allows a comparison with the
+number and blue-shifts, of absorption components in the spectra of LBVs,
+Wolf-Rayet stars, Type Ib/c supernovae and gamma-ray burst afterglows. Our
+simulation for the post-LBV stage shows the formation of various absorption
+components, which are, however, rather short lived; they dissipate on time
+scales shorter than 50,000yr. As the LBV stage is thought to occur at the
+beginning of core helium burning, the remaining Wolf-Rayet life time is
+expected to be one order of magnitude larger. When interpreting the absorption
+components in the afterglow spectrum of GRB-021004 as circumstellar, it can be
+concluded that the progenitor of this source did most likely not evolve through
+an LBV stage. However, a close binary with late common-envelope phase (Case C)
+may produce a circumstellar medium that closely resembles the LBV to Wolf-Rayet
+evolution, but with a much shorter Wolf-Rayet period.

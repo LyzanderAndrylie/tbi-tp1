@@ -1,0 +1,19 @@
+In the variational cluster approximation (VCA) (or variational cluster
+perturbation theory), widely used to study the Hubbard model, a fundamental
+problem that renders variational solutions difficult in practice is its known
+lack of convexity at stationary points, i.e. the physical solutions can be
+saddle points rather than extrema of the self-energy functional. Here we
+suggest two different approaches to construct a convex functional of the
+self-energy. In the first approach, one can show analytically that in the
+approximation where the irreducible particle-hole vertex depends only on center
+of mass coordinates, the functional is convex away from phase transitions in
+the corresponding channel. Numerical tests on a tractable version of that
+functional show that convexity can be a nuisance when looking for instabilities
+both in the pairing and particle-hole channels. Therefore, an alternative
+phenomenological functional is proposed. Convexity is explicitly enforced only
+with respect to a restricted set of variables, such as the cluster chemical
+potential that is known to be otherwise problematic. Numerical tests show that
+our functional is convex at the physical solutions of VCA and allows
+second-order phase transitions in the pairing channel as well. This opens the
+way to the use of more efficient algorithms to find solutions of the VCA
+equations.

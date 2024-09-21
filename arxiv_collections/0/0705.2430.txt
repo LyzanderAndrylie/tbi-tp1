@@ -1,0 +1,9 @@
+We discuss massive scalar perturbations of a Schwarzschild black hole. We
+argue that quantum effects alter the effective potential near the horizon
+resulting in Poincare recurrences in Green functions. Results at the
+semi-classical level are independent of the details of the modification of the
+potential provided its minimum near the horizon is inversely proportional to
+the square of the Poincare time. This modification may be viewed as a change in
+the near-horizon geometry. We consider explicitly the examples of a brick wall,
+a smooth cutoff and a wormhole-like modification showing that they all lead to
+the same results at leading order.

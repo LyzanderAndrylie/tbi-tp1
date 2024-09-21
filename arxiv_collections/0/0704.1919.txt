@@ -1,0 +1,17 @@
+Transiting extrasolar planets are now discovered jointly by photometric
+surveys and by radial velocimetry. We want to determine whether the different
+data sets are compatible between themselves and with models of the evolution of
+extrasolar planets. We simulate directly a population of stars corresponding to
+the OGLE transit survey and assign them planetary companions based on radial
+velocimetry discoveries. We use a model of the evolution and structure of giant
+planets assuming a variable fraction of heavy elements. The output list of
+detectable planets of the simulations is compared to the real detections. We
+confirm that the radial velocimetry and photometric survey data sets are
+compatible within the statistical errors, assuming that planets with periods
+between 1 and 2 days are approximately 5 times less frequent than planets with
+periods between 2 and 5 days. We show that evolution models fitting present
+observational constraints predict a lack of small giant planets with large
+masses. We also identify distinct populations of planets: those with short
+periods (P < 10d) are only found in orbit around metal-rich stars with [Fe/H] >
+-0.07. We further confirm the relative absence of low-mass giant planets at
+small orbital distances.

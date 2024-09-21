@@ -1,0 +1,13 @@
+Based on the fact that for an isotropic material model the elastic predictor
+and the projected stress tensors have the same eigenvectors, it is shown that
+the scalar damage can be obtained directly from the projection algorithm. This
+eliminates the difficulty of a proper definition of equivalent strain which
+serves as a driving force for evolution of damage in concrete. Moreover, if
+eigenvectors are known it is not more nec-essary to use invariants of the
+stress tensor for the formulation of loading surface. In the present model the
+loading surface is represented in the polynomial form. This has two advantages:
+(i) it automatically fulfils C1 continuity and (ii) plane stress formulation is
+achieved by simply setting the third stress to zero. The perform-ance of the
+model is illustrated on example of a mixed-mode fracture of concrete. It is
+shown that for the pre-sent example the model prediction strongly depends on
+the choice of the stress degradation law.

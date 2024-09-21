@@ -1,0 +1,7 @@
+Starting from Gaussian random matrix models we derive a new supermatrix field
+theory model. In contrast to the conventional non-linear sigma models, the new
+model is applicable for any range of correlations of the elements of the random
+matrices. We clarify the domain of integration for the supermatrices, and give
+a demonstration of how the model works by calculating the density of states for
+an ensemble of almost diagonal matrices. It is also shown how one can reduce
+the supermatrix model to the conventional sigma model.

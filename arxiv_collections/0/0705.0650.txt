@@ -1,0 +1,5 @@
+We report on a search for the lepton flavor violating tau- -> mu- gamma and
+tau- -> e- gamma decays based on 535/fb of data accumulated at the Belle
+experiment. No signal is found and we set 90% confidence level upper limits on
+the branching ratios Br(tau- -> mu- gamma) < 4.5x10^-8 and Br(tau- -> e- gamma)
+< 1.2x10^-7.

@@ -1,0 +1,13 @@
+Rotating deformed neutron stars are important potential sources for
+groundbased gravitational-wave interferometers such as LIGO, GE0600 and VIRGO.
+One mechanism that may lead to significant non-asymmetries is the internal
+magnetic field. It is well known that a magnetic star will not be spherical
+and, if the magnetic axis is not aligned with the spin axis, the deformation
+will lead to the emission of gravitational waves. The aim of this paper is to
+develop a formalism that would allow us to model magnetically deformed stars,
+using both realistic equations of state and field configurations. As a first
+step, we consider a set of simplified model problems. Focusing on dipolar
+fields, we determine the internal magnetic field which is consistent with a
+given neutron star model. We then calculate the associated deformation. We
+conclude by discussing the relevance of our results for current
+gravitational-wave detectors and future prospects.

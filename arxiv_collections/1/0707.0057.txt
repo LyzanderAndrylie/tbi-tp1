@@ -1,0 +1,9 @@
+We report the observation of quantum oscillations in the underdoped cuprate
+superconductor YBa2Cu4O8 using a tunnel-diode oscillator technique in pulsed
+magnetic fields up to 85T. There is a clear signal, periodic in inverse field,
+with frequency 660+/-15T and possible evidence for the presence of two
+components of slightly different frequency. The quasiparticle mass is
+m*=3.0+/-0.3m_e. In conjunction with the results of Doiron-Leyraud et al. for
+YBa2Cu3O6.5, the present measurements suggest that Fermi surface pockets are a
+general feature of underdoped copper oxide planes and provide information about
+the doping dependence of the Fermi surface.

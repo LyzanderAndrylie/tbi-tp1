@@ -1,0 +1,7 @@
+In this paper a new method for spotsize-measurement for singlemode optical
+components is presented. Based from the classical farfield-method where the
+measurements are made circular, the mounting of the used rotary stages and the
+long measurement time are great disadvantages. In this paper a new planar
+method is described which overcomes these problems. Based on the measurement of
+a singlemode fiber in accordance with ITU Recommendation G.652 the efficiency
+is demonstrated and discussed.

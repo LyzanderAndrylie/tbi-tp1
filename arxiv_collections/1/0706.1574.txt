@@ -1,0 +1,14 @@
+We discuss the application of wavelet transforms to a critical interface
+model, which is known to provide a good description of Barkhausen noise in soft
+ferromagnets. The two-dimensional version of the model (one-dimensional
+interface) is considered, mainly in the adiabatic limit of very slow driving.
+On length scales shorter than a crossover length (which grows with the strength
+of surface tension), the effective interface roughness exponent $\zeta$ is
+$\simeq 1.20$, close to the expected value for the universality class of the
+quenched Edwards-Wilkinson model. We find that the waiting times between
+avalanches are fully uncorrelated, as the wavelet transform of their
+autocorrelations scales as white noise. Similarly, detrended size-size
+correlations give a white-noise wavelet transform. Consideration of finite
+driving rates, still deep within the intermittent regime, shows the wavelet
+transform of correlations scaling as $1/f^{1.5}$ for intermediate frequencies.
+This behavior is ascribed to intra-avalanche correlations.

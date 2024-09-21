@@ -1,0 +1,24 @@
+N-body simulations give us a rough idea of how the shape of a simulated
+object appears in three-dimensional space. From an observational point of view
+this may give us a misleading picture. The faint stars may be the most common
+stars in the system but the morphological information obtained by observations
+of an object may be dominated by the color properties of the bright stars. Due
+to dynamical effects, such as energy equipartition, different masses of stars
+may populate different regions in the object. Since stars are evolving in mass
+the stellar evolution may also influence the dynamics of the system. Hence, if
+one is interested in simulating what the morphology will look like through a
+telescope, one needs to simulate in addition evolving stars and weight them by
+their luminosity. Therefore we need to combine simulations of the dynamical
+evolution and a stellar population synthesis at the same time. For the
+dynamical evolution part we use a parallel version of a direct N-body code,
+NBODY6++. This code also includes stellar evolution. We link the parameters
+from this stellar evolution routine to the BaSeL 2.0 stellar library. For
+isolated clusters we found results assimilable to standard stellar population
+synthesis codes such as the PEGASE code. For clusters in a tidal field we found
+that the integrated colors become relatively bluer due to energy equipartition
+effects. In the time shortly before dissolution of the cluster the stellar M/L
+ratio becomes lower compared to isolated clusters. We compared the results of
+our simulations to integrated spectra of galactic globular clusters. For the
+cluster NGC 1851 we found good agreement between simulation and observation.
+For extragalactic clusters in M81 and M31 we looked at medium band spectral
+energy distributions and found for some clusters also a good agreement.

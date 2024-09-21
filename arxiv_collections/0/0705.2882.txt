@@ -1,0 +1,14 @@
+Landau level bending near the edge of graphene, described using 2d Dirac
+equation, provides a microscopic framework for understanding the quantum Hall
+Effect (QHE) in this material. We review properties of the QHE edge states in
+graphene, with emphasis on the novel phenomena that arise due to Dirac
+character of electronic states. A method of mapping out the dispersion of the
+edge states using scanning tunneling probes is proposed. The Zeeman splitting
+of Landau levels is shown to create a particularly interesting situation around
+the Dirac point, where it gives rise to counter-circulating modes with opposite
+spin. These chiral spin modes lead to a rich variety of spin transport
+phenomena, including spin Hall effect, spin filtering and injection, and
+electric detection of spin current. The estimated Zeeman spin gap, enhanced by
+exchange, of a few hundred Kelvin, makes graphene an attractive system for
+spintronics. Comparison to recent transport measurements near nu=0 is
+presented.

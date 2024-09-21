@@ -1,0 +1,15 @@
+We define a new notion of cuspidality for representations of $\GL_n$ over a
+finite quotient $\Oh_k$ of the ring of integers $\Oh$ of a non-Archimedean
+local field $F$ using geometric and infinitesimal induction functors, which
+involve automorphism groups $G_\lambda$ of torsion $\Oh$\nobreakdash-modules.
+When $n$ is a prime, we show that this notion of cuspidality is equivalent to
+strong cuspidality, which arises in the construction of supercuspidal
+representations of $\GL_n(F)$. We show that strongly cuspidal representations
+share many features of cuspidal representations of finite general linear
+groups. In the function field case, we show that the construction of the
+representations of $\GL_n(\Oh_k)$ for $k\geq 2$ for all $n$ is equivalent to
+the construction of the representations of all the groups $G_\lambda$. A
+functional equation for zeta functions for representations of $\GL_n(\Oh_k)$ is
+established for representations which are not contained in an infinitesimally
+induced representation. All the cuspidal representations for $\GL_4(\Oh_2)$ are
+constructed. Not all these representations are strongly cuspidal.

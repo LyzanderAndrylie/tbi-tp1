@@ -1,0 +1,3 @@
+We describe an algorithm for evaluation of the interval extension of the
+power function of variables x and y given by the expression x^y. Our algorithm
+reduces the general case to the case of non-negative bases.

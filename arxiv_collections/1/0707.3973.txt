@@ -1,0 +1,10 @@
+The time-dependent non-crossing approximation is used to study the transient
+current in a single electron transistor attached asymmetrically to two leads
+following a sudden change in the energy of the dot level. We show that for
+asymmetric coupling, sharp features in the density of states of the leads can
+induce oscillations in the current through the dot. These oscillations persist
+to much longer timescales than the timescale for charge fluctuations. The
+amplitude of the oscillations increases as the temperature or source-drain bias
+across the dot is reduced and saturates for values below the Kondo temperature.
+We discuss the microscopic origin of these oscillations and comment on the
+possibility for their experimental detection.

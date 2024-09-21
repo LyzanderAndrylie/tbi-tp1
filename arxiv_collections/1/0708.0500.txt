@@ -1,0 +1,9 @@
+To a compact hyperbolic Riemann surface, we associate a finitely summable
+spectral triple whose underlying topological space is the limit set of a
+corresponding Schottky group, and whose ``Riemannian'' aspect (Hilbert space
+and Dirac operator) encode the boundary action through its Patterson-Sullivan
+measure. We prove that the ergodic rigidity theorem for this boundary action
+implies that the zeta functions of the spectral triple suffice to characterize
+the (anti-)conformal isomorphism class of the corresponding Riemann surface.
+Thus, you can hear the shape of a Riemann surface, by listening to a suitable
+spectral triple.

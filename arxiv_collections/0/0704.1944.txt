@@ -1,0 +1,8 @@
+We propose a new method of alpha($\alpha$)-ray measurement that detects
+helium atoms with a Quadrupole Mass Spectrometer(QMS). A demonstration is
+undertaken with a plastic-covered $^{241}$Am $\alpha$-emitting source to detect
+$\alpha$-rays stopped in the capsule. We successfully detect helium atoms that
+diffuse out of the capsule by accumulating them for one to 20 hours in a closed
+chamber. The detected amount is found to be proportional to the accumulation
+time. Our method is applicable to probe $\alpha$-emitting radioactivity in bulk
+material.

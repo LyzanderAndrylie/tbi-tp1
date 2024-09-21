@@ -1,0 +1,15 @@
+We investigate various aspects of the Kondo singlet in a quantum dot (QD)
+electrostatically coupled to a mesoscopic detector. The two subsystems are
+represented by an entangled state between the Kondo singlet and the
+charge-dependent detector state. We show that the phase-coherence of the Kondo
+singlet is destroyed in a way that is sensitive to the charge-state information
+restored both in the magnitude and in the phase of the scattering coefficients
+of the detector. We also introduce the notion of the `conditional evolution' of
+the Kondo singlet under projective measurement on the detector. Our study
+reveals that the state of the composite system is disentangled upon this
+measurement. The Kondo singlet evolves into a particular state with a fixed
+number of electrons in the quantum dot. Its relaxation time is shown to be
+sensitive only to the QD-charge dependence of the transmission probability in
+the detector, which implies that the phase information is erased in this
+conditional evolution process. We discuss implications of our observations in
+view of the possible experimental realization.

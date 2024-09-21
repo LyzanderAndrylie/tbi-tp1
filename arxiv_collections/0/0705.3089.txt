@@ -1,0 +1,4 @@
+We provide a characterization of the Clifford Torus in S3 via moving frames
+and contact structure equations. More precisely, we prove that minimal surfaces
+in S3 with constant contact angle must be the Clifford Torus. Some applications
+of this result are then given, and some examples are discussed.

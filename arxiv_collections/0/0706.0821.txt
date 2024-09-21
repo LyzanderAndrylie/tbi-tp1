@@ -1,0 +1,15 @@
+Surface magnetic properties of perovskite manganites have been a recurrent
+topic during last years since they play a major role in the implementation of
+magnetoelectronic devices. Magneto-optical techniques, such as X-ray magnetic
+circular dichroism, turn out to be a very efficient tool to study surface
+magnetism due to their sensitivity to magnetic and chemical variations across
+the sample depth. Nevertheless, the application of the sum rules for the
+determination of the spin magnetic moment might lead to uncertainties as large
+as 40% in case of Mn ions. To overcome this problem we present an alternative
+approach consisting of using X-ray magnetic circular dichroism in reflection
+geometry. Fit of the data by using a computer code based in a 4X4 matrix
+formalism leads to realistic results. In particular, we show that surface and
+interface roughness are of major relevance for a proper description of the
+experimental data and a correct interpretation of the results. By using such an
+approach we demonstrate the presence of a narrow surface region with strongly
+depressed magnetic properties in La2/3Ca1/3MnO3 thin films.

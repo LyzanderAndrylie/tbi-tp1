@@ -1,0 +1,10 @@
+Entanglement catalysis allows one to convert certain entangled states into
+others by the temporary involvement of another entangled state (so-called
+catalyst), where after the conversion the catalyst is returned to the same
+state. For bipartite pure entangled states that can be transformed in this way
+with unit probability, the respective Schmidt coefficients are said to satisfy
+the trumping relation, a mathematical relation which is an extension of the
+majorization relation. This article provides all necessary and sufficient
+conditions for the trumping relation in terms of the Schmidt coefficients. The
+coefficients should satisfy strict inequalities for the entropy of entanglement
+and for power means excluding the special power 1.

@@ -1,0 +1,11 @@
+We consider the theory of the non-linear spectroscopy for a single molecule
+undergoing stochastic dynamics and interacting with a sequence of two laser
+pulses. General expressions for photon counting statistics are obtained, and an
+exact solution to the problem of the Kubo-Anderson process is found. In the
+limit of impulsive pulses the information on the photon statistics is contained
+in the molecule's dipole correlation function. The selective limit where
+temporal resolution is maintained, the semi-classical approximation and the
+fast modulation limit exhibit general behaviors of this new type of
+spectroscopy. We show how the design of the external field leads to rich
+insights on dynamics of individual molecules which are different than those
+found for an ensemble.

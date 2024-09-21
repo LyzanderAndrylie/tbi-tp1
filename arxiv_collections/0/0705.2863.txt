@@ -1,0 +1,5 @@
+We present decompositions of various positive kernels as integrals or sums of
+positive kernels. Within this framework we study the reproducing kernel Hilbert
+spaces associated with the fractional and bi-fractional Brownian motions. As a
+tool, we define a new function of two complex variables, which is a natural
+generalization of the classical Gamma function for the setting we consider

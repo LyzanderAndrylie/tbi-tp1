@@ -1,0 +1,24 @@
+The description of the statistical properties of dust emission gives
+important constraints on the physics of the interstellar medium but it is also
+a useful way to estimate the contamination of diffuse interstellar emission in
+the cases where it is considered a nuisance. The main goals of this analysis of
+the power spectrum and non-Gaussian properties of 100 micron dust emission are
+1) to estimate the power spectrum of interstellar matter density in three
+dimensions, 2) to review and extend previous estimates of the cirrus noise due
+to dust emission and 3) to produce simulated dust emission maps that reproduce
+the observed statistical properties. The main results are the following. 1) The
+cirrus noise level as a function of brightness has been previously
+overestimated. It is found to be proportional to <I> instead of <I>^1.5, where
+<I> is the local average brightness at 100 micron. This scaling is in
+accordance with the fact that the brightness fluctuation level observed at a
+given angular scale on the sky is the sum of fluctuations of increasing
+amplitude with distance on the line of sight. 2) The spectral index of dust
+emission at scales between 5 arcmin and 12.5 degrees is <gamma>=-2.9 on average
+but shows significant variations over the sky. Bright regions have
+systematically steeper power spectra than diffuse regions. 3) The skewness and
+kurtosis of brightness fluctuations is high, indicative of strong
+non-Gaussianity. 4) Based on our characterization of the 100 micron power
+spectrum we provide a prescription of the cirrus confusion noise as a function
+of wavelength and scale. 5) Finally we present a method based on a modification
+of Gaussian random fields to produce simulations of dust maps which reproduce
+the power spectrum and non-Gaussian properties of interstellar dust emission.

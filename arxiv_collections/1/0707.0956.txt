@@ -1,0 +1,9 @@
+A real-time path integral Monte Carlo approach is developed to study the
+dynamics in a many-body quantum system until reaching a nonequilibrium
+stationary state. The approach is based on augmenting an exact reduced equation
+for the evolution of the system in the interaction picture which is amenable to
+an efficient path integral (worldline) Monte Carlo approach. Results obtained
+for a model of inelastic tunneling spectroscopy reveal the applicability of the
+approach to a wide range of physically important regimes, including high
+(classical) and low (quantum) temperatures, and weak (perturbative) and strong
+electron-phonon couplings.

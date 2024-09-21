@@ -1,0 +1,9 @@
+Dynamical processes taking place on real networks define on them evolving
+subnetworks whose topology is not necessarily the same of the underlying one.
+We investigate the problem of determining the emerging degree distribution,
+focusing on a class of tree-like processes, such as those used to explore the
+Internet's topology. A general theory based on mean-field arguments is
+proposed, both for single-source and multiple-source cases, and applied to the
+specific example of the traceroute exploration of networks. Our results provide
+a qualitative improvement in the understanding of dynamical sampling and of the
+interplay between dynamics and topology in large networks like the Internet.

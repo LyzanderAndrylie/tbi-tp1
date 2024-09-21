@@ -1,0 +1,4 @@
+We derive closed formulas for mean values of all powers of r in
+nonrelativistic and relativistic Coulomb problems in terms of the Hahn and
+Chebyshev polynomials of a discrete variable. A short review on special
+functions and solution of the Coulomb problems in quantum mechanics is given.

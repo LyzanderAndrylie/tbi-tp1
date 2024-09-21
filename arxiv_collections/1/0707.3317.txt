@@ -1,0 +1,5 @@
+Monte Carlo and series expansion data for the energy, specific heat,
+magnetisation and susceptibility of the 4-state Potts model in the vicinity of
+the critical point are analysed. The role of logarithmic corrections is
+discussed. Estimates of universal ratios A_+/A_-, $\Gamma_+/\Gamma_L$,
+$\Gamma_T/\Gamma_L$ and R_c^+ are given.

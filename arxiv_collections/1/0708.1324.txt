@@ -1,0 +1,24 @@
+Time dynamics of isolated many-body quantum systems has long been an elusive
+subject. Very recently, however, meaningful experimental studies of the problem
+have finally become possible, stimulating theoretical interest as well.
+Progress in this field is perhaps most urgently needed in the foundations of
+quantum statistical mechanics. This is so because in generic isolated systems,
+one expects nonequilibrium dynamics on its own to result in thermalization: a
+relaxation to states where the values of macroscopic quantities are stationary,
+universal with respect to widely differing initial conditions, and predictable
+through the time-tested recipe of statistical mechanics. However, it is not
+obvious what feature of many-body quantum mechanics makes quantum
+thermalization possible, in a sense analogous to that in which dynamical chaos
+makes classical thermalization possible. For example, dynamical chaos itself
+cannot occur in an isolated quantum system, where time evolution is linear and
+the spectrum is discrete. Underscoring that new rules could apply in this case,
+some recent studies even suggested that statistical mechanics may give wrong
+predictions for the outcomes of relaxation in such systems. Here we demonstrate
+that an isolated generic quantum many-body system does in fact relax to a state
+well-described by the standard statistical mechanical prescription. Moreover,
+we show that time evolution itself plays a merely auxiliary role in relaxation
+and that thermalization happens instead at the level of individual eigenstates,
+as first proposed by J.M. Deutsch and M. Srednicki. A striking consequence of
+this eigenstate thermalization scenario is that the knowledge of a single
+many-body eigenstate suffices to compute thermal averages-any eigenstate in the
+microcanonical energy window will do, as they all give the same result.

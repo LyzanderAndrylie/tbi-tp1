@@ -1,0 +1,7 @@
+An autocatalytic reacting system with particles interacting at a finite
+distance is studied. We investigate the effects of the discrete-particle
+character of the model on properties like reaction rate, quenching phenomenon
+and front propagation, focusing on differences with respect to the continuous
+case. We introduce a renormalized reaction rate depending both on the
+interaction radius and the particle density, and we relate it to macroscopic
+observables (e.g., front speed and front thickness) of the system.

@@ -1,0 +1,16 @@
+Measurements at low energies provide interesting indirect information about
+masses of particles that are (so far) too heavy to be produced directly.
+Motivated by recent progress in consistently and rigorously calculating
+electroweak precision observables and flavour related observables, we derive
+the preferred value for m_h in the Constrained Minimal Supersymmetric Standard
+Model (CMSSM), obtained from a fit taking into account electroweak precision
+data, flavour physics observables and the abundance of Cold Dark Matter. No
+restriction is imposed on m_h itself: the experimental bound from direct Higgs
+boson search at LEP is not included in the fit. A multi-parameter chi^2 is
+minimized with respect to the free parameters of the CMSSM, M_0, M_1/2, A_0,
+tan(beta). A statistical comparison with the Standard Model fit to the
+electroweak precision data is made. The preferred value for the lightest Higgs
+boson mass in the CMSSM is found to be m_h^CMSSM = 110+8-10(exp.)+-3(theo.)
+GeV/c^2, where the first uncertainty is experimental and the second uncertainty
+is theoretical. This value is in agreement with the limit from direct Higgs
+boson search at LEP.

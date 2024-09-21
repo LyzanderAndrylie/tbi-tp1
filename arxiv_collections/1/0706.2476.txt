@@ -1,0 +1,18 @@
+We introduce and solve exactly a family of invariant 2x2 random matrices,
+depending on one parameter \eta, and we show that rotational invariance and
+real Dyson index \beta are not incompatible properties. The probability density
+for the entries contains a weight function and a multiple trace-trace
+interaction term, which corresponds to the representation of the
+Vandermonde-squared coupling on the basis of power sums. As a result, the
+effective Dyson index \beta_{eff} of the ensemble can take any real value in an
+interval. Two weight functions (Gaussian and non-Gaussian) are explored in
+detail and the connections with \beta-ensembles of Dumitriu-Edelman and the
+so-called Poisson-Wigner crossover for the level spacing are respectively
+highlighted. A curious spectral twinning between ensembles of different
+symmetry classes is unveiled. The proposed technical tool more generically
+allows for designing actual matrix models which i) are rotationally invariant;
+ii) have a real Dyson index \beta_{eff}; iii) have a pre-assigned confining
+potential or alternatively level-spacing profile. The analytical results have
+been checked through numerical simulations with an excellent agreement.
+Eventually, we discuss possible generalizations and further directions of
+research.

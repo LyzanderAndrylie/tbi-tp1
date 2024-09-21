@@ -1,0 +1,8 @@
+We present a brief review of the cohomological solutions of self-coupling
+interactions of the fields in the free Yang-Mills theory. All consistent
+interactions among the fields have been obtained using the antifield formalism
+through several order BRST deformations of the master equation. It is found
+that the coupling deformations halt exclusively at the second order, whereas
+higher order deformations are obstructed due to non-local interactions. The
+results demonstrate the BRST cohomological derivation of the interacting
+Yang-Mills theory.

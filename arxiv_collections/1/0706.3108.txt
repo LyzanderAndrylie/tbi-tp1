@@ -1,0 +1,12 @@
+In the framework of mapped pseudospectral methods, we introduce a new
+polynomial-type mapping function in order to describe accurately the dynamics
+of systems developing almost singular structures. Using error criteria related
+to the spectral interpolation error, the new polynomial-type mapping is
+compared against previously proposed mappings for the study of collapse and
+shock wave phenomena. As a physical application, we study the dynamics of two
+coupled beams, described by coupled nonlinear Schr\"odinger equations and
+modeling beam propagation in an atomic coherent media, whose spatial sizes
+differs up to several orders of magnitude. It is demonstrated, also by
+numerical simulations, that the accuracy properties of the new polynomial-type
+mapping outperforms in orders of magnitude the ones of the other studied
+mapping functions.

@@ -1,0 +1,23 @@
+We explore the complex associated to a link in the geometric formalism of
+Khovanov's (n=2) link homology theory, determine its exact underlying algebraic
+structure and find its precise universality properties for link homology
+functors. We present new methods of extracting all known link homology theories
+directly from this universal complex, and determine its relative strength as a
+link invariant by specifying the amount of information held within the complex.
+  We achieve these goals by finding a complex isomorphism which reduces the
+complex into one in a simpler category. We introduce few tools and methods,
+including surface classification modulo the 4TU/S/T relations and genus
+generating operators, and use them to explore the relation between the
+geometric complex and its underlying algebraic structure. We identify the
+universal topological quantum field theory (TQFT) that can be used to create
+link homology and find that it is ``smaller'' than what was previously reported
+by Khovanov. We find new homology theories that hold a controlled amount of
+information relative to the known ones.
+  The universal complex is computable efficiently using our reduction theorem.
+This allows us to explore the phenomenological aspects of link homology theory
+through the eyes of the universal complex in order to explain and unify various
+phenomena (such as torsion and thickness). The universal theory also enables us
+to state results regarding specific link homology theories derived from it. The
+methods developed in this thesis can be combined with other known techniques
+(such as link homology spectral sequences) or used in the various extensions of
+Khovanov link homology (such as sl_3 link homology).

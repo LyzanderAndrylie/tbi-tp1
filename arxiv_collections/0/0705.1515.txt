@@ -1,0 +1,15 @@
+In this paper we study magnetization excitations induced in a thin extended
+film by a spin-polarized dc-current injected through a point contact in the
+current-perpendicular-to-plane (CPP) geometry. Using full-scale micromagnetic
+simulations, we demonstrate that in addition to the oscillations of the
+propagating wave type, there exist also two localized oscillation modes. The
+first localized mode has a relatively homogeneous magnetization structure of
+its kernel and corresponds to the so called 'bullet' predicted analytically by
+Slavin and Tiberkevich (Phys. Rev. Lett., 95 (2005) 237201). Magnetization
+pattern of the second localized mode kernel is highly inhomogeneous, leading to
+a much smaller power of magnetoresistance oscillations caused by this mode. We
+have also studied the influence of a non-linear damping for this system and
+have found the following main qualitative effects: (i) the appearance of
+frequency jumps within the existence region of the propagating wave mode and
+(ii) the narrowing of the current region where the 'bullet' mode exists, until
+this mode completely disappears for a sufficiently strong non-linear damping.

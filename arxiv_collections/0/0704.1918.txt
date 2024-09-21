@@ -1,0 +1,8 @@
+We propose and experimentally demonstrate non-destructive and noiseless
+removal (filtering) of vacuum states from an arbitrary set of coherent states
+of continuous variable systems. Errors i.e. vacuum states in the quantum
+information are diagnosed through a weak measurement, and on that basis,
+probabilistically filtered out. We consider three different filters based on
+on/off detection phase stabilized and phase randomized homodyne detection. We
+find that on/off etection, optimal in the ideal theoretical setting, is
+superior to the homodyne strategy in a practical setting.

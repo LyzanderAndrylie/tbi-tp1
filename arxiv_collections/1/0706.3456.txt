@@ -1,0 +1,12 @@
+The crossover between a free magnetic moment phase and a Kondo phase in low
+dimensional disordered metals with dilute magnetic impurities is studied.
+  We perform a finite size scaling analysis of the distribution of the Kondo
+temperature as obtained from a numerical renormalization group calculation of
+the local magnetic susceptibility and from the solution of the self-consistent
+Nagaoka-Suhl equation. We find a sizable fraction of free (unscreened) magnetic
+moments when the exchange coupling falls below a disorder-dependent critical
+value $J_{\rm c}$. Our numerical results show that between the free moment
+phase due to Anderson localization and the Kondo screened phase there is a
+phase where free moments occur due to the appearance of random local pseudogaps
+at the Fermi energy whose width and power scale with the elastic scattering
+rate $1/\tau$.

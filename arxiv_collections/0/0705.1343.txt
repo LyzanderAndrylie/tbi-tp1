@@ -1,0 +1,11 @@
+The subject of this paper is the optimal design of a parallel mechanism
+intended for three-axis machining applications. Parallel mechanisms are
+interesting alternative designs in this context but most of them are designed
+for three- or six-axis machining applications. In the last case, the position
+and the orientation of the tool are coupled and the shape of the workspace is
+complex. The aim of this paper is to use a simple parallel mechanism with
+two-degree-of-freedom (dof) for translational motions and to add one leg to
+have one-dof rotational motion. The kinematics and singular configurations are
+studied as well as an optimization method. The three-degree-of-freedom
+mechanisms analyzed in this paper can be extended to four-axis machines by
+adding a fourth axis in series with the first two.

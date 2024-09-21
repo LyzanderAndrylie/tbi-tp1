@@ -1,0 +1,7 @@
+This comment clarifies the relation of the research in a recently published
+article [Phys. Plasmas 14, 042503 (2007)] to other prior publications
+addressing the inclusion of electromagnetic and drift-kinetic electron physics
+in gyrokinetic simulation, raises a concern related to the inclusion of kinetic
+electrons in a system with magnetic shear, and discusses alternatives in the
+face of an important limitation on the general applicability of the algorithm
+described therein.

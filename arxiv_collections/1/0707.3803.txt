@@ -1,0 +1,5 @@
+We show that a continuous quantum non-demolition measurement of the energy of
+a nanomechanical resonator can be achieved by monitoring the resonator with a
+quantum point contact via a Cooper-pair box. This technique can further be used
+to prepare highly non-classical states of two resonators, such as canonical
+phase-reference states, and so-called "noon" states.

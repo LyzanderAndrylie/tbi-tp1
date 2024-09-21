@@ -1,0 +1,4 @@
+Let g denote a Lie algebra, and let T(g) denote the tensor product of g with
+a ring of truncated polynomials. The Lie algebra T(g) is called a truncated
+current Lie algebra. The highest-weight representation theory of T(g) is
+developed, and a reducibility criterion for the Verma modules is described.

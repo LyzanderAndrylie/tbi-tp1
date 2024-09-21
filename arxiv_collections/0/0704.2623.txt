@@ -1,0 +1,7 @@
+Bragg spectroscopy is used to measure excitations of a trapped,
+quantum-degenerate gas of 87Rb atoms in a 3-dimensional optical lattice. The
+measurements are carried out over a range of optical lattice depths in the
+superfluid phase of the Bose-Hubbard model. For fixed wavevector, the resonant
+frequency of the excitation is found to decrease with increasing lattice depth.
+A numerical calculation of the resonant frequencies based on Bogoliubov theory
+shows a less steep rate of decrease than the measurements.

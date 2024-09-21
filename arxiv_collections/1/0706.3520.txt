@@ -1,0 +1,8 @@
+Consider a set of order statistics that arise from sorting samples from two
+different populations, each with their own, possibly different distribution
+function. The probability that these order statistics fall in disjoint, ordered
+intervals, and that of the smallest statistics, a certain number come from the
+first populations, are given in terms of the two distribution functions. The
+result is applied to computing the joint probability of the number of
+rejections and the number of false rejections for the Benjamini-Hochberg false
+discovery rate procedure.

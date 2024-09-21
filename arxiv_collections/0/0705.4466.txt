@@ -1,0 +1,13 @@
+An Ising model for damage spreading with a probability of damage healing ($q
+= 1 - p$) is proposed and studied by means of Monte Carlo simulations. In the
+limit $p \to 1$ the new model is mapped to the standard Ising model. It is
+found that, for temperatures above the Onsager critical temperature ($T_{C}$),
+there exist a no trivial finite value of $p$ that sets the critical point
+($p_{c}$) for the onset of damage spreading. It is found that $p_{c}$ depends
+on $T$, defining a critical curve at the border between damage spreading and
+damage healing. Transitions along such curve are found to belong to the
+universality class of directed percolation. The phase diagram of the model is
+also evaluated showing that for large $T$ one has $p_{c} \propto (T-
+T_{C})^{\alpha}$, with $\alpha = 1$. Within the phase where the damage remains
+active, the stationary value of the damage depends lineally on both $p - p_{c}$
+and $T - T_{C} $.

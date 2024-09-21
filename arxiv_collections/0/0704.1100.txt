@@ -1,0 +1,15 @@
+Although powers of the Young-Jucys-Murphya elements X_i = (1 i) + ... +(i-1
+i), i = 1, ..., n, in the symmetric group S_n acting on {1, ...,n} do not lie
+in the centre of the group algebra of S_n, we show that transitive powers,
+namely the sum of the contributions from elements that act transitively on {1,
+>...,n}, are central. We determine the coefficients, which we call star
+factorization numbers, that occur in the resolution of transitive powers with
+respect to the class basis of the centre of S_n, and show that they have a
+polynomiality property. These centrality and polynomiality properties have
+seemingly unrelated consequences. First, they answer a question raised by Pak
+about reduced decompositions; second, they explain and extend the beautiful
+symmetry result discovered by Irving and Rattan; and thirdly, we relate the
+polynomiality to an existing polynomiality result for a class of double Hurwitz
+numbers associated with branched covers of the sphere, which therefore suggests
+that there may be an ELSV-type formula associated with the star factorization
+numbers.

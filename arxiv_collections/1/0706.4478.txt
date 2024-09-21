@@ -1,0 +1,11 @@
+The optimization of measurements for the state distinction problem has
+recently been applied to the theory of quantum algorithms with considerable
+successes, including efficient new quantum algorithms for the non-abelian
+hidden subgroup problem. Previous work has identified the optimal single copy
+measurement for the hidden subgroup problem over abelian groups as well as for
+the non-abelian problem in the setting where the subgroups are restricted to be
+all conjugate to each other. Here we describe the optimal single copy
+measurement for the hidden subgroup problem when all of the subgroups of the
+group are given with equal a priori probability. The optimal measurement is
+seen to be a hybrid of the two previously discovered single copy optimal
+measurements for the hidden subgroup problem.

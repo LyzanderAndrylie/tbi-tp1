@@ -1,0 +1,12 @@
+A quantum system put in interaction with another one that is repeatedly
+measured is subject to a non-unitary dynamics, through which it is possible to
+extract subspaces. This key idea has been exploited to propose schemes aimed at
+the generation of pure quantum states (purification). All such schemes have so
+far been considered in the ideal situations of isolated systems. In this paper,
+we analyze the influence of non-negligible interactions with environment during
+the extraction process, with the scope of investigating the possibility of
+purifying the state of a system in spite of the sources of dissipation. A
+general framework is presented and a paradigmatic example consisting of two
+interacting spins immersed in a bosonic bath is studied. The effectiveness of
+the purification scheme is discussed in terms of purity for different values of
+the relevant parameters and in connection with the bath temperature.

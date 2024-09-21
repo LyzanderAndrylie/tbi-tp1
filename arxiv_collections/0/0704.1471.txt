@@ -1,0 +1,4 @@
+The generalized Sinh-Gordon potential is solved within quantum Hamiltonian
+Jacobi approach in the framework of PT symmetry. The quasi exact solutions of
+energy eigenvalues and eigenfunctions of the generalized Sinh-Gordon potential
+are found for n=0,1 states.

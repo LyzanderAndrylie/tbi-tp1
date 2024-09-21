@@ -1,0 +1,21 @@
+Intermediate resolution spectroscopy of the white dwarf
+SDSSJ104341.53+085558.2 contains double-peaked emission lines of
+CaII8498,8542,8662 and identifies this object to be the second single white
+dwarf to be surrounded by a gaseous disc of metal-rich material, similar to the
+recently discovered SDSSJ1228+1040. A photospheric Magnesium abundance of 0.3
+times the solar value, determined from the observed MgII4481 absorption line,
+implies that the white dwarf is accreting from the circumstellar material. The
+absence of Balmer emission lines and of photospheric HeI4471 absorption
+indicates that the accreted material is depleted in volatile elements and, by
+analogy with SDSS1228+1040, may be the result of the tidal disruption of an
+asteroid. Additional spectroscopy of the DAZ white dwarfs WD1337+705 and GD362
+does not reveal CaII emission lines. GD362 is one of the few cool DAZ that
+display strong infrared flux excess, thought to be originating in a
+circumstellar dust disc, and its temperature is likely too low to sublimate
+sufficient amounts of disc material to generate detectable CaII emission.
+WD1337+705 is, as SDSS1228+1040 and SDSS1043+0855, moderately hot, but has the
+lowest Mg abundance of those three stars, suggesting a possible correlation
+between the photospheric Mg abundance and the equivalent width of the CaII
+emission triplet. Our inspection of 7360 white dwarfs from SDSS DR4 fails to
+unveil additional strong "metal gas disc" candidates, and implies that these
+objects are rather rare.

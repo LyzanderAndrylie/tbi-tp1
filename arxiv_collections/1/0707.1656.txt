@@ -1,0 +1,9 @@
+We demonstrate electrical control of the spin relaxation time T_1 between
+Zeeman split spin states of a single electron in a lateral quantum dot. We find
+that relaxation is mediated by the spin-orbit interaction, and by manipulating
+the orbital states of the dot using gate voltages we vary the relaxation rate
+W= (T_1)^-1 by over an order of magnitude. The dependence of W on orbital
+confinement agrees with theoretical predictions and from these data we extract
+the spin-orbit length. We also measure the dependence of W on magnetic field
+and demonstrate that spin-orbit mediated coupling to phonons is the dominant
+relaxation mechanism down to 1T, where T_1 exceeds 1s.

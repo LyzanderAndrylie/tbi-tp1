@@ -1,0 +1,9 @@
+We investigate the possibility to localize scalar field configurations as a
+model for black hole accretion. We analyze and resolve difficulties encountered
+when localizing scalar fields in General Relativity. We illustrate this ability
+with a simple spherically symmetric model which can be used to study features
+of accreting shells around a black hole. This is accomplished by prescribing a
+scalar field with a coordinate dependent potential. Numerical solutions to the
+Einstein-Klein-Gordon equations are shown, where a scalar filed is indeed
+confined within a region surrounding a black hole. The resulting spacetime can
+be described in terms of simple harmonic time dependence.

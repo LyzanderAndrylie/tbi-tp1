@@ -1,0 +1,10 @@
+This work presents accurate ab initio determination of the hyperfine
+splitting for the ground state and few low-lying excited states of 113Cd+;
+important candidates for the frequency standard in the microwave region, using
+coupled-cluster theory (CC) in the relativistic framework. The calculated
+hyperfine splitting are well in agreement with recent experimental results. We
+have also carried out the lifetimes of the 5p2P1=2 and 5p2P3=2 states, which
+are in well agreement with recent experimental result (Moehring et al., PRA 73
+023413, 2006). The roles of different electron correlation effects in the
+determination of these quantities are discussed and their contributions are
+presented in the CC terms.

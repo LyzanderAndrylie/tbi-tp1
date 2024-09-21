@@ -1,0 +1,12 @@
+We consider many--fermion systems with singular Fermi surfaces, which contain
+Van Hove points where the gradient of the band function $k \mapsto e(k)$
+vanishes. In a previous paper, we have treated the case of spatial dimension $d
+\ge 3$. In this paper, we focus on the more singular case $d=2$ and establish
+properties of the fermionic self--energy to all orders in perturbation theory.
+We show that there is an asymmetry between the spatial and frequency
+derivatives of the self--energy. The derivative with respect to the Matsubara
+frequency diverges at the Van Hove points, but, surprisingly, the self--energy
+is $C^1$ in the spatial momentum to all orders in perturbation theory, provided
+the Fermi surface is curved away from the Van Hove points. In a prototypical
+example, the second spatial derivative behaves similarly to the first frequency
+derivative. We discuss the physical significance of these findings.

@@ -1,0 +1,18 @@
+A general continuum theory is developed for ion intercalation dynamics in a
+single crystal of a rechargeable battery cathode. It is based on an existing
+phase-field formulation of the bulk free energy and incorporates two crucial
+effects: (i) anisotropic ionic mobility in the crystal and (ii) surface
+reactions governing the flux of ions across the electrode/electrolyte
+interface, depending on the local free energy difference. Although the phase
+boundary can form a classical diffusive "shrinking core" when the dynamics is
+bulk-transport-limited, the theory also predicts a new regime of
+surface-reaction-limited (SRL) dynamics, where the phase boundary extends from
+surface to surface along planes of fast ionic diffusion, consistent with recent
+experiments on LiFePO4. In the SRL regime, the theory produces a fundamentally
+new equation for phase transformation dynamics, which admits traveling-wave
+solutions. Rather than forming a shrinking core of untransformed material, the
+phase boundary advances by filling (or emptying) successive channels of fast
+diffusion in the crystal. By considering the random nucleation of SRL
+phase-transformation waves, the theory predicts a very different picture of
+charge/discharge dynamics from the classical diffusion-limited model, which
+could affect the interpretation of experimental data for LiFePO4.

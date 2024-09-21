@@ -1,0 +1,15 @@
+This PhD thesis is devoted to show that differential renormalization is a
+simple and useful renormalization method that we can use when dealing with
+gauge theories. In this work, it is shown how the one-loop results of
+Constraint Differential Renormalization can be fruitfully applied when
+renormalizing two-loop amplitudes. As an example of this procedure, the
+two-loop beta functions of various relevant gauge theories are obtained (QED,
+SuperQED, Yang-Mills and N=1 SuperYM) without making use of the Ward
+identities, which are mandatory in the standard differential renormalization
+procedure. Also, we study how to deal with expressions that have IR and UV
+divergences, showing that both are renormalized with independent scales. This
+result allow us to give new insight on the origin of the higher order
+corrections to the beta function of the N=1 SuperYM theory, as in this case we
+have both divergences due to the form of the gauge propagator. This is an
+advantage over usual dimensional regularization methods, where both divergences
+become mixed.

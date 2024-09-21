@@ -1,0 +1,9 @@
+Monte Carlo simulations and finite-size scaling analysis have been carried
+out to study the critical behavior and universality for the isotropic-nematic
+phase transition in a system of long straight rigid rods of length $k$
+($k$-mers) on two-dimensional lattices. The nematic phase, characterized by a
+big domain of parallel $k$-mers, is separated from the isotropic state by a
+continuous transition occurring at a finite density. The determination of the
+critical exponents, along with the behavior of Binder cumulants, indicate that
+the transition belongs to the 2D Ising universality class for square lattices
+and the three-state Potts universality class for triangular lattices.

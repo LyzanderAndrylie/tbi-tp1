@@ -1,0 +1,9 @@
+Recent experiments (F.H.J. Van Der Heyden et al., PRL 96, 224502 (2006)) of
+streaming currents in silica nanochannels with divalent ions report charge
+inversion, i.e. interfacial charges attracting counterions in excess of their
+own nominal charge, in conflict with existing theoretical and simulation
+results. We reveal the mechanism of charge inversion by using all-atomic
+molecular dynamics simulations. Our results show excellent agreement with
+experiments, both qualitatively and quantitatively. We further discuss the
+implications of our study for the general problem of ionic correlations in
+solutions as well as in regards of the properties of silica-water interfaces.

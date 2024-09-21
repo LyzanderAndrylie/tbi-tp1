@@ -1,0 +1,12 @@
+The modeling of technology succession and new technology adoption includes a
+wide array of techniques from complexity theory. In our previous work, we
+applied the results of the Windrum-Birchenhall model to technology policy and
+technology development strategies. However, as we began to explore the
+Windrum-Birchenhall simulation we discovered significant limitations in their
+model and felt that a new model was needed which could accommodate simultaneous
+macro and micro-level events in order effectively simulate market volatilities.
+The following paper discusses the architecture of the new model of
+technological succession developed at the Southern New Hampshire University
+International Business Modeling Laboratory and explains results from early
+simulation runs. We continue to develop this model and expect to have
+additional applications and simulation results as our research progresses.

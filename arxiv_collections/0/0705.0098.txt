@@ -1,0 +1,5 @@
+In an earlier paper we constructed a Cartier divisor on the theta divisor of
+a principally polarised abelian variety whose support is precisely the
+ramification locus of the Gauss map. In this note we discuss a Green's function
+associated to this locus. For jacobians we relate this Green's function to the
+canonical Green's function of the corresponding Riemann surface.

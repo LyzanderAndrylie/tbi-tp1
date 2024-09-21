@@ -1,0 +1,10 @@
+Within the s-d model description, we derive the current-driven spin torque in
+a ferromagnet, taking explicitly into account a spin-relaxing Caldeira-Leggett
+bath coupling to the s-electrons. We derive Bloch-Redfield equations of motion
+for the s-electron spin dynamics, and formulate a systematic gradient expansion
+to obtain non-adiabatic (higher-order) corrections to the well-known adiabatic
+(first-order) spin torque. We provide simple analytical expressions for the
+second-order spin torque. The theory is applied to current-driven domain wall
+motion. Second-order contributions imply a deformation of a transverse
+tail-to-tail domain wall. The wall center still moves with a constant velocity
+that now depends on the spin-polarized current in a non-trivial manner.

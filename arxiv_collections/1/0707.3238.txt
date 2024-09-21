@@ -1,0 +1,13 @@
+The Wigner-Araki-Yanase (WAY) theorem shows that additive conservation laws
+limit the accuracy of measurements. Recently, various quantitative expressions
+have been found for quantum limits on measurements induced by additive
+conservation laws, and have been applied to the study of fundamental limits on
+quantum information processing. Here, we investigate generalizations of the WAY
+theorem to multiplicative conservation laws. The WAY theorem is extended to
+show that an observable not commuting with the modulus of, or equivalently the
+square of, a multiplicatively conserved quantity cannot be precisely measured.
+We also obtain a lower bound for the mean-square noise of a measurement in the
+presence of a multiplicatively conserved quantity. To overcome this noise it is
+necessary to make large the coefficient of variation (the so-called relative
+fluctuation), instead of the variance as is the case for additive conservation
+laws, of the conserved quantity in the apparatus.

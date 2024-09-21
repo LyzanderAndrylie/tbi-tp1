@@ -1,0 +1,12 @@
+The Pockels effect can increase the effective birefringence of ambichiral,
+electro--optic rejection filters made of materials with a $\bar{4}2m$ point
+group symmetry, when a dc electric field is applied parallel to the axis of
+nonhomogeneity. The reflectances and the transmittances of such an ambichiral
+structure for obliquely incident plane waves is solvable through a
+boundary-value problem that is formulated using the frequency-domain Maxwell
+equations, the constitutive equations that contain the Pockels effect, and
+standard algebraic techniques for handling 4x4 matrix ordinary differential
+equations. The Bragg resonance peaks, for different
+circular-polarized-incidence conditions, blueshift as the angle of incidence
+increases. These blueshifts are unaffected by the sign of the dc electric
+field.

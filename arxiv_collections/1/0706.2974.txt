@@ -1,0 +1,10 @@
+E-Laboratories are important components of e- learning environments,
+especially in scientific and technical disciplines. First widespread E-Labs
+consisted in proposing simulations of real systems (virtual labs), as building
+remote labs (remote control of real systems) was difficult by lack of
+industrial standards and common protocols. Nowadays, robotics and automation
+technologies make easier the interfacing of systems with computers. In this
+frame, many researchers (such as those mentioned in [1]) focus on how to set up
+such a remote control. But, only a few of them deal with the educational point
+of view of the problem. This paper outlines our current research and reflection
+about remote laboratory modelling.

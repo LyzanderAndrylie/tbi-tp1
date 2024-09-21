@@ -1,0 +1,9 @@
+Generalized Dorokhov-Mello-Pereyra-Kumar (GDMPK) equation [K. A. Muttalib and
+J. R. Klauder, Phys. Rev. Lett. {\bf 82}, 4272 (1999)] has been proposed for
+the description of the electron transport in strongly localized systems. We
+develop an algorithm for the numerical solution of this equation and confirm
+that GDMPK equation correctly describes the critical and localized regimes.
+Contrary to the original DMPK equation, the generalized one contains also an
+information about the dimension of the system. In particular, it distinguishes
+between the two and the three dimensional models with the same number of
+transmission channels.

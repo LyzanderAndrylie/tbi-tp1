@@ -1,0 +1,9 @@
+Given an abelian group $A$ and a Lie group $G$, we construct a bilinear
+pairing from $A\times\pi_1({\mathcal R})$ to $\pi_1(G)$, where $\mathcal R$ is
+a subvariety of the variety of representations $A\to G$.
+  In the case where $A$ is the peripheral subgroup of a torus or two-bridge
+knot group, $G=S^1$ and $\mathcal R$ is a certain variety of representations
+arising from suitable SU(2)-representations of the knot group, we show that
+this pairing is not identically zero. We discuss the consequences of this
+result for the SU(2)-representations of fundamental groups of manifolds
+obtained by Dehn surgery on such knots.

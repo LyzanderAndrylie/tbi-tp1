@@ -1,0 +1,8 @@
+We investigate the electromagnetic properties of the deuteron such as the
+charge and magnetic form factors by solving the Bethe-Salpeter equation (BSE)
+with the separable ansatz. In solving the deuteron bound state solution to the
+BSE, we include negative energy components of $P$-wave in addition to the
+$^3S_1$ and $^3D_1$ states of positive energy, employing a rank IV separable
+ansatz. We found that the inclusion of the negative energy components improves
+systematically the electromagnetic properties which are not described in the
+conventional non-relativistic impulse approximation.

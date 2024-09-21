@@ -1,0 +1,12 @@
+We perform a systematic analysis of several HBT parameters in heavy ion
+collisions from $E_{\rm beam}=2$ AGeV to $\sqrt {s_{\rm NN}}=200$ GeV within
+the UrQMD transport approach and compare the results to experimental data where
+available. We find that the 'lifetime' of the emission source as calculated
+from $\tau \sim \sqrt{R_O^{2}-R_S^{2}}$, is larger than the experimentally
+observed values at all investigated energies. The calculated volume of the pion
+source ($V_f$) is found to increase monotonously with increasing beam energy
+and the experimentally observed decrease of the measured $V_f$ at AGS is not
+seen. Finally, we calculate the mean free path $\lambda_f=0.5-1$ fm of pions at
+freeze-out and find a good description of the experimental data above the AGS
+energy region, supporting the suggestion of a universal kinetic decoupling
+criterion up to the highest RHIC energies.

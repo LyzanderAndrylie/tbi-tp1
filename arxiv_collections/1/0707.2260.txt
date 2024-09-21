@@ -1,0 +1,11 @@
+In this paper we consider projected entangled pair states (PEPS) on arbitrary
+lattices. We construct local parent Hamiltonians for each PEPS and isolate a
+condition under which the state is the unique ground state of the Hamiltonian.
+This condition, verified by generic PEPS and examples like the AKLT model, is
+an injective relation between the boundary and the bulk of any local region.
+While it implies the existence of an energy gap in the 1D case we will show
+that in certain cases (e.g., on a 2D hexagonal lattice) the parent Hamiltonian
+can be gapless with a critical ground state. To show this we invoke a mapping
+between classical and quantum models and prove that in these cases the
+injectivity relation between boundary and bulk solely depends on the lattice
+geometry.

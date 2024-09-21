@@ -1,0 +1,12 @@
+We investigate the strengths and limitations of the Spekkens toy model, which
+is a local hidden variable model that replicates many important properties of
+quantum dynamics. First, we present a set of five axioms that fully encapsulate
+Spekkens' toy model. We then test whether these axioms can be extended to
+capture more quantum phenomena, by allowing operations on epistemic as well as
+ontic states. We discover that the resulting group of operations is isomorphic
+to the projective extended Clifford Group for two qubits. This larger group of
+operations results in a physically unreasonable model; consequently, we claim
+that a relaxed definition of valid operations in Spekkens' toy model cannot
+produce an equivalence with the Clifford Group for two qubits. However, the new
+operations do serve as tests for correlation in a two toy bit model, analogous
+to the well known Horodecki criterion for the separability of quantum states.

@@ -1,0 +1,7 @@
+In this paper, we consider a leader-following consensus problem of a group of
+autonomous agents with time-varying coupling delays. Two different cases of
+coupling topologies are investigated. At first, a necessary and sufficient
+condition is proved in the case when the interconnection topology is fixed and
+directed. Then a sufficient condition is proposed in the case when the coupling
+topology is switched and balanced. Numerical examples are also given to
+illustrate our results.

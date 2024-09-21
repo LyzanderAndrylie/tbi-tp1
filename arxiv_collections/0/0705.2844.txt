@@ -1,0 +1,11 @@
+Marginal beta deformations of N=4 super-Yang-Mills theory are known to
+correspond to a certain class of deformations of the S^5 background subspace of
+type IIB string theory in AdS_5 x S^5. An analogous set of deformations of the
+AdS_5 subspace is reviewed here. String energy spectra computed in the
+near-pp-wave limit of these backgrounds match predictions encoded by discrete,
+asymptotic Bethe equations, suggesting that the twisted string theory is
+classically integrable in this regime. These Bethe equations can be derived
+algorithmically by relying on the existence of Lax representations, and on the
+Riemann-Hilbert interpretation of the thermodynamic Bethe ansatz. This letter
+is a review of a seminar given at the Institute for Advanced Study, based on
+research completed in collaboration with McLoughlin.

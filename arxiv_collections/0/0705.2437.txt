@@ -1,0 +1,20 @@
+We prove the following theorem about relative entropy of quantum states.
+"Substate theorem: Let rho and sigma be quantum states in the same Hilbert
+space with relative entropy S(rho|sigma) = Tr rho (log rho - log sigma) = c.
+Then for all epsilon > 0, there is a state rho' such that the trace distance
+||rho' - rho||_t = Tr sqrt{(rho' - rho)^2} <= epsilon, and
+rho'/2^{O(c/epsilon^2)} <= sigma."
+  It states that if the relative entropy of rho and sigma is small, then there
+is a state rho' close to rho, i.e. with small trace distance ||rho' - rho||_t,
+that when scaled down by a factor 2^{O(c)} `sits inside', or becomes a
+`substate' of, sigma. This result has several applications in quantum
+communication complexity and cryptography. Using the substate theorem, we
+derive a privacy trade-off for the set membership problem in the two-party
+quantum communication model. Here Alice is given a subset A of [n], Bob an
+input i in [n], and they need to determine if i in A.
+  "Privacy trade-off for set membership: In any two-party quantum communication
+protocol for the set membership problem, if Bob reveals only k bits of
+information about his input, then Alice must reveal at least n/2^{O(k)} bits of
+information about her input."
+  We also discuss relationships between various information theoretic
+quantities that arise naturally in the context of the substate theorem.

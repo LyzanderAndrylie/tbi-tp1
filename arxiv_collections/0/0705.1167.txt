@@ -1,0 +1,13 @@
+In almost all structure formation models, primordial perturbations are
+created within a homogeneous and isotropic universe, like the one we observe.
+Because their ensemble averages inherit the symmetries of the spacetime in
+which they are seeded, cosmological perturbations then happen to be
+statistically isotropic and homogeneous. Certain anomalies in the cosmic
+microwave background on the other hand suggest that perturbations do not
+satisfy these statistical properties, thereby challenging perhaps our
+understanding of structure formation. In this article we relax this tension. We
+show that if the universe contains an appropriate triad of scalar fields with
+spatially constant but non-zero gradients, it is possible to generate
+statistically anisotropic and inhomogeneous primordial perturbations, even
+though the energy momentum tensor of the triad itself is invariant under
+translations and rotations.

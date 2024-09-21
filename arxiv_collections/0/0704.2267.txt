@@ -1,0 +1,10 @@
+The temperature dependence of the reflectance spectra of magnesium oxide
+(MgO) and ferropericlase (Mg1-xFexO, for x=0.06 and x=0.27) have been measured
+over a wide frequency range (~50 to 32000 cm-1) at 295 and 6 K. The complex
+dielectric function has been determined from a Kramers-Kronig analysis of the
+reflectance. The spectra of the doped materials resembles pure MgO in the
+infrared region, but with much broader resonances. We use a shell model to
+calculate the dielectric function of ferropericlase, including both anharmonic
+phonon-phonon interactions and disorder scattering. These data are relevant to
+understanding the heat conductivity of ferropericlase in the earth's lower
+mantle.

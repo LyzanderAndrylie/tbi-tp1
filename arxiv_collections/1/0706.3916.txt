@@ -1,0 +1,15 @@
+The kinetic pathways resulting from the formation of coherent L12-ordered
+y'-precipitates in the g-matrix (f.c.c.) of Ni-7.5 Al-8.5 Cr at.% and Ni-5.2
+Al-14.2 Cr at.% alloys, aged at 873 K, are investigated by atom-probe
+tomography (APT) over a range of aging times from 1/6 to 1024 hours; these
+alloys have approximately the same volume fraction of the y'-precipitate phase.
+Quantification of the phase decomposition within the framework of classical
+nucleation theory reveals that the y-matrix solid-solution solute
+supersaturations of both alloys provide the chemical driving force, which acts
+as the primary determinant of the nucleation behavior. In the coarsening
+regime, the temporal evolution of the y'-precipitate average radii and the
+y-matrix supersaturations follow the predictions of classical coarsening
+models, while the temporal evolution of the y'-precipitate number densities of
+both alloys do not. APT results are compared to equilibrium calculations of the
+pertinent solvus lines determined by employing both Thermo-Calc and
+Grand-Canonical Monte Carlo simulation.

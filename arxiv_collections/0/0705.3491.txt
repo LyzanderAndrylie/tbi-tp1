@@ -1,0 +1,8 @@
+We investigate pair correlations in trapped fermion and boson gases as a
+means to probe the quantum states producing the density fluctuations. We point
+out that "opposite sign correlations" (meaning pair correlations that are
+positive for fermions and negative for bosons) unambiguously indicate that the
+quantum many-particle state cannot be "free." In particular, a system of
+fermions that exhibits positive pair correlations cannot be described by any
+Slater determinant wavefunction. This insight may help one to interpret results
+of current experiments on ultracold atomic gases.

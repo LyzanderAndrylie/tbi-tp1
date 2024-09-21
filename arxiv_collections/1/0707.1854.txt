@@ -1,0 +1,21 @@
+Random first order transition theory is used to determine the role of
+attractive and repulsive interactions in the dynamics of supercooled liquids.
+Self-consistent phonon theory, an approximate mean field treatment consistent
+with random first order transition theory, is used to treat individual glassy
+configurations, while the liquid phase is treated using common liquid state
+approximations. The transition temperature $T^{*}_{A} $, the temperature where
+the onset of activated behavior is predicted by mean field theory, the lower
+crossover temperature $T_{c}^{*}$ where barrierless motions actually occur
+through fractal or stringy motions, and $T^{*}_{K} $, the Kauzmann temperature,
+are calculated in addition to $T^{*}_{g} $, the glass transition temperature
+that corresponds to laboratory cooling rates. Both the isobaric and isochoric
+behavior in the supercooled regime are studied, providing results for $\Delta
+C_{V} $ and $\Delta C_{p} $ that can be used to calculate the fragility as a
+function of density and pressure, respectively. The predicted variations in the
+$\alpha$-relaxation time with temperature and density conform to the empirical
+density-temperature scaling relations found by Casalini and Roland. We thereby
+demonstrate the microscopic origin of their observations. Finally, the
+relationship first suggested by Sastry between the spinodal temperature and the
+Kauzmann temperatures, as a function of density, is examined. The present
+microscopic calculations support the existence of an intersection of these two
+temperatures at sufficiently low temperatures.

@@ -1,0 +1,5 @@
+We consider measures which are invariant under a measurable iterated function
+system with positive, place-dependent probabilities in a separable metric
+space. We provide an upper bound of the Hausdorff dimension of such a measure
+if it is ergodic. We also prove that it is ergodic iff the related skew product
+is.

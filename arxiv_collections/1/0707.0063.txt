@@ -1,0 +1,21 @@
+A STIRAP-based unitary decelerating (accelerating) process consists of a
+train of the standard three-state STIRAP pulse sequences which may act as the
+basic unitary decelerating (accelerating) sequences. The present work is
+focused on investigating analytically and quantitatively how the momentum
+distribution of a momentum superposition state such as a momentum Gaussian
+wave-packet state of a single freely moving atom affects the STIRAP state
+transfer in these decelerating and accelerating processes. The complete STIRAP
+state transfer and the unitarity of these processes are stressed highly in the
+investigation. It has been shown that the momentum distribution has an
+important influence upon the STIRAP state-transfer efficiency. In the ideal
+adiabatic condition these unitary decelerating and accelerating processes for a
+freely moving atom are studied in detail, and it is shown that they can be used
+to manipulate and control in time and space the center-of-mass position and
+momentum of a Gaussian wave-packet motional state of a free atom. Two general
+(strict and accurate) adiabatic conditions for the basic STIRAP decelerating
+and accelerating processes are derived analytically. With the help of the
+STIRAP theory and the unitary quantum dynamics it confirms theoretically that
+the time- and space-compressing processes of the quantum control process
+(quant-ph/0607144) can be realized almost perfectly by the STIRAP-based unitary
+decelerating and accelerating processes in the ideal or nearly ideal adiabatic
+condition.

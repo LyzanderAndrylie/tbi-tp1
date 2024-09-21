@@ -1,0 +1,12 @@
+Several stars orbit around a black hole candidate of mass $3.7\times 10^6$
+M$_{\odot}$, in the region of the Galactic Center (GC). Looking for General
+Relativistic (GR) periastron shifts is limited by the existence of a stellar
+cluster around the black hole that would modify the orbits due to classical
+effects that might mask the GR effect. Only if one knows the cluster parameters
+(its mass and core radius) it is possible to unequivocally deduce the GR
+effects expected and then test them. In this paper it is shown that the
+observation of the proper motion of Sgr A$^*$, $v_{Sgr A^*} = (0.4\pm 0.9)$ km
+s$^{-1}$ (\citealt{reid2004}), could help us to constrain the cluster
+parameters significantly and that future measurements of the periastron shifts
+for at least three stars may adequately determine the cluster parameters and
+the mass of the black hole.

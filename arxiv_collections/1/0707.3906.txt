@@ -1,0 +1,14 @@
+Waves propagating inwardly to the wave source are called antiwaves which have
+negative phase velocity. In this paper the phenomenon of negative phase
+velocity in oscillatory systems is studied on the basis of periodically paced
+complex Ginzbug-Laundau equation (CGLE). We figure out a clear physical picture
+on the negative phase velocity of these pacing induced waves. This picture
+tells us that the competition between the frequency $\omega_{out}$ of the
+pacing induced waves with the natural frequency $\omega_{0}$ of the oscillatory
+medium is the key point responsible for the emergence of negative phase
+velocity and the corresponding antiwaves. $\omega_{out}\omega_{0}>0$ and
+$|\omega_{out}|<|\omega_{0}|$ are the criterions for the waves with negative
+phase velocity. This criterion is general for one and high dimensional CGLE and
+for general oscillatory models. Our understanding of antiwaves predicts that no
+antispirals and waves with negative phase velocity can be observed in excitable
+media.

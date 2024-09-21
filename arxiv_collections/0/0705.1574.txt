@@ -1,0 +1,9 @@
+A formalism for quantum error correction based on operator algebras was
+introduced in [1] via consideration of the Heisenberg picture for quantum
+dynamics. The resulting theory allows for the correction of hybrid
+quantum-classical information and does not require an encoded state to be
+entirely in one of the corresponding subspaces or subsystems. Here, we provide
+detailed proofs for the results of [1], derive a number of new results, and we
+elucidate key points with expanded discussions. We also present several
+examples and indicate how the theory can be extended to operator spaces and
+general positive operator-valued measures.

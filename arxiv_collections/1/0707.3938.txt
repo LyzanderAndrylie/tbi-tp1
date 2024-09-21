@@ -1,0 +1,7 @@
+We derive the exact time-evolution for a general quantum system under the
+influence of pure phase-noise and demonstrate that for a Gaussian initial state
+of the bath, the exact result can be obtained also within a perturbative
+time-local master equation approach already in second order of the system-bath
+coupling strength. We reveal that this equivalence holds if the initial state
+of the bath can be mapped to a Gaussian phase-space distribution function.
+Moreover, we discuss the relation to the standard Bloch-Redfield approach.

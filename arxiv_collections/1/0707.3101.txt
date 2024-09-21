@@ -1,0 +1,14 @@
+to turducken (turduckens, turduckening, turduckened, turduckened) [math.]: To
+stuff a black hole. We analyze and apply an alternative to black hole excision
+based on smoothing the interior of black holes with arbitrary - possibly
+constraint violating - initial data, and solving the vacuum Einstein evolution
+equations everywhere. By deriving the constraint propagation system for our
+hyperbolic formulation of the BSSN evolution system we rigorously prove that
+the constraints propagate causally and so any constraint violations introduced
+inside the black holes cannot affect the exterior spacetime. (This does not
+follow from the causal structure of the spacetime as is often assumed.) We
+present numerical evolutions of Cook-Pfeiffer binary black hole initial
+configurations showing that these techniques appear to work robustly for
+generic data. We also present numerical evidence from spherically symmetric
+evolutions that for the gauge conditions used the same stationary end-state is
+approached irrespective of the choice of initial data and smoothing procedure.

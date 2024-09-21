@@ -1,0 +1,13 @@
+We analyze the time resolved spike statistics of a solitary and two mutually
+interacting chaotic semiconductor lasers whose chaos is characterized by
+apparently random, short intensity spikes. Repulsion between two successive
+spikes is observed, resulting in a refractory period which is largest at laser
+threshold. For time intervals between spikes greater than the refractory
+period, the distribution of the intervals follows a Poisson distribution. The
+spiking pattern is highly periodic over time windows corresponding to the
+optical length of the external cavity, with a slow change of the spiking
+pattern as time increases. When zero-lag synchronization between the two lasers
+is established, the statistics of the nearly perfectly matched spikes are not
+altered. The similarity of these features to those found in complex interacting
+neural networks, suggests the use of laser systems as simpler physical models
+for neural networks.

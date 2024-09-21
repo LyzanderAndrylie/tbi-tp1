@@ -1,0 +1,9 @@
+We derive a general effective many-body theory for bosonic polar molecules in
+strong interaction regime, which cannot be correctly described by previous
+theories within the first Born approximation. The effective Hamiltonian has
+additional interaction terms, which surprisingly reduces the anisotropic
+features of dipolar interaction near the shape resonance regime. In the 2D
+system with dipole moment perpendicular to the plane, we find that the phonon
+dispersion scales as $\sqrt{|\bfp|}$ in the low momentum ($\bfp$) limit,
+showing the same low energy properties as a 2D charged Bose gas with Coulomb
+($1/r$) interactions.

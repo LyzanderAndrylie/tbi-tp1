@@ -1,0 +1,12 @@
+Dynamics and stability of solitons in two-dimensional (2D) Bose-Einstein
+condensates (BEC), with low-dimensional (1D) conservative plus dissipative
+nonlinear optical lattices are investigated. In the case of focusing media
+(with attractive atomic systems) the collapse of the wave packet is arrested by
+the dissipative periodic nonlinearity. The adiabatic variation of the
+background scattering length leads to metastable matter-wave solitons.
+  When the atom feeding mechanism is used, a dissipative soliton can exist in
+focusing 2D media with 1D periodic nonlinearity. In the defocusing media
+(repulsive BEC case) with harmonic trap in one dimension and one dimensional
+nonlinear optical lattice in other direction, the stable soliton can exist.
+This prediction of variational approach is confirmed by the full numerical
+simulation of 2D Gross-Pitaevskii equation.

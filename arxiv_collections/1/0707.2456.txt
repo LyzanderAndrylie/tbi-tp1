@@ -1,0 +1,14 @@
+A bifurcating system subject to multiplicative noise can exhibit on-off
+intermittency close to the instability threshold. For a canonical system, we
+discuss the dependence of this intermittency on the Power Spectrum Density
+(PSD) of the noise. Our study is based on the calculation of the Probability
+Density Function (PDF) of the unstable variable. We derive analytical results
+for some particular types of noises and interpret them in the framework of
+on-off intermittency. Besides, we perform a cumulant expansion for a random
+noise with arbitrary power spectrum density and show that the intermittent
+regime is controlled by the ratio between the departure from the threshold and
+the value of the PSD of the noise at zero frequency. Our results are in
+agreement with numerical simulations performed with two types of random
+perturbations: colored Gaussian noise and deterministic fluctuations of a
+chaotic variable. Extensions of this study to another, more complex, system are
+presented and the underlying mechanisms are discussed.

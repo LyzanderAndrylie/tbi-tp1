@@ -1,0 +1,8 @@
+I prove a basic inequality for Schatten q-norms of quantum states on a
+finite-dimensional bipartite Hilbert space H_1\otimes H_2: 1+||\rho||_q \ge
+||\trace_1\rho||_q + ||\trace_2\rho||_q. This leads to a proof--in the finite
+dimensional case--of Raggio's conjecture (G.A. Raggio, J. Math. Phys.\
+\textbf{36}, 4785--4791 (1995)) that the q-entropies
+S_q(\rho)=(1-\trace[\rho^q])/(q-1) are subadditive for q > 1; that is, for any
+state \rho, S_q(\rho) is not greater than the sum of the S_q of its reductions,
+S_q(\rho) \le S_q(\trace_1\rho)+S_q(\trace_2\rho).

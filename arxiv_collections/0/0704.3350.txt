@@ -1,0 +1,18 @@
+We study the intersection points of a fixed planar curve $\Gamma$ with the
+nodal set of a translationally invariant and isotropic Gaussian random field
+$\Psi(\bi{r})$ and the zeros of its normal derivative across the curve. The
+intersection points form a discrete random process which is the object of this
+study. The field probability distribution function is completely specified by
+the correlation $G(|\bi{r}-\bi{r}'|) = <\Psi(\bi{r}) \Psi(\bi{r}')>$.
+  Given an arbitrary $G(|\bi{r}-\bi{r}'|)$, we compute the two point
+correlation function of the point process on the line, and derive other
+statistical measures (repulsion, rigidity) which characterize the short and
+long range correlations of the intersection points. We use these statistical
+measures to quantitatively characterize the complex patterns displayed by
+various kinds of nodal networks. We apply these statistics in particular to
+nodal patterns of random waves and of eigenfunctions of chaotic billiards. Of
+special interest is the observation that for monochromatic random waves, the
+number variance of the intersections with long straight segments grows like $L
+\ln L$, as opposed to the linear growth predicted by the percolation model,
+which was successfully used to predict other long range nodal properties of
+that field.

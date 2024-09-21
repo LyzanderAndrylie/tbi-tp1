@@ -1,0 +1,8 @@
+We present the Y-formalism for the non-minimal pure spinor quantization of
+superstrings. In the framework of this formalism we compute, at the quantum
+level, the explicit form of the compound operators involved in the construction
+of the $b$ ghost, their normal-ordering contributions and the relevant
+relations among them. We use these results to construct the quantum-mechanical
+$b$ ghost in the non-minimal pure spinor formalism. Moreover we show that this
+non-minimal $b$ ghost is cohomologically equivalent to the non-covariant $b$
+ghost.

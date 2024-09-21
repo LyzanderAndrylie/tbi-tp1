@@ -1,0 +1,9 @@
+We propose and demonstrate the digital resonance tuning of high-Q/Vm silicon
+photonic crystal nanocavities using a self-limiting atomic layer deposition
+technique. Control of resonances in discrete steps of 122 +/- 18 pm per hafnium
+oxide atomic layer is achieved through this post-fabrication process, nearly
+linear over a full 17 nm tuning range. The cavity Q is maintained in this
+perturbative process, and can reach up to its initial values of 49,000 or more.
+Our results are highly controllable, applicable to many material systems, and
+particularly critical to matching resonances and transitions involving
+mesoscopic optical cavities.

@@ -1,0 +1,13 @@
+We study a spinless level that hybridizes with a fermionic band and is also
+coupled via its charge to a dissipative bosonic bath. We consider the general
+case of a power-law hybridization function $\Gamma(\w)\propto |\w|^r$ with
+$r\ge 0$, and a bosonic bath spectral function $B(\w)\propto \w^s$ with $s\ge
+-1$. For $r<1$ and $\mathrm{max}(0,2r-1)<s<1$, this Bose-Fermi quantum impurity
+model features a continuous zero-temperature transition between a delocalized
+phase, with tunneling between the impurity level and the band, and a localized
+phase, in which dissipation suppresses tunneling in the low-energy limit. The
+phase diagram and the critical behavior of the model are elucidated using
+perturbative and numerical renormalization-group techniques, between which
+there is excellent agreement in the appropriate regimes. For $r=0$ this model's
+critical properties coincide with those of the spin-boson and Ising Bose-Fermi
+Kondo models, as expected from bosonization.

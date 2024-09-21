@@ -1,0 +1,9 @@
+In this paper, we investigate the fidelity for the Heisenberg chain with the
+next-nearest-neighbor interaction (or the $J_1-J_2$ model) and analyze its
+connections with quantum phase transition. We compute the fidelity between the
+ground states and find that the phase transition point of the $J_1-J_2$ model
+can not be well characterized by the ground state fidelity for finite-size
+systems. Instead, we introduce and calculate the fidelity between the first
+excited states. Our results show that the quantum transition can be well
+characterized by the fidelity of the first excited state even for a small-size
+system.

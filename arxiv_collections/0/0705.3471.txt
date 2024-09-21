@@ -1,0 +1,12 @@
+We report the propagation of highly nonlinear solitary waves in
+heterogeneous, periodic granular media using experiments, numerical
+simulations, and theoretical analysis. We examine periodic arrangements of
+particles in experiments in which stiffer/heavier beads (stainless steel) are
+alternated with softer/lighter ones (PTFE beads). We find excellent agreement
+between experiments and numerics in a model with Hertzian interactions between
+adjacent beads, which in turn agrees very well with a theoretical analysis of
+the model in the long-wavelength regime that we derive for heterogeneous
+environments and general bead interactions. Our analysis encompasses
+previously-studied examples as special cases and also provides key insights on
+the influence of the dimer lattice on the properties (width and propagation
+speed) of the obtained highly nonlinear wave solutions.

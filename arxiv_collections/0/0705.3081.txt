@@ -1,0 +1,6 @@
+We propose the improved decoy state quantum key distribution incorporating
+finite statistics due to the finite code length and report on its
+demonstration. In our experiment, four different intensities including the
+vacuum state for optimal pulses are used and the key generation rate of 200 bps
+is achieved in the 20 km telecom optical fiber transmission keeping the
+eavesdropper's mutual information with the final key less than 2^{-9}.

@@ -1,0 +1,3 @@
+Under certain hypothesises, we prove that a map which is an isometry for the
+Caratheodory infinitesimal metric at a point is an analytic isomorphism onto
+its image.

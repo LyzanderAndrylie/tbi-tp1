@@ -1,0 +1,19 @@
+Dynamic response of two-dimensional electron systems with spin-orbit
+interaction is studied theoretically on the basis of quantum kinetic equation,
+taking into account elastic scattering of electrons. The spin polarization and
+spin current induced by the applied electric field are calculated for the whole
+class of electron systems described by p-linear spin-orbit Hamiltonians. The
+absence of nonequilibrium intrinsic static spin currents is confirmed for these
+systems with arbitrary (nonparabolic) electron energy spectrum. Relations
+between the spin polarization, spin current, and electric current are
+established. The general results are applied to the quantum wells grown in
+[001] and [110] crystallographic directions, with both Rashba and Dresselhaus
+types of spin-orbit coupling. It is shown that the existence of the fixed
+(momentum-independent) precession axes in [001]-grown wells with equal Rashba
+and Dresselhaus spin velocities or in symmetric [110]-grown wells leads to
+vanishing spin polarizability at arbitrary frequency of the applied electric
+field. This property is explained by the absence of Dyakonov-Perel-Kachorovskii
+spin relaxation for the spins polarized along these precession axes. As a
+result, a considerable frequency dispersion of spin polarization at very low
+frequency in the vicinity of the fixed precession axes is predicted. Possible
+effects of extrinsic spin-orbit coupling on the obtained results are discussed.

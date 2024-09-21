@@ -1,0 +1,9 @@
+The Petviashvili's iteration method has been known as a rapidly converging
+numerical algorithm for obtaining fundamental solitary wave solutions of
+stationary scalar nonlinear wave equations with power-law nonlinearity: \
+$-Mu+u^p=0$, where $M$ is a positive definite self-adjoint operator and $p={\rm
+const}$. In this paper, we propose a systematic generalization of this method
+to both scalar and vector Hamiltonian equations with arbitrary form of
+nonlinearity and potential functions. For scalar equations, our generalized
+method requires only slightly more computational effort than the original
+Petviashvili method.

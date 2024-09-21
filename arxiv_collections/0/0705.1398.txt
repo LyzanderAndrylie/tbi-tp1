@@ -1,0 +1,12 @@
+Shor's powerful quantum algorithm for factoring represents a major challenge
+in quantum computation and its full realization will have a large impact on
+modern cryptography. Here we implement a compiled version of Shor's algorithm
+in a photonic system using single photons and employing the non-linearity
+induced by measurement. For the first time we demonstrate the core processes,
+coherent control, and resultant entangled states that are required in a
+full-scale implementation of Shor's algorithm. Demonstration of these processes
+is a necessary step on the path towards a full implementation of Shor's
+algorithm and scalable quantum computing. Our results highlight that the
+performance of a quantum algorithm is not the same as performance of the
+underlying quantum circuit, and stress the importance of developing techniques
+for characterising quantum algorithms.

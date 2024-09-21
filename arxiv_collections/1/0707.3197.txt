@@ -1,0 +1,14 @@
+Phase diagram of the Hubbard-Holstein model in the coexistence of
+electron-electron and electron-phonon interactions has been theoretically
+obtained with the density-matrix renormalization group method for
+one-dimensional (1D) systems, where an improved warm-up (the recursive sweep)
+procedure has enabled us to calculate various correlation functions. We have
+examined the cases of (i) the systems half-filled by electrons for the full
+parameter space spanned by the electron-electron and electron-phonon coupling
+constants and the phonon frequency, (ii) non-half-filled system, and (iii)
+trestle lattice. For (i), we have detected a region where both the charge and
+on-site pairing correlations decay with power-laws in real space, which
+suggests a metallic behavior. While pairing correlations are not dominant in
+(i), we have found that they become dominant as the system is doped in (ii), or
+as the electronic band structure is modified (with a broken electron-hole
+symmetry) in (iii) in certain parameter regions.

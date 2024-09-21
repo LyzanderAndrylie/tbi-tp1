@@ -1,0 +1,11 @@
+Random walk can be used as a centrality measure of a directed graph. However,
+if the graph is reducible the random walk will be absorbed in some subset of
+nodes and will never visit the rest of the graph. In Google PageRank the
+problem was solved by introduction of uniform random jumps with some
+probability. Up to the present, there is no clear criterion for the choice this
+parameter. We propose to use parameter-free centrality measure which is based
+on the notion of quasi-stationary distribution. Specifically we suggest four
+quasi-stationary based centrality measures, analyze them and conclude that they
+produce approximately the same ranking. The new centrality measures can be
+applied in spam detection to detect ``link farms'' and in image search to find
+photo albums.

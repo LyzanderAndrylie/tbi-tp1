@@ -1,0 +1,20 @@
+We investigate the phenomenology of the Randall-Sundrum radion in realistic
+models of electroweak symmetry breaking with bulk gauge and fermion fields,
+since the radion may turn out to be the lightest particle in such models. We
+calculate the coupling of the radion in such scenarios to bulk fermion and
+gauge modes. Special attention needs to be devoted to the coupling to massless
+gauge fields (photon, gluon), since it is well known that loop effects may be
+important for these fields. We also present a detailed explanation of these
+couplings from the CFT interpretation. We then use these couplings to determine
+the radion branching fractions and discuss some of the discovery potential of
+the LHC for the radion. We find that the gamma-gamma signal is enhanced over
+most of the range of the radion mass over the gamma-gamma signal of a SM Higgs,
+as long as the RS scale is sufficiently low. However, the signal significance
+depends strongly on free parameters that characterize the magnitude of bare
+brane-localized kinetic terms for the massless gauge fields. In the absence of
+such terms, the signal can be be enhanced over the traditional RS1 models
+(where all standard model fields are localized on the IR brane), but the signal
+can also be reduced compared to RS1 if the brane localized terms are sizeable.
+We also show that for larger radion masses, where the gamma-gamma signal is no
+longer significant, one can use the usual 4 lepton signal to discover the
+radion.

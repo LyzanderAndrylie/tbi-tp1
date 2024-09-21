@@ -1,0 +1,6 @@
+The software TrIm offers implementations of tropical implicitization and
+tropical elimination, as developed by Tevelev and the authors. Given a
+polynomial map with generic coefficients, TrIm computes the tropical variety of
+the image. When the image is a hypersurface, the output is the Newton polytope
+of the defining polynomial. TrIm can thus be used to compute mixed fiber
+polytopes, including secondary polytopes.

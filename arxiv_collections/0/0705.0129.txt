@@ -1,0 +1,10 @@
+In a recent paper [B. A. Piot et al., Phys. Rev. B 72, 245325 (2005)], we
+have shown that the lifting of the electron spin degeneracy in the integer
+quantum Hall effect at high filling factors should be interpreted as a
+magnetic-field-induced Stoner transition. In this work, we extend the analysis
+to investigate the influence of the single-particle Zeeman energy on the
+quantum Hall ferromagnet at high filling factors. The single-particle Zeeman
+energy is tuned through the application of an additional in-plane magnetic
+field. Both the evolution of the spin polarization of the system and the
+critical magnetic field for spin splitting are well described as a function of
+the tilt angle of the sample in the magnetic field.

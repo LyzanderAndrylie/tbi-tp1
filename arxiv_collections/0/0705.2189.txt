@@ -1,0 +1,9 @@
+Motivated by work of Buch on set-valued tableaux in relation to the K-theory
+of the Grassmannian, we study six combinatorial Hopf algebras. These Hopf
+algebras can be thought of as K-theoretic analogues of the by now classical
+``square'' of Hopf algebras consisting of symmetric functions, quasisymmetric
+functions, noncommutative symmetric functions and the Malvenuto-Reutenauer Hopf
+algebra of permutations. In addition, we develop a theory of set-valued
+P-partitions and study three new families of symmetric functions which are
+weight generating functions of reverse plane partitions, weak set-valued
+tableaux and valued-set tableaux.

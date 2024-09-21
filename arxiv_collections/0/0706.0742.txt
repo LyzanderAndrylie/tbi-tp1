@@ -1,0 +1,10 @@
+The heavy-fermion metal CePd_{1-x}Rh_x evolves from ferromagnetism at x=0 to
+a non-magnetic state at some critical concentration x_c. Utilizing the
+quasiparticle picture and the concept of fermion condensation quantum phase
+transition (FCQPT), we address the question about non-Fermi liquid (NFL)
+behavior of ferromagnet CePd_{1-x}Rh_x and show that it coincides with that of
+both antiferromagnet YbRh_2(Si_{0.95}Ge_{0.05})_2 and paramagnet CeRu_2Si_2 and
+CeNi_2Ge_2. We conclude that the NFL behavior being independent of the
+peculiarities of specific alloy, is universal, while numerous quantum critical
+points assumed to be responsible for the NFL behavior of different HF metals
+can be well reduced to the only quantum critical point related to FCQPT.

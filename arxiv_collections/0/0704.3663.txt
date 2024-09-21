@@ -1,0 +1,11 @@
+A scheme for coherent manipulation of collective atomic states is developed
+such that total subradiant states, in which spontaneous emission is suppressed
+into all directions due to destructive interference between neighbor atoms, can
+be created in an extended atomic ensemble. The optimal conditions for creation
+of such states and suitability of them for quantum storage are discussed. It is
+shown that in order to achieve the maximum signal-to-noise ratio the shape of a
+light pulse to be stored and reconstructed using a homogeneously broadened
+absorbtion line of an atomic system should be a time-reversed regular part of
+the response function of the system. In the limit of high optical density, such
+pulses allow one to prepare collective subradiant atomic states with near flat
+spatial distribution of the atomic excitation in the medium.

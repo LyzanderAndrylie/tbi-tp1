@@ -1,0 +1,5 @@
+An analogy between electromagnetism and acoustics is presented in 2D. The
+propagation of sound in presence of absorbing material is modeled using an open
+boundary microwave package. Validation is performed through analytical and
+experimental results. Application to local impedance active control for free
+field sound absorption is finally described.

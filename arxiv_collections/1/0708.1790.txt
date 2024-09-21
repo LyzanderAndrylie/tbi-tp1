@@ -1,0 +1,10 @@
+A distinct peak is observed in the pi^+/- psi' invariant mass distribution
+near 4.43 GeV in B->K pi^+/- psi' decays. A fit using a Breit Wigner resonance
+shape yields a peak mass and width of 4433+-4(stat)+-2(syst) MeV and Gamma =
+45^+18_-13(stat) ^+30_-13 MeV. The product branching fraction is determined to
+be Bf(B-->KZ(4430))xBf(Z(4430)-->pi^+psi') =
+(4.1+-1.0(stat)+-1.4(syst))x10^{-5), where Z(4430) is used to denote the
+observed structure. The statistical significance of the observed peak is
+6.5sigma. These results are obtained from a 605 fb-1 data sample that contains
+657 million BBbar pairs collected near the Upsilon(4S) resonance with the Belle
+detector at the KEKB asymmetric energy e+e- collider.

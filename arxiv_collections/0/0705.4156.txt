@@ -1,0 +1,24 @@
+We propose that the smallness of the light quark masses is related to the
+smallness of the T violation in hadronic weak interactions. Accordingly, for
+each of the two quark sectors ("upper" and "lower") we construct a 3\times 3
+mass matrix in a bases of unobserved quark states, such that the "upper"and
+"lower" basis states correspond exactly via the $W^\pm$ transitions in the weak
+interaction. In the zeroth approximation of our formulation, we assume T
+conservation by making all matrix elements real. In addition, we impose a
+"hidden symmetry" (invariance under simultaneous translations of all three
+basis quark states in each sector), which ensures a zero mass eigenstate in
+each sector.
+  Next, we simultaneously break the hidden symmetry and T invariance by
+introducing a phase factor e^{i\chi} in the interaction for each sector. The
+Jarlskog invariant J_{CKM}, as well as the light quark masses are evaluated in
+terms of the parameters of the model. We find a simple relation with
+J_{CKM}=(m_dm_s/m_b^2)^{1/2}A\lambda^3\cos(\chi/2), with A and \lambda the
+Wolfenstein parameters. Setting J_{CKM}=3.08 \times 10^{-5}, m_b=4.7GeV,
+m_s=95MeV, A=0.818 and \lambda=0.227, we find m_d\cos^2(\chi/2) \simeq 2.4MeV,
+consistent with the accepted value m_d=3-7MeV.
+  We make a parallel proposal for the lepton sectors. With the hidden symmetry
+and in the approximation of T invariance, both the masses of e and \nu_1 are
+zero. The neutrino mapping matrix V_\nu is shown to be of the same
+Harrison-Scott form which is in agreement with experiments. We also examine the
+correction due to T violation, and evaluate the corresponding Jarlskog
+invariant {\cal J}_\nu.

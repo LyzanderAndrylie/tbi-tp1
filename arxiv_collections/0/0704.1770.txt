@@ -1,0 +1,18 @@
+We study the population of satellite galaxies formed in a suite of
+N-body/gasdynamical simulations of galaxy formation in a LCDM universe. We find
+little spatial or kinematic bias between the dark matter and the satellite
+population. The velocity dispersion of the satellites is a good indicator of
+the virial velocity of the halo: \sigma_{sat}/V_{vir}=0.9 +/- 0.2. Applied to
+the Milky Way and M31 this gives V_{vir}^{MW}=109 +/- 22$ km/s and
+V_{vir}^{M31} = 138 +/- 35 km/s, respectively, substantially lower than the
+rotation speed of their disk components. The detailed kinematics of simulated
+satellites and dark matter are also in good agreement. By contrast, the stellar
+halo of the simulated galaxies is kinematically and spatially distinct from the
+population of surviving satellites. This is because the survival of a satellite
+depends on mass and on time of accretion; surviving satellites are biased
+toward low-mass systems that have been recently accreted by the galaxy. Our
+results support recent proposals for the origin of the systematic differences
+between stars in the Galactic halo and in Galactic satellites: the elusive
+``building blocks'' of the Milky Way stellar halo were on average more massive,
+and were accreted (and disrupted) earlier than the population of dwarfs that
+has survived self-bound until the present.

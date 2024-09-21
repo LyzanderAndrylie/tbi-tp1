@@ -1,0 +1,15 @@
+We suggest and implement a parallelization scheme based on an efficient
+multiband eigenvalue solver, called the locally optimal block preconditioned
+conjugate gradient LOBPCG method, and using an optimized three-dimensional (3D)
+fast Fourier transform (FFT) in the ab initio}plane-wave code ABINIT. In
+addition to the standard data partitioning over processors corresponding to
+different k-points, we introduce data partitioning with respect to blocks of
+bands as well as spatial partitioning in the Fourier space of coefficients over
+the plane waves basis set used in ABINIT. This k-points-multiband-FFT
+parallelization avoids any collective communications on the whole set of
+processors relying instead on one-dimensional communications only. For a single
+k-point, super-linear scaling is achieved for up to 100 processors due to an
+extensive use of hardware optimized BLAS, LAPACK, and SCALAPACK routines,
+mainly in the LOBPCG routine. We observe good performance up to 200 processors.
+With 10 k-points our three-way data partitioning results in linear scaling up
+to 1000 processors for a practical system used for testing.

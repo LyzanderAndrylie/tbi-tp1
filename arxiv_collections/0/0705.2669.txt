@@ -1,0 +1,7 @@
+We study the motion of a microscopic swimmer composed of a semiflexible
+polymer anchored at the surface of a magnetic sphere using hydrodynamic
+simulations and scaling arguments. The swimmer is driven by a rotating magnetic
+field, and displays forward and backward motion depending on the value of the
+rotational frequency. In particular, the system exhibits forward thrust for
+frequencies below a critical frequency $\omega^*$, while above $\omega^*$ the
+motion is reversed.

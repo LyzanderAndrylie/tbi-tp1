@@ -1,0 +1,10 @@
+We introduce a topology-based nonlinear network model of protein dynamics
+with the aim of investigating the interplay of spatial disorder and
+nonlinearity. We show that spontaneous localization of energy occurs
+generically and is a site-dependent process. Localized modes of nonlinear
+origin form spontaneously in the stiffest parts of the structure and display
+site-dependent activation energies. Our results provide a straightforward way
+for understanding the recently discovered link between protein local stiffness
+and enzymatic activity. They strongly suggest that nonlinear phenomena may play
+an important role in enzyme function, allowing for energy storage during the
+catalytic process.

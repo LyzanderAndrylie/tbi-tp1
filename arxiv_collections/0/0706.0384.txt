@@ -1,0 +1,18 @@
+In this work, we study the isospin-violating decay of $\phi\to \omega\pi^0$
+and quantify the electromagnetic (EM) transitions and intermediate meson
+exchanges as two major sources of the decay mechanisms. In the EM decays, the
+present datum status allows a good constraint on the EM decay form factor in
+the vector meson dominance (VMD) model, and it turns out that the EM transition
+can only account for about $1/4\sim 1/3$ of the branching ratio for $\phi\to
+\omega\pi^0$. The intermediate meson exchanges, $K\bar{K}(K^*)$ (intermediate
+$K\bar{K}$ interaction via $K^*$ exchanges), $K\bar{K^*}(K)$ (intermediate
+$K\bar{K^*}$ rescattering via kaon exchanges), and $K\bar{K^*}(K^*)$
+(intermediate $K\bar{K^*}$ rescattering via $K^*$ exchanges), which evade the
+naive Okubo-Zweig-Iizuka (OZI) rule, serve as another important contribution to
+the isospin violations. They are evaluated with effective Lagrangians where
+explicit constraints from experiment can be applied. Combining these three
+contributions, we obtain results in good agreement with the experimental data.
+This approach is also extended to $J/\psi(\psi^\prime)\to \omega\pi^0$, where
+we find contributions from the $K\bar{K}(K^*)$, $K\bar{K^*}(K)$ and
+$K\bar{K^*}(K^*)$ loops are negligibly small, and the isospin violation is
+likely to be dominated by the EM transition.

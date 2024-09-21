@@ -1,0 +1,12 @@
+In this paper we study how to attack through different techniques a perfect
+fluid Bianchi I model with variable G, and $\Lambda.$ These tactics are: Lie
+groups method (LM), imposing a particular symmetry, self-similarity (SS),
+matter collineations (MC). and kinematical self-similarity (KSS). We compare
+both tactics since they are quite similar (symmetry principles). We arrive to
+the conclusion that the LM is too restrictive and brings us to get only the
+flat FRW solution with G=const. and $\Lambda=0$. The SS, MC and KSS approaches
+bring us to obtain the following solution: G is a decreasing time function and
+$\Lambda\thickapprox t^{-2}$, with $\Lambda<0$, while the exponents of the
+scale factor must satisfy the conditions $\sum_{i=1}% ^{3}\alpha_{i}=1$ and
+$\sum_{i=1}^{3}\alpha_{i}^{2}<1,$ $\forall\omega \in(-1,1)$, relaxing in this
+way the Kasner conditions.

@@ -1,0 +1,11 @@
+We study spectral properties of a system of two quantum particles on an
+integer lattice with a bounded short-range two-body interaction, in an external
+random potential field $V(x,\omega)$ with independent, identically distributed
+values. The main result is that if the common probability density $f$ of random
+variables $V(x,\omega)$ is analytic in a strip around the real line and the
+amplitude constant $g$ is large enough (i.e. the system is at high disorder),
+then, with probability one, the spectrum of the two-particle lattice
+Schroedinger operator $H(\omega)$ (bosonic or fermionic) is pure point, and all
+eigen-functions decay exponentially. The proof given in this paper is based on
+a refinement of a multiscale analysis (MSA) scheme proposed by von Dreifus and
+Klein, adapted to incorporate lattice systems with interaction.

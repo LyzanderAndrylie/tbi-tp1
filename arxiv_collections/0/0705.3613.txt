@@ -1,0 +1,12 @@
+The total neutron-Nucleus cross section has been calculated within an
+approach which takes into account nucleon-nucleon correlations, Glauber
+multiple scattering and inelastic shadowing corrections. Nuclear targets
+ranging from 4He to 208Pb and neutron incident momentum ranging from 3 to 300
+GeV/c, have been considered. Correlations have been introduced by two different
+approaches leading to the same results. The commonly used approximation,
+consisting in treating nuclear effects only by a product of one-body densities,
+is carefully analyzed and it is shown that the effects of realistic
+correlations resulting from modern nucleon-nucleon interactions and realistic
+correlations resulting from realistic nucleon-nucleon interactions and
+microscopic ground state calculation of nuclear properties cannot be
+disregarded.

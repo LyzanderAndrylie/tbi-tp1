@@ -1,0 +1,10 @@
+The full three dimensional dispersion of the pi-bands, Fermi velocities and
+effective masses are measured with angle resolved photoemission spectroscopy
+and compared to first-principles calculations. The band structure by
+density-functional theory strongly underestimates the slope of the bands and
+the trigonal warping effect. Including electron-electron calculation on the
+level of the GW approximation, however, yields remarkable agreement in the
+vicinity of the Fermi level. This demonstrates the breakdown of the independent
+electron picture in semi-metallic graphite and points towards a pronounced role
+of electron correlation for the interpretation of transport experiments and
+double-resonant Raman scattering for a wide range of carbon based materials.

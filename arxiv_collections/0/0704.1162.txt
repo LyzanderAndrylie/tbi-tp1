@@ -1,0 +1,9 @@
+The high multiplicity of massive stars in dense, young clusters is
+established early in their evolution. The mechanism behind this remains
+unresolved. Recent results suggest that massive protostars may capture
+companions through disk interactions with much higher efficiency than their
+solar mass counterparts. However, this conclusion is based on analytic
+determinations of capture rates and estimates of the robustness of the
+resulting binaries. We present the results of coupled n-body and SPH
+simulations of star-disk encounters to further test the idea that disk-captured
+binaries contribute to the observed multiplicity of massive stars.

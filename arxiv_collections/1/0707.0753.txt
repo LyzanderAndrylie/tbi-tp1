@@ -1,0 +1,22 @@
+The aim of this review is to provide better understanding of a few approaches
+that have been proposed for treating nonequilibrium (time-dependent) processes
+in statistical mechanics with the emphasis on the inter-relation between
+theories. The ensemble method, as it was formulated by J. W. Gibbs, have the
+great generality and the broad applicability to equilibrium statistical
+mechanics. Different macroscopic environmental constraints lead to different
+types of ensembles, with particular statistical characteristics. In the present
+work, the statistical theory of nonequilibrium processes which is based on
+nonequilibrium ensemble formalism is discussed. The kinetic approach to dynamic
+many-body problems, which is important from the point of view of the
+fundamental theory of irreversibility, is alluded to. The emphasis is on the
+method of the nonequilibrium statistical operator (NSO) developed by D. N.
+Zubarev. The NSO method permits one to generalize the Gibbs ensemble method to
+the nonequilibrium case and to construct a nonequilibrium statistical operator
+which enables one to obtain the transport equations and calculate the transport
+coefficients in terms of correlation functions, and which, in the case of
+equilibrium, goes over to the Gibbs distribution. Although some space is
+devoted to the formal structure of the NSO method, the emphasis is on its
+utility. Applications to specific problems such as the generalized transport
+and kinetic equations, and a few examples of the relaxation and dissipative
+processes, which manifest the operational ability of the method, are
+considered.

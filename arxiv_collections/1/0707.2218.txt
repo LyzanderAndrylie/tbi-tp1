@@ -1,0 +1,10 @@
+We report on higly accurate absolute frequency measurement against a
+femtosecond frequency comb of 6 saturated absorption lines of formic acid
+(HCOOH) with an accuracy of 1 kHz. We also report the frequency measurement of
+17 other lines with an accuracy of 2 kHz. Those lines are in quasi coincidence
+with the 9R(36) to 9R(42) CO$_2$ laser emission lines and are probed either by
+a CO$_2$ or a widely tunable quantum cascade laser phase locked to a master
+CO$_2$ laser. The relative stability of two HCOOH stabilized lasers is
+characterized by a relative Allan deviation of 4.5 10$^{-12}$ $\tau^{-1/2}$.
+They give suitable frequency references for H$_2^+$ Doppler free two-photon
+spectroscopy.

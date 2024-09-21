@@ -1,0 +1,23 @@
+The existence of various anomalous stars, such as the first stars in the
+universe or stars produced by stellar mergers, has been recently proposed. Some
+of these stars will result in black hole formation. In this study, we
+investigate iron core collapse and black hole formation systematically for the
+iron-core mass range of 3 - 30Msun, which has not been studied well so far.
+Models used here are mostly isentropic iron cores that may be produced in
+merged stars in the present universe but we also employ a model that is meant
+for a Population III star and is obtained by evolutionary calculation. We solve
+numerically the general relativistic hydrodynamics and neutrino transfer
+equations simultaneously, treating neutrino reactions in detail under spherical
+symmetry. As a result, we find that massive iron cores with ~10Msun
+unexpectedly produce a bounce owing to the thermal pressure of nucleons before
+black hole formation. The features of neutrino signals emitted from such
+massive iron cores differ in time evolution and spectrum from those of ordinary
+supernovae. Firstly, the neutronization burst is less remarkable or disappears
+completely for more massive models because the density is lower at the bounce.
+Secondly, the spectra of neutrinos, except the electron type, are softer owing
+to the electron-positron pair creation before the bounce. We also study the
+effects of the initial density profile, finding that the larger the initial
+density gradient is, the more steeply the neutronization burst declines.
+Further more, we suggest a way to probe into the black hole progenitors from
+the neutrino emission and estimate the event number for the currently operating
+neutrino detectors.

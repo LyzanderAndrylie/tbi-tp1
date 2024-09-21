@@ -1,0 +1,9 @@
+Single electron charging effects in a surface-gated InSb/AlInSb QW structure
+are reported. This material, due to its large g-factor and light effective
+mass, offers considerable advantages over more commonly used materials, such as
+GaAs, for quantum information processing devices. However, differences in
+material and device technology result in significant processing challenges.
+Simple Coulomb blockade and quantised confinement models are considered to
+explain the observation of conductance oscillations in these structures. The
+charging energy is found to be comparable with the energy spectrum for single
+particle states.

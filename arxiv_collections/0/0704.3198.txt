@@ -1,0 +1,6 @@
+We extend the imaginary-time formulation of the equilibrium quantum many-body
+theory to steady-state nonequilibrium with an application to strongly
+correlated transport. By introducing Matsubara voltage, we keep the finite
+chemical potential shifts in the Fermi-Dirac function, in agreement with the
+Keldysh formulation. The formulation is applied to strongly correlated
+transport in the Kondo regime using the quantum Monte Carlo method.

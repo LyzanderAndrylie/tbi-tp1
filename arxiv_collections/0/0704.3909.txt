@@ -1,0 +1,11 @@
+We have measured the Lambda_b lifetime using the exclusive decay Lambda_b to
+J/psi Lambda, based on 1.2 fb-1 of data collected with the D0 detector during
+2002-2006. From 171 reconstructed Lambda_b decays, where the J/psi and Lambda
+are identified via the decays J/psi to mu+ mu- and Lambda to p pi, we measured
+the Lambda_b lifetime to be tau(Lambda_b) = 1.218(+0.130,-0.115)(stat) +/-
+0.042(syst)ps. We also measured the B0 lifetime in the decay B0 to J/psi(mu+
+mu-)K0_S(pi+ pi-) to be tau(B0) = 1.501(+0.078,-0.074)(stat) +/ -0.050(syst)ps,
+yielding a lifetime ratio of tau(Lambda_b)/tau(B0) = 0.811(+0.096,-0.087)(stat)
++/ -0.034(syst). These measurements are consistent with the current world
+averages and support the shorter lifetime of the Lambda_b with respect to B
+mesons, in contrast to another recent measurement of significant precision.

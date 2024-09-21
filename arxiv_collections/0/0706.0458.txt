@@ -1,0 +1,10 @@
+We present a measurement of the ttbar pair production cross section in ppbar
+collisions at sqrt(s) = 1.96 TeV utilizing approximately 425 pb-1 of data
+collected with the D0 detector. We consider decay channels containing two high
+pT charged leptons (either e or \mu) from leptonic decays of both top-daughter
+W bosons. These were gathered using four sets of selection criteria, three of
+which required that a pair of fully identified leptons (i.e., e\mu, ee, or
+\mu\mu) be found. The fourth approach imposed less restrictive criteria on one
+of the lepton candidates and required that at least one hadronic jet in each
+event be tagged as containing a b quark. For a top quark mass of 175 GeV, the
+measured cross section is 7.4 +/-1.4(stat} +/- 1.0(syst) pb.

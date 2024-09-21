@@ -1,0 +1,6 @@
+The influence of Coulomb distortion on the polarization transfer in elastic
+proton and antiproton electron scattering at low energies is calculated in a
+distorted wave Born approximation. For antiproton electron scattering Coulomb
+effects reduce substantially the spin transfer cross section compared to the
+plane wave Born approximation whereas for proton electron scattering they lead
+to a dramatic increase for kinetic proton lab energies below about 20 keV.

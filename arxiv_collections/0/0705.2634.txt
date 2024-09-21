@@ -1,0 +1,6 @@
+We study a rotating probe membrane in S^3 inside AdS_4 x S^7 background of
+M-theory. With (partial) gauge fixing, we show that in the fast limit the
+worldvolume of tensionless membrane reduces to either the XXX_1/2 spin chain or
+the two-dimensional SU(2) Heisenberg spin model. Later we introduce the
+anisotropy and couple it to the external magnetic field. We also establish the
+correspondence for higher dimensional (D)p-branes.

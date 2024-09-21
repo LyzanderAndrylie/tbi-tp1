@@ -1,0 +1,12 @@
+We discuss a projector Monte Carlo method for quantum spin models formulated
+in the valence bond basis, using the S=1/2 Heisenberg antiferromagnet as an
+example. Its singlet ground state can be projected out of an arbitrary basis
+state as the trial state, but a more rapid convergence can be obtained using a
+good variational state. As an alternative to first carrying out a time
+consuming variational Monte Carlo calculation, we show that a very good trial
+state can be generated in an iterative fashion in the course of the simulation
+itself. We also show how the properties of the valence bond basis enable
+calculations of quantities that are difficult to obtain with the standard basis
+of Sz eigenstates. In particular, we discuss quantities involving
+finite-momentum states in the triplet sector, such as the dispersion relation
+and the spectral weight of the lowest triplet.

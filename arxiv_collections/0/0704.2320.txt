@@ -1,0 +1,13 @@
+Magnetorotational instability (MRI) is one of the most important and most
+common instabilities in astrophysics, it is widely accepted that it serves as a
+source of turbulent viscosity in accretion disks -- the most energy efficient
+objects in the Universe. However it is very difficult to bring this process
+down on earth and model it in a laboratory experiment. Several different
+approaches have been proposed, one of the most recent is PROMISE
+(Potsdam-ROssendorf Magnetorotational InStability Experiment). It consists of a
+flow of a liquid metal between two rotating cylinders under applied
+current-free spiral magnetic field. The cylinders must be covered with plates
+which introduce additional end-effects which alter the flow and make it more
+difficult to clearly distinguish between MRI stable and unstable state. In this
+paper we propose simple and inexpensive improvement to the PROMISE experiment
+which would reduce those undesirable effects.

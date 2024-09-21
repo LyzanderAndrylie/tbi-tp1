@@ -1,0 +1,10 @@
+We study solutions of the time dependent Schr\"odinger equation on Riemannian
+manifolds with oscillatory initial conditions given by Lagrangian states.
+Semiclassical approximations describe these solutions for small h (where h is
+the semiclassical parameter), but their accuracy for large times is in general
+only understood up to the Ehrenfest time T ~ ln(1/h), and the most difficult
+case is the one where the underlying classical system is chaotic.
+  We show that on surfaces of constant negative curvature semiclassical
+approximations remain accurate for times at least up to T ~ h^(-1/2) in the
+case that the Lagrangian state is associated with an unstable manifold of the
+geodesic flow.

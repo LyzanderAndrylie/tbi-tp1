@@ -1,0 +1,12 @@
+Integer octagonal constraints (a.k.a. ``Unit Two Variables Per Inequality''
+or ``UTVPI integer constraints'') constitute an interesting class of
+constraints for the representation and solution of integer problems in the
+fields of constraint programming and formal analysis and verification of
+software and hardware systems, since they couple algorithms having polynomial
+complexity with a relatively good expressive power. The main algorithms
+required for the manipulation of such constraints are the satisfiability check
+and the computation of the inferential closure of a set of constraints. The
+latter is called `tight' closure to mark the difference with the (incomplete)
+closure algorithm that does not exploit the integrality of the variables. In
+this paper we present and fully justify an O(n^3) algorithm to compute the
+tight closure of a set of UTVPI integer constraints.

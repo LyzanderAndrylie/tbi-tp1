@@ -1,0 +1,7 @@
+Leveraging the potential power of even small handheld devices able to
+communicate wirelessly requires dedicated support. In particular, collaborative
+applications need sophisticated assistance in terms of querying and exchanging
+different kinds of data. Using a concrete example from the domain of mobile
+learning, the general need for information dissemination is motivated.
+Subsequently, and driven by infrastructural conditions, realization strategies
+of an appropriate middleware service are discussed.

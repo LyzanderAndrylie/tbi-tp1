@@ -1,0 +1,5 @@
+The identification of jets resulting from the fragmentation and hadronization
+of b quarks is an important part of high-pT collider physics. The methods used
+by the CDF and DO collaborations to perform this identification are described,
+including the calibration of the efficiencies and fake rates. Some thoughts on
+the application of these methods in the LHC environment are also presented.

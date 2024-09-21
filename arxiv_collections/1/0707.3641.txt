@@ -1,0 +1,9 @@
+In an electromagnetic cloak based on a transformation approach, reduced sets
+of material properties are generally favored due to their easier implementation
+in reality, although a seemingly inevitable drawback of undesired reflection
+exists in such cloaks. Here we suggest using high-order transformations to
+create smooth moduli at the outer boundary of the cloak, therefore completely
+eliminating the detrimental scattering within the limit of geometric optics. We
+apply this scheme to a non-magnetic cylindrical cloak and demonstrate that the
+scattered field is reduced substantially in a cloak with optimal quadratic
+transformation as compared to its linear counterpart.

@@ -1,0 +1,7 @@
+We develop a criterion for transience for a general model of branching Markov
+chains. In the case of multi-dimensional branching random walk in random
+environment (BRWRE) this criterion becomes explicit. In particular, we show
+that \emph{Condition L} of Comets and Popov is necessary and sufficient for
+transience as conjectured. Furthermore, the criterion applies to two important
+classes of branching random walks and implies that the critical branching
+random walk is transient resp. dies out locally.

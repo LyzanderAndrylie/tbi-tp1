@@ -1,0 +1,9 @@
+We show that one can cool a micro-mechanical oscillator to its quantum ground
+state using radiation pressure in an appropriately detuned cavity
+(self-cooling). From a simple theory based on Heisenberg-Langevin equations we
+find that optimal self-cooling occurs in the good cavity regime, when the
+cavity bandwidth is smaller than the mechanical frequency, but still larger
+than the effective mechanical damping. In this case the intracavity field and
+the vibrational mechanical mode coherently exchange their fluctuations. We also
+present dynamical calculations which show how to access the mirror final
+temperature from the fluctuations of the field reflected by the cavity.

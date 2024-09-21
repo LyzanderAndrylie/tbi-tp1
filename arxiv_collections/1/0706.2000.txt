@@ -1,0 +1,9 @@
+The Schmidt decomposition is an important tool in the study of quantum
+systems especially for the quantification of the entanglement of pure states.
+However, the Schmidt decomposition is only unique for bipartite pure states,
+and some multipartite pure states. Here a generalized Schmidt decomposition is
+given for states which are equivalent to depolarized pure states. Experimental
+methods for the identification of this class of mixed states are provided and
+some examples are discussed which show the utility of this description. A
+particularly interesting example provides, for the first time, an
+interpretation of the number of negative eigenvalues of the density matrix.

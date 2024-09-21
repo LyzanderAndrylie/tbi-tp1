@@ -1,0 +1,6 @@
+The quantum state of a system of qubits can be represented by a Wigner
+function on a discrete phase space, each axis of the phase space taking values
+in a finite field. Within this framework, we show that one can make sense of
+the notion of a "rotationally invariant state" of any collection of qubits, and
+that any such state is, in a well defined sense, a state of minimum
+uncertainty.

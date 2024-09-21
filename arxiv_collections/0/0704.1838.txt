@@ -1,0 +1,13 @@
+The recently ratified IEEE 802.11e standard defines the Enhanced Distributed
+Channel Access (EDCA) function for Quality-of-Service (QoS) provisioning in the
+Wireless Local Area Networks (WLANs). The EDCA uses Carrier Sense Multiple
+Access with Collision Avoidance (CSMA/CA) and slotted Binary Exponential
+Backoff (BEB) mechanism. We present a simple mathematical analysis framework
+for the EDCA function. Our analysis considers the fact that the distributed
+random access systems exhibit cyclic behavior where each station successfully
+transmits a packet in a cycle. Our analysis shows that an AC-specific cycle
+time exists for the EDCA function. Validating the theoretical results via
+simulations, we show that the proposed analysis accurately captures EDCA
+saturation performance in terms of average throughput, medium access delay, and
+packet loss ratio. The cycle time analysis is a simple and insightful
+substitute for previously proposed more complex EDCA models.

@@ -1,0 +1,10 @@
+Transport and mixing properties of passive particles advected by an array of
+vortices are investigated. Starting from the integrable case, it is shown that
+a special class of perturbations allows one to preserve separatrices which act
+as effective transport barriers, while triggering chaotic advection. In this
+setting, mixing within the two dynamical barriers is enhanced while long range
+transport is prevented. A numerical analysis of mixing properties depending on
+parameter values is performed; regions for which optimal mixing is achieved are
+proposed. Robustness of the targeted mixing properties regarding errors in the
+applied perturbation are considered, as well as slip/no-slip boundary
+conditions for the flow.

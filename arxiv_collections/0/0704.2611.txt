@@ -1,0 +1,7 @@
+I suggest to use the effect of Coulomb drag between two closely positioned
+graphite monolayers (graphene sheets) for experimental measurement of the
+strength of weak non-linearities of the spectrum in graphene. I consider
+trigonal warping as a representative mechanism responsible for the drag effect.
+Since graphene is relatively defect-free, I evaluate the drag conductivity in
+the ballistic regime and find that it is proportional to the fourth power of
+the warping strength.

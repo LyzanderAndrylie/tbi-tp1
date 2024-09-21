@@ -1,0 +1,10 @@
+The matrix valued analog of the Euler's hypergeometric differential equation
+was introduced by Tirao in \cite{T2}. This equation arises in the study of
+matrix valued spherical functions and in the theory of matrix valued orthogonal
+polynomials. The goal of this paper is to extend naturally the number of
+parameters of Tirao's equation in order to get a generalized matrix valued
+hypergeometric equation. We take advantage of the tools and strategies
+developed in \cite{T2} to identify the corresponding matrix hypergeometric
+functions ${}_nF_m$. We prove that, if n=m+1, this functions are analytic for
+|z|<1 and we give a necesary condition for the convergence on the unit circle
+|z|=1.

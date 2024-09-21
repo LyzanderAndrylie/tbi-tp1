@@ -1,0 +1,9 @@
+We numerically simulate the effects of noise-induced sampling of alternative
+Hamiltonian paths on the ability of quantum adiabatic search (QuAdS) to solve
+randomly generated instances of the NP-Complete problem N-bit Exact Cover 3.
+The noise-averaged median runtime is determined as the noise-power and number
+of bits N are varied, and power-law and exponential fits are made to the data.
+Noise is seen to slowdown QuAdS, though a downward shift in the scaling
+exponent is found for N > 12 over a range of noise-power values. We discuss
+whether this shift might be connected to arguments in the literature that
+suggest that altering the Hamiltonian path might benefit QuAdS performance.

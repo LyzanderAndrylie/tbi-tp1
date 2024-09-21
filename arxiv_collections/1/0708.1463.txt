@@ -1,0 +1,19 @@
+It is likely that the LHC will observe a color- and charge-neutral scalar
+whose decays are consistent with those of the Standard Model (SM) Higgs boson.
+The Higgs interpretation of such a discovery is not the only possibility. For
+example, electroweak symmetry breaking (EWSB) could be triggered by a
+spontaneously broken, nearly conformal sector. The spectrum of states at the
+electroweak scale would then contain a narrow scalar resonance, the
+pseudo-Goldstone boson of conformal symmetry breaking, with Higgs-like
+properties. If the conformal sector is strongly coupled, this pseudo-dilaton
+may be the only new state accessible at high energy colliders. We discuss the
+prospects for distinguishing this mode from a minimal Higgs boson at the LHC
+and ILC. The main discriminants between the two scenarios are (1) cubic
+self-interactions and (2) a potential enhancement of couplings to massless SM
+gauge bosons. A particularly interesting situation arises when the scale f of
+conformal symmetry breaking is approximately the electroweak scale v~246 GeV.
+Although in this case the LHC may not be able to tell apart a pseudo-dilaton
+from the Higgs boson, the self-interactions differ in a way that depends only
+on the scaling dimension of certain operators in the conformal sector. This
+opens the possibility of using dilaton pair production at future colliders as a
+probe of EWSB induced by nearly conformal new physics.

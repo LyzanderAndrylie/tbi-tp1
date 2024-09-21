@@ -1,0 +1,8 @@
+Building on a recently introduced model for non-volatile resistive switching,
+we propose a mechanism for unipolar resistance switching in
+metal-insulator-metal sandwich structures. The commutation from the high to low
+resistance state and back can be achieved with successive voltage sweeps of the
+same polarity. Electronic correlation effects at the metal-insulator interface
+are found to play a key role to produce a resistive commutation effect in
+qualitative agreement with recent experimental reports on binary transition
+metal oxide based sandwich structures.

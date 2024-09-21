@@ -1,0 +1,7 @@
+We present a new variational model for computing the electronic first-order
+density matrix of a crystalline material in presence of a local defect. A
+natural way to obtain variational discretizations of this model is to expand
+the difference Q between the density matrix of the defective crystal and the
+density matrix of the perfect crystal, in a basis of precomputed maximally
+localized Wannier functions of the reference perfect crystal. This approach can
+be used within any semi-empirical or Density Functional Theory framework.

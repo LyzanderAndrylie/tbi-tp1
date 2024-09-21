@@ -1,0 +1,14 @@
+The standard oracle operator corresponding to a function f is a unitary
+operator that computes this function coherently, i.e. it maintains
+superpositions. This operator acts on a bipartite system, where the subsystems
+are the input and output registers. In distributed quantum computation, these
+subsystems may be spatially separated, in which case we will be interested in
+its classical and entangling capacities. For an arbitrary function f, we show
+that the unidirectional classical and entangling capacities of this operator
+are log_{2}(n_{f}) bits/ebits, where n_{f} is the number of different values
+this function can take. An optimal procedure for bidirectional classical
+communication with a standard oracle operator corresponding to a permutation on
+Z_{M} is given. The bidirectional classical capacity of such an operator is
+found to be 2log_{2}(M) bits. The proofs of these capacities are facilitated by
+an optimal distributed protocol for the implementation of an arbitrary standard
+oracle operator.

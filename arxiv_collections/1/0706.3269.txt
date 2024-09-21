@@ -1,0 +1,9 @@
+We present a full experimental characterization of continuous variable
+quantum communication channels established by shared entanglement together with
+local operations and classical communication. The resulting teleportation
+channel was fully characterized by measuring all elements of the covariance
+matrix of the shared two-mode squeezed Gaussian state. From the experimental
+data we determined the lower bound to the quantum channel capacity, the
+teleportation fidelity of coherent states and the logarithmic negativity and
+the purity of the shared state. Additionally, a positive secret key rate was
+obtained for two of the established channels.

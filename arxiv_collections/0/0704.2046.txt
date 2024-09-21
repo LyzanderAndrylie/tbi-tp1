@@ -1,0 +1,9 @@
+We provide the explicit combinatorial structure of the Kirillov-Reshetikhin
+crystals B^{r,s} of type D_n(1), B_n(1), and A_{2n-1}(2). This is achieved by
+constructing the crystal analogue sigma of the automorphism of the D_n(1)
+(resp. B_n(1) or A_{2n-1}(2)) Dynkin diagram that interchanges the 0 and 1
+node. The involution sigma is defined in terms of new plus-minus diagrams that
+govern the D_n to D_{n-1} (resp. B_n to B_{n-1}, or C_n to C_{n-1}) branching.
+It is also shown that the crystal B^{r,s} is perfect. These crystals have been
+implemented in MuPAD-Combinat; the implementation is discussed in terms of many
+examples.

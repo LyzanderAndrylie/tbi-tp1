@@ -1,0 +1,14 @@
+The influence of ordered regions (micro crystallites and aggregates) in the
+other wise disordered polymer host matrix on field and temperature dependence
+of mobility (\mu) has been simulated. Increase in concentration of ordered
+regions leads to increase in magnitude of mobility and in high field regime the
+saturation of the mobility occurs at lower electric field strength. The
+influence of different mean and standard deviation of Gaussian density of
+states (DOS) of ordered regions on the field dependence of mobility was studied
+and found to be significant only at higher concentrations. Weak influence of
+these parameters at low concentrations are attributed to the strong interface
+effects due to the difference in the standard deviation of DOS of two regions
+(host and ordered region) and shallow trapping effect by ordered regions. For
+all the parameters of ordered regions under investigation the temperature
+dependence of mobility (log{\mu}) and the slope of log{\mu} Vs E^{1/2} plot
+show 1/T^2 dependence.

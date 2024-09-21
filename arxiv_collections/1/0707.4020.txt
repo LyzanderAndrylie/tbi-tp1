@@ -1,0 +1,10 @@
+In the standard geometric approach to a measure of entanglement of a pure
+state, $\sin^2\theta$ is used, where $\theta$ is the angle between the state to
+the closest separable state of products of normalized qubit states. We consider
+here a generalization of this notion to separable states consisting of products
+of unnormalized states of different dimension. In so doing, the entanglement
+measure $\sin^2\theta$ is found to have an interpretation as the distance
+between the state to the closest separable state. We also find the components
+of the closest separable state and its norm have an interpretation in terms of,
+respectively, the eigenvectors and eigenvalues of the reduced density matrices
+arising in the Schmidt decomposition of the state vector.

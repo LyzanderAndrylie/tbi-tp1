@@ -1,0 +1,12 @@
+We introduce a statistical physics model for opinion dynamics on random
+networks where agents adopt the opinion held by the majority of their direct
+neighbors only if the fraction of these neighbors exceeds a certain threshold,
+p_u. We find a transition from total final consensus to a mixed phase where
+opinions coexist amongst the agents. The relevant parameters are the relative
+sizes in the initial opinion distribution within the population and the
+connectivity of the underlying network. As the order parameter we define the
+asymptotic state of opinions. In the phase diagram we find regions of total
+consensus and a mixed phase. As the 'laggard parameter' p_u increases the
+regions of consensus shrink. In addition we introduce rewiring of the
+underlying network during the opinion formation process and discuss the
+resulting consequences in the phase diagram.

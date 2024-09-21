@@ -1,0 +1,15 @@
+An apparatus for producing atomic-gas Bose-Einstein condensates (BECs) of
+87-Rb atoms is described. The apparatus produces 87-Rb BECs in a dual-chamber
+vacuum system that incorporates magnetic transport of trapped atoms from the
+magneto-optical trapping cell to the BEC production cell via the operation of a
+series of overlapping magnet coils. The design, construction, and operation of
+the apparatus are described in detail. The apparatus is used to study the
+creation of quantized vortices in BECs by the merging and interference of
+multiple trapped condensates. In this experiment, a single harmonic potential
+well is partitioned into three sections by an optical barrier, enabling the
+simultaneous formation of three independent, uncorrelated BECs. The BECs may
+either merge together during their growth, or, for high-energy barriers, the
+BECs can be merged together by barrier removal after their formation. Either
+process may instigate vortex formation in the resulting BEC, depending on the
+initially indeterminate relative phases of the condensates and the merging
+rate.

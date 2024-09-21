@@ -1,0 +1,23 @@
+A novel approach to protein multiple sequence alignment is discussed:
+substantially this method counterparts with substitution matrix based methods
+(like Blosum or PAM based methods), and implies a more deterministic approach
+to chemical/physical sub-grouping of amino acids . Amino acids (aa) are divided
+into sub-groups with successive derivations, that result in a clustering based
+on the considered property. The properties can be user defined or chosen
+between default schemes, like those used in the analysis described here.
+Starting from an initial set of the 20 naturally occurring amino acids, they
+are successively divided on the basis of their polarity/hydrophobic index, with
+increasing resolution up to four level of subdivision. Other schemes of
+subdivision are possible: in this thesis work it was employed also a scheme
+based on physical/structural properties (solvent exposure, lateral chain
+mobility and secondary structure tendency), that have been compared to the
+chemical scheme with testing purposes. In the method described in this chapter,
+the total score for each position in the alignment accounts for different
+degree of similarity between amino acids. The scoring value result form the
+contribution of each level of selectivity for every individual property
+considered. Simply the method (called M_Al) analyse the n sequence alignment
+position per position and assigns a score which have contributes by aa identity
+plus a composed valuation of the chemical or of the structural affinity between
+the n aligned amino acids. This method has been implemented in a series of
+programs written in python language; these programs have been tested in some
+biological cases, with benchmark purposes.

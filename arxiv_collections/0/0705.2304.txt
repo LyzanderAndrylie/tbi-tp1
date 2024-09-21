@@ -1,0 +1,22 @@
+The continuum intensity at wavelengths around 1 mm provides an excellent way
+to probe the solar chromosphere. Future high-resolution millimetre arrays, such
+as the Atacama Large Millimeter Array (ALMA), will thus produce valuable input
+for the ongoing controversy on the thermal structure and the dynamics of this
+layer. Synthetic brightness temperature maps are calculated on basis of
+three-dimensional radiation (magneto-)hydrodynamic (MHD) simulations. While the
+millimetre continuum at 0.3mm originates mainly from the upper photosphere, the
+longer wavelengths considered here map the low and middle chromosphere. The
+effective formation height increases generally with wavelength and also from
+disk-centre towards the solar limb. The average intensity contribution
+functions are usually rather broad and in some cases they are even
+double-peaked as there are contributions from hot shock waves and cool
+post-shock regions in the model chromosphere. Taking into account the
+deviations from ionisation equilibrium for hydrogen gives a less strong
+variation of the electron density and with it of the optical depth. The result
+is a narrower formation height range. The average brightness temperature
+increases with wavelength and towards the limb. The relative contrast depends
+on wavelength in the same way as the average intensity but decreases towards
+the limb. The dependence of the brightness temperature distribution on
+wavelength and disk-position can be explained with the differences in formation
+height and the variation of temperature fluctuations with height in the model
+atmospheres.

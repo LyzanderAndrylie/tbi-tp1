@@ -1,0 +1,9 @@
+By using silicon oxide based aerogels we show numerically that the Casimir
+force can be reduced several orders of magnitude, making its effect negligible
+in nanodevices. This decrease in the Casimir force is also present even when
+the aerogels are deposited on metallic substrates. To calculate the Casimir
+force we model the dielectric function of silicon oxide aerogels using an
+effective medium dielectric function such as the Clausius-Mossotti
+approximation. The results show that both the porosity of the aerogel and its
+thickness can be use as control parameters to reduce the magnitude of the
+Casimir force.

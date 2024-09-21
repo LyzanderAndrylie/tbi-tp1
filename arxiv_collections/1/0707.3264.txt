@@ -1,0 +1,4 @@
+This short note is devoted to the study of the Hamiltonian formalism and the
+integrability of the bosonic model introduced in [hep-th/0612079]. We calculate
+Poisson bracket of spatial components of Lax connection and we argue that its
+structure implies classical integrability of the theory.

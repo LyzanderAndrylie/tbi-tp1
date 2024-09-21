@@ -1,0 +1,12 @@
+We have investigated the electrical transport properties of 8 nm thick
+La0.67Ca0.33MnO3 films, sputter-deposited on SrTiO3 (STO), and etched into 5
+micrometer-wide bridges by Ar-ion etching. We find that even slight overetching
+of the film leads to conductance of the STO substrate, and asymmetric and
+non-linear current-voltage (I-V) characteristics. However, a brief oxygen
+plasma etch allows full recovery of the insulating character of the substrate.
+The I-V characteristics of the bridges are then fully linear over a large range
+of current densities. We find colossal magnetoresistance properties typical for
+strained LCMO on STO but no signature of non-linear effects (so-called
+electroresistance) connected to electronic inhomogeneites. In the metallic
+state below 150 K, the highest current densities lead to heating effects and
+non-linear I-V characteristics.

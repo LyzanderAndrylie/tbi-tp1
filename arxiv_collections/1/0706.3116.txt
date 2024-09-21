@@ -1,0 +1,2 @@
+An approximation of the density of states for the Ising and Potts models
+based on the high- and low-temperature series are developed.

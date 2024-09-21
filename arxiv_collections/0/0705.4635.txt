@@ -1,0 +1,19 @@
+Bacterial chemotaxis in Escherichia coli is a canonical system for the study
+of signal transduction. A remarkable feature of this system is the coexistence
+of precise adaptation in population with large fluctuating cellular behavior in
+single cells (Korobkova et al. 2004, Nature, 428, 574). Using a stochastic
+model, we found that the large behavioral variability experimentally observed
+in non-stimulated cells is a direct consequence of the architecture of this
+adaptive system. Reversible covalent modification cycles, in which methylation
+and demethylation reactions antagonistically regulate the activity of
+receptor-kinase complexes, operate outside the region of first-order kinetics.
+As a result, the receptor-kinase that governs cellular behavior exhibits a
+sigmoidal activation curve. This curve simultaneously amplifies the inherent
+stochastic fluctuations in the system and lengthens the relaxation time in
+response to stimulus. Because stochastic fluctuations cause large behavioral
+variability and the relaxation time governs the average duration of runs in
+response to small stimuli, cells with the greatest fluctuating behavior also
+display the largest chemotactic response. Finally, Large-scale simulations of
+digital bacteria suggest that the chemotaxis network is tuned to simultaneously
+optimize the random spread of cells in absence of nutrients and the cellular
+response to gradients of attractant.

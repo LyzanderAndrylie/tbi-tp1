@@ -1,0 +1,10 @@
+Inertial effects in fluctuations of the work to sustain a system in a
+nonequilibrium steady state are discussed for a dragged massive Brownian
+particle model using a path integral approach. We calculate the work
+distribution function in the laboratory and comoving frames and prove the
+asymptotic fluctuation theorem for these works for any initial condition.
+Important and observable differences between the work fluctuations in the two
+frames appear for finite times and are discussed concretely for a
+nonequilibrium steady state initial condition. We also show that for finite
+times a time oscillatory behavior appears in the work distribution function for
+masses larger than a nonzero critical value.

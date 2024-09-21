@@ -1,0 +1,10 @@
+We derive semiclassical approximations for wavefunctions, Green's functions
+and expectation values for classically chaotic quantum systems. Our method
+consists of applying singular and regular perturbations to quantum
+Hamiltonians. The wavefunctions, Green's functions and expectation values of
+the unperturbed Hamiltonian are expressed in terms of the spectral determinant
+of the perturbed Hamiltonian. Semiclassical resummation methods for spectral
+determinants are applied and yield approximations in terms of a finite number
+of classical trajectories. The final formulas have a simple form. In contrast
+to Poincare surface of section methods, the resummation is done in terms of the
+periods of the trajectories.

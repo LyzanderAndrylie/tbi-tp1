@@ -1,0 +1,9 @@
+We investigate the time-dependent Kondo effect in a single-molecule magnet
+(SMM) strongly coupled to metallic electrodes. Describing the SMM by a Kondo
+model with large spin S > 1/2, we analyze the underscreening of the local
+moment and the effect of anisotropy terms on the relaxation dynamics of the
+magnetization. Underscreening by single-channel Kondo processes leads to a
+logarithmically slow relaxation, while finite uniaxial anisotropy causes a
+saturation of the SMM's magnetization. Additional transverse anisotropy terms
+induce quantum spin tunneling and a pseudospin-1/2 Kondo effect sensitive to
+the spin parity.

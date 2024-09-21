@@ -1,0 +1,11 @@
+In this paper, pilot-assisted transmission over Gauss-Markov Rayleigh fading
+channels is considered. A simple scenario, where a single pilot signal is
+transmitted every T symbols and T-1 data symbols are transmitted in between the
+pilots, is studied. First, it is assumed that binary phase-shift keying (BPSK)
+modulation is employed at the transmitter. With this assumption, the training
+period, and data and training power allocation are jointly optimized by
+maximizing an achievable rate expression. Achievable rates and energy-per-bit
+requirements are computed using the optimal training parameters. Secondly, a
+capacity lower bound is obtained by considering the error in the estimate as
+another source of additive Gaussian noise, and the training parameters are
+optimized by maximizing this lower bound.

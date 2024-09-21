@@ -1,0 +1,19 @@
+We apply the methodology of optimal control theory to the problem of
+implementing quantum gates in continuous variable systems with quadratic
+Hamiltonians. We demonstrate that it is possible to define a fidelity measure
+for continuous variable (CV) gate optimization that is devoid of traps, such
+that the search for optimal control fields using local algorithms will not be
+hindered. The optimal control of several quantum computing gates, as well as
+that of algorithms composed of these primitives, is investigated using several
+typical physical models and compared for discrete and continuous quantum
+systems. Numerical simulations indicate that the optimization of generic CV
+quantum gates is inherently more expensive than that of generic discrete
+variable quantum gates, and that the exact-time controllability of CV systems
+plays an important role in determining the maximum achievable gate fidelity.
+The resulting optimal control fields typically display more complicated Fourier
+spectra that suggest a richer variety of possible control mechanisms. Moreover,
+the ability to control interactions between qunits is important for delimiting
+the total control fluence. The comparative ability of current experimental
+protocols to implement such time-dependent controls may help determine which
+physical incarnations of CV quantum information processing will be the easiest
+to implement with optimal fidelity.

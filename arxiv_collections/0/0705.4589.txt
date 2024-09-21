@@ -1,0 +1,4 @@
+We prove the energy identity for min-max sequences of the Sacks-Uhlenbeck and
+the biharmonic approximation of harmonic maps from surfaces into general target
+manifolds. The proof relies on Hopf-differential type estimates for the two
+approximations and on estimates for the concentration radius of bubbles.

@@ -1,0 +1,24 @@
+We here develop an improved way of using a rotating star as a clock, set it
+using the Sun, and demonstrate that it keeps time well. This technique, called
+gyrochronology, permits the derivation of ages for solar- and late-type main
+sequence stars using only their rotation periods and colors. The technique is
+clarified and developed here, and used to derive ages for illustrative groups
+of nearby, late-type field stars with measured rotation periods. We first
+demonstrate the reality of the interface sequence, the unifying feature of the
+rotational observations of cluster and field stars that makes the technique
+possible, and extends it beyond the proposal of Skumanich by specifying the
+mass dependence of rotation for these stars. We delineate which stars it cannot
+currently be used on. We then calibrate the age dependence using the Sun. The
+errors are propagated to understand their dependence on color and period.
+Representative age errors associated with the technique are estimated at ~15%
+(plus possible systematic errors) for late-F, G, K, & early-M stars. Ages
+derived via gyrochronology for the Mt. Wilson stars are shown to be in good
+agreement with chromospheric ages for all but the bluest stars, and probably
+superior. Gyro ages are then calculated for each of the active main sequence
+field stars studied by Strassmeier and collaborators where other ages are not
+available. These are shown to be mostly younger than 1Gyr, with a median age of
+365Myr. The sample of single, late-type main sequence field stars assembled by
+Pizzolato and collaborators is then assessed, and shown to have gyro ages
+ranging from under 100Myr to several Gyr, and a median age of 1.2Gyr. Finally,
+we demonstrate that the individual components of the three wide binaries
+XiBooAB, 61CygAB, & AlphaCenAB yield substantially the same gyro ages.

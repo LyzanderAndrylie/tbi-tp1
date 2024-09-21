@@ -1,0 +1,7 @@
+We employ conditional Tsallis q entropies to study the separability of
+symmetric one parameter W and GHZ multiqubit mixed states. The strongest
+limitation on separability is realized in the limit q-->infinity, and is found
+to be much superior to the condition obtained using the von Neumann conditional
+entropy (q=1 case). Except for the example of two qubit and three qubit
+symmetric states of GHZ family, the $q$-conditional entropy method leads to
+sufficient - but not necessary - conditions on separability.

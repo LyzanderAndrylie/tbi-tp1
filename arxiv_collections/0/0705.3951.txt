@@ -1,0 +1,12 @@
+The exclusive process ^3He(e,e^\prime p)^2H has been analyzed using realistic
+few-body wave functions corresponding to the AV18 interaction and treating the
+final state interaction (FSI) within the Eikonal Approximation to describe the
+multiple rescattering of the struck nucleon with the nucleons of the spectator
+two-nucleon system. Calculations have been performed in momentum space so that
+the nucleon electromagnetic current could be left in the fully covariant form
+avoiding by this way non relativistic reductions and the factorization
+approximation. The results of calculations, which are compared with recent JLab
+experimental data, show that the left-right asymmetry exhibit a clear
+dependence upon the multiple scattering in the final state and demonstrate the
+breaking down of the factorization approximation at \phi=0 i.e. for "negative"
+and large \geq 300MeV/c values of the missing momentum.

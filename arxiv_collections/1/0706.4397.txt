@@ -1,0 +1,9 @@
+We study the time evolution of the quantum-classical correspondence (QCC) for
+the well known model of quantised perturbed cat maps on the torus in the very
+specific regime of semi-classically small perturbations. The quality of the QCC
+is measured by the overlap of classical phase-space density and corresponding
+Wigner function of the quantum system called quantum-classical fidelity (QCF).
+In the analysed regime the QCF strongly deviates from the known general
+behaviour in particular it decays faster then exponential. Here we study and
+explain the observed behavior of the QCF and the apparent violation of the QCC
+principle.

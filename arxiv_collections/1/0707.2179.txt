@@ -1,0 +1,16 @@
+A derivation is given from first principles of the fact that the SU(2) gauge
+theory is in a confining phase for all values of the coupling $0 < g < \infty$
+defined at lattice spacing (UV regulator) $a$, and space-time dimension $d \leq
+4$. The strategy is to employ approximate RG decimation transformations of the
+potential moving type which give both upper and lower bounds on the partition
+function at each successive decimation step. By interpolation between these
+bounds an exact representation of the partition function is obtained on
+progressively coarser lattices. In the same manner, one obtains a
+representation of the partition function in the presence of external center
+flux. Under successive decimations the flow of the effective action in these
+representations is constrained by that in the upper and lower bounds which are
+easily explicitly computable. Confining behavior for the vortex free energy
+order parameter (ratio of partition functions with and without external flux),
+hence `area law' for the Wilson loop, is the result for any initial coupling.
+Keeping the string tension fixed determines the dependence $g(a)$, which is
+such that $g(a) \to 0$ for $a \to 0$.

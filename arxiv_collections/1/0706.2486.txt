@@ -1,0 +1,11 @@
+We consider semiclassical higher-order wave packet solutions of the
+Schrodinger equation with phase vortices. The vortex line is aligned with the
+propagation direction, and the wave packet carries a well-defined orbital
+angular momentum (OAM) $\hbar l$ ($l$ is the vortex strength) along its main
+linear momentum. The probability current coils around momentum in such OAM
+states of electrons. In an electric field, these states evolve like massless
+particles with spin $l$. The magnetic-monopole Berry curvature appears in
+momentum space, which results in a spin-orbit-type interaction and a
+Berry/Magnus transverse force acting on the wave packet. This brings about the
+OAM Hall effect. In a magnetic field, there is a Zeeman interaction, which, can
+lead to more complicated dynamics.

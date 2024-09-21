@@ -1,0 +1,9 @@
+We present full generalisations of entropic security and entropic
+indistinguishability to the quantum world where no assumption but a limit on
+the knowledge of the adversary is made. This limit is quantified using the
+quantum conditional min-entropy as introduced by Renato Renner. A proof of the
+equivalence between the two security definitions is presented. We also provide
+proofs of security for two different cyphers in this model and a proof for a
+lower bound on the key length required by any such cypher. These cyphers
+generalise existing schemes for approximate quantum encryption to the entropic
+security model.

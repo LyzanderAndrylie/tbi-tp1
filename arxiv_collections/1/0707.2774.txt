@@ -1,0 +1,13 @@
+A recently introduced particle-based model for fluid dynamics with continuous
+velocities is generalized to model immiscible binary mixtures. Excluded volume
+interactions between the two components are modeled by stochastic multiparticle
+collisions which depend on the local velocities and densities. Momentum and
+energy are conserved locally, and entropically driven phase separation occurs
+for high collision rates. An explicit expression for the equation of state is
+derived, and the concentration dependence of the bulk free energy is shown to
+be the same as that of the Widom-Rowlinson model. Analytic results for the
+phase diagram are in excellent agreement with simulation data. Results for the
+line tension obtained from the analysis of the capillary wave spectrum of a
+droplet agree with measurements based on the Laplace's equation. The
+introduction of "amphiphilic" dimers makes it possible to model the phase
+behavior and dynamics of ternary surfactant mixtures.

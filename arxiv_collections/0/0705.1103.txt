@@ -1,0 +1,9 @@
+The anticommuting properties of fermionic operators, together with the
+presence of parity conservation, affect the concept of entanglement in a
+composite fermionic system. Hence different points of view can give rise to
+different reasonable definitions of separable and entangled states. Here we
+analyze these possibilities and the relationship between the different classes
+of separable states. We illustrate the differences by providing a complete
+characterization of all the sets defined for systems of two fermionic modes.
+The results are applied to Gibbs states of infinite chains of fermions whose
+interaction corresponds to a XY-Hamiltonian with transverse magnetic field.

@@ -1,0 +1,5 @@
+In this letter we propose an original mechanism to select scar modes through
+coherent gain amplification in a multimode D-shaped fiber. More precisely, we
+numerically demonstrate how scar modes can be amplified by positioning a gain
+region in the vicinity of specific points of a short periodic orbit known to
+give rise to scar modes.

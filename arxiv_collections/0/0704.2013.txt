@@ -1,0 +1,6 @@
+We apply the conical singularity method to the two dimensional version of the
+Schwarzschild metric to obtain the Kruskal coordinates of the black hole in a
+very simple and direct way. Then we make use of this metric in an approximated
+version and calculate the expected value of energy-momentum tensor of a
+massless quantum field near the horizon, resulting in regular expressions for
+its components.

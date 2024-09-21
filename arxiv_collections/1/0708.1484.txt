@@ -1,0 +1,8 @@
+We propose a physical implementation of the quantum NAND tree evaluation
+algorithm. Our approach, based on continuous time quantum walks, uses the wave
+interference of a single electron in a heirarchical set of tunnel coupled
+quantum dots. We find that the query complexity of the NAND tree evaluation
+does not suffer strongly from disorder and dephasing, nor is it directly
+limited by temperature or restricted dimensionality for 2-d structures.
+Finally, we suggest a potential application of this algorithm to the efficient
+determination of high-order correlation functions of complex quantum systems.

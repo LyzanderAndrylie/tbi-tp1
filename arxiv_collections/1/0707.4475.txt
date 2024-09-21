@@ -1,0 +1,8 @@
+It was recently predicted [Phys. Rev. B 75, 193301 (2007)] that spin blockade
+may develop at nonmagnetic semiconductor/perfect ferromagnet junctions when the
+electron flow is directed from the semiconductor into the ferromagnet. Here we
+consider current-voltage characteristics of such junctions. By taking into
+account the contact resistance, we demonstrate a current stabilization effect:
+by increasing the applied voltage the current density through the junction
+saturates at a specific value. The transient behavior of the current density is
+also investigated.

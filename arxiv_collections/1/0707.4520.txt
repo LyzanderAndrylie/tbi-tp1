@@ -1,0 +1,10 @@
+We have investigated the properties of a model of 1D anyons interacting
+through a $\delta$-function repulsive potential. The structure of the
+quasi-periodic boundary conditions for the anyonic field operators and the
+many-anyon wavefunctions is clarified. The spectrum of the low-lying
+excitations including the particle-hole excitations is calculated for periodic
+and twisted boundary conditions. Using the ideas of the conformal field theory
+we obtain the large-distance asymptotics of the density and field correlation
+function at the critical temperature T=0 and at small finite temperatures. Our
+expression for the field correlation function extends the results in the
+literature obtained for harmonic quantum anyonic fluids.

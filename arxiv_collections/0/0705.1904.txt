@@ -1,0 +1,9 @@
+We give a scheme for loss tolerantly building a linear optical quantum memory
+which itself is tolerant to qubit loss. We use the encoding recently introduced
+in [Phys. Rev. Lett. 97, 120501, (2006)] and give a method for efficiently
+achieving this. The entire approach resides within the "One-way" model for
+quantum computing. Our results suggest that it is possible to build a loss
+tolerant quantum memory, such that if the requirement is to keep the data
+stored over arbitrarily long times then this is possible with only polynomially
+increasing resources and logarithmically increasing individual photon life
+times.

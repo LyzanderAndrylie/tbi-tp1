@@ -1,0 +1,4 @@
+We calculate the spin susceptibility of a superconductor without inversion
+symmetry, both in the clean and disordered cases. The susceptibility has a
+large residual value at zero temperature, which is further enhanced in the
+presence of scalar impurities.

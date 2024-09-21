@@ -1,0 +1,17 @@
+We describe a numerical method to compute Casimir forces in arbitrary
+geometries, for arbitrary dielectric and metallic materials, with arbitrary
+accuracy (given sufficient computational resources). Our approach, based on
+well-established integration of the mean stress tensor evaluated via the
+fluctuation-dissipation theorem, is designed to directly exploit fast methods
+developed for classical computational electromagnetism, since it only involves
+repeated evaluation of the Green's function for imaginary frequencies
+(equivalently, real frequencies in imaginary time). We develop the approach by
+systematically examining various formulations of Casimir forces from the
+previous decades and evaluating them according to their suitability for
+numerical computation. We illustrate our approach with a simple
+finite-difference frequency-domain implementation, test it for known geometries
+such as a cylinder and a plate, and apply it to new geometries. In particular,
+we show that a piston-like geometry of two squares sliding between metal walls,
+in both two and three dimensions with both perfect and realistic metallic
+materials, exhibits a surprising non-monotonic ``lateral'' force from the
+walls.

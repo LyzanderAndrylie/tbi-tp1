@@ -1,0 +1,17 @@
+We present a simple implementation of the dynamical mean-field theory
+approach to the electronic structure of strongly correlated materials. This
+implementation achieves full self-consistency over the charge density, taking
+into account correlation-induced changes to the total charge density and
+effective Kohn-Sham Hamiltonian. A linear muffin-tin orbital basis-set is used,
+and the charge density is computed from moments of the many body
+momentum-distribution matrix. The calculation of the total energy is also
+considered, with a proper treatment of high-frequency tails of the Green's
+function and self-energy. The method is illustrated on two materials with
+well-localized 4f electrons, insulating cerium sesquioxide Ce2O3 and the
+gamma-phase of metallic cerium, using the Hubbard-I approximation to the
+dynamical mean-field self-energy. The momentum-integrated spectral function and
+momentum-resolved dispersion of the Hubbard bands are calculated, as well as
+the volume-dependence of the total energy. We show that full self-consistency
+over the charge density, taking into account its modification by strong
+correlations, can be important for the computation of both thermodynamical and
+spectral properties, particularly in the case of the oxide material.

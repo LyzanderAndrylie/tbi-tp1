@@ -1,0 +1,9 @@
+We show that the liquid-to-crystal quantum phase transition in the
+Rokhsar--Kivelson dimer model on the two-dimensional triangular lattice occurs
+as a condensation of vortex-like excitations called ``visons''. This conclusion
+is drawn from the numerical studies of the vison spectrum in the liquid phase
+by using the Green's function Monte Carlo method. We find that visons remain
+the lowest excitation throughout the liquid phase and that their gap decreases
+continuously to zero at the phase transition. The nature of the crystal phase
+and the second order of the phase transition are in agreement with the earlier
+prediction of Moessner and Sondhi [Phys. Rev. B 63, 224401 (2001)].

@@ -1,0 +1,4 @@
+We study a class of nonlinear kinetic Fokker-Planck type equations modeling
+quantum particles which obey the Bose-Einstein and Fermi-Dirac statistics,
+respectively. We establish the existence of classical solutions in the
+perturbative regime and prove exponential convergence towards the equilibrium.

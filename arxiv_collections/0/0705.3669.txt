@@ -1,0 +1,9 @@
+Composite fabrication technologies now provide the means for producing
+high-strength, low-weight panels, plates, spars and other structural components
+which use embedded fiber optic sensors and piezoelectric transducers. These
+materials, often referred to as smart structures, make it possible to sense
+internal characteristics, such as delaminations or structural degradation. In
+this effort we use neural network based techniques for modeling and analyzing
+dynamic structural information for recognizing structural defects. This yields
+an adaptable system which gives a measure of structural integrity for composite
+structures.

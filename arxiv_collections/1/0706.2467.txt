@@ -1,0 +1,10 @@
+The transitions between neighbouring plateaux in the quantum Hall system are
+observed to follow anti-holomophic scaling with superuniversal scaling
+exponents, showing that the system contains an emergent sub-modular discrete
+symmetry and a holomorphic structure at low energies. We identify a class of
+effective scaling models consistent with this data, which is parametrized by
+the complex structure of a torus with a special spin structure, in which only
+the number of fermions (c) remains undetermined. For c = 2 this gives the
+superuniversal anti-holomorphic scaling potential previously inferred from
+data, with scaling exponent nu = 2.6, in reasonable agreement with available
+scaling data.

@@ -1,0 +1,9 @@
+We numerically construct and study the control landscape of a
+$(\omega,2\omega)$ bichromatically driven double well in the presence of strong
+fields. The control landscape is obtained by correlating the overlap
+intensities between the floquet states and an initial phase space coherent
+state with the parametric motion of the quasienergies {\it i.e.,}
+intensity-level velocity correlator. "Walls" of no control, robust under
+variations of the relative phase between the fields, are seen in the control
+landscape and associated with multilevel interactions involving chaotic floquet
+states.

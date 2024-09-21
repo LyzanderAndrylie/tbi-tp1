@@ -1,0 +1,9 @@
+We have reanalyzed the microscopic origin of the isotropic deviations that
+are observed from the energy spacings predicted by the HDVV Hamiltonian.
+Usually, a biquadratic spin operator is added to the HDVV Hamiltonian to
+account for such deviations. It is shown here that this operator cannot
+describe the effect of the excited atomic non-Hund states which brought the
+most important contribution to the deviations. For systems containing more than
+two magnetic centers, non-Hund states cause additional interactions that are of
+the same order of magnitude as the biquadratic exchange and should have
+significant effects on the macroscopic properties of extended systems.

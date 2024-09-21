@@ -1,0 +1,16 @@
+Cohesive laws are stress-strain curves used in finite element calculations to
+describe the debonding of interfaces such as grain boundaries. It would be
+convenient to describe grain boundary cohesive laws as a function of the
+parameters needed to describe the grain boundary geometry; two parameters in 2D
+and 5 parameters in 3D. However, we find that the cohesive law is not a smooth
+function of these parameters. In fact, it is discontinuous at geometries for
+which the two grains have repeat distances that are rational with respect to
+one another. Using atomistic simulations, we extract grain boundary energies
+and cohesive laws of grain boundary fracture in 2D with a Lennard-Jones
+potential for all possible geometries which can be simulated within periodic
+boundary conditions with a maximum box size. We introduce a model where grain
+boundaries are represented as high symmetry boundaries decorated by extra
+dislocations. Using it, we develop a functional form for the symmetric grain
+boundary energies, which have cusps at all high symmetry angles. We also find
+the asymptotic form of the fracture toughness near the discontinuities at high
+symmetry grain boundaries using our dislocation decoration model.

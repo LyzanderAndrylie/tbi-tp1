@@ -1,0 +1,9 @@
+For a Kahler manifold X, we study a space of test functions W* which is a
+complex version of H1. We prove for W* the classical results of the theory of
+Dirichlet spaces: the functions in W* are defined up to a pluripolar set and
+the functional capacity associated to W* tests the pluripolar sets. This
+functional capacity is a Choquet capacity.
+  The space W* is not reflexive and the smooth functions are not dense in it
+for the strong topology. So the classical tools of potential theory do not
+apply here. We use instead pluripotential theory and Dirichlet spaces
+associated to a current.

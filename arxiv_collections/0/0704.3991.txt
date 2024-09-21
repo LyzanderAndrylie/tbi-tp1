@@ -1,0 +1,18 @@
+We present a full-sky model of polarized Galactic microwave emission based on
+three years of observations by the Wilkinson Microwave Anisotropy Probe (WMAP)
+at frequencies from 23 to 94 GHz. The model compares maps of the Stokes Q and U
+components from each of the 5 WMAP frequency bands in order to separate
+synchrotron from dust emission, taking into account the spatial and frequency
+dependence of the synchrotron and dust components. This simple two-component
+model of the interstellar medium accounts for at least 97% of the polarized
+emission in the WMAP maps of the microwave sky. Synchrotron emission dominates
+the polarized foregrounds at frequencies below 50 GHz, and is comparable to the
+dust contribution at 65 GHz. The spectral index of the synchrotron component,
+derived solely from polarization data, is -3.2 averaged over the full sky, with
+a modestly flatter index on the Galactic plane. The synchrotron emission has
+mean polarization fraction 2--4% in the Galactic plane and rising to over 20%
+at high latitude, with prominent features such as the North Galactic Spur more
+polarized than the diffuse component. Thermal dust emission has polarization
+fraction 1% near the Galactic center, rising to 6% at the anti-center. Diffuse
+emission from high-latitude dust is also polarized with mean fractional
+polarization 0.036 +/- 0.011.

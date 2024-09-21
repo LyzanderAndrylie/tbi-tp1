@@ -1,0 +1,13 @@
+Robotic hardware designs are becoming more complex as the variety and number
+of on-board sensors increase and as greater computational power is provided in
+ever-smaller packages on-board robots. These advances in hardware, however, do
+not automatically translate into better software for controlling complex
+robots. Evolutionary techniques hold the potential to solve many difficult
+problems in robotics which defy simple conventional approaches, but present
+many challenges as well. Numerous disciplines including artificial life,
+cognitive science and neural networks, rule-based systems, behavior-based
+control, genetic algorithms and other forms of evolutionary computation have
+contributed to shaping the current state of evolutionary robotics. This paper
+provides an overview of developments in the emerging field of evolutionary
+robotics, and discusses some of the opportunities and challenges which
+currently face practitioners in the field.

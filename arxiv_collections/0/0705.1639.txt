@@ -1,0 +1,13 @@
+The formation of the circumbinary envelope of Cygnus X-3 was studied by
+particle simulations of the WR (Wolf Rayet) companion wind. Light curves
+resulting from electron scattering absorption in this envelope were computed
+and compared with observed IBIS/ISGRI and BATSE light curves. The matching was
+relatively good. For reasonable values of binary parameters (masses,
+inclination) and wind velocities, a stable envelope was formed during a few
+binary orbits. Assuming approximately 10^-6 solar mass/year for the rate of the
+WR-wind, the observed light curves and accretion luminosity can be re-produced
+(assuming Thomson scattering opacity in the ionized He-rich envelope). The
+illuminated envelope can also model the CHANDRA-spectrum using the
+photoionizing XSTAR-code. Furthermore, we discuss observed radial velocity
+curves of IR emission lines in the context of simulated velocity fields and
+find good agreement.

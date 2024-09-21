@@ -1,0 +1,6 @@
+This paper is about Kripke structures that are inside a relational database
+and queried with a modal language. At first the modal language that is used is
+introduced, followed by a definition of the database and relational algebra.
+Based on these definitions two things are presented: a mapping from components
+of the modal structure to a relational database schema and instance, and a
+translation from queries in the modal language to relational algebra queries.

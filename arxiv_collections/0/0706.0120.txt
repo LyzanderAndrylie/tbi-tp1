@@ -1,0 +1,7 @@
+We consider a metric graph $\mathcal{G}$ made of two graphs $\mathcal{G}_1$
+and $\mathcal{G}_2$ attached at one point. We derive a formula relating the
+spectral determinant of the Laplace operator
+$S_\mathcal{G}(\gamma)=\det(\gamma-\Delta)$ in terms of the spectral
+determinants of the two subgraphs. The result is generalized to describe the
+attachment of $n$ graphs. The formulae are also valid for the spectral
+determinant of the Schr\"odinger operator $\det(\gamma-\Delta+V(x))$.

@@ -1,0 +1,24 @@
+Context: Planets outside our solar system transiting their host star, i. e.
+those with an orbital inclination near 90 degree, are of special interest to
+derive physical properties of extrasolar planets. With the knowledge of the
+host star's physical parameters, the planetary radius can be determined.
+Combined with spectroscopic observations the mass and therefore the density can
+be derived from Doppler-measurements. Depending on the brightness of the host
+star, additional information, e. g. about the spin-orbit alignment between the
+host star and planetary orbit, can be obtained.
+  Aims: The last few years have witnessed a growing success of transit surveys.
+Among other surveys, the MACHO project provided nine potential transiting
+planets, several of them with relatively bright parent stars. The photometric
+signature of a transit event is, however, insufficient to confirm the planetary
+nature of the faint companion. The aim of this paper therefore is a
+determination of the spectroscopic parameters of the host stars as well as a
+dynamical mass determination through Doppler-measurements.
+  Methods: We have obtained follow-up high-resolution spectra for five stars
+selected from the MACHO sample, which are consistent with transits of
+low-luminosity objects. Radial velocities have been determined by means of
+cross-correlation with model spectra. The MACHO light curves have been compared
+to simulations based on the physical parameters of the system derived from the
+radial velocities and spectral analyses.
+  Aims: We show that all transit light curves of the exoplanet candidates
+analysed in this work can be explained by eclipses of stellar objects, hence
+none of the five transiting objects is a planet.

@@ -1,0 +1,11 @@
+Phase field crystals (PFC) are a tool for simulating materials at the atomic
+level. They combine the small length-scale resolution of molecular dynamics
+(MD) with the ability to simulate dynamics on mesoscopic time scales. We show
+how PFC can be interpreted as the result of applying coarse-graining in time to
+the microscopic density field of molecular dynamics simulations. We take the
+form of the free energy for the phase field from the classical density
+functional theory of inhomogeneous liquids and then choose coefficients to
+match the structure factor of the time coarse-grained microscopic density
+field. As an example, we show how to construct a PFC free energy for Weber and
+Stillinger's two-dimensional square crystal potential which models a system of
+proteins suspended in a membrane.

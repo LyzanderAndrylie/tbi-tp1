@@ -1,0 +1,13 @@
+We introduce a unified formulation of variational methods for simulating
+ground state properties of quantum many-body systems. The key feature is a
+novel variational method over quantum circuits via infinitesimal unitary
+transformations, inspired by flow equation methods. Variational classes are
+represented as efficiently contractible unitary networks, including the
+matrix-product states of density matrix renormalization, multiscale
+entanglement renormalization (MERA) states, weighted graph states, and quantum
+cellular automata. In particular, this provides a tool for varying over classes
+of states, such as MERA, for which so far no efficient way of variation has
+been known. The scheme is flexible when it comes to hybridizing methods or
+formulating new ones. We demonstrate the functioning by numerical
+implementations of MERA, matrix-product states, and a new variational set on
+benchmarks.

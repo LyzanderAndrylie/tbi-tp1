@@ -1,0 +1,6 @@
+In this paper we illustrate the dynamics of the instanton representation in
+the description of vacuum GR in minisuperspace for undensitized variables. We
+uncover a new class of general solutions in both the degenerate and the
+nondegenerate sectors of the theory. Additionally, the individual sectors are
+preserved under Hamiltonian evolution. Finally, we present an algorithm for
+constructing general solutions by expansion about the isotropic sector.

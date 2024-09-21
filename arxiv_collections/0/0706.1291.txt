@@ -1,0 +1,4 @@
+Distinguished selfadjoint extensions of Dirac operators are constructed for a
+class of potentials including Coulombic ones up to the critical case,
+$-|x|^{-1}$. The method uses Hardy-Dirac inequalities and quadratic form
+techniques.

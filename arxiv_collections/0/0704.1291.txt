@@ -1,0 +1,13 @@
+A non-Hermitian complex symmetric 2x2 matrix toy model is used to study
+projective Hilbert space structures in the vicinity of exceptional points
+(EPs). The bi-orthogonal eigenvectors of a diagonalizable matrix are
+Puiseux-expanded in terms of the root vectors at the EP. It is shown that the
+apparent contradiction between the two incompatible normalization conditions
+with finite and singular behavior in the EP-limit can be resolved by
+projectively extending the original Hilbert space. The complementary
+normalization conditions correspond then to two different affine charts of this
+enlarged projective Hilbert space. Geometric phase and phase jump behavior are
+analyzed and the usefulness of the phase rigidity as measure for the distance
+to EP configurations is demonstrated. Finally, EP-related aspects of
+PT-symmetrically extended Quantum Mechanics are discussed and a conjecture
+concerning the quantum brachistochrone problem is formulated.

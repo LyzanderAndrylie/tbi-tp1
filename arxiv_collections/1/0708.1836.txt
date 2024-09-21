@@ -1,0 +1,4 @@
+A single-electron random access memory array (RAM) and a single-electron
+universal Fredkin gate are designed and simulated. The universality of the
+Fredkin gate in combination with the RAM gives the potential of the realization
+of an elementary single-electron nanoelectronic processor.

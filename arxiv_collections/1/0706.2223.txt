@@ -1,0 +1,17 @@
+We address the following question: When a randomly chosen regular bipartite
+multi--graph is drawn in the plane in the ``standard way'', what is the
+distribution of its maximum size planar matching (set of non--crossing disjoint
+edges) and maximum size planar subgraph (set of non--crossing edges which may
+share endpoints)? The problem is a generalization of the Longest Increasing
+Sequence (LIS) problem (also called Ulam's problem). We present combinatorial
+identities which relate the number of r-regular bipartite multi--graphs with
+maximum planar matching (maximum planar subgraph) of at most d edges to a
+signed sum of restricted lattice walks in Z^d, and to the number of pairs of
+standard Young tableaux of the same shape and with a ``descend--type''
+property. Our results are obtained via generalizations of two combinatorial
+proofs through which Gessel's identity can be obtained (an identity that is
+crucial in the derivation of a bivariate generating function associated to the
+distribution of LISs, and key to the analytic attack on Ulam's problem).
+  We also initiate the study of pattern avoidance in bipartite multigraphs and
+derive a generalized Gessel identity for the number of bipartite 2-regular
+multigraphs avoiding a specific (monotone) pattern.

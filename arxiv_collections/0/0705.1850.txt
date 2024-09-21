@@ -1,0 +1,9 @@
+A first-order theory has the Schroder-Bernstein property if any two of its
+models that are elementarily bi-embeddable are isomorphic. We prove that if G
+is an abelian group, then the follwing are equivalent:
+  1. Th(G, +) has the Schroder-Bernstein property;
+  2. Th(G, +) is omega-stable;
+  3. G is the direct sum of a divisible group and a torsion group of bounded
+exponent;
+  4. Th(G, +) is superstable, and if (H, +) is a saturated elementary extension
+of (G,+), every map in Aut(H/H^0) is unipotent.

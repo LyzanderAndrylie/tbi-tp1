@@ -1,0 +1,8 @@
+We analyze the dynamics of a forecasting game which exhibits the phenomenon
+of information cascades. Each agent aims at correctly predicting a binary
+variable and he/she can either look for independent information or herd on the
+choice of others. We show that dynamics can be analitically described in terms
+of a Langevin equation and its collective behavior is described by the solution
+of a Kramers' problem. This provides very accurate results in the region where
+the vast majority of agents herd, which corresponds to the most interesting one
+from a game theoretic point of view.

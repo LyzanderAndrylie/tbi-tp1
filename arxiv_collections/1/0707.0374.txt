@@ -1,0 +1,8 @@
+The future e-e+ 500 GeV International Linear Collider will rely on
+unprecedented nanometer scale particle beam size at the interaction point, in
+order to achieve the design luminosity. Tight tolerances on static and dynamic
+alignment of the accelerator cavities and optical components are demanded to
+transport and focus the high energy electron and positron beams with reasonable
+position jitter and low emittance. A brief review of techniques and devices
+evaluated and developed so far for the vibration diagnostics of the machine is
+presented in this paper.

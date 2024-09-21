@@ -1,0 +1,10 @@
+Degeneracy of the genetic code is a biological way to minimize effects of the
+undesirable mutation changes. Degeneration has a natural description on the
+5-adic space of 64 codons $\mathcal{C}_5 (64) = \{n_0 + n_1 5 + n_2 5^2
+  : n_i = 1, 2, 3, 4 \} ,$ where $n_i$ are digits related to nucleotides as
+follows: C = 1, A = 2, T = U = 3, G = 4. The smallest 5-adic distance between
+codons joins them into 16 quadruplets, which under 2-adic distance decay into
+32 doublets. p-Adically close codons are assigned to one of 20 amino acids,
+which are building blocks of proteins, or code termination of protein
+synthesis. We shown that genetic code multiplets are made of the p-adic nearest
+codons.

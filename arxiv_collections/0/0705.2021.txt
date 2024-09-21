@@ -1,0 +1,17 @@
+The frequency distribution f(a) of semi-major axis of double and multiple
+systems, as well as their eccentricities and mass ratios, contain valuable
+fossil information about the process of star formation and the dynamical
+history of the systems. In order to advance in the understanding of these
+questions, we have made an extensive analysis of the frequency distribution f
+(a) for wide binaries (a>25 AU) in the various published catalogues, as well as
+in our own (Poveda et al., 1994; Allen et al., 2000; Poveda & Hernandez, 2003).
+Based upon all these studies we have established that the frequency f(a) is
+function of the age of the system and follows Oepik's distribution f(a) ~ 1/a
+in the range of 100 AU < a < a[c](t), where a[c](t) is a critical semi-major
+axis beyond which binaries have dissociated by encounters with massive objects.
+We argue that the physics behind the distribution f(a) ~ 1/a is a process of
+energy relaxation, analogous to that present in stellar clusters (secular
+relaxation) or in spherical galaxies (violent relaxation). The frequency
+distribution of mass ratios in triple systems as well as the existence of
+runaway stars, indicate that both types of relaxation are important in the
+process of binary and multiple star formation.

@@ -1,0 +1,13 @@
+Based on the adiabatic picture for heavy-ion reactions, in which the neck
+formation in the one-body system is taken into account, we propose a two-step
+model for fusion cross sections at deep subbarrier energies. This model
+consists of the capture process in the two-body potential pocket, which is
+followed by the penetration of the adiabatic one-body potential to reach a
+compound state after the touching configuration. We describe the former process
+with the coupled-channels framework, while the latter with the WKB
+approximation by taking into account the coordinate dependent inertia mass. The
+effect of the one-body barrier is important at incident energies below the
+potential energy at the touching configuration. We show that this model well
+accounts for the steep fall-off phenomenon of fusion cross sections at deep
+subbarrier energies for the $^{64}$Ni+$^{64}$Ni and $^{58}$Ni+$^{58}$Ni
+reactions.

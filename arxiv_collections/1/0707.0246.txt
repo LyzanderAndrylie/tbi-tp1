@@ -1,0 +1,5 @@
+We present in this paper a new tool for outliers detection in the context of
+multiple regression models. This graphical tool is based on recursive
+estimation of the parameters. Simulations were carried out to illustrate the
+performance of this graphical procedure. As a conclusion, this tool is applied
+to real data containing outliers according to the classical available tools.

@@ -1,0 +1,11 @@
+Relational data model defines a specification of a type "relation". However,
+its simplicity does not mean that the system implementing this model must
+operate with structures having the same simplicity. We consider two principles
+allowing create a system which combines object-oriented paradigm (OOP) and
+relational data model (RDM) in one framework. The first principle -- "complex
+data in encapsulated domains" -- is well known from The Third Manifesto by Date
+and Darwen. The second principle --"data complexity in names"-- is the basis
+for a system where data are described as complex objects and uniquely
+represented as a set of relations. Names of these relations and names of their
+attributes are combinations of names entered in specifications of the complex
+objects. Below, we consider the main properties of such a system.

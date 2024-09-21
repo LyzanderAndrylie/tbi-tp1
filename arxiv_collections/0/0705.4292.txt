@@ -1,0 +1,8 @@
+Recent measurements of the short-wavelength (~ 1--100 nm) fluctuations in
+stacks of lipid membranes have revealed two distinct relaxations: a fast one
+(decay rate of ~ 0.1 ns^{-1}), which fits the known baroclinic mode of bulk
+lamellar phases, and a slower one (~ 1--10 \mu s^{-1}) of unknown origin. We
+show that the latter is accounted for by an overdamped capillary mode,
+depending on the surface tension of the stack and its anisotropic viscosity. We
+thereby demonstrate how the dynamic surface tension of membrane stacks could be
+extracted from such measurements.

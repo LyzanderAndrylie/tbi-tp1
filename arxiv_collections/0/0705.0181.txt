@@ -1,0 +1,10 @@
+It was presented by Cabello and Nakamura [A. Cabello, Phys. Rev. Lett. 90,
+190401 (2003)], that the Kochen-Specker theorem applies to two dimensions if
+one uses Positive Operator-Valued Measures. We show that contextuality in their
+models is not of the Kochen-Specker type. It is rather the result of not
+keeping track of the whole system on which the measurement is performed. This
+is connected to the fact that there is no one-to-one correspondence between
+POVM elements and projectors on the extended Hilbert space and the same POVM
+element has to originate from two different projectors when used in Cabello's
+and Nakamura's models. Moreover, we propose a hidden-variable formulation of
+the above models.

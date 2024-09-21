@@ -1,0 +1,20 @@
+From observations of almost 500 RGB stars in 29 Galactic open and globular
+clusters, we have investigated the behaviour of the infrared Ca II triplet
+(8498, 8542 and 8662 \AA) in the age range 13$\leq$Age/Gyr$\leq$0.25 and the
+metallicity range $-2.2\leq$ [Fe/H] $\leq$+0.47. These are the widest ranges of
+ages and metallicities in which the behaviour of the Ca II triplet lines has
+been investigated in a homogeneous way. We report the first empirical study of
+the variation of the CaII triplet lines strength, for given metallicities, with
+respect to luminosity. We find that the sequence defined by each cluster in the
+Luminosity-$\Sigma$Ca plane is not exactly linear. However, when only stars in
+a small magnitude interval are observed, the sequences can be considered as
+linear. We have studied the the Ca II triplet lines on three metallicities
+scales. While a linear correlation between the reduced equivalent width ($W'_V$
+or $W'_I$) versus metallicity is found in the \citet{cg97} and \citet{ki03}
+scales, a second order term needs to be added when the \citet{zw84} scale is
+adopted. We investigate the role of age from the wide range of ages covered by
+our sample. We find that age has a weak influence on the final relationship.
+Finally, the relationship derived here is used to estimate the metallicities of
+three poorly studied open clusters: Berkeley 39, Trumpler 5 and Collinder 110.
+For the latter, the metallicity derived here is the first spectroscopic
+estimate available.

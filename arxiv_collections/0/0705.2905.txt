@@ -1,0 +1,13 @@
+We propose a stochastic process wherein molecular transport is mediated by
+asymmetric nucleation of domains on a one-dimensional substrate. Track-driven
+mechanisms of molecular transport arise in biophysical applications such as
+Holliday junction positioning and collagenase processivity. In contrast to
+molecular motors that hydrolyze nucleotide triphosphates and undergo a local
+molecular conformational change, we show that asymmetric nucleation of
+hydrolysis waves on a track can also result in directed motion of an attached
+particle. Asymmetrically cooperative kinetics between ``hydrolyzed'' and
+``unhydrolyzed'' states on each lattice site generate moving domain walls that
+push a particle sitting on the track. We use a novel fluctuating-frame,
+finite-segment mean field theory to accurately compute steady-state velocities
+of the driven particle and to discover parameter regimes which yield maximal
+domain wall flux, leading to optimal particle drift.

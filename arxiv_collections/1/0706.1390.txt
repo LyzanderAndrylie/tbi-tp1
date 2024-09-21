@@ -1,0 +1,24 @@
+An optical cavity enhances the interaction between atoms and light, and the
+rate of coherent atom-photon coupling can be made larger than all decoherence
+rates of the system. For single atoms, this strong coupling regime of cavity
+quantum electrodynamics (cQED) has been the subject of spectacular experimental
+advances, and great efforts have been made to control the coupling rate by
+trapping and cooling the atom towards the motional ground state, which has been
+achieved in one dimension so far. For N atoms, the three-dimensional ground
+state of motion is routinely achieved in atomic Bose-Einstein condensates
+(BECs), but although first experiments combining BECs and optical cavities have
+been reported recently, coupling BECs to strong-coupling cavities has remained
+an elusive goal. Here we report such an experiment, which is made possible by
+combining a new type of fibre-based cavity with atom chip technology. This
+allows single-atom cQED experiments with a simplified setup and realizes the
+new situation of N atoms in a cavity each of which is identically and strongly
+coupled to the cavity mode. Moreover, the BEC can be positioned
+deterministically anywhere within the cavity and localized entirely within a
+single antinode of the standing-wave cavity field. This gives rise to a
+controlled, tunable coupling rate, as we confirm experimentally. We study the
+heating rate caused by a cavity transmission measurement as a function of the
+coupling rate and find no measurable heating for strongly coupled BECs. The
+spectrum of the coupled atoms-cavity system, which we map out over a wide range
+of atom numbers and cavity-atom detunings, shows vacuum Rabi splittings
+exceeding 20 gigahertz, as well as an unpredicted additional splitting which we
+attribute to the atomic hyperfine structure.

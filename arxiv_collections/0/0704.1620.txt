@@ -1,0 +1,17 @@
+Presenting theoretical arguments and numerical results we demonstrate
+long-range intrachain correlations in concentrated solutions and melts of long
+flexible polymers which cause a systematic swelling of short chain segments.
+They can be traced back to the incompressibility of the melt leading to an
+effective repulsion $u(s) \approx s/\rho R^3(s) \approx ce/\sqrt{s}$ when
+connecting two segments together where $s$ denotes the curvilinear length of a
+segment, $R(s)$ its typical size, $ce \approx 1/\rho be^3$ the ``swelling
+coefficient", $be$ the effective bond length and $\rho$ the monomer density.
+The relative deviation of the segmental size distribution from the ideal
+Gaussian chain behavior is found to be proportional to $u(s)$. The analysis of
+different moments of this distribution allows for a precise determination of
+the effective bond length $be$ and the swelling coefficient $ce$ of
+asymptotically long chains. At striking variance to the short-range decay
+suggested by Flory's ideality hypothesis the bond-bond correlation function of
+two bonds separated by $s$ monomers along the chain is found to decay
+algebraically as $1/s^{3/2}$. Effects of finite chain length are considered
+briefly.

@@ -1,0 +1,14 @@
+Yukawa potentials may be long ranged when the Debye screening length is
+large. In computer simulations, such long ranged potentials have to be taken
+into account with convenient algorithms to avoid systematic bias in the
+sampling of the phase space. Recently, we have provided Ewald sums for
+quasi-two dimensional systems with Yukawa interaction potentials [M. Mazars,
+{\it J. Chem. Phys.}, {\bf 126}, 056101 (2007) and M. Mazars, {\it Mol. Phys.},
+Paper I]. Sometimes, Lekner sums are used as an alternative to Ewald sums for
+Coulomb systems. In the present work, we derive the Lekner sums for quasi-two
+dimensional systems with Yukawa interaction potentials and we give some
+numerical tests for pratical implementations. The main result of this paper is
+to outline that Lekner sums cannot be considered as an alternative to Ewald
+sums for Yukawa potentials. As a conclusion to this work : Lekner sums should
+not be used for quasi-two dimensional systems with Yukawa interaction
+potentials.

@@ -1,0 +1,9 @@
+We study the effects of metallic doping on the electronic properties of
+graphene using density functional theory in the local density approximation in
+the presence of a local charging energy (LDA+U). The electronic properties are
+sensitive to whether graphene is doped with alkali or transition metals. We
+estimate the the charge transfer from a single layer of Potassium on top of
+graphene in terms of the local charging energy of the graphene sheet. The
+coating of graphene with a non-magnetic layer of Palladium, on the other hand,
+can lead to a magnetic instability in coated graphene due to the hybridization
+between the transition-metal and the carbon orbitals.

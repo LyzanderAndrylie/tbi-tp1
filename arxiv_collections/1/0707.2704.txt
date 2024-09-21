@@ -1,0 +1,12 @@
+It is shown that a momentum-boost technique applied to the extended Kohn-Sham
+scheme enables the computational determination of the Mott insulating
+transition. Self-consistent solutions are given for correlated electron systems
+by the first-principles calculation defined by the multi-reference density
+functional theory, in which the effective short-range interaction can be
+determined by the fluctuation reference method. An extension of the Harriman
+construction is made for the twisted boundary condition in order to define the
+momentum-boost technique in the first-principles manner. For an effectively
+half-filled-band system, the momentum-boost method tells that the period of a
+metallic ground state by the LDA calculation is shortened to the least period
+of the insulating phase, indicating occurrence of the Mott insulating
+transition.

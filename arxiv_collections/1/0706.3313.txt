@@ -1,0 +1,15 @@
+A Costas array of order $n$ is an arrangement of dots and blanks into $n$
+rows and $n$ columns, with exactly one dot in each row and each column, the
+arrangement satisfying certain specified conditions. A dot occurring in such an
+array is even/even if it occurs in the $i$-th row and $j$-th column, where $i$
+and $j$ are both even integers, and there are similar definitions of odd/odd,
+even/odd and odd/even dots. Two types of Costas arrays, known as Golomb-Costas
+and Welch-Costas arrays, can be defined using finite fields. When $q$ is a
+power of an odd prime, we enumerate the number of even/even odd/odd, even/odd
+and odd/even dots in a Golomb-Costas array. We show that three of these numbers
+are equal and they differ by $\pm 1$ from the fourth. For a Welch-Costas array
+of order $p-1$, where $p$ is an odd prime, the four numbers above are all equal
+to $(p-1)/4$ when $p\equiv 1\pmod{4}$, but when $p\equiv 3\pmod{4}$, we show
+that the four numbers are defined in terms of the class number of the imaginary
+quadratic field $\mathbb{Q}(\sqrt{-p})$, and thus behave in a much less
+predictable manner.

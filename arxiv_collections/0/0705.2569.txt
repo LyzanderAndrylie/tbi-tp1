@@ -1,0 +1,7 @@
+We describe a self-biased, fully permanent magnet atom chip used to study
+ultracold atoms and to produce a Bose-Einstein condensate (BEC). The magnetic
+trap is loaded efficiently by adiabatic transport of a magnetic trap via the
+application of uniform external fields. Radio frequency spectroscopy is used
+for in-trap analysis and to determine the temperature of the atomic cloud. The
+formation of a Bose-Einstein condensate is observed in time of flight images
+and as a narrow peak appearing in the radio frequency spectrum.

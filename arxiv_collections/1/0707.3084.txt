@@ -1,0 +1,5 @@
+We study the $L^2$--cohomology of certain local systems on non-compact
+arithmetic ball quotients $X=\Gamma \backslash \B_n$, in particular vanishing
+and non--vanishing results. We also give generalizations to higher dimensional
+ball quotients and study the mixed Hodge structure on the sheaf cohomology of a
+local system with the $L^2$-cohomology contributing to the lowest weight part.

@@ -1,0 +1,10 @@
+Microfabrication of graphene devices used in many experimental studies
+currently relies on the fact that graphene crystallites can be visualized using
+optical microscopy if prepared on top of silicon wafers with a certain
+thickness of silicon dioxide. We study graphene's visibility and show that it
+depends strongly on both thickness of silicon dioxide and light wavelength. We
+have found that by using monochromatic illumination, graphene can be isolated
+for any silicon dioxide thickness, albeit 300 nm (the current standard) and,
+especially, approx. 100 nm are most suitable for its visual detection. By using
+a Fresnel-law-based model, we quantitatively describe the experimental data
+without any fitting parameters.

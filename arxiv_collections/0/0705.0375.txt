@@ -1,0 +1,8 @@
+We propose a method of manipulating selectively the symmetric Dicke subspace
+in the internal degrees of freedom of N trapped ions. We show that the direct
+access to ionic-motional subspaces, based on a suitable tuning of
+motion-dependent AC Stark shifts, induces a two-level dynamics involving
+previously selected ionic Dicke states. In this manner, it is possible to
+produce, sequentially and unitarily, ionic Dicke states with increasing
+excitation number. Moreover, we propose a probabilistic technique to produce
+directly any ionic Dicke state assuming suitable initial conditions.

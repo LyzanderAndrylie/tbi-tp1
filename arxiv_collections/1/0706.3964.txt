@@ -1,0 +1,6 @@
+We consider compact hyperbolic Coxeter polytopes whose Coxeter diagram
+contains a unique dotted edge. We prove that such a polytope in d-dimensional
+hyperbolic space has at most d+3 facets. In view of results of Lann\'er,
+Kaplinskaja, Esselmann, and the second author, this implies that compact
+hyperbolic Coxeter polytopes with a unique pair of non-intersecting facets are
+completely classified. They do exist only up to dimension 6 and in dimension 8.

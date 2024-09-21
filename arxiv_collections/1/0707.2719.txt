@@ -1,0 +1,13 @@
+We consider the gravity back reaction on the metric due to the baryon density
+in effective ads/qcd model by reconsidering the role of the charged AdS black
+hole. Previously it has been known that the U(1) charge is dual to the
+R-charge. Here we point out that if we consider the case where $AdS_5$ is
+completely filled with $N_f$ flavor branes, the gravity back reaction produces
+charged AdS black hole where the effect of charge on the metric is proportional
+to $N_f/N_c$. As a consequence, phase diagram changes qualitatively if we allow
+$N_f/N_c$ finite: it closes at the finite density unlike the probe brane
+embedding approach.
+  Another issue we discuss here is the question whether there is any chemical
+potential dependence in the confining phase. We consider this problem in the
+hard wall model with baryon charge. We conclude that there is a non-trivial
+dependence on the chemical potential in this case also.

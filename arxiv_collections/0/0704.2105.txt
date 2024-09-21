@@ -1,0 +1,11 @@
+In this paper, photonic entanglement and interference are described and
+analyzed with the language of quantum information process. Correspondingly, a
+photon state involving several degrees of freedom is represented in a new
+expression based on the permutation symmetry of bosons. In this expression,
+each degree of freedom of a single photon is regarded as a qubit and operations
+on photons as qubit gates. The two-photon Hong-Ou-Mandel interference is well
+interpreted with it. Moreover, the analysis reveals the entanglement between
+different degrees of freedom in a four-photon state from parametric down
+conversion, even if there is no entanglement between them in the two-photon
+state. The entanglement will decrease the state purity and photon interference
+visibility in the experiments on a four-photon polarization state.

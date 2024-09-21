@@ -1,0 +1,12 @@
+Using a model of spinless fermions in a lattice with nearest neighbor and
+next-nearest neighbor interaction we show that the entropy of the reduced two
+site density matrix (the bond entropy) can be used as an extremely accurate and
+easy to calculate numerical indicator for the critical parameters of the
+quantum phase transition when the basic ordering pattern has a two-site
+periodicity. The actual behavior of the bond entropy depends on the particular
+characteristics of the transition under study. For the Kosterlitz-Thouless type
+phase transition from a Luttinger liquid phase to a charge density wave state
+the bond entropy has a local maximum while in the transition from the Luttinger
+liquid to the phase separated state the derivative of the bond entropy has a
+divergence due to the cancelation of the third eigenvalue of the two-site
+reduced density matrix.

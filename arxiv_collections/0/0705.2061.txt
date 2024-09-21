@@ -1,0 +1,13 @@
+Electron acceleration in high Mach number perpendicular shocks is
+investigated through two-dimensional electrostatic particle-in-cell (PIC)
+simulation. We simulate the shock foot region by modeling particles that
+consist of three components such as incident protons and electrons and
+reflected protons in the initial state which satisfies the Buneman instability
+condition. In contrast to previous one-dimensional simulations in which strong
+surfing acceleration is realized, we find that surfing acceleration does not
+occur in two-dimensional simulation. This is because excited electrostatic
+potentials have a two-dimensional structure that makes electron trapping
+impossible. Thus, the surfing acceleration does not work either in itself or as
+an injection mechanism for the diffusive shock acceleration. We briefly discuss
+implications of the present results on the electron heating and acceleration by
+shocks in supernova remnants.

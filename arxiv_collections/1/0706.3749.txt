@@ -1,0 +1,9 @@
+The dynamics of an open quantum system can be described by a quantum
+operation, a linear, complete positive map of operators. Here, I exhibit a
+compact expression for the time reversal of a quantum operation, which is
+closely analogous to the time reversal of a classical Markov transition matrix.
+Since open quantum dynamics are stochastic, and not, in general, deterministic,
+the time reversal is not, in general, an inversion of the dynamics. Rather, the
+system relaxes towards equilibrium in both the forward and reverse time
+directions. The probability of a quantum trajectory and the conjugate, time
+reversed trajectory are related by the heat exchanged with the environment.

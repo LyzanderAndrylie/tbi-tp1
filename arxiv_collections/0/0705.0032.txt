@@ -1,0 +1,13 @@
+We elaborate an unified geometric approach to classical mechanics,
+Riemann-Finsler spaces and gravity theories on Lie algebroids provided with
+nonlinear connection (N-connection) structure. There are investigated the
+conditions when the fundamental geometric objects like the anchor, metric and
+linear connection, almost sympletic and related almost complex structures may
+be canonically defined by a N-connection induced from a regular Lagrangian (or
+Hamiltonian), in mechanical models, or by generic off-diagonal metric terms and
+nonholonomic frames, in gravity theories. Such geometric constructions are
+modelled on nonholonomic manifolds provided with nonintegrable distributions
+and related chains of exact sequences of submanifolds defining N-connections.
+We investigate the main properties of the Lagrange, Hamilton, Finsler-Riemann
+and Einstein-Cartan algebroids and construct and analyze exact solutions
+describing such objects.

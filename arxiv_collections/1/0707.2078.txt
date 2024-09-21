@@ -1,0 +1,16 @@
+We have investigated the electrical transport properties of Dirac electrons
+in a monolayer graphene sheet in the presence of a perpendicular magnetic field
+that is modulated weakly and periodically along one direction.We find that the
+Landau levels broaden into bands and their width oscillates as a function of
+the band index and the magnetic field.We determine the $\sigma_{yy}$ component
+of the magnetoconductivity tensor for this system which is shown to exhibit
+Weiss oscillations.We also determine analytically the asymptotic expressions
+for $\sigma_{yy}$.We compare these results with recently obtained results for
+electrically modulated graphene as well as those for magnetically modulated
+conventional two-dimensional electron gas (2DEG) system.We find that in the
+magnetically modulated graphene system cosidered in this work,Weiss
+oscillations in $\sigma_{yy}$ have a reduced amplitude compared to the 2DEG but
+are less damped by temperature while they have a higher amplitude than in the
+electrically modulated graphene system. We also find that these oscillations
+are out of phase by $\pi$ with those of the electrically modulated system while
+they are in phase with those in the 2DEG system.

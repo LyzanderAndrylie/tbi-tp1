@@ -1,0 +1,13 @@
+Narrow line-widths and the possibility of enhanced spontaneous emission via
+coupling to microcavities make semiconductor quantum dots ideal for harnessing
+coherent quantum phenomena at the single photon level. So far, however, all
+approaches have relied on incoherent pumping, which limits the desirable
+properties of the emission. In contrast, coherent excitation was recognized to
+be necessary for providing both improved photon indistinguishability and high
+efficiency, and offers the quantum control capabilities required for basic
+qubit manipulations. Here we achieve, for the first time, resonant and coherent
+excitation of a quantum dot with simultaneous collection of the non-classical
+photon emission. Second-order correlation measurements show the unique
+signature of a coherently-driven two-level quantum emitter: the photon
+statistics become oscillatory at high driving fields, reflecting the coherent
+evolution of the excitonic ground state of the quantum dot.

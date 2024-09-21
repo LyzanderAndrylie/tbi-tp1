@@ -1,0 +1,8 @@
+The ''polymer reference interaction site model'' (PRISM) integral equation
+theory is used to determine the structure factor of rigid dendrimers in
+solution. The theory is quite successful in reproducing experimental structure
+factors for various dendrimer concentrations. In addition, the structure factor
+at vanishing scattering vector is calculated via the compressibility equation
+using scaled particle theory and fundamental measure theory. The results as
+predicted by both theories are systematically smaller than the experimental and
+PRISM data for platelike dendrimers.

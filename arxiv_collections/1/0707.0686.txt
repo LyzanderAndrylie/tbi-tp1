@@ -1,0 +1,7 @@
+We consider a physical system with a coupling to bosonic reservoirs via a
+quantum stochastic differential equation. We study the limit of this model as
+the coupling strength tends to infinity. We show that in this limit the
+solution to the quantum stochastic differential equation converges strongly to
+the solution of a limit quantum stochastic differential equation. In the
+limiting dynamics the excited states are removed and the ground states couple
+directly to the reservoirs.

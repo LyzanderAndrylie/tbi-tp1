@@ -1,0 +1,23 @@
+In several classes of particle physics models -- ranging from the classical
+Majoron models, to the more recent scenarios of late neutrino masses or
+Mass-Varying Neutrinos -- one or more of the neutrinos are postulated to couple
+to a new light scalar field. As a result of this coupling, neutrinos in the
+early universe instead of streaming freely could form a self-coupled fluid,
+with potentially observable signatures in the Cosmic Microwave Background and
+the large scale structure of the universe. We re-examine the constraints on
+this scenario from the presently available cosmological data and investigate
+the sensitivity expected from the Planck satellite. In the first case, we find
+that the sensitivity strongly depends on which piece of data is used. The SDSS
+Main sample data, combined with WMAP and other data, disfavors the scenario of
+three coupled neutrinos at about the 3.5$\sigma$ confidence level, but also
+favors a high number of freely streaming neutrinos, with the best fit at 5.2.
+If the matter power spectrum is instead taken from the SDSS Large Red Galaxy
+sample, best fit point has 2.5 freely streaming neutrinos, but the scenario
+with three coupled neutrinos becomes allowed at $2\sigma$. In contrast, Planck
+alone will exclude even a single self-coupled neutrino at the $4.2\sigma$
+confidence level, and will determine the total radiation at CMB epoch to
+$\Delta N_\nu^{eff} = ^{+0.5}_{-0.3}$ ($1\sigma$ errors). We investigate the
+robustness of this result with respect to the details of Planck's detector.
+This sensitivity to neutrino free-streaming implies that Planck will be capable
+of probing a large region of the Mass-Varying Neutrino parameter space. Planck
+may also be sensitive to a scale of neutrino mass generation as high as 1 TeV.

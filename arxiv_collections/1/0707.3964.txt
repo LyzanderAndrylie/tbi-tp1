@@ -1,0 +1,10 @@
+We adapt the one parameter scaling theory (OPT) to the context of quantum
+chaos. As a result we propose a more precise characterization of the
+universality classes associated to Wigner-Dyson and Poisson statistics which
+takes into account Anderson localization effects. Based also on the OPT we
+predict a new universality class in quantum chaos related to the
+metal-insulator transition and provide several examples. In low dimensions it
+is characterized by classical superdiffusion or a fractal spectrum, in higher
+dimensions it can also have a purely quantum origin as in the case of
+disordered systems. Our findings open the possibility of studying the metal
+insulator transition experimentally in a much broader type of systems.

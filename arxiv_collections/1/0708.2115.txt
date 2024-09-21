@@ -1,0 +1,24 @@
+This review gives a rather general discussion of high temperature
+superconductors as an example of a strongly correlated material. The argument
+is made that in view of the many examples of unconventional superconductors
+discovered in the past twenty years, we should no longer be surprised that
+superconductivity emerges as a highly competitive ground state in systems where
+Coulomb repulsion plays a dominant role. The physics of the cuprates is
+discussed, emphasizing the unusual pseudogap phase in the underdoped region. It
+is argued that the resonating valence bond (RVB) picture, as formulated using
+gauge theory with fermionic and bosonic matter fields, gives an adequate
+physical understanding, even though many details are beyond the powers of
+current calculational tools. The recent discovery of quantum oscillations in a
+high magnetic field is discussed in this context. Meanwhile, the problem of the
+quantum spin liquid (a spin system with antiferromagnetic coupling which
+refuses to order even at zero temperature) is a somewhat simpler version of the
+high $T_c$ problem where significant progress has been made recently. It is
+understood that the existence of matter fields can lead to de-confinement of
+the U(1) gauge theory in 2+1 dimensions, and novel new particles (called
+fractionalized particles), such as fermionic spinons which carry spin ${1\over
+2}$ and no charge, and gapless gauge bosons can emerge to create a new critical
+state at low energies. We even have a couple of real materials where such a
+scenario may be realized experimentally. The article ends with answers to
+questions such as: what limits $T_c$ if pairing is driven by an electronic
+energy scale? why is the high $T_c$ problem hard? why is there no consensus?
+and why is the high $T_c$ problem important?

@@ -1,0 +1,18 @@
+This paper discusses the ATLAS potential to study Supersymmetry for the
+"Focus-Point" region of the parameter space of mSUGRA models. The potential to
+discovery a deviation from Standard Model expectations with the first few
+${fb}^{-1}$ of LHC data was studied using the parametrized simulation of the
+ATLAS detector. Several signatures were considered, involving hard jets, large
+missing energy, and either $b$-tagged jets, opposite-sign isolated electron or
+muon pairs, or top quarks reconstructed exploiting their fully hadronic decays.
+With only 1 ${fb}^{-1}$ of data each of these signatures may allow to observe
+an excess of events over Standard Model expectation with a statistical
+significance exceeding 5 standard deviations. An analytical expression was
+derived for the shape of the distribution of the dilepton invariant mass
+arising from the three-body leptonic decay of the neutralinos under the
+hypothesis of heavy scalars, which is appropriate for the focus-point scenario.
+The resulting function was used to fit the distribution of the dilepton
+invariant mass obtained with simulated LHC data, and to extract the value of
+two kinematic endpoints measuring the $\tilde \chi^0_2 - \tilde \chi^0_1$ and
+the $\tilde \chi^0_3 - \tilde \chi^0_1$ mass differences. This information was
+used to constrain the MSSM parameter space compatible with the data.

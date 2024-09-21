@@ -1,0 +1,20 @@
+We have studied the statistics of giant pulses from the Crab pulsar for the
+first time with particular reference to their widths. We have analyzed data
+collected during 3.5 hours of observations conducted with the Westerbork
+Synthesis Radio Telescope operated in a tied-array mode at a frequency of 1200
+MHz. The PuMa pulsar backend provided voltage recording of X and Y linear
+polarization states in two conjugate 10 MHz bands. We restricted the time
+resolution to 4 microseconds to match the scattering on the interstellar
+inhomogeneities. In total about 18000 giant pulses (GP) were detected in full
+intensity with a threshold level of 6 sigma. Cumulative probability
+distributions (CPD) of giant pulse energies were analyzed for groups of GPs
+with different effective widths in the range 4 to 65 microseconds. The CPDs
+were found to manifest notable differences for the different GP width groups.
+The slope of a power-law fit to the high-energy portion of the CPDs evolves
+from -1.7 to -3.2 when going from the shortest to the longest GPs. There are
+breaks in the CPD power-law fits indicating flattening at low energies with
+indices varying from -1.0 to -1.9 for the short and long GPs respectively. The
+GPs with a stronger peak flux density were found to be of shorter duration. We
+compare our results with previously published data and discuss the importance
+of these peculiarities in the statistical properties of GPs for the heoretical
+understanding of the emission mechanism responsible for GP generation.

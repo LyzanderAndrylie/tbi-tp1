@@ -1,0 +1,5 @@
+In this paper we {\em discuss} diverse aspects of mutual relationship between
+adjoints and formal adjoints of unbounded operators bearing a matrix structure.
+We emphasize on the behaviour of row and column operators as they turn out to
+be the germs of an arbitrary matrix operator, providing most of the information
+about the latter {as it is the troublemaker}.

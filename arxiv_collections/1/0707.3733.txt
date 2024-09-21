@@ -1,0 +1,6 @@
+We study numerically a monodisperse model of interacting classical particles
+predicted to exhibit a static liquid-glass transition. Using a dynamical Monte
+Carlo method we show that the model does not freeze into a glassy phase at low
+temperatures. Instead, depending on the choice of the hard-core radius for the
+particles the system either collapses trivially or a polycrystalline hexagonal
+structure emerges.

@@ -1,0 +1,21 @@
+We study electron transport in a normal-metal ring modeled by the tight
+binding lattice Hamiltonian, coupled to two electron reservoirs. First,
+Buttiker's model of incorporating inelastic scattering, hence decoherence and
+dissipation, has been extended by connecting each site of the open ring to
+one-dimensional leads for uniform dephasing in the ring threaded by magnetic
+flux. We show with this extension conductance remains symmetric under flux
+reversal, and Aharonov-Bohm oscillations with changing magnetic flux reduce to
+zero as a function of the decoherence parameter, thus indicating dephasing in
+the ring. This extension enables us to find local chemical potential profiles
+of the ring sites with changing magnetic flux and the decoherence parameter
+analogously to the four probe measurement. The local electrochemical potential
+oscillates in the ring sites because of quantum-interference effects. It
+predicts that measured four-point resistance also fluctuates and even can be
+negative. Then we point out the role of the closed ring's electronic
+eigenstates in the persistent current around Fano antiresonances of an
+asymmetric open ring for both ideal leads and tunnel barriers. Determining the
+real eigenvalues of the non-Hermitian effective Hamiltonian of the ring, we
+show that there exist discrete bound states in the continuum of scattering
+states for the asymmetric ring even in the absence of magnetic flux. Our
+approach involves quantum Langevin equations and non-equilibrium Green's
+functions.

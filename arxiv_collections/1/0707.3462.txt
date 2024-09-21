@@ -1,0 +1,13 @@
+In this paper, we study nonzero-sum separable games, which are continuous
+games whose payoffs take a sum-of-products form. Included in this subclass are
+all finite games and polynomial games. We investigate the structure of
+equilibria in separable games. We show that these games admit finitely
+supported Nash equilibria. Motivated by the bounds on the supports of mixed
+equilibria in two-player finite games in terms of the ranks of the payoff
+matrices, we define the notion of the rank of an n-player continuous game and
+use this to provide bounds on the cardinality of the support of equilibrium
+strategies. We present a general characterization theorem that states that a
+continuous game has finite rank if and only if it is separable. Using our rank
+results, we present an efficient algorithm for computing approximate equilibria
+of two-player separable games with fixed strategy spaces in time polynomial in
+the rank of the game.

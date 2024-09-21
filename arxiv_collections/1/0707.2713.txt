@@ -1,0 +1,22 @@
+We make a theoretical attempt to compare the predictions from normal and
+inverted hierarchical models, within the framework of $\mu-\tau$ symmetry. We
+consider three major theoretical issues in a self consistent ways, viz.,
+predictions on neutrino mass and mixing parameters, stability under RG analysis
+in MSSM, and baryogenesis through leptogenesis. We further extend our earlier
+works on parametrisation of neutrino mass matrices using only two parameters,
+in addition to an overall mass scale $m_0$, and the ratio of these two
+parameters fixes the value of solar mixing angle. Such parametrisation though
+phenomenological gives a firm handle on the analysis of the mass matrices and
+predicts lower values of solar mixing angle in the range
+$\tan^2\theta_{12}=0.50-0.35$.We check the stability of the model under
+radiative corrections in MSSM for large $\tan\beta\sim 58-60$ region and
+observe that the evolution of $\bigtriangleup m^2_{21}$ with energy scale, is
+highly dependent on the input high scale value of solar mixing angle. Solar
+angle predicted by tri-bimaximal mixings and also values lower than this, do
+not lead to stability of the model. Similarly, the evolution of the atmospheric
+mixing angle with energy scale at large $\tan\beta$ values, shows sharp
+decrease for the case with non-zero value of m_3. We apply these mass matrices
+to estimate the baryon asymmetry of the universe in a self consistent way and
+find that normal hierarchical model leads to the best result. Considering all
+these three pieces of theoretical investigations, we may conclude that normal
+hierarchical model is more favourable in nature.

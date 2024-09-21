@@ -1,0 +1,7 @@
+Microscopic state counting for a black hole in Loop Quantum Gravity yields a
+result proportional to horizon area, and inversely proportional to Newton's
+constant and the Immirzi parameter. It is argued here that before this result
+can be compared to the Bekenstein-Hawking entropy of a macroscopic black hole,
+the scale dependence of both Newton's constant and the area must be accounted
+for. The two entropies could then agree for any value of the Immirzi parameter,
+if a certain renormalization property holds.

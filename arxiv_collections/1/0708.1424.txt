@@ -1,0 +1,8 @@
+We derive expressions for the charge and spin response function for the
+Tomonaga model with quadratic dispersion and arbitrary (but finite for zero
+momentum) interaction. For constant interaction these expressions are analytic
+and for other types of interaction only a simple matrix has to be diagonalised.
+We use a truncated expansion in particle-hole states with and without inclusion
+of correlations in the ground state yielding an exact result for pure
+intra-band interaction. We also discuss the possibility of power-laws in the
+dynamic structure factor for the spinful and spinless model.

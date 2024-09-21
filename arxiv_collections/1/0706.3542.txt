@@ -1,0 +1,16 @@
+We study Josephson current in superconductor / diffusive ferromagnet
+/superconductor junctions by using the recursive Green function method. When
+the exchange potential in a ferromagnet is sufficiently large as compared to
+the pair potential in a superconductor, an ensemble average of Josephson
+current is much smaller than its mesoscopic fluctuations. The Josephson current
+vanishes when the exchange potential is extremely large so that a ferromagnet
+is half-metallic. Spin-flip scattering at junction interfaces drastically
+changes the characteristic behavior of Josephson current. In addition to
+spin-singlet Cooper pairs, equal-spin triplet pairs penetrate into a half
+metal. Such equal-spin pairs have an unusual symmetry property called
+odd-frequency symmetry and carry the Josephson current through a half metal.
+The penetration of odd-frequency pairs into a half metal enhances the low
+energy quasiparticle density of states, which could be detected experimentally
+by scanning tunneling spectroscopy. We will also show that odd-frequency pairs
+in a half metal cause a nonmonotonic temperature dependence of the critical
+Josephson current.

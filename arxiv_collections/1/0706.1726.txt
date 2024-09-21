@@ -1,0 +1,10 @@
+We determine $D$ and $D_s$ decay constants from lattice QCD with 2% errors, 4
+times better than experiment and previous theory: $f_{D_s}$ = 241(3) MeV, $f_D$
+= 207(4) MeV and $f_{D_s}/f_D$ = 1.164(11).
+  We also obtain $f_K/f_{\pi}$ = 1.189(7) and $(f_{D_s}/f_D)/(f_K/f_{\pi})$ =
+0.979(11). Combining with experiment gives $V_{us}$=0.2262(14) and
+$V_{cs}/V_{cd}$ of 4.43(41). We use a highly improved quark discretization on
+MILC gluon fields that include realistic sea quarks fixing the $u/d, s$ and $c$
+masses from the $\pi$, $K$, and $\eta_c$ meson masses. This allows a stringent
+test against experiment for $D$ and $D_s$ masses for the first time (to within
+7 MeV).

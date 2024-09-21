@@ -1,0 +1,4 @@
+We introduce a new method of calculating intersections on \bar{M}_{g,n},
+using localization of equivariant cohomology. As an application, we give a
+proof of Mirzakhani's recursion relation for calculating intersections of mixed
+psi and kappa_1 classes.

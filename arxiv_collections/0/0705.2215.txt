@@ -1,0 +1,13 @@
+We present a model improving the two-angle model for interphase chromatin
+(E2A model). This model takes into account the cylindrical shape of the histone
+octamers, the H1 histones in front of the nucleosomes and the vertical distance
+$d$ between the in and outgoing DNA strands. Factoring these chromatin features
+in, one gets essential changes in the chromatin phase diagram: Not only the
+shape of the excluded-volume borderline changes but also the vertical distance
+$d$ has a dramatic influence on the forbidden area. Furthermore, we examined
+the influence of H1 defects on the properties of the chromatin fiber. Thus we
+present two possible strategies for chromatin compaction: The use of very dense
+states in the phase diagram in the gaps in the excluded volume borderline or
+missing H1 histones which can lead to very compact fibers. The chromatin fiber
+might use both of these mechanisms to compact itself at least locally. Line
+densities computed within the model coincident with the experimental values.

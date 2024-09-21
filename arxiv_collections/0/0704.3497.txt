@@ -1,0 +1,18 @@
+Thermally stimulated luminescence (TSL) and conductivity (TSC) are considered
+using the classical insulator model that assumes one kind of the active trap,
+one kind of inactive deep trap, and one kind of the recombination center.
+Kinetic equations describing the model are solved numerically without and with
+the use of the quasiequilibrium (QE) approximation. The QE state parameter qI,,
+the relative recombination probability g, and a new parameter called
+quasi-stationary (QS) state parameter q*=qIg are used for the analysis of the
+TSL and TSC. The TSL and TSC curves and the temperature dependences of qI, q*,
+g, the recombination lifetime, and the occupancies of active traps and
+recombination centers are numerically calculated for five sets of kinetic
+parameters and different heating rates. These calculation results show that:
+(1) the upper limit of the heating rate for presence of the QS state appears at
+higher heating rate than that for the QE state when the retrapping process is
+present, and (2) the TSL (TSC) curves in the QS state have the properties
+similar to those for the TSL (TSC) curves in the QE state. Approximate formulas
+for calculation of the parameters qI and q* in the initial range of the TSL and
+TSC curves are derived and used in the heating-rate methods, proposed in this
+work, for determination of those parameters from the calculated TSL curves.

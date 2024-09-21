@@ -1,0 +1,23 @@
+Determination of the cosmic infrared background (CIB) at far infrared
+wavelengths using COBE/DIRBE data is limited by the accuracy to which
+foreground interplanetary and Galactic dust emission can be modeled and
+subtracted. Previous determinations of the far infrared CIB (e.g., Hauser et
+al. 1998) were based on the detection of residual isotropic emission in skymaps
+from which the emission from interplanetary dust and the neutral interstellar
+medium were removed. In this paper we use the Wisconsin H-alpha Mapper (WHAM)
+Northern Sky Survey as a tracer of the ionized medium to examine the effect of
+this foreground component on determination of the CIB. We decompose the DIRBE
+far infrared data for five high Galactic latitude regions into H I and H-alpha
+correlated components and a residual component. We find the H-alpha correlated
+component to be consistent with zero for each region, and we find that addition
+of an H-alpha correlated component in modeling the foreground emission has
+negligible effect on derived CIB results. Our CIB detections and 2 sigma upper
+limits are essentially the same as those derived by Hauser et al. and are given
+by nu I_nu (nW m-2 sr-1) < 75, < 32, 25 +- 8, and 13 +- 3 at 60, 100, 140, and
+240 microns, respectively. Our residuals have not been subjected to a detailed
+anisotropy test, so our CIB results do not supersede those of Hauser et al. We
+derive upper limits on the 100 micron emissivity of the ionized medium that are
+typically about 40% of the 100 micron emissivity of the neutral atomic medium.
+This low value may be caused in part by a lower dust-to-gas mass ratio in the
+ionized medium than in the neutral medium, and in part by a shortcoming of
+using H-alpha intensity as a tracer of far infrared emission.

@@ -1,0 +1,15 @@
+Surprisingly, skew derivations rather than ordinary derivations are more
+basic (important) object in study of the Grassmann algebras. Let $\L_n =
+K\lfloor x_1, ..., x_n\rfloor$ be the Grassmann algebra over a commutative ring
+$K$ with ${1/2}\in K$, and $\d$ be a skew $K$-derivation of $\L_n$. It is
+proved that $\d$ is a unique sum $\d = \d^{ev} +\d^{od}$ of an even and odd
+skew derivation. Explicit formulae are given for $\d^{ev}$ and $\d^{od}$ via
+the elements $\d (x_1), ..., \d (x_n)$. It is proved that the set of all even
+skew derivations of $\L_n$ coincides with the set of all the inner skew
+derivations. Similar results are proved for derivations of $\L_n$. In
+particular, $\Der_K(\L_n)$ is a faithful but not simple $\Aut_K(\L_n)$-module
+(where $K$ is reduced and $n\geq 2$). All differential and skew differential
+ideals of $\L_n$ are found. It is proved that the set of generic normal
+elements of $\L_n$ that are not units forms a single $\Aut_K(\L_n)$-orbit
+(namely, $\Aut_K(\L_n)x_1$) if $n$ is even and two orbits (namely,
+$\Aut_K(\L_n)x_1$ and $\Aut_K(\L_n)(x_1+x_2... x_n)$) if $n$ is odd.

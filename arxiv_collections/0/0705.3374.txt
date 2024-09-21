@@ -1,0 +1,12 @@
+The study of electron transport through single molecules is essential to the
+development of molecular electronics. Indeed, trends in electronic conductance
+through organic nanowires have emerged with the increasing reliability of
+electron transport measurements at the single-molecule level. Experimental and
+theoretical work has shown that tunneling distance, HOMO-LUMO gap and molecular
+conformation influence electron transport in both saturated and pi-conjugated
+nanowires. However, there is relatively little experimental data on electron
+transport through fused aromatic rings. Here we show using diaminoacenes that
+conductivity depends not only on the number of fused aromatic rings in the
+molecule, which defines the molecular HOMO-LUMO gap, but also on the position
+of the amino groups on the rings. Specifically, we find that conductance is
+highest with minimal disruption of aromaticity in fused aromatic nanowires.

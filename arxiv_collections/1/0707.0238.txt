@@ -1,0 +1,11 @@
+We investigate theoretically the magnetic spin-flip transitions of neutral
+atoms trapped near a superconducting slab. Our calculations are based on a
+quantum-theoretical treatment of electromagnetic radiation near dielectric and
+metallic bodies. Specific results are given for rubidium atoms near a niobium
+superconductor. At the low frequencies typical of the atomic transitions, we
+find that BCS theory greatly overestimates coherence effects, which are much
+less pronounced when quasiparticle lifetime effects are included through
+Eliashberg theory. At 4.2 K, the typical atomic spin lifetime is found to be
+larger than a thousand seconds, even for atom-superconductor distances of one
+micrometer. This constitutes a large enhancement in comparison with normal
+metals.

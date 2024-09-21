@@ -1,0 +1,12 @@
+This paper presents a geometric description of Lagrangian and Hamiltonian
+systems on Lie affgebroids subject to affine nonholonomic constraints. We
+define the notion of nonholonomically constrained system, and characterize
+regularity conditions that guarantee that the dynamics of the system can be
+obtained as a suitable projection of the unconstrained dynamics. It is shown
+that one can define an almost aff-Poisson bracket on the constraint AV-bundle,
+which plays a prominent role in the description of nonholonomic dynamics.
+Moreover, these developments give a general description of nonholonomic systems
+and the unified treatment permits to study nonholonomic systems after or before
+reduction in the same framework. Also, it is not necessary to distinguish
+between linear or affine constraints and the methods are valid for explicitly
+time-dependent systems.

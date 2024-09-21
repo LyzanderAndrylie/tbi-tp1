@@ -1,0 +1,13 @@
+We analyzed the two-dimensional (2D) electron momentum distributions of
+high-energy photoelectrons of atoms in an intense laser field using the
+second-order strong field approximation (SFA2). The SFA2 accounts for the
+rescattering of the returning electron with the target ion to first order and
+its validity is established by comparing with results obtained by solving the
+time-dependent Schr\"{o}dinger equation (TDSE) for short pulses. By analyzing
+the SFA2 theory, we confirmed that the yield along the back rescattered ridge
+(BRR) in the 2D momentum spectra can be interpreted as due to the elastic
+scattering in the backward directions by the returning electron wave packet.
+The characteristics of the extracted electron wave packets for different laser
+parameters are analyzed, including their dependence on the laser intensity and
+pulse duration. For long pulses we also studied the wave packets from the first
+and the later returns.

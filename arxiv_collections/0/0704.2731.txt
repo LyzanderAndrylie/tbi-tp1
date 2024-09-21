@@ -1,0 +1,14 @@
+We discuss the physical interpretation of a dynamical and inhomogeneous
+spherically symmetric solution obtained by Fonarev for a scalar field with an
+exponential potential. There is a single parameter $w$ in the solution which
+can be set to $\pm1$ if it is non-zero, in addition to the steepness parameter
+$\lambda$ in the potential. The spacetime is conformally static and
+asymptotically flat Friedmann-Robertson-Walker spacetime. The solution reduces
+to the Friedmann-Robertson-Walker solution for $w=0$. There are two curvature
+singularities, of which one is a timelike central singularity and the other is
+a big-bang or big-crunch type singularity. Depending on the parameters, the
+spacetime can possess a future outer trapping horizon in the collapsing case.
+Then the solution represents a dynamical black hole in the sense of Hayward
+although there is a locally naked singularity at the center and no black-hole
+event horizon. This demonstrates a weak point of the local definition of a
+black hole in terms of a trapping horizon.

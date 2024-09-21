@@ -1,0 +1,14 @@
+The Method of Invariant Grid (MIG) is an iterative procedure for model
+reduction in chemical kinetics which is based on the notion of Slow Invariant
+Manifold (SIM) [1-4]. Important role, in that method, is played by the initial
+grid which, once refined, gives a description of the invariant manifold: the
+invariant grid. A convenient way to get a first approximation of the SIM is
+given by the Spectral Quasi Equilibrium Manifold (SQEM) [1-2]. In the present
+paper, a flexible numerical method to construct the discrete analog of a Quasi
+Equilibrium Manifold, in any dimension, is presented. That object is named
+Quasi Equilibrium Grid (QEG), while the procedure Quasi Equilibrium Grid
+Algorithm. Extensions of the QEM notion are also suggested. The QEG is a
+numerical tool which can be used to find a grid-based approximation for the
+locus of minima of a convex function under some linear constraints. The method
+is validated by construction of one and two-dimensional grids for model
+hydrogen oxidation reaction.

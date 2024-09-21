@@ -1,0 +1,11 @@
+In a recent work [Phys. Rev. Lett. 98, 023004 (2007)] we have investigated
+the influence of attractive van der Waals interaction on the pair distribution
+and Penning ionization dynamics of ultracold Rydberg gases. Here we extend this
+description to atoms initially prepared in Rydberg states exhibiting repulsive
+interaction. We present calculations based on a Monte Carlo algorithm to
+simulate the dynamics of many atoms under the influence of both repulsive and
+attractive longrange interatomic forces. Redistribution to nearby states
+induced by black body radiation is taken into account, changing the effective
+interaction potentials. The model agrees with experimental observations, where
+the ionization rate is found to increase when the excitation laser is
+blue-detuned from the atomic resonance.

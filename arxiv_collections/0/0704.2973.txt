@@ -1,0 +1,7 @@
+The entanglement fidelity provides a measure of how well the entanglement
+between two subsystems is preserved in a quantum process. By using a simple
+model we show that in some cases this quantity in its original definition fails
+in the measurement of the entanglement preserving. On the contrary, the
+modified entanglement fidelity, obtained by using a proper local unitary
+transformation on a subsystem, is shown to exhibit the behavior similar to that
+of the concurrence in the quantum evolution.

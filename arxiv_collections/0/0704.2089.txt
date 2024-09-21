@@ -1,0 +1,4 @@
+We prove that the energy equality holds for weak solutions of the 3D
+Navier-Stokes equations in the functional class $L^3([0,T);V^{5/6})$, where
+$V^{5/6}$ is the domain of the fractional power of the Stokes operator
+$A^{5/12}$.

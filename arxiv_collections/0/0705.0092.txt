@@ -1,0 +1,14 @@
+The Boltzmann equation for d-dimensional inelastic Maxwell models is
+considered to analyze transport properties in spatially inhomogeneous states
+close to the simple shear flow. A normal solution is obtained via a
+Chapman--Enskog--like expansion around a local shear flow distribution f^{(0)}
+that retains all the hydrodynamic orders in the shear rate. The constitutive
+equations for the heat and momentum fluxes are obtained to first order in the
+deviations of the hydrodynamic field gradients from their values in the
+reference state and the corresponding generalized transport coefficients are
+{\em exactly} determined in terms of the coefficient of restitution \alpha and
+the shear rate a. Since f^{(0)} applies for arbitrary values of the shear rate
+and is not restricted to weak dissipation, the transport coefficients turn out
+to be nonlinear functions of both parameters a and \alpha. A comparison with
+previous results obtained for inelastic hard spheres from a kinetic model of
+the Boltzmann equation is also carried out.

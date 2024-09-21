@@ -1,0 +1,16 @@
+We use the direct Fourier method to calculate the redshift-space power
+spectrum of the maxBCG cluster catalog (Koester et al. 2007) -- currently by
+far the largest existing galaxy cluster sample. The total number of clusters
+used in our analysis is 12,616. After accounting for the radial smearing effect
+caused by photometric redshift errors and also introducing a simple treatment
+for the nonlinear effects, we show that currently favored low matter density
+``concordance'' LambdaCDM cosmology provides a very good fit to the estimated
+power. Thanks to the large volume (~ 0.4 h^{-3} Gpc^3), high clustering
+amplitude (linear effective bias parameter b_{eff} ~ 3x(0.85/sigma_8)), and
+sufficiently high sampling density (~ 3x10^{-5} h^{3} Mpc^{-3}) the recovered
+power spectrum has high enough signal to noise to allow us to find weak
+evidence (~ 2sigma CL) for the acoustic features. These results are encouraging
+in light of the several proposed large cluster surveys. In case we use the
+photometric redshift errors as suggested in Koester et al. (2007) we are left
+with the excess large-scale power which has previously been noticed by several
+other authors.

@@ -1,0 +1,12 @@
+Asymmetric nuclear matter is investigated in the low density region below the
+nuclear saturation density. Microscopic calculations based on the Dirac
+Brueckner Hartree-Fock (DBHF) approach with realistic nucleon-nucleon
+potentials are used to adjust a low density functional. This functional is
+constructed on a density expansion of the relativistic mean field theory which
+allows a clear interpretation of the role of the mesons to the equation of
+state. It is shown that a correction term should be added to the functional in
+order to take into account the effects beyond the mean field. Two functionals
+with different corrections are obtained. Those functionals converge to predict
+a reduction of the spinodal zone in asymmetric nuclear matter by about 15-20%
+and an isoscalar unstable mode closer to the constant Z/A direction than the
+functional without correction.

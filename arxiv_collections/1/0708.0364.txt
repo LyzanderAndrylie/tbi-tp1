@@ -1,0 +1,7 @@
+The typical behaviour of the relay-without-delay channel and its many-units
+generalisation, termed the relay array, under LDPC coding, is studied using
+methods of statistical mechanics. A demodulate-and-forward strategy is
+analytically solved using the replica symmetric ansatz which is exact in the
+studied system at the Nishimori's temperature. In particular, the typical level
+of improvement in communication performance by relaying messages is shown in
+the case of small and large number of relay units.

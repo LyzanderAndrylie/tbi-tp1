@@ -1,0 +1,11 @@
+Quantum error correction is a solution to preserve the fidelity of quantum
+information encoded in physical systems subject to noise. However, unfavorable
+correlated errors could be induced even for non-interacting qubits through the
+environment (bath), when they are "packed" together. The question is, to what
+extent can we treat the noise induced by the bath as independent? In the
+context of the spin-boson model, we show that, under some reasonable
+constraints, the independent noise approximation could be valid. On the other
+hand, in the strongly correlated limit, we show how the method of decoherence
+free subspace can be made applicable. Combining these two methods makes
+fault-tolerant quantum computation promising in fighting against correlated
+errors.

@@ -1,0 +1,18 @@
+In the classical s-t network reliability problem a fixed network G is given
+including two designated vertices s and t (called terminals). The edges are
+subject to independent random failure, and the task is to compute the
+probability that s and t are connected in the resulting network, which is known
+to be #P-complete. In this paper we are interested in approximating the s-t
+reliability in case of a directed acyclic original network G. We introduce and
+analyze a specialized version of the Monte-Carlo algorithm given by Karp and
+Luby. For the case of uniform edge failure probabilities, we give a worst-case
+bound on the number of samples that have to be drawn to obtain an epsilon-delta
+approximation, being sharper than the original upper bound. We also derive a
+variance reduction of the estimator which reduces the expected number of
+iterations to perform to achieve the desired accuracy when applied in
+conjunction with different stopping rules. Initial computational results on two
+types of random networks (directed acyclic Delaunay graphs and a slightly
+modified version of a classical random graph) with up to one million vertices
+are presented. These results show the advantage of the introduced Monte-Carlo
+approach compared to direct simulation when small reliabilities have to be
+estimated and demonstrate its applicability on large-scale instances.

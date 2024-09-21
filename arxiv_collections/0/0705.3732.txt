@@ -1,0 +1,7 @@
+A physical mechanism for the freezing of polar nanoregions (PNRs) in relaxor
+ferroelectrics is presented. Assuming that the activation energy for the
+reorientation of a cluster of PNRs scales with the mean volume of the cluster,
+the characteristic relaxation time $\tau$ is found to diverge as the cluster
+volume reaches the percolation limit. Applying the mean field theory of
+continuum percolation, the familiar Vogel-Fulcher equation for the temperature
+dependence of $\tau$ is derived.

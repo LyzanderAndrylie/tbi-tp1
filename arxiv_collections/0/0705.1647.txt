@@ -1,0 +1,11 @@
+The well known FPU phenomenon (lack of attainment of equipartition of the
+mode--energies at low energies, for some exceptional initial data) suggests
+that the FPU model does not have the mixing property at low energies. We give
+numerical indications that this is actually the case. This we show by computing
+orbits for sets of initial data of full measure, sampled out from the
+microcanonical ensemble by standard Montecarlo techniques. Mixing is tested by
+looking at the decay of the autocorrelations of the mode--energies, and it is
+found that the high--frequency modes have autocorrelations that tend instead to
+positive values. Indications are given that such a nonmixing property survives
+in the thermodynamic limit. It is left as an open problem whether mixing
+obtains within time--scales much longer than the presently available ones.

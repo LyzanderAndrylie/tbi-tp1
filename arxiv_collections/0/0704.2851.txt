@@ -1,0 +1,14 @@
+We obtain constraints on possible structures of mass matrices in the quark
+sector by using as experimental restrictions the determined values of the quark
+masses at the $M_Z$ energy scale, the magnitudes of the quark mixing matrix
+elements $V_{\rm ud}$, $V_{\rm us}$, $V_{\rm cd}$, and $V_{\rm cs}$, and the
+Jarlskog invariant $J(V)$. Different cases of specific mass matrices are
+examined in detail. The quality of the fits for the Fritzsch and Stech type
+mass matrices is about the same with $\chi^2/{\rm dof}=4.23/3=1.41$ and
+$\chi^2/{\rm dof}=9.10/4=2.28$, respectively. The fit for a simple
+generalization (one extra parameter) of the Fritzsch type matrices, in the
+physical basis, is much better with $\chi^2/{\rm dof}=1.89/4=0.47$. For
+comparison we also include the results using the quark masses at the 2 GeV
+energy scale. The fits obtained at this energy scale are similar to that at
+$M_Z$ energy scale, implying that our results are unaffected by the evolution
+of the quark masses from 2 to 91 GeV.

@@ -1,0 +1,9 @@
+We found, using density-functional theory calculations within the generalized
+gradient approximation, that Cs$_2$AgF$_4$ is stabilized in the insulating
+orthorhombic phase rather than in the metallic tetragonal phase. The lattice
+distortion present in the orthorhombic phase corresponds to the
+$x^2-z^2$/$y^2-z^2$ hole-orbital ordering of the Ag$^{2+}$ $4d^9$ ions, and
+this orbital ordering leads to the observed ferromagnetism, as confirmed by the
+present total-energy calculations. This picture holds in the presence of
+moderate 4d-electron correlation. The results are compared with the picture of
+ferromagnetism based on the metallic tetragonal phase.

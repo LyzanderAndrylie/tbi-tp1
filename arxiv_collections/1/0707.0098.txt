@@ -1,0 +1,8 @@
+We show that the transition probability of the Markoc chain
+$(G(j,1),...,G(j,n))_{j\ge 1}$, where the $G(i,j)'s$ are certain directed
+last-passage times, is given by a determinant of a special form. An analogous
+formula has recently been obtained by Warren in a Brownian motion model.
+Furthermore we demonstrate that this formula leads to the Meixner ensemble when
+we compute the distribution function for $G(m,n)$. We also obtain the Fredholm
+determinant representation of this distribution, where the kernel has a double
+contour integral representation.

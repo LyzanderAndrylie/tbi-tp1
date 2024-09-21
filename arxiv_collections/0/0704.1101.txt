@@ -1,0 +1,7 @@
+Using a noncommutative analog of Chevalley's decomposition of polynomials
+into symmetric polynomials times coinvariants due to Bergeron, Reutenauer,
+Rosas, and Zabrocki we compute the graded Frobenius series for their two sets
+of noncommutative harmonics with respect to the left action of the symmetric
+group (acting on variables). We use these results to derive the Frobenius
+series for the enveloping algebra of the derived free Lie algebra in n
+variables.

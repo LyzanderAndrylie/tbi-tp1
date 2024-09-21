@@ -1,0 +1,10 @@
+The spin vortices are shown to be created through the Kibble-Zurek (KZ)
+mechanism in a quantum phase transition of a spin-1 ferromagnetic Bose-Einstein
+condensate, when the applied magnetic field is quenched below a critical value.
+It is shown that the magnetic correlation functions have finite correlation
+lengths, and magnetizations at widely separated positions grow in random
+directions, resulting in spin vortices. We numerically confirm the scaling law
+that the winding number of spin vortices is proportional to the square root of
+the length of the closed path, and for slow quench, proportional to $\tau_{\rm
+Q}^{-1/6}$ with $\tau_{\rm Q}$ being the quench time. The relation between the
+spin conservation and the KZ mechanism is discussed.

@@ -1,0 +1,12 @@
+The destruction of quasi-long range crystalline order as a consequence of
+strong disorder effects is shown to accompany the strict localization of all
+classical plasma modes of one-dimensional Wigner crystals at T=0. We construct
+a phase diagram that relates the structural phase properties of Wigner crystals
+to a plasmon delocalization transition recently reported. Deep inside the
+strictly localized phase of the strong disorder regime, we observe
+``glass-like'' behavior. However, well into the critical phase with a plasmon
+mobility edge, the system retains its crystalline composition. We predict that
+a transition between the two phases occurs at a critical value of the relative
+disorder strength. This transition has an experimental signature in the AC
+conductivity as a local maximum of the largest spectral amplitude as a function
+of the relative disorder strength.

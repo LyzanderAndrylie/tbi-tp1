@@ -1,0 +1,10 @@
+This is the first in a series of articles in which we study the rotating
+Morse potential model for diatomic molecules in the tridiagonal J-matrix
+representation. Here, we compute the bound states energy spectrum by
+diagonalizing the finite dimensional Hamiltonian matrix of H2, LiH, HCl and CO
+molecules for arbitrary angular momentum. The calculation was performed using
+the J-matrix basis that supports a tridiagonal matrix representation for the
+reference Hamiltonian. Our results for these diatomic molecules have been
+compared with available numerical data satisfactorily. The proposed method is
+handy, very efficient, and it enhances accuracy by combining analytic power
+with a convergent and stable numerical technique.

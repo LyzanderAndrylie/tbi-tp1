@@ -1,0 +1,4 @@
+One can develop the basic structure theory of linear algebraic groups (the
+root system, Bruhat decomposition, etc.) in a way that bypasses several major
+steps in the standard development, including the self-normalizing property of
+Borel subgroups.

@@ -1,0 +1,9 @@
+We study nonlinear response of a spin $S>1/2$ with easy-axis anisotropy. The
+response displays sharp dips or peaks when the modulation frequency is
+adiabatically swept through multiphoton resonance. The effect is a consequence
+of a special symmetry of the spin dynamics in a magnetic field for the
+anisotropy energy $\propto S_z^2$. The occurrence of the dips or peaks is
+determined by the spin state. Their shape strongly depends on the modulation
+amplitude. Higher-order anisotropy breaks the symmetry, leading to sharp steps
+in the response as function of frequency. The results bear on the dynamics of
+molecular magnets in a static magnetic field.

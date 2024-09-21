@@ -1,0 +1,12 @@
+We construct a family of equations of state within a quasiparticle model by
+relating pressure, energy density, baryon density and susceptibilities adjusted
+to first-principles lattice QCD calculations. The relation between pressure and
+energy density from lattice QCD is surprisingly insensitive to details of the
+simulations. Effects from different lattice actions, quark masses and lattice
+spacings used in the simulations show up mostly in the quark-hadron phase
+transition region which we bridge over by a set of interpolations to a hadron
+resonance gas equation of state. Within our optimized quasiparticle model we
+then examine the equation of state along isentropic expansion trajectories at
+small net baryon densities, as relevant for experiments and hydrodynamic
+simulations at RHIC and LHC energies. We illustrate its impact on azimuthal
+flow anisotropies and transverse momentum spectra of various hadron species.

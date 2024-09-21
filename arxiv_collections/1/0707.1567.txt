@@ -1,0 +1,11 @@
+We use density-matrix theory to calculate the ultrafast dynamics of
+unconventional superconductors from a microscopic viewpoint. We calculate the
+time evolution of the optical conductivity as well as pump-probe spectra for a
+d-wave order parameter. Three regimes can be distinguished in the spectra. The
+Drude response at low photon energies is the only one of those which has been
+measured experimentally so far. At higher energies, we predict two more
+regimes: the pair-breaking peak, which is reduced as Cooper-pairs are broken up
+by the exciting pulse; and a suppression above the pair-breaking peak due to
+nonequilibrium quasiparticles. Furthermore, we consider the influence of the
+electron-phonon coupling, and derive rate equations which have been widely used
+so far.

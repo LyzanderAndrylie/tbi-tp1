@@ -1,0 +1,11 @@
+Presented in this paper is the kinematic analysis of a symmetrical
+three-degree-of-freedom planar parallel manipulator. In opposite to serial
+manipulators, parallel manipulators can admit not only multiple inverse
+kinematic solutions, but also multiple direct kinematic solutions. This
+property produces more complicated kinematic models but allows more flexibility
+in trajectory planning. To take into account this property, the notion of
+aspects, i.e. the maximal singularity-free domains, was introduced, based on
+the notion of working modes, which makes it possible to separate the inverse
+kinematic solutions. The aim of this paper is to show that a non-singular
+assembly-mode changing trajectory exist for a symmetrical planar parallel
+manipulator, with equilateral base and platform triangle.

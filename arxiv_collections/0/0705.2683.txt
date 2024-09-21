@@ -1,0 +1,18 @@
+We study stellar configurations and the space-time around them in metric
+$f(R)$ theories of gravity. In particular, we focus on the polytropic model of
+the Sun in the $f(R)=R-\mu^4/R$ model. We show how the stellar configuration in
+the $f(R)$ theory can, by appropriate initial conditions, be selected to be
+equal to that described by the Lane-Emden -equation and how a simple scaling
+relation exists between the solutions. We also derive the correct solution
+analytically near the center of the star in $f(R)$ theory. Previous analytical
+and numerical results are confirmed, indicating that the space-time around the
+Sun is incompatible with Solar System constraints on the properties of gravity.
+Numerical work shows that stellar configurations, with a regular metric at the
+center, lead to $\gamma_{PPN}\simeq1/2$ outside the star ie. the
+Schwarzschild-de Sitter -space-time is not the correct vacuum solution for such
+configurations. Conversely, by selecting the Schwarzschild-de Sitter -metric as
+the outside solution, we find that the stellar configuration is unchanged but
+the metric is irregular at the center. The possibility of constructing a $f(R)$
+theory compatible with the Solar System experiments and possible new
+constraints arising from the radius-mass -relation of stellar objects is
+discussed.

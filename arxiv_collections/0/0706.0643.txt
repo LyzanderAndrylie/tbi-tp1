@@ -1,0 +1,7 @@
+We present a model for diffusion in a molecularly crowded environment. The
+model consists of random barriers in percolation network. Random walks in the
+presence of slowly moving barriers show normal diffusion for long times, but
+anomalous diffusion at intermediate times. The effective exponents for square
+distance versus time usually are below one at these intermediate times, but can
+be also larger than one for high barrier concentrations. Thus we observe sub-
+as well as super-diffusion in a crowded environment.

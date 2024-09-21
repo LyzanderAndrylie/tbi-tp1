@@ -1,0 +1,10 @@
+A regularized $\alpha-$system of the Nonlinear Schr\"{o}dinger Equation (NLS)
+with $2\sigma$ nonlinear power in dimension $N$ is studied. We prove existence
+and uniqueness of local solution in the case $1 \le \sigma <\frac{4}{N-2}$ and
+existence and uniqueness of global solution in the case $1 \le \sigma <
+\frac{4}{N}$. When $\alpha \to 0^+$, this regularized system will converge to
+the classical NLS in the appropriate range. In particular, the purpose of this
+numerical regularization is to shed light on the profile of the blow up
+solutions of the original Nonlinear Schr\"{o}dinger Equation in the range
+$\frac{2}{N}\le \sigma <\frac{4}{N}$, and in particular for the critical case
+$\sigma = \frac{2}{N}$.

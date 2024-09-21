@@ -1,0 +1,9 @@
+Motivated by applications to quantum field theory we consider Gibbs measures
+for which the reference measure is Wiener measure and the interaction is given
+by a double stochastic integral and a pinning external potential. In order
+properly to characterize these measures through DLR equations, we are led to
+lift Wiener measure and other objects to a space of configurations where the
+basic observables are not only the position of the particle at all times but
+also the work done by test vector fields. We prove existence and basic
+properties of such Gibbs measures in the small coupling regime by means of
+cluster expansion.

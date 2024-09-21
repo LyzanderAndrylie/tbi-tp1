@@ -1,0 +1,17 @@
+We show how to construct discrete-time quantum walks on directed, Eulerian
+graphs. These graphs have tails on which the particle making the walk
+propagates freely, and this makes it possible to analyze the walks in terms of
+scattering theory. The probability of entering a graph from one tail and
+leaving from another can be found from the scattering matrix of the graph. We
+show how the scattering matrix of a graph that is an automorphic image of the
+original is related to the scattering matrix of the original graph, and we show
+how the scattering matrix of the reverse graph is related to that of the
+original graph. Modifications of graphs and the effects of these modifications
+are then considered. In particular we show how the scattering matrix of a graph
+is changed if we remove two tails and replace them with an edge or cut an edge
+and add two tails. This allows us to combine graphs, that is if we connect two
+graphs we can construct the scattering matrix of the combined graph from those
+of its parts. Finally, using these techniques, we show how two graphs can be
+compared by constructing a larger larger graph in which the two original graphs
+are in parallel, and performing a quantum walk on the larger graph. This is a
+kind of quantum walk interferometry.

@@ -1,0 +1,9 @@
+The telegraph process models a random motion with finite velocity and it is
+usually proposed as an alternative to diffusion models. The process describes
+the position of a particle moving on the real line, alternatively with constant
+velocity $+ v$ or $-v$. The changes of direction are governed by an homogeneous
+Poisson process with rate $\lambda >0.$ In this paper, we consider a change
+point estimation problem for the rate of the underlying Poisson process by
+means of least squares method. The consistency and the rate of convergence for
+the change point estimator are obtained and its asymptotic distribution is
+derived. Applications to real data are also presented.

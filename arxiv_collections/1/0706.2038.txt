@@ -1,0 +1,5 @@
+An exact expression for the distribution of the area swept out by a drifted
+Brownian motion till its first-passage time is derived. A study of the
+asymptotic behaviour confirms earlier conjectures and clarifies their range of
+validity. The analysis also leads to a simple closed-form solution for the
+moments of the Airy distribution.

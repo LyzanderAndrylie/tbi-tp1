@@ -1,0 +1,5 @@
+Screening of a large external charge in graphene is studied. The charge is
+assumed to be displaced away or smeared over a finite region of the graphene
+plane. The initial decay of the screened potential with distance is shown to
+follow the 3/2 power. It gradually changes to the Coulomb law outside of a
+hypercritical core whose radius is proportional to the external charge.

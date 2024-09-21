@@ -1,0 +1,8 @@
+We numerically investigate Heisenberg XXZ spin-1/2 chain in a spatially
+random static magnetic field. We find that tDMRG simulations of time evolution
+can be performed efficiently, namely the dimension of matrices needed to
+efficiently represent the time-evolution increases linearly with time and
+entanglement entropies for typical chain bipartitions increase logarithmically.
+As a result, we show that for large enough random fields infinite temperature
+spin-spin correlation function displays exponential localization in space
+indicating insulating behavior of the model.

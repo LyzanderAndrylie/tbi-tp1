@@ -1,0 +1,13 @@
+The process of self-compensation in Cd0.95Zn0.05Te:Cl solid-solution crystals
+has been studied by annealing single crystals under a controlled Cd vapor
+pressure, with subsequent measurements of the Hall effect, photoluminescence,
+carrier lifetime and mobility, and photocurrent memory in the annealed
+crystals. By means of this annealing, conditions of thermal treatment that make
+it possible to fabricate low-conductivity samples with a low carrier density,
+10E7-10E11 cm-3, are denned. In these samples, a p -- n conduction inversion is
+observed at a higher free-carrier density ((n, p) near 10E9 cm-3) and the
+dependence of the electron density on the Cd vapor pressure exhibits a more
+gentle slope than in the case of CdTe:Cl crystals.
+  The obtained data are dis-cussed in terms of a self-compensation model in
+which intrinsic point defects act as acceptors with deep levels. This level is
+attributed to a Zn vacancy, which remains active at high Cd pressure.

@@ -1,0 +1,19 @@
+We derive a perturbation expansion for general self-interacting random walks,
+where steps are made on the basis of the history of the path. Examples of
+models where this expansion applies are reinforced random walk, excited random
+walk, the true (weakly) self-avoiding walk, loop-erased random walk, and
+annealed random walk in random environment.
+  In this paper we show that the expansion gives rise to useful formulae for
+the speed and variance of the random walk, when these quantities are known to
+exist. The results and formulae of this paper have been used elsewhere by the
+authors to prove monotonicity properties for the speed (in high dimensions) of
+excited random walk and related models, and certain models of random walk in
+random environment.
+  We also derive a law of large numbers and central limit theorem (with
+explicit error terms) directly from this expansion, under strong assumptions on
+the expansion coefficients. The assumptions are shown to be satisfied by
+excited random walk in high dimensions with small excitation parameter, a model
+of reinforced random walk with underlying drift and small reinforcement
+parameter, and certain models of random walk in random environment under strong
+ellipticity conditions. This is the extended version of the paper, where we
+provide all proofs.

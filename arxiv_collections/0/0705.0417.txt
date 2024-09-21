@@ -1,0 +1,11 @@
+We have investigated the intersubband transitions of surface state electrons
+(SSE) on liquid $^3$He induced by microwave radiation at temperatures from 1.1
+K down to 0.01 K. Above 0.4 K, the transition linewidth is proportional to the
+density of $^3$He vapor atoms. This proportionality is explained well by Ando's
+theory, in which the linewidth is determined by the electron - vapor atom
+scattering. However, the linewidth is larger than the calculation by a factor
+of 2.1. This discrepancy strongly suggests that the theory underestimates the
+electron - vapor atom scattering rate. At lower temperatures, the absorption
+spectrum splits into several peaks. The multiple peak structure is partly
+attributed to the spatial inhomogeneity of the static holding electric field
+perpendicular to the electron sheet.

@@ -1,0 +1,15 @@
+Let G be a simple and simply-connected complex algebraic group, P \subset G a
+parabolic subgroup. We prove an unpublished result of D. Peterson which states
+that the quantum cohomology QH^*(G/P) of a flag variety is, up to localization,
+a quotient of the homology H_*(Gr_G) of the affine Grassmannian \Gr_G of G. As
+a consequence, all three-point genus zero Gromov-Witten invariants of $G/P$ are
+identified with homology Schubert structure constants of H_*(Gr_G),
+establishing the equivalence of the quantum and homology affine Schubert
+calculi.
+  For the case G = B, we use the Mihalcea's equivariant quantum Chevalley
+formula for QH^*(G/B), together with relationships between the quantum Bruhat
+graph of Brenti, Fomin and Postnikov and the Bruhat order on the affine Weyl
+group. As byproducts we obtain formulae for affine Schubert homology classes in
+terms of quantum Schubert polynomials. We give some applications in quantum
+cohomology.
+  Our main results extend to the torus-equivariant setting.

@@ -1,0 +1,8 @@
+We present current noise measurements in a long diffusive
+superconductor-normal-metal-superconductor junction in the low voltage regime,
+in which transport can be partially described in terms of coherent multiple
+Andreev reflections. We show that, when decreasing voltage, the current noise
+exhibits a strong divergence together with a broad peak. We ascribe this peak
+to the mixing between the ac- Josephson current and the noise of the junction
+itself. We show that the junction noise corresponds to the thermal noise of a
+nonlinear resistor 4kBT=R with R V = I V and no adjustable parameters.

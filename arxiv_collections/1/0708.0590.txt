@@ -1,0 +1,17 @@
+We study nonperturbative interaction corrections to the thermodynamic
+quantities of multichannel disordered wires in the presence of the Coulomb
+interactions. Within the replica nonlinear $\sigma$-model (NL$\sigma$M)
+formalism, they arise from nonperturbative soliton saddle points of the
+NL$\sigma$M action. The problem is reduced to evaluating the partition function
+of a replicated classical one dimensional Coulomb gas. The state of the latter
+depends on two parameters: the number of transverse channels in the wire,
+N_{ch}, and the dimensionless conductance, G(L_T), of a wire segment of length
+equal to the thermal diffusion length, L_T. At relatively high temperatures,
+$G(L_T) \gtrsim \ln N_{ch} $, the gas is dimerized, i.e. consists of bound
+neutral pairs. At lower temperatures, $\ln N_{ch} \gtrsim G(L_T) \gtrsim 1$,
+the pairs overlap and form a Coulomb plasma. The crossover between the two
+regimes occurs at a parametrically large conductance $G(L_T) \sim \ln N_{ch}$,
+and may be studied independently from the perturbative effects. Specializing to
+the high temperature regime, we obtain the leading nonperturbative correction
+to the wire heat capacity. Its ratio to the heat capacity for noninteracting
+electrons, C_0, is $\delta C/C_0\sim N_{ch}G^2(L_T)e^{-2G(L_T)}$.

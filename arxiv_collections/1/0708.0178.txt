@@ -1,0 +1,10 @@
+An overview is given on those theoretical gravitational lensing results that
+can be formulated in a spacetime setting, without assuming that the
+gravitational fields are weak and that the bending angles are small. The first
+part is devoted to analytical methods considering spacetimes in which the
+equations for light rays (lightlike geodesics) is completely integrable. This
+includes spherically symmetric static spacetimes, the Kerr spacetime and plane
+gravitational waves. The second part is devoted to qualitative methods which
+give some information on lensing properties without actually solving the
+equation for lightlike geodesics. This includes Morse theory, methods from
+differential topology and bifurcation theory.

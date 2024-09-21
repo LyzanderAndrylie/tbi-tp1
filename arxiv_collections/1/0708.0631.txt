@@ -1,0 +1,14 @@
+Motivated by the work of Kitaev, we construct an exactly soluble
+spin-$\frac{1}2$ model on honeycomb lattice whose ground states are identical
+to $\Delta_{1x}p_x+\Delta_{1y}p_y+i(\Delta_{2x}p_x+\Delta_{2y}p_y)$-wave paired
+fermions on square lattice, with tunable paring order parameters. We derive a
+universal phase diagram for this general p-wave theory which contains a gapped
+A phase and a topologically non-trivial B phase. We show that the gapless
+condition in the B phase is governed by a generalized inversion (G-inversion)
+symmetry under $p_x\leftrightarrow {\Delta_{1y}\over \Delta_{1x}} p_y$. The
+G-inversion symmetric gapless B phase near the phase boundaries is described by
+1+1-dimensional gapless Majorana fermions in the asymptotic long wave length
+limit, i.e. the $c=1/2$ conformal field theory. The gapped B phase has
+G-inversion symmetry breaking and is the weak pairing phase described by the
+Moore-Read Pfaffian. We show that in the gapped B phase, vortex pair
+excitations are separated from the ground state by a finite energy gap.

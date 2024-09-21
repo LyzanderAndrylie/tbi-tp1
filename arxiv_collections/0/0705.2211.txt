@@ -1,0 +1,12 @@
+Berry phases and the quantum-information theoretic notion of fidelity have
+been recently used to analyze quantum phase transitions from a geometrical
+perspective. In this paper we unify these two approaches showing that the
+underlying mechanism is the critical singular behavior of a complex tensor over
+the Hamiltonian parameter space. This is achieved by performing a scaling
+analysis of this quantum geometric tensor in the vicinity of the critical
+points. In this way most of the previous results are understood on general
+grounds and new ones are found. We show that criticality is not a sufficient
+condition to ensure superextensive divergence of the geometric tensor, and
+state the conditions under which this is possible. The validity of this
+analysis is further checked by exact diagonalization of the spin-1/2 XXZ
+Heisenberg chain.

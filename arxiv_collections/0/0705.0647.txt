@@ -1,0 +1,18 @@
+We present the SFI++ dataset, a homogeneously derived catalog of photometric
+and rotational properties and the Tully-Fisher distances and peculiar
+velocities derived from them. We make use of digital optical images, optical
+long-slit spectra, and global HI line profiles to extract parameters of
+relevance to disk scaling relations, incorporating several previously published
+datasets as well as a new photometric sample of some 2000 objects. According to
+the completeness of available redshift samples over the sky area, we exploit
+both a modified percolation algorithm and the Voronoi-Delaunay method to assign
+individual galaxies to groups as well as clusters, thereby reducing scatter
+introduced by local orbital motions. We also provide corrections to the
+peculiar velocities for both homogeneous and inhomogeneous Malmquist bias,
+making use of the 2MASS Redshift Survey density field to approximate large
+scale structure. We summarize the sample selection criteria, corrections made
+to raw observational parameters, the grouping techniques, and our procedure for
+deriving peculiar velocities. The final SFI++ peculiar velocity catalog of 4861
+field and cluster galaxies is large enough to permit the study not just of the
+global statistics of large scale flows but also of the {\it details} of the
+local velocity field.

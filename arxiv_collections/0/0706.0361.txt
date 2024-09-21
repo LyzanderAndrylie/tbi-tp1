@@ -1,0 +1,7 @@
+Taking advantage of an improved genetic optimization algorithm for fitting
+unconstrained Kepler orbits to the Hipparcos intermediate astrometric data, we
+obtain additional orbital solutions for 81 Hipparcos stars with previous
+stochastic (failed) solutions. The sample includes astrophysically interesting
+objects, including the old disk wide binary HIP 754, the nearby AGB star HIP
+34922 (L2 Pup), and the nearby M2 dwarf HIP 5496 (GJ 54, at 8 pc from the Sun)
+which has a resolved M dwarf companion.

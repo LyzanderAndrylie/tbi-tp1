@@ -1,0 +1,12 @@
+For any smooth algebraic curve C, Pavel Etingof introduced a `global'
+Cherednik algebra as a natural deformation of the cross product of the algebra
+of differential operators on C^n and the symmetric group. We provide a
+construction of the global Cherednik algebra in terms of quantumn Hamiltonian
+reduction. We study a category of character D-modules on a representation
+scheme associated to C and define a Hamiltonian reduction functor from that
+category to category O for the global Cherednik algebra.
+  In the special case where the curve C is the multiplicative group, the global
+Cherednik algebra reduces to the trigonometric Cherednik algebra of type A, and
+our character D-modules become holonomic D-modules on GL_n \times C^n. The
+corresponding perverse sheaves are reminiscent of (and include as special
+cases) Lusztig's character sheaves.

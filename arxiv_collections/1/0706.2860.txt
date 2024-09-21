@@ -1,0 +1,7 @@
+The authors of Ref. [1] claim to have experimental verification of violations
+of the second law of thermodynamics based on the assertions: (i) "for large
+systems and over long times the entropy production rate is necessarily
+positive"; (ii) Loschmidt's paradox interpreted as indicating that entropy
+production can be both positive and negative; (iii) and violations of the
+second law for small systems over short time scales predicted by the
+fluctuation theorem FT [2]. Neither the claim nor the assertions are correct.

@@ -1,0 +1,11 @@
+We prove a global existence theorem for the $3\times 3$ system of
+relativistic Euler equations in one spacial dimension. It is shown that in the
+ultra-relativistic limit, there is a family of equations of state that satisfy
+the second law of thermodynamics for which solutions exist globally. With this
+limit and equation of state, which includes equations of state for both an
+ideal gas and one dominated by radiation, the relativistic Euler equations can
+be analyzed by a Nishida-type method leading to a large data existence theorem,
+including the entropy and particle number evolution, using a Glimm scheme. Our
+analysis uses the fact that the equations of state are of the form $p=p(n,S)$,
+but whose form simplifies to $p=a^{2}\rho$ when viewed as a function of $\rho$
+alone.

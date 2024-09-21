@@ -1,0 +1,13 @@
+Holas, Howard and March [Phys. Lett. A {\bf 310}, 451 (2003)] have obtained
+analytic solutions for ground-state properties of a whole family of
+two-electron spin-compensated harmonically confined model atoms whose different
+members are characterized by a specific interparticle potential energy
+u($r_{12}$). Here, we make a start on the dynamic generalization of the
+harmonic external potential, the motivation being the serious criticism
+levelled recently against the foundations of time-dependent density-functional
+theory (e.g. [J. Schirmer and A. Dreuw, Phys. Rev. A {\bf 75}, 022513 (2007)]).
+In this context, we derive a simplified expression for the time-dependent
+electron density for arbitrary interparticle interaction, which is fully
+determined by an one-dimensional non-interacting Hamiltonian. Moreover, a
+closed solution for the momentum space density in the Moshinsky model is
+obtained.

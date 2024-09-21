@@ -1,0 +1,9 @@
+In this paper we consider general relativity and its combination with scalar
+quantum electrodynamics (QED) as an effective quantum field theory at energies
+well below the Planck scale. This enables us to compute the one-loop quantum
+corrections to the Newton and Coulomb potential induced by the combination of
+graviton and photon fluctuations. We derive the relevant Feynman rules and
+compute the nonanalytical contributions to the one-loop scattering matrix for
+charged scalars in the nonrelativistic limit. In particular, we derive the
+post-Newtonian corrections of order $Gm/\text c^2 r$ from general relativity
+and the genuine quantum corrections of order $G\hbar/\text c^3 r^2$.

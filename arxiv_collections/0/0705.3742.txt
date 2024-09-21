@@ -1,0 +1,6 @@
+We study the phenomenon of nonlinear stochastic resonance (SR) in a complex
+noisy system formed by a finite number of interacting subunits driven by
+rectangular pulsed time periodic forces. We find that very large SR gains are
+obtained for subthreshold driving forces with frequencies much larger than the
+values observed in simpler one-dimensional systems. These effects are explained
+using simple considerations.

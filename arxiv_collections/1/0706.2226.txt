@@ -1,0 +1,11 @@
+Photonic entanglement has a wide range of applications in quantum computation
+and communication. Here we introduce a new device: the "photonic module", which
+allows for the rapid, deterministic preparation of a large class of entangled
+photon states. The module is an application independent, "plug and play"
+device, with sufficient flexibility to prepare entanglement for all major
+quantum computation and communication applications in a completely
+deterministic fashion without number-discriminated photon detection. We present
+two alternative constructions for the module, one using free-space components
+and one in a photonic bandgap structures. The natural operation of the module
+is to generate states within the stabilizer formalism and we present an
+analysis on the cavity-QED requirements to experimentally realize this device.

@@ -1,0 +1,10 @@
+We present calculations on the magnetocapacitance of the two-dimensional
+electron gas in a lateral semiconductor superlattice under two-dimensional weak
+periodic potential modulation in the presence of a perpendicular magnetic
+field. Adopting a Gaussian broadening of magnetic-field-dependent width in the
+density of states, we present explicit and simple expressions for the
+magnetocapacitance, valid for the relevant weak magnetic fields and modulation
+strengths. As the modulation strength in both directions increase, beats of the
+magnetocapacitance oscillations are observed, in the low magnetic field range
+(Weiss-oscillations regime), which are absent in the one-dimensional weak
+modulation case.

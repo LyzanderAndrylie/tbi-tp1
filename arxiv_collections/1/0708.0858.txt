@@ -1,0 +1,20 @@
+While the intrinsic anomalous Hall conductivity is normally written in terms
+of an integral of the electronic Berry curvature over the occupied portions of
+the Brillouin zone, Haldane has recently pointed out that this quantity (or
+more precisely, its ``non-quantized part'') may alternatively be expressed as a
+Fermi-surface property. Here we present an {\it ab-initio} approach for
+computing the anomalous Hall conductivity that takes advantage of this
+observation by converting the integral over the Fermi sea into a more efficient
+integral on the Fermi surface only. First, a conventional electronic-structure
+calculation is performed with spin-orbit interaction included.
+Maximally-localized Wannier functions are then constructed by a post-processing
+step in order to convert the {\it ab-initio} electronic structure around the
+Fermi level into a tight-binding-like form. Working in the Wannier
+representation, the Brillouin zone is sampled on a large number of equally
+spaced parallel slices oriented normal to the total magnetization. On each
+slice, we find the intersections of the Fermi-surface sheets with the slice by
+standard contour methods, organize these into a set of closed loops, and
+compute the Berry phases of the Bloch states as they are transported around
+these loops. The anomalous Hall conductivity is proportional to the sum of the
+Berry phases of all the loops on all the slices. Illustrative calculations are
+performed for Fe, Co and Ni.

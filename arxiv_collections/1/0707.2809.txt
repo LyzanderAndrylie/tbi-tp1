@@ -1,0 +1,7 @@
+We show that positivity of {\it every} partial transpose of $N$-partite
+quantum states implies new inequalities on Bell correlations which are stronger
+than standard Bell inequalities by a factor of $2^{(N-1)/2}$. A violation of
+the inequality implies the system is in a bipartite distillable entangled
+state. It turns out that a family of $N$-qubit bound entangled states proposed
+by D\"ur {[Phys. Rev. Lett. {\bf 87}, 230402 (2001)]} violates the inequality
+for $N\geq 4$.

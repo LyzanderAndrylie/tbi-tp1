@@ -1,0 +1,14 @@
+We argue that the well known Dynes formula [Dynes R C {\it et al.} 1978 {\it
+Phys. Rev. Lett.} {\bf 41} 1509] for the superconducting quasiparticle density
+of states, which tries to incorporate the lifetime broadening in an approximate
+way, cannot be justified microscopically for conventional superconductors.
+Instead, we propose a new simple formula in which the energy gap has a finite
+imaginary part $-\Delta_2$ and the quasiparticle energy is real. We prove that
+in the quasiparticle approximation 2$\Delta_2$ gives the quasiparticle decay
+rate at the gap edge for conventional superconductors. This conclusion does not
+depend on the nature of interactions that cause the quasiparticle decay. The
+new formula is tested on the case of a strong coupling superconductor
+Pb$_{0.9}$Bi$_{0.1}$ and an excellent agreement with theoretical predictions is
+obtained. While both the Dynes formula and the one proposed in this work give
+good fits and fit parameters for Pb$_{0.9}$Bi$_{0.1}$, only the latter formula
+can be justified microscopically.

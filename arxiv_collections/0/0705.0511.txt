@@ -1,0 +1,20 @@
+Soil bulk density affects water storage, water and nutrient movement, and
+plant root activity in the soil profile. Its measurement is difficult in field
+conditions. Vibration-induced conductivity fluctuation was investigated to
+quantify soil bulk density with possible field applications in the future. The
+AC electrical conductivity of soil was measured using a pair of blade-like
+electrodes while exposing the soil to periodic vibration. The blades were
+positioned longitudinally and transversally to the direction of the induced
+vibration to enable the calculation of a normalized index. The normalized index
+was expected to provide data independent from the vibration strength and to
+reduce the effect of soil salinity and water content. The experiment was
+conducted on natural and salinized fine sand at two moisture conditions and
+four bulk densities. The blade-shaped electrodes improved electrode-soil
+contact compared to cylindrical electrodes, and thereby, reduced measurement
+noise. Simulations on a simplified resistor lattice indicate that the
+transversal effect increases as soil bulk density decreases. Measurement of dry
+sand showed a negative correlation between the normalized conductivity
+fluctuation and soil bulk density for both longitudinal and transversal
+settings. The decrease in the transversal signal was smaller than expected. The
+wet natural and salinized soils performed very similarly as hypothesized, but
+their normalized VICOF response was not significant to bulk density changes.

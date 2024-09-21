@@ -1,0 +1,15 @@
+The interaction of the electromagnetic field with a two dimensional plasma
+sheet intended to describe the pi-electrons of a carbon nano-tube or a $C_{60}$
+molecule is investigated. By integrating out first the displacement field of
+the plasma or first the electromagnetic field different representations for
+quantities like the Casimir energy are derived which are shown to be consistent
+with one another. Starting from the covariant gauge for the electromagnetic
+field it is shown that the matching conditions to which the presence of the
+plasma sheet can be reduced are different from the commonly used ones. The
+difference in the treatments does not show up in the Casimir force between two
+parallel sheets, but it is present in the Casimir-Polder force between a charge
+or a neutral atom and a sheet. At once, since the plasma sheet is a
+regularization of the conductor boundary conditions, this sheds light on the
+difference in physics found earlier in the realization of conductor boundary
+conditions as 'thin' or 'thick' boundary conditions in
+Phys.Rev.D70(2004)085010.

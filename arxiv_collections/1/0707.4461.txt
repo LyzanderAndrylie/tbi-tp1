@@ -1,0 +1,11 @@
+We report the observation of Shubnikov-de Haas oscillations in the underdoped
+cuprate superconductor YBa$_2$Cu$_4$O$_8$ (Y124). For field aligned along the
+c-axis, the frequency of the oscillations is $660\pm 30$ T, which corresponds
+to $\sim 2.4$ % of the total area of the first Brillouin zone. The effective
+mass of the quasiparticles on this orbit is measured to be $2.7\pm0.3$ times
+the free electron mass. Both the frequency and mass are comparable to those
+recently observed for ortho-II YBa$_2$Cu$_3$O$_{6.5}$ (Y123-II). We show that
+although small Fermi surface pockets may be expected from band structure
+calculations in Y123-II, no such pockets are predicted for Y124. Our results
+therefore imply that these small pockets are a generic feature of the copper
+oxide plane in underdoped cuprates.

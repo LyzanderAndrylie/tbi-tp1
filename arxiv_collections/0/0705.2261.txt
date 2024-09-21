@@ -1,0 +1,18 @@
+We evaluate the doping dependence of the quasiparticle current and low
+temperature superfluid density in two slave-particle theories of the tt't''J
+model -- the slave-boson theory and doped-carrier theory. In the slave-boson
+theory, the nodal quasiparticle current renormalization factor $\alpha$
+vanishes proportionally to the zero temperature superfluid density $\rho_S(0)$;
+however, we find that away from the $\rho_S(0) \to 0$ limit $\alpha$ displays a
+much weaker doping dependence than $\rho_S(0)$. A similar conclusion applies to
+the doped-carrier theory, which differentiates the nodal and antinodal regions
+of momentum space. Due to its momentum space anisotropy, the doped-carrier
+theory enhances the value of $\alpha$ in the hole doped regime, bringing it to
+quantitative agreement with experiments, and reproduces the asymmetry between
+hole and electron doped cuprate superconductors. Finally, we use the
+doped-carrier theory to predict a specific experimental signature of local
+staggered spin correlations in doped Mott insulator superconductors which, we
+propose, should be observed in STM measurements of underdoped high-Tc
+compounds. This experimental signature distinguishes the doped-carrier theory
+from other candidate mean-field theories of high-Tc superconductors, like the
+slave-boson theory and the conventional BCS theory.

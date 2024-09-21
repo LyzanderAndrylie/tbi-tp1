@@ -1,0 +1,10 @@
+Modified gravity models are subject to a number of consistency requirements
+which restrict the form that the function $F(R)$ can take. We study a
+particular class of $F(R)$ functions which satisfy various constraints that
+have been found in the literature. These models have a late time accelerating
+epoch, and an acceptable matter era. We calculate the Friedmann equation for
+our models, and show that in order to satisfy the constraints we impose, they
+must mimic General Relativity plus $\Lambda$ throughout the cosmic history,
+with exponentially suppressed corrections. We also find that the free
+parameters in our model must be fine tuned to obtain an acceptable late time
+accelerating phase. We discuss the generality of this conclusion.

@@ -1,0 +1,15 @@
+The MuCap experiment is a high-precision measurement of the rate for the
+basic electroweak process of muon capture, mu- + p -> n + nu . The experimental
+approach is based on an active target consisting of a time projection chamber
+(TPC) operating with pure hydrogen gas. The hydrogen has to be kept extremely
+pure and at a stable pressure. A Circulating Hydrogen Ultrahigh Purification
+System was designed at the Petersburg Nuclear Physics Institute (PNPI) to
+continuously clean the hydrogen from impurities. The system is based on an
+adsorption cryopump to stimulate the hydrogen flow and on a cold adsorbent for
+the hydrogen cleaning. It was installed at the Paul Scherrer Institute (PSI) in
+2004 and performed reliably during three experiment runs. During several months
+long operating periods the system maintained the hydrogen purity in the
+detector on the level of 20 ppb for moisture, which is the main contaminant,
+and of better than 7 ppb and 5 ppb for nitrogen and oxygen, respectively. The
+pressure inside the TPC was stabilized to within 0.024% of 10 bar at a hydrogen
+flow rate of 3 standard liters per minute.

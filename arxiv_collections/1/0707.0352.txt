@@ -1,0 +1,11 @@
+Pressure-induced phase transitions of spin-crossover materials were simulated
+by a Monte Carlo simulation in the constant pressure ensemble for the first
+time. Here, as the origin of the cooperative interaction, we adopt elastic
+interaction among the distortions of the lattice due to the difference of the
+molecular sizes in different spin states, i.e., the high spin (HS) state and
+the low spin (LS) state. We studied how the temperature dependence of the
+ordering process changes with the pressure, and we obtained a standard sequence
+of temperature dependences that has been found in changing other parameters
+such as strength of the ligand field (S. Miyashita et al., Prog. Theor. Phys.
+\textbf{114}, 719 (2005)). Various effects of pressure on the spin-crossover
+ordering process are examined from a unified point of view.

@@ -1,0 +1,13 @@
+We report on the Scanning Tunneling Microscope (STM) observation of linear
+fringes together with spatially varying super-lattice structures on (0001)
+graphite (HOPG) surface. The structure, present in a region of a layer bounded
+by two straight carbon fibers, varies from a hexagonal lattice of 6nm
+periodicity to nearly a square lattice of 13nm periodicity. It then changes
+into a one-dimensional (1-D) fringe-like pattern before relaxing into a
+pattern-free region. We attribute this surface structure to a shear strain
+giving rise to a spatially varying rotation of the affected graphite layer
+relative to the bulk substrate. We propose a simple method to understand these
+moire patterns by looking at the fixed and rotated lattices in the Fourier
+transformed k-space. Using this approach we can reproduce the spatially varying
+2-D lattice as well as the 1-D fringes by simulation. The 1-D fringes are found
+to result from a particular spatial dependence of the rotation angle.

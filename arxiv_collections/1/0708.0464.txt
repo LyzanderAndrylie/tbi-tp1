@@ -1,0 +1,7 @@
+The impedance measurement technique consists in that the phase-dependent
+(parametric) inductance of the system is probed by the classical tank circuit
+via measuring the voltage. The notion of the parametric inductance for the
+impedance measurement technique is revisited for the case when a quantum system
+is probed. Measurement of the quantum state of the system of superconducting
+circuits (qubits) is studied theoretically. It is shown that the result of the
+measurement is defined by the partial energy levels populations in the qubits.

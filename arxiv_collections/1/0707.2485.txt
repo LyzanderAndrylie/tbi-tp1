@@ -1,0 +1,18 @@
+A combined experimental and numerical study of the boundary layer in a 4:1
+aspect-ratio Rayleigh-B\'{e}nard cell over a four-decade range of Rayleigh
+numbers has been undertaken aimed at gaining a better insight into the
+character of the boundary layers. The experiments involved the simultaneous
+Laser Doppler Anemometry (LDA) measurements of fluid velocity at two locations,
+i.e. in the boundary layer and far away from it in the bulk, for Rayleigh
+numbers varying between $1.6 \times 10^7$ and $2.4 \times 10^9$. In parallel,
+direct numerical simulations (DNS) have been performed for the same
+configuration for Rayleigh numbers between $7.0 \times 10^4$ and $7.7 \times
+10^7$. The temperature and velocity probability density functions and the power
+spectra of the horizontal velocity fluctuations measured in the boundary layer
+and in the bulk flow are found to be practically identical. Except for the
+smallest Rayleigh numbers, the spectra in the boundary layer and in the bulk
+central region are continuous and have a wide range of active scales. This
+indicates that both the bulk and the boundary layers are turbulent in the
+$\textrm{Ra}$ number range considered. However, molecular effects can still be
+observed and the boundary layer does not behave like a classical shear-driven
+turbulent boundary layer.

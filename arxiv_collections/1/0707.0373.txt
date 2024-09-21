@@ -1,0 +1,15 @@
+A search is performed for Higgs bosons decaying into invisible final states,
+produced in association with a Zo boson in e+e- collisions at energies between
+183 and 209 GeV. The search is based on data samples collected by the OPAL
+detector at LEP corresponding to an integrated luminosity of about 660 pb-1.
+The analysis aims to select events containing the hadronic decay products of
+the Zo boson and large missing momentum, as expected from Higgs boson decay
+into a pair of stable weakly interacting neutral particles, such as the
+lightest neutralino in the Minimal Supersymmetric Standard Model. The same
+analysis is applied to a search for nearly invisible Higgs boson cascade decays
+into stable weakly interacting neutral particles. No excess over the expected
+background from Standard Model processes is observed. Limits on the production
+of invisibly decaying Higgs bosons produced in association with a Zo boson are
+derived. Assuming a branching ratio BR(ho->invisible)=1, a lower limit of 108.2
+GeV is placed on the Higgs boson mass at the 95% confidence level. Limits on
+the production of nearly invisibly decaying Higgs bosons are also obtained.

@@ -1,0 +1,19 @@
+We study by extensive Monte Carlo simulations the transport of itinerant
+spins travelling inside a multilayer composed of three ferromagnetic films
+antiferromagnetically coupled to each other in a sandwich structure. The two
+exterior films interact with the middle one through non magnetic spacers. The
+spin model is the Ising one and the in-plane transport is considered. Various
+interactions are taken into account. We show that the current of the itinerant
+spins going through this system depends strongly on the magnetic ordering of
+the multilayer: at temperatures $T$ below (above) the transition temperature
+$T_c$, a strong (weak) current is observed. This results in a strong jump of
+the resistance across $T_c$. Moreover, we observe an anomalous variation,
+namely a peak, of the spin current in the critical region just above $T_c$. We
+show that this peak is due to the formation of domains in the temperature
+region between the low-$T$ ordered phase and the true paramagnetic disordered
+phase. The existence of such domains is known in the theory of critical
+phenomena. The behavior of the resistance obtained here is compared to a recent
+experiment. An excellent agreement with our physical interpretation is
+observed. We also show and discuss effects of various physical parameters
+entering our model such as interaction range, strength of electric and magnetic
+fields and magnetic film and non magnetic spacer thicknesses.

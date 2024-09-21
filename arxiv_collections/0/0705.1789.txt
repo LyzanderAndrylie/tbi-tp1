@@ -1,0 +1,8 @@
+We consider the level of information security provided by random linear
+network coding in network scenarios in which all nodes comply with the
+communication protocols yet are assumed to be potential eavesdroppers (i.e.
+"nice but curious"). For this setup, which differs from wiretapping scenarios
+considered previously, we develop a natural algebraic security criterion, and
+prove several of its key properties. A preliminary analysis of the impact of
+network topology on the overall network coding security, in particular for
+complete directed acyclic graphs, is also included.

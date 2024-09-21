@@ -1,0 +1,17 @@
+A molecular theory of liquid water is identified and studied on the basis of
+computer simulation of the TIP3P model of liquid water. This theory would be
+exact for models of liquid water in which the intermolecular interactions
+vanish outside a finite spatial range, and therefore provides a precise
+analysis tool for investigating the effects of longer-ranged intermolecular
+interactions. We show how local order can be introduced through quasi-chemical
+theory. Long-ranged interactions are characterized generally by a conditional
+distribution of binding energies, and this formulation is interpreted as a
+regularization of the primitive statistical thermodynamic problem. These
+binding-energy distributions for liquid water are observed to be unimodal. The
+gaussian approximation proposed is remarkably successful in predicting the
+Gibbs free energy and the molar entropy of liquid water, as judged by
+comparison with numerically exact results. The remaining discrepancies are
+subtle quantitative problems that do have significant consequences for the
+thermodynamic properties that distinguish water from many other liquids. The
+basic subtlety of liquid water is found then in the competition of several
+effects which must be quantitatively balanced for realistic results.

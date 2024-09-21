@@ -1,0 +1,4 @@
+We show experimentally the scenario of a two-frequency torus $T^2$ breakdown,
+in which a global bifurcation occurs due to the collision of a torus with an
+unstable periodic orbit, creating a heteroclinic saddle connection, followed by
+an intermittent behavior.

@@ -1,0 +1,8 @@
+We study the phase diagram of the 2D $J_1$-$J_1'$-$J_2$ spin-1/2 Heisenberg
+model by means of the coupled cluster method. The effect of the coupling $J_1'$
+on the Neel and stripe states is investigated. We find that the quantum
+critical points for the Neel and stripe phases increase as the coupling
+strength $J_1'$ is increased, and an intermediate phase emerges above the
+region at $J_1' \approx 0.6$ when $J_1=1$. We find indications for a quantum
+triple point at $J_1' \approx 0.60 \pm 0.03$, $J_2 \approx 0.33 \pm 0.02$ for
+$J_1=1$.

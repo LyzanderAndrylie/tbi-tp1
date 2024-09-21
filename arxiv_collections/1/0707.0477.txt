@@ -1,0 +1,6 @@
+A method for displaying volumetric images, which exploits our binocular
+vision and does not require eyewear, is discussed. The display can be rendered
+as a matrix of pivoting micromirrors irradiated by a light beam; each
+micromirror focuses its pixel beams to the same point of displayed volumetric
+image. 3D perception of image can be achieved by scanning the point of beams
+intersection over a virtual surface of displayed image in space.

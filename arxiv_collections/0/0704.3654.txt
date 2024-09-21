@@ -1,0 +1,18 @@
+We report on a deep search for CO(J=3-2) line emission from the host galaxy
+of GRB 980425 with the Atacama Submillimeter Telescope Experiment (ASTE). We
+observed five points of the galaxy covering the entire region. After combining
+all of the spectra, we obtained a global spectrum with the rms noise level of
+3.3 mK in T_mb scale at a velocity resolution of 10 km s^-1. No significant
+emission was detected, though we find a marginal emission feature in the
+velocity range corresponding to the redshift of the galaxy. We derive 3 sigma
+upper limits on the global properties: the velocity-integrated CO(3-2)
+intensity of I_CO(3-2) < 0.26 K km s^-1 by adopting a velocity width of 67 km
+s^-1; the H_2 column density of N(H_2) < 3 x 10^20 cm^-2; the molecular gas
+mass of M(H_2) < 3 x 10^8 M_sun, by assuming a CO line luminosity to H_2
+molecular gas mass conversion factor of X_CO = 5.0 x 10^20 cm^-2 (K km
+s^-1)^-1; and the star formation rate of SFR < 0.1 M_sun yr^-1, based on the
+Schmidt law. The SFR is consistent with the previous results of H_alpha and
+mid-IR observations, thereby suggesting that there is no significant obscured
+star formation in the host galaxy of GRB 980425. This result implies that there
+is a variety of GRB hosts with regard to the presence of obscured star
+formation.

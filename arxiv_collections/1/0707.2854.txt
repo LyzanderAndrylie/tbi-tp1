@@ -1,0 +1,5 @@
+We perform a canonical quantization of gravity in a second-order formulation,
+taking as configuration variables those describing a 4-bein, not adapted to the
+space-time splitting. We outline how, neither if we fix the Lorentz frame
+before quantizing, nor if we perform no gauge fixing at all, is invariance
+under boost transformations affected by the quantization.

@@ -1,0 +1,8 @@
+The usual scenario in fault tolerant quantum computation involves certain
+amount of qubits encoded in each code block, transversal operations between
+them and destructive measurements of ancillary code blocks. We introduce a new
+approach in which a single code layer is used for the entire computation, in
+particular a surface code. Qubits can be created, manipulated and
+non-destructively measured by code deformations that amount to `cut and paste'
+operations in the surface. All the interactions between qubits remain purely
+local in a two-dimensional setting.

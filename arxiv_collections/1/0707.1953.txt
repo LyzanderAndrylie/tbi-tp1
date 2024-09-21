@@ -1,0 +1,22 @@
+We study the effect of antiferromagnetic interactions on the single spin-flip
+Glauber dynamics of two different one-dimensional (1D) Ising models with spin
+$\pm 1$. The first model is an Ising chain with antiferromagnetic exchange
+interaction limited to nearest neighbors and subject to an oscillating magnetic
+field. The system of master equations describing the time evolution of
+sublattice magnetizations can easily be solved within a linear field
+approximation and a long time limit. Resonant behavior of the magnetization as
+a function of temperature (stochastic resonance) is found, at low frequency,
+only when spins on opposite sublattices are uncompensated owing to different
+gyromagnetic factors (i.e., in the presence of a ferrimagnetic short range
+order). The second model is the axial next-nearest neighbor Ising (ANNNI)
+chain, where an antiferromagnetic exchange between next-nearest neighbors (nnn)
+is assumed to compete with a nearest-neighbor (nn) exchange interaction of
+either sign. The long time response of the model to a weak, oscillating
+magnetic field is investigated in the framework of a decoupling approximation
+for three-spin correlation functions, which is required to close the system of
+master equations. The calculation, within such an approximate theoretical
+scheme, of the dynamic critical exponent z, defined as ${1/\tau} \approx ({1/
+{\xi}})^z$ (where \tau is the longest relaxation time and \xi is the
+correlation length of the chain), suggests that the T=0 single spin-flip
+Glauber dynamics of the ANNNI chain is in a different universality class than
+that of the unfrustrated Ising chain.

@@ -1,0 +1,13 @@
+We consider a model of a detector of ballistic electrons at the edge of a
+two-dimensional electron gas in the integer quantum Hall regime. The electron
+is detected by capacitive coupling to a gate which is also coupled to a passive
+RC circuit. Using a quantum description of this circuit, we determine the
+signal over noise ratio of the detector in term of the detector
+characteristics. The back-action of the detector on the incident wavepacket is
+then computed using a Feynman-Vernon influence functional approach. Using
+information theory, we define the appropriate notion of quantum limit for such
+an "on the fly" detector. We show that our particular detector can approach the
+quantum limit up to logarithms in the ratio of the measurement time over the RC
+relaxation time. We argue that such a weak logarithmic effect is of no
+practical significance. Finally we show that a two-electron interference
+experiment can be used to probe the detector induced decoherence.

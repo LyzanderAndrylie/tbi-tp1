@@ -1,0 +1,9 @@
+By means of contractions of Lie algebras, we obtain new classes of
+indecomposable quasi-classical Lie algebras that satisfy the Yang-Baxter
+equations in its reformulation in terms of triple products. These algebras are
+shown to arise naturally from non-compact real simple algebras with non-simple
+complexification, where we impose that a non-degenerate quadratic Casimir
+operator is preserved by the limiting process. We further consider the converse
+problem, and obtain sufficient conditions on integrable cocycles of
+quasi-classical Lie algebras in order to preserve non-degenerate quadratic
+Casimir operators by the associated linear deformations.

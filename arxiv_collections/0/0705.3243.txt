@@ -1,0 +1,10 @@
+Traceroute sampling is an important technique in exploring the internet
+router graph and the autonomous system graph. Although it is one of the primary
+techniques used in calculating statistics about the internet, it can introduce
+bias that corrupts these estimates. This paper reports on a theoretical and
+experimental investigation of a new technique to reduce the bias of traceroute
+sampling when estimating the degree distribution. We develop a new estimator
+for the degree of a node in a traceroute-sampled graph; validate the estimator
+theoretically in Erdos-Renyi graphs and, through computer experiments, for a
+wider range of graphs; and apply it to produce a new picture of the degree
+distribution of the autonomous system graph.

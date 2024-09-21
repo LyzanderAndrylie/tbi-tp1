@@ -1,0 +1,17 @@
+In this paper, we model the evolution and self-assembly of randomly oriented
+carbon nanotubes (CNTs), grown on a metallic substrate in the form of a thin
+film for field emission under diode configuration. Despite high output, the
+current in such a thin film device often decays drastically. The present paper
+is focused on understanding this problem. A systematic, multiphysics based
+modelling approach is proposed. First, a nucleation coupled model for
+degradation of the CNT thin film is derived, where the CNTs are assumed to
+decay by fragmentation and formation of clusters. The random orientation of the
+CNTs and the electromechanical interaction are then modeled to explain the
+self-assembly. The degraded state of the CNTs and the electromechanical force
+are employed to update the orientation of the CNTs. Field emission current at
+the device scale is finally obtained by using the Fowler-Nordheim equation and
+integration over the computational cell surfaces on the anode side. The
+simulated results are in close agreement with the experimental results. Based
+on the developed model, numerical simulations aimed at understanding the
+effects of various geometric parameters and their statistical features on the
+device current history are reported.

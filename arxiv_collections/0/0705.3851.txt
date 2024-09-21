@@ -1,0 +1,8 @@
+The joint cumulative distribution function for order statistics arising from
+several different populations is given in terms of the distribution function of
+the populations. The computational cost of the formula in the case of two
+populations is still exponential in the worst case, but it is a dramatic
+improvement compared to the general formula by Bapat and Beg. In the case when
+only the joint distribution function of a subset of the order statistics of
+fixed size is needed, the complexity is polynomial, for the case of two
+populations.

@@ -1,0 +1,15 @@
+We extend a quantum model in Hilbert space developed in Aerts (2007a) into a
+quantum field theoric model in Fock space for the modeling of the combination
+of concepts. Items and concepts are represented by vectors in Fock space and
+membership weights of items are modeled by quantum probabilities. We apply this
+theory to model the disjunction of concepts and show that the predictions of
+our theory for the membership weights of items regarding the disjunction of
+concepts match with great accuracy the complete set of results of an experiment
+conducted by Hampton (1988b). It are the quantum effects of interference and
+superposition of that are at the origin of the effects of overextension and
+underextension observed by Hampton as deviations from a classical use of the
+disjunction. It is essential for the perfect matches we obtain between the
+predictions of the quantum field model and Hampton's experimental data that
+items can be in superpositions of `different numbers states' which proves that
+the genuine structure of quantum field theory is needed to match predictions
+with experimental data.

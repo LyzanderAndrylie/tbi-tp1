@@ -1,0 +1,12 @@
+We suggest a modification of the Barrett-Crane spin foam model of
+4-dimensional Lorentzian general relativity motivated by the canonical
+quantization. The starting point is Lorentz covariant loop quantum gravity. Its
+kinematical Hilbert space is found as a space of the so-called projected spin
+networks. These spin networks are identified with the boundary states of a spin
+foam model and provide a generalization of the unique Barrette-Crane
+intertwiner. We propose a way to modify the Barrett-Crane quantization
+procedure to arrive at this generalization: the B field (bi-vectors) should be
+promoted not to generators of the gauge algebra, but to their certain
+projection. The modification is also justified by the canonical analysis of
+Plebanski formulation. Finally, we compare our construction with other
+proposals to modify the Barret-Crane model.

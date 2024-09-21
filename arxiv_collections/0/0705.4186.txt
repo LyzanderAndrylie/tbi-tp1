@@ -1,0 +1,10 @@
+Four families of special functions, depending on n variables, are studied. We
+call them symmetric and antisymmetric multivariate sine and cosine functions.
+They are given as determinants or antideterminants of matrices, whose matrix
+elements are sine or cosine functions of one variable each. These functions are
+eigenfunctions of the Laplace operator, satisfying specific conditions at the
+boundary of a certain domain F of the n-dimensional Euclidean space. Discrete
+and continuous orthogonality on F of the functions within each family, allows
+one to introduce symmetrized and antisymmetrized multivariate Fourier-like
+transforms, involving the symmetric and antisymmetric multivariate sine and
+cosine functions.

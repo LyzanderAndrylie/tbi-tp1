@@ -1,0 +1,12 @@
+We employ the formalism of bond currents, expressed in terms of the
+nonequilibrium Green functions, to image the charge flow between two sites of
+the honeycomb lattice of graphene ribbons of few nanometers width. In sharp
+contrast to nonrelativistic electrons, current density profiles of quantum
+transport at energies close to the Dirac point in clean zigzag graphene
+nanoribbons (ZGNR) differs markedly from the profiles of charge density peaked
+at the edges due to zero-energy localized edge states. For transport through
+the lowest propagating mode induced by these edge states, edge vacancies do not
+affect current density peaked in the center of ZGNR. The long-range potential
+of a single impurity acts to reduce local current around it while concurrently
+increasing the current density along the zigzag edge, so that ZGNR conductance
+remains perfect $G=2e^2/h$.

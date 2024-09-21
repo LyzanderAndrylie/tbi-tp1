@@ -1,0 +1,13 @@
+We investigate whether a mass scale for elementary particles can be derived
+from interactions of particles with distant matter in the Universe, the
+mechanism of the interaction being the classical vector potential, propagating
+in a space of negative curvature. A possible context for such a mass scale is
+conformal gravity. This theory may prove to be renormalizable, since all
+coupling constants are dimensionless; conversely, however, there is no coupling
+constant analogous to the conventional G to provide a starting point for a mass
+scale calculation. We obtain the equations for propagation of the vector
+potential of a charged particle moving in a plasma in a curved space. We then
+show that distant matter will contribute to A**2, and that this non-thermal
+part will eventually dominate the ordinary thermal part. At this point a
+symmetry breaking transition of the Coleman-Weinberg type is possible, and
+particle masses can be generated with m**2 of order A**2.

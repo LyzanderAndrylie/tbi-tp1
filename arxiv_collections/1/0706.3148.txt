@@ -1,0 +1,11 @@
+From a macroscopic point of view phase transitions as surface melting or two
+dimensional (2D) towards three dimensional (3D) growth mode (Stranski-Krastanov
+transition) can be described in terms of Gibbs excess quantity duly amended by
+size effects (since usual Gibbs excess quantities are only well defined for
+semi-infinite systems). The aim of this study is to consider such amended
+quantities to describe surface melting and Stranski-Krastanov transition of
+epitaxial layers. the so-introduced size effects allows us to predict the
+equilibrium thickness of the wetting layer of the Stranski-Krastanov growth
+mode and to describe and classify two different melting cases: the incomplete
+melting relayed by a first order transition and the continuous premelting
+relayed by continuous overheating

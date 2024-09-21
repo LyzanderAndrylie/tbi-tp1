@@ -1,0 +1,12 @@
+Coarsening kinetics is usually described using a linear gradient
+approximation for the underlying interface migration (IM) rates, wherein the
+migration fluxes at the interfaces vary linearly with the driving force. Recent
+experimental studies have shown that coarsening of nanocrystalline interface
+microstructures is unexpectedly stable compared to conventional parabolic
+coarsening kinetics. Here, we show that during early stage coarsening of these
+microstructures, IM rates can develop a non-linear dependence on the driving
+force, the mean interface curvature. We derive the modified mean field law for
+coarsening kinetics. Molecular dynamics simulations of individual grain
+boundaries reveal a sub-linear curvature dependence of IM rates, suggesting an
+intrinsic origin for the slow coarsening kinetics observed in polycrystalline
+metals.

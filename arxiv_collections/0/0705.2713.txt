@@ -1,0 +1,20 @@
+Late phase nebular spectra and photometry of Type Ib Supernova (SN) 2005bf
+taken by the Subaru telescope at ~ 270 and ~ 310 days since the explosion are
+presented. Emission lines ([OI]6300, 6363, [CaII]7291, 7324, [FeII]7155) show
+the blueshift of ~ 1,500 - 2,000 km s-1. The [OI] doublet shows a doubly-peaked
+profile. The line luminosities can be interpreted as coming from a blob or jet
+containing only ~ 0.1 - 0.4 Msun, in which ~ 0.02 - 0.06 Msun is 56Ni
+synthesized at the explosion. To explain the blueshift, the blob should either
+be of unipolar moving at the center-of-mass velocity v ~ 2,000 - 5,000 km s-1,
+or suffer from self-absorption within the ejecta as seen in SN 1990I. In both
+interpretations, the low-mass blob component dominates the optical output both
+at the first peak (~ 20 days) and at the late phase (~ 300 days). The low
+luminosity at the late phase (the absolute R magnitude M_R ~ -10.2 mag at ~ 270
+days) sets the upper limit for the mass of 56Ni < ~ 0.08 Msun, which is in
+contradiction to the value necessary to explain the second, main peak
+luminosity (M_R ~ -18.3 mag at ~ 40 days). Encountered by this difficulty in
+the 56Ni heating model, we suggest an alternative scenario in which the heating
+source is a newly born, strongly magnetized neutron star (a magnetar) with the
+surface magnetic field Bmag ~ 10^{14-15} gauss and the initial spin period P0 ~
+10 ms. Then, SN 2005bf could be a link between normal SNe Ib/c and an X-Ray
+Flash associated SN 2006aj, connected in terms of Bmag and/or P0.

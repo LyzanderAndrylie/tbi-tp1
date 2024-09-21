@@ -1,0 +1,13 @@
+It is known that an identical delay in all transmission lines can destabilize
+macroscopic stationarity of a neural network, causing oscillation or chaos. We
+analyze the collective dynamics of a network whose intra-transmission delays
+are distributed in time. Here, a neuron is modeled as a discrete-time threshold
+element that responds in an all-or-nothing manner to a linear sum of signals
+that arrive after delays assigned to individual transmission lines. Even though
+transmission delays are distributed in time, a whole network exhibits a single
+collective oscillation with a period close to the average transmission delay.
+The collective oscillation can not only be a simple alternation of the
+consecutive firing and resting, but also nontrivially sequenced series of
+firing and resting, reverberating in a certain period of time. Moreover, the
+system dynamics can be made quasiperiodic or chaotic by changing the
+distribution of delays.

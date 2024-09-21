@@ -1,0 +1,8 @@
+We numerically study the jamming transition in particulate systems with
+attraction by investigating their mechanical response at zero temperature. We
+find three regimes of mechanical behavior separated by two critical
+transitions--connectivity and rigidity percolation. The transitions belong to
+different universality classes than their lattice counterparts, due to force
+balance constraints. We also find that these transitions are unchanged at low
+temperatures and resemble gelation transitions in experiments on colloidal and
+silica gels.

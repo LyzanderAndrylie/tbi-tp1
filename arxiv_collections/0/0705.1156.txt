@@ -1,0 +1,13 @@
+Mixing is one of the basic functions which automated lab-on-chips require for
+the effective management of liquid samples. In this paper we report on the
+working principle, design, fabrication and experimental characterization of a
+soft-lithographed micromixer for microfluidic applications. The device
+effectively mixes two liquids by means of chaotic advection obtained as an
+implementation of a Linked Twisted Map (LTM). In this sense it is chaotic. The
+liquids are electrokinetically displaced by generating rolls through AC
+electroosmosis on co-planar electrodes. The device performance has been tested
+on dyed DI-water for several voltages, frequencies and flow-rates, displaying
+good mixing properties in the range of $10 \div 100$kHz, at low peak-to-peak
+voltages ($\sim15 \div 20$ volts). Low voltage supply, small dimensions and
+possibility of fabrication via standard lithographic techniques make the device
+highly integrable in lab-on-a-chip platforms.

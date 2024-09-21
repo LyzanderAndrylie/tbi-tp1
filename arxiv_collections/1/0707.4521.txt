@@ -1,0 +1,5 @@
+A linear scale method for calculating electronic properties of large and
+complex systems is introduced within a local density approximation. The method
+is based on the Chebyshev polynomial expansion and the time-dependent method,
+which is tested in calculating the electronic structure of a model n-type GaAs
+quantum dot.

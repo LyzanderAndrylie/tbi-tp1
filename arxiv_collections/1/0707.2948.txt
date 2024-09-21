@@ -1,0 +1,9 @@
+We analyze charging effects in graphene quantum dots. Using a simple model,
+we show that, when the Fermi level is far from the neutrality point, charging
+effects lead to a shift in the electrostatic potential and the dot shows
+standard Coulomb blockade features. Near the neutrality point, surface states
+are partially occupied and the Coulomb interaction leads to a strongly
+correlated ground state which can be approximated by either a Wigner crystal or
+a Laughlin like wave function. The existence of strong correlations modify the
+transport properties which show non equilibrium effects, similar to those
+predicted for tunneling into other strongly correlated systems.

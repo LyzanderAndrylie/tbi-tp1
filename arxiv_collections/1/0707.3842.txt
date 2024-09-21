@@ -1,0 +1,8 @@
+I show using Landau theory that quenched dislocations can facilitate the
+supersolid (SS) to normal solid (NS) transition, making it possible for the
+transition to occur even if it does not in a dislocation-free crystal. I make
+detailed predictions for the dependence of the SS to NS transition temperature
+T_c(L), superfluid density %\rho_S(T, L), and specific heat C(T,L) on
+temperature T and dislocation spacing L, all of which can be tested against
+experiments. The results should also be applicable to an enormous variety of
+other systems, including, e.g., ferromagnets.

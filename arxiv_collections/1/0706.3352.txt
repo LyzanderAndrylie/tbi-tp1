@@ -1,0 +1,9 @@
+In this paper we prove a stochastic representation for solutions of the
+evolution equation $ \partial_t \psi_t = {1/2}L^*\psi_t $ where $ L^* $ is the
+formal adjoint of an elliptic second order differential operator with smooth
+coefficients corresponding to the infinitesimal generator of a finite
+dimensional diffusion $ (X_t).$ Given $ \psi_0 = \psi $, a distribution with
+compact support, this representation has the form $ \psi_t = E(Y_t(\psi))$
+where the process $ (Y_t(\psi))$ is the solution of a stochastic partial
+differential equation connected with the stochastic differential equation for $
+(X_t) $ via Ito's formula.

@@ -1,0 +1,13 @@
+The effective recombination coefficient, alpha_eff, is refined for optically
+thin cases. Radiation pressure in Lyman-alpha and HeII Lyman-alpha is
+calculated in terms of the number density and the mean free path. Pressure
+equilibrium between Lyman-alpha clouds and an adiabatically expanding
+inter-galactic medium is assumed, n_i T_i = n_c T_c. Numerical models of
+isothermal and adiabatic expanding Lyman-alpha forest clouds are presented,
+including evolving UV sources (QSOs), with various turn-on times z_on = 20, 10,
+and 5, and with q_0 = 1/2 in a matter-dominated Friedmann-Robertson-Walker
+Universe. These models lead to the conclusion that the radiation pressure and
+QSO turn-on time are significant in determining the range of physical size, D,
+and neutral hydrogen column density, N(HI), permitted for stable Lyman-alpha
+forest clouds.
+  This manuscript was written in 1989 and never submitted for publication.

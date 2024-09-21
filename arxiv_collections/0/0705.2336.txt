@@ -1,0 +1,10 @@
+In case a mirror world with a copy of our ordinary particle spectrum would
+exist, the neutron n and its degenerate partner, the mirror neutron ${\rm n'}$,
+could potentially mix and undergo ${\rm nn'}$ oscillations. The interaction of
+an ordinary magnetic field with the ordinary neutron would lift the degeneracy
+between the mirror partners, diminish the ${\rm n'}$-amplitude in the
+n-wavefunction and, thus, suppress its observability. We report an experimental
+comparison of ultracold neutron storage in a trap with and without superimposed
+magnetic field. No influence of the magnetic field is found and, assuming
+negligible mirror magnetic fields, a limit on the oscillation time $\tau_{\rm
+nn'} > 103$ s (95% C.L.) is derived.

@@ -1,0 +1,12 @@
+The purpose of this paper is to describe the smooth homogeneous
+Calderon-Zygmund operators for which the maximal singular integral T*f may be
+controlled by the singular integral Tf. We consider two types of control. The
+first is the L2 estimate of T*f by Tf, namely the estimate of the L2 norm of
+T*f by a constant times the L2 norm of Tf. The second is the pointwise estimate
+of T*f(x) by a constant times M(Tf)(x), where M denotes the Hardy-Littlewood
+maximal operator. Notice that this is an improved variant of Cotlar's
+inequality, because the term Mf(x) is missing on the right hand side. Our main
+result states that, for even operators, both are equivalent to a purely
+algebraic condition formulated in terms of the expansion of the kernel in
+spherical harmonics. The condition holds by higher order Riesz transforms,
+which then satisfy an improved version of Cotlar's inequality

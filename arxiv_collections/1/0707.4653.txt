@@ -1,0 +1,12 @@
+Superconductivity in hole-doped Li_xNbO_2 has been reported with T_c ~ 5 K in
+the range 0.45 < x < 0.8. The electronic structure is based on a
+two-dimensional triangular Nb lattice. The strong trigonal crystal field
+results in a single Nb d(z^2) band isolated within a wide gap, leading to a
+single-band triangular lattice system. The isolated, partially filled band has
+a width W=1.5 eV with dominant second neighbor hopping. To identify possible
+correlation effects, we apply DMFT(QMC) using on-site Coulomb repulsion U=0-3
+eV, and check selected results using determinant QMC. For U as small as 1 eV,
+the single particle spectrum displays a robust lower Hubbard band, suggesting
+the importance of correlation effects in Li_xNbO_2 even for U < W. At
+half-filling (x=0), a Mott transition occurs at U_c ~ 1.5 eV. Coupling between
+the O A_g phonon displacement and correlation effects is assessed.

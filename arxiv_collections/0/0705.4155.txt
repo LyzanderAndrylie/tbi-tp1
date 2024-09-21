@@ -1,0 +1,12 @@
+Surgery obstruction of a normal map to a simple Poincare pair $(X,Y)$ lies in
+the relative surgery obstruction group $L_*(\pi_1(Y)\to\pi_1(X))$. A well known
+result of Wall, the so called $\pi$-$\pi$ theorem, states that in higher
+dimensions a normal map of a manifold with boundary to a simple Poincare pair
+with $\pi_1(X)\cong\pi_1(Y)$ is normally bordant to a simple homotopy
+equivalence of pairs. In order to study normal maps to a manifold with a
+submanifold, Wall introduced surgery obstruction group for manifold pairs
+$LP_*$ and splitting obstruction groups $LS_*$. In the present paper we
+formulate and prove for manifold pairs with boundaries the results which are
+similar to the $\pi$-$\pi$ theorem. We give direct geometric proofs, which are
+based on the original statements of Wall's results and apply obtained results
+to investigate surgery on filtered manifolds.

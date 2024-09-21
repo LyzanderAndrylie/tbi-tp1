@@ -1,0 +1,10 @@
+The superscaling analysis is extended to include quasielastic (QE) scattering
+via the weak neutral current of neutrinos and antineutrinos from nuclei. The
+scaling function obtained within the coherent density fluctuation model (used
+previously in calculations of QE inclusive electron and charge-changing (CC)
+neutrino scattering) is applied to neutral current neutrino and antineutrino
+scattering with energies of 1 GeV from $^{12}$C with a proton and neutron
+knockout (u-channel inclusive processes). The results are compared with those
+obtained using the scaling function from the relativistic Fermi gas model and
+the scaling function as determined from the superscaling analysis (SuSA) of QE
+electron scattering.

@@ -1,0 +1,13 @@
+We determine the Z-module structure of the preprojective algebra and its
+zeroth Hochschild homology, for any non-Dynkin quiver (and hence the structure
+working over any base commutative ring, of any characteristic). This answers
+(and generalizes) a conjecture of Hesselholt and Rains, producing new
+$p$-torsion classes in degrees 2p^l, l >= 1, We relate these classes by p-th
+power maps and interpret them in terms of the kernel of Verschiebung maps from
+noncommutative Witt theory. An important tool is a generalization of the
+Diamond Lemma to modules over commutative rings, which we give in the appendix.
+  In the previous version, additional results are included, such as: the
+Poisson center of $\text{Sym } HH_0(\Pi)$ for all quivers, the BV algebra
+structure on Hochschild cohomology, including how the Lie algebra structure
+$HH_0(\Pi_Q)$ naturally arises from it, and the cyclic homology groups of
+$\Pi_Q$.

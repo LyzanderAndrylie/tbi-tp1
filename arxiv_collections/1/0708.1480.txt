@@ -1,0 +1,4 @@
+We describe a remarkable relation between the notion of valid formula of
+predicate logic and the specification of network protocols. We give several
+examples such as the acknowledgement of one packet or of a sequence of packets.
+We show how to specify the composition of protocols.

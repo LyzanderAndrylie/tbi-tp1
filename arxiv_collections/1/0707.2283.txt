@@ -1,0 +1,17 @@
+The cosmological constant problem and the compatibility of gravity with
+quantum mechanics are the two most pressing problems in all of gravitational
+theory. While string theory nicely addresses the latter, it has so far failed
+to provide any compelling solution to the former. On the other hand, while
+conformal gravity nicely addresses the cosmological constant problem (by
+naturally quenching the amount by which the cosmological constant gravitates
+rather than by quenching the cosmological constant itself), the fourth order
+derivative conformal theory has long been thought to possess a ghost when
+quantized. However, it has recently been shown by Bender and Mannheim that not
+only do theories based on fourth order derivative equations of motion not have
+ghosts, they actually never had any to begin with, with the apparent presence
+of ghosts being due entirely to treating operators which were not Hermitian on
+the real axis as though they were. When this is taken care of via an underlying
+$\cal P$$\cal T$ symmetry that such theories are found to possess, there are
+then no ghosts at all and the $S$-matrix is fully unitary. Conformal gravity is
+thus advanced as a fully consistent four-dimensional alternative to
+ten-dimensional string theory.

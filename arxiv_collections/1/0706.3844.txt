@@ -1,0 +1,9 @@
+A non-Hermitian operator with a real spectrum and a complete set of
+eigenvectors may serve as the Hamiltonian operator for a unitary quantum system
+provided that one makes an appropriate choice for the defining inner product of
+the physical Hilbert state. We study the consequences of such a choice for the
+representation of states in terms of projection operators and the geometry of
+the state space. This allows for a careful treatment of the quantum
+Brachistochrone problem and shows that it is indeed impossible to achieve
+faster unitary evolutions using PT-symmetric or other non-Hermitian
+Hamiltonians than those given by Hermitian Hamiltonians.

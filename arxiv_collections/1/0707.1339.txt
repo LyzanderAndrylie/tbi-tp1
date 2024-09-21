@@ -1,0 +1,8 @@
+There is a question about the identity of the top quark. Is it the top quark
+of the Standard Model (SM) with electric charge 2/3 or is it an exotic quark
+with charge -4/3? An exotic quark has been proposed by D. Chang et
+al.\cite{hep-ph/9810531, hep-ph/9805273}. This analysis will use the standard
+CDF run II dilepton sample. The key ingredients of this analysis are the
+correct pairing of the lepton and b-jet, the determination of the charge of the
+b-jet. The analysis proceeds by using a binomial distribution and is formulated
+so that rejecting one hypothesis means support for the other hypothesis.

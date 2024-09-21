@@ -1,0 +1,14 @@
+In this work, we calculate the decay rates of the OZI-forbidden processes
+$J/\psi(\Upsilon)\to \pi\pi, \rho\pi$ at the order of the leading-twist
+distribution amplitude. The process of $J/\psi(\Upsilon)\to \pi^+ \pi^-$
+violates isospin conservation and the amplitude is explicitly proportional to
+the isospin violation factor $m_u-m_d$, our numerical results on their decay
+rates are consistent with the data. The process $J/\psi(\Upsilon)\to \rho\pi$
+violates the hadronic helicity conservation and should be suppressed, as
+indicated in literature, its decay rate can only be proportional to $m_q^2$ at
+the order of leading twist. Our theoretical evaluation confirms this statement
+that the theoretical evaluation on $\Gamma(J/\psi(\Upsilon)\to \rho\pi)$ is
+almost one order smaller than the data unless the model parameters take certain
+extreme values. It may imply that the sizable branching ratio of
+$J/\psi(\Upsilon)\to \rho\pi$ should be explained by either higher twist
+contributions or other mechanisms.

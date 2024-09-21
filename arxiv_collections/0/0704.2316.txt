@@ -1,0 +1,21 @@
+This paper is the continuation of a previous one [L. {\v{S}}amaj and B.
+Jancovici, 2007 {\it J. Stat. Mech.} P02002]; for a nearly classical quantum
+fluid in a half-space bounded by a plain plane hard wall (no image forces), we
+had generalized the Wigner-Kirkwood expansion of the equilibrium statistical
+quantities in powers of Planck's constant $\hbar$. As a model system for a more
+detailed study, we consider the quantum two-dimensional one-component plasma: a
+system of charged particles of one species, interacting through the logarithmic
+Coulomb potential in two dimensions, in a uniformly charged background of
+opposite sign, such that the total charge vanishes. The corresponding classical
+system is exactly solvable in a variety of geometries, including the present
+one of a half-plane, when $\beta e^2=2$, where $\beta$ is the inverse
+temperature and $e$ is the charge of a particle: all the classical $n$-body
+densities are known. For the quantum one-component plasma, two sum rules
+involving the truncated two-body density (and, for one of them, the density
+profile) have been derived, a long time ago, by heuristic macroscopic
+arguments: one sum rule is about the asymptotic form along the wall of the
+truncated two-body density, the other one is about the dipole moment of the
+structure factor. In the two-dimensional case at $\beta e^2=2$, we have now
+explicit expressions up to order $\hbar^2$ of these two quantum densities, thus
+we can microscopically check the sum rules at this order. The checks are
+positive, reinforcing the idea that the sum rules are correct.

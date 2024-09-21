@@ -1,0 +1,12 @@
+In this paper the benefits provided by multi-cell processing of signals
+transmitted by mobile terminals which are received via dedicated relay
+terminals (RTs) are assessed. Unlike previous works, each RT is assumed here to
+be capable of full-duplex operation and receives the transmission of adjacent
+relay terminals. Focusing on intra-cell TDMA and non-fading channels, a
+simplified uplink cellular model introduced by Wyner is considered. This
+framework facilitates analytical derivation of the per-cell sum-rate of
+multi-cell and conventional single-cell receivers. In particular, the analysis
+is based on the observation that the signal received at the base stations can
+be interpreted as the outcome of a two-dimensional linear time invariant
+system. Numerical results are provided as well in order to provide further
+insight into the performance benefits of multi-cell processing with relaying.

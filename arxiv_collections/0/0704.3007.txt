@@ -1,0 +1,9 @@
+We study modules over the algebroid stack $\W[\stx]$ of deformation
+quantization on a complex symplectic manifold $\stx$ and recall some results:
+construction of an algebra for $\star$-products, existence of (twisted) simple
+modules along smooth Lagrangian submanifolds, perversity of the complex of
+solutions for regular holonomic $\W[\stx]$-modules, finiteness and duality for
+the composition of ``good'' kernels. As a corollary, we get that the derived
+category of good $\W[\stx]$-modules with compact support is a Calabi-Yau
+category. We also give a conjectural Riemann-Roch type formula in this
+framework.

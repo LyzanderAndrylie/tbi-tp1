@@ -1,0 +1,6 @@
+We present a measurement of the W boson mass using 200/pb of data collected
+in pbar p collisions at sqrt(s) = 1.96 TeV by the CDF II detector at Run II of
+the Fermilab Tevatron. With a sample of 63964 W -> e nu candidates and 51128 W
+-> mu nu candidates, we measure M_W = (80413 +- 34 (stat) +- 34 (syst) = 80413
++- 48) MeV/c^2. This is the most precise single measurement of the W boson mass
+to date.

@@ -1,0 +1,10 @@
+We find non-supersymmetric metastable vacua in four dimensional N=2 gauge
+theories softly broken to N=1 by a superpotential term. First we study the
+simplest case, namely the SU(2) gauge theory without flavors. We study the
+spectrum and lifetime of the metastable vacuum and possible embeddings of the
+model in UV complete theories. Then we consider larger gauge group theories
+with flavors. We show that when we softly break them to N=1, the potential
+induced on specific submanifolds of their moduli space is identical to the
+potential in lower rank gauge theories. Then we show that the potential
+increases when we move away from this submanifold, allowing us to construct
+metastable vacua on them in the theories that can be reduced to the SU(2) case.

@@ -1,0 +1,17 @@
+We present the results of a numerical simulation of propagation of cosmic
+rays with energy above $10^{15}$ eV in a complex magnetic field, made in
+general of a large scale component and a turbulent component. Several
+configurations are investigated that may represent specific aspects of a
+realistic magnetic field of the Galaxy, though the main purpose of this
+investigation is not to achieve a realistic description of the propagation in
+the Galaxy, but rather to assess the role of several effects that define the
+complex problem of propagation. Our simulations of Cosmic Rays in the Galaxy
+will be presented in Paper II. We identified several effects that are difficult
+to interpret in a purely diffusive approach and that play a crucial role in the
+propagation of cosmic rays in the complex magnetic field of the Galaxy. We
+discuss at length the problem of the extrapolation of our results to much lower
+energies where data are available on the confinement time of cosmic rays in the
+Galaxy. The confinement time and its dependence on particles' rigidity are
+crucial ingredients for 1) relating the source spectrum to the observed cosmic
+ray spectrum; 2) quantifying the production of light elements by spallation; 3)
+predicting the anisotropy as a function of energy.

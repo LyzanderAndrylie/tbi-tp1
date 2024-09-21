@@ -1,0 +1,17 @@
+The dynamics of many socioeconomic systems is determined by the decision
+making process of agents. The decision process depends on agent's
+characteristics, such as preferences, risk aversion, behavioral biases, etc..
+In addition, in some systems the size of agents can be highly heterogeneous
+leading to very different impacts of agents on the system dynamics. The large
+size of some agents poses challenging problems to agents who want to control
+their impact, either by forcing the system in a given direction or by hiding
+their intentionality. Here we consider the financial market as a model system,
+and we study empirically how agents strategically adjust the properties of
+large orders in order to meet their preference and minimize their impact. We
+quantify this strategic behavior by detecting scaling relations of allometric
+nature between the variables characterizing the trading activity of different
+institutions. We observe power law distributions in the investment time
+horizon, in the number of transactions needed to execute a large order and in
+the traded value exchanged by large institutions and we show that heterogeneity
+of agents is a key ingredient for the emergence of some aggregate properties
+characterizing this complex system.

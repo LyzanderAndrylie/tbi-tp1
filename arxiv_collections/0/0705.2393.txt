@@ -1,0 +1,6 @@
+This article deals with the problem of gathering information on the time
+evolution of a single metastable quantum system whose evolution is impeded by
+the quantum Zeno effect. It has been found it is in principle possible to
+obtain some information on the time evolution and, depending on the specific
+system, even to measure its average decay rate, even if the system does not
+undergo any evolution at all.

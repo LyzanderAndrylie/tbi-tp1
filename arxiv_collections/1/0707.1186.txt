@@ -1,0 +1,13 @@
+We study the quantization of abelian gauge theories of principal torus
+bundles over compact manifolds with and without boundary. It is shown that
+these gauge theories suffer from a Gribov ambiguity originating in the
+non-triviality of the bundle of connections whose geometrical structure will be
+analyzed in detail. Motivated by the stochastic quantization approach we
+propose a modified functional integral measure on the space of connections that
+takes the Gribov problem into account. This functional integral measure is used
+to calculate the partition function, the Greens functions and the field
+strength correlating functions in any dimension using the fact that the space
+of inequivalent connections itself admits the structure of a bundle over a
+finite dimensional torus. The Greens functions are shown to be affected by the
+non-trivial topology, giving rise to non-vanishing vacuum expectation values
+for the gauge fields.

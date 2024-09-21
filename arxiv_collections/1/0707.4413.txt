@@ -1,0 +1,19 @@
+We study a tunnel junction consisting of two thin-film s-wave superconductors
+separated by a thin, insulating barrier in the presence of misaligned in-plane
+exchange fields. We find an interesting interplay between the superconducting
+phase difference and the relative orientation of the exchange fields,
+manifested in the Josephson current across the junction. Specifically, this may
+be written $I_\text{J}^\text{C} = (I_0+I_m ~ \cos\phi) \sin\Delta\theta$, where
+I_0 and I_m are constants, and $\phi$ is the relative orientation of the
+exchange fields while $\Delta\theta$ is the superconducting phase difference.
+Similar results have recently been obtained in other S/I/S junctions coexisting
+with helimagnetic or ferromagnetic order. We calculate the superconducting
+order parameter self-consistently, and investigate quantitatively the effect
+which the misaligned exchange fields constitute on the Josephson current, to
+see if I_m may have an appreciable effect on the Josephson current. It is found
+that I_0 and I_m become comparable in magnitude at sufficiently low
+temperatures and fields close to the critical value, in agreement with previous
+work. From our analytical results, it then follows that the Josephson current
+in the present system may be controlled in a well-defined manner by a rotation
+of the exchange fields on both sides of the junction. We discuss a possible
+experimental realization of this proposition.

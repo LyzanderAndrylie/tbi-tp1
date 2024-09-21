@@ -1,0 +1,9 @@
+Triangular-layered NiGa2S4, contrary to intuitive expectation, does not form
+a noncollinear antiferromagnetic structure, as do isoelectronic NaCrO2 and
+LiCrO2. Instead, the local magnetic moments remain disordered down to the
+lowest measured temperature. To get more insight into this phenomenon, we have
+performed first principles calculations of the first, second end third
+neighbors exchange interactions, and found that the second neighbor exchange is
+negligible, while the first and the third neighbor exchanges are comparable and
+antiferromagnetic. Both are rapidly suppressed by the on-site Hubbard
+repulsion.

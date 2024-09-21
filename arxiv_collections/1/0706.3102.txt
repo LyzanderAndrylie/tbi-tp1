@@ -1,0 +1,10 @@
+The analysis of the Helmholtz equation is shown to lead to an exact
+Hamiltonian system of equations describing in terms of ray trajectories a very
+wide family of wave-like phenomena (including diffraction and interference)
+going much beyond the limits of the ordinary geometrical optics approximation,
+which is contained as a simple limiting case. Due to the fact that the time
+independent Schroedinger equation is itself a Helmoltz-like equation, the same
+mathematical solutions holding for a classical optical beam turn out to apply
+to a quantum particle beam, leading to a complete system of Hamiltonian
+equations which provide a set of particle trajectories and motion laws
+containing as a limiting case the ones encountered in classical Mechanics.

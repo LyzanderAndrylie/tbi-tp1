@@ -1,0 +1,5 @@
+The entanglement cost of arbitrary sequences of bipartite states is shown to
+be expressible as the minimization of a conditional spectral entropy rate over
+sequences of separable extensions of the states in the sequence. The expression
+is shown to reduce to the regularized entanglement of formation when the n-th
+state in the sequence consists of n copies of a single bipartite state.

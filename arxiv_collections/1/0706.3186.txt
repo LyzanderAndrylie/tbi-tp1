@@ -1,0 +1,7 @@
+We discuss techniques that allow for long coherence times in laser
+spectroscopy experiments with two trapped ions. We show that for this purpose
+not only entangled ions prepared in decoherence-free subspaces can be used but
+also a pair of ions that are not entangled but subject to the same kind of
+phase noise. We apply this technique to a measurement of the electric
+quadrupole moment of the 3d D5/2 state of 40Ca+ and to a measurement of the
+linewidth of an ultrastable laser exciting a pair of 40Ca+ ions.

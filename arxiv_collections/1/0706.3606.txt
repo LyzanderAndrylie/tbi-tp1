@@ -1,0 +1,15 @@
+A new idea on electrostatic deviation and capture of back-drifting
+avalanche-ions in cascaded gaseous hole-multipliers is presented. It involves a
+flipped reversed-bias Micro-Hole & Strip Plate (F-R-MHSP) element, the strips
+of which are facing the drift region of the multiplier. The ions, originating
+from successive multiplication stages, are efficiently deviated and captured by
+such electrode. Experimental results are provided comparing the ion-blocking
+capability of the F-R-MHSP to that of the reversed-bias Micro-Hole & Strip
+Plate (R-MHSP) and the Gas Electron Multiplier (GEM). Best ion-blocking results
+in cascaded hole-multipliers were reached with a detector having the F-R-MHSP
+as the first multiplication element. A three-element F-R-MHSP/GEM/MHSP cascaded
+multiplier operated in atmospheric-pressure Ar/CH4 (95/5), at total gain of
+~10^{5}, yielded ion back-flow fractions of 3*10^{-4} and 1.5*10^{-4}, at drift
+fields of 0.5 and 0.2 kV/cm, respectively. We describe the F-R-MHSP concept and
+the relevance of the obtained ion back-flow fractions to various applications;
+further ideas are also discussed.

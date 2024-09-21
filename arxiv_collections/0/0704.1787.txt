@@ -1,0 +1,14 @@
+The mapping of time-dependent densities on potentials in quantum mechanics is
+critically examined. The issue is of significance ever since Runge and Gross
+(Phys. Rev. Lett. 52, 997 (1984)) established the uniqueness of the mapping,
+forming a theoretical basis for time-dependent density functional theory. We
+argue that besides existence (so called v-representability) and uniqueness
+there is an important question of stability and chaos. Studying a 2-level
+system we find innocent, almost constant densities that cannot be constructed
+from any potential (non-existence). We further show via a Lyapunov analysis
+that the mapping of densities on potentials has chaotic regions in this case.
+In real space the situation is more subtle. V-representability is formally
+assured but the mapping is often chaotic making the actual construction of the
+potential almost impossible. The chaotic nature of the mapping, studied for the
+first time here, has serious consequences regarding the possibility of using
+TDDFT in real-time settings.

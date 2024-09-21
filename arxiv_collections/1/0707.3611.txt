@@ -1,0 +1,10 @@
+For the gluon propagator of pure SU(2) lattice gauge theory in the Landau
+gauge we investigate the effect of Gribov copies and finite-volume effects.
+Concerning gauge fixing, we enlarge the accessible gauge orbits by adding
+non-periodic Z(2) gauge transformations and systematically employ the simulated
+annealing algorithm. Strategies to keep all Z(2) sectors under control within
+reasonable CPU time are discussed. We demonstrate that the finite-volume
+effects in the infrared regime become ameliorated. Reaching a physical volume
+of about (6.5 fm)^4, we find that the propagator, calculated with the indicated
+improvements, becomes flat in the region of smallest momenta. First signs in 4d
+of a final decrease towards vanishing momentum are discussed.

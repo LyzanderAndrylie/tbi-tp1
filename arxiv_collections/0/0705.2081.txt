@@ -1,0 +1,6 @@
+A proof is given of the vector identity proposed by Gubarev, Stodolsky and
+Zakarov that relates the volume integral of the square of a 3-vector field to
+non-local integrals of the curl and divergence of the field. The identity is
+applied to the case of the magnetic vector potential and magnetic field of a
+rotating charged shell. The latter provides a straightforward exercise in the
+use of the addition theorem of spherical harmonics.

@@ -1,0 +1,10 @@
+Ubiquitous computing based on small mobile devices using wireless
+communication links is becoming very attractive. The computational power and
+storage capacities provided allow the execution of sophisticated applications.
+Due to the fact that sharing of information is a central problem for
+distributed applications, the development of self organizing middleware
+services providing high level interfaces for information managing is essential.
+ADS is a directory service for mobile ad-hoc networks dealing with local and
+nearby information as well as providing access to distant information. The
+approach discussed throughout this paper is based upon the concept of
+information markets.

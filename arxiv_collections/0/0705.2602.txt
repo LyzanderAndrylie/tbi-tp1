@@ -1,0 +1,24 @@
+We use new and published near-IR spectra, with synthetic spectra, to derive
+physical properties of three of the latest-type T dwarfs. A new R~1700 spectrum
+of the T7.5 dwarf HD 3651B, with existing data, allows a detailed comparison to
+the well-studied and very similar dwarf, Gl 570D. We find that HD 3651B has
+both higher gravity and metallicity than Gl 570D, with Teff=820-830K, log g=
+5.4-5.5, [m/H]= +0.2 and Kzz=10^4cm^2/s. Its age is 8-12 Gyr and its implied
+mass is 60-70 M_Jup. We perform a similar analyis of the T8 and T7.5 dwarfs
+2MASS J09393548-2448279 and 2MASS J11145133-2618235 using published data,
+comparing them to the well-studied T8, 2MASS J04151954-0935066. We find that
+the two dwarfs have the same Teff as the reference dwarf, and similar
+gravities, but lower metallicities. The parameters are Teff=725-775K and [m/H]=
+-0.3; log g=5.3-5.45 for 2MASS J09393548-2448279 and log g=5.0-5.3 for 2MASS
+J11145133- 261823. The age and mass are ~10Gyr and 60M_Jup for 2MASS
+J09393548-2448279, and ~5 Gyr and 40M_Jup for 2MASS J11145133-261823. A serious
+limitation is the incompleteness of the line lists of CH4 and NH3 at lambda
+<1.7um. Spectra of Saturn and Jupiter, and of laboratory CH4 and NH3 gas,
+suggest that NH3 features in the Y- and J-bands may be useful as indicators of
+the next cooler spectral type, and not features in the H- and K-bands as
+previously thought. However large uncertainties remain, as the abundance of NH3
+is likely to be significantly below the chemical equilibrium value, and
+inclusion of laboratory NH3 opacities predicts band shapes that are discrepant
+with existing data. It is possible that the T spectral class will have to be
+extended to low temperatures around 400K, when water clouds condense in the
+atmosphere [abridged].

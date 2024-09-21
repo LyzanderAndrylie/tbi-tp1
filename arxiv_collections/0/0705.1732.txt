@@ -1,0 +1,5 @@
+We use functoriality of tropicalization and the geometry of projections of
+subvarieties of tori to show that the fibers of the tropicalization map are
+dense in the Zariski topology. For subvarieties of tori over fields of
+generalized power series, points in each tropical fiber are obtained
+"constructively" using Kedlaya's transfinite version of Newton's method.

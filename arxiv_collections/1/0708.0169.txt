@@ -1,0 +1,15 @@
+We propose and study a general method for construction of consistent
+statistical tests on the basis of possibly indirect, corrupted, or partially
+available observations. The class of tests devised in the paper contains
+Neyman's smooth tests, data-driven score tests, and some types of multi-sample
+tests as basic examples. Our tests are data-driven and are additionally
+incorporated with model selection rules. The method allows to use a wide class
+of model selection rules that are based on the penalization idea. In
+particular, many of the optimal penalties, derived in statistical literature,
+can be used in our tests. We establish the behavior of model selection rules
+and data-driven tests under both the null hypothesis and the alternative
+hypothesis, derive an explicit detectability rule for alternative hypotheses,
+and prove a master consistency theorem for the tests from the class. The paper
+shows that the tests are applicable to a wide range of problems, including
+hypothesis testing in statistical inverse problems, multi-sample problems, and
+nonparametric hypothesis testing.

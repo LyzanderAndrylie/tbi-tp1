@@ -1,0 +1,8 @@
+We study the dynamics of a Bose-Einstein condensate in a double-well
+potential in the mean-field approximation. Decoherence effects are considered
+by analyzing the couplings of the condensate to environments. Two kinds of
+coupling are taken into account. With the first kind of coupling dominated, the
+decoherence can enhance the self-trapping by increasing the damping of the
+oscillations in the dynamics, while the decoherence from the second kind of
+condensate-environment coupling leads to spoiling of the quantum tunneling and
+self-trapping.

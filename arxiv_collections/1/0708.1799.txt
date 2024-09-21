@@ -1,0 +1,16 @@
+The dream of every surfer is an extremely steep wave propagating at the
+highest speed possible. The best waves for this would be shock waves, but are
+very hard to surf. In the nanoscopic world the same is true: the surfers in
+this case are electrons riding through nanomechanical devices on acoustic waves
+[1]. Naturally, this has a broad range of applications in sensor technology and
+for communication electronics for which the combination of an electronic and a
+mechanical degree of freedom is essential. But this is also of interest for
+fundamental aspects of nano-electromechanical systems (NEMS), when it comes to
+quantum limited displacement detection [2] and the control of phonon number
+states [3]. Here, we study the formation of shock waves in a NEMS resonator
+with an embedded two-dimensional electron gas using surface acoustic waves. The
+mechanical displacement of the nano-resonator is read out via the induced
+acoustoelectric current. Applying acoustical standing waves we are able to
+determine the anomalous acoustocurrent. This current is only found in the
+regime of shock wave formation. We ontain very good agreement with model
+calculations.

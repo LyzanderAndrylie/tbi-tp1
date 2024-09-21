@@ -1,0 +1,21 @@
+Starting from the Liouville equation, we derive the exact hierarchy of
+equations satisfied by the reduced distribution functions of the single species
+point vortex gas in two dimensions. Considering an expansion of the solution in
+powers of 1/N in a proper thermodynamic limit $N\to +\infty$, and neglecting
+some collective effects, we derive a kinetic equation satisfied by the smooth
+vorticity field which is valid at order $O(1/N)$. This equation was obtained
+previously [P.H. Chavanis, Phys. Rev. E, 64, 026309 (2001)] from a more
+abstract projection operator formalism. If we consider axisymmetric flows and
+make a markovian approximation, we obtain a simpler kinetic equation which can
+be studied in great detail. We discuss the properties of these kinetic
+equations in regard to the $H$-theorem and the convergence (or not) towards the
+statistical equilibrium state. We also study the growth of correlations by
+explicitly calculating the time evolution of the two-body correlation function
+in the linear regime. In a second part of the paper, we consider the relaxation
+of a test vortex in a bath of field vortices and obtain the Fokker-Planck
+equation by directly calculating the second (diffusion) and first (drift)
+moments of the increment of position of the test vortex. A specificity of our
+approach is to obtain general equations, with a clear physical meaning, that
+are valid for flows that are not necessarily axisymmetric and that take into
+account non-Markovian effects. A limitations of our approach, however, is that
+it ignores collective effects.

@@ -1,0 +1,11 @@
+Composite quantum states can be classified by how they behave under local
+unitary transformations. Each quantum state has a stabilizer subgroup and a
+corresponding Lie algebra, the structure of which is a local unitary invariant.
+In this paper, we study the structure of the stabilizer subalgebra for n-qubit
+pure states, and find its maximum dimension to be n-1 for nonproduct states of
+three qubits and higher. The n-qubit Greenberger-Horne-Zeilinger state has a
+stabilizer subalgebra that achieves the maximum possible dimension for pure
+nonproduct states. The converse, however, is not true: we show examples of pure
+4-qubit states that achieve the maximum nonproduct stabilizer dimension, but
+have stabilizer subalgebra structures different from that of the n-qubit GHZ
+state.

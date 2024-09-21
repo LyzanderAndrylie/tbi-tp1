@@ -1,0 +1,14 @@
+We have utilized the concept of valon model to calculate the spin structure
+functions of proton, neutron and deuteron. The valon structure itself is
+universal and arises from the perturbative dressing of the valence quark in
+QCD. Our results agree rather well with all the relevant experimental data on
+$g_{1}^{p, n, d}$ and $g_{A}/g_{v}$, and suggests that the sea quark
+contribution to the spin of proton is consistent with zero. It also reveals
+that while the total quark contribution to the spin of valon is almost constant
+at $Q^{2}>=1$ the gluon contribution grows with the increase of $Q^2$ and hence
+requiring a sizable negative orbital angular momentum component $L_z$. This
+component along with the singlet and non-singlet parts are calculated in the
+Next-to-Leading order in QCD. We speculate that gluon contribution to the spin
+content of the proton is about 60% for all $Q^2$ values. Finally, we show that
+the size of gluon polarization and hence, $L_{z}$, is sensitive to the initial
+scale$Q_{0}^{2}$.

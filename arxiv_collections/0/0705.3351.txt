@@ -1,0 +1,10 @@
+A simple model to describe the energetic phase diagram of electron-doped
+cuprate superconductor is developed. Interband pairing operates between the UHB
+and the defect states created by doping and supplied by both extincting HB-s.
+Two defect subbands correspond to the ($\pi, 0$) and ($\pi /2,\pi /2$) momentum
+regions. Extended doping quenches the bare normal state gaps (pseudogaps).
+Maximal transition temperature corresponds to overlapping bands ensemble
+intersected by the chemical potential. Illustrative results for $T_c$, pseudo-
+and superconducting gaps are calculated on the whole doping scale. Major
+characteristics features on the phase diagram are reproduced. Anticipated
+manifestation of gaps doping dynamics is discussed.

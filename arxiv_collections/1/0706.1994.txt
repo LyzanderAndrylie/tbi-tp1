@@ -1,0 +1,8 @@
+In this note, we will discuss how to compactly express and prove the
+Jarzynski identity for an open quantum system with dissipative dynamics. We
+will avoid explicitly measuring the work directly, which is tantamount to
+continuously monitoring the system, and instead measure the heat flow from the
+environment. We represent the measurement of heat flow with Hermitian map
+superoperators that act on the system density matrix. Hermitian maps provide a
+convenient and compact representation of sequential measurement and correlation
+functions.

@@ -1,0 +1,6 @@
+Exponential dichotomy of a strongly continuous cocycle $\bFi$ is proved to be
+equivalent to existence of a Ma\~{n}e sequence either for $\bFi$ or for its
+adjoint. As a consequence we extend some of the classical results to general
+Banach bundles. The dynamical spectrum of a product of two cocycles, one of
+which is scalar, is investigated and applied to describe the essential spectrum
+of the Euler equation in an arbitrary spacial dimension.

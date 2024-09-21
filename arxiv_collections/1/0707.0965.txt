@@ -1,0 +1,4 @@
+We investigate the orbital selective Mott transition in two-band Hubbard
+models by means of the Gutzwiller variational theory. In particular, we study
+the influence of a finite local hybridisation between electrons in different
+orbitals on the metal-insulator transition.

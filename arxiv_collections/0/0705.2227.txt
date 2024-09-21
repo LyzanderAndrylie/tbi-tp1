@@ -1,0 +1,12 @@
+We contrast two sets of conditions that govern the transition in which
+classical dynamics emerges from the evolution of a quantum system. The first
+was derived by considering the trajectories seen by an observer (dubbed the
+``strong'' transition) [Bhattacharya, et al., Phys. Rev. Lett. 85: 4852
+(2000)], and the second by considering phase-space densities (the ``weak''
+transition) [Greenbaum, et al., Chaos 15, 033302 (2005)]. On the face of it
+these conditions appear rather different. We show, however, that in the
+semiclassical regime, in which the action of the system is large compared to
+$\hbar$, and the measurement noise is small, they both offer an essentially
+equivalent local picture. Within this regime, the weak conditions dominate
+while in the opposite regime where the action is not much larger than Planck's
+constant, the strong conditions dominate.

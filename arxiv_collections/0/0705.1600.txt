@@ -1,0 +1,13 @@
+A single photon source (SPS) is very important for quantum computation. In
+particular, it is essential for secured quantum cryptography. But there is no
+perfect SPS in reality. Therefore, probabilistic SPS where probability of
+simultaneous emission of two, three, four and more photon is less than the
+emission of a single photon are used. Since classical photon always comes in
+bunch, the required single photon source must be nonclassical. In the
+well-known antibunched state the rate of simultaneous emission of two photon is
+less than that of single photon. But the requirement of quantum cryptography is
+a multiphoton version of the antibunched state or the higher order antibunched
+state. Recently we have reported a mathematical criterion for higher order
+antibunching. Here we have shown that any proposal for SPS to be used in
+quantum cryptography should satisfy this criterion. We have studied four wave
+mixing as a possible candidate of single photon source.

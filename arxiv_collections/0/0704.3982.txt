@@ -1,0 +1,11 @@
+We present a formalism of x-ray dynamical diffraction from volume diffractive
+optics with large numerical aperture and high aspect ratio, in an analogy to
+the Takagi-Taupin equations for strained single crystals. We derive a set of
+basic equations for dynamical diffraction from volume diffractive optics, which
+enable us to study the focusing property of these optics with various grating
+profiles. We study volume diffractive optics that satisfy the Bragg condition
+to various degrees, namely flat, tilted and wedged geometries, and derive the
+curved geometries required for ultimate focusing. We show that the curved
+geometries satisfy the Bragg condition everywhere and phase requirement for
+point focusing, and effectively focus hard x-rays to a scale close to the
+wavelength.

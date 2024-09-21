@@ -1,0 +1,9 @@
+In this work we study the spectral functions of scalar mesons in one- and
+two-channel cases. When the propagators satisfy the K\"allen-Lehman
+representation a normalized spectral function is obtained, allowing to take
+into account finite-width effects in the evaluation of decay rates. In the
+one-channel case, suitable to the light sigma and k mesons, the spectral
+function can deviate consistently from a Breit-Wigner shape. In the two-channel
+case with one subthreshold channel the evaluated spectral function is well
+approximated by a Flatte' distribution; when applying the study to the a_0(980)
+and f_0(980) mesons the tree-level forbidden KK decay is analysed.

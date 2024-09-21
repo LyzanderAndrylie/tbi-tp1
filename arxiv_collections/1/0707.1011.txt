@@ -1,0 +1,14 @@
+Anyons and fractional statistics are by now well established in
+two-dimensional systems. In one dimension, fractional statistics has been
+established so far only through Haldane's fractional exclusion principle, but
+not via a fractional phase the wave function acquires as particles are
+interchanged. At first sight, the topology of the configuration space appears
+to preclude such phases in one dimension. Here we argue that the crossings of
+one-dimensional anyons are always unidirectional, which makes it possible to
+assign phases consistently and hence to introduce a statistical parameter
+theta. The fractional statistics then manifests itself in fractional spacings
+of the single-particle momenta of the anyons when periodic boundary conditions
+are imposed. These spacings are given by Delta p = 2 pi hbar/L
+(|theta|/pi+non-negative integer) for a system of length L. This condition is
+the analogue of the quantisation of relative angular momenta according to
+l_z=hbar(-theta/pi+2integer) for two-dimensional anyons.

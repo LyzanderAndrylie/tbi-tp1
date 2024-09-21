@@ -1,0 +1,8 @@
+This paper demonstrates that basic statistics (mean, variance) of the
+logarithm of the variate itself can be used in the calculation of differential
+entropy among random variables known to be multiples and powers of a common
+underlying variate. For the same set of distributions, the variance of the
+differential self-information is shown also to be a function of statistics of
+the logarithmic variate. Then entropy and its "variance" can be estimated using
+only statistics of the logarithmic variate plus constants, without reference to
+the traditional parameters of the variate.

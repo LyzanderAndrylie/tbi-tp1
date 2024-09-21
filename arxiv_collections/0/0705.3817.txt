@@ -1,0 +1,9 @@
+It is studied the MIT-BIH Normal Sinus Rhythm Database using a statistical
+technique of analysis, that is based on the Wavelet and Hilbert Transforms.
+With that technique, it was previously found, that there is a collective and
+intrinsic dynamical behavior up to a scale of 64 heartbeats. Now it is shown,
+that using the Biorthogonal wavelet bior3.1 such a behavior reaches the scale
+1024. That result confirms, that the circulatory system is out of equilibrium.
+According to the Statistical Mechanics of Tsallis, and a recent interpretation
+of G. Wilk et al. respect to the non extensive parameter q, the healthy human
+being is characterized by q=1.70+/-0.01.

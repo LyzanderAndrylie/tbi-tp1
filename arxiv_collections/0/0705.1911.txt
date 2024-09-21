@@ -1,0 +1,6 @@
+Finite dimensional matrices having more columns than rows have no left
+inverses while those having more rows than columns have no right inverses. We
+give generalizations of these simple facts to bi--infinite matrices and use
+those to obtain density results for $p$--frames of time--frequency molecules in
+modulation spaces and identifiability results for operators with bandlimited
+Kohn--Nirenberg symbols.

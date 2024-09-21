@@ -1,0 +1,12 @@
+In this paper, we study open complete metric spaces with non-negative
+curvature. Among other things, we establish an extension of Perelman's soul
+theorem for possibly singular spaces: "Let X be a complete, non-compact, finite
+dimensional Alexandrov space with non-negative curvature. Suppose that X has no
+boundary and has positive curvature on a non-empty open subset. Then X must be
+a contractible space". The proof of this result uses the detailed analysis of
+concavity of distance functions and Busemann functions on singular spaces with
+non-negative curvature. We will introduce a family of angular excess functions
+to measure convexity and extrinsic curvature of convex hypersurfaces in
+singular spaces. We also derive a new comparison for trapezoids in
+non-negatively curved spaces, which led to desired convexity estimates for the
+proof of our new soul theorem.

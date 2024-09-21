@@ -1,0 +1,6 @@
+We derive a formula predicting dynamical tunneling rates from regular states
+to the chaotic sea in systems with a mixed phase space. Our approach is based
+on the introduction of a fictitious integrable system that resembles the
+regular dynamics within the island. For the standard map and other kicked
+systems we find agreement with numerical results for all regular states in a
+regime where resonance-assisted tunneling is not relevant.

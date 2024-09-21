@@ -1,0 +1,9 @@
+The ensemble $\CUE^{(q)}$ of truncated random unitary matrices is a
+deformation of the usual Circular Unitary Ensemble depending on a discrete
+non-negative parameter $q.$ $\CUE^{(q)}$ is an exactly solved model of random
+contraction matrices originally introduced in the context of scattering theory.
+In this article, we exhibit a connection between $\CUE^{(q)}$ and Fisher's
+random-turns vicious walker model from statistical mechanics. In particular, we
+show that the moment generating function of the trace of a random matrix from
+$\CUE^{(q)}$ is a generating series for the partition function of Fisher's
+model, when the walkers are assumed to represent mutually attracting particles.

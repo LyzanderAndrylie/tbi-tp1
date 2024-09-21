@@ -1,0 +1,18 @@
+This paper is an investigation of the stability of some ideal stars. It is
+in- tended as a study in General Relativity, with emphasis on the coupling to
+matter, eventually aimed at a better understanding of very strong gravitational
+fields and Black Holes. The work is based on an action principle for the
+complete system of metric and matter fields. We propose a complete revision of
+the treatment of boundary conditions. An ideal star in our terminology has
+spherical symmetry and an isentropic equation of state. In our first work on
+this subject it was assumed that the density vanishes beyond a finite distance
+from the origin. But it is difficult to decide what the proper boundary
+conditions should be and we are consequently skeptical of the concept of a
+fixed boundary. In this paper we investigate the double polytrope,
+characterized by a polytropic index n less than 5 in the bulk of the star and a
+value larger than 5 in an outer atmosphere that extends to infinity. It has no
+fixed boundary but a region of critical density where the polytropic index
+changes from a value that is appropriate for the bulk of the star to a value
+that provides a crude model for the atmosphere. The existence of a relation
+between mass and radius is confirmed, as well as an upper limit on the mass.
+The principal conclusion is that all the static configurations are stable.

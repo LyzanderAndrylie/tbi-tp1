@@ -1,0 +1,5 @@
+We propose a scheme for circuit quantum electrodynamics with a
+superconducting flux-qubit coupled to a high-Q coplanar resonator. Assuming
+realistic circuit parameters we predict that it is possible to reach the strong
+coupling regime. Routes to metrological applications, such as single photon
+generation and quantum non-demolition measurements are discussed.

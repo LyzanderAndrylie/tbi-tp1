@@ -1,0 +1,16 @@
+A free zero-range process (FRZP) is a simple stochastic process describing
+the dynamics of a gas of particles hopping between neighboring nodes of a
+network. We discuss three different cases of increasing complexity: (a) FZRP on
+a rigid geometry where the network is fixed during the process, (b) FZRP on a
+random graph chosen from a given ensemble of networks, (c) FZRP on a dynamical
+network whose topology continuously changes during the process in a way which
+depends on the current distribution of particles. The case (a) provides a very
+simple realization of the phenomenon of condensation which manifests as the
+appearance of a condensate of particles on the node with maximal degree. The
+case (b) is very interesting since the averaging over typical ensembles of
+graphs acts as a kind of homogenization of the system which makes all nodes
+identical from the point of view of the FZRP. In the case (c), the distribution
+of particles and the dynamics of network are coupled to each other. The
+strength of this coupling depends on the ratio of two time scales: for changes
+of the topology and of the FZRP. We will discuss a specific example of that
+type of interaction and show that it leads to an interesting phase diagram.

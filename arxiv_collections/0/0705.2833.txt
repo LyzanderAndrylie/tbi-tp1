@@ -1,0 +1,4 @@
+We find the Lax pair for a system of reduced Maxwell-Bloch equations that
+describes the propagation of two-component extremely short electromagnetic
+pulses through the medium containing two-level quantum particles with arbitrary
+dipole moments.

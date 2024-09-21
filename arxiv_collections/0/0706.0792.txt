@@ -1,0 +1,10 @@
+The spin degeneracy of the lowest subband that carries one-dimensional
+electron transport in quantum point contacts appears to be spontaneously lifted
+in zero magnetic field due to a phenomenon that is known as the 0.7 anomaly. We
+measured this energy splitting, and studied how it evolves into a splitting
+that is the sum of the Zeeman effect and a field-independent exchange
+contribution when applying a magnetic field. While this exchange contribution
+shows sample-to-sample fluctuations, it is for all QPCs correlated with the
+zero-field splitting of the 0.7 anomaly. This provides evidence that the
+splitting of the 0.7 anomaly is dominated by this field-independent exchange
+splitting.

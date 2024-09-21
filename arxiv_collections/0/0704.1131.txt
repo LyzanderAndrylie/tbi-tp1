@@ -1,0 +1,10 @@
+Young energetic pulsars will likely be the largest class of Galactic sources
+observed by GLAST, with many hundreds detected. Many will be unknown as radio
+pulsars, making pulsation detection dependent on radio and/or x-ray
+observations or on blind periodicity searches of the gamma-rays. Estimates for
+the number of pulsars GLAST will detect in blind searches have ranged from tens
+to many hundreds. I argue that the number will be near the low end of this
+range, partly due to observations being made in a scanning as opposed to a
+pointing mode. This paper briefly reviews how blind pulsar searches will be
+conducted using GLAST, what limits these searches, and how the computations and
+statistics scale with various parameters.

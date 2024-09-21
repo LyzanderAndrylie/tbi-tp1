@@ -1,0 +1,12 @@
+We present an analysis of long-term optical monitoring observations and
+optical spectroscopic observations of the counterpart to CXOU J205847.5+414637
+(high mass X-ray binary system). We search for a variability in the light curve
+of Be star. We used differential magnitudes in the time series analysis. The
+variability search in the optical light curve was made by using different
+algorithms. The reduction and analysis of spectra were done by using MIDAS and
+its suitable packages. We have performed a frequency search which gave us the
+value 2.404 1/day. This value is attributed to the non-radial pulsation of Be
+star. H alpha emission line profiles always show double-peaked emissions with a
+mean equivalent width of 2.31 \pm 0.19 \AA ~and a peak separation of 516 \pm 45
+km/s. This suggests that Be star disk is still present. CXOU J205847.5+414637
+is in X-ray quiescent state.

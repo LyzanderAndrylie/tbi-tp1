@@ -1,0 +1,16 @@
+Four 1cm^3 CdZnTe semiconductor detectors were operated in the Gran Sasso
+National Laboratory to explore the feasibility of such devices for double beta
+decay searches as proposed for the COBRA experiment. The research involved
+background studies accompanied by measurements of energy resolution performed
+at the surface. Energy resolutions sufficient to reduce the contribution of
+two-neutrino double beta decay events to a negligible level for a large scale
+experiment have already been achieved and further improvements are expected.
+Using activity measurements of contaminants in all construction materials a
+background model was developed with the help of Monte Carlo simulations and
+major background sources were identified. A total exposure of 4.34 kg.days of
+underground data has been accumulated allowing a search for neutrinoless double
+beta decay modes of seven isotopes found in CdZnTe. Half-life limits (90% C.L.)
+are presented for decays to ground and excited states. Four improved lower
+limits have been obtained, including zero neutrino double electron capture
+transitions of Zn64 and Te120 to the ground state, which are 1.19*10^{17} years
+and 2.68*10^{15} years respectively.

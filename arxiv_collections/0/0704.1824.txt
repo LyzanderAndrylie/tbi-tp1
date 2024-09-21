@@ -1,0 +1,8 @@
+The aim of this paper is to study the $d$-dimensional stochastic heat
+equation with a multiplicative Gaussian noise which is white in space and it
+has the covariance of a fractional Brownian motion with Hurst parameter $% H\in
+(0,1)$ in time. Two types of equations are considered. First we consider the
+equation in the It\^{o}-Skorohod sense, and later in the Stratonovich sense. An
+explicit chaos development for the solution is obtained. On the other hand, the
+moments of the solution are expressed in terms of the exponential moments of
+some weighted intersection local time of the Brownian motion.

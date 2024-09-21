@@ -1,0 +1,6 @@
+Riemannian metric on real 2n-dimensional space associated with the equation
+governing complex diffusion of pure states of an open quantum system is
+introduced and studied. Examples of a qubit under the influence of dephasing
+and thermal environments are used to show that the curvature of the diffusion
+metric is a good indicator of the properties of the environment dominated
+evolution and its stability.

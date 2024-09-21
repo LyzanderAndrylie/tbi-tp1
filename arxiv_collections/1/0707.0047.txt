@@ -1,0 +1,3 @@
+In an abstract Wiener space setting, we constract a rigorous mathematical
+model of the one-loop approximation of the perturbative Chern-Simons integral,
+and derive its explicit asymptotic expansion for stochastic Wilson lines.

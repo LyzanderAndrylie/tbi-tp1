@@ -1,0 +1,7 @@
+We study various error exponents in a binary hypothesis testing problem and
+extend recent results on the quantum Chernoff and Hoeffding bounds for product
+states to a setting when both the null-hypothesis and the counter-hypothesis
+can be correlated states on a spin chain. Our results apply to states
+satisfying a certain factorization property; typical examples are the global
+Gibbs states of translation-invariant finite-range interactions as well as
+certain finitely correlated states.

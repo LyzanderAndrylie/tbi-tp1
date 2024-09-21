@@ -1,0 +1,10 @@
+Spin-dependent transport measurements through a double quantum dot are a
+valuable tool for detecting both the coherent evolution of the spin state of a
+single electron as well as the hybridization of two-electron spin states. In
+this paper, we discuss a model that describes the transport cycle in this
+regime, including the effects of an oscillating magnetic field (causing
+electron spin resonance) and the effective nuclear fields on the spin states in
+the two dots. We numerically calculate the current flow due to the induced spin
+flips via electron spin resonance and we study the detector efficiency for a
+range of parameters. The experimental data are compared with the model and we
+find a reasonable agreement.

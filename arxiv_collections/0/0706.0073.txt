@@ -1,0 +1,10 @@
+This paper presents a dynamic linear model for modeling hourly ozone
+concentrations over the eastern United States. That model, which is developed
+within an Bayesian hierarchical framework, inherits the important feature of
+such models that its coefficients, treated as states of the process, can change
+with time. Thus the model includes a time--varying site invariant mean field as
+well as time varying coefficients for 24 and 12 diurnal cycle components. This
+cost of this model's great flexibility comes at the cost of computational
+complexity, forcing us to use an MCMC approach and to restrict application of
+our model domain to a small number of monitoring sites. We critically assess
+this model and discover some of its weaknesses in this type of application.

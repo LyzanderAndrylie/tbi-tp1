@@ -1,0 +1,7 @@
+We present a new code for calculating the Fe Kalpha line profiles from
+relativistic accretion disks with finite thickness around a rotating black
+hole. The thin Keplerian accretion disk must become thicker and sub-Keplerian
+with increasing accretion rates. We here embark on, for the first time, a fully
+relativistic computation which is aimed at gaining an insight into the effects
+of geometrical thickness and the sub-Keplerian orbital velocity on the line
+profiles. This code is also well-suited to produce accretion disk images.

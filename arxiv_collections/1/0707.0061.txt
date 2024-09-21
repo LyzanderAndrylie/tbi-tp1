@@ -1,0 +1,10 @@
+The experimental realization of multidimensional quantum states may lead to
+unexplored and interesting physics, as well as advanced quantum communication
+protocols. The orbital angular momentum of photons is a well suitable discrete
+degree of freedom for implementing high-dimensional quantum systems. The
+standard method to generate and manipulate such photon modes is to use bulk and
+fixed optics. Here the authors demonstrate the utilization of a spatial light
+modulator to manipulate the orbital angular momentum of entangled photons
+generated in spontaneous parametric downconversion. They show that their setup
+allows them to realize photonic entanglement of up to 21 dimensions, which in
+principle can be extended to even larger dimensions.

@@ -1,0 +1,8 @@
+We study the dynamics of the 2+1 Dirac oscillator exactly and find spin
+oscillations due to a {\it Zitterbewegung} of purely relativistic origin. We
+find an exact mapping of this quantum-relativistic system onto a
+Jaynes-Cummings model, describing the interaction of a two-level atom with a
+quantized single-mode field. This equivalence allows us to map a series of
+quantum optical phenomena onto the relativistic oscillator, and viceversa. We
+make a realistic experimental proposal, at reach with current technology, for
+studying the equivalence of both models using a single trapped ion.

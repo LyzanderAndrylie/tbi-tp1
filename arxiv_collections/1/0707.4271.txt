@@ -1,0 +1,10 @@
+Inherent asymmetry in the tunneling barriers of few-electron quantum dots
+induces intrinsically different tunneling currents for forward and reverse
+source-drain biases in the non-linear transport regime. Here we show that in
+addition to spin selection rules, overlap matrix elements between many-body
+states are crucial for the correct description of tunneling transmission
+through quantum dots at large magnetic fields. Signatures of excited
+(N-1)-electron states in the transport process through the N-electron system
+are clearly identified in the measured transconductances. Our analysis clearly
+confirms the validity of single-electron quantum transport theory in quantum
+dots.

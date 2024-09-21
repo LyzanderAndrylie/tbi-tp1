@@ -1,0 +1,4 @@
+We consider higher-dimensional analogues of the classical Brauer-Siegel
+theorem focusing on the case of abelian varieties over global function fields.
+We prove such an analogue in the case of constant families of elliptic curves
+and abelian varieties.

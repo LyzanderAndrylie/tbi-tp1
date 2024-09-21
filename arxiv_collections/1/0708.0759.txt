@@ -1,0 +1,5 @@
+We present a formalism to determine the imaginary part of a general chiral
+model in the derivative expansion. Our formalism is based on the worldline path
+integral for the covariant current that can be given in an explicit chiral and
+gauge covariant form. The effective action is then obtained by integrating the
+covariant current, taking account of the anomaly.

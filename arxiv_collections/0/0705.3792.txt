@@ -1,0 +1,14 @@
+We present the initial results of multi-epoch VLBI observations of the 22 GHz
+H2O masers in the Orion KL region with VERA (VLBI Exploration of Radio
+Astrometry). With the VERA dual-beam receiving system, we have carried out
+phase-referencing VLBI astrometry and successfully detected an annual parallax
+of Orion KL to be 2.29+/-0.10 mas, corresponding to the distance of 437+/-19 pc
+from the Sun. The distance to Orion KL is determined for the first time with
+the annual parallax method in these observations. Although this value is
+consistent with that of the previously reported, 480+/-80 pc, which is
+estimated from the statistical parallax method using proper motions and radial
+velocities of the H2O maser features, our new results provide the much more
+accurate value with an uncertainty of only 4%. In addition to the annual
+parallax, we have detected an absolute proper motion of the maser feature,
+suggesting an outflow motion powered by the radio source I along with the
+systematic motion of source I itself.

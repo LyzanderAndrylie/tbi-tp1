@@ -1,0 +1,5 @@
+The author proposes a finance trading strategy named Entropy Oriented Trading
+and apply thermodynamics on the strategy. The state variables are chosen so
+that the strategy satisfies the second law of thermodynamics. Using the law,
+the author proves that the rate of investment (ROI) of the strategy is equal to
+or more than the rate of price change.

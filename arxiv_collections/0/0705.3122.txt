@@ -1,0 +1,11 @@
+We build a minimal, mean-field, model of plasticity of amorphous solids,
+based upon a phenomenology of dissipative events derived, in a preceding paper
+[A. Lemaitre, C. Caroli, arXiv:0705.0823] from extensive molecular simulations.
+It reduces to the dynamics of an ensemble of identical shear transformation
+zones interacting via the dynamic noise due to the long ranged elastic fields
+induced by zone flips themselves. We find that these ingredients are sufficient
+to generate flip avalanches with a power-law scaling with system size,
+analogous to that observed in molecular simulations. We further show that the
+scaling properties of avalanches sensitively depend on the detailed shape of
+the noise spectrum. This points out the importance of developing a realistic
+coarse-grained description of elasticity in these systems.

@@ -1,0 +1,7 @@
+Using a local construction from a previous paper, we exhibit a numerical
+invariant, the differential Swan conductor, for an isocrystal on a variety over
+a perfect field of positive characteristic overconvergent along a boundary
+divisor; this leads to an analogous construction for certain p-adic and l-adic
+representations of the etale fundamental group of a variety. We then
+demonstrate some variational properties of this definition for overconvergent
+isocrystals, paying special attention to the case of surfaces.

@@ -1,0 +1,9 @@
+Optical-window birefringence is frequently a major obstacle in experiments
+measuring changes in the polarization state of light traversing a sample under
+investigation. It can contribute a signal indistinguishable from that due to
+the sample and complicate the analysis. Here, we explore a method to measure
+and compensate for the birefringence of an optical window using the reflection
+from the last optical surface before the sample. We demonstrate that this
+arrangement can cancel out false signals due to the optical-window
+birefringence-induced ellipticity drift to about 1%, for the values of total
+ellipticity less than 0.25 rad.

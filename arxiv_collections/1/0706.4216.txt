@@ -1,0 +1,15 @@
+In calorimetry and particularly in heat capacity measurements, different
+characteristic relaxation time constants may perturb the experiment which
+cannot be considered at thermodynamic equilibrium. In this case, thermodynamics
+of irreversible processes has to be taken into account and the calorimetric
+measurements must be considered as dynamic. In a temperature modulated
+experiment, such as ac-calorimetry, these non-equilibrium experiments give rise
+to the notion of frequency dependent complex heat capacity. In this paper, it
+is shown that for each irreversible process an experimental frequency dependent
+complex heat capacity can be inferred. Furthermore, we demonstrate rigorously
+that a same equality connects the imaginary part of these different complex
+heat capacities with the entropy produced during these irreversible processes.
+Finally, we claim that the presence of an imaginary part in the measured heat
+capacity always indicates that a certain amount of heat does not participate to
+the classical equilibrium heat capacity of the sample when measured over the
+observation time scale.

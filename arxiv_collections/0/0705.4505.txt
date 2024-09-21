@@ -1,0 +1,10 @@
+We have investigated past measurements of the local supermassive black hole
+mass density, correcting for hitherto unknown dependencies on the Hubble
+constant, which, in some cases, had led to an underestimation of the mass
+density by factors of ~2. Correcting for this, we note that the majority of
+past studies yield a local supermassive black hole mas density that is
+consistent with the range 4.4-5.9 x 10^5 f(H_0) M_Sun / Mpc^3 (when using H_0 =
+70 km/s/Mpc). In addition, we address a number of ways in which these past
+estimates can be further developed. In particular, we tabulate realistic
+bulge-to-total flux ratios which can be used to estimate the luminosity of
+bulges and subsequently their central black hole masses.

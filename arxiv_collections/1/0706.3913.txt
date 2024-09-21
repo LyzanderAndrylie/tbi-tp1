@@ -1,0 +1,6 @@
+The balances of particles and charges in the volume of parallel-plane
+ionization chamber are considered. Differential equations describing the
+distribution of current densities in the chamber volume are obtained. As a
+result of the differential equations solution an analytical form of the
+current-voltage characteristic of parallel-plane ionization chamber with
+inhomogeneous ionization in the volume is got.

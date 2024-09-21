@@ -1,0 +1,5 @@
+We calculate relations on characteristic classes which are obstructions
+preventing closed K\"ahler manifolds from carrying holomorphic Cartan
+geometries. We apply these relations to give global constraints on the phase
+spaces of complex analytic determined and underdetermined systems of
+differential equations.

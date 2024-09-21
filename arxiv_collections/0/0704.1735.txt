@@ -1,0 +1,8 @@
+We outline a practical scheme for measuring the thermodynamic properties of a
+Bose-Einstein condensate as a function of internal energy. We propose using
+Bragg scattering and controlled trap manipulations to impart a precise amount
+of energy to a near zero temperature condensate. After thermalisation the
+temperature can be measured using standard techniques to determine the state
+equation $T(U,N,\omega)$. Our analysis accounts for interaction effects and the
+excitation of constants of motion which restrict the energy available for
+thermalisation.

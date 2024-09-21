@@ -1,0 +1,5 @@
+Conductance histograms of work-hardened Al show a series up to 11 equidistant
+peaks with a period of 1.15 +/- 0.02 of the quantum conductance unit G_0 =
+2e^2/h. Assuming the peaks originate from atomic discreteness, this agrees with
+the value of 1.16 G_0 per atom obtained in numerical calculations by Hasmy et
+al.

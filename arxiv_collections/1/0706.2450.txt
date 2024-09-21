@@ -1,0 +1,8 @@
+We demonstrate quantum control of a large spin-angular momentum associated
+with the F=3 hyperfine ground state of 133Cs. A combination of time dependent
+magnetic fields and a static tensor light shift is used to implement
+near-optimal controls and map a fiducial state to a broad range of target
+states, with yields in the range 0.8-0.9. Squeezed states are produced also by
+an adiabatic scheme that is more robust against errors. Universal control
+facilitates the encoding and manipulation of qubits and qudits in atomic ground
+states, and may lead to improvement of some precision measurements.

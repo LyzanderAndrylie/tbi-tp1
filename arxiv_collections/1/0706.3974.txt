@@ -1,0 +1,19 @@
+We derive general kinetic and hydrodynamic models of chemotactic aggregation
+that describe certain features of the morphogenesis of biological colonies
+(like bacteria, amoebae, endothelial cells or social insects). Starting from a
+stochastic model defined in terms of N coupled Langevin equations, we derive a
+nonlinear mean field Fokker-Planck equation governing the evolution of the
+distribution function of the system in phase space. By taking the successive
+moments of this kinetic equation and using a local thermodynamic equilibrium
+condition, we derive a set of hydrodynamic equations involving a damping term.
+In the limit of small frictions, we obtain a hyperbolic model describing the
+formation of network patterns (filaments) and in the limit of strong frictions
+we obtain a parabolic model which is a generalization of the standard
+Keller-Segel model describing the formation of clusters (clumps). Our approach
+connects and generalizes several models introduced in the chemotactic
+literature. We discuss the analogy between bacterial colonies and
+self-gravitating systems and between the chemotactic collapse and the
+gravitational collapse (Jeans instability). We also show that the basic
+equations of chemotaxis are similar to nonlinear mean field Fokker-Planck
+equations so that a notion of effective generalized thermodynamics can be
+developed.

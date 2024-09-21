@@ -1,0 +1,11 @@
+We present an analytic study for subdiffusive escape of overdamped particles
+out of a cusp-shaped parabolic potential well which are driven by thermal,
+fractional Gaussian noise with a $1/\omega^{1-\alpha}$ power spectrum. This
+long-standing challenge becomes mathematically tractable by use of a
+generalized Langevin dynamics via its corresponding non-Markovian,
+time-convolutionless master equation: We find that the escape is governed
+asymptotically by a power law whose exponent depends exponentially on the ratio
+of barrier height and temperature. This result is in distinct contrast to a
+description with a corresponding subdiffusive fractional Fokker-Planck
+approach; thus providing experimentalists an amenable testbed to differentiate
+between the two escape scenarios.

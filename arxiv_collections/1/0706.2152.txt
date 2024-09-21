@@ -1,0 +1,7 @@
+We attach elliptic Dunkl operators to an abelian variety with a finite group
+action. This generalizes elliptic Dunkl operators for Weyl groups, defined by
+Buchstaber, Felder, and Veselov in 1994. We show that these operators commute,
+and use them to define representations from category O of elliptic Cherednik
+algebras. We also consider the monodromy representations of differential
+equations defined by elliptic Dunkl operators, and show that they yield finite
+dimensional rrepresentations of generalized double affine Hecke algebras.

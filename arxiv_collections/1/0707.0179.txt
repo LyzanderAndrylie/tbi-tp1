@@ -1,0 +1,8 @@
+Coherent single-electron control in a realistic semiconductor double quantum
+dot is studied theoretically. Using optimal-control theory we show that the
+energy spectrum of a two-dimensional double quantum dot has a fully
+controllable transition line. We find that optimized picosecond laser pulses
+generate population transfer at significantly higher fidelities (>0.99) than
+conventional sinusoidal pulses. Finally we design a robust and fast charge
+switch driven by optimal pulses that are within reach of terahertz laser
+technology.

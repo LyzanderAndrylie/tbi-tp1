@@ -1,0 +1,11 @@
+The general and explicit relation between the phase time and the dwell time
+for quantum tunneling or scattering is investigated. Considering a symmetrical
+collision of two identical wave packets with an one-dimensional barrier, here
+we demonstrate that these two distinct transit time definitions give connected
+results where, however, the phase time (group delay) accurately describes the
+exact position of the scattered particles. The analytical difficulties that
+arise when the stationary phase method is employed for obtaining phase
+(traversal) times are all overcome. Multiple wave packet decomposition allows
+us to recover the exact position of the reflected and transmitted waves in
+terms of the phase time, which, in addition to the exact relation between the
+phase time and the dwell time, leads to right interpretation for both of them.

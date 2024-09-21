@@ -1,0 +1,10 @@
+We consider the random-anisotropy model on the square and on the cubic
+lattice in the strong-anisotropy limit. We compute exact ground-state
+configurations, and we use them to determine the stiffness exponent at zero
+temperature; we find $\theta = -0.275(5)$ and $\theta \approx 0.2$ respectively
+in two and three dimensions. These results show that the low-temperature phase
+of the model is the same as that of the usual Ising spin-glass model. We also
+show that no magnetic order occurs in two dimensions, since the expectation
+value of the magnetization is zero and spatial correlation functions decay
+exponentially. In three dimensions our data strongly support the absence of
+spontaneous magnetization in the infinite-volume limit.

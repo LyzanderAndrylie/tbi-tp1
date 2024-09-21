@@ -1,0 +1,12 @@
+We propose a framework for studying predictability of extreme events in
+complex systems. Major conceptual elements -- direct cascading or
+fragmentation, spatial dynamics, and external driving -- are combined in a
+classical age-dependent multi-type branching diffusion process with
+immigration. A complete analytic description of the size- and space-dependent
+distributions of particles is derived. We then formulate an extreme event
+prediction problem and determine characteristic patterns of the system behavior
+as an extreme event approaches. In particlular, our results imply specific
+premonitory deviations from self-similarity, which have been heuristically
+observed in real-world and modeled complex systems. Our results suggest a
+simple universal mechanism of such premonitory patterns and natural framework
+for their analytic study.

@@ -1,0 +1,8 @@
+It is shown that physical mechanics for pointlike bodies can be effectively
+modeled in terms of the action of transformation groups that act as symmetries
+of the solutions of systems of differential equations that describe the
+integrability of dynamical states. The equations of motion are then obtained
+from these integrability equations for the dynamical states. It is also
+observed that the functions that define the components of a dynamical state
+represent a set of mechanical constitutive laws. The variational formulation of
+mechanics is shown to be a specialization of these principles.

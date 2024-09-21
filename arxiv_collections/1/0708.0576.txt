@@ -1,0 +1,13 @@
+Following a recent work [Gal, Phys. Rev. A 64, 062503 (2001)], a simple
+derivation of the density-functional correction of the Hartree-Fock equations,
+the Hartree-Fock-Kohn-Sham equations, is presented, completing an integrated
+view of quantum mechanical theories, in which the Kohn-Sham equations, the
+Hartree-Fock-Kohn-Sham equations and the ground-state Schrodinger equation
+formally stem from a common ground: density-functional theory, through its
+Euler equation for the ground-state density. Along similar lines, the Kohn-Sham
+formulation of the Hartree-Fock approach is also considered. Further, it is
+pointed out that the exchange energy of density-functional theory built from
+the Kohn-Sham orbitals can be given by degree-two homogeneous N-particle
+density functionals (N=1,2,...), forming a sequence of degree-two homogeneous
+exchange-energy density functionals, the first element of which is minus the
+classical Coulomb-repulsion energy functional.

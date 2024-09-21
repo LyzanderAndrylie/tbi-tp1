@@ -1,0 +1,17 @@
+The osmotic equation of state for the athermal bond fluctuation model on the
+simple cubic lattice is obtained from extensive Monte Carlo simulations. For
+short macromolecules (chain length N=20) we study the influence of various
+choices for the chain stiffness on the equation of state. Three techniques are
+applied and compared in order to critically assess their efficiency and
+accuracy: the repulsive wall method, the thermodynamic integration method
+(which rests on the feasibility of simulations in the grand canonical
+ensemble), and the recently advocated sedimentation equilibrium method, which
+records the density profile in an external (e.g. gravitation-like) field and
+infers, via a local density approximation, the equation of state from the
+hydrostatic equilibrium condition. We confirm the conclusion that the latter
+technique is far more efficient than the repulsive wall method, but we find
+that the thermodynamic integration method is similarly efficient as the
+sedimentation equilibrium method. For very stiff chains the onset of nematic
+order enforces the formation of isotropic-nematic interface in the
+sedimentation equilibrium method leading to strong rounding effects and
+deviations from the true equation of state in the transition regime.

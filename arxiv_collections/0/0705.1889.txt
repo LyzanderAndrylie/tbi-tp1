@@ -1,0 +1,7 @@
+The influence of nonmagnetic central node defect on dynamical properties of
+regular square-shaped 5 x 5 segment of magnetic dot array under the thermal
+activation is investigated via computer simulations. Using stochastic
+Landau-Lifshitz-Gilbert equation we simulate hysteresis and relaxation
+processes. The remarkable quantitative and qualitative differences between
+magnetic dot arrays with nonmagnetic central node defect and magnetic dot
+arrays without defects have been found.

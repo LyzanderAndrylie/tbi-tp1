@@ -1,0 +1,7 @@
+Jet formalism provides the adequate mathematical formulation of classical
+field theory, reviewed in hep-th/0612182v1. A formulation of QFT compatible
+with this classical one is discussed. We are based on the fact that an algebra
+of Euclidean quantum fields is graded commutative, and there are homomorphisms
+of the graded commutative algebra of classical fields to this algebra. As a
+result, any variational symmetry of a classical Lagrangian yields the
+identities which Euclidean Green functions of quantum fields satisfy.

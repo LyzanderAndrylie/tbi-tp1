@@ -1,0 +1,16 @@
+We study to which extent planetesimal accretion is affected by the perturbing
+presence of a compagnon star. We concentrate on one crucial parameter: the
+distribution of encounter velocities within the planetesimal swarm. We
+numerically explore the evolution of this parameter taking into account the
+secular perturbations of the binary and friction due to the very likely
+presence of gas in the disk. $<\Delta v>$ maps are derived, for planetesimals
+of different sizes, for a total of 120 binary configurations (eccentricity eb
+and separation ab). We identify for each case 3 different accreting behaviours.
+1) In regions where no significant dV increase is observed, ``classical''
+(i.e., single-star) accretion is possible. 2) In regions where $dV>v_{ero}$,
+the threshold velocity above which all impacts are eroding, no accretion is
+possible and planet growth is stopped. 3) In between these 2 limiting
+behaviours, a large fraction of binary configurations leads to significant dV
+increase, but still below the erosion threshold. In this intermediate case,
+planetesimal growth can occur, but proceeds slower than in the single-star
+case, possibly following the so-called type II runaway groth mode.

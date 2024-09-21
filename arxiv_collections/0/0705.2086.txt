@@ -1,0 +1,4 @@
+In this paper, we give a proof of Mirzakhani's recursion formula of
+Weil-Petersson volumes of moduli spaces of curves using the Witten-Kontsevich
+theorem. We also describe properties of intersections numbers involving higher
+degree $\kappa$ classes.

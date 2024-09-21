@@ -1,0 +1,16 @@
+We point out a remarkable analogy between the limiting mass of white dwarf
+stars (Chandrasekhar's limit) and the critical mass of bacterial populations in
+a generalized Keller-Segel model of chemotaxis [Chavanis & Sire, PRE, 69,
+016116 (2004)]. This model is based on generalized stochastic processes leading
+to the Tsallis statistics. The equilibrium states correspond to polytropic
+configurations similar to gaseous polytropes in astrophysics. For the critical
+index n_3=d/(d-2) (where d is the dimension of space), the theory of polytropes
+leads to a unique value of the mass M_c that we interpret as a limiting mass.
+In d=3, we find M_c=202.8956... and in d=2, we recover the well-known result
+M_c=8 pi (in suitable units). For M<M_c, the system evaporates (in an infinite
+domain) or tends to an equilibrium state (for box-confined configurations). For
+M>M_c, the system collapses and forms a Dirac peak containing a mass M_c
+surrounded by a halo. This paper exposes the model and shows, by simple
+considerations, the origin of the critical mass. A detailed description of the
+critical dynamics of the generalized Keller-Segel model will be given in a
+forthcoming paper.

@@ -1,0 +1,10 @@
+Let g denote a Lie algebra over a field of characteristic zero, and let T(g)
+denote the tensor product of g with a ring of truncated polynomials. The Lie
+algebra T(g) is called a truncated current Lie algebra, or in the special case
+when g is finite-dimensional and semisimple, a generalized Takiff algebra. In
+this paper a highest-weight theory for T(g) is developed when the underlying
+Lie algebra g possesses a triangular decomposition. The principal result is the
+reducibility criterion for the Verma modules of T(g) for a wide class of Lie
+algebras g, including the symmetrizable Kac-Moody Lie algebras, the Heisenberg
+algebra, and the Virasoro algebra. This is achieved through a study of the
+Shapovalov form.

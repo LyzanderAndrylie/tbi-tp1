@@ -1,0 +1,17 @@
+We show that the same physical mechanism is fundamental for two seemingly
+different phenomena such as the formation of two-level systems in glasses and
+the Boson peak in the reduced density of low-frequency vibrational states
+g(w)/w^2. This mechanism is the vibrational instability of weakly interacting
+harmonic modes. Below some frequency w_c << w_0 (where w_0 is of the order of
+Debye frequency) the instability, controlled by the anharmonicity, creates a
+new stable universal spectrum of harmonic vibrations with a Boson peak feature
+as well as double-well potentials with a wide distribution of barrier heights.
+Both are determined by the strength of the interaction I ~ w_c between the
+oscillators. Our theory predicts in a natural way a small value for the
+important dimensionless parameter C ~ 10^{-4} for two-level systems in glasses.
+We show that C ~ I^{-3} and decreases with increasing of the interaction
+strength I. We show that the number of active two-level systems is very small,
+less than one per ten million of oscillators, in a good agreement with
+experiment. Within the unified approach developed in the present paper the
+density of the tunneling states and the density of vibrational states at the
+Boson peak frequency are interrelated.

@@ -1,0 +1,5 @@
+In this paper we extend the notions of Schwartz functions, tempered functions
+and generalized Schwartz functions to Nash (i.e. smooth semi-algebraic)
+manifolds. We reprove for this case classically known properties of Schwartz
+functions on $R^n$ and build some additional tools which are important in
+representation theory.

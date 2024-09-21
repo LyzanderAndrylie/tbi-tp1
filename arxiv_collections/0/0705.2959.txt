@@ -1,0 +1,14 @@
+We describe the current status of CATS, a publicly accessible database
+(web-server http://cats.sao.ru) allowing one to search in hundreds of catalogs
+of astronomical objects discovered all along the electromagnetic spectrum. Our
+emphasis is mainly laid on catalogs of radio continuum sources observed from 30
+to 15000 MHz, secondly on catalogs of objects such as radio and active stars,
+planetary nebulae, HII regions, supernova remnants (SNR), pulsars, nearby
+galaxies, AGN and quasars. CATS also includes the catalogs from the largest
+extragalactic surveys, like NVSS, FIRST, WENSS, VLSS, TXS, GB6, SUMSS, IRAS,
+2MASS, SDSS, ROSAT, PGC, MCG, etc. In 2004 CATS comprised a total of $\sim10^9$
+records from over 400 catalogs in the radio, IR, optical and X-ray windows,
+including most of RATAN--600 catalogs. CATS is being expanded and updated, both
+with newly published catalogs as well as older ones which we have created in
+electronic form for the first time. We describe the principles of organization
+of the database of astrophysical catalogs and the main functions of CATS.

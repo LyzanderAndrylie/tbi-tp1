@@ -1,0 +1,8 @@
+The Schwarzschild metric, its Reissner-Nordstrom-de Sitter generalizations to
+higher dimensions, and some further generalizations all share the feature that
+g_{tt} g_{rr}=-1 in Schwarzschild-like coordinates. In this pedagogical note we
+trace this feature to the condition that the Ricci tensor (and stress-energy
+tensor in a solution to Einstein's equation) has vanishing radial null-null
+component, i.e. is proportional to the metric in the t-r subspace. We also show
+this condition holds if and only if the area-radius coordinate is an affine
+parameter on the radial null geodesics.

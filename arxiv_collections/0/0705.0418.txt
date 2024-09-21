@@ -1,0 +1,11 @@
+Using former maps, geographers intend to study the evolution of the land
+cover in order to have a prospective approach on the future landscape;
+predictions of the future land cover, by the use of older maps and
+environmental variables, are usually done through the GIS (Geographic
+Information System). We propose here to confront this classical geographical
+approach with statistical approaches: a linear parametric model (polychotomous
+regression modeling) and a nonparametric one (multilayer perceptron). These
+methodologies have been tested on two real areas on which the land cover is
+known at various dates; this allows us to emphasize the benefit of these two
+statistical approaches compared to GIS and to discuss the way GIS could be
+improved by the use of statistical models.

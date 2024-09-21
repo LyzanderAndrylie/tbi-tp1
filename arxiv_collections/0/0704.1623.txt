@@ -1,0 +1,23 @@
+In the last twenty years there has been significant progress in our
+understanding of quantum transport far from equilibrium and a conceptual
+framework has emerged through a combination of the Landauer approach with the
+non-equilibrium Green function (NEGF) method, which is now being widely used in
+the analysis and design of nanoscale devices. It provides a unified description
+for all kinds of devices from molecular conductors to carbon nanotubes to
+silicon transistors covering different transport regimes from the ballistic to
+the diffusive limit. In this talk I use a simple version of this model to
+analyze a specially designed device that could be called an electronic
+Maxwell's demon, one that lets electrons go preferentially in one direction
+over another. My objective is to illustrate the fundamental role of contacts
+and demons in transport and energy conversion. The discussion is kept at an
+academic level steering clear of real world details, but the illustrative
+devices we use are very much within the capabilities of present-day technology.
+For example, recent experiments on thermoelectric effects in molecular
+conductors agree well with the predictions from our model. The Maxwell's demon
+device itself is very similar to the pentalayer spin-torque device which has
+been studied by a number of groups though we are not aware of any discussion of
+the possibility of using the device as a nanoscale heat engine or as a
+refrigerator as proposed here. However, my objective is not to evaluate
+possible practical applications. Rather it is to introduce a simple transparent
+model showing how out-of-equibrium demons suitably incorporated into
+nanodevices can achieve energy conversion.

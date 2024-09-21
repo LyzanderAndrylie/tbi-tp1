@@ -1,0 +1,17 @@
+We present a numerical study of the $\Delta H(M,\Delta M)$ method and its
+ability to accurately determine intrinsic switching field distributions in
+interacting granular magnetic materials such as perpendicular recording media.
+In particular, we study how this methodology fails for large ferromagnetic
+inter-granular interactions, at which point the associated strongly correlated
+magnetization reversal cannot be properly represented by the mean-field
+approximation, upon which the $\Delta H(M,\Delta M)$ method is based. In this
+study, we use a 2-dimensional array of symmetric hysterons that have an
+intrinsic switching field distribution of standard deviation $\sigma$ and
+ferromagnetic nearest-neighbor interactions $J$. We find the $\Delta H(M,\Delta
+M)$ method to be very accurate for small $J/\sigma$ values, while substantial
+errors develop once the effective exchange field becomes comparable with
+$\sigma$, corroborating earlier results from micromagnetic simulations. We
+furthermore demonstrate that this failure is correlated with deviations from
+data set redundancy, which is a key property of the mean-field approximation.
+Thus, the $\Delta H(M,\Delta M)$ method fails in a well defined and
+quantifiable manner that can be easily assessed from the data sets alone.

@@ -1,0 +1,11 @@
+Flavour Changing Neutral Current decays of the $B$-meson are a very useful
+tool for studying possible physics scenarios beyond the Standard Model (SM),
+where of the many FCNC modes radiative, purely leptonic and semi-leptonic
+decays of the $B$-meson are relatively clean tests. Within this context the
+BELLE collaboration has searched for the $B \to K_1(1270) \gamma$ process and
+provided an upper bound on this decay. In this work we have used this upper
+bound in studying the angular coorelations for the related semi-leptonic decay
+mode $B \to K_1(1270) (\to \rho K) \ell^+ \ell^-$, where we have used the form
+factors that have already been estimated for the $B \to K_1(1270) \gamma$ mode.
+Note that the additional form factors that are required were calculated using
+the Large Energy Effective Theory (LEET).

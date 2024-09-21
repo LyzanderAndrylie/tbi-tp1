@@ -1,0 +1,9 @@
+We report measurements of the temperature dependence of the magnetic
+penetration depth \lambda(T) in non-centrosymmetric superconductor Re_3W. We
+employed two experimental techniques: extraction of \lambda(T) from magnetic
+{\em dc}-susceptibility, measured on a powder sample, and the rf tunnel diode
+resonator technique, where a bulk polycrystalline sample was used. The results
+of both techniques agree: the temperature dependence of the penetration depth
+can be well described by weak-coupling, dirty-limit, s-wave BCS theory where we
+obtain $\Delta(0)/k_BT_C=1.76$. No evidence for unconventional pairing
+resulting from the absence of the inversion symmetry is found.

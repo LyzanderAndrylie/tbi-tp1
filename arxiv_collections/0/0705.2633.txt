@@ -1,0 +1,17 @@
+Security of information has become a major issue during the last decades. New
+algorithms based on chaotic maps were suggested for protection of different
+types of multimedia data, especially digital images and videos in this period.
+However, many of them fundamentally were flawed by a lack of robustness and
+security. For getting higher security and higher complexity, in the current
+paper, we introduce a new kind of symmetric key block cipher algorithm that is
+based on \emph{tripled chaotic maps}. In this algorithm, the utilization of two
+coupling parameters, as well as the increased complexity of the cryptosystem,
+make a contribution to the development of cryptosystem with higher security. In
+order to increase the security of the proposed algorithm, the size of key space
+and the computational complexity of the coupling parameters should be increased
+as well. Both the theoretical and experimental results state that the proposed
+algorithm has many capabilities such as acceptable speed and complexity in the
+algorithm due to the existence of two coupling parameter and high security.
+Note that the ciphertext has a flat distribution and has the same size as the
+plaintext. Therefore, it is suitable for practical use in secure
+communications.

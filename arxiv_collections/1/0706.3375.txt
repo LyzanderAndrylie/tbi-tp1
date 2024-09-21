@@ -1,0 +1,10 @@
+Motivated by the recent demonstration of its use as a tool for the detection
+and characterization of phase-shape correlations in multivariate time series,
+we show that eigenvalue decomposition can also be applied to a matrix of
+indices of bivariate phase synchronization strength. The resulting method is
+able to identify clusters of synchronized oscillators, and to quantify their
+strength as well as the degree of involvement of an oscillator in a cluster.
+Since for the case of a single cluster the method gives similar results as our
+previous approach, it can be seen as a generalized Synchronization Cluster
+Analysis, extending its field of application to more complex situations. The
+performance of the method is tested by applying it to simulation data.

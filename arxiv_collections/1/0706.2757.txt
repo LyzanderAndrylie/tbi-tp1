@@ -1,0 +1,12 @@
+An exactly solvable model for the decoherence of one and two-qubit states
+interacting with a spin-bath, in the presence of a time-dependent magnetic
+field is studied. The magnetic field is static along $\hat{z}$ direction and
+oscillatory in the transverse plane. The transition probability and Rabi
+oscillations between the spin-states of a single qubit is shown to depend on
+the size of bath, the distribution of qubit-bath couplings and the initial bath
+polarization. In contrast to the fast Gaussian decay for short times, the
+polarization of the qubit shows an oscillatory power-law decay for long times.
+The loss of entanglement for the maximally entangled two-qubit states, can be
+controlled by tuning the frequency of the rotating field. The decay rates of
+entanglement and purity for all the Bell-states are same when the qubits are
+non-interacting, and different when they are interacting.

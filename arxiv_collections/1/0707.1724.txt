@@ -1,0 +1,24 @@
+Macroscopic mechanical objects and electromagnetic degrees of freedom couple
+to each other via radiation pressure. Optomechanical systems with sufficiently
+strong coupling are predicted to exhibit quantum effects and are a topic of
+considerable interest. Devices reaching this regime would offer new types of
+control of the quantum state of both light and matter and would provide a new
+arena in which to explore the boundary between quantum and classical physics.
+Experiments to date have achieved sufficient optomechanical coupling to
+laser-cool mechanical devices but have not yet reached the quantum regime. The
+outstanding technical challenge in this field is integrating sensitive
+micromechanical elements (which must be small, light, and flexible) into high
+finesse cavities (which are typically much more rigid and massive) without
+compromising the mechanical or optical properties of either. A second, and more
+fundamental, challenge is to read out the mechanical element's quantum state:
+displacement measurements (no matter how sensitive) cannot determine the energy
+eigenstate of an oscillator, and measurements which couple to quantities other
+than displacement have been difficult to realize. Here we present a novel
+optomechanical system which seems to resolve both these challenges. We
+demonstrate a cavity which is detuned by the motion of a thin dielectric
+membrane placed between two macroscopic, rigid, high-finesse mirrors. This
+approach segregates optical and mechanical functionality to physically distinct
+structures and avoids compromising either. It also allows for direct
+measurement of the square of the membrane's displacement, and thus in principle
+the membrane's energy eigenstate. We estimate it should be practical to use
+this scheme to observe quantum jumps of a mechanical system.

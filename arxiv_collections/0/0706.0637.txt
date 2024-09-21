@@ -1,0 +1,13 @@
+Axions are expected to be produced in the sun via the Primakoff process. They
+may be detected through the inverse process in the laboratory, under the
+influence of a strong magnetic field, giving rise to X-rays of energies in the
+range of a few keV. Such an Axion detector is the CERN Axion Solar Telescope
+(CAST), collecting data since 2003. Results have been published, pushing the
+axion-photon coupling g$_{a\gamma}$ below the 10$^{-10}$ GeV$^{-1}$ limit at
+95% CL, for axion masses less than 0.02 eV. This limit is nearly an order of
+magnitude lower than previous experimental limits and surpassed for the first
+time limits set from astrophysical arguments based on the energy-loss concept.
+The experiment is currently exploring axion masses in the range of 0.02 eV $<
+m_a <$ 1.1 eV. In the next run, currently under preparation, the axion mass
+explored will be extended up to the limit of 1.1 eV, testing for the first time
+the region of theoretical axion models with the axion helioscope method.

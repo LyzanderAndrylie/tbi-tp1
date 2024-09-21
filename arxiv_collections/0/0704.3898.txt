@@ -1,0 +1,15 @@
+We give two classes of spherically symmetric exact solutions of the couple
+gravitational and electromagnetic fields with charged source in the tetrad
+theory of gravitation. The first solution depends on an arbitrary function
+$H({R},t)$. The second solution depends on a constant parameter $\eta$. These
+solutions reproduce the same metric, i.e., the Reissner--Nordstr$\ddot{o}$m
+metric. If the arbitrary function which characterizes the first solution and
+the arbitrary constant of the second solution are set to be zero, then the two
+exact solutions will coincide with each other. We then calculate the energy
+content associated with these analytic solutions using the superpotential
+method. In particular, we examine whether these solutions meet the condition
+which M{\o}ller required for a consistent energy-momentum complex: Namely, we
+check whether the total four-momentum of an isolated system behaves as a
+four-vector under Lorentz transformations. It is then found that the arbitrary
+function should decrease faster than $1/\sqrt{R}$ for $R\to \infty$. It is also
+shown that the second exact solution meets the M{\o}ller's condition.

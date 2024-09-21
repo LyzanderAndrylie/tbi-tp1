@@ -1,0 +1,8 @@
+Population of a phononic mode coupled to a single-electron transistor in the
+sequential tunneling regime is discussed for the experimentally realistic case
+of intermediate electron-phonon coupling. Features like a sub-Poissonian
+bosonic distribution are found in regimes where electron transport drives the
+oscillator strongly out of equilibrium with only few phonon states selectively
+populated. The electron Fano factor is compared to fluctuations in the phonon
+distribution, showing that all possible combinations of sub- and
+super-Poissonian character can be realized.

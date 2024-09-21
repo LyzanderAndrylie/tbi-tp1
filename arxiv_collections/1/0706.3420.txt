@@ -1,0 +1,8 @@
+A finite temperature version of body-centered solid-on-solid growth models
+involving attachment and detachment of dimers is discussed in 1+1 dimensions.
+The dynamic exponent of the growing interface is studied numerically via the
+spectrum gap of the underlying evolution operator. The finite size scaling of
+the latter is found to be affected by a standard surface tension term on which
+the growth rates depend. This non-universal aspect is also corroborated by the
+growth behavior observed in large scale simulations. By contrast, the
+roughening exponent remains robust over wide temperature ranges.

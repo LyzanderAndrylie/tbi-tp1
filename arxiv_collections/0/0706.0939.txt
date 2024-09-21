@@ -1,0 +1,7 @@
+We report the first observation of `orbital truncation rods' -- the
+scattering arising from the termination of bulk orbital order at the surface of
+a crystal. The x-ray measurements, performed on a cleaved, single-layered
+perovskite, La0.5Sr1.5MnO4, reveal that while the crystallographic surface is
+atomically smooth, the orbital `surface' is much rougher, with an r.m.s.
+deviation from the average `surface' of ~0.7nm. The temperature dependence of
+this scattering shows evidence of a surface-induced second order transition.

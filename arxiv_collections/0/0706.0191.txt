@@ -1,0 +1,20 @@
+We present EVN observations of seven BL Lac objects selected from the RGB
+sample. To investigate the intrinsic radiation property of BL Lac objects, we
+estimated the Doppler factor with the VLA or MERLIN core and the total 408 MHz
+luminosity for a sample of 170 BL Lac objects. The intrinsic (comoving)
+synchrotron peak frequency was then calculated by using the estimated Doppler
+factor. Assuming a Lorentz factor of 5, the viewing angle of jets was
+constrained. The high-resolution VLBI images of seven sources all show a
+core-jet structure. We estimated the proper motions of three sources with the
+VLBI archive data, and find that the apparent speed increases with the distance
+of components to the core for all of them. In our BL Lacs sample, the Doppler
+factor of LBLs is systematically larger than that of IBLs and HBLs. We find a
+significant anti-correlation between the total 408 MHz luminosity and the
+intrinsic synchrotron peak frequency. However, the scatter is much larger than
+for the blazar sequence. Moreover, we find a significant positive correlation
+between the viewing angle and the intrinsic synchrotron peak frequency. The BL
+Lac objects show a continuous distribution on the viewing angle. While LBLs
+have a smaller viewing angle than that of IBLs and HBLs, IBLs are comparable to
+HBLs. We conclude that the intrinsic synchrotron peak frequency is not only
+related to the intrinsic radio power (though with a large scatter), but also to
+the viewing angle for the present sample.

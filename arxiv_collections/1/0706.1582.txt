@@ -1,0 +1,7 @@
+A femtosecond frequency comb provides a vast number of equidistantly spaced
+narrow band laser modes that can be simultaneously tuned and frequency
+calibrated with 15 digits accuracy. Our Vernier spectrometer utilizes all of
+theses modes in a massively parallel manner to rapidly record both absorption
+and dispersion spectra with a sensitivity that is provided by a high finesse
+broad band optical resonator and a resolution that is only limited by the
+frequency comb line width while keeping the required setup simple.

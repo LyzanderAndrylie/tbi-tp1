@@ -1,0 +1,7 @@
+Let $n=2,3,4,5$ and let $X$ be a smooth complex projective hypersurface of
+$\mathbb P^{n+1}$. In this paper we find an effective lower bound for the
+degree of $X$, such that every holomorphic entire curve in $X$ must satisfy an
+algebraic differential equation of order $k=n=\dim X$, and also similar bounds
+for order $k>n$. Moreover, for every integer $n\ge 2$, we show that there are
+no such algebraic differential equations of order $k<n$ for a smooth
+hypersurface in $\mathbb P^{n+1}$.

@@ -1,0 +1,5 @@
+Negative differential conductivity is reported for the far from equilibrium
+quantum spin transport in the insulating regime (J_x < J_z) of finite
+Heisenberg XXZ spin 1/2 chains. The phenomenon is reproduced analytically for
+small chains of N=4 spins and further analyzed numerically, for up to N=16,
+using an efficient pure-state simulation with stochastic spin baths.

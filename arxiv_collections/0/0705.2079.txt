@@ -1,0 +1,13 @@
+The Stark shift of the hyperfine coupling constant is investigated for a P
+donor in Si far below the ionization regime in the presence of interfaces using
+Tight-binding and Band Minima Basis approaches and compared to the recent
+precision measurements. The TB electronic structure calculations included over
+3 million atoms. In contrast to previous effective mass based results, the
+quadratic Stark coefficient obtained from both theories agrees closely with the
+experiments. This work represents the most sensitive and precise comparison
+between theory and experiment for single donor spin control. It is also shown
+that there is a significant linear Stark effect for an impurity near the
+interface, whereas, far from the interface, the quadratic Stark effect
+dominates. Such precise control of single donor spin states is required
+particularly in quantum computing applications of single donor electronics,
+which forms the driving motivation of this work.

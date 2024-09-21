@@ -1,0 +1,10 @@
+We verify to order alpha_s^4 two previously conjectured relations, valid in
+four dimensions, between constant terms in threshold resummation (for Deep
+Inelastic Scattering and the Drell-Yan process) and the second logarithmic
+derivative of the massless quark form factor. The same relations are checked to
+all orders in the large beta_0 limit; as a byproduct a dispersive
+representation of the form factor is obtained. These relations allow to compute
+in a symmetrical way the three-loop resummation coefficients B_3 and D_3 in
+terms of the three-loop contributions to the virtual diagonal splitting
+function and to the quark form factor, confirming results obtained in the
+literature.

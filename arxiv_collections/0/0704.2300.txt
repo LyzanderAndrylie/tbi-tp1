@@ -1,0 +1,9 @@
+Using three-dimensional k.p calculation including strain and
+piezoelectricity, we showed that the size of the quantum dot (QD) in the growth
+direction determines the influence of the (In,Ga)As capping layer on the
+optical properties of [11k] grown InAs QDs, where k=1,2,3. For flat dots,
+increase of In concentration in the capping layer leads to a decrease of the
+transition energy, as is the case of [001] grown QDs, whereas for large dots an
+increase of the In concentration in the capping layer is followed by an
+increase of the transition energy up to a critical concentration of In, after
+which the optical transition energy starts to decrease.

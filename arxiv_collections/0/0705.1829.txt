@@ -1,0 +1,7 @@
+The Double-Correlated phase in HTSC, and its treatment by field perturbation
+theory, is established. In particular, we define the ground state, the
+quasi-particle excitations, and construct an appropriate field. We also derive
+the unperturbed Hamiltonian, and the propagators for the unperturbed state.
+Then we discuss the perturbation Hamiltonian, and show that the Hartree diagram
+is significant for both the pseudogap and the superconductive order parameter,
+and suggest that it yields the major contribution to these parameters.

@@ -1,0 +1,11 @@
+Attaching a superconductor in good contact with a normal metal makes rise to
+a proximity effect where the superconducting correlations leak into the normal
+metal. An additional contact close to the first one makes it possible to carry
+a supercurrent through the metal. Forcing this supercurrent flow along with an
+additional quasiparticle current from one or many normal-metal reservoirs makes
+rise to many interesting effects. The supercurrent can be used to tune the
+local energy distribution function of the electrons. This mechanism also leads
+to finite thermoelectric effects even in the presence of electron-hole
+symmetry. Here we review these effects and discuss to which extent the existing
+observations of thermoelectric effects in metallic samples can be explained
+through the use of the dirty-limit quasiclassical theory.

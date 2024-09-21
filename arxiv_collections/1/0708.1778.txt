@@ -1,0 +1,11 @@
+Elemental chromium orders antiferromagnetically near room temperature, but
+the ordering temperature can be driven to zero by applying large pressures. We
+combine diamond anvil cell and synchrotron x-ray diffraction techniques to
+measure directly the spin and charge order in the pure metal at the approach to
+its quantum critical point. Both spin and charge order are suppressed
+exponentially with pressure, well beyond the region where disorder cuts off
+such a simple evolution, and they maintain a harmonic scaling relationship over
+decades in scattering intensity. By comparing the development of the order
+parameter with that of the magnetic wavevector, it is possible to ascribe the
+destruction of antiferromagnetism to the growth in electron kinetic energy
+relative to the underlying magnetic exchange interaction.

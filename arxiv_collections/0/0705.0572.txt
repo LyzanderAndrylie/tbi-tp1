@@ -1,0 +1,23 @@
+Mixed action lattice calculations allow for an additive lattice spacing
+dependent mass renormalization of mesons composed of one sea and one valence
+quark, regardless of the type of fermion discretization methods used in the
+valence and sea sectors. The value of the mass renormalization depends upon the
+lattice actions used. This mixed meson mass shift is an important lattice
+artifact to determine for mixed action calculations; because it modifies the
+pion mass, it plays a central role in the low energy dynamics of all hadronic
+correlation functions. We determine the leading order, $\mathcal{O}(a^2)$, and
+next to leading order, $\mathcal{O}(a^2 m_\pi^2)$, additive mass shift of
+\textit{valence-sea} mesons for a mixed lattice action with domain-wall valence
+fermions and rooted staggered sea fermions, relevant to the majority of current
+large scale mixed action lattice efforts. We find that on the asqtad improved
+coarse MILC lattices, this additive mass shift is well parameterized in lattice
+units by $\Delta(am)^2 = 0.034(2) -0.06(2) (a m_\pi)^2$, which in physical
+units, using $a=0.125$ fm, corresponds to $\Delta(m)^2 = (291\pm 8
+\textrm{MeV})^2 -0.06(2) m_\pi^2$. In terms of the mixed action effective field
+theory parameters, the corresponding mass shift is given by $a^2
+\Delta_\mathrm{Mix} = (316 \pm 4 \textrm{MeV})^2$ at leading order plus
+next-to-leading order corrections including the necessary chiral logarithms for
+this mixed action calculation, determined in this work. Within the precision of
+our calculation, one can not distinguish between the full next-to-leading order
+effective field theory analysis of this additive mixed meson mass shift and the
+parameterization given above.

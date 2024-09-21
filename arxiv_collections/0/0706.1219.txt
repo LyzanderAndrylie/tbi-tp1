@@ -1,0 +1,12 @@
+We consider a natural generalization of an abelian Hidden Subgroup Problem
+where the subgroups and their cosets correspond to graphs of linear functions
+over a finite field F with d elements. The hidden functions of the generalized
+problem are not restricted to be linear but can also be m-variate polynomial
+functions of total degree n>=2.
+  The problem of identifying hidden m-variate polynomials of degree less or
+equal to n for fixed n and m is hard on a classical computer since
+Omega(sqrt{d}) black-box queries are required to guarantee a constant success
+probability. In contrast, we present a quantum algorithm that correctly
+identifies such hidden polynomials for all but a finite number of values of d
+with constant probability and that has a running time that is only
+polylogarithmic in d.

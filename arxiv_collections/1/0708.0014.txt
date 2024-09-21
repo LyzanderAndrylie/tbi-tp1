@@ -1,0 +1,10 @@
+The design of a 671 nm diode laser with a mode-hop-free tuning range of 40
+GHz is described. This long tuning range is achieved by simultaneously ramping
+the external cavity length with the laser injection current. The external
+cavity consists of a microscope cover slip mounted on piezoelectric actuators.
+In such a configuration the laser output pointing remains fixed, independent of
+its frequency. Using a diode with an output power of 5-7 mW, the laser
+linewidth was found to be smaller than 30 MHz. This cover slip cavity and
+feedforward laser current control system is simple, economical, robust, and
+easy to use for spectroscopy, as we demonstrate with lithium vapor and lithium
+atom beam experiments.

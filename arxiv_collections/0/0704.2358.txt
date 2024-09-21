@@ -1,0 +1,14 @@
+We present a theoretical study of the density of states and supercurrent in
+diffusive superconductor-normal metal-superconductor (SNS) junctions. In
+particular, we study the influence on these two equilibrium properties of both
+an arbitrary transparency of the SN interfaces and the presence of spin-flip
+scattering in the normal wire. We show that the minigap that is present in the
+spectrum of the diffusive wire is very sensitive to the interface transmission.
+More mportantly, we show that at arbitrary transparency the minigap replaces
+the Thouless energy as the relevant energy scale for the proximity effect,
+determining for instance the temperature dependence of the critical current. We
+also study in detail how the critical current is suppressed by the effect of
+spin-flip scattering, which can be due to either magnetic impurities or, under
+certain circumstances, to an external magnetic field. Our analysis based on the
+quasiclassical theory of diffusive superconductors can be very valuable to
+establish quantitative comparisons between experiment and theory.

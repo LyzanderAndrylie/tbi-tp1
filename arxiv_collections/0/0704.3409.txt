@@ -1,0 +1,11 @@
+We study the production of Mueller-Navelet jets at hadron colliders in the
+Balitsky-Fadin-Kuraev-Lipatov (BFKL) framework. We show that a measurement of
+the relative azimuthal angle \Delta\Phi between the jets can provide a good
+testing ground for corrections due to next-leading logarithms (NLL). Besides
+the well-known azimuthal decorrelation with increasing rapidity interval
+\Delta\eta between the jets, we propose to also measure this effect as a
+function of R=k_2/k_1, the ratio between the jets transverse momenta. Using
+renormalisation-group improved NLL kernel, we obtain predictions for
+d\sigma/d\Delta\eta dR d\Delta\Phi. We analyse NLL-scheme and
+renormalisation-scale uncertainties, and energy-momentum conservation effects,
+in order to motivate a measurement at the Tevatron and the LHC.

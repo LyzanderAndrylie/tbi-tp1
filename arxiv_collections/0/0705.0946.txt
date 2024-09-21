@@ -1,0 +1,9 @@
+By using only combinatorial data on two posets X and Y, we construct a set of
+so-called formulas. A formula produces simultaneously, for any abelian category
+A, a functor between the categories of complexes of diagrams over X and Y with
+values in A. This functor induces a triangulated functor between the
+corresponding derived categories.
+  This allows us to prove, for pairs X, Y of posets sharing certain common
+underlying combinatorial structure, that for any abelian category A, regardless
+of its nature, the categories of diagrams over X and Y with values in A are
+derived equivalent.

@@ -1,0 +1,19 @@
+We show how the SUSY flavour and CP problems can be solved using gauged SU(3)
+family symmetry previously introduced to describe quark and lepton masses and
+mixings, in particular neutrino tri-bimaximal mixing via constrained sequential
+dominance. The Yukawa and soft trilinear and scalar mass squared matrices and
+kinetic terms are expanded in powers of the flavons used to spontaneously break
+the SU(3) family symmetry, and the canonically normalized versions of these
+matrices are constructed. The soft mass matrices are then expressed in the
+Super-CKM basis, and the leading order mass insertion parameters are
+calculated, and are shown to satisfy the experimental constraints from flavour
+changing neutral current processes. Assuming that CP is spontaneously broken by
+the flavons, the next-to-leading order effects responsible for CP violation are
+then estimated, and the predictions for electric dipole moments are shown to be
+an order of magnitude more suppressed than those predicted from the constrained
+minimal supersymmetric standard model (CMSSM), and may be further suppressed if
+the high energy trilinear soft parameter is assumed to be relatively small. We
+also predict that, unlike in the CMSSM, epsilon_K'/epsilon_K may be dominated
+by the SUSY operator O_8. We also discuss the additional constraints from
+unification, which can lead to further predictions for flavour changing in our
+scheme.

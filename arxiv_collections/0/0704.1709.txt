@@ -1,0 +1,9 @@
+Nous montrons comment il est possible d'utiliser l'algorithme d'auto
+organisation de Kohonen pour traiter des donn\'ees avec valeurs manquantes et
+estimer ces derni\`eres. Apr\`es un rappel m\'ethodologique, nous illustrons
+notre propos \`a partir de trois applications \`a des donn\'ees r\'eelles.
+  -----
+  We show how it is possible to use the Kohonen self-organizing algorithm to
+deal with data which contain missing values and to estimate them. After a
+methodological recall, we illustrate our purpose from three real databases
+applications.

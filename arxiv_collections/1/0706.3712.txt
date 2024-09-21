@@ -1,0 +1,10 @@
+We report evaluations of a resonant kinetic equation that suggest the slow
+time evolution of the Garrett and Munk spectrum is {\em not}, in fact, slow.
+Instead nonlinear transfers lead to evolution time scales that are smaller than
+one wave period at high vertical wavenumber. Such values of the transfer rates
+are inconsistent with conventional wisdom that regards the Garrett and Munk
+spectrum as an approximate stationary state and puts the self-consistency of a
+resonant kinetic equation at a serious risk. We explore possible reasons for
+and resolutions of this paradox. Inclusion of near-resonant interactions
+decreases the rate at which the spectrum evolves. This leads to improved
+self-consistency of the kinetic equation.

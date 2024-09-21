@@ -1,0 +1,6 @@
+A Chevalley type integral basis for the ortho-symplectic Lie superalgebra is
+constructed. The simple modules of the ortho-symplectic supergroup over an
+algebraically closed field of prime characteristic not equal to 2 are
+classified, where a key combinatorial ingredient comes from the Mullineux
+conjecture on modular representations of the symmetric group. A Steinberg
+tensor product theorem for the ortho-symplectic supergroup is also obtained.

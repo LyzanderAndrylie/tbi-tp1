@@ -1,0 +1,9 @@
+The renormalizable Abelian quantum field theory model of Kroll, Lee, and
+Zumino is used to compute the one-loop vertex corrections to the tree-level,
+Vector Meson Dominance (VMD) pion form factor. These corrections, together with
+the known one-loop vacuum polarization contribution, lead to a substantial
+improvement over VMD. The resulting pion form factor in the space-like region
+is in excellent agreement with data in the whole range of accessible momentum
+transfers. The time-like form factor, known to reproduce the Gounaris-Sakurai
+formula at and near the rho-meson peak, is unaffected by the vertex correction
+at order $\cal{O}$$(g_\rpp^2)$.

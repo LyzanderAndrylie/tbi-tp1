@@ -1,0 +1,11 @@
+We conduct nonequilibrium molecular dynamics simulations to measure the shear
+stress, the average inherent structure energy, and the effective temperature
+$T_{eff}$ of a sheared model glass as a function of bath temperature $T$ and
+shear strain rate. For $T$ above the glass transition temperature $T_0$, the
+rheology approaches a Newtonian limit and $T_{eff}$ approaches $T$ as the
+strain rate approaches zero, while for $T<T_0$, the shear stress approaches a
+yield stress and $T_{eff}$ approaches a limiting value near $T_0$. In the
+shear-dominated regime at high $T$, high strain rate or at low $T$, we find
+that the shear stress and the average inherent structure energy each collapse
+onto a single curve as a function of $T_{eff}$. This indicates that $T_{eff}$
+is controlling behavior in this regime.

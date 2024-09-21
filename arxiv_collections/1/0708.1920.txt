@@ -1,0 +1,8 @@
+We study the system of two quantum dots lying on the central plane of a
+planar semiconductor microcavity. By solving the full Maxwell problem, we
+demonstrate that the rate of resonant excitation transfer between the two dots
+decays as $d^{-1/2}$ as a function of the distance $d$ at long distance. This
+very long-range mechanism is due to the leaky and guided modes of the
+microcavity, which act as effective radiative transfer channels. At short
+distance, the $d^{-3}$ dependence of the F\"orster mechanism, induced by the
+electrostatic dipole-dipole interaction, is recovered.

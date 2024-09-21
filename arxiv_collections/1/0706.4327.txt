@@ -1,0 +1,23 @@
+We combine Bethe Ansatz and field theory methods to study the longitudinal
+dynamical structure factor S^{zz}(q,omega) for the anisotropic spin-1/2 chain
+in the gapless regime. Using bosonization, we derive a low energy effective
+model, including the leading irrelevant operators (band curvature terms) which
+account for boson decay processes. The coupling constants of the effective
+model for finite anisotropy and finite magnetic field are determined exactly by
+comparison with corrections to thermodynamic quantities calculated by Bethe
+Ansatz. We show that a good approximation for the shape of the on-shell peak of
+S^{zz}(q,omega) in the interacting case is obtained by rescaling the result for
+free fermions by certain coefficients extracted from the effective Hamiltonian.
+In particular, the width of the on-shell peak is argued to scale like delta
+omega_{q} ~ q^2 and this prediction is shown to agree with the width of the
+two-particle continuum at finite fields calculated from the Bethe Ansatz
+equations. An exception to the q^2 scaling is found at finite field and large
+anisotropy parameter (near the isotropic point). We also present the
+calculation of the high-frequency tail of S^{zz}(q,\omega) in the region delta
+omega_{q}<< omega-vq << J using finite-order perturbation theory in the band
+curvature terms. Both the width of the on-shell peak and the high-frequency
+tail are compared with S^{zz}(q,omega) calculated by Bethe Ansatz for finite
+chains using determinant expressions for the form factors and excellent
+agreement is obtained. Finally, the accuracy of the form factors is checked
+against the exact first moment sum rule and the static structure factor
+calculated by Density Matrix Renormalization Group (DMRG).

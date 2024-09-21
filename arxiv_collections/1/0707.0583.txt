@@ -1,0 +1,7 @@
+A concept for a low loss all-reflective cavity coupler is experimentally
+demonstrated at a wavelength of 1064 nm. A 1450 nm period dielectric reflection
+grating with a diffraction efficiency of 0.58 % in the -1st order is used in
+2nd order Littrow configuration as a coupler to form a cavity with a finesse of
+400. The application of such reflective low-loss cavity couplers in future
+generations of gravitational-wave detectors as well as some implementation
+issues are discussed.

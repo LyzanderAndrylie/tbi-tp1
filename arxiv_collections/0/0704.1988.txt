@@ -1,0 +1,8 @@
+By means of low-temperature expansions (LTEs), the nucleation free energy and
+the precipitate interface free energy are expressed as functions of the
+solubility limit for alloys which lead to the precipitation of a stoichiometric
+L12 compound such as Al-Sc or Al-Zr alloys. Classical nucleation theory is then
+used to obtain a simple expression of the nucleation rate whose validity is
+demonstrated by a comparison with atomic simulations. LTEs also explain why
+simple mean-field approximation like the Bragg-Williams approximation fails to
+predict correct nucleation rates in such an ordering alloy.

@@ -1,0 +1,12 @@
+We study an evolutionary algorithm that locally adapts thresholds and wiring
+in Random Threshold Networks, based on measurements of a dynamical order
+parameter. A control parameter $p$ determines the probability of threshold
+adaptations vs. link rewiring. For any $p < 1$, we find spontaneous symmetry
+breaking into a new class of self-organized networks, characterized by a much
+higher average connectivity $\bar{K}_{evo}$ than networks without threshold
+adaptation ($p =1$). While $\bar{K}_{evo}$ and evolved out-degree distributions
+are independent from $p$ for $p <1$, in-degree distributions become broader
+when $p \to 1$, approaching a power-law. In this limit, time scale separation
+between threshold adaptions and rewiring also leads to strong correlations
+between thresholds and in-degree. Finally, evidence is presented that networks
+converge to self-organized criticality for large $N$.

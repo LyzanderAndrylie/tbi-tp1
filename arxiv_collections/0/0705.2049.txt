@@ -1,0 +1,9 @@
+The 200 K protein dynamical transition is observed for the first time in the
+teraherz dielectric response. The complex dielectric permittivity $\epsilon$ =
+$\epsilon$' + i$\epsilon$" is determined in the 0.2 - 2.0 THz and 80-294 K
+ranges. $\epsilon$" has a linear temperature dependence up to 200 K then
+sharply increases. The low temperature linear dependence in $\epsilon$"
+indicates anharmonicity for temperatures 80 K < T < 180 K, challenging the
+assumed harmonicity below 200K. The temperature dependence is consistent with
+beta relaxation response and shows the protein motions involved in the
+dynamical transition extend to subpicosecond time scales.

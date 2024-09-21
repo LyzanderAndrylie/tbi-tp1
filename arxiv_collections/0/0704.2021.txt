@@ -1,0 +1,8 @@
+We investigate possible mass shift and width broadening of J/psi in hot
+gluonic matter using QCD sum rule. Input values of gluon condensates at finite
+temperature are extracted from lattice QCD data for the energy density and
+pressure. Although stability of the moment ratio is achieved only up to T/Tc ~
+1.05, the gluon condensates cause a decrease of the moment ratio, which results
+in change of spectral properties. Using the Breit-Wigner form for the
+phenomenological side, we find that mass shift of J/psi just above Tc can reach
+maximally 200 MeV and width can broaden to dozens of MeV.

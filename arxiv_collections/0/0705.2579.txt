@@ -1,0 +1,8 @@
+Capacitance-voltage characteristics of individual germanium nanowire field
+effect transistors were directly measured and used to assess carrier mobility
+in nanowires for the first time; thereby removing uncertainties in calculated
+mobility due to device geometries, surface and interface states and gate
+dielectric constants and thicknesses. Direct experimental evidence showed that
+surround-gated nanowire transistors exhibit higher capacitance and better
+electrostatic gate control than top-gated devices, and are the most promising
+structure for future high performance nanoelectronics.

@@ -1,0 +1,15 @@
+A class of semi-parametric hazard/failure rates with a bathtub shape is of
+interest. It does not only provide a great deal of flexibility over existing
+parametric methods in the modeling aspect but also results in a closed and
+tractable Bayes estimator for the bathtub-shaped failure rate (BFR). Such an
+estimator is derived to be a finite sum over two $\mathbf{S}$-paths due to an
+explicit posterior analysis in terms of two (conditionally independent)
+$\mathbf{S}$-paths. These, newly discovered, explicit results can be proved to
+be a Rao-Blackwellization of counterpart results in terms of partitions that
+are readily available by a specialization of James (2005)'s work. We develop
+both iterative and non-iterative computational procedures based on existing
+efficient Monte Carlo methods for sampling one single $\mathbf{S}$-path.
+Nmerical simulations are given to demonstrate the practicality and the
+effectiveness of our methodology. Last but not least, two applications of the
+proposed method are discussed, of which one is about a Bayesian test for
+failure rates and the other is related to modeling with covariates.

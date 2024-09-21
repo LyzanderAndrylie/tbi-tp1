@@ -1,0 +1,14 @@
+This paper details the use of the IT Infrastructure Library Framework (ITIL)
+for optimising process workflows in the IT Service Centre of Harz University in
+Wernigerode, Germany, exemplified by the Release Management Process. It is
+described, how, during the course of a special ITIL project, the As-Is-Status
+of the various original processes was documented as part of the process life
+cycle and then transformed in the To-Be-Status, according to the ITIL Best
+Practice Framework. It is also shown, how the ITIL framework fits into the
+four-layered-process model, that could be derived from interviews with the
+universities IT support staff, and how the various modified processes
+interconnect with each other to form a value chain. The paper highlights the
+final results of the project and gives an outlook on the future use of ITIL as
+a business modelling tool in the IT Service Centre of Harz University. It is
+currently being considered, whether the process model developed during the
+project could be used as a reference model for other university IT centres.

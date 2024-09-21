@@ -1,0 +1,8 @@
+We study frustrated quantum systems from a quantum information perspective.
+Within this approach, we find that highly frustrated systems do not follow any
+general ''area law'' of block entanglement, while weakly frustrated ones have
+area laws similar to those of nonfrustrated systems away from criticality. To
+calculate the block entanglement in systems with degenerate ground states,
+typical in frustrated systems, we define a ''cooling'' procedure of the ground
+state manifold, and propose a frustration degree and a method to quantify
+constructive and destructive interference effects of entanglement.

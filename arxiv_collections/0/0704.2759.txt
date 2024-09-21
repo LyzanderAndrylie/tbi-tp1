@@ -1,0 +1,7 @@
+In the present article, we introduce a model to investigate the energy
+spectrum of a relativistic rotor by considering the Klein-Gordon Hamiltonian.
+Rotational spectral lines are a signature of homonuclear and heteronuclear
+systems and play a key role in understanding diatomic molecules. We show that
+the energy-correction term arising due to unequal masses influences the line
+separation. Determining the rotational constant enables one to calculate the
+moment of inertia and bond length of the molecule.

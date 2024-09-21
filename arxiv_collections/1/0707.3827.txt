@@ -1,0 +1,21 @@
+We show that the optical and electronic properties of nanocrystalline silicon
+can be efficiently tuned using impurity doping. In particular, we give
+evidence, by means of ab-initio calculations, that by properly controlling the
+doping with either one or two atomic species, a significant modification of
+both the absorption and the emission of light can be achieved. We have
+considered impurities, either boron or phosphorous (doping) or both (codoping),
+located at different substitutional sites of silicon nanocrystals with size
+ranging from 1.1 nm to 1.8 nm in diameter. We have found that the codoped
+nanocrystals have the lowest impurity formation energies when the two
+impurities occupy nearest neighbor sites near the surface. In addition, such
+systems present band-edge states localized on the impurities giving rise to a
+red-shift of the absorption thresholds with respect to that of undoped
+nanocrystals. Our detailed theoretical analysis shows that the creation of an
+electron-hole pair due to light absorption determines a geometry distortion
+that in turn results in a Stokes shift between adsorption and emission spectra.
+In order to give a deeper insight in this effect, in one case we have
+calculated the absorption and emission spectra going beyond the single-particle
+approach showing the important role played by many-body effects. The entire set
+of results we have collected in this work give a strong indication that with
+the doping it is possible to tune the optical properties of silicon
+nanocrystals.

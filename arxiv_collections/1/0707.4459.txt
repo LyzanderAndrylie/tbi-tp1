@@ -1,0 +1,5 @@
+We propose a segment description for turbulent solutions to evolution
+equations in an effort to develop an effective description rather than the
+classical Reynolds average. The new description has connections with symbolic
+dynamics and shadowing technique. The challenge of future study is how to
+effectively implement the description numerically.

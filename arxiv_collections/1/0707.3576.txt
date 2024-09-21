@@ -1,0 +1,12 @@
+We report the forbidden $6s^{2} ^{1}S_{0}\longrightarrow6s5d ^{3}D_{1}$
+magnetic-dipole transition amplitude computed using multi-reference Fock-space
+coupled-cluster theory. Our computed transition matrix element
+($1.34\times10^{-4}\mu_{B}$) is in excellent agreement with the experimental
+value ($1.33\times10^{-4}$ $\mu_{B}$). This value in combination with other
+known quantities will be helpful to determine the parity non-conserving
+amplitude for the $6s^{2} ^{1}S_{0}\longrightarrow6s5d ^{3}D_{1}$ transition in
+atomic Yb. To our knowledge our calculation is the most accurate to date and
+can be very important in the search of physics beyond the standard model. We
+further report the $6s6p ^{3}P_{0}\longrightarrow6s6p ^{1}P_{1}$ and $6s5d
+^{3}D_{1}\longrightarrow6s6p ^{3}P_{0}$ transition matrix elements which are
+also in good agreement with the earlier theoretical estimates.

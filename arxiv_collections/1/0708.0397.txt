@@ -1,0 +1,6 @@
+Finite presentations for the mapping class group M(F) are known for arbitrary
+orientable compact surface F. If F is non-orientable, then such presentations
+are known only when F has genus at most 3 and few boundary components. In this
+paper we obtain finite presentation for the mapping class group of the closed
+non-orientable surface of genus 4 from its action on the so called ordered
+complex of curves.

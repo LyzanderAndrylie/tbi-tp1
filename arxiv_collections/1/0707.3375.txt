@@ -1,0 +1,10 @@
+This is basically the text of a survey talk (entitled 'Painleve, Klein and
+the icosahedron') given at Hitchin's 60th birthday conference. It discusses the
+search for and construction of algebraic solutions of the sixth Painleve
+differential equation, which may be viewed as a nonlinear analogue of the Gauss
+hypergeometric equation. Both algebraic and transcendental methods are used and
+the story involves affine Weyl groups, braid groups and cubic surfaces. Some
+emphasis is given to the interpretation of the sixth Painleve equation as the
+explicit form of the simplest nonabelian Gauss-Manin connection, i.e. as a
+nonlinear differential equation 'coming from geometry', much as Picard-Fuchs
+equations arise in the case of cohomology with abelian coefficients.

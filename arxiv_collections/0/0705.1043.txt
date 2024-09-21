@@ -1,0 +1,9 @@
+We study a recently introduced model of one-component glass-forming liquids
+whose constituents interact with anisotropic potential. This system is
+interesting per-se and as a model of liquids like glycerol (interacting via
+hydrogen bonds) which are excellent glass formers. We work out the statistical
+mechanics of this system, encoding the liquid and glass disorder using
+appropriate quasi-particles (36 of them). The theory provides a full
+explanation of the glass transition phenomenology, including the identification
+of a diverging length scale and a relation between the structural changes and
+the diverging relaxation times.

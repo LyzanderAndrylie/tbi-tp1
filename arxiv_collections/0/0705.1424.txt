@@ -1,0 +1,7 @@
+We show that any two different unitary operations acting on an arbitrary
+multipartite quantum system can be perfectly distinguishable by local
+operations and classical communication when a finite number of runs is allowed.
+We then directly extend this result into the case when the number of unitary
+operations to be discriminated is more than two. Intuitively, our result means
+that the lost identity of a nonlocal (entangled) unitary operation can be
+recovered locally, without any use of entanglement or joint quantum operations.

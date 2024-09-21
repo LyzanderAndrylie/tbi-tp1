@@ -1,0 +1,5 @@
+We show how the entangled photons produced in parametric down conversion can
+be used to improve the sensitivity of a Sagnac interferometer. Two-photon and
+four-photon coincidences increases the sensitivity by a factor of two and four
+respectively. Our results apply to sources with arbitrary pumping and squeezing
+parameters.

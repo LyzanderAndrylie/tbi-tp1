@@ -1,0 +1,8 @@
+This paper gives a way to renormalise certain quantum field theories on
+compact manifolds. Examples include Yang-Mills theory (in dimension 4 only),
+Chern-Simons theory and holomorphic Chern-Simons theory. The method is within
+the framework of the Batalin-Vilkovisky formalism. Chern-Simons theory is
+renormalised in a way respecting all symmetries (up to homotopy). This yields
+an invariant of smooth manifolds: a certain algebraic structure on the
+cohomology of the manifold tensored with a Lie algebra, which is a "higher
+loop" enrichment of the natural Lie-infinity structure.

@@ -1,0 +1,4 @@
+In this note we correct an omission in our paper (Satheesh and Sandhya, 2005)
+in defining semi-selfdecomposable laws and also show with examples that the
+marginal distributions of a stationary AR(1) process need not even be
+infinitely divisible.

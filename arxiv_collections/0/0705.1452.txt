@@ -1,0 +1,6 @@
+In this paper, we propose a way of assigning static type information to
+unmarshalling functions and we describe a verification technique for
+unmarshalled data that preserves the execution safety provided by static type
+checking. This technique, whose correctness is proven, relies on singleton
+types whose values are transmitted to unmarshalling routines at runtime, and on
+an efficient checking algorithm able to deal with sharing and cycles.

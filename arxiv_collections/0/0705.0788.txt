@@ -1,0 +1,8 @@
+We experimentally investigate nonlinear couplings between vibrational modes
+of strings of cold ions stored in linear ion traps. The nonlinearity is caused
+by the ions' Coulomb interaction and gives rise to a Kerr-type interaction
+Hamiltonian H = n_r*n_s, where n_r,n_s are phonon number operators of two
+interacting vibrational modes. We precisely measure the resulting oscillation
+frequency shift and observe a collapse and revival of the contrast in a Ramsey
+experiment. Implications for ion trap experiments aiming at high-fidelity
+quantum gate operations are discussed.

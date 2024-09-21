@@ -1,0 +1,8 @@
+We report the experimental demonstration of a one-way quantum protocol
+reliably operating in the presence of decoherence. Information is protected by
+designing an appropriate decoherence-free subspace for a cluster state
+resource. We demonstrate our scheme in an all-optical setup, encoding the
+information into the polarization states of four photons. A measurement-based
+one-way information-transfer protocol is performed with the photons exposed to
+severe symmetric phase-damping noise. Remarkable protection of information is
+accomplished, delivering nearly ideal outcomes.

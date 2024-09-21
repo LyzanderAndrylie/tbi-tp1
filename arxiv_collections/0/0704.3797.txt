@@ -1,0 +1,19 @@
+In this paper we analyse the mechanisms responsible for the bonding of
+electrons to metal surfaces. We present and validate a method to measure the
+energy distribution of dense electron ensembles at ambient conditions. We have
+found sharp structures in the energy distribution of charge confined at metal
+surfaces. These structures correspond to the onset of space charge i.e.
+electron emission. The threshold energy for emission increases linear with the
+free electron density. We conclude that the work function is a direct measure
+of the Hartree-Fock exchange energy. Remarkably, the emissions that have been
+observed do not obey the Einstein-Millikan threshold relation for the photo
+electric effect. By discrimination between requirements for energy and momentum
+we deduce that electron emissions are trigged by photon momentum. We claim that
+the photo electric effect is the result of a phase transition in an electron
+gas that connects a surface bound, condensed state to a free continuum state.
+The assignment of a phase transition to the effect under consideration is
+justified by analyzing the behaviour of the Fermi-Dirac energy distribution
+upon raising the Fermi level. We predict an abrupt increment in the number of
+electrons in the continuum that exceeds 70 orders of magnitude. Both the
+observed threshold energy and the line shape of the transition are in good
+agreement with theoretical predictions.

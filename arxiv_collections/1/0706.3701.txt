@@ -1,0 +1,13 @@
+We investigate continuous variable quantum teleportation using non-Gaussian
+states of the radiation field as entangled resources. We compare the
+performance of different classes of degaussified resources, including two-mode
+photon-added and two-mode photon-subtracted squeezed states. We then introduce
+a class of two-mode squeezed Bell-like states with one-parameter dependence for
+optimization. These states interpolate between and include as subcases
+different classes of degaussified resources. We show that optimized squeezed
+Bell-like resources yield a remarkable improvement in the fidelity of
+teleportation both for coherent and nonclassical input states. The
+investigation reveals that the optimal non-Gaussian resources for continuous
+variable teleportation are those that most closely realize the simultaneous
+maximization of the content of entanglement, the degree of affinity with the
+two-mode squeezed vacuum and the, suitably measured, amount of non-Gaussianity.

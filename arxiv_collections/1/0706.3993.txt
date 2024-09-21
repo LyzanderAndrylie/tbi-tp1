@@ -1,0 +1,12 @@
+Quantum resonance (QR) is defined in the free-falling frame of the quantum
+kicked particle subjected to gravity. The general QR conditions are derived.
+They imply the rationality of the gravity parameter $\eta$, the kicking-period
+parameter $\tau /(2\pi)$, and the quasimomentum $\beta$. Exact results are
+obtained concerning wave-packet evolution for arbitrary periodic kicking
+potentials in the case of integer $\tau /(2\pi)$ (the main QRs). It is shown
+that a quantum ratchet generally arises in this case for resonant $\beta$. The
+noninertial nature of the free-falling frame affects the ratchet by effectively
+changing the kicking potential to one depending on $(\beta ,\eta)$. For a
+simple class of initial wave packets, it is explicitly shown that the ratchet
+characteristics are determined to a large extent by symmetry properties and by
+number-theoretical features of $\eta$.

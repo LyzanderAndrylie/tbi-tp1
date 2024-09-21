@@ -1,0 +1,13 @@
+A Gauss-Bonnet dark energy model is considered, which is inspired in
+string/M-theory and takes also into account quantum contributions. Those are
+introduced from a conformal quantum anomaly. The corresponding solutions for
+the Hubble rate, $H$, are studied starting from the Friedmann-Robertson-Walker
+equation. It is seen that, as a pure effect of the quantum contributions, a new
+solution for $H$ exists in some region, which does not appear in the classical
+case. The behavior of all encountered solutions is studied with care, in
+particular, the role played by the quantum correction term--which depends on
+the number of matter fields--on the stability of the solutions around its
+asymptotic value. It is argued that, contrary to what happens in the classical
+case, quantum effects remarkably lead to the realization of a de Sitter stage
+which corresponds to the inflation/dark energy stages, even for positive values
+of the f_0 constant (coupling of the field with the Gauss-Bonnet invariant).

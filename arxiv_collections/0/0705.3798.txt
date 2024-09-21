@@ -1,0 +1,5 @@
+This paper extends the inductive approach to the lace expansion of van der
+Hofstad and Slade in order to prove Gaussian asymptotic behaviour for models
+with critical dimension other than 4. The results are applied by Holmes to
+study sufficiently spread-out lattice trees in dimensions d>8 and may also be
+applicable to percolation in dimensions d>6.

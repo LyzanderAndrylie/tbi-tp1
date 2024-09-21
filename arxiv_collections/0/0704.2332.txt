@@ -1,0 +1,16 @@
+Millimeter interferometry provides evidence for the presence of mm to cm size
+"pebbles" in the outer parts of disks around pre-main-sequence stars. The
+observations suggest that large grains are produced relatively early in disk
+evolution (< 1 Myr) and remain at large radii for longer periods of time (5 to
+10 Myr). Simple theoretical estimates of the radial drift time of solid
+particles, however, imply that they would drift inward over a time scale of
+less than 0.1 Myr. In this paper, we address this conflict between theory and
+observation, using more detailed theoretical models, including the effects of
+sedimentation, collective drag forces and turbulent viscosity. We find that,
+although these effects slow down the radial drift of the dust particles, this
+reduction is not sufficient to explain the observationally determined long
+survival time of mm/cm-sized grains in protoplanetary disks. However, if for
+some reason the gas to dust ratio in the disk is reduced by at least a factor
+of 20 from the canonical value of 100 (for instance through photoevaporation of
+the gas), then the radial drift time scales become sufficiently large to be in
+agreement with observations.

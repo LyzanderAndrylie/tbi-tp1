@@ -1,0 +1,13 @@
+We argue, in contrast to recent studies, that the antiferromagnetic
+superexchange coupling between nearest neighbour spins does not fully destroy
+the ferromagnetism in dilute magnets with long-ranged ferromagnetic couplings.
+Above a critical coupling, we find a \textit{canted} ferromagnetic phase with
+unsaturated moment. We have calculated the transition temperature using a
+simplified local Random Phase Approximation procedure which accounts for the
+canting. For the dilute magnetic semiconductors, such as GaMnAs, using
+\textit{ab-initio} couplings allows us to predict the existence of a canted
+phase and provide an explanation to the apparent contradictions observed in
+experimental measurements. Finally, we have compared with previous studies that
+used RKKY couplings and reported non-ferromagnetic state when the superexchange
+is too strong. Even in this case the ferromagnetism should remain essentially
+stable in the form of a canted phase.

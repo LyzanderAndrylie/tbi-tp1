@@ -1,0 +1,10 @@
+Using probabilistic approach, the transient dynamics of sparsely connected
+Hopfield neural networks is studied for arbitrary degree distributions. A
+recursive scheme is developed to determine the time evolution of overlap
+parameters. As illustrative examples, the explicit calculations of dynamics for
+networks with binomial, power-law, and uniform degree distribution are
+performed. The results are good agreement with the extensive numerical
+simulations. It indicates that with the same average degree, there is a gradual
+improvement of network performance with increasing sharpness of its degree
+distribution, and the most efficient degree distribution for global storage of
+patterns is the delta function.

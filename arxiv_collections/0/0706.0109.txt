@@ -1,0 +1,13 @@
+We present magnetic and tunnel transport properties of
+(Ga,Mn)As/(In,Ga)As/(Ga,Mn)As structure before and after adequate annealing
+procedure. The conjugate increase of magnetization and tunnel magnetoresistance
+obtained after annealing is shown to be associated to the increase of both
+exchange energy $\Delta$$_{exch}$ and hole concentration by reduction of the Mn
+interstitial atom in the top magnetic electrode. Through a 6x6 band k.p model,
+we established general phase diagrams of tunneling magnetoresistance (TMR) and
+tunneling anisotropic magnetoresistance (TAMR) \textit{vs.} (Ga,Mn)As Fermi
+energy (E$_F$) and spin-splitting parameter (B$_G$). This allows to give a
+rough estimation of the exchange energy $\Delta$$_{exch}$=6B$_G$$\simeq$120 meV
+and hole concentration p$\simeq1.10^{20}$cm$^{-3}$ of (Ga,Mn)As and beyond
+gives the general trend of TMR and TAMR \textit{vs.} the selected hole band
+involved in the tunneling transport.

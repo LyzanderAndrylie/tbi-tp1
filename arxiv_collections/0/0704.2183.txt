@@ -1,0 +1,11 @@
+We consider random boolean cellular automata on the integer lattice, i.e.,
+the cells are identified with the integers from 1 to $N$. The behaviour of the
+automaton is mainly determined by the support of the random variable that
+selects one of the sixteen possible Boolean rules, independently for each cell.
+A cell is said to stabilize if it will not change its state anymore after some
+time. We classify the random boolean automata according to the positivity of
+their probability of stabilization. Here is an example of a consequence of our
+results: if the support contains at least 5 rules, then asymptotically as $N$
+tends to infinity the probability of stabilization is positive, whereas there
+exist random boolean cellular automata with 4 rules in their support for which
+this probability tends to 0.

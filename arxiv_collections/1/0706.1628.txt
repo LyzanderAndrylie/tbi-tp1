@@ -1,0 +1,12 @@
+Using numerical and analytical methods implemented for different models we
+conduct a systematic study of thermodynamic properties of pairing correlation
+in mesoscopic nuclear systems. Various quantities are calculated and analyzed
+using the exact solution of pairing. An in-depth comparison of canonical, grand
+canonical, and microcanonical ensemble is conducted. The nature of the pairing
+phase transition in a small system is of a particular interest. We discuss the
+onset of discontinuity in the thermodynamic variables, fluctuations, and
+evolution of zeros of the canonical and grand canonical partition functions in
+the complex plane. The behavior of the Invariant Correlational Entropy is also
+studied in the transitional region of interest. The change in the character of
+the phase transition due to the presence of magnetic field is discussed along
+with studies of superconducting thermodynamics.

@@ -1,0 +1,16 @@
+We analyze the charge and spin dynamics in a DC biased double quantum dot
+driven by crossed DC and AC magnetic fields. In this configuration, spatial
+delocalization due to inter-dot tunnel competes with intra-dot spin rotations
+induced by the time dependent magnetic field, giving rise to a complicated time
+dependent behavior of the tunnelling current. When the Zeeman splitting has the
+same value in both dots and spin flip is negligible, the electrons remain in
+the triplet subspace (dark subspace) performing coherent spin rotations and the
+current does not flow. This electronic trapping is removed either by finite
+spin relaxation or when the Zeeman splitting is different in each quantum dot.
+In the first case, our results show that measuring the current will allow to
+get information on the spin relaxation time. In the last case, we will show
+that applying a resonant bichromatic magnetic field, the electrons become
+trapped in a coherent superposition of states and electronic transport is
+blocked. Then, manipulating AC magnetic fields, electrons are driven to perform
+coherent spin rotations which can be unambiguously detected by direct
+measurement of the tunneling current.

@@ -1,0 +1,11 @@
+In this paper we propose a systematic strategy for migrating crosscutting
+concerns in existing object-oriented systems to aspect-based solutions. The
+proposed strategy consists of four steps: mining, exploration, documentation
+and refactoring of crosscutting concerns. We discuss in detail a new approach
+to aspect refactoring that is fully integrated with our strategy, and apply the
+whole strategy to an object-oriented system, namely the JHotDraw framework. The
+result of this migration is made available as an open-source project, which is
+the largest aspect refactoring available to date. We report on our experiences
+with conducting this case study and reflect on the success and challenges of
+the migration process, as well as on the feasibility of automatic aspect
+refactoring.

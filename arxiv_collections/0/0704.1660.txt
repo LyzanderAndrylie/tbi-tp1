@@ -1,0 +1,24 @@
+In a previous paper (Gavignaud et al. 2006), we presented the type-1 Active
+Galactic Nuclei (AGN) sample obtained from the first epoch data of the
+VIMOS-VLT Deep Survey (VVDS). The sample consists of 130 faint, broad-line AGN
+with redshift up to z=5 and 17.5< I <24.0, selected on the basis of their
+spectra. In this paper we present the measurement of the Optical Luminosity
+Function up to z=3.6 derived from this sample, we compare our results with
+previous results from brighter samples both at low and at high redshift. Our
+data, more than one magnitude fainter than previous optical surveys, allow us
+to constrain the faint part of the luminosity function up to high redshift. By
+combining our faint VVDS sample with the large sample of bright AGN extracted
+from the SDSS DR3 (Richards et al., 2006b) and testing a number of different
+evolutionary models, we find that the model which better represents the
+combined luminosity functions, over a wide range of redshift and luminosity, is
+a luminosity dependent density evolution (LDDE) model, similar to those derived
+from the major X-surveys. Such a parameterization allows the redshift of the
+AGN space density peak to change as a function of luminosity and explains the
+excess of faint AGN that we find at 1.0< z <1.5. On the basis of this model we
+find, for the first time from the analysis of optically selected samples, that
+the peak of the AGN space density shifts significantly towards lower redshift
+going to lower luminosity objects. This result, already found in a number of
+X-ray selected samples of AGN, is consistent with a scenario of "AGN cosmic
+downsizing", in which the density of more luminous AGN, possibly associated to
+more massive black holes, peaks earlier in the history of the Universe, than
+that of low luminosity ones.

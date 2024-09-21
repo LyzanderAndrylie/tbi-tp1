@@ -1,0 +1,13 @@
+The sub-millimetre wavelength regime is perhaps the most poorly explored over
+large areas of the sky, despite the considerable effort that has been expended
+in making deep maps over small regions. As a consequence the properties of the
+sub-millimetre sky as a whole, and of rare bright objects in particular,
+remains largely unknown. Here we describe a forthcoming survey (the SCUBA-2
+``All-Sky'' Survey, or SASSy) designed to address this issue by making a
+large-area map of approximately one-fifth of the sky visible from the JCMT
+(4800 square degrees) down to a 1 sigma noise level of 30 mJy/beam. This map
+forms the pilot for a much larger survey, which will potentially map the
+remaining sky visible from the JCMT, with the region also visible to ALMA as a
+priority. SASSy has been awarded 500 hours for the 4800 square degree pilot
+phase and will commence after the commissioning of SCUBA-2, expected in early
+2008.

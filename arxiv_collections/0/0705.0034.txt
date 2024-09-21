@@ -1,0 +1,4 @@
+We show that bi-Lipschitz conjugacies between non singular one dimensional
+systems are forced to be smooth, at least in the minimal (and ergodic) case.
+This is however far from being true in the non minimal case. These results
+clarify a classical work by Ghys and Tsuboi.

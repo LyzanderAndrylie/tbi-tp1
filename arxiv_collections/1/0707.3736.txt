@@ -1,0 +1,6 @@
+In this article, we calculate the strong coupling constant $g_{\Delta N\pi}$
+and study the strong decay $\Delta^{++} \to p\pi$ with the light-cone QCD sum
+rules. The numerical value of the strong coupling constant $g_{\Delta N\pi}$ is
+consistent with the experimental data. The small discrepancy maybe due to
+failure to take into account the perturbative $\mathcal {O}(\alpha_s)$
+corrections.

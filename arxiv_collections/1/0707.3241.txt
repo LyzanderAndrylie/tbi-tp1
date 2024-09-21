@@ -1,0 +1,19 @@
+Gibbs sampling also known as Glauber dynamics is a popular technique for
+sampling high dimensional distributions defined on graphs. Of special interest
+is the behavior of Gibbs sampling on the Erd\H{o}s-R\'enyi random graph
+G(n,d/n). While the average degree in G(n,d/n) is d(1-o(1)), it contains many
+nodes of degree of order $\log n / \log \log n$.
+  The existence of nodes of almost logarithmic degrees implies that for many
+natural distributions defined on G(n,p) such as uniform coloring or the Ising
+model, the mixing time of Gibbs sampling is at least $n^{1 + \Omega(1 / \log
+\log n)}$. High degree nodes pose a technical challenge in proving polynomial
+time mixing of the dynamics for many models including coloring.
+  In this work consider sampling q-colorings and show that for every $d <
+\infty$ there exists $q(d) < \infty$ such that for all $q \geq q(d)$ the mixing
+time of Gibbs sampling on G(n,d/n) is polynomial in $n$ with high probability.
+Our results are the first polynomial time mixing results proven for the
+coloring model on G(n,d/n) for d > 1 where the number of colors does not depend
+on n. They extend to much more general families of graphs which are sparse in
+some average sense and to much more general interactions. The results also
+generalize to the hard-core model at low fugacity and to general models of soft
+constraints at high temperatures.

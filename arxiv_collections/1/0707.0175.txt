@@ -1,0 +1,10 @@
+One of the main goals of the COMPASS experiment at CERN is the determination
+of the gluon polarisation in the nucleon, Delta G/G. It is determined from spin
+asymmetries in the scattering of 160 GeV/c polarised muons on a polarised LiD
+target. The gluon polarisation is accessed by the selection of photon-gluon
+fusion (PGF) events. A very clean selection of PGF events can be obtained with
+charmed mesons in the final state. Their detection is based on the
+reconstruction of D* and D0 mesons in the COMPASS spectrometer. The analysis
+method for the first measurement of Delta G/G from the open charm channel is
+described and the result from COMPASS for the 2002-2004 data taking period is
+presented.

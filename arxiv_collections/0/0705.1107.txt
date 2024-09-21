@@ -1,0 +1,7 @@
+Starting from the full many body Hamiltonian we derive the leading order
+energy and density asymptotics for the ground state of a dilute, rotating Bose
+gas in an anharmonic trap in the ` Thomas Fermi' (TF) limit when the
+Gross-Pitaevskii coupling parameter and/or the rotation velocity tend to
+infinity. Although the many-body wave function is expected to have a
+complicated phase, the leading order contribution to the energy can be computed
+by minimizing a simple functional of the density alone.

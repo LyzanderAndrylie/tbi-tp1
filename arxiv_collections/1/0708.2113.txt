@@ -1,0 +1,9 @@
+We introduce a new technique to detect separable states using semidefinite
+programs. This approach provides a sufficient condition for separability of a
+state that is based on the existence of a certain local linear map applied to a
+known separable state. When a state is shown to be separable, a proof of this
+fact is provided in the form of an explicit convex decomposition of the state
+in terms of product states. All states in the interior of the set of separable
+states can be detected in this way, except maybe for a set of measure zero.
+Even though this technique is more suited for a numerical approach, a new
+analytical criterion for separability can also be derived.

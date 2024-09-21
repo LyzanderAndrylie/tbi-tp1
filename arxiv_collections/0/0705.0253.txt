@@ -1,0 +1,12 @@
+There is a large literature devoted to the problem of finding an optimal
+(min-cost) prefix-free code with an unequal letter-cost encoding alphabet of
+size. While there is no known polynomial time algorithm for solving it
+optimally there are many good heuristics that all provide additive errors to
+optimal. The additive error in these algorithms usually depends linearly upon
+the largest encoding letter size.
+  This paper was motivated by the problem of finding optimal codes when the
+encoding alphabet is infinite. Because the largest letter cost is infinite, the
+previous analyses could give infinite error bounds. We provide a new algorithm
+that works with infinite encoding alphabets. When restricted to the finite
+alphabet case, our algorithm often provides better error bounds than the best
+previous ones known.

@@ -1,0 +1,7 @@
+We present a new code generator, called O'Jacare.net, to inter-operate
+between C# and Objective Caml through their object models. O'Jacare.net defines
+a basic IDL (Interface Definition Language) that describes classes and
+interfaces in order to communicate between Objective Caml and C#. O'Jacare.net
+generates all needed wrapper classes and takes advantage of static type
+checking in both worlds. Although the IDL intersects these two object models,
+O'Jacare.net allows to combine features from both.

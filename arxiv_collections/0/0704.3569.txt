@@ -1,0 +1,6 @@
+Higgs algebras are used to construct rotational Hamiltonians. The
+correspondence between the spectrum of a triaxial rotor and the spectrum of a
+cubic Higgs algebra is demonstrated. It is shown that a suitable choice of the
+parameters of the polynomial algebra allows for a precise identification of
+rotational properties. The harmonic limit is obtained by a contraction of the
+algebra, leading to a linear symmetry.

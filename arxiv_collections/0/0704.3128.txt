@@ -1,0 +1,14 @@
+Because of the limit in the number of gamma-ray bursts (GRBs) with available
+redshifts and spectra, all current investigations on the correlation among GRB
+variables use burst samples with redshifts that span a very large range. The
+evolution and selection effects have thus been ignored, which might have
+important influence on the results. In this Letter, we divide the 48
+long-duration GRBs in Amati (2006, 2007) into four groups with redshift from
+low to high, each group contains 12 GRBs. Then we fit each group with the Amati
+relation $\log E_\iso = a + b \log E_\p$, and check if the parameters $a$ and
+$b$ evolve with the GRB redshift. We find that $a$ and $b$ vary with the mean
+redshift of the GRBs in each group systematically and significantly.
+Monte-Carlo simulations show that there is only $\sim 4$ percent of chance that
+the variation is caused by the selection effect arising from the fluence limit.
+Hence, our results may indicate that GRBs evolve strongly with the cosmological
+redshift.

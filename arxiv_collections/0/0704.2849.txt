@@ -1,0 +1,6 @@
+We prove that if $K$ is a compact subset of an affine variety O = P^n - D
+(where D is a projective hypersuface), and if K is a compact subset of a closed
+analytic subvariety V \subset O, then the projective hull K^ of K has the
+property that K^ \cap O is contained in V. If V is smooth and 1-dimensional,
+then K^ \cap O is also closed in O. The result has applications to graphs in
+C^2 of functions in the disk algebra.

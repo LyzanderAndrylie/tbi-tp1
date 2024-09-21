@@ -1,0 +1,10 @@
+Using the semi-classical Boltzmann theory, we calculate the conductivity as
+function of the carrier density. As usually, we include the scattering from
+charged impurities, but conclude that the estimated impurity density is too low
+in order to explain the experimentally observed mobilities. We thus propose an
+additional scattering mechanism involving midgap states which leads to a
+similar k-dependence of the relaxation time as charged impurities. The new
+scattering mechanism can account for the experimental findings such as the
+sublinear behavior of the conductivity versus gate voltage and the increase of
+the minimal conductivity for clean samples. We also discuss temperature
+dependent scattering due to acoustic phonons.

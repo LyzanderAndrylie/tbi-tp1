@@ -1,0 +1,11 @@
+Nonlinear effects in mesoscopic devices can have both quantum and classical
+origins. We show that a three-Josephson-junction (3JJ) flux qubit in the
+_classical_ regime can produce low-frequency oscillations in the presence of an
+external field in resonance with the (high-frequency) harmonic mode of the
+system, $\omega$. Like in the case of_quantum_ Rabi oscillations, the frequency
+of these pseudo-Rabi oscillations is much smaller than $\omega$ and scales
+approximately linearly with the amplitude of the external field. This classical
+effect can be reliably distinguished from its quantum counterpart because it
+can be produced by the external perturbation not only at the resonance
+frequency $\omega$ and its subharmonics ($\omega/n$), but also at its
+overtones, $n\omega$.

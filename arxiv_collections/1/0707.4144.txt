@@ -1,0 +1,16 @@
+A new variant of the pencil-beam (PB) algorithm for dose distribution
+calculation for radiotherapy with protons and heavier ions, the grid-dose
+spreading (GDS) algorithm, is proposed. The GDS algorithm is intrinsically
+faster than conventional PB algorithms due to approximations in convolution
+integral, where physical calculations are decoupled from simple grid-to-grid
+energy transfer. It was effortlessly implemented to a carbon-ion radiotherapy
+treatment planning system to enable realistic beam blurring in the field, which
+was absent with the broad-beam (BB) algorithm. For a typical prostate
+treatment, the slowing factor of the GDS algorithm relative to the BB algorithm
+was 1.4, which is a great improvement over the conventional PB algorithms with
+a typical slowing factor of several tens. The GDS algorithm is mathematically
+equivalent to the PB algorithm for horizontal and vertical coplanar beams
+commonly used in carbon-ion radiotherapy while dose deformation within the size
+of the pristine spread occurs for angled beams, which was within 3 mm for a
+single proton pencil beam of $30^\circ$ incidence, and needs to be assessed
+against the clinical requirements and tolerances in practical situations.

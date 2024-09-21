@@ -1,0 +1,6 @@
+The paper considers the halting scheme for quantum Turing machines. The
+scheme originally proposed by Deutsch appears to be correct, but not exactly as
+originally intended. We discuss the result of Ozawa as well as the objections
+raised by Myers, Kieu and Danos and others. Finally, the relationship of the
+halting scheme to the quest for a universal quantum Turing machine is
+considered.

@@ -1,0 +1,9 @@
+We use the non-perturbative gauge field approach to study the effects of spin
+orbit coupling on the dynamic of magnetic moment. We present a general equation
+of motion (EOM) which unifies i) the spin orbit coupling effect derived from
+the SU(2) spin gauge field, and ii) the moment chirality effect previously
+derived from the topological U(1)xU(1) rotation gauge under the adiabatic
+condition. We present a modified Landau-Liftshitz-Gilbert equation and discuss
+the implication of the modified EOM in various technological applications, such
+as current-induced switching and trajectory of magnetic moments in spin-valve
+multilayers, magnetic memory and diluted magnetic semiconductor.

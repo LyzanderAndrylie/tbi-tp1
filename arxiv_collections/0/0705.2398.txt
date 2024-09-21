@@ -1,0 +1,10 @@
+We propose a new method to produce self- and cross-Kerr photonic
+nonlinearities, using light-induced Stark shifts due to the interaction of a
+cavity mode with atoms. The proposed experimental set-up is considerably
+simpler than in previous approaches, while the strength of the nonlinearity
+obtained with a single atom is the same as in the setting based on
+electromagnetically induced transparency. Furthermore our scheme can be applied
+to engineer effective photonic nonlinear interactions whose strength increases
+with the number of atoms coupled to the cavity mode, leading to photon-photon
+interactions several orders of magnitude larger than previously considered
+possible.

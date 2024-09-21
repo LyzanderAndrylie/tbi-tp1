@@ -1,0 +1,7 @@
+We show that the plane Cremona group over a perfect field $k$ of
+characteristic $p \ge 0$ contains an element of prime order $\ell\ge 7$ not
+equal to $p$ if and only if there exists a 2-dimensional algebraic torus $T$
+over $k$ such that $T(k)$ contains an element of order $\ell$. If $p = 0$ and
+$k$ does not contain a primitive $\ell$-th root of unity, we show that there
+are no elements of prime order $\ell > 7$ in $\Cr_2(k)$ and all elements of
+order 7 are conjugate.

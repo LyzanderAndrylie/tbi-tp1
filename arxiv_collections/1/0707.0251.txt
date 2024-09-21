@@ -1,0 +1,17 @@
+The rational Cherednik algebra $\HH$ is a certain algebra of
+differential-reflection operators attached to a complex reflection group $W$.
+Each irreducible representation $S^\lambda$ of $W$ corresponds to a standard
+module $M(\lambda)$ for $\HH$. This paper deals with the infinite family
+$G(r,1,n)$ of complex reflection groups; our goal is to study the standard
+modules using a commutative subalgebra $\ttt$ of $\HH$ discovered by Dunkl and
+Opdam. In this case, the irreducible $W$-modules are indexed by certain
+sequences $\lambda$ of partitions. We first show that $\ttt$ acts in an upper
+triangular fashion on each standard module $M(\lambda)$, with eigenvalues
+determined by the combinatorics of the set of standard tableaux on $\lambda$.
+As a consequence, we construct a basis for $M(\lambda)$ consisting of
+orthogonal functions on $\CC^n$ with values in the representation $S^\lambda$.
+For $G(1,1,n)$ with $\lambda=(n)$ these functions are the non-symmetric Jack
+polynomials. We use intertwining operators to deduce a norm formula for our
+orthogonal functions and give an explicit combinatorial description of the
+lattice of submodules of $M(\lambda)$ in the case in which the orthogonal
+functions are all well-defined.

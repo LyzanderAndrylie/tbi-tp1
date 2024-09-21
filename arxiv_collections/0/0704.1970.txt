@@ -1,0 +1,9 @@
+We present a study of thermoelectric coefficients in CeCoIn_5 down to 0.1 K
+and up to 16 T in order to probe the thermoelectric signatures of quantum
+criticality. In the vicinity of the field-induced quantum critical point, the
+Nernst coefficient nu exhibits a dramatic enhancement without saturation down
+to lowest measured temperature. The dimensionless ratio of Seebeck coefficient
+to electronic specific heat shows a minimum at a temperature close to threshold
+of the quasiparticle formation. Close to T_c(H), in the vortex-liquid state,
+the Nernst coefficient behaves anomalously in puzzling contrast with other
+superconductors and standard vortex dynamics.

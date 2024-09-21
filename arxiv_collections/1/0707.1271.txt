@@ -1,0 +1,7 @@
+The Beresinskii-Kosterlitz-Thouless (BKT) physics of vortices in
+two-dimensional superconductors at finite magnetic field is investigated by
+means of a field-theoretical approach based on the sine-Gordon model. This
+description leads to a straightforward definition of the field-induced
+magnetization and shows that the persistence of non-linear effects at low
+fields above the transition is a typical signature of the fast divergence of
+the correlation length within the BKT theory.

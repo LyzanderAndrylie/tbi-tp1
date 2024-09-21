@@ -1,0 +1,24 @@
+We report the conjectures on the three-dimensional (3D) Ising model on simple
+orthorhombic lattices, together with the details of calculations for a putative
+exact solution. Two conjectures, an additional rotation in the fourth curled-up
+dimension and the weight factors on the eigenvectors, are proposed to serve as
+a boundary condition to deal with the topologic problem of the 3D Ising model.
+The partition function of the 3D simple orthorhombic Ising model is evaluated
+by spinor analysis, by employing these conjectures. Based on the validity of
+the conjectures, the critical temperature of the simple orthorhombic Ising
+lattices could be determined by the relation of KK* = KK' + KK'' + K'K'' or
+sinh 2K sinh 2(K' + K'' + K'K''/K) = 1. For a simple cubic Ising lattice, the
+critical point is putatively determined to locate exactly at the golden ratio
+xc = exp(-2Kc) = (sq(5) - 1)/2, as derived from K* = 3K or sinh 2K sinh 6K = 1.
+If the conjectures would be true, the specific heat of the simple orthorhombic
+Ising system would show a logarithmic singularity at the critical point of the
+phase transition. The spontaneous magnetization and the spin correlation
+functions of the simple orthorhombic Ising ferromagnet are derived explicitly.
+The putative critical exponents derived explicitly for the simple orthorhombic
+Ising lattices are alpha = 0, beta = 3/8, gamma = 5/4, delta = 13/3, eta = 1/8
+and nu = 2/3, showing the universality behavior and satisfying the scaling
+laws. The cooperative phenomena near the critical point are studied and the
+results obtained based on the conjectures are compared with those of the
+approximation methods and the experimental findings. The 3D to 2D crossover
+phenomenon differs with the 2D to 1D crossover phenomenon and there is a
+gradual crossover of the exponents from the 3D values to the 2D ones.

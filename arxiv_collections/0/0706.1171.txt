@@ -1,0 +1,9 @@
+The present paper provides an overview of results obtained in four recent
+papers by the authors. These papers address the problem of intermittency for
+the Parabolic Anderson Model in a \emph{time-dependent random medium},
+describing the evolution of a ``reactant'' in the presence of a ``catalyst''.
+Three examples of catalysts are considered: (1) independent simple random
+walks; (2) symmetric exclusion process; (3) symmetric voter model. The focus is
+on the annealed Lyapunov exponents, i.e., the exponential growth rates of the
+successive moments of the reactant. It turns out that these exponents exhibit
+an interesting dependence on the dimension and on the diffusion constant.

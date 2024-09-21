@@ -1,0 +1,9 @@
+We describe a measurement-based state preparation scheme for the efficient
+build up of cluster states in atom-cavity systems. As in a recent proposal for
+the generation of maximally entangled atom pairs [Metz et al., Phys. Rev. Lett.
+97, 040503 (2006)], we use an electron shelving technique to avoid the
+necessity for the detection of single photons. Instead, the successful fusion
+of smaller into larger clusters is heralded by an easy-to-detect macroscopic
+fluorescence signal. High fidelities are achieved even in the vicinity of the
+bad cavity limit and are essentially independent of the concrete size of the
+system parameters.

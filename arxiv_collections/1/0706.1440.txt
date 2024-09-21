@@ -1,0 +1,8 @@
+We compute the one loop anomalous dimension of the gauge invariant dimension
+two operator min_U (A^U_mu)^2, where U is an element of the gauge group, by
+exploiting Zwanziger's expansion of the operator in terms of gauge invariant
+non-local n leg operators. The computation is performed in an arbitrary linear
+covariant gauge and the cancellation of the gauge parameter in the final
+anomalous dimension is demonstrated explicitly. The result is equivalent to the
+one loop anomalous dimension of the local dimension two operator (A^a_mu)^2 in
+the Landau gauge.

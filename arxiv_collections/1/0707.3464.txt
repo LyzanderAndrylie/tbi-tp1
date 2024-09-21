@@ -1,0 +1,21 @@
+This paper studies the mutation-selection balance in three simplified
+replication models. The first model considers a population of organisms
+replicating via the production of asexual spores. The second model considers a
+sexually replicating population that produces identical gametes. The third
+model considers a sexually replicating population that produces distinct sperm
+and egg gametes. All models assume diploid organisms whose genomes consist of
+two chromosomes, each of which is taken to be functional if equal to some
+master sequence, and defective otherwise. In the asexual population, the
+asexual diploid spores develop directly into adult organisms. In the sexual
+populations, the haploid gametes enter a haploid pool, where they may fuse with
+other haploids. The resulting immature diploid organisms then proceed to
+develop into mature organisms. Based on an analysis of all three models, we
+find that, as organism size increases, a sexually replicating population can
+only outcompete an asexually replicating population if the adult organisms
+produce distinct sperm and egg gametes. A sexual replication strategy that is
+based on the production of large numbers of sperm cells to fertilize a small
+number of eggs is found to be necessary in order to maintain a sufficiently low
+cost for sex for the strategy to be selected for over a purely asexual
+strategy. We discuss the usefulness of this model in understanding the
+evolution and maintenance of sexual replication as the preferred replication
+strategy in complex, multicellular organisms.

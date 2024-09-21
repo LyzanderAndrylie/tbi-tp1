@@ -1,0 +1,12 @@
+Three- and four-jet final states have been measured in photoproduction at
+HERA using the ZEUS detector with an integrated luminosity of 121 pb^-1. The
+results are presented for jets with transverse energy E_T^jet>6 GeV and
+pseudorapidity |eta^jet|<2.4, in the kinematic region given by the virtuality
+of the photon Q^2<1 GeV^2 and the inelasticity 0.2<y<0.85 and in two mass
+regions defined as 25<M_nj<50 GeV and M_nj>50 GeV, where M_nj is the invariant
+mass of the n-jet system. The four-jet photoproduction cross section has been
+measured for the first time and represents the highest-order process studied at
+HERA. Both the three- and four-jet cross sections have been compared with
+leading-logarithmic parton-shower Monte Carlo models, with and without
+multi-parton interactions. The three-jet cross sections have been compared to
+an order(alpha alpha_s^2) perturbative QCD calculation.

@@ -1,0 +1,19 @@
+We study the magnetic orbital effect of a doped two-leg ladder in the
+presence of a magnetic field component perpendicular to the ladder plane.
+Combining both low-energy approach (bosonization) and numerical simulations
+(density-matrix renormalization group) on the strong coupling limit (t-J
+model), a rich phase diagram is established as a function of hole doping and
+magnetic flux. Above a critical flux, the spin gap is destroyed and a Luttinger
+liquid phase is stabilized. Above a second critical flux, a reentrance of the
+spin gap at high magnetic flux is found. Interestingly, the phase transitions
+are associated with a change of sign of the orbital susceptibility. Focusing on
+the small magnetic field regime, the spin-gapped superconducting phase is
+robust but immediately acquires algebraic transverse (i.e. along rungs) current
+correlations which are commensurate with the 4k_F density correlations. In
+addition, we have computed the zero-field orbital susceptibility for a large
+range of doping and interactions ratio J/t : we found strong anomalies at low
+J/t only in the vicinity of the commensurate fillings corresponding to delta =
+1/4 and 1/2. Furthermore, the behavior of the orbital susceptibility reveals
+that the nature of these insulating phases is different: while for delta = 1/4
+a 4k_F charge density wave is confirmed, the delta = 1/2 phase is shown to be a
+bond order wave.

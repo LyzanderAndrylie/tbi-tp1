@@ -1,0 +1,14 @@
+We identify plain evaporation of ions as the fundamental loss mechanism out
+of a multipole ion trap. Using thermalized negative Cl- ions we find that the
+evaporative loss rate is proportional to a Boltzmann factor. This thermodynamic
+description sheds new light on the dynamics of particles in time-varying
+confining potentials. It specifically allows us to extract the effective depth
+of the ion trap as the activation energy for evaporation. As a function of the
+rf amplitude we find two distinct regimes related to the stability of motion of
+the trapped ions. For low amplitudes the entire trap allows for stable motion
+and the trap depth increases with the rf field. For larger rf amplitudes,
+however, rapid energy transfer from the field to the ion motion can occur at
+large trap radii, which leads to a reduction of the effective trapping volume.
+In this regime the trap depth decreases again with increasing rf amplitude. We
+give an analytical parameterization of the trap depth for various multipole
+traps that allows predictions of the most favorable trapping conditions.

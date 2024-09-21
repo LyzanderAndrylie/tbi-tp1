@@ -1,0 +1,14 @@
+We study the p(e,e' pi+)n reaction in the framework of an effective
+Lagrangian approach including nucleon, pi and rho meson degrees of freedom and
+show the importance of the rho-meson t-pole contribution to sigmaT, the
+transverse part of cross section. We test two different field representations
+of the rho meson, vector and tensor, and find that the tensor representation of
+the rho meson is more reliable in the description of the existing data. In
+particular, we show that the rho-meson t-pole contribution, including the
+interference with an effective non-local contact term, sufficiently improves
+the description of the recent JLab data at invariant mass W less 2.2 GeV and Q2
+less 2.5 GeV2/c2. A ``soft'' variant of the strong piNN and rhoNN form factors
+is also found to be compatible with these data. On the basis of the successful
+description of both the sigmaL and sigmaT parts of the cross section we discuss
+the importance of taking into account the sigmaT data when extracting the
+charge pion form factor Fpi from sigmaL.

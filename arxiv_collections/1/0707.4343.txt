@@ -1,0 +1,14 @@
+Tools of the theory of critical phenomena, namely the scaling analysis and
+universality, are argued to be applicable to large complex web-like network
+structures. Using a detailed analysis of the real data of the International
+Trade Network we argue that the scaled link weight distribution has an
+approximate log-normal distribution which remains robust over a period of 53
+years. Another universal feature is observed in the power-law growth of the
+trade strength with gross domestic product, the exponent being similar for all
+countries. Using the 'rich-club' coefficient measure of the weighted networks
+it has been shown that the size of the rich-club controlling half of the
+world's trade is actually shrinking. While the gravity law is known to describe
+well the social interactions in the static networks of population migration,
+international trade, etc, here for the first time we studied a non-conservative
+dynamical model based on the gravity law which excellently reproduced many
+empirical features of the ITN.

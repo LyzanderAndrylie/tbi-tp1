@@ -1,0 +1,13 @@
+Motivated by a striking observation of a Fulde-Ferell-Larkin-Ovchinnikov
+(FFLO) vortex state in the heavy fermion material CeCoIn5 in fields {\it
+perpendicular} to the superconducting planes (${\bf H} \parallel c$),
+superconducting phase diagrams including an FFLO state of quasi two-dimensional
+(Q2D) superconductors are systematically studied. In the clean {\it limit}, the
+high field superconducting state in the low temperature limit should be not the
+FFLO state modulating along ${\bf H}$, appeared in CeCoIn5 in both ${\bf H}
+\parallel c$ and ${\bf H} \perp c$, but a different vortex state with a
+modulation, induced by the paramagnetism, perpendicular to the field. It is
+found that the presence of weak impurities is the origin of the absence in
+CeCoIn5 of the latter state and leads to the ${\bf H} \parallel c$ phase
+diagram, as seen in CeCoIn5, {\it apparently} different in character from that
+in ${\bf H} \perp c$.

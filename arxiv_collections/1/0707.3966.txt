@@ -1,0 +1,13 @@
+We study the phase diagram of strongly interacting matter with three quark
+flavors at low and intermediate densities and non-zero temperatures in the
+framework of an NJL-type model with four-point interactions. At large
+densities, when the interactions are weak due to asymptotic freedom, quarks
+form loosely bound Cooper pairs. However, when the density decreases,
+interactions become stronger and quark Cooper pairs transform smoothly into
+tightly bound diquark molecules. We find that such molecules are stable at low
+density and temperature and that they dissociate above a temperature $T_{\rm
+diss}$ of the order of the chiral phase transition temperature $T_c \sim 170$
+MeV. We also explore the conditions under which these molecules undergo
+Bose-Einstein condensation (BEC). We find that BEC is only possible if we
+increase the attractive interaction in the diquark channel to (probably
+unrealistically) large values.

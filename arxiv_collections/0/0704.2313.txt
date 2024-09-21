@@ -1,0 +1,7 @@
+An exactly solvable reaction-diffusion model consisting of first-class
+particles in the presence of a single second-class particle is introduced on a
+one-dimensional lattice with periodic boundary condition. The number of
+first-class particles can be changed due to creation and annihilation
+reactions. It is shown that the system undergoes a discontinuous phase
+transition in contrast to the case where the density of the second-class
+particles is finite and the phase transition is continuous.

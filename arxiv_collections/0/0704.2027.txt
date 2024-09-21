@@ -1,0 +1,6 @@
+The performance of a quantum teleportation algorithm implemented on an ion
+trap quantum computer is investigated. First the algorithm is analyzed in terms
+of the teleportation fidelity of six input states evenly distributed over the
+Bloch sphere. Furthermore, a quantum process tomography of the teleportation
+algorithm is carried out which provides almost complete knowledge about the
+algorithm.

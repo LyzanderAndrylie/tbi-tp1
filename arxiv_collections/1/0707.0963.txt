@@ -1,0 +1,17 @@
+A key requirement for scalable quantum computing is that elementary quantum
+gates can be implemented with sufficiently low error. One method for
+determining the error behavior of a gate implementation is to perform process
+tomography. However, standard process tomography is limited by errors in state
+preparation, measurement and one-qubit gates. It suffers from inefficient
+scaling with number of qubits and does not detect adverse error-compounding
+when gates are composed in long sequences. An additional problem is due to the
+fact that desirable error probabilities for scalable quantum computing are of
+the order of 0.0001 or lower. Experimentally proving such low errors is
+challenging. We describe a randomized benchmarking method that yields estimates
+of the computationally relevant errors without relying on accurate state
+preparation and measurement. Since it involves long sequences of randomly
+chosen gates, it also verifies that error behavior is stable when used in long
+computations. We implemented randomized benchmarking on trapped atomic ion
+qubits, establishing a one-qubit error probability per randomized pi/2 pulse of
+0.00482(17) in a particular experiment. We expect this error probability to be
+readily improved with straightforward technical modifications.

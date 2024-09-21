@@ -1,0 +1,19 @@
+We analyzed the presently available experimental data on nucleon
+electromagnetic form factors within a multipole model based on dispersion
+relations. A good fit of the data is achieved by considering the coefficients
+of the multipole expansions as logarithmic functions of the momentum transfer
+squared. The superconvergence relations, applied to this coefficients, makes
+the model agree with unitary constraints and pQCD asymptotics for the Dirac and
+Pauli form factors. The soft photon emission is proposed as a mechanism
+responsible for the difference between the Rosenbluth, polarization and
+beam--target--asymmetry data. It is shown, that the experimentally measured
+cross sections depend not only on the Dirac and Pauli form factors, but also on
+the average number of the photons emitted. For proton this number is shown to
+be different for different types of experimental measurements and then
+estimated phenomenologically. For neutron the same mechanism predicts, that the
+data form different types of experiments must coincide with high accuracy. A
+joint fit of all the experimental data reproduce the $Q^2-$dependence with the
+accuracy $\chi^2/dof=0.86$. Predictions of the model, that 1) the ratios of the
+proton form factors $G_E/G_M$ are different for Rosenbluth, polarization and
+beam--target--asymmetry experiments and 2) similar ratios are nearly the same
+for neutron, can be used for experimental verification of the model.

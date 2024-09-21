@@ -1,0 +1,10 @@
+This paper presents a molecular mechanics study using a molecular dynamics
+software (NAMD) coupled to virtual reality (VR) techniques for intuitive
+Bio-NanoRobotic prototyping. Using simulated Bio-Nano environments in VR, the
+operator can design and characterize through physical simulation and 3-D
+visualization the behavior of Bio-NanoRobotic components and structures. The
+main novelty of the proposed simulations is based on the characterization of
+stiffness performances of passive joints-based deca-alanine protein molecule
+and active joints-based viral protein motor (VPL) in their native environment.
+Their use as elementary Bio-NanoRobotic components (1 dof platform) are also
+simulated and the results discussed.

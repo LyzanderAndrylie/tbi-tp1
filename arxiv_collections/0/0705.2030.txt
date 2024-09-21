@@ -1,0 +1,9 @@
+The group E(3)=SO(3) *s T(3), that is the homogeneous subgroup of the Galilei
+group parameterized by rotation angles and velocities, defines the continuous
+group of transformations between the frames of inertial particles in Newtonian
+mechanics. We show in this paper that the continuous group of transformations
+between the frames of noninertial particles following trajectories that satisfy
+Hamilton's equations is given by the Hamilton group Ha(3)=SO(3) *s H(3) where
+H(3) is the Weyl-Heisenberg group that is parameterized by rates of change of
+position, momentum and energy, i.e. velocity, force and power. The group E(3)
+is the inertial special case of the Hamilton group.

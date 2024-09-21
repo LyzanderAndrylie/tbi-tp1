@@ -1,0 +1,9 @@
+We show in spatially one dimensional Madelung fluid that a simple requirement
+on local stability of the maximum of quantum probability density will, if
+combined with the global scale invariance of quantum potential, lead to a class
+of quantum probability densities globally being self-trapped by their own
+self-generated quantum potentials, possessing only a finite-size spatial
+support. It turns out to belong to a class of the most probable wave function
+given its energy through the maximum entropy principle. We proceed to show that
+there is a limiting case in which the quantum probability density becomes the
+stationary-moving soliton-like solution of the Schr\"odinger equation.

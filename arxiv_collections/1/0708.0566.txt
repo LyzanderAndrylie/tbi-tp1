@@ -1,0 +1,9 @@
+Shot noise cross-correlations in normal metal-superconductor-normal metal
+structures are discussed at arbitrary interface transparencies using both the
+scattering approach of Blonder, Tinkham and Klapwik and a microscopic Green's
+function approach. Surprisingly, negative crossed conductance in such set-ups
+[R. Melin and D. Feinberg, Phys. Rev. B 70, 174509 (2004)] does not preclude
+the possibility of positive noise cross-correlations for almost transparent
+contacts. We conclude with a phenomenological discussion of interactions in the
+one dimensional leads connected to the superconductor, which induce sign
+changes in the noise cross-correlations.

@@ -1,0 +1,16 @@
+This paper illustrates the prospective need for structural fingerprinting
+methods for nanocrystals. A review of the existing fingerprinting methods for
+crystal structures by means of transmission electron microscopy which work for
+a single setting of the specimen goniometer is given. Suggestions are made on
+how some of these methods could be enhanced when nanocrystals and novel
+instrumentation are involved, i.e. when either the kinematic or quasi-kinematic
+scattering approximations are sufficiently well satisfied. A novel strategy for
+lattice-fringe fingerprinting of nanocrystals from Fourier transforms of
+high-resolution phase contrast transmission electron microscopy images is
+briefly outlined. Nanocrystal structure specific limitations to the application
+of this strategy are discussed. An appeal is made to share the structural data
+of nanocrystals freely over the internet and infrastructure that would allow
+this sharing is mentioned. A shorter version of this paper has been accepted
+for publication in a special issue on the Structure of Nanocrystals of the
+Zeitschrift fuer Kristallographie, International journal for structural,
+physical, and chemical aspects of crystalline materials.

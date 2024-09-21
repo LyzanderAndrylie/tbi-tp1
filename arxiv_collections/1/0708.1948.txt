@@ -1,0 +1,21 @@
+In Hanbury-Brown-Twiss interferometry measurements using identical bosons,
+the chaoticity parameter lambda has been introduced phenomenologically to
+represent the momentum correlation function at zero relative momentum. It is
+useful to study an exactly solvable problem in which the lambda parameter and
+its dependence on the coherence properties of the boson system can be worked
+out in great detail. We are therefore motivated to study the state of a gas of
+noninteracting identical bosons at various temperatures held together in a
+harmonic oscillator potential that arises either externally or from bosons' own
+mean fields. We determine the degree of Bose-Einstein condensation and its
+momentum correlation function as a function of the attributes of the boson
+environment. The parameter lambda can then be evaluated from the momentum
+correlation function. We find that the lambda(p,T) parameter is a sensitive
+function of both the average pair momentum p and the temperature T, and the
+occurrence of lambda=1 is not a consistent measure of the absence of a coherent
+condensate fraction. In particular, for large values of p, the lambda parameter
+attains the value of unity even for significantly coherent systems with large
+condensate fractions. We find that if a pion system maintains a static
+equilibrium within its mean field, and if it contains a root-mean-squared
+radius, a pion number, and a temperature typical of those in high-energy
+heavy-ion collisions, then it will contain a large fraction of the
+Bose-Einstein pion condensate.

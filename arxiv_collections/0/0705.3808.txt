@@ -1,0 +1,5 @@
+The unique solvability of parabolic equations in Sobolev spaces with mixed
+norms is presented. The second order coefficients (except $a^{11}$) are assumed
+to be only measurable in time and one spatial variable, and VMO in the other
+spatial variables. The coefficient $a^{11}$ is measurable in one spatial
+variable and VMO in the other variables.

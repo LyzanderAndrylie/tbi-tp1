@@ -1,0 +1,6 @@
+The relation between Radon transform and orthogonal expansions of a function
+on the unit ball in $\RR^d$ is exploited. A compact formula for the partial
+sums of the expansion is given in terms of the Radon transform, which leads to
+algorithms for image reconstruction from Radon data. The relation between
+orthogonal expansion and the singular value decomposition of the Radon
+transform is also exploited.

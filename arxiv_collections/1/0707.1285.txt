@@ -1,0 +1,6 @@
+We compute the next-to-next-to-leading order (NNLO) QCD corrections to the
+thrust distribution in electron-positron annihilation. The corrections turn out
+to be sizable, enhancing the previously known next-to-leading order prediction
+by about 15%. Inclusion of the NNLO corrections significantly reduces the
+theoretical renormalisation scale uncertainty on the prediction of the thrust
+distribution.

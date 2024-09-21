@@ -1,0 +1,13 @@
+Transient wave forms in neural networks with diffusive and nonlocal coupling
+have attracted particular interest because they may mediate recruitment of
+healthy cortical tissue into a pathological state during migraine. To
+investigate this process, we use a reaction-diffusion system of
+inhibitor-activator type as a generic model of pathological wave propagation
+and set it close to bifurcation in the sub-excitable regime. We report the
+influence of various nonlocal connectivity schemes on wave propagation. Wave
+propagation can be suppressed with cross coupling inhibitor and activator for
+both positive and negative coupling strength K, depending on the connection
+length d. The area in the parameter plane (d,K) where this control goal is
+achieved resembles a Mexican-hat-type network connectivity. Our results suggest
+that nonlocal synaptic transmission can control wave propagation, which may be
+of therapeutic value.

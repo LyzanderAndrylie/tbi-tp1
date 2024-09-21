@@ -1,0 +1,9 @@
+We present a covariant decomposition of Einstein's Field Equations which is
+particularly suitable for perturbations of spherically symmetric -- and general
+locally rotationally symmetric -- spacetimes. Based upon the utility of the 1+3
+covariant approach to perturbation theory in cosmology, the semi-tetrad, 1+1+2
+approach presented here should be useful for analysing perturbations of a
+variety of systems in a covariant and gauge-invariant manner. Such applications
+range from stellar objects to cosmological models such as the spherically
+symmetric Lemaitre-Tolman-Bondi solutions or the class of locally rotationally
+symmetric Bianchi models.

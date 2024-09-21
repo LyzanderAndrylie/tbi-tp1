@@ -1,0 +1,4 @@
+We present a control-theoretic analysis of the system consisting of a
+two-level atom coupled with a quantum harmonic oscillator. We show that by
+applying external fields with just two resonant frequencies, any desired
+unitary operator can be generated.

@@ -1,0 +1,4 @@
+The paper contains a simple approach to reconstruction in Thermoacoustic and
+Photoacoustic Tomography. The technique works for any geometry of point
+detectors placement and for variable sound speed satisfying a non-trapping
+condition. A uniqueness of reconstruction result is also obtained.

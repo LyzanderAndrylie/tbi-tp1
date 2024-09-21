@@ -1,0 +1,8 @@
+In the paper we discuss the B\"acklund transformation of the KdV equation
+between solitons and solitons, between negatons and negatons, between positons
+and positons, between rational solution and rational solution, and between
+complexitons and complexitons. We investigate the conditions that Wronskian
+entries satisfy for the bilinear B\"acklund transformation of the KdV equation.
+By choosing suitable Wronskian entries and the parameter in the bilinear
+B\"acklund transformation, we obtain transformations between many kinds of
+solutions.

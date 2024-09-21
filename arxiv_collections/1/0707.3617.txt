@@ -1,0 +1,8 @@
+Hermes has measured longitudinal double spin asymmetries as a function of
+transverse momentum pT using charged inclusive hadrons from electroproduction
+off a deuterium target. At pT>1 GeV, the asymmetries are sensitive to the spin
+dependent gluon distribution Delta g. To extract the gluon polarization Delta
+g/g, information on the background asymmetry and the subprocess kinematics has
+been obtained from a Leading Order Monte Carlo model. Values for Delta g/g have
+been calculated both as a function of the measured pT and x, using two
+different methods, in the region pT>1.05 GeV.

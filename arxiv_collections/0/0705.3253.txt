@@ -1,0 +1,16 @@
+Non-perturbative corrections and modular properties of four-dimensional type
+IIB Calabi-Yau orientifolds are discussed. It is shown that certain
+non-perturbative alpha' corrections survive in the large volume limit of the
+orientifold and periodically correct the Kahler potential. These corrections
+depend on the NS-NS two form and have to be completed by D-instanton
+contributions to transform covariantely under symmetries of the type IIB
+orientifold background. It is shown that generically also the D-instanton
+superpotential depends on the two-form moduli as well as on the complex
+dilaton. These contributions can arise through theta-functions with the dilaton
+as modular parameter. An orientifold of the Enriques Calabi-Yau allows to
+illustrate these general considerations. It is shown that this compactification
+leads to a controlled four-dimensional N=1 effective theory due to the absence
+of various quantum corrections. Making contact to the underlying topological
+string theory the D-instanton superpotential is proposed to be related to a
+specific modular form counting D3, D1, D(-1) degeneracies on the Enriques
+Calabi-Yau.

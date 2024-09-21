@@ -1,0 +1,5 @@
+Degeneracies near the real axis in a complex-extended parameter space of a
+hermitian Hamiltonian are studied. We present a method to measure distributions
+of such degeneracies on the Riemann sheet of a selected level and apply it in
+classification of quantum phase transitions. The degeneracies are shown to
+behave similarly as complex zeros of a partition function.

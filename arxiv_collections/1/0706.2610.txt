@@ -1,0 +1,24 @@
+The band structure and optical dielectric function $\epsilon$ of
+single-walled zigzag
+[(3,0),(4,0),(5,0),(6,0),(8,0),(9,0),(12,0),(16,0),(20,0),(24,0)], armchair
+[(3,3),(4,4),(5,5),(8,8),(12,12),(15,15)], and chiral
+[(4,2),(6,2),(8,4),(10,4)] SiC-NTs as well as the single honeycomb SiC sheet
+have been calculated within DFT with the LDA. It is found that all the SiC
+nanotubes are semiconductors, except the ultrasmall (3,0) and (4,0) zigzag
+tubes which are metallic. Furthermore, the band gap of the zigzag SiC-NTs which
+is direct, may be reduced from that of the SiC sheet to zero by reducing the
+diameter ($D$), though the band gap for all the SiC nanotubes with a diameter
+larger than ~20 \AA$ $ is almost independent of diameter. For the electric
+field parallel to the tube axis ($E\parallel \hat{z}$), the $\epsilon''$ for
+all the SiC-NTs with a moderate diameter (say, $D$ $>$ 8 \AA$ $) in the
+low-energy region (0~6 eV) consists of a single distinct peak at ~3 eV.
+However, for the small diameter SiC nanotubes such as the (4,2),(4,4) SiC-NTs,
+the $\epsilon''$ spectrum does deviate markedly from this general behavior. In
+the high-energy region (from 6 eV upwards), the $\epsilon''$ for all the
+SiC-NTs exhibit a broad peak centered at ~7 eV. For the electric field
+perpendicular to the tube axis ($E\perp \hat{z}$), the $\epsilon''$ spectrum of
+all the SiC-NTs except the (4,4), (3,0) and (4,0) nanotubes, in the low energy
+region also consists of a pronounced peak at around 3 eV whilst in the
+high-energy region is roughly made up of a broad hump starting from 6 eV. The
+magnitude of the peaks is in general about half of the magnitude of the
+corresponding ones for $E\parallel \hat{z}$.

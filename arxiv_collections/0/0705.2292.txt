@@ -1,0 +1,13 @@
+Rigorous computer simulations of propagating electromagnetic fields have
+become an important tool for optical metrology and optics design of
+nanostructured components. As has been shown in previous benchmarks some of the
+presently used methods suffer from low convergence rates and/or low accuracy of
+the results and exhibit very long computation times which makes application to
+extended 2D layout patterns impractical. We address 3D simulation tasks by
+using a finite-element solver which has been shown to be superior to competing
+methods by several orders of magnitude in accuracy and computational time for
+typical microlithography simulations. We report on the current status of the
+solver, incorporating higher order edge elements, adaptive refinement methods,
+and fast solution algorithms. Further, we investigate the performance of the
+solver in the 3D simulation project of light diffraction off an alternating
+phase-shift contact-hole mask.

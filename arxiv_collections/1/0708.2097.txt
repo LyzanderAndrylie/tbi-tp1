@@ -1,0 +1,17 @@
+We perform a time-dependent Dalitz plot analysis of $B^0 \to
+K^0_{\scriptscriptstyle S}\pi^+\pi^-$ in order to extract the ${CP}$ violation
+parameters of $f_0(980) K^0_{\scriptscriptstyle S}$ and $\rho^0(770)
+K^0_{\scriptscriptstyle S}$ and direct ${CP}$-asymmetries of $K^{*+}(892)
+\pi^-$. The results are obtained from a data sample of $(383\pm3)\times10^{6}$
+$B \bar{B}$ decays, collected with the BaBar detector at the PEP2
+asymmetric--energy $B$ factory at SLAC. The measured values of $2\beta_{\rm
+eff}$ in $B^0$ decays to $f_0(980)K^0_{\scriptscriptstyle S}$ and $\rho^0(770)
+K^0_{\scriptscriptstyle S}$ are $(89^{+22}_{-20} \pm 5 \pm 8)^\circ$ and $(37
+^{+19}_{-17} \pm 5 \pm 6)^\circ$, respectively, where the first quoted
+uncertainty is statistical, the second is systematic and the third is Dalitz
+plot signal model uncertainty. We measure the significance of $2\beta_{\rm
+eff}(f_0(980)K^0_{\scriptscriptstyle S})\neq 0$ to be $4.3 \sigma$. In decays
+to $K^*(892) \pi$ we find $A_{{CP}} = -0.18 \pm 0.10 \pm 0.03 \pm 0.03$. The
+measured phase difference between the decay amplitudes of $B^0 \to K^{*+}(892)
+\pi^-$ and $\bar{B}^0 \to K^{*-}(892) \pi^+$ is $(-164 \pm 24 \pm 12 \pm
+15)^\circ$. All results are preliminary.

@@ -1,0 +1,7 @@
+We derive the lower and upper bounds on the entanglement of a given
+multipartite superposition state in terms of the entanglement of the states
+being superposed. The first entanglement measure we use is the geometric
+measure, and the second is the q-squashed entanglement. These bounds allow us
+to estimate the amount of the multipartite entanglement of superpositions. We
+also show that two states of high fidelity to one another do not necessarily
+have nearly the same q-squashed entanglement.

@@ -1,0 +1,9 @@
+We provide a non-recursive description for the bounded admissible sets of
+masks used by Deodhar's algorithm to calculate the Kazhdan--Lusztig polynomials
+$P_{x,w}(q)$ of type $A$, in the case when $w$ is hexagon avoiding and
+maximally clustered. This yields a combinatorial description of the
+Kazhdan--Lusztig basis elements of the Hecke algebra associated to such
+permutations $w$. The maximally-clustered hexagon-avoiding elements are
+characterized by avoiding the seven classical permutation patterns $\{3421,
+4312, 4321, 46718235, 46781235, 56718234, 56781234\}$. We also briefly discuss
+the application of heaps to permutation pattern characterization.

@@ -1,0 +1,8 @@
+In this paper, a method to compute joint space singularity surfaces of 3-RPR
+planar parallel manipulators is first presented. Then, a procedure to determine
+maximal joint space singularity-free boxes is introduced. Numerical examples
+are given in order to illustrate graphically the results. This study is of high
+interest for planning trajectories in the joint space of 3-RPR parallel
+manipulators and for manipulators design as it may constitute a tool for
+choosing appropriate joint limits and thus for sizing the link lengths of the
+manipulator.

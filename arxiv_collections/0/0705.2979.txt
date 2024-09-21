@@ -1,0 +1,3 @@
+In quantum field theory it is generally assumed that there is a lower bound
+to the energy of a quantum state. Here, it will be shown that there is no lower
+bound to the energy of physical states in QED in a manifestly covariant gauge.

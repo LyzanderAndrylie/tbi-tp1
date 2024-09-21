@@ -1,0 +1,10 @@
+We study general aspects of active motion with fluctuations in the speed and
+the direction of motion in two dimensions. We consider the case in which
+fluctuations in the speed are not correlated to fluctuations in the direction
+of motion, and assume that both processes can be described by independent
+characteristic time-scales. We show the occurrence of a complex transient that
+can exhibit a series of alternating regimes of motion, for two different
+angular dynamics which correspond to persistent and directed random walks. We
+also show additive corrections to the diffusion coefficient. The characteristic
+time-scales are also exposed in the velocity autocorrelation, which is a sum of
+exponential forms.

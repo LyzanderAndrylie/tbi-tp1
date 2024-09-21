@@ -1,0 +1,15 @@
+We consider the question of how large a subspace of a given bipartite quantum
+system can be when the subspace contains only highly entangled states. This is
+motivated in part by results of Hayden et al., which show that in large d x
+d--dimensional systems there exist random subspaces of dimension almost d^2,
+all of whose states have entropy of entanglement at least log d - O(1). It is
+also related to results due to Parthasarathy on the dimension of completely
+entangled subspaces, which have connections with the construction of
+unextendible product bases. Here we take as entanglement measure the Schmidt
+rank, and determine, for every pair of local dimensions dA and dB, and every r,
+the largest dimension of a subspace consisting only of entangled states of
+Schmidt rank r or larger. This exact answer is a significant improvement on the
+best bounds that can be obtained using random subspace techniques. We also
+determine the converse: the largest dimension of a subspace with an upper bound
+on the Schmidt rank. Finally, we discuss the question of subspaces containing
+only states with Schmidt equal to r.

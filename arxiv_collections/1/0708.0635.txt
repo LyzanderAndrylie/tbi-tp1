@@ -1,0 +1,9 @@
+We present rigorous results for quantum systems with both bound and continuum
+states subjected to an arbitrary strength time-periodic field. We prove that
+the wave function takes the form of a sum of time-periodic resonant states with
+complex quasi-energies and dispersive part of the the solution given by a power
+series in t^{-1/2}. Generally, the imaginary part of each resonance is
+negative, leading to ionization of the atom, but we also give examples where
+the ionization rate is zero implying the existence of a time-periodic Floquet
+bound state. The complex quasi-energy has a convergent perturbation expansion
+for small field strengths.

@@ -1,0 +1,8 @@
+We investigate the shot noise limited sensitivity of a four-mirror cavity
+enhanced Michelson interferometer. The intention of this interferometer
+topology is the reduction of thermal lensing and the impact of the
+interferometers contrast although transmissive optics are used with high
+circulating powers. The analytical expressions describing the light fields and
+the frequency response are derived. Although the parameter space has 11
+dimensions, a detailed analysis of the resonance feature gives boundary
+conditions allowing systematic parameter studies.

@@ -1,0 +1,8 @@
+Low energy proton-proton scattering is studied in pionless effective field
+theory. Employing the dimensional regularization and MS-bar and power
+divergence subtraction schemes for loop calculation, we calculate the
+scattering amplitude in 1S0 channel up to next-to-next-to leading order and fix
+low-energy constants that appear in the amplitude by effective range
+parameters. We study regularization scheme and scale dependence in separation
+of Coulomb interaction from the scattering length and effective range for the
+S-wave proton-proton scattering.

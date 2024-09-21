@@ -1,0 +1,10 @@
+We consider a system of two interacting particles with like but unequal
+charges in a magnetic field in the planar geometry. We construct a complete
+basis of states compatible with both the axial symmetry and magnetic
+translations. The basis is obtained using a canonical transformation that
+generates effective quasiparticles with modified interactions. We establish a
+connection of this transformation with the SU(2) algebra and make use of the
+SU(2) Baker-Campbell-Hausdorff formulas for evaluating the interaction matrix
+elements. We calculate analytically the eigenenergies of the problem (Haldane
+pseudopotentials) in the first few Landau levels for a relatively wide class of
+interaction potentials.

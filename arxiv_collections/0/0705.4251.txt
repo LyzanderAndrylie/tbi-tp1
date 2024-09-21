@@ -1,0 +1,14 @@
+This work reviews several hierarchical measurements of the topology of
+complex networks and then applies feature selection concepts and methods in
+order to quantify the relative importance of each measurement with respect to
+the discrimination between four representative theoretical network models,
+namely Erd\"{o}s-R\'enyi, Barab\'asi-Albert, Watts-Strogatz as well as a
+geographical type of network. The obtained results confirmed that the four
+models can be well-separated by using a combination of measurements. In
+addition, the relative contribution of each considered feature for the overall
+discrimination of the models was quantified in terms of the respective weights
+in the canonical projection into two dimensions, with the traditional
+clustering coefficient, hierarchical clustering coefficient and neighborhood
+clustering coefficient resulting particularly effective. Interestingly, the
+average shortest path length and hierarchical node degrees contributed little
+for the separation of the four network models.

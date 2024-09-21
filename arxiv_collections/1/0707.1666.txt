@@ -1,0 +1,8 @@
+We present a first-principles investigation of the phonon-induced electron
+self-energy in graphene. The energy dependence of the self-energy reflects the
+peculiar linear bandstructure of graphene and deviates substantially from the
+usual metallic behavior. The effective band velocity of the Dirac fermions is
+found to be reduced by 4-8%, depending on doping, by the interaction with
+lattice vibrations. Our results are consistent with the observed linear
+dependence of the electronic linewidth on the binding energy in photoemission
+spectra.

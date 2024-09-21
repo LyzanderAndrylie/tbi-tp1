@@ -1,0 +1,6 @@
+Given any positive sequence (\{c_n\}_{n \in {\Bbb N}}), we construct
+orientation preserving homeomorphisms (f:{\Bbb R}^3 \to {\Bbb R}^3) such that
+(Fix(f)=Per(f)=\{0\}), (0) is Lyapunov stable and (\limsup \frac{|i(f^m,
+0)|}{c_m}= \infty). We will use our results to discuss and to point out some
+strong differences with respect to the computation and behavior of the
+sequences of the indices of planar homeomorphisms.

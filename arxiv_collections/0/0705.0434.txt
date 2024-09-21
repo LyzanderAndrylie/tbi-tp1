@@ -1,0 +1,10 @@
+The magnetic properties of single crystals of LiHo_xY_{1-x}F_4 with x=16.5%
+and x=4.5% were recorded down to 35 mK using a micro-SQUID magnetometer. While
+this system is considered as the archetypal quantum spin glass, the detailed
+analysis of our magnetization data indicates the absence of a phase transition,
+not only in a transverse applied magnetic field, but also without field. A
+zero-Kelvin phase transition is also unlikely, as the magnetization seems to
+follow a non-critical exponential dependence on the temperature. Our analysis
+thus unmasks the true, short-ranged nature of the magnetic properties of the
+LiHo_xY_{1-x}F_4 system, validating recent theoretical investigations
+suggesting the lack of phase transition in this system.

@@ -1,0 +1,5 @@
+We employ perturbation analysis technique to study multi-asset portfolio
+optimisation with transaction cost. We allow for correlations in risky assets
+and obtain optimal trading methods for general utility functions. Our
+analytical results are supported by numerical simulations in the context of the
+Long Term Growth Model.

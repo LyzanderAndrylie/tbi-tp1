@@ -1,0 +1,9 @@
+Polygonal chains are fundamental objects in many applications like pattern
+recognition and protein structure alignment. A well-known measure to
+characterize the similarity of two polygonal chains is the famous Fr\`{e}chet
+distance. In this paper, for the first time, we consider the Voronoi diagram of
+polygonal chains in $d$-dimension ($d=2,3$) under the discrete Fr\`{e}chet
+distance. Given $n$ polygonal chains ${\cal C}$ in $d$-dimension ($d=2,3$),
+each with at most $k$ vertices, we prove fundamental properties of such a
+Voronoi diagram {\em VD}$_F({\cal C})$ by presenting the first known upper and
+lower bounds for {\em VD}$_F({\cal C})$.

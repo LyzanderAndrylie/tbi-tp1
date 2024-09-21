@@ -1,0 +1,15 @@
+A virtual plague is a process in which a behavior-affecting property spreads
+among characters in a Massively Multiplayer Online Game (MMOG). The MMOG
+individuals constitute a synthetic population, and the game can be seen as a
+form of interactive executable model for studying disease spread, albeit of a
+very special kind. To a game developer maintaining an MMOG, recognizing,
+monitoring, and ultimately controlling a virtual plague is important,
+regardless of how it was initiated. The prospect of using tools, methods and
+theory from the field of epidemiology to do this seems natural and appealing.
+We will address the feasibility of such a prospect, first by considering some
+basic measures used in epidemiology, then by pointing out the differences
+between real world epidemics and virtual plagues. We also suggest directions
+for MMOG developer control through epidemiological modeling. Our aim is
+understanding the properties of virtual plagues, rather than trying to
+eliminate them or mitigate their effects, as would be in the case of real
+infectious disease.

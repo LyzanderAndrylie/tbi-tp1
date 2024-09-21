@@ -1,0 +1,10 @@
+This paper addresses the issues of conservativeness and computational
+complexity of probabilistic robustness analysis. We solve both issues by
+defining a new sampling strategy and robustness measure. The new measure is
+shown to be much less conservative than the existing one. The new sampling
+strategy enables the definition of efficient hierarchical sample reuse
+algorithms that reduce significantly the computational complexity and make it
+independent of the dimension of the uncertainty space. Moreover, we show that
+there exists a one to one correspondence between the new and the existing
+robustness measures and provide a computationally simple algorithm to derive
+one from the other.

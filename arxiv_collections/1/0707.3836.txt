@@ -1,0 +1,10 @@
+The charge and spin sectors, which are intimately coupled to the fermionic
+one, of the $t$-$t'$ Hubbard model have been computed self-consistently within
+the two-pole approximation. The relevant unknown correlators appearing in the
+causal bosonic propagators have been computed by enforcing the constraints
+dictated by the hydrodynamics and the algebra of the composite operators coming
+into play. The proposed scheme of approximation extends previous calculations
+made for the fermionic sector of the $t$-$t'$ Hubbard model and the bosonic
+sector of the Hubbard model, which showed to be very effective to describe the
+overdoped region of cuprates (the former) and the magnetic response of their
+parent compounds (the latter).

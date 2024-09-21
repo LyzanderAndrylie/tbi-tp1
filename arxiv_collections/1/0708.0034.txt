@@ -1,0 +1,8 @@
+An analytic formulation of memory-possessing random walks introduced recently
+[Cressoni et al., Phys. Rev. Lett. 98, 070603 (2007) and Sch\"utz and Trimper,
+Phys. Rev. E 70, 045101 (2004)] for Alzheimer behavior and related phenomena is
+provided along with exact solutions on the basis of Fokker-Planck equations.
+The solution of a delay-differential equation derived for the purpose is shown
+to produce log-periodic oscillations and to coincide rather accurately with
+previously published computer simulation results. Generalizations along several
+directions are also constructed on the basis of the formalism.

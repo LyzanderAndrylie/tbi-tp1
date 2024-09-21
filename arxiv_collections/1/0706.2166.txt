@@ -1,0 +1,8 @@
+Let F and G be morphisms of degree at least 2 from P^N to P^N that are
+defined over the algebraic closure of Q. We define the arithmetic distance
+d(F,G) between F and G to be the supremum over all algebraic points P of
+|h_F(P)-h_G(P)|, where h_F and h_G are the canonical heights associated to the
+morphisms F and G, respectively. We prove comparison theorems relating d(F,G)
+to more naive height functions and show that for a fixed G, the set of F
+satisfying d(F,G) < B is a set of bounded height. In particular, there are only
+finitely many such F defined over any given number field.

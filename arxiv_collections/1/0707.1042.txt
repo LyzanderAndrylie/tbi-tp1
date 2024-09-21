@@ -1,0 +1,7 @@
+Some of the secret sharing schemes having unique quantum features like
+parallelism and entanglement are supposed to be relatively secure. Different
+schemes proposed by various researchers over the years have features which
+could be specific to the nature and need of a situation. Following Hsu's
+proposed scheme we propose a secret sharing scheme using Grover's search
+algorithm for a four qubit system with several marked states. Further, the
+scheme has been generalised to an n-qubit syatem.

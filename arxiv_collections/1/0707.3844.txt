@@ -1,0 +1,23 @@
+In this work, I report the latest lattice QCD calculations of nucleon and
+hyperon structure from chiral fermions in 2+1-flavor dynamical simulations. All
+calculations are done with a chirally symmetric fermion action, domain-wall
+fermions, for valence quarks. % I begin with the latest lattice results on the
+nucleon structure, focusing on results from RBC/UKQCD using 2+1-flavor chiral
+fermion actions. We find the chiral-extrapolated axial coupling constant at
+physical pion mass point to be 1.23(5), consistent with experimental value. The
+renormalization constants for the structure functions are obtained from
+RI/MOM-scheme non-perturbative renormalization. We find first moments of the
+polarized and unpolarized nucleon structure functions at zero transfer momentum
+to be 0.133(13) and 0.203(23) respectively, using continuum chiral
+extrapolation. These are consistent with the experimental values, unlike
+previous calculations which have been 50% larger. We also have a prediction for
+the transversity, which we find to be 0.56(4). The twist-3 matrix element is
+consistent with zero which agrees with the prediction of the Wandzura-Wilczek
+relation.
+  In the second half of this work, I report an indirect dynamical estimation of
+the strangeness proton magnetic moments using mixed actions. With the analysis
+of hyperon form factors and using charge symmetry, the strangeness of proton is
+found to be $-0.066(26)$, consistent with the Adelaide-JLab Collaboration's
+result. The hyperon $\Sigma$ and $\Xi$ axial coupling constants are also
+performed for the first time in a lattice calculation, $g_{\Sigma\Sigma}=
+0.441(14)$ and $g_{\Xi\Xi} = -0.277(11)$.

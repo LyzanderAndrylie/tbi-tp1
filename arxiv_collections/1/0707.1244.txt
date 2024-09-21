@@ -1,0 +1,11 @@
+In this work, we calculate the current distribution, in the close vicinity of
+the quantum point contacts (QPCs), taking into account the Coulomb interaction.
+In the first step, we calculate the bare confinement potential of a generic QPC
+and, in the presence of a perpendicular magnetic field, obtain the positions of
+the incompressible edge states (IES) taking into account electron-electron
+interaction within the Thomas-Fermi theory of screening. Using a local version
+of the Ohm's law, together with a relevant conductivity model, we also
+calculate the current distribution. We observe that, the imposed external
+current is confined locally into the incompressible strips. Our calculations
+demonstrate that, the inclusion of the electron-electron interaction, strongly
+changes the general picture of the transport through the QPCs.

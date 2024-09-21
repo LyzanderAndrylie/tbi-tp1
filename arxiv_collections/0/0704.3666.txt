@@ -1,0 +1,8 @@
+AC Josephson effect in one-dimensional Tomonaga-Luttinger liquid (TLL)
+adiabatically connected to superconducting electrodes is theoretically
+investigated. It is found that density fluctuations due to repulsive
+electron-electron interactions in TLL inhibit Josephson oscillations, whereas
+they do not affect time-independent current part. We also show that the
+fluctuations reduce supercurrent noise caused by multiple Andreev reflections.
+This indicates that the quantum fluctuations in TLL disturb the superconducting
+phase coherence spreading across the junction.

@@ -1,0 +1,6 @@
+We analyze the noise induced synchronization between a collective variable
+characterizing a complex system with a finite number of interacting bistable
+units and time periodic driving forces. A random phase process associated to
+the collective stochastic variable is defined. Its average phase frequency and
+average phase diffusion are used to characterize the phenomenon. Our analysis
+is based on numerical solutions of the corresponding set of Langevin equations.

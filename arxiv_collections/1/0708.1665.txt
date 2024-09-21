@@ -1,0 +1,5 @@
+We propose a scheme able to entangle at the steady state a nanomechanical
+resonator with a microwave cavity mode of a driven superconducting coplanar
+waveguide. The nanomechanical resonator is capacitively coupled with the
+central conductor of the waveguide and stationary entanglement is achievable up
+to temperatures of tens of milliKelvin.

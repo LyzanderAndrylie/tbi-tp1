@@ -1,0 +1,11 @@
+The modularity of a network quantifies the extent, relative to a null model
+network, to which vertices cluster into community groups. We define a null
+model appropriate for bipartite networks, and use it to define a bipartite
+modularity. The bipartite modularity is presented in terms of a modularity
+matrix B; some key properties of the eigenspectrum of B are identified and used
+to describe an algorithm for identifying modules in bipartite networks. The
+algorithm is based on the idea that the modules in the two parts of the network
+are dependent, with each part mutually being used to induce the vertices for
+the other part into the modules. We apply the algorithm to real-world network
+data, showing that the algorithm successfully identifies the modular structure
+of bipartite networks.

@@ -1,0 +1,9 @@
+We examine the quantitative condition which has been widely used as a
+criterion for the adiabatic approximation but was recently found insufficient.
+Our results indicate that the usual quantitative condition is sufficient for a
+special class of quantum mechanical systems. For general systems, it may not be
+sufficient, but it along with additional conditions is sufficient. The usual
+quantitative condition and the additional conditions constitute a general
+criterion for the validity of the adiabatic approximation, which is applicable
+to all $N-$dimensional quantum systems. Moreover, we illustrate the use of the
+general quantitative criterion in some physical models.

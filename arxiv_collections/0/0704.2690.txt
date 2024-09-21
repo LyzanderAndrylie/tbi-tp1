@@ -1,0 +1,17 @@
+The favoured progenitors of long-duration gamma-ray bursts (GRBs) are rapidly
+rotating Wolf-Rayet (WR) stars. However, most Galactic WR stars are slow
+rotators, as stellar winds are thought to remove angular momentum. This poses a
+challenge to the collapsar model. Recent observations indicate that GRBs occur
+predominately in low metallicity (Z) environments, which may resolve the
+problem: lower Z leads to less mass loss, which may inhibit angular momentum
+removal, allowing WR stars to remain rotating rapidly until collapse. We wish
+to determine whether low Z WR stars rotate on average more rapidly than
+Galactic WR stars, and perform a Very Large Telescope (VLT) linear
+spectropolarimetry survey of WR stars in the low Z environment of the Large
+Magellanic Cloud (LMC) and compare our results with the Galactic sample. We
+find that only 2 out of 13 (i.e. 15%) of LMC WR stars show line polarization
+effects, compared to a similarly low fraction of ~15-20% for Galactic WR stars.
+The low incidence of line polarization effects in LMC WR stars suggests that
+the threshold metallicity where significant differences in WR rotational
+properties occur is below that of the LMC (Z ~ 0.5 Zsun), possibly constraining
+GRB progenitor channels to this upper metallicity.

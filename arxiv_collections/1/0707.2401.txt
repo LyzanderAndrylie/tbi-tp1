@@ -1,0 +1,17 @@
+We have studied the effect of resonant electronic state coupling on the
+formation of ultracold ground-state $^{85}$Rb$_2$. Ultracold Rb$_2$ molecules
+are formed by photoassociation (PA) to a coupled pair of $0_u^+$ states,
+$0_u^+(P_{1/2})$ and $0_u^+(P_{3/2})$, in the region below the $5S+5P_{1/2}$
+limit. Subsequent radiative decay produces high vibrational levels of the
+ground state, $X ^1\Sigma_g^+$. The population distribution of these $X$ state
+vibrational levels is monitored by resonance-enhanced two-photon ionization
+through the $2 ^1\Sigma_u^+$ state. We find that the populations of vibrational
+levels $v''$=112$-$116 are far larger than can be accounted for by the
+Franck-Condon factors for $0_u^+(P_{1/2}) \to X ^1\Sigma_g^+$ transitions with
+the $0_u^+(P_{1/2})$ state treated as a single channel. Further, the
+ground-state molecule population exhibits oscillatory behavior as the PA laser
+is tuned through a succession of $0_u^+$ state vibrational levels. Both of
+these effects are explained by a new calculation of transition amplitudes that
+includes the resonant character of the spin-orbit coupling of the two $0_u^+$
+states. The resulting enhancement of more deeply bound ground-state molecule
+formation will be useful for future experiments on ultracold molecules.

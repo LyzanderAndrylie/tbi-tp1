@@ -1,0 +1,17 @@
+The dominant background for observations of gamma-rays in the energy region
+above 50 GeV with Imaging Atmospheric Cherenkov telescopes are cosmic-ray
+events. The images of most of the cosmic ray showers look significantly
+different from those of gamma-rays and are therefore easily discriminated.
+However, a small fraction of events seems to be indistinguishable from
+gamma-rays. This constitutes an irreducible background to the observation of
+high-energy gamma-ray sources, and limits the sensitivity achievable with a
+given instrument. Here, a Monte Carlo study of gamma-like cosmic-ray events is
+presented. The nature of gamma-like cosmic-ray events, the shower particles
+that are responsible for the gamma-like appearance, and the dependence of these
+results on the choice of the hadronic interaction model are investigated. Most
+of the gamma-like cosmic ray events are characterised by the production of
+high-energy pi0's early in the shower development which dump most of the shower
+energy into electromagnetic sub-showers. Also Cherenkov light from single muons
+can mimic gamma-rays in close-by pairs of telescopes. Differences of up to 25%
+in the collection area for gamma-like proton showers between QGSJet/FLUKA and
+Sibyll/FLUKA simulations have been found.

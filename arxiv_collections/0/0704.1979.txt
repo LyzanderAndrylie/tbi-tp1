@@ -1,0 +1,7 @@
+We investigate serial double quantum dot systems with on-site and inter-site
+interaction by means of Sch\"onhammer-Gunnarsson projection-operator method.
+The ground state is established by the competition between extended Kondo
+phases and localized singlet phases in spi$ degrees of freedom. We present and
+discuss different phases, as discerned by characteristic correlation functions.
+We discuss also how different phases would be seen in linear transport
+measurements.

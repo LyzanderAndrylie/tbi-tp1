@@ -1,0 +1,11 @@
+The application of the Correlated basis function theory and of the Fermi
+hypernetted chain technique, to the description of the ground state of
+medium-heavy nuclei is reviewed. We discuss how the formalism, originally
+developed for symmetric nuclear matter, should be changed in order to describe
+finite nuclear systems, with different number of protons and neutrons. This
+approach allows us to describe doubly closed shell nuclei by using microscopic
+nucleon-nucleon interactions. We presents results of numerical calculations
+done with two-nucleon interactions of Argonne type,implemented with three-body
+forces of Urbana type. Our results regard ground-state energies, matter, charge
+and momentum distributions, natural orbits, occupation numbers, quasi-hole wave
+functions and spectroscopic factors of 12C, 16O, 40Ca, 48Ca and 208Pb nuclei.

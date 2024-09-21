@@ -1,0 +1,21 @@
+We study the properties of the Heisenberg antiferromagnet with spatially
+anisotropic nearest-neighbour exchange couplings on the kagome net, i.e. with
+coupling J in one lattice direction and couplings J' along the other two
+directions. For J/J' > 1, this model is believed to describe the magnetic
+properties of the mineral volborthite. In the classical limit, it exhibits two
+kinds of ground states: a ferrimagnetic state for J/J' < 1/2 and a large
+manifold of canted spin states for J/J' > 1/2. To include quantum effects
+self-consistently, we investigate the Sp(N) symmetric generalisation of the
+original SU(2) symmetric model in the large-N limit. In addition to the
+dependence on the anisotropy, the Sp(N) symmetric model depends on a parameter
+kappa that measures the importance of quantum effects. Our numerical
+calculations reveal that in the kappa-J/J' plane, the system shows a rich phase
+diagram containing a ferrimagnetic phase, an incommensurate phase, and a
+decoupled chain phase, the latter two with short- and long-range order. We
+corroborate these results by showing that the boundaries between the various
+phases and several other features of the Sp(N) phase diagram can be determined
+by analytical calculations. Finally, the application of a block-spin
+perturbation expansion to the trimerised version of the original spin-1/2 model
+leads us to suggest that in the limit of strong anisotropy, J/J' >> 1, the
+ground state of the original model is a collinearly ordered antiferromagnet,
+which is separated from the incommensurate state by a quantum phase transition.

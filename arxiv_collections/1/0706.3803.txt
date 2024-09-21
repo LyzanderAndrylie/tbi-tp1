@@ -1,0 +1,12 @@
+The influence of an inhomogeneous magnetic field on the magnetoresistance of
+thin Al films, used in different superconductor/ferromagnet hybrids, has been
+investigated. Two contrasting magnetic textures with out-of-plane magnetization
+are explored, namely (i) a plain film in a multidomain state and (ii) an array
+of micro-sized dots. The stray fields of the ferromagnetic structures confine
+the superconducting condensate and, accordingly, modify the condition for the
+nucleation of superconductivity. By switching between different magnetic states
+of the ferromagnet, this confinement can be tuned at will, hereby reversibly
+changing the dependence of the critical temperature Tc on an external magnetic
+field H. In particular, the continuous evolution from a conventional linear
+Tc(H) dependence with a single maximum to a reentrant superconducting phase
+boundary with multiple Tc peaks has been demonstrated.

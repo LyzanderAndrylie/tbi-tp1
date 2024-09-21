@@ -1,0 +1,5 @@
+We prove that the Drinfeld halfspace is essentially the only Deligne-Lusztig
+variety which is at the same time a period domain over a finite field. This is
+done by comparing a cohomology vanishing theorem for DL-varieties, due to
+Digne, Michel, and Rouquier, with a non-vanishing theorem for PD, due to the
+first author. We also discuss an affineness criterion for DL-varieties.

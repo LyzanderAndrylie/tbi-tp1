@@ -1,0 +1,9 @@
+The Recoil Growth algorithm, proposed in 1999 by Consta et al., is one of the
+most efficient algorithm available in the literature to sample from a
+multi-polymer system. Such problems are closely related to the generation of
+self-avoiding paths. In this paper, we study a variant of the original Recoil
+Growth algorithm, where we constrain the generation of a new polymer to take
+place on a specific class of graphs. This makes it possible to make a fine
+trade-off between computational cost and success rate. We moreover give a
+simple proof for a lower bound on the irreducibility of this new algorithm,
+which applies to the original algorithm as well.

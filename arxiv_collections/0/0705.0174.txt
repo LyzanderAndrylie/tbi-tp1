@@ -1,0 +1,7 @@
+We report an experimental realization of one-way quantum computing on a
+two-photon four-qubit cluster state. This is accomplished by developing a
+two-photon cluster state source entangled both in polarization and spatial
+modes. With this special source, we implemented a highly efficient Grover's
+search algorithm and high-fidelity two qubits quantum gates. Our experiment
+demonstrates that such cluster states could serve as an ideal source and a
+building block for rapid and precise optical quantum computation.

@@ -1,0 +1,12 @@
+Collaborative work on unstructured or semi-structured documents, such as in
+literature corpora or source code, often involves agreed upon templates
+containing metadata. These templates are not consistent across users and over
+time. Rule-based parsing of these templates is expensive to maintain and tends
+to fail as new documents are added. Statistical techniques based on frequent
+occurrences have the potential to identify automatically a large fraction of
+the templates, thus reducing the burden on the programmers. We investigate the
+case of the Project Gutenberg corpus, where most documents are in ASCII format
+with preambles and epilogues that are often copied and pasted or manually
+typed. We show that a statistical approach can solve most cases though some
+documents require knowledge of English. We also survey various technical
+solutions that make our approach applicable to large data sets.

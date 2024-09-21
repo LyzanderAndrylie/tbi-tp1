@@ -1,0 +1,9 @@
+We trap neutral ground-state rubidium atoms in a macroscopic trap based on
+purely electric fields. For this, three electrostatic field configurations are
+alternated in a periodic manner. The rubidium is precooled in a magneto-optical
+trap, transferred into a magnetic trap and then translated into the electric
+trap. The electric trap consists of six rod-shaped electrodes in cubic
+arrangement, giving ample optical access. Up to 10^5 atoms have been trapped
+with an initial temperature of around 20 microkelvin in the three-phase
+electric trap. The observations are in good agreement with detailed numerical
+simulations.

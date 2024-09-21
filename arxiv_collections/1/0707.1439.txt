@@ -1,0 +1,9 @@
+For large coupled nonlinear systems, it is difficult to visualize the
+high-dimensional phase space, which has been thoroughly studied in smaller
+systems with regards to phenomena such as riddled basins. Here we propose a
+method to reduce the phase space by defining a phase space cross section. The
+method is applied to a system of dynamically coupled maps introduced by Ito &
+Kaneko (Phys. Rev. Lett., 88, 028701, 2001 & Phys. Rev. E, 67, 046226, 2003).
+We show that the transitions between phases of different synchronization
+behaviour are not always sharp but can be characterized by fractal boundaries
+in both phase and parameter space.

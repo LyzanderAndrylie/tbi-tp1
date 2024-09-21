@@ -1,0 +1,21 @@
+We report the detection of CN(N=3-2) emission towards the Cloverleaf quasar
+(z=2.56) based on observations with the IRAM Plateau de Bure Interferometer.
+This is the first clear detection of emission from this radical at high
+redshift. CN emission is a tracer of dense molecular hydrogen gas (n(H2) > 10^4
+cm^{-3}) within star-forming molecular clouds, in particular in regions where
+the clouds are affected by UV radiation. The HCN/CN intensity ratio can be used
+as a diagnostic for the relative importance of photodissociation regions (PDRs)
+in a source, and as a sensitive probe of optical depth, the radiation field,
+and photochemical processes. We derive a lensing-corrected CN(N=3-2) line
+luminosity of L'(CN(3-2) = (4.5 +/- 0.5) x 10^9 K km/s pc^2. The ratio between
+CN luminosity and far-infrared luminosity falls within the scatter of the same
+relationship found for low-z (ultra-) luminous infrared galaxies. Combining our
+new results with CO(J=3-2) and HCN(J=1-0) measurements from the literature and
+assuming thermal excitation for all transitions, we find a CO/CN luminosity
+ratio of 9.3 +/- 1.9 and a HCN/CN luminosity ratio of 0.95 +/- 0.15. However,
+we find that the CN(N=3-2) line is likely only subthermally excited, implying
+that those ratios may only provide upper limits for the intrinsic 1-0 line
+luminosity ratios. We conclude that, in combination with other molecular gas
+tracers like CO, HCN, and HCO+, CN is an important probe of the physical
+conditions and chemical composition of dense molecular environments at high
+redshift.

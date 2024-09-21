@@ -1,0 +1,12 @@
+The q-deformed algebra ${\rm so}'_q(r,s)$ is a real form of the q-deformed
+algebra $U'_q({\rm so}(n,\mathbb{C}))$, $n=r+s$, which differs from the quantum
+algebra $U_q({\rm so}(n,\mathbb{C}))$ of Drinfeld and Jimbo. We study
+representations of the most degenerate series of the algebra ${\rm
+so}'_q(r,s)$. The formulas of action of operators of these representations upon
+the basis corresponding to restriction of representations onto the subalgebra
+${\rm so}'_q(r)\times {\rm so}'_q(s)$ are given. Most of these representations
+are irreducible. Reducible representations appear under some conditions for the
+parameters determining the representations. All irreducible constituents which
+appear in reducible representations of the degenerate series are found. All
+$*$-representations of ${\rm so}'_q(r,s)$ are separated in the set of
+irreducible representations obtained in the paper.

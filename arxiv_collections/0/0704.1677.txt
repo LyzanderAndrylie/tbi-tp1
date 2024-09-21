@@ -1,0 +1,11 @@
+We study the resummation of large logarithmic perturbative corrections to the
+single-inclusive jet cross section at hadron colliders. The corrections we
+address arise near the threshold for the partonic reaction, when the incoming
+partons have just enough energy to produce the high-transverse-momentum final
+state. The structure of the resulting logarithmic corrections is known to
+depend crucially on the treatment of the invariant mass of the produced jet at
+threshold. We allow the jet to have a non-vanishing mass at threshold, which
+most closely corresponds to the situation in experiment. Matching our results
+to available semi-analytical next-to-leading-order calculations, we derive
+resummed results valid to next-to-leading logarithmic accuracy. We present
+numerical results for the resummation effects at Tevatron and RHIC energies.

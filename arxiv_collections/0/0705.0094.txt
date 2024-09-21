@@ -1,0 +1,13 @@
+The extragalactic background (EGB) of diffuse gamma rays can be determined by
+subtracting the Galactic contribution from the data. This requires a Galactic
+model (GM) and we include for the first time the contribution of dark matter
+annihilation (DMA), which was previously proposed as an explanation for the
+EGRET excess of diffuse Galactic gamma rays above 1 GeV.
+  In this paper it is shown that the newly determined EGB shows a
+characteristic high energy bump on top of a steeply falling soft contribution.
+The bump is shown to be compatible with a contribution from an extragalactic
+DMA signal from weakly interacting massive particles (WIMPs) with a mass
+between 50 and 100 GeV in agreement with the EGRET excess of the Galactic
+diffuse gamma rays and in disagreement with earlier analysis. The remaining
+soft contribution of the EGB is shown to resemble the spectra of the observed
+point sources in our Galaxy.

@@ -1,0 +1,8 @@
+In this talk, we investigate the implications of R-parity violating (RPV)
+operators in a model with family symmetry. Family symmetry can determine the
+form of RPV operators as well as the Yukawa matrices. We consider a concrete
+model with non-abelian discrete symmetry Q_6, which has only three RPV
+trilinear operators with no baryon number violating terms. We find that ratios
+of decay rates of the lepton flavor violating processes are fixed thanks to the
+family symmetry, predicting BR(tau to 3e)/BR(tau to 3mu) ~ 4
+m_{mu}^2/m_{tau}^2.

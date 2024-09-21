@@ -1,0 +1,4 @@
+We propose an analysis of the dead time losses in counting imaging detectors
+such as MWPC which can resolve $k$ simultaneous hits, and analyze in more
+detail an $X-Y$ detector which has a third wire set which allows for the
+recognition of simultaneous impacts.

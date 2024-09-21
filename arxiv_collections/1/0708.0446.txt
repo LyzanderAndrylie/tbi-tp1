@@ -1,0 +1,9 @@
+These are notes prepared for ICRA workshop at Torun, Poland, August 2007. In
+the first part, we explain results on canonical basic sets by Geck and Jacon
+and propose a categorification framework which is suitable for our example of
+Hecke algebras. In the second part, we review basics of Kashiwara crystal and
+explain the Fock space theory of cyclotomic Hecke algebras and its
+applications. In the third part, we explain Rouquier's theory of
+quasihereditary covers of cyclotomic Hecke algebras. We add detailed
+explanation of the proofs here. The third part is based on my intensive course
+given at Nagoya university in January 2007.

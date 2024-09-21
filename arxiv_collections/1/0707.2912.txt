@@ -1,0 +1,7 @@
+The dynamics associated with a measurement-based master equation for quantum
+Brownian motion are investigated. A scheme for obtaining time evolution from
+general initial conditions is derived. This is applied to analyze dissipation
+and decoherence in the evolution of both a Gaussian and a Schr\"{o}dinger cat
+initial state. Dependence on the diffusive terms present in the master equation
+is discussed with reference to both the coordinate and momentum
+representations.

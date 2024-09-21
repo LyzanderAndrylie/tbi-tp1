@@ -1,0 +1,7 @@
+We show that when coherent-state encoding is employed in conjunction with
+coherent detection, the Bosonic broadcast channel is equivalent to a classical
+degraded Gaussian broadcast channel whose capacity region is dual to that of
+the classical Gaussian multiple-access channel. We further show that if a
+minimum output-entropy conjecture holds true, then the ultimate classical
+information capacity of the Bosonic broadcast channel can be achieved by a
+coherent-state encoding. We provide some evidence in support of the conjecture.

@@ -1,0 +1,10 @@
+The problems of stripper target behavior in the nonstationary intense
+particle beams are considered. The historical sketch of studying of radiation
+damage failure of carbon targets under ion bombardment is presented. The simple
+model of evaporation of a target by an intensive pulsing beam is supposed.
+Stripper foils lifetimes in the nonstationary intense particle can be described
+by two failure mechanisms: radiation damage accumulation and evaporation of
+target. At the maximal temperatures less than 2500K the radiation damage are
+dominated; at temperatures above 2500K the mechanism of evaporation of a foil
+prevails. The proposed approach has been applied to the discription of
+behaviour of stripper foils in the BNL linac and SNS conditions.

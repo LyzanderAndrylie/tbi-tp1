@@ -1,0 +1,16 @@
+We present a detailed analysis of the medium redshift (z=0.2906) galaxy
+cluster Z3146 which is part of the ongoing ARCRAIDER project, a systematic
+search for gravitational arcs in massive clusters of galaxies. The analysis of
+Z3146 is based on deep optical wide field observations in the B, V and R bands
+obtained with the WFI@ESO2.2m, and shallow archival WFPC2@HST taken with the
+F606W filter, which are used for strong as well as weak lensing analyses.
+Additionally we have used publicly available XMM/Newton observations for a
+detailed X-ray analysis of Z3146. Both methods, lensing and X-ray, were used to
+determine the dynamical state and to estimate the total mass. We also
+identified four gravitational arc candidates. We find this cluster to be in a
+relaxed state, which is confirmed by a large cooling flow with nominal
+~1600M_\odot per year, regular galaxy density and light distributions and a
+regular shape of the weak lensing mass reconstruction. The mass content derived
+with the different methods agrees well within 25% at r_{200}=1661
+h_{70}^{-1}kpc indicating a velocity dispersion of
+\sigma_v=869^{+124}_{-153}km/s.

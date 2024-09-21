@@ -1,0 +1,12 @@
+Let $q$ be a positive integer. In our recent paper, we proved that the
+cardinality of the complement of an integral arrangement, after the modulo $q$
+reduction, is a quasi-polynomial of $q$, which we call the characteristic
+quasi-polynomial. In this paper, we study general properties of the
+characteristic quasi-polynomial as well as discuss two important examples: the
+arrangements of reflecting hyperplanes arising from irreducible root systems
+and the mid-hyperplane arrangements. In the root system case, we present a
+beautiful formula for the generating function of the characteristic
+quasi-polynomial which has been essentially obtained by Ch. Athanasiadis and by
+A. Blass and B. Sagan. On the other hand, it is hard to find the generating
+function of the characteristic quasi-polynomial in the mid-hyperplane
+arrangement case. We determine them when the dimension is less than six.

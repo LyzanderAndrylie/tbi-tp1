@@ -1,0 +1,8 @@
+This paper contains the results of our investigations of BPS instantons and
+of our work on N=2 supersymmetric gauge theories. The BPS instantons we study
+appear in type II string theory compactifications on Calabi-Yau threefolds. In
+the corresponding four-dimensional effective supergravity actions the BPS
+instantons arise as finite action solutions to the Euclidean equations of
+motion. For N=2 supersymmetric gauge theories we construct general Lagrangians
+involving gauge groups with (non-abelian) electric and magnetic (dyonic)
+charges. In this work a coupling to hypermultiplets is included.

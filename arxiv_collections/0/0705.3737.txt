@@ -1,0 +1,8 @@
+The Fokker-Planck Equation, applied to transport processes in fusion plasmas,
+can model several anomalous features, including uphill transport, scaling of
+confinement time with system size, and convective propagation of externally
+induced perturbations. It can be justified for generic particle transport
+provided that there is enough randomness in the Hamiltonian describing the
+dynamics. Then, except for 1 degree-of-freedom, the two transport coefficients
+are largely independent. Depending on the statistics of interest, the same
+dynamical system may be found diffusive or dominated by its L\'{e}vy flights.

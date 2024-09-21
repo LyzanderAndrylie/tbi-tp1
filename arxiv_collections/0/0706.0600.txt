@@ -1,0 +1,5 @@
+We use a variational method to construct soliton solutions for systems
+characterized by opposing dispersion and competing nonlinearities at
+fundamental and second harmonics. We show that both ordinary and embedded
+solitons tend to gain energy when the second harmonic field becomes weaker than
+the first harmonic field.

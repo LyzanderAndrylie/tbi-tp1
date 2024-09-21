@@ -1,0 +1,23 @@
+The early Solar System contained short-lived radionuclides such as 60Fe (t1/2
+= 1.5 Myr) whose most likely source was a nearby supernova. Previous models of
+Solar System formation considered a supernova shock that triggered the collapse
+of the Sun's nascent molecular cloud. We advocate an alternative hypothesis,
+that the Solar System's protoplanetary disk had already formed when a very
+close (< 1 pc) supernova injected radioactive material directly into the disk.
+We conduct the first numerical simulations designed to answer two questions
+related to this hypothesis: will the disk be destroyed by such a close
+supernova; and will any of the ejecta be mixed into the disk? Our simulations
+demonstrate that the disk does not absorb enough momentum from the shock to
+escape the protostar to which it is bound. Only low amounts (< 1%) of mass loss
+occur, due to stripping by Kelvin-Helmholtz instabilities across the top of the
+disk, which also mix into the disk about 1% of the intercepted ejecta. These
+low efficiencies of destruction and injectation are due to the fact that the
+high disk pressures prevent the ejecta from penetrating far into the disk
+before stalling. Injection of gas-phase ejecta is too inefficient to be
+consistent with the abundances of radionuclides inferred from meteorites. On
+the other hand, the radionuclides found in meteorites would have condensed into
+dust grains in the supernova ejecta, and we argue that such grains will be
+injected directly into the disk with nearly 100% efficiency. The meteoritic
+abundances of the short-lived radionuclides such as 60Fe therefore are
+consistent with injection of grains condensed from the ejecta of a nearby (< 1
+pc) supernova, into an already-formed protoplanetary disk.

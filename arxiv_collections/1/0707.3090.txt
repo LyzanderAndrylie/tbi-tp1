@@ -1,0 +1,7 @@
+We compute the virtual O(alpha_s^2) fermionic contributions to the charm
+quark mass dependent matrix elements of the B -> X_s gamma decay. In the case
+of a massless quark loop insertion into the gluon propagator, our result
+obtained as an expansion in z=m_c^2/m_b^2 and an exact expression in terms of
+multi-fold MB integrals, confirms the findings of Bieri, Greub and Steinhauser
+[19]. We observe, however, large deviations in the case of a b-quark loop
+insertion.The charm quark loop shows smaller, but still noticeable differences.

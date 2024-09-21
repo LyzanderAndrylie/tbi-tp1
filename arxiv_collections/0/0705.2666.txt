@@ -1,0 +1,18 @@
+The spectrum of meson and diquark excitations of dense quark matter is
+considered in the framework of the Nambu -- Jona-Lasinio model with three types
+of massless quarks in the presense of a quark number chemical potential $\mu$.
+We investigate the effective action of meson- and diquark fields both at
+sufficiently large values of $\mu>\mu_c\approx 330$ MeV, where the
+color--flavor locked (CFL) phase is realized, and in the chirally broken phase
+of quark matter ($\mu<\mu_c$). In the last case all nine pseudoscalar mesons
+are Nambu -- Goldstone (NG) bosons, whereas the mass of the scalar meson nonet
+is twice the dynamical quark mass. In the chirally broken phase the
+pseudoscalar diquarks are not allowed to exist as stable particles, but the
+scalar diquarks might be stable only at a rather strong interaction in the
+diquark channel. In the case of the CFL phase, all NG bosons of the model are
+realized as scalar and pseudoscalar diquarks. Moreover, it turns out that
+massive diquark excitations are unstable for this phase. In particular, for the
+scalar and pseudoscalar octets of diquark resonances a mass value around 230
+MeV was found numerically. In contrast, mesons are stable particles in the CFL
+phase. Their masses lie in the interval 400$\div$500 MeV for not too large
+values of $\mu>\mu_c$.

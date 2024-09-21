@@ -1,0 +1,10 @@
+We present calculations of the thermal and electric linear response in
+graphene, including disorder in the self-consistent t-matrix approximation. For
+strong impurity scattering, near the unitary limit, the formation of a band of
+impurity states near the Fermi level leads to that Mott's relation holds at low
+temperature. For higher temperatures, there are strong deviations due to the
+linear density of states. The low-temperature thermopower is proportional to
+the inverse of the impurity potential and the inverse of the impurity density.
+Information about impurity scattering in graphene can be extracted from the
+thermopower, either measured directly, or extracted via Mott's relation from
+the electron-density dependence of the electric conductivity.

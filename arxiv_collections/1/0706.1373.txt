@@ -1,0 +1,13 @@
+The usual dispersionless limit of the KP hierarchy does not work in the case
+where the dependent variable has values in a noncommutative (e.g. matrix)
+algebra. Passing over to the potential KP hierarchy, there is a corresponding
+scaling limit in the noncommutative case, which turns out to be the hierarchy
+of a `pseudodual chiral model' in 2+1 dimensions (`pseudodual' to a hierarchy
+extending Ward's (modified) integrable chiral model). Applying the scaling
+procedure to a method generating exact solutions of a matrix (potential) KP
+hierarchy from solutions of a matrix linear heat hierarchy, leads to a
+corresponding method that generates exact solutions of the matrix
+dispersionless potential KP hierarchy, i.e. the pseudodual chiral model
+hierarchy. We use this result to construct classes of exact solutions of the
+su(m) pseudodual chiral model in 2+1 dimensions, including various multiple
+lump configurations.

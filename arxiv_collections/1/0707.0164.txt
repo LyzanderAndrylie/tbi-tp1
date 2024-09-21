@@ -1,0 +1,10 @@
+We propose and demonstrate a coherent control scheme for stable phase locking
+of squeezed vacuum fields. We focus on sideband fields at frequencies from 10Hz
+to 10kHz which is a frequency regime of particular interest in gravitational
+wave detection and for which conventional control schemes have failed so far. A
+vacuum field with broadband squeezing covering this entire band was produced
+using optical parametric oscillation and characterized with balanced homodyne
+detection. The system was stably controlled over long periods utilizing two
+coherent but frequency shifted control fields. In order to demonstrate the
+performance of our setup the squeezed field was used for a nonclassical
+sensitivity improvement of a Michelson interferometer at audio frequencies.

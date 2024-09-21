@@ -1,0 +1,18 @@
+STAR has measured a variety of strange particle species in p + p collisions
+at $\sqrt{s}$ = 200 GeV. These high statistics data are ideal for comparing to
+existing leading- and next-to-leading order perturbative QCD (pQCD) models.
+Next-to-leading (NLO) models have been successful in describing inclusive
+hadron production using parameterized fragmentation functions (FF) for quarks
+and gluons. However, in order to describe identied strange particle spectra at
+NLO, knowledge of flavor separated FF is essential. Such FF have recently been
+parameterized using data by the OPAL experiment and allow for the first time to
+perform NLO calculation for strange baryons. In fact, comparing the STAR Lambda
+data with these calculations allow to put a constraint on the gluon
+fragmentation function. We show that the Leading-order (LO) event generator
+PYTHIA has to be tuned significantly to reproduce the STAR identified strange
+particle data. In particular, it fails to describe the observed enhancement of
+baryon-to-meson ratio at intermediate pT (2-6 GeV/c). In heavy-ion (HI)
+collisions this observable has been extensively compared with models and shows
+a strong dependency on collision centrality or parton density. In the HI
+context the observed enhancement has been explained by recent approaches in
+terms of parton coalescense and recombination models.

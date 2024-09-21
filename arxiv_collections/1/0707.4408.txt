@@ -1,0 +1,9 @@
+We prove that second-order hyperbolic Monge-Ampere equations for one function
+of two variables are connected to the wave equation by a Backlund
+transformation if and only if they are integrable by the method of Darboux at
+second order. One direction of proof, proving Darboux integrability, follows
+the implications of the wave equation for the invariants of the G-structure
+associated to the Backlund transformation. The other direction constructs
+Backlund transformations for Darboux integrable equations as solutions of an
+involutive exterior differential system. Explicit transformations are given for
+several equations on the Goursat-Vessiot list of Darboux-integrable equations.

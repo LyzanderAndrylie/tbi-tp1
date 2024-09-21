@@ -1,0 +1,12 @@
+One way to treat the infrared divergences of the electroweak
+Next-to-Leading-Order (NLO) differential cross sections to parity-violating
+(PV) electron-proton scattering is by adding soft-photon emission contribution.
+Although more physical, the results are left with a logarithmic dependence on
+the photon detector acceptance, which can only be eliminated by considering
+Hard Photon Bremsstrahlung (HPB) contribution. Here we present a treatment of
+HPB for PV electron-proton scattering. HPB differential cross sections for
+electron-proton scattering have been computed using the experimental values of
+nucleon form factors. The final results are expressed through kinematic
+parameters, making it possible to apply the computed PV HPB differential cross
+sections for the analysis of data of a range of current and proposed
+experiments.

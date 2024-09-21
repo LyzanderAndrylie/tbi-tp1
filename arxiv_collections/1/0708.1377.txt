@@ -1,0 +1,9 @@
+This talks contains a short introduction to Chiral Perturbation Theory and
+the existing calculations to two-loop order in the mesonic sector. I include a
+discussion on which quantities the expansion can be organized in. The present
+best values of the Low-Energy-Constants as determined from continuum physics
+are given as well as the assumptions underlying the fits to experimental data.
+I present plots of masses, decay constants and $f_+(0)$ in $K_{\ell3}$ as a
+function of quark or meson masses. The talk ends with a list of things for
+which it would be extremely useful to have good results from lattice QCD
+calculations.

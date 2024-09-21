@@ -1,0 +1,11 @@
+We investigate the properties of a deterministic walk, whose locomotion rule
+is always to travel to the nearest site. Initially the sites are randomly
+distributed in a closed rectangular ($A/L \times L)$ landscape and, once
+reached, they become unavailable for future visits. As expected, the walker
+step lengths present characteristic scales in one ($L \to 0$) and two ($A/L
+\sim L$) dimensions. However, we find scale invariance for an intermediate
+geometry, when the landscape is a thin strip-like region. This result is
+induced geometrically by a dynamical trapping mechanism, leading to a power law
+distribution for the step lengths. The relevance of our findings in broader
+contexts -- of both deterministic and random walks -- is also briefly
+discussed.

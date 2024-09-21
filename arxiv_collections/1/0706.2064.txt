@@ -1,0 +1,12 @@
+This paper presents a modeling study of the oxidation of cyclohexane from low
+to intermediate temperature (650-1050 K), including the negative temperature
+coefficient (NTC) zone. A detailed kinetic mechanism has been developed using
+computer-aided generation. This comprehensive low-temperature mechanism
+involves 513 species and 2446 reactions and includes two additions of
+cyclohexyl radicals to oxygen, as well as subsequent reactions. The rate
+constants of the reactions involving the formation of bicyclic species
+(isomerizations, formation of cyclic ethers) have been evaluated from
+literature data. This mechanism is able to satisfactorily reproduce
+experimental results obtained in a rapid-compression machine for temperatures
+ranging from 650 to 900 K and in a jet-stirred reactor from 750 to 1050 K.
+Flow-rate analyses have been performed at low and intermediate temperatures.

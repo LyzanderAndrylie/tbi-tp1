@@ -1,0 +1,11 @@
+We consider universal statistical properties of systems that are
+characterized by phase states with macroscopic degeneracy of the ground state.
+A possible topological order in such systems is described by non-linear
+discrete equations. We focus on the discrete equations which take place in the
+case of generalized exclusion principle statistics. We show that their exact
+solutions are quantum dimensions of the irreducible representations of certain
+quantum group. These solutions provide an example of the point where the
+generalized exclusion principle statistics and braid statistics meet each
+other. We propose a procedure to construct the quantum dimer models by means of
+projection of the knotted field configurations that involved braiding features
+of one-dimensional topology.

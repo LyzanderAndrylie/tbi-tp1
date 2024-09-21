@@ -1,0 +1,10 @@
+We present here a model for the coupling among small nanoparticles excited by
+an optical electric field in the framework of our optical lumped nanocircuit
+theory [N. Engheta, A. Salandrino, and A. Alu Phys. Rev. Lett. 95, 095504
+(2005)]. We derive how this coupling affects the corresponding nanocircuit
+model by adding controlled sources that depend on the optical voltages applied
+on the coupled particles. With the same technique, we can model also the
+presence of a substrate underneath nanocircuit elements, relating its presence
+to the coupling with a properly modeled image nanoparticle. These results are
+of importance in the understanding and the design of complex optical
+nanocircuits at infrared and optical frequencies.

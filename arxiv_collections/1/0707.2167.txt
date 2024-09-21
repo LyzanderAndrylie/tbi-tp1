@@ -1,0 +1,3 @@
+Let G be a group which acts on a commutative ring k. We exhibit an induction
+formula which expresses an element x_G with tr_G(x_G)=1 by elements x_P with
+tr_P(x_P)=1, where P varies over prime order subgroups of P.

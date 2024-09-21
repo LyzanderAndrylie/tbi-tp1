@@ -1,0 +1,10 @@
+The Birman-Murakami-Wenzl algebra (BMW algebra) of type Dn is shown to be
+semisimple and free of rank (2^n+1)n!!-(2^(n-1)+1)n! over a specified
+commutative ring R, where n!! is the product of the first n odd integers. We
+also show it is a cellular algebra over suitable ring extensions of R. The
+Brauer algebra of type Dn is the image af an R-equivariant homomorphism and is
+also semisimple and free of the same rank, but over the polynomial ring Z with
+delta and its inverse adjoined. A rewrite system for the Brauer algebra is used
+in bounding the rank of the BMW algebra above. As a consequence of our results,
+the generalized Temperley-Lieb algebra of type Dn is a subalgebra of the BMW
+algebra of the same type.

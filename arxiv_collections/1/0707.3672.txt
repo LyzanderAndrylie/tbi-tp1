@@ -1,0 +1,11 @@
+We consider the recursive equation ``x(n+1)=A(n)x(n)'' where x(n+1) and x(n)
+are column vectors of size k and where A(n) is an irreducible random matrix of
+size k x k. The matrix-vector multiplication in the (max,+) algebra is defined
+by (A(n)x(n))_i= max_j [ A(n)_{ij} +x(n)_j ]. This type of equation can be used
+to represent the evolution of Stochastic Event Graphs which include cyclic
+Jackson Networks, some manufacturing models and models with general blocking
+(such as Kanban). Let us assume that the sequence (A(n))_n is i.i.d or more
+generally stationary and ergodic. The main result of the paper states that the
+system couples in finite time with a unique stationary regime if and only if
+there exists a set of matrices C such that P {A(0) in C} > 0, and the matrices
+in C have a unique periodic regime.

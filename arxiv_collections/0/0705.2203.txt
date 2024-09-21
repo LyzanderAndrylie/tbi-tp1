@@ -1,0 +1,9 @@
+Quantum Weak Energy Inequalities (QWEIs) are results which limit the extent
+to which the smeared renormalised energy density of a quantum field can be
+negative. On globally hyperbolic spacetimes the massive quantum Dirac field is
+known to obey a QWEI in terms of a reference state chosen arbitrarily from the
+class of Hadamard states; however, there exist spacetimes of interest on which
+state-dependent bounds cannot be evaluated. In this paper we prove the first
+QWEI for the massive quantum Dirac field on four dimensional globally
+hyperbolic spacetime in which the bound depends only on the local geometry;
+such a QWEI is known as an absolute QWEI.

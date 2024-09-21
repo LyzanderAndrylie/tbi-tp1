@@ -1,0 +1,14 @@
+The influence of three well-known disaccharides, namely trehalose, maltose
+and sucrose, on some structural and dynamical properties of lysozyme has been
+investigated by means of molecular dynamics computer simulations in the 37-60
+wt % concentration range. The effects of sugars on the protein conformation are
+found relatively weak, in agreement with the preferential hydration of
+lysozyme. Conversely, sugars seem to increase significantly the relaxation
+times of the protein. These effects are shown to be correlated to the
+fractional solvent accessibilities of lysozyme residues and further support the
+slaving of protein dynamics. Moreover, a significant increase in the relaxation
+times of lysozyme, sugars and water molecules is observed within the studied
+concentration range and may result from the percolation of the hydrogen-bond
+network of sugar molecules. This percolation appears to be of primary
+importance to explain the influence of sugars on the dynamical properties of
+lysozyme and water.

@@ -1,0 +1,7 @@
+In the present work we take the non relativistic limit of relativistic models
+and compare the obtained functionals with the usual Skyrme parametrization.
+Relativistic models with both constant couplings and with density dependent
+couplings are considered. While some models present very good results already
+at the lowest order in the density, models with non-linear terms only reproduce
+the energy functional if higher order terms are taken into account in the
+expansion.

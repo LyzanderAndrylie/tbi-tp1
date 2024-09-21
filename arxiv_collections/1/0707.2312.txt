@@ -1,0 +1,7 @@
+We compute the limit shapes of the Young diagrams of the minimal difference
+$p$ partitions and provide a simple physical interpretation for the limit
+shapes. We also calculate the asymptotic distribution of the largest part of
+the Young diagram and show that the scaled distribution has a Gumbel form for
+all $p$. This Gumbel statistics for the largest part remains unchanged even for
+general partitions of the form $E=\sum_i n_i i^{1/\nu}$ with $\nu>0$ where
+$n_i$ is the number of times the part $i$ appears.

@@ -1,0 +1,8 @@
+Sensitivity studies to the CP-violating parameters of the decay Bs->phi phi
+with the LHCb experiment are presented. The decay proceeds via a b->s s anti-s
+gluonic-penguin quark transition, which is sensitive to contributions from
+beyond the Standard Model particles. A time-dependent angular analysis of
+simulated data leads to an expected statistical uncertainty of 6 degrees on any
+new physics induced CP-violating phase for a sample corresponding to 2 fb^{-1}
+of integrated luminosity. The expected precision on sin2beta from the related
+decay Bd->phi K0S is also discussed.

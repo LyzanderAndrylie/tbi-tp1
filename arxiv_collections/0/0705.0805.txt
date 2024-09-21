@@ -1,0 +1,13 @@
+The well known Liouville-Arnold theorem says that if a level surface of
+integrals of an integrable system is compact and connected, then it is a torus.
+However, in some important examples of integrable systems the topology of a
+level surface of integrals is quite complicated. This is due to the fact that
+in these examples the phase space has points where either the Hamiltonian is
+singular or the symplectic form is singular or degenerate. In such situations
+the Liouville-Arnold theorem does not apply. However, sometimes it is possible
+to define the corresponding flow on the whole level surface of integrals and
+use this flow to investigate the topology. Tomei (1982) and Fried (1986) used
+the Toda lattice to study the topology of the isospectral variety of Jacobi
+matrices. We recall these results and we also expose new results concerning the
+topology of the isospectral variety of zero-diagonal Jacobi matrices. This
+topology is studied using the Volterra system.

@@ -1,0 +1,14 @@
+We report on measurements of the adiabatic temperature change in the inverse
+magnetocaloric Ni$_{50}$Mn$_{34}$In$_{16}$ alloy. It is shown that this alloy
+heats up with the application of a magnetic field around the Curie point due to
+the conventional magnetocaloric effect. In contrast, the inverse magnetocaloric
+effect associated with the martensitic transition results in the unusual
+decrease of temperature by adiabatic magnetization. We also provide
+magnetization and specific heat data which enable to compare the measured
+temperature changes to the values indirectly computed from thermodynamic
+relationships. Good agreement is obtained for the conventional effect at the
+second-order paramagnetic-ferromagnetic phase transition. However, at the first
+order structural transition the measured values at high fields are lower than
+the computed ones. Irreversible thermodynamics arguments are given to show that
+such a discrepancy is due to the irreversibility of the first-order martensitic
+transition.

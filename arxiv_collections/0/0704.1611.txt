@@ -1,0 +1,15 @@
+The last decades witnessed a renewal of interest in the Burgers equation.
+Much activities focused on extensions of the original one-dimensional
+pressureless model introduced in the thirties by the Dutch scientist J.M.
+Burgers, and more precisely on the problem of Burgers turbulence, that is the
+study of the solutions to the one- or multi-dimensional Burgers equation with
+random initial conditions or random forcing. Such work was frequently motivated
+by new emerging applications of Burgers model to statistical physics,
+cosmology, and fluid dynamics. Also Burgers turbulence appeared as one of the
+simplest instances of a nonlinear system out of equilibrium. The study of
+random Lagrangian systems, of stochastic partial differential equations and
+their invariant measures, the theory of dynamical systems, the applications of
+field theory to the understanding of dissipative anomalies and of multiscaling
+in hydrodynamic turbulence have benefited significantly from progress in
+Burgers turbulence. The aim of this review is to give a unified view of
+selected work stemming from these rather diverse disciplines.

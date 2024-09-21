@@ -1,0 +1,14 @@
+It is known that evaluating a certain approximation to the Jones polynomial
+for the plat closure of a braid is a BQP-complete problem. That is, this
+problem exactly captures the power of the quantum circuit model. The one clean
+qubit model is a model of quantum computation in which all but one qubit starts
+in the maximally mixed state. One clean qubit computers are believed to be
+strictly weaker than standard quantum computers, but still capable of solving
+some classically intractable problems. Here we show that evaluating a certain
+approximation to the Jones polynomial at a fifth root of unity for the trace
+closure of a braid is a complete problem for the one clean qubit complexity
+class. That is, a one clean qubit computer can approximate these Jones
+polynomials in time polynomial in both the number of strands and number of
+crossings, and the problem of simulating a one clean qubit computer is
+reducible to approximating the Jones polynomial of the trace closure of a
+braid.

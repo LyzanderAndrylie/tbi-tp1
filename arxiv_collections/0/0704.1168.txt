@@ -1,0 +1,14 @@
+The validity of the DFT models implemented by FIREBALL for CNT electronic
+device modeling is assessed. The effective masses, band gaps, and transmission
+coefficients of semi-conducting, zigzag, (n,0) carbon nanotubes (CNTs)
+resulting from the ab initio tight-binding density functional theory (DFT) code
+FIREBALL and the empirical, nearest-neighbor pi-bond model are compared for all
+semiconducting n values 5 <(=) n <(=) 35. The DFT values for the effective
+masses differ from the pi-bond values by +(-) 9% over the range of n values, 17
+<(=) n <(=) 29, most important for electronic device applications. Over the
+range 13 <(=) n <(=) 35, the DFT bandgaps are less than the empirical bandgaps
+by 20-180 meV depending on the functional and the n value. The pi-bond model
+gives results that differ signifcantly from the DFT results when the CNT
+diameter goes below 1 nm due to the large curvature of the CNT. The pi-bond
+model quickly becomes inaccurate away from the bandedges for a (10, 0) CNT, and
+it is completely inaccurate for n <(=) 8.

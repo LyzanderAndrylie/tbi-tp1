@@ -1,0 +1,9 @@
+We have recently shown that for the special case of a bipartite system with
+binary inputs and outputs there exist equalities in local theories which are
+violated by quantum theory. The amount of white noise tolerated by these
+equalities are twice that of inequalities. In this paper we will first
+introduce an inequality in bipartite qutrits systems which, if non-maximally
+entangled state is used instead of maximally entangled state, is violated more
+strongly by quantum theory. Hence reproducing the results obtained in the
+literature. We will then prove that our equalities in this case are violated by
+quantum theory too, and they tolerate much more white noise than inequalities.

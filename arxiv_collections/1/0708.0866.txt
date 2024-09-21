@@ -1,0 +1,12 @@
+For a class of singular potentials, including the Coulomb potential (in three
+and less dimensions) and $V(x) = g/x^2$ with the coefficient $g$ in a certain
+range ($x$ being a space coordinate in one or more dimensions), the
+corresponding Schr\"odinger operator is not automatically self-adjoint on its
+natural domain. Such operators admit more than one self-adjoint domain, and the
+spectrum and all physical consequences depend seriously on the self-adjoint
+version chosen. The article discusses how the self-adjoint domains can be
+identified in terms of a boundary condition for the asymptotic behaviour of the
+wave functions around the singularity, and what physical differences emerge for
+different self-adjoint versions of the Hamiltonian. The paper reviews and
+interprets known results, with the intention to provide a practical guide for
+all those interested in how to approach these ambiguous situations.

@@ -1,0 +1,24 @@
+Context. Gas within a galaxy is forced to establish pressure balance against
+gravitational forces. The shape of an unperturbed gaseous disk can be used to
+constrain dark matter models. Aims. We derive the 3-D HI volume density
+distribution for the Milky Way out to a galactocentric radius of 40 kpc and a
+height of 20 kpc to constrain the Galactic mass distribution. Methods. We used
+the Leiden/Argentine/Bonn all sky 21-cm line survey. The transformation from
+brightness temperatures to densities depends on the rotation curve. We explored
+several models, reflecting different dark matter distributions. Each of these
+models was set up to solve the combined Poisson-Boltzmann equation in a
+self-consistent way and optimized to reproduce the observed flaring. Results.
+Besides a massive extended halo of M ~ 1.8 10^{12} Msun, we find a
+self-gravitating dark matter disk with M=2 to 3 10^{11} Msun, including a dark
+matter ring at 13 < R < 18.5 kpc with M = 2.2 to 2.8 10^{10} Msun. The
+existence of the ring was previously postulated from EGRET data and coincides
+with a giant stellar structure that surrounds the Galaxy. The resulting Milky
+Way rotation curve is flat up to R~27 kpc and slowly decreases outwards. The
+\hi gas layer is strongly flaring. The HWHM scale height is 60 pc at R = 4 kpc
+and increases to ~2700$ pc at R=40 kpc. Spiral arms cause a noticeable imprint
+on the gravitational field, at least out to R = 30 kpc. Conclusions. Our mass
+model supports previous proposals that the giant stellar ring structure is due
+to a merging dwarf galaxy. The fact that the majority of the dark matter in the
+Milky Way for $R \la 40$ kpc can be successfully modeled by a self-gravitating
+isothermal disk raises the question of whether this massive disk may have been
+caused by similar merger events in the past.

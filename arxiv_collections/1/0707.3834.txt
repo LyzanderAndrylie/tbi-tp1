@@ -1,0 +1,9 @@
+Quantum projection noise will soon limit the best achievable precision of
+optical atomic clocks based on lattice-confined neutral atoms. Squeezing the
+collective atomic pseudo-spin via measurement of the clock state populations
+during Ramsey interrogation suppresses the projection noise. We show here that
+the lattice laser field can be used to perform ideal quantum non-demolition
+measurements without clock shifts or decoherence and explore the feasibility of
+such an approach in theory with the lattice field confined in a ring-resonator.
+Detection of the motional sideband due to the atomic vibration in the lattice
+wells can yield signal sizes a hundredfold above the projection noise limit.

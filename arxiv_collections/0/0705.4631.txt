@@ -1,0 +1,9 @@
+We show that the phase sensitivity $\Delta \theta$ of a Mach-Zehnder
+interferometer fed by a coherent state in one input port and squeezed-vacuum in
+the other one is i) independent from the true value of the phase shift and ii)
+can reach the Heisenberg limit $\Delta \theta \sim 1/N_T$, where $N_T$ is the
+average number of particles of the input states. We also show that the
+Cramer-Rao lower bound, $\Delta \theta \propto 1/ \sqrt{|\alpha|^2 e^{2r} +
+\sinh^2r}$, can be saturated for arbitrary values of the squeezing parameter
+$r$ and the amplitude of the coherent mode $|\alpha|$ by a Bayesian phase
+inference protocol.

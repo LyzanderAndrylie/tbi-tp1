@@ -1,0 +1,4 @@
+We analyze properties of the 2-adic valuations of an integer sequence that
+originates from an explicit evaluation of a quartic integral. We also give a
+combinatorial interpretation of the valuations of this sequence. Connections
+with the orbits arising from the Collatz (3x+1) problem are discussed.

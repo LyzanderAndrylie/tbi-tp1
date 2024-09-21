@@ -1,0 +1,11 @@
+We derive the microcanonical partition function of the ideal relativistic
+quantum gas with fixed intrinsic angular momentum as an expansion over fixed
+multiplicities. We developed a group theoretical approach by generalizing known
+projection techniques to the Poincare' group. Our calculation is carried out in
+a quantum field framework and applies to particles with any spin. It extends
+known results in literature in that it does not introduce any large volume
+approximation and it takes particle spin fully into account. We provide
+expressions of the microcanonical partition function at fixed multiplicities in
+the limiting classical case of large volumes and large angular momenta and in
+the grand-canonical ensemble. We also derive the microcanonical partition
+function of the ideal relativistic quantum gas with fixed parity.

@@ -1,0 +1,12 @@
+We calculate the isospin-mixing parameter for several Tz=-1, Tz=0 and Tz=1
+nuclei from Mg to Sn in the particle-number conserving Higher Tamm-Dancoff
+approach taking into account the pairing correlations. In particular we
+investigate the role of the Coulomb interaction and the |Tz|=1 pairing
+correlations. To do so the HTDA approach is implemented with the SIII Skyrme
+effective nucleon-nucleon interaction in the mean-field channel and a delta
+interaction in the pairing channel. We conclude from this investigation that
+the pairing correlations bring a large contribution to isospin-symmetry
+breaking, whereas the Coulomb interaction turns out to play a less important
+role. Moreover we find that the isospin-mixing parameters for Tz=-1 and Tz=1
+nuclei are comparable while they are about twice as large for Tz=0 nuclei
+(between 3% and 6%, including doubly magic nuclei).

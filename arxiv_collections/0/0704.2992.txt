@@ -1,0 +1,5 @@
+We study Langevin dynamics of a driven charged particle in the presence as
+well as in the absence of magnetic field. We discuss the validity of various
+work fluctuation theorems using different model potentials and external drives.
+We also show that one can generate an orbital magnetic moment in a
+nonequilibrium state which is absent in equilibrium.

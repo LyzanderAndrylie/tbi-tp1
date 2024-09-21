@@ -1,0 +1,6 @@
+The Minkowski Question Mark function can be characterized as the unique
+homeomorphism of the real unit interval that conjugates the Farey map with the
+tent map. We construct an n-dimensional analogue of the Minkowski function as
+the only homeomorphism of an n-simplex that conjugates the piecewise-fractional
+map associated to the Monkemeyer continued fraction algorithm with an
+appropriate tent map.

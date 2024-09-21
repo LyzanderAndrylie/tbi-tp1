@@ -1,0 +1,12 @@
+The plasmon analog of the self-imaging Talbot effect is described and
+theoretically analyzed. Rich plasmon carpets containing hot spots are shown to
+be produced by a row of periodically-spaced surface features. A row of holes
+drilled in a metal film and illuminated from the back side is discussed as a
+realizable implementation of this concept. Self-images of the row are produced,
+separated from the original one by distances up to several hundreds of
+wavelengths in the examples under consideration. The size of the image focal
+spots is close to half a wavelength and the spot positions can be controlled by
+changing the incidence direction of external illumination, suggesting the
+possibility of using this effect (and its extension to non-periodic surface
+features) for far-field patterning and for long-distance plasmon-based
+interconnects in plasmonic circuits, energy transfer, and related phenomena.

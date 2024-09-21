@@ -1,0 +1,20 @@
+As part of an effort to enlarge the number of well-studied Magellanic-type
+galaxies, we obtained broadband optical imaging and neutral hydrogen radio
+synthesis observations of the dwarf irregular galaxy ESO 364-G 029. The optical
+morphology characteristically shows a bar-like main body with a one-sided
+spiral arm, an approximately exponential light distribution, and offset
+photometric and kinematic centers. The HI distribution is mildly asymmetric
+and, although slightly offset from the photometric center, roughly follows the
+optical brightness distribution, extending to over 1.2 Holmberg radii (where
+mu_B = 26.5 mag/arcsec^2). In particular, the highest HI column densities
+closely follow the bar, one-arm spiral, and a third optical extension. The
+rotation is solid-body in the inner parts but flattens outside of the optical
+extent. The total HI flux F_HI = 23.1 pm 1.2 Jy km/s, yielding a total HI mass
+M_HI= (6.4 pm 1.7) x 10^8 Msun (for a distance D = 10.8 pm 1.4 Mpc) and a total
+HI mass-to-blue-luminosity ratio M_HI/L_B = (0.96 pm 0.14) Msun / Lsun,B
+(distance independent). The HI data suggest a very complex small-scale HI
+structure, with evidence of large shells and/or holes, but deeper observations
+are required for a detailed study. Follow-up observations are also desirable
+for a proper comparison with the Large Magellanic Cloud, where despite an
+optical morphology very similar to ESO 364-G 029 the HI bears little
+resemblance to the optical.

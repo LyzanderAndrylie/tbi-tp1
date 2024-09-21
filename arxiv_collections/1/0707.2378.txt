@@ -1,0 +1,10 @@
+To investigate ultracold fermionic atoms of three internal states (colors) in
+an optical lattice, subject to strong attractive interaction, we study the
+attractive three-color Hubbard model in infinite dimensions by using a
+variational approach. We find a quantum phase transition between a
+weak-coupling superconducting phase and a strong-coupling trionic phase where
+groups of three atoms are bound to a composite fermion. We show how the
+Gutzwiller variational theory can be reformulated in terms of an effective
+field theory with three-body interactions and how this effective field theory
+can be solved exactly in infinite dimensions by using the methods of dynamical
+mean field theory.

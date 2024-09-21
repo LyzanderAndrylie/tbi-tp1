@@ -1,0 +1,9 @@
+In 1948, W. Hoeffding introduced a large class of unbiased estimators called
+U-statistics, defined as the average value of a real-valued k-variate function
+h calculated at all possible sets of k points from a random sample. In the
+present paper we investigate the corresponding extreme value analogue, which we
+shall call U-max-statistics. We are concerned with the behavior of the largest
+value of such function h instead of its average. Examples of U-max-statistics
+are the diameter or the largest scalar product within a random sample.
+U-max-statistics of higher degrees are given by triameters and other metric
+invariants.

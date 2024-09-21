@@ -1,0 +1,13 @@
+We studied the influence of the trigonal distortion of the regular octahedron
+along the (111) direction, found in the $\rm CoO_2$ layers. Under such a
+distortion the $t_{2g}$ orbitals split into one $a_{1g}$ and two degenerated
+$e_g^\prime$ orbitals. We focused on the relative order of these orbitals.
+Using quantum chemical calculations of embedded clusters at different levels of
+theory, we analyzed the influence of the different effects not taken into
+account in the crystalline field theory; that is metal-ligand hybridization,
+long-range crystalline field, screening effects and orbital relaxation. We
+found that none of them are responsible for the relative order of the $t_{2g}$
+orbitals. In fact, the trigonal distortion allows a mixing of the $t_{2g}$ and
+$e_g$ orbitals of the metallic atom. This hybridization is at the origin of the
+$a_{1g}$--$e_g^\prime$ relative order and of the incorrect prediction of the
+crystalline field theory.

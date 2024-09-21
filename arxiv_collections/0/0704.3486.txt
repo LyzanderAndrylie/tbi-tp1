@@ -1,0 +1,16 @@
+The overlap Dirac operator in lattice QCD requires the computation of the
+sign function of a matrix. While this matrix is usually Hermitian, it becomes
+non-Hermitian in the presence of a quark chemical potential. We show how the
+action of the sign function of a non-Hermitian matrix on an arbitrary vector
+can be computed efficiently on large lattices by an iterative method. A Krylov
+subspace approximation based on the Arnoldi algorithm is described for the
+evaluation of a generic matrix function. The efficiency of the method is
+spoiled when the matrix has eigenvalues close to a function discontinuity. This
+is cured by adding a small number of critical eigenvectors to the Krylov
+subspace, for which we propose two different deflation schemes. The ensuing
+modified Arnoldi method is then applied to the sign function, which has a
+discontinuity along the imaginary axis. The numerical results clearly show the
+improved efficiency of the method. Our modification is particularly effective
+when the action of the sign function of the same matrix has to be computed many
+times on different vectors, e.g., if the overlap Dirac operator is inverted
+using an iterative method.

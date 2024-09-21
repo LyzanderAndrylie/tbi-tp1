@@ -1,0 +1,14 @@
+The vacuum-driven nonperturbative factors $L_i$ for quark and gluon Green's
+functions are shown to define the nonperturbative dynamics of QGP in the
+leading approximation. EoS obtained recently in the framework of this approach
+is compared in detail with known lattice data for $\mu=0$ including $P/T^4$,
+$\epsilon/T^4$, $\frac{\epsilon-3P}{T^4}$. The basic role in the dynamics at
+$T\la 3T_c$ is played by the factors $L_i$ which are approximately equal to the
+modulus of Polyakov line for quark $L_{fund}$ and gluon $L_{adj}$. The
+properties of $L_i$ are derived from field correlators and compared to lattice
+data, in particular the Casimir scaling property $L_{adj}
+=(L_{fund})^{\frac{C_2(adj)}{C_2(fund)}}$ follows in the Gaussian approximation
+valid for small vacuum correlation lengths. Resulting curves for $P/T^4$,
+$\epsilon/T^4$, $\frac{\epsilon-3P}{T^4}$ are in a reasonable agreement with
+lattice data, the remaining difference points out to an effective attraction
+among QGP constituents.

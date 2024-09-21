@@ -1,0 +1,10 @@
+By analyzing ``exact'' theoretical results from solving the time-dependent
+Schr\"odinger equation of atoms in few-cycle laser pulses, we established the
+general conclusion that differential elastic scattering and photo-recombination
+cross sections of the target ion with {\em free} electrons can be extracted
+accurately from laser-generated high-energy electron momentum spectra and
+high-order harmonic spectra, respectively. Since both electron scattering and
+photoionization (the inverse of photo-recombination) are the conventional means
+for interrogating the structure of atoms and molecules, this result shows that
+existing few-cycle infrared lasers can be implemented for ultrafast imaging of
+transient molecules with temporal resolution of a few femtoseconds.

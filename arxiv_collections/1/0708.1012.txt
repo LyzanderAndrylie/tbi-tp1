@@ -1,0 +1,13 @@
+We describe a Cs atomic magnetometer operating in the spin-exchange
+relaxation-free (SERF) regime. With a vapor cell temperature of
+$103^\circ\rm{C}$ we achieve intrinsic magnetic resonance widths $\Delta B=17
+{\rm \mu G}$ corresponding to an electron spin-relaxation rate of $300 {\rm
+s^{-1}}$ when the spin-exchange rate is $\Gamma_{SE}=14000 {\rm s^{-1}}$. We
+also observe an interesting narrowing effect due to diffusion. Signal-to-noise
+measurements yield a sensitivity of about $400\thinspace{\rm pG/\sqrt{Hz}}$.
+Based on photon shot noise, we project a sensitivity of $40 {\rm
+pG/\sqrt{Hz}}$. A theoretical optimization of the magnetometer indicates
+sensitivities on the order of $2 {\rm pG/\sqrt{Hz}}$ should be achievable in a
+$1 {\rm cm^3}$ volume. Because Cs has a higher saturated vapor pressure than
+other alkali metals, SERF magnetometers using Cs atoms are particularly
+attractive in applications requiring lower temperatures.

@@ -1,0 +1,4 @@
+We consider the static and dynamic models of Cournot duopoly with tax
+evasion. In the dynamic model we introduce the time delay and we analyze the
+local stability of the stationary state. There is a critical value of the delay
+when the Hopf bifurcation occurs.

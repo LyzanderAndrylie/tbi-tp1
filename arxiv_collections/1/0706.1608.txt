@@ -1,0 +1,9 @@
+We report the laser-cooling and confinement of Cd atoms in a magneto-optical
+trap, and characterize the loading process from the background Cd vapor. The
+trapping laser drives the 1S0-1P1 transition at 229 nm in this two-electron
+atom and also photoionizes atoms directly from the 1P1 state. This
+photoionization overwhelms the other loss mechanisms and allows a direct
+measurement of the photoionization cross section, which we measure to be
+2(1)x10^(-16)cm^(2) from the 1P1 state. When combined with nearby laser-cooled
+and trapped Cd^(+) ions, this apparatus could facilitate studies in ultracold
+interactions between atoms and ions.

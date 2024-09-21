@@ -1,0 +1,12 @@
+Let $(\cX, \rho)$ be a discrete metric space. We suppose that the group
+$\sZ^n$ acts freely on $X$ and that the number of orbits of $X$ with respect to
+this action is finite. Then we call $X$ a $\sZ^n$-periodic discrete metric
+space. We examine the Fredholm property and essential spectra of band-dominated
+operators on $l^p(X)$ where $X$ is a $\sZ^n$-periodic discrete metric space.
+Our approach is based on the theory of band-dominated operators on $\sZ^n$ and
+their limit operators.
+  In case $X$ is the set of vertices of a combinatorial graph, the graph
+structure defines a Schr\"{o}dinger operator on $l^p(X)$ in a natural way. We
+illustrate our approach by determining the essential spectra of Schr\"{o}dinger
+operators with slowly oscillating potential both on zig-zag and on hexagonal
+graphs, the latter being related to nano-structures.

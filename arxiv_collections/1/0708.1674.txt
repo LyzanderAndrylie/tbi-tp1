@@ -1,0 +1,9 @@
+We use both Quantum Hall and Shubnikov de Haas experiments at high magnetic
+field and low temperature to analyse broadening processes of Landau levels in a
+delta-doped 2D quantum well superlattice and a 1D quantum wire superlattice
+generated from the first one by controlled dislocation slips. We deduce first
+the origin of the broadening from the damping factor in the Shubnikov de Haas
+curves in various configurations of the magnetic field and the measured current
+for both kinds of superlattice. Then, we write a general formula for the
+resistivity in the Quantum Hall effect introducing a dephasing factor we link
+to the process of localization.

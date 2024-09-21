@@ -1,0 +1,4 @@
+We evaluate the Uhlmann fidelity between two one-mode displaced thermal
+states as the maximal probability transition between appropriate purifications
+of the given states. The optimal purifications defining the fidelity are proved
+to be two-mode displaced Gaussian states.

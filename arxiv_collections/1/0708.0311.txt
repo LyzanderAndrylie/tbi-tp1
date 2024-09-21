@@ -1,0 +1,10 @@
+A detailed comparison between data from experimental measurements and
+numerical simulations of Lagrangian velocity structure functions in turbulence
+is presented. By integrating information from experiments and numerics, a
+quantitative understanding of the velocity scaling properties over a wide range
+of time scales and Reynolds numbers is achieved. The local scaling properties
+of the Lagrangian velocity increments for the experimental and numerical data
+are in good quantitative agreement for all time lags. The degree of
+intermittency changes when measured close to the Kolmogorov time scales or at
+larger time lags. This study resolves apparent disagreements between experiment
+and numerics.

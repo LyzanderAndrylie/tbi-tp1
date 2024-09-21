@@ -1,0 +1,8 @@
+A model of dense plasmas relying on the superconfiguration approximation is
+presented. In each superconfiguration the nucleus is totally screened by the
+electrons in a Wigner-Seitz sphere (ion-sphere model). Superconfigurations of
+the same charge are grouped into ions. It is shown that boundary values of the
+wavefunctions play a crucial role in the form of the Virial theorem from which
+the pressure formula is derived. Finally, a condition is presented and
+discussed, which makes the ion-sphere model variational when bound electrons
+are treated quantum-mechanically and free electrons quasi-classically.

@@ -1,0 +1,13 @@
+We examine the relation between the recently proposed time-dependent quantum
+Monte Carlo (TDQMC) method and the principles of stochastic quantization. In
+both TDQMC and stochastic quantization particle motion obeys stochastic
+guidance equations to preserve quantum equilibrium. In this way the probability
+density of the Monte Carlo particles corresponds to the modulus square of the
+many-body wave function at all times. However, in TDQMC the motion of particles
+and guide waves occurs in physical space unlike in stochastic quantization
+where it occurs in configuration space. Hence the practical calculation of time
+evolution of many-body fully correlated quantum systems becomes feasible within
+the TDQMC methodology. We illustrate the TDQMC technique by calculating the
+symmetric and antisymmetric ground state of a model one-dimensional Helium
+atom, and the time evolution of the dipole moment when the atom is irradiated
+by a strong ultrashort laser pulse.

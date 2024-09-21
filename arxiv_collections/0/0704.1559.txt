@@ -1,0 +1,24 @@
+We present Spitzer IRS low resolution, mid-IR spectra of a sample of 25 high
+luminosity QSOs at 2<z<3.5. When combined with archival IRS observations of
+local, low luminosity type-I AGNs, the sample spans five orders of magnitude in
+luminosity. We find that the continuum dust thermal emission at
+lambda(rest)=6.7um is correlated with the optical luminosity, following the
+non-linear relation L(6.7um) propto L(5100A)^0.82. We also find an anti
+correlation between the ratio L(6.7um)/L(5100A) and the [OIII]5007A line
+luminosity. These effects are interpreted as a decreasing covering factor of
+the circumnuclear dust as a function of luminosity. Such a result is in
+agreement with the decreasing fraction of absorbed AGNs as a function of
+luminosity recently found in various surveys. We clearly detect the silicate
+emission feature in the average spectrum, but also in four individual objects.
+These are the Silicate emission in the most luminous objects obtained so far.
+When combined with the silicate emission observed in local, low luminosity
+type-I AGNs, we find that the silicate emission strength is correlated with
+luminosity.
+  The silicate strength of all type-I AGNs also follows a positive correlation
+with the black hole mass and with the accretion rate. The Polycyclic Aromatic
+Hydrocarbon (PAH) emission features, expected from starburst activity, are not
+detected in the average spectrum of luminous, high-z QSOs. The upper limit
+inferred from the average spectrum points to a ratio between PAH luminosity and
+QSO optical luminosity significantly lower than observed in lower luminosity
+AGNs, implying that the correlation between star formation rate and AGN power
+saturates at high luminosities.

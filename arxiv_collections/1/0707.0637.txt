@@ -1,0 +1,24 @@
+Microelectromechanical systems (MEMS) can offer a competitive alternative for
+conventional technology in electrical precision measurements. This article
+summarises recent work in development of MEMS solutions for electrical
+metrology. MEMS-based voltage references, RMS-to-DC converters, high frequency
+power sensors, and reference oscillators are discussed. The main principle of
+operation of the components is the balance between electrical forces and
+mechanical spring forces in micromachined silicon structures. In RMS sensors
+and RMS-to-DC converters, the quadratic voltage dependence of the force between
+plates of a moving-plate capacitor is utilised, and the operation of the MEMS
+voltage reference is based on the pull-in phenomenon of a moving-plate
+capacitor. Advantages of MEMS devices compared to more conventional solutions
+include small size, low power consumption, low price in mass production, and
+stability. The drift caused by electrostatic charging effects has turned out to
+be a major problem. This problem has not yet been solved in DC applications,
+but it can be circumvented by using AC actuation instead of DC and by
+compensating the internal DC voltages of the component. In this way, an AC
+voltage reference with relative drift rate below 2 ppm during a three-week test
+period has been constructed. Even better stability has been demonstrated with a
+MEMS-based reference oscillator: no changes in resonance frequency were
+observed at relative uncertainty level of about 0.01 ppm in a measurement which
+was continued for more than a month. MEMS components have also been developed
+for measuring RF and microwave power up to frequencies of about 40 GHz. Unlike
+conventional high frequency power sensors, which measure the absorbed power,
+the MEMS device measures the power that is transmitted through the sensor.

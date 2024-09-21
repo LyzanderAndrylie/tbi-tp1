@@ -1,0 +1,24 @@
+We define angles from-to and between infinite dimensional subspaces of a
+Hilbert space, inspired by the work of E. J. Hannan, 1961/1962 for general
+canonical correlations of stochastic processes. The spectral theory of
+selfadjoint operators is used to investigate the properties of the angles,
+e.g., to establish connections between the angles corresponding to orthogonal
+complements. The classical gaps and angles of Dixmier and Friedrichs are
+characterized in terms of the angles. We introduce principal invariant
+subspaces and prove that they are connected by an isometry that appears in the
+polar decomposition of the product of corresponding orthogonal projectors.
+Point angles are defined by analogy with the point operator spectrum. We bound
+the Hausdorff distance between the sets of the squared cosines of the angles
+corresponding to the original subspaces and their perturbations. We show that
+the squared cosines of the angles from one subspace to another can be
+interpreted as Ritz values in the Rayleigh-Ritz method, where the former
+subspace serves as a trial subspace and the orthogonal projector of the latter
+subspace serves as an operator in the Rayleigh-Ritz method. The Hausdorff
+distance between the Ritz values, corresponding to different trial subspaces,
+is shown to be bounded by a constant times the gap between the trial subspaces.
+We prove a similar eigenvalue perturbation bound that involves the gap squared.
+Finally, we consider the classical alternating projectors method and propose
+its ultimate acceleration, using the conjugate gradient approach. The
+corresponding convergence rate estimate is obtained in terms of the angles. We
+illustrate a possible acceleration for the domain decomposition method with a
+small overlap for the 1D diffusion equation.

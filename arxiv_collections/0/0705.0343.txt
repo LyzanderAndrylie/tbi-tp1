@@ -1,0 +1,13 @@
+The greatest challenge in the interpretation of galaxy clustering data from
+any surveys is galaxy bias. Using a simple Fisher matrix analysis, we show that
+the bispectrum provides an excellent determination of linear and non-linear
+bias parameters of intermediate and high-z galaxies, when all measurable
+triangle configurations down to mildly non-linear scales, where perturbation
+theory is still valid, are included. The bispectrum is also a powerful probe of
+primordial non-Gaussianity. The planned galaxy surveys at z>2 should yield
+constraints on non-Gaussian parameters, f_{NL}^{loc.} and f_{NL}^{eq.}, that
+are comparable to, or even better than, those from CMB experiments. We study
+how these constraints improve with volume, redshift range, as well as the
+number density of galaxies. Finally, we show that a halo occupation
+distribution may be used to improve these constraints further by lifting
+degeneracies between gravity, bias, and primordial non-Gaussianity.

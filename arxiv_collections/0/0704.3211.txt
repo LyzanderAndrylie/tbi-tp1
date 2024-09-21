@@ -1,0 +1,14 @@
+Recently, the collisionless expansion of spherical nanoplasmas has been
+analyzed with a new ergodic model, clarifying the transition from
+hydrodynamic-like to Coulomb-explosion regimes, and providing accurate laws for
+the relevant features of the phenomenon. A complete derivation of the model is
+here presented. The important issue of the self-consistent initial conditions
+is addressed by analyzing the initial charging transient due to the electron
+expansion, in the approximation of immobile ions. A comparison among different
+kinetic models for the expansion is presented, showing that the ergodic model
+provides a simplified description, which retains the essential information on
+the electron distribution, in particular, the energy spectrum. Results are
+presented for a wide range of initial conditions (determined from a single
+dimensionless parameter), in excellent agreement with calculations from the
+exact Vlasov-Poisson theory, thus providing a complete and detailed
+characterization of all the stages of the expansion.

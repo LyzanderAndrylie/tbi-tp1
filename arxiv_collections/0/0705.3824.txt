@@ -1,0 +1,16 @@
+We present dynamical mean field theory (DMFT) results for the local spectral
+densities of the one- and two-particle response functions for the infinite
+dimensional Hubbard model in a magnetic field. We look at the different regimes
+corresponding to half-filling, near half-filling and well away from
+half-filling, for intermediate and strong values of the local interaction $U$.
+The low energy results are analyzed in terms of quasiparticles with field
+dependent parameters. The renormalized parameters are determined by two
+different methods, both based on numerical renormalization group (NRG)
+calculations, and we find good agreement. Away from half-filling the
+quasiparticle weights, $z_\sigma(H)$, differ according to the spin type
+$\sigma=\uparrow$ or $\sigma=\downarrow$. Using the renormalized parameters, we
+show that DMFT-NRG results for the local longitudinal and transverse dynamic
+spin susceptibilities in an arbitrary field can be understood in terms of
+repeated scattering of these quasiparticles. We also check Luttinger's theorem
+for the Hubbard model and find it to be satisfied in all parameter regimes and
+for all values of the magnetic field.

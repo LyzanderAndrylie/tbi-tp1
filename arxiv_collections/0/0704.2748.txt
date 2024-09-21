@@ -1,0 +1,22 @@
+Using mappings to computer-science problems and by applying sophisticated
+algorithms, one can study numerically many problems much better compared to
+applying standard approaches like Monte Carlo simulations. Here, using
+calculations of ground states of suitable perturbed systems, droplets are
+obtained in two-dimensional +-J spin glasses, which are in the focus of a
+currently very lifely debate. Since a sophisticated matching algorithm is
+applied here, exact ground states of large systems up to L^2=256^2 spins can be
+generated. Furthermore, no equilibration or extrapolation to T=0 is necessary.
+Three different +-J models are studied here: a) with open boundary conditions,
+b) with fixed boundary conditions and c) a diluted system where a fraction
+p=0.125 of all bonds is zero. For large systems, the droplet energy shows for
+all three models a power-law behavior E_D L^\theta'_D with \theta'_D<0. This is
+different from previous studies of domain walls, where a convergence to a
+constant non-zero value (\theta_dw=0) has been found for such models. After
+correcting for the non-compactness of the droplets, the results are likely to
+be compatible with \theta_D= -0.29 for all three models.
+  This is in accordance with the Gaussian system where \theta_D=-0.287(4)
+(\nu=3.5 via \nu=-1/\theta_D). Nevertheless, the disorder-averaged spin-spin
+correlation exponent \eta is determined here via the probability to have a
+non-zero-energy droplet, and \eta~0.22$ is found for all three models, this
+being in contrast to the behavior of the model with Gaussian interactions,
+where exactly \eta=0.

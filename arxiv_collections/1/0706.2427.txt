@@ -1,0 +1,11 @@
+We investigate the dynamic evolution of the radiation forces produced by the
+pulsed Gaussian beams acting on a Rayleigh dielectric sphere. We derive the
+analytical expressions for the scattering force and all components of the
+ponderomotive force induced by the pulsed Gaussian beams. Our analysis shows
+that the radiation force, for both the transverse and longitudinal components,
+can be greatly enhanced as the pulse duration decreases. It is further found
+that for the pulse with long pulse duration, it can be used for the stable
+trapping and manipulating the particle, while for the pulse with short pulse
+duration it may be used for guiding and moving the small dielectric particle.
+Finally we discuss the stability conditions of the effective manipulating the
+particle by the pulsed beam.

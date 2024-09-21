@@ -1,0 +1,12 @@
+A new kind of gauge theory is introduced, where the minimal coupling and
+corresponding covariant derivatives are defined in the space of functions
+pertaining to the functional Schroedinger picture of a given field theory.
+While, for simplicity, we study the example of a U(1) symmetry, this kind of
+gauge theory can accommodate other symmetries as well. We consider the
+resulting relativistic nonlinear extension of quantum mechanics and show that
+it incorporates gravity in the (0+1)-dimensional limit, similar to recently
+studied Schroedinger-Newton equations. Gravity is encoded here into a universal
+nonlinear extension of quantum theory. A probabilistic interpretation (Born's
+rule) holds, provided the underlying model is scale free.
+  Keywords: nonlinear functional Schroedinger equation, gauge symmetry,
+Newtonian gravity.

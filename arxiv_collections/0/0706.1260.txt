@@ -1,0 +1,11 @@
+The magnon and optical phonon spectrum of an incommensurate multiferroic such
+as BiFeO3 is considered in the framework of a phenomenological Landau theory.
+The resulting spin wave spectrum is quite distinct from commensurate substances
+due to soft mode anisotropy and magnon zone folding. The former allows
+electrical control of spin wave propagation via reorientation of the
+spontaneous ferroelectric moment. The latter gives rise to multiple
+magneto-dielectric resonances due to the coupling of optical phonons at zero
+wavevector to magnons at integer multiples of the cycloid wavevector. These
+results show that the optical response of a multiferroic reveals much more
+about its magnetic excitations than previously anticipated on the basis of
+simpler models.

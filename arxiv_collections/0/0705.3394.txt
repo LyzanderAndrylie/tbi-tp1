@@ -1,0 +1,24 @@
+We measure the obscured star formation in z~1 early-type galaxies. This
+constrains the influence of star formation on their optical/near-IR colors,
+which, we found, are redder than predicted by the model by Bruzual & Charlot
+(2003). From deep ACS imaging we construct a sample of 95 morphologically
+selected early-type galaxies in the HDF-N and CDF-S with spectroscopic
+redshifts in the range 0.85<z<1.15. We measure their 24 micron fluxes from the
+deep GOODS-MIPS imaging and derive the IR luminosities and star formation
+rates. The fraction of galaxies with >2 sigma detections (~25 muJy} is
+17(-4,+9)%. Of the 15 galaxies with significant detections at least six have an
+AGN. Stacking the MIPS images of the galaxies without significant detections
+and adding the detected galaxies without AGN we find an upper limit on the mean
+star formation rate (SFR) of 5.2+/-3.0 Msol yr^-1, and on the mean specific SFR
+of 4.6+/-2.2 * 10^-11 yr^-1. Under the assumption that the average SFR will
+decline at the same rate as the cosmic average, the in situ growth in stellar
+mass of the early-type galaxy population is less than 14+/-7% between z=1 and
+the present. We show that the typically low IR luminosity and SFR imply that
+the effect of obscured star formation (or AGN) on their rest-frame
+optical/near-IR SEDs is negligible for ~90% of the galaxies in our sample.
+Hence, their optical/near-IR colors are most likely dominated by evolved
+stellar populations. This implies that the colors predicted by the Bruzual &
+Charlot (2003) model for stellar populations with ages similar to those of z~1
+early-type galaxies (~1-3 Gyr) are most likely too blue, and that stellar
+masses of evolved, high-redshift galaxies can be overestimated by up to a
+factor of ~2.

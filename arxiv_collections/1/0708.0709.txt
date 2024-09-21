@@ -1,0 +1,10 @@
+We derive a bound for the security of QKD with finite resources under one-way
+post-processing, based on a definition of security that is composable and has
+an operational meaning. While our proof relies on the assumption of collective
+attacks, unconditional security follows immediately for standard protocols like
+Bennett-Brassard 1984 and six-states. For single-qubit implementations of such
+protocols, we find that the secret key rate becomes positive when at least
+N\sim 10^5 signals are exchanged and processed. For any other discrete-variable
+protocol, unconditional security can be obtained using the exponential de
+Finetti theorem, but the additional overhead leads to very pessimistic
+estimates.

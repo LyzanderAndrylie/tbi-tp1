@@ -1,0 +1,9 @@
+The conductance and the transmittance phase shifts of a two-terminal
+Aharonov-Bohm (AB) ring are analyzed in the presence of mechanical
+displacements due to coupling to an external can- tilever. We show that phase
+rigidity is broken, even in the linear response regime, by means of inelastic
+scattering due to phonons. Our device provides a way of observing continuous
+variation of the transmission phase through a two-terminal
+nano-electro-mechanical system (NEMS). We also propose measurements of phase
+shifts as a way to determine the strength of the electron-phonon coupling in
+NEMS.

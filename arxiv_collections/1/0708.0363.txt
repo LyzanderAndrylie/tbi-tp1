@@ -1,0 +1,8 @@
+Denote $\fm_2$ the infinite dimensional $\N$-graded Lie algebra defined by
+the basis $e_i$ for $i\geq 1$ and by relations $[e_1,e_i]=e_{i+1}$ for all
+$i\geq 2$, $[e_2,e_j]=e_{j+2}$ for all $j\geq 3$. We compute in this article
+the bracket structure on $H^1(\fm_2,\fm_2)$, $H^2(\fm_2,\fm_2)$ and in relation
+to this, we establish that there are only finitely many true deformations of
+$\fm_2$ in each weight by constructing them explicitely. It turns out that in
+weight 0 one gets as non-trivial deformation only one formal non-converging
+deformation.

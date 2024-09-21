@@ -1,0 +1,12 @@
+Excited states of the of the double-stranded DNA model
+(A)$_{12}\cdot$(T)_{12} were calculated in the framework of the exciton theory.
+The off-diagonal elements of the exciton matrix were calculated using the
+transition densities and ideal dipole approximation associated with the lowest
+energy $\pi\pi^{*}$ excitations of the individual nucleobases obtained from
+TDDFT calculations. The values of the coupling calculated with the transition
+density cubes (TDC) and ideal-dipole approximation (IDA) methods were found
+significantly different for the small inter-chromophore distances. It was shown
+that the IDA overestimates the coupling significantly. The effects of the
+structural fluctuations were incorporated by averaging the properties of the
+excited states over a large number of conformations obtained from the MD
+simulations.

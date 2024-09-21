@@ -1,0 +1,11 @@
+Crosslinks and molecular motors play an important role in the organization of
+cytoskeletal filament networks. Here we incorporate the effect of crosslinks
+into our model of polar motor-filament organization [Phys. Rev. E {\bf 71},
+050901 (2005)], through suppressing the relative sliding of filaments in the
+course of motor-mediated alignment. We show that this modification leads to a
+nontrivial macroscopic behavior, namely the oriented state exhibits a
+transverse instability in contrast to the isotropic instability that occurs
+without crosslinks. This transverse instability leads to the formation of dense
+extended bundles of oriented filaments, similar to recently observed structures
+in actomyosin. This model also can be applied to situations with two oppositely
+directed motor species or motors with different processing speeds.

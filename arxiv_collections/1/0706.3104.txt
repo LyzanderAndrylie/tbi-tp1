@@ -1,0 +1,15 @@
+We study Probabilistic Group Testing of a set of N items each of which is
+defective with probability p. We focus on the double limit of small defect
+probability, p<<1, and large number of variables, N>>1, taking either p->0
+after $N\to\infty$ or $p=1/N^{\beta}$ with $\beta\in(0,1/2)$. In both settings
+the optimal number of tests which are required to identify with certainty the
+defectives via a two-stage procedure, $\bar T(N,p)$, is known to scale as
+$Np|\log p|$. Here we determine the sharp asymptotic value of $\bar
+T(N,p)/(Np|\log p|)$ and construct a class of two-stage algorithms over which
+this optimal value is attained. This is done by choosing a proper bipartite
+regular graph (of tests and variable nodes) for the first stage of the
+detection. Furthermore we prove that this optimal value is also attained on
+average over a random bipartite graph where all variables have the same degree,
+while the tests have Poisson-distributed degrees. Finally, we improve the
+existing upper and lower bound for the optimal number of tests in the case
+$p=1/N^{\beta}$ with $\beta\in[1/2,1)$.

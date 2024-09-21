@@ -1,0 +1,11 @@
+The complete spectrum of the endstates - naked singularities, or blackholes -
+of gravitational collapse is analyzed for a wide class of $N$-dimensional
+spacetimes in spherical symmetry, which includes and generalizes the dust
+solutions and the case of vanishing radial stresses. The final fate of the
+collapse is shown to be fully determined by the local behavior of a single
+scalar function and by the dimension $N$ of the spacetime. In particular, the
+``critical'' behavior of the N=4 spacetimes, where a sort of phase transition
+from black hole to naked singularity can occur, is still present if N=5 but
+does not occur if $N > 5$, independently from the initial data of the collapse.
+Physically, the results turn out to be related to the kinematical properties of
+the considered solutions.

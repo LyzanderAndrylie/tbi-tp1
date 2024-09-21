@@ -1,0 +1,7 @@
+We apply functional analytical and variational methods in order to study
+well-posedness and qualitative properties of evolution equations on product
+Hilbert spaces. To this aim we introduce an algebraic formalism for matrices of
+sesquilinear mappings. We apply our results to parabolic problems of different
+nature: a coupled diffusive system arising in neurobiology, a strongly damped
+wave equation, a heat equation with dynamic boundary conditions, and a general
+semilinear Hodgkin--Huxley sytem.

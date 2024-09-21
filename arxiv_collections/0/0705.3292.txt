@@ -1,0 +1,11 @@
+The exact renormalization group is applied to the world sheet theory
+describing bosonic open string backgrounds to obtain the equations of motion
+for the fields of the open string. Using loop variable techniques the equations
+can be constructed to be gauge invariant. Furthermore they are valid off the
+(free) mass shell. This requires keeping a finite cutoff. Thus we have the
+interesting situation of a scale invariant world sheet theory with a finite
+world sheet cutoff. This is possible because there are an infinite number of
+operators whose coefficients can be tuned. This is in the same sense that
+"perfect actions" or "improved actions" have been proposed in lattice gauge
+theory to reproduce the continuum results even while keeping a finite lattice
+spacing.

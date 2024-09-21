@@ -1,0 +1,6 @@
+In this paper, we present a framework for getting a series of exact vacuum
+solutions to the Einstein equation. This procedure of resolution is based on a
+canonical form of the metric. According to this procedure, the Einstein
+equation can be reduced to some 2-dimensional Laplace-like equations or
+rotation and divergence equations, which are much convenient for the
+resolution.

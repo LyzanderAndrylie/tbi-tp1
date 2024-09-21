@@ -1,0 +1,8 @@
+We address the role of multiplicative stochastic processes in modeling the
+occurrence of power-law city size distributions. As an explanation of the
+result of Zipf's rank analysis, Simon's model is presented in a mathematically
+elementary way, with a thorough discussion of the involved hypotheses. Emphasis
+is put on the flexibility of the model, as to its possible extensions and the
+relaxation of some strong assumptions. We point out some open problems
+regarding the prediction of the detailed shape of Zipf's rank plots, which may
+be tackled by means of such extensions.

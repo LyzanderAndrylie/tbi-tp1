@@ -1,0 +1,9 @@
+If the two lightest neutralinos of the Minimal Supersymmetric Standard Model
+have a mass splitting less than the Z boson mass, interference effects in the
+three-body decay chi_2^0 --> chi_1^0 f f can be important. We formulate an
+observable that contains information on the nature of the interference: the
+ratio BR(chi_2^0 --> chi_1^0 b b) / BR(chi_2^0 --> chi_1^0 l+ l-). This will
+give a constraint on the supersymmetry breaking parameters that is
+complementary to many techniques already existing in the literature. We present
+some ideas on how to perform a simple counting experiment to determine this
+ratio.

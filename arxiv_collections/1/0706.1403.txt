@@ -1,0 +1,7 @@
+We study the spin Coulomb drag in a quasi-two-dimensional electron gas beyond
+the random phase approximation (RPA). We find that the finite transverse width
+of the electron gas causes a significant reduction of the spin Coulomb drag.
+This reduction, however, is largely compensated by the enhancement coming from
+the inclusion of many-body local field effects beyond the RPA, thereby
+restoring good agreement with the experimental observations by C. P. Weber
+\textit{et al.}, Nature, \textbf{437}, 1330 (2005).

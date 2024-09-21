@@ -1,0 +1,8 @@
+We define a class of random matrix ensembles that pertain to random looped
+polymers. Such random looped polymers are a possible model for bio-polymers
+such as chromatin in the cell nucleus. It is shown that the distribution of the
+largest eigenvalue $\lambda_{max}$ depends on a percolation transition in the
+entries of the random matrices. Below the percolation threshold the
+distribution is multi-peaked and changes above the threshold to the Tracy-Widom
+distribution. We also show that the distribution of the eigenvalues is neither
+of the Wigner form nor gaussian.

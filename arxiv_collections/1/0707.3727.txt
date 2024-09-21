@@ -1,0 +1,9 @@
+We study the vortex formation in optical lattices submitted to artificial
+gauge potentials. We compute the superfluid density for Abelian and non-Abelian
+gauge potentials with a mean-field approach of the Bose-Hubbard model and we
+determine the rule describing the number of vortices as a function of the
+effective magnetic flux. This simple rule is represented by a remarkably rich
+figure that represents the superfluid density as a function of the flux. The
+phenomena which emanate from this work should be observed experimentally in
+optical lattices within which atom tunneling is laser-assisted and described by
+commutative or non-commutative tunneling operators.

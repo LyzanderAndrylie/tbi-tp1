@@ -1,0 +1,6 @@
+The coordinate transformation technique is applied to the design of perfect
+lenses and superlenses. In particular, anisotropic metamaterials that magnify
+two-dimensional planar images beyond the diffraction limit are designed by the
+use of oblate spheroidal coordinates. The oblate spheroidal perfect lens or
+superlens can naturally be used in reverse for lithography of planar
+subwavelength patterns.

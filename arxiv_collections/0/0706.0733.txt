@@ -1,0 +1,6 @@
+A generalized zero-range process with a limited number of long-range
+interactions is studied as an example of a transport process in which particles
+at a T-junction make a choice of which branch to take based on traffic levels
+on each branch. The system is analysed with a self-consistent mean-field
+approximation which allows phase diagrams to be constructed. Agreement between
+the analysis and simulations is found to be very good.

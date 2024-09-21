@@ -1,0 +1,8 @@
+In this article wavelets (admissible vectors) on the Heisenberg group are
+studied from the point of view of Calderon's formula. Further we shall show
+that for the class of Schwartz functions the Calderon admissibility condition
+is equivalent to the usual admissibility property which will be introduced in
+this work. Furthermore motivated by a well-known example on the real line, the
+Mexican-Hat wavelet, we demonstrate the existence and construction of an
+analogous wavelet on the Heisenberg Lie group with 2 vanishing moments, which
+together with all of its derivatives has Gaussian decay.

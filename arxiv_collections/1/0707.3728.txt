@@ -1,0 +1,9 @@
+We employed an electrically-driven polarization controller to implement
+anisotropic depolarizing quantum channels for the polarization state of single
+photons. The channels were characterized by means of ancilla-assisted quantum
+process tomography using polarization-entangled photons generated in the
+process of spontaneous parametric down-conversion. The demonstrated
+depolarization method offers good repeatability, low cost, and compatibility
+with fiber-optic setups. It does not perturb the modal structure of single
+photons, and therefore can be used to verify experimentally protocols for
+managing decoherence effects based on multiphoton interference.

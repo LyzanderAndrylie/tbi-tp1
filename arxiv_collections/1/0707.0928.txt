@@ -1,0 +1,3 @@
+The tau identification and reconstruction algorithms developed for the LHC
+experiments Atlas and CMS are presented. Reconstruction methods suitable for
+use at High Level Trigger and off-line are described in detail

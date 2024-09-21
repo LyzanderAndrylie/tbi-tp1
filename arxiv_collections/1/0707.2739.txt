@@ -1,0 +1,19 @@
+We investigate the cycles in the transcription network of S. cerevisiae.
+Unlike a similar network of E. coli, it contains many cycles. We characterize
+properties of these cycles and their place in the regulatory mechanism of the
+cell. Almost all cycles in the transcription network of S. cerevisiae are
+contained in a single strongly connected component, which we call LSCC (L for
+``largest''), except for a single cycle of two transcription factors. Among
+different physiological conditions, cell cycle has the most significant
+relationship with LSCC, as the set of 64 transcription interactions that are
+active in all phases of the cell cycle has overlap of 27 with the interactions
+of LSCC (of which there are 49). Conversely, if we remove the interactions that
+are active in all phases of the cell cycle (fewer than 1% of the total), the
+LSCC would have only three nodes and 5 edges, 4 of which are active only in the
+stress response subnetwork. LSCC has a special place in the topology of the
+network and it can be used to define a natural hierarchy in the network; in
+every physiological subnetwork LSCC plays a pivotal role. Apart from those
+well-defined conditions, the transcription network of S. cerevisiae is devoid
+of cycles. It was observed that two conditions that were studied and that have
+no cycles of their own are exogenous: diauxic shift and DNA repair, while cell
+cycle, sporulation are endogenous.

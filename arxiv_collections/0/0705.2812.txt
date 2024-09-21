@@ -1,0 +1,8 @@
+We establish a correlation between the internal stress in InN epilayers and
+their optical properties such as the measured absorption band edge and
+photoluminescence emission wavelength. By a careful evaluation of the lattice
+constants of InN epilayers grown on c-plane sapphire substrates under various
+conditions by metalorganic vapor phase epitaxy we find that the films are under
+primarily hydrostatic stress. This results in a shift in the band edge to
+higher energy. The effect is significant, and may be responsible for some of
+the variations in InN bandgap reported in the literature.

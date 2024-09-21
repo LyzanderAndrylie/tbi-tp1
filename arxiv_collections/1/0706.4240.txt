@@ -1,0 +1,13 @@
+We consider the electronic current through a one-dimensional conductor in the
+ballistic transport regime and show that the quantum oscillations of a weakly
+pinned single scattering target results in a temperature- and bias-voltage
+independent excess current at large bias voltages. This is a genuine effect on
+transport that derives from an exponential reduction of electronic
+backscattering in the elastic channel due to quantum delocalization of the
+scatterer and from suppression of low-energy electron backscattering in the
+inelastic channels caused by the Pauli exclusion principle. We show that both
+the mass of the target and the frequency of its quantum vibrations can be
+measured by studying the differential conductance and the excess current. We
+apply our analysis to the particular case of a weakly pinned C60 molecule
+encapsulated by a single-wall carbon nanotube and find that the discussed
+phenomena are experimentally observable.

@@ -1,0 +1,5 @@
+In this paper we prove that, under an explicit integral pinching assumption
+between the $L^2$-norm of the Ricci curvature and the $L^2$-norm of the scalar
+curvature, a closed 3-manifold with positive scalar curvature admits an
+Einstein metric with positive curvature. In particular this implies that the
+manifold is diffeomorphic to a quotient of ${\Bbb S}^3$.

@@ -1,0 +1,22 @@
+Up till now very few dying sources were known, presumably because the dying
+phase is short at centimeter wavelengths. We therefore have tried to improve
+the statistics on sources that have ceased to be active, or are intermittently
+active. The latter sources would partly consist of a fossil radio plasma left
+over from an earlier phase of activity, plus a recently restarted core and
+radio jets. Improving the statistics of dying sources will give us a better
+handle on the evolution of radio sources, in particular the frequency and time
+scales of radio activity. We have used the WENSS and NVSS surveys, in order to
+find sources with steep spectral indices, associated with nearby elliptical
+galaxies. In the cross correlation we presently used only unresolved sources,
+with flux densities at 1.4 GHz larger than 10 mJy. The eleven candidates thus
+obtained were observed with the VLA in various configurations, in order to
+confirm the steepness of the spectra, and to check whether active structures
+like flat-spectrum cores and jets are present, perhaps at low levels. We
+estimated the duration of the active and relic phases by modelling the
+integrated radio spectra using the standard models of spectral evolution. We
+have found six dying sources and three restarted sources, while the remaining
+two candidates remain unresolved also with the new VLA data and may be Compact
+Steep Spectrum sources, with an unusually steep spectrum. The typical age of
+the active phase, as derived by spectral fits, is in the range 10^7 - 10^8
+years. For our sample of dying sources, the age of the relic phase is on
+average shorter by an order of magnitude than the active phase.

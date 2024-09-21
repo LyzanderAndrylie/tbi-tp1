@@ -1,0 +1,14 @@
+We present an experimental and theoretical study of the polarized
+photoluminescence spectrum of single semiconductor quantum dots in various
+charge states. We compare our high resolution polarization sensitive spectral
+measurements with a new many-carrier theoretical model, which was developed for
+this purpose. The model considers both the isotropic and anisotropic exchange
+interactions between all participating electron-hole pairs. With this addition,
+we calculate both the energies and polarizations of all optical transitions
+between collective, quantum dot confined charge carrier states. We succeed in
+identifying most of the measured spectral lines. In particular, the lines
+resulting from singly-, doubly- and triply- negatively charged excitons and
+biexcitons. We demonstrate that lines emanating from evenly charged states are
+linearly polarized. Their polarization direction does not necessarily coincide
+with the traditional crystallographic direction. It depends on the shells of
+the single carriers, which participate in the recombination process.

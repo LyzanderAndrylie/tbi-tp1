@@ -1,0 +1,5 @@
+We review the relations between the full counting statistics and the field
+theory of electric circuits. We demonstrate that for large conductances the
+counting statistics is determined by non-trivial saddle-point of the field.
+Coulomb effects in this limit are presented as quantum corrections that can
+stongly renormalize the action at low energies.

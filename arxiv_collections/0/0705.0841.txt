@@ -1,0 +1,10 @@
+We have investigated the flux transfer characteristics of a switchable flux
+transformer comprising a superconducting loop and a DC superconducting quantum
+interference device (DC-SQUID). This system can be used to couple multiple flux
+qubits with a controllable coupling strength. Its characteristics were measured
+using a flux input coil and a DC-SQUID for readout coupled to the transformer
+loop in a dilution refrigerator. The observed characteristics are consistent
+with the calculation results. We have demonstrated the reversal of the slope of
+the characteristics and the complete switching off of the transformer, which
+are useful features for its application as a controllable coupler for flux
+qubits.

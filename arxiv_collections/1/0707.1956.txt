@@ -1,0 +1,7 @@
+We present a diagrammatic theory for coherent backscattering from disordered
+dilute media in the nonlinear regime. The approach is non-perturbative in the
+strength of the nonlinearity. We show that the coherent backscattering
+enhancement factor is strongly affected by the nonlinearity, and corroborate
+these results by numerical simulations. Our theory can be applied to several
+physical scenarios like scattering of light in nonlinear Kerr media, or
+propagation of matter waves in disordered potentials.

@@ -1,0 +1,9 @@
+A quantitative theory of the buckling of a worm like chain based on a
+semi-classical approximation of the partition function is presented. The
+contribution of thermal fluctuations to the force-extension relation that
+allows to go beyond the classical Euler buckling is derived in the linear and
+non-linear regime as well. It is shown that the thermal fluctuations in the
+nonlinear buckling regime increase the end-to-end distance of the semiflexible
+rod if it is confined to 2 dimensions as opposed to the 3 dimensional case. Our
+approach allows a complete physical understanding of buckling in D=2 and in D=3
+below and above the Euler transition.

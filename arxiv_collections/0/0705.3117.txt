@@ -1,0 +1,6 @@
+The diffusion contribution of the hole-hole interaction to the conductivity
+is analyzed in gated GaAs/In$_x$Ga$_{1-x}$As/GaAs heterostructures. We show
+that the change of the interaction correction to the conductivity with the
+decreasing Drude conductivity results both from the compensation of the singlet
+and triplet channels and from the arising prefactor $\alpha_i<1$ in the
+conventional expression for the interaction correction.

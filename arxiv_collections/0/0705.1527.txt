@@ -1,0 +1,17 @@
+Thin films of Co-TiO2 are deposited on silicon and quartz substrates using
+Pulse Laser Deposition (PLD) process at various oxygen partial pressures
+ranging from 6.6 x 10-3 Pascals (Pa) to 53 Pa. Crystal structure, transport and
+magnetic properties of reduced CoxTi(1-x)O2 (0 <x< 0.03) thin films are
+investigated and are found to have a strong dependence on the oxygen partial
+pressure. X-ray diffraction (XRD) data reveals the presence of mixed phase
+material containing both anatase and rutile. However, these phases
+intertransform with the change in the oxygen partial pressure in the chamber
+during the growth of the films. X-ray Photoelectron Spectroscopy (XPS) shows no
+Co or CoO related peaks for samples with Co concentration up to x=0.03.
+However, the oxygen 1s peaks are asymmetric suggesting the presence of oxygen
+vacancies. The transport and magnetic measurements show a clear dependence on
+the concentration of oxygen vacancies. There is an enhancement in the
+electrical conductivity and the magnetization as more vacancies are created in
+the material. The resistivity as a function of temperature rho(T) follows the
+polaronic behavior and the activation energies obtained, ~100 to 150meV, are
+within the range that is typical for semiconducting materials.

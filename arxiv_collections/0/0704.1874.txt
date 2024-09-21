@@ -1,0 +1,10 @@
+We simulate EM pulse propagation along the nonuniform earth surface using so
+called time-domain parabolic equation. To solve it by finite differences, we
+introduce a time-domain analog of the impedance boundary condition and a
+nonlocal BC of transparency reducing open computational domain to a strip of
+finite width. Numerical examples demonstrate influence of soil conductivity on
+the wide-band pulse waveform. For a high-frequency modulated EM pulse, we
+develop an asymptotic approach based on the ray structure of the monochromatic
+wave field at carrier frequency. This radically diminishes the computation
+costs and allows for pulsed wave field calculation in vast domains measured by
+tens of thousands wavelengths.

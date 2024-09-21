@@ -1,0 +1,7 @@
+We present a preliminary calculation of the charmed meson spectrum using the
+2+1 flavor domain wall fermion lattice configurations currently being generated
+by the RBC and UKQCD collaborations. The calculation is performed using the
+3-parameter, relativistic heavy quark action with nonperturbatively determined
+coefficients. We will also demonstrate a step-scaling procedure for determining
+these coefficients nonperturbatively using a series of quenched, gauge field
+ensembles generated for three different lattice spacings.

@@ -1,0 +1,10 @@
+We present preliminary results concerning the search for short-period
+variable stars in Tucana and LGS3 based on very deep HST/ACS imaging. In the
+one chip per galaxy we studied so far, a total of 230 and 80 candidates
+variables were found, respectively. For Tucana, we identified 134 of them as RR
+Lyrae stars (RRL) pulsating in the fundamental mode (RRab), 51 in the
+first-overtone mode (RRc), and 37 in both modes simultaneoulsy (RRd), as well
+as four candidate anomalous Cepheids (AC). In the case of LGS3, we found 45
+RRab and 5 RRc, plus three candidates RRd and five candidate AC. The
+metallicities obtained from the mean period of the RRab are [Fe/H]_{Tuc}=-1.7
+and [Fe/H]_{LGS3}=-1.8.

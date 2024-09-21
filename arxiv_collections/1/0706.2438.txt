@@ -1,0 +1,7 @@
+We show that a conjecture of Einsiedler, Kapranov, and Lind on adelic amoebas
+of subvarieties of tori and their intersections with open halfspaces of
+complementary dimension is false for subvarieties of codimension greater than
+one that have degenerate projections to smaller dimensional tori. We prove a
+suitably modified version of the conjecture using algebraic methods,
+functoriality of tropicalization, and a theorem of Zhang on torsion points in
+subvarieties of tori.

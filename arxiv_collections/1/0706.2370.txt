@@ -1,0 +1,6 @@
+We prove that spiral sinks (stable foci of vector fields) can be transformed
+into strange attractors exhibiting sustained, observable chaos if subjected to
+periodic pulsatile forcing. We show that this phenomenon occurs in the context
+of periodically-kicked degenerate supercritical Hopf bifurcations. The results
+and their proofs make use of a new multi-parameter version of the theory of
+rank one maps developed by Wang and Young.

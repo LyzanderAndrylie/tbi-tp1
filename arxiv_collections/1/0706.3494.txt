@@ -1,0 +1,13 @@
+The overview is given of the results obtained recently in the course of
+renormalization-group (RG) study of two-dimensional (2D) models. RG functions
+of the two-dimensional n-vector \lambda \phi^4 Euclidean field theory are
+written down up to the five-loop terms and perturbative series are resummed by
+the Pade-Borel-Leroy techniques. An account for the five-loop term is shown to
+shift the Wilson fixed point only briefly, leaving it outside the segment
+formed by the results of the lattice calculations. This is argued to reflect
+the influence of the non-analytical contribution to the \beta-function. The
+evaluation of the critical exponents for n = 1, n = 0 and n = -1 in the
+five-loop approximation and comparison of the results with known exact values
+confirm the conclusion that non-analytical contributions are visible in two
+dimensions. The estimates obtained on the base of pseudo-\epsilon expansions
+originating from the 5-loop 2D RG series are also discussed.

@@ -1,0 +1,9 @@
+The core of the vortex in the Neel order parameter for an easy-plane
+antiferromagnet on honeycomb lattice is demonstrated to bind two zero-energy
+states. Remarkably, a single electron occupying this mid-gap band has its spin
+fragmented between the two sublattices: Whereas it yields a vanishing total
+magnetization it shows a finite Neel order, orthogonal to the one of the
+assumed background. The requisite easy-plane anisotropy may be introduced by a
+magnetic field parallel to the graphene layer, for example. The results are
+relevant for spin-1/2 fermions on graphene's or optical honeycomb lattice, in
+the strongly interacting regime.

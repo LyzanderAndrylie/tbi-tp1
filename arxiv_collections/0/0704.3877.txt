@@ -1,0 +1,13 @@
+The new scheme of stochastic quantization is proposed. This quantization
+procedure is equivalent to the deformation of an algebra of observables in the
+manner of deformation quantization with an imaginary deformation parameter (the
+Planck constant). We apply this method to the models of nonrelativistic and
+relativistic particles interacting with an electromagnetic field. In the first
+case we establish the equivalence of such a quantization to the Fokker-Planck
+equation with a special force. The application of the proposed quantization
+procedure to the model of a relativistic particle results in a relativistic
+generalization of the Fokker-Planck equation in the coordinate space, which in
+the absence of the electromagnetic field reduces to the relativistic diffusion
+(heat) equation. The stationary probability distribution functions for a
+stochastically quantized particle diffusing under a barrier and a particle in
+the potential of a harmonic oscillator are derived.

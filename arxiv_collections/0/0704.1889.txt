@@ -1,0 +1,8 @@
+We determine the temperature $T$ dependence of first and second sound mode
+frequencies for trapped Fermi gases undergoing BCS to Bose Einstein
+condensation (BEC) crossover. Our results are based on the two fluid equations
+in conjunction with a microscopic calculation of thermodynamical variables. As
+in experiment and at unitarity, we show that the lowest radial breathing mode
+is $T$ independent. At finite $T$, higher order breathing modes strongly mix
+with second sound. Their complex $T$ dependence should provide an alternative
+way of measuring the transition temperature, $T_c$.

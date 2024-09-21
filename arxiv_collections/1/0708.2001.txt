@@ -1,0 +1,10 @@
+The conductance change of nanowire field-effect transistors is considered a
+highly sensitive probe for surface charge. However, Debye screening of relevant
+physiological liquid environments challenge device performance due to competing
+screening from the ionic liquid and nanowire charge carriers. We discuss this
+effect within Thomas-Fermi and Debye-Huckel theory and derive analytical
+results for cylindrical wires which can be used to estimate the sensitivity of
+nanowire surface-charge sensors. We study the interplay between the nanowire
+radius, the Thomas-Fermi and Debye screening lengths, and the length of the
+functionalization molecules. The analytical results are compared to
+finite-element calculations on a realistic geometry.

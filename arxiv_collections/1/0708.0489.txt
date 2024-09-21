@@ -1,0 +1,10 @@
+We consider overdamped diffusion processes driven out of thermal equilibrium
+and we analyze their dynamical steady fluctuations. We discuss the
+thermodynamic interpretation of the joint fluctuations of occupation times and
+currents; they incorporate respectively the time-symmetric and the
+time-antisymmetric sector of the fluctuations. We highlight the canonical
+structure of the joint fluctuations. The novel concept of traffic complements
+the entropy production for the study of the occupation statistics. We explain
+how the occupation and current fluctuations get mutually coupled out of
+equilibrium. Their decoupling close-to-equilibrium explains the validity of
+entropy production principles.

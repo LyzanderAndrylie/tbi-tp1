@@ -1,0 +1,17 @@
+Cells store information in DNA and in stable programs of gene expression,
+which thereby implement forms of long-term cellular memory. Cells must also
+possess short-term forms of information storage, implemented
+post-translationally, to transduce and interpret external signals. CaMKII, for
+instance, is thought to implement a one-bit (bistable) short-term memory
+required for learning at post-synaptic densities. Here we show by mathematical
+analysis that multisite protein phosphorylation, which is ubiquitous in all
+eukaryotic signalling pathways, exhibits multistability for which the maximal
+number of steady states increases with the number of sites. If there are n
+sites, the maximal information storage capacity is at least log_2 (n+2)/2 bits
+when n is even and log_2 (n+1)/2 bits when n is odd. Furthermore, when
+substrate is in excess, enzyme saturation together with an alternating low/high
+pattern in the site-specific relative catalytic efficiencies, enriches for
+multistability. That is, within physiologically plausible ranges for
+parameters, multistability becomes more likely than monostability. We discuss
+the experimental challenges in pursuing these predictions and in determining
+the biological role of short-term information storage.

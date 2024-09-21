@@ -1,0 +1,10 @@
+Stellar Oscillations Network Group (SONG) is an initiative aimed at designing
+and building a network of 1m-class telescopes dedicated to asteroseismology and
+planet hunting. SONG will have 8 identical telescope nodes each equipped with a
+high-resolution spectrograph and an iodine cell for obtaining precision radial
+velocities and a CCD camera for guiding and imaging purposes. The main
+asteroseismology targets for the network are the brightest (V<6) stars. In
+order to improve performance and reduce maintenance costs the instrumentation
+will only have very few modes of operation. In this contribution we describe
+the motivations for establishing a network, the basic outline of SONG and the
+expected performance.

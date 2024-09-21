@@ -1,0 +1,18 @@
+The scope of the present study is Eulerian modeling and simulation of
+polydisperse liquid sprays undergoing droplet coalescence and evaporation. The
+fundamental mathematical description is the Williams spray equation governing
+the joint number density function f(v, u; x, t) of droplet volume and velocity.
+Eulerian multi-fluid models have already been rigorously derived from this
+equation in Laurent et al. (2004). The first key feature of the paper is the
+application of direct quadrature method of moments (DQMOM) introduced by
+Marchisio and Fox (2005) to the Williams spray equation. Both the multi-fluid
+method and DQMOM yield systems of Eulerian conservation equations with
+complicated interaction terms representing coalescence. In order to validate
+and compare these approaches, the chosen configuration is a self-similar 2D
+axisymmetrical decelerating nozzle with sprays having various size
+distributions, ranging from smooth ones up to Dirac delta functions. The second
+key feature of the paper is a thorough comparison of the two approaches for
+various test-cases to a reference solution obtained through a classical
+stochastic Lagrangian solver. Both Eulerian models prove to describe adequately
+spray coalescence and yield a very interesting alternative to the Lagrangian
+solver.

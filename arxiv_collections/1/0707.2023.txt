@@ -1,0 +1,10 @@
+We show that Berry's geometrical (topological) phase for circular quantum
+dots with an odd number of electrons is equal to \pi and that eigenvalues of
+the orbital angular momentum run over half-integer values. The non-zero value
+of the Berry's phase is provided by axial symmetry and two-dimensionality of
+the system. Its particular value (\pi) is fixed by the Pauli exclusion
+principle. Our conclusions agree with the experimental results of T. Schmidt
+{\it at el}, \PR B {\bf 51}, 5570 (1995), which can be considered as the first
+experimental evidence for the existence of a new realization of Berry's phase
+and half-integer values of the orbital angular momentum in a system of an odd
+number of electrons in circular quantum dots.

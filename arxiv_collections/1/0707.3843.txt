@@ -1,0 +1,19 @@
+We previously showed how the measurements of some eighteen time series of
+relative frequency or phase shifts could be combined (1) to cancel the phase
+noise of the lasers, (2) to cancel the Doppler fluctuations due to non-inertial
+motions of the six optical benches, and (3) to remove the phase noise of the
+onboard reference oscillators required to track the photodetector fringes, all
+the while preserving signals from passinggravitational waves. Here we analyze
+the effect of the additional noise due to the optical modulators used for
+removing the phase fluctuations of the onboard reference oscillators. We use a
+recently measured noise spectrum of an individual modulator to quantify the
+contribution of modulator noise to the first and second-generation Time-Delay
+Interferometric (TDI) combinations as a function of the modulation frequency.
+We show that modulator noise can be made smaller than the expected proof-mass
+acceleration and optical-path noises if the modulation frequencies are larger
+than $\approx 682$ MHz in the case of the unequal-arm Michelson TDI combination
+$X_1$, $\approx 1.08$ GHz for the Sagnac TDI combination $\alpha_1$, and
+$\approx 706$ MHz for the symmetrical Sagnac TDI combination $\zeta_1$. These
+modulation frequencies are substantially smaller than previously estimated and
+may lead to less stringent requirements on the LISA's oscillator noise
+calibration subsystem.

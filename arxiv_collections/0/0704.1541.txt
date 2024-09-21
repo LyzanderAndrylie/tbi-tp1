@@ -1,0 +1,4 @@
+In this work, we are interested in a non symmetric homogeneous space, namely
+$SO(2m)/Sp(m)$. We show that this space admits a structure of $Z_2^2$-symmetric
+space. We describe all the non degenerated metrics and classify the Riemannian
+and Lorentzian ones.

@@ -1,0 +1,9 @@
+The general form of the electrostatic potential around an arbitrarily charged
+colloid at an interface between a dielectric and a screening phase (such as air
+and water, respectively) is analyzed in terms of a multipole expansion. The
+leading term is isotropic in the interfacial plane and varies with $d^{-3}$
+where $d$ is the in--plane distance from the colloid. The electrostatic
+interaction potential between two arbitrarily charged colloids is likewise
+isotropic and $\propto d^{-3}$, corresponding to the dipole--dipole interaction
+first found for point charges at water interfaces. Anisotropic interaction
+terms arise only for higher powers $d^{-n}$ with $n \ge 4$.

@@ -1,0 +1,5 @@
+The letter proposes a procedure for generation of strongly chaotic beats that
+have been hardly obtainable hitherto. The beats are generated in a nonlinear
+optical system governing second-harmonic generation of light. The proposition
+is based on the concept of an optical coupler but can be easily adopted to
+other nonlinear systems and Chua's circuits.

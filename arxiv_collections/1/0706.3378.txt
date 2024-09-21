@@ -1,0 +1,10 @@
+We discuss a method to achieve decoherence resistent entanglement generation
+in two level spin systems governed by gapped and multi-degenerate Hamiltonians.
+In such systems, while the large number of degrees of freedom in the ground
+state levels allows to create various quantum superpositions, the energy gap
+prevents decoherence. We apply the protected evolution to achieve decoherence
+resistent generation of many particle GHZ states and show it can significantly
+increase the sensitivity in frequency spectroscopy. We discuss how to engineer
+the desired many-body protected manifold in two specific physical systems,
+trapped ions and neutral atoms in optical lattices, and present simple
+expressions for the fidelity of GHZ generation under non-ideal conditions.

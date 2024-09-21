@@ -1,0 +1,14 @@
+In the present paper a plastic-damage model for concrete is discussed. Based
+on the fact that for isotropic materials the elastic trial stress and the
+projected plastic stress states have the same eigenvec-tors, the loading
+surface is formulated in the principal stress space rather than using the
+invariants of stress tensor. The model assumes that the directions of
+orthotropic damage coincide with principal directions of elastic predictor
+stress state (motivated by coaxial rotated crack model). Due to this
+assumption, the load-ing surface and the closest point projection algorithm can
+still be formulated in the principal directions. The evolution of the inelastic
+strain is determined using minimization principle. Damage and plastic parts of
+the inelastic strain are separated using a scalar parameter, which is assumed
+to be stress dependent. The paper also discusses an effective numerical
+implementation. The performance of the model is demonstrated on one
+illustrative example.

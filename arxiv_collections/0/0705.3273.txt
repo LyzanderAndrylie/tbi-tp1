@@ -1,0 +1,3 @@
+We prove that every compact plane billiard, bounded by a smooth curve, is
+insecure: there exist pairs of points $A,B$ such that no finite set of points
+can block all billiard trajectories from $A$ to $B$.

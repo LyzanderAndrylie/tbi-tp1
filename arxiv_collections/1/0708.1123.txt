@@ -1,0 +1,10 @@
+We use molecular dynamics computer simulations to investigate a critical
+temperature T_c for a dynamical glass transition as proposed by the
+mode-coupling theory (MCT) of dense liquids in a glass forming
+Ni_{0.8}Zr_{0.2}-system. The critical temperature T_c are analyzed from
+different quantities and checked the consistency of the estimated values, i.e.
+from (i) the non-vanishing nonergodicity parameters as asymptotic solutions of
+the MCT equations in the arrested state, (ii) the ${\bf{g}}_m$-parameters
+describing the approach of the melt towards the arrested state on the ergodic
+side, (iii) the diffusion coefficients in the melt. The resulting T_c values
+are found to agree within about 10%.

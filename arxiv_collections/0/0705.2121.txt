@@ -1,0 +1,20 @@
+Systematic description of a spin one-half system endowed with magnetic moment
+or any other two-level system (qubit) interacting with the quantized
+electromagnetic field is developed. This description exploits a close analogy
+between a two-level system and the Dirac electron that comes to light when the
+two-level system is described within the formalism of second quantization in
+terms of fermionic creation and annihilation operators. The analogy enables one
+to introduce all the powerful tools of relativistic QED (albeit in a greatly
+simplified form). The Feynman diagrams and the propagators turn out to be very
+useful. In particular, the QED concept of the vacuum polarization finds its
+close counterpart in the photon scattering off a two level-system leading via
+the linear response theory to the general formulas for the atomic
+polarizability and the dynamic single spin susceptibility. To illustrate the
+usefulness of these methods, we calculate the polarizability and susceptibility
+up to the fourth order of perturbation theory. These {\em ab initio}
+calculations resolve some ambiguities concerning the sign prescription and the
+optical damping that arise in the phenomenological treatment. We also show that
+the methods used to study two-level systems (qubits) can be extended to
+many-level systems (qudits). As an example, we describe the interaction with
+the quantized electromagnetic field of an atom with four relevant states: one S
+state and three degenerate P states.

@@ -1,0 +1,13 @@
+We explore a knot model of the elementary particles that is compatible with
+electroweak physics. The knots are quantized and their kinematic states are
+labelled by $D^j_{mm'}$, irreducible representations of $SU_q(2)$, where j =
+N/2, m = w/2, m' = (r+1)/2 and (N,w,r) designate respectively the number of
+crossings, the writhe, and the rotation of the knot. The knot quantum numbers
+(N,w,r) are related to the standard isotopic spin quantum numbers $(t,t_3,t_0)$
+by $(t=N/6,t_3=-w/6,t_0=-(r+1)/6)$, where $t_0$ is the hypercharge. In this
+model the elementary fermions are low lying states of the quantum trefoil (N=3)
+and the gauge bosons are ditrefoils (N=6). The fermionic knots interact by the
+emission and absorption of bosonic knots. In this framework we have explored a
+slightly modified standard electroweak Lagrangian with a slightly modified
+gauge group which agrees closely but not entirely with standard electroweak
+theory.

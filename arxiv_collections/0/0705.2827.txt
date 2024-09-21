@@ -1,0 +1,16 @@
+Bond stretching mimics different levels of electron correlation and provides
+a challenging testbed for approximate many-body computational methods. Using
+the recently developed phaseless auxiliary-field quantum Monte Carlo (AF QMC)
+method, we examine bond stretching in the well-studied molecules BH and N$_2$,
+and in the H$_{50}$ chain. To control the sign/phase problem, the phaseless AF
+QMC method constrains the paths in the auxiliary-field path integrals with an
+approximate phase condition that depends on a trial wave function. With single
+Slater determinants from unrestricted Hartree-Fock (UHF) as trial wave
+function, the phaseless AF QMC method generally gives better overall accuracy
+and a more uniform behavior than the coupled cluster CCSD(T) method in mapping
+the potential-energy curve. In both BH and N$_2$, we also study the use of
+multiple-determinant trial wave functions from multi-configuration
+self-consistent-field (MCSCF) calculations. The increase in computational cost
+versus the gain in statistical and systematic accuracy are examined. With such
+trial wave functions, excellent results are obtained across the entire region
+between equilibrium and the dissociation limit.

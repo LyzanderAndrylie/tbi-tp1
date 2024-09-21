@@ -1,0 +1,5 @@
+We introduce a wide subclass ${\cal F}(X,\omega)$ of quasi-plurisubharmonic
+functions in a compact K\"ahler manifold, on which the complex Monge-Amp\`ere
+operator is well-defined and the convergence theorem is valid. We also prove
+that ${\cal F}(X,\omega)$ is a convex cone and includes all
+quasi-plurisubharmonic functions which are in the Cegrell class.

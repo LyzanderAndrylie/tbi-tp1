@@ -1,0 +1,16 @@
+We derive an effective nonpolynomial Schrodinger equation (NPSE) for
+self-repulsive or attractive BEC in the nearly-1D cigar-shaped trap, with the
+transverse confining frequency periodically modulated along the axial
+direction. Besides the usual linear cigar-shaped trap, where the periodic
+modulation emulates the action of an optical lattice (OL), the model may be
+also relevant to toroidal traps, where an ordinary OL cannot be created. For
+either sign of the nonlinearity, extended and localized states are found, in
+the numerical form (using both the effective NPSE and the full 3D
+Gross-Pitaevskii equation) and by means of the variational approximation (VA).
+The latter is applied to construct ground-state solitons and predict the
+collapse threshold in the case of self-attraction. It is shown that numerical
+solutions provided by the one-dimensional NPSE are always very close to full 3D
+solutions, and the VA yields quite reasonable results too. The transition from
+delocalized states to gap solitons, in the first finite bandgap of the linear
+spectrum, is examined in detail, for the repulsive and attractive
+nonlinearities alike.

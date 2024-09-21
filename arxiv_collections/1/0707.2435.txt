@@ -1,0 +1,19 @@
+By applying the standard adiabatic approximation and using the accurate
+analytical expression for the corresponding local chemical potential obtained
+in our previous work [Phys. Rev. A \textbf{75}, 063610 (2007)] we derive an
+effective 1D equation that governs the axial dynamics of mean-field
+cigar-shaped condensates with repulsive interatomic interactions, accounting
+accurately for the contribution from the transverse degrees of freedom. This
+equation, which is more simple than previous proposals, is also more accurate.
+Moreover, it allows treating condensates containing an axisymmetric vortex with
+no additional cost. Our effective equation also has the correct limit in both
+the quasi-1D mean-field regime and the Thomas-Fermi regime and permits one to
+derive fully analytical expressions for ground-state properties such as the
+chemical potential, axial length, axial density profile, and local sound
+velocity. These analytical expressions remain valid and accurate in between the
+above two extreme regimes. Following the same procedure we also derive an
+effective 2D equation that governs the transverse dynamics of mean-field
+disk-shaped condensates. This equation, which also has the correct limit in
+both the quasi-2D and the Thomas-Fermi regime, is again more simple and
+accurate than previous proposals. We have checked the validity of our equations
+by numerically solving the full 3D Gross-Pitaevskii equation.

@@ -1,0 +1,14 @@
+Gravitational waves reaching a Michelson interferometer are expected to
+induce a very small change in the length of its arms causing a phase shift
+between them, but it is very difficult to observe the extremely small phase
+shift signals produced. In the present letter we show that the gravitational
+waves signal could be amplified by orders of magnitude by using very special
+conditions for a coherent-squeezed Michelson interferometer in which the
+coherent state enters one port of the interferometer and the squeezed vacuum
+enters in the other port. We treat the case where without the gravitational
+induced phase shift the very strong coherent state goes out of one output port
+while the squeezed vacuum goes out the other output port (the ``dark'' port).
+While the phase shift produced by the gravitation waves does not give any
+significant change in the strong coherent output, the light intensity in the
+``dark'' port is amplified with decreased fluctuations as the squeezing
+increases.

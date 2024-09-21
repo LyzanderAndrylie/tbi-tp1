@@ -1,0 +1,17 @@
+We use Hubble Space Telescope archival images to measure central surface
+brightness profiles of globular clusters around satellite galaxies of the Milky
+Way. We report results for 21 clusters around the LMC, 5 around the SMC, and 4
+around the Fornax dwarf galaxy. The profiles are obtained using a recently
+developed technique based on measuring integrated light, which is tested on an
+extensive simulated dataset. Our results show that for 70% of the sample, the
+central photometric points of our profiles are brighter than previous
+measurements using star counts with deviations as large as 2 mag/arcsec^2.
+About 40% of the objects have central profiles deviating from a flat central
+core, with central logarithmic slopes continuously distributed between -0.2 and
+-1.2. These results are compared with those found for a sample of Galactic
+clusters using the same method. We confirm the known correlation in which
+younger clusters tend to have smaller core radii, and we find that they also
+have brighter central surface brightness values. This seems to indicate that
+globular clusters might be born relatively concentrated, and that a profile
+with extended flat cores might not be the ideal choice for initial profiles in
+theoretical models.

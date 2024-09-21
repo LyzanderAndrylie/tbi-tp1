@@ -1,0 +1,10 @@
+The quantum spin Hall (QSH) effect is the property of a new state of matter
+which preserves time-reversal, has an energy gap in the bulk, but has
+topologically robust gapless states at the edge. Recently, it has been shown
+that HgTe quantum wells realize this novel effect. In this work, we start from
+realistic tight-binding models and demonstrate the existence of the helical
+edge states in HgTe quantum wells and calculate their physical properties. We
+also show that 3d HgTe is a topological insulator under uniaxial strain, and
+show that the surface states are described by single-component massless
+relativistic Dirac fermions in 2+1 dimensions. Experimental predictions are
+made based on the quantitative results obtained from realistic calculations.

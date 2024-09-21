@@ -1,0 +1,12 @@
+We present a semiclassical method to treat the proton breakup from a weakly
+bound state in an exotic nucleus. The Coulomb interactions between the proton,
+core and target are treated to all orders and including the full multipole
+expansion of the Coulomb potential. The nuclear proton-target interaction is
+also treated to all orders. The core-target interaction is included as an
+absorption. The method is semi-analytical thus allowing for a detailed
+understanding of the short range and long range effects of the interactions in
+the reaction dynamics. It explains also the origin of possible asymmetries in
+the core parallel momentum distributions when the full multipole expansion of
+the Coulomb potential is used. Calculations are compared to results of other,
+fully numerical, methods and to experimental data in order to establish the
+accuracy and reliability of the method.

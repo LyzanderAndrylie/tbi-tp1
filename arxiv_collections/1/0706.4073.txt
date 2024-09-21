@@ -1,0 +1,23 @@
+We study the level spacing distribution $P(S)$ of 2D real random matrices
+both symmetric as well as general, non-symmetric. In the general case we
+restrict ourselves to Gaussian distributed matrix elements, but different
+widths of the various matrix elements are admitted. The following results are
+obtained: An explicit exact formula for $P(S)$ is derived and its behaviour
+close to S=0 is studied analytically, showing that there is linear level
+repulsion, unless there are additional constraints for the probability
+distribution of the matrix elements. The constraint of having only positive or
+only negative but otherwise arbitrary non-diagonal elements leads to quadratic
+level repulsion with logarithmic corrections. These findings detail and extend
+our previous results already published in a preceding paper. For the {\em
+symmetric} real 2D matrices also other, non-Gaussian statistical distributions
+are considered. In this case we show for arbitrary statistical distribution of
+the diagonal and non-diagonal elements that the level repulsion exponent $\rho$
+is always $\rho = 1$, provided the distribution function of the matrix elements
+is regular at zero value. If the distribution function of the matrix elements
+is a singular (but still integrable) power law near zero value of $S$, the
+level spacing distribution $P(S)$ is a fractional exponent pawer law at small
+$S$. The tail of $P(S)$ depends on further details of the matrix element
+statistics. We explicitly work out four cases: the constant (box) distribution,
+the Cauchy-Lorentz distribution, the exponential distribution and, as an
+example for a singular distribution, the power law distribution for $P(S)$ near
+zero value times an exponential tail.

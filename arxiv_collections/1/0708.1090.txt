@@ -1,0 +1,10 @@
+It is shown that elastic resonance scattering of light by a finite-size
+obstacle with weak dissipation is analogous to quantum scattering by a
+potential with quasi-discrete levels and exhibits Fano resonances. Localized
+plasmons (polaritons), exited in the obstacle by the incident light, are
+equivalent to the quasi-discrete levels, while the radiative decay of these
+excitations plays exactly the same role as tunnelling from the quasi-discrete
+levels for the quantum problem. Mie scattering of light by a spherical particle
+and an exactly solvable discrete model with nonlocal coupling simulating wave
+scattering in systems with reduced spatial dimensionality are discussed as
+examples.

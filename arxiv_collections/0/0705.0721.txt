@@ -1,0 +1,15 @@
+We construct improved quantum Monte Carlo estimators for the spherically- and
+system-averaged electron pair density (i.e. the probability density of finding
+two electrons separated by a relative distance u), also known as the
+spherically-averaged electron position intracule density I(u), using the
+general zero-variance zero-bias principle for observables, introduced by
+Assaraf and Caffarel. The calculation of I(u) is made vastly more efficient by
+replacing the average of the local delta-function operator by the average of a
+smooth non-local operator that has several orders of magnitude smaller
+variance. These new estimators also reduce the systematic error (or bias) of
+the intracule density due to the approximate trial wave function. Used in
+combination with the optimization of an increasing number of parameters in
+trial Jastrow-Slater wave functions, they allow one to obtain well converged
+correlated intracule densities for atoms and molecules. These ideas can be
+applied to calculating any pair-correlation function in classical or quantum
+Monte Carlo calculations.

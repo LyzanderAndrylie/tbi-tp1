@@ -1,0 +1,6 @@
+Recently we showed that a simple model of network rewiring could be solved
+exactly for any time and any parameter value. We also showed that this model
+can be recast in terms of several well known models of statistical physics such
+as Urn model and the Voter model. We also noted that it has been applied to a
+wide range of problems. Here we consider various generalisations of this model
+and include some new exact results.

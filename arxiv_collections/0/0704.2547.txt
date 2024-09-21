@@ -1,0 +1,12 @@
+The complementary strands of DNA molecules can be separated when stretched
+apart by a force; the unzipping signal is correlated to the base content of the
+sequence but is affected by thermal and instrumental noise. We consider here
+the ideal case where opening events are known to a very good time resolution
+(very large bandwidth), and study how the sequence can be reconstructed from
+the unzipping data. Our approach relies on the use of statistical Bayesian
+inference and of Viterbi decoding algorithm. Performances are studied
+numerically on Monte Carlo generated data, and analytically. We show how
+multiple unzippings of the same molecule may be exploited to improve the
+quality of the prediction, and calculate analytically the number of required
+unzippings as a function of the bandwidth, the sequence content, the elasticity
+parameters of the unzipped strands.

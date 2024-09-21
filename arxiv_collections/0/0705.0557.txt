@@ -1,0 +1,11 @@
+In 1980 Jimbo and Miwa evaluated the diagonal two-point correlation function
+of the square lattice Ising model as a $\tau$-function of the sixth Painlev\'e
+system by constructing an associated isomonodromic system within their theory
+of holonomic quantum fields. More recently an alternative isomonodromy theory
+was constructed based on bi-orthogonal polynomials on the unit circle with
+regular semi-classical weights, for which the diagonal Ising correlations arise
+as the leading coefficient of the polynomials specialised appropriately. Here
+we demonstrate that the next-to-diagonal correlations of the anisotropic Ising
+model are evaluated as one of the elements of this isomonodromic system or
+essentially as the Cauchy-Hilbert transform of one of the bi-orthogonal
+polynomials.

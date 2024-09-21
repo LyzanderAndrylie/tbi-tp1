@@ -1,0 +1,19 @@
+In this paper, the axion contribution to the electromagnetic wave propagation
+is studied. First we show how the axion electrodynamics model can be embedded
+into a premetric formalism of Maxwell electrodynamics. In this formalism, the
+axion field is not an arbitrary added Chern-Simon term of the Lagrangian, but
+emerges in a natural way as an irreducible part of a general constitutive
+tensor.We show that in order to represent the axion contribution to the wave
+propagation it is necessary to go beyond the geometric approximation, which is
+usually used in the premetric formalism. We derive a covariant dispersion
+relation for the axion modified electrodynamics. The wave propagation in this
+model is studied for an axion field with timelike, spacelike and null
+derivative covectors. The birefringence effect emerges in all these classes as
+a signal of Lorentz violation. This effect is however completely different from
+the ordinary birefringence appearing in classical optics and in premetric
+electrodynamics. The axion field does not simple double the ordinary light cone
+structure. In fact, it modifies the global topological structure of light cones
+surfaces. In CFJ-electrodynamics, such a modification results in violation of
+causality. In addition, the optical metrics in axion electrodynamics are not
+pseudo-Riemannian. In fact, for all types of the axion field, they are even
+non-Finslerian.

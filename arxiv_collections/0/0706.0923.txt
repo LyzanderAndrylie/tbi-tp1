@@ -1,0 +1,13 @@
+Several interesting astrophysical phenomena are symmetric with respect to the
+rotation axis, like the head-on collision of compact bodies, the collapse
+and/or accretion of fields with a large variety of geometries, or some forms of
+gravitational waves. Most current numerical relativity codes, however, can not
+take advantage of these symmetries due to the fact that singularities in the
+adapted coordinates, either at the origin or at the axis of symmetry, rapidly
+cause the simulation to crash. Because of this regularity problem it has become
+common practice to use full-blown Cartesian three-dimensional codes to simulate
+axi-symmetric systems. In this work we follow a recent idea idea of Rinne and
+Stewart and present a simple procedure to regularize the equations both in
+spherical and axi-symmetric spaces. We explicitly show the regularity of the
+evolution equations, describe the corresponding numerical code, and present
+several examples clearly showing the regularity of our evolutions.

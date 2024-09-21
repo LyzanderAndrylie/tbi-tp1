@@ -1,0 +1,4 @@
+We consider Gibbs measures relative to Brownian motion of Feynman-Kac type,
+with single site potential V. We show that for a large class of V, including
+the Coulomb potential, there exist infinitely many infinite volume Gibbs
+measures.

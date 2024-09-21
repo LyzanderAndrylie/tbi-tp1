@@ -1,0 +1,11 @@
+We compare the roles of fidelity and entanglement in characterizing
+renormalization group flows and quantum phase transitions. It turns out that
+the scaling parameter extracted from fidelity for different ground states
+succeeds to capture nontrivial information including stable and unstable fixed
+points, whereas the von Neumann entropy as a bipartite entanglement measure (or
+equivalently, majorization relations satisfied by the spectra of the reduced
+density matrix along renormalization group flows) often fails, as far as the
+intrinsic irreversibility-information loss along renormalization group flows-is
+concerned. We also clarify an intimate connection between the von Neumman
+entropy, majorization relations, and fidelity. The relevance to Zamolodchikov's
+c theorem is indicated.

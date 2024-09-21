@@ -1,0 +1,13 @@
+We describe a collection of computer scripts written in PARI/GP to compute,
+for reflection groups determined by finite-volume polyhedra in $\mathbb{H}^3$,
+the commensurability invariants known as the invariant trace field and
+invariant quaternion algebra. Our scripts also allow one to determine
+arithmeticity of such groups and the isomorphism class of the invariant
+quaternion algebra by analyzing its ramification.
+  We present many computed examples of these invariants. This is enough to show
+that most of the groups that we consider are pairwise incommensurable. For
+pairs of groups with identical invariants, not all is lost: when both groups
+are arithmetic, having identical invariants guarantees commensurability. We
+discover many ``unexpected'' commensurable pairs this way. We also present a
+non-arithmetic pair with identical invariants for which we cannot determine
+commensurability.

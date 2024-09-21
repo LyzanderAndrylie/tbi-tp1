@@ -1,0 +1,8 @@
+A Ramsey interrogation scheme was used to measure the phase shift of
+laser-cooled $^{87}$Rb clock-transition pseudospins arising as a result of a
+reversal of a bias magnetic field, i.e., $\textbf{B} \to -\textbf{B}$, during
+the interrogation. While no phase shift occurred when the reversal was sudden,
+the Ramsey fringes were shifted by a factor of $\pi$ when the reversal was
+adiabatic. We thus verified the prediction that the spin states $|F,m=0 >$
+acquire a purely topological and parity-dependent phase factor of $(-1)^{F}$ as
+a result of $\textbf{B} \to -\textbf{B}$.

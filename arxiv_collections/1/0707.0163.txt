@@ -1,0 +1,9 @@
+The theory of the last multipliers as solutions of the Liouville's transport
+equation, previously developed for vector fields, is extended here to general
+multivectors. Characterizations in terms of Witten and Marsden differentials
+are reobtained as well as the algebraic structure of the set of multivectors
+with a common last multiplier, namely Gerstenhaber algebra. Applications to
+Poisson bivectors are presented by obtaining that last multipliers count for
+''how far away'' is a Poisson structure from being exact with respect to a
+given volume form. The notion of exact Poisson cohomology for an unimodular
+Poisson structure on $IR^{n}$ is introduced.

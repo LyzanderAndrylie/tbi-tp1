@@ -1,0 +1,5 @@
+We calculate the two-point correlation function <x(t2)x(t1)> for a
+subdiffusive continuous time random walk in a parabolic potential, generalizing
+well-known results for the single-time statistics to two times. A closed
+analytical expression is found for initial equilibrium, revealing a clear
+deviation from a Mittag-Leffler decay.

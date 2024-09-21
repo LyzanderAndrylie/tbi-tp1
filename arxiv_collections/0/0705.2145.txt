@@ -1,0 +1,6 @@
+Array-OL is a high-level specification language dedicated to the definition
+of intensive signal processing applications. Several tools exist for
+implementing an Array-OL specification as a data parallel program. While
+Array-OL can be used directly, it is often convenient to be able to deduce part
+of the specification from a sequential version of the application. This paper
+proposes such an analysis and examines its feasibility and its limits.

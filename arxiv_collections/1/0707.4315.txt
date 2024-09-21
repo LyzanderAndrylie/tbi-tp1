@@ -1,0 +1,20 @@
+Recently it was shown that if a given state fulfils the reduction criterion
+it must also satisfy the known entropic inequalities. Now the questions arises
+whether on the assumption that stronger criteria based on positive but not
+completely positive maps are satisfied, it is possible to derive some scalar
+inequalities stronger than the entropic ones. In this paper we show that under
+some assumptions the extended reduction criterion [H.-P. Breuer, Phys. Rev.
+Lett 97, 080501 (2006); W. Hall, J. Phys. A 40, 6183 (2007)] leads to some
+entropic--like inequalities which are much stronger than their entropic
+counterparts. The comparison of the derived inequalities with other
+separability criteria shows that such approach might lead to strong scalar
+criteria detecting both distillable and bound entanglement. In particular, in
+the case of SO(3)-invariant states it is shown that the present inequalities
+detect entanglement in regions in which entanglement witnesses based on
+extended reduction map fail. It should be also emphasized that in the case of
+$2\otimes N$ states the derived inequalities detect entanglement efficiently,
+while the extended reduction maps are useless when acting on the qubit
+subsystem. Moreover, there is a natural way to construct a many-copy
+entanglement witnesses based on the derived inequalities so, in principle,
+there is a possibility of experimental realization. Some open problems and
+possibilities for further studies are outlined.

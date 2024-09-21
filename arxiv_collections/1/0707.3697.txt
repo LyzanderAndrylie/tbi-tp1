@@ -1,0 +1,16 @@
+We determine the chromoelectric response of quark-gluon plasma (QGP)
+systematically within the framework of classical transport equations. The
+transport equations are set up in the phase space which includes the SU(3)
+group space corresponding to color (which is a dynamical degree of freedom), in
+addition to the position - momentum variables. The distribution functions are
+defined by projecting the density operators for the quarks and the gluons to
+their respective coherent states (defined over the extended phase space). The
+full import of the Yang-Mills(YM) dynamics is shown to manifest through the
+emergence of an intrinsic nonlinear, nonlocal response, whose behavior we
+determine in the long wavelength limit. It also manifests as a tensor response
+which is a characteristic of gluons. The response functions are shown to have a
+natural interpretation in terms of the renormalizations of the Abelian and the
+non-Abelian coupling constants. A detailed analysis of the screening of heavy
+quark potential and of the exact role played by the Debye mass screening in the
+case of the Cornell potential, is performed. We also discuss the non-Abelian
+contribution to Landau damping in QGP.

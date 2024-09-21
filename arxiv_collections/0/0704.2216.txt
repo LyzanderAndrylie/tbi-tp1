@@ -1,0 +1,9 @@
+Let $f$ be an ordinary polynomial in $\mathbb{C}[z_1,..., z_n]$ with no
+negative exponents and with no factor of the form $z_1^{\alpha_1}...
+z_n^{\alpha_n}$ where $\alpha_i$ are non zero natural integer. If we assume in
+addicting that $f$ is maximally sparse polynomial (that its support is equal to
+the set of vertices of its Newton polytope), then a complement component of the
+amoeba $\mathscr{A}_f$ in $\mathbb{R}^n$ of the algebraic hypersurface
+$V_f\subset (\mathbb{C}^*)^n$ defined by $f$, has order lying in the support of
+$f$, which means that $\mathscr{A}_f$ is solid. This gives an affirmative
+answer to Passare and Rullg\aa rd question in [PR2-01].

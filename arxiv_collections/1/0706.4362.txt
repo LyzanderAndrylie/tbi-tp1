@@ -1,0 +1,5 @@
+We show that, for mechanical system with external forces, the equations of
+deviations of solution curves of the corresponding Lagrange equations,determine
+a nonlinear connection on the second order osculator (second order tangent)
+bundle. In particular, Jacobi equations in Finsler and Riemann spaces determine
+such a nonlinear connection.

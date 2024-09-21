@@ -1,0 +1,16 @@
+We review the recently discovered interplay between chaos and symmetry in the
+general inhomogeneous solution of many string-related Einstein-matter systems
+in the vicinity of a cosmological singularity. The
+Belinsky-Khalatnikov-Lifshitz-type chaotic behaviour is found, for many
+Einstein-matter models (notably those related to the low-energy limit of
+superstring theory and M-theory), to be connected with certain
+(infinite-dimensional) hyperbolic Kac-Moody algebras. In particular, the
+billiard chambers describing the asymptotic cosmological behaviour of pure
+Einstein gravity in spacetime dimension d+1, or the metric-three-form system of
+11-dimensional supergravity, are found to be identical to the Weyl chambers of
+the Lorentzian Kac-Moody algebras AE_d, or E_{10}, respectively. This suggests
+that these Kac-Moody algebras are hidden symmetries of the corresponding
+models. There even exists some evidence of a hidden equivalence between the
+general solution of the Einstein-three-form system and a null geodesic in the
+infinite dimensional coset space E_{10} / K(E_{10}), where K(E_{10}) is the
+maximal compact subgroup of E_{10}.

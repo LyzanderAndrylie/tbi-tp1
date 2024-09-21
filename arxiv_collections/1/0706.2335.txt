@@ -1,0 +1,6 @@
+Lateral effects are analyzed in the antibunching of a beam of free
+non-interacting fermions. The emission of particles from a source is
+dynamically described in a 3D full quantum field-theoretical framework. The
+size of the source and the detectors, as well as the temperature of the source
+are taken into account and the behavior of the visibility is scrutinized as a
+function of these parameters.

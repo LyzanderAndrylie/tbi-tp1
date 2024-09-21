@@ -1,0 +1,9 @@
+At very high energies we expect that the hadronic cross sections satisfy the
+Froissart bound, which is a well-established property of the strong
+interactions. In this energy regime we also expect the formation of the Color
+Glass Condensate, characterized by gluon saturation and a typical momentum
+scale: the saturation scale $Q_s$. In this paper we show that if a saturation
+window exists between the nonperturbative and perturbative regimes of Quantum
+Chromodynamics (QCD), the total cross sections satisfy the Froissart bound.
+Furthermore, we show that our approach allows us to describe the high energy
+experimental data on $pp/p\bar{p}$ total cross sections.

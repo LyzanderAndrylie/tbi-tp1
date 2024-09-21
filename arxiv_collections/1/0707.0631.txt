@@ -1,0 +1,13 @@
+Mechanisms of 'environmental decoherence' such as surface scattering,
+Elliot-Yafet process and precession mechanisms, as well as their influence on
+the spin phase relaxation are considered and compared. It is shown that the
+'spin ballistic' regime is possible, when the phase relaxation length for the
+spin part of the wave function (WF)is much greater than the phase relaxation
+length for the 'orbital part'. In the presence of an additional magnetic field,
+the spin part of the electron's WF acquires a phase shift due to additional
+spin precession about that field. If the structure length is chosen to be
+greater than the phase relaxation length for the 'orbital part' and less than
+the phase relaxation length for the spin part of WF, it is possible to 'wash
+out' the quantum interference related to the phase coherence of the 'orbital
+part' of the WF, retaining at the same time that related to the phase coherence
+of the spin part and, hence, to reveal corresponding conductance oscillations.

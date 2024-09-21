@@ -1,0 +1,9 @@
+We report improved measurements of time-dependent CP violation parameters for
+$B^0(\bar{B}^0) \to J/\psi \pi^0$ decay. This analysis is based on 535 million
+$B\bar{B}$ pairs accumulated at the $\Upsilon(4S)$ resonance with the Belle
+detector at the KEKB asymmetric-energy e^+e^- collider. From the distribution
+of proper time intervals between the two B decays, we obtain the following CP
+violation parameters $\mathcal{S}_{J/\psi \pi^0} = -0.65\pm0.21
+(\rm{stat})\pm0.05 (\rm{syst})$ and $\mathcal{A}_{J/\psi \pi^0} = +0.08\pm0.16
+(\rm{stat})\pm0.05 (\rm{syst})$, which are consistent with Standard Model
+expectations.

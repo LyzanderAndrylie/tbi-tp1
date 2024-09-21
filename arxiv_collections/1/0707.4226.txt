@@ -1,0 +1,11 @@
+In this paper, the different operator forms of classical Yang-Baxter equation
+are given in the tensor expression through a unified algebraic method. It is
+closely related to left-symmetric algebras which play an important role in many
+fields in mathematics and mathematical physics. By studying the relations
+between left-symmetric algebras and classical Yang-Baxter equation, we can
+construct left-symmetric algebras from certain classical r-matrices and
+conversely, there is a natural classical r-matrix constructed from a
+left-symmetric algebra which corresponds to a parak\"ahler structure in
+geometry. Moreover, the former in a special case gives an algebraic
+interpretation of the ``left-symmetry'' as a Lie bracket ``left-twisted'' by a
+classical r-matrix.

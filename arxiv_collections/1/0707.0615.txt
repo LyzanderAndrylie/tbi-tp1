@@ -1,0 +1,11 @@
+In statistical mechanics Gibbs' paradox is avoided if the particles of a gas
+are assumed to be indistinguishable. The resulting entropy then agrees with the
+empirically tested thermodynamic entropy up to a term proportional to the
+logarithm of the particle number. We discuss here how analogous situations
+arise in the statistical foundation of black-hole entropy. Depending on the
+underlying approach to quantum gravity, the fundamental objects to be counted
+have to be assumed indistinguishable or not in order to arrive at the
+Bekenstein--Hawking entropy. We also show that the logarithmic corrections to
+this entropy, including their signs, can be understood along the lines of
+standard statistical mechanics. We illustrate the general concepts within the
+area quantization model of Bekenstein and Mukhanov.

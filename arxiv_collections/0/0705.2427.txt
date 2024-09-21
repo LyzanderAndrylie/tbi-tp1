@@ -1,0 +1,4 @@
+In this note a prediction of an algebraic mirror construction is checked for
+elliptic curves of Brieskorn-Pham type via number theoretic methods. It is
+shown that the modular forms associated to the Hasse-Weil L-series of mirror
+pairs of such curves are identical.

@@ -1,0 +1,21 @@
+In this work, we first use Thompson's renormalization group method to treat
+QCD-vacuum behavior close to the regime of asymptotic freedom. QCD-vacuum
+behaves effectively like a "paramagnetic system" of a classical theory in the
+sense that virtual color charges (gluons) emerge in it as spin effect of a
+paramagnetic material when a magnetic field aligns their microscopic magnetic
+dipoles. Making a classical analogy with the paramagnetism of Landau's
+theory,we are able to introduce a kind of Landau effective action without
+temperature and phase transition for simply representing QCD-vacuum behavior at
+higher energies as magnetization of a paramagnetic material in the presence of
+a magnetic field H. This reasoning allows us to use Thompson's heuristic
+approach in order to extract an "effective susceptibility" ($\chi>0$) of
+QCD-vacuum. It depends on logarithmic of energy scale u to investigate hadronic
+matter. Consequently,we are able to get an "effective magnetic permeability"
+($\mu>1$) of such a "paramagnetic vacuum". As QCD-vacuum must obey Lorentz
+invariance,the attainment of $\mu>1$ must simply require that the "effective
+electrical permissivity" is $\epsilon<1$,in such a way that $\mu\epsilon=1$
+(c^2=1).This leads to the antiscreening effect, where the asymptotic freedom
+takes place. On the other hand, quarks cofinement, a subject which is not
+treatable by perturbative calculations, is worked by the present approach. We
+apply the method to study this subject in order to obtain the string constant,
+which is in agreement with the experiments.

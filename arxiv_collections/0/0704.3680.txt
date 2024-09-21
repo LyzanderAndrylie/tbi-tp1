@@ -1,0 +1,11 @@
+We report magnetotransport properties of photogenerated electrons in undoped
+SrTiO$_3$ single crystals under ultraviolet illumination down to 2 K. By tuning
+the light intensity, the steady state carrier density can be controlled, while
+tuning the wavelength controls the effective electronic thickness by modulating
+the optical penetration depth. At short wavelengths, when the sheet conductance
+is close to the two-dimensional Mott minimum conductivity we have observed
+critical behavior characteristic of weak localization. Negative
+magnetoresistance at low magnetic field is highly anisotropic, indicating
+quasi-two-dimensional electronic transport. The high mobility of photogenerated
+electrons in SrTiO$_3$ allows continuous tuning of the effective electronic
+dimensionality by photoexcitation.

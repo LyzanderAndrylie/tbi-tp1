@@ -1,0 +1,6 @@
+This paper is a tutorial in a general and explicit procedure to simplify
+semidefinite programs which are invariant under the action of a symmetry group.
+The procedure is based on basic notions of representation theory of finite
+groups. As an example we derive the block diagonalization of the Terwilliger
+algebra of the binary Hamming scheme in this framework. Here its connection to
+the orthogonal Hahn and Krawtchouk polynomials becomes visible.

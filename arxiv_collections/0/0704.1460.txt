@@ -1,0 +1,14 @@
+We define Landau-Lifshitz sigma models on general coset space $G/H$, with $H$
+a maximal stability sub-group of $G$. These are non-relativistic models that
+have $G$-valued N\"other charges, local $H$ invariance and are classically
+integrable. Using this definition, we construct the $PSU(2,2|4)/PS(U(2|2)^2)$
+Landau-Lifshitz sigma-model. This sigma model describes the thermodynamic limit
+of the spin-chain Hamiltonian obtained from the complete one-loop dilatation
+operator of the N=4 super Yang-Mills (SYM) theory. In the second part of the
+paper, we identify a number of consistent truncations of the Type IIB
+Green-Schwarz action on $AdS_5\times S^5$ whose field content consists of two
+real bosons and 4,8 or 16 real fermions. We show that $\kappa$-symmetry acts
+trivially in these sub-sectors. In the context of the large spin limit of the
+AdS/CFT correspondence, we map the Lagrangians of these sub-sectors to
+corresponding truncations of the $PSU(2,2|4)/PS(U(2|2)^2)$ Landau-Lifshitz
+sigma-model.

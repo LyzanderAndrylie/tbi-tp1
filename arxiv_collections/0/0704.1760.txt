@@ -1,0 +1,17 @@
+The properties of galaxies are strongly correlated with their environment,
+with red galaxies dominating galaxy clusters and blue galaxies dominating the
+general field. However, not all field galaxies are young: studies of the
+colors, line strengths, and M/L ratios of massive early-type galaxies at
+0<z<1.3 show that the most massive galaxies do not seem to care about their
+surroundings, and have very similar ages irrespective of their environment.
+There is good evidence that the growth of these galaxies does continue longer
+in the field than in clusters, via (nearly) dissipationless mergers of already
+old galaxies. These results are consistent with predictions of recent galaxy
+formation models, which incorporate AGN feedback to suppress star formation in
+the most massive halos. Systematic studies of the relation of galaxies with
+their environment beyond z=1 are difficult, and still somewhat contradictory.
+Intriguingly both the DEEP2 and VVDS surveys find that the color-density
+relation disappears at z~1.3, unfortunately just at the point where both
+surveys become highly incomplete. On the other hand, clustering studies at
+z~2.5 have shown that red galaxies cluster more strongly than blue galaxies,
+implying that the color-density relation was already in place at that redshift.

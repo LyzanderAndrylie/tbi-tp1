@@ -1,0 +1,11 @@
+We study the constraints on gravity scale $M_P$ in extra-dimension
+gravitational theory, obtained from gravity-induced processes. The obtained
+constraints are subdivided into strong (though not robust) and reliable (though
+less strong). The strong constraints can be in principle relaxed due to some
+broken gauge symmetries, e.g. family symmetry. The strongest constraint is
+given by neutrino oscillations. For different assumptions the lower bound on
+$M_P$ is $10^{15} - 10^{18}$ GeV. However, it can be, in principle, reduced by
+broken family symmetry. More reliable bounds are due to flavor-conserved
+operators or those which change the flavors within one family. These bounds,
+obtained using the electron mass and width of $\pi \to e\nu$ decay, are
+$1\times 10^5$ GeV and $5\times 10^5$ GeV, for these two cases, respectively.

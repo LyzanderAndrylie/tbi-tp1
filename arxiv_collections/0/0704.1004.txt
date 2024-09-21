@@ -1,0 +1,11 @@
+We introduce a procedure developed by the ``Teramo Stellar Populations
+Tools'' group (Teramo-SPoT), specifically optimized to obtain realistic
+simulations of CCD images of elliptical galaxies.
+  Particular attention is devoted to include the Surface Brightness Fluctuation
+(SBF) signal observed in ellipticals and to simulate the Globular Cluster (GC)
+system in the galaxy, and the distribution of background galaxies present in
+real CCD frames. In addition to the physical properties of the simulated
+objects - galaxy distance and brightness profile, luminosity function of GC and
+background galaxies, etc. - the tool presented allows the user to set some of
+the main instrumental properties - FoV, zero point magnitude, exposure time,
+etc.

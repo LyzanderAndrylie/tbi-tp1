@@ -1,0 +1,11 @@
+We have prepared light emitting nanocrystalline porous silicon (PS) layers by
+electrochemical anodization of crystalline silicon (c-Si) wafer and
+characterized the c-Si/PS heterojunctions using temperature dependence of dark
+current-voltage (I-V) characteristics. The reverse bias I-V characteristics of
+c-Si/PS heterojunctions are found to behave like Schottky junctions where
+carrier transport is mainly governed by the carrier generation-recombination in
+the depletion region formed on the PS side. Fermi level of c-Si gets pinned to
+the defect levels at the interface resulting in ln(I) proportional to V^0.5.
+The barrier height in the reverse bias condition is shown to be equal to the
+band offset at the conduction band edges. An energy band diagram for the
+c-Si/PS heterojunction is proposed.

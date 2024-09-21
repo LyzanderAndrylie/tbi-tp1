@@ -1,0 +1,16 @@
+Eclipsing planetary systems give us an important window on extrasolar planet
+atmospheres. By measuring the depth of the secondary eclipse, when the planet
+moves behind the star, we can estimate the strength of the thermal emission
+from the day side of the planet. Attaining a ground-based detection of one of
+these eclipses has proven to be a significant challenge, as time-dependent
+variations in instrument throughput and atmospheric seeing and absorption
+overwhelm the small signal of the eclipse at infrared wavelengths. We gathered
+a series of simultaneous L grism spectra of the transiting planet system TrES-1
+and a nearby comparison star of comparable brightness, allowing us to correct
+for these effects in principle. Combining the data from two eclipses, we
+demonstrate a detection sensitivity of 0.15% in the eclipse depth relative to
+the stellar flux. This approaches the sensitivity required to detect the
+planetary emission, which theoretical models predict should lie between
+0.05-0.1% of the stellar flux in our 2.9-4.3 micron bandpass. We explore the
+factors that ultimately limit the precision of this technique, and discuss
+potential avenues for future improvements.

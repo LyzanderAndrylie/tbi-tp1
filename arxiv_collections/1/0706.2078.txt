@@ -1,0 +1,12 @@
+A condensate in an optical lattice, prepared in the ground state of the
+superfluid regime, is stimulated first by suddenly increasing the optical
+lattice amplitude and then, after a waiting time, by abruptly decreasing this
+amplitude to its initial value. Thus the system is first taken to the Mott
+regime and then back to the initial superfluid regime. We show that, as a
+consequence of this nonadiabatic process, the system falls into a configuration
+far from equilibrium whose superfluid order parameter is described in terms of
+a particular superposition of Glauber coherent states that we derive. We also
+show that the classical equations of motion describing the time evolution of
+this system are inequivalent to the standard discrete nonlinear Schreodinger
+equations. By numerically integrating such equations with several initial
+conditions, we show that the system loses coherence, becoming insulating.

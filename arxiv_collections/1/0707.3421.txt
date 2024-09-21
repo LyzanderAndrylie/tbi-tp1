@@ -1,0 +1,13 @@
+The nature of the electromagnetic (EM) energy for general charge and current
+distributions is analyzed. There are two well known forms for calculating EM
+energy as the integral over all space of either the electromagnetic fields:
+$u_{\bf EB}=({\bf E\bcdot D+B\bcdot H})/8\pi$, or the electromagnetic
+potentials and charge-current densities: $u_{\rho{\bf A}}=1/2(\rho\phi+{\bf
+j\bcdot A})$. We discuss the appropriate use of each of these forms in
+calculating the total EM energy and the EM energy within a limited volume. We
+conclude that only the form $u_{\bf EB}$ can be considered as a suitable EM
+energy density, while either form can be integrated to find the total EM
+energy. However, bounding surface integrals (if they don't vanish) must be
+included when using the $u_{\bf EB}$ form. Including these surface integrals
+resolves some seeming paradoxes in the energy of electric or magnetic dipoles
+in uniform fields

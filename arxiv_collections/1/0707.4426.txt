@@ -1,0 +1,11 @@
+We study the effect of the ferromagnetic (FM) contacts on the spin
+accumulation in the lateral spin valve system for the collinear magnetization
+configurations. When an additional FM electrode is introduced in the
+all-metallic lateral spin-valve system, we find that the transresistance can be
+fractionally suppressed or very weakly influenced depending on the position of
+the additional FM electrode, and relative magnitudes of contact resistance and
+the bulk resistance defined over the spin diffusion length. Nonlocal spin
+signals such as nonlocal voltage drop and leakage spin currents are independent
+of the magnetization orientation of the additional FM electrode. Even when the
+additional contact is nonmagnetic, nonlocal spin signals can be changed by the
+spin current leaking into the nonmagnetic electrode.

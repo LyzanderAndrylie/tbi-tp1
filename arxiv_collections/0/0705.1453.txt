@@ -1,0 +1,14 @@
+Data warehouse architectural choices and optimization techniques are critical
+to decision support query performance. To facilitate these choices, the
+performance of the designed data warehouse must be assessed. This is usually
+done with the help of benchmarks, which can either help system users comparing
+the performances of different systems, or help system engineers testing the
+effect of various design choices. While the TPC standard decision support
+benchmarks address the first point, they are not tuneable enough to address the
+second one and fail to model different data warehouse schemas. By contrast, our
+Data Warehouse Engineering Benchmark (DWEB) allows to generate various ad-hoc
+synthetic data warehouses and workloads. DWEB is fully parameterized to fulfill
+data warehouse design needs. However, two levels of parameterization keep it
+relatively easy to tune. Finally, DWEB is implemented as a Java free software
+that can be interfaced with most existing relational database management
+systems. A sample usage of DWEB is also provided in this paper.

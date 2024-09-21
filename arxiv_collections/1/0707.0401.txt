@@ -1,0 +1,22 @@
+John Stewart Bell's famous 1964 theorem is widely regarded as one of the most
+important developments in the foundations of physics. It has even been
+described as "the most profound discovery of science." Yet even as we approach
+the 50th anniversary of Bell's discovery, its meaning and implications remain
+controversial. Many textbooks and commentators report that Bell's theorem
+refutes the possibility (suggested especially by Einstein, Podolsky, and Rosen
+in 1935) of supplementing ordinary quantum theory with additional ("hidden")
+variables that might restore determinism and/or some notion of an
+observer-independent reality. On this view, Bell's theorem supports the
+orthodox Copenhagen interpretation. Bell's own view of his theorem, however,
+was quite different. He instead took the theorem as establishing an "essential
+conflict" between the now well-tested empirical predictions of quantum theory
+and relativistic \emph{local causality}. The goal of the present paper is, in
+general, to make Bell's own views more widely known and, in particular, to
+explain in detail Bell's little-known mathematical formulation of the concept
+of relativistic local causality on which his theorem rests. We thus collect and
+organize many of Bell's crucial statements on these topics, which are scattered
+throughout his writings, into a self-contained, pedagogical discussion
+including elaborations of the concepts "beable", "completeness", and
+"causality" which figure in the formulation. We also show how local causality
+(as formulated by Bell) can be used to derive an empirically testable Bell-type
+inequality, and how it can be used to recapitulate the EPR argument.

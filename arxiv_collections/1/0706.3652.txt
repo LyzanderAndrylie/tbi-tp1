@@ -1,0 +1,9 @@
+Purcell's scallop theorem defines the type of motions of a solid body -
+reciprocal motions - which cannot propel the body in a viscous fluid with zero
+Reynolds number. For example, the flapping of a wing is reciprocal and, as was
+recently shown, can lead to directed motion only if its frequency Reynolds
+number, Re_f, is above a critical value of order one. Using elementary
+examples, we show the existence of oscillatory reciprocal motions which are
+effective for all arbitrarily small values of the frequency Reynolds number and
+induce net velocities scaling as (Re_f)^\alpha (alpha > 0). This demonstrates a
+continuous breakdown of the scallop theorem with inertia.

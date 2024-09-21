@@ -1,0 +1,3 @@
+We are able to rederive in a very simple way the standard generalized Wick's
+theorem for overlaps of mean field wave functions by using the extension of the
+statistical Wick's theorem (Gaudin's theorem) in the appropriate limits.

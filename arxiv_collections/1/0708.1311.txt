@@ -1,0 +1,16 @@
+From a total data sample of 701.1 pb^-1 recorded with e+e- centre-of-mass
+energies of sqrt = 161-209 GeV with the OPAL detector at LEP, 11693 W-pair
+candidate events are selected. These data are used to obtain measurements of
+the W-pair production cross sections at 10 different centre-of-mass energies.
+The ratio of the measured cross sections to the Standard Model expectation is
+found to be: data/SM = 1.002 +- 0.011(stat.) +- 0.007(syst.) +- 0.005(theory),
+where the uncertainties are statistical, experimental systematics and theory
+systematics respectively. The data are used to determine the W boson branching
+fractions, which are found to be consistent with lepton universality of the
+charged current interaction. Assuming lepton universality, the branching ratio
+to hadrons is determined to be 67.41 +- 0.37(stat.) +- 0.23(syst.)%, from which
+the CKM matrix element Vcs is determined to be
+0.96+-0.017(stat.)+-0.012(syst.).
+  The differential cross section as a function of the W^- production angle is
+measured for the qqev and qqmv final states. The results described in this
+paper are consistent with the expectations from the Standard Model.

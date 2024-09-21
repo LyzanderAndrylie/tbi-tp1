@@ -1,0 +1,6 @@
+In this note, we introduce a class of algebras that are in some sense related
+to conformal algebras. This class (called TC-algebras) includes Weyl algebras
+and some of their (associative and Lie) subalgebras. By a conformal algebra we
+generally mean what is known as $H$-pseudo-algebra over the polynomial Hopf
+algebra $H=\Bbbk[T_1,..., T_n]$. Some recent results in structure theory of
+conformal algebras are applied to get a description of TC-algebras.

@@ -1,0 +1,8 @@
+We measure magnetization changes in a single crystal of the single-molecule
+magnet Fe8 when exposed to intense, short (<20 $\mu$s) pulses of microwave
+radiation resonant with the m = 10 to 9 transition. We find that radiation
+induces a phonon bottleneck in the system with a time scale of ~5 $\mu$s. The
+phonon bottleneck, in turn, drives the spin dynamics, allowing observation of
+thermally assisted resonant tunneling between spin states at the 100-ns time
+scale. Detailed numerical simulations quantitatively reproduce the data and
+yield a spin-phonon relaxation time of T1 ~ 40 ns.

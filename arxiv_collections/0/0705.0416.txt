@@ -1,0 +1,7 @@
+We show that the arithmetic D-module associated to an overconvergent
+F-isocrystal over a smooth curve is holonomic. We first prove that unipotent
+F-isocrystals are holonomic D-module by using the fact that such F-isocrystals
+come from logarithmic F-isocrystals. We deduce the general case from the
+semi-stable theorem for F-isocrystals over curves of Matsuda-Trihan which
+relies on the p-adic monodromy theorem independently proved by Andr\'e, Kedlaya
+and Mebkhout. The main result has already been proved by D. Caro.

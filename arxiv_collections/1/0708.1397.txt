@@ -1,0 +1,10 @@
+Diffusion constants D_{R} and D_{L} of ring and linear polymers of the same
+molecular weight in a good solvent, respectively, have been evaluated through
+the Brownian dynamics with hydrodynamic interaction. The ratio $C=D_{R}/D_{L}$,
+which should be universal in the context of the renormalization group, has been
+estimated as $C= 1.11 \pm 0.01$ for the large-N limit. It should be consistent
+with that of synthetic polymers, while it is smaller than that of DNAs such as
+$C \approx 1.3$. Furthermore, the probability of the ring polymer being a
+nontrivial knot is found to be very small, while bond crossings may occur at
+almost all time steps in the present simulation that realizes the good solvent
+conditions.

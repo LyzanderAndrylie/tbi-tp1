@@ -1,0 +1,4 @@
+We will introduce a modified system of A-hypergeometric system (GKZ system)
+by applying a change of variables for Groebner deformations and study its
+Groebner basis and the indicial polynomials along the "exceptional
+hypersurface".

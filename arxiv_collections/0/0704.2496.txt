@@ -1,0 +1,10 @@
+We consider the Bose-Hubbard model in a two dimensional rotating optical
+lattice and investigate the consequences of the effective magnetic field
+created by rotation. Using a Gutzwiller type variational wavefunction, we find
+an analytical expression for the Mott insulator(MI)-Superfluid(SF) transition
+boundary in terms of the maximum eigenvalue of the Hofstadter butterfly. The
+dependence of phase boundary on the effective magnetic field is complex,
+reflecting the self-similar properties of the single particle energy spectrum.
+Finally, we argue that fractional quantum Hall phases exist close to the MI-SF
+transition boundaries, including MI states with particle densities greater than
+one.

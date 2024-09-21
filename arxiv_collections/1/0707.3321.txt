@@ -1,0 +1,10 @@
+In the present work we investigate the multiscale nature of the correlations
+for high frequency data (1 minute) in different futures markets over a period
+of two years, starting on the 1st of January 2003 and ending on the 31st of
+December 2004. In particular, by using the concept of "local" Hurst exponent,
+we point out how the behaviour of this parameter, usually considered as a
+benchmark for persistency/antipersistency recognition in time series, is
+largely time-scale dependent in the market context. These findings are a direct
+consequence of the intrinsic complexity of a system where trading strategies
+are scale-adaptive. Moreover, our analysis points out different regimes in the
+dynamical behaviour of the market indices under consideration.

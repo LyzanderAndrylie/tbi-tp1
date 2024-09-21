@@ -1,0 +1,12 @@
+We investigate the possibility to deduce momentum space properties from
+time-dependent density functional calculations. Electron and ion momentum
+distributions after double ionization of a model Helium atom in a strong
+few-cycle laser pulse are studied. We show that, in this case, the choice of
+suitable functionals for the observables is considerably more important than
+the choice of the correlation potential in the time-dependent Kohn-Sham
+equations. By comparison with the solution of the time-dependent Schroedinger
+equation, the insufficiency of functionals neglecting electron correlation is
+demonstrated. We construct a functional of the Kohn-Sham orbitals, which in
+principle yields the exact momentum distributions of the electrons and the ion.
+The product-phase approximation is introduced, which reduces the problem of
+approximating this functional significantly.

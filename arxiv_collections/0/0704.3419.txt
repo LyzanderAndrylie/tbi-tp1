@@ -1,0 +1,19 @@
+We have performed a simulation study of Langmuir turbulence in the Earth's
+ionosphere by means of a Zakharov model with parameters relevant for the F
+layer. The model includes dissipative terms to model collisions and Landau
+damping of the electrons and ions, and a linear density profile, which models
+the ionospheric plasma inhomogeneity whose length scale is of the order 10--100
+km. The injection of energy into the system is modeled by a constant source
+term in the Zakharov equation. Langmuir turbulence is excited ``on-demand'' in
+controlled ionospheric modification experiments where the energy is provided by
+an HF radio beam injected into the overhead ionospheric plasma. The ensuing
+turbulence can be studied with radars and in the form of secondary radiation
+recorded by ground-based receivers. We have analyzed spectral signatures of the
+turbulence for different sets of parameters and different altitudes relative to
+the turning point of the linear Langmuir mode where the Langmuir frequency
+equals the local plasma frequency. By a parametric analysis, we have derived a
+simple scaling law, which links the spectral width of the turbulent frequency
+spectrum to the physical parameters in the ionosphere. The scaling law provides
+a quantitative relation between the physical parameters (temperatures, electron
+number density, ionospheric length scale, etc.) and the observed frequency
+spectrum. This law may be useful for interpreting experimental results.

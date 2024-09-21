@@ -1,0 +1,20 @@
+Spectroscopic methods involving the sudden injection or ejection of electrons
+in materials are a powerful probe of electronic structure and interactions.
+These techniques, such as photoemission and tunneling, yield measurements of
+the "single particle" density of states (SPDOS) spectrum of a system. The SPDOS
+is proportional to the probability of successfully injecting or ejecting an
+electron in these experiments. It is equal to the number of electronic states
+in the system able to accept an injected electron as a function of its energy
+and is among the most fundamental and directly calculable quantities in
+theories of highly interacting systems. However, the two-dimensional electron
+system (2DES), host to remarkable correlated electron states such as the
+fractional quantum Hall effect, has proven difficult to probe
+spectroscopically. Here we present an improved version of time domain
+capacitance spectroscopy (TDCS) that now allows us to measure the SPDOS of a
+2DES with unprecedented fidelity and resolution. Using TDCS, we perform
+measurements of a cold 2DES, providing the first direct measurements of the
+single-particle exchange-enhanced spin gap and single particle lifetimes in the
+quantum Hall system, as well as the first observations of exchange splitting of
+Landau levels not at the Fermi surface. The measurements reveal the difficult
+to reach and beautiful structure present in this highly correlated system far
+from the Fermi surface.

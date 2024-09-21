@@ -1,0 +1,9 @@
+The influence of the relativistic covariance requirement on the optimality of
+the symmetric state-dependent 1 -> 2 cloning machine is studied. Namely, given
+a photonic qubit whose basis is formed from the momentum-helicity eigenstates,
+the change to the optimal cloning fidelity is calculated taking into account
+the Lorentz covariance unitarily represented by Wigner's little group. To
+pinpoint some of the interesting results, we found states for which the optimal
+fidelity of the cloning process drops to 2/3 which corresponds to the fidelity
+of the optimal classical cloner. Also, an implication for the security of the
+BB84 protocol is analyzed.

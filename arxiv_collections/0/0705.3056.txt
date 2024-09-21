@@ -1,0 +1,7 @@
+We study the expansion of ultracold neutral plasmas in the regime in which
+inelastic collisions are negligible. The plasma expands due to the thermal
+pressure of the electrons, and for an initial spherically symmetric Gaussian
+density profle, the expansion is self-similar. Measurements of the plasma size
+and ion kinetic energy using fluorescence imaging and spectroscopy show that
+the expansion follows an analytic solution of the Vlasov equations for an
+adiabatically expanding plasma.

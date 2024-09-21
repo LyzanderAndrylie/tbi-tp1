@@ -1,0 +1,10 @@
+Recently, [{arXiv:0810.3134}] is accepted and published. We show that local
+realistic theories violate separability of $N$-qubit quantum states by a factor
+of $3^N$. Thus we have a violation factor of 3 when N=1. Realistic theories
+violate a proposition of a single qubit (a state with two-dimensional space)
+system, the Bloch sphere machinery of quantum mechanics. Our method uses the
+ratio of each of the scalar products. The maximal possible value of the scalar
+product in local realistic theories grows exponentially larger than one in
+$N$-qubit separable states when the number of qubits increases. We find the
+violation factor $3^N$ when the measurement setup is entire range of settings
+for each of the local observers.

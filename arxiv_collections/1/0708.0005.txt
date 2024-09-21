@@ -1,0 +1,8 @@
+We examine a scenario where the new physics at the LHC includes an
+approximate conformal field theory, where some of the degrees of freedom (aka
+"unparticles") carry a color charge. We present a simple argument showing that
+the production cross section for scalar unparticles mediated by a gauge
+interaction is given by (2-d) times the standard particle expression, where d
+is the scaling dimension of the unparticle field. We explicitly check that this
+is indeed the case, which involves non trivial cancellations between different
+Feynman diagrams, for the process q qbar to scalar unparticles.

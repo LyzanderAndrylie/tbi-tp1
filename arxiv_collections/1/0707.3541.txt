@@ -1,0 +1,12 @@
+Decoy state method quantum key distribution (QKD) is one of the promising
+practical solutions to BB84 QKD with coherent light pulses. In the real world,
+however, statistical fluctuations with the finite code length cannot be
+negligible, and the securities of theoretical and experimental researches of
+the decoy method state QKD so far are based on the asymptotic GLLP's formula
+which guarantees only that the limit of eavesdropper's information becomes zero
+as the code length approaches infinity. In this paper, we propose a
+substantially improved decoy state QKD in the framework of the finite code
+length and derive the upper bound of eavesdropper's information in the finite
+code length decoy state QKD with arbitrary number of decoy states of different
+intensities incorporating the finite statistics. We also show the performance
+of our decoy QKD and optimal values of parameters by numerical simulation.

@@ -1,0 +1,5 @@
+The azimuthal angle correlation of Mueller-Navelet jets at hadron colliders
+is studied in the NLO BFKL formalism. We highlight the need of collinear
+improvements in the kernel to obtain good convergence properties and we obtain
+better fits for the Tevatron data than at LO accuracy. We also estimate these
+correlations for larger rapidity differences available at the LHC.

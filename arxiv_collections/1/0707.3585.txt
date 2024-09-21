@@ -1,0 +1,10 @@
+In this article we study the effects of higher body excitations in the
+relativistic CC calculations for atoms and ions with one valence electron using
+Fock-space CCSD, CCSD(T) and its unitary variants. The present study
+demonstrates that CCSD(T) estimates the ionization potentials (IPs) and the
+valence electron removal energies quite accurately for alkali atoms and singly
+ionized alkaline earth ions, but yields unphysical energy levels for atoms
+and/or ions with partially filled sub-shell like C II. We further demonstrate
+that the higher body excitation effects can be incorporated more effectively
+through the unitary coupled cluster theory (UCC) compared to the CCSD(T)
+method.

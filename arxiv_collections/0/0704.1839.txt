@@ -1,0 +1,8 @@
+ALHEP is the symbolic algebra program for high-energy physics. It deals with
+amplitudes calculation, matrix element squaring, Wick theorem, dimensional
+regularization, tensor reduction of loop integrals and simplification of final
+expressions. The program output includes: Fortran code for differential cross
+section, Mathematica files to view results and intermediate steps and TeX
+source for Feynman diagrams. The PYTHIA interface is available. The project
+website http://www.hep.by/alhep contains up-to-date executables, manual and
+script examples.

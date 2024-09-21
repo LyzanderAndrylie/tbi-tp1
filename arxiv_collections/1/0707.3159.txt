@@ -1,0 +1,24 @@
+We investigate the nonlinear current-voltage characteristic of mesoscopic
+conductors and the current generated through rectification of an alternating
+external bias. To leading order in applied voltages both the nonlinear and the
+rectified current are quadratic. This current response can be described in
+terms of second order conductance coefficients and for a generic mesoscopic
+conductor they fluctuate randomly from sample to sample. Due to Coulomb
+interactions the symmetry of transport under magnetic field inversion is broken
+in a two-terminal setup. Therefore, we consider both the symmetric and
+antisymmetric nonlinear conductances separately. We treat interactions
+self-consistently taking into account nearby gates.
+  The nonlinear current is determined by different combinations of second order
+conductances depending on the way external voltages are varied away from an
+equilibrium reference point (bias mode). We discuss the role of the bias mode
+and circuit asymmetry in recent experiments. In a photovoltaic experiment the
+alternating perturbations are rectified, and the fluctuations of the nonlinear
+conductance are shown to decrease with frequency. Their asymptotical behavior
+strongly depends on the bias mode and in general the antisymmetric conductance
+is suppressed stronger then the symmetric conductance.
+  We next investigate nonlinear transport and rectification in chaotic rings.
+To this extent we develop a model which combines a chaotic quantum dot and a
+ballistic arm to enclose an Aharonov-Bohm flux. In the linear two-probe
+conductance the phase of the Aharonov-Bohm oscillation is pinned while in
+nonlinear transport phase rigidity is lost. We discuss the shape of the
+mesoscopic distribution of the phase and determine the phase fluctuations.

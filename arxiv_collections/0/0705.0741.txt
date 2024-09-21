@@ -1,0 +1,4 @@
+Let $f\in \mathbb{C}[X_1,..., X_n]$ be a homogeneous polynomial and B(f) be
+the corresponding Brieskorn module. We describe the torsion of the Brieskorn
+module B(f) for n=2 and show that any torsion element has order 1. For n>2, we
+find some examples in which the torsion order is strictly greater than 1.

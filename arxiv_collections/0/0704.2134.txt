@@ -1,0 +1,16 @@
+The X-ray transient XMMU J174716.1-281048 was serendipitously discovered with
+XMM-Newton in 2003. It lies about 0.9 degrees off the Galactic Centre and its
+spectrum shows a high absorption (~8 x 10E22 cm^(-2)). Previous X-ray
+observations of the source field performed in 2000 and 2001 did not detect the
+source, indicative of a quiescent emission at least two orders of magnitude
+fainter. The low luminosity during the outburst (~5 x 10E34 erg/s at 8 kpc)
+indicates that the source is a member of the ``very faint X-ray transients''
+class. On 2005 March 22nd the INTEGRAL satellite caught a possible type-I X-ray
+burst from the new INTEGRAL source IGR J17464-2811, classified as fast X-ray
+transient. This source was soon found to be positionally coincident, within the
+uncertainties, with XMMU J174716.1-281048. Here we report data analysis of the
+X-ray burst observed with the IBIS and JEM-X telescopes and confirm the type-I
+burst nature. We also re-analysed XMM-Newton and Chandra archival observations
+of the source field. We discuss the implications of these new findings,
+particularly related to the source distance as well as the source
+classification.

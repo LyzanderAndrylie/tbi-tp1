@@ -1,0 +1,8 @@
+We provide a refined approach to the classical Magnus and Fer expansion,
+unveiling a new structure by using the language of dendriform and pre-Lie
+algebras. The recursive formula for the logarithm of the solutions of the
+equations X=1+ta<X and Y=1-tY> a in A[[t]] is provided, where (A,<,>) is a
+dendriform algebra. Then, we present the solutions to these equations as an
+infinite product expansion of exponentials. Both formulae involve the pre-Lie
+product naturally associated with the dendriform structure. Several
+applications are presented.

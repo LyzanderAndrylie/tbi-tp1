@@ -1,0 +1,8 @@
+A geometric method is described to characterize the different kinds of
+extremals in optimal control theory. This comes from the use of a presymplectic
+constraint algorithm starting from the necessary conditions given by
+Pontryagin's Maximum Principle. Apart from the design of this general algorithm
+useful for any optimal control problem, it is showed how it works to split the
+set of extremals and, in particular, to characterize the strict abnormality. An
+example of strict abnormal extremal for a particular control-affine system is
+also given.

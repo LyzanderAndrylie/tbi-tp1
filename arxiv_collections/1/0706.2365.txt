@@ -1,0 +1,20 @@
+Great part of the interest in complex networks has been motivated by the
+presence of structured, frequently non-uniform, connectivity. Because diverse
+connectivity patterns tend to result in distinct network dynamics, and also
+because they provide the means to identify and classify several types of
+complex networks, it becomes important to obtain meaningful measurements of the
+local network topology. In addition to traditional features such as the node
+degree, clustering coefficient and shortest path, motifs have been introduced
+in the literature in order to provide complementary description of the networks
+connectivity. The current work proposes a new type of motifs, namely chains of
+nodes, namely sequences of connected nodes with degree two. These chains have
+been subdivided into cords, tails, rings and handles, depending on the type of
+their extremities (e.g. open or connected). A theoretical analysis of the
+density of such motifs in random and scale free networks is described, and an
+algorithm for identifying those motifs in general networks is presented. The
+potential of considering chains for network characterization has been
+illustrated with respect to five categories of real-world networks including 16
+cases. Several interesting findings were obtained, including the fact that
+several chains were observed in the real-world networks, especially the WWW,
+books, and power-grid. The possibility of chains resulting from incompletely
+sampled networks is also investigated.

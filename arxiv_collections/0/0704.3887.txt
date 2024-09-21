@@ -1,0 +1,13 @@
+In this study, using the analytical and recurrence relations suggested by the
+authors in previous works, the new efficient and reliable program procedure for
+the overlap integrals over Slater type orbitals (STOs) is presented. The
+proposed procedure guarantees a highly accurate evaluation of the overlap
+integrals with arbitrary values of quantum numbers, screening constants and
+internuclear distances. It is demonstrated that the computational accuracy of
+the proposed procedure is not only dependent on the efficiency of formulas, as
+has been discussed previously, but also on a number of other factors including
+the used program language package and solvent properties. The numerical results
+obtained using the algorithm described in the present work are in a complete
+agreement with those obtained using the alternative evaluation procedure. We
+notice that the program works without any restrictions and in all range of
+integral parameters.

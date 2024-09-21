@@ -1,0 +1,8 @@
+We investigate two types of genuine three-qubit entanglement, known as the
+Greenberger-Horne-Zeilinger(GHZ) and W states, in a macroscopic quantum system.
+Superconducting flux qubits are considered theoretically in order to generate
+such states. A phase coupling is proposed to offer enough strength of
+interactions between qubits. While an excited state can be the W state, the GHZ
+state is formed at the ground state of the three flux qubits. The GHZ and W
+states are shown to be robust against external flux fluctuations for feasible
+experimental realizations.

@@ -1,0 +1,14 @@
+The Canonical Transformation theory of Yanai and Chan [J. Chem. Phys. 124,
+194106 (2006)] provides a rigorously size-extensive description of dynamical
+correlation in multireference problems. Here we describe a new formulation of
+the theory based on the extended normal ordering procedure of Mukherjee and
+Kutzelnigg [J. Chem. Phys. 107, 432 (1997)].
+  On studies of the water, nitrogen, and iron-oxide potential energy curves,
+the Linearised Canonical Transformation Singles and Doubles theory is
+competitive in accuracy with some of the best multireference methods, such as
+the Multireference Averaged Coupled Pair Functional, while computational
+timings (in the case of the iron-oxide molecule) are two-three orders of
+magnitude faster and comparable to those of Complete Active Space Second-Order
+Perturbation Theory. The results presented here are greatly improved both in
+accuracy and in cost over our earlier study as the result of a new numerical
+algorithm for solving the amplitude equations.

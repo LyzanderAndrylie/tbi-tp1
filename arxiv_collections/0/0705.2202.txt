@@ -1,0 +1,7 @@
+In the framework of the Lindblad theory for open quantum systems we determine
+the degree of quantum decoherence and classical correlations of a harmonic
+oscillator interacting with a thermal bath. The transition from quantum to
+classical behaviour of the considered system is analyzed and it is shown that
+the classicality takes place during a finite interval of time. We calculate
+also the decoherence time and show that it has the same scale as the time after
+which statistical fluctuations become comparable with quantum fluctuations.

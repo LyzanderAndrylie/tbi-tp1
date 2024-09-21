@@ -1,0 +1,11 @@
+We investigate the current-phase-relation (CPR) of long diffusive
+superconductor-normal metal-superconductor (SNS) Josephson junctions in
+thermodynamic equilibrium and under microwave irradiation. While in equilibrium
+good agreement with the predictions of quasi-classical theory is found, we
+observe that the shape of the CPR can be strongly affected by microwave
+irradiation. Close to a Josephson-phase difference of pi, the supercurrent can
+be strongly suppressed when increasing the rf-power. Our results can be
+understood in terms of microwave excitation of low-lying Andreev bound states
+across the mini-gap in the junction. In the frequency interval studied, this
+mechanism becomes important when the mini-gap closes at a phase difference of
+pi.

@@ -1,0 +1,8 @@
+We present a simple texture that predicts the cotangent of the solar neutrino
+mixing angle to be equal to the golden ratio. This prediction is 1.4 standard
+deviations below the present best-fit value and final SNO and KamLAND data
+could discriminate it from tri-bi-maximal mixing. The neutrino mass matrix is
+invariant under a Z_2 x Z'_2 symmetry: that geometrically is a reflection along
+the diagonal of the golden rectangle. Assuming an analogous structure in the
+quark sector suggests a golden prediction for the Cabibbo angle, theta_C =
+pi/4- theta_12 = 13.3 degree, up to uncertainties comparable to V_{ub}.

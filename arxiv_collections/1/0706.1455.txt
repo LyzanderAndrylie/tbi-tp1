@@ -1,0 +1,13 @@
+Gravitational radiation of binary systems can be studied by using the
+adiabatic approximation in General Relativity. In this approach a small
+astrophysical object follows a trajectory consisting of a chained series of
+bounded geodesics (orbits) in the outer region of a Kerr Black Hole,
+representing the space time created by a bigger object. In our paper we study
+the entire class of orbits, both of constant radius (spherical orbits), as well
+as non-null eccentricity orbits, showing a number of properties on the physical
+parameters and trajectories. The main result is the determination of the
+geometrical locus of all the orbits in the space of physical parameters in Kerr
+space-time. This becomes a powerful tool to know if different orbits can be
+connected by a continuous change of their physical parameters. A discussion on
+the influence of different values of the angular momentum of the hole is given.
+Main results have been obtained by analytical methods.

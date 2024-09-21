@@ -1,0 +1,12 @@
+We study a novel configuration for displacement detection consisting of a
+nanomechanical resonator coupled to both, a radio frequency superconducting
+interference device (RF SQUID) and to a superconducting stripline resonator. We
+employ an adiabatic approximation and rotating wave approximation and calculate
+the displacement sensitivity. We study the performance of such a displacement
+detector when the stripline resonator is driven into a region of nonlinear
+oscillations. In this region the system exhibits noise squeezing in the output
+signal when homodyne detection is employed for readout. We show that
+displacement sensitivity of the device in this region may exceed the upper
+bound imposed upon the sensitivity when operating in the linear region. On the
+other hand, we find that the high displacement sensitivity is accompanied by a
+slowing down of the response of the system, resulting in a limited bandwidth.

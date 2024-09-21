@@ -1,0 +1,10 @@
+In this paper, we study the primitive ideals of quantum algebras supporting a
+rational torus action. We first prove a quantum analogue of a Theorem of
+Dixmier; namely, we show that the Gelfand-Kirillov dimension of primitive
+factors of various quantum algebras is always even. Next we give a
+combinatorial criterion for a prime ideal that is invariant under the torus
+action to be primitive. We use this criterion to obtain a formula for the
+number of primitive ideals in the algebra of $2\times n$ quantum matrices that
+are invariant under the action of the torus. Roughly speaking, this can be
+thought of as giving an enumeration of the points that are invariant under the
+induced action of the torus in the ``variety of $2\times n$ quantum matrices''.

@@ -1,0 +1,13 @@
+This review article provides an overview of recent work in the modeling and
+analysis of recurrent events arising in engineering, reliability, public
+health, biomedicine and other areas. Recurrent event modeling possesses unique
+facets making it different and more difficult to handle than single event
+settings. For instance, the impact of an increasing number of event occurrences
+needs to be taken into account, the effects of covariates should be considered,
+potential association among the interevent times within a unit cannot be
+ignored, and the effects of performed interventions after each event occurrence
+need to be factored in. A recent general class of models for recurrent events
+which simultaneously accommodates these aspects is described. Statistical
+inference methods for this class of models are presented and illustrated
+through applications to real data sets. Some existing open research problems
+are described.

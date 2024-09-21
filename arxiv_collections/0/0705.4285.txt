@@ -1,0 +1,20 @@
+At least two arguments suggest that the orbits of a large fraction of binary
+stars and extrasolar planets shrank by 1-2 orders of magnitude after formation:
+(i) the physical radius of a star shrinks by a large factor from birth to the
+main sequence, yet many main-sequence stars have companions orbiting only a few
+stellar radii away, and (ii) in current theories of planet formation, the
+region within ~0.1 AU of a protostar is too hot and rarefied for a Jupiter-mass
+planet to form, yet many "hot Jupiters" are observed at such distances. We
+investigate orbital shrinkage by the combined effects of secular perturbations
+from a distant companion star (Kozai oscillations) and tidal friction. We
+integrate the relevant equations of motion to predict the distribution of
+orbital elements produced by this process. Binary stars with orbital periods of
+0.1 to 10 days, with a median of ~2 d, are produced from binaries with much
+longer periods (10 d to 10^5 d), consistent with observations indicating that
+most or all short-period binaries have distant companions (tertiaries). We also
+make two new testable predictions: (1) For periods between 3 and 10 d, the
+distribution of the mutual inclination between the inner binary and the
+tertiary orbit should peak strongly near 40 deg and 140 deg. (2) Extrasolar
+planets whose host stars have a distant binary companion may also undergo this
+process, in which case the orbit of the resulting hot Jupiter will typically be
+misaligned with the equator of its host star.

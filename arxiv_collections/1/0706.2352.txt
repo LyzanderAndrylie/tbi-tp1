@@ -1,0 +1,10 @@
+Electron relaxation, induced by acoustic phonons, is studied for coupled
+quantum rings in the presence of external fields, both electric and magnetic.
+We address the problem of a single electron in vertically coupled GaAs quantum
+rings. Electron-phonon interaction is accounted for both deformation potential
+and piezoelectric field coupling mechanisms. Depending on the external fields,
+the ring radii and the separation between the rings, we show that the two
+different couplings have different weights and importance. Significant
+oscillations are found in the scattering rates from electron excited states to
+the ground state, as a function of either the geometry of the system or the
+external fields.

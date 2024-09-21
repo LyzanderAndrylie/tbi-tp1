@@ -1,0 +1,14 @@
+A quantum control landscape is defined as the physical objective as a
+function of the control variables to be optimized. Analyzing the topology of
+these landscapes is important for understanding the origins of the increasing
+number of laboratory successes in the optimal control of quantum processes.
+This paper proposes a simple scheme to compute the characteristics of the
+critical topology of the quantum ensemble control landscapes for observables,
+showing that the set of disjoint critical submanifolds one-to-one corresponds
+to a finite number of contingency tables that solely depend on the degeneracy
+structure of the eigenvalues of the initial system density matrix and the
+observable to be controlled. The landscape characteristics can be calculated as
+functions of the table entries, including the dimensions and the numbers of
+positive and negative eigenvalues of the Hessian quadratic form of each of the
+connected components of the critical submanifolds. Typical examples are given
+to illustrate the effectiveness of this method.

@@ -1,0 +1,13 @@
+Both the basic electronic structure of tetraborides, and the changes across
+the lanthanide series in $R$B$_4$ ($R$ = rare earth) compounds, are studied
+using the correlated band theory LDA+U method in the all-electron Full
+Potential Local Orbital (FPLO) code. A set of boron bonding bands can be
+identified that are well separated from the antibonding bands. Separately, the
+``dimer B'' $2p_z$ orbital is non-bonding ({\it viz.} graphite and MgB$_2$),
+and mixes strongly with the metal 4d or $5d$ states that form the conduction
+states. The bonding bands are not entirely filled even for the trivalent
+compounds (thus the cation $d$ bands have some filling), which accounts for the
+lack of stability of this structure when the cations are divalent (with more
+bonding states unfilled). The trends in the mean $4f$ level for both majority
+and minority, and occupied and unoccupied, states are presented and
+interpreted.

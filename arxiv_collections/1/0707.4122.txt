@@ -1,0 +1,12 @@
+The ATLAS detector at CERN's Large Hadron Collider (LHC) will be exposed to
+proton-proton collisions from beams crossing at 40 MHz. At the design
+luminosity of 10^34 cm^-2 s^-1 there are on average 23 collisions per bunch
+crossing. A three-level trigger system will select potentially interesting
+events in order to reduce the read-out rate to about 200 Hz. The first trigger
+level is implemented in custom-built electronics and makes an initial fast
+selection based on detector data of coarse granularity. It has to reduce the
+rate by a factor of 10^4 to less than 100 kHz. The other two consecutive
+trigger levels are in software and run on PC farms. We present an overview of
+the first-level trigger system and report on the current installation status.
+Moreover, we show analysis results of cosmic-ray data recorded in situ at the
+ATLAS experimental site with final or close-to-final hardware.

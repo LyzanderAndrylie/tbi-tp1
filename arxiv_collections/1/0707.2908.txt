@@ -1,0 +1,9 @@
+This paper deals with some self-interacting diffusions $(X_t,t\geq 0)$ living
+on $\mathbb{R}^d$. These diffusions are solutions to stochastic differential
+equations: \[\mathrm{d}X_t=\mathrm{d}B_t-g(t)\nabla
+V(X_t-\bar{\mu}_t)\,\mathrm{d}t,\] where $\bar{\mu}_t$ is the empirical mean of
+the process $X$, $V$ is an asymptotically strictly convex potential and $g$ is
+a given function. We study the ergodic behaviour of $X$ and prove that it is
+strongly related to $g$. Actually, we show that $X$ is ergodic (in the limit
+quotient sense) if and only if $\bar{\mu}_t$ converges a.s. We also give some
+conditions (on $g$ and $V$) for the almost sure convergence of $X$.

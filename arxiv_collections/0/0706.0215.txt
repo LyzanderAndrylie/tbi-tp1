@@ -1,0 +1,13 @@
+The image of a point situated at the center of a circularly symmetric
+potential is a perfect circle. The perturbative effect of non-symmetrical
+potential terms is to displace and break the perfect circle. These 2 effects,
+displacement and breaking are directly related to the Taylor expansion of the
+perturbation at first order on the circle. The numerical accuracy of this
+perturbative approach is tested in the case of an elliptical potential with a
+core radius. The contour of the images and the caustics lines are well
+re-produced by the perturbative approach. These results suggests that the
+modeling of arcs, and in particular of tangential arcs may be simplified by
+using a general perturbative representation on the circle. An interesting
+feature of the perturbative approach, is that the equation of the caustic line
+depends only on the values on the circle of the lens displacement field along
+the $\theta$ direction.

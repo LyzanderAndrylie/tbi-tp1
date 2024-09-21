@@ -1,0 +1,13 @@
+This is the third of a series of papers on a new equivariant cohomology that
+takes values in a vertex algebra, and contains and generalizes the classical
+equivariant cohomology of a manifold with a Lie group action a la H. Cartan. In
+this paper, we compute this cohomology for spheres and show that for any simple
+connected group G, there is a sphere with infinitely many actions of G which
+have distinct chiral equivariant cohomology, but identical classical
+equivariant cohomology. Unlike the classical case, the description of the
+chiral equivariant cohomology of spheres requires a substantial amount of new
+structural theory, which we fully develop in this paper. This includes a
+quasi-conformal structure, equivariant homotopy invariance, and the values of
+this cohomology on homogeneous spaces. These results rely on crucial features
+of the underlying vertex algebra valued complex that have no classical
+analogues.

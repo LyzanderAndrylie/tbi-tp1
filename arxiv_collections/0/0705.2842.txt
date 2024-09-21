@@ -1,0 +1,18 @@
+We discuss theoretically the properties of an electromechanical oscillator
+whose operation is based upon the cyclic, quasi-conservative conversion between
+gravitational potential, kinetic, and magnetic energies. The system consists of
+a strong-pinning type-II superconductor square loop subjected to a constant
+external force and to magnetic fields. The loop oscillates in the upright
+position at a frequency that can be tuned in the range 10-1000 Hz, and has
+induced in it a rectified electrical current. The emphasis of this paper is on
+the evaluation of the major remaining source of losses in the oscillations. We
+argue that such losses should be associated with the viscous vibration of
+pinned flux lines in the superconductor Nb-Ti wire, provided the oscillator is
+kept close to zero Kelvin, under high-vacuum, and the magnetic field is
+sufficiently uniform. We discuss how other different sources of loss would
+become negligible for such operational conditions, so that a very high quality
+factor Q exceeding 10^(10) might in principle be reached by the oscillator. The
+prospective utilization of such oscillator as a low-frequency high-Q clock is
+analyzed.Since publication the ideas in this paper have been explored both by
+the author and elsewhere, in applications covering Metrology, quantum systems,
+and gravimetry.

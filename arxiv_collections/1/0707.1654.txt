@@ -1,0 +1,13 @@
+The dynamic polarization potential (DPP) contribution to the effective
+proton-nucleus interaction, that is due to the coupling of deuteron channels,
+is evaluated by applying $S_{lj} \to V(r)$ inversion to the elastic channel
+$S$-matrix from coupled reaction channel calculations of proton elastic
+scattering. This was done for protons scattering from $^{10}$Be at 12, 13, 14,
+15, and 16 MeV; non-orthogonality corrections were included. We find a
+consistent pattern of a repulsive real and an absorptive imaginary DPP, with
+the absorption shifted to a larger radius. This is consistent with what has
+been found for proton scattering from the neutron skin nucleus $^8$He. The DPP
+is not of a form that can be represented by a renormalization of the bare
+potential, and has properties suggesting an underlying non-local process. We
+conclude that deuteron channels cannot be omitted from a full theoretical
+description of the proton-nucleus interaction (optical potential).

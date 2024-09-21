@@ -1,0 +1,13 @@
+We present the results of a one year monitoring campaign of the Seyfert 1.9
+galaxy NGC 2992 with RXTE. Historically, the source has been shown to vary
+dramatically in 2-10 keV flux over timescales of years and was thought to be
+slowly transitioning between periods of quiescence and active accretion. Our
+results show that in one year the source continuum flux covered almost the
+entire historical range, making it unlikely that the low-luminosity states
+correspond to the accretion mechanism switching off. During flaring episodes we
+found that a highly redshifted Fe K line appears, implying that the violent
+activity is occurring in the inner accretion disk, within ~100 gravitational
+radii of the central black hole. We also found that the spectral index of the
+X-ray continuum remained approximately constant during the large amplitude
+variability. These observations make NGC 2992 well-suited for future
+multi-waveband monitoring, as a test-bed for constraining accretion models.

@@ -1,0 +1,7 @@
+We introduce the notion of a task-oriented maximally entangled state (TMES).
+This notion depends on the tasks for which a quantum state is used as the
+resource. This concept may be more fruitful than that of a general maximally
+entangled state in the case of a multipartite system. We illustrate this idea
+by giving an operational definition of maximally entangled states on the basis
+of communication tasks of teleportation and superdense coding. We also give
+examples and a procedure to obtain such TMESs for {\em n}-qubit systems.

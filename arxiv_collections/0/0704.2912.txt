@@ -1,0 +1,7 @@
+In distinction to the Neumann case the squeezing limit of a Dirichlet network
+leads in the threshold region generically to a quantum graph with disconnected
+edges, exceptions may come from threshold resonances. Our main point in this
+paper is to show that modifying locally the geometry we can achieve in the
+limit a nontrivial coupling between the edges including, in particular, the
+class of $\delta$-type boundary conditions. We work out an illustration of this
+claim in the simplest case when a bent waveguide is squeezed.

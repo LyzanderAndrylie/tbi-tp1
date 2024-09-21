@@ -1,0 +1,17 @@
+We present metallicities and their variations with different parameters for
+36 high-latitude fields covering Galactic longitudes 0<l<360. The metallicities
+for relatively short vertical distances (z<2.5 kpc) show systematic
+fluctuations with Galactic longitude, similar to those of the thick-disc
+scaleheight, which may be interpreted as indicating a common origin, viz., the
+flare effect of the disc. This suggestion is supported by the metallicity
+variations which we find as functions of radial distance. The metallicity
+variation at larger vertical distances (6.5<z<9.5 kpc) is small but monotonic.
+Three different vertical metallicity gradients could be detected:
+d[M/H]/dz=-0.22(+/-0.03), d[M/H]/dz=-0.38 (+/-0.06), and d[M/H]/dz=-0.08
+(+/-0.07) dex/kpc for the intervals z<3, 3<z<5, and 5<z<10 kpc, respectively.
+Since our data cover the whole Galactic longitude interval, the resulting
+metallicity gradients can be interpreted as properties of the larger-scale
+Galaxy. The first gradient confirms the dissipational formation of the disc at
+short z-distances. The steeper gradient corresponds to the transition region
+between different population components of the Galaxy, and finally, the lowest
+value provides an adequate description of the inner-halo metallicity gradient.

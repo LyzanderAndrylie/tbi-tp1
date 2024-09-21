@@ -1,0 +1,7 @@
+We investigate the algebraic structure of the Feynman propagator with a
+general time-dependent quadratic Hamiltonian system. Using the Lie-algebraic
+technique we obtain a normal-ordered form of the time-evolution operator, and
+then the propagator is easily derived by a simple ``Integration Within Ordered
+Product" (IWOP) technique.It is found that this propagator contains a classical
+generating function which demonstrates a new correspondence between classical
+and quantum mechanics.

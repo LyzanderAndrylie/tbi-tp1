@@ -1,0 +1,5 @@
+We present a simple and general factorization law for quantum systems shared
+by two parties, which describes the time evolution of entanglement upon passage
+of either component through an arbitrary noisy channel. The robustness of
+entanglement-based quantum information processing protocols is thus easily and
+fully characterized by a single quantity.

@@ -1,0 +1,9 @@
+In this article we study Cohen-Macaulay modules over one-dimensional
+hypersurface singularities and the relationship with the representation theory
+of associative algebras using methods of cluster tilting theory. We give a
+criterion for existence of cluster tilting objects and their complete
+description by homological methods, using higher almost split sequences and
+results from birational geometry. We obtain a large class of 2-CY tilted
+algebras which are finite dimensional symmetric and satisfy $\tau^2=\id$. In
+particular, we compute 2-CY tilted algebras for simple and minimally elliptic
+curve singularities.

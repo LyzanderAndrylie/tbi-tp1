@@ -1,0 +1,18 @@
+We present results of a 20 ksec X-ray observation of the Wolf-Rayet (WR)
+binary system WR 147 obtained with XMM-Newton. Previous studies have shown that
+this system consists of a nitrogen-type WN8 star plus an OB companion whose
+winds are interacting to produce a colliding wind shock. X-ray spectra from the
+pn and MOS detectors confirm the high extinction reported from IR studies and
+reveal hot plasma including the first detection of the Fe K-alpha line complex
+at 6.67 keV. Spectral fits with a constant-temperature plane-parallel shock
+model give a shock temperature kT(shock) = 2.7 keV [T(shock) ~ 31 MK], close to
+but slightly hotter than the maximum temperature predicted for a colliding wind
+shock. Optically thin plasma models suggest even higher temperatures, which are
+not yet ruled out. The X-ray spectra are harder than can be accounted for using
+2D numerical colliding wind shock models based on nominal mass-loss parameters.
+Possible explanations include: (i) underestimates of the terminal wind speeds
+or wind abundances, (ii) overly simplistic colliding wind models, or (iii) the
+presence of other X-ray emission mechanisms besides colliding wind shocks.
+Further improvement of the numerical models to include potentially important
+physics such as non-equilibrium ionization will be needed to rigorously test
+the colliding wind interpretation.

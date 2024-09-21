@@ -1,0 +1,24 @@
+We study the IR-through-UV interstellar extinction curves towards 328
+Galactic B and late-O stars. We use a new technique which employs stellar
+atmosphere models in lieu of unreddened "standard" stars. This technique is
+capable of virtually eliminating spectral mismatch errors in the curves. It
+also allows a quantitative assessment of the errors and enables a rigorous
+testing of the significance of relationships between various curve parameters,
+regardless of whether their uncertainties are correlated. Analysis of the
+curves gives the following results: (1) In accord with our previous findings,
+the central position of the 2175 A extinction bump is mildly variable, its
+width is highly variable, and the two variations are unrelated. (2) Strong
+correlations are found among some extinction properties within the UV region,
+and within the IR region. (3) With the exception of a few curves with extreme
+(i.e., large) values of R(V), the UV and IR portions of Galactic extinction
+curves are not correlated with each other. (4) The large sightline-to-sightline
+variation seen in our sample implies that any average Galactic extinction curve
+will always reflect the biases of its parent sample. (5) The use of an average
+curve to deredden a spectral energy distribution (SED) will result in
+significant errors, and a realistic error budget for the dereddened SED must
+include the observed variance of Galactic curves. While the observed large
+sightline-to-sightline variations, and the lack of correlation among the
+various features of the curves, make it difficult to meaningfully characterize
+average extinction properties, they demonstrate that extinction curves respond
+sensitively to local conditions. Thus, each curve contains potentially unique
+information about the grains along its sightline.

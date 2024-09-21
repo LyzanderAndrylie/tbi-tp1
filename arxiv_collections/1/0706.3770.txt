@@ -1,0 +1,8 @@
+The studies of influence of spin on a photon motion in a Schwartzschild
+spacetime is continued. In the previous paper [2] the first order correction to
+the geodesic motion is reduced to a non-uniform linear ordinary differential
+equation and the equation obtained has been solved by the standard method of
+integration of the Green function. If each photon draws a world line specified
+by this solution then light rays from infinitely distant source form a caustic
+which does not appear without the spin-gravity interaction. The goal of the
+present work is to obtain explicit form of caustic.

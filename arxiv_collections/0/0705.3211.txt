@@ -1,0 +1,10 @@
+We present a new design of dielectric microcavities supporting modes with
+large quality factors and highly directional light emission. The key idea is to
+place a point scatterer inside a dielectric circular microdisk. We show that,
+depending on the position and strength of the scatterer, this leads to strongly
+directional modes in various frequency regions while preserving the high
+Q-factors reminiscent of the whispering gallery modes of the microdisk without
+scatterer. The design is very appealing due to its simplicity, promising a
+cleaner experimental realisation than previously studied microcavity designs on
+the one hand and analytic tractability based on Green's function techniques and
+self-adjoint extension theory on the other.

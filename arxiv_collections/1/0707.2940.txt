@@ -1,0 +1,10 @@
+Unlike standard quantum mechanics, dynamical reduction models assign no
+particular a priori status to `measurement processes', `apparata', and
+`observables', nor self-adjoint operators and positive operator valued measures
+enter the postulates defining these models. In this paper, we show why and how
+the Hilbert-space operator formalism, which standard quantum mechanics
+postulates, can be derived from the fundamental evolution equation of dynamical
+reduction models. Far from having any special ontological meaning, we show that
+within the dynamical reduction context the operator formalism is just a compact
+and convenient way to express the statistical properties of the outcomes of
+experiments.

@@ -1,0 +1,8 @@
+Decay constants of $P$-wave mesons are computed in the framework of
+instantaneous Bethe-Salpeter method (Salpeter method). By analyzing the parity
+and possible charge conjugation parity, we give the relativistic configurations
+of wave functions with definite parity and possible charge conjugation parity.
+With these wave functions as input, the full Salpeter equations for different
+$P$-wave states are solved, and the mass spectra as well as the numerical
+values of wave functions are obtained. Finally we compute the leptonic decay
+constants of heavy-heavy and heavy-light $^3P_0$, $^3P_1$ and $^1P_1$ states.

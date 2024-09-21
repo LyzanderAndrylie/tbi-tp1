@@ -1,0 +1,10 @@
+We report the first observation of changes in the electronic structure of
+La$_{1-x}$Sr$_{x}$MnO$_{3}$ (LSMO) across the filling-control metal-insulator
+(MI) transition by means of in situ angle-resolved photoemission spectroscopy
+(ARPES) of epitaxial thin films. The Fermi surface gradually disappears near
+the MI transition by transferring the spectral weight from the coherent band
+near the Fermi level ($E_{F}$) to the lower Hubbard band, whereas a pseudogap
+behavior also exists in the ARPES spectra in the close vicinity of $E_{F}$ for
+the metallic LSMO. These results indicate that the spectral weight transfer
+derived from strong electron-electron interaction dominates the gap formation
+in LSMO associated with the filling-control MI transition.

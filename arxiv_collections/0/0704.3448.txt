@@ -1,0 +1,20 @@
+We show that if the Riemann Hypothesis is true, then in a region containing
+most of the right-half of the critical strip, the Riemann zeta-function is well
+approximated by short truncations of its Euler product. Conversely, if the
+approximation by products is good in this region, the zeta-function has at most
+finitely many zeros in it. We then construct a parameterized family of
+non-analytic functions with this same property. With the possible exception of
+a finite number of zeros off the critical line, every function in the family
+satisfies a Riemann Hypothesis. Moreover, when the parameter is not too large,
+they have about the same number of zeros as the zeta-function, their zeros are
+all simple, and they "repel". The structure of these functions makes the reason
+for the simplicity and repulsion of their zeros apparent and suggests a
+mechanism that might be responsible for the corresponding properties of the
+zeta-function's zeros. Computer evidence suggests that the zeros of functions
+in the family are remarkably close to those of the zeta-function (even for
+small values of the parameter), and we show that they indeed converge to them
+as the parameter increases. Furthermore, between zeros of the zeta-function,
+the moduli of functions in the family tend to twice the modulus of the
+zeta-function. Both assertions assume the Riemann Hypothesis. We end by
+discussing analogues for other L-functions and show how they give insight into
+the study of the distribution of zeros of linear combinations of L-functions.

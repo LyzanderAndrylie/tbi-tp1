@@ -1,0 +1,9 @@
+All known QKD protocols require the parties to discard the results when they
+have chosen differen bases. In this paper we show that it is not necessary. We
+give examples of QKD protocols that are as safe as standard ones but do not
+involve the discarding the results when the bases are different or even that do
+not require the announcement of the bases. This leads to greater communication
+channel capacities and render some eavesdropping strategies useless but the
+most important thing is that they provide us better insight into the general
+structures that underlie the quantum cryptography and help to establish the
+boundaries of what is possible and what is not.

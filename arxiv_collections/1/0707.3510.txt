@@ -1,0 +1,20 @@
+We relax the usual diagonal constraint on the matrix representation of the
+eigenvalue wave equation by allowing it to be tridiagonal. This results in a
+larger solution space that incorporates an exact analytic solution for the
+non-central electric dipole potential cos(theta)/r^2, which was known not to
+belong to the class of exactly solvable potentials. As a result, we were able
+to obtain an exact analytic solution of the three-dimensional time-independent
+Schrodinger equation for a charged particle in the field of a point electric
+dipole that could carry a nonzero net charge. This problem models the
+interaction of an electron with a molecule (neutral or ionized) that has a
+permanent electric dipole moment. The solution is written as a series of square
+integrable functions that support a tridiagonal matrix representation for the
+angular and radial components of the wave operator. Moreover, this solution is
+for all energies, the discrete (for bound states) as well as the continuous
+(for scattering states). The expansion coefficients of the radial and angular
+components of the wavefunction are written in terms of orthogonal polynomials
+satisfying three-term recursion relations. For the Coulomb-free case, where the
+molecule is neutral, we calculate critical values for its dipole moment below
+which no electron capture is allowed. These critical values are obtained not
+only for the ground state, where it agrees with already known results, but also
+for excited states as well.

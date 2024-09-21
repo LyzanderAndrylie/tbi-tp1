@@ -1,0 +1,9 @@
+In this paper we develop a scientific approach to control inter-country
+conflict. This system makes use of a neural network and a feedback control
+approach. It was found that by controlling the four controllable inputs:
+Democracy, Dependency, Allies and Capability simultaneously, all the predicted
+dispute outcomes could be avoided. Furthermore, it was observed that
+controlling a single input Dependency or Capability also avoids all the
+predicted conflicts. When the influence of each input variable on conflict is
+assessed, Dependency, Capability, and Democracy emerge as key variables that
+influence conflict.

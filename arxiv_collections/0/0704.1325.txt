@@ -1,0 +1,14 @@
+We investigate the properties and evolution of accretion tori formed after
+the coalescence of two compact objects. At these extreme densities and
+temperatures, the accreting torus is cooled mainly by neutrino emission
+produced primarily by electron and positron capture on nucleons (beta
+reactions). We solve for the disc structure and its time evolution by
+introducing a detailed treatment of the equation of state which includes
+photodisintegration of helium, the condition of beta-equilibrium, and neutrino
+opacities. We self-consistently calculate the chemical equilibrium in the gas
+consisting of helium, free protons, neutrons and electron-positron pairs and
+compute the chemical potentials of the species, as well as the electron
+fraction throughout the disc. We find that, for sufficiently large accretion
+rates (> 10 solar masses per second), the inner regions of the disk become
+opaque and develop a viscous and thermal instability. The identification of
+this instability might be relevant for GRB observations.

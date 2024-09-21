@@ -1,0 +1,11 @@
+We study numerically the nonequilibrium dynamical behavior of an Ising model
+with mixed two-spin and four-spin interactions after a sudden quench from the
+high-temperature phase to the first-order phase transition point. The
+autocorrelation function is shown to approach its limiting value, given by the
+magnetization in the ordered phase at the transition point, m_c, through a
+stretched exponential decay. On the other hand relaxation of the magnetization
+starting with an uncorrelated initial state with magnetization, m_i, approaches
+either m_c, for m_i>0.5, or zero, for m_i<0.5. For small m_i and for m_i
+slightly larger than 0.5 the relaxation of the magnetization shows an
+asymptotic power-law time dependence, thus from a nonequilibrium point of view
+the transition is continuous.

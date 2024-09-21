@@ -1,0 +1,8 @@
+The electronic dispersion for Bi2Sr2CaCu2O(8+d) has been determined from
+angle-resolved photoelectron spectroscopy (ARPES). From this dispersion we
+calculate the entropy and superfluid density. Even with no adjustable
+parameters we obtain an exceptional match with experimental data across the
+entire phase diagram, thus indirectly confirming both the ARPES and
+thermodynamic data. The van Hove singularity is crossed in the overdoped region
+giving a distinctive linear-in-T temperature dependence in the superfluid
+density there.

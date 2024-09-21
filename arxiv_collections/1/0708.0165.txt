@@ -1,0 +1,8 @@
+In this paper, we introduce a family of robust estimates for the parametric
+and nonparametric components under a generalized partially linear model, where
+the data are modeled by $y_i|(\mathbf{x}_i,t_i)\sim F(\cdot,\mu_i)$ with
+$\mu_i=H(\eta(t_i)+\mathbf{x}_i^{$\mathrm{T}$}\beta)$, for some known
+distribution function F and link function H. It is shown that the estimates of
+$\beta$ are root-n consistent and asymptotically normal. Through a Monte Carlo
+study, the performance of these estimators is compared with that of the
+classical ones.

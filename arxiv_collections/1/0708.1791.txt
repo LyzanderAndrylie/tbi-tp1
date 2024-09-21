@@ -1,0 +1,17 @@
+The growth of actin filament networks is a fundamental biological process
+that drives a variety of cellular and intracellular motions. During motility,
+eukaryotic cells and intracellular pathogens are propelled by actin networks
+organized by nucleation-promoting factors, which trigger the formation of
+nascent filaments off the side of existing filaments in the network. A Brownian
+ratchet (BR) mechanism has been proposed to couple actin polymerization to
+cellular movements, whereby thermal motions are rectified by the addition of
+actin monomers at the end of growing filaments. Here, by following
+actin--propelled microspheres using three--dimensional laser tracking, we find
+that beads adhered to the growing network move via an object--fluctuating BR.
+Velocity varies with the amplitude of thermal fluctuation and inversely with
+viscosity as predicted for a BR. In addition, motion is saltatory with a broad
+distribution of step sizes that is correlated in time. These data point to a
+model in which thermal fluctuations of the microsphere or entire actin network,
+and not individual filaments, govern motility. This conclusion is supported by
+Monte Carlo simulations of an adhesion--based BR and suggests an important role
+for membrane tension in the control of actin--based cellular protrusions.

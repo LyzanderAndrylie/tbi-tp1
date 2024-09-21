@@ -1,0 +1,19 @@
+An equivalent-multishell approach for the approximate calculation of the
+characteristics of electromagnetic waves propagating in almost circular
+(azimuthally symmetric), closely packed bundles of parallel, identical, and
+metallic carbon nanotubes (CNTs) yields results in reasonably good agreement
+with a many-body technique, for infinitely long bundles when the number of CNTs
+is moderately high. The slow-wave coefficients for azimunthally symmetric
+guided waves increase with the number of metallic CNTs in the bundle, tending
+for thick bundles to unity, which is characteristic of macroscopic metallic
+wires. The existence of an azimuthally nonsymmetric guided wave at low
+frequencies in a bundle of a large number of finite-length CNTs stands in
+contrast to the characteristics of guided-wave propagation in a single CNT. The
+equivalent-multishell approach yields the polarizability scalar and the antenna
+efficiency of a bundle of finite-length CNTs in the long-wavelength regime over
+a wide frequency range spanning the terahertz and the near-infrared regimes.
+Edge effects give rise to geometric resonances in such bundles.
+  The antenna efficiency of a CNT bundle at the first resonance can exceed that
+of a single CNT by four orders of magnitude, which is promising for the design
+and development of CNT-bundle antennas and composite materials containing
+CNT-bundles as inclusions.

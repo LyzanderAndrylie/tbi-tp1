@@ -1,0 +1,22 @@
+We obtained the first long, homogenous time-series of V2104Cyg, consisting of
+679 datapoints, with the uvbybeta photometers of Sierra Nevada and San Pedro
+Martir Observatories with the aim to detect and subsequently interpret the
+intrinsic frequencies of this previously unstudied variable star, which turned
+out to be a Be star. We try to figure out its place among the variable B stars
+on the upper Main Sequence. In order to obtain additional information on
+physical parameters we collected a few spectra with the ELODIE and FIES
+instruments. We searched for frequencies in the uvby passbands using 2
+different frequency analysis methods and used the S/N>4 criterion to select the
+significant periodicities. We obtained an estimate of the physical parameters
+of the underlying B star of spectral type between B5 and B7, by correcting for
+the presence of a circumstellar disk, using a formalism based on the strenght
+of the Halpha line emission. We detected 3 independent frequencies with
+amplitudes below 0.01mag, f1 = 4.7126 c/d, f2 = 2.2342 c/d and f3 = 4.671 c/d,
+and discovered that V2104Cyg is a Be star. The fast rotation (vsini=290+/-10
+km/s, and 27<i<45) hampered the investigation of the associated pulsational
+parameters l. Nevertheless, the most plausible explanation for the observed
+variability of this mid-late type Be star is a non-radial pulsation model. This
+paper is based on observations obtained at the Observatorio Astronomico
+Nacional San Pedro Martir (Mexico), Observatorio de Sierra Nevada (Spain),
+Observatoire de Haute Provence (France), and on observations made with the
+Nordic Optical Telescope, Observatorio Roque de los Muchachos, La Palma, Spain.

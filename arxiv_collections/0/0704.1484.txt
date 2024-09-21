@@ -1,0 +1,11 @@
+One-time pad encrypted files can be sent through Internet channels using
+current Internet protocols. However, the need for renewing shared secret keys
+make this method unpractical. This work shows how users can use a fast physical
+random generator based on fluctuations of a light field and the Internet
+channel to directly boost key renewals. The transmitted signals are
+deterministic but carries imprinted noise that cannot be eliminated by the
+attacker. Thus, a one-time pad for Internet can be made practical. Security is
+achieved without third parties and not relying on the difficulty of factoring
+numbers in primes. An informational fragility to be avoided is discussed.
+Information-theoretic analysis is presented and bounds for secure operation are
+determined.

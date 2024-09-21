@@ -1,0 +1,14 @@
+A general nonperturbative theory of the low-energy electron propagator is
+developed and used to calculate the single-particle density of states in a
+variety of systems. This method involves the decoupling of the
+electron-electron interaction through a Hubbard-Stratonovich transformation,
+followed by a saddle-point approximation of the remaining functional integral.
+The final expression is found to be the tunneling analog of the infrared
+catastrophe that occurs in the x-ray edge problem; here, the host system
+responds to the potential produced by the abrupt addition of an electron during
+a tunneling event. This response can lead to a suppression in the tunneling
+density of states near the Fermi energy. This method is adaptable to lattice or
+continuum models of any dimensionality, with or without translational
+invariance. When applied, the exact density of states is obtained for the
+Tomonaga-Luttinger model, and the pseudogap of a fractional quantum Hall fluid
+is recovered.

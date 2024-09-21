@@ -1,0 +1,10 @@
+A recent, major, puzzle in the core-level photoemission spectra of doped
+manganites is the observation of a 1-2 eV wide shoulder with intensity varying
+with temperature T as the square of the magnetization over a T scale of order
+200K, an order of magnitude less than electronic energies. This is addressed
+and resolved here, by extending a recently proposed two electron fluid l-b
+model for these systems to include core-hole effects. The shoulder arises from
+a rapid redistribution of e_g electron density, as a function of T, between the
+highly localized (l) and band-like (b) states. Furthermore, our theory leads to
+a correspondence between spectral changes due to increasing doping and
+decreasing T, as experimentally observed.

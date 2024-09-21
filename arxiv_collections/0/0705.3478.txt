@@ -1,0 +1,24 @@
+HET optical spectroscopy and unfiltered ROTSE-III photometry spanning the
+first 11 months since explosion of the Type II-P SN 2006bp are presented. Flux
+limits from the days before discovery combined with the initial rapid
+brightening suggest the supernova was first detected just hours after shock
+breakout. Optical spectra obtained about 2 days after breakout exhibit narrow
+emission lines corresponding to HeII 4200, HeII 4686, and CIV 5805 in the rest
+frame, and these features persist in a second observation obtained 5 hours
+later; however, these emission lines are not detected the following night nor
+in subsequent observations. We suggest that these lines emanate from material
+close to the explosion site, possibly in the outer layers of the progenitor
+that have been ionized by the high energy photons released at shock breakout. A
+P-Cygni profile is observed around 4450 A in the +2 and +3 day spectra.
+Previous studies have attributed this feature to high velocity H-beta, but we
+discuss the possibility that this profile is instead due to HeII 4687. Further
+HET observations (14 nights in total) covering the spectral evolution across
+the photometric plateau up to 73 days after breakout and during the nebular
+phase around day +340 are presented, and expansion velocities are derived for
+key features. The measured decay slope for the unfiltered light curve is 0.0073
++/- 0.0004 mag/day between days +121 and +335, which is significantly slower
+than the decay of rate 56Co. We combine our HET measurements with published
+X-ray, UV, and optical data to obtain a quasi-bolometric light curve through
+day +60. We see a slow cooling over the first 25 days, but no sign of an early
+sharp peak; any such feature from the shock breakout must have lasted less than
+~1 day.[ABRIDGED]

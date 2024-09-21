@@ -1,0 +1,8 @@
+We show that Fourier transforms on the Weyl algebras have a geometric
+counterpart in the framework of toric varieties, namely they induce
+isomorphisms between twisted rings of differential operators on regular toric
+varieties, whose fans are related to each other by reflections of
+one-dimensional cones. The simplest class of examples is provided by the toric
+varieties related by such reflections to projective spaces. It includes the
+blow-up at a point in affine space and resolution of singularities of varieties
+appearing in the study of the minimal orbit of sl(n+1).

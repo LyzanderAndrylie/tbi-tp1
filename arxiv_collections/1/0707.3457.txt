@@ -1,0 +1,15 @@
+A generalized information formula related to logical probability and fuzzy
+set is deduced from the classical information formula. The new information
+measure accords with to Popper's criterion for knowledge evolution very much.
+In comparison with square error criterion, the information criterion does not
+only reflect error of a proposition, but also reflects the particularity of the
+event described by the proposition. It gives a proposition with less logical
+probability higher evaluation. The paper introduces how to select a prediction
+or sentence from many for forecasts and language translations according to the
+generalized information criterion. It also introduces the rate fidelity theory,
+which comes from the improvement of the rate distortion theory in the classical
+information theory by replacing distortion (i.e. average error) criterion with
+the generalized mutual information criterion, for data compression and
+communication efficiency. Some interesting conclusions are obtained from the
+rate-fidelity function in relation to image communication. It also discusses
+how to improve Popper's theory.

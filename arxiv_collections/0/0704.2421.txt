@@ -1,0 +1,9 @@
+We introduce a convenient parametrization of dark energy models that is
+general enough to include several modified gravity models and generalized forms
+of dark energy. In particular we take into account the linear perturbation
+growth factor, the anisotropic stress and the modified Poisson equation. We
+discuss the sensitivity of large scale weak lensing surveys like the proposed
+DUNE satellite to these parameters. We find that a large-scale weak-lensing
+tomographic survey is able to easily distinguish the Dvali-Gabadadze-Porrati
+model from LCDM and to determine the perturbation growth index to an absolute
+error of 0.02-0.03.

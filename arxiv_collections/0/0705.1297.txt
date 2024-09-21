@@ -1,0 +1,12 @@
+We develop a pricing rule for life insurance under stochastic mortality in an
+incomplete market by assuming that the insurance company requires compensation
+for its risk in the form of a pre-specified instantaneous Sharpe ratio. Our
+valuation formula satisfies a number of desirable properties, many of which it
+shares with the standard deviation premium principle. The major result of the
+paper is that the price per contract solves a linear partial differential
+equation as the number of contracts approaches infinity. One can interpret the
+limiting price as an expectation with respect to an equivalent martingale
+measure. Another important result is that if the hazard rate is stochastic,
+then the risk-adjusted premium is greater than the net premium, even as the
+number of contracts approaches infinity. We present a numerical example to
+illustrate our results, along with the corresponding algorithms.

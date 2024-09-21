@@ -1,0 +1,8 @@
+We demonstrate the existence of entanglement sudden death (ESD), the complete
+loss of entanglement in finite time, in qubit-qutrit systems. In particular,
+ESD is shown to occur in such systems initially prepared in a one-parameter
+class of entangled mixed states and then subjected to local dephasing noise.
+Together with previous results, this proves the existence of ESD for some
+states in all quantum systems for which rigorously defined mixed-state
+entanglement measures have been identified. We conjecture that ESD exists in
+all quantum systems prepared in appropriate bipartite states.

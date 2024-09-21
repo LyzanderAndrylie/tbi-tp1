@@ -1,0 +1,7 @@
+We show that a fairly arbitrary Frechet space topology on the space of
+holomorphic functions on a domain controls the topology of uniform convergence
+on compact sets.
+  In fact it turns out that the result we present can be proved more simply
+using the closed graph theorem. However, we believe that the techniques
+presented here may be used to prove a more interesting result. Details to
+appear later.

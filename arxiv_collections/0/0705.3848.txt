@@ -1,0 +1,12 @@
+A comprehensive statistical model is developed for vertical profiles of the
+horizontal wind and temperature throughout the troposphere based on
+several-years radiosonde measurements of strong winds. The profiles measured
+under quite different atmospheric conditions exhibit qualitative similarity. A
+proper choice of the reference scales for the wind, temperature and altitude
+levels allow us to consider the measurement data as realizations of a random
+process with universal characteristics: means, the basic functions and
+parameters of standard distributions for transform coefficients of the
+Principal Component Analysis. The features of the atmospheric conditions are
+described by statistical characteristics of the wind-temperature ensemble of
+dimensional reference scales. The model can be useful for air pollution and
+safety in high-risk areas such as chemical and nuclear plants.

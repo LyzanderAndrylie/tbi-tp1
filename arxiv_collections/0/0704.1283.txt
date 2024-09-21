@@ -1,0 +1,8 @@
+We propose a novel experimental probe for cold atomic gases analogous to the
+scanning tunnelling microscope (STM) in condensed matter. This probe uses the
+coherent coupling of a single particle to the system. Depending on the
+measurement sequence, our probe allows to either obtain the \emph{local}
+density, with a resolution on the nanometer scale, or the single particle
+correlation function in real time. We discuss applications of this scheme to
+the various possible phases for a two dimensional Hubbard system of fermions in
+an optical lattice.

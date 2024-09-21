@@ -1,0 +1,6 @@
+In an ensemble of non-interacting Brownian particles, a finite systematic
+average velocity may temporarily develop, even if it is zero initially. The
+effect originates from a small nonlinear correction to the dissipative force,
+causing the equation for the first moment of velocity to couple to moments of
+higher order. The effect may be relevant when a complex system dissociates in a
+viscous medium with conservation of momentum.

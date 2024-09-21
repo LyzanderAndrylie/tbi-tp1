@@ -1,0 +1,12 @@
+We present an approach which enables to identify phase synchronization in
+coupled chaotic oscillators without having to explicitly measure the phase. We
+show that if one defines a typical event in one oscillator and then observes
+another one whenever this event occurs, these observations give rise to a
+localized set. Our result provides a general and easy way to identify PS, which
+can also be used to oscillators that possess multiple time scales. We
+illustrate our approach in networks of chemically coupled neurons. We show that
+clusters of phase synchronous neurons may emerge before the onset of phase
+synchronization in the whole network, producing a suitable environment for
+information exchanging. Furthermore, we show the relation between the localized
+sets and the amount of information that coupled chaotic oscillator can
+exchange.

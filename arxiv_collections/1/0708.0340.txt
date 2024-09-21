@@ -1,0 +1,24 @@
+The class of the Generalized Coherent Potential Approximations (GCPA) to the
+Density Functional Theory (DFT) is introduced within the Multiple Scattering
+Theory formalism for dealing with, ordered or disordered, metallic alloys. All
+GCPA theories are based on a common ansatz for the kinetic part of the
+Hohenberg-Kohn functional and each theory of the class is specified by an
+external model concerning the potential reconstruction. The GCPA density
+functional consists of marginally coupled local contributions, does not depend
+on the details of the charge density and can be exactly rewritten as a function
+of the appropriate charge multipole moments associated with each lattice site.
+A general procedure based on the integration of the 'qV' laws is described that
+allows for the explicit construction the same function. The coarse grained
+nature of the GCPA density functional implies great computational advantages
+and is connected with the O(N) scalability of GCPA algorithms. Moreover, it is
+shown that a convenient truncated series expansion of the GCPA functional leads
+to the Charge Excess Functional (CEF) theory [E. Bruno, L. Zingales and Y.
+Wang, Phys. Rev. Lett. {\bf 91}, 166401 (2003)] which here is offered in a
+generalized version that includes multipolar interactions. CEF and the GCPA
+numerical results are compared with status of art LAPW full-potential density
+functional calculations for 62, bcc- and fcc-based, ordered CuZn alloys, in all
+the range of concentrations. These extensive tests show that the discrepancies
+between GCPA and CEF are always within the numerical accuracy of the
+calculations, both for the site charges and the total energies. Furthermore,
+GCPA and CEF very carefully reproduce the LAPW site charges and the total
+energy trends.

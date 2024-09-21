@@ -1,0 +1,20 @@
+In this work, we derive a coarse-grained finite-temperature theory for a Bose
+condensate in a one-dimensional optical lattice, in addition to a confining
+harmonic trap potential. We start from a two-particle irreducible (2PI)
+effective action on the Schwinger-Keldysh closed-time contour path. In
+principle, this action involves all information of equilibrium and
+non-equilibrium properties of the condensate and noncondensate atoms. By
+assuming an ansatz for the variational function, i.e., the condensate order
+parameter in an effective action, we derive a coarse-grained effective action,
+which describes the dynamics on the length scale much longer than a lattice
+constant. Using the variational principle, coarse-grained equations of motion
+for the condensate variables are obtained. These equations include a
+dissipative term due to collisions between condensate and noncondensate atoms,
+as well as noncondensate mean-field. To illustrate the usefulness of our
+formalism, we discuss a Landau instability of the condensate in optical
+lattices by using the coarse-grained generalized Gross-Pitaevskii
+hydrodynamics. We found that the collisional damping rate due to collisions
+between the condensate and noncondensate atoms changes sign when the condensate
+velocity exceeds a renormalized sound velocity, leading to a Landau instability
+consistent with the Landau criterion. Our results in this work give an insight
+into the microscopic origin of the Landau instability.

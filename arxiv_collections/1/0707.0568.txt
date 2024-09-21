@@ -1,0 +1,24 @@
+In this two-parts paper we propose a decentralized strategy, based on a
+game-theoretic formulation, to find out the optimal precoding/multiplexing
+matrices for a multipoint-to-multipoint communication system composed of a set
+of wideband links sharing the same physical resources, i.e., time and
+bandwidth. We assume, as optimality criterion, the achievement of a Nash
+equilibrium and consider two alternative optimization problems: 1) the
+competitive maximization of mutual information on each link, given constraints
+on the transmit power and on the spectral mask imposed by the radio spectrum
+regulatory bodies; and 2) the competitive maximization of the transmission
+rate, using finite order constellations, under the same constraints as above,
+plus a constraint on the average error probability. In Part I of the paper, we
+start by showing that the solution set of both noncooperative games is always
+nonempty and contains only pure strategies. Then, we prove that the optimal
+precoding/multiplexing scheme for both games leads to a channel diagonalizing
+structure, so that both matrix-valued problems can be recast in a simpler
+unified vector power control game, with no performance penalty. Thus, we study
+this simpler game and derive sufficient conditions ensuring the uniqueness of
+the Nash equilibrium. Interestingly, although derived under stronger
+constraints, incorporating for example spectral mask constraints, our
+uniqueness conditions have broader validity than previously known conditions.
+Finally, we assess the goodness of the proposed decentralized strategy by
+comparing its performance with the performance of a Pareto-optimal centralized
+scheme. To reach the Nash equilibria of the game, in Part II, we propose
+alternative distributed algorithms, along with their convergence conditions.

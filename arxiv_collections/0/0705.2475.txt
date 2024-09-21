@@ -1,0 +1,7 @@
+We study synchronization properties of general uncoupled limit-cycle
+oscillators driven by common and independent Gaussian white noises. Using phase
+reduction and averaging methods, we analytically derive the stationary
+distribution of the phase difference between oscillators for weak noise
+intensity. We demonstrate that in addition to synchronization, clustering, or
+more generally coherence, always results from arbitrary initial conditions,
+irrespective of the details of the oscillators.

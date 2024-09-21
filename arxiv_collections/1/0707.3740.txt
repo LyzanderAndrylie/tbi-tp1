@@ -1,0 +1,6 @@
+We calculate meson correlators in the epsilon-regime within partially
+quenched chiral perturbation theory. The valence quark masses and sea quark
+masses can be chosen arbitrary and all non-degenerate. Taking some of the sea
+quark masses to infinity, one obtains a smooth connection among the theories
+with different number of flavors, as well as the quenched theory. These results
+can be directly compared with lattice QCD simulations.

@@ -1,0 +1,7 @@
+We characterize the capacity of the general class of noncoherent underspread
+wide-sense stationary uncorrelated scattering (WSSUS) time-frequency-selective
+Rayleigh fading channels, under peak constraints in time and frequency and in
+time only. Capacity upper and lower bounds are found which are explicit in the
+channel's scattering function and allow to identify the capacity-maximizing
+bandwidth for a given scattering function and a given peak-to-average power
+ratio.

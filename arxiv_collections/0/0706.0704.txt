@@ -1,0 +1,18 @@
+"Einstein-aether" theory is a generally covariant theory of gravity
+containing a dynamical preferred frame. This article continues an examination
+of effects on the motion of binary pulsar systems in this theory, by
+incorporating effects due to strong fields in the vicinity of neutron star
+pulsars. These effects are included through an effective approach, by treating
+the compact bodies as point particles with nonstandard, velocity dependent
+interactions parametrized by dimensionless "sensitivities". Effective
+post-Newtonian equations of motion for the bodies and the radiation damping
+rate are determined. More work is needed to calculate values of the
+sensitivities for a given fluid source, so precise constraints on the theory's
+coupling constants cannot yet be stated. It is shown, however, that strong
+field effects will be negligible given current observational uncertainties if
+the dimensionless couplings are less than roughly 0.01 and two conditions that
+match the PPN parameters to those of pure general relativity are imposed. In
+this case, weak field results suffice and imply one further condition on the
+couplings. Thus, there exists a one-parameter family of Einstein-aether
+theories with "small-enough" couplings that passes all current observational
+tests. No conclusion can yet be reached for large couplings.

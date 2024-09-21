@@ -1,0 +1,14 @@
+Let P(z) and Q(y) be polynomials of the same degree k>=1 in the complex
+variables z and y, respectively. In this extended abstract we study the
+non-linear functional equation P(z)=Q(y(z)), where y(z) is restricted to be
+analytic in a neighborhood of z=0. We provide sufficient conditions to ensure
+that all the roots of Q(y) are contained within the range of y(z) as well as to
+have y(z)=z as the unique analytic solution of the non-linear equation. Our
+results are motivated from uniqueness considerations of polynomial canonical
+representations of the phase or amplitude terms of oscillatory integrals
+encountered in the asymptotic analysis of the coefficients of mixed powers and
+multivariable generating functions via saddle-point methods. Uniqueness shall
+prove important for developing algorithms to determine the Taylor coefficients
+of the terms appearing in these representations. The uniqueness of Levinson's
+polynomial canonical representations of analytic functions in several variables
+follows as a corollary of our one-complex variables results.

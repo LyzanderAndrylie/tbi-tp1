@@ -1,0 +1,17 @@
+Inversion symmetry breaking allows contrasted circular dichroism in different
+k-space regions, which takes the extreme form of optical selection rules for
+interband transitions at high symmetry points. In materials where band-edges
+occur at noncentral valleys, this enables valley dependent interplay of
+electrons with light of different circular polarizations, in analogy to spin
+dependent optical activities in semiconductors. This discovery is in perfect
+harmony with the previous finding of valley contrasted Bloch band features of
+orbital magnetic moment and Berry curvatures from inversion symmetry breaking
+[Phys. Rev. Lett. 99, 236809 (2007)]. A universal connection is revealed
+between the k-resolved optical oscillator strength of interband transitions,
+the orbital magnetic moment and the Berry curvatures, which also provides a
+principle for optical measurement of orbital magnetization and intrinsic
+anomalous Hall conductivity in ferromagnetic systems. The general physics is
+demonstrated in graphene where inversion symmetry breaking leads to valley
+contrasted optical selection rule for interband transitions. We discuss
+graphene based valley optoelectronics applications where light polarization
+information can be interconverted with electronic information.

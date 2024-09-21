@@ -1,0 +1,9 @@
+We find and study a six (resp. seven, eight)-parameter family of polynomial
+Hamiltonian systems of second order, respectively. This system admits the
+affine Weyl group symmetry of type $E_6^{(1)}$ (resp. $E_7^{(1)}, E_8^{(1)}$)
+as the group of its B{\"a}cklund transformations. Each system is the first
+example which gave second-order polynomial Hamiltonian system with ${\tilde
+W}(E_6^{(1)})$ (resp. ${\tilde W}(E_7^{(1)}), W(E_8^{(1)})$)-symmetry.
+  We also show that its space of initial conditions $S$ is obtained by gluing
+eight (resp. nine, ten) copies of ${\Bbb C}^2$ via the birational and
+symplectic transformations.

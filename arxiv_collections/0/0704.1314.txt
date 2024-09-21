@@ -1,0 +1,8 @@
+We show that full-image micro-PIV analysis in combination with images of
+transient particle motion is a powerful tool for experimental studies of
+acoustic radiation forces and acoustic streaming in microfluidic chambers under
+piezo-actuation in the MHz range. The measured steady-state motion of both
+large 5 um and small 1 um particles can be understood in terms of the acoustic
+eigenmodes or standing ultra-sound waves in the given experimental
+microsystems. This interpretation is supported by numerical solutions of the
+corresponding acoustic wave equation.

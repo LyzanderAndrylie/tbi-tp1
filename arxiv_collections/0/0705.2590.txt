@@ -1,0 +1,12 @@
+The low-luminosity black hole Sgr A* provides a testbed for models of
+Radiatively Inefficient Accretion Flows (RIAFs). Recent sub-millimeter linear
+polarization measurements of Sgr A* have provided evidence that the electrons
+in the accretion flow are relativistic over a large range of radii. Here, we
+show that these high temperatures result in elliptical plasma normal modes.
+Thus, polarized millimeter and sub-millimeter radiation emitted within RIAFs
+will undergo generalized Faraday rotation, a cyclic conversion between linear
+and circular polarization. This effect will not depolarize the radiation even
+if the rotation measure is extremely high. Rather, the beam will take on the
+linear and circular polarization properties of the plasma normal modes. As a
+result, polarization measurements of Sgr A* in this frequency regime will
+constrain the temperature, density and magnetic profiles of RIAF models.

@@ -1,0 +1,14 @@
+We introduce and study the notion of relative rigidity for pairs $(X,\JJ)$
+where 1) $X$ is a hyperbolic metric space and $\JJ$ a collection of quasiconvex
+sets 2) $X$ is a relatively hyperbolic group and $\JJ$ the collection of
+parabolics 3) $X$ is a higher rank symmetric space and $\JJ$ an equivariant
+collection of maximal flats Relative rigidity can roughly be described as
+upgrading a uniformly proper map between two such $\JJ$'s to a quasi-isometry
+between the corresponding $X$'s.
+  A related notion is that of a $C$-complex which is the adaptation of a Tits
+complex to this context. We prove the relative rigidity of the collection of
+pairs $(X, \JJ)$ as above. This generalises a result of Schwarz for symmetric
+patterns of geodesics in hyperbolic space. We show that a uniformly proper map
+induces an isomorphism of the corresponding $C$-complexes. We also give a
+couple of characterizations of quasiconvexity. of subgroups of hyperbolic
+groups on the way.

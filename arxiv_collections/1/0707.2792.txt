@@ -1,0 +1,10 @@
+We study a protocol in which many parties use quantum communication to
+transfer a shared state to a receiver without communicating with each other.
+This protocol is a multiparty version of the fully quantum Slepian-Wolf
+protocol for two senders and arises through the repeated application of the
+two-sender protocol. We describe bounds on the achievable rate region for the
+distributed compression problem. The inner bound arises by expressing the
+achievable rate region for our protocol in terms of its vertices and extreme
+rays and, equivalently, in terms of facet inequalities. We also prove an outer
+bound on all possible rates for distributed compression based on the multiparty
+squashed entanglement, a measure of multiparty entanglement.

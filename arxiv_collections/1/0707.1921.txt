@@ -1,0 +1,16 @@
+We present classical and quantum mechanical descriptions of lattice dynamics,
+from the atomic to the continuum scale, using atomic scale symmetry modes and
+their constraint equations. This approach is demonstrated for a one-dimensional
+chain and a two-dimensional square lattice with a monatomic basis. For the
+classical description, we find that rigid modes, in addition to the
+distortional modes found before, are necessary to describe the kinetic energy.
+The long wavelength limit of the kinetic energy terms expressed in terms of
+atomic scale modes is shown to be consistent with the continuum theory, and the
+leading order corrections are obtained. For the quantum mechanical description,
+we find conjugate momenta for the atomic scale symmetry modes. In direct space,
+graphical rules for their commutation relations are obtained. Commutation
+relations in the reciprocal space are also calculated. As an example, phonon
+modes are analyzed in terms of symmetry modes. We emphasize that the approach
+based on atomic scale symmetry modes could be useful, for example, for the
+description of multiscale lattice dynamics and the dynamics near structural
+phase transition.

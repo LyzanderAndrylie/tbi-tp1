@@ -1,0 +1,11 @@
+Of the nearby transiting exoplanets that are amenable to detailed study,
+TrES-2 is both the most massive and has the largest impact parameter. We
+present z-band photometry of three transits of TrES-2. We improve upon the
+estimates of the planetary, stellar, and orbital parameters, in conjunction
+with the spectroscopic analysis of the host star by Sozzetti and co-workers. We
+find the planetary radius to be 1.222 +/- 0.038 R_Jup and the stellar radius to
+be 1.003 +/- 0.027 R_Sun. The quoted uncertainties include the systematic error
+due to the uncertainty in the stellar mass (0.980 +/- 0.062 M_Sun). The timings
+of the transits have an accuracy of 25s and are consistent with a uniform
+period, thus providing a baseline for future observations with the NASA Kepler
+satellite, whose field of view will include TrES-2.

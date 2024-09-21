@@ -1,0 +1,18 @@
+We expand on our earlier work (cond-mat/0612130, Phys. Rev. Lett. {\bf 99},
+46404 (2007)) in which we constructed the exact low-energy theory of a doped
+Mott insulator by explicitly integrating (rather than projecting) out the
+degrees of freedom far away from the chemical potential. The exact low-energy
+theory contains degrees of freedom that cannot be obtained from projective
+schemes. In particular a new charge $\pm 2e$ bosonic field emerges at low
+energies that is not made out of elemental excitations. Such a field accounts
+for dynamical spectral weight transfer across the Mott gap. At half-filling, we
+show that two such excitations emerge which play a crucial role in preserving
+the Luttinger surface along which the single-particle Green function vanishes.
+In addition, the interactions with the bosonic fields defeat the artificial
+local SU(2) symmetry that is present in the Heisenberg model. We also apply
+this method to the Anderson-U impurity and show that in addition to the Kondo
+interaction, bosonic degrees of freedom appear as well. Finally, we show that
+as a result of the bosonic degree of freedom, the electron at low energies is
+in a linear superposition of two excitations--one arising from the standard
+projection into the low-energy sector and the other from the binding of a hole
+and the boson.

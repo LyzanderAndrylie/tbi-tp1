@@ -1,0 +1,15 @@
+We have measured the linear dielectric susceptibility of two molecular glass
+formers close to Tg in order to estimate the size of the dynamically correlated
+clusters of molecules which are expected to govern the physics of glass
+formation. This size has been shown to be related to the dynamic dielectric
+susceptibility dEps(w)/dT (Eps : dielectric susceptibility, T : temperature,
+w&#61472;: frequency). To allow for an accurate determination of the T
+derivative, we scanned the interval 192 < T < 232 K every 1 K for glycerol and
+159 < T < 179 K every 0.5 K for propylene carbonate. The resolution on T
+variations was about 1 mK. The result for glycerol is that the number of
+correlated molecules increases by a factor 3 when T goes from 226 to 195 K. It
+has been shown that the non-linear susceptibility provides a direct measurement
+of dynamic correlations. To measure it, we used a standard Lockin technique
+yielding the third harmonic of the current flowing out of a capacitor. We
+obtained only an upper limit on the ratio of the third to the first harmonic,
+due to the non-linear response of standard electronics.

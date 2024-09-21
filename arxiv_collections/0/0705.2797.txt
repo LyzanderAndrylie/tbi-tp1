@@ -1,0 +1,11 @@
+We present the first study of treating b, c, and s quarks as Dirac fermions
+in lattice QCD with exact chiral symmetry. For 100 gauge configurations
+generated with single-plaquette action at beta = 7.2 on the 32^3 x 60 lattice,
+we compute point-to-point quark propagators for 33 quark masses in the range
+0.01 < m_q a < 0.85, and measure the time-correlation function of
+(pseudo-)scalar, (pseudo-)vector, and tensor mesons, for symmetric and
+asymmetric quark masses respectively. The lowest-lying mass spectra of mesons
+with quark contents b_bbar, c_bbar, s_bbar, and c_cbar are determined, together
+with the pseudoscalar decay constants. Our results are sumarized in Tables 1-5.
+Furthermore, we also determine the b and c quark masses in the MS_bar scheme,
+m_b = 4.65(5) GeV, and m_c = 1.16(4) GeV.

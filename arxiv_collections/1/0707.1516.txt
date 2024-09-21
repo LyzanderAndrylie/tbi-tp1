@@ -1,0 +1,7 @@
+We present ab-initio calculations for 3H, 4He, 16O, and 40Ca based on
+two-nucleon low-momentum interactions Vlowk within coupled-cluster theory. For
+3H and 4He, our results are within 70 keV and 10 keV of the corresponding
+Faddeev and Faddeev-Yakubovsky energies. We study in detail the convergence
+with respect to the size of the model space and the single-particle basis. For
+the heavier nuclei, we report practically converged binding energies and
+compare with other approaches.

@@ -1,0 +1,12 @@
+In the present paper problem of vortex images in annular domain between two
+coaxial cylinders is solved by the q-elementary functions. We show that all
+images are determined completely as poles of the q-logarithmic function, where
+dimensionless parameter $q = r^2_2/r^2_1$ is given by square ratio of the
+cylinder radii. Resulting solution for the complex potential is represented in
+terms of the Jackson q-exponential function. By composing pairs of q-exponents
+to the first Jacobi theta function and conformal mapping to a rectangular
+domain we link our solution with result of Johnson and McDonald. We found that
+one vortex cannot remain at rest except at the geometric mean distance, but
+must orbit the cylinders with constant angular velocity related to q-harmonic
+series. Vortex images in two particular geometries in the $q \to \infty$ limit
+are studied.

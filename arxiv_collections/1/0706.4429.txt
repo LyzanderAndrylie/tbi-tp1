@@ -1,0 +1,7 @@
+We report an observation of the decay $B^0\to D^{*-} \tau^+ \nu_{\tau}$ in a
+data sample containing $535\times10^6$ $B\bar{B}$ pairs collected with the
+Belle detector at the KEKB asymmetric-energy $e^+e^-$ collider. We find a
+signal with a significance of 5.2 standard deviations and measure the branching
+fraction $\mathcal{B}(B^0\to D^{*-} \tau ^+ \nu_{\tau})=(2.02 ^{+0.40}_{-0.37}
+(stat) \pm 0.37 (syst)) % $. This is the first observation of an exclusive $B$
+decay with a $b \to c \tau \nu_{\tau}$ transition.

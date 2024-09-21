@@ -1,0 +1,6 @@
+We propose an optimal discrimination scheme for a case of four linearly
+independent nonorthogonal symmetric quantum states, based on linear optics
+only. The probability of discrimination is in agreement with the optimal
+probability for unambiguous discrimination among N symmetric states [Phys.
+Lett. A \textbf{250}, 223 (1998)]. The experimental setup can be extended for
+the case of discrimination among $2^M$ nonorthogonal symmetric quantum states.

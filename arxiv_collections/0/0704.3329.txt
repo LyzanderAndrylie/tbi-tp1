@@ -1,0 +1,17 @@
+We calculate the CP-violating ratio epsilon'/epsilon in the Littlest Higgs
+model with T-parity (LHT) and investigate its correlations with the branching
+ratios for K_L -> pi^0 nu {bar nu}, K_L -> pi^0 l^+ l^- and K^+ -> pi^+ nu {bar
+nu}. The resulting correlations are rather strong in the case of K_L decays,
+but less pronounced in the case of K^+ -> pi^+ nu {bar nu}. Unfortunately, they
+are subject to large hadronic uncertainties present in epsilon'/epsilon, whose
+theoretical prediction in the Standard Model (SM) is reviewed and updated here.
+With the matrix elements of Q_6 (gluon penguin) and Q_8 (electroweak penguin)
+evaluated in the large-N limit and m_s^MS(2 GeV) = 100 MeV from lattice QCD,
+(epsilon'/epsilon)_SM turns out to be close to the data so that significant
+departures of Br(K_L -> pi^0 nu {bar nu}) and Br(K_L -> pi^0 l^+ l^-) from the
+SM expectations are unlikely, while Br(K^+ -> pi^+ nu {bar nu}) can be enhanced
+even by a factor 5. On the other hand, modest departures of the relevant
+hadronic matrix elements from their large-N values allow for a consistent
+description of epsilon'/epsilon within the LHT model accompanied by large
+enhancements of Br(K_L -> pi^0 nu {bar nu}) and Br(K_L -> pi^0 l^+ l^-), but
+only modest enhancements of Br(K^+ -> pi^+ nu {bar nu}).

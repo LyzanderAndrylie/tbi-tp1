@@ -1,0 +1,8 @@
+Systems showing resonant superfluidity, driven by an exchange coupling of
+strength $g$ between uncorrelated pairs of itinerant fermions and tightly bound
+ones, undergo a first order phase transition as $g$ increases beyond some
+critical value $g_c$. The superfluid phase for $g \leq g_c$ is characterized by
+a gap in the fermionic single particle spectrum and an acoustic sound-wave like
+collective mode of the bosonic resonating fermion pairs inside this gap. For
+$g>g_c$ this state gives way to a phase uncorrelated bosonic liquid with a
+$q^2$ spectrum.

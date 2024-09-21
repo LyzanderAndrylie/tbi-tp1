@@ -1,0 +1,11 @@
+We theoretically explore the possibility of a superconducting proximity
+effect in single-walled metallic carbon nanotubes due to the presence of a
+superconducting substrate. An unconventional double-gap situation can arise in
+the two bands for nanotubes of large radius wherein the tunneling is (almost)
+symmetric in the two sublattices. In such a case, a proximity effect can take
+place in the symmetric band below a critical experimentally-accessible Coulomb
+interaction strength in the nanotube. Furthermore, due to interactions in the
+nanotube, the appearance of a BCS gap in this band stabilizes superconductivity
+in the other band at lower temperatures. We also discuss the scenario of highly
+asymmetric tunneling and show that this case too supports double-gap
+superconductivity.

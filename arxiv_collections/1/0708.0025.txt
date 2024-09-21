@@ -1,0 +1,7 @@
+We give a goal-oriented a posteriori error estimator for the
+atomistic-continuum modeling error in the quasicontinuum method, and we use
+this estimator to design an adaptive algorithm to compute a quantity of
+interest to a given tolerance by using a nearly minimal number of atomistic
+degrees of freedom. We present computational results that demonstrate the
+effectiveness of our algorithm for a periodic array of dislocations described
+by a Frenkel-Kontorova type model.

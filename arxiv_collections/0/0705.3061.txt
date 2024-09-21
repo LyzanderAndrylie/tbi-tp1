@@ -1,0 +1,8 @@
+We develop a method for measuring and localizing homology classes. This
+involves two problems. First, we define relevant notions of size for both a
+homology class and a homology group basis, using ideas from relative homology.
+Second, we propose an algorithm to compute the optimal homology basis, using
+techniques from persistent homology and finite field algebra. Classes of the
+computed optimal basis are localized with cycles conveying their sizes. The
+algorithm runs in $O(\beta^4 n^3 \log^2 n)$ time, where $n$ is the size of the
+simplicial complex and $\beta$ is the Betti number of the homology group.

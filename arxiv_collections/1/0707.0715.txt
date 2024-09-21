@@ -1,0 +1,11 @@
+Two-component submonolayer growth on triangular lattice is qualitatively
+studied by kinetic Monte Carlo techniques. The hopping barrier governing
+surface diffusion of the atoms is estimated with an improved formula and using
+realistic pair interaction potentials. Realistic degrees of freedoms enhancing
+the surface diffusion of atoms are also introduced. The main advantages of the
+presented technique are the reduced number of free parameters and the clear
+diffusion activated mechanism for the segregation of different types of atoms.
+The potential of this method is exemplified by reproducing (i) vacancy and
+stacking fault related phase-boundary creation and dynamics; (ii) a special
+co-deposition and segregation process where the segregated atoms of the second
+component surrounds the islands formed by the first type of atoms.

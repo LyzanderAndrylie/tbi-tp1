@@ -1,0 +1,5 @@
+We give a status report on the determination of a set of parton distributions
+based on neural networks. In particular, we summarize the determination of the
+nonsinglet quark distribution up to NNLO, we compare it with results obtained
+using other approaches, and we discuss its use for a determination of
+$\alpha_s$.

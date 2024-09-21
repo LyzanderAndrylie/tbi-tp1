@@ -1,0 +1,13 @@
+We report magnetization, nuclear magnetic resonance (NMR), nuclear quadrupole
+resonance (NQR), and transmission electron microscopy (TEM) studies on the
+quasi-two-dimensional spin-gap system (CuCl)LaNb2O7, a possible candidate for
+the J1-J2 model on a square lattice. A sharp single NQR line is observed at the
+Cu and Cl sites, indicating that both Cu and Cl atoms occupy a unique site.
+However, the electric field gradient tensors at the Cu, Cl, and La sites do not
+have axial symmetry. This is incompatible with the reported crystal structure.
+Thus the J1-J2 model has to be modified. We propose alternative two-dimensional
+dimer models based on the NMR, NQR, and TEM results. The value of the hyperfine
+coupling constant at the Cu sites indicates that the spin density is mainly on
+the d(3z2-r2) orbital (z parallel c). At 1.5 K, Cu- and Nb-NMR signals
+disappear above the critical field Bc1 = 10.3 T determined from the onset of
+the magnetization, indicating a field-induced magnetic phase transition at Bc1.

@@ -1,0 +1,20 @@
+A method is proposed for accurately describing arbitrary-shaped free
+boundaries in single-grid finite-difference schemes for elastodynamics, in a
+time-domain velocity-stress framework. The basic idea is as follows: fictitious
+values of the solution are built in vacuum, and injected into the numerical
+integration scheme near boundaries. The most original feature of this method is
+the way in which these fictitious values are calculated. They are based on
+boundary conditions and compatibility conditions satisfied by the successive
+spatial derivatives of the solution, up to a given order that depends on the
+spatial accuracy of the integration scheme adopted. Since the work is mostly
+done during the preprocessing step, the extra computational cost is negligible.
+Stress-free conditions can be designed at any arbitrary order without any
+numerical instability, as numerically checked. Using 10 grid nodes per minimal
+S-wavelength with a propagation distance of 50 wavelengths yields highly
+accurate results. With 5 grid nodes per minimal S-wavelength, the solution is
+less accurate but still acceptable. A subcell resolution of the boundary inside
+the Cartesian meshing is obtained, and the spurious diffractions induced by
+staircase descriptions of boundaries are avoided. Contrary to what occurs with
+the vacuum method, the quality of the numerical solution obtained with this
+method is almost independent of the angle between the free boundary and the
+Cartesian meshing.

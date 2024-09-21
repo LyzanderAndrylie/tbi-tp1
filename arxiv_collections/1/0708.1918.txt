@@ -1,0 +1,10 @@
+The density matrix of a two-level system (spin, atom) is usually determined
+by measuring the three non-commuting components of the Pauli vector. This
+density matrix can also be obtained via the measurement data of two commuting
+variables, using a single apparatus. This is done by coupling the two-level
+system to a mode of radiation field, where the atom-field interaction is
+described with the Jaynes--Cummings model. The mode starts its evolution from a
+known coherent state. The unknown initial state of the atom is found by
+measuring two commuting observables: the population difference of the atom and
+the photon number of the field. We discuss the advantages of this setup and its
+possible applications.

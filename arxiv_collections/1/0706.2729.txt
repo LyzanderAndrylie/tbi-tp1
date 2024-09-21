@@ -1,0 +1,8 @@
+We have investigated the polarization dependence of the emission spectra of
+p-shell multiexcitons of a quantum dot when the single particle level spacing
+is larger than the characteristic energy of the Coulomb interactions. We find
+that there are many degenerate multiexciton states. The emission intensities
+depend on the number of degenerate initial and final states of the optical
+transitions. However, unlike the transition energies, they are essentially
+independent of the strength of the Coulomb interactions. In the presence of
+electron-hole symmetry the independence is exact.

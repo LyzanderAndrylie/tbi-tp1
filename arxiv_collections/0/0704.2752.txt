@@ -1,0 +1,5 @@
+We present a segregrated strain model that describes the thickness-dependent
+dielectric properties of ferroelectric films. Using a phenomenological Landau
+approach, we present results for two specific materials, making comparison with
+experiment and with first-principles calculations whenever possible. We also
+suggest a "smoking gun" benchtop probe to test our elastic scenario.

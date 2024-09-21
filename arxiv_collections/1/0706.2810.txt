@@ -1,0 +1,6 @@
+In this contribution we study the photoproduction of quarkonium in coherent
+proton-proton and nucleus-nucleus interactions at the LHC. The integrated cross
+sections and rapidity distributions are estimated using the Color Glass
+Condensate (CGC) formalism, which takes into account the parton saturation
+effects at high energies. Nuclear shadowing effects are also taken into
+account.

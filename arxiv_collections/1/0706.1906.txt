@@ -1,0 +1,19 @@
+We use recently introduced three-point dynamic susceptibilities to obtain an
+experimental determination of the temperature evolution of the number of
+molecules, N_corr, that are dynamically correlated during the structural
+relaxation of supercooled liquids. We first discuss in detail the physical
+content of three-point functions that relate the sensitivity of the averaged
+two-time dynamics to external control parameters (such as temperature or
+density), as well as their connection to the more standard four-point dynamic
+susceptibility associated with dynamical heterogeneities. We then demonstrate
+that these functions can be experimentally determined with a good precision. We
+gather available data to obtain the temperature dependence of N_corr for a
+large number of supercooled liquids over a wide range of relaxation timescales
+from the glass transition up to the onset of slow dynamics. We find that N_corr
+systematically grows when approaching the glass transition. It does so in a
+modest manner close to the glass transition, which is consistent with an
+activation-based picture of the dynamics in glassforming materials. For higher
+temperatures, there appears to be a regime where N_corr behaves as a power-law
+of the relaxation time. Finally, we find that the dynamic response to density,
+while being smaller than the dynamic response to temperature, behaves
+similarly, in agreement with theoretical expectations.

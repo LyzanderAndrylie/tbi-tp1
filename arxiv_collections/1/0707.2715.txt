@@ -1,0 +1,9 @@
+We set up recursion relations for the partition function and the ground-state
+occupancy for a fixed number of non-interacting bosons confined in a square box
+potential and determine the temperature dependence of the specific heat and the
+particle number in the ground state. A proper semiclassical treatment is set up
+which yields the correct small-T-behavior in contrast to an earlier theory in
+Feynman's textbook on Statistical Mechanics, in which the special role of the
+ground state was ignored. The results are compared with an exact quantum
+mechanical treatment. Furthermore, we derive the finite-size effect of the
+system.

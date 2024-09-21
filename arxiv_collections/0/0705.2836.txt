@@ -1,0 +1,12 @@
+We present three-dimensional numerical simulations of the atmospheric
+dynamics of close-orbiting planets such as HD209458b. Our simulations show that
+winds of several km/sec and day-night temperature differences reaching 500-1000
+K are possible at and above the photosphere. The circulation takes the form of
+a broad superrotating (eastward) equatorial jet. At 0.1-1 bar, the
+superrotation blows the hottest regions of the atmosphere downwind by 60
+degrees of longitude, but at lower pressures the temperature pattern tracks the
+stellar illumination. We predict factors of several variation in the infrared
+flux received at Earth throughout an orbital cycle; if the photosphere is deep
+enough (>50-100 mbar pressure), the peak infrared emission should lead the time
+of secondary eclipse by 10 hours or more. Dynamics plays a key role in shaping
+the spectrum, clouds, chemistry, and long-term planetary evolution.

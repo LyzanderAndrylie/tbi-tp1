@@ -1,0 +1,12 @@
+ULTRACAM is a portable, high-speed imaging photometer designed to study faint
+astronomical objects at high temporal resolutions. ULTRACAM employs two
+dichroic beamsplitters and three frame-transfer CCD cameras to provide
+three-colour optical imaging at frame rates of up to 500 Hz. The instrument has
+been mounted on both the 4.2-m William Herschel Telescope on La Palma and the
+8.2-m Very Large Telescope in Chile, and has been used to study white dwarfs,
+brown dwarfs, pulsars, black-hole/neutron-star X-ray binaries, gamma-ray
+bursts, cataclysmic variables, eclipsing binary stars, extrasolar planets,
+flare stars, ultra-compact binaries, active galactic nuclei, asteroseismology
+and occultations by Solar System objects (Titan, Pluto and Kuiper Belt
+objects). In this paper we describe the scientific motivation behind ULTRACAM,
+present an outline of its design and report on its measured performance.

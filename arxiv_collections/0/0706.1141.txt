@@ -1,0 +1,15 @@
+Fixed infrastructured networks naturally support centralized approaches for
+group management and information provisioning. Contrary to infrastructured
+networks, in multi-hop ad-hoc networks each node acts as a router as well as
+sender and receiver. Some applications, however, requires hierarchical
+arrangements that-for practical reasons-has to be done locally and
+self-organized. An additional challenge is to deal with mobility that causes
+permanent network partitioning and re-organizations. Technically, these
+problems can be tackled by providing additional uplinks to a backbone network,
+which can be used to access resources in the Internet as well as to inter-link
+multiple ad-hoc network partitions, creating a hybrid wireless network. In this
+paper, we present a prototypically implemented hybrid wireless network system
+optimized for multimedia content distribution. To efficiently manage the ad-hoc
+communicating devices a weighted clustering algorithm is introduced. The
+proposed localized algorithm deals with mobility, but does not require
+geographical information or distances.

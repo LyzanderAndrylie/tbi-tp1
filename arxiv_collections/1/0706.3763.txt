@@ -1,0 +1,9 @@
+Dense arrays of trapped ions provide one way of scaling up ion trap quantum
+information processing. However, miniaturization of ion traps is currently
+limited by sharply increasing motional state decoherence at sub-100 um
+ion-electrode distances. We characterize heating rates in cryogenically cooled
+surface-electrode traps, with characteristic sizes in 75 um to 150 um range.
+Upon cooling to 6 K, the measured rates are suppressed by 7 orders of
+magnitude, two orders of magnitude below previously published data of similarly
+sized traps operated at room temperature. The observed noise depends strongly
+on fabrication process, which suggests further improvements are possible.

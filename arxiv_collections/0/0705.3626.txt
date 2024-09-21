@@ -1,0 +1,21 @@
+A comparison between linear stability analysis and observations of pulsation
+modes in five delta Scuti stars, belonging to the same cluster, is presented.
+The study is based on the work by Michel et al. (1999), in which such a
+comparison was performed for a representative set of model solutions obtained
+independently for each individual star considered. In this paper we revisit the
+work by Michel et al. (1999) following, however, a new approach which consists
+in the search for a single, complete, and coherent solution for all the
+selected stars, in order to constrain and test the assumed physics describing
+these objects. To do so, refined descriptions for the effects of rotation on
+the determination of the global stellar parameters and on the adiabatic
+oscillation frequency computations are used. In addition, a crude attempt is
+made to study the role of rotation on the prediction of mode instabilities.The
+present results are found to be comparable with those reported by Michel et al.
+(1999). Within the temperature range log T_eff = 3.87-3.88 agreement between
+observations and model computations of unstable modes is restricted to values
+for the mixing-length parameter alpha_nl less or equal to 1.50. This indicates
+that for these stars a smaller value for alpha_nl is required than suggested
+from a calibrated solar model. We stress the point that the linear stability
+analysis used in this work still assumes stellar models without rotation and
+that further developments are required for a proper description of the
+interaction between rotation and pulsation dynamics.

@@ -1,0 +1,13 @@
+Biochemistry and mechanics are closely coupled in cell adhesion. At sites of
+cell-matrix adhesion, mechanical force triggers signaling through the
+Rho-pathway, which leads to structural reinforcement and increased
+contractility in the actin cytoskeleton. The resulting force acts back to the
+sites of adhesion, resulting in a positive feedback loop for mature adhesion.
+Here we model this biochemical-mechanical feedback loop for the special case
+when the actin cytoskeleton is organized in stress fibers, which are
+contractile bundles of actin filaments. Activation of myosin II molecular
+motors through the Rho-pathway is described by a system of reaction-diffusion
+equations, which are coupled into a viscoelastic model for a contractile actin
+bundle. We find strong spatial gradients in the activation of contractility and
+in the corresponding deformation pattern of the stress fiber, in good agreement
+with experimental findings.

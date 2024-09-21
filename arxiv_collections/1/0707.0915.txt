@@ -1,0 +1,4 @@
+We compute decomposition of Frobenius push-forwards of line bundles on
+quadrics into a direct sum of line bundles and spinor bundles. As an
+application we show when the Frobenius push-forward gives a tilting bundle and
+we apply it to study D-modules on quadrics.

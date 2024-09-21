@@ -1,0 +1,12 @@
+Recent investigations of the dynamic compressive strength of cold
+isostatically pressed composites of polytetrafluoroethylene (PTFE), tungsten
+(W) and aluminum (Al) powders show significant differences depending on the
+size of metallic particles. The addition of W increases the density and overall
+strength of the sample. To investigate relatively large deformations
+multi-material Eulerian and arbitrary Lagrangian-Eulerian methods, which have
+the ability to efficiently handle the formation of free surfaces, were used.
+The calculations indicate that the increased strength of the sample with fine
+metallic particles is due to the formation of force chains under dynamic
+loading. This phenomenon occurs even at larger porosity of the PTFE matrix in
+comparison with samples with larger particle size of W and higher density of
+the PTFE matrix.

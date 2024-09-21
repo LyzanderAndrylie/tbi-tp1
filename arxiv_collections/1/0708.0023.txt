@@ -1,0 +1,20 @@
+Recent inelastic neutron scattering experiments in CeIn3 and CePd2Si2 single
+crystals, measured spin wave excitations at low temperatures. These two heavy
+fermion compounds exhibit antiferromagnetic long-range order, but a strong
+competition between the Ruderman-Kittel-Kasuya-Yosida(RKKY) interaction and
+Kondo effect is evidenced by their nearly equal Neel and Kondo temperatures.
+Our aim is to show how magnons such as measured in the antiferromagnetic phase
+of these Ce compounds, can be described with a microscopic Heisenberg-Kondo
+model as introduced by J.R.Iglesias, C.Lacroix and B.Coqblin, used before for
+studies of the non-magnetic phase. The model includes the correlated Ce-4f
+electrons hybridized with the conduction band, and we consider competing RKKY
+(Heisenberg-like J_{H}) and Kondo (J_{K}) antiferromagnetic couplings. Carrying
+on a series of unitary transformations, we perturbatively derive a second-order
+effective Hamiltonian which, projected onto the antiferromagnetic electron
+ground state, describes the spin wave excitations, renormalized by their
+interaction with correlated itinerant electrons. We numerically study how the
+different parameters of the model influence the renormalization of the magnons,
+yielding useful information for the analysis of inelastic neutron scattering
+experiments in antiferromagnetic heavy fermion compounds. We also compare our
+results with available experimental data, finding good agreement with the spin
+wave measurements in cubic CeIn3.

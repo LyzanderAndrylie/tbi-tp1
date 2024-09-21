@@ -1,0 +1,18 @@
+Inspired by the duality picture between superconductivity and insulator in
+two spatial dimension, we conjecture that the order parameter, suitable for
+characterizing 2D fermionic insulating state, is the disorder operator, usually
+known in the context of statistical transformation. Namely, the change of the
+phase of the disorder operator along a closed loop measures the particle
+density accommodating inside this loop. Thus, identifying this (doped) particle
+density with the dual counterpart of the magnetic induction in 2D SC, we can
+naturally introduce the disorder operator as the dual order parameter of 2D
+insulators. The disorder operator has a branch cut emitting from this
+``vortex'' to the single infinitely far point. To test this conjecture against
+an arbitrary 2D lattice models, we have chosen this branch cut to be compatible
+with the periodic boundary condition and obtain a general form of its
+expectation value for non-interacting metal/insulator wavefunction, including
+gapped mean-field order wavefunction. Based on this expression, we observed
+analytically that it indeed vanishes for a wide class of band metals in the
+thermodynamic limit. In insulating states, on the other hand, it is quantified
+by the localization length or the real-valued gauge invariant 2-from dubbed as
+the quantum metric tensor.

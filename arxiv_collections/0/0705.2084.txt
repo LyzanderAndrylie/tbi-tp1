@@ -1,0 +1,18 @@
+Scientists and Technologists involved in the development of radar and remote
+sensing systems all over the world are now trying to involve themselves in
+saving of manpower in the form of developing a new application of their ideas
+in Intelligent Transport system(ITS). The world statistics shows that by
+incorporating such wireless radar system in the car would decrease the world
+road accident by 8-10% yearly. The wireless technology has to be chosen
+properly which is capable of tackling the severe interferences present in the
+open road. A combined digital technology like Spread spectrum along with
+diversity reception will help a lot in this regard. Accordingly, the choice is
+for FHSS based space diversity system which will utilize carrier frequency
+around 5.8 GHz ISM band with available bandwidth of 80 MHz and no license. For
+efficient design, the radio channel is characterized on which the design is
+based. Out of two available modes e.g. Communication and Radar modes, the radar
+mode is providing the conditional measurement of the range of the nearest car
+after authentication of the received code, thus ensuring the reliability and
+accuracy of measurement. To make the system operational in simultaneous mode,
+we have started the Software Defined Radio approach for best speed and
+flexibility.

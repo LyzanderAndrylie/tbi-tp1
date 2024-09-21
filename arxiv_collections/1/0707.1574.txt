@@ -1,0 +1,8 @@
+We propose a closed expression for the three loop anomalous dimension of a
+class of twist-3 operators built with gauge fields and covariant derivatives.
+To this aim, we solve the long-range Bethe Ansatz equations at finite spin and
+provide a consistent analytical formula obtained assuming maximal
+transcendentality violation as suggested by the known one-loop anomalous
+dimension. The final result reproduces the universal cusp anomalous dimension
+and obeys recursion relations inspired by the principle of reciprocity
+invariance.

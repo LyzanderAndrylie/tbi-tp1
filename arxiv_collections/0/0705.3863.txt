@@ -1,0 +1,9 @@
+We study the phase diagram of a quasi-two dimensional magnetic system ${\rm
+Rb_2MnF_4}$ with Monte Carlo simulations of a classical Heisenberg spin
+Hamiltonian which includes the dipolar interactions between ${\rm Mn}^{2+}$
+spins. Our simulations reveal an Ising-like antiferromagnetic phase at low
+magnetic fields and an XY phase at high magnetic fields. The boundary between
+Ising and XY phases is analyzed with a recently proposed finite size scaling
+technique and found to be consistent with a bicritical point at T=0. We discuss
+the computational techniques used to handle the weak dipolar interaction and
+the difference between our phase diagram and the experimental results.

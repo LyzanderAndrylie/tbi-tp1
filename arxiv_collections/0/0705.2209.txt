@@ -1,0 +1,6 @@
+A question that comes up repeatedly is how to combine the results of two
+experiments if all that is known is that one experiment had a n-sigma effect
+and another experiment had a m-sigma effect. This question is not well-posed:
+depending on what additional assumptions are made, the preferred answer is
+different. The note lists some of the more prominent papers on the topic, with
+some brief comments and excerpts.

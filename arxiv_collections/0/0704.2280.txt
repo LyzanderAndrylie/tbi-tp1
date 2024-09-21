@@ -1,0 +1,9 @@
+We describe the full-time dynamics of modulational instability in F=1 spinor
+Bose-Einstein condensates for the case of the integrable three-component model
+associated with the matrix nonlinear Schroedinger equation. We obtain an exact
+homoclinic solution of this model by employing the dressing method which we
+generalize to the case of the higher-rank projectors. This homoclinic solution
+describes the development of modulational instability beyond the linear regime,
+and we show that the modulational instability demonstrates the reversal
+property when the growth of the modulation amplitude is changed by its
+exponential decay.

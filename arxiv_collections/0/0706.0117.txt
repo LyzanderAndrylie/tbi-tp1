@@ -1,0 +1,9 @@
+It is common to use reciprocal best hits, also known as a boomerang
+criterion, for determining orthology between sequences. The best hits may be
+found by blast, or by other more recently developed algorithms. Previous work
+seems to have assumed that reciprocal best hits is a sufficient but not
+necessary condition for orthology. In this article, I explain why reciprocal
+best hits cannot logically be a sufficient condition for orthology. If
+reciprocal best hits is neither sufficient nor necessary for orthology, it
+would seem worthwhile to examine further the logical foundations of some
+unsupervised algorithms that are used to identify orthologs.

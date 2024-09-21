@@ -1,0 +1,8 @@
+We find an explicit combinatorial gradient vector field on the well known
+complex S (Salvetti complex) which models the complement to an arrangement of
+complexified hyperplanes. The argument uses a total ordering on the facets of
+the stratification of R^n associated to the arrangement, which is induced by a
+generic system of polar coordinates. We give a combinatorial description of the
+singular facets, finding also an algebraic complex which computes local
+homology. We also give a precise construction in the case of the braid
+arrangement.

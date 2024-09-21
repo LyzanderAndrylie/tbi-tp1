@@ -1,0 +1,14 @@
+We report the results of our first-principles investigation on the
+interaction of the nucleobases adenine (A), cytosine (C), guanine (G), thymine
+(T), and uracil (U) with graphene, carried out within the density functional
+theory framework, with additional calculations utilizing Hartree--Fock plus
+second-order Moeller-Plesset perturbation theory. The calculated binding energy
+of the nucleobases shows the following hierarchy: G > T ~ C ~ A > U, with the
+equilibrium configuration being very similar for all five of them. Our results
+clearly demonstrate that the nucleobases exhibit significantly different
+interaction strengths when physisorbed on graphene. The stabilizing factor in
+the interaction between the base molecule and graphene sheet is dominated by
+the molecular polarizability that allows a weakly attractive dispersion force
+to be induced between them. The present study represents a significant step
+towards a first-principles understanding of how the base sequence of DNA can
+affect its interaction with carbon nanotubes, as observed experimentally.

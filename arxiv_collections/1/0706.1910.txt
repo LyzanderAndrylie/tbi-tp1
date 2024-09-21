@@ -1,0 +1,7 @@
+In this paper, we investigate an alternative formulation for spin 3/2 field
+equation. First we will review equation of motion of Dirac and Maxwell, and
+then construct the equation for spin 3/2 in the similar fashion. Our method
+actually a generalization of relativistic equation of motion based on spin
+operator and Hamiltonian similar to Dirac and Maxwell equation in ref. [1] pp.
+50. Furthermore, we could not bring the equation to the Klein Gordon limit for
+every wave function component in spin 3/2 formalism.

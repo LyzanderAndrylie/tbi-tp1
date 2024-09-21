@@ -1,0 +1,9 @@
+The subject of collective attention is central to an information age where
+millions of people are inundated with daily messages. It is thus of interest to
+understand how attention to novel items propagates and eventually fades among
+large populations. We have analyzed the dynamics of collective attention among
+one million users of an interactive website -- \texttt{digg.com} -- devoted to
+thousands of novel news stories. The observations can be described by a
+dynamical model characterized by a single novelty factor. Our measurements
+indicate that novelty within groups decays with a stretched-exponential law,
+suggesting the existence of a natural time scale over which attention fades.

@@ -1,0 +1,10 @@
+Preferential attachment is a popular generative mechanism to explain the
+widespread observation of power law distributed networks. We introduce an
+alternative explanation for the phenomenon by allowing the link growth rates to
+vary across the nodes according to a randomized Poisson process. The
+distribution of rates, which reproduces the degree distribution of a
+preferential attachment process (Yule process) is derived analytically. We
+demonstrate with use of simulations that the degree distribution and growth
+rates in single time intervals are similar for the random process and the
+preferential attachment process. Structural differences are analyzed by
+examining the joint degree distribution and network coreness.

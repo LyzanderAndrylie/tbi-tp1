@@ -1,0 +1,9 @@
+We argue that Coulomb blockade phenomena are a useful probe of the cross-over
+to strong correlation in quantum dots. Through calculations at low density
+using variational and diffusion quantum Monte Carlo (up to r_s ~ 55), we find
+that the addition energy shows a clear progression from features associated
+with shell structure to those caused by commensurability of a Wigner crystal.
+This cross-over (which occurs near r_s ~ 20 for spin-polarized electrons) is,
+then, a signature of interaction-driven localization. As the addition energy is
+directly measurable in Coulomb blockade conductance experiments, this provides
+a direct probe of localization in the low density electron gas.

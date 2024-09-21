@@ -1,0 +1,9 @@
+The high-Q harmonic oscillator mode of a Josephson junction can be used as a
+novel probe of spurious two-level systems (TLSs) inside the amorphous oxide
+tunnel barriers of the junction. In particular, we show that spectroscopic
+transmission measurements of the junction resonator mode can reveal how the
+coupling magnitude between the junction and the TLSs varies with an external
+magnetic field applied in the plane of the tunnel barrier. The proposed
+experiments offer the possibility of clearly resolving the underlying coupling
+mechanism for these spurious TLSs, an important decoherence source limiting the
+quality of superconducting quantum devices.

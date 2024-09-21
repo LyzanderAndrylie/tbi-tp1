@@ -1,0 +1,6 @@
+We get a local existence result in $H^s$ with $s>3/2$ for second order
+quasilinear wave equation with radial initial data in 2+1 dimensions, based on
+an improvement of Strichartz estimate in the radial case. Moreover, we get the
+corresponding local well-posed result for semilinear wave equation. The
+required index of regularity here is 1/4 less than the index 7/4, which is
+essentially sharp in general.

@@ -1,0 +1,8 @@
+Separable convex optimization problems with linear ascending inequality and
+equality constraints are addressed in this paper. Under an ordering condition
+on the slopes of the functions at the origin, an algorithm that determines the
+optimum point in a finite number of steps is described. The optimum value is
+shown to be monotone with respect to a partial order on the constraint
+parameters. Moreover, the optimum value is convex with respect to these
+parameters. Examples motivated by optimizations for communication systems are
+used to illustrate the algorithm.

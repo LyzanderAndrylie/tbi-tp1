@@ -1,0 +1,9 @@
+Chirally odd generalized parton distributions (GPDs) and the Boer-Mulders
+function provide valuable information about spin-orbit correlations for quarks
+in nucleons and other hadrons. We compare results for the relevant GPD
+$\bar{E}^q_T$ from a variety of phenomenological models as well as recent
+lattice results. We find that $\bar{E}^q_T>0$ for nucleons as well as the pion
+and for both $u$ and $d$ quark. As a result, the corresponding Boer Mulders
+functions are all expected to be negative. The sign of $\bar{E}^q_T$ arises
+from the relative sign between the upper and lower Dirac components for the
+quark wave functions.

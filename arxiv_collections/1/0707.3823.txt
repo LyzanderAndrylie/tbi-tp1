@@ -1,0 +1,11 @@
+We report direct experimental evidence of room temperature spin filtering in
+magnetic tunnel junctions (MTJs) containing CoFe2O4 tunnel barriers via
+tunneling magnetoresistance (TMR) measurements.
+Pt(111)/CoFe2O4(111)/gamma-Al2O3(111)/Co(0001) fully epitaxial MTJs were grown
+in order to obtain a high quality system, capable of functioning at room
+temperature. Spin polarized transport measurements reveal significant TMR
+values of -18% at 2 K and -3% at 290 K. In addition, the TMR ratio follows a
+unique bias voltage dependence that has been theoretically predicted to be the
+signature of spin filtering in MTJs containing magnetic barriers. CoFe2O4
+tunnel barriers therefore provide a model system to investigate spin filtering
+in a wide range of temperatures.

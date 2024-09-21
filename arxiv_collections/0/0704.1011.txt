@@ -1,0 +1,8 @@
+We describe a practical procedure for extracting the spatial structure and
+the growth rates of slow eigenmodes of a spatially extended system, using a
+unique experimental capability both to impose and to perturb desired initial
+states. The procedure is used to construct experimentally the spectrum of
+linear modes near the secondary instability boundary in Rayleigh-B\'{e}nard
+convection. This technique suggests an approach to experimental
+characterization of more complex dynamical states such as periodic orbits or
+spatiotemporal chaos.

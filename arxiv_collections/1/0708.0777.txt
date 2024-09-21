@@ -1,0 +1,7 @@
+In this work the authors implemented a resonator based upon microstrip
+cavities that permits the generation of microwaves with arbitrary polarization.
+Design, simulation, and implementation of the resonators were performed using
+standard printed circuit boards. The electric field distribution was mapped
+using a scanning probe cavity perturbation technique. Electron spin resonance
+using a standard marker was carried out in order to verify the polarization
+control from linear to circular.

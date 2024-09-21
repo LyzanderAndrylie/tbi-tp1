@@ -1,0 +1,11 @@
+The radiation hardness of silicon charged particle sensors is compared with
+single crystal and polycrystalline diamond sensors, both experimentally and
+theoretically. It is shown that for Si- and C-sensors, the NIEL hypothesis,
+which states that the signal loss is proportional to the Non-Ionizing Energy
+Loss, is a good approximation to the present data. At incident proton and
+neutron energies well above 0.1 GeV the radiation damage is dominated by the
+inelastic cross section, while at non-relativistic energies the elastic cross
+section prevails. The smaller inelastic nucleon-Carbon cross section and the
+light nuclear fragments imply that at high energies diamond is an order of
+magnitude more radiation hard than silicon, while at energies below 0.1 GeV the
+difference becomes significantly smaller.

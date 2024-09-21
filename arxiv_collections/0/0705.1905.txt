@@ -1,0 +1,9 @@
+We derive a multipartite generalized Bell inequality which involves the
+entire range of settings for each of the local observers. Especially, it is
+applied to show non-local behavior of a six-qubit mixture of
+Greenberger-Horne-Zeilinger correlations stronger than previous Bell
+inequalities. For certain noise admixture to the correlations an explicit local
+realistic model exists in the case of a standard Bell experiment. Bell
+experiments with many local settings reveal the non-locality of the state. It
+turns out that the new inequality is more stringent than many other Bell
+inequalities in the specific quantum state.

@@ -1,0 +1,10 @@
+We investigate the violation of Bell-type inequalities for two-qubit
+Werner-like states parametrized by the positive parameter 0<p<1. We use an
+unbalanced homodyne detection scheme to obtain the quantum mechanical
+probabilities. A violation of the Bell-Wigner and Janssens inequalities is
+obtained for a large range of the parameter p. The range given by these
+inequalities is greater than the one given by the Clauser-Horne inequality. The
+range in which a violation is attained actually coincides with the range where
+the Werner-like states are known to be nonseparabel, i.e., for p>1/3. However,
+the improvement over the Clauser-Horne inequality is achieved at the price of
+restricting the class of possible local hidden variable theories.

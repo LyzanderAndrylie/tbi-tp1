@@ -1,0 +1,13 @@
+We study the influence of cooperative effects such as superradiance and
+subradiance, on the scattering properties of dilute atomic gases. We show that
+cooperative effects lead to an effective potential between pairs of atoms that
+decays like $1/r$. In the case of superradiance, this potential is attractive
+for close enough atoms and can be interpreted as a coherent mesoscopic effect.
+We consider a model of multiple scattering of a photon among superradiant pairs
+and calculate the elastic mean free path and the group velocity. We study first
+the case of a scalar wave which allows to obtain and to understand basic
+features of cooperative effects and multiple scattering. We then turn to the
+general problem of a vector wave. In both cases, we obtain qualitatively
+similar results and derive, for the case of a scalar wave, analytic expressions
+of the elastic mean free path and of the group velocity for an arbitrary (near
+resonance) detuning.

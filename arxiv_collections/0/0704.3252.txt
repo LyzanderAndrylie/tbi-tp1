@@ -1,0 +1,16 @@
+In this study, three empirical Free Core Nutation (FCN) models developed to
+the present time, MHB2000, Malkin's and Lambert's ones, are compared on the
+basis of representation of variations of the FCN amplitude and phase predicted
+by these models. It is possible to conclude, that the model of the author
+provides the most realistic representation of the FCN variations. However, the
+specified models are based on representation about single FCN rotational mode.
+At the same time, some results of processing of the VLBI observations made
+during last years, specify possible presence of two close FCN periods. A
+theoretical explanation to presence of a second FCN frequency FCN has been
+given by G. Krasinsky in his theory of rotation of the Earth with two-layer
+liquid core, ERA2005. In the present work, for more detailed studying this
+phenomenon, the IVS time series of celestial pole offset, and also those
+predicted by the ERA2005 theory, have been investigated by means of several
+statistical methods which confidently show presence of two fluctuations in
+nutational movement of an Earth's rotation axis with the periods about -452 and
+-410 solar days.

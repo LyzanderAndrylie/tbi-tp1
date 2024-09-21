@@ -1,0 +1,20 @@
+Assuming a spherical symmetry, the extreme UV emitted by a very hot source
+ionizes low pressure molecular hydrogen making a transparent bubble of H II
+(Protons and electrons). For an increase of radius, intensity of extreme UV and
+temperature decrease, so that the plasma contains more and more atoms. A
+spherical shell, mainly of neutral atoms (H I) appears. If this shell is
+optically thick at Lyman frequencies of H I, it is superradiant and a
+competition of modes selects modes tangent to a sphere for which many atoms are
+excited. Thus, a shell of plasma emits, into a given direction, tangential rays
+showing a ring in which selected modes are brighter. While at Lyman
+frequencies, absorption of rays emitted by the source excites the atoms able to
+amplify the superradiance, a more powerful amplification of superradiance
+results from an induced scattering of the radial beams, which extends to feet
+of lines and progressively to the whole spectrum. Thermodynamics says that the
+brightness of radial and tangential beams tends to be equal; if the solid angle
+of observation is much larger for the ring than for the source, almost the
+whole light emitted by the source is transferred to the rings, and the source
+becomes invisible. Paradoxically, a glow due to incoherent scattering and
+impurities around the source remains visible. As the scattering decreases with
+the decrease of the radial intensity, the brightness of the ring decreases with
+radius. These characteristics are found in supernova remnant 1987A.

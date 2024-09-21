@@ -1,0 +1,14 @@
+Using examples of the square- and triangular-lattice Heisenberg models we
+demonstrate that the density matrix renormalization group method (DMRG) can be
+effectively used to study magnetic ordering in two-dimensional lattice spin
+models. We show that local quantities in DMRG calculations, such as the on-site
+magnetization M, should be extrapolated with the truncation error, not with its
+square root, as previously assumed. We also introduce convenient sequences of
+clusters, using cylindrical boundary conditions and pinning magnetic fields,
+which provide for rapidly converging finite-size scaling. This scaling behavior
+on our clusters is clarified using finite-size analysis of the effective
+sigma-model and finite-size spin-wave theory. The resulting greatly improved
+extrapolations allow us to determine the thermodynamic limit of M for the
+square lattice with an error comparable to quantum Monte Carlo. For the
+triangular lattice, we verify the existence of three-sublattice magnetic order,
+and estimate the order parameter to be M = 0.205(15).

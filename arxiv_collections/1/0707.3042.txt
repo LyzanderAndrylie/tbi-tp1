@@ -1,0 +1,19 @@
+In a recent work, factorization breaking interactions and T-odd distributions
+have been analyzed from the point of view of statistical mechanics. One of the
+central points was the process leading from the coherent initial hadron state
+to an incoherent set of short-range parton states, in presence of factorization
+breaking interactions. This time evolution was named ``partonization'', or also
+``de-correlation'', to distinguish it from an ordinary hadron-quark-spectator
+splitting vertex. Here an example is shown for a correlation amplitude
+describing an extreme case for such a process, where the initial state phases
+are lost, but the probability distributions are perfectly conserved. This
+requires introducing degrees of freedom that are not normally considered in a
+factorized scheme, and that must disappear at some stage of the calculations
+for the factorization scheme to survive. The explicit time-evolution character
+of the decorrelation process disappears when these degrees of freedom are
+integrated, but the integrated correlator presents modified analytical
+properties as a consequence. for the factorization scheme to survive. The
+explicit time-evolution character of the de-correlation process disappears when
+these degrees of freedom are integrated, but the integrated correlator presents
+nontrivial analytic properties as a consequence. At certain conditions,
+factorization is preserved, at the price of introducing T-odd contributions.

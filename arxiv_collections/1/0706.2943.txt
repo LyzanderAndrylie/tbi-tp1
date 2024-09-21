@@ -1,0 +1,17 @@
+We study Kondo physics in the algebraic spin liquid, recently proposed to
+describe $ZnCu_{3}(OH)_{6}Cl_{2}$ [Phys. Rev. Lett. {\bf 98}, 117205 (2007)].
+Although spin dynamics of the algebraic spin liquid is described by massless
+Dirac fermions, this problem differs from the Pseudogap Kondo model, because
+the bulk physics in the algebraic spin liquid is governed by an interacting
+fixed point where well-defined quasiparticle excitations are not allowed.
+Considering an effective bulk model characterized by an anomalous critical
+exponent, we derive an effective impurity action in the slave-boson context.
+Performing the large-$N_{\sigma}$ analysis with a spin index $N_{\sigma}$, we
+find an impurity quantum phase transition from a decoupled local-moment state
+to a Kondo-screened phase. We evaluate the impurity spin susceptibility and
+specific heat coefficient at zero temperature, and find that such responses
+follow power-law dependencies due to the anomalous exponent of the algebraic
+spin liquid. Our main finding is that the Wilson's ratio for the magnetic
+impurity depends strongly on the critical exponent in the zero temperature
+limit. We propose that the Wilson's ratio for the magnetic impurity may be one
+possible probe to reveal criticality of the bulk system.

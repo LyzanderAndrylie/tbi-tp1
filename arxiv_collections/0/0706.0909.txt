@@ -1,0 +1,12 @@
+New physics at the weak scale that can couple to quarks typically gives rise
+to unacceptably large flavor changing neutral currents. An attractive way to
+avoid this problem is to impose the principal of minimal flavor violation
+(MFV). Recently it was noted that in MFV only scalars with the same gauge
+quantum numbers as the standard model Higgs doublet or color octet scalars with
+the same weak quantum numbers as the Higgs doublet can couple to quarks. In
+this paper we compute the one-loop rate for production of a single color octet
+scalar through gluon fusion at the LHC, which can become greater than the tree
+level pair production rate for octet scalar masses around a TeV. We also
+calculate the precision electroweak constraint from Z decays to a b and anti-b
+quark; this constraint on color octet mass and Yukawa coupling affects the
+allowed range for single octet scalar production through gluon fusion.

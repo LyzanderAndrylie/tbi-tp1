@@ -1,0 +1,8 @@
+We evaluate the two-loop corrections to Bhabha scattering from fermion loops
+in the context of pure Quantum Electrodynamics. The differential cross section
+is expressed by a small number of Master Integrals with exact dependence on the
+fermion masses me, mf and the Mandelstam invariants s,t,u. We determine the
+limit of fixed scattering angle and high energy, assuming the hierarchy of
+scales me^2 << mf^2 << s,t,u. The numerical result is combined with the
+available non-fermionic contributions. As a by-product, we provide an
+independent check of the known electron-loop contributions.

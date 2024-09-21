@@ -1,0 +1,14 @@
+A rotating bosonic many-body system in a harmonic trap is studied with the
+3D-Cranked Hartree-Fock-Bogoliubov method at zero temperature, which has been
+applied to nuclear many-body systems at high spin. This method is a variational
+method extended from the Hartree-Fock theory, which can treat the pairing
+correlations in a self-consistent manner. An advantage of this method is that a
+finite-range interaction between constituent particles can be used in the
+calculation, unlike the original Gross-Pitaevskii approach. To demonstrate the
+validity of our method, we present a calculation for a toy model, that is, a
+rotating system of ten bosonic particles interacting through the repulsive
+quadrupole-quadrupole interaction in a harmonic trap. It is found that the
+yrast states, the lowest-energy states for the given total angular momentum,
+does not correspond to the Bose-Einstein condensate, except a few special
+cases. One of such cases is a vortex state, which appears when the total
+angular momentum $L$ is twice the particle number $N$ (i.e., $L=2N$).

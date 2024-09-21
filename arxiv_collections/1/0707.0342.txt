@@ -1,0 +1,6 @@
+We introduce a spin-orbit assisted electron-phonon (e-ph) coupling mechanism
+for carriers in semiconductor quantum wells and predict qualitatively the form
+and shape of anticrossings between the cyclotron resonance (CR) and optical (LO
+and TO) phonons. Since this e-ph interaction involves the electron spin it
+makes the predicted TO-CR anticrossing dependent on the filling factor and
+therefore on the polarization of the 2D electron gas in the quantum well.

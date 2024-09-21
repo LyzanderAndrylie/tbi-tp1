@@ -1,0 +1,10 @@
+We investigate the Cooper-pair propagation and the proximity effect in
+graphene under conditions in which the distance L between superconducting
+electrodes is much larger than the width W of the contacts. In the case of
+undoped graphene, supercurrents may exist with a spatial decay proportional to
+W^2/L^3. This changes upon doping into a 1/L^2 behavior, opening the
+possibility to observe a supercurrent over length scales above 1 micron at
+suitable doping levels. We also show that there is in general a crossover
+temperature T ~ v_F/k_B L that marks the onset of the strong decay of the
+supercurrent, and that corresponds to the scale below which the Cooper pairs
+are not disrupted by thermal effects during their propagation.

@@ -1,0 +1,7 @@
+This work uses density functional molecular dynamics simulations of fluid
+helium at high pressure to examine how shock wave experiments with
+precompressed samples can help characterizing the interior of giant planets. In
+particular, we analyze how large of a precompression is needed to probe a
+certain depth in a planet's gas envelope. We find that precompressions of up to
+0.1, 1.0, 10, or 100 GPa are needed to characterized 2.5, 5.9, 18, to 63% of
+Jupiter's envelope by mass.

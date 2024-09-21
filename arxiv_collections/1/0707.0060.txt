@@ -1,0 +1,13 @@
+In this talk, we present the results from our recent global reanalysis of
+nuclear parton distribution functions (nPDFs), where the DGLAP-evolving nPDFs
+are constrained by nuclear hard process data from deep inelastic $l+A$
+scattering (DIS) and the Drell-Yan (DY) process in $p+A$ collisions, and by sum
+rules. The main improvements over our earlier work {\em EKS98} are the
+automated $\chi^2$ minimization, better controllable fit functions and
+possibility for error estimates. The obtained 16-parameter fit to N=514
+datapoints is good, $\chi^2/{\rm d.o.f}=0.82$. Fit quality comparison and the
+error estimates obtained show that the old {\em EKS98} parametrization is fully
+consistent with the present automated reanalysis. Comparison with other global
+nPDF analyses is presented as well. Within the DGLAP framework we also discuss
+the possibility of incorporating a clearly stronger gluon shadowing, which is
+suggested by the RHIC BRAHMS data from d+Au collisions.

@@ -1,0 +1,6 @@
+We prove a generalized version of the no-broadcasting theorem, applicable to
+essentially \emph{any} nonclassical finite-dimensional probabilistic model
+satisfying a no-signaling criterion, including ones with ``super-quantum''
+correlations. A strengthened version of the quantum no-broadcasting theorem
+follows, and its proof is significantly simpler than existing proofs of the
+no-broadcasting theorem.

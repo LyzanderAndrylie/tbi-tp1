@@ -1,0 +1,12 @@
+We consider a diffusion model with limit cycle reaction functions, in the
+presence of convection. We select a set of functions derived from a realistic
+reaction model: the Schnakenberg equations. This resultant form is
+unsymmetrical. We find a transformation which maps the irregular equations into
+model form. Next we transform the dependent variables into polar form. From
+here, a travelling wave analysis is performed on the radial variable. Results
+are complex, but we make some simple estimates.
+  We carry out numerical experiments to test our analysis. An initial `knock'
+starts the propagation of pattern. The speed of the travelling wave is not
+quite as expected. We investigate further. The system demonstrates distinctly
+different behaviour to the left and the right. We explain how this phenomenon
+occurs by examining the underlying behaviour.

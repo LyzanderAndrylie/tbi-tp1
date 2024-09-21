@@ -1,0 +1,8 @@
+We consider the question of cross-correlation measurements using Virgo and
+the LSC Interferometers (LIGO Livingston, LIGO Hanford, and GEO600) to search
+for a stochastic gravitational-wave background. We find that inclusion of Virgo
+into the network will substantially improve the sensitivity to correlations
+above 200 Hz if all detectors are operating at their design sensitivity. This
+is illustrated using a simulated isotropic stochastic background signal,
+generated with an astrophysically-motivated spectrum, injected into 24 hours of
+simulated noise for the LIGO and Virgo interferometers.

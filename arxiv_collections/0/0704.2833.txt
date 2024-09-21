@@ -1,0 +1,8 @@
+We find sharp bounds for the norm inequality on a Pseudo-hermitian manifold,
+where the L^2 norm of all second derivatives of the function involving
+horizontal derivatives is controlled by the L^2 norm of the sub-Laplacian.
+Perturbation allows us to get a-priori bounds for solutions to sub-elliptic PDE
+in non-divergence form with bounded measurable coefficients. The method of
+proof is through a Bochner technique. The Heisenberg group is seen to be en
+extremal manifold for our inequality in the class of manifolds whose Ricci
+curvature is non-negative.

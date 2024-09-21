@@ -1,0 +1,10 @@
+This letter presents principles and applications of a virtual multi-channel
+lock-in amplifier that is a simple but effective method to recover small ac
+signal from noise with high presison. The fundamentals of this method are based
+on calculation of cross-correlation function. Via this method, we successfully
+built up a magnetoelectric measurement system which can perform precise and
+versatile measurements without any analog lock-in amplifier. Using the virtual
+multi-channel lock-in amplifier, the output of the magnetoelectric measurement
+system is extensively rich in magnetoelectric coupling behaviors, including
+coupling strength and phase lag, under various dc bias magnetic field and ac
+magnetic field.

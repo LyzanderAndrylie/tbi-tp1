@@ -1,0 +1,9 @@
+We prove that adiabatic computation is equivalent to standard quantum
+computation even when the adiabatic quantum system is restricted to be a set of
+particles on a one-dimensional chain. We give a construction that uses a
+2-local Hamiltonian on nearest neighbors using particles that can have ten
+distinct states. This implies a construction of a one-dimensional chain of
+qubits in which the Hamiltonian is 6-local. We adapt this construction to show
+that the 2-local Hamiltonian for 13-state particles is QMA-complete which in
+turn implies that the 8-local Hamiltonian restricted to a one-dimensional chain
+of qubits is QMA-complete.

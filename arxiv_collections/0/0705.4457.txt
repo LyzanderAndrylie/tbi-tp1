@@ -1,0 +1,13 @@
+We study the relation between nuclear massive black holes and their host
+spheroid gravitational potential. Using AMR numerical simulations, we analyze
+how gas is transported in the nuclear (central kpc) regions of galaxies. We
+study the gas fueling onto the inner accretion disk (sub-pc scale) and the star
+formation in a massive nuclear disk like those generally found in
+proto-spheroids (ULIRGs, SCUBA Galaxies). These sub-pc resolution simulation of
+gas fueling that is mainly depleted by star formation naturally satisfy the
+`M_BH - $M_virial' relation, with a scatter considerably less than the observed
+one. We found a generalized version of Kennicutt-Schmidt Law for starbursts is
+satisfied, in which the total gas depletion rate (dot{M}_gas = dot{M}_BH +
+dot{M}_SF) is the one that scales as M_gas/t_orbital. We also found that the
+`M_BH - sigma' relation is a byproduct of the `M_BH - M_virial' relation in the
+fueling controlled scenario.

@@ -1,0 +1,9 @@
+We have studied the decoherence properties of adiabatic quantum computation
+(AQC) in the presence of in general non-Markovian, e.g., low-frequency, noise.
+The developed description of the incoherent Landau-Zener transitions shows that
+the global AQC maintains its properties even for decoherence larger than the
+minimum gap at the anticrossing of the two lowest energy levels. The more
+efficient local AQC, however, does not improve scaling of the computation time
+with the number of qubits $n$ as in the decoherence-free case. The scaling
+improvement requires phase coherence throughout the computation, limiting the
+computation time and the problem size n.

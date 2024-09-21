@@ -1,0 +1,9 @@
+We study the survival of super-currents in a system of impenetrable bosons
+subject to a quantum quench from its critical superfluid phase to an insulating
+phase. We show that the evolution of the current when the quench follows a
+Rosen-Zener profile is exactly solvable. This allows us to analyze a quench of
+arbitrary rate, from a sudden destruction of the superfluid to a slow opening
+of a gap. The decay and oscillations of the current are analytically derived,
+and studied numerically along with the momentum distribution after the quench.
+In the case of small supercurrent boosts $\nu$, we find that the current
+surviving at long times is proportional to $\nu^3$.

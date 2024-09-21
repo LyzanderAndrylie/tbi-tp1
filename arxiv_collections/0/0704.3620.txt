@@ -1,0 +1,16 @@
+In spectroscopy, it is conventional to treat pulses much stronger than the
+linewidth as delta-functions. In NMR, this assumption leads to the prediction
+that pi pulses do not refocus the dipolar coupling. However, NMR spin echo
+measurements in dipolar solids defy these conventional expectations when more
+than one pi pulse is used. Observed effects include a long tail in the CPMG
+echo train for short delays between pi pulses, an even-odd asymmetry in the
+echo amplitudes for long delays, an unusual fingerprint pattern for
+intermediate delays, and a strong sensitivity to pi-pulse phase. Experiments
+that set limits on possible extrinsic causes for the phenomena are reported. We
+find that the action of the system's internal Hamiltonian during any real pulse
+is sufficient to cause the effects. Exact numerical calculations, combined with
+average Hamiltonian theory, identify novel terms that are sensitive to
+parameters such as pulse phase, dipolar coupling, and system size.
+Visualization of the entire density matrix shows a unique flow of quantum
+coherence from non-observable to observable channels when applying repeated pi
+pulses.

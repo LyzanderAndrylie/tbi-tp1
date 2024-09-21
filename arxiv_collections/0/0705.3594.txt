@@ -1,0 +1,15 @@
+We report the discovery of a new hysteresis effect in black hole X-ray binary
+state transitions, that of the near-infrared (NIR) flux (which most likely
+originates in the jets) versus X-ray flux. We find, looking at existing data
+sets, that the infrared emission of black hole X-ray transients appears to be
+weaker in the low/hard state rise of an outburst than the low/hard state
+decline of an outburst at a given X-ray luminosity. We discuss how this effect
+may be caused by a shift in the radiative efficiency of the inflowing or
+outflowing matter, or variations in the disc viscosity or the spectrum/power of
+the jet. In addition we show that there is a correlation (in slope but not in
+normalisation) between infrared and X-ray luminosities on the rise and decline,
+for all three low-mass black hole X-ray binaries with well-sampled infrared and
+X-ray coverage: L_NIR propto L_x^(0.5-0.7). In the high/soft state this slope
+is much shallower; L_NIR propto Lx^(0.1-0.2), and we find that the NIR emission
+in this state is most likely dominated by the viscously heated (as opposed to
+X-ray heated) accretion disc in all three sources.

@@ -1,0 +1,9 @@
+We introduce a method based on the loudest event statistic to calculate an
+upper limit or interval on the astrophysical rate of binary coalescence. The
+calculation depends upon the sensitivity and noise background of the detectors,
+and a model for the astrophysical distribution of coalescing binaries. There
+are significant uncertainties in the calculation of the rate due to both
+astrophysical and instrumental uncertainties as well as errors introduced by
+using the post--Newtonian waveform to approximate the full signal. We catalog
+these uncertainties in detail and describe a method for marginalizing over
+them. Throughout, we provide an example based on the initial LIGO detectors.

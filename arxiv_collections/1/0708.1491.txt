@@ -1,0 +1,8 @@
+Let $x = (x_0,...,x_{n-1})$ be an n-chain, i.e., an n-tuple of non-negative
+integers $< n$. Consider the operator $s: x \mapsto x' = (x'_0,...,x'_{n-1})$,
+where x'_j represents the number of $j$'s appearing among the components of x.
+An n-chain x is said to be perfect if $s(x) = x$. For example, (2,1,2,0,0) is a
+perfect 5-chain. Analogously to the theory of perfect, amicable, and sociable
+numbers, one can define from the operator s the concepts of amicable pair and
+sociable group of chains. In this paper we give an exhaustive list of all the
+perfect, amicable, and sociable chains.

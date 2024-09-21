@@ -1,0 +1,10 @@
+Starting from a model that consists of a semiclassical spin coupled to two
+leads we present a microscopic derivation of the Langevin equation for the
+direction of the spin. For slowly-changing direction it takes on the form of
+the stochastic Landau-Lifschitz-Gilbert equation. We give expressions for the
+Gilbert damping parameter and the strength of the fluctuations, including their
+bias-voltage dependence. At nonzero bias-voltage the fluctuations and damping
+are not related by the fluctuation-dissipation theorem. We find, however, that
+in the low-frequency limit it is possible to introduce a voltage-dependent
+effective temperature that characterizes the fluctuations in the direction of
+the spin, and its transport-steady-state probability distribution function.

@@ -1,0 +1,8 @@
+In this work we study the one-dimensional contact process with diffusion
+using two different approaches to research the critical properties of this
+model: the supercritical series expansions and finite-size exact solutions.
+With special emphasis we look to the multicritical point and its crossover
+exponent that characterizes the passage between DP and mean-field critical
+properties. This crossover occurs in the limit of infinite diffusion rate and
+our results pointed $\phi=4$ as the better estimate for the crossover exponent
+in agreement with computational simulations.

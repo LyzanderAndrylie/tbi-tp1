@@ -1,0 +1,10 @@
+We give a review on entanglement purification for bipartite and multipartite
+quantum states, with the main focus on theoretical work carried out by our
+group in the last couple of years. We discuss entanglement purification in the
+context of quantum communication, where we emphasize its close relation to
+quantum error correction. Various bipartite and multipartite entanglement
+purification protocols are discussed, and their performance under idealized and
+realistic conditions is studied. Several applications of entanglement
+purification in quantum communication and computation are presented, which
+highlights the fact that entanglement purification is a fundamental tool in
+quantum information processing.

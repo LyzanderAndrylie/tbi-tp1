@@ -1,0 +1,17 @@
+We study roughness scaling of the outer surface and the internal porous
+structure of deposits generated with the three-dimensional bidisperse ballistic
+deposition (BBD), in which particles of two sizes are randomly deposited.
+Systematic extrapolation of roughness and dynamical exponents and the
+comparison of roughness distributions indicate that the top surface has
+Kardar-Parisi-Zhang scaling for any ratio F of the flux between large and small
+particles. A scaling theory predicts the characteristic time of the crossover
+from random to correlated growth in BBD and provides relations between the
+amplitudes of roughness scaling and F in the KPZ regime. The porosity of the
+deposits monotonically increases with F and scales as F^{1/2} for small F,
+which is also explained by the scaling approach and illustrates the possibility
+of connecting surface growth rules and bulk properties. The suppression of
+relaxation mechanisms in BBD enhances the connectivity of the deposits when
+compared to other ballisticlike models, so that they percolate down to F~0.05.
+The fractal dimension of the internal surface of the percolating deposits is
+D_F~2.9, which is very close to the values in other ballisticlike models and
+suggests universality among these systems.

@@ -1,0 +1,5 @@
+A quantum equation-of-state model is presented and applied to the calculation
+of high-pressure shock Hugoniot curves beyond the asymptotic fourfold density,
+close to the maximum compression where quantum effects play a role. An
+analytical estimate for the maximum attainable compression is proposed. It
+gives a good agreement with the equation-of-state model.

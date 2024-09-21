@@ -1,0 +1,6 @@
+An intrinsically stable type-I optical parametric oscillator was built with a
+periodically poled KTiOPO4 (PPKTP) crystal to generate a stable bright,
+continuous-wave, broadband phase-squeezed beam. A 3.2 dB sensitivity
+enhancement of optical interferometry was demonstrated on weak electrooptic
+modulation signals within a 20 MHz squeezing bandwidth. This also realized a
+channel capacity increase beyond that of coherent optical communication.

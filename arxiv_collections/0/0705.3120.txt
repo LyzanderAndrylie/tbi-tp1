@@ -1,0 +1,8 @@
+I present time-dependent analytical solutions of quasi-steady shocks with
+cooling, where quasi-steady shocks are objects composed of truncated
+steady-state models of shocks at any intermediate time. I compare these
+solutions to simulations with a hydrodynamical code and finally discuss
+quasi-steady shocks as approximations to time-dependent shocks. Large departure
+of both the adiabatic and steady-state approximations from the quasi-steady
+solution emphasise the importance of the cooling history in determining the
+trajectory of a shock.

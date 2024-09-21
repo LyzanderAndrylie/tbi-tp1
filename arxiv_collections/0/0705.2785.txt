@@ -1,0 +1,10 @@
+We present evidence for D0-D0bar mixing in $D^0 \to K^{+}\pi^{-}$ decays from
+384 fb^{-1} of e+e- colliding-beam data recorded near sqrt(s)=10.6 GeV with the
+Babar detector at the PEP-II storage rings at SLAC. We find the mixing
+parameters ${x^{\prime}}^2 = [-0.22 \pm 0.30 (stat.) \pm 0.21 (syst.)] \times
+10^{-3}$ and $y^{\prime} = [9.7 \pm 4.4 (stat.) \pm 3.1 (syst.)] \times
+10^{-3}$, and a correlation between them of -0.94. This result is inconsistent
+with the no-mixing hypothesis with a significance of 3.9 standard deviations.
+We measure $R_{\rm D}$, the ratio of doubly Cabibbo-suppressed to
+Cabibbo-favored decay rates, to be $[0.303 \pm 0.016 (stat.) \pm 0.010 (syst.)]
+%$. We find no evidence for CP violation.

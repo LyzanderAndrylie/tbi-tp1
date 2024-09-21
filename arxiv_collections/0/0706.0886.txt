@@ -1,0 +1,11 @@
+We investigate two-dimensional neural fields as a model of the dynamics of
+macroscopic activations in a cortex-like neural system. While the
+one-dimensional case has been treated comprehensively by Amari 30 years ago,
+two-dimensional neural fields are much less understood. We derive conditions
+for the stability for the main classes of localized solutions of the neural
+field equation and study their behavior beyond parameter-controlled
+destabilization. We show that a slight modification of original model yields an
+equation whose stationary states are guaranteed to satisfy the original problem
+and numerically demonstrate that it admits localized non-circular solutions.
+Generically, however, only periodic spatial tessellations emerge upon
+destabilization of rotationally-invariant solutions.

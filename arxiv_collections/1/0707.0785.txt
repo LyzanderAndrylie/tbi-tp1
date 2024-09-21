@@ -1,0 +1,8 @@
+Divisibility monoids (resp. Garside monoids) are a natural algebraic
+generalization of Mazurkiewicz trace monoids (resp. spherical Artin monoids),
+namely monoids in which the distributivity of the underlying lattices (resp.
+the existence of common multiples) is kept as an hypothesis, but the relations
+between the generators are not supposed to necessarily be commutations (resp.
+be of Coxeter type). Here, we show that the quasi-center of these monoids can
+be studied and described similarly, and then we exhibit the intersection
+between the two classes of monoids.

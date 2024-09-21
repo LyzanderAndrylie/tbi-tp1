@@ -1,0 +1,14 @@
+The closedness condition for real geodesics on n-dimensional ellipsoids is in
+general transcendental in the parameters (semiaxes of the ellipsoid and
+constants of motion). We show that it is algebraic in the parameters if and
+only if both the real and the imaginary geodesics are closed and we
+characterize such double--periodicity condition via real hyperelliptic
+tangential coverings. We prove the density of algebraically closed geodesics on
+n-dimensional ellipsoids with respect to the natural topology in the
+(2n)-dimensional real parameter space. In particular, the approximating
+sequence of algebraic closed geodesics on the approximated ellipsoids may be
+chosen so to share the same values of the length and of the real period vector
+as the limiting closed geodesic on the limiting ellipsoid.
+  Finally, for real doubly-periodic geodesics on triaxial ellipsoids, we show
+how to evaluate algebraically the period mapping and we present some explicit
+examples of families of algebraically closed geodesics.

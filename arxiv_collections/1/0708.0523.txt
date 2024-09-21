@@ -1,0 +1,6 @@
+The energy relaxation in the spin-polarized disordered electron systems is
+studied in the diffusive regime. We derived the quantum kinetic equation in
+which the kernel of electron-electron collision integral explicitly depends on
+the electron magnetization. As the consequence, the inelastic scattering rate
+is found to have non-monotonic dependence on the spin polarization of the
+electron system.

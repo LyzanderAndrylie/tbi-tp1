@@ -1,0 +1,15 @@
+The quark model does not exclude states composed of more than three quarks,
+like pentaquark systems. Controversial evidence for such states has been
+published in the last years, in particular: for a strange pentaquark
+Theta(1540)+; for a double-strange state, the Xi(1862)--, subsequently called
+Phi(1860)--; and for a charmed state, the Theta_c(3100)^0. If confirmed, a full
+pentaquark family might exist; such pentaquark states could be produced in e+e-
+annihilations near the Z energy. In this paper a search for pentaquarks is
+described using the DELPHI detector at LEP, characterized by powerful particle
+identification sub-systems crucial in the separation of the signal from the
+background for these states. At 95% CL, upper limits are set on the production
+rates <N> of such particles and their charge-conjugate state per Z decay:
+  <N_Theta+> x Br(Theta+ -> pK0_S) < 5.1 x 10^{-4}
+  <N_Theta++> < 1.6 x 10^{-3}
+  <N_Phi(1860)-- > x Br(Phi(1860)-- -> Xi- pi-) < 2.9 x 10^{-4}
+  <Theta_c(3100)^0> x Br(Theta_c(3100)^0 -> D*+ pbar) < 8.8 x 10^{-4} .

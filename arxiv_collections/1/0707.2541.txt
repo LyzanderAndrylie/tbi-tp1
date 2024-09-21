@@ -1,0 +1,7 @@
+The cross section for e^+e^- to pi^+pi^-J/psi between 3.8 and 5.5 GeV/c^2 is
+measured using a 548 fb^{-1} data sample collected on or near the Upsilon(4S)
+resonance with the Belle detector at KEKB. A peak near 4.25 GeV/c^2,
+corresponding to the so called Y(4260), is observed. In addition, there is
+another cluster of events at around 4.05 GeV/c^2. A fit using two interfering
+Breit-Wigner shapes describes the data better than one that uses only the
+Y(4260), especially for the lower mass side of the 4.25 GeV enhancement.

@@ -1,0 +1,14 @@
+Reflectance, transmittance and absorbance of a symmetric light pulse, the
+carrying frequency of which is close to the frequency of interband transitions
+in a quantum well, are calculated. Energy levels of the quantum well are
+assumed discrete, and two closely located excited levels are taken into
+account. A wide quantum well (the width of which is comparable to the length of
+the light wave, corresponding to the pulse carrying frequency) is considered,
+and the dependance of the interband matrix element of the momentum operator on
+the light wave vector is taken into account. Refractive indices of barriers and
+quantum well are assumed equal each other. The problem is solved for an
+arbitrary ratio of radiative and nonradiative lifetimes of electronic
+excitations. It is shown that the spatial dispersion essentially affects the
+shapes of reflected and transmitted pulses. The largest changes occur when the
+radiative broadening is close to the difference of frequencies of interband
+transitions taken into account.

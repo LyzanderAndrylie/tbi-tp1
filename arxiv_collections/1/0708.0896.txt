@@ -1,0 +1,7 @@
+We study the nonlinear dynamics of the splitting of a doubly quantized vortex
+in a trapped condensate. The dynamics is studied in detail by solving the
+Gross-Pitaevskii equation. The main dynamical features are explained in terms
+of a nonlinear three-level system. We find an analytical solution for the
+characteristics of the dynamics. It is concluded that the time scale for the
+splitting is mainly determined by the instability of the linearized system, and
+nonlinear effects contribute logarithmically.

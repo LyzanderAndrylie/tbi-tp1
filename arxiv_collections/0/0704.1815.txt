@@ -1,0 +1,8 @@
+We show that local moment screening in a Kondo lattice with d-wave
+superconducting conduction electrons is qualitatively different from the
+corresponding single Kondo impurity case. Despite the conduction-electron
+pseudogap, Kondo-lattice screening is stable if the gap amplitude obeys $\Delta
+<\sqrt{\tk D}$, in contrast to the single impurity condition $\Delta <\tk$
+(where $\tk$ is the Kondo temperature for $\Delta = 0$ and D is the bandwidth).
+Our theory explains the heavy electron behavior in the d-wave superconductor
+Nd_{2-x}Ce_{x}CuO_{4}.

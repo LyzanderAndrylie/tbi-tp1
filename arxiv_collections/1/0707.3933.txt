@@ -1,0 +1,11 @@
+We have analyzed 1.62 fb$^{-1}$ of $e^{+}e^{-}$ collisions at a center of
+mass energy $\sim M_{\phi}$ collected by the KLOE experiment at DA$\Phi$NE.
+This sample corresponds to a production of $\sim$ 1.7 billion of $\ks$ $\kl$
+pairs which allowed us to search for the rare $K_S\to \gamma\gamma$ decay.
+$K_S$ are tagged by the $K_L$ interaction in the calorimeter and the signal is
+searched for by requiring two additional prompt photons. Strong kinematic
+requirements reduce the initial 0.5$\times 10^6$ events to 2300 candidates from
+which we extract a signal of 600 $\pm$ 35 events. By normalizing to the $\ks
+\to 2 \pi^0$ decays counted in the same sample, the measured value of BR($\ks
+\to \gamma\gamma$) is (2.27 $\pm 0.13(stat.) ^{+0.03}_{-0.04} (syst.)) \times
+10^{-6}$, in agreement with $O(P^4)$ Chiral Perturbation Theory predictions.

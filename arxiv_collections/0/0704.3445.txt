@@ -1,0 +1,8 @@
+We study the structure of the spectrum of a two-level quantum system weakly
+coupled to a boson field (spin-boson model). Our analysis allows to avoid the
+cutoff in the number of bosons, if their spectrum is bounded below by a
+positive constant. We show that, for small coupling constant, the lower part of
+the spectrum of the spin-boson Hamiltonian contains (one or two) isolated
+eigenvalues and (respectively, one or two) manifolds of atom $+ 1$-boson states
+indexed by the boson momentum $q$. The dispersion laws and generalized
+eigenfunctions of the latter are calculated.

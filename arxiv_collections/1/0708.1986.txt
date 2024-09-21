@@ -1,0 +1,19 @@
+Quantum computer possesses quantum parallelism and offers great computing
+power over classical computer \cite{er1,er2}. As is well-know, a moving quantum
+object passing through a double-slit exhibits particle wave duality. A quantum
+computer is static and lacks this duality property. The recently proposed
+duality computer has exploited this particle wave duality property, and it may
+offer additional computing power \cite{r1}. Simply put it, a duality computer
+is a moving quantum computer passing through a double-slit. A duality computer
+offers the capability to perform separate operations on the sub-waves coming
+out of the different slits, in the so-called duality parallelism. Here we show
+that an $n$-dubit duality computer can be modeled by an $(n+1)$-qubit quantum
+computer. In a duality mode, computing operations are not necessarily unitary.
+A $n$-qubit quantum computer can be used as an $n$-bit reversible classical
+computer and is energy efficient. Our result further enables a $(n+1)$-qubit
+quantum computer to run classical algorithms in a $O(2^n)$-bit classical
+computer. The duality mode provides a natural link between classical computing
+and quantum computing. Here we also propose a recycling computing mode in which
+a quantum computer will continue to compute until the result is obtained. These
+two modes provide new tool for algorithm design. A search algorithm for the
+unsorted database search problem is designed.

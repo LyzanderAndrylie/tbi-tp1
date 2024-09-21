@@ -1,0 +1,7 @@
+We review the deformed W-algebra Wqt(sl_N^) and its screening currents. We
+explicitly construct the local integrals of motion I_n for this deformed
+W-algebra. We explicitly construct the nonlocal integrals of motion G_n by
+means of the screening currents. Our integrals of motion commute with each
+other, and give the elliptic version of those for the Virasoro algebra and the
+W-algebra W(sl_3^), obtained by V.Bazhanov, A.Hibberd, S.Khoroshkin, S.Lukyanov
+and Al.Zamolodchikov.

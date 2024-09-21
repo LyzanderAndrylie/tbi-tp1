@@ -1,0 +1,14 @@
+Single molecule data made of on and off events are ubiquitous. Famous
+examples include enzyme turnover, probed via fluorescence, and opening and
+closing of ion-channel, probed via the flux of ions. The data reflects the
+dynamics in the underlying multi-substate on-off kinetic scheme (KS) of the
+process, but the determination of the underlying KS is difficult, and sometimes
+even impossible, due to the loss of information in the mapping of the
+mutli-dimensional KS onto two dimensions. A way to deal with this problem
+considers canonical (unique) forms. (Unique canonical form is constructed from
+an infinitely long trajectory, but many KSs.) Here we introduce canonical forms
+of reduced dimensions that can handle any KS (i.e. also KSs with symmetry and
+irreversible transitions). We give the mapping of KSs into reduced dimensions
+forms, which is based on topology of KSs, and the tools for extracting the
+reduced dimensions form from finite data. The canonical forms of reduced
+dimensions constitute a powerful tool in discriminating between KSs.

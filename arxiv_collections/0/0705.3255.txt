@@ -1,0 +1,10 @@
+We consider a generalization of the one-dimensional t-J model with
+anisotropic spin-spin interactions. We show that the anisotropy leads to an
+effective attractive interaction between the spinon and holon excitations,
+resulting in a localized bound state. Detailed quantitative analytic
+predictions for the dependence of the binding energy on the anisotropy are
+presented, and verified by precise numerical simulations. The binding energy is
+found to interpolate smoothly between a finite value in the t-Jz limit and zero
+in the isotropic limit, going to zero exponentially in the vicinity of the
+latter. We identify changes in spinon dispersion as the primary factor for this
+non-trivial behavior.

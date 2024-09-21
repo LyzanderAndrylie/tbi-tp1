@@ -1,0 +1,11 @@
+Confined electron spins are preferred candidates for embodying quantum
+information in the solid state. A popular idea is the use of optical excitation
+to achieve the ``best of both worlds'', i.e. marrying the long spin decoherence
+times with rapid gating. Here we study an all-optical adiabatic approach to
+generating single qubit phase gates. We find that such a gate can be extremely
+robust against the combined effect of all principal sources of decoherence,
+with an achievable fidelity of 0.999 even at finite temperature. Crucially this
+performance can be obtained with only a small time cost: the adiabatic gate
+duration is within about an order of magnitude of a simple dynamic
+implementation. An experimental verification of these predictions is
+immediately feasible with only modest resources.

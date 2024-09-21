@@ -1,0 +1,9 @@
+We address quantum critical systems as a resource in quantum estimation and
+derive the ultimate quantum limits to the precision of any estimator of the
+coupling parameters. In particular, if L denotes the size of a system and
+\lambda is the relevant coupling parameters driving a quantum phase transition,
+we show that a precision improvement of order 1/L may be achieved in the
+estimation of \lambda at the critical point compared to the non-critical case.
+We show that analogue results hold for temperature estimation in classical
+phase transitions. Results are illustrated by means of a specific example
+involving a fermion tight-binding model with pair creation (BCS model).

@@ -1,0 +1,7 @@
+In this paper we attempt to reconstruct one of the last projects of Volodya
+Geyler which remained unfinished. We study motion of a quantum particle in the
+plane to which a halfline lead is attached assuming that the particle has spin
+$\frac12$ and the plane component of the Hamiltonian contains a spin-orbit
+interaction of either Rashba or Dresselhaus type. We construct the class of
+admissible Hamiltonians and derive an explicit expression for the Green
+function applying it to the scattering in such a system.

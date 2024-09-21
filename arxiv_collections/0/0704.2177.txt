@@ -1,0 +1,24 @@
+(Abridged) Luminous Compact Galaxies (LCGs) (M_B < -20, R_{1/2} < 4.5kpc and
+EW_{0}(OII) >15\AA) constitute one of the most rapidly evolving galaxy
+populations over the last ~8 Gyr history of the universe. Due to their
+inherently compact sizes, any detailed quantitative analysis of their
+morphologies has proved to be difficult in the past. In this work we use the
+high angular resolution imaging data, from the HST/ACS GOODS survey, to study
+the quantitative morphology of a complete sample of LCGs in the redshift range
+0.5 < z < 1.2. We have derived structural parameters for a representative
+sample of 39 LCGs selected from the GOODS-S field, using full 2-dimensional
+surface brightness profile fitting of the galaxy images in each of the four
+filters available. B-z color maps are used as an aid in the morphological
+classification. We then use the rest frame B band bulge flux fraction (B/T) to
+determine the morphological class of the galaxies. Mergers were essentially
+identified visually by the presence of multiple maxima of comparable intensity
+in the rest frame B band images, aided by the color maps to distinguish them
+from HII regions. We derive the following morphological mix for our sample of
+intermediate redshift LCGs: Mergers: ~36%, Disk dominated: ~22%, S0: ~20%,
+Early types: ~7%, Irr/tadpole: ~15%. We establish that our sample LCGs are
+intermediate mass objects with a median stellar mass of Log(M/M_{\odot})=10.32.
+We also derive dust enshrouded SFR values ranging from a few to ~65
+$M_{\odot}$/year using Spitzer 24$\mu m$ data. We estimate a factor ~11 fall in
+the comoving number density of blue LCGs from redshifts 0.5 < z < 1.2 to the
+current epoch. We finally discuss the evolutionary scenario of these LCGs which
+might give us some clues regarding their descendants in the local universe.

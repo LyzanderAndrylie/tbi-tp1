@@ -1,0 +1,18 @@
+For points in $d$ real dimensions, we introduce a geometry for general digit
+sets. We introduce a positional number system where the basis for our
+representation is a fixed $d$ by $d$ matrix over $\bz$. Our starting point is a
+given pair $(A, \mathcal D)$ with the matrix $A$ assumed expansive, and
+$\mathcal D$ a chosen complete digit set, i.e., in bijective correspondence
+with the points in $\bz^d/A^T\bz^d$. We give an explicit geometric
+representation and encoding with infinite words in letters from $\mathcal D$.
+We show that the attractor $X(A^T,\mathcal D)$ for an affine Iterated Function
+System (IFS) based on $(A,\mathcal D)$ is a set of fractions for our digital
+representation of points in $\br^d$. Moreover our positional "number
+representation" is spelled out in the form of an explicit IFS-encoding of a
+compact solenoid $\sa$ associated with the pair $(A,\mathcal D)$. The intricate
+part (Theorem \ref{thenccycl}) is played by the cycles in $\bz^d$ for the
+initial $(A,\mathcal D)$-IFS. Using these cycles we are able to write down
+formulas for the two maps which do the encoding as well as the decoding in our
+positional $\mathcal D$-representation.
+  We show how some wavelet representations can be realized on the solenoid, and
+on symbolic spaces.

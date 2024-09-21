@@ -1,0 +1,6 @@
+Many important applications are available for nonlinear reaction-diffusion
+equation especially in the area of biology and engineering. Therefore a
+mathematical model for Lie symmetry reduction of system of nonlinear
+reaction-diffusion equation with respect to one-dimensional Algebra is carried
+out in this work. Some classes of analytical and numerical solutions are
+obtained and expressed using suitable graphs.

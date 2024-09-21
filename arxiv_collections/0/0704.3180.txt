@@ -1,0 +1,4 @@
+We extend next-to-leading logarithmic threshold and joint resummation for
+prompt photon production to include leading collinear effects. The impact of
+these effects is assessed for both fixed-target and collider kinematics. We
+find them in general to be small, but noticeable.

@@ -1,0 +1,8 @@
+In the quest for signatures of coherent transport we consider exciton
+trapping in the continuous-time quantum walk framework. The survival
+probability displays different decay domains, related to distinct regions of
+the spectrum of the Hamiltonian. For linear systems and at intermediate times
+the decay obeys a power-law, in contrast to the corresponding exponential decay
+found in incoherent continuous-time random walk situations. To differentiate
+between the coherent and incoherent mechanisms, we present an experimental
+protocol based on a frozen Rydberg gas structured by optical dipole traps.

@@ -1,0 +1,17 @@
+Thermal inertia determines the temperature distribution over the surface of
+an asteroid and therefore governs the magnitude the Yarkovsky effect. The
+latter causes gradual drifting of the orbits of km-sized asteroids and plays an
+important role in the delivery of near-Earth asteroids (NEAs) from the main
+belt and in the dynamical spreading of asteroid families. At present, very
+little is known about the thermal inertia of asteroids in the km size range.
+Here we show that the average thermal inertia of a sample of NEAs in the
+km-size range is 200 $\pm$ 40 J m&#8722;2 s&#8722;0.5 K&#8722;1. Furthermore,
+we identify a trend of increasing thermal inertia with decreasing asteroid
+diameter, D. This indicates that the dependence of the drift rate of the
+orbital semimajor axis on the size of asteroids due to the Yarkovsky effect is
+a more complex function than the generally adopted D^(&#8722;1) dependence, and
+that the size distribution of objects injected by Yarkovsky-driven orbital
+mobility into the NEA source regions is less skewed to smaller sizes than
+generally assumed. We discuss how this fact may help to explain the small
+difference in the slope of the size distribution of km-sized NEAs and main-belt
+asteroids.

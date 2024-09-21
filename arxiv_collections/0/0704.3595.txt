@@ -1,0 +1,8 @@
+In this paper we derive 4-dimensional General Relativity from three
+dimensions, using the intrinsic spatial geometry inherent in Yang--Mills theory
+which has been exposed by previous authors as well as as some properties of the
+Ashtekar variables. We provide various interesting relations, including the
+fact that General Relativity can be written as a Yang--Mills theory where the
+antiself-dual Weyl curvature replaces the Yang--Mills coupling constant. We
+have generalized the results of some previous authors, covering Einsteins
+spaces, to include more general spacetime geometries.

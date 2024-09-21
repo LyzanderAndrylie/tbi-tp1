@@ -1,0 +1,21 @@
+Ignition delay times of cyclohexane-oxygen-argon and
+cyclopentane-oxygen-argon mixtures have been measured in a shock tube, the
+onset of ignition being detected by OH radical emission. Mixtures contained 0.5
+or 1 % of hydrocarbon for equivalence ratios ranging from 0.5 to 2. Reflected
+shock waves allowed temperatures from 1230 to 1800 K and pressures from 7.3 to
+9.5 atm to be obtained. These measurements have shown that cyclopentane is much
+less reactive than cyclohexane, as for a given temperature the observed
+autoignition delay times were about ten times higher for the C5 compound
+compared to the C6. Detailed mechanisms for the combustion of cyclohexane and
+cyclopentane have been proposed to reproduce these results. The elementary
+steps included in the kinetic models of the oxidation of cyclanes are close to
+those proposed to describe the oxidation of acyclic alkanes and alkenes.
+Consequently, it has been possible to obtain these models by using an improved
+version of software EXGAS, a computer package developed to perform the
+automatic generation of detailed kinetic models for the gas-phase oxidation and
+combustion of linear and branched alkanes and alkenes. Nevertheless, the
+modelling of the oxidation of cyclanes requires to consider new types of
+generic reactions, and especially to define new correlations for the estimation
+of the rate constants. Ab initio calculations have been used to better know
+some of the rate constants used in the case of cyclopentane. The main reaction
+pathways have been derived from flow rate and sensitivity analyses.

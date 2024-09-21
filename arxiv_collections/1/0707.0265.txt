@@ -1,0 +1,15 @@
+We studied the non-equilibrium dynamics of the q-state Potts model in the
+square lattice, after a quench to sub-critical temperatures. By means of a
+continuous time Monte Carlo algorithm (non-conserved order parameter dynamics)
+we analyzed the long term behavior of the energy and relaxation time for a wide
+range of quench temperatures and system sizes. For q>4 we found the existence
+of different dynamical regimes, according to quench temperature range. At low
+(but finite) temperatures and very long times the Lifshitz-Allen-Cahn domain
+growth behavior is interrupted with finite probability when the system stuck in
+highly symmetric non-equilibrium metastable states, which induce activation in
+the domain growth, in agreement with early predictions of Lifshitz [JETP 42,
+1354 (1962)]. Moreover, if the temperature is very low, the system always gets
+stuck at short times in a highly disordered metastable states with finite life
+time, which have been recently identified as glassy states. The finite size
+scaling properties of the different relaxation times involved, as well as their
+temperature dependency are analyzed in detail.

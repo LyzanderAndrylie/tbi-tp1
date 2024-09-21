@@ -1,0 +1,10 @@
+In the present paper, we investigate the dynamics of a Bose-Einstein
+condensates (BEC) loaded into an deep optical lattice of 1D, 2D and 3D, both
+analytically and numerically. We focus on the self-trapping state and the
+effect of the system dimension. Under the tight-binding approximation we obtain
+an analytical criterion for the self-trapping state of BEC using time-dependent
+variational method. The phase diagram for self-trapping, soliton, breather, or
+diffusion of the BEC cloud is obtained accordingly and verified by directly
+solving the discrete Gross-Pitaevskii equation (GPE) numerically. In
+particular, we find that the criterion and the phase diagrams are modified
+dramatically by the dimension of the lattices.

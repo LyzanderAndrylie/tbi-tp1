@@ -1,0 +1,5 @@
+We theoretically study the Fano-Kondo effect in a triple quantum dot (QD)
+system where two QDs constitute a two-level system and the other QD works in a
+detector with electrodes. We found that the Fano dip is clearly modulated by
+strongly coupled QDs in a two-level system and a slow detector with no
+interacting QD. This setup suggests a new method of reading out qubit states.

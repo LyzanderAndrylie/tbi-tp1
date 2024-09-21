@@ -1,0 +1,16 @@
+We study the properties of $g^{1}$, the first excited state of the gluon in
+representative variants of the Randall Sundrum model with the Standard Model
+fields in the bulk. We find that measurements of the coupling to light quarks
+(from the inclusive cross-section for $pp\to g^{1} \to t\bar t$), the coupling
+to bottom quarks (from the rate of $pp\to g^{1} b$), as well as the overall
+width, can provide powerful discriminants between the models. In models with
+large brane kinetic terms, the $g^1$ resonance can even potentially be
+discovered decaying into dijets against the large QCD background. We also
+derive bounds based on existing Tevatron searches for resonant $t \bar{t}$
+production and find that they require $M_{g^{1}} \gtrsim 950$ GeV. In addition
+we explore the pattern of interference between the $g^1$ signal and the
+non-resonant SM background, defining an asymmetry parameter for the invariant
+mass distribution. The interference probes the relative signs of the couplings
+of the $g^{1}$ to light quark pairs and to $t\bar t$, and thus provides an
+indication that the top is localized on the other side of the extra dimension
+from the light quarks, as is typical in the RS framework.

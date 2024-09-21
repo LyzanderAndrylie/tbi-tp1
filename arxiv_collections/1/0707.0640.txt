@@ -1,0 +1,13 @@
+In our first paper, we showed how a non-local effective Hamiltionian for
+short-ranged wetting may be derived from an underlying Landau-Ginzburg-Wilson
+model. Here, we combine the Green's function method with standard perturbation
+theory to determine the general diagrammatic form of the binding potential
+functional beyond the double-parabola approximation for the
+Landau-Ginzburg-Wilson bulk potential. The main influence of cubic and quartic
+interactions is simply to alter the coefficients of the double parabola-like
+zig-zag diagrams and also to introduce curvature and tube-interaction
+corrections (also represented diagrammatically), which are of minor importance.
+Non-locality generates effective long-ranged many-body interfacial interactions
+due to the reflection of tube-like fluctuations from the wall. Alternative wall
+boundary conditions (with a surface field and enhancement) and the diagrammatic
+description of tricritical wetting are also discussed.

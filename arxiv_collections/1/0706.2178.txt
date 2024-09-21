@@ -1,0 +1,12 @@
+We introduce and solvev a special family of integrable interacting vertex
+models that generalizes the well known six-vertex model. In addition to the
+usual nearest-neighbor interactions among the vertices, there exist extra
+hard-core interactions among pair of vertices at larger distances.The
+associated row-to-row transfer matrices are diagonalized by using the recently
+introduced matrix product {\it ansatz}. Similarly as the relation of the
+six-vertex model with the XXZ quantum chain, the row-to-row transfer matrices
+of these new models are also the generating functions of an infinite set of
+commuting conserved charges. Among these charges we identify the integrable
+generalization of the XXZ chain that contains hard-core exclusion interactions
+among the spins. These quantum chains already appeared in the literature. The
+present paper explains their integrability.

@@ -1,0 +1,9 @@
+Suppose that a target function is monotonic, namely, weakly increasing, and
+an original estimate of the target function is available, which is not weakly
+increasing. Many common estimation methods used in statistics produce such
+estimates. We show that these estimates can always be improved with no harm
+using rearrangement techniques: The rearrangement methods, univariate and
+multivariate, transform the original estimate to a monotonic estimate, and the
+resulting estimate is closer to the true curve in common metrics than the
+original estimate. We illustrate the results with a computational example and
+an empirical example dealing with age-height growth charts.

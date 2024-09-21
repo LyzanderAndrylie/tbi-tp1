@@ -1,0 +1,9 @@
+We use geometric methods to calculate a formula for the complex
+Monge-Amp\`ere measure $(dd^cV_K)^n$, for $K \Subset \RR^n \subset \CC^n$ a
+convex body and $V_K$ its Siciak-Zaharjuta extremal function. Bedford and
+Taylor had computed this for symmetric convex bodies $K$. We apply this to show
+that two methods for deriving Bernstein-Markov-type inequalities, i.e.,
+pointwise estimates of gradients of polynomials, yield the same results for all
+convex bodies. A key role is played by the geometric result that the extremal
+inscribed ellipses appearing in approximation theory are the maximal area
+ellipses determining the complex Monge-Amp\`ere solution $V_K$.

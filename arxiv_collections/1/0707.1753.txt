@@ -1,0 +1,10 @@
+Let $\Sc(\vL)$ be the cyclotomic $q$-Schur algebra associated to the
+Ariki-Koike algebra $\He_{n,r}$, introduced by Dipper-James-Mathas. In this
+paper, we consider $v$-decomposition numbers of $\Sc(\vL)$, namely
+decomposition numbers with respect to the Jantzen filtrations of Weyl modules.
+We prove, as a $v$-analogue of the result obtained by Shoji-Wada, a product
+formula for $v$-decomposition numbers of $\Sc(\vL)$, which asserts that certain
+$v$-decomposition numbers are expressed as a product of $v$-decomposition
+numbers for various cyclotomic $q$-Schur algebras associated to Ariki-koike
+algebras $\He_{n_i,r_i}$ of smaller rank. Moreover we prove a similar formula
+for $v$-decomposition numbers of $\He_{n,r}$ by using a Schur functor.

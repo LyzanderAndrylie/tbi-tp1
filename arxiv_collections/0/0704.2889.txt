@@ -1,0 +1,12 @@
+The present work extends our short communication Phys. Rev. Lett. 95, 111102
+(2005). For smooth marginally outer trapped surfaces (MOTS) in a smooth
+spacetime we define stability with respect to variations along arbitrary
+vectors v normal to the MOTS. After giving some introductory material about
+linear non self-adjoint elliptic operators, we introduce the stability operator
+L_v and we characterize stable MOTS in terms of sign conditions on the
+principal eigenvalue of L_v. The main result shows that given a strictly stable
+MOTS S contained in one leaf of a given reference foliation in a spacetime,
+there is an open marginally outer trapped tube (MOTT), adapted to the reference
+foliation, which contains S. We give conditions under which the MOTT can be
+completed. Finally, we show that under standard energy conditions on the
+spacetime, the MOTT must be either locally achronal, spacelike or null.

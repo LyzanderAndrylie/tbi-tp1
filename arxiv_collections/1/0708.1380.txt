@@ -1,0 +1,9 @@
+A measurement of W->e nu + n-jet cross sections in ppbar collisions at
+sqrt(s)=1.96 TeV using the Collider Detector at Fermilab in Run II is
+presented. The measurement is based on an integrated luminosity of 320 pb-1,
+and includes events with jet multiplicity from >= 1 to >= 4. In each jet
+multiplicity sample the differential and cumulative cross sections with respect
+to the transverse energy of the n^(th)-leading jet are measured. For W+>=2 jets
+the differential cross section with respect to the 2-leading jets invariant
+mass m_(j_(1)j_(2)) and angular separation Delta R_(j_(1)j_(2)) is also
+reported. The data are compared to predictions from Monte Carlo simulations.

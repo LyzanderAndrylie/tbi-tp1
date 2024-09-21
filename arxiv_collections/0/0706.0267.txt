@@ -1,0 +1,23 @@
+A theory of both linear and nonlinear electromagnetic response of a single QD
+exposed to quantum light, accounting the depolarization induced local--field
+has been developed. Based on the microscopic Hamiltonian accounting for the
+electron--hole exchange interaction, an effective two--body Hamiltonian has
+been derived and expressed in terms of the incident electric field, with a
+separate term describing the QD depolarization. The quantum equations of motion
+have been formulated and solved with the Hamiltonian for various types of the
+QD excitation, such as Fock qubit, coherent fields, vacuum state of
+electromagnetic field and light with arbitrary photonic state distribution. For
+a QD exposed to coherent light, we predict the appearance of two oscillatory
+regimes in the Rabi effect separated by the bifurcation. In the first regime,
+the standard collapse--revivals phenomenon do not reveal itself and the QD
+population inversion is found to be negative, while in the second one, the
+collapse--revivals picture is found to be strongly distorted as compared with
+that predicted by the standard Jaynes-Cummings model. %The model developed can
+easily be extended to %%electromagnetic excitation. For the case of QD
+interaction with arbitrary quantum light state in the linear regime, it has
+been shown that the local field induce a fine structure of the absorbtion
+spectrum. Instead of a single line with frequency corresponding to which the
+exciton transition frequency, a duplet is appeared with one component shifted
+by the amount of the local field coupling parameter. It has been demonstrated
+the strong light--mater coupling regime arises in the weak-field limit. A
+physical interpretation of the predicted effects has been proposed.

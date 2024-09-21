@@ -1,0 +1,14 @@
+Using first principles calculations in the framework of Density Functional
+Theory, we investigated the electronic and transport properties of
+metal(II)-phthalocyanine (M(II)Pc) systems, both in a single molecule
+configuration and in a model-device geometry. In particular, using the
+Copper(II)- and Manganese(II)-Pc as prototypical examples, we studied how
+electronic correlations on the central metal-ion influence the analysis of the
+electronic structure of the system and we demonstrated that the choice of the
+exchange-correlation functional, also beyond the standard local or gradient
+corrected level, is of crucial importance for a correct interpretation of the
+data. Finally, our electronic transport simulations have shown that
+M(II)Pc-based devices can act selectively as molecular conductors, as in the
+case of Copper, or as spin valves, as in the case of Manganese, demonstrating
+once more the great potential of these systems for molecular nanoelectronics
+applications.

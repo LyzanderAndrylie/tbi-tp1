@@ -1,0 +1,8 @@
+Using the results found previously for the cooling rates of the emittances,
+due to collisions between the electrons and the ions, a result is found for the
+friction force acting on the ions. It is shown that the friction force found
+here when used to track the ion bunch will give the same emittance cooling
+rates as those found using the intrabeam scattering theory for electron cooling
+>.For the case of the uniform in space electron bunch distribution, the
+friction force found here agrees with the friction force result found with the
+usual theory of electron cooling.

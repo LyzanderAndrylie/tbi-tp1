@@ -1,0 +1,9 @@
+We present a Brownian inchworm model of a self-propelled elastic dimer in the
+absence of an external potential. Nonequilibrium noise together with a
+stretch-dependent damping form the propulsion mechanism. Our model connects
+three key nonequilibrium features -- position-velocity correlations, a nonzero
+mean internal force, and a drift velocity. Our analytical results, including
+striking current reversals, compare very well with numerical simulations. The
+model unifies the propulsion mechanisms of DNA helicases, polar rods on a
+vibrated surface, crawling keratocytes and Myosin VI. We suggest experimental
+realizations and tests of the model.

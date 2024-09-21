@@ -1,0 +1,11 @@
+Real-time access to accurate and reliable timing information is necessary to
+profile scientific applications, and crucial as simulations become increasingly
+complex, adaptive, and large-scale. The Cactus Framework provides flexible and
+extensible capabilities for timing information through a well designed
+infrastructure and timing API. Applications built with Cactus automatically
+gain access to built-in timers, such as gettimeofday and getrusage,
+system-specific hardware clocks, and high-level interfaces such as PAPI. We
+describe the Cactus timer interface, its motivation, and its implementation. We
+then demonstrate how this timing information can be used by an example
+scientific application to profile itself, and to dynamically adapt itself to a
+changing environment at run time.

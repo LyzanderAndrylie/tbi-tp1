@@ -1,0 +1,10 @@
+We present a comprehensive study of event-by-event multiplicity fluctuations
+in nucleon-nucleon and nucleus-nucleus interactions from AGS/FAIR to RHIC
+energies within the UrQMD transport approach. The scaled variances of negative,
+positive, and all charged hadrons are analysed. The scaled variance in central
+Pb+Pb collisions increases with energy and behaves similar to inelastic p+p
+interactions. We find a non-trivial dependence of multiplicity fluctuations on
+the rapidity and transverse momentum interval used for the analysis and on the
+centrality selection procedure. Quantitative predictions for the NA49
+experiment are given, taking into account the acceptance of the detector and
+the selection procedure of central events.

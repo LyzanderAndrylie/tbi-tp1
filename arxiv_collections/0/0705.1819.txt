@@ -1,0 +1,11 @@
+We study the influence of surface Andreev bound states in d-wave
+superconductors on the Bean-Livingston surface barrier for entry of a vortex
+line into a strongly type-II superconductor. Starting from Eilenberger theory
+we derive a generalization of London theory to incorporate the anomalous
+surface currents arising from the Andreev bound states. This allows us to find
+an analytical expression for the modification of the Bean-Livingston barrier in
+terms of a single parameter describing the influence of the Andreev bound
+states. We find that the field of first vortex entry is significantly enhanced.
+Also, the depinning field for vortices near the surface is renormalized. Both
+effects are temperature dependent and depend on the orientation of the surface
+relative to the d-wave gap function.

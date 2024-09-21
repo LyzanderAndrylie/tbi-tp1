@@ -1,0 +1,16 @@
+In this paper we present an upper bound for the decay of correlation for the
+stationary stochastic process associated with the Entropy Penalized Method. Let
+$L(x, v):\Tt^n\times\Rr^n\to \Rr$ be a Lagrangian of the form
+  L(x,v) = {1/2}|v|^2 - U(x) + < P, v>.
+  For each value of $\epsilon $ and $h$, consider the operator
+  \Gg[\phi](x):= -\epsilon h {ln}[\int_{\re^N} e
+^{-\frac{hL(x,v)+\phi(x+hv)}{\epsilon h}}dv], as well as the reversed operator
+\bar \Gg[\phi](x):= -\epsilon h {ln}[\int_{\re^N}
+e^{-\frac{hL(x+hv,-v)+\phi(x+hv)}{\epsilon h}}dv], both acting on continuous
+functions $\phi:\Tt^n\to \Rr$. Denote by $\phi_{\epsilon,h} $ the solution of
+$\Gg[\phi_{\epsilon,h}]=\phi_{\epsilon,h}+\lambda_{\epsilon,h}$, and by $\bar
+\phi_{\epsilon,h} $ the solution of $\bar \Gg[\phi_{\epsilon,h}]=\bar
+\phi_{\epsilon,h}+\lambda_{\epsilon,h}$. In order to analyze the decay of
+correlation for this process we show that the operator $ {\cal L} (\phi) (x) =
+\int e^{- \frac{h L (x,v)}{\epsilon}} \phi(x+h v) d v,$ has a maximal
+eigenvalue isolated from the rest of the spectrum.

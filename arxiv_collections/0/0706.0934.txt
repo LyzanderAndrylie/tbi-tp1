@@ -1,0 +1,14 @@
+Using the spin wave approximation, we study the decoherence dynamics of a
+central spin coupled to an antiferromagnetic environment under the application
+of an external global magnetic field. The external magnetic field affects the
+decoherence process through its effect on the antiferromagnetic environment. It
+is shown explicitly that the decoherence factor which displays a Gaussian decay
+with time depends on the strength of the external magnetic field and the
+crystal anisotropy field in the antiferromagnetic environment. When the values
+of the external magnetic field is increased to the critical field point at
+which the spin-flop transition (a first-order quantum phase transition) happens
+in the antiferromagnetic environment, the decoherence of the central spin
+reaches its highest point. This result is consistent with several recent
+quantum phase transition witness studies. The influences of the environmental
+temperature on the decoherence behavior of the central spin are also
+investigated.

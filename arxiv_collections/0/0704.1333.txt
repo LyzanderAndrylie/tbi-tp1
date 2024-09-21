@@ -1,0 +1,3 @@
+We prove a dynamical version of the Mordell-Lang conjecture in the context of
+Drinfeld modules. We use analytic methods similar to the ones employed by
+Skolem, Chabauty, and Coleman for studying diophantine equations.

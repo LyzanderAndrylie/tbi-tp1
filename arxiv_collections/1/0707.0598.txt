@@ -1,0 +1,13 @@
+The discriminant-analysis method has been applied to optimize the exotic-beam
+charge recognition in a projectile fragmentation experiment. The experiment was
+carried out at the GSI using the fragment separator (FRS) to produce and select
+the relativistic secondary beams, and the ALADIN setup to measure their
+fragmentation products following collisions with Sn target nuclei. The beams of
+neutron poor isotopes around 124La and 107Sn were selected to study the isospin
+dependence of the limiting temperature of heavy nuclei by comparing with
+results for stable 124Sn projectiles. A dedicated detector to measure the
+projectile charge upstream of the reaction target was not used, and alternative
+methods had to be developed. The presented method, based on the multivariate
+discriminant analysis, allowed to increase the efficacy of charge recognition
+up to about 90%, which was about 20% more than achieved with the simple scalar
+methods.

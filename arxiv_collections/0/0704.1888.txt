@@ -1,0 +1,7 @@
+We develop the theory of N-homogeneous algebras in a super setting, with
+particular emphasis on the Koszul property. To any Hecke operator on a vector
+superspace, we associate certain superalgebras and generalizing the ordinary
+symmetric and Grassmann algebra, respectively. We prove that these algebras are
+N-Koszul. For the special case where the Hecke operator is the ordinary
+supersymmetry, we derive an $N$-generalized super-version of MacMahon's
+classical "master theorem".

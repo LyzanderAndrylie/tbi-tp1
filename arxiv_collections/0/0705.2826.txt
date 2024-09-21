@@ -1,0 +1,10 @@
+We study experimentally the collective motion of grains inside a U shaped
+tube undergoing vertical oscillations, and we develop a very simple
+quantitative model that captures relevant features of the observed behaviour.
+The height difference between the granular columns grows with time when the
+system is shaken at sufficiently low frequencies. The system exhibits two types
+of growth: exponentially divergent (type I) and exponentially saturating (type
+II), depending on the size of the grains. The type I growth can be quenched by
+removing the air whereas the type II behavior can occur in the absence of air.
+There is a good agreement between the model proposed and our experimental
+results.

@@ -1,0 +1,8 @@
+We have observed resonant energy transfer between cold Rydberg atoms in
+spatially separated cylinders. Resonant dipole-dipole coupling excites the 49s
+atoms in one cylinder to the 49p state while the 41d atoms in the second
+cylinder are transferred down to the 42p state. We have measured the production
+of the 49p state as a function of separation of the cylinders (0 - 80 um) and
+the interaction time (0 - 25 us). In addition we measured the width of the
+electric field resonances. A full many-body quantum calculation reproduces the
+main features of the experiments.

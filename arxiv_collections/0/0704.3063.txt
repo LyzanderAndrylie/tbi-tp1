@@ -1,0 +1,18 @@
+We report on a search for the radiative decay of Upsilon(1S) to the
+pseudoscalar mesons eta and etaprime in 21.2 +/- 0.2 times 10^6 Upsilon(1S)
+decays collected with the CLEO III detector at the Cornell Electron Storage
+Ring (CESR). The eta meson was reconstructed in the three modes eta to
+gamma-gamma, eta to pi+pi-pi0 and eta to 3pi0. The etaprime meson was
+reconstructed in the mode etaprime to pi+ pi- eta with eta decaying through any
+of the above three modes, and also etaprime to gamma rho, where rho decays to
+pi^+ pi^-.
+  Five out of the seven sub-modes are found to be virtually background-free. In
+four of them we find no signal candidates and in one Upsilon(1S) to
+gamma-etaprime, etaprime to pi+ pi- eta, eta to pi+pi-pi0 there are two good
+signal candidates, which is insufficient evidence to claim a signal. The other
+two sub-modes eta to gamma-gamma and etaprime to gamma rho are background
+limited, and show no excess of events in their signal regions. We combine the
+results from different channels and obtain upper limits at the 90% C.L. which
+are B(Upsilon(1S) to gamma eta) < 1.0 times 10^-6 and B(Upsilon(1S) to gamma
+etaprime) < 1.9 times 10^-6. Our limits are an order of magnitude tighter than
+the previous ones and below the predictions made by some theoretical models.

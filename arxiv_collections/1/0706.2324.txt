@@ -1,0 +1,6 @@
+We show that any bijection between two root systems that preserves angles
+(but not necessarily lengths) gives rise to inequalities relating tensor
+product multiplicities for the corresponding complex semisimple Lie groups (or
+Lie algebras). We explain the inequalities in two ways: combinatorially, using
+Littelmann's Path Model, and geometrically, using isogenies between algebaric
+groups defined over an algebraically closed field of positive characteristic.

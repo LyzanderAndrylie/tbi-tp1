@@ -1,0 +1,9 @@
+Using methods previously developed by Kelbg and others for creating effective
+potentials for electron-ion plasmas, we investigate quarkonium potentials above
+deconfinement. Using results for the internal energy of a static
+quark-antiquark pair, a set of effective potentials are constructed that take
+into account quantum effects and symmetry conditions. Bound state effects are
+explicitly included in order to account for the strongly coupled nature of
+plasmas. It is hoped that these effective potentials will be useful in
+simulations of heavy quarks or plasma quasiparticles when the dynamics is
+treated classically.

@@ -1,0 +1,16 @@
+We use traveling-wave theory to derive expressions for the rate of
+accumulation of deleterious mutations under Muller's ratchet and the speed of
+adaptation under positive selection in asexual populations. Traveling-wave
+theory is a semi-deterministic description of an evolving population, where the
+bulk of the population is modeled using deterministic equations, but the class
+of the highest-fitness genotypes, whose evolution over time determines loss or
+gain of fitness in the population, is given proper stochastic treatment. We
+derive improved methods to model the highest-fitness class (the stochastic
+edge) for both Muller's ratchet and adaptive evolution, and calculate analytic
+correction terms that compensate for inaccuracies which arise when treating
+discrete fitness classes as a continuum. We show that traveling wave theory
+makes excellent predictions for the rate of mutation accumulation in the case
+of Muller's ratchet, and makes good predictions for the speed of adaptation in
+a very broad parameter range. We predict the adaptation rate to grow
+logarithmically in the population size until the population size is extremely
+large.

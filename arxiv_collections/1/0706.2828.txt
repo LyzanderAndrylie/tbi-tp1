@@ -1,0 +1,9 @@
+Generalizing the results of Kojima, Gritsenko and Krieg, we define an adelic
+version of the Maass space for hermitian modular forms of weight k regarded as
+functions on adelic points of the quasi-split unitary group U(2,2) associated
+with an imaginary quadratic extension F/Q of discriminant D_F. When the class
+number h_F of F is odd, we show that the Maass space is invariant under the
+action of the local Hecke algebras of U(2,2)(Q_p) for all p not dividing D_F.
+As a consequence we obtain a Hecke-equivariant injective map from the Maass
+space to the h_F-fold direct product of the space of elliptic modular forms of
+weight k-1 and level D_F.

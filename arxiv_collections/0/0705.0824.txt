@@ -1,0 +1,16 @@
+We have constructed an approximate microscopic model for the neutron dynamic
+structure factor of solid methane in phase II. We expect our model to apply for
+neutron energies below 1\textit{eV} at pressures near 1 bar and temperatures
+below 20K, where solid methane exists in a phase, called phase II, in which the
+tetrahedral hydrogens exist in a mixed phase of free rotors and hindered
+rotors. Certain matrix elements needed for the dynamic structure factor $S(Q,
+\omega)$ are adapted from a calculation by Ozaki \textit{et
+al.}\cite{ozaki:3442}\cite{ozaki2}. The model treats the effects of molecular
+translations, intramolecular vibrations and the free and hindered rotational
+degrees of freedom as uncoupled ones. Total scattering cross sections
+calculated from the model agree with the cross section measurements of
+Grieger\cite{grieger:3161} and Whittemore\cite{Wittemore} for the incident
+neutron energies of 0.5 \textit{meV} $\sim$ 1\textit{eV}. The effective density
+of states extracted from the model was compared with the Harker $&$ Brugger
+frequency spectrum extracted from neutron scattering measurements conducted at
+22K\cite{HARKER1967}.

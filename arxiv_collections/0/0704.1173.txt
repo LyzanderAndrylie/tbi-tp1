@@ -1,0 +1,10 @@
+We analyzed the influence of static gravitational field on the vacuum and
+proposed the concept of inhomogeneous vacuum. According to the observational
+result of the light deflection in solar gravitational field as well as the
+corresponding Fermat's principle in the general relativity, we derived an
+analytical expression of the refractive index of vacuum in a static
+gravitational field. We found that the deviation of the vacuum refractive index
+is composed of two parts: one is caused by the time dilation effect, the other
+is caused by the length contraction effect. As an application, we simulated the
+effect of the gravitational lensing through computer programming and found that
+the missing central imaging could be interpreted in a reasonable way.

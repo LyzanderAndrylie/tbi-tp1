@@ -1,0 +1,9 @@
+We present experimental, numerical and theoretical studies of a vortex front
+propagating into a region of vortex-free flow of rotating superfluid 3He-B. We
+show that the nature of the front changes from laminar through quasi-classical
+turbulent to quantum turbulent with decreasing temperature. Our experiment
+provides the first direct measurement of the dissipation rate in turbulent
+vortex dynamics of 3He-B and demonstrates that the dissipation is temperature-
+and mutual friction-independent in the T->0 limit, and is strongly suppressed
+when the Kelvin-wave cascade on vortex lines is predicted to be involved in the
+turbulent energy transfer to smaller length scales.

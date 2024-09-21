@@ -1,0 +1,7 @@
+Let f(x) be a continuous function from a compact real interval into itself
+with a periodic orbit of minimal period m, where m is not an integral power of
+2. Then, by Sharkovsky's theorem, for every positive integer n with m \prec n
+in the Sharkovsky's ordering defined below, a lower bound on the number of
+periodic orbits of f(x) with minimal period n is 1. Could we improve this lower
+bound from 1 to some larger number? In this paper, we give a complete answer to
+this question.

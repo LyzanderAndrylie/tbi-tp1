@@ -1,0 +1,6 @@
+We study some examples of Bridgeland-Douglas stability conditions on
+triangulated categories. From one side we give a complete description of the
+stability manifolds for smooth projective curves of positive genus. From the
+other side we study stability conditions on triangulated categories generated
+by an exceptional collection. In the case of the projective line this leads to
+the connectedness and simply-connectedness of the stability manifold.

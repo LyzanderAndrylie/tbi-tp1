@@ -1,0 +1,7 @@
+We demonstrate that bistability of the nuclear spin polarization in optically
+pumped semiconductor quantum dots is a general phenomenon possible in dots with
+a wide range of parameters. In experiment, this bistability manifests itself
+via the hysteresis behavior of the electron Zeeman splitting as a function of
+either pump power or external magnetic field. In addition, our theory predicts
+that the nuclear polarization can strongly influence the charge dynamics in the
+dot leading to bistability in the average dot charge.

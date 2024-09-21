@@ -1,0 +1,13 @@
+Fractional quantum Hall states (FQHS) with the filling factor nu = p/q of q <
+21 are examined and their energies are calculated. The classical Coulomb energy
+is evaluated among many electrons; that energy is linearly dependent on 1/nu.
+The residual binding energies are also evaluated. The electron pair in nearest
+Landau-orbitals is more affected via Coulomb transition than an electron pair
+in non-nearest orbitals. Each nearest electron pair can transfer to some empty
+orbital pair, but it cannot transfer to the other empty orbital pair because of
+conservation of momentum. Counting the numbers of the allowed and forbidden
+transitions, the binding energies are evaluated for filling factors of 126
+fraction numbers. Gathering the classical Coulomb energy and the pair
+transition energy, we obtain the spectrum of energy versus nu. This energy
+spectrum elucidates the precise confinement of Hall resistance at specific
+fractional filling factors.

@@ -1,0 +1,7 @@
+We introduce string-bond states, a class of states obtained by placing
+strings of operators on a lattice, which encompasses the relevant states in
+Quantum Information. For string-bond states, expectation values of local
+observables can be computed efficiently using Monte Carlo sampling, making them
+suitable for a variational abgorithm which extends DMRG to higher dimensional
+and irregular systems. Numerical results demonstrate the applicability of these
+states to the simulation of many-body sytems.

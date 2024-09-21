@@ -1,0 +1,11 @@
+We discuss two methods of an exact stochastic representation of the
+non-Markovian quantum dynamics of open systems. The first method employs a pair
+of stochastic product vectors in the total system's state space, while the
+second method uses a pair of state vectors in the open system's state space and
+a random operator acting on the state space of the environment. Both techniques
+lead to an exact solution of the von Neumann equation for the density matrix of
+the total system. Employing a spin star model describing a central spin coupled
+to bath of surrounding spins, we perform Monte Carlo simulations for both
+variants of the stochastic dynamics. In addition, we derive analytical
+expression for the expectation values of the stochastic dynamics to obtain the
+exact solution for the density matrix of the central spin.

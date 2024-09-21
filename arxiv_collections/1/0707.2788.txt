@@ -1,0 +1,7 @@
+We present an application of evolutionary algorithms to the curve-fitting
+problems commonly encountered when trying to extract particle masses from
+correlators in Lattice QCD. Harnessing the flexibility of evolutionary methods
+in global optimization allows us to dynamically adapt the number of states to
+be fitted along with their energies so as to minimize overall \chi^2/(d.o.f.),
+leading to a promising new way of extracting the mass spectrum from measured
+correlation functions.

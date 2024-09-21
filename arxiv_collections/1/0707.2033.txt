@@ -1,0 +1,23 @@
+A description of phonon dynamics and charge response of the $n$-doped
+high-temperature superconductor (HTSC) NdCuO is presented based upon a
+microscopic modeling of the electronic density response. This is accomplished
+starting from the insulating state via the underdoped strange metallic to the
+more conventional metallic state by consecutive orbital selective
+incompressibility-compressibility transitions in terms of strict sum rules for
+the charge response. The approach proposed in this work for the $n$-doped
+HTSC's modifies the modeling recently applied to the $p$-doped compounds and
+expresses an electron-hole asymmetry introduced by doping. A qualitative
+physical picture consistent with our modeling of the electronic state in the
+cuprates is given in which a sufficiently broad set of orbital degrees of
+freedom, i.e. Cu3d/$4s$ and O$2p$ is essential. Within the framework of linear
+response theory we calculate full phonon dispersion curves in the different
+phases. In particular, the strongly doping dependent anomalous high-frequency
+oxygen bond-stretching modes (OBSM) found experimentally in the $p$-doped
+HTSC's and also recently for $n$-doped Nd$_{1.85}$Ce$_{0.15}$CuO$_{4}$ are
+investigated and compared with experimental results from inelastic neutron
+scattering and inelastic x-ray scattering, respectively. We calculate an
+anticrossing scenario for the OBSM in $n$-doped NdCuO which is absent in the
+case of $p$-doped LaCuO and relate it to the different crystal structure.
+Phonon-induced electronic charge redistributions of the anomalous OBSM due to
+nonlocal electron-phonon interaction effects of charge-fluctuation type giving
+reason to dynamic stripes are also studied.

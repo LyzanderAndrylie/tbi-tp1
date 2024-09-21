@@ -1,0 +1,7 @@
+An analysis of inclusive pion production in proton-beryllium collisions at
+6.4, 12.3, and 17.5 GeV/c proton beam momentum has been performed. The data
+were taken by Experiment 910 at the Alternating Gradient Synchrotron at the
+Brookhaven National Laboratory. The differential $\pi^+$ and $\pi^-$ production
+cross sections ($d^2\sigma/dpd\Omega$) are measured up to 400 mRad in
+$\theta_{\pi}$ and up to 6 GeV/c in $p_{\pi}$. The measured cross section is
+fit with a Sanford-Wang parameterization.

@@ -1,0 +1,7 @@
+Classical and quantum Hamiltonian reductions of free geodesic systems of
+complete Riemannian manifolds are investigated. The reduced systems are
+described under the assumption that the underlying compact symmetry group acts
+in a polar manner in the sense that there exist regularly embedded, closed,
+connected submanifolds meeting all orbits orthogonally in the configuration
+space. Hyperpolar actions on Lie groups and on symmetric spaces lead to
+families of integrable systems of spin Calogero-Sutherland type.

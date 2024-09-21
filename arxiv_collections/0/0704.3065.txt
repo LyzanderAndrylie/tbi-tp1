@@ -1,0 +1,12 @@
+We report on XMM-Newton observations of three nearby galaxy pairs,
+AM0707-273, AM1211-465, and AM2040-674. All six galaxies were previously
+classified as HII galaxies based on optical and IR spectroscopic analysis. All
+galaxies were detected with XMM-Newton and each member was isolated and
+analyzed independently. The X-ray spectra reveal strong evidence of AGN
+activity in the NE member of AM1211-465 pair. We measured a luminosity of
+1.94(+0.11/-0.15)x10^42 erg/s in the 2-10 keV band and the presence of a
+neutral FeK_alpha line with a confidence level of 98.8%. The high nH value,
+2.2+/-0.2x10^22 cm^-2, would explain the misclassification of the source.
+Marginal evidence of AGN nature was found in the X-ray spectra of AM1211-465SW
+and AM0707-273E. The X-ray emission of the three remaining galaxies can be
+explained by starburst activity.

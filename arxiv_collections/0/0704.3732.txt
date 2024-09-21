@@ -1,0 +1,14 @@
+Current methods for producing single-walled carbon nanotubes (SWNTs) lead to
+heterogeneous samples containing mixtures of metallic and semiconducting
+species with a variety of lengths and defects. Optical detection at the single
+nanotube level should thus offer the possibility to examine these
+heterogeneities provided that both SWNT species are equally well detected.
+Here, we used photothermal heterodyne detection to record absorption images and
+spectra of individual SWNTs. Because this photothermal method relies only on
+light absorption, it readily detects metallic nanotubes as well as the emissive
+semiconducting species. The first and second optical transitions in individual
+semicontucting nanotubes have been probed. Comparison between the emission and
+absorption spectra of the lowest-lying optical transition reveal mainly small
+Stokes shifts. Side bands in the near-infrared absorption spectra are observed
+and assigned to exciton-phonon bound states. No such sidebands are detected
+around the lowest transition of metallic nanotubes.

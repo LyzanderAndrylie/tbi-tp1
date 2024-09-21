@@ -1,0 +1,9 @@
+We present a simple measurement and analysis technique to determine the
+fraction of optical loss due to both radiation (scattering) and linear
+absorption in microphotonic components. The method is generally applicable to
+optical materials in which both nonlinear and linear absorption are present,
+and requires only limited knowledge of absolute optical power levels, material
+parameters, and the structure geometry. The technique is applied to high
+quality factor (Q=1-5 X 10^6) silicon-on-insulator microdisk resonators. It is
+determined that linear absorption can account for more than half the total
+optical loss in the high-Q regime of these devices.

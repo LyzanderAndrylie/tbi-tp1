@@ -1,0 +1,10 @@
+We develop a dynamical effective medium theory to accurately predict the
+unusual properties of elastic metamaterials in two dimensions near the resonant
+frequencies. The theory shows that the effective bulk modulus, shear modulus,
+and mass density can be made negative by choosing proper resonant scatterers,
+leading to 8 possible types of wave propagation. The theory not only provides a
+convenient tool to search for various metamaterials with desired properties,
+but also gives a unified physical picture of these properties. Here we
+demonstrate two examples. One possesses large band gaps at low frequencies. The
+other exhibits two regions of negative refraction: one for both longitudinal
+and transverse waves and the other for longitudinal waves only.

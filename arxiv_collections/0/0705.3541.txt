@@ -1,0 +1,13 @@
+We discuss compact (2+1)-dimensional Maxwell electrodynamics coupled to
+fermionic matter with N replica. For large enough N, the latter corresponds to
+an effective theory for the nearest neighbor SU(N) Heisenberg antiferromagnet,
+in which the fermions represent solitonic excitations known as spinons. Here we
+show that the spinons are deconfined for $N>N_c=36$, thus leading to an
+insulating state known as spin liquid. A previous analysis considerably
+underestimated the value of $N_c$. We show further that for $20<N\leq 36$ there
+can be either a confined or a deconfined phase, depending on the instanton
+density. For $N\leq 20$ only the confined phase exist. For the physically
+relevant value N=2 we argue that no paramagnetic phase can emerge, since chiral
+symmetry breaking would disrupt it. In such a case a spin liquid or any other
+nontrivial paramagnetic state (for instance, a valence-bond solid) is only
+possible if doping or frustrating interactions are included.

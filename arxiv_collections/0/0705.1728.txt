@@ -1,0 +1,11 @@
+We provide a general framework to describe cooling of a micromechanical
+oscillator to its quantum ground state by means of radiation-pressure coupling
+with a driven optical cavity. We apply it to two experimentally realized
+schemes, back-action cooling via a detuned cavity and cold-damping
+quantum-feedback cooling, and we determine the ultimate quantum limits of both
+schemes for the full parameter range of a stable cavity. While both allow to
+reach the oscillator's quantum ground state, we find that back-action cooling
+is more efficient in the good cavity limit, i.e. when the cavity bandwidth is
+smaller than the mechanical frequency, while cold damping is more suitable for
+the bad cavity limit. The results of previous treatments are recovered as
+limiting cases of specific parameter regimes.

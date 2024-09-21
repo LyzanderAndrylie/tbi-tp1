@@ -1,0 +1,10 @@
+We obtain analytic formulas for the frequency-dependent spin-Hall
+conductivity of a two-dimensional electron gas (2DEG) in the presence of
+impurities, linear spin-orbit Rashba interaction, and external magnetic field
+perpendicular to the 2DEG. We show how different mechanisms (skew-scattering,
+side-jump, and spin precession) can be brought in or out of focus by changing
+controllable parameters such as frequency, magnetic field, and temperature. We
+find, in particular, that the d.c. spin Hall conductivity vanishes in the
+absence of a magnetic field, while a magnetic field restores the
+skew-scattering and side-jump contributions proportionally to the ratio of
+magnetic and Rashba fields.

@@ -1,0 +1,4 @@
+GRB011121 is analyzed as a prototype to understand the ``flares'' recently
+observed by Swift in the afterglow of many GRB sources. Detailed theoretical
+computation of the GRB011121 light curves in selected energy bands are
+presented and compared and contrasted with observational BeppoSAX data.

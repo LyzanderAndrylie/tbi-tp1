@@ -1,0 +1,19 @@
+It has been shown that differences in fecundity variance can influence the
+probability of invasion of a genotype in a population, i.e. a genotype with
+lower variance in offspring number can be favored in finite populations even if
+it has a somewhat lower mean fitness than a competitor. In this paper,
+Gillespie's results are extended to population genetic systems with explicit
+age structure, where the demographic variance (variance in growth rate)
+calculated in the work of Engen and colleagues is used as a generalization of
+"variance in offspring number" to predict the interaction between deterministic
+and random forces driving change in allele frequency. By calculating the
+variance from the life history parameters, it is shown that selection against
+variance in the growth rate will favor a genotypes with lower stochasticity in
+age specific survival and fertility rates. A diffusion approximation for
+selection and drift in a population with two genotypes with different life
+history matrices (and therefore, different growth rates and demographic
+variances) is derived and shown to be consistent with individual based
+simulations. It is also argued that for finite populations, perturbation
+analyses of both the growth rate and demographic variances may be necessary to
+determine the sensitivity of "fitness" (broadly defined) to changes in the life
+history parameters.

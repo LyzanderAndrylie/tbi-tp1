@@ -1,0 +1,6 @@
+We study the dynamics of co-evolution of producers and customers described by
+bit-strings representing individual traits. Individual ''size-like'' properties
+are controlled by binary encounters which outcome depends upon a recognition
+process. Depending upon the parameter set-up, mutual selection of producers and
+customers results in different types of attractors, either an exclusive niches
+regime or a competition regime.

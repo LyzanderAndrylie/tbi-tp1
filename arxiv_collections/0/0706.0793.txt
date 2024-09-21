@@ -1,0 +1,12 @@
+We investigate the non-equilibrium fluid structure mediated forces between
+two colloids driven through a suspension of mutually non-interacting Brownian
+particles as well as between a colloid and a wall in stationary situations. We
+solve the Smoluchowski equation in bispherical coordinates as well as with a
+method of reflections, both in linear approximation for small velocities and
+numerically for intermediate velocities, and we compare the results to a
+superposition approximation considered previously. In particular we find an
+enhancement of the friction (compared to the friction on an isolated particle)
+for two colloids driven side by side as well as for a colloid traveling along a
+wall. The friction on tailgating colloids is reduced. Colloids traveling side
+by side experience a solute induced repulsion while tailgating colloids are
+attracted to each other.

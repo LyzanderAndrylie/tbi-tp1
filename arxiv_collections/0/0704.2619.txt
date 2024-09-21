@@ -1,0 +1,17 @@
+We study the statistical behavior of two out of equilibrium systems. The
+first one is a quasi one-dimensional gas with two species of particles under
+the action of an external field which drives each species in opposite
+directions. The second one is a one-dimensional spin system with nearest
+neighbor interactions also under the influence of an external driving force.
+Both systems show a dynamical scaling with domain formation. The statistical
+behavior of these domains is compared with models based on the coalescing
+random walk and the interacting random walk. We find that the scaling domain
+size distribution of the gas and the spin systems is well fitted by the Wigner
+surmise, which lead us to explore a possible connection between these systems
+and the circular orthogonal ensemble of random matrices. However, the study of
+the correlation function of the domain edges, show that the statistical
+behavior of the domains in both gas and spin systems, is not completely well
+described by circular orthogonal ensemble, nor it is by other models proposed
+such as the coalescing random walk and the interacting random walk.
+Nevertheless, we find that a simple model of independent intervals describe
+more closely the statistical behavior of the domains formed in these systems.

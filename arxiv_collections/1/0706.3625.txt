@@ -1,0 +1,14 @@
+Superconducting circuits are among the leading contenders for quantum
+information processing. This promising avenue has been strengthened with the
+advent of circuit quantum electrodynamics, underlined by recent experiments
+coupling on-chip microwave resonators to superconducting qubits. However,
+moving towards more qubits will require suitable novel architectures. Here, we
+propose a scalable setup for quantum computing where such resonators are
+arranged in a two-dimensional grid with a qubit at each intersection. Its
+versatility allows any two qubits on the grid to be coupled at a swapping
+overhead independent of their distance and yields an optimal balance between
+reducing qubit transition frequency spread and spurious cavity-induced
+couplings. These features make this setup unique and distinct from existing
+proposals in ion traps, optical lattices, or semiconductor spins. We
+demonstrate that this approach encompasses the fundamental elements of a
+scalable fault-tolerant quantum computing architecture.

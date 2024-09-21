@@ -1,0 +1,8 @@
+We consider interaction effects in quantum point contacts on the first
+quantization plateau, taking into account all non momentum-conserving
+processes. We compute low-temperature linear and non-linear conductance, shot
+noise, and thermopower by perturbation theory, and show that they are
+consistent with experimental observations on the so-called "0.7 anomaly". The
+full temperature-dependent conductance is obtained from self-consistent
+second-order perturbation theory and approaches ~ e^2/h at higher temperatures,
+but still smaller than the Fermi temperature.

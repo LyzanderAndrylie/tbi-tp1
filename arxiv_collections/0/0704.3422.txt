@@ -1,0 +1,10 @@
+An orthogonal complex structure on a domain in R^4 is a complex structure
+which is integrable and is compatible with the Euclidean metric. This gives
+rise to a first order system of partial differential equations which is
+conformally invariant. We prove two Liouville-type uniqueness theorems for
+solutions of this system, and use these to give an alternative proof of the
+classification of compact locally conformally flat Hermitian surfaces first
+proved by Pontecorvo. We also give a classification of non-degenerate quadrics
+in CP^3 under the action of the conformal group. Using this classification, we
+show that generic quadrics give rise to orthogonal complex structures defined
+on the complement of unknotted solid tori which are smoothly embedded in R^4.

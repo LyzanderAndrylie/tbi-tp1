@@ -1,0 +1,16 @@
+When a charge is held static near a constant density spherical star, it
+experiences a self-force which is significantly different from the force it
+would experience when placed near a black hole of the same mass. In this paper,
+an expression for the self-force (as measured by a locally inertial observer)
+is given %explicitly calculated for an insulating Schwarzschild star, and the
+result is explicitly computed for the extreme density case, which has a
+singularity at its center. The force is found to be repulsive. A similar
+calculation of the self-force is also performed for a conducting star. This
+calculation is valid for any static, spherically conducting star, since the
+result is independent of the interior metric. When the charge is placed very
+close to the conducting star, the force is found to be attractive but when the
+charge is placed beyond a certain distance (2.95M for a conducting star of
+radius 2.25M), the force is found to be repulsive. When the charge is placed
+very far from the star (be it conducting or insulating), the charge experiences
+the same repulsive force it would experience when placed in the spacetime of a
+black hole with the same mass as the star.

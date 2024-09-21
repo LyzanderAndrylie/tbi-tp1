@@ -1,0 +1,12 @@
+We study the effect of physical aging on the mechanical properties of a model
+polymer glass using molecular dynamics simulations. The creep compliance is
+determined simultaneously with the structural relaxation under a constant
+uniaxial load below yield at constant temperature. The model successfully
+captures universal features found experimentally in polymer glasses, including
+signatures of mechanical rejuvenation. We analyze microscopic relaxation
+timescales and show that they exhibit the same aging characteristics as the
+macroscopic creep compliance. In addition, our model indicates that the entire
+distribution of relaxation times scales identically with age. Despite large
+changes in mobility, we observe comparatively little structural change except
+for a weak logarithmic increase in the degree of short-range order that may be
+correlated to an observed decrease in aging with increasing load.

@@ -1,0 +1,7 @@
+Probabilistic graphical models (PGMs) have become a popular tool for
+computational analysis of biological data in a variety of domains. But, what
+exactly are they and how do they work? How can we use PGMs to discover patterns
+that are biologically relevant? And to what extent can PGMs help us formulate
+new hypotheses that are testable at the bench? This note sketches out some
+answers and illustrates the main ideas behind the statistical approach to
+biological pattern discovery.

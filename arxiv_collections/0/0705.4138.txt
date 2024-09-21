@@ -1,0 +1,8 @@
+We show that the asymptotic linear complexity of a multisequence a in
+F_q^\infty that is I := liminf L_a(n)/n and S := limsup L_a(n)/n satisfy the
+inequalities M/(M+1) <= S <= 1 and M(1-S) <= I <= 1-S/M, if all M sequences
+have nonzero discrepancy infinitely often, and all pairs (I,S) satisfying these
+conditions are met by 2^{\aleph_0} multisequences a.
+  This answers an Open Problem by Dai, Imamura, and Yang.
+  Keywords: Linear complexity, multisequence, Battery Discharge Model,
+isometry.

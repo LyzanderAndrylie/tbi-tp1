@@ -1,0 +1,5 @@
+MACE, a model for the propagation of mach cones in the velocity field of
+heavy ion collisions (as created by hydrodynamical models) is explained. It is
+tested on an analytical test case (static medium) and applied to velocity
+fields created by the Particle-in-Cell model from LHC and RHIC initial
+conditions.

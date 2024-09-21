@@ -1,0 +1,5 @@
+The universal finite-size scaling function of the critical Casimir force for
+the three dimensional XY universality class with Dirichlet boundary conditions
+is determined using Monte Carlo simulations. The results are in excellent
+agreement with recent experiments on $^4$He Films at the superfluid transition
+and with available theoretical predictions.

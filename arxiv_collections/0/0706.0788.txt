@@ -1,0 +1,5 @@
+We introduce a class of polynomial maps that we call polynomial roots of
+powerseries, and show that automorphisms with this property generate the
+automorphism group in any dimension. In particular we determine generically
+which polynomial maps that preserve the origin are roots of powerseries. We
+study the one-dimensional case in greater depth.

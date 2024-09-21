@@ -1,0 +1,18 @@
+We discuss Kondo behavior of a conduction electron system coupled with local
+optical phonon by analyzing the Anderson-Holstein model with the use of a
+numerical renormalization group (NRG) method. There appear three typical
+regions due to the balance between Coulomb interaction $U_{\rm ee}$ and
+phonon-mediated attraction $U_{\rm ph}$. For $U_{\rm ee}>U_{\rm ph}$, we
+observe the standard Kondo effect concerning spin degree of freedom. Since the
+Coulomb interaction is effectively reduced as $U_{\rm ee}-U_{\rm ph}$, the
+Kondo temperature $T_{\rm K}$ is increased when $U_{\rm ph}$ is increased. On
+the other hand, for $U_{\rm ee}<U_{\rm ph}$, there occurs the Kondo effect
+concerning charge degree of freedom, since vacant and double occupied states
+play roles of pseudo-spins. Note that in this case, $T_{\rm K}$ is decreased
+with the increase of $U_{\rm ph}$. Namely, $T_{\rm K}$ should be maximized for
+$U_{\rm ee} \approx U_{\rm ph}$. Then, we analyze in detail the Kondo behavior
+at $U_{\rm ee}=U_{\rm ph}$, which is found to be explained by the polaron
+Anderson model with reduced hybridization of polaron and residual repulsive
+interaction among polarons. By comparing the NRG results of the polaron
+Anderson model with those of the original Anderson-Holstein model, we clarify
+the Kondo behavior in the competing region of $U_{\rm ee} \approx U_{\rm ph}$.

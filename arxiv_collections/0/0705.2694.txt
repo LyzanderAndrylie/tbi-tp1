@@ -1,0 +1,6 @@
+We present a scheme that transform 1 qubit to M identical copies with optimal
+fidedelity via free dynamical evolution of spin star networks. We show that the
+Heisenberg XXZ coupling can fulfill the challenge. The initial state of the
+copying machine and the parameters of the spin Hamiltonian are discussed in
+detail. Furthermore we have proposed a feasible method to prepare the initial
+state of the copying machine.

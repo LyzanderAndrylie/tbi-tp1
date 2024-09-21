@@ -1,0 +1,7 @@
+Different damping mechanisms in graphene nanoresonators are studied: charges
+in the substrate, ohmic losses in the substrate and the graphene sheet,
+breaking and healing of surface bonds (Velcro effect), two level systems,
+attachment losses, and thermoelastic losses. We find that, for realistic
+structures and contrary to semiconductor resonators, dissipation is dominated
+by ohmic losses in the graphene layer and metallic gate. An extension of this
+study to carbon nanotube-based resonators is presented.

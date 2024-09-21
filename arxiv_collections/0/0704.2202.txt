@@ -1,0 +1,16 @@
+The measured low initial sticking probability of oxygen molecules at the
+Al(111) surface that had puzzled the field for many years was recently
+explained in a non-adiabatic picture invoking spin-selection rules [J. Behler
+et al., Phys. Rev. Lett. 94, 036104 (2005)]. These selection rules tend to
+conserve the initial spin-triplet character of the free O2 molecule during the
+molecule's approach to the surface. A new locally-constrained
+density-functional theory approach gave access to the corresponding
+potential-energy surface (PES) seen by such an impinging spin-triplet molecule
+and indicated barriers to dissociation which reduce the sticking probability.
+Here, we further substantiate this non-adiabatic picture by providing a
+detailed account of the employed approach. Building on the previous work, we
+focus in particular on inaccuracies in present-day exchange-correlation
+functionals. Our analysis shows that small quantitative differences in the
+spin-triplet constrained PES obtained with different gradient-corrected
+functionals have a noticeable effect on the lowest kinetic energy part of the
+resulting sticking curve.

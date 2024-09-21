@@ -1,0 +1,12 @@
+We investigate the mixing-demixing transition and the collapse in a
+quasi-two-dimensional degenerate boson-fermion mixture (DBFM) with a bosonic
+vortex. We solve numerically a quantum-hydrodynamic model based on a new
+density functional which accurately takes into account the dimensional
+crossover. It is demonstrated that with the increase of interspecies repulsion,
+a mixed state of DBFM could turn into a demixed state. The system collapses for
+interspecies attraction above a critical value which depends on the vortex
+quantum number. For interspecies attraction just below this critical limit
+there is almost complete mixing of boson and fermion components. Such mixed and
+demixed states of a DBFM could be experimentally realized by varying an
+external magnetic field near a boson-fermion Feshbach resonance, which will
+result in a continuous variation of interspecies interaction.

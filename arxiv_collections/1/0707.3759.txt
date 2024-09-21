@@ -1,0 +1,7 @@
+We present a geometrical description of the space of density states of a
+quantum system of finite dimension. After presenting a brief summary of the
+geometrical formulation of Quantum Mechanics, we proceed to describe the space
+of density states $\D(\Hil)$ from a geometrical perspective identifying the
+stratification associated to the natural $GL(\Hil)$--action on $\D(\Hil)$ and
+some of its properties. We apply this construction to the cases of quantum
+systems of two and three levels.

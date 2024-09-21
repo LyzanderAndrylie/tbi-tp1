@@ -1,0 +1,14 @@
+Free space delay lines provide pulses of variable time spacing for optical
+experiments such as pump-probe spectroscopy and coherent quantum control,
+including spin and photon echo techniques. However, in the terahertz (THz)
+region of the spectrum, beam divergence due to diffraction limits the useful
+length of traditional free space delay lines. We present a novel double-folded
+variable delay line for light in the frequency range 0.24-1.2 THz, which
+incorporates a symmetric arrangement of lenses whose spacing can be adjusted to
+compensate for diffraction at each delay. Scalable for use in other wavelength
+regimes, the design relays an input Gaussian beam waist to the output with up
+to 25 ns (~8 m) total delay and is enclosed in a desiccated volume of <0.5 m^3.
+The delay line can deliver two or three pulses with relative amplitudes
+controlled via variable spacing silicon etalon beam splitters. Beam profiles of
+a 0.24 THz beam show good agreement with calculations at long delays, with
+insertion loss per delay stage of~3 dB.

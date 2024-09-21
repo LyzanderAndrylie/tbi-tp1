@@ -1,0 +1,9 @@
+Utilizing the continuous frequency mode quantization scheme, we study from
+first principle the efficiency of a feedback scheme that can generate maximally
+entangled states of two atoms in an optical cavity through their interactions
+with a single input photon. The spectral function of the photon emitted from
+the cavity, which will be used as the input of the next round in the feedback
+process, is obtained analytically. We find that the spectral function of the
+photon is modified in each round and deviates from the original one. The
+efficiency of the feedback scheme consequently deteriorates gradually after
+several rounds of operation.

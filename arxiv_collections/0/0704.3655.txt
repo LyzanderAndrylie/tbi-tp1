@@ -1,0 +1,7 @@
+In SU(3) simplest little Higgs model, a characteristic particle is the light
+pseudoscalar boson eta, it leads interesting signals in the LHC/ILC and is
+studied in literature with different parameterizations. In this work, we show
+that these different descriptions for eta particle are equivalent up to some
+SU(3) rotations as long as we suitably redefine the pseudo Goldstone boson
+fields. We evaluate the necessary SU(3) rotations and built up explicit
+expressions for redefined fields.

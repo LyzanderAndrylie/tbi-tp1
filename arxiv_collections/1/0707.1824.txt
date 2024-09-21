@@ -1,0 +1,10 @@
+The paper discusses the kinematics of manipulators builts of planar closed
+kinematic chains. A special kinematic scheme is extracted from the array of
+these mechanisms that looks the most promising for the creation of different
+types of robotic manipulators. The structural features of this manipulator
+determine a number of its original properties that essentially simplify its
+control. These features allow the main control problems to be effectively
+overcome by application of the simple kinematic problems. The workspace and
+singular configurations of a basic planar manipulator are studied. By using a
+graphic simulation method, motions of the designed mechanism are examined. A
+prototype of this mechanism was implemented to verify the proposed approach.

@@ -1,0 +1,12 @@
+The design and development of complex products invariably involves many
+actors who have different points of view on the problem they are addressing,
+the product being developed, and the process by which it is being developed.
+The actors' viewpoints approach was designed to provide an organisational
+framework in which these different perspectives or points of views, and their
+relationships, could be explicitly gathered and formatted (by actor activity's
+focus). The approach acknowledges the inevitability of multiple interpretation
+of product information as different views, promotes gathering of actors'
+interests, and encourages retrieved adequate information while providing
+support for integration through PLM and/or SCM collaboration. In this paper, we
+present our multiple viewpoints approach, and we illustrate it by an industrial
+example on cyclone vessel product.

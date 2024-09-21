@@ -1,0 +1,8 @@
+The curvature field is measured from tracer particle trajectories in a
+two-dimensional fluid flow that exhibits spatiotemporal chaos, and is used to
+extract the hyperbolic and elliptic points of the flow. These special points
+are pinned to the forcing when the driving is weak, but wander over the domain
+and interact in pairs at stronger driving, changing the local topology of the
+flow. Their behavior reveals a two-stage transition to spatiotemporal chaos: a
+gradual loss of spatial and temporal order followed by an abrupt onset of
+topological changes.

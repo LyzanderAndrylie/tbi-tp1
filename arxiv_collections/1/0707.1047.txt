@@ -1,0 +1,10 @@
+Long coherence lifetimes of electron spins transported using moving potential
+dots are shown to result from the mesoscopic confinement of the spin vector.
+The confinement dimensions required for spin control are governed by the
+characteristic spin-orbit length of the electron spins, which must be larger
+than the dimensions of the dot potential. We show that the coherence lifetime
+of the electron spins is independent of the local carrier densities within each
+potential dot and that the precession frequency, which is determined by the
+Dresselhaus contribution to the spin-orbit coupling, can be modified by varying
+the sample dimensions resulting in predictable changes in the spin-orbit length
+and, consequently, in the spin coherence lifetime.

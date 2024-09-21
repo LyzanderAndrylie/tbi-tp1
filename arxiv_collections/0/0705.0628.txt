@@ -1,0 +1,24 @@
+We present analysis of archival data from multiple XMM-Newton observations of
+the Seyfert 1 galaxy NGC 4151. Spectral data from the RGS instruments reveal
+several strong soft X-ray emission lines, chiefly from hydrogen-like and
+helium-like oxygen, nitrogen, neon and carbon. Radiative recombination continua
+(RRC) from oxygen and carbon are also detected. Our analysis suggests that the
+emission data are consistent with photoionization. Using the CLOUDY
+photoionization code, we found that, while a two-component, high column density
+model (10e23 cm-2) with low covering factor proved adequate in reproducing all
+detected Lyman series lines, it proved insufficient in modeling He-like
+triplets observed (neon, oxygen, and nitrogen). If resonance line data were
+ignored, the two-component model was sufficient to match flux from
+intercombination and forbidden lines. However, with the inclusion of resonance
+line data, He-like triplets could no longer be modeled with only two
+components. We found that observed oxygen G and R ratios especially were
+anomalous in parameter space investigated. We investigated, and were forced to
+dismiss, the possibility that a third purely collisional component could be
+responsible for enhanced resonance line contributions. We succeeded in modeling
+the observed spectrum with the addition of a third, lower column density
+(10e20.5 cm-2) component with non-zero microturbulence and high covering
+factor. While sufficient to reproduce observed soft X-ray flux, our model faces
+certain shortcomings, particularly in a less-than-ideal visual fit to the line
+profile. Two of the three emission model components bear similarities to
+components determined by Kraemer et al. (2005) in their study of NGC 4151
+absorption spectra.

@@ -1,0 +1,11 @@
+The kinetics of the extrinsic spin Hall conductivity induced by the skew
+scattering is performed from the fully microscopic kinetic spin Bloch equation
+approach in $(001)$ GaAs symmetric quantum well. In the steady state, the
+extrinsic spin Hall current/conductivity vanishes for the linear-$\mathbf k$
+dependent spin-orbit coupling and is very small for the cubic-$\mathbf k$
+dependent spin-orbit coupling. The spin precession induced by the
+Dresselhaus/Rashba spin-orbit coupling plays a very important role in the
+vanishment of the extrinsic spin Hall conductivity in the steady state. An
+in-plane spin polarization is induced by the skew scattering, with the help of
+the spin-orbit coupling. This spin polarization is very different from the
+current-induced spin polarization.

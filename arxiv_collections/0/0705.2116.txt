@@ -1,0 +1,17 @@
+The present paper considers some classical ferromagnetic lattice--gas models,
+consisting of particles that carry $n$--component spins ($n=2,3$) and
+associated with a $D$--dimensional lattice ($D=2,3$); each site can host one
+particle at most, thus implicitly allowing for hard--core repulsion; the pair
+interaction, restricted to nearest neighbors, is ferromagnetic, and site
+occupation is also controlled by the chemical potential $\mu$. The models had
+previously been investigated by Mean Field and Two--Site Cluster treatments
+(when D=3), as well as Grand--Canonical Monte Carlo simulation in the case
+$\mu=0$, for both D=2 and D=3; the obtained results showed the same kind of
+critical behaviour as the one known for their saturated lattice counterparts,
+corresponding to one particle per site. Here we addressed by Grand--Canonical
+Monte Carlo simulation the case where the chemical potential is negative and
+sufficiently large in magnitude; the value $\mu=-D/2$ was chosen for each of
+the four previously investigated counterparts, together with $\mu=-3D/4$ in an
+additional instance. We mostly found evidence of first order transitions, both
+for D=2 and D=3, and quantitatively characterized their behaviour. Comparisons
+are also made with recent experimental results.

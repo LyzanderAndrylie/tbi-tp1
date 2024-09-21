@@ -1,0 +1,9 @@
+The interplay between chaotic tunneling and dynamical localization in mixed
+phase space is investigated. Semiclassical analysis using complex classical
+orbits reveals that tunneling through torus regions and transport in chaotic
+regions are not independent processes, rather they are strongly correlated and
+described by complex orbits with both properties. This predicts a phenomenon
+analogous to the quantum suppression of classical diffusion: chaotic tunneling
+is suppressed as a result of dynamical localization in chaotic regions. This
+hypothesis is confirmed by numerical experiments where the effect of
+destructive interference is attenuated.

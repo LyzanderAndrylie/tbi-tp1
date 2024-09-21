@@ -1,0 +1,9 @@
+The three-dimensional instability of two coupled electromagnetic waves in an
+unmagnetized plasma is investigated theoretically and numerically. In the
+regime of two-plasmon decay, where one pump wave frequency is approximately
+twice the electron plasma frequency, we find that the coupled pump waves give
+rise to enhanced instability with wave vectors between those of the two beams.
+In the case of ion parametric decay instability, where the pump wave decays
+into one Langmuir wave and one ion acoustic wave, the instability regions are
+added with no distinct amplification. Our investigation can be useful in
+interpreting laser-plasma as well as ionospheric heating experiments.

@@ -1,0 +1,21 @@
+A mediator is a well-known construct in game theory, and is an entity that
+plays on behalf of some of the agents who choose to use its services, while the
+rest of the agents participate in the game directly. We initiate a game
+theoretic study of sponsored search auctions, such as those used by Google and
+Yahoo!, involving {\em incentive driven} mediators. We refer to such mediators
+as {\em for-profit} mediators, so as to distinguish them from mediators
+introduced in prior work, who have no monetary incentives, and are driven by
+the altruistic goal of implementing certain desired outcomes. We show that in
+our model, (i) players/advertisers can improve their payoffs by choosing to use
+the services of the mediator, compared to directly participating in the
+auction; (ii) the mediator can obtain monetary benefit by managing the
+advertising burden of its group of advertisers; and (iii) the payoffs of the
+mediator and the advertisers it plays for are compatible with the incentive
+constraints from the advertisers who do dot use its services. A simple
+intuition behind the above result comes from the observation that the mediator
+has more information about and more control over the bid profile than any
+individual advertiser, allowing her to reduce the payments made to the
+auctioneer, while still maintaining incentive constraints. Further, our results
+indicate that there are significant opportunities for diversification in the
+internet economy and we should expect it to continue to develop richer
+structure, with room for different types of agents to coexist.

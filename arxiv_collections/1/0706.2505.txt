@@ -1,0 +1,7 @@
+We present a simple but efficient geometrical method for determining the
+inert states of spin-S systems. It can be used if the system is described by a
+spin vector of a spin-S particle and its energy is invariant in spin rotations
+and phase changes. Our method is applicable to an arbitrary S and it is based
+on the representation of a pure spin state of a spin-S particle in terms of 2S
+points on the surface of a sphere. We use this method to find candidates for
+some of the ground states of spinor Bose-Einstein condensates.

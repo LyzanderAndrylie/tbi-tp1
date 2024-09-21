@@ -1,0 +1,22 @@
+Diversity-multiplexing tradeoff (DMT) presents a compact framework to compare
+various MIMO systems and channels in terms of the two main advantages they
+provide (i.e. high data rate and/or low error rate). This tradeoff was
+characterized asymptotically (SNR-> infinity) for i.i.d. Rayleigh fading
+channel by Zheng and Tse [1]. The asymptotic DMT overestimates the finite-SNR
+one [2]. In this paper, using the recent results on the asymptotic (in the
+number of antennas) outage capacity distribution, we derive and analyze the
+finite-SNR DMT for a broad class of channels (not necessarily Rayleigh fading).
+Based on this, we give the convergence conditions for the asymptotic DMT to be
+approached by the finite-SNR one. The multiplexing gain definition is shown to
+affect critically the convergence point: when the multiplexing gain is defined
+via the mean (ergodic) capacity, the convergence takes place at realistic SNR
+values. Furthermore, in this case the diversity gain can also be used to
+estimate the outage probability with reasonable accuracy. The multiplexing gain
+definition via the high-SNR asymptote of the mean capacity (as in [1]) results
+in very slow convergence for moderate to large systems (as 1/ln(SNR)^2) and,
+hence, the asymptotic DMT cannot be used at realistic SNR values. For this
+definition, the high-SNR threshold increases exponentially in the number of
+antennas and in the multiplexing gain. For correlated keyhole channel, the
+diversity gain is shown to decrease with correlation and power imbalance of the
+channel. While the SNR-asymptotic DMT of Zheng and Tse does not capture this
+effect, the size-asymptotic DMT does.

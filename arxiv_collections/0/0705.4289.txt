@@ -1,0 +1,5 @@
+This is continuation of the approach to performing quantum algorithms using
+geometric structures which was presented by Aerts and Czachor. We solve the
+Simon's problem which, next to the Shor's alghorithm, is a representative of a
+quantum hidden subgroup class. We also highlight some advantages resulting from
+the fact that no quantum mechanics is involved.

@@ -1,0 +1,7 @@
+The Landau-Lifshitz equation reliably describes magnetization dynamics using
+a phenomenological treatment of damping. This paper presents first-principles
+calculations of the damping parameters for Fe, Co, and Ni that quantitatively
+agree with existing ferromagnetic resonance measurements. This agreement
+establishes the dominant damping mechanism for these systems and takes a
+significant step toward predicting and tailoring the damping constants of new
+materials.

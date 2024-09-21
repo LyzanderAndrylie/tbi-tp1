@@ -1,0 +1,12 @@
+We perform extensive simulations of a 2D LJ glass subjected to quasi-static
+shear deformation at T=0. We analyze the distribution of non-affine
+displacements in terms of contributions of plastic, irreversible events, and
+elastic, reversible motions. From this, we extract information about
+correlations between plastic events and about the elastic non-affine noise.
+Moreover, we find that non-affine motion is essentially diffusive, with a
+clearly size-dependent diffusion constant. These results, supplemented by close
+inspection of the evolving patterns of the non-affine tangent displacement
+field, lead us to propose a phenomenology of plasticity in such amorphous
+media. It can be schematized in terms of elastic loading and irreversible flips
+of small, randomly located shear transformation zones, elastically coupled via
+their quadrupolar fields.

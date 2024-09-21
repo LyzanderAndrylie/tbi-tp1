@@ -1,0 +1,18 @@
+We investigate disordered one- and two-dimensional Heisenberg spin lattices
+across a transition from integrability to quantum chaos from both a statistical
+many-body and a quantum-information perspective. Special emphasis is devoted to
+quantitatively exploring the interplay between eigenvector statistics,
+delocalization, and entanglement in the presence of nontrivial symmetries. The
+implications of basis dependence of state delocalization indicators (such as
+the number of principal components) is addressed, and a measure of {\em
+relative delocalization} is proposed in order to robustly characterize the
+onset of chaos in the presence of disorder. Both standard multipartite and {\em
+generalized entanglement} are investigated in a wide parameter regime by using
+a family of spin- and fermion- purity measures, their dependence on
+delocalization and on energy spectrum statistics being examined. A distinctive
+{\em correlation between entanglement, delocalization, and integrability} is
+uncovered, which may be generic to systems described by the two-body random
+ensemble and may point to a new diagnostic tool for quantum chaos. Analytical
+estimates for typical entanglement of random pure states restricted to a proper
+subspace of the full Hilbert space are also established and compared with
+random matrix theory predictions.

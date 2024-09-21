@@ -1,0 +1,12 @@
+We propose a MIDEX-class space mission with the goal to find and characterize
+roughly 10,000 transiting planets. When transits occur, a much more detailed
+characterization of the planet is possible and so a large data base of
+transiting planets will provide planets with a large range in periods and radii
+for follow-up studies. Our survey will be all-sky and focused on stars brighter
+than V=14.8. Down to V=12, LEAVITT will be able to detect Neptune-sized
+objects. Because of it's high cadence, LEAVITT is about 100 times more
+sensitive at detecting transits than GAIA, while it will find more than 20
+times as many transits as KEPLER. LEAVITT has multi-band photometric capability
+implemented via a low-resolution dispersive element which can obtain 0.2% (2
+mmag) photometry down to V=14.8. LEAVITT's high multi-band photometric accuracy
+reduces the number of false-positives significantly.

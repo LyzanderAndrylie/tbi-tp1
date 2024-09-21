@@ -1,0 +1,10 @@
+We present a quantum Monte Carlo study of the quantum correlations in the
+parametric luminescence from semiconductor microcavities in the strong
+exciton-photon coupling regime. As already demonstrated in recent experiments,
+a ring-shaped emission is obtained by applying two identical pump beams with
+opposite in-plane wavevectors, providing symmetrical signal and idler beams
+with opposite in-plane wavevectors on the ring. We study the squeezing of the
+signal-idler difference noise across the parametric instability threshold,
+accounting for the radiative and non-radiative losses, multiple scattering and
+static disorder. We compare the results of the complete multimode Monte Carlo
+simulations with a simplified linearized quantum Langevin analytical model.

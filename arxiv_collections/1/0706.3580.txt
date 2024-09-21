@@ -1,0 +1,9 @@
+Motivated by a question of Hirzebruch on the possible topological types of
+cusp cross-sections of Hilbert modular varieties, we give a necessary and
+sufficient condition for a manifold M to be diffeomorphic to a cusp
+cross-section of a Hilbert modular variety. Specialized to Hilbert modular
+surfaces, this proves that every Sol 3-manifold is diffeomorphic to a cusp
+cross-section of a (generalized) Hilbert modular surface. We also deduce an
+obstruction to geometric bounding in this setting. Consequently, there exist
+Sol 3-manifolds that cannot arise as a cusp cross-section of a 1-cusped
+nonsingular Hilbert modular surface.

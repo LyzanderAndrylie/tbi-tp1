@@ -1,0 +1,3 @@
+This short note is devoted to the study of the integrability of the bosonic
+string on AdS(5)xS(5) in the uniform light-cone gauge. We construct Lax
+connection for gauge fixed theory and we argue that it is flat.

@@ -1,0 +1,6 @@
+We present a unifying approach to quantum error correcting code design that
+encompasses additive (stabilizer) codes, as well as all known examples of
+nonadditive codes with good parameters. We use this framework to generate new
+codes with superior parameters to any previously known. In particular, we find
+((10,18,3)) and ((10,20,3)) codes. We also show how to construct encoding
+circuits for all codes within our framework.

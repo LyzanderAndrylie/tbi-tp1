@@ -1,0 +1,6 @@
+We have found that a novel type of entrainment occurs in two nonidentical
+limit cycle oscillators subjected to a common external white Gaussian noise.
+This entrainment is anomalous in the sense that the two oscillators have
+different mean frequencies, where the difference is constant as the noise
+intensity increases, but their phases come to be locked for almost all the
+time. We present a theory and numerical evidence for this phenomenon.

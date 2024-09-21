@@ -1,0 +1,19 @@
+The elementary 2-terminal network consisting of a resistively ($R-$) shunted
+inductance ($L$) in series with a capacitatively ($C-$) shunted resistance
+($R$) with $R = \sqrt{L/C}$, is known for its non-dispersive dissipative
+response, $i.e.,$ with the input impedance $Z_0(\omega) = R$, independent of
+the frequency ($\omega$). In this communication we examine the properties of a
+novel equivalent network derived iteratively from this 2-terminal network by
+replacing everywhere the elemental resistive part $R$ with the whole 2-terminal
+network. This replacement suggests a recursion $Z_{n+1}(\omega) =
+f(Z_n(\omega))$, with the recursive function $f(z) = (i\omega Lz/i\omega L + z)
++ (z/1+i\omega Cz)$. The recursive map has two fixed points -- an unstable
+fixed point $Z_u^\star = 0$, and a stable fixed point $Z_s^\star = R$. Thus,
+resistances at the boundary terminating the infinitely iterated network can now
+be made arbitrarily small without changing the input impedance $Z_\infty (=
+R)$. This, therefore, leads to realizing in the limit $n\to\infty$ an
+effectively dissipative network comprising essentially non-dissipative reactive
+elements ($L$ and $C$) only. Hence the oxymoron -- resistance without
+resistors! This is best viewed as a classical anomaly akin to the one
+encountered in turbulence. Possible application as a formal decoherence device
+-- the {\it fake channel} -- is briefly discussed for its quantum analogue.

@@ -1,0 +1,7 @@
+The projective degrees of strict partitions of n were computed for all n <
+101 and the partitions with maximal projective degree were found for each n. It
+was observed that maximizing partitions for successive values of n "lie close
+to each other" in a certain sense. Conjecturing that this holds for larger
+values of n, the partitions of maximal degree were computed for all n < 221.
+The results are consistent with a recent conjecture on the limiting shape of
+the strict partition of maximal projective degree.

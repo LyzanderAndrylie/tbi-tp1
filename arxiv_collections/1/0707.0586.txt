@@ -1,0 +1,8 @@
+The Pfaffian model has been proposed for the fractional quantum Hall effect
+(FQHE) at nu=5/2. We examine it for the quasihole excitations by comparison
+with exact diagonalization results. Specifically, we consider the structure of
+the low-energy spectrum, accuracy of the microscopic wave functions,
+particle-hole symmetry, splitting of the degeneracies, and off-diagonal long
+range order. We also review how the 5/2 FQHE can be understood without
+appealing to the Pfaffian model. Implications for nonabelian braiding
+statistics will be mentioned.

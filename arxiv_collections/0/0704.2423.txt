@@ -1,0 +1,9 @@
+The Mathematica toolkit AMBRE derives Mellin-Barnes (MB) representations for
+Feynman integrals in d=4-2eps dimensions. It may be applied for tadpoles as
+well as for multi-leg multi-loop scalar and tensor integrals. AMBRE uses a
+loop-by-loop approach and aims at lowest dimensions of the final MB
+representations. The present version of AMBRE works fine for planar Feynman
+diagrams. The output may be further processed by the package MB for the
+determination of its singularity structure in eps. The AMBRE package contains
+various sample applications for Feynman integrals with up to six external
+particles and up to four loops.

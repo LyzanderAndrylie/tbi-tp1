@@ -1,0 +1,19 @@
+We face the problem of detecting and featuring footprints of quantum
+criticality in the finite-temperature behavior of quantum many-body systems.
+Our strategy is that of comparing the phase diagram of a system displaying a
+T=0 quantum phase transition with that of its classical limit, in order to
+single out the genuinely quantum effects. To this aim, we consider the
+one-dimensional Ising model in a transverse field: while the quantum S=1/2
+Ising chain is exactly solvable and extensively studied, results for the
+classical limit (infinite S) of such model are lacking, and we supply them
+here. They are obtained numerically, via the Transfer-matrix method, and their
+asymptotic low-temperature behavior is also derived analytically by
+self-consistent spin-wave theory. We draw the classical phase-diagram according
+to the same procedure followed in the quantum analysis, and the two phase
+diagrams are found unexpectedly similar: Three regimes are detected also in the
+classical case, each characterized by a functional dependence of the
+correlation length on temperature and field analogous to that of the quantum
+model. What discriminates the classical from the quantum case are the different
+values of the exponents entering such dependencies, a consequence of the
+different nature of zero-temperature quantum fluctuations with respect to
+thermal ones.

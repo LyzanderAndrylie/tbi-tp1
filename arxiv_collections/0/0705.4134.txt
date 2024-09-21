@@ -1,0 +1,8 @@
+We define an infinite stochastic state machine, the Battery-Discharge-Model
+(BDM), which simulates the behaviour of linear and jump complexity of the
+continued fraction expansion of multidimensional formal power series, a
+relevant security measure in the cryptanalysis of stream ciphers.
+  We also obtain finite approximations to the infinite BDM, where polynomially
+many states suffice to approximate with an exponentially small error the
+probabilities and averages for linear and jump complexity of M-multisequences
+of length n over the finite field F_q, for any M, n, q.

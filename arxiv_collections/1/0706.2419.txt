@@ -1,0 +1,8 @@
+The non elementary-boson nature of excitons controls Bose-Einstein
+condensation in semiconductors. Composite excitons interact predominantly
+through Pauli exclusion; this produces dramatic couplings between bright and
+dark states. In microcavities, where bright excitons and photons form
+polaritons, they force the condensate to be linearly polarized--as observed. In
+bulk, they also force linear polarization, but of dark states, due to interband
+Coulomb scatterings. To evidence this dark condensate, we thus need indirect
+processes, like the shift it induces on the (bright) exciton line.

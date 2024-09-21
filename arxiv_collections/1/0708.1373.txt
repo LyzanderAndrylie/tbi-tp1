@@ -1,0 +1,8 @@
+We present the status of the development of a dedicated high density
+ultra-cold neutron (UCN) source dedicated to the gravitational spectrometer
+GRANIT. The source employs superthermal conversion of cold neutrons to UCN in
+superfluid helium. Tests have shown that UCN produced inside the liquid can be
+extracted into vacuum. Furthermore a dedicated neutron selection channel was
+tested to maintain high initial density and extract only neutrons with a
+vertical velocity component 20 cm/s for the spectrometer. This new source would
+have a phase-space density of 0.18 cm-3(m/s)-3 for the spectrometer.

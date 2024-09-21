@@ -1,0 +1,14 @@
+In this work, we revisit the electron transfer rate theory, with particular
+interests in the distinct quantum solvation effect, and the characterizations
+of adiabatic/nonadiabatic and Markovian/non-Markovian rate processes. We first
+present a full account for the quantum solvation effect on the electron
+transfer in Debye solvents, addressed previously in J. Theore. & Comput. Chem.
+{\bf 5}, 685 (2006). Distinct reaction mechanisms, including the quantum
+solvation-induced transitions from barrier-crossing to tunneling, and from
+barrierless to quantum barrier-crossing rate processes, are shown in the fast
+modulation or low viscosity regime. This regime is also found in favor of
+nonadiabatic rate processes. We further propose to use Kubo's motional
+narrowing line shape function to describe the Markovian character of the
+reaction. It is found that a non-Markovian rate process is most likely to occur
+in a symmetric system in the fast modulation regime, where the electron
+transfer is dominant by tunneling due to the Fermi resonance.

@@ -1,0 +1,9 @@
+Using the Cartan-Kahler theory, and results on real algebraic structures, we
+prove two embedding theorems. First, the interior of a smooth, compact
+3-manifold may be isometrically embedded into a G_2-manifold as an associative
+submanifold. Second, the interior of a smooth, compact 4-manifold K, whose
+double has a trivial bundle of self-dual 2-forms, may be isometrically embedded
+into a Spin(7)-manifold as a Cayley submanifold. Along the way, we also show
+that Bochner's Theorem on real analytic approximation of smooth differential
+forms, can be obtained using real algebraic tools developed by Akbulut and
+King.

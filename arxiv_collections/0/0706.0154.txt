@@ -1,0 +1,14 @@
+We consider the simulation of interacting high-dimensional systems using
+pairwise interacting qubits. The main tool in this context is the generation of
+effective many-body interactions, and we examine a number of different
+protocols for obtaining them. These methods include the usage of higher-order
+processes (commutator method), unitary conjugation or graph state encoding, as
+well as teleportation based approaches. We illustrate and compare these methods
+in detail and analyze the time cost for simulation. In the second part of the
+article, we investigate the influence of noise on the simulation process. We
+concentrate on errors in the interaction Hamiltonians and consider two generic
+noise models, (i) timing errors in pairwise interactions and (ii) noisy
+pairwise interactions described by Master equations of Lindblad form. We
+analyze and compare the effect of noise for the different simulation methods
+and propose a way to significantly reduce the influence of noise by making use
+of entanglement purification together with a teleportation based protocol.

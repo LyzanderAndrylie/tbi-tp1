@@ -1,0 +1,12 @@
+We carry out the renormalization and the Symanzik O(a)-improvement programme
+for the static vector current in quenched lattice QCD. The scale independent
+ratio of the renormalization constants of the static vector and axial currents
+is obtained non-perturbatively from an axial Ward identity with Wilson-type
+light quarks and various lattice discretizations of the static action. The
+improvement coefficients cVstat and bVstat are obtained up to O(g_0^4)-terms by
+enforcing improvement conditions respectively on the axial Ward identity and a
+three-point correlator of the static vector current. A comparison between the
+non-perturbative estimates and the corresponding one-loop results shows a
+non-negligible effect of the O(g_0^4)-terms on the improvement coefficients but
+a good accuracy of the perturbative description of the ratio of the
+renormalization constants.

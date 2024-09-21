@@ -1,0 +1,7 @@
+We derive an exact propagation scheme for nonlinear Schroedinger equations.
+This scheme is entirely analogous to the propagation of linear Schroedinger
+equations. We accomplish this by defining a special operator whose algebraic
+properties ensure the correct propagation. As applications, we provide a simple
+proof of a recent conjecture regarding higher-order integrators for the
+Gross-Pitaevskii equation, extend it to multi-component equations, and to a new
+class of integrators.

@@ -1,0 +1,10 @@
+Let G be GL_N or SL_N as reductive linear algebraic group over a field k of
+positive characteristic p. We prove several results that were previously
+established only when N < 6 or p > 2^N. Let G act rationally on a finitely
+generated commutative k-algebra A. Assume that A as a G-module has a good
+filtration or a Schur filtration. Let M be a noetherian A-module with
+compatible G action. Then M has finite good/Schur filtration dimension, so that
+there are at most finitely many nonzero H^i(G,M). Moreover these H^i(G,M) are
+noetherian modules over the ring of invariants A^G. Our main tool is a
+resolution involving Schur functors of the ideal of the diagonal in a product
+of Grassmannians.

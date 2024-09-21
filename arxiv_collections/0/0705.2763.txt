@@ -1,0 +1,13 @@
+The standard axiomatization of quantum mechanics (QM) is not fully explicit
+about the role of the time-parameter. Especially, the time reference within the
+probability algorithm (the Born Rule, BR) is unclear. Using a plausible
+principle P1, about the role of probability in a physical theory, and a second
+principle P2 affording a most natural way to make BR precise, a logical
+conflict with the standard expression for the completeness of QM can be
+derived. Rejecting P1 is implausible. Rejecting P2 leads to unphysical results
+and to a conflict with a generalization of P2, a principle P3. It is thus made
+plausible that the standard expression of QM completeness must be revised. An
+absolutely explicit form of the axioms is provided, including a precise form of
+the projection postulate. An appropriate expression for QM completeness,
+reflecting the restrictions of the Gleason and Kochen-Specker theorems is
+proposed.

@@ -1,0 +1,7 @@
+We report calculations of the domain wall entropy for the bimodal
+two-dimensional Ising spin glass in the critical ground state. The L * L system
+sizes are large with L up to 256. We find that it is possible to fit the
+variance of the domain wall entropy to a power function of L. However, the
+quality of the data distributions are unsatisfactory with large L > 96.
+Consequently, it is not possible to reliably determine the fractal dimension of
+the domain walls.

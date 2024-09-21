@@ -1,0 +1,12 @@
+A method to calculate the nuclear double beta decay ($2\nu\beta\beta$- and
+$0\nu\beta\beta$-) amplitudes within the continuum random phase approximation
+(cQRPA) is formulated. Calculations of the $\beta\beta$ transition amplitudes
+within the cQRPA are performed for ^{76}Ge, ^{100}Mo and ^{130}Te. A rather
+simple nuclear Hamiltonian consisting of phenomenological mean field and
+zero-range residual particle-hole and particle-particle interaction is used.
+The calculated M^{2\nu} are almost not affected when the single-particle
+continuum is taken into account. At the same time, a regular suppression of the
+$0\nu\beta\beta$-amplitude is found that can be associated with additional
+ground state correlations due to collective states in the continuum. It is
+expected that future inclusion of the nucleon pairing in the single-particle
+continuum will somewhat compensate the suppression.

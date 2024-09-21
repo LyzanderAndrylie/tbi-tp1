@@ -1,0 +1,11 @@
+In non-equilibrium steady states (NESS) far from equilibrium, it is known
+that the Einstein relation is violated. Then, the ratio of the diffusion
+coefficient to the mobility is called an effective temperature, and the
+physical relevance of this effective temperature has been studied in several
+works. Although the physical relevance is not yet completely clear, it has been
+found that the role of an effective temperature in NESS is indeed analogous to
+that of the temperature in equilibrium systems in a number of respects. In this
+paper, we find further evidence establishing this analogy. We employ a
+non-equilibrium Langevin system as a thermostat for a Hamiltonian system and
+find that the kinetic temperature of this Hamiltonian system is equal to the
+effective temperature of the thermostat.

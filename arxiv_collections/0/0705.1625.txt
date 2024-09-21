@@ -1,0 +1,18 @@
+Order(N) Tight-Binding Molecular Dynamics (TBMD) simulations are performed to
+investigate the thermal stability of (10,10) metallic Single-Walled Carbon
+Nanotubes (SWCNT). Periodic boundary conditions (PBC) are applied in axial
+direction. Velocity Verlet algorithm along with the canonical ensemble
+molecular dynamics (NVT) is used to simulate the tubes at the targeted
+temperatures. The effects of slow and rapid temperature increases on the
+physical characteristics, structural stability and the energetics of the tube
+are investigated and compared. Simulations are carried out starting from room
+temperature and the temperature is raised in steps of 300K. Stability of the
+simulated metallic SWCNT is examined at each step before it is heated to higher
+temperatures. First indication of structural deformation is observed at 600K.
+For higher heat treatments the deformations are more pronounced and the bond
+breaking temperature is reached around 2500K. Gradual (slow) heating and
+thermal equilibrium (fast heating) methods give the value of radial thermal
+expansion coefficient in the temperature range between 300K-600K as
+0.31x10^{-5}(1/K) and 0.089x10^{-5}(1/K), respectively. After 600K, both
+methods give the same value of 0.089x10^{-5}(1/K). The ratio of the total
+energy per atom with respect to temperature is found to be 3x10^{-4} eV/K.

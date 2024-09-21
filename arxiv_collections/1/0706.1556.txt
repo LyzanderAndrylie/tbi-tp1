@@ -1,0 +1,12 @@
+We have investigated ion current rectification properties of a recently
+prepared bipolar nanofluidic diode. This device is based on a single conically
+shaped nanopore in a polymer film whose pore walls contain a sharp boundary
+between positively and negatively charged regions. A semi-quantitative model
+that employs Poisson and Nernst-Plank equations predicts current-voltage curves
+as well as ionic concentrations and electric potential distributions in this
+system. We show that under certain conditions the rectification degree, defined
+as a ratio of currents recorded at the same voltage but opposite polarities,
+can reach values of over a 1000 at a voltage range <-2 V, +2 V>. The role of
+thickness and position of the transition zone on the ion current rectification
+is discussed as well. We also show that rectification degree scales with the
+applied voltage.

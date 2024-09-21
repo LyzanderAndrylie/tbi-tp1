@@ -1,0 +1,4 @@
+In this paper we propose a comparison between the CTRW (Monte Carlo) and
+Fractional Derivative approaches to the modelling of anomalous diffusion
+phenomena in the presence of an advection field. Galilei variant and invariant
+schemes are revised.

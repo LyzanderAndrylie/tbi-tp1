@@ -1,0 +1,11 @@
+We present an one-dimensional particle-in-cell Monte-Carlo model for
+capacitively coupled radio-frequency discharges in oxygen. The model
+quantitatively describes the central part of the discharge. For a given voltage
+and pressure, it self-consistently determines the electric potential and the
+distribution functions for electrons, negatively charged atomic oxygen, and
+positively charged molecular oxygen. Previously used collision cross sections
+are critically assessed and in some cases modified. Provided associative
+detachment due to metastable oxygen molecules is included in the model, the
+electro-negativities in the center of the discharge are in excellent agreement
+with experiments. Due to lack of empirical data for the cross section of this
+process, we propose a simple model and discuss its limitations.

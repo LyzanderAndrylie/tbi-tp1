@@ -1,0 +1,14 @@
+We analyze complexity of financial (and general economic) processes by
+comparing classical and quantum-like models for randomness. Our analysis
+implies that it might be that a quantum-like probabilistic description is more
+natural for financial market than the classical one. A part of our analysis is
+devoted to study the possibility of application of the quantum probabilistic
+model to agents of financial market. We show that, although the direct quantum
+(physical) reduction (based on using the scales of quantum mechanics) is
+meaningless, one may apply so called quantum-like models. In our approach
+quantum-like probabilistic behaviour is a consequence of contextualy of
+statistical data in finances (and economics in general). However, our
+hypothesis on "quantumness" of financial data should be tested experimentally
+(as opposed to the conventional description based on the noncontextual
+classical probabilistic approach). We present a new statistical test based on a
+generalization of the well known in quantum physics Bell's inequality.

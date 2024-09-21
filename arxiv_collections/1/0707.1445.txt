@@ -1,0 +1,5 @@
+We study the long time behavior of the subcritical (subcubic) defocussing
+nonlinear wave equation on the three dimensional ball, for random data of low
+regularity. We prove that for a large set of radial initial data in
+$\cap_{s<1/2} H^s(B(0,1))$ the equation is (globally in time) well posed and we
+construct an invariant measure.

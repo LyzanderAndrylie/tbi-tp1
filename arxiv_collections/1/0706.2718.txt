@@ -1,0 +1,11 @@
+We distinguish a class of irreducible finite representations of conformal Lie
+(super)algebras. These representations (called universally defined) are the
+simplest ones from the computational point of view: a universally defined
+representation of a conformal Lie (super)algebra $L$ is completely determined
+by commutation relations of $L$ and by the requirement of associative locality
+of generators. We describe such representations for conformal superalgebras
+$W_n$, $n\ge 0$, with respect to a natural set of generators. We also consider
+the problem for superalgebras $K_n$. In particular, we find a universally
+defined representation for the Neveu--Schwartz conformal superalgebra $K_1$ and
+show that the analogues of this representation for $n\ge 2$ are not universally
+defined.

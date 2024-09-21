@@ -1,0 +1,9 @@
+In this note we determine the values of parameters c for which the polynomial
+representation of the degenerate double affine Hecke algebra (DAHA), i.e. the
+trigonometric Cherednik algebra, is reducible. Namely, we show that c is a
+reducibility point for the polynomial representation of the trigonometric
+Cherednik algebra for a root system R if and only if it is a reducibility point
+for the rational Cherednik algebra for the Weyl group of some root subsystem R'
+of R of the same rank; such subsystems for any R are given by the well known
+Borel-de Siebenthal algorithm. This result has been proved by Cherednik using a
+case-by-case method.

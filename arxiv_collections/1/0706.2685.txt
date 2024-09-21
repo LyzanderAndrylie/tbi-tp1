@@ -1,0 +1,10 @@
+Extensions of the Standard Model with $N$ Higgs doublets are simple
+extensions presenting a rich mathematical structure. An underlying Minkowski
+structure emerges from the study of both variable space and parameter space.
+The former can be completely parametrized in terms of two future lightlike
+Minkowski vectors with spatial parts forming an angle whose cosine is
+$-(N-1)^{-1}$. For the parameter space, the Minkowski parametrization enables
+one to impose sufficient conditions for bounded below potentials, characterize
+certain classes of local minima and distinguish charge breaking vacua from
+neutral vacua. A particular class of neutral minima presents a degenerate mass
+spectrum for the physical charged Higgs bosons.

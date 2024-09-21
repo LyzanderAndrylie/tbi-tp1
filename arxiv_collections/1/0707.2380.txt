@@ -1,0 +1,15 @@
+The phenomenon of burst nucleation in solution, in which a period of apparent
+chemical inactivity is followed by a sudden and explosive growth of nucleated
+particles from a solute species, has been given a widely accepted qualitative
+explanation by LaMer and co-workers. Here, we present a model with the
+assumptions of instantaneous thermalization below the critical nucleus size and
+irreversible diffusive growth above the critical size, which for the first time
+formulates LaMer's explanation of burst nucleation in a manner allowing
+quantitative calculations. The behavior of the model at large times is derived,
+with the result that the average cluster size, as measured by the number of
+atoms, grows linearly with time, while the width of the cluster distribution
+grows as the square root of time. We develop an effective numerical scheme to
+integrate the equations of the model and compare the asymptotic expressions to
+results from numerical simulation. Finally, we discuss the physical effects
+which cause real nucleation processes in solution to deviate from the behavior
+of the model.

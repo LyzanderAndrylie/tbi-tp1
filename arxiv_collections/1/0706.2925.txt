@@ -1,0 +1,8 @@
+We consider the theoretical description of real-time counting of electrons
+tunneling through a Coulomb-blockade quantum dot using a detector with finite
+bandwidth. By tracing out the quantum dot we find that the dynamics of the
+detector effectively is non-Markovian. We calculate the cumulant generating
+function corresponding to the resulting non-Markovian rate equation and find
+that the measured current cumulants behave significantly differently compared
+to those of a Markovian transport process. Our findings provide a novel
+interpretation of noise suppression found in a number of systems.

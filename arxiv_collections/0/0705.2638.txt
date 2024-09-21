@@ -1,0 +1,10 @@
+In this work linear stability analysis of a four-fluid optically thin plasma
+consisting of electrons, ions, neutral atoms, and charged dust particles is
+performed with respect to the radiation-condensation (RC) instability. The
+energy budget of the plasma involves the input from heating through
+photo-electron emission by dust particles under external ultraviolet radiation
+as well as radiative losses in inelastic electron-neutral, electron-ion,
+neutral-neutral collisions. It is shown that negatively charged particles
+stimulate the RC instability in the sense that the conditions for the
+instability to hold are wider than similar conditions in a single-fluid
+description.

@@ -1,0 +1,9 @@
+The harmonic emission from cluster nanoplasmas subject to short, intense
+infrared laser pulses is analyzed by means of particle-in-cell simulations. A
+pronounced resonant enhancement of the low-order harmonic yields is found when
+the Mie plasma frequency of the ionizing and expanding cluster resonates with
+the respective harmonic frequency. We show that a strong, nonlinear resonant
+coupling of the cluster electrons with the laser field inhibits coherent
+electron motion, suppressing the emitted radiation and restricting the spectrum
+to only low-order harmonics. A pump-probe scheme is suggested to monitor the
+ionization dynamics of the expanding clusters.

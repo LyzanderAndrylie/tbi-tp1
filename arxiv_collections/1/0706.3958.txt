@@ -1,0 +1,9 @@
+In jet quenching, a hard QCD parton, before fragmenting into a jet of
+hadrons, deposits a fraction of its energy in the medium, leading to suppressed
+production of high-$p_T$ hadrons. Assuming that the deposited energy quickly
+thermalizes, we simulate the subsequent hydrodynamic evolution of the QGP
+fluid. Hydrodynamic evolution and subsequent particle emission depend on the
+jet trajectories. Azimuthal distribution of excess $\pi^-$ due to quenching
+jet, averaged over all the trajectories, reasonably well reproduce the
+di-hadron correlation as measured by the STAR and PHENIX collaboration in
+central and in peripheral Au+Au collisions.

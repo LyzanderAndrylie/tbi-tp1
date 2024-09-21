@@ -1,0 +1,18 @@
+We study 7 Gamma Ray Bursts (GRBs), detected both by the BATSE instrument,
+on-board the Compton Gamma Ray Observatory, and by the Wide Field Camera (WFC),
+on-board BeppoSAX. These bursts have measured spectroscopic redshifts and are a
+sizeable fraction of the bursts defining the correlation between the peak
+energy E_peak (i.e. the peak of the vFv spectrum) and the total prompt
+isotropic energy E_iso (the so called "Amati" relation). Recent theoretical
+interpretations of this correlation assume that black-body emission dominates
+the time resolved spectra of GRBs, even if, in the time integrated spectrum,
+its presence may be hidden by the change of its temperature and by the dilution
+of a possible non-thermal power law component. We perform a time resolved
+spectral analysis, and show that the sum of a power-law and a black-body gives
+acceptable fits to the time dependent spectra within the BATSE energy range,
+but overpredicts the flux in the WFC X-ray range. Moreover, a fit with a cutoff
+power-law plus a black-body is consistent with the WFC data, but the black-body
+component contributes a negligible fraction of the total flux. On the contrary,
+we find that fitting the spectra with a Band model or a simple cutoff power-law
+model yields an X-ray flux and spectral slope which well matches the WFC
+spectra.

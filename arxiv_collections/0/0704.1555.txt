@@ -1,0 +1,8 @@
+A new public conveyance model applicable to buses and trains is proposed in
+this paper by using stochastic cellular automaton. We have found the optimal
+density of vehicles, at which the average velocity becomes maximum,
+significantly depends on the number of stops and passengers behavior of getting
+on a vehicle at stops. The efficiency of the hail-and-ride system is also
+discussed by comparing the different behavior of passengers. Moreover, we have
+found that a big cluster of vehicles is divided into small clusters, by
+incorporating information of the number of vehicles between successive stops.

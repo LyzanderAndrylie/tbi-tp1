@@ -1,0 +1,8 @@
+We present a protocol for performing entanglement connection between pairs of
+atomic ensembles in the single excitation regime. Two pairs are prepared in an
+asynchronous fashion and then connected via a Bell measurement. The resulting
+state of the two remaining ensembles is mapped to photonic modes and a reduced
+density matrix is then reconstructed. Our observations confirm for the first
+time the creation of coherence between atomic systems that never interacted, a
+first step towards entanglement connection, a critical requirement for quantum
+networking and long distance quantum communications.

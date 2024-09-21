@@ -1,0 +1,10 @@
+We present expressions for the energy, linear momentum and angular momentum
+carried away from an isolated system by gravitational radiation based on
+spin-weighted spherical harmonics decomposition of the Weyl scalar $\Psi_4$. We
+also show that the expressions derived are equivalent to the common expressions
+obtained when using a framework based on perturbations of a Schwazschild
+background. The main idea is to collect together all the different expressions
+in a uniform and consistent way. The formulae presented here are directly
+applicable to the calculation of the radiated energy, linear momentum and
+angular momentum starting from the gravitational waveforms which are typically
+extracted from numerical simulations.

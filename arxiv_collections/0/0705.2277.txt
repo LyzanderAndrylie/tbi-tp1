@@ -1,0 +1,14 @@
+In the framework of the effective field theory method, we use the
+experimental data and the perturbative unitarity bounds to determine the values
+and uncertainty of all the 11 chiral coefficients ($\al_i, i=0, ..., 10$) of
+the standard electroweak chiral Lagrangian. Up to linear terms in $\al_i$, we
+provide the one-loop renormalization group equations of all the chiral
+coefficients, which are calculated in the Feynman-'t Hooft gauge using the
+modified minimal subtraction scheme. With the improved renormalization group
+equations to sum over the logarithmic corrections, we analyze the current
+experimental uncertainty of oblique correction parameters, $S(\Lambda)$ and
+$T(\Lambda)$. We find that, due to the large uncertainty in the triple
+gauge-boson coupling measurements, the parameter space of positive $S(\Lambda)$
+for $\Lambda > 1$ TeV is still allowed by the current experimental data.
+$T(\Lambda)$ tends to increase with $\Lambda$ even in the presence of the
+operators that contribute to the triple and quartic gauge-boson couplings.

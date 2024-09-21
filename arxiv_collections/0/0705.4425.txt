@@ -1,0 +1,11 @@
+We present results of the first-principles calculation of Cs dipole static
+polarizabilities for the Ns (N = 6 - 12), Np_j (N = 6 - 10), and Nd_j (N = 5 -
+10) states using the relativistic all-order method. In our implementation of
+the all-order method, single and double excitations of Dirac-Fock wave
+functions are included to all orders in perturbation theory. Additional
+calculations are carried out for the dominant terms and the uncertainties of
+our final values are estimated for all states. A comprehensive review of the
+existing theoretical and experimental studies of the Cs polarizabilities is
+also carried out. Our results are compared with other values where they are
+available. These calculations provide a theoretical benchmark for a large
+number of Cs polarizabilities.

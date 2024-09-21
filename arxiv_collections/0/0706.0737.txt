@@ -1,0 +1,11 @@
+Ti50 Pd50-xCrx is a high temperature shape memory alloy with a martensitic
+transformation temperature strongly dependent on the Cr composition. Prior to
+the transformation a premartensitic phase is present with an incommensurate
+modulated cubic lattice with wave vector of q0=(0.22, 0.22, 0). The temperature
+dependence of the diffuse scattering in the cubic phase is measured as a
+function temperature for x=6.5, 8.5, and 10 at. %. The lattice dynamics has
+been studied and reveals anomalous temperature and q-dependence of the
+[110]-TA2 transverse phonon branch. The phonon linewidth is broad over the
+entire Brillouin zone and increases with decreasing temperature, contrary to
+the behavior expected for anharmonicity. No anomaly is observed at q0. The
+results are compared with first principles calculation of the phonon structure.

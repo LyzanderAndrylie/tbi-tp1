@@ -1,0 +1,10 @@
+The "atomic saw method" uses the passage of dislocations in two-dimensional
+(2D) quantum-well superlattices to create periodic slipping layers and
+one-dimensional (1D) quantum wire superlattices. The effects of this space
+structuring of the samples on the allowed energies are analysed in the case of
+GaAs d-doped superlattices. If they are sufficiently large, the various
+minigaps appearing in the 1D band structure could be responsible for the
+presence of negative differential resistance (NDR) with high critical current
+in these systems. The purpose is to determine the evolution of the minigaps in
+terms of the sample parameters and to obtain the means to determine both the 2D
+and 1D structural characteristics where NDR could appear.

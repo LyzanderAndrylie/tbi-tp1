@@ -1,0 +1,10 @@
+We present a lattice Boltzmann algorithm based on an underlying free energy
+that allows the simulation of the dynamics of a multicomponent system with an
+arbitrary number of components. The thermodynamic properties, such as the
+chemical potential of each component and the pressure of the overall system,
+are incorporated in the model. We derived a symmetrical convection diffusion
+equation for each component as well as the Navier Stokes equation and
+continuity equation for the overall system. The algorithm was verified through
+simulations of binary and ternary systems. The equilibrium concentrations of
+components of binary and ternary systems simulated with our algorithm agree
+well with theoretical expectations.

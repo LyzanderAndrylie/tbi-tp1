@@ -1,0 +1,9 @@
+We find tight lower and upper bounds on the entanglement of a superposition
+of two bipartite states in terms of the entanglement of the two states
+constituting the superposition. Our upper bound is dramatically tighter than
+the one presented in Phys. Rev. Lett 97, 100502 (2006) and our lower bound can
+be used to provide lower bounds on different measures of entanglement such as
+the entanglement of formation and the entanglement of subspaces. We also find
+that in the case in which the two states are one-sided orthogonal, the
+entanglement of the superposition state can be expressed explicitly in terms of
+the entanglement of the two states in the superposition.

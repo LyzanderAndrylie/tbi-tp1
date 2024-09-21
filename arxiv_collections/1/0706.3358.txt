@@ -1,0 +1,7 @@
+The charged particles multiplicity distribution in the KNO form is discussed
+in processes of $e^+e^-$ annihilation at energies $\sqrt{s}$ 14 -- 206.2 GeV.
+The experimental data are compared to data, obtained with Monte Carlo
+simulation in PYTHIA in the Lund quark string model. It is shown, that both
+experimental and simulated data are described by the same distribution function
+in the KNO form. It is shown, that the KNO scaling is consequence of quark
+string hadronization dynamics in the Lund string model.

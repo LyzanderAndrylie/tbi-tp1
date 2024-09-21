@@ -1,0 +1,18 @@
+We review the models and results of simulations of self-gravitating, gaseous
+protoplanetary disks in binary star systems. These models have been calculated
+by three different groups with three different computational methods, two
+particle-based and one grid-based. We show that interactions with the companion
+star can affect the temperature distribution and structural evolution of disks,
+and discuss the implications for giant planet formation by gravitational
+instability as well as by core accretion. Complete consensus has not been
+reached yet on whether the formation of giant planets is promoted or suppressed
+by tidal interactions with a companion star. While systems with binary
+separations of order 100 AU or larger appear to behave more or less as in
+isolation, systems with smaller separations exhibit an increased or decreased
+susceptibility to fragmentation, depending on the details of thermodynamics, in
+particular on the inclusion or absence of artificial viscosity, and on the
+initial conditions. While code comparisons on identical problems need to be
+carried out (some of which are already in progress) to decide which computer
+models are more realistic, it is already clear that relatively close binary
+systems, with separations of order 60 AU or less, should provide strong
+constraints on how giant planets form in these systems.

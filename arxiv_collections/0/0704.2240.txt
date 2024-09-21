@@ -1,0 +1,21 @@
+In papers I and II in this series, we presented hydrodynamical simulations of
+jet models with parameters representative of the symbiotic system MWC 560.
+These were simulations of a pulsed, initially underdense jet in a high density
+ambient medium. Since the pulsed emission of the jet creates internal shocks
+and since the jet velocity is very high, the jet bow shock and the internal
+shocks are heated to high temperatures and should therefore emit X-ray
+radiation. In this paper, we investigate in detail the X-ray properties of the
+jets in our models. We have focused our study on the total X-ray luminosity and
+its temporal variability, the resulting spectra and the spatial distribution of
+the emission. Temperature and density maps from our hydrodynamical simulations
+with radiative cooling presented in the second paper are used together with
+emissivities calculated with the atomic database ATOMDB. The jets in our models
+show extended and variable X-ray emission which can be characterized as a sum
+of hot and warm components with temperatures that are consistent with
+observations of CH Cyg and R Aqr. The X-ray spectra of our model jets show
+emission line features which correspond to observed features in the spectra of
+CH Cyg. The innermost parts of our pulsed jets show iron line emission in the
+6.4 - 6.7 keV range which may explain such emission from the central source in
+R Aqr. We conclude that MWC 560 should be detectable with Chandra or
+XMM-Newton, and such X-ray observations will provide crucial for understanding
+jets in symbiotic stars.

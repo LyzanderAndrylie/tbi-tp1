@@ -1,0 +1,14 @@
+We present the analysis of the source counts in the XMM-COSMOS survey using
+data of the first year of XMM-Newton observations. The survey covers ~2 deg^2
+within the region of sky bounded by 9^h57.5^m<R.A.<10^h03.5^m;
+1^d27.5^m<DEC<2^d57.5^m with a total net integration time of 504 ks. Using a
+maximum likelihood algorithm we detected a total of 1390 sources at least in
+one band. Using Monte Carlo simulations to estimate the sky coverage we
+produced the logN-logS relations. These relations have been then derived in the
+0.5--2 keV, 2--10 keV and 5--10 keV energy bands, down to flux limits of
+7.2x10^-16 erg cm^-2 s^-1, 4.0x10^-15 erg cm^-2 s^-1 and 9.7x10^-15 erg cm^-2
+s^-1, respectively. These relations have been compared to previous X-ray survey
+and to the most recent X-ray background model finding an excellent agreement.
+The slightly different normalizations observed in the source counts of COSMOS
+and previous surveys can be largely explained as a combination of low counting
+statistics and cosmic variance introduced by the large scale structure.

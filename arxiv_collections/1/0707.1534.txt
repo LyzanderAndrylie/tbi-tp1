@@ -1,0 +1,13 @@
+Nowadays, many decision support applications need to exploit data that are
+not only numerical or symbolic, but also multimedia, multistructure,
+multisource, multimodal, and/or multiversion. We term such data complex data.
+Managing and analyzing complex data involves a lot of different issues
+regarding their structure, storage and processing, and metadata are a key
+element in all these processes. Such problems have been addressed by classical
+data warehousing (i.e., applied to "simple" data). However, data warehousing
+approaches need to be adapted for complex data. In this paper, we first propose
+a precise, though open, definition of complex data. Then we present a general
+architecture framework for warehousing complex data. This architecture heavily
+relies on metadata and domain-related knowledge, and rests on the XML language,
+which helps storing data, metadata and domain-specific knowledge altogether,
+and facilitates communication between the various warehousing processes.

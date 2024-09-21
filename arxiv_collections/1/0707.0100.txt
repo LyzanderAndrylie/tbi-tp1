@@ -1,0 +1,5 @@
+We explicitly solve the optimal switching problem for one-dimensional
+diffusions by directly employing the dynamic programming principle and the
+excessive characterization of the value function. The shape of the value
+function and the smooth fit principle then can be proved using the properties
+of concave functions.

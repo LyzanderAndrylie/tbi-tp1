@@ -1,0 +1,9 @@
+Magneto-optical imaging was used to observe dendritic flux avalanches
+connecting the outer and inner edges of a ring-shaped superconducting MgB2
+film. Such avalanches create heated channels across the entire width of the
+ring, and inject large amounts of flux into the central hole. By measuring the
+injected flux and the corresponding reduction of current, which is typically
+15%, we estimate the maximum temperature in the channel to be 100 K, and the
+duration of the process to be on the order of a microsecond. Flux creep
+simulations reproduce all the observed features in the current density before
+and after injection events.

@@ -1,0 +1,17 @@
+A generalized geometric method is developed for constructing exact solutions
+of gravitational field equations in Einstein theory and generalizations. First,
+we apply the formalism of nonholonomic frame deformations (formally considered
+for nonholonomic manifolds and Finsler spaces) when the gravitational field
+equations transform into systems of nonlinear partial differential equations
+which can be integrated in general form. The new classes of solutions are
+defined by generic off-diagonal metrics depending on integration functions on
+one, two and three (or three and four) variables if we consider four (or five)
+dimensional spacetimes. Second, we use a general scheme when one (two)
+parameter families of exact solutions are defined by any source-free solutions
+of Einstein's equations with one (two) Killing vector field(s). A successive
+iteration procedure results in new classes of solutions characterized by an
+infinite number of parameters for a non-Abelian group involving arbitrary
+functions on one variable. Five classes of exact off-diagonal solutions are
+constructed in vacuum Einstein and in string gravity describing solitonic
+pp-wave interactions. We explore possible physical consequences of such
+solutions derived from primary Schwarzschild or pp-wave metrics.

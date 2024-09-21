@@ -1,0 +1,12 @@
+This paper focuses on the denoising and enhancing of 3-D reflection seismic
+data. We propose a pre-processing step based on a non linear diffusion
+filtering leading to a better detection of seismic faults. The non linear
+diffusion approaches are based on the definition of a partial differential
+equation that allows us to simplify the images without blurring relevant
+details or discontinuities. Computing the structure tensor which provides
+information on the local orientation of the geological layers, we propose to
+drive the diffusion along these layers using a new approach called SFPD
+(Seismic Fault Preserving Diffusion). In SFPD, the eigenvalues of the tensor
+are fixed according to a confidence measure that takes into account the
+regularity of the local seismic structure. Results on both synthesized and real
+3-D blocks show the efficiency of the proposed approach.

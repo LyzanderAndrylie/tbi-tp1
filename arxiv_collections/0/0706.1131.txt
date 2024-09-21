@@ -1,0 +1,7 @@
+One-flavour QCD - a gauge theory with SU(3) colour gauge group and a fermion
+in the fundamental representation - is studied by Monte Carlo simulations. The
+mass spectrum of hadronic bound states is investigated in a volume with
+extensions of L ~ 4.4r_0 (~2.2fm) at two different lattice spacings: a ~
+0.37r_0 (~0.19fm) and a ~ 0.27r_0 (~0.13fm). The lattice action is Symanzik
+tree-level-improved Wilson action for the gauge field and (unimproved) Wilson
+action for the fermion.

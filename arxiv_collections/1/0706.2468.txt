@@ -1,0 +1,10 @@
+Spin current of two-dimensional holes occupying the ground-state subband in
+an asymmetric quantum well and interacting with static disorder potential is
+calculated in the presence of a weak magnetic field H perpendicular to the well
+plane. Both spin-orbit coupling and Zeeman coupling are taken into account. It
+is shown that the applied electric field excites both the transverse
+(spin-Hall) and diagonal spin currents, the latter changes its sign at a finite
+H and becomes greater than the spin-Hall current as H increases. The effective
+spin-Hall conductivity introduced to describe the spin response in Hall bars is
+considerably enhanced by the magnetic field in the case of weak disorder and
+demonstrates a non-monotonic dependence on H.

@@ -1,0 +1,6 @@
+We consider GL(K|M)-invariant integrable supersymmetric spin chains with
+twisted boundary conditions and elucidate the role of Backlund transformations
+in solving the difference Hirota equation for eigenvalues of their transfer
+matrices. The nested Bethe ansatz technique is shown to be equivalent to a
+chain of successive Backlund transformations "undressing" the original problem
+to a trivial one.

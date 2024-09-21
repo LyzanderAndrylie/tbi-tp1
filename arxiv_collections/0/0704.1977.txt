@@ -1,0 +1,6 @@
+Let $X$ be a compact complex manifold, consider a small deformation $\phi:
+\mathcal{X} \to B$ of $X$, the dimension of the Dolbeault cohomology groups
+$H^q(X_t,\Omega_{X_t}^p)$ may vary under this defromation. This paper will
+study such phenomenons by studying the obstructions to deform a class in
+$H^q(X,\Omega_X^p)$ with the parameter $t$ and get the formula for the
+obstructions.

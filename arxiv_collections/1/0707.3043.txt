@@ -1,0 +1,12 @@
+The present paper is devoted to foundations of p-adic modelling in genomics.
+Considering nucleotides, codons, DNA and RNA sequences, amino acids, and
+proteins as information systems, we have formulated the corresponding p-adic
+formalisms for their investigations. Each of these systems has its
+characteristic prime number used for construction of the related information
+space. Relevance of this approach is illustrated by some examples. In
+particular, it is shown that degeneration of the genetic code is a p-adic
+phenomenon. We have also put forward a hypothesis on evolution of the genetic
+code assuming that primitive code was based on single nucleotides and
+chronologically first four amino acids. This formalism of p-adic genomic
+information systems can be implemented in computer programs and applied to
+various concrete cases.

@@ -1,0 +1,16 @@
+In this paper we extend both standard fault tolerance theory and Kitaev's
+model for quantum computation, combining them so as to yield quantitative
+results that reveal the interplay between the two. Our analysis establishes a
+methodology that allows us to quantitatively determine design parameters for a
+quantum computer, the values of which ensure that an overall computation of
+interest yields a correct *final result* with some prescribed probability of
+success, as opposed to merely ensuring that the desired *final quantum state*
+is obtained. As a specific example of the practical application of our
+approach, we explicitly calculate the number of levels of error correction
+concatenation needed to achieve a correct final result for the overall
+computation with some prescribed success probability. Since our methodology
+allows one to determine parameters required in order to achieve the correct
+final result for the overall quantum computation, as opposed to merely ensuring
+that the desired final quantum state is produced, our method enables the
+determination of complete quantum computational resource requirements
+associated to the actual solution of practical problems.

@@ -1,0 +1,8 @@
+We propose to revisit the diffusion of atoms in the Knudsen regime in terms
+of a complex dynamical reflection process. By means of molecular dynamics
+simulation we emphasize the asymptotic nature of the cosine law of reflection
+at the atomic scale, and carefully analyze the resulting strong correlations in
+the reflection events. A dynamical interpretation of the accomodation
+coefficient associated to the slip at the wall interface is also proposed.
+Finally, we show that the first two moments of the stochastic process of
+reflection non uniformly depend on the incident angle.

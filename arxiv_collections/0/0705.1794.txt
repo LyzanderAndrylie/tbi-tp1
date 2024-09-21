@@ -1,0 +1,8 @@
+The semimartingale stochastic approximation procedure, namely, the
+Robbins-Monro type SDE is introduced which naturally includes both generalized
+stochastic approximation algorithms with martingale noises and recursive
+parameter estimation procedures for statistical models associated with
+semimartingales. General results concerning the asymptotic behaviour of the
+solution are presented. In particular, the conditions ensuring the convergence,
+rate of convergence and asymptotic expansion are established. The results
+concerning the Polyak weighted averaging procedure are also presented.

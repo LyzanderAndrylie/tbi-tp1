@@ -1,0 +1,13 @@
+We present a model for smectic elastomer membranes which includes elastic and
+liquid crystalline degrees of freedom. Based on our model, we determined the
+qualitative phase diagram of a smectic elastomer membrane using mean-field
+theory. This phase diagram is found to comprise five phases, viz.
+smectic-A--flat, smectic-A--crumpled, smectic-C--flat, smectic-C--crumpled and
+smectic-C--tubule, where in the latter phase, the membrane is flat in the
+direction of mesogenic tilt and crumpled in the perpendicular direction. The
+transitions between adjacent phases are second order phase transitions. We
+study in some detail the elasticity of the smectic-C--flat and the
+smectic-C--tubule phases which are associated with a spontaneous breaking of
+in-plane rotational symmetry. As a consequence of the Goldstone theorem, these
+phases exhibit soft elasticity characterized by the vanishing of in-plane shear
+moduli.

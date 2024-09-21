@@ -1,0 +1,20 @@
+Let $S =\{x\in \re^n: g_1(x)\geq 0, ..., g_m(x)\geq 0\}$ be a semialgebraic
+set defined by multivariate polynomials $g_i(x)$. Assume $S$ is convex, compact
+and has nonempty interior. Let $S_i =\{x\in \re^n: g_i(x)\geq 0\}$, and $\bdS$
+(resp. $\bdS_i$) be the boundary of $S$ (resp. $S_i$). This paper discusses
+whether $S$ can be represented as the projection of some LMI representable set.
+Such $S$ is called semidefinite representable or SDP representable. The
+contributions of this paper: {\bf (i)} Assume $g_i(x)$ are all concave on $S$.
+If the positive definite Lagrange Hessian (PDLH) condition holds, i.e., the
+Hessian of the Lagrange function for optimization problem of minimizing any
+nonzero linear function $\ell^Tx$ on $S$ is positive definite at the minimizer,
+then $S$ is SDP representable. {\bf (ii)} If each $g_i(x)$ is either
+sos-concave ($-\nabla^2g_i(x)=W(x)^TW(x)$ for some possibly nonsquare matrix
+polynomial $W(x)$) or strictly quasi-concave on $S$, then $S$ is SDP
+representable. {\bf (iii)} If each $S_i$ is either sos-convex or poscurv-convex
+($S_i$ is compact convex, whose boundary has positive curvature and is
+nonsingular, i.e. $\nabla g_i(x) \not = 0$ on $\bdS_i \cap S$), then $S$ is SDP
+representable. This also holds for $S_i$ for which $\bdS_i \cap S$ extends
+smoothly to the boundary of a poscurv-convex set containing $S$. {\bf (iv)} We
+give the complexity of Schm\"{u}dgen and Putinar's matrix Positivstellensatz,
+which are critical to the proofs of (i)-(iii).

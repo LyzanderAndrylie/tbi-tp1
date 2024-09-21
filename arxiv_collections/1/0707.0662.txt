@@ -1,0 +1,17 @@
+By exerting mechanical force it is possible to unfold/refold RNA molecules
+one at a time. In a small range of forces, an RNA molecule can hop between the
+folded and the unfolded state with force-dependent kinetic rates. Here, we
+introduce a mesoscopic model to analyze the hopping kinetics of RNA hairpins in
+an optical tweezers setup. The model includes different elements of the
+experimental setup (beads, handles and RNA sequence) and limitations of the
+instrument (time lag of the force-feedback mechanism and finite bandwidth of
+data acquisition). We investigated the influence of the instrument on the
+measured hopping rates. Results from the model are in good agreement with the
+experiments reported in the companion article (1). The comparison between
+theory and experiments allowed us to infer the values of the intrinsic
+molecular rates of the RNA hairpin alone and to search for the optimal
+experimental conditions to do the measurements. We conclude that long handles
+and soft laser traps represent the best conditions to extract rate estimates
+that are closest to the intrinsic molecular rates. The methodology and
+rationale presented here can be applied to other experimental setups and other
+molecules.

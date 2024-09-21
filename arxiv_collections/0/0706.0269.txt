@@ -1,0 +1,13 @@
+We consider the effect of magnetic impurities, modeled by classical spins, in
+a conventional superconductor. We study their effect on the quasiparticles,
+specifically on the spin density and local density of states (LDOS). As
+previously emphasized, the impurities induce multiple scatterings of the
+quasiparticle wave functions leading to complex interference phenomena. Also,
+the impurities induce quantum phase transitions in the many-body system.
+Previous authors studied the effect of either a small number of impurities
+(from one to three) or a finite concentration of impurities, typically in a
+disordered distribution. In this work we assume a regular set of spins
+distributed inside the superconductor in such a way that the spins are
+oriented, forming different types of domain walls, assumed stable. This
+situation may be particularly interesting in the context of spin transfer due
+to polarized currents traversing the material.

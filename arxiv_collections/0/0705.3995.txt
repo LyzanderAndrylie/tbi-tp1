@@ -1,0 +1,10 @@
+In this paper, an analysis of the undetected error probability of ensembles
+of binary matrices is presented. The ensemble called the Bernoulli ensemble
+whose members are considered as matrices generated from i.i.d. Bernoulli source
+is mainly considered here. The main contributions of this work are (i)
+derivation of the error exponent of the average undetected error probability
+and (ii) closed form expressions for the variance of the undetected error
+probability. It is shown that the behavior of the exponent for a sparse
+ensemble is somewhat different from that for a dense ensemble. Furthermore, as
+a byproduct of the proof of the variance formula, simple covariance formula of
+the weight distribution is derived.

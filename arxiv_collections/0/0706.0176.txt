@@ -1,0 +1,12 @@
+We study the effect of the curved ripples observed in the free standing
+graphene samples on the electronic structure of the system. We model the
+ripples as smooth curved bumps and compute the Green's function of the Dirac
+fermions in the curved surface. Curved regions modify the Fermi velocity that
+becomes a function of the point on the graphene surface and induce energy
+dependent oscillations in the local density of states around the position of
+the bump. The corrections are estimated to be of a few percent of the flat
+density at the typical energies explored in local probes such as scanning
+tunnel microscopy that should be able to observe the predicted correlation of
+the morphology with the electronics. We discuss the connection of the present
+work with the recent observation of charge anisotropy in graphene and propose
+that it can be used as an experimental test of the curvature effects.

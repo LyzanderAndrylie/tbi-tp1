@@ -1,0 +1,9 @@
+A bent crystal shield which is capable of deflecting cosmic radiation ions of
+all atomic numbers away from spacecraft using the ion channeling effect is
+described. Its effect on the transmitted angular distribution of heavy,
+high-energy ions is characterized using Monte Carlo channeling simulations.
+Ions up to an energy limit set by the bent crystal curvature radius are
+deflected by the full curvature angle. A bent crystal shield with a 1 x 1 cm2
+surface area capable of deflecting such ions with energies up to 100
+GeV/nucleon is fabricated in which the lattice planes across the entrance
+surface are uniformly aligned.

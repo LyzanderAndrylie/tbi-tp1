@@ -1,0 +1,12 @@
+In the bootstrap percolation model, sites in an L by L square are initially
+infected independently with probability p. At subsequent steps, a healthy site
+becomes infected if it has at least 2 infected neighbours. As
+(L,p)->(infinity,0), the probability that the entire square is eventually
+infected is known to undergo a phase transition in the parameter p log L,
+occurring asymptotically at lambda = pi^2/18. We prove that the discrepancy
+between the critical parameter and its limit lambda is at least Omega((log
+L)^(-1/2)). In contrast, the critical window has width only Theta((log
+L)^(-1)). For the so-called modified model, we prove rigorous explicit bounds
+which imply for example that the relative discrepancy is at least 1% even when
+L = 10^3000. Our results shed some light on the observed differences between
+simulations and rigorous asymptotics.

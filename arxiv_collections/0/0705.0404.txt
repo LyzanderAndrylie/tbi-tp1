@@ -1,0 +1,18 @@
+We report on the detection of giant pulses from the Crab Nebula pulsar at a
+frequency of 200 MHz using the field deployment system designed for the Mileura
+Widefield Array's Low Frequency Demonstrator (MWA-LFD). Our observations are
+among the first high-quality detections at such low frequencies. The measured
+pulse shapes are deconvolved for interstellar pulse broadening, yielding a
+pulse-broadening time of 670$\pm$100 $\mu$s, and the implied strength of
+scattering (scattering measure) is the lowest that is estimated towards the
+Crab nebula from observations made so far. The sensitivity of the system is
+largely dictated by the sky background, and our simple equipment is capable of
+detecting pulses that are brighter than $\sim$9 kJy in amplitude. The brightest
+giant pulse detected in our data has a peak amplitude of $\sim$50 kJy, and the
+implied brightness temperature is $10^{31.6}$ K. We discuss the giant pulse
+detection prospects with the full MWA-LFD system. With a sensitivity over two
+orders of magnitude larger than the prototype equipment, the full system will
+be capable of detecting such bright giant pulses out to a wide range of
+Galactic distances; from $\sim$8 to $\sim$30 kpc depending on the frequency.
+The MWA-LFD will thus be a highly promising instrument for the studies of giant
+pulses and other fast radio transients at low frequencies.

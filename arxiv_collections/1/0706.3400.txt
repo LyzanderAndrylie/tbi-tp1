@@ -1,0 +1,23 @@
+Quantum error correction (QEC) is an essential concept for any quantum
+information processing device. Typically, QEC is designed with minimal
+assumptions about the noise process; this generic assumption exacts a high cost
+in efficiency and performance. In physical systems, errors are not likely to be
+arbitrary; rather we will have reasonable models for the structure of quantum
+decoherence. We may choose quantum error correcting codes and recovery
+operations that specifically target the most likely errors.
+  We present a convex optimization method to determine the optimal (in terms of
+average entanglement fidelity) recovery operation for a given channel,
+encoding, and information source. This is solvable via a semidefinite program
+(SDP). We present computational algorithms to generate near-optimal recovery
+operations structured to begin with a projective syndrome measurement. These
+structured operations are more computationally scalable than the SDP required
+for computing the optimal; we can thus numerically analyze longer codes. Using
+Lagrange duality, we bound the performance of the structured recovery
+operations and show that they are nearly optimal in many relevant cases.
+  We present two classes of channel-adapted quantum error correcting codes
+specifically designed for the amplitude damping channel. These have
+significantly higher rates with shorter block lengths than corresponding
+generic quantum error correcting codes. Both classes are stabilizer codes, and
+have good fidelity performance with stabilizer recovery operations. The
+encoding, syndrome measurement, and syndrome recovery operations can all be
+implemented with Clifford group operations.

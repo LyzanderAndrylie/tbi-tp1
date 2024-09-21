@@ -1,0 +1,12 @@
+Analysing Quantum Measurement requires analysing the physics of amplification
+since amplification of phenomena from one scale to another scale is essential
+to measurement. There still remains the task of working this into an axiomatic
+logical structure, what should be the foundational status of the concepts of
+measurement and probability. We argue that the concept of physical probability
+is a multi-scale phenomenon and as such, can be explicitly defined in terms of
+more fundamental physical concepts. Thus Quantum Mechanics can be given a
+logically unexceptionable axiomatisation. We introduce a new definition of
+macroscopic observable which implements Bohr's insight that the observables of
+a measurement apparatus are classical in nature. In particular, we obtain the
+usual non-abelian observables as limits of abelian, classical, observables.
+This is the essential step in Hilbert's Sixth Problem.

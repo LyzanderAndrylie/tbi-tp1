@@ -1,0 +1,9 @@
+Magnification of subwavelength field distributions using a wire medium slab
+operating in the canalization regime is demonstrated using numerical
+simulations. The magnifying slab is implemented by radially enlarging the
+distance between adjacent wires, and the operational frequency is tuned to
+coincide with the Fabry-Perot resonance condition. The near-field distribution
+of a complex-shaped source is canalized over an electrical distance
+corresponding roughly to $3\lambda$, and the distribution details are magnified
+by a factor of three. The operation of the slab is studied at several
+frequencies deviating from the Fabry-Perot resonance.

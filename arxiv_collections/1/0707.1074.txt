@@ -1,0 +1,13 @@
+The purpose of this paper is to extend J.C. Willems' theory of dissipative
+systems to the quantum domain. This general theory, which combines perspectives
+from the quantum physics and control engineering communities, provides useful
+methods for analysis and design of dissipative quantum systems. We describe the
+interaction of the plant and a class of exosystems in general quantum feedback
+network terms. Our results include an infinitesimal characterization of the
+dissipation property, which generalizes the well-known Positive Real and
+Bounded Real Lemmas, and is used to study some properties of quantum
+dissipative systems. We also show how to formulate control design problems
+using quantum network models, which implements Willems' `control by
+interconnection' for open quantum systems. This control design formulation
+includes, for example, standard problems of stabilization, regulation, and
+robust control.

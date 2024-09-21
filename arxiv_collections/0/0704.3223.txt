@@ -1,0 +1,13 @@
+The time-dependent transverse response of stiff polymers, represented as
+weakly-bending wormlike chains (WLCs), is well-understood on the linear level,
+where transverse degrees of freedom evolve independently from the longitudinal
+ones. We show that, beyond a characteristic time scale, the nonlinear coupling
+of transverse and longitudinal motion in an inextensible WLC significantly
+weakens the polymer response compared to the widely used linear response
+predictions. The corresponding feedback mechanism is rationalized by scaling
+arguments and quantified by a multiple scale approach that exploits an inherent
+separation of transverse and longitudinal correlation length scales. Crossover
+scaling laws and exact analytical and numerical solutions for characteristic
+response quantities are derived for different experimentally relevant setups.
+Our findings are applicable to cytoskeletal filaments as well as DNA under
+tension.

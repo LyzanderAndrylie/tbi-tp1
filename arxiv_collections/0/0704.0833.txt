@@ -1,0 +1,3 @@
+By using tools of time-frequency analysis, we obtain some improved local
+well-posedness results for the NLS, NLW and NLKG equations with Cauchy data in
+modulation spaces $M{p, 1}_{0,s}$.

@@ -1,0 +1,10 @@
+We consider the realization of a quantum computer in a chain of nuclear spins
+coupled by an Ising interaction. Quantum algorithms can be performed with the
+help of appropriate radio-frequency pulses. In addition to the standard
+nearest-neighbor Ising coupling, we also allow for a second neighbor coupling.
+It is shown, how to apply the 2\pi k method in this more general setting, where
+the additional coupling eventually allows to save a few pulses. We illustrate
+our results with two numerical simulations: the Shor prime factorization of the
+number 4 and the teleportation of a qubit along a chain of 3 qubits. In both
+cases, the optimal Rabi frequency (to suppress non-resonant effects) depends
+primarily on the strength of the second neighbor interaction.

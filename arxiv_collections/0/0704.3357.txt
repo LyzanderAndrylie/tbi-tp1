@@ -1,0 +1,6 @@
+We present a description of finite dimensional quantum entanglement, based on
+a study of the space of all convex decompositions of a given density matrix. On
+this space we construct a system of real polynomial equations describing
+separable states. We further study this system using statistical mechanical
+methods. Finally, we apply our techniques to Werner states of two qubits and
+obtain a sufficient criterion for separability.

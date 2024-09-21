@@ -1,0 +1,21 @@
+A hybrid model where the tunneling probability is estimated based on both
+sudden and adiabatic approaches has been proposed to understand the heavy ion
+fusion phenomena at deep sub-barrier energies. It is shown that under certain
+approximations, it amounts to tunneling through two barriers: one while
+overcoming the normal Coulomb barrier (which is of sudden nature) along the
+radial direction until the repulsive core is reached and thereafter through an
+adiabatic barrier along the neck degree of freedom while making transition from
+a di-nuclear to a mono-nuclear regime through shape relaxation. A general
+feature of this hybrid model is a steep fall-off of the fusion cross section,
+sharp increase of logarithmic derivative L(E) with decreasing energy and the
+astrophysical S-factor showing a maxima at deep sub-barrier energies
+particularly for near symmetric systems. The model can explain the experimental
+fusion measurements for several systems ranging from near symmetric systems
+like $^{58}Ni+^{64}Ni, ^{58}Ni+^{58}Ni$ and $ ^{58}Ni+^{69}Y$ to asymmetric one
+like $^{16}O+^{208}Pb$ where the experimental findings are very surprising.
+Since the second tunneling is along the neck co-ordinate, it is further
+conjectured that deep sub-barrier fusion supression may not be observed for the
+fusion of highly asymmetric projectile target combinations where adiabatic
+transition occurs automatically without any hindrance. The recent deep
+sub-barrier fusion cross section measurements of $^{6}Li+^{198}Pt$ system
+supports this conjecture.

@@ -1,0 +1,17 @@
+Relativistic many-body perturbation theory is applied to study properties of
+ions of the francium isoelectronic sequence. Specifically, energies of the 7s,
+7p, 6d, and 5f states of Fr-like ions with nuclear charges Z = 87 - 100 are
+calculated through third order; reduced matrix elements, oscillator strengths,
+transition rates, and lifetimes are determined for 7s - 7p, 7p - 6d, and 6d -
+5f electric-dipole transitions; and 7s - 6d, 7s - 5f, and 5f_5/2 - 5f_7/2
+multipole matrix elements are evaluated to obtain the lifetimes of low-lying
+excited states. Moreover, for the ions Z = 87 - 92 calculations are also
+carried out using the relativistic all-order single-double method, in which
+single and double excitations of Dirac-Fock wave functions are included to all
+orders in perturbation theory. With the aid of the SD wave functions, we obtain
+accurate values of energies, transition rates, oscillator strengths, and the
+lifetimes of these six ions. Ground state scalar polarizabilities in Fr I, Ra
+II, Ac III, and Th IV are calculated using relativistic third-order and
+all-order methods. Ground state scalar polarizabilities for other Fr-like ions
+are calculated using a relativistic second-order method. These calculations
+provide a theoretical benchmark for comparison with experiment and theory.

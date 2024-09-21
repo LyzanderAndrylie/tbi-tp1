@@ -1,0 +1,10 @@
+We study the electromagnetic field equations on an arbitrary quantum curved
+background in the semiclassical approximation of Loop Quantum Gravity. The
+effective interaction hamiltonian for the Maxwell and gravitational fields is
+obtained and the corresponding field equations, which can be expressed as a
+modified wave equation for the Maxwell potential, are derived. We use these
+results to analyze electromagnetic wave propagation on a quantum
+Robertson-Walker space time and show that Lorentz Invariance is not preserved.
+The formalism developed can be applied to the case where back reaction effects
+on the metric due to the electromagnetic field are taken into account, leading
+to non covariant field equations.

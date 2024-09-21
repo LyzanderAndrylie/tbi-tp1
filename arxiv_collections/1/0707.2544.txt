@@ -1,0 +1,9 @@
+The results are reported of the molecular dynamics simulations of the
+coherent static structure factor of molten AgI at 923 K using a polarizable ion
+model. This model is based on a rigid ion potential, to which the many body
+interactions due to the anions induced polarization are added. The calculated
+structure factor is in better agreement with recent neutron diffraction data
+than that obtained by using simple rigid ion pair potentials. The
+Voronoi-Delaunay method has been applied to study the relationship between
+voids in the spatial distribution of cations and the prepeak of the structure
+factor.

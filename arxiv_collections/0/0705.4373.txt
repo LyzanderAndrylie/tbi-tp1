@@ -1,0 +1,7 @@
+The linear entropy, the von Neumann entropy and the atomic Wehrl entropy are
+frequently used to quantify entanglement in the quantum systems. These
+relations provide typical information on the entanglement in the
+Jaynes-Cummings model (JCM). In this Letter, we explain the origin of this
+analytically and derive a closed form for the atomic Wehrl entropy. Moreover,
+we show that it is more convenient to use the Bloch sphere radius for
+quantifying entanglement in the JCM instead of these entropic relations.

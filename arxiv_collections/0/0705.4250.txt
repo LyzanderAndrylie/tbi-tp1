@@ -1,0 +1,13 @@
+We present ultrafast optical switching experiments on 3D photonic band gap
+crystals. Switching the Si inverse opal is achieved by optically exciting free
+carriers by a two-photon process. We probe reflectivity in the frequency range
+of second order Bragg diffraction where the photonic band gap is predicted. We
+find good experimental switching conditions for free-carrier plasma frequencies
+between 0.3 and 0.7 times the optical frequency: we thus observe a large
+frequency shift of up to D omega/omega= 1.5% of all spectral features including
+the peak that corresponds to the photonic band gap. We deduce a corresponding
+large refractive index change of Dn'_Si/n'_Si= 2.0% and an induced absorption
+length that is longer than the sample thickness. We observe a fast decay time
+of 21 ps, which implies that switching could potentially be repeated at GHz
+rates. Such a high switching rate is relevant to future switching and
+modulation applications.

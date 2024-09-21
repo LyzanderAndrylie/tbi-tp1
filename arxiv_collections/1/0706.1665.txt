@@ -1,0 +1,3 @@
+We present a short way of proving the inequalities obtained by Wright in
+[Journal of Graph Theory, 4: 393 - 407 (1980)] concerning the number of
+connected graphs with $\ell$ edges more than vertices.

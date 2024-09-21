@@ -1,0 +1,8 @@
+We propose a new upper bound for the eavesdropper's information in the direct
+and reverse reconciliated coherent states quantum key distribution protocols
+with heterodyne detection. This bound is derived by maximizing the leaked
+information over the symplectic group of transformations that spans every
+physical Gaussian attack on individual pulses. We exhibit four different
+attacks that reach this bound, which shows that this bound is tight. Finally,
+we compare the secret key rate obtained with this new bound to the homodyne
+rate.

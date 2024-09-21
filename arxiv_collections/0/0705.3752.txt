@@ -1,0 +1,9 @@
+We study stability conditions induced by functors between triangulated
+categories. Given a finite group acting on a smooth projective variety we prove
+that the subset of invariant stability conditions embeds as a closed
+submanifold into the stability manifold of the equivariant derived category. As
+an application we examine stability conditions on Kummer and Enriques surfaces
+and we improve the derived version of the Torelli Theorem for the latter
+surfaces already present in the litterature. We also study the relationship
+between stability conditions on projective spaces and those on their canonical
+bundles.

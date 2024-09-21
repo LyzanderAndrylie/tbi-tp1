@@ -1,0 +1,10 @@
+We present the observation of optical fields carrying squeezed vacuum states
+at sideband frequencies from 10Hz to above 35MHz. The field was generated with
+type-I optical parametric oscillation below threshold at 1064nm. A coherent,
+unbalanced classical modulation field at 40MHz enabled the generation of error
+signals for stable phase control of the squeezed vacuum field with respect to a
+strong local oscillator. Broadband squeezing of approximately -4dB was measured
+with balanced homodyne detection. The spectrum of the squeezed field allows a
+quantum noise reduction of ground-based gravitational wave detectors over their
+full detection band, regardless of whether homodyne readout or radio-frequency
+heterodyne readout is used.

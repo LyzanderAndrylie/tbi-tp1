@@ -1,0 +1,19 @@
+We present a systematic study of the current-voltage characteristics and
+electroluminescence of gallium nitride (GaN) nanowire on silicon (Si) substrate
+heterostructures where both semiconductors are n-type. A novel feature of this
+device is that by reversing the polarity of the applied voltage the
+luminescence can be selectively obtained from either the nanowire or the
+substrate. For one polarity of the applied voltage, ultraviolet (and visible)
+light is generated in the GaN nanowire, while for the opposite polarity
+infrared light is emitted from the Si substrate. We propose a model, which
+explains the key features of the data, based on electron tunnelling from the
+valence band of one semiconductor into the conduction band of the other
+semiconductor. For example, for one polarity of the applied voltage, given a
+sufficient potential energy difference between the two semiconductors,
+electrons can tunnel from the valence band of GaN into the Si conduction band.
+This process results in the creation of holes in GaN, which can recombine with
+conduction band electrons generating GaN band-to-band luminescence. A similar
+process applies under the opposite polarity for Si light emission. This device
+structure affords an additional experimental handle to the study of
+electroluminescence in single nanowires and, furthermore, could be used as a
+novel approach to two-colour light-emitting devices.

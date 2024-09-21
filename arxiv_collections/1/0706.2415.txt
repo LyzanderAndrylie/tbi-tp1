@@ -1,0 +1,14 @@
+Human heart rate is known to display complex fluctuations. Evidence of
+multifractality in heart rate fluctuations in healthy state has been reported
+[Ivanov et al., Nature {\bf 399}, 461 (1999)]. This multifractal character
+could be manifested as a dependence on scale or beat number of the probability
+density functions (PDFs) of the heart rate increments. On the other hand, scale
+invariance has been recently reported in a detrended analysis of healthy heart
+rate increments [Kiyono et al., Phys. Rev. Lett. {\bf 93}, 178103 (2004)]. In
+this paper, we resolve this paradox by clarifying that the scale invariance
+reported is actually exhibited by the PDFs of the sum of detrended healthy
+heartbeat intervals taken over different number of beats, and demonstrating
+that the PDFs of detrended healthy heart rate increments are scale dependent.
+Our work also establishes that this scale invariance is a general feature of
+human heartbeat dynamics, which is shared by heart rate fluctuations in both
+healthy and pathological states.

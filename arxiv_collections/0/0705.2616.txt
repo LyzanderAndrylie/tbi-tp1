@@ -1,0 +1,9 @@
+We compute the (three) master integrals for the crossed ladder diagram with
+two exchanged quanta of equal mass. The differential equations obeyed by the
+master integrals are used to generate power series expansions centered around
+all the singular (plus some regular) points, which are then matched numerically
+with high accuracy. The expansions allow a fast and precise numerical
+calculation of the three master integrals (better than 15 digits with less than
+30 terms in the whole real axis). A conspicuous relation with the equal-mass
+sunrise in two dimensions is found. Comparison with a previous large momentum
+expansion is made finding complete agreement.

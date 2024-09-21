@@ -1,0 +1,17 @@
+In this paper we describe a new technique for the comparison of populations
+of DNA strands. Comparison is vital to the study of ecological systems, at both
+the micro and macro scales. Existing methods make use of DNA sequencing and
+cloning, which can prove costly and time consuming, even with current
+sequencing techniques. Our overall objective is to address questions such as:
+(i) (Genome detection) Is a known genome sequence present, at least in part, in
+an environmental sample? (ii) (Sequence query) Is a specific fragment sequence
+present in a sample? (iii) (Similarity discovery) How similar in terms of
+sequence content are two unsequenced samples? We propose a method involving
+multiple filtering criteria that result in "pools" of DNA of high or very high
+purity. Because our method is similar in spirit to hashing in computer science,
+we call it DNA hash pooling. To illustrate this method, we describe protocols
+using pairs of restriction enzymes. The in silico empirical results we present
+reflect a sensitivity to experimental error. Our method will normally be
+performed as a filtering step prior to sequencing in order to reduce the amount
+of sequencing required (generally by a factor of 10 or more). Even as
+sequencing becomes cheaper, an order of magnitude remains important.

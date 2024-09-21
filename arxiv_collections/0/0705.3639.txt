@@ -1,0 +1,15 @@
+Cooling of molecules via free-space dissipative scattering of photons is
+thought not to be practicable due to the inherently large number of Raman loss
+channels available to molecules and the prohibitive expense of building
+multiple repumping laser systems. The use of an optical cavity to enhance
+coherent Rayleigh scattering into a decaying cavity mode has been suggested as
+a potential method to mitigate Raman loss, thereby enabling the laser cooling
+of molecules to ultracold temperatures. We discuss the possibility of
+cavity-assisted laser cooling particles without closed transitions, identify
+conditions necessary to achieve efficient cooling, and suggest solutions given
+experimental constraints. Specifically, it is shown that cooperativities much
+greater than unity are required for cooling without loss, and that this could
+be achieved via the superradiant scattering associated with intracavity
+self-localization of the molecules. Particular emphasis is given to the polar
+hydroxyl radical (OH), cold samples of which are readily obtained from Stark
+deceleration.

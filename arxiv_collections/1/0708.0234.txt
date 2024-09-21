@@ -1,0 +1,6 @@
+We consider Laplacians acting on sections of homogeneous vector bundles over
+symmetric spaces. By using an integral representation of the heat semi-group we
+find a formal solution for the heat kernel diagonal that gives a generating
+function for the whole sequence of heat invariants. We argue that the obtained
+formal solution correctly reproduces the exact heat kernel diagonal after a
+suitable regularization and analytical continuation.

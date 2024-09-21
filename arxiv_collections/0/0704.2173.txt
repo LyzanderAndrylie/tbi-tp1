@@ -1,0 +1,7 @@
+An acousto-optic cell was used to reduce the speckle noise that reduces the
+quality of Hartmann-Shack and other wave-front sensors measuring ocular
+aberrations. In the method presented here, a laser beam traverses an
+acousto-optic cell, interacting with standing acoustic waves. Speckle reduction
+takes place as the incoming beam is diffractively spread across the cornea. The
+increased size and the wider angular spread of the incoming beam average out
+the speckles, producing a more uniform response of the wave-front sensor.

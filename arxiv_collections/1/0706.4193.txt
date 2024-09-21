@@ -1,0 +1,13 @@
+In this paper, one investigates the following type of
+transportation-information $T_cI$ inequalities: $\alpha(T_c(\nu,\mu))\le
+I(\nu|\mu)$ for all probability measures $\nu$ on some metric space $(\XX, d)$,
+where $\mu$ is a given probability measure, $T_c(\nu,\mu)$ is the
+transportation cost from $\nu$ to $\mu$ with respect to some cost function
+$c(x,y)$ on $\XX^2$, $I(\nu|\mu)$ is the Fisher-Donsker-Varadhan information of
+$\nu$ with respect to $\mu$ and $\alpha: [0,\infty)\to [0,\infty]$ is some left
+continuous increasing function. Using large deviation techniques, it is shown
+that $T_cI$ is equivalent to some concentration inequality for the occupation
+measure of a $\mu$-reversible ergodic Markov process related to $I(\cdot|\mu)$,
+a counterpart of the characterizations of transportation-entropy inequalities,
+recently obtained by Gozlan and L\'eonard in the i.i.d. case . Tensorization
+properties of $T_cI$ are also derived.

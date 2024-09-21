@@ -1,0 +1,11 @@
+We present a theory and experiment demonstrating optical readout of charge
+and spin in a single InAs/GaAs self-assembled quantum dot. By applying a
+magnetic field we create the filling factor 2 quantum Hall singlet phase of the
+charged exciton. Increasing or decreasing the magnetic field leads to
+electronic spin-flip transitions and increasing spin polarization. The
+increasing total spin of electrons appears as a manifold of closely spaced
+emission lines, while spin flips appear as discontinuities of emission lines.
+The number of multiplets and discontinuities measures the number of carriers
+and their spin. We present a complete analysis of the emission spectrum of a
+single quantum dot with N=4 electrons and a single hole, calculated and
+measured in magnetic fields up to 23 Tesla.

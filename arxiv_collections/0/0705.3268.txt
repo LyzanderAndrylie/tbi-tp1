@@ -1,0 +1,6 @@
+We illustrate that open quantum systems composed of neutral, ultracold atoms
+in one-dimensional optical lattices can exhibit behavior analogous to
+semiconductor electronic circuits. A correspondence is demonstrated for bosonic
+atoms, and the experimental requirements to realize these devices are
+established. The analysis follows from a derivation of a quantum master
+equation for this general class of open quantum systems.

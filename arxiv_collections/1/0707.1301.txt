@@ -1,0 +1,8 @@
+We study the suppression of electron localization due to the screening of
+disorder in a Hubbard-Anderson model. We focus on the change of the electron
+localization length at the Fermi level within a static picture, where
+interactions are absorbed into the redefinition of the random on-site energies.
+Two different approximations are presented, either one yielding a nonmonotonic
+dependence of the localization length on the interaction strength, with a
+pronounced maximum at an intermediate interaction strength. In spite of its
+simplicity, our approach is in good agreement with recent numerical results.

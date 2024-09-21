@@ -1,0 +1,6 @@
+Shapes of relative emission sources can be accessed by expanding shapes of
+correlations at low relative velocities in pair center of mass in Cartesian
+harmonics. Coefficients of expansion for correlations are related to the
+respective coefficients of expansion for the sources through one dimensional
+integral transforms involving properties of pair relative wavefunctions. The
+methodology is illustrated with analyses of NA49 and PHENIX correlation data.

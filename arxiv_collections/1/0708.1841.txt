@@ -1,0 +1,8 @@
+In this paper we present a framework for fast quantum conductance
+calculations of carbon nanotube-based sensing devices targeting aromatic amino
+acids within a tight binding approximation. The method begins by a novel
+parameterization procedure based on isospectral matrix flows. With the properly
+parameterized Hamiltonian we employ a linearly scaling algorithm to compute the
+quantum conductance in the coherent transport regime. A few conclusions are
+presented regarding the suitability of carbon nanotubes in aromatic amino acid
+detection.

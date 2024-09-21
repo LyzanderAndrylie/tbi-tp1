@@ -1,0 +1,4 @@
+Recent advances in Random Matrix Theory enable one to determine the
+pseudoscalar decay constant from the response of eigenmodes of quenched
+fermions to an imaginary isospin chemical potential. We perform a pilot test of
+this idea, from simulations with two flavors of dynamical overlap fermions.

@@ -1,0 +1,14 @@
+The material and electrical properties of the CNT single vias and array vias
+grown by microwave plasma-enhanced chemical vapor deposition were investigated.
+The diameters of multiwall carbon nanotubes (MWNTs) grown on the bottom
+electrode of Ta decrease with increasing pretreatment power and substrate
+temperature while the effects of the growth power and methane flow ratio are
+insignificant The decrease of CNT diameters leads to the decrease of the CNT
+via diode devices. The increase of growth power enhances the CNT graphitization
+degree and thue the conductivity of CNT via diode devices. In the same via
+region, the MWNT diode resistances of the array vias are lower than those of
+the single vias. The MWNT diode resistances on the bottom electrode of titanium
+are lower than those on the bottom electrode of tantalum. It may be attributed
+to the smaller tube diameters on the bottom electrode of Ti and the work
+function difference between Ta and Ti films with respect to the work function
+of CNTs.

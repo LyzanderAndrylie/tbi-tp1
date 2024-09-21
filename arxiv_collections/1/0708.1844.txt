@@ -1,0 +1,12 @@
+Investigation of electrical conduction in polysilicon nanowires (polySiNW)
+with nanograins (5 to 20nm), based on Monte Carlo (MC) simulations and
+electrical measurements from 4K to 300K are presented. Some irregular Coulomb
+Oscillations (CO) are observed at temperatures lower than 200K showing several
+period widths due to the random distribution in grain size (5-20nm). A
+remarkable result consists in more effective oscillations observed at
+intermediate range of temperatures (between 25K and 150K) and high drain
+voltages. The temperature dependence of COs is explained by the fact that in a
+multiple asymmetric dot system at low temperature, COs are observed not at the
+lowest but at an intermediate temperature range, whereas the drain voltage
+dependence is due to an enhanced non-resonant tunneling. MC simulations have
+confirmed experimental observations.

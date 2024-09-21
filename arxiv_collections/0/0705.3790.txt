@@ -1,0 +1,17 @@
+On the basis of new, concise foundations, this paper establishes the four
+laws of thermodynamics, the Maxwell relations, and the stability requirements
+for response functions, in a form applicable to global (homogeneous), local
+(hydrodynamic) and microlocal (kinetic) equilibrium.
+  The present, self-contained treatment needs very little formal machinery and
+stays very close to the formulas as they are applied by the practicing
+physicist, chemist, or engineer. From a few basic assumptions, the full
+structure of phenomenological thermodynamics and of classical and quantum
+statistical mechanics is recovered.
+  Care has been taken to keep the foundations free of subjective aspects (which
+traditionally creep in through information or probability). One might describe
+the paper as a uniform treatment of the nondynamical part of classical and
+quantum statistical mechanics ``without statistics'' (i.e., suitable for the
+definite descriptions of single objects) and ``without mechanics'' (i.e.,
+independent of microscopic assumptions). When enriched by the traditional
+examples and applications, this paper may serve as the basis for a course on
+thermal physics.

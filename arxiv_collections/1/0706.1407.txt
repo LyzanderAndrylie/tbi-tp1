@@ -1,0 +1,12 @@
+In this paper we consider the representing measures $\mu_{x},x\in
+\QTR{Bbb}{R}^{d}$, and $\nu_{y},y\in \QTR{Bbb}{R}^{d}$, of the Dunkl
+intertwining operator and of its dual. When the multiplicity function is
+positive, we prove that for all $x\in \QTR{Bbb}{R}_{\QTO{mbox}{reg}}^{d}$ we
+have $d\mu_{x}(y)=\QTR{cal}{K}(x,y)dy$ and for almost all $y\in
+\QTR{Bbb}{R}^{d}$ we have $d\nu_{y}(x)=\QTR{cal}{K}(x,y)\omega_{k}(x)dx,$ where
+$\QTR{cal}{K}(x,.)$ is a positive integrable function on $\QTR{Bbb}{R}^{d}$
+with support in $\{y\in \QTR{Bbb}{R}^{d}/\Vert y\Vert \leq \Vert x\Vert \}$ and
+the function $\QTR{cal}{K}(.,y)$ is locally integrable on $\QTR{Bbb}{R}^{d}$
+with respect to the measure $\omega_{k}(x)dx$ and with support in $\{x\in
+\QTR{Bbb}{R}^{d}/\Vert x\Vert \geq \Vert y\Vert \}$. Next we present some
+applications of this result.

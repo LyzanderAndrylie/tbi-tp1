@@ -1,0 +1,8 @@
+The density matrix of a graph is the combinatorial laplacian matrix of a
+graph normalized to have unit trace. In this paper we generalize the
+entanglement properties of mixed density matrices from combinatorial laplacian
+matrices of graphs discussed in Braunstein {\it et al.} Annals of
+Combinatorics, {\bf 10}(2006)291 to tripartite states. Then we proved that the
+degree condition defined in Braunstein {\it et al.} Phys. Rev. A {\bf 73},
+(2006)012320 is sufficient and necessary for the tripartite separability of the
+density matrix of a nearest point graph.

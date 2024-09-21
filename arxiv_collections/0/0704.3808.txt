@@ -1,0 +1,22 @@
+Background: Duplication of genes is important for evolution of molecular
+networks. Many authors have therefore considered gene duplication as a driving
+force in shaping the topology of molecular networks. In particular it has been
+noted that growth via duplication would act as an implicit way of preferential
+attachment, and thereby provide the observed broad degree distributions of
+molecular networks.
+  Results: We extend current models of gene duplication and rewiring by
+including directions and the fact that molecular networks are not a result of
+unidirectional growth. We introduce upstream sites and downstream shapes to
+quantify potential links during duplication and rewiring. We find that this in
+itself generates the observed scaling of transcription factors for genome sites
+in procaryotes. The dynamical model can generate a scale-free degree
+distribution, p(k)&prop; 1/k^&gamma;, with exponent &gamma;=1 in the
+non-growing case, and with &gamma;>1 when the network is growing.
+  Conclusions: We find that duplication of genes followed by substantial
+recombination of upstream regions could generate main features of genetic
+regulatory networks. Our steady state degree distribution is however to broad
+to be consistent with data, thereby suggesting that selective pruning acts as a
+main additional constraint on duplicated genes. Our analysis shows that gene
+duplication can only be a main cause for the observed broad degree
+distributions, if there is also substantial recombinations between upstream
+regions of genes.

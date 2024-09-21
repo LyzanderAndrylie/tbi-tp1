@@ -1,0 +1,10 @@
+The Positive Mass Theorem states that a complete asymptotically flat manifold
+of nonnegative scalar curvature has nonnegative mass. The Riemannian Penrose
+inequality provides a sharp lower bound for the mass when black holes are
+present. More precisely, this lower bound is given in terms of the area of an
+outermost minimal surface, and equality is achieved only for Schwarzschild
+metrics. The Riemannian Penrose inequality was first proved in three dimensions
+in 1997 by G. Huisken and T. Ilmanen for the case of a single black hole. In
+1999, H. Bray extended this result to the general case of multiple black holes
+using a different technique. In this paper we extend Bray's technique to
+dimensions less than 8.

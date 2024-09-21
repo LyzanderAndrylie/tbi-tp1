@@ -1,0 +1,12 @@
+We report a search for the anomalous production of events with multiple
+charged leptons in p-pbar collisions at sqrt{s} = 1.96 TeV using a data sample
+corresponding to an integrated luminosity of 346 pb^{-1} collected by the CDF
+II detector at the Fermilab Tevatron. The search is divided into three-lepton
+and four-or-more-lepton data samples. We observe six events in the three-lepton
+sample and zero events in the >=4-lepton sample. Both numbers of events are
+consistent with standard model background expectations. Within the framework of
+an R-parity violating supergravity model, the results are interpreted as mass
+limits on the lightest neutralino and chargino particles. For one particular
+choice of model parameters, the limits are M_neutralino > 110 GeV/c^{2} and
+M_chargino > 203 GeV/c^{2} at 95% confidence level; the variation of these mass
+limits with model parameters is presented.

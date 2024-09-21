@@ -1,0 +1,6 @@
+We find dispersion-free wavepacket solutions to the Klein-Gordon equation,
+with the only free parameter being the wavepacket velocity $ {\bf v} $. These
+wavefunctions are eigenvectors of a velocity operator with commuting components
+which is symmetric in a certain scalar product space. We show that this
+velocity operator corresponds to a classical generator which may be obtained by
+a canonical tranformation from $ {\bf x}, {\bf k} $.

@@ -1,0 +1,9 @@
+In this paper, we address the problem of discriminating two given quantum
+operations. Firstly, based on the Bloch representation of single qubit systems,
+we give the exact minimum error probability of discriminating two single qubit
+quantum operations by unentangled input states. In particular, for the Pauli
+channels discussed in [Phys. Rev. A {\bf 71}, 062340 (2005)], we use a more
+intuitional and visual method to deal with their discrimination problem.
+Secondly, we consider the condition for perfect discrimination of two quantum
+operations. Specially, we get that two generalized Pauli channels are perfectly
+distinguishable if and only if their characteristic vectors are orthogonal.

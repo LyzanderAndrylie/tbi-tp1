@@ -1,0 +1,9 @@
+We consider the development of Cooper pairs in a self-consistent Hartree Fock
+mean field for the even Sm isotopes. Results are presented at the level of a
+BCS treatment, a number-projected BCS treatment and an exact treatment using
+the Richardson ansatz. While projected BCS captures much of the pairing
+correlation energy that is absent from BCS, it still misses a sizable
+correlation energy, typically of order $1 MeV$. Furthermore, because it does
+not average over the properties of the fermion pairs, the exact Richardson
+solution permits a more meaningful definition of the Cooper wave function and
+of the fraction of pairs that are collective.

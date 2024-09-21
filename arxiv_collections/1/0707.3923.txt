@@ -1,0 +1,16 @@
+Quantum interference effects in rings provide suitable means for controlling
+spin at mesoscopic scales. Here we apply such a control mechanism to the
+spin-dependent transport in a ballistic quasi one dimensional ring patterned in
+two dimensional electron gases (2DEGs). The study is essentially based on the
+{\it natural} spin-orbit (SO) interactions, one arising from the laterally
+confining electric field {($\beta$ term) and the other due to to the
+quantum-well potential that confines electrons in the 2DEG (conventional Rashba
+SO interaction or $\alpha$ term).} We focus on single-channel transport and
+solve analytically the spin polarization of the current. As an important
+consequence of the presence of spin splitting, we find the occurrence of spin
+dependent current oscillations.
+  We analyze %the effects of disorder by discussing the transport in the
+presence of one non-magnetic obstacle in the ring. We demonstrate that a spin
+polarized current can be induced when an unpolarized charge current is injected
+in the ring, by focusing on the central role that the presence of the obstacle
+plays.

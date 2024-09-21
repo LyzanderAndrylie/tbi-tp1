@@ -1,0 +1,12 @@
+We exactly solve the ferromagnetic spin-1/2 Ising model on the Bethe lattice
+in the presence of an external magnetic field by means of the equations of
+motion method within the Green's function formalism. In particular, such an
+approach is applied to an isomorphic model of localized Fermi particles
+interacting via an intersite Coulomb interaction. A complete set of
+eigenoperators is found together with the corresponding eigenvalues. The
+Green's functions and the correlation functions are written in terms of a
+finite set of parameters to be self-consistently determined. A procedure is
+developed, that allows us to exactly fix the unknown parameters in the case of
+a Bethe lattice with any coordination number z. Non-local correlation functions
+up to four points are also provided together with a study of the relevant
+thermodynamic quantities.

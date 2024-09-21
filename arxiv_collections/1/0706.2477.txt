@@ -1,0 +1,7 @@
+Spin-orbital entanglement in the ground state of a one-dimensional
+SU(2)$\otimes$SU(2) spin-orbital model is analyzed using exact diagonalization
+of finite chains. For $S=1/2$ spins and $T=1/2$ pseudospins one finds that the
+quantum entanglement is similar at the SU(4) symmetry point and in the
+spin-orbital valence bond state. We also show that quantum transitions in
+spin-orbital models turn out to be continuous under certain circumstances, in
+constrast to the discontinuous transitions in spin models with SU(2) symmetry.

@@ -1,0 +1,9 @@
+A geometric approach to time-dependent optimal control problems is proposed.
+This formulation is based on the Skinner and Rusk formalism for Lagrangian and
+Hamiltonian systems. The corresponding unified formalism developed for optimal
+control systems allows us to formulate geometrically the necessary conditions
+given by Pontryagin's Maximum Principle, provided that the differentiability
+with respect to controls is assumed and the space of controls is open.
+Furthermore, our method is also valid for implicit optimal control systems and,
+in particular, for the so-called descriptor systems (optimal control problems
+including both differential and algebraic equations).

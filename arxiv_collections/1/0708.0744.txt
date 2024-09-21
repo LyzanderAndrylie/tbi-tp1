@@ -1,0 +1,11 @@
+We consider quantum Schubert cells in the quantum grassmannian and give a
+cell decomposition of the prime spectrum via the Schubert cells. As a
+consequence, we show that all primes are completely prime in the generic case
+where the deformation parameter q is not a root of unity. There is a torus H
+that acts naturally on the quantum grassmannian and the cell decomposition of
+the set of H-primes leads to a parameterisation of the H-spectrum via certain
+diagrams on partitions associated to the Schubert cells. Interestingly, the
+same parameterisation occurs for the non-negative cells in recent studies
+concerning the totally non-negative grassmannian. Finally, we use the cell
+decomposition to establish that the quantum grassmannian satisfies normal
+separation and catenarity.

@@ -1,0 +1,7 @@
+Denote by an $l$-component a connected graph with $l$ edges more than
+vertices. We prove that the expected number of creations of $(l+1)$-component,
+by means of adding a new edge to an $l$-component in a randomly growing graph
+with $n$ vertices, tends to 1 as $l,n$ tends to $\infty$ but with $l =
+o(n^{1/4})$. We also show, under the same conditions on $l$ and $n$, that the
+expected number of vertices that ever belong to an $l$-component is $\sim
+(12l)^{1/3} n^{2/3}$.

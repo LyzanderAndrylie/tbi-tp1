@@ -1,0 +1,24 @@
+This review is focused on the borderline region of theoretical physics and
+mathematics. First, we describe numerical methods for the acceleration of the
+convergence of series. These provide a useful toolbox for theoretical physics
+which has hitherto not received the attention it actually deserves. The
+unifying concept for convergence acceleration methods is that in many cases,
+one can reach much faster convergence than by adding a particular series term
+by term. In some cases, it is even possible to use a divergent input series,
+together with a suitable sequence transformation, for the construction of
+numerical methods that can be applied to the calculation of special functions.
+This review both aims to provide some practical guidance as well as a
+groundwork for the study of specialized literature. As a second topic, we
+review some recent developments in the field of Borel resummation, which is
+generally recognized as one of the most versatile methods for the summation of
+factorially divergent (perturbation) series. Here, the focus is on algorithms
+which make optimal use of all information contained in a finite set of
+perturbative coefficients. The unifying concept for the various aspects of the
+Borel method investigated here is given by the singularities of the Borel
+transform, which introduce ambiguities from a mathematical point of view and
+lead to different possible physical interpretations. The two most important
+cases are: (i) the residues at the singularities correspond to the decay width
+of a resonance, and (ii) the presence of the singularities indicates the
+existence of nonperturbative contributions which cannot be accounted for on the
+basis of a Borel resummation and require generalizations toward resurgent
+expansions. Both of these cases are illustrated by examples.

@@ -1,0 +1,17 @@
+Biologists are leading current research on genome characterization
+(sequencing, alignment, transcription), providing a huge quantity of raw data
+about many genome organisms. Extracting knowledge from this raw data is an
+important process for biologists, using usually data mining approaches.
+However, it is difficult to deals with these genomic information using actual
+bioinformatics data mining tools, because data are heterogeneous, huge in
+quantity and geographically distributed. In this paper, we present a new
+approach between data mining and virtual reality visualization, called visual
+data mining. Indeed Virtual Reality becomes ripe, with efficient display
+devices and intuitive interaction in an immersive context. Moreover, biologists
+use to work with 3D representation of their molecules, but in a desktop
+context. We present a software solution, Genome3DExplorer, which addresses the
+problem of genomic data visualization, of scene management and interaction.
+This solution is based on a well-adapted graphical and interaction paradigm,
+where local and global topological characteristics of data are easily visible,
+on the contrary to traditional genomic database browsers, always focused on the
+zoom and details level.

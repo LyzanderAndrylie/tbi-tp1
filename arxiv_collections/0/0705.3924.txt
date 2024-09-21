@@ -1,0 +1,11 @@
+The response of mesoscopic superconductors to an ac magnetic field is
+investigated both experimentally and with numerical simulations. We study small
+square samples with dimensions of the order of the penetration depth. We obtain
+the ac susceptibitity $\chi=\chi'+i\chi''$ at microwave frequencies as a
+function of the dc magnetic field $H_{dc}$. We find that the dissipation, given
+by $\chi''$, has a non monotonous behavior in mesoscopic samples. In the
+numerical simulations we obtain that the dissipation increases before the
+penetration of vortices and then it decreases abruptly after vortices have
+entered the sample. This is verified experimentally, where we find that
+$\chi''$ has strong oscillations as a function of $H_{dc}$ in small squares of
+Pb.

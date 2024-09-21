@@ -1,0 +1,14 @@
+We study mesoscopic fluctuations and weak localization correction to the
+supercurrent in Josephson junctions with coherent diffusive electron dynamics
+in the normal part. Two kinds of junctions are considered: a chaotic dot
+coupled to superconductors by tunnel barriers and a diffusive junction with
+transparent normal--superconducting interfaces. The amplitude of current
+fluctuations and the weak localization correction to the average current are
+calculated as functions of the ratio between the superconducting gap and the
+electron dwell energy, temperature, and superconducting phase difference across
+the junction. Technically, fluctuations on top of the spatially inhomogeneous
+proximity effect in the normal region are described by the replicated version
+of the \sigma-model. For the case of diffusive junctions with transparent
+interfaces, the magnitude of mesoscopic fluctuations of the critical current
+appears to be nearly 3 times larger than the prediction of the previous theory
+which did not take the proximity effect into account.

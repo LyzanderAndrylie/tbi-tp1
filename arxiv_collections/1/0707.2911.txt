@@ -1,0 +1,8 @@
+We analyze the performance of two different core-hole potentials in the
+theoretical modeling of XAS of ice, liquid and gas phase water; the use of a
+full core-hole (FCH) in the calculations, as suggested by Hetenyi et al. [J.
+Chem. Phys. 120 (18), 8632 (2004)], gives poor agreement with experiment in
+terms of intensity distribution as well as transition energies, while the half
+core hole (HCH) potential, in the case of water, provides a better compromise
+between initial and final state effects, leading to good agreement with the
+experimental data.

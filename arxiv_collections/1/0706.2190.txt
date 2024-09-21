@@ -1,0 +1,18 @@
+An impressive success of spintronic applications has been typically realized
+in metal-based structures which utilize magnetoresistive effects for
+substantial improvements in the performance of computer hard drives and
+magnetic random access memories. Correspondingly, the theoretical understanding
+of spin-polarized transport is usually limited to a metallic regime in a linear
+response, which, while providing a good description for data storage and
+magnetic memory devices, is not sufficient for signal processing and digital
+logic. In contrast, much less is known about possible applications of
+semiconductor-based spintronics and spin-polarized transport in related
+structures which could utilize strong intrinsic nonlinearities in
+current-voltage characteristics to implement spin-based logic. Here we discuss
+the challenges for realizing a particular class of structures in semiconductor
+spintronics: our proposal for bipolar spintronic devices in which carriers of
+both polarities (electrons and holes) contribute to spin-charge coupling. We
+formulate the theoretical framework for bipolar spin-polarized transport, and
+describe several novel effects in two- and three-terminal structures which
+arise from the interplay between nonequilibrium spin and equilibrium
+magnetization.

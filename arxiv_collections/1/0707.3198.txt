@@ -1,0 +1,9 @@
+This paper studies a portfolio optimization problem in a discrete-time
+Markovian model of a financial market, in which asset price dynamics depend on
+an external process of economic factors. There are transaction costs with a
+structure that covers, in particular, the case of fixed plus proportional
+costs. We prove that there exists a self-financing trading strategy maximizing
+the average growth rate of the portfolio wealth. We show that this strategy has
+a Markovian form. Our result is obtained by large deviations estimates on
+empirical measures of the price process and by a generalization of the
+vanishing discount method to discontinuous transition operators.

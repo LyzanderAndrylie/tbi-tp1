@@ -1,0 +1,6 @@
+The paper studies some ill-posed boundary value problems on semi-plane for
+parabolic equations with homogenuous Cauchy condition at initial time and with
+the second order Cauchy condition on the boundary of the semi-plane. A class of
+inputs that allows some regularity is suggested and described explicitly in
+frequency domain. This class is everywhere dense in the space of square
+integrable functions.

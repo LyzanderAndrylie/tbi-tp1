@@ -1,0 +1,18 @@
+We study conditions for the deterministic transformation
+$\ket{\psi}\longrightarrow\ket{\phi}$ of a bipartite entangled state by a
+separable operation. If the separable operation is a local operation with
+classical communication (LOCC), Nielsen's majorization theorem provides
+necessary and sufficient conditions. For the general case we derive a necessary
+condition in terms of products of Schmidt coefficients, which is equivalent to
+the Nielsen condition when either of the two factor spaces is of dimension 2,
+but is otherwise weaker. One implication is that no separable operation can
+reverse a deterministic map produced by another separable operation, if one
+excludes the case where the Schmidt coefficients of $\ket{\psi}$ and are the
+same as those of $\ket{\phi}$. The question of sufficient conditions in the
+general separable case remains open. When the Schmidt coefficients of
+$\ket{\psi}$ are the same as those of $\ket{\phi}$, we show that the Kraus
+operators of the separable transformation restricted to the supports of
+$\ket{\psi}$ on the factor spaces are proportional to unitaries. When that
+proportionality holds and the factor spaces have equal dimension, we find
+conditions for the deterministic transformation of a collection of several full
+Schmidt rank pure states $\ket{\psi_j}$ to pure states $\ket{\phi_j}$.

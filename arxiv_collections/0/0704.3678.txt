@@ -1,0 +1,24 @@
+Aims: Today, large ground-based instruments, like VISIR on the VLT, providing
+diffraction-limited (about 0.3 arcsec) images in the mid-infrared where strong
+PAH features appear enable us to see the flaring structure of the disks around
+Herbig Ae stars.
+  Although great progress has been made in modelling the disk with radiative
+transfer models able to reproduce the spectral energy distribution (SED) of
+Herbig Ae stars, the constraints brought by images have not been yet fully
+exploited. Here, we are interested in checking if these new observational
+imaging constraints can be accounted for by predictions based on existing
+models of passive centrally irradiated hydrostatic disks made to fit the SEDs
+of the Herbig Ae stars.
+  Methods: The images taken by VISIR in the 8.6 and 11.3 microns aromatic
+features reveal a large flaring disk around HD97048 inclined to the line of
+sight. In order to analyse the spatial distribution of these data, we use a
+disk model which includes the most up to date understanding of disk structure
+and physics around Herbig Ae stars with grains in thermal equilibrium in
+addition to transiently-heated PAHs.
+  Results: We compare the observed spatial distribution of the PAH emission
+feature and the adjacent continuum emission with predictions based on existing
+full disk models. Both SED and spatial distribution are in very good agreement
+with the model predictions for common disk parameters.
+  Conclusions: We take the general agreement between observations and
+predictions as a strong support for the physical pictures underlying our flared
+disk model.

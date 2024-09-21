@@ -1,0 +1,21 @@
+Let X be a scheme of finite type over a Noetherian base scheme S admitting a
+dualizing complex, and let U be an open subset whose complement has codimension
+at least 2. We extend the Deligne-Bezrukavnikov theory of perverse coherent
+sheaves by showing that a coherent middle extension (or intersection
+cohomology) functor from perverse sheaves on U to perverse sheaves on X may be
+defined for a much broader class of perversities than has previously been
+known. We also introduce a derived category version of the coherent middle
+extension functor.
+  Under suitable hypotheses, we introduce a construction (called
+"S2-extension") in terms of perverse coherent sheaves of algebras on X that
+takes a finite morphism to U and extends it in a canonical way to a finite
+morphism to X. In particular, this construction gives a canonical
+"S2-ification" of appropriate X. The construction also has applications to the
+"Macaulayfication" problem, and it is particularly well-behaved when X is
+Gorenstein.
+  Our main goal, however, is to address a conjecture of Lusztig on the geometry
+of special pieces (certain subvarieties of the unipotent variety of a reductive
+algebraic group). The conjecture asserts in part that each special piece is the
+quotient of some variety (previously unknown in the exceptional groups and in
+positive characteristic) by the action of a certain finite group. We use
+S2-extension to give a uniform construction of the desired variety.

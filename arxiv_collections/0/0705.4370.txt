@@ -1,0 +1,9 @@
+Conformal rescaling of conformal Yano--Killing tensors and relations between
+Yano and CYK tensors are discussed. Pullback of these objects to a submanifold
+is used to construct all solutions of a CYK equation in anti-de Sitter and de
+Sitter spacetimes. Properties of asymptotic conformal Yano--Killing tensors are
+examined for asymptotic anti-de Sitter spacetimes. Explicit asymptotic forms of
+them are derived. The results are used to construct asymptotic charges in
+asymptotic AdS spacetime. Well known examples like Schwarzschild-AdS, Kerr-AdS
+and NUT-AdS are examined carefully in the construction of the concept of
+energy, angular momentum and dual mass in asymptotic AdS spacetime.

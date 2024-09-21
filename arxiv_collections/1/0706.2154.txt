@@ -1,0 +1,7 @@
+First and second fundamental theorems are given for polynomial invariants of
+a class of pseudo-reflection groups (including the Weyl groups of type $B_n$),
+under the assumption that the order of the group is invertible in the base
+field. Special case of the result is a finite presentation of the algebra of
+multisymmetric polynomials. Reducedness of the invariant commuting scheme is
+proved as a by-product. The algebra of multisymmetric polynomials over an
+arbitrary base ring is revisited.

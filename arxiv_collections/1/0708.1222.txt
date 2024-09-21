@@ -1,0 +1,7 @@
+We treat theoretically Shapiro steps in tunnel Josephson junctions with
+spatially alternating critical current density. Explicit analytical formulas
+for the width of the first integer (normal) and half-integer (anomalous)
+Shapiro steps are derived for short junctions. We develop coarse-graining
+approach, which describes Shapiro steps in the voltage-current curves of the
+asymmetric grain boundaries in YBCO thin films and different
+superconductor-ferromagnet-superconductor Josephson-type heterostructures.

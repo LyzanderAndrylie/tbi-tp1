@@ -1,0 +1,10 @@
+We demonstrate for the first time a mid infrared silicon Raman amplifier.
+Amplification of 12 dB is reported for a signal at 3.39 micron wavelength. The
+active medium was a 2.5 cm long silicon sample that was pumped with 5ns pulses
+at 2.88 micron. The absence of the nonlinear losses which severely limit the
+performance of silicon Raman devices in the near infrared combined with
+unsurpassed crystal quality, high thermal conductivity render silicon a very
+attractive Raman medium. Such a technology can potentially extend silicon
+photonics application beyond data communication in the near infrared and into
+the mid infrared world of remote sensing, biochemical detection and laser
+medicine.

@@ -1,0 +1,16 @@
+A confluence of numerical and theoretical results leads us to conjecture that
+the Hilbert-Schmidt separability probabilities of the 15- and 9-dimensional
+convex sets of complex and real two-qubit states (representable by 4 x 4
+density matrices rho) are 8/33 and 8/17, respectively. Central to our reasoning
+are the modifications of two ansatze, recently advanced (quant-ph/0609006),
+involving incomplete beta functions B_{nu}(a,b), where nu= (rho_{11}
+rho_{44})/(rho_{22} rho_{33}). We, now, set the separability function
+S_{real}(nu) propto B_{nu}(nu,1/2},2) =(2/3) (3-nu) sqrt{nu}. Then, in the
+complex case -- conforming to a pattern we find, manifesting the Dyson indices
+(1, 2, 4) of random matrix theory-- we take S_{complex}(nu) propto S_{real}^{2}
+(nu). We also investigate the real and complex qubit-qutrit cases. Now, there
+are two Bloore ratio variables, nu_{1}= (rho_{11} rho_{55})(rho_{22} rho_{44}),
+nu_{2}= (rho_{22} rho_{66})(rho_{33} rho_{55}), but they appear to remarkably
+coalesce into the product, eta = nu_1 nu_2 = rho_{11} \rho_{66}}{\rho_{33}
+\rho_{44}}, so that the real and complex separability functions are again
+univariate in nature.

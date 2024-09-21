@@ -1,0 +1,12 @@
+To endow the N=1* SYM theory with quarks, we embed D7-brane probes into its
+gravity dual, known as the Polchinski-Strassler background. The non-vanishing
+3-form flux G_3 in the background is dual to mass terms for the three adjoint
+chiral superfields, deforming the N=4 SYM theory to the N=1* SYM theory. We
+keep its three mass parameters independent. This generalizes our analysis in
+hep-th/0610276 for the N=2* SYM theory. We work at second order in the mass
+perturbation, i.e. G_3 and its backreaction on the background are considered
+perturbatively up to this order. We find analytic solutions for the embeddings
+which in general depend also on angular variables. We discuss the properties of
+the solutions and give error estimates on our approximation. By applying the
+method of holographic renormalization, we show that in all cases the embeddings
+are at least consistent with supersymmetry.

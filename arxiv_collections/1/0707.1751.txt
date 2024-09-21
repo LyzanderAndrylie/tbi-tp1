@@ -1,0 +1,19 @@
+We address the thermodynamics, density profiles and superfluid density of
+trapped fermions undergoing BCS-BEC crossover, with and without population
+imbalance. Our approach represents a fully consistent treatment of "pseudogap
+effects", which reflect the distinction between the pair formation temperature
+$T^*$ and the pair condensation temperature $T_c$ and must be accommodated by
+modifying the fermionic excitation spectrum. This distinction has been omitted
+from all other many body approaches in the literature. We show how enforcing
+this corollary implies that pairing fluctuation contributions enter into both
+the gap and the number equations; this is necessary in order to be consistent
+with a generalized Ward identity. Furthermore, we demonstrate that we obtain
+physical results for the superfluid density $n_s(T)$ at all $T$. In contrast,
+previous work in the literature has led to ill-behaved $n_s(T)$. The superfluid
+density is a critical measure of the physicality of a given crossover theory.
+In order to properly address thermodynamic properties of a trapped Fermi gas,
+it is necessary to demonstrate that the particle density profiles are
+consistent with experiment. The lack of demonstrable consistency between
+theoretical and experimental density profiles, along with problematic behavior
+found for $n_s(T)$, casts doubt on previous claims in the literature concerning
+quantitative agreement between thermodynamical calculations and experiment.

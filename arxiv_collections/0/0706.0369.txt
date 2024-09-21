@@ -1,0 +1,10 @@
+Galactic extinction is tested using galaxy number counts at low Galactic
+latitude obtained from five band photometry of the Sloan Digital Sky Survey.
+The spatial variation of galaxy number counts for low extinction regions of
+$E(B-V) < 0.15$ is consistent with the all-sky reddening map of Schlegel,
+Finkbeiner, & Davis (1998) and the standard extinction law. For higher
+extinction regions of $E(B-V) > 0.15$, however, the map of Schlegel et
+al.(1998) overestimates the reddening by a factor up to 1.4, which is likely
+ascribed to the departure from proportionality of reddening to infrared
+emissivity of dust. This result is consistent with the analysis of Arce &
+Goodman (1999) for the Taurus dark cloud complex.

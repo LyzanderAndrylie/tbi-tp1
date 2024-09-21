@@ -1,0 +1,4 @@
+We show that an arbitrary probability distribution can be represented in
+exponential form. In physical contexts, this implies that the equilibrium
+distribution of any classical or quantum dynamical system is expressible in
+grand canonical form.

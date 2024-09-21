@@ -1,0 +1,4 @@
+This is a Bourbaki's seminar text. We introduce the combinatorial
+Kashiwara-Vergne conjecture on the Baker-Campbell-Hausdorff serie. After
+recalling previous results and consequences, we explain the
+Alekseev-Meinrenken's proof [math.QA/0506499]

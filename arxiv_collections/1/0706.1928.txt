@@ -1,0 +1,6 @@
+Functional limit theorem for continuous-time random walks (CTRW) are found in
+general case of dependent waiting times and jump sizes that are also position
+dependent. The limiting anomalous diffusion is described in terms of fractional
+dynamics. Probabilistic interpretation of generalized fractional evolution is
+given in terms of the random time change (subordination) by means of hitting
+times processes.

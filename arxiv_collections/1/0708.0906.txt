@@ -1,0 +1,9 @@
+We consider a simple setup in which a small quantum dot is strongly connected
+to a finite size box. This box can be either a metallic box or a finite size
+quantum wire.The formation of the Kondo screening cloud in the box strongly
+depends on the ratio between the Kondo temperature and the box level spacing.
+By weakly connecting two metallic reservoirs to the quantum dot, a detailed
+spectroscopic analysis can be performed. Since the transport channels and the
+screening channels are almost decoupled, such a setup allows an easier access
+to the measure of finite-size effects associated with the finite extension of
+the Kondo cloud.

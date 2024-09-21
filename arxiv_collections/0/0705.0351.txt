@@ -1,0 +1,12 @@
+In the purely affine formulation of gravity, the gravitational field is
+represented by the symmetric part of the Ricci tensor of the affine connection.
+The classical electromagnetic field can be represented in this formulation by
+the second Ricci tensor of the connection. Such a construction is dynamically
+equivalent to the sourceless Einstein-Maxwell equations. We generalize this
+construction to the case with sources, represented by the derivative of the
+affine Lagrangian density with respect to the connection. We show that the
+Maxwell equations with sources emerge for the simplest affine Lagrangian for
+matter, while the Einstein and Lorentz equations arise if mass has
+electromagnetic origin. We also show that the Maxwell equations replace the
+unphysical constraint imposed by the projective invariance of purely affine
+Lagrangians that depend explicitly on the connection.

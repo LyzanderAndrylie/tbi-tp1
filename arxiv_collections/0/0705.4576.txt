@@ -1,0 +1,10 @@
+The first result of the neutrino magnetic moment measurement at the
+Kalininskaya Nuclear Power Plant (KNPP) with the GEMMA spectrometer is
+presented. An antineutrino-electron scattering is investigated. A high-purity
+germanium detector of 1.5 kg placed 13.9 m away from the 3 GW reactor core is
+used in the spectrometer. The antineutrino flux is $2.73\times 10^{13} \nu_e /
+cm^2 / s$. The differential method is used to extract the $\nu$-e
+electromagnetic scattering events. The scattered electron spectra taken in 6200
+and 2064 hours for the reactor ON and OFF periods are compared. The upper limit
+for the neutrino magnetic moment $\mu_\nu < 5.8\times 10^{-11}$ Bohr magnetons
+at 90{%} CL is derived from the data processing.

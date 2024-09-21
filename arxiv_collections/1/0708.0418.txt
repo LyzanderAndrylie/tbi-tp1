@@ -1,0 +1,11 @@
+We report on the experimental observation of a hitherto ignored long-range
+electromagnetic coupling between self-assembled quantum dots. A 12 times
+enhancement of the quantum dot exciton lifetime is observed by means of
+time-resolved differential reflection spectroscopy. The enhancement is
+explained by utilizing and extending the local field effects as developed in
+\emph{Phys. Rev. B \textbf{64},125326 (2001)}. The electromagnetic coupling of
+the quantum dots results in a collective polarizability, and is observed as a
+suppression of the emission rate. Our results reveal that the coupling is
+established over a distance exceeding 490 nm. Moreover, the mutual coupling
+strength is optically tuned by varying the pump excitation density and enables
+us to optically tune the exciton lifetime.

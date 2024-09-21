@@ -1,0 +1,11 @@
+In this paper we consider the following form of the so-called Mean field
+equation arising from the statistical mechanics description of two dimensional
+turbulence \begin{equation}\label{eq:study} - \D_g u = \rho_1
+  (\frac{e^{u}}{\int_\Sig e^{u} dV_g}-1)-\rho_2
+  (\frac{e^{-u}}{\int_\Sig e^{-u} dV_g} - 1) \end{equation} on a given closed
+orientable Riemannian surface ($\Sigma, g$) with volume 1, where $\rho_1,
+\rho_2$ are real parameters. Exploiting the variational structure of the
+problem and running a min-max scheme introduced by Djadli and Malchiodi, we
+prove that if $k$ is a positive integer, $\rho_1$ and
+  $\rho_2$ two real numbers such that $\rho_1\in (8k\pi, 8(k+1)\pi)$ and
+$\rho_2<4\pi$ then $\eqref{eq:study}$ is solvable.

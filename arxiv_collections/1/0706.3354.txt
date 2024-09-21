@@ -1,0 +1,10 @@
+We calculate the exchange coupling J between electrons in a double-well
+potential in a two-dimensional semiconductor environment within the
+Heitler-London (HL) approach. Two functional forms are considered for the
+double-well potential. We show that by choosing an appropriate and relatively
+simple single-electron variational wave function it is possible, within the HL
+approach, to significantly improve the estimates for J. In all cases the
+present scheme overcomes the artifacts and limitations at short interdot
+distances, previously attributed to the HL method, where unphysical triplet
+ground states have been found, and leads to an overall agreement with analytic
+interpolated expressions for J obtained for a donor-type model potential.

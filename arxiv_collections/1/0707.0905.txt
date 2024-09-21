@@ -1,0 +1,12 @@
+Muonic final states will provide clean signatures formany physics processes
+at the LHC. The two LHC experiments ATLAS and CMS will be able to identify
+muons with a high reconstruction efficiency above 96% and a high transverse
+momentum resolution better than 2% for transverse momenta below 400 GeV/c and
+about 10% at 1 TeV/c. The two experiments follow complentary concepts of muon
+detection. ATLAS has an instrumented air-toroid mangetic system serving as a
+stand-alone muon spectrometer. CMS relies on high bending power and momentum
+resolution in the inner detector, and uses an iron yoke to increase its
+magnetic field. The iron yoke is instrumented with chambers used for muon
+identification. Therefore, muon momenta can only be reconstructed with high
+precision by combining inner-detector information with the data from the muon
+chambers.

@@ -1,0 +1,22 @@
+We revisit the model of a system made up of a Brownian quantum oscillator
+under the influence of an external classical force and linearly coupled to an
+environment made up of many quantum oscillators at zero or finite temperature.
+We show that the HPZ master equation for the reduced density matrix derived
+earlier [B.L. Hu, J.P. Paz, Y. Zhang, Phys. Rev. D 45, 2843 (1992)] with
+coefficients obtained from solutions of integro-differential equations can
+assume closed functional forms for a fairly general class of spectral densities
+of the environment at arbitrary temperature and coupling strength. As an
+illustration of these new results we solve the corresponding master equation
+and calculate, among other physical quantities, the uncertainty function whose
+late time behavior can be obtained fully. This produces a formula for
+investigating the standard quantum limit which is central to addressing many
+theoretical issues in macroscopic quantum phenomena and experimental concerns
+related to low temperature precision measurements. We find that any initial
+state always settles down to a Gaussian density matrix whose covariance is
+determined by the thermal reservoir and whose mean is determined by the
+external force. For more general spectra we show that the solution of the
+master equation can be reduced to solving for the motion of a classical
+parametric oscillator with parametric frequency determined by the unsolved for
+master equation coefficients. States in these systems experience evolution that
+is parametrically similar to the simpler evolution explicitly determined for in
+the case of Laurent-series spectra.

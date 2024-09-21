@@ -1,0 +1,12 @@
+High-visibility interference of photon echoes generated in spatially
+separated solid-state atomic ensembles is demonstrated. The solid state
+ensembles were LiNbO$_3$ waveguides doped with Erbium ions absorbing at 1.53
+$\mu$m. Bright coherent states of light in several temporal modes (up to 3) are
+stored and retrieved from the optical memories using two-pulse photon echoes.
+The stored and retrieved optical pulses, when combined at a beam splitter, show
+almost perfect interference, which demonstrates both phase preserving storage
+and indistinguishability of photon echoes from separate optical memories. By
+measuring interference fringes for different storage times, we also show
+explicitly that the visibility is not limited by atomic decoherence. These
+results are relevant for novel quantum repeaters architectures with photon echo
+based multimode quantum memories.

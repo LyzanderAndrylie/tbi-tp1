@@ -1,0 +1,20 @@
+The combinatorial basis of entropy, given by Boltzmann, can be written $H =
+N^{-1} \ln \mathbb{W}$, where $H$ is the dimensionless entropy, $N$ is the
+number of entities and $\mathbb{W}$ is number of ways in which a given
+realization of a system can occur (its statistical weight). This can be
+broadened to give generalized combinatorial (or probabilistic) definitions of
+entropy and cross-entropy: $H=\kappa (\phi(\mathbb{W}) +C)$ and $D=-\kappa
+(\phi(\mathbb{P}) +C)$, where $\mathbb{P}$ is the probability of a given
+realization, $\phi$ is a convenient transformation function, $\kappa$ is a
+scaling parameter and $C$ an arbitrary constant. If $\mathbb{W}$ or
+$\mathbb{P}$ satisfy the multinomial weight or distribution, then using
+$\phi(\cdot)=\ln(\cdot)$ and $\kappa=N^{-1}$, $H$ and $D$ asymptotically
+converge to the Shannon and Kullback-Leibler functions. In general, however,
+$\mathbb{W}$ or $\mathbb{P}$ need not be multinomial, nor may they approach an
+asymptotic limit. In such cases, the entropy or cross-entropy function can be
+{\it defined} so that its extremization ("MaxEnt'' or "MinXEnt"), subject to
+the constraints, gives the ``most probable'' (``MaxProb'') realization of the
+system. This gives a probabilistic basis for MaxEnt and MinXEnt, independent of
+any information-theoretic justification.
+  This work examines the origins of the governing distribution $\mathbb{P}$....
+(truncated)

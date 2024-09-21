@@ -1,0 +1,20 @@
+Precise photometric measurements of the upcoming space missions allow the
+size, mass, and density of satellites of exoplanets to be determined. Here we
+present such an analysis using the photometric transit timing variation
+($TTV_p$). We examined the light curve effects of both the transiting planet
+and its satellite. We define the photometric central time of the transit that
+is equivalent to the transit of a fixed photocenter. This point orbits the
+barycenter, and leads to the photometric transit timing variations. The exact
+value of $TTV_p$ depends on the ratio of the density, the mass, and the size of
+the satellite and the planet. Since two of those parameters are independent, a
+reliable estimation of the density ratio leads to an estimation of the size and
+the mass of the exomoon. Upper estimations of the parameters are possible in
+the case when an upper limit of $TTV_p$ is known. In case the density ratio
+cannot be estimated reliably, we propose an approximation with assuming equal
+densities. The presented photocenter $TTV_p$ analysis predicts the size of the
+satellite better than the mass. We simulated transits of the Earth-Moon system
+in front of the Sun. The estimated size and mass of the Moon are 0.020
+Earth-mass and 0.274 Earth-size if equal densities are assumed. This result is
+comparable to the real values within a factor of 2. If we include the real
+density ratio (about 0.6), the results are 0.010 Earth-Mass and 0.253
+Earth-size, which agree with the real values within 20%.

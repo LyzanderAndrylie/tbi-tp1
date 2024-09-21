@@ -1,0 +1,15 @@
+The effective coupling of QCD is measured by using the gauge configurations
+produced by the MILC collaboration in which the Kogut Susskind (KS) fermion is
+incorporated and by using that produced by the QCDOC collaboration in which the
+domain wall fermion (DWF) is incorporated. We fix the gauge to the Landau gauge
+and to the Coulomb gauge. The infrared effective coupling in the Coulomb gauge
+agrees with the recent extraction at JLab, but that in the Landau gauge shows
+infrared suppression. The suppression is expected to be due to the color
+anti-symmetric ghost propagator which in the unquenched configurations has
+stronger infrared singularity than the color diagonal ghost propagator. The
+Coulomb form factor in the infrared depends on the kind of the fermion
+incorporated in the system and the temperature. The quark has the effect of
+quenching randomness and the fluctuation of the color anti-symmetric ghost
+propagator is reduced in the unquenched configuration, and the Kugo-Ojima
+parameter c is closer to 1 in the unquenched configuration than in the quenched
+configuration.

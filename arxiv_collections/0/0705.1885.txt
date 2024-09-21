@@ -1,0 +1,6 @@
+The dipole form of the gluon part of the colour singlet BFKL kernel in the
+next-to-leading order (NLO) is obtained in the coordinate representation by
+direct transfer from the momentum representation, where the kernel was
+calculated before. With this paper the transformation of the NLO BFKL kernel to
+the dipole form, started a few months ago with the quark part of the kernel, is
+completed.

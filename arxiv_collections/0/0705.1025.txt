@@ -1,0 +1,4 @@
+We show how to test whether a graph with n vertices and m edges is a partial
+cube, and if so how to find a distance-preserving embedding of the graph into a
+hypercube, in the near-optimal time bound O(n^2), improving previous O(nm)-time
+solutions.

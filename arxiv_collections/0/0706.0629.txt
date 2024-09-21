@@ -1,0 +1,9 @@
+A mixture of light and heavy atoms is considered. We study the kinetics of
+the light atoms, scattered by the heavy ones, the latter undergoing slow
+diffusive motion. In three-dimensional space we claim the existence of a
+crossover region (in energy), which separates the states of the light atoms
+with fast diffusion and the states with slow diffusion; the latter is
+determined by the dephasing time. For the two dimensional case we have a
+transition between weak localization, observed when the dephasing length is
+less than the localization length (calculated for static scatterers), and
+strong localization observed in the opposite case.

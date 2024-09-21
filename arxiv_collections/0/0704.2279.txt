@@ -1,0 +1,13 @@
+We study how rotation affects observable amplitudes of high-order g- and
+mixed r/g-modes and examine prospects for their detection and identification.
+Our formalism, which is described in some detail, relies on a nonadiabatic
+generalization of the traditional approximation. Numerical results are
+presented for a number of unstable modes in a model of SPB star, at rotation
+rates up to 250 km/s. It is shown that rotation has a large effect on mode
+visibility in light and in mean radial velocity variations. In most cases, fast
+rotation impairs mode detectability of g-modes in light variation, as Townsend
+(2003b) has already noted, but it helps detection in radial velocity variation.
+The mixed modes, which exist only at sufficiently fast rotation, are also more
+easily seen in radial velocity. The amplitude ratios and phase differences are
+strongly dependent on the aspect, the rotational velocity and on the mode. The
+latter dependence is essential for mode identification.

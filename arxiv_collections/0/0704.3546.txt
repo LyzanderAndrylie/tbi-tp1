@@ -1,0 +1,15 @@
+The blasting of brittle materials with sharp particles is an important
+fabrication technology in many industrial processes. In particular, for
+micro-systems, it allows the production of devices with feature sizes down to
+few tens of microns. An important parameter of this process is the surface
+roughness of post-blasted surfaces. In this work the scaling properties of
+Pyrex glass and silicon surfaces after bombardment with alumina particles is
+investigated. The targets were bombarded at normal incidence using alumina
+particles with two different average sizes, $29\mu m$ and $9\mu m$,
+respectively. This investigation indicates that the resulting surfaces have
+multifractal properties. Applying multifractal detrended fluctuation analysis
+(MFDFA) allowed us to determine the singularity spectrum of the surfaces. This
+spectrum did not depend on the target material or on the size of the particles.
+Several parameters quantifying relevant quantities were determined. We argue
+that for scales below $5 \mu m$, fracture processes are dominant while at large
+scales long range correlations are responsible for the multifractal behaviour.

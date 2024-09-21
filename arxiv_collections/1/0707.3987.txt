@@ -1,0 +1,18 @@
+Single photon detectors based on passively-quenched avalanche photodiodes can
+be temporarily blinded by relatively bright light, of intensity less than a
+nanowatt. I describe a bright-light regime suitable for attacking a quantum key
+distribution system containing such detectors. In this regime, all single
+photon detectors in the receiver Bob are uniformly blinded by continuous
+illumination coming from the eavesdropper Eve. When Eve needs a certain
+detector in Bob to produce a click, she modifies polarization (or other
+parameter used to encode quantum states) of the light she sends to Bob such
+that the target detector stops receiving light while the other detector(s)
+continue to be illuminated. The target detector regains single photon
+sensitivity and, when Eve modifies the polarization again, produces a single
+click. Thus, Eve has full control of Bob and can do a successful
+intercept-resend attack. To check the feasibility of the attack, 3 different
+models of passively-quenched detectors have been tested. In the experiment, I
+have simulated the intensity diagrams the detectors would receive in a real
+quantum key distribution system under attack. Control parameters and side
+effects are considered. It appears that the attack could be practically
+possible.

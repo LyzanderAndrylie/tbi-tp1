@@ -1,0 +1,9 @@
+We consider a two-dimensional (2D) nonlinear Schrodinger equation with
+self-focusing nonlinearity and a quasi-1D double-channel potential, i.e., a
+straightforward 2D extension of the well-known double-well potential. The model
+may be realized in terms of nonlinear optics and Bose-Einstein condensates. The
+variational approximation (VA) predicts a bifurcation breaking the symmetry of
+2D solitons trapped in the double channel, the bifurcation being of the
+subcritical type. The predictions of the VA are confirmed by numerical
+simulations. The work presents the first example of the spontaneous symmetry
+breaking (SSB) of 2D solitons in any dual-core system.

@@ -1,0 +1,12 @@
+We explore the main physical processes which potentially affect the
+topological signal in the Cosmic Microwave Background (CMB) for a range of
+toroidal universes. We consider specifically reionisation, the integrated
+Sachs-Wolfe (ISW) effect, the size of the causal horizon, topological defects
+and primordial gravitational waves. We use three estimators: the information
+content, the S/N statistic and the Bayesian evidence. While reionisation has
+nearly no effect on the estimators, we show that taking into account the ISW
+strongly decreases our ability to detect the topological signal. We also study
+the impact of varying the relevant cosmological parameters within the 2 sigma
+ranges allowed by present data. We find that only Omega_Lambda, which
+influences both ISW and the size of the causal horizon, significantly alters
+the detection for all three estimators considered here.

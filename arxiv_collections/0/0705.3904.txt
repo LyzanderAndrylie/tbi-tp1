@@ -1,0 +1,11 @@
+A new entanglement measure, the multiple entropy measures (MEMS), is proposed
+to quantify quantum entanglement of multi-partite quantum state. The MEMS is
+vector-like with $m=[N/2]$, the integer part of $N/2$, components: $[S_1,
+S_2,..., S_m]$, and the $i$-th component $S_i$ is the geometric mean of
+$i$-body partial entropy of the system. The $S_i$ measures how strong an
+arbitrary $i$ bodies from the system are entangled with the rest of the system.
+The MEMS is not only transparent in physical picture, but also simple to
+calculate. It satisfies the conditions for a good entanglement measure. We have
+analyzed the entanglement properties of the GHZ-state, the W-states and
+cluster-states under MEMS. The cluster-state is more entangled than the
+GHZ-state and W-state under MEMS.

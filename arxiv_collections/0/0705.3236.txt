@@ -1,0 +1,9 @@
+The aim of this contribution is to give the explicit formulas for the
+eigenvectors of the transfer-matrix of Baxter-Bazhanov-Stroganov (BBS) model
+(N-state spin model) with fixed-spin boundary conditions. These formulas are
+obtained by a limiting procedure from the formulas for the eigenvectors of
+periodic BBS model. The latter formulas were derived in the framework of the
+Sklyanin's method of separation of variables. In the case of fixed-spin
+boundaries the corresponding T-Q Baxter equations for the functions of
+separated variables are solved explicitly. As a particular case we obtain the
+eigenvectors of the Hamiltonian of Ising-like Z_N quantum chain model.

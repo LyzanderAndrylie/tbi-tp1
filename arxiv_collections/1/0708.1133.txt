@@ -1,0 +1,9 @@
+We calculate the real and imaginary electron self-energy as well as the
+quasiparticle spectral function in doped graphene taking into account
+electron-electron interaction in the leading order dynamically screened Coulomb
+coupling. Our theory provides the basis for calculating {\it all} one-electron
+properties of extrinsic graphene. Comparison with existing ARPES measurements
+shows broad qualitative agreement between theory and experiment. We also
+calculate the renormalized graphene momentum distribution function, finding a
+typical Fermi liquid discontinuity at k_F. We also provide a critical
+discussion of the relevant many body approximations (e.g. RPA) for graphene.

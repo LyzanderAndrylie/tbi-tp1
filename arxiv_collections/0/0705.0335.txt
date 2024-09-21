@@ -1,0 +1,12 @@
+We present the structure of the fully relaxed (001) surface of the
+half-metallic manganite La0.7Sr0.3MnO3, calculated using density functional
+theory within the generalized gradient approximation (GGA). Two relevant
+ferroelastic order parameters are identified and characterized: The tilting of
+the oxygen octahedra, which is present in the bulk phase, oscillates and
+decreases towards the surface, and an additional ferrodistortive Mn
+off-centering, triggered by the surface, decays monotonically into the bulk.
+The narrow d-like energy band that is characteristic of unrelaxed manganite
+surfaces is shifted down in energy by these structural distortions, retaining
+its uppermost layer localization. The magnitude of the zero-temperature
+magnetization is unchanged from its bulk value, but the effective spin-spin
+interactions are reduced at the surface.

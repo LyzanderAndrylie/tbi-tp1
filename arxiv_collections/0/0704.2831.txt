@@ -1,0 +1,10 @@
+Parametric instabilities driven by partially coherent radiation in plasmas
+are described by a generalized statistical Wigner-Moyal set of equations,
+formally equivalent to the full wave equation, coupled to the plasma fluid
+equations. A generalized dispersion relation for Stimulated Raman Scattering
+driven by a partially coherent pump field is derived, revealing a growth rate
+dependence, with the coherence width $\sigma$ of the radiation field, scaling
+with $1/\sigma$ for backscattering (three-wave process), and with
+$1/\sigma^{1/2}$ for direct forward scattering (four-wave process). Our results
+demonstrate the possibility to control the growth rates of these instabilities
+by properly using broadband pump radiation fields.

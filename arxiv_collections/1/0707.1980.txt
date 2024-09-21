@@ -1,0 +1,8 @@
+We report on an experimental study of quantum transport of atoms in variable
+periodic optical potentials. The band structure of both ratchet-type asymmetric
+and symmetric lattice potentials is explored. The variable atom potential is
+realized by superimposing a conventional standing wave potential of \lambda/2
+spatial periodicity with a fourth-order multiphoton potential of \lambda /4
+periodicity. We find that the Landau-Zener tunneling rate between the first and
+the second excited Bloch band depends critically on the relative phase between
+the two spatial lattice harmonics.

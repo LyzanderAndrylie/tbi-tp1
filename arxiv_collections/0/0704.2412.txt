@@ -1,0 +1,9 @@
+The viscosity is measured for a Fermi liquid, a dilute $^3$He-$^4$He mixture,
+under extremely high magnetic field/temperature conditions ($B \leq 14.8$ T, $T
+\geq 1.5$ mK). The spin splitting energy $\mu B$ is substantially greater than
+the Fermi energy $k_B T_F$; as a consequence the polarization tends to unity
+and s-wave quasiparticle scattering is suppressed for $T \ll T_F$. Using a
+novel composite vibrating-wire viscometer an enhancement of the viscosity is
+observed by a factor of more than 500 over its low-field value. Good agreement
+is found between the measured viscosity and theoretical predictions based upon
+a $t$-matrix formalism.

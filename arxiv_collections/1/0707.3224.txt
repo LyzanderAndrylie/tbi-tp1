@@ -1,0 +1,10 @@
+Long range charge transfer experiments in DNA oligomers and the subsequently
+measured -- and very diverse -- transport response of DNA wires in solid state
+experiments exemplifies the need for a thorough theoretical understanding of
+charge migration in DNA-based natural and artificial materials. Here we present
+a review of tight-binding models for DNA conduction which have the intrinsic
+merit of containing more structural information than plain rate-equation models
+while still retaining sufficient detail of the electronic properties. This
+allows for simulations of transport properties to be more manageable with
+respect to density functional theory methods or correlated first principle
+algorithms.

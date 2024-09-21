@@ -1,0 +1,10 @@
+We investigate a superconducting quantum interference device (SQUID) based on
+carbon nanotubes in a fork geometry [J.-P. Cleuziou {\it et al.}, Nature
+Nanotechnology {\bf 1}, 53 (2006)], involving tunneling of evanescent
+quasiparticles through a superconductor over a distance comparable to the
+superconducting coherence length, with therefore ``non local'' processes
+generalizing non local Andreev reflection and elastic cotunneling. Non local
+processes induce a reduction of the critical current and modify the
+current-phase relation. We discuss arbitrary interface transparencies. Such
+devices in fork geometries are candidates for probing the phase coherence of
+crossed Andreev reflection.

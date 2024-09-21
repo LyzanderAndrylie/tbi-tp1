@@ -1,0 +1,9 @@
+Deep inelastic scattering at small x can be described very effectively using
+saturation inspired dipole models. We investigate whether such models are
+compatible with the numerical solutions of the Balitsky-Kovchegov (BK) equation
+which is expected to describe the nonlinear evolution in x of the dipole cross
+section. We find that the BK equation yields results that are qualitatively
+different from those of phenomenological studies. Geometric scaling is
+recovered only towards asymptotic rapidities. In this limit the value of the
+anomalous dimension gamma(r,x) at the saturation scale approaches approximately
+0.44, in contrast to the value 0.63 commonly used in the models.

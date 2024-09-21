@@ -1,0 +1,6 @@
+An approximate textual retrieval algorithm for searching sources with high
+levels of defects is presented. It considers splitting the words in a query
+into two overlapping segments and subsequently building composite regular
+expressions from interlacing subsets of the segments. This procedure reduces
+the probability of missed occurrences due to source defects, yet diminishes the
+retrieval of irrelevant, non-contextual occurrences.

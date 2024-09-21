@@ -1,0 +1,7 @@
+We briefly discuss recent research on the spin-averaged parton densities of
+the proton, focusing on some aspects relevant to hard processes at the LHC.
+Specifically, after recalling the basic framework and the need for higher-order
+calculations, we address the evolution equations governing the scale dependence
+of the parton distributions and their solution, schemes for initial conditions
+and the inclusion of heavy quarks, recent progress on fits to data, and future
+high-precision constraints from LHC measurements.

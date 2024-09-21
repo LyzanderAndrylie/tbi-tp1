@@ -1,0 +1,8 @@
+This paper considers the multi-input multi-output (MIMO) relay channel where
+multiple antennas are employed by each terminal. Compared to single-input
+single-output (SISO) relay channels, MIMO relay channels introduce additional
+degrees of freedom, making the design and analysis of optimal cooperative
+strategies more complex. In this paper, a partial cooperation strategy that
+combines transmit-side message splitting and block-Markov encoding is
+presented. Lower bounds on capacity that improve on a previously proposed
+non-cooperative lower bound are derived for Gaussian MIMO relay channels.

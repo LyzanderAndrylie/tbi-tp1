@@ -1,0 +1,13 @@
+Motivated by a recent experiment on nonlinear tunneling in a suspended Carbon
+nanotube connected to two normal electrodes [S. Sapmaz, {\it et al}., Phys.
+Rev. Lett. {\bf 96}, 26801 (2006)], we investigate nonequilibrium
+vibration-mediated sequential tunneling through a molecular quantum dot with
+two electronic orbitals asymmetrically coupled to two electrodes and strongly
+interacting with an internal vibrational mode, which is itself weakly coupled
+to a dissipative phonon bath. For this purpose, we establish rate equations
+using a generic quantum Langevin equation approach. Based on these equations,
+we study in detail the current-voltage characteristics and zero-frequency shot
+noise, paying special attention to the advanced or postponed of the appearance
+of negative differential conductance and super-Poissonian current noise
+resulting from electron-phonon-coupling induced {\em selective unidirectional
+cascades of single-electron transitions}.

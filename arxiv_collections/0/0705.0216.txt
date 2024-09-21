@@ -1,0 +1,22 @@
+We study the electron spin relaxation in intrinsic and $p$-type (001) GaAs
+quantum wells by constructing and numerically solving the kinetic spin Bloch
+equations. All the relevant scatterings are explicitly included, especially the
+spin-flip electron-heavy hole exchange scattering which leads to the
+Bir-Aronov-Pikus spin relaxation. We show that, due to the neglection of the
+nonlinear terms in the electron-heavy hole exchange scattering in the
+Fermi-golden-rule approach, the spin relaxation due to the Bir-Aronov-Pikus
+mechanism is greatly exaggerated at moderately high electron density and low
+temperature in the literature. We compare the spin relaxation time due to the
+Bir-Aronov-Pikus mechanism with that due to the D'yakonov-Perel' mechanism
+which is also calculated from the kinetic spin Bloch equations with all the
+scatterings, especially the spin-conserving electron-electron and
+electron-heavy hole scatterings, included. We find that, in intrinsic quantum
+wells, the effect from the Bir-Aronov-Pikus mechanism is much smaller than that
+from the D'yakonov-Perel' mechanism at low temperature, and it is smaller by no
+more than one order of magnitude at high temperature. In $p$-type quantum
+wells, the spin relaxation due to the Bir-Aronov-Pikus mechanism is also much
+smaller than the one due to the D'yakonov-Perel' mechanism at low temperature
+and becomes comparable to each other at higher temperature when the hole
+density and the width of the quantum well are large enough. We claim that
+unlike in the bulk samples, the Bir-Aronov-Pikus mechanism hardly dominates the
+spin relaxation in two-dimensional samples.

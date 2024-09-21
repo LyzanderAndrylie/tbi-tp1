@@ -1,0 +1,9 @@
+Using a generalized Langevin equation of motion, quantum ballistic thermal
+transport is obtained from classical molecular dynamics. This is possible
+because the heat baths are represented by random noises obeying quantum
+Bose-Einstein statistics. The numerical method gives asymptotically exact
+results in both the low-temperature ballistic transport regime and
+high-temperature strongly nonlinear classical regime. The method can be thought
+of as a semi-classical approximation to the quantum transport problem. A
+one-dimensional quartic on-site model is used to demonstrate the crossover from
+ballistic to diffusive thermal transport.

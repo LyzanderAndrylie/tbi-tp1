@@ -1,0 +1,20 @@
+The recent discovery of binary objects in the Kuiper-belt opens an invaluable
+window into past and present conditions in the trans-Neptunian part of the
+Solar System. For example, knowledge of how these objects formed can be used to
+impose constraints on planetary formation theories. We have recently proposed a
+binary-object formation model based on the notion of chaos-assisted capture.
+Here we present a more detailed analysis with calculations performed in the
+spatial (three-dimensional) three- and four-body Hill approximations. It is
+assumed that the potential binary partners are initially following heliocentric
+Keplerian orbits and that their relative motion becomes perturbed as these
+objects undergo close encounters. First, the mass, velocity, and orbital
+element distribu- tions which favour binary formation are identified in the
+circular and elliptical Hill limits. We then consider intruder scattering in
+the circular Hill four-body problem and find that the chaos-assisted capture
+mechanism is consistent with observed, apparently randomly distributed, binary
+mutual orbit inclinations. It also predicts asymmetric distributions of
+retrograde versus prograde orbits. The time-delay induced by chaos on particle
+transport through the Hill sphere is analogous to the formation of a resonance
+in a chemical reaction. Implications for binary formation rates are considered
+and the 'fine-tuning' problem recently identified by Noll et al. (2007) is also
+addressed.

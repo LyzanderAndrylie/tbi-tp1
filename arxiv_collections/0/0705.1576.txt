@@ -1,0 +1,9 @@
+Let \pi be a cuspidal automorphic representation of GL_4 with central
+character \mu^2. It is known that \pi has Shalika period with respect to \mu if
+and only if the L-function L^S(s, \pi, \bigwedge^2\otimes\mu^{-1}) has a pole
+at s=1. Recentlt, Jacquet and Martin considered the analogous question for
+cuspidal representations \pi_D of the inner form GL_2(D)(\A), and obtained a
+partial result via the relative trace formula. In this paper, we provide a
+complete solution to this problem via the method of theta correspondence, and
+give necessary and sufficient conditions for the existence of Shalika period
+for \pi_D. We also resolve the analogous question in the local setting.

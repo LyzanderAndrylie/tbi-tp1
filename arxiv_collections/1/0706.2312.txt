@@ -1,0 +1,13 @@
+We study theoretically the entanglement created in a scattering between an
+electron, incoming from a source lead, and another electron bound in the ground
+state of a quantum dot, connected to two leads. We analyze the role played by
+the different kinds of resonances in the transmission spectra and by the number
+of scattering channels, into the amount of quantum correlations between the two
+identical carriers. It is shown that the entanglement between their energy
+states is not sensitive to the presence of Breit-Wigner resonances, while it
+presents a peculiar behavior in correspondence of Fano peaks: two close maxima
+separated by a minimum, for a two-channel scattering, a single maximum for a
+multi-channel scattering. Such a behavior is ascribed to the different
+mechanisms characterizing the two types of resonances. Our results suggest that
+the production and detection of entanglement in quantum dot structures may be
+controlled by the manipulation of Fano resonances through external fields.

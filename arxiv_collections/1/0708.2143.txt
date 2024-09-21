@@ -1,0 +1,12 @@
+In spite of the absence of a macroscopic magnetic moment, an anti-ferromagnet
+is spin-polarized on an atomic scale. The electric current passing through a
+conducting anti-ferromagnet is polarized as well, leading to spin-transfer
+torques when the order parameter is textured, such as in anti-ferromagnetic
+non-collinear spin valves and domain walls. We report a first principles study
+on the electronic transport properties of anti-ferromagnetic systems. The
+current-induced spin torques acting on the magnetic moments are comparable with
+those in conventional ferromagnetic materials, leading to measurable angular
+resistances and current-induced magnetization dynamics. In contrast to
+ferromagnets, spin torques in anti-ferromagnets are very nonlocal. The torques
+acting far away from the center of an anti-ferromagnetic domain wall should
+facilitate current-induced domain wall motion.

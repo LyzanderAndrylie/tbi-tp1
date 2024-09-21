@@ -1,0 +1,4 @@
+Using twisted commutation relations we show that the quantum sinh-Gordon
+model on noncommutative space is integrable, and compute the exact two-particle
+scattering matrix. The model possesses a strong-weak duality, just like its
+commutative counterpart.

@@ -1,0 +1,15 @@
+We test methods for measuring and characterizing rough profiles with emphasis
+on measurements of the self-affine roughness exponent, and describes a simple
+test to separate between roughness exponents originating from long range
+correlations in the sign signs of the profile, and roughness exponents
+originating from L{\'e}vy distributions of jumps. Based on tests on profiles
+with known roughness exponents we find that the power spectrum density analysis
+and the averaged wavelet coefficients method give the best estimates for
+roughness exponents in the range 0.1 to 0.9. The error-bars are found to be
+less than 0.03 for profile lengths larger than 256, and there are no systematic
+bias in the estimates. We present quantitative estimates of the error-bars and
+the systematic error and their dependence on the value of the roughness
+exponent and the profile length. We also quantify how power-law noise can
+modify the measured roughness exponent for measurement methods different from
+the power spectrum density analysis and the second order correlation function
+method.

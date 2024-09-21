@@ -1,0 +1,11 @@
+We apply the configuration-interaction method to calculate the spectra of
+two-component Fermi systems in a harmonic trap, studying the convergence of the
+method at the unitary interaction limit. We find that for a fixed
+regularization of the two-body interaction the convergence is exponential or
+better in the truncation parameter of the many-body space. However, the
+conventional regularization is found to have poor convergence in the
+regularization parameter, with an error that scales as a low negative power of
+this parameter. We propose a new regularization of the two-body interaction
+that produces exponential convergence for systems of three and four particles.
+  From the systematics, we estimate the ground-state energy of the
+four-particle system to be (5.05 +- 0.024)hbar omega.

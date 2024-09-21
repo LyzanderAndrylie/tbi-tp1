@@ -1,0 +1,21 @@
+We present ACS/HST coronagraphic observations of HD 100546, a B9.5 star, 103
+pc away from the sun, taken in the F435W, F606W, and F814W bands. Scattered
+light is detected up to 14'' from the star. The observations are consistent
+with the presence of an extended flattened nebula with the same inclination as
+the inner disk. The well-known ``spiral arms'' are clearly observed and they
+trail the rotating disk material. Weaker arms never before reported are also
+seen. The inter-arm space becomes brighter, but the structures become more
+neutral in color at longer wavelengths, which is not consistent with models
+that assume that they are due to the effects of a warped disk. Along the major
+disk axis, the colors of the scattered-light relative to the star are \Delta
+(F435W-F606W) ~ 0.0--0.2 mags and \Delta (F435W-F814W)~0.5--1 mags. To explain
+these colors, we explore the role of asymmetric scattering, reddening, and
+large minimum sizes on ISM-like grains. We conclude each of these hypotheses by
+itself cannot explain the colors. The disk colors are similar to those derived
+for Kuiper Belt objects, suggesting that the same processes responsible for
+their colors may be at work here. We argue that we are observing only the
+geometrically thick, optically thin envelope of the disk, while the optically
+thick disk responsible for the far-IR emission is undetected. The observed
+spiral arms are then structures on this envelope. The colors indicate that the
+extended nebulosity is not a remnant of the infalling envelope but reprocessed
+disk material.

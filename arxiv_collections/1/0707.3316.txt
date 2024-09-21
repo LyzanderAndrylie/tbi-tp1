@@ -1,0 +1,7 @@
+We prove a Morita reduction theorem for the cyclotomic Hecke algebras
+H_{r,p,n}({q,Q})$ of type G(r,p,n). As a consequence, we show that computing
+the decomposition numbers of H_{r,p,n}(Q) reduces to computing the
+p'-splittable decomposition numbers of the cyclotomic Hecke algebras
+H_{r',p',n'}(Q'), where $1\le r'\le r$, $1\le n'\le n$, $ p'\mid p$ and where
+the parameters Q' are contained in a single $(\epsilon,q)$-orbit and $\epsilon$
+is a primitive p'th root of unity.

@@ -1,0 +1,12 @@
+Let W -> X be a real smooth projective threefold fibred by rational curves.
+Koll\'ar proved that if W(R) is orientable a connected component N of W(R) is
+essentially either a Seifert fibred manifold or a connected sum of lens spaces.
+Let k : = k(N) be the integer defined as follows: If g : N -> F is a Seifert
+fibration, one defines k : = k(N) as the number of multiple fibres of g, while,
+if N is a connected sum of lens spaces, k is defined as the number of lens
+spaces different from P^3(R). Our Main Theorem says: If X is a geometrically
+rational surface, then k <= 4. Moreover we show that if F is diffeomorphic to
+S^1xS^1, then W(R) is connected and k = 0. These results answer in the
+affirmative two questions of Koll\'ar who proved in 1999 that k <= 6 and
+suggested that 4 would be the sharp bound. We derive the Theorem from a careful
+study of real singular Del Pezzo surfaces with only Du Val singularities.

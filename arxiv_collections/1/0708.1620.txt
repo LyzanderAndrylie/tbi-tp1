@@ -1,0 +1,13 @@
+Let $K$ be a {\em perfect} field of characteristic $p>0$, $A_1:=K< x, \der |
+\der x- x\der =1>$ be the first Weyl algebra and $Z:=K[X:=x^p, Y:=\der^p]$ be
+its centre. It is proved that $(i)$ the restriction map $\res :\Aut_K(A_1)\ra
+\Aut_K(Z), \s \mapsto \s|_Z$, is a monomorphism with $\im (\res) = \G :=\{\tau
+\in \Aut_K(Z) | \CJ (\tau) =1\}$ where $\CJ (\tau) $ is the Jacobian of $\tau$
+(note that $\Aut_K(Z)=K^*\ltimes \G$ and if $K$ is {\em not} perfect then $\im
+(\res) \neq \G$); $(ii)$ the bijection $\res : \Aut_K(A_1) \ra \G$ is a
+monomorphism of infinite dimensional algebraic groups which is {\em not} an
+isomorphism (even if $K$ is algebraically closed); $(iii)$ an explicit formula
+for $\res^{-1}$ is found via differential operators $\CD (Z)$ on $Z$ and
+negative powers of the Fronenius map $F$. Proofs are based on the following
+(non-obvious) equality proved in the paper: $$ (\frac{d}{dx}+f)^p=
+(\frac{d}{dx})^p+\frac{d^{p-1}f}{dx^{p-1}}+f^p, f\in K[x].$$

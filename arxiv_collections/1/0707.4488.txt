@@ -1,0 +1,8 @@
+In this paper, I'll derive the Hamilton-Jacobi (HJ) equation for Merton's
+problem in Utility Optimization Theory using a Calculus of Variations (CoV)
+Approach. For stochastic control problems, Dynamic Programming (DP) has been
+used as a standard method. To the best of my knowledge, no one has used CoV for
+this problem. In addition, while the DP approach cannot guarantee that the
+optimum satisfies the HJ equation, the CoV approach does.
+  Be aware that this is the first draft of this paper and many flaws might be
+introduced.

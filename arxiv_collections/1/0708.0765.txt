@@ -1,0 +1,20 @@
+We investigate the locality or nonlocality of the energy transfer and of the
+spectral interactions involved in the cascade for decaying magnetohydrodynamic
+(MHD) flows in the presence of a uniform magnetic field $\bf B$ at various
+intensities. The results are based on a detailed analysis of three-dimensional
+numerical flows at moderate Reynold numbers. The energy transfer functions, as
+well as the global and partial fluxes, are examined by means of different
+geometrical wavenumber shells. On the one hand, the transfer functions of the
+two conserved Els\"asser energies $E^+$ and $E^-$ are found local in both the
+directions parallel ($k_\|$-direction) and perpendicular ($k_\perp$-direction)
+to the magnetic guide-field, whatever the ${\bf B}$-strength. On the other
+hand, from the flux analysis, the interactions between the two
+counterpropagating Els\"asser waves become nonlocal. Indeed, as the ${\bf
+B}$-intensity is increased, local interactions are strongly decreased and the
+interactions with small $k_\|$ modes dominate the cascade. Most of the energy
+flux in the $k_\perp$-direction is due to modes in the plane at $k_\|=0$, while
+the weaker cascade in the $k_\|$-direction is due to the modes with $k_\|=1$.
+The stronger magnetized flows tends thus to get closer to the weak turbulence
+limit where the three-wave resonant interactions are dominating. Hence, the
+transition from the strong to the weak turbulence regime occurs by reducing the
+number of effective modes in the energy cascade.

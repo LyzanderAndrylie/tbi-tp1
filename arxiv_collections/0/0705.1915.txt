@@ -1,0 +1,6 @@
+Grids include heterogeneous resources, which are based on different hardware
+and software architectures or components. In correspondence with this diversity
+of the infrastructure, the execution time of any single job, as well as the
+total grid performance can both be affected substantially, which can be
+demonstrated by measurements. Running a simple benchmarking suite can show this
+heterogeneity and give us results about the differences over the grid sites.

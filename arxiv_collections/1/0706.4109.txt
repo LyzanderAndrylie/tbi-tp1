@@ -1,0 +1,15 @@
+We use density-functional theory to study the structure of AlSb(001) and
+GaSb(001) surfaces. Based on a variety of reconstruction models, we construct
+surface stability diagrams for AlSb and GaSb under different growth conditions.
+For AlSb(001), the predictions are in excellent agreement with experimentally
+observed reconstructions. For GaSb(001), we show that previously proposed model
+accounts for the experimentally observed reconstructions under Ga-rich growth
+conditions, but fails to explain the experimental observations under Sb-rich
+conditions. We propose a new model that has a substantially lower surface
+energy than all (nx5)-like reconstructions proposed previously and that, in
+addition, leads to a simulated STM image in better agreement with experiment
+than existing models. However, this new model has higher surface energy than
+some of (4x3)-like reconstructions, models with periodicity that has not been
+observed. Hence we conclude that the experimentally observed (1x5) and (2x5)
+structures on GaSb(001) are kinetically limited rather than at the ground
+state.

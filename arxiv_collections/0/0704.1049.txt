@@ -1,0 +1,22 @@
+Charmless 3-body decays of B mesons are studied in the framework of the
+factorization approach. The nonresonant contributions arising from $B\to
+P_1P_2$ transitions are evaluated using heavy meson chiral perturbation theory
+(HMChPT). The momentum dependence of nonresonant amplitudes is assumed to be in
+the exponential form $e^{-\alpha_{NR}} p_B\cdot(p_i+p_j)}$ so that the HMChPT
+results are recovered in the soft meson limit $p_i, p_j\to 0$. In addition, we
+have identified another large source of the nonresonant signal in the matrix
+elements of scalar densities, e.g. $<K\bar K|\bar ss|0>$, which can be
+constrained from the decay $\bar B^0\to K_SK_SK_S$ or $B^-\to K^-K_SK_S$. The
+intermediate vector meson contributions to 3-body decays are identified through
+the vector current, while the scalar meson resonances are mainly associated
+with the scalar density. Their effects are described in terms of the
+Breit-Wigner formalism. Our main results are: (i) All KKK modes are dominated
+by the nonresonant background. The predicted branching ratios of
+$K^+K^-K_{S(L)}$, $K^+K^-K^-$ and $K^-K_SK_S$ modes are consistent with the
+data within errors. (ii) Although the penguin-dominated $B^0\to K^+K^-K_{S}$
+decay is subject to a potentially significant tree pollution, its effective
+$\sin 2\beta$ is very similar to that of the $K_SK_SK_S$ mode. However, direct
+CP asymmetry of the former, being of order -4%, is more prominent than the
+latter. (iii) For $B\to K\pi\pi$ decays, we found sizable nonresonant
+contributions in $K^-\pi^+\pi^-$ and $\bar K^0\pi^+\pi^-$ modes, in agreement
+with the Belle measurements but larger than the BaBar result.

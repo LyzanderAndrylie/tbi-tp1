@@ -1,0 +1,10 @@
+We investigate the phases of the ionic Hubbard model in a two-dimensional
+square lattice using determinant quantum Monte Carlo (DQMC). At half-filling,
+when the interaction strength or the staggered potential dominate we find Mott
+and band insulators, respectively. When these two energies are of the same
+order we find a metallic region. Charge and magnetic structure factors
+demonstrate the presence of antiferromagnetism only in the Mott region,
+although the externally imposed density modulation is present everywhere in the
+phase diagram. Away from half-filling, other insulating phases are found.
+Kinetic energy correlations do not give clear signals for the existence of a
+bond-ordered phase.

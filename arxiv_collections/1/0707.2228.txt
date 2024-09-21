@@ -1,0 +1,10 @@
+The workspace topologies of a family of 3-revolute (3R) positioning
+manipulators are enumerated. The workspace is characterized in a half-cross
+section by the singular curves. The workspace topology is defined by the number
+of cusps that appear on these singular curves. The design parameters space is
+shown to be divided into five domains where all manipulators have the same
+number of cusps. Each separating surface is given as an explicit expression in
+the DH-parameters. As an application of this work, we provide a necessary and
+sufficient condition for a 3R orthogonal manipulator to be cuspidal, i.e. to
+change posture without meeting a singularity. This condition is set as an
+explicit expression in the DH parameters.

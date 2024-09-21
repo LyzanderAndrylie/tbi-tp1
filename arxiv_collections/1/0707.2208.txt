@@ -1,0 +1,6 @@
+In the framework of the chiral perturbation theory we computed two- and
+three-loop corrections to the pion parton distributions which posses
+$\delta$-function singularities at x->0. This calculation explicitly
+demonstrates that in the region of small x ~ mpi^2/(4 pi F)^2 standard ChPT
+breaks down and one needs resummation of all orders. We give an example of such
+resummation.

@@ -1,0 +1,22 @@
+In order to improve the phasing of the comparable-mass waveform as we
+approach the last stable orbit for a system, various re-summation methods have
+been used to improve the standard post-Newtonian waveforms. In this work we
+present a new family of templates for the detection of gravitational waves from
+the inspiral of two comparable-mass black hole binaries. These new adiabatic
+templates are based on re-expressing the derivative of the binding energy and
+the gravitational wave flux functions in terms of shifted Chebyshev
+polynomials. The Chebyshev polynomials are a useful tool in numerical methods
+as they display the fastest convergence of any of the orthogonal polynomials.
+In this case they are also particularly useful as they eliminate one of the
+features that plagues the post-Newtonian expansion. The Chebyshev binding
+energy now has information at all post-Newtonian orders, compared to the
+post-Newtonian templates which only have information at full integer orders. In
+this work, we compare both the post-Newtonian and Chebyshev templates against a
+fiducially exact waveform. This waveform is constructed from a hybrid method of
+using the test-mass results combined with the mass dependent parts of the
+post-Newtonian expansions for the binding energy and flux functions. Our
+results show that the Chebyshev templates achieve extremely high fitting
+factors at all PN orders and provide excellent parameter extraction. We also
+show that this new template family has a faster Cauchy convergence, gives a
+better prediction of the position of the Last Stable Orbit and in general
+recovers higher Signal-to-Noise ratios than the post-Newtonian templates.

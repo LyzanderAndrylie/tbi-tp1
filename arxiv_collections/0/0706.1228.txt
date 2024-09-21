@@ -1,0 +1,8 @@
+The interferometry of single-photon pulses has been used to implement quantum
+technology systems, like quantum key distribution, interaction-free measurement
+and some other quantum communication protocols. In most of these
+implementations, Mach-Zehnder, Michelson and Fabry-Perot interferometers are
+the most used. In this work we present optical setups for interaction-free
+measurement, quantum key distribution and quantum secret sharing using the
+Sagnac interferometer. The proposed setups are described as well the quantum
+protocols using them are explained.

@@ -1,0 +1,12 @@
+Deformation Theory is a natural generalization of Lie Theory, from Lie groups
+and their linearization, Lie algebras, to differential graded Lie algebras and
+their higher order deformations, quantum groups.
+  The article focuses on two basic constructions of deformation theory: the
+universal solution of Maurer-Cartan Equation (MCE), which plays the role of the
+exponential of Lie Theory, and its inverse, the Kuranishi functor, as the
+logarithm.
+  The deformation functor is the gauge reduction of MCE, corresponding to a
+Hodge decomposition associated to the strong deformation retract data.
+  The above comparison with Lie Theory leads to a better understanding of
+Deformation Theory and its applications, e.g. the relation between quantization
+and Connes-Kreimer renormalization, quantum doubles and Birkhoff decomposition.

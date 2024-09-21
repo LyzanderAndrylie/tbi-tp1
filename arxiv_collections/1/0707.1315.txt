@@ -1,0 +1,9 @@
+We analyze, both analytically and numerically, the effectiveness of cloaking
+an infinite cylinder from observations by electromagnetic waves in three
+dimensions. We show that, as truncated approximations of the ideal permittivity
+and permeability tensors tend towards the singular ideal cloaking fields, so
+that the anisotropy ratio tends to infinity, the $D$ and $B$ fields blow up
+near the cloaking surface. We also consider cloaking with and without the SHS
+(soft-and-hard surface) lining. We demonstrate numerically that cloaking is
+significantly improved by the SHS lining, with both the far field of the
+scattered wave significantly reduced and the blow up of $D$ and $B$ prevented.

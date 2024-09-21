@@ -1,0 +1,5 @@
+We present a general theoretical method to generate maximally entangled mixed
+states of a pair of photons initially prepared in the singlet polarization
+state. This method requires only local operations upon a single photon of the
+pair and exploits spatial degrees of freedom to induce decoherence. We report
+also experimental confirmation of these theoretical results.

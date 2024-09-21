@@ -1,0 +1,11 @@
+We present a new class of irregular low-density parity-check (LDPC) codes for
+moderate block lengths (up to a few thousand bits) that are well-suited for
+rate-compatible puncturing. The proposed codes show good performance under
+puncturing over a wide range of rates and are suitable for usage in incremental
+redundancy hybrid-automatic repeat request (ARQ) systems. In addition, these
+codes are linear-time encodable with simple shift-register circuits. For a
+block length of 1200 bits the codes outperform optimized irregular LDPC codes
+and extended irregular repeat-accumulate (eIRA) codes for all puncturing rates
+0.6~0.9 (base code performance is almost the same) and are particularly good at
+high puncturing rates where good puncturing performance has been previously
+difficult to achieve.

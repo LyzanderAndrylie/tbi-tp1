@@ -1,0 +1,9 @@
+We examine a proposed auction using quantum states to represent bids and
+distributed adiabatic search to find the winner. When the auctioneer follows
+the protocol, the final measurement giving the outcome of the auction also
+destroys the bid states, thereby preserving privacy of losing bidders. We
+describe how a dishonest auctioneer could alter the protocol to violate this
+privacy guarantee, and present methods by which bidders can counter such
+attacks. We also suggest possible quantum circuit implementations of the
+auctions protocol, and quantum circuits to perpetrate and to counter attacks by
+a dishonest auctioneer.

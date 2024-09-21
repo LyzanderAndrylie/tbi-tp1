@@ -1,0 +1,8 @@
+Finding control laws (pulse sequences) that can compensate for dispersions in
+parameters which govern the evolution of a quantum system is an important
+problem in the fields of coherent spectroscopy, imaging, and quantum
+information processing. The use of composite pulse techniques for such tasks
+has a long and widely known history. In this paper, we introduce the method of
+Fourier synthesis control law design for compensating dispersions in quantum
+system dynamics. We focus on system models arising in NMR spectroscopy and NMR
+imaging applications.

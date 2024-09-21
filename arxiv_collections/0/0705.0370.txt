@@ -1,0 +1,4 @@
+We investigate the quantum walk and the quantum kicked rotor in resonance
+subjected to noise with a L\'evy waiting time distribution. We find that both
+systems have a sub-ballistic wave function spreading as shown by a power-law
+tail of the standard deviation.

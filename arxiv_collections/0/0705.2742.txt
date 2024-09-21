@@ -1,0 +1,8 @@
+The toy model used by Spekkens [R. Spekkens, Phys. Rev. A 75, 032110 (2007)]
+to argue in favor of an epistemic view of quantum mechanics is extended by
+generalizing his definition of pure states (i.e. states of maximal knowledge)
+and by associating measurements with all pure states. The new toy model does
+not allow signaling but, in contrast to the Spekkens model, does violate
+Bell-CHSH inequalities. Negative probabilities are found to arise naturally
+within the model, and can be used to explain the Bell-CHSH inequality
+violations.

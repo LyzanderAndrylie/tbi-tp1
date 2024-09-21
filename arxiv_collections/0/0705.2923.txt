@@ -1,0 +1,15 @@
+The corrections to g-mode frequencies caused by the presence of a central
+magnetic field and rotation of the Sun are calculated. The calculations are
+carried out in the simple one dimensional magnetohydrodynamical model using the
+approximations which allow one to find the purely analytical spectra of
+magneto-gravity waves beyond the scope of the JWKB approximation and avoid in a
+small background magnetic field the appearance of the cusp resonance which
+locks a wave within the radiative zone. These analytic results are compared
+with the satellite observations of the g-mode frequency shifts which are of the
+order one per cent as given in the GOLF experiment at the SoHO board. The main
+contribution turns out to be the magnetic frequency shift in the strong
+magnetic field which obeys the used approximations. In particular, the fixed
+magnetic field strength 700 KG results in the mentioned value of the frequency
+shift for the g-mode of the radial order n=-10. The rotational shift due to the
+Coriolis force appears to be small and does not exceed a fracton of per cent,
+\alpha_\Omega < 0.003.

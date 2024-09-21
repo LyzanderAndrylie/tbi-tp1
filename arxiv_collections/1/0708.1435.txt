@@ -1,0 +1,10 @@
+We study the quantum Jarzynski relation for driven quantum models embedded in
+various environments. We do so by generalizing a proof presented by Mukamel
+[Phys. Rev. Lett 90, 170604 (2003)] for closed quantum systems. In this way, we
+are able to prove that the Jarzynski relation also holds for a bipartite system
+with microcanonical coupling. Furthermore, we show that, under the assumption
+that the interaction energy remains constant during the whole process, the
+relation is valid even for canonical coupling. The same follows for open
+quantum systems at high initial temperatures up to third order of the inverse
+temperature. Our analytical study is complemented by a numerical investigation
+of a special model system.

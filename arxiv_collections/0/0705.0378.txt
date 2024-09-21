@@ -1,0 +1,15 @@
+Experiments in coherent nuclear and electron magnetic resonance, and optical
+spectroscopy correspond to control of quantum mechanical ensembles, guiding
+them from initial to final target states by unitary transformations. The
+control inputs (pulse sequences) that accomplish these unitary transformations
+should take as little time as possible so as to minimize the effects of
+relaxation and decoherence and to optimize the sensitivity of the experiments.
+Here we give efficient syntheses of various unitary transformations on Ising
+spin chains of arbitrary length. The efficient realization of the unitary
+transformations presented here is obtained by computing geodesics on a sphere
+under a special metric. We show that contrary to the conventional belief, it is
+possible to propagate a spin order along an Ising spin chain with coupling
+strength J (in units of Hz), significantly faster than 1/(2J) per step. The
+methods presented here are expected to be useful for immediate and future
+applications involving control of spin dynamics in coherent spectroscopy and
+quantum information processing.

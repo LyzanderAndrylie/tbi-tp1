@@ -1,0 +1,12 @@
+We present a numerical study of a quantum phase transition from a
+spin-polarized to a topologically ordered phase in a system of spin-1/2
+particles on a torus. We demonstrate that this non-symmetry-breaking
+topological quantum phase transition (TOQPT) is of second order. The transition
+is analyzed via the ground state energy and fidelity, block entanglement,
+Wilson loops, and the recently proposed topological entropy. Only the
+topological entropy distinguishes the TOQPT from a standard QPT, and
+remarkably, does so already for small system sizes. Thus the topological
+entropy serves as a proper order parameter. We demonstrate that our conclusions
+are robust under the addition of random perturbations, not only in the
+topological phase, but also in the spin polarized phase and even at the
+critical point.

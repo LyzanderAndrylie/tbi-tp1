@@ -1,0 +1,18 @@
+Self excitation is a mechanism which is ubiquitous for electromechanical
+power devices such as electrical generators. This is conventionally achieved by
+making use of the magnetic field component in electrical generators [1], where
+a good example are the overall visible wind farm turbines [2]. In other words,
+a static force, like wind acting on the rotor blades, can generate a resonant
+excitation at a certain mechanical frequency. For nanomechanical systems
+[3,4,5] such a self excitation (SE) mechanism is highly desirable as well,
+since it can generate mechanical oscillations at radio frequencies by simply
+applying a DC bias voltage. This is of great importance for low-power signal
+communication devices and detectors, as well as for mechanical computing
+elements. For a particular nanomechanical system - the single electron shuttle
+- this effect was predicted some time ago by Gorelik et al. [6]. Here, we use a
+nano-electromechanical single electron transistor (NEMSET) to demonstrate self
+excitation for both the soft and hard regime, respectively. The ability to use
+self excitation in nanomechanical systems may enable the detection of quantum
+mechanical backaction effects [7] in direct tunneling, macroscopic quantum
+tunneling [8], and rectification [9]. All these effects have so far been over
+shadowed by the large driving voltages, which had to be applied.

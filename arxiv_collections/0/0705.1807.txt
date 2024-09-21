@@ -1,0 +1,14 @@
+In a recent letter, Fisher et al. reported the phenomenon of zero-lag long
+range isochronous synchronization via dynamical relaying in systems with delay
+[Phys. Rev. Lett. bf 97, 123902 (2006)]. They reported that when one has two
+coupled systems A and C, with delay between them, then the introduction of a
+third element B between A and C will allow them to synchronize even in regions
+of the parameter space where this was not possible without the presence of B.
+Here we study in detail the phenomenon and verify that in all the cases studied
+(including the ones reported by Fisher et al.) this occurs due to the tendency
+of A and B and B and C to be in antiphase synchronization and if A is in
+antiphase with B and B is in antiphase with C, it will imply that A and C are
+inphase. We show this in coupled quadratic maps, Kuramoto and R\"ossler
+oscillators. We also report that there is a simpler configuration where the
+same phenomenon occurs and has nearly the same features of the cases studied by
+Fisher et al.

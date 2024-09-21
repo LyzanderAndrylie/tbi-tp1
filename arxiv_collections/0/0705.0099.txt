@@ -1,0 +1,8 @@
+Using operator algebraic methods we show that the moment generating function
+of charge transport in a system with infinitely many non-interacting Fermions
+is given by a determinant of a certain operator in the one-particle Hilbert
+space. The formula is equivalent to a formula of Levitov and Lesovik in the
+finite dimensional case and may be viewed as its regularized form in general.
+Our result embodies two tenets often realized in mesoscopic physics, namely,
+that the transport properties are essentially independent of the length of the
+leads and of the depth of the Fermi sea.

@@ -1,0 +1,9 @@
+A vertical resonant tunneling diode (RTD) based on the paramagnetic
+Zn1-x-yMnyCdxSe system has been fabricated with a pillar diameter down to ~ 6
+micron. The diode exhibits high quality resonant tunneling characteristics
+through the electron sub-band of the quantum well at a temperature of 4.2K,
+where a clear phonon replica was observable in addition to the primary peak.
+Both peaks show a giant Zeeman splitting in an applied magnetic field.
+Employing a self-consistent real-time Green's function method, the
+current-voltage characteristic was simulated, showing good agreement with the
+measured result.

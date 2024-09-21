@@ -1,0 +1,6 @@
+We develop analytical methods for nonlinear Dirac equations. Examples of such
+equations include Dirac-harmonic maps with curvature term and the equations
+describing the generalized Weierstrass representation of surfaces in
+three-manifolds. We provide the key analytical steps, i.e., small energy
+regularity and removable singularity theorems and energy identities for
+solutions.

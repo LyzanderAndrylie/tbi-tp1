@@ -1,0 +1,6 @@
+We use the Gutzwiller variational many-body theory to investigate the
+stability of orbitally ordered states in a two-band Hubbard-model without spin
+degrees of freedom. Our results differ significantly from earlier Hartree-Fock
+calculations for this model. The Hartree-Fock phase diagram displays a large
+variety of orbital orders. In contrast, in the Gutzwiller approach orbital
+order only appears for densities in a narrow region around half filling.

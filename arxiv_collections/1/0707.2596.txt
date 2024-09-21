@@ -1,0 +1,11 @@
+We accurately treat the effect of the double and triple interactions of
+two-level systems (TLS) in glasses onto the energy delocalization due to the
+long-range interaction of TLS. Although this work qualitatively reproduces the
+estimates of our previous work we believe that it is important because in this
+paper the estimates are done with quantitative accuracy. This work can serve as
+the important step towards the development of quantitative theory of many-body
+delocalization due to the long-range interaction. Our study is compared with
+the recent work by Bodea et al claiming that the interaction of TLS triples
+leads to the energy delocalization. We cannot agree with the mentioned work
+because as we show the interaction of TLS triples was overestimated there and
+therefore the result for the TLS relaxation rate obtained there is invalid.

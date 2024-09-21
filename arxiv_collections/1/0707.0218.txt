@@ -1,0 +1,17 @@
+This paper presents a proof that existence of a polynomial Lyapunov function
+is necessary and sufficient for exponential stability of sufficiently smooth
+nonlinear ordinary differential equations on bounded sets. The main result
+states that if there exists an n-times continuously differentiable Lyapunov
+function which proves exponential stability on a bounded subset of R^n, then
+there exists a polynomial Lyapunov function which proves exponential stability
+on the same region. Such a continuous Lyapunov function will exist if, for
+example, the right-hand side of the differential equation is polynomial or at
+least n-times continuously differentiable. The proof is based on a
+generalization of the Weierstrass approximation theorem to differentiable
+functions in several variables. Specifically, we show how to use polynomials to
+approximate a differentiable function in the Sobolev norm W^{1,\infty} to any
+desired accuracy. We combine this approximation result with the second-order
+Taylor series expansion to find that polynomial Lyapunov functions can
+approximate continuous Lyapunov functions arbitrarily well on bounded sets. Our
+investigation is motivated by the use of polynomial optimization algorithms to
+construct polynomial Lyapunov functions.

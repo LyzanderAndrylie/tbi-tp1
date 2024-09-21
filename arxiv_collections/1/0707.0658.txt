@@ -1,0 +1,11 @@
+When a quantum many-particle system exists on a randomly diluted lattice, its
+intrinsic thermal and quantum fluctuations coexist with geometric fluctuations
+due to percolation. In this paper, we explore how the interplay of these
+fluctuations influences the phase transition at the percolation threshold.
+While it is well known that thermal fluctuations generically destroy long-range
+order on the critical percolation cluster, the effects of quantum fluctuations
+are more subtle. In diluted quantum magnets with and without dissipation, this
+leads to novel universality classes for the zero-temperature percolation
+quantum phase transition. Observables involving dynamical correlations display
+nonclassical scaling behavior that can nonetheless be determined exactly in two
+dimensions.

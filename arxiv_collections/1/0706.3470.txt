@@ -1,0 +1,22 @@
+We examine the attosecond electron recollision dissociation of D2+ recently
+demonstrated experimentally [H. Niikura et al., Nature (London) 421, 826
+(2003)] from a coherent control perspective. In this process, a strong laser
+field incident on D2 ionizes an electron, accelerates the electron in the laser
+field to eV energies, and then drives the electron to recollide with the parent
+ion, causing D2+ dissociation. A number of results are demonstrated. First, a
+full dimensional Strong Field Approximation (SFA) model is constructed and
+shown to be in agreement with the original experiment. This is then used to
+rigorously demonstrate that the experiment is an example of coherent pump-dump
+control. Second, extensions to bichromatic coherent control are proposed by
+considering dissociative recollision of molecules prepared in a coherent
+superposition of vibrational states. Third, by comparing the results to similar
+scenarios involving field-free attosecond scattering of independently prepared
+D2+ and electron wave packets, recollision dissociation is shown to provide an
+example of wave-packet coherent control of reactive scattering. Fourth, this
+analysis makes clear that it is the temporal correlations between the continuum
+electron and D2+ wave packet, and not entanglement, that are crucial for the
+sub-femtosecond probing resolution demonstrated in the experiment. This result
+clarifies some misconceptions regarding the importance of entanglement in the
+recollision probing of D2+. Finally, signatures of entanglement between the
+recollision electron and the atomic fragments, detectable via coincidence
+measurements, are identified.

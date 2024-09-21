@@ -1,0 +1,13 @@
+Experiments show that macroscopic systems in a stationary nonequilibrium
+state exhibit long range correlations of the local thermodynamic variables. In
+previous papers we proposed a Hamilton-Jacobi equation for the nonequilibrium
+free energy as a basic principle of nonequilibrium thermodynamics. We show here
+how an equation for the two point correlations can be derived from the
+Hamilton-Jacobi equation for arbitrary transport coefficients for dynamics with
+both external fields and boundary reservoirs. In contrast with fluctuating
+hydrodynamics, this approach can be used to derive equations for correlations
+of any order. Generically, the solutions of the equation for the correlation
+functions are non-trivial and show that long range correlations are indeed a
+common feature of nonequilibrium systems. Finally, we establish a criterion to
+determine whether the local thermodynamic variables are positively or
+negatively correlated in terms of properties of the transport coefficients.

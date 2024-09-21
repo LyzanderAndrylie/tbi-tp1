@@ -1,0 +1,13 @@
+We study the microrheology of nanoparticle shells [Dinsmore et al. Science
+298, 1006 (2002)] and viral capsids [Ivanovska et al. PNAS 101, 7600 (2004)] by
+computing the mechanical response function and thermal fluctuation spectrum of
+a viscoelastic spherical shell that is permeable to the surrounding solvent. We
+determine analytically the damped dynamics of the shear, bend, and compression
+modes of the shell coupled to the solvent both inside and outside the sphere in
+the zero Reynolds number limit. We identify fundamental length and time scales
+in the system, and compute the thermal correlation function of displacements of
+antipodal points on the sphere and the mechanical response to pinching forces
+applied at these points. We describe how such a frequency-dependent antipodal
+correlation and/or response function, which should be measurable in new
+AFM-based microrheology experiments, can probe the viscoelasticity of these
+synthetic and biological shells constructed of nanoparticles.

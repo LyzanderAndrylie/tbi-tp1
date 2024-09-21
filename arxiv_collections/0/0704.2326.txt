@@ -1,0 +1,12 @@
+We present an inverse scattering approach to defects in classical integrable
+field theories. Integrability is proved systematically by constructing the
+generating function of the infinite set of modified integrals of motion. The
+contribution of the defect to all orders is explicitely identified in terms of
+a defect matrix. The underlying geometric picture is that those defects
+correspond to Backlund transformations localized at a given point. A
+classification of defect matrices as well as the corresponding defect
+conditions is performed. The method is applied to a collection of well-known
+integrable models and previous results are recovered (and extended) directly as
+special cases. Finally, a brief discussion of the classical $r$-matrix approach
+in this context shows the relation to inhomogeneous lattice models and the need
+to resort to lattice regularizations of integrable field theories with defects.

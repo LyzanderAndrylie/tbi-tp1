@@ -1,0 +1,9 @@
+Intelligent Input Methods (IM) are essential for making text entries in many
+East Asian scripts, but their application to other languages has not been fully
+explored. This paper discusses how such tools can contribute to the development
+of computer processing of other oriental languages. We propose a design
+philosophy that regards IM as a text service platform, and treats the study of
+IM as a cross disciplinary subject from the perspectives of software
+engineering, human-computer interaction (HCI), and natural language processing
+(NLP). We discuss these three perspectives and indicate a number of possible
+future research directions.

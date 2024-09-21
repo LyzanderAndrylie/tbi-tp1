@@ -1,0 +1,18 @@
+This paper presents hyperbolic rank rigidity results for rank 1,
+nonpositively curved spaces. Let $M$ be a compact, rank 1 manifold with
+nonpositive sectional curvature and suppose that along every geodesic in $M$
+there is a parallel vector field making curvature $-a^2$ with the geodesic
+direction. We prove that $M$ has constant curvature equal to $-a^2$ if $M$ is
+odd dimensional, or if $M$ is even dimensional and has sectional curvature
+pinched as follows: $-\Lambda^2 < K < -\lambda^2$ where $\lambda/\Lambda >
+>.93$. When $-a^2$ is the upper curvature bound this gives a shorter proof of
+the hyperbolic rank rigidity theorem of Hamenst\"{a}dt, subject to the pinching
+condition in even dimension; in all other cases it is a new result. We also
+present a rigidity result using only an assumption on maximal Lyapunov
+exponents in direct analogy with work done by Connell. The proof of the main
+theorem is simplified considerably by assuming strict negative curvature; in
+fact, in all dimensions but 7 and 8 it is then an immediate consequence of
+ergodicity of the $(dim(M)-1)$-frame flow. In these exceptional dimensions,
+recourse to the dynamics of the 2-frame flow must be made and the scheme of
+proof developed there can be generalized to deal with rank 1, nonpositively
+curved spaces.

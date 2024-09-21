@@ -1,0 +1,23 @@
+A dynamic phase transition (DPT) with respect to the period P of an applied
+alternating magnetic field has been observed previously in numerical
+simulations of magnetic systems. However, experimental evidence for this DPT
+has thus far been limited to qualitative observations of hysteresis loop
+collapse in studies of hysteresis loop area scaling. Here, we present
+significantly stronger evidence for the experimental observation of this DPT,
+in a [Co(4 A)/Pt(7 A)]_3-multilayer system with strong perpendicular
+anisotropy. We applied an out-of-plane, time-varying (sawtooth) field to the
+[Co/Pt]_3 multilayer, in the presence of a small additional constant field,
+H_b. We then measured the resulting out-of-plane magnetization time series to
+produce nonequilibrium phase diagrams (NEPDs) of the cycle-averaged
+magnetization, Q, and its variance, Var(Q), as functions of P and H_b. The
+experimental NEPDs are found to strongly resemble those calculated from
+simulations of a kinetic Ising model under analagous conditions. The similarity
+of the experimental and simulated NEPDs, in particular the presence of a
+localized peak in the variance Var(Q) in the experimental results, constitutes
+strong evidence for the presence of this DPT in our magnetic multilayer
+samples. Technical challenges related to the hysteretic nature and response
+time of the electromagnet used to generate the time-varying applied field
+precluded us from extracting meaningful critical scaling exponents from the
+current data. However, based on our results, we propose refinements to the
+experimental procedure which could potentially enable the determination of
+critical exponents in the future.

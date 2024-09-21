@@ -1,0 +1,21 @@
+We study the effects of dissipation on electron transport in a semiconductor
+superlattice with an applied bias voltage and a magnetic field that is tilted
+relative to the superlattice axis.In previous work, we showed that although the
+applied fields are stationary,they act like a THz plane wave, which strongly
+couples the Bloch and cyclotron motion of electrons within the lowest miniband.
+As a consequence,the electrons exhibit a unique type of Hamiltonian chaos,
+which creates an intricate mesh of conduction channels (a stochastic web) in
+phase space, leading to a large resonant increase in the current flow at
+critical values of the applied voltage. This phase-space patterning provides a
+sensitive mechanism for controlling electrical resistance. In this paper, we
+investigate the effects of dissipation on the electron dynamics by modifying
+the semiclassical equations of motion to include a linear damping term. We
+demonstrate that even in the presence of dissipation,deterministic chaos plays
+an important role in the electron transport process. We identify mechanisms for
+the onset of chaos and explore the associated sequence of bifurcations in the
+electron trajectories. When the Bloch and cyclotron frequencies are
+commensurate, complex multistability phenomena occur in the system. In
+particular, for fixed values of the control parameters several distinct stable
+regimes can coexist, each corresponding to different initial conditions. We
+show that this multistability has clear, experimentally-observable, signatures
+in the electron transport characteristics.

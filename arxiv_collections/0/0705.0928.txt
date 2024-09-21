@@ -1,0 +1,9 @@
+The heavy-electron superconductor CeCoIn$_5$ exhibits a puzzling precursor
+state above its superconducting critical temperature at $T_c$ = 2.3 K. The
+thermopower and Nernst signal are anomalous. Below 15 K, the entropy current of
+the electrons undergoes a steep decrease reaching $\sim$0 at $T_c$.
+Concurrently, the off-diagonal thermoelectric current $\alpha_{xy}$ is
+enhanced. The delicate sensitivity of the zero-entropy state to field implies
+phase coherence over large distances. The prominent anomalies in the
+thermoelectric current contrast with the relatively weak effects in the
+resistivity and magnetization.

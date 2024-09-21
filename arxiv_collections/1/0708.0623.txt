@@ -1,0 +1,16 @@
+The leading electronic interactions governing the local physics of the CE
+phase of half-doped manganites are extracted from correlated ab initio
+calculations performed on an embedded cluster. The electronic structure of the
+low-energy states is dominated by double exchange configurations and
+O-2$p_{\sigma}$ to Mn-3d charge transfer configurations. The model spectra of
+both a purely magnetic non-symmetric Heisenberg Hamiltonian involving a
+magnetic oxygen and two non-symmetric double exchange models are compared to
+the \textit{ab initio} one. While a satisfactory agreement between the
+Heisenberg spectrum and the calculated one is obtained, the best description is
+provided by a double exchange model involving excited non-Hund atomic states.
+This refined model not only perfectly reproduces the spectrum of the embedded
+cluster in the crystal geometry, but also gives a full description of the local
+double-well potential energy curve of the ground state (resulting from the
+interaction of the charge localized electronic configurations) and the local
+potential energy curves of all excited states ruled by the double exchange
+mechanism.

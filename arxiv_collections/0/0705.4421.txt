@@ -1,0 +1,17 @@
+The decay $B^0_d \to D^+ D^-$ offers an interesting probe of CP violation,
+but requires control of penguin effects, which can be done through $B^0_s \to
+D^+_s D^-_s$ by means of the $U$-spin flavour symmetry of strong interactions.
+Recently, the Belle collaboration reported indications of large CP violation in
+the $B^0_d$ decay, which were, however, not confirmed by BaBar, and first
+signals of the $B^0_s$ channel were observed at the Tevatron. In view of these
+developments and the quickly approaching start of the LHC, we explore the
+allowed region in observable space for CP violation in $B^0_d \to D^+ D^-$,
+perform theoretical estimates of the relevant hadronic penguin parameters and
+observables, and address questions both about the most promising strategies for
+the extraction of CP-violating phases and about the interplay with other
+measurements of CP violation and the search for new physics. As far as the
+latter aspect is concerned, we point out that the $B^0_{q} \to D_{q}^+ D^-_{q}$
+system provides a setting for the determination of the $B^0_q$-$\bar B^0_q$
+mixing phases ($q\in\{d,s\}$) that is complementary to the conventional
+$B^0_d\to J/\psi K_S$ and $B^0_s\to J/\psi \phi$ modes with respect to possible
+new-physics effects in the electroweak penguin sector.

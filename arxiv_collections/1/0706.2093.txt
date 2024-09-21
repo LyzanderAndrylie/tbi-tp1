@@ -1,0 +1,4 @@
+In this paper we deal with high-order corrections for the Fractional
+Derivative approach to anomalous diffusion, in super-diffusive regime, which
+become relevand whenever one attempts to describe the behavior of particles
+close to normal diffusion.

@@ -1,0 +1,17 @@
+In the semi-classical treatment, i.e. in a classical black hole geometry,
+Hawking quanta emerge from trans-Planckian configurations because of scale
+invariance. There is indeed no scale to stop the blue-shifting effect
+encountered in the backward propagation towards the event horizon. On the
+contrary, when taking into account the gravitational interactions neglected in
+the semi-classical treatment, a UV scale stopping the blue-shift could be
+dynamically engendered. To show that this is the case, we use a
+non-perturbative treatment based on the large-N limit, where $N$ is the number
+of matter fields. In this limit, the semi-classical treatment is the leading
+contribution. Non-linear gravitational effects appear in the next orders and in
+the first of these, the effects are governed by the two-point correlation
+function of the energy-momentum tensor evaluated in the vacuum. Taking this
+correlator into account, backward propagated modes are dissipated at a distance
+from the horizon $\propto G\kappa$ when measured in a freely falling frame.
+($G$ is Newton's constant and $\kappa$ the surface gravity.) This result can be
+also obtained by considering light propagation in a stochastic ensemble of
+metrics whose fluctuations are determined by the above correlator.

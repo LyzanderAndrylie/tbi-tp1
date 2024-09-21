@@ -1,0 +1,6 @@
+Nonholonomic distributions and adapted fame structures on (pseudo) Riemannian
+manifolds of even dimension are employed to build structures equivalent to
+almost Kahler geometry and which allows to perform a Fedosov-like quantization
+of gravity. The nonlinear connection formalism that was formally elaborated for
+Lagrange and Finsler geometry is implemented in classical and quantum Einstein
+gravity.

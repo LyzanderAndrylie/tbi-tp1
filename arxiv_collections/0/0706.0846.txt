@@ -1,0 +1,9 @@
+We develop a nucleation-based model to explain the formation of the wurtzite
+(WZ) crystalline phase during the vapor-liquid-solid growth of free-standing
+nanowires of zinc-blende (ZB) semiconductors. We first show that, in nanowires,
+nucleation generally occurs at the outer edge of the solid/liquid interface
+(the triple phase line) rather than elsewhere at the solid/liquid interface. In
+the present case, this entails major differences between ZB and WZ nuclei.
+Depending on the pertinent interface energies, WZ nucleation is favored at high
+liquid supersaturation. This explains our systematic observation of ZB during
+the early stages of nanowire growth.

@@ -1,0 +1,4 @@
+The RHIC data on charm production are compared with the kT-factorization
+approach predictions, both standard NLO QCD and FONLL. The calculated results
+underestimate the STAR Collaboration data. The role of possible nuclear effects
+is discussed.

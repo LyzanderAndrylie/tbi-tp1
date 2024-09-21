@@ -1,0 +1,8 @@
+We consider the small time semi-classical limit for nonlinear Schrodinger
+equations with defocusing, smooth, nonlinearity. For a super-cubic
+nonlinearity, the limiting system is not directly hyperbolic, due to the
+presence of vacuum. To overcome this issue, we introduce new unknown functions,
+which are defined nonlinearly in terms of the wave function itself. This
+approach provides a local version of the modulated energy functional introduced
+by Y.Brenier. The system we obtain is hyperbolic symmetric, and the
+justification of WKB analysis follows.

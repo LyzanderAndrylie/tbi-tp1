@@ -1,0 +1,9 @@
+The structural and electronic properties of the carbonyl sulfide dimer anion
+are calculated using density functional theory within a pseudopotential method.
+Three geometries are optimized and investigated: C2v and C2 symmetric, as well
+as one asymmetric structure. A distribution of an excess charge in three
+isomers are studied by the Hirshfeld method. In an asymmetric (OCS)2^- isomer
+the charge is not equally divided between the two moieties, but it is
+distributed as OCS^{-0.6} OCS^{-0.4}. Low-lying excitation levels of three
+isomers are compared using the time-dependent density functional theory in the
+Casida approach.

@@ -1,0 +1,19 @@
+Notions of Darwinian selection have been implicit in economic theory for at
+least sixty years. Richard Nelson and Sidney Winter have argued that while
+evolutionary thinking was prevalent in prewar economics, the postwar
+Neoclassical school became almost entirely preoccupied with equilibrium
+conditions and their mathematical conditions. One of the problems with the
+economic interpretation of firm selection through competition has been a weak
+grasp on an incomplete scientific paradigm. As I.F. Price notes, "The
+biological metaphor has long lurked in the background of management theory
+largely because the message of 'survival of the fittest' (usually wrongly
+attributed to Charles Darwin rather than Herbert Spencer) provides a seemingly
+natural model for market competition (e.g. Alchian 1950, Merrell 1984,
+Henderson 1989, Moore 1993), without seriously challenging the underlying
+paradigms of what an organisation is." In this paper we examine the application
+of dynamic fitness landscape models to economic theory, particularly the theory
+of technology substitution, drawing on recent work by Kauffman, Arthur,
+McKelvey, Nelson and Winter, and Windrum and Birchenhall. In particular we use
+Professor Post's early work with John Holland on the genetic algorithm to
+explain some of the key differences between static and dynamic approaches to
+economic modeling.

@@ -1,0 +1,8 @@
+The spectral weight (SW) for optical transitions in FeSi and MnSi are
+calculated as function of temperature by means of LMTO-LDA band calculations.
+The main effects, caused by structural disorder and electronic Fermi-Dirac
+distribution, act oppositely on the T-dependence of the SW, while the variation
+of the magnetic moment in MnSi has only a minor effect. The calculations agree
+with the experimental findings of an increasing SW in FeSi and a decreasing SW
+in MnSi as function of T. The results can be understood from the change of the
+bandstructure with disorder.

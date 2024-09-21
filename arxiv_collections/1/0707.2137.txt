@@ -1,0 +1,8 @@
+The main argument against the reality of the electromagnetic vacuum
+fluctuations is that they do not activate photon detectors. In order to meet
+this objection we propose a classical model of a photodetector which, in the
+simple case of a light signal with constant intensity, gives a counting rate
+which is a non-linear function of the intensity. For sufficiently large signal
+intensity, the counting rate is proportional to the intensity, in agreement
+with the standard quantum results, but there is a dark rate when the signal
+intensity is low.

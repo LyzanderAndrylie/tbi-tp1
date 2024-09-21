@@ -1,0 +1,10 @@
+We present an ab initio calculation of the DC conductivity of amorphous
+silicon and hydrogenated amorphous silicon. The Kubo-Greenwood formula is used
+to obtain the DC conductivity, by thermal averaging over extended dynamical
+simulation. Its application to disordered solids is discussed. The conductivity
+is computed for a wide range of temperatures and doping is explored in a naive
+way by shifting the Fermi level. We observed the Meyer-Neldel rule for the
+electrical conductivity with E_MNR = 0.06 eV and a temperature coefficient of
+resistance, TCR ~ -2.0% K^-1 for a-Si:H. In general, experimental trends are
+reproduced by these calculations, and this suggests the possible utility of the
+approach for modeling carrier transport in other disordered systems.

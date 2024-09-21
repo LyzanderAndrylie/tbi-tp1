@@ -1,0 +1,12 @@
+We present a review of the measurements of the CKM angle beta (phi_1) by the
+BaBar and Belle experiments at the asymmetric-energy e+e- B Factories PEP-II
+and KEKB. The angle beta (phi_1) is measured by time-dependent CP analyses of
+neutral B meson decays in a Upsilon(4S)->BBbar system, where one B meson is
+fully reconstructed in a final state that can be accessed to by both B0 and
+B0bar, usually a CP eigenstate. This angle has been measured at a high
+precision through B0-> (ccbar)K0 channels. We also review another
+tree-dominated decay B0-> D(*)0 h0 (h0 = pi0, eta^{'}, omega); tree decays with
+penguin pollutions, B0->D(*)+-D-+$ and J/psi pi0; and penguin dominated modes,
+B0-> eta^'K0, K+K-K0, and KsKsKs. A hint of sin2beta (sin2phi_1) in charmless
+modes less than (ccbar)K0 modes still persists, which may be an indication of
+possible new physics entering the loop in the penguin diagram.

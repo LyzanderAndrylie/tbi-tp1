@@ -1,0 +1,6 @@
+Exact solutions of Einstein equations with null Riemman-Christoffel curvature
+tensor everywhere, except on a hypersurface, are studied using quantum
+particles obeying the Klein-Gordon equation. We consider the particular cases
+when the curvature is represented by a Dirac delta function with support either
+on a sphere or on a cylinder (spherical and cylindrical shells). In particular,
+we analyze the necessity of extra boundary conditions on the shells.

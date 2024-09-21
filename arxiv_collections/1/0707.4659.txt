@@ -1,0 +1,6 @@
+The calculation of massive 2--loop operator matrix elements, required for the
+higher order Wilson coefficients for heavy flavor production in deeply
+inelastic scattering, leads to new types of multiple infinite sums over
+harmonic sums and related functions, which depend on the Mellin parameter $N$.
+We report on the solution of these sums through higher order difference
+equations using the summation package {\tt Sigma}.

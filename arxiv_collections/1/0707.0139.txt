@@ -1,0 +1,13 @@
+In order to adequately describe molecular rotation far from equilibrium, we
+have generalized the J-diffusion model by allowing the rotational relaxation
+rate to be angular momentum dependent. The calculated nonequilibrium rotational
+correlation functions (CFs) are shown to decay much slower than their
+equilibrium counterparts, and orientational CFs of hot molecules exhibit
+coherent behavior, which persists for several rotational periods. As distinct
+from the results of standard theories, rotational and orientational CFs are
+found to dependent strongly on the nonequilibrium preparation of the molecular
+ensemble. We predict the Arrhenius energy dependence of rotational relaxation
+times and violation of the Hubbard relations for orientational relaxation
+times. The standard and generalized J-diffusion models are shown to be almost
+indistinguishable under equilibrium conditions. Far from equilibrium, their
+predictions may differ dramatically.

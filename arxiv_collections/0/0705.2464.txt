@@ -1,0 +1,19 @@
+We study scaling relations of compressible strongly magnetized turbulence. We
+find a good correspondence of our results with the Fleck (1996) model of
+compressible hydrodynamic turbulence. In particular, we find that the
+density-weighted velocity, i.e. $u \equiv \rho^{1/3} v$, proposed in Kritsuk et
+al. (2007) obeys the Kolmogorov scaling, i.e. $E_{u}(k)\sim k^{-5/3}$ for the
+high Mach number turbulence. Similarly, we find that the exponents of the third
+order structure functions for $u$ stay equal to unity for the all the Mach
+numbers studied. The scaling of higher order correlations obeys the She-Leveque
+(1994) scalings corresponding to the two-dimensional dissipative structures,
+and this result does not change with the Mach number either. In contrast to $v$
+which exhibits different scaling parallel and perpendicular to the local
+magnetic field, the scaling of $u$ is similar in both directions. In addition,
+we find that the peaks of density create a hierarchy in which both physical and
+column densities decrease with the scale in accordance to the Fleck (1996)
+predictions. This hierarchy can be related ubiquitous small ionized and neutral
+structures (SINS) in the interstellar gas. We believe that studies of
+statistics of the column density peaks can provide both consistency check for
+the turbulence velocity studies and insight into supersonic turbulence, when
+the velocity information is not available.

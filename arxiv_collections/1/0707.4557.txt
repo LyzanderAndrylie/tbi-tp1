@@ -1,0 +1,15 @@
+Usually it is supposed that Majorana neutrino produced in the superposition
+state $\chi_L = \nu_L + (\nu_L)^c$ and then follows the neutrinoless double
+beta decay. But since weak interactions are chiral invariant then the neutrino
+at production has definite helicity (i.e., $\nu_L$ and $(\nu_L)^c$ neutrinos
+are separately produced and then neutrino is not in the superposition state).
+This helicity cannot change after production without any external interactions.
+Thus we see that for unsuitable helicity the neutrinoless double $\beta$ decay
+is not possible even if neutrino is a Majorana particle. Also transition of
+Majorana neutrino into antineutrino at their oscillations is forbidden since
+helicity in vacuum holds. Then only possibility to prove that neutrino is a
+Dirac but not Majorana particle is detection transition of $\nu_L$ neutrino
+into (sterile) antineutrino $\bar\nu_R$ (i.e., $\nu_L \to \bar\nu_R$) at
+neutrino oscillations. Transition Majora neutrino $\nu_L$ into $(\nu_R)^c$
+(i.e., $\nu_L \to (\nu_R)^c$) at oscillations is unobserved since it is
+supposed that mass of $(\nu_R)^c$ is very big.

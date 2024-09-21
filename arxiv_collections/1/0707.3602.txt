@@ -1,0 +1,15 @@
+We present a new particle tracking software algorithm designed to accurately
+track the motion of low-contrast particles against a background with large
+variations in light levels. The method is based on a polynomial fit of the
+intensity around each feature point, weighted by a Gaussian function of the
+distance from the centre, and is especially suitable for tracking endogeneous
+particles in the cell, imaged with bright field, phase contrast or fluorescence
+optical microscopy. Furthermore, the method can simultaneously track particles
+of all different sizes, and allows significant freedom in their shape. The
+algorithm is evaluated using the quantitative measures of accuracy and
+precision of previous authors, using simulated images at variable
+signal-to-noise ratios. To these we add a new test of the error due to a
+non-uniform background. Finally the tracking of particles in real cell images
+is demonstrated. The method is made freely available for non-commencial use as
+a software package with a graphical user-inferface, which can be run within the
+Matlab programming environment.

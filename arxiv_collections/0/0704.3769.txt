@@ -1,0 +1,7 @@
+A Fokker action for post-Minkowski approximation with the first
+post-Newtonian correction is introduced in our previous paper, and a solution
+for the helically symmetric circular orbit is obtained. We present supplemental
+results for the circular solution of two unequal mass point-particles. Circular
+solutions for selected mass ratios are found numerically, and analytic formulas
+in the extreme mass ratio limit are derived. The leading terms of the analytic
+formulas agree with the first post-Newtonian formulas in this limit.

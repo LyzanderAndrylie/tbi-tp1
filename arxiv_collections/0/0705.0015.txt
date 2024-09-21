@@ -1,0 +1,8 @@
+Dissipation in the flexural dynamics of doubly clamped nanomechanical bar
+resonators is investigated using molecular dynamics simulation. The dependence
+of the quality factor Q on temperature and the size of the resonator is
+calculated from direct simulation of the oscillation of a series of Si <001>
+bars with bare {100} dimerized surfaces. The bar widths range from 3.3 to
+8.7nm, all with a fixed length of 22nm. The fundamental mode frequencies range
+from 40 to 90GHz and Q from 10^2 near 1000K to 10^4 near 50K. The quality
+factor is shown to be limited by defects in the reconstructed surface.

@@ -1,0 +1,9 @@
+We have constructed one-phase quasi-periodic solutions of the curve equation
+induced by the mKdV equation. The solution is expressed in terms of the
+elliptic functions of Weierstrass. This solution can describe curve dynamics
+such as a vortex filament with axial velocity embedded in an incompressible
+inviscid fluid. There exist two types of curves (type-A, type-B) according to
+the form of the main spectra of the finite-band integrated solution. Our
+solution includes various filament shapes such as the Kelvin-type wave, the
+rigid vortex, plane curves, closed curves, and the Hasimoto one-solitonic
+filament.

@@ -1,0 +1,15 @@
+The Penrose tiling is a perfectly ordered two dimensional structure with
+fivefold symmetry and scale invariance under site decimation. Quantum spin
+models on such a system can be expected to differ significantly from more
+conventional structures as a result of its special symmetries. In one
+dimension, for example, aperiodicity can result in distinctive quantum
+entanglement properties. In this work, we study ground state properties of the
+spin-1/2 Heisenberg antiferromagnet on the Penrose tiling, a model that could
+also be pertinent for certain three dimensional antiferromagnetic
+quasicrystals. We show, using spin wave theory and quantum Monte Carlo
+simulation, that the local staggered magnetizations strongly depend on the
+local coordination number z and are minimized on some sites of five-fold
+symmetry. We present a simple explanation for this behavior in terms of
+Heisenberg stars. Finally we show how best to represent this complex
+inhomogeneous ground state, using the "perpendicular space" representation of
+the tiling.

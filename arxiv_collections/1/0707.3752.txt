@@ -1,0 +1,9 @@
+Quantum, in contrast to classical, information theory, allows for different
+incompatible types (or species) of information which cannot be combined with
+each other. Distinguishing these incompatible types is useful in understanding
+the role of the two classical bits in teleportation (or one bit in one-bit
+teleportation), for discussing decoherence in information-theoretic terms, and
+for giving a proper definition, in quantum terms, of ``classical information.''
+Various examples (some updating earlier work) are given of theorems which
+relate different incompatible kinds of information, and thus have no
+counterparts in classical information theory.

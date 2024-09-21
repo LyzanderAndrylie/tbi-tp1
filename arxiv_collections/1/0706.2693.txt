@@ -1,0 +1,15 @@
+Microscopic optical model potential results for reaction cross sections of
+proton elastic scattering are presented. The applications cover the 10-1000 MeV
+energy range and consider both stable and unstable nuclei. The study is based
+on in-medium g-matrix full-folding optical model approach with the appropriate
+relativistic kinematic corrections needed for the higher energy applications.
+The effective interactions are based on realistic NN potentials supplemented
+with a separable non-Hermitian term to allow optimum agreement with current NN
+phase-shift analyzes, particularly the inelasticities above pion production
+threshold. The target ground-state densities are obtained from
+Hartree-Fock-Bogoliubov calculations based on the finite range, density
+dependent Gogny force. The evaluated reaction cross sections for proton
+scattering are compared with measurements and their systematics is analyzed. A
+simple function of the total cross sections in terms of the atomic mass number
+is observed at high energies. At low energies, however, discrepancies with the
+available data are observed, being more pronounced in the lighter systems.

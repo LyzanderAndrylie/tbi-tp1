@@ -1,0 +1,12 @@
+The compact Abelian Higgs model is simulated on a cubic lattice where it
+possesses vortex lines and pointlike magnetic monopoles as topological defects.
+The focus of this high-precision Monte Carlo study is on the vortex network,
+which is investigated by means of percolation observables. In the region of the
+phase diagram where the Higgs and confinement phases are separated by a
+first-order transition, it is shown that the vortices percolate right at the
+phase boundary, and that the first-order nature of the transition is reflected
+by the network. In the crossover region, where the phase boundary ceases to be
+first order, the vortices are shown to still percolate. In contrast to other
+observables, the percolation observables show finite-size scaling. The
+exponents characterizing the critical behavior of the vortices in this region
+are shown to fall in the random percolation universality class.

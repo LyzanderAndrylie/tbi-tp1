@@ -1,0 +1,19 @@
+This is a theoretical study of the reversal of a localized quantum spin
+induced by sequential injection of spins for a spin quantum dot that has a
+quantum spin. The system consists of ``electrode/quantum
+well(QW)/dot/QW/electrode" junctions, in which the left QW has an energy level
+of conduction electrons with only up-spin. We consider a situation in which
+up-spin electrons are sequentially injected from the left electrode into the
+dot through the QW and an exchange interaction acts between the electrons and
+the localized spin. To describe the sequentially injected electrons, we propose
+a simple method based on approximate solutions from the time-dependent
+Schr$\ddot{\rm o}$dinger equation. Using this method, it is shown that the spin
+reversal occurs when the right QW has energy levels of conduction electrons
+with only down-spin. In particular, the expression of the reversal time of a
+localized spin is derived and the upper and lower limits of the time are
+clearly expressed. This expression is expected to be useful for a rough
+estimation of the minimum relaxation time of the localized spin to achieve the
+reversal. We also obtain analytic expressions for the expectation value of the
+localized spin and the electrical current as a function of time. In addition,
+we found that a system with the non-magnetic right QW exhibits spin reversal or
+non-reversal depending on the exchange interaction.

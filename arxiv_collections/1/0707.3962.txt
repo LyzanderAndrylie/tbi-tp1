@@ -1,0 +1,16 @@
+We present in this paper a Bayesian parameter estimation method for the
+analysis of interferometric gravitational wave observations of an inspiral of
+binary compact objects using data recorded simultaneously by a network of
+several interferometers at different sites. We consider neutron star or black
+hole inspirals that are modeled to 3.5 post-Newtonian (PN) order in phase and
+2.5 PN in amplitude. Inference is facilitated using Markov chain Monte Carlo
+methods that are adapted in order to efficiently explore the particular
+parameter space. Examples are shown to illustrate how and what information
+about the different parameters can be derived from the data. This study uses
+simulated signals and data with noise characteristics that are assumed to be
+defined by the LIGO and Virgo detectors operating at their design
+sensitivities. Nine parameters are estimated, including those associated with
+the binary system, plus its location on the sky. We explain how this technique
+will be part of a detection pipeline for binary systems of compact objects with
+masses up to $20 \sunmass$, including cases where the ratio of the individual
+masses can be extreme.

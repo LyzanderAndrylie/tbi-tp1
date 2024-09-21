@@ -1,0 +1,15 @@
+We analyze all X-ray timing data on 1E 1207.4-5209 in supernova remnant PKS
+1209-51/52 gathered in 2000-2005, and find a highly stable rotation with
+P=424.130451(4) ms and period derivative of (9.6 +/- 9.4)E-17 s/s. This refutes
+previous claims of large timing irregularities in these data. In the dipole
+spin-down formalism, the 2-sigma upper limit on period derivative implies an
+energy loss rate < 1.5E32 ergs/s, surface magnetic field strength B_p < 3.5E11
+G, and characteristic age tau > 24 Myr. This tau exceeds the remnant age by 3
+orders of magnitude, requiring that the pulsar was born spinning at its present
+period. The X-ray luminosity of 1E 1207.4-5209, L(bol) ~= 2E33 ergs/s at 2 kpc,
+exceeds its spin-down energy loss, implying that L(bol) derives from residual
+cooling, and perhaps partly from accretion of supernova debris. The upper limit
+on B_p is small enough to favor the electron cyclotron model for at least one
+of the prominent absorption lines in its soft X-ray spectrum. This is the
+second demonstrable case of a pulsar born spinning slowly and with a weak
+B-field, after PSR J1852+0040 in Kesteven 79.

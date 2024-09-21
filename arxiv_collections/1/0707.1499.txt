@@ -1,0 +1,12 @@
+A new real space quantum mechanical approach with local field effects
+included is applied to the calculation of the optical properties of silicon
+nanocrystals. Silicon ellipsoids are studied and the role of surface
+polarization is discussed in details. In particular, surface polarization is
+shown to be responsible for a strong optical anisotropy in silicon ellipsoids,
+much more pronounced with respect to the case in which only quantum confinement
+effects are considered. The static dielectric constant and the absorption
+spectra are calculated, showing that the perpendicular and parallel components
+have a very different dependence on the ellipsoid aspect ratio. Then, a
+comparison with the classical dielectric model is performed, showing that the
+model only works for large and regular structures, but it fails for thin
+elongated ellipsoids.

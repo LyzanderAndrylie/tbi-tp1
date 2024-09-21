@@ -1,0 +1,8 @@
+We analyze the recurrence probability (P\'olya number) for d-dimensional
+unbiased quantum walks. A sufficient condition for a quantum walk to be
+recurrent is derived. As a by-product we find a simple criterion for
+localisation of quantum walks. In contrast to classical walks, where the
+P\'olya number is characteristic for the given dimension, the recurrence
+probability of a quantum walk depends in general on the topology of the walk,
+choice of the coin and the initial state. This allows to change the character
+of the quantum walk from recurrent to transient by altering the initial state.

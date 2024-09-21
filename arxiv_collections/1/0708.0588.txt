@@ -1,0 +1,17 @@
+In this paper, we investigate the Merton portfolio management problem in the
+context of non-exponential discounting. This gives rise to time-inconsistency
+of the decision-maker. If the decision-maker at time t=0 can commit his/her
+successors, he/she can choose the policy that is optimal from his/her point of
+view, and constrain the others to abide by it, although they do not see it as
+optimal for them. If there is no commitment mechanism, one must seek a
+subgame-perfect equilibrium strategy between the successive decision-makers. In
+the line of the earlier work by Ekeland and Lazrak we give a precise definition
+of equilibrium strategies in the context of the portfolio management problem,
+with finite horizon, we characterize it by a system of partial differential
+equations, and we show existence in the case when the utility is CRRA and the
+terminal time T is small. We also investigate the infinite-horizon case and we
+give two different explicit solutions in the case when the utility is CRRA (in
+contrast with the case of exponential discount, where there is only one). Some
+of our results are proved under the assumption that the discount function h(t)
+is a linear combination of two exponentials, or is the product of an
+exponential by a linear function.

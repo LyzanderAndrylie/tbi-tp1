@@ -1,0 +1,11 @@
+Topological gauge theories in four dimensions which admit surface operators
+provide a natural framework for realizing homological knot invariants. Every
+such theory leads to an action of the braid group on branes on the
+corresponding moduli space. This action plays a key role in the construction of
+homological knot invariants. We illustrate the general construction with
+examples based on surface operators in N=2 and N=4 twisted gauge theories which
+lead to a categorification of the Alexander polynomial, the equivariant knot
+signature, and certain analogs of the Casson invariant.
+  This paper is based on a lecture delivered at the International Congress on
+Mathematical Physics 2006, Rio de Janeiro, and at the RTN Workshop 2006,
+Napoli.

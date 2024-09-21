@@ -1,0 +1,8 @@
+Let k be any field. We consider the Hopf-Schur group of k, defined as the
+subgroup of the Brauer group of k consisting of classes that may be represented
+by homomorphic images of Hopf algebras over k. We show here that twisted group
+algebras and abelian extensions of k are quotients of cocommutative and
+commutative Hopf algebras over k, respectively. As a consequence we prove that
+any tensor product of cyclic algebras over k is a quotient of a Hopf algebra
+over k, revealing so that the Hopf-Schur group can be much larger than the
+Schur group of k.

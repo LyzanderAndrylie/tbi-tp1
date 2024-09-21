@@ -1,0 +1,15 @@
+In most classical fluids, shock waves are strongly dissipative, their energy
+being quickly lost through viscous damping. But in systems such as cold
+plasmas, superfluids, and Bose-Einstein condensates, where viscosity is
+negligible or non-existent, a fundamentally different type of shock wave can
+emerge whose behaviour is dominated by dispersion rather than dissipation.
+Dispersive shock waves are difficult to study experimentally, and analytical
+solutions to the equations that govern them have only been found in one
+dimension (1D). By exploiting a well-known, but little appreciated,
+correspondence between the behaviour of superfluids and nonlinear optical
+materials, we demonstrate an all-optical experimental platform for studying the
+dynamics of dispersive shock waves. This enables us to observe the propagation
+and nonlinear response of dispersive shock waves, including the interaction of
+colliding shock waves, in 1D and 2D. Our system offers a versatile and more
+accessible means for exploring superfluid-like and related dispersive
+phenomena.

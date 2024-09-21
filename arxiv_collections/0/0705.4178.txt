@@ -1,0 +1,4 @@
+In this paper, the author discusses the elliptic type gradient estimate for
+the solution of the time-dependent Schr\"{o}dinger equations on noncompact
+manifolds. As its application, the dimension-free Harnack inequality and the
+Liouville type theorem for the Schr\"{o}dinger equation are proved.

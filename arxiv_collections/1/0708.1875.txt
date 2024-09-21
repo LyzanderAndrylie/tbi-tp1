@@ -1,0 +1,7 @@
+Heterotic orbifold models are promising candidates for models with MSSM like
+spectra. But orbifolds only correspond to a special place in moduli space, the
+bigger picture is described by the moduli space of Calabi-Yau spaces. In this
+talk we will make explicit connections between both points of view. To this end
+we study blowups of orbifold singularities using both explicit constructions
+and toric geometry techniques. We show that matching of all orbifold models in
+blowups are possible.

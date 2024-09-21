@@ -1,0 +1,7 @@
+We introduce and study a new model: 0-automatic queues. Roughly, 0-automatic
+queues are characterized by a special buffering mechanism evolving like a
+random walk on some infinite group or monoid. The salient result is that all
+stable 0-automatic queues have a product form stationary distribution and a
+Poisson output process. When considering the two simplest and extremal cases of
+0-automatic queues, we recover the simple M/M/1 queue, and Gelenbe's G-queue
+with positive and negative customers.

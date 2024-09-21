@@ -1,0 +1,15 @@
+We investigate the volume growth of ionized regions around UV photon sources
+with the WENO algorithm, which is an effective solver of photon kinetics in the
+phase space described by the radiative transfer equation. We show that the
+volume growth rate, either of isolated ionized regions or of clustered regions
+in merging, generally consists of three phases: fast or relativistic growth
+phase at the early stage, slow growth phase at the later stage, and a
+transition phase between the fast and slow phases. We also show that the volume
+growth of ionized regions around clustered sources with intensity $\dot{E}_i$
+($i=1, 2, ...$) would have the same behavior as a single source with intensity
+$\dot{E}=\sum_i\dot{E}_i$, if all the distances between nearest neighbor
+sources $i$ and $j$ are smaller than $c(t^i_c+t^j_c)$, $t^i_c$ being the time
+scale $t_c$ of source $i$. Therefore, a tightly clustered UV photon sources
+would lead to a slow growth of ionized volume. This effect would be important
+for studying the redshift-dependence of 21cm signals from the reionization
+epoch.

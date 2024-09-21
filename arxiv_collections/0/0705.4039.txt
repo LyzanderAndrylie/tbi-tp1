@@ -1,0 +1,13 @@
+I consider the Hubbard model of graphene in an external magnetic field and in
+the Hartree-Fock approximation. In the continuum limit, the ground state energy
+at half filling becomes nearly symmetric under rotations of the three-component
+vector (N1,N2,m), with the first two components representing the Neel order
+parameter orthogonal to and the third component the magnetization parallel with
+the external magnetic field. When the symmetry breaking effects arising from
+the lattice, Zeeman coupling, and higher Landau levels are included the system
+develops a quantum critical point at which the antiferromagnetic order
+disappears and the magnetization has a kink. The observed incompressible state
+at filling factor one is argued to arise due to a finite third component of the
+Neel order parameter at these electron densities. Recent experiments appear
+consistent with vanishing N1 and N2, and finite N3, at the filling factors zero
+and one, respectively.

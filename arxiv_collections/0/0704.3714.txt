@@ -1,0 +1,9 @@
+The recently proposed theoretical model of superconductors endowed with two
+distinct superconducting phases and critical temperatures is further analyzed
+by introducing two distinct order parameters, described by two scalar fields
+which condensate at different temperatures. We find some deviations in basic
+thermodynamical quantities with respect to the Ginzburg-Landau one-phase
+superconductors. In particular, by contrast to the usual case where only one
+jump in specific heat takes place at the normal-superconductor transition
+temperature, we actually predict an additional discontinuity for C_V when
+passing from a superconducting phase to the other one.

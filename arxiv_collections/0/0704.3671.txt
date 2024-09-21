@@ -1,0 +1,22 @@
+We study the quantum Hall effect in graphene at filling factors \nu = 0 and
+\nu = \pm, concentrating on the quantum Hall ferromagnetic regime, within a
+non-perturbative bosonization formalism. We start by developing a bosonization
+scheme for electrons with two discrete degrees of freedom (spin-1/2 and
+pseudospin-1/2) restricted to the lowest Landau level. Three distinct phases
+are considered, namely the so-called spin-pseudospin, spin, and pseudospin
+phases. The first corresponds to a quarter-filled (\nu =-1) while the others to
+a half-filled (\nu = 0) lowest Landau level. In each case, we show that the
+elementary neutral excitations can be treated approximately as a set of
+n-independent kinds of boson excitations. The boson representation of the
+projected electron density, the spin, pseudospin, and mixed spin-pseudospin
+density operators are derived. We then apply the developed formalism to the
+effective continuous model, which includes SU(4) symmetry breaking terms,
+recently proposed by Alicea and Fisher. For each quantum Hall state, an
+effective interacting boson model is derived and the dispersion relations of
+the elementary excitations are analytically calculated. We propose that the
+charged excitations (quantum Hall skyrmions) can be described as a coherent
+state of bosons. We calculate the semiclassical limit of the boson model
+derived from the SU(4) invariant part of the original fermionic Hamiltonian and
+show that it agrees with the results of Arovas and co-workers for SU(N) quantum
+Hall skyrmions. We briefly discuss the influence of the SU(4) symmetry breaking
+terms in the skyrmion energy.

@@ -1,0 +1,8 @@
+This paper presents a molecular mechanics study for new nanorobotic
+structures using molecular dynamics (MD) simulations coupled to virtual reality
+(VR) techniques. The operator can design and characterize through molecular
+dynamics simulation the behavior of bionanorobotic components and structures
+through 3-D visualization. The main novelty of the proposed simulations is
+based on the mechanical characterization of passive/active robotic devices
+based on double stranded DNA molecules. Their use as new DNA-based nanojoint
+and nanotweezer are simulated and results discussed.

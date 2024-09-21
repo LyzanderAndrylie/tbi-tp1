@@ -1,0 +1,15 @@
+In applications for high-Tc superconducting DC-SQUIDs such as biomagnetism,
+nondestructive evaluation and the relaxation of magnetic nanoparticles, it is
+important to maintain reliable sensor performance over an extended time period.
+We designed and produced DC-SQUID gradiometers based on YBCO thin films which
+are inductively coupled to a flux transformer to achieve a higher sensitivity.
+The gradiometers are protected against ambient atmosphere and humidity by SiO2
+and amorphous YBCO layers.
+  The noise properties of the sensor in flip-chip configuration, especially in
+unshielded environments, are shown. We present a comparison of TBCCO thin films
+on buffered sapphire or LaAlO3 substrates for the flux transformer in shielded
+and unshielded environments. We reach a low white field gradient noise of 72
+fT/(cm sqrt(Hz)) with the TBCCO on LaAlO3 flux transformer. The electric
+properties of the gradiometers (critical current IC, normal state resistance RN
+and the transfer function VPhi) were measured over a period of one year and do
+not show significant signs of degradation.

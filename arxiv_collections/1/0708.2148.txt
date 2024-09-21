@@ -1,0 +1,8 @@
+The single- and two-channel Kondo lattice model consisting of localized spins
+interacting antiferromagnetically with the itinerent electrons, are studied
+using dynamical mean field theory. As an impurity solver for the effective
+single impurity Anderson model we used the exact diagonalization (ED) method.
+Using ED allowed us to perform calculations for low temperatures and couplings
+of arbitrary large strength. Our results for the single-channel case confirm
+and extend the recent investigations. In the two-channel case we find a
+symmetry breaking phase transition with increasing coupling strength.

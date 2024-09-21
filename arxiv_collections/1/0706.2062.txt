@@ -1,0 +1,9 @@
+The prediction of auto-ignition delay times in HCCI engines has risen
+interest on detailed chemical models. This paper described a validated kinetic
+mechanism for the oxidation of a model Diesel fuel (n-decane and
+&#945;-methylnaphthalene). The 3D model for the description of low and high
+temperature auto-ignition in engines is presented. The behavior of the model
+fuel is compared with that of n-heptane. Simulations show that the 3D model
+coupled with the kinetic mechanism can reproduce experimental HCCI and Diesel
+engine results and that the correct modeling of auto-ignition in the cool flame
+region is essential in HCCI conditions.

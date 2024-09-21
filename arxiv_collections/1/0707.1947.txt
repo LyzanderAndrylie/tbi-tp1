@@ -1,0 +1,4 @@
+In this note we generalize Nielsen's marjoization criterion for the
+convertibility of bipartite pure states [Phys. Rev. Lett \textbf{83},
+436(1999)] to a special class of multipartite pure states which have
+generalized Schmidt decompositions.

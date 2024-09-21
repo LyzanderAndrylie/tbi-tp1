@@ -1,0 +1,12 @@
+We reveal the hydrogen isotope effect of three chemical reactions, i.e, the
+reflection, the absorption and the penetration ratios, by classical molecular
+dynamics simulation with a modified Brenner's reactive empirical bond order
+(REBO) potential potential. We find that the reflection by pi-electron does not
+depend on the mass of the incident isotope, but the peak of the reflection by
+nuclear moves to higher side of incident energy. In addition to the reflection,
+we also find that the absorption ratio in the positive z side of the graphene
+becomes larger, as the mass of the incident isotope becomes larger. On the
+other hand, the absorption ratio in the negative z side of the graphene becomes
+smaller. Last, it is found that the penetration ratio does not depend on the
+mass of the incident isotope because the graphene potential is not affected by
+the mass.

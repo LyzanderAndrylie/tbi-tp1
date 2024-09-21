@@ -1,0 +1,12 @@
+The observed performances of carbon nanotube field effect transistors are
+examined using first-principles quantum transport calculations. We focus on the
+nature and role of the electrical contact of Au and Pd electrodes to open-ended
+semiconducting nanotubes, allowing the chemical contact at the surface to fully
+develop through large-scale relaxation of the contacting atomic configuration.
+We present the first direct numerical evidence of Pd contacts exhibiting
+perfect transparency for hole injection as opposed to that of Au contacts.
+Their respective Schottky barrier heights, on the other hand, turn out to be
+fairly similar for realistic contact models. These findings are in general
+agreement with experimental data reported to date, and show that a Schottky
+contact is not merely a passive ohmic contact but actively influences the
+device I-V behavior.

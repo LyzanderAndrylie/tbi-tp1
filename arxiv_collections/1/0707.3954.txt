@@ -1,0 +1,17 @@
+We perform a detailed analysis of the SO(10) SUSY GUT model with D3 family
+symmetry of Dermisek and Raby (DR). The model is specified in terms of 24
+parameters and predicts, as a function of them, the whole MSSM set of
+parameters at low energy scales. Concerning the SM subset of such parameters,
+the model is able to give a satisfactory description of the quark and lepton
+masses, of the PMNS matrix and of the CKM matrix. We perform a global fit to
+the model, including flavour changing neutral current (FCNC) processes Bs -->
+mu+ mu-, B --> Xs gamma, B --> Xs l+ l- and the B(d,s) - bar B(d,s) mass
+differences Delta M(d,s) as well as the flavour changing (FC) process B+ -->
+tau+ nu. These observables provide at present the most sensitive probe of the
+SUSY mass spectrum and couplings predicted by the model. Our analysis
+demonstrates that the simultaneous description of the FC observables in
+question represents a serious challenge for the DR model, unless the masses of
+the scalars are moved to regions which are problematic from the point of view
+of naturalness and probably beyond the reach of the LHC. We emphasize that this
+problem could be a general feature of SUSY GUT models with third generation
+Yukawa unification and weak-scale minimal flavour violation.

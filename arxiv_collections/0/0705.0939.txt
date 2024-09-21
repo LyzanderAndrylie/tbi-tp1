@@ -1,0 +1,12 @@
+In the present work we report the band structure calculations for the high
+temperature superconductor Nd$_{2-x}$Ce$_x$CuO$_4$ in the regime of strong
+electronic correlations within an LDA+GTB method, which combines the local
+density approximation (LDA) and the generalized tight-binding method (GTB). The
+two mechanisms of band structure doping dependence were taken into account.
+Namely, the one-electron mechanism provided by the doping dependence of the
+crystal structure, and the many-body mechanism provided by the strong
+renormalization of the fermionic quasiparticles due to the large on-site
+Coulomb repulsion. We have shown that in the antiferromagnetic and in the
+strongly correlated paramagnetic phases of the underdoped cuprates the main
+contribution to the doping evolution of band structure and Fermi surface comes
+from the many-body mechanism.

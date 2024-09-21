@@ -1,0 +1,5 @@
+A general method for solving linear differential equations of arbitrary
+order, is used to arrive at new representations for the solutions of the known
+differential equations, both without and with a source term. A new
+quasi-solvable potential has also been constructed taking recourse to the above
+method.

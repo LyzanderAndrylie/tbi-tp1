@@ -1,0 +1,6 @@
+Given a right-angled Artin group A, the associated Bestvina-Brady group is
+defined to be the kernel of the homomorphism A \to \mathbb{Z} that maps each
+generator in the standard presentation of A to a fixed generator of \mathbb{Z}.
+We prove that the Dehn function of an arbitrary finitely presented
+Bestvina-Brady group is bounded above by n^4. This is the best possible
+universal upper bound.

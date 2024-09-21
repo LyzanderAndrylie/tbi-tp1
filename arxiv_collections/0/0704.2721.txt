@@ -1,0 +1,7 @@
+It is shown that vortices in linearly polarized polariton condensates in
+planar semiconductor microcavities carry two winding numbers (k,m). These
+numbers can be either integer or half-integer simultaneously. Four half-integer
+vortices (1/2,1/2), (-1/2,-1/2), (1/2,-1/2), and (-1/2,1/2) are anisotropic,
+possess the smallest energy, and define the Kosterlitz-Thouless transition
+temperature. The condensate concentration remains finite within the core of
+half-vortex and the polarization becomes fully circular in the core center.

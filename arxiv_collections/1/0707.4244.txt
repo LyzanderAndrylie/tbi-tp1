@@ -1,0 +1,12 @@
+Since 1984, electric cell-substrate impedance sensing (ECIS) has been used to
+monitor cell behavior in tissue culture and has proven sensitive to cell
+morphological changes and cell motility. We have taken ECIS measurements on
+several cultures of non-cancerous (HOSE) and cancerous (SKOV) human ovarian
+surface epithelial cells. By analyzing the noise in real and imaginary
+electrical impedance, we demonstrate that it is possible to distinguish the two
+cell types purely from signatures of their electrical noise. Our measures
+include power-spectral exponents, Hurst and detrended fluctuation analysis, and
+estimates of correlation time; principal-component analysis combines all the
+measures. The noise from both cancerous and non-cancerous cultures shows
+correlations on many time scales, but these correlations are stronger for the
+non-cancerous cells.

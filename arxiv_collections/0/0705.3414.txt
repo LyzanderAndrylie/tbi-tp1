@@ -1,0 +1,12 @@
+The 4.8 GHz lightcurves of the scintillating intra-day variable quasar
+J1819+3845 during 2004-5 exhibit sharp structure, down to a time scale of 15
+minutes, that was absent from lightcurves taken prior to this period and from
+the 2006 lightcurves. Analysis of the lightcurve power spectra show that the
+variations must be due to the emergence of new structure in the source. The
+power spectra yield a scattering screen distance of 3.8 +/- 0.3 pc for a
+best-fit v_ISS=59 +/- 0.5 km/s or 2.0 +/- 0.3 pc for the scintillation velocity
+reported by Dennett-Thorpe & de Bruyn (2003). The turbulence is required to be
+exceptionally turbulent, with C_N^2 > 0.7 Delta L_pc^{-1} m^{-20/3} for
+scattering material of thickness Delta L_{pc} pc along the ray path. The 2004
+power spectrum can be explained in terms of a double source with a component
+separation 240 +/- 15 microas in 2004.

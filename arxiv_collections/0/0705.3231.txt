@@ -1,0 +1,5 @@
+A cohomology theory of the adjoint of Hopf algebras, via deformations, is
+presented by means of diagrammatic techniques. Explicit calculations are
+provided in the cases of group algebras, function algebras on groups, and the
+bosonization of the super line. As applications, solutions to the YBE are given
+and quandle cocycles are constructed from groupoid cocycles.

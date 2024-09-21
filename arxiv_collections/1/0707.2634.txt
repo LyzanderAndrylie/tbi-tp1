@@ -1,0 +1,8 @@
+The temperature dependence of static dielectric susceptibility of a system
+with strongly coupled fluctuating dipoles is calculated within a self
+consistent mean fluctuation field approximation. Results are qualitatively in
+good agreement with, a quantum paraelectric, SrTiO$_3$ in the low temperature
+regime. We identify this system as a {\it gaped quantum paraelectric} and
+suggest a possible experimental realization of a {\it quantum critical
+paraelectric} through the application of hydrostatic pressure or doping by
+impurity.

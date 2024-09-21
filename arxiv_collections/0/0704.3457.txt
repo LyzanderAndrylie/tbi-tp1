@@ -1,0 +1,9 @@
+We analyze how the logarithmic renormalizations in the Cooper channel affect
+the non-analytic temperature dependence of the specific heat coefficient \gamma
+(T) - \gamma (0)=A(T)T in a 2D Fermi liquid. We show that A(T) is expressed
+exactly in terms of the fully renormalized backscattering amplitude which
+includes the renormalization in the Cooper channel. In contrast to the 1D case,
+both charge and spin components of the backscattering amplitudes are subject to
+this renormalization. We show that the logarithmic renormalization of the
+charge amplitude vanishes for a flat Fermi surface, when the system becomes
+effectively one-dimensional.

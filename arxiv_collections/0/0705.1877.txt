@@ -1,0 +1,13 @@
+It is well-known that a classical point charge in 1+1 D hyperbolic motion in
+space and time is reaction-free. But this is a special case of a larger set of
+reaction-free trajectories that in general are curved paths through space, i.e.
+in 2+1 D. This note catalogs the full family of reaction-free trajectories,
+giving a geometrical interpretation by which means the curved path possibility
+is easily related to the better known case of hyperbolic motion in 1+1 D.
+Motivated by the geometry, it is shown how the catalog of motions can be
+naturally extended to include the possibility of lossless reaction-free closed
+spatial orbits that turn out to be classical pair creation and destruction
+events. The extended theory can accommodate a vacuum plenum of classical
+current that could be regarded as a classical version of the Fermionic ZPF of
+QFT, reminiscent of the relationship between the Electromagnetic ZPF and the
+classical imitation that characterizes `Stochastic Electrodynamics'.

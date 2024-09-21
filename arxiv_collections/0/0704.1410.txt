@@ -1,0 +1,12 @@
+In this study it is demonstrated that a simple picture of the
+  QCD gluon liquid emerges in the dynamical quasiparticle model that specifies
+the active degrees of freedom in the time-like sector and yields a potential
+energy density in the space-like sector. By using the time-like gluon density
+(or scalar gluon density) as an independent degree of freedom - instead of the
+temperature $T$ as a Lagrange parameter - variations of the potential energy
+density lead to effective mean-fields for time-like gluons and an effective
+gluon-gluon interaction strength at low density. The latter yields a simple
+dynamical picture for the gluon fusion to color neutral glueballs when
+approaching the phase boundary from a temperature higher than $T_c$ and paves
+the way for an off-shell transport theoretical description of the parton
+dynamics.

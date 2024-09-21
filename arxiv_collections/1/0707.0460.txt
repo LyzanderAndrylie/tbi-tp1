@@ -1,0 +1,9 @@
+Through exact numerical diagonalization for small numbers of atoms, we show
+that it is possible to access quantum Hall states in harmonically confined Bose
+gases at rotation frequencies well below the centrifugal limit by applying a
+repulsive Gaussian potential at the trap center. The main idea is to reduce or
+eliminate the effective trapping frequency in regions where the particle
+density is appreciable. The critical rotation frequency required to obtain the
+bosonic Laughlin state can be fixed at an experimentally accessible value by
+choosing an applied Gaussian whose amplitude increases linearly with the number
+of atoms while its width increases as the square root.

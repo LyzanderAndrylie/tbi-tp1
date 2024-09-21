@@ -1,0 +1,10 @@
+We have measured branching fractions of hadronic $\tau$ decays involving an
+$\eta$ meson using 485 fb^{-1} of data collected with the Belle detector at the
+KEKB asymmetric-energy e^+e^- collider. We obtain the following branching
+fractions: ${\cal B}(\tau^-\to K^- \eta \nu_{\tau})=(1.62\pm 0.05 \pm
+0.09)\times 10^{-4}$, ${\cal B}(\tau^-\to K^- \pi^0 \eta \nu_{\tau}) =(4.7\pm
+1.1 \pm 0.4)\times 10^{-5}$, ${\cal B}(\tau^-\to \pi^- \pi^0 \eta
+\nu_{\tau})=(1.39 \pm 0.03 \pm 0.07) \times 10^{-3}$, and ${\cal B}(\tau^-\to
+K^{*-} \eta \nu_{\tau})=(1.13\pm 0.19 \pm 0.07)\times 10^{-4}$ improving the
+accuracy compared to the best previous measurements by factors of six, eight,
+four and four, respectively.

@@ -1,0 +1,17 @@
+This paper aims at the most comprehensive and systematic construction and
+tabulation of mechanical systems that admit a second invariant, quadratic in
+velocities, other than the Hamiltonian. The configuration space is in general a
+2D Riemannian or pseudo-Riemannian manifold and the determination of its
+geometry is a part of the process of solution. Forces acting on the system
+include a part derived from a scalar potential and a part derived from a vector
+potential, associated with terms linear in velocities in the Lagrangian
+function of the system. The last cause time-irreversibility of the system. We
+construct 41 multi-parameter integrable systems of the type described in the
+title mostly on Riemannian manifolds. They are mostly new and cover all
+previously known systems as special cases, corresponding to special values of
+the parameters. Those include all known cases of motion of a particle in the
+plane and all known cases in the dynamics of rigid body. In the last field we
+introduce a new integrable case related to Steklov's case of motion of a body
+in a liquid. Several new cases of motion in the plane, on the sphere and on the
+pseudo-sphere or in the hyperbolic plane are found as special cases.
+Prospective applications in mathematics and physics are also pointed out.

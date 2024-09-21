@@ -1,0 +1,15 @@
+Muon acceleration from 30 to 750 GeV in 72 orbits using two rings in the
+1000m radius Tevatron tunnel is explored. The first ring ramps at 400 Hz and
+accelerates muons from 30 to 400 GeV in 28 orbits using 14 GV of 1.3 GHz
+superconducting RF. The ring duplicates the Fermilab 400 GeV main ring FODO
+lattice, which had a 61m cell length. Muon survival is 80%. The second ring
+accelerates muons from 400 to 750 GeV in 44 orbits using 8 GV of 1.3 GHz
+superconducting RF. The 30 T/m main ring quadrupoles are lengthened 87% to
+3.3m. The four main ring dipoles in each half cell are replaced by three
+dipoles which ramp at 550 Hz from -1.8T to +1.8T interleaved with two 8T fixed
+superconducting dipoles. The ramping and superconducting dipoles oppose each
+other at 400 GeV and act in unison at 750 GeV. Muon survival is 92%. Two mm
+copper wire, 0.28mm grain oriented silicon steel laminations, and a low duty
+cycle mitigate eddy current losses. Low emittance muon bunches allow small
+aperatures and permit magnets to ramp with a few thousand volts. Little civil
+construction is required. The tunnel exists.

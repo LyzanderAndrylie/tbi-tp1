@@ -1,0 +1,9 @@
+We study the influence of deformations on magnetic ordering in quantum dots
+doped with magnetic impurities. The reduction of symmetry and the associated
+deformation from circular to elliptical quantum confinement lead to the
+formation of piezomagnetic quantum dots. The strength of elliptical deformation
+can be controlled by the gate voltage to change the magnitude of magnetization,
+at a fixed number of carriers and in the absence of applied magnetic field. We
+reveal a reentrant magnetic ordering with the increase of elliptical
+deformation and suggest that the piezomagnetic quantum dots can be used as
+nanoscale magnetic switches.

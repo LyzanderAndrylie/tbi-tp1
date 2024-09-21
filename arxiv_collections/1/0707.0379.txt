@@ -1,0 +1,13 @@
+A new nano-cell with smoothly varying longitudinal thickness of the atomic
+vapour layer L in the range of 350 - 5100 nm allowing to study the resonant
+absorption of D1 and D2 lines of Cs atoms for thicknesses changing from L =
+Lambda/2 to L = 6 Lambda with the step of Lambda/2 (Lambda = 852 nm or 894 nm
+are the resonant laser wavelengths) and for different intensities is developed.
+It is revealed that for low laser intensities there is narrowing of the
+resonant absorption spectrum for the thicknesses L = (2n + 1)Lambda/2 (where n
+is an integer) up to L = 7Lambda /2 and broadening of the spectrum for L = n
+Lambda. For relatively high laser intensity (>1 mW/cm2), velocity selective
+optical pumping/saturated resonances of a reduced absorption (with the
+line-width close to the natural one), and centred on the hyperfine transitions
+occur when L = n Lambda. The possible application of these resonance peaks is
+given. The developed theoretical model describes well the experiment.

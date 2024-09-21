@@ -1,0 +1,15 @@
+We consider the decoding of bit interleaved coded modulation (BICM) applied
+to multiband OFDM for practical scenarios where only a noisy (possibly very
+bad) estimate of the channel is available at the receiver. First, a decoding
+metric based on the channel it a posteriori probability density, conditioned on
+the channel estimate is derived and used for decoding BICM multiband OFDM.
+Then, we characterize the limits of reliable information rates in terms of the
+maximal achievable outage rates associated to the proposed metric. We also
+compare our results with the outage rates of a system using a theoretical
+decoder. Our results are useful for designing a communication system where a
+prescribed quality of service (QoS), in terms of achievable target rates with
+small error probability, must be satisfied even in the presence of imperfect
+channel estimation. Numerical results over both realistic UWB and theoretical
+Rayleigh fading channels show that the proposed method provides significant
+gain in terms of BER and outage rates compared to the classical mismatched
+detector, without introducing any additional complexity.

@@ -1,0 +1,13 @@
+The transverse broadening of jets produced in deep-inelastic scattering (DIS)
+off a large nucleus is studied in the collinear limit. A class of medium
+enhanced higher twist corrections are re-summed to calculate the transverse
+momentum distribution of the produced collinear jet. In contrast to previous
+approaches, resummation of the leading length enhanced higher twist corrections
+is shown to lead to a two dimensional diffusion equation for the transverse
+momentum of the propagating jet. Results for the average transverse momentum
+obtained from this approach are then compared to the broadening expected from a
+classical Langevin analysis for the propagation of the jet under the action of
+the fluctuating color Lorentz force inside the nucleons. The set of
+approximations that lead to identical results from the two approaches are
+outlined. The relationship between the momentum diffusion constant $D$ and the
+transport coefficient $\hat{q}$ is explicitly derived.

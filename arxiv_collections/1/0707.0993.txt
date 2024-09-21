@@ -1,0 +1,10 @@
+Controlled charge pumping in an AlGaAs/GaAs gated nanowire by
+single-parameter modulation is studied experimentally and theoretically.
+Transfer of integral multiples of the elementary charge per modulation cycle is
+clearly demonstrated. A simple theoretical model shows that such a quantized
+current can be generated via loading and unloading of a dynamic quasi-bound
+state. It demonstrates that non-adiabatic blockade of unwanted tunnel events
+can obliterate the requirement of having at least two phase-shifted periodic
+signals to realize quantized pumping. The simple configuration without multiple
+pumping signals might find wide application in metrological experiments and
+quantum electronics.

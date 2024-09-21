@@ -1,0 +1,13 @@
+We propose that in noncentrosymmetric superconductors with weakly asymmetric
+spin-orbit interaction the field-induced pair correlation between the
+spin-orbit split different bands ignored in previous studies yields unique
+effects; i.e. the Pauli depairing effect is anisotropic in the momentum space,
+and as a result, magnetic fields induce point-node-like anisotropic gap
+structure of the quasiparticle energy even for isotropic s-wave states, which
+seriously affects thermodynamic quantities at low temperatures. Also, it is
+shown that when the magnitude of the spin-orbit interaction is smaller than the
+superconducting gap, the specific heat as a function of a magnetic field
+exhibit a two-gap-like behavior, even when there is only a single gap. These
+features characterize parity violated Cooper pairs in weakly noncentrosymmetric
+systems. We suggest the possible detection of these effects in the
+superconductor with weakly broken inversion symmetry Y_2C_3.

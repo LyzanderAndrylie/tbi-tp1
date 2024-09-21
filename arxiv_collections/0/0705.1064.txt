@@ -1,0 +1,15 @@
+Recent experimental data for the complete wetting behavior of pure 4He and of
+3He-4He mixtures exposed to solid substrates show that there is a change of the
+corresponding film thicknesses L upon approaching thermodynamically the
+lambda-transition and the tricritical end point, respectively, which can be
+attributed to critical Casimir forces f_C. We calculate the scaling functions
+vartheta of f_C within models representing the corresponding universality
+classes. For the mixtures our analysis provides an understanding of the rich
+behavior of vartheta deduced from the experimental data and predicts the
+crossover behavior between the tricritical point and the lambda-transition of
+pure 4He which are connected by a line of critical points. The formation of a
+'soft-mode' phase within the wetting films gives rise to a pronounced maximum
+of f_C below the tricritical point as observed experimentally. Near the
+tricritical point we find logarithmic corrections ~L^(-3)(ln L)^(1/2) for the
+leading behavior of vartheta dominating the contributions from the background
+dispersion forces.

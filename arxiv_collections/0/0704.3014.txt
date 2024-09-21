@@ -1,0 +1,22 @@
+Transport properties of ultrasmall quantum dots with a single unpaired
+electron are commonly modeled by the nonequilibrium Kondo model, describing the
+exchange interaction of a spin-1/2 local moment with two leads of
+noninteracting electrons. Remarkably, the model possesses an exact solution
+when tuned to a special manifold in its parameter space known as the Toulouse
+limit. We use the Toulouse limit to exactly calculate the adiabatically pumped
+spin current in the Kondo regime. In the absence of both potential scattering
+and a voltage bias, the instantaneous charge current is strictly zero for a
+generic Kondo model. However, a nonzero spin current can be pumped through the
+system in the presence of a finite magnetic field, provided the spin couples
+asymmetrically to the two leads. Tunneling through a Kondo impurity thus offers
+a natural mechanism for generating a pure spin current. We show, in particular,
+that one can devise pumping cycles along which the average spin pumped per
+cycle is closely equal to $\hbar$. By analogy with Brouwer's formula for
+noninteracting systems with two driven parameters, the pumped spin current is
+expressed as a geometrical property of a scattering matrix. However, the
+relevant %Alex: I replaced topological with geometrical in the sentence above
+scattering matrix that enters the formulation pertains to the Majorana fermions
+that appear at the Toulouse limit rather than the physical electrons that carry
+the current. These results are obtained by combining the nonequilibrium Keldysh
+Green function technique with a systematic gradient expansion, explicitly
+exposing the small parameter controlling the adiabatic limit.

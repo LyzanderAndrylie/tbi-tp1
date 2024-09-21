@@ -1,0 +1,12 @@
+We present a preliminary study of $B^- \to D^0_{CP} \pi^-$ and $B^- \to
+D^0_{CP} K^-$ decays, with the $D^0_{CP}$ reconstructed in the CP-odd
+eigenstates $K_s \pi^0$, $K_s \omega$, in the CP-even eigenstates $K^+ K^-$,
+$\pi^+ \pi^-$, and in the (non-CP) flavor eigenstate $K^\mp \pi^\pm$. Using a
+sample of about 382 million Y(4S) decays into BBbar pairs, collected with the
+BABAR detector operating at the PEP-II asymmetric-energy B Factory at SLAC, we
+measure the ratios of the branching fractions R_CP+- and the direct CP
+asymmetries A_CP+-. The results are:
+  R_CP- = 0.81 \pm 0.10 (stat) \pm 0.05 (syst)
+  R_CP+ = 1.07 \pm 0.10 (stat) \pm 0.04 (syst)
+  A_CP- = -0.19 \pm 0.12 (stat) \pm 0.02 (syst)
+  A_CP+ = 0.35 \pm 0.09 (stat) \pm 0.05 (syst)

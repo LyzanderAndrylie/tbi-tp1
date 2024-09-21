@@ -1,0 +1,5 @@
+We describe a scheme, operating in a manner analogous to a reversed Raman
+output coupler, for measuring the phase-sensitive quadrature statistics of an
+atom laser beam. This scheme allows for the transferral of the atomic field
+statistics to an optical field, for which the quantum statistics may then be
+measured using the well-developed technology of optical homodyne measurement.

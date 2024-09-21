@@ -1,0 +1,11 @@
+We analyze the role played by entanglement in the dynamical evolution of
+Grover's search algorithm in the space of qubits. We show that the algorithm
+can be equivalently described as an iterative change of the entanglement
+between the qubits, which governs the evolution of the initial state towards
+the target state, and where the entanglement can be quantified in terms a
+single entanglement monotone. We also provide a necessary and sufficient
+condition for the quadratic speedup, which illustrates how the change in the
+bipartite entanglement of the state after each iteration determines the
+corresponding increase in the probability of finding the target state. This
+allows us to reestablish from the entanglement perspective that Grover's search
+algorithm is the only optimal pure state search algorithm.

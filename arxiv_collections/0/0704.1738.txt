@@ -1,0 +1,11 @@
+Prices of commodities or assets produce what is called time-series. Different
+kinds of financial time-series have been recorded and studied for decades.
+Nowadays, all transactions on a financial market are recorded, leading to a
+huge amount of data available, either for free in the Internet or commercially.
+Financial time-series analysis is of great interest to practitioners as well as
+to theoreticians, for making inferences and predictions. Furthermore, the
+stochastic uncertainties inherent in financial time-series and the theory
+needed to deal with them make the subject especially interesting not only to
+economists, but also to statisticians and physicists. While it would be a
+formidable task to make an exhaustive review on the topic, with this review we
+try to give a flavor of some of its aspects.

@@ -1,0 +1,10 @@
+The ground state of an externally confined one-component Yukawa plasma is
+derived analytically using the local density approximation (LDA). In
+particular, the radial density profile is computed. The results are compared
+with the recently obtained mean-field (MF) density profile
+\cite{henning.pre06}. While the MF results are more accurate for weak
+screening, LDA with correlations included yields the proper description for
+large screening. By comparison with first-principle simulations for
+three-dimensional spherical Yukawa crystals we demonstrate that both
+approximations complement each other. Together they accurately describe the
+density profile in the full range of screening parameters.

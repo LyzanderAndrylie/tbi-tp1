@@ -1,0 +1,7 @@
+In order to build a new concept of photomultiplier based on silicon
+technology, design and characterization of 5x5 arrays of a new generation of
+single photon avalanche diodes (SPAD) manufactured by ST-Microelectronics have
+been performed. Single photons sensitivity, dark noise and timing resolution of
+the SPAD- STM devices in several experimental conditions have been evaluated.
+Moreover, the effects arising from the multiple integration of many elements
+and the study of their common read-out have been deeply investigated.

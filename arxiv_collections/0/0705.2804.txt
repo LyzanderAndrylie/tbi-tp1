@@ -1,0 +1,22 @@
+We present a comprehensive and self-consistent modelling of the D' type
+symbiotic star (SS) HD330036 from radio to UV. Within a colliding-wind
+scenario, we analyse the continuum, line and dust spectra by means of SUMA, a
+code that simulates the physical conditions of an emitting gaseous cloud under
+the coupled effect of ionization from an external radiation source and shocks.
+We find that the UV lines are emitted from high density gas between the stars
+downstream of the reverse shock, while the optical lines are emitted downstream
+of the shock propagating outwards the system. As regards with the continuum
+SED, three shells are identified in the IR, at 850K, 320 K and 200 K with radii
+r = 2.8 10^13 cm, 4 10^14$ cm, and 10^15 cm, respectively, adopting a distance
+to Earth d=2.3 kpc: interestingly, all these shells appear to be circumbinary.
+The analysis of the unexploited ISO-SWS spectrum reveals that both PAHs and
+crystalline silicates coexist in HD330036, with PAHs associated to the internal
+shell at 850 K, and crystalline silicates stored into the cool shells at 320 K
+and 200 K. Strong evidence that crystalline silicates are shaped in a disk-like
+structure is derived on the basis of the relative band strengths. Finally, we
+suggest that shocks can be a reliable mechanism in activating the annealing and
+the consequent crystallization processes. We show that a consistent
+interpretation of gas and dust spectra emitted by SS can be obtained by models
+which accounts for the coupled effect of the photoionizing flux and of shocks.
+The VLTI/MIDI proposal recently accepted by ESO aims to verify and better
+constrain some of our results by means of IR interferometric observations.

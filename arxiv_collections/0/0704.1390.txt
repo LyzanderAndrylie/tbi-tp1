@@ -1,0 +1,7 @@
+We present a simple and generic theoretical description of actin-based
+motility, where polymerization of filaments maintains propulsion. The dynamics
+is driven by polymerization kinetics at the filaments' free ends, crosslinking
+of the actin network, attachment and detachment of filaments to the obstacle
+interfaces and entropic forces. We show that spontaneous oscillations in the
+velocity emerge in a broad range of parameter values, and compare our findings
+with experiments.

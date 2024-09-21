@@ -1,0 +1,12 @@
+We perform a dedicated study of the four-fermion production process e- e+ ->
+mu- nubar_mu u dbar X near the W pair-production threshold in view of the
+importance of this process for a precise measurement of the W boson mass.
+Accurate theoretical predictions for this process require a systematic
+treatment of finite-width effects. We use unstable-particle effective field
+theory (EFT) to perform an expansion in the coupling constants, GammaW/MW, and
+the non-relativistic velocity v of the W boson up to next-to-leading order in
+GammaW/MW ~ alpha_ew ~ v^2. We find that the dominant theoretical uncertainty
+in MW is currently due to an incomplete treatment of initial-state radiation.
+The remaining uncertainty of the NLO EFT calculation translates into delta MW ~
+10-15 MeV, and to about 5 MeV with additional input from the NLO four-fermion
+calculation in the full theory.

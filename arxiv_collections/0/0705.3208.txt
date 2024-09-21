@@ -1,0 +1,17 @@
+In the present work, the non-spherical dust grain characteristics of comet
+Hale-Bopp are studied using the T-matrix method and the modified power law
+distribution function. It is found that the observed data fits very well with
+the power index ($\alpha) = - 3$. The best fit values of complex refractive
+index $(n, k)$ and the aspect ratio (E) at $\alpha = - 3$ are calculated to be
+$(1.382, 0.035, 0.936)$ and $(1.379, 0.041,0.936)$ at $\lambda = 0.485 \mu m$
+and $0.684\mu m$ respectively. Kerola & Larson (K-L) analysed the same comet
+using the T-matrix method and the power law distribution function ($\alpha =
+-3$), and found that the prolate grains can explain the observed polarization
+in a more satisfactory manner as compared to the other shapes. But their
+analysis could not reproduce the negative polarization branch beyond scattering
+angle $157^0$. However, the results obtained from the present work successfully
+generate the expected negative polarization curve beyond $157^0$ and the
+fitting in this case is much better than K-L's work. So it is concluded from
+the present study that the use of modified power law distribution function
+(with $\alpha = - 3$) can fit the observed data in a better way, as compared to
+the power law distribution function used by previous authors.

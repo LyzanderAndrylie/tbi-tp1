@@ -1,0 +1,11 @@
+Tracking individual nano-objets in live cells during arbitrary long times is
+an ubiquitous need in modern biology. We present here a method for tracking
+individual 5 nm gold nanoparticles on live cells. It relies on the photothermal
+effect and the detection of the Laser Induced Scattering around a NanoAbsorber
+(LISNA). The key point for recording trajectories at video rate is the use of a
+triangulation procedure. The effectiveness of the method is tested against
+Single fluorescent Molecule Tracking in live COS7 cells on subsecond time
+scales. We further demonstrate recordings for several minutes of AMPA receptors
+trajectories on the plasma membrane of live neurons. SNaPT has the unique
+potential to record arbitrary long trajectory of membrane proteins using
+non-fluorescent nanometer sized labels.

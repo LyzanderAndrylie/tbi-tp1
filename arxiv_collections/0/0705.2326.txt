@@ -1,0 +1,8 @@
+Ordinary fracture functions, describing hadrons production in the deep
+inelastic scattering target fragmentation region, are generalized to account
+for the production of hadrons in arbitrary number, thus offering a renewed
+framework for dealing with QCD initial state radiation. We also propose a new
+jet-like observable which measures beam remnants and low-$p_{\perp}$ scattering
+fragments and derive its QCD evolution equations by using Jet Calculus.
+Possible implications for semi-inclusive deep inelastic scattering and
+hadron-hadron reactions are shortly discussed.

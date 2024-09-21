@@ -1,0 +1,13 @@
+We study the pure braid groups $P_n(RP^2)$ of the real projective plane
+$RP^2$, and in particular the possible splitting of the Fadell-Neuwirth short
+exact sequence $1 \to P_m(RP^2 {x_1,...,x_n} \to P_{n+m}(RP^2)
+\stackrel{p_{\ast}}{\to} P_n(RP^2) \to 1$, where $n\geq 2$ and $m\geq 1$, and
+$p_{\ast}$ is the homomorphism which corresponds geometrically to forgetting
+the last $m$ strings. This problem is equivalent to that of the existence of a
+section for the associated fibration $p: F_{n+m}(RP^2) \to F_n(RP^2)$ of
+configuration spaces. Van Buskirk proved in 1966 that $p$ and $p_{\ast}$ admit
+a section if $n=2$ and $m=1$. Our main result in this paper is to prove that
+there is no section if $n\geq 3$. As a corollary, it follows that $n=2$ and
+$m=1$ are the only values for which a section exists. As part of the proof, we
+derive a presentation of $P_n(RP^2)$: this appears to be the first time that
+such a presentation has been given in the literature.

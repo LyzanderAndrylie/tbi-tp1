@@ -1,0 +1,16 @@
+We observed 34 comets using the 24 micron camera on the Spitzer Space
+Telescope. Each image contains the nucleus and covers at least 10^6 km of each
+comet's orbit. Debris trails due to mm-sized or larger particles were found
+along the orbits of 27 comets; 4 comets had small-particle dust tails and a
+viewing geometry that made debris trails impossible to distinguish; and only 3
+had no debris trail despite favorable observing conditions. There are now 30
+Jupiter-family comets with known debris trails, of which 22 are reported in
+this paper for the first time. The detection rate is >80%, indicating that
+debris trails are a generic feature of short-period comets. By comparison to
+orbital calculations for particles of a range of sizes ejected over 2 yr prior
+to observation, we find that particles comprising 4 debris trails are typically
+mm-sized while the remainder of the debris trails require particles larger than
+this. The lower-limit masses of the debris trails are typically 10^11 g, and
+the median mass loss rate is 2 kg/s. The mass-loss rate in trail particles is
+comparable to that inferred from OH production rates and larger than that
+inferred from visible-light scattering in comae.

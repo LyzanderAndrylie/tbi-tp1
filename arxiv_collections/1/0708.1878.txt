@@ -1,0 +1,8 @@
+We report the realization of a solid-state triggered single-photon source
+with narrow emission in the near infrared at room temperature. It is based on
+the photoluminescence of a single nickel-nitrogen NE8 colour centre in a
+chemical vapour deposited diamond nanocrystal. Stable single-photon emission
+has been observed in the photoluminescence under both continuous-wave and
+pulsed excitations. The realization of this source represents a step forward in
+the application of diamond-based single-photon sources to Quantum Key
+Distribution (QKD) under practical operating conditions.

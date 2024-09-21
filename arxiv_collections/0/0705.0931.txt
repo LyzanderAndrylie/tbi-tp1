@@ -1,0 +1,16 @@
+Open questions from Sarovar and Milburn (2006 J.Phys. A: Math. Gen. 39 8487)
+are answered. Sarovar and Milburn derived a convenient upper bound for the
+Fisher information of a one-parameter quantum channel. They showed that for
+quasi-classical models their bound is achievable and they gave a necessary and
+sufficient condition for positive operator-valued measures (POVMs) attaining
+this bound. They asked (i) whether their bound is attainable more generally,
+(ii) whether explicit expressions for optimal POVMs can be derived from the
+attainability condition. We show that the symmetric logarithmic derivative
+(SLD) quantum information is less than or equal to the SM bound, i.e.\
+$H(\theta) \leq C_{\Upsilon}(\theta)$ and we find conditions for equality. As
+the Fisher information is less than or equal to the SLD quantum information,
+i.e. $F_M(\theta) \leq H(\theta)$, we can deduce when equality holds in
+$F_M(\theta) \leq C_{\Upsilon}(\theta)$. Equality does not hold for all
+channels. As a consequence, the attainability condition cannot be used to test
+for optimal POVMs for all channels. These results are extended to
+multi-parameter channels.

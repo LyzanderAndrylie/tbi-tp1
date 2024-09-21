@@ -1,0 +1,24 @@
+In this work we show that for every $d < \infty$ and the Ising model defined
+on $G(n,d/n)$, there exists a $\beta_d > 0$, such that for all $\beta <
+\beta_d$ with probability going to 1 as $n \to \infty$, the mixing time of the
+dynamics on $G(n,d/n)$ is polynomial in $n$. Our results are the first
+polynomial time mixing results proven for a natural model on $G(n,d/n)$ for $d
+> 1$ where the parameters of the model do not depend on $n$. They also provide
+a rare example where one can prove a polynomial time mixing of Gibbs sampler in
+a situation where the actual mixing time is slower than $n \polylog(n)$. Our
+proof exploits in novel ways the local treelike structure of Erd\H{o}s-R\'enyi
+random graphs, comparison and block dynamics arguments and a recent result of
+Weitz.
+  Our results extend to much more general families of graphs which are sparse
+in some average sense and to much more general interactions. In particular,
+they apply to any graph for which every vertex $v$ of the graph has a
+neighborhood $N(v)$ of radius $O(\log n)$ in which the induced sub-graph is a
+tree union at most $O(\log n)$ edges and where for each simple path in $N(v)$
+the sum of the vertex degrees along the path is $O(\log n)$. Moreover, our
+result apply also in the case of arbitrary external fields and provide the
+first FPRAS for sampling the Ising distribution in this case. We finally
+present a non Markov Chain algorithm for sampling the distribution which is
+effective for a wider range of parameters. In particular, for $G(n,d/n)$ it
+applies for all external fields and $\beta < \beta_d$, where $d \tanh(\beta_d)
+= 1$ is the critical point for decay of correlation for the Ising model on
+$G(n,d/n)$.

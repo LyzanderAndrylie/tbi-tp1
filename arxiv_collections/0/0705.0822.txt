@@ -1,0 +1,9 @@
+A full Fermi surface exists in underdoped high-temperature superconductors if
+the temperature T lies above the pseudogap temperature T*. Below T* only arcs
+of Fermi surface survive, scaling with T/T* as T -> 0, with T* displaying
+strong doping dependence. There is no accepted explanation for this behavior.
+We show that generalizing the BCS theory of normal superconductivity to include
+d-wave pairs and antiferromagnetism leads to the origin and doping dependence
+of the T* scale, and a quantitative description of Fermi arcs. These results
+place strong constraints on viable theories of high-temperature
+superconductivity.

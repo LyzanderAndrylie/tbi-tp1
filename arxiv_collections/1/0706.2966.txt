@@ -1,0 +1,14 @@
+By introducing finite size surface and interfacial excess quantities,
+interactions between interfaces are shown to modify the usual surface
+premelting phenomenon. It is the case of surface melting of a thin solid film s
+deposited on a planar solid substrate S. More precisely to the usual wetting
+condition of the solid s by its own melt l, necessary for premelting (wetting
+factor F<0), is adjoined a new quantity G describing the interactions of the
+l/s interface with the s/S interface. When G>0 this interface attraction boosts
+the premelting so that a two stage boosted surface premelting is foreseen: a
+continuous premelting, up to roughly half the deposited film, is followed by an
+abrupt first order premelting. When G<0 these interfaces repell each other so
+that premelting is refrained and the film remains partly solid above the bulk
+melting point (overheating) what is called astride melting. Elastic stress
+modifies both types of melting curves. Bulk and surface stresses have to be
+distinguished.

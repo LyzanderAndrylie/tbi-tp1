@@ -1,0 +1,12 @@
+We give a new proof of universality properties in the bulk of spectrum of the
+hermitian matrix models, assuming that the potential that determines the model
+is globally $C^{2}$ and locally $C^{3}$ function (see Theorem \ref{t:U.t1}).
+The proof as our previous proof in \cite{Pa-Sh:97} is based on the orthogonal
+polynomial techniques but does not use asymptotics of orthogonal polynomials.
+Rather, we obtain the $sin$-kernel as a unique solution of a certain non-linear
+integro-differential equation that follows from the determinant formulas for
+the correlation functions of the model. We also give a simplified and
+strengthened version of paper \cite{BPS:95} on the existence and properties of
+the limiting Normalized Counting Measure of eigenvalues. We use these results
+in the proof of universality and we believe that they are of independent
+interest.

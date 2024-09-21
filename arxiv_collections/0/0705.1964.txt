@@ -1,0 +1,7 @@
+We propose and study a spin-orbit interaction based mechanism to actively
+cool down the torsional vibration of a nanomechanical resonator made by
+semiconductor materials. We show that the spin-orbit interactions of electrons
+can induce a coherent coupling between the electron spins and the torsional
+modes of nanomechanical vibration. This coherent coupling leads to an active
+cooling for the torsional modes via the dynamical thermalization of the
+resonator and the spin ensemble.

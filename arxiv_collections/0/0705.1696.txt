@@ -1,0 +1,12 @@
+We consider modifications of the classical dbar-Neumann conditions that
+define Fredholm problems for the Spin_C Dirac operator. In part II, we use
+boundary layer methods to obtain subelliptic estimates for these boundary value
+problems. Using these results, we obtain an expression for the finite part of
+the holomorphic Euler characteristic of a strictly pseudoconvex manifold as the
+index of a Spin_C-Dirac operator with a subelliptic boundary condition. We also
+prove an analogue of the Agranovich-Dynin formula expressing the change in the
+index in terms of a relative index on the boundary. If X is a complex manifold
+partitioned by a strictly pseudoconvex hypersurface, then we obtain formulae
+for the holomorphic Euler characteristic of X as sums of indices of
+Spin_C-Dirac operators on the components. This is a subelliptic analogue of
+Bojarski's formula in the elliptic case.

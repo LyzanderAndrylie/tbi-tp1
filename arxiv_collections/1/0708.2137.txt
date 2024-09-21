@@ -1,0 +1,16 @@
+In quasi low dimensional superconductors under {\it parallel} magnetic fields
+applied along a conducting direction, vortex lattices with a modulation of
+Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) type {\it perpendicular} to the field
+may occur due to an enhanced paramagnetic depairing. As the strength of an
+in-plane field is varied in a Q2D material, the Josephson vortex lattices
+accompanied by nodal planes are formed in higher Landau level (LL) modes of the
+superconducting (SC) order parameter and show field-induced structural
+transitions. A change of orientation of nodal planes induced by these
+transitions should be observed in transport measurements for an out-of-plane
+current in real superconductors with point disorder effective on the SC layers.
+Further, the $H_{c2}$-transition from this higher LL state to the normal phase
+is of second order for moderately strong paramagnetic effects but, in the case
+with a strong enough paramagnetic effect, becomes discontinuous as well as the
+transition between this modulated state and an ordinary Abrikosov vortex
+lattice in the lowest LL. Relevance of these results to recent observations in
+organic superconductors suggesting the presence of an FFLO state are discussed.

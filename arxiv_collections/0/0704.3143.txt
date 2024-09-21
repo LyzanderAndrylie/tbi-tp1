@@ -1,0 +1,9 @@
+Charge redistribution at interfaces is crucial for electronic applications of
+high-Tc superconductors, since the band structure is modified on a local scale.
+We address the normal-state electronic structure of YBa2Cu3O7 (YBCO) at an
+YBCO-metal contact by first principles calculations for prototypical interface
+configurations. We derive quantitative results for the intrinsic doping of the
+superconducting CuO2 planes due to the metal contact. Our findings can be
+explained in terms of a band-bending mechanism, complemented by local screening
+effects. We determine a net charge transfer of 0.09 to 0.13 electrons in favour
+of the intraplane Cu sites, depending on the interface orientation.

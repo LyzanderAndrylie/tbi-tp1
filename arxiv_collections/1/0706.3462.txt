@@ -1,0 +1,15 @@
+Consider a family f:A --> U of g-dimensional abelian varieties over a
+quasiprojective manifold U. Suppose that the induced map from U to the moduli
+scheme of polarized abelian varieties is generically finite and that there is a
+projective manifold Y, containing U as the complement of a normal crossing
+divisor S, such that the sheaf of logarithmic one forms is nef and that its
+determinant is ample with respect to U. We characterize whether $U$ is a
+Shimura variety by numerical data attached to the variation of Hodge
+structures, rather than by properties of the map from U to the moduli scheme or
+by the existence of CM points. More precisely, we show that U is a Shimura
+variety, if and only if two conditions hold. First, each irreducible local
+subsystem V of the complex weight one variation of Hodge structures is either
+unitary or satisfies the Arakelov equality. Secondly, for each factor M in the
+universal cover of U whose tangent bundle behaves like the one of a complex
+ball, an iterated Kodaira-Spencer map associated with V has minimal possible
+length in the direction of M.

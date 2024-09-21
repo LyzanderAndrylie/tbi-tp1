@@ -1,0 +1,10 @@
+We analytically evaluate charge and spin density response functions of the
+clean two-dimensional electron gas with Rashba spin-orbit coupling at finite
+momenta and frequencies. On the basis of our exact expressions we discuss the
+accuracy of the long-wavelength and the quasiclassical approximations. We also
+derive the static limit of spin susceptibilities and demonstrate, in
+particular, how the Kohn-like anomalies in their derivatives are related to the
+spin-orbit modification of the Ruderman-Kittel-Kasuya-Yosida interaction.
+Taking into account screening and exchange effects of the Coulomb interaction,
+we describe the collective charge and spin density excitation modes which
+appear to be coupled due to nonvanishing spin-charge response function.

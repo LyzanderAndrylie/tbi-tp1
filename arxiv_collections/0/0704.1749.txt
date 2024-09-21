@@ -1,0 +1,7 @@
+VIMOS is a wide-field imager and spectrograph mounted on UT3 at the
+  VLT, whose FOV consists of four 7'x8' quadrants. Here we present the
+measurements of total transmission profiles -- i.e. the throughput of telescope
++ instrument -- for the broad band filters U, B, V, R, I, and z for each of its
+four quadrants. Those measurements can also be downloaded from the public VIMOS
+web-page. The transmission profiles are compared with previous estimates from
+the VIMOS consortium.

@@ -1,0 +1,9 @@
+We have studied the annealing effect in transport properties of High
+temperature Josephson Junctions (HTc JJ) made by ion irradiation. Low
+temperature annealing (80 degrees Celsius) increases the JJ transition
+temperature (TJ) and the Ic.Rn product, where Ic is the critical current and Rn
+the normal resistance. We found that the spread in JJ characteristics can be
+lowered by sufficient long annealing times. Using random walk numerical
+simulations, we showed that the characteristic annealing time and the evolution
+of the spread in JJ characteristics can be explained by a vacancy-interstitial
+annihilation process rather than by an oxygen diffusion one.

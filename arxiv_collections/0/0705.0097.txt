@@ -1,0 +1,9 @@
+The influence of a weak random potential on the collective modes of a trapped
+interacting Bose-Einstein condensate at zero temperature is calculated in the
+limit when the correlation length of the disorder is smaller than the healing
+length of the superfluid. The problem is solved in the Thomas-Fermi limit by
+generalizing the superfluid hydrodynamic equations to allow for the presence of
+weak disorder. We find that the disorder-induced frequency-shifts of the
+low-energy excitations can be of the same order of magnitude as the beyond
+mean-field corrections in the normal interaction recently observed
+experimentally.

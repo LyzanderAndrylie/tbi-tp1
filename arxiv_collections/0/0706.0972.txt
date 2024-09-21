@@ -1,0 +1,7 @@
+If the $\ell$-adic cohomology of a projective smooth variety, defined over a
+local field $K$ with finite residue field $k$, is supported in codimension $\ge
+1$, then every model over the ring of integers of $K$ has a $k$-rational point.
+For $K$ a $p$-adic field, this is math/0405318, Theorem 1.1. If the model $\sX$
+is regular, one has a congruence $|\sX(k)|\equiv 1 $ modulo $|k|$ for the
+number of $k$-rational points 0704.1273, Theorem 1.1. The congruence is
+violated if one drops the regularity assumption.

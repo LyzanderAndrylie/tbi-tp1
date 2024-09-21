@@ -1,0 +1,15 @@
+In many applications it will be useful to know those patterns that occur with
+a balanced interval, e.g., a certain combination of phone numbers are called
+almost every Friday or a group of products are sold a lot on Tuesday and
+Thursday.
+  In previous work we proposed a new measure of support (the number of
+occurrences of a pattern in a dataset), where we count the number of times a
+pattern occurs (nearly) in the middle between two other occurrences. If the
+number of non-occurrences between two occurrences of a pattern stays almost the
+same then we call the pattern balanced.
+  It was noticed that some very frequent patterns obviously also occur with a
+balanced interval, meaning in every transaction. However more interesting
+patterns might occur, e.g., every three transactions. Here we discuss a
+solution using standard deviation and average. Furthermore we propose a simpler
+approach for pruning patterns with a balanced interval, making estimating the
+pruning threshold more intuitive.

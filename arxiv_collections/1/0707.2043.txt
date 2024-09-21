@@ -1,0 +1,7 @@
+We solve the path integral in momentum space for a particle in the field of
+the Coulomb potential in one dimension in the framework of quantum mechanics
+with the minimal length given by
+  $(\Delta X)_{0}=\hbar \sqrt{\beta}$, where $\beta$ is a small positive
+parameter. From the spectral decomposition of the fixed energy transition
+amplitude we obtain the exact energy eigenvalues and momentum space
+eigenfunctions.

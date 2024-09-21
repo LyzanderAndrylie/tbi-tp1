@@ -1,0 +1,7 @@
+A generalization of the Kauffman tangle algebra is given for Coxeter type Dn.
+The tangles involve a pole or order 2. The algebra is shown to be isomorphic to
+the Birman-Murakami-Wenzl algebra of the same type. This result extends the
+isomorphism between the two algebras in the classical case, which in our
+set-up, occurs when the Coxeter type is of type A with index n-1. The proof
+involves a diagrammatic version of the Brauer algebra of type Dn in which the
+Temperley-Lieb algebra of type Dn is a subalgebra.

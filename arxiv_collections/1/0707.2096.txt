@@ -1,0 +1,13 @@
+We study the analytically solvable Ising model of a single qubit system
+coupled to a spin bath. The purpose of this study is to analyze and elucidate
+the performance of Markovian and non-Markovian master equations describing the
+dynamics of the system qubit, in comparison to the exact solution. We find that
+the time-convolutionless master equation performs particularly well up to
+fourth order in the system-bath coupling constant, in comparison to the
+Nakajima-Zwanzig master equation. Markovian approaches fare poorly due to the
+infinite bath correlation time in this model. A recently proposed
+post-Markovian master equation performs comparably to the time-convolutionless
+master equation for a properly chosen memory kernel, and outperforms all the
+approximation methods considered here at long times. Our findings shed light on
+the applicability of master equations to the description of reduced system
+dynamics in the presence of spin-baths.

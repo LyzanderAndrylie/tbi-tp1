@@ -1,0 +1,18 @@
+The $sp(8, R)$ invariant formulation of free field equations of massless
+fields of all spins in $AdS_4$ available previously in terms of gauge invariant
+field strengths is extended to gauge potentials. As a by-product, free field
+equations for a massless gauge field are shown to possess both $su(2,2)\sim
+o(4,2)$ and $sl(4,R)\sim o(3,3)$ symmetry. The proposed formulation is
+well-defined in the $AdS_4$ background but experiences certain degeneracy in
+the flat limit that does not allow conformal invariant field equations for spin
+$s>1$ gauge fields in Minkowski space. The basis model involves the doubled set
+of fields of all spins. It is manifestly invariant under U(1) electric-magnetic
+duality extended to higher spins. Reduction to a single massless field contains
+the equations that relate its electric and magnetic potentials which are mixed
+by the conformal transformations for s>1. We use the unfolded formulation
+approach recalled in the paper with some emphasis on the role of
+Chevalley-Eilenberg cohomology of a Lie algebra $g$ in $g$-invariant field
+equations. This method makes it easy to guess a form of the 4d $sp(8, R)$
+invariant massless field equations and then to extend them to the ten
+dimensional $sp(8,R)$ invariant space-time. Dynamical content of the field
+equations is analyzed in terms of $\sigma_-$ cohomology.

@@ -1,0 +1,11 @@
+We have measured motional heating rates of trapped atomic ions, a factor that
+can influence multi-ion quantum logic gate fidelities. Two simplified
+techniques were developed for this purpose: one relies on Raman sideband
+detection implemented with a single laser source, while the second is even
+simpler and is based on time-resolved fluorescence detection during Doppler
+recooling. We applied these methods to determine heating rates in a
+microfrabricated surface-electrode trap made of gold on fused quartz, which
+traps ions 40 microns above its surface. Heating rates obtained from the two
+techniques were found to be in reasonable agreement. In addition, the trap
+gives rise to a heating rate of 300 plus or minus 30 per second for a motional
+frequency of 5.25 MHz, substantially below the trend observed in other traps.

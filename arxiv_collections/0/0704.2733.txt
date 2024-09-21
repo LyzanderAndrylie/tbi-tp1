@@ -1,0 +1,6 @@
+We show that for Gaussian random SU(m+1) polynomials of a large degree N the
+probability that there are no zeros in the disk of radius r is less than
+$e^{-c_{1,r} N^{m+1}}$, and is also greater than $e^{-c_{2,r} N^{m+1}}$.
+Enroute to this result, we also derive a more general result: probability
+estimates for the event where the volume of the zero set of a random polynomial
+of high degree deviates significantly from its mean.

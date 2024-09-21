@@ -1,0 +1,11 @@
+In this paper we compute the tree-level four-point scattering amplitude of
+two dilatini and two axion-dilaton fields in type IIB supergravity in AdS5 x
+S5. A special feature of this process is that there is an "exotic" channel in
+which there are no singleparticle poles. Another novelty is that this process
+involves the exchange of a bulk gravitino. The amplitude is interpreted in
+terms of N = 4 supersymmetric Yang-Mills theory at large 't Hooft coupling.
+Properties of the Operator Product Expansion are used to analyze the various
+contributions from single- and double-trace operators in the weak and strongly
+coupled regimes, and to determine the anomalous dimensions of semi-short
+operators. The analysis is particularly clear in the exotic channel, given the
+absence of BPS states.

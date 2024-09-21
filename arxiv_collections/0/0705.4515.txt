@@ -1,0 +1,4 @@
+Let X be a geometrically connected smooth projective curve of genus one,
+defined over the field of real numbers, such that X does not have any real
+points. We classify the isomorphism classes of all stable real algebraic vector
+bundles over X.

@@ -1,0 +1,8 @@
+We calculate the free energy of the disordered urn model using the law of
+large numbers. It is revealed that the saddle point equation obtained by the
+usage of the law of large numbers is the same as that obtained by the replica
+method. Hence, we conclude that the replica symmetric solution is adequate for
+the disordered urn model. Furthermore, we point out the mathematical similarity
+of free energies between the urn models and the Random Field Ising Model; this
+similarity gives an evidence that the replica symmetric solution of the urn
+models is exact.

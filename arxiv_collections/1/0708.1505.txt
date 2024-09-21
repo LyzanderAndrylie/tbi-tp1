@@ -1,0 +1,17 @@
+We consider unitary transformations on a bipartite system A x B. To what
+extent entails the ability to transmit information from A to B the ability to
+transfer information in the converse direction? We prove a dimension-dependent
+lower bound on the classical channel capacity C(A<--B) in terms of the capacity
+C(A-->B) for the case that the bipartite unitary operation consists of
+controlled local unitaries on B conditioned on basis states on A. This can be
+interpreted as a statement on the strength of the inevitable backaction of a
+quantum system on its controller.
+  If the local operations are given by the regular representation of a finite
+group G we have C(A-->B)=log |G| and C(A<--B)=log N where N is the sum over the
+degrees of all inequivalent representations. Hence the information deficit
+C(A-->B)-C(A<--B) between the forward and the backward capacity depends on the
+"non-abelianness" of the control group. For regular representations, the ratio
+between backward and forward capacities cannot be smaller than 1/2. The
+symmetric group S_n reaches this bound asymptotically. However, for the general
+case (without group structure) all bounds must depend on the dimensions since
+it is known that the ratio can tend to zero.

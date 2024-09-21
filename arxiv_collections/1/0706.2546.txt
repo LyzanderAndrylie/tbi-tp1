@@ -1,0 +1,13 @@
+We analyze non-integrable deformations of two-dimensional N=1 supersymmetric
+quantum field theories with kink excitations. As example, we consider the
+multi-frequency Super Sine Gordon model. At weak coupling, this model is robust
+with respect to kink confinement phenomena, in contrast to the purely bosonic
+case. If we vary the coupling, the model presents a sequence of phase
+transitions, where pairs of kinks disappear from the spectrum. The phase
+transitions fall into two classes: the first presents the critical behaviors of
+the Tricritical Ising model, the second instead those of the gaussian model. In
+the first case, close to the critical point, the model has metastable vacua,
+with a spontaneously supersymmetry breaking. When the life-time of the
+metastable vacua is sufficiently long, the role of goldstino is given by the
+massless Majorana fermion of the Ising model. On the contrary, supersymmetry
+remains exact in the phase transition of the second type.

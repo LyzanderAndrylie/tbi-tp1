@@ -1,0 +1,12 @@
+A recent angle resolved photoelectron spectroscopy (ARPES) study by Douglas
+et al. \cite {dessau-comment} on oxygen isotope exchanged
+Bi_2Sr_2CaCu_2O$_{8+\delta}$ superconductors reported an absence of isotope
+effect at optimal doping, questioning the previous work by us \cite
+{gweon-nature}. Here, we report a new result that sheds light on this puzzling
+discrepancy as well as the nature of the electron lattice interaction in the
+cuprates: the anomalous isotope effect at optimal doping \cite {gweon-nature},
+re-confirmed here, vanishes on a mere 2 % overdoping of holes. This result
+implies a rapid change of the nature of the electron-lattice interaction near
+optimal doping. We also find that the data by Douglas et al. \cite
+{dessau-comment} are actually characteristic of significantly over-doped
+samples, not of optimally doped samples as they claimed.

@@ -1,0 +1,11 @@
+The spectral function of the closed-shell Neon atom is computed by expanding
+the electron self-energy through a set of Faddeev equations. This method
+describes the coupling of single-particle degrees of freedom with correlated
+two-electron, two-hole, and electron-hole pairs. The excitation spectra are
+obtained using the Random Phase Approximation, rather than the Tamm-Dancoff
+framework employed in the third-order algebraic diagrammatic contruction
+[ADC(3)] method. The difference between these two approaches is studied, as
+well as the interplay between ladder and ring diagrams in the self-energy.
+Satisfactory results are obtained for the ionization energies as well as the
+energy of the ground state with the Faddeev-RPA scheme that is also appropriate
+for the high-density electron gas.

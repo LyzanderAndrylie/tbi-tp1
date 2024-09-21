@@ -1,0 +1,4 @@
+We give an explicit formula (i.e., a formal stationary phase formula) for the
+local Fourier-Laplace transform of a formal germ of meromorphic connection of
+one complex variable with a possibly irregular singularity. This is a complex
+analogue of the formulas in the preprint math/0702436v1.

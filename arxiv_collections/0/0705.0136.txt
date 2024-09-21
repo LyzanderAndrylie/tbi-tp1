@@ -1,0 +1,14 @@
+The angular distribution of the emitted electrons, following the two-photon
+ionization of the hydrogen-like ions, is studied within the framework of second
+order perturbation theory and the Dirac equation. Using a density matrix
+approach, we have investigated the effects which arise from the polarization of
+the incoming light as well as from the higher multipoles in the expansion of
+the electron--photon interaction. For medium- and high-Z ions, in particular,
+the non-dipole contributions give rise to a significant change in the angular
+distribution of the emitted electrons, if compared with the electric-dipole
+approximation. This includes a strong forward emission while, in dipole
+approxmation, the electron emission always occurs symmetric with respect to the
+plane which is perpendicular to the photon beam. Detailed computations for the
+dependence of the photoelectron angular distributions on the polarization of
+the incident light are carried out for the ionization of H, Xe$^{53+}$, and
+U$^{91+}$ (hydrogen-like) ions.

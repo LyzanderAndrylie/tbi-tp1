@@ -1,0 +1,12 @@
+We consider a three dimensional system consisting of a large number of small
+spherical particles, distributed in a range of sizes and heights (with uniform
+distribution in the horizontal direction). Particles move vertically at a
+size-dependent terminal velocity. They are either allowed to merge whenever
+they cross or there is a size ratio criterion enforced to account for collision
+efficiency. Such a system may be described, in mean field approximation, by the
+Smoluchowski kinetic equation with a differential sedimentation kernel, used to
+study e.g. rain initiation and particle distributions in the atmosphere. We
+solve the kinetic equation analytically to obtain steady state and self-similar
+solutions in time and in height, using methods borrowed from weak turbulence
+theory. Analytical results are compared with direct numerical simulations (DNS)
+of moving and merging particles, and a good agreement is found.

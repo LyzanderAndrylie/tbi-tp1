@@ -1,0 +1,10 @@
+Topology Control (TC) aims at tuning the topology of highly dynamic networks
+to provide better control over network resources and to increase the efficiency
+of communication. Recently, many TC protocols have been proposed. The protocols
+are designed for preserving connectivity, minimizing energy consumption,
+maximizing the overall network coverage or network capacity. Each TC protocol
+makes different assumptions about the network topology, environment detection
+resources, and control capacities. This circumstance makes it extremely
+difficult to comprehend the role and purpose of each protocol. To tackle this
+situation, a taxonomy for TC protocols is presented throughout this paper.
+Additionally, some TC protocols are classified based upon this taxonomy.

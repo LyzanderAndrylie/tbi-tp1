@@ -1,0 +1,9 @@
+We introduce a general operational characterization of information-preserving
+structures (IPS) -- encompassing noiseless subsystems, decoherence-free
+subspaces, pointer bases, and error-correcting codes -- by demonstrating that
+they are isometric to fixed points of unital quantum processes. Using this, we
+show that every IPS is a matrix algebra. We further establish a structure
+theorem for the fixed states and observables of an arbitrary process, which
+unifies the Schrodinger and Heisenberg pictures, places restrictions on
+physically allowed kinds of information, and provides an efficient algorithm
+for finding all noiseless and unitarily noiseless subsystems of the process.

@@ -1,0 +1,6 @@
+Starting from a classical mechanics of a ``colloid particle'' and $N$ ``water
+molecules'', we study effective stochastic dynamics of the particle which jumps
+between deep potential wells. We prove that the effective transition
+probability satisfies (local) detailed balance condition. This enables us to
+rigorously determine precise form of the transition probability when barrier
+potentials have certain regularity and symmetry.

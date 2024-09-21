@@ -1,0 +1,8 @@
+We discuss a general combinatorial framework for operator ordering problems
+by applying it to the normal ordering of the powers and exponential of the
+boson number operator. The solution of the problem is given in terms of Bell
+and Stirling numbers enumerating partitions of a set. This framework reveals
+several inherent relations between ordering problems and combinatorial objects,
+and displays the analytical background to Wick's theorem. The methodology can
+be straightforwardly generalized from the simple example given herein to a wide
+class of operators.

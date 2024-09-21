@@ -1,0 +1,12 @@
+We study theoretically the Josephson effect in d-wave superconductor /
+diffusive normal metal /insulator/ diffusive normal metal/ d-wave
+superconductor (D/DN/I/DN/D) junctions. This model is aimed to describe
+practical junctions in high-$T_C$ cuprate superconductors, in which the product
+of the critical Josephson current ($I_C$) and the normal state resistance ($R$)
+(the so-called $I_{\rm C}R$ product) is very small compared to the prediction
+of the standard theory. We show that the $I_{\rm C}R$ product in D/DN/I/DN/D
+junctions can be much smaller than that in d-wave superconductor / insulator /
+d-wave superconductor junctions and formulate the conditions necessary to
+achieve large $I_{\rm C}R$ product in D/DN/I/DN/D junctions. The proposed
+theory describes the behavior of $I_{\rm C}R$ products quantitatively in
+high-$T_{\rm C}$ cuprate junctions.

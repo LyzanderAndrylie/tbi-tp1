@@ -1,0 +1,10 @@
+The Kolmogorov-Sinai entropy in the sense of Tsallis under Bernoulli shifts
+was obtained by Meson and Vericat [J. Math. Phys. 37, 4480(1996)]. In this
+paper, we propose a revised generalized Kolmogorov-Sinai-q entropy under Markov
+shifts. The form of this generalized entropy with factor q is nonextensive. The
+new generalized entropy contains the classical Kolmogorov-Sinai entropy and
+Renyi entropy as well as Bernoulli shifts as special cases. Applying the
+generalized entropy we discuss its approximate behavior qualitatively, the
+entropy rate and the sensitive value q^* of the nonextensive parameter q, which
+may exit in the interval (-2,2) nearby where the generalized entropy return to
+the classical K-S entropy.

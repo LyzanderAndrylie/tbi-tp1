@@ -1,0 +1,16 @@
+We consider the gravastar model where the vacuum phase transition between the
+de Sitter interior and the Schwarzschild or Schwarzschild-de Sitter exterior
+geometries takes place at a single spherical delta-shell. We derive sharp
+analytic bounds on the surface compactness (2m/r) that follow from the
+requirement that the dominant energy condition (DEC) holds at the shell. In the
+case of Schwarzschild exterior, the highest surface compactness is achieved
+with the stiff shell in the limit of vanishing (dark) energy density in the
+interior. In the case of Schwarzschild-de Sitter exterior, in addition to the
+gravastar configurations with the shell under surface pressure, gravastar
+configurations with vanishing shell pressure (dust shells), as well as
+configurations with the shell under surface tension, are allowed by the DEC.
+Respective bounds on the surface compactness are derived for all cases. We also
+consider the speed of sound on the shell as derived from the requirement that
+the shell is stable against the radial perturbations. The causality requirement
+(sound speed not exceeding that of light) further restricts the space of
+allowed gravastar configurations.

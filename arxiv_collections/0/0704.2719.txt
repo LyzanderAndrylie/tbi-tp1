@@ -1,0 +1,16 @@
+Only the 1/V_max method has been employed so far for observationally
+determining the white dwarf luminosity function, whereas for other kind of
+luminosity functions several other methods have been frequently used. Moreover,
+the procedures to determine the white dwarf luminosity function are not free of
+biases. These biases have two different origins: they can either be of
+statistical nature or a consequence of the measurement errors. In a previous
+paper we carried out an in-depth study of the first category of biases for
+several luminosity function estimators. In this paper we focus on the biases
+introduced by the measurement errors and on the effects of the degree of
+contamination of the input sample used to build the disc white dwarf luminosity
+function by different kinematical populations. To assess the extent of these
+biases we use a Monte Carlo simulator to generate a controlled synthetic
+population and analyse the behaviour of the disc white dwarf luminosity
+function for several assumptions about the magnitude of the measurement errors
+and for several degrees of contamination, comparing the performances of the
+most robust luminosity function estimators under such conditions.

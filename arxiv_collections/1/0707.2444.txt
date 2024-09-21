@@ -1,0 +1,5 @@
+We consider the dynamics of skew product maps associated with finitely
+generated semigroups of rational maps on the Riemann sphere. We show that under
+some conditions on the dynamics and the potential function \psi, there exists a
+unique equilibrium state for \psi and a unique $\exp(\P(\psi)-\psi)$-conformal
+measure, where P(\psi) denotes the topological pressure of \psi.

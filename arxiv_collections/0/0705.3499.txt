@@ -1,0 +1,7 @@
+An important characteristic of topological band insulators is the necessary
+presence of in-gap edge states on the sample boundary. We utilize this fact to
+show that when the boundary is reconnected with a twist, there are always
+zero-energy defect states. This provides a natural connection between novel
+defects in the two-dimensional $p_{x}+ip_{y}$ superconductor, the Kitaev model,
+the fractional quantum Hall effect, and the one-dimensional domain wall of
+polyacetylene.

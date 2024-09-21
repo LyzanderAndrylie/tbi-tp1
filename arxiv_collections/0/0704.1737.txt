@@ -1,0 +1,13 @@
+Matter-light quantum interface and quantum memory for light are important
+ingredients of quantum information protocols, such as quantum networks,
+distributed quantum computation, etc. In this Letter we present a spatially
+multimode scheme for quantum memory for light, which we call a quantum
+hologram. Our approach uses a multi-atom ensemble which has been shown to be
+efficient for a single spatial mode quantum memory. Due to the multi-atom
+nature of the ensemble it is capable of storing many spatial modes, a feature
+critical for the present proposal. A quantum hologram has a higher storage
+capacity compared to a classical hologram, and is capable of storing quantum
+features of an image, such as multimode superposition and entangled quantum
+states, something that a standard hologram is unable to achieve. Due to optical
+parallelism, the information capacity of the quantum hologram will obviously
+exceed that of a single-mode scheme.

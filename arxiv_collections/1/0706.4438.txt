@@ -1,0 +1,8 @@
+Open quantum systems that interact with structured reservoirs exhibit
+non-Markovian dynamics. We present a quantum jump method for treating the
+dynamics of such systems. This approach is a generalization of the standard
+Monte Carlo Wave Function (MCWF) method for Markovian dynamics. The MCWF method
+identifies decay rates with jump probabilities and fails for non-Markovian
+systems where the time-dependent rates become temporarily negative. Our
+non-Markovian quantum jump (NMQJ) approach circumvents this problem and
+provides an efficient unravelling of the ensemble dynamics.

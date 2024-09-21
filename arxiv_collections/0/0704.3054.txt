@@ -1,0 +1,14 @@
+Cooperative diversity systems are wireless communication systems designed to
+exploit cooperation among users to mitigate the effects of multipath fading. In
+fairly general conditions, it has been shown that these systems can achieve the
+diversity order of an equivalent MISO channel and, if the node geometry
+permits, virtually the same outage probability can be achieved as that of the
+equivalent MISO channel for a wide range of applicable SNR. However, much of
+the prior analysis has been performed under the assumption of perfect timing
+and frequency offset synchronization. In this paper, we derive the estimation
+bounds and associated maximum likelihood estimators for frequency offset
+estimation in a cooperative communication system. We show the benefit of
+adaptively tuning the frequency of the relay node in order to reduce estimation
+error at the destination. We also derive an efficient estimation algorithm,
+based on the correlation sequence of the data, which has mean squared error
+close to the Cramer-Rao Bound.

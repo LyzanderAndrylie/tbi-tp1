@@ -1,0 +1,11 @@
+We show that time dependent couplings may lead to nontrivial scaling
+properties of the surface fluctuations of the asymptotic regime in
+non-equilibrium kinetic roughening models . Three typical situations are
+studied. In the case of a crossover between two different rough regimes, the
+time-dependent coupling may result in anomalous scaling for scales above the
+crossover length. In a different setting, for a crossover from a rough to
+either a flat or damping regime, the time dependent crossover length may
+conspire to produce a rough surface, despite the most relevant term tends to
+flatten the surface. In addition, our analysis sheds light into an existing
+debate in the problem of spontaneous imbibition, where time dependent couplings
+naturally arise in theoretical models and experiments.

@@ -1,0 +1,12 @@
+In this paper we present a two channel model with the goal of reproducing the
+soft scattering data available in the ISR-Tevatron energy range, and extend the
+model results to LHC and Cosmic Rays energies. A characteristic feature of the
+model is that we represent the sum of all diffractive final states at a vertex,
+by a single diffractive state. Our two main results are: (i) The approach of
+the elastic scattering amplitude to the black disc bound is very slow, reaching
+it at energies far higher than the GZK ankle cutoff. (ii) Our predicted
+survival probability for Higgs exclusive central diffractive production at the
+LHC is 0.7%, which is considerably smaller than our previous estimate. The
+above features are compatible with a parton-like model in which the traditional
+soft Pomeron is replaced by an amplitude describing the partonic system, which
+issaturated in the soft (long distance) limit.

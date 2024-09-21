@@ -1,0 +1,11 @@
+We study the localization of bosonic atoms in an optical lattice, which
+interact in a spatially confined region. The classical theory predicts that
+there is no localization below a threshold value for the strength of
+interaction that is inversely proportional to the number of participating
+atoms. In a full quantum treatment, however, we find that localized states
+exist for arbitrarily weak attractive or repulsive interactions for any number
+($>1$) of atoms. We further show, using an explicit solution of the
+two-particle bound state and an appropriate measure of entanglement, that the
+entanglement tends to a finite value in the limit of weak interactions. Coupled
+with the non-existence of localization in an optimized quantum product state,
+we conclude that the localization exists by virtue of entanglement.

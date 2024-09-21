@@ -1,0 +1,13 @@
+Motivated by the organization of crosslinked cytoskeletal biopolymers, we
+present a semimicroscopic replica field theory for the formation of anisotropic
+random networks of semiflexible polymers. The networks are formed by
+introducing random permanent crosslinks which fix the orientations of the
+corresponding polymer segments to align with one another. Upon increasing the
+crosslink density, we obtain a continuous gelation transition from a fluid
+phase to a gel where a finite fraction of the system gets localized at random
+positions. For sufficiently stiff polymers, this positional localization is
+accompanied by a {\em continuous} isotropic-to-nematic (IN) transition occuring
+at the same crosslink density. As the polymer stiffness decreases, the IN
+transition becomes first order, shifts to a higher crosslink density, and is
+preceeded by an orientational glass (statistically isotropic amorphous solid)
+where the average polymer orientations freeze in random directions.

@@ -1,0 +1,9 @@
+We give a presentation of the moduli stack of toric vector bundles with fixed
+equivariant total Chern class as a quotient of a fine moduli scheme of framed
+bundles by a linear group action. This fine moduli scheme is described
+explicitly as a locally closed subscheme of a product of partial flag varieties
+cut out by combinatorially specified rank conditions. We use this description
+to show that the moduli of rank three toric vector bundles satisfy Murphy's
+Law, in the sense of Vakil. The preliminary sections of the paper give a
+self-contained introduction to Klyachko's classification of toric vector
+bundles.

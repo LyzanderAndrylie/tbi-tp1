@@ -1,0 +1,16 @@
+Using unitarized Chiral Perturbation Theory methods, we perform a detailed
+analysis of the $\pi\pi$ scattering poles $f_0(600)$ and $\rho(770)$ behaviour
+when medium effects such as temperature or density drive the system towards
+Chiral Symmetry Restoration. In the analysis of real poles below threshold, we
+show that it is crucial to extend properly the unitarized amplitudes so that
+they match the perturbative Adler zeros. Our results do not show threshold
+enhancement effects at finite temperature in the $f_0(600)$ channel, which
+remains as a pole of broad nature. We also implement T=0 finite density effects
+related to chiral symmetry restoration, by varying the pole position with the
+pion decay constant. Although this approach takes into account only a limited
+class of contributions, we reproduce the expected finite density restoration
+behaviour, which drives the poles towards the real axis, producing threshold
+enhancement and $\pi\pi$ bound states. We compare our results with several
+model approaches and discuss the experimental consequences, both in
+Relativistic Heavy Ion Collisions and in $\pi\to \pi\pi$ and $\gamma\to \pi\pi$
+reactions in nuclei.

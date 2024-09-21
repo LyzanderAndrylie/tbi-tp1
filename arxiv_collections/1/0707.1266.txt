@@ -1,0 +1,13 @@
+It is commonly agreed that the success of future proof assistants will rely
+on their ability to incorporate computations within deduction in order to mimic
+the mathematician when replacing the proof of a proposition P by the proof of
+an equivalent proposition P' obtained from P thanks to possibly complex
+calculations. In this paper, we investigate a new version of the calculus of
+inductive constructions which incorporates arbitrary decision procedures into
+deduction via the conversion rule of the calculus. The novelty of the problem
+in the context of the calculus of inductive constructions lies in the fact that
+the computation mechanism varies along proof-checking: goals are sent to the
+decision procedure together with the set of user hypotheses available from the
+current context. Our main result shows that this extension of the calculus of
+constructions does not compromise its main properties: confluence, subject
+reduction, strong normalization and consistency are all preserved.

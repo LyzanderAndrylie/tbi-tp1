@@ -1,0 +1,14 @@
+In a data warehousing process, the data preparation phase is crucial.
+Mastering this phase allows substantial gains in terms of time and performance
+when performing a multidimensional analysis or using data mining algorithms.
+Furthermore, a data warehouse can require external data. The web is a prevalent
+data source in this context, but the data broadcasted on this medium are very
+heterogeneous. We propose in this paper a UML conceptual model for a complex
+object representing a superclass of any useful data source (databases, plain
+texts, HTML and XML documents, images, sounds, video clips...). The translation
+into a logical model is achieved with XML, which helps integrating all these
+diverse, heterogeneous data into a unified format, and whose schema definition
+provides first-rate metadata in our data warehousing context. Moreover, we
+benefit from XML's flexibility, extensibility and from the richness of the
+semi-structured data model, but we are still able to later map XML documents
+into a database if more structuring is needed.

@@ -1,0 +1,8 @@
+Threshold enhanced perturbative QCD corrections to rapidity distributions of
+$Z$ and $W^\pm$ bosons at hadron colliders are presented using the Sudakov
+resummed cross sections at N${}^3$LO level. We have used renormalisation group
+invariance and the mass factorisation theorem that these hard scattering cross
+sections satisfy to construct the QCD amplitudes. We show that these higher
+order threshold QCD corrections stabilise the theoretical predictions for
+vector boson production at the LHC under variations of both renormalisation and
+factorisation scales.

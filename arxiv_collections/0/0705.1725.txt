@@ -1,0 +1,9 @@
+We give an explicit expression for the frequencies of slowly damped
+quasinormal modes of near-extreme Kerr black holes. It follows from this
+expression that the near-extreme Kerr holes obey the Hod's bound: in the limit
+of maximal rotation, $\lim \sup \omega_{IS}/T\leq \pi / \hbar$, where $\omega
+_{IS}$ is the decay rate of the slowest decaying quasinormal mode, $T$ is the
+black hole temperature. On the other hand, the bound is not saturated in the
+sense that $\lim \inf \omega_{IS}/T< \pi /\hbar$ is a strict inequality. {\it
+It remains unclear} whether the bound is saturated in the sense that $\lim \sup
+\omega_{IS}/T= \pi /\hbar$.

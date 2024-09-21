@@ -1,0 +1,15 @@
+In this paper, we use a variety of mathematical techniques to explore
+existence, local stability, and global stability of equilibria in abstract
+models of mitochondrial metabolism. The class of models constructed is defined
+by the biological description of the system, with minimal mathematical
+assumptions. The key features are an electron transport chain coupled to a
+process of charge translocation across a membrane. In the absence of charge
+translocation these models have previously been shown to behave in a very
+simple manner with a single, globally stable equilibrium. We show that with
+charge translocation the conclusion about a unique equilibrium remains true,
+but local and global stability do not necessarily follow. In sufficiently low
+dimensions - i.e. for short electron transport chains - it is possible to make
+claims about local and global stability of the equilibrium. On the other hand,
+for longer chains, these general claims are no longer valid. Some particular
+conditions which ensure stability of the equilibrium for chains of arbitrary
+length are presented.

@@ -1,0 +1,14 @@
+We explore the highly non-perturbative hot region of the QCD phase diagram
+close to Tc by use of an imaginary chemical potential mu which avoids the sign
+problem. The number density and the quark number susceptibility are consistent
+with a critical behaviour associated with the transition line in the negative
+mu^2 half-plane. We compare the analytic continuation of these results with
+various phenomenological models, none of which provides a satisfactory
+description of data, a failure on which we make some comments. These results
+complement and extend the information obtained via the analysis of the
+susceptibilities evaluated at zero mu, yielding a simple description of the
+candidate strongly interacting QGP phase. As a byproduct of our analysis we
+investigate the Polyakov loop and its hermitian conjugate. Our data offer a
+vivid evidence of the importance of the complex nature of the functional
+integral measure, which results in L (mu) ne \bar L(mu) for a real chemical
+potential.

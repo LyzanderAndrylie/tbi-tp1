@@ -1,0 +1,4 @@
+We calculate the equation of state of nuclear matter in the self-consistent
+T-matrix scheme including three-body nuclear interactions. We study the effect
+of the three-body force on the self-energies and spectral functions of nucleons
+in medium.

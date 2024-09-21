@@ -1,0 +1,12 @@
+The simulation of field electron emission from arrays of micrometer-long
+open-ended (5, 5) carbon nanotubes is performed in the framework of quantum
+theory of many electrons. It is found that the applied external field is
+strongly screened when the spacing distance is shorter than the length of the
+carbon nanotubes. The optimal spacing distance is two to three times of the
+nanotube length, slightly depending on the applied external fields. The
+electric screening can be described by a factor that is a exponential function
+of the ratio of the spacing distance to the length of the carbon nanotubes. For
+a given length, the field enhancement factor decreases sharply as the screening
+factor larger than 0.05. The simulation implies that the thickness of the array
+should be larger than a value but it does not help the emission much by
+increasing the thickness a great deal.

@@ -1,0 +1,12 @@
+We present energy and free energy analyses on all variational schemes used in
+the spin-boson model at both T=0 and $T\neq0$. It is found that all the
+variational schemes have fail points, at where the variational schemes fail to
+provide a lower energy (or a lower free energy at $T\neq0$) than the
+displaced-oscillator ground state and therefore the variational ground state
+becomes unstable, which results in a transition from a variational ground state
+to a displaced oscillator ground state when the fail point is reached. Such
+transitions are always misidentied as crossover from a delocalized to localized
+phases in variational calculations, leading to an artifact of phonon-induced
+localization. Physics origin of the fail points and explanations for different
+transition behaviors with different spectral functions are found by studying
+the fail points of the variational schemes in the single mode case.

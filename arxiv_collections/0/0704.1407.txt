@@ -1,0 +1,10 @@
+Recently it was demonstrated (Schattschneider et al., Nature 441 (2006),
+486), that an analogue of the X-ray magnetic circular dichroism (XMCD)
+experiment can be performed with the transmission electron microscope (TEM).
+The new phenomenon has been named energy-loss magnetic chiral dichroism (EMCD).
+In this work we present a detailed ab initio study of the chiral dichroism in
+the Fe, Co and Ni transition elements. We discuss the methods used for the
+simulations together with the validity and accuracy of the treatment, which
+can, in principle, apply to any given crystalline specimen. The dependence of
+the dichroic signal on the sample thickness, accuracy of the detector position
+and the size of convergence and collection angles is calculated.

@@ -1,0 +1,11 @@
+We study the competition between antiferromagnetic order and valence bond
+solid formation in a two-dimensional frustrated spin-1/2 model. The J1-J2 model
+on the square lattice is further frustrated by introducing products of
+three-spin projectors which stabilize four dimer-product states as degenerate
+ground states. These four states are reminiscent of the dimerized singlet
+ground state of the Shastry-Sutherland model. Using exact diagonalizations, we
+study the evolution of the ground state by varying theratio of interactions.
+For a large range of parameters (J2 > 0.25J1), our model shows a direct
+transition between the valence-bond-solid phase and the collinear
+antiferromagnetic phase. For small values of J2, several intermediate phases
+appear which are also analyzed.

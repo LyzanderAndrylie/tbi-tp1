@@ -1,0 +1,8 @@
+We define the Z/2Z Hodge spaces H_{pq}(\Sigma) of a fan \Sigma.
+  If \Sigma is the normal fan of a reflexive polytope \Delta then we use
+polyhedral duality to compute the Z/2Z Hodge Spaces of \Sigma. In particular,
+if the cones of dimension at most e in the face fan \Sigma^* of \Delta are
+smooth then we compute H_{pq}(\Sigma) for p<e-1. If \Sigma^* is a smooth fan
+then we completely determine the spaces H_{pq}(\Sigma) and we show the toric
+variety X associated to \Sigma is maximal, meaning that the sum of the Z/2Z
+Betti numbers of X(R) is equal to the sum of the Z/2Z Betti numbers of X(C).

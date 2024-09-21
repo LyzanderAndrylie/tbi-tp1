@@ -1,0 +1,15 @@
+At least four high-frequency quasiperiodic oscillations (QPOs) at frequencies
+41Hz, 67Hz, 113Hz, and 167Hz were reported in a binary system GRS 1915+105
+hosting near-extreme Kerr black hole with a dimensionless spin a>0.98. We use
+the idea of oscillations induced by the hump of the orbital velocity profile
+(related to locally non-rotating frames - LNRF) in discs orbiting near-extreme
+Kerr black holes, which are characterized by a "humpy frequency" f_h, that
+could excite the radial and vertical epicyclic oscillations with frequencies
+f_r, f_v. Due to non-linear resonant phenomena the combinational frequencies
+are allowed as well. Assuming mass M=14.8M_sun and spin a=0.9998 for the GRS
+1915+105 Kerr black hole, the model predicts frequencies f_h=41Hz, f_r=67Hz,
+(f_h+f_r)=108Hz, (f_v-f_r)=170Hz corresponding quite well to the observed ones.
+For black-hole parameters being in good agreement with those given
+observationally, the forced resonant phenomena in non-linear oscillations,
+excited by the "hump-induced" oscillations in a Keplerian disc, can explain
+high-frequency QPOs in GRS 1915+105 within the range of observational errors.

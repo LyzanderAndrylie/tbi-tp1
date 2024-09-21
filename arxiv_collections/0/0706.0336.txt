@@ -1,0 +1,15 @@
+Anisotropic distributions of charged particles including two-stream
+distributions give rise to generation of either stochastic electric fields (in
+the form of Langmuir waves, Buneman instability) or random quasi-static
+magnetic fields (Weibel and filamentation instabilities) or both. These
+two-stream instabilities are known to play a key role in collisionless shock
+formation, shock-shock interactions, and shock-induced electromagnetic
+emission. This paper applies the general non-perturbative stochastic theory of
+radiation to study electromagnetic emission produced by relativistic particles,
+which random walk in the stochastic electric fields of the Langmuir waves. This
+analysis takes into account the cumulative effect of uncorrelated Langmuir
+waves on the radiating particle trajectory giving rise to angular diffusion of
+the particle, which eventually modifies the corresponding radiation spectra. We
+demonstrate that the radiative process considered is probably relevant for
+emission produced in various kinds of astrophysical jets, in particular, prompt
+gamma-ray burst spectra, including X-ray excesses and prompt optical flashes.

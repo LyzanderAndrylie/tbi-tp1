@@ -1,0 +1,5 @@
+In this paper, we investigate a numerical algorithm for the pricing of swing
+options, relying on the so-called optimal quantization method. The numerical
+procedure is described in details and numerous simulations are provided to
+assert its efficiency. In particular, we carry out a comparison with the
+Longstaff-Schwartz algorithm.

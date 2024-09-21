@@ -1,0 +1,9 @@
+Multiple-valued Logic (MVL) circuits are one of the most attractive
+applications of the Monostable-to-Multistable transition Logic (MML), and they
+are on the basis of advanced circuits for communications. The operation of such
+quantizer has two steps : sampling and holding. Once the quantizer samples the
+signal, it must maintain the sampled value even if the input changes. However,
+holding property is not inherent to MML circuit topologies. This paper analyses
+the case of an MML ternary inverter used as a quantizer, and determines the
+relations that circuit representative parameters must verify to avoid this
+malfunction.

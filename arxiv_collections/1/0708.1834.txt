@@ -1,0 +1,12 @@
+This report is a brief review of the recent work on architectures for the
+prospective hybrid CMOS/nanowire/ nanodevice ("CMOL") circuits including
+digital memories, reconfigurable Boolean-logic circuits, and mixed-signal
+neuromorphic networks. The basic idea of CMOL circuits is to combine the
+advantages of CMOS technology (including its flexibility and high fabrication
+yield) with the extremely high potential density of molecular-scale
+two-terminal nanodevices. Relatively large critical dimensions of CMOS
+components and the "bottom-up" approach to nanodevice fabrication may keep CMOL
+fabrication costs at affordable level. At the same time, the density of active
+devices in CMOL circuits may be as high as 1012 cm2 and that they may provide
+an unparalleled information processing performance, up to 1020 operations per
+cm2 per second, at manageable power consumption.

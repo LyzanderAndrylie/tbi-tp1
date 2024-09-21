@@ -1,0 +1,8 @@
+We consider Schr\"odinger operator in dimension $d\ge 2$ with a singular
+interaction supported by an infinite family of concentric spheres, analogous to
+a system studied by Hempel and coauthors for regular potentials. The essential
+spectrum covers a halfline determined by the appropriate one-dimensional
+comparison operator; it is dense pure point in the gaps of the latter. If the
+interaction is radially periodic, there are absolutely continuous bands; in
+contrast to the regular case the measure of the p.p. segments does not vanish
+in the high-energy limit.

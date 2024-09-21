@@ -1,0 +1,8 @@
+We study the thermal entanglement of a 2-qutrit spin chain with nonlinear
+coupling in the presence of nonuniform magnetic field. Thermal entanglement of
+an arbitrary (finite dimensional) m-partite system vanishes at some finite
+threshold temperature T_s. We investigate the dependence of T_s on the system's
+parameters, i.e. the nonlinear coupling and the magnetic field, for this
+2-qutrit system. In addition, we compare two lower bounds of I-concurrence for
+this system and also study its dense coding capacity as a function of system's
+parameters.

@@ -1,0 +1,15 @@
+The large saturation magnetization in conventional dense moment ferromagnets
+offers flexible means of manipulating the ordered state through demagnetizing
+shape anisotropy fields but these dipolar fields, in turn, limit the
+integrability of magnetic elements in information storage devices. We show that
+in a (Ga,Mn)As dilute moment ferromagnet, with comparatively weaker magnetic
+dipole interactions, locally tunable magnetocrystalline anisotropy can take the
+role of the internal field which determines the magnetic configuration.
+Experiments and theoretical modeling are presented for lithographically
+patterned microchannels and the phenomenon is attributed to lattice relaxations
+across the channels. The utility of locally controlled magnetic anisotropies is
+demonstrated in current induced switching experiments. We report structure
+sensitive, current induced in-plane magnetization switchings well below the
+Curie temperature at critical current densities 10^5 Acm^-2. The observed
+phenomenology shows signatures of a contribution from domain-wall
+spin-transfer-torque effects.

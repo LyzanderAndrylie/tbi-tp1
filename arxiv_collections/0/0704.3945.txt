@@ -1,0 +1,13 @@
+Interaction between metal surface waves and periodic geometry of
+subwavelength structures is at the core of the recent but crucial renewal of
+interest in plasmonics. One of the most intriguing points is the observation of
+abnormal strong transmission through these periodic structures, which can
+exceed by orders of magnitude the classical transmission given by the filling
+factor of the plate. The actual paradigm is that this abnormal transmission
+arises from the periodicity, and then that such high transmission should
+disappear in random geometries. Here, we show that extra energy can be coupled
+through the subwavelength structure by adding a controlled quantity of noise to
+the position of the apertures. This result can be modelled in the statistical
+framework of stochastic resonance. The evolution of the coupled energy with
+respect to noise gives access to the extra energy coupled at the surface of the
+subwavelength array.

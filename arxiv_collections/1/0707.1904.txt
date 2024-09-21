@@ -1,0 +1,11 @@
+Most work in game theory assumes that players are perfect reasoners and have
+common knowledge of all significant aspects of the game. In earlier work, we
+proposed a framework for representing and analyzing games with possibly unaware
+players, and suggested a generalization of Nash equilibrium appropriate for
+games with unaware players that we called generalized Nash equilibrium. Here,
+we use this framework to analyze other solution concepts that have been
+considered in the game-theory literature, with a focus on sequential
+equilibrium. We also provide some insight into the notion of generalized Nash
+equilibrium by proving that it is closely related to the notion of
+rationalizability when we restrict the analysis to games in normal form and no
+unawareness is involved.

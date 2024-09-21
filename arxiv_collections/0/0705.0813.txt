@@ -1,0 +1,11 @@
+The conductance of a junction between a normal metal and a superconductor
+having the symmetry proposed by Berezinskii is studied theoretically. The main
+feature of this symmetry is the odd frequency dependence of the anomalous Green
+function, which makes possible the s-wave triplet superconducting state (the
+Berezinskii superconductor). The Andreev reflection (which links positive and
+negative energies) is sensitive to the energetic symmetry; as a result, the
+conductance of the junction involving the Berezinskii superconductor is
+qualitatively different from the case of a conventional superconductor.
+Experimentally, the obtained results can be employed to test the possibility of
+the Berezinskii superconductivity proposed for Na$_x$CoO$_2$ and to identify
+the odd-omega component predicted for superconductor-ferromagnet junctions.

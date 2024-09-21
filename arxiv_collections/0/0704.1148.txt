@@ -1,0 +1,15 @@
+We analyze several aspects of the phenomenon of stochastic resonance in
+reaction-diffusion systems, exploiting the nonequilibrium potential's
+framework. The generalization of this formalism (sketched in the appendix) to
+extended systems is first carried out in the context of a simplified scalar
+model, for which stationary patterns can be found analytically. We first show
+how system-size stochastic resonance arises naturally in this framework, and
+then how the phenomenon of array-enhanced stochastic resonance can be further
+enhanced by letting the diffusion coefficient depend on the field. A yet less
+trivial generalization is exemplified by a stylized version of the
+FitzHugh-Nagumo system, a paradigm of the activator-inhibitor class. After
+discussing for this system the second aspect enumerated above, we derive from
+it -through an adiabatic-like elimination of the inhibitor field- an effective
+scalar model that includes a nonlocal contribution. Studying the role played by
+the range of the nonlocal kernel and its effect on stochastic resonance, we
+find an optimal range that maximizes the system's response.

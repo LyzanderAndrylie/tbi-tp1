@@ -1,0 +1,13 @@
+We study the spin-valley Kondo effect of a silicon quantum dot occupied by $%
+\mathcal{N}$ electrons, with $\mathcal{N}$ up to four. We show that the Kondo
+resonance appears in the $\mathcal{N}=1,2,3$ Coulomb blockade regimes, but not
+in the $\mathcal{N}=4$ one, in contrast to the spin-1/2 Kondo effect, which
+only occurs at $\mathcal{N}=$ odd. Assuming large orbital level spacings, the
+energy states of the dot can be simply characterized by fourfold spin-valley
+degrees of freedom. The density of states (DOS) is obtained as a function of
+temperature and applied magnetic field using a finite-U equation-of-motion
+approach. The structure in the DOS can be detected in transport experiments.
+The Kondo resonance is split by the Zeeman splitting and valley splitting for
+double- and triple-electron Si dots, in a similar fashion to single-electron
+ones. The peak structure and splitting patterns are much richer for the
+spin-valley Kondo effect than for the pure spin Kondo effect.

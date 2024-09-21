@@ -1,0 +1,9 @@
+We present a systematic semiclassical procedure to compute the partition
+function for scalar field theories at finite temperature. The central objects
+in our scheme are the solutions of the classical equations of motion in
+imaginary time, with spatially independent boundary conditions. Field
+fluctuations -- both field deviations around these classical solutions, and
+fluctuations of the boundary value of the fields -- are resummed in a Gaussian
+approximation. In our final expression for the partition function, this
+resummation is reduced to solving certain ordinary differential equations.
+Moreover, we show that it is renormalizable with the usual 1-loop counterterms.

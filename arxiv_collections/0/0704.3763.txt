@@ -1,0 +1,8 @@
+Bose-Einstein coalescence of independent photons at the surface of a beam
+splitter is the physical process that allows linear optical quantum gates to be
+built. When distinct parametric down-conversion events are used as an
+independent photon source, distinguishability arises form the energy
+correlation of each photon with its twin. We find that increasing the pump
+bandwidth may help in improving the visibility of non-classical interference
+and reaching a level of near perfect indistinguishability. PACS: 03.67.Mn,
+42.65.Lm, 42.50.St.

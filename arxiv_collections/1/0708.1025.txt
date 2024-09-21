@@ -1,0 +1,15 @@
+We investigate entanglement distribution in pure-state quantum networks. We
+consider the case when non-maximally entangled two-qubit pure states are shared
+by neighboring nodes of the network. For a given pair of nodes, we investigate
+how to generate the maximal entanglement between them by performing local
+measurements, assisted by classical communication, on the other nodes. We find
+optimal measurement protocols for both small and large 1D networks. Quite
+surprisingly, we prove that Bell measurements are not always the optimal ones
+to perform in such networks. We generalize then the results to simple small 2D
+networks, finding again counter-intuitive optimal measurement strategies.
+Finally, we consider large networks with hierarchical lattice geometries and 2D
+networks. We prove that perfect entanglement can be established on large
+distances with probability one in a finite number of steps, provided the
+initial entanglement shared by neighboring nodes is large enough. We discuss
+also various protocols of entanglement distribution in 2D networks employing
+classical and quantum percolation strategies.

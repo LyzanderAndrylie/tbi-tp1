@@ -1,0 +1,12 @@
+First results are presented from an analysis of data from the DRIFT-IIa and
+DRIFT-IIb directional dark matter detectors at Boulby Mine in which alpha
+particle tracks were reconstructed and used to characterise detector
+performance--an important step towards optimising directional technology. The
+drift velocity in DRIFT-IIa was [59.3 +/- 0.2 (stat) +/- 7.5 (sys)] m/s based
+on an analysis of naturally-occurring alpha-emitting background. The drift
+velocity in DRIFT-IIb was [57 +/- 1 (stat) +/- 3 (sys)] m/s determined by the
+analysis of alpha particle tracks from a Po-210 source. 3D range reconstruction
+and energy spectra were used to identify alpha particles from the decay of
+Rn-222, Po-218, Rn-220 and Po-216. This study found that (22 +/- 2)% of Po-218
+progeny (from Rn-222 decay) are produced with no net charge in 40 Torr CS2. For
+Po-216 progeny (from Rn-220 decay) the uncharged fraction is (100 +0 -35)%.

@@ -1,0 +1,10 @@
+We report preliminary results of AKARI observations of two globular clusters,
+NGC104 and NGC362. Imaging data covering areas of about 10x10 arcmin^2 centered
+on the two clusters have been obtained with InfraRed Camera (IRC) at 2.4, 3.2,
+4.1, 7.0, 9.0, 11.0, 15.0, 18.0 and 24.0 mu. We used F11/F2 and F24/F7 flux
+ratios as diagnostics of circumstellar dust emission. Dust emissions are mainly
+detected from variable stars obviously on the asymptotic giant branch, but some
+variable stars that reside below the tip of the first-ascending giant branch
+also show dust emissions. We found eight red sources with F24/F7 ratio greater
+than unity in NGC362. Six out of the eight have no 2MASS counterparts. However,
+we found no such source in NGC104.

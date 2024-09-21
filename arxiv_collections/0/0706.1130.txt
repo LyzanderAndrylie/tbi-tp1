@@ -1,0 +1,20 @@
+Mobile entities with wireless links are able to form a mobile ad-hoc network.
+Such an infrastructureless network does not have to be administrated. However,
+self-organizing principles have to be applied to deal with upcoming problems,
+e.g. information dissemination. These kinds of problems are not easy to tackle,
+requiring complex algorithms. Moreover, the usefulness of pure ad-hoc networks
+is arguably limited. Hence, enthusiasm for mobile ad-hoc networks, which could
+eliminate the need for any fixed infrastructure, has been damped. The goal is
+to overcome the limitations of pure ad-hoc networks by augmenting them with
+instant Internet access, e.g. via integration of UMTS respectively GSM links.
+However, this raises multiple questions at the technical as well as the
+organizational level. Motivated by characteristics of small-world networks that
+describe an efficient network even without central or organized design, this
+paper proposes to combine mobile ad-hoc networks and infrastructured networks
+to form hybrid wireless networks. One main objective is to investigate how this
+approach can reduce the costs of a permanent backbone link and providing in the
+same way the benefits of useful information from Internet connectivity or
+service providers. For the purpose of bridging between the different types of
+networks, an adequate middleware service is the focus of our investigation.
+This paper shows our first steps forward to this middleware by introducing the
+Injection Communication paradigm as principal concept.

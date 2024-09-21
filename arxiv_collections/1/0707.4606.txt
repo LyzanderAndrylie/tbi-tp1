@@ -1,0 +1,8 @@
+Combining the density functional theory (DFT) and the Gutzwiller variational
+approach, a LDA+Gutzwiller method is developed to treat the correlated electron
+systems from {\it ab-initio}. All variational parameters are self-consistently
+determined from total energy minimization. The method is computationally
+cheaper, yet the quasi-particle spectrum is well described through kinetic
+energy renormalization. It can be applied equally to the systems from weakly
+correlated metals to strongly correlated insulators. The calculated results for
+SrVO$_3$, Fe, Ni and NiO, show dramatic improvement over LDA and LDA+U.

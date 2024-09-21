@@ -1,0 +1,7 @@
+The Bogoliubov model for weakly interacting Bose gas is extended to
+Bose-Einstein condensation (BEC) of spin-S atoms in a magnetic field. Equation
+for the vectorial order parameter valid at temperature $T\to 0$ is derived and
+its particular solution is found. This solution corresponds to the formation of
+BEC of atoms with a definite spin projection onto direction of a magnetic
+field. We study the thermodynamic stability of the found solution and obtain
+the expressions for low-lying collective modes.

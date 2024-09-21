@@ -1,0 +1,17 @@
+Likely candidates for the global potential energy minima of (H$_{2}$O)$_{n}$
+clusters with $n\leq21$ on the (0001)-surface of graphite are found using
+basin-hopping global optimization. The potential energy surfaces are
+constructed using the TIP4P intermolecular potentials for the water molecules
+(the TIP3P is also explored as a secondary choice), a Lennard-Jones
+water-graphite potential, and a water-graphite polarization potential that is
+built from classical electrostatic image methods and takes into account both
+the perpendicular and parallel electric polarizations of graphite. This
+potential energy surface produces a rather hydrophobic water-graphite
+interaction. As a consequence, the water component of the lowest
+graphite-(H$_{2}$O)$_{n}$ minima is quite closely related to low-lying minima
+of the corresponding TIP4P (H$_{2}$O)$_{n}$ clusters. In about half of the
+cases the geometrical substructure of the water molecules in the
+graphite-(H$_{2}$O)$_{n}$ global minimum coincides with that of the
+corresponding free water cluster. Exceptions occur when the interaction with
+graphite induces a change in geometry. A comparison of our results with
+available theoretical and experimental data is performed.

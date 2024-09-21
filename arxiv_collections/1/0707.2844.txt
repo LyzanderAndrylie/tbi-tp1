@@ -1,0 +1,12 @@
+The temperature dependence of the mass, leptonic decay constant, and width of
+heavy-light quark peseudoscalar and vector mesons is obtained in the framework
+of thermal Hilbert moment QCD sum rules. The leptonic decay constants of both
+pseudoscalar and vector mesons decrease with increasing $T$, and vanish at a
+critical temperature $T_c$, while the mesons develop a width which increases
+dramatically and diverges at $T_c$, where $T_c$ is the temperature for
+chiral-symmetry restoration. These results indicate the disappearance of
+hadrons from the spectral function, which then becomes a smooth function of the
+energy. This is interpreted as a signal for deconfinement at $T=T_c$. In
+contrast, the masses show little dependence on the temperature, except very
+close to $T_c$, where the pseudoscalar meson mass increases slightly by 10-20
+%, and the vector meson mass decreases by some 20-30 %

@@ -1,0 +1,7 @@
+We present a scheme for conditionally teleporting an unknown atomic state in
+cavity QED, which requires two atoms and one cavity mode. The translational
+degrees of freedom of the atoms are taken into account using the optical
+Stern-Gerlach model. We show that successful teleportation with probability 1/2
+can be achieved through local measurements of the cavity photon number and
+atomic positions. Neither direct projection onto highly entangled states nor
+holonomous interaction-time constraints are required.

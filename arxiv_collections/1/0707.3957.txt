@@ -1,0 +1,9 @@
+There are many materials whose dielectric properties are described by a
+stretched exponential, the so-called Kohlrausch-Williams-Watts (KWW) relaxation
+function. Its physical origin and statistical-mechanical foundation have been a
+matter of debate in the literature. In this paper we suggest a model of
+dielectric relaxation, which naturally leads to a stretched exponential decay
+function. Some essential characteristics of the underlying charge conduction
+mechanisms are considered. A kinetic description of the relaxation and charge
+transport processes is proposed in terms of equations with time-fractional
+derivatives.

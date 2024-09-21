@@ -1,0 +1,17 @@
+It is known that perturbation theory converges in fermionic field theory at
+weak coupling if the interaction and the covariance are summable and if certain
+determinants arising in the expansion can be bounded efficiently, e.g. if the
+covariance admits a Gram representation with a finite Gram constant. The
+covariances of the standard many--fermion systems do not fall into this class
+due to the slow decay of the covariance at large Matsubara frequency, giving
+rise to a UV problem in the integration over degrees of freedom with Matsubara
+frequencies larger than some Omega (usually the first step in a multiscale
+analysis). We show that these covariances do not have Gram representations on
+any separable Hilbert space. We then prove a general bound for determinants
+associated to chronological products which is stronger than the usual Gram
+bound and which applies to the many--fermion case. This allows us to prove
+convergence of the first integration step in a rather easy way, for a
+short--range interaction which can be arbitrarily strong, provided Omega is
+chosen large enough. Moreover, we give - for the first time - nonperturbative
+bounds on all scales for the case of scale decompositions of the propagator
+which do not impose cutoffs on the Matsubara frequency.

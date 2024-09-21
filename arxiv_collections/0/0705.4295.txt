@@ -1,0 +1,9 @@
+We present a comprehensive study of the lowest moments of nucleon generalized
+parton distributions in N_f=2+1 lattice QCD using domain wall valence quarks
+and improved staggered sea quarks. Our investigation includes helicity
+dependent and independent generalized parton distributions for pion masses as
+low as 350 MeV and volumes as large as (3.5 fm)^3, for a lattice spacing of
+0.124 fm. We use perturbative renormalization at one-loop level with an
+improvement based on the non-perturbative renormalization factor for the axial
+vector current, and only connected diagrams are included in the isosinglet
+channel.

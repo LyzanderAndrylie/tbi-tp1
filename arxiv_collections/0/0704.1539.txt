@@ -1,0 +1,10 @@
+We describe a novel switching algorithm based on a ``reverse'' Monte Carlo
+method, in which the potential is stochastically modified before the system
+configuration is moved. This new algorithm facilitates a generalized
+formulation of cluster-type Monte Carlo methods, and the generalization makes
+it possible to derive cluster algorithms for systems with both discrete and
+continuous degrees of freedom. The roughening transition in the sine-Gordon
+model has been studied with this method, and high-accuracy simulations for
+system sizes up to $1024^2$ were carried out to examine the logarithmic
+divergence of the surface roughness above the transition temperature, revealing
+clear evidence for universal scaling of the Kosterlitz-Thouless type.

@@ -1,0 +1,11 @@
+We study the coherence properties of optical vortices stored in atomic
+ensembles. In the presence of thermal diffusion, the topological nature of
+stored optical vortices is found not to guarantee slow decoherence. Instead the
+stored vortex state has decoherence surprisingly larger than the stored
+Gaussian mode. Generally, the less phase gradient, the more robust for stored
+coherence against diffusion. Furthermore, calculation of coherence factor shows
+that the center of stored vortex becomes completely incoherent once diffusion
+begins and, when reading laser is applied, the optical intensity at the center
+of the vortex becomes nonzero. Its implication for quantum information is
+discussed. Comparison of classical diffusion and quantum diffusion is also
+presented.

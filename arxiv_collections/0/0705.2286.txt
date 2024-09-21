@@ -1,0 +1,9 @@
+We suggest a simple deterministic approximation for the growth of the
+favoured-allele frequency during a selective sweep. Using this approximation we
+introduce an accurate model for genetic hitch-hiking. Only when Ns < 10 (N is
+the population size and s denotes the selection coefficient), are discrepancies
+between our approximation and direct numerical simulations of a Moran model
+noticeable. Our model describes the gene genealogies of a contiguous segment of
+neutral loci close to the selected one, and it does not assume that the
+selective sweep happens instantaneously. This enables us to compute SNP
+distributions on the neutral segment without bias.

@@ -1,0 +1,12 @@
+Magnetic helicity effects are discussed in laboratory and astrophysical
+settings. First, dynamo action in Taylor-Green flows is discussed for different
+boundary conditions. However, because of the lack of scale separation with
+respect to the container, no large scale field is being produced and there is
+no resistively slow saturation phase as otherwise expected. Second, the
+build-up of a large scale field is demonstrated in a simulation where a
+localized magnetic eddy produces field on a larger scale if the eddy possesses
+a swirl. Such a set-up might be realizable experimentally through coils.
+Finally, new emerging issues regarding the connection between magnetic helicity
+and the solar dynamo are discussed. It is demonstrated that dynamos with a
+non-local (Babcock-Leighton type) alpha effect can also be catastrophically
+quenched, unless there are magnetic helicity fluxes.

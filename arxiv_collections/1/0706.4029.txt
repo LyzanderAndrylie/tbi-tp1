@@ -1,0 +1,8 @@
+We study the dynamics of a symmetric two-level system strongly coupled to a
+broadened harmonic mode. Upon mapping the problem onto a spin-boson model with
+peaked spectral density, we show how analytic solutions can be obtained, at
+arbitrary detuning and finite temperatures, in the case of large Q-factors of
+the oscillator. In general {\em two} or more oscillation frequencies of the
+two-level particle are observed as a consequence of the entanglement with the
+oscillator. Our approximated analytical solution well agrees with numerical
+predictions obtained within the non-interacting blip approximation.

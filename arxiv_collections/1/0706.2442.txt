@@ -1,0 +1,7 @@
+We have prepared magnetic graphite samples bombarded by protons at low
+temperatures and low fluences to attenuate the large thermal annealing produced
+during irradiation. An overall optimization of sample handling allowed us to
+find Curie temperatures $ T_c \gtrsim 350$ K at the used fluences. The
+magnetization versus temperature shows unequivocally a linear dependence, which
+can be interpreted as due to excitations of spin waves in a two dimensional
+Heisenberg model with a weak uniaxial anisotropy.

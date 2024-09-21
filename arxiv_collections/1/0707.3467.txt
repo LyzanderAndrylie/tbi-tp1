@@ -1,0 +1,5 @@
+We present a technique that allows to obtain certain results in the
+compressible fluid theory: in particular, it is a nonexistence result for the
+highly decreasing at infinity solutions to the Navier-Stokes equations, the
+construction of the solutions with uniform deformation and the study of
+behavior of the boundary of a material volume of liquid.

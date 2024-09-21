@@ -1,0 +1,6 @@
+We propose a method for finding gaps in the spectrum of a differential
+operator. When applied to the one-dimensional Hamiltonian of the quartic
+oscillator, a simple algebraic algorithm is proposed that, step by step,
+separates with a remarkable precision all the energies even for a double-well
+configuration in a tunnelling regime. Our strategy may be refined and
+generalised to a large class of 1d-problems.

@@ -1,0 +1,17 @@
+The axial-vector Ward-Takahashi identity is used to derive mass formulae for
+neutral pseudoscalar mesons. Flavour symmetry breaking entails non-ideal
+flavour content for these states. Adding that the \eta^\prime is not a
+Goldstone mode, exact chiral-limit relations are developed from the identity.
+They connect the dressed-quark propagator to the topological susceptibility. It
+is confirmed that in the chiral limit the \eta^\prime mass is proportional to
+the matrix element which connects this state to the vacuum via the topological
+susceptibility. The implications of the mass formulae are illustrated using an
+elementary dynamical model, which includes an Ansatz for that part of the
+Bethe-Salpeter kernel related to the non-Abelian anomaly. In addition to the
+current-quark masses, the model involves two parameters, one of which is a
+mass-scale. It is employed in an analysis of pseudoscalar- and vector-meson
+bound-states. While the effects of SU(N_f=2) and SU(N_f=3) flavour symmetry
+breaking are emphasised, the five-flavour spectra are described. Despite its
+simplicity, the model is elucidative and phenomenologically efficacious; e.g.,
+it predicts \eta-\eta^\prime mixing angles of ~ (-15 degrees) and \pi^0-\eta
+angles of ~ 1 degree.

@@ -1,0 +1,7 @@
+The model considered in the paper is used nowadays to describe spin dynamics
+of quantum dots after optical excitation. Based on the exact diagonalization of
+a model Hamiltonian, we solve the problems of the electron spin polarization
+decay and magnetic field dependence of the steady state polarization. The
+important role of the nuclear state is shown and methods of its calculation for
+different regimes of optical excitation are proposed. The effect of spin echo
+observed after application of the magnetic field $\pi$-pulse is predicted.

@@ -1,0 +1,9 @@
+We evaluate the Geiss-Leclerc-Schroer $\phi$-map for shape modules over the
+preprojective algebra $\Lambda$ of type $\hat{A_1}$ in terms of matrix minors
+arising from the block-Toeplitz representation of the loop group
+$\SL_2(\mathcal{L})$. Conjecturally these minors are among the cluster
+variables for coordinate rings of unipotent cells within $\SL_2(\mathcal{L})$.
+In so doing we compute the Euler characteristic of any generalized flag variety
+attached to a shape module by counting standard tableaux of requisite shape and
+parity; alternatively by counting chess tableaux of requisite shape and
+content.

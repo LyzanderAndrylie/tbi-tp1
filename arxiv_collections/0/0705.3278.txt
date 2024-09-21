@@ -1,0 +1,14 @@
+The quantum Markovian master equation of the reduced dynamics of a harmonic
+oscillator coupled to a thermal reservoir is shown to possess thermal symmetry.
+This symmetry is revealed by a Bogoliubov transformation that can be
+represented by a hyperbolic rotation acting on the Liouville space of the
+reduced dynamics. The Liouville space is obtained as an extension of the
+Hilbert space through the introduction of tilde variables used in the
+thermofield dynamics formalism. The angle of rotation depends on the
+temperature of the reservoir, as well as the value of Planck's constant. This
+symmetry relates the thermal states of the system at any two temperatures. This
+includes absolute zero, at which purely quantum effects are revealed. The
+Caldeira-Leggett equation and the classical Fokker-Planck equation also possess
+thermal symmetry. We compare the thermal symmetry obtained from the Bogoliubov
+transformation in related fields and discuss the effects of the symmetry on the
+shape of a Gaussian wave packet.

@@ -1,0 +1,20 @@
+According to the mean-field theory of Zittartz, when subject to a
+symmetry-breaking disorder, the order parameter and the energy gap of an
+excitonic insulator are gradually suppressed up to a critical disorder
+strength. Recently, Marchetti, Simons, and Littlewood have used a replica trick
+to investigate the effects of disorder on the condensation of cavity
+polaritons. Within their nonlinear sigma model, it was found that the
+saddle-point equations assume the form reported previously by Zittartz in the
+contest of the symmetry broken excitonic insulator, but with an order
+parameter, to which both photons and excitons contribute. In this paper, we
+apply a closed-path time Green's function approach as an alternative to the
+replica technique to formulate a nonperturbative description of cavity
+polaritons in the presence of a symmetry-breaking disorder. A field theoretical
+method is used to derive the Schwinger-Dyson equations for the average photon
+field and the average single-particle Green's function. In contrast with the
+nonlinear sigma model and the corresponding saddle-point equations, we obtain
+that the exact Schwinger-Dyson equations cannot be mapped to the corresponding
+equations derived by Zittartz. This result not only shows that the theory of
+Zittartz cannot be applied to the excitons in a disordered quantum well coupled
+to the cavity photons with only minor modifications, but arises a question
+about the validity of the replica trick as well.

@@ -1,0 +1,9 @@
+We construct a non-abelian extension $\Gamma$ of $S^1$ by $\cy 3 \times \cy
+3$, and prove that $\Gamma$ acts freely and smoothly on $S^{5} \times S^{5}$.
+This gives new actions on $S^{5} \times S^{5}$ for an infinite family $\cP$ of
+finite 3-groups. We also show that any finite odd order subgroup of the
+exceptional Lie group $G_2$ admits a free smooth action on $S^{11}\times
+S^{11}$. This gives new actions on $S^{11}\times S^{11}$ for an infinite family
+$\cE $ of finite groups. We explain the significance of these families $\cP $,
+$\cE $ for the general existence problem, and correct some mistakes in the
+literature.

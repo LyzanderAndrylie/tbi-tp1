@@ -1,0 +1,9 @@
+The randomness rate of an infinite binary sequence is characterized by the
+sequence of ratios between the Kolmogorov complexity and the length of the
+initial segments of the sequence. It is known that there is no uniform
+effective procedure that transforms one input sequence into another sequence
+with higher randomness rate. By contrast, we display such a uniform effective
+procedure having as input two independent sequences with positive but
+arbitrarily small constant randomness rate. Moreover the transformation is a
+truth-table reduction and the output has randomness rate arbitrarily close to
+1.

@@ -1,0 +1,7 @@
+The light-cone gauge allows to single out a set of ``transverse'' fields
+(TF), whose Green functions are free from UV divergences in SYM N=4. Green
+functions with external lines involving the remaining fields do instead exhibit
+divergences: indeed those fields can be expressed, by solving their equations
+of motion, as composite operators in terms of ``transverse'' fields. A set of
+exact identities (bridge identities) automatically realize their insertions in
+a path-integral formulation.

@@ -1,0 +1,5 @@
+Effective Liouville operators of the first- and the second-order symplectic
+integrators are obtained for the one-dimensional harmonic-oscillator system.
+The operators are defined only when the time step is less than two. Absolute
+values of the coordinate and the momentum monotonically increase for large time
+steps.

@@ -1,0 +1,10 @@
+We study the magnetic properties of nanometer-sized graphene structures with
+triangular and hexagonal shapes terminated by zig-zag edges. We discuss how the
+shape of the island, the imbalance in the number of atoms belonging to the two
+graphene sublattices, the existence of zero-energy states, and the total and
+local magnetic moment are intimately related. We consider electronic
+interactions both in a mean-field approximation of the one-orbital Hubbard
+model and with density functional calculations. Both descriptions yield values
+for the ground state total spin, $S$, consistent with Lieb's theorem for
+bipartite lattices. Triangles have a finite $S$ for all sizes whereas hexagons
+have S=0 and develop local moments above a critical size of $\approx 1.5$ nm.

@@ -1,0 +1,10 @@
+We present 30 GHz Sunyaev Zel'dovich (SZ) observations of a sample of four
+galaxy clusters with a prototype of the One Centimetre Receiver Array (OCRA-p)
+which is mounted on the Torun 32-m telescope. The clusters (Cl0016+16,
+MS0451.6-0305, MS1054.4-0321 and Abell 2218) are popular SZ targets and serve
+as commissioning observations. All four are detected with clear significance
+(4-6 sigma) and values for the central temperature decrements are in good
+agreement with measurements reported in the literature. We believe that
+systematic effects are successfully suppressed by our observing strategy. The
+relatively short integration times required to obtain these results demonstrate
+the power of OCRA-p and its successors for future SZ studies.

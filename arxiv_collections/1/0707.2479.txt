@@ -1,0 +1,16 @@
+Synchronization cluster analysis is an approach to the detection of
+underlying structures in data sets of multivariate time series, starting from a
+matrix R of bivariate synchronization indices. A previous method utilized the
+eigenvectors of R for cluster identification, analogous to several recent
+attempts at group identification using eigenvectors of the correlation matrix.
+All of these approaches assumed a one-to-one correspondence of dominant
+eigenvectors and clusters, which has however been shown to be wrong in
+important cases. We clarify the usefulness of eigenvalue decomposition for
+synchronization cluster analysis by translating the problem into the language
+of stochastic processes, and derive an enhanced clustering method harnessing
+recent insights from the coarse-graining of finite-state Markov processes. We
+illustrate the operation of our method using a simulated system of coupled
+Lorenz oscillators, and we demonstrate its superior performance over the
+previous approach. Finally we investigate the question of robustness of the
+algorithm against small sample size, which is important with regard to field
+applications.

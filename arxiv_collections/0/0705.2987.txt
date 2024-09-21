@@ -1,0 +1,14 @@
+Motivated by the optical-bar scheme of Braginsky, Gorodetsky and Khalili, we
+propose to add to a high power detuned signal-recycling interferometer a local
+readout scheme which measures the motion of the arm-cavity front mirror. At low
+frequencies this mirror moves together with the arm-cavity end mirror, under
+the influence of gravitational waves. This scheme improves the low-frequency
+quantum-noise-limited sensitivity of optical-spring interferometers
+significantly and can be considered as a incorporation of the optical-bar
+scheme into currently planned second-generation interferometers. On the other
+hand it can be regarded as an extension of the optical bar scheme. Taking
+compact-binary inspiral signals as an example, we illustrate how this scheme
+can be used to improve the sensitivity of the planned Advanced LIGO
+interferometer, in various scenarios, using a realistic classical-noise budget.
+We also discuss how this scheme can be implemented in Advanced LIGO with
+relative ease.

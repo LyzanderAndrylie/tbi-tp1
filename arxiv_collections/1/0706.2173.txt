@@ -1,0 +1,20 @@
+The formation of macroscopic reconnected magnetic structures (islands) have
+been observed in advanced experiments on weakly collisional, well confined
+plasmas while established theories of the drift-tearing modes, which depend
+strongly on the electron temperature gradient and can describe the formation of
+these structures, had predicted practically inaccessible excitation thresholds
+for them in these regimes. The relevant theoretical dilemma is resolved as
+mesoscopic modes that depend critically on the ratio of the transverse (to the
+magnetic field) to the longitudinal thermal
+conductivity${D^e_{\perp}/D^e_{\|}$, can produce large scale magnetic
+reconnection. These modes are envisioned to emerge from a background, which can
+be coherent, of collisionless microscopic reconnecting modes driven by the
+electron temperature gradient, that create a sequence of adjacent strings of
+magnetic islands and increase considerably the ratio ${D^e_{\perp}/D^e_{\|}$
+over its classical value. The mesoscopic reconnecting mode is treated by a
+singular perturbation analysis involving three asymptotic regions and the small
+parameters ${(D^e_{\perp}/D^e_{\|})}^{1/4}$ and ${\epsilon}^{1/4}_{*}$, where
+${\epsilon}_{*} {\equiv}D_m/D_A$, $D_m$ is the magnetic diffusion coefficient,
+$D_A\sim\texttt{v}^{2}_{A}r_{Te}/(D_Bk_{\perp})$,
+$r_{Te}\equiv(-d\texttt{ln}T_e/dr)^{-1}$, $k_{\perp}$ is the transverse mode
+number, $\texttt{v}^{2}_{A}=B^{2}/(4\pi{nm}_{i})}$ and $D_B=cT_e/(eB)$.

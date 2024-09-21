@@ -1,0 +1,18 @@
+Using a theory of polarizable fluids, we extend a variational treatment of an
+excess electron to the many-electron case corresponding to finite metal
+concentrations in metal-ammonia solutions (MAS). We evaluate dielectric,
+optical, and thermodynamical properties of MAS at low metal concentrations. Our
+semi-analytical calculations based on a mean-spherical approximation correlate
+well with the experimental data on the concentration and the temperature
+dependencies of the dielectric constant and the optical absorption spectrum.
+The properties are found to be mainly determined by the induced dipolar
+interactions between localized solvated electrons, which result in the two main
+effects: the dispersion attractions between the electrons and a sharp increase
+in the static dielectric constant of the solution. The first effect provides a
+classical phase separation for the light alkali metal solutes (Li, Na, K) below
+a critical temperature. The second effect leads to a dielectric instability,
+i.e., polarization catastrophe, which is the onset of metallization. The locus
+of the calculated critical concentrations is in a good agreement with the
+experimental phase diagram of Na-NH3 solutions. The proposed mechanism of the
+metal-nonmetal transition is quite general and may occur in systems involving
+self-trapped quantum quasiparticles.

@@ -1,0 +1,12 @@
+We apply a singularity resolution technique utilized in loop quantum gravity
+to the polymer representation of quantum mechanics on R with the singular
+-1/|x| potential. On an equispaced lattice, the resulting eigenvalue problem is
+identical to a finite difference approximation of the Schrodinger equation. We
+find numerically that the antisymmetric sector has an energy spectrum that
+converges to the usual Coulomb spectrum as the lattice spacing is reduced. For
+the symmetric sector, in contrast, the effect of the lattice spacing is similar
+to that of a continuum self-adjointness boundary condition at x=0, and its
+effect on the ground state is significant even if the spacing is much below the
+Bohr radius. Boundary conditions at the singularity thus have a significant
+effect on the polymer quantization spectrum even after the singularity has been
+regularized.

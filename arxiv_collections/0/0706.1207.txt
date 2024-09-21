@@ -1,0 +1,6 @@
+Using effective Lagrangian arguments, I explore the qualitative behavior
+expected at finite temperature for two flavor lattice QCD formulated with
+Wilson fermions and a twisted mass term. A rather rich phase structure is
+predicted, exhibiting Aoki's parity violating phase along with a deconfinement
+region forming a conical structure in the space of coupling, hopping parameter,
+and twisted mass variables.

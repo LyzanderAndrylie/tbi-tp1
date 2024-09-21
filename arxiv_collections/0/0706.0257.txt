@@ -1,0 +1,8 @@
+Dynamics near the grazing manifold and basins of attraction for a motion of a
+material point in a gravitational field, colliding with a moving
+motion-limiting stop, are investigated. The Poincare map, describing evolution
+from an impact to the next impact, is derived. Periodic points are found and
+their stability is determined. The grazing manifold is computed and dynamics is
+approximated in its vicinity. It is shown that on the grazing manifold there
+are trapping as well as forbidden regions. Finally, basins of attraction are
+studied.

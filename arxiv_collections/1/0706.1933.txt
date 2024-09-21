@@ -1,0 +1,5 @@
+We study soliton pulse compression in materials with cascaded quadratic
+nonlinearities, and show that the group-velocity mismatch creates two different
+temporally nonlocal regimes. They correspond to what is known as the stationary
+and nonstationary regimes. The theory accurately predicts the transition to the
+stationary regime, where highly efficient pulse compression is possible.

@@ -1,0 +1,4 @@
+In this note, we fill in a gap in the literature by proving that the
+Teichmueller modular groups (mapping class groups) are not Poincare duality
+groups and the complexes of curves of surfaces have infinite homotopy type
+(i.e. are not homotopy equivalent to a finite CW-complex).

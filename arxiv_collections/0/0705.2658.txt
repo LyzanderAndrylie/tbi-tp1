@@ -1,0 +1,8 @@
+We study the stationary Josephson effect for neutral fermions across the
+BCS-BEC crossover, by solving numerically the Bogoliubov-de Gennes equations at
+zero temperature. The Josephson current is found to be considerably enhanced
+for all barriers at about unitarity. For vanishing barrier, the Josephson
+critical current approaches the Landau limiting value which, depending on the
+coupling, is determined by either pair-breaking or sound-mode excitations. In
+the coupling range from the BCS limit to unitarity, a procedure is proposed to
+extract the pairing gap from the Landau limiting current.

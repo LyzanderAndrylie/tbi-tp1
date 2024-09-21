@@ -1,0 +1,9 @@
+The dynamics of an unbiased spin-boson model with Lorentzian spectral density
+is investigated theoretically in terms of the perturbation theory based on a
+unitary transformation. The non-equilibrium correlation function $P(t)$ and
+susceptibility $\chi^{\prime\prime}(\omega)$ are calculated for both the
+off-resonance case $\Delta\lesssim 0.5\Omega$ and the on-resonance case
+$\Delta\sim \Omega$. The approach is checked by the Shiba's relation and the
+sum rule. Besides, the coherent-incoherent transition point $\alpha_c$ can be
+determined, which has not been demonstrated for the structured bath by previous
+authors up to our knowledge.

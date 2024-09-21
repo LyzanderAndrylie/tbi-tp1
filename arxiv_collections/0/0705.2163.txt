@@ -1,0 +1,17 @@
+We report on a theoretical derivation of the electronic dielectric response
+of semiconductor nanocrystals using a tight-binding framework. Extending to the
+nanoscale the Hanke and Sham approach [Phys. Rev. B 12, 4501 (1975)] developed
+for bulk semiconductors, we show how local field effects can be included in the
+study of confined systems. A great advantage of this scheme is that of being
+formulated in terms of localized orbitals and thus it requires very few
+computational resources and times. Applications to the optical and screening
+properties of semiconductor nanocrystals are presented here and discussed.
+Results concerning the absorption cross section, the static polarizability and
+the screening function of InAs (direct gap) and Si (indirect gap) nanocrystals
+compare well to both first principles results and experimental data. We also
+show that the present scheme allows us to easily go beyond the continuum
+dielectric model, based on the Clausius-Mossotti equation, which is frequently
+used to include the nanocrystal surface polarization. Our calculations indicate
+that the continuum dielectric model, used in conjunction with a size dependent
+dielectric constant, underestimates the nanocrystal polarizability, leading to
+exceedingly strong surface polarization fields.

@@ -1,0 +1,11 @@
+Path integral Monte Carlo approach is used to study the coupled quantum
+dynamics of the electron and nuclei in hydrogen molecule ion. The coupling
+effects are demonstrated by comparing differences in adiabatic
+Born--Oppenheimer and non-adiabatic simulations, and inspecting projections of
+the full three-body dynamics onto adiabatic Born--Oppenheimer approximation.
+  Coupling of electron and nuclear quantum dynamics is clearly seen. Nuclear
+pair correlation function is found to broaden by 0.040 a_0 and average bond
+length is larger by 0.056 a_0. Also, non-adiabatic correction to the binding
+energy is found. Electronic distribution is affected less, and therefore, we
+could say that the adiabatic approximation is better for the electron than for
+the nuclei.

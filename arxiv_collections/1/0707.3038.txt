@@ -1,0 +1,20 @@
+Current experimental and theoretical studies on the effect of intermolecular
+interactions on molecular conduction appear to be in conflict with each other.
+In particular, some experimental results, e.g., the observation of
+2-dimensional free-particle character for interface bound electrons indicate
+strong intermolecular interactions while other observations indicate an
+additive character of conduction properties. In this paper we use a generic
+tight binding model with a physically motivated choice of parameters in order
+to examine this issue. The model encompasses direct intermolecular interactions
+as well as through-metal interactions and can be solved exactly to yield
+spectral properties (surface density of states) and transport characteristics
+(transmission coefficients and current-voltage behaviors) for single molecule
+junctions, molecular islands and molecular layers. We find linear scaling of
+conduction properties with the number of conducting molecules in junctions
+characterized by molecular layers when the probe (STM tip) addresses different
+numbers of molecules; however, the conduction per molecule can differ
+significantly from that of an isolated single molecule. When a junction
+involves finite molecular islands of varying sizes, linear scaling sets in only
+beyond a certain molecular island size, of the order of a few tens of
+molecules. Implications for current observation of linear scaling behaviors are
+discussed.

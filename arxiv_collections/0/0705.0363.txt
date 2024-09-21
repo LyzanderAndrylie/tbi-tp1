@@ -1,0 +1,10 @@
+The frictional heating by ion-neutral drift is calculated and its effect on
+isobaric thermal instability is carried out. Ambipolar drift heating of
+one-dimensional self-gravitating magnetized molecular slab is used under the
+assumptions of quasi-magnetohydrostatic and local ionization equilibrium. We
+see that ambipolar drift heating is inversely proportional to density and its
+value in some regions of the slab can be significantly larger than the average
+heating rates of cosmic rays and turbulent motions. The results show that the
+isobaric thermal instability can occur in some regions of the slab; therefore
+it may produce the slab fragmentation and formation of the AU-scale
+condensations.

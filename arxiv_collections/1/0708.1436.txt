@@ -1,0 +1,10 @@
+The transport properties of quantum dot (QD) systems based on double-walled
+carbon nanotube (DWCNT) are investigated. The interplay between microscopic
+structure and strong Coulomb interaction is treated within a bosonization
+framework. The linear and nonlinear G-V-V_g characteristics of the QD system is
+calculated by starting from the Liouville equation for the reduced density
+matrix. Depending on the intershell couplings, an 8-electron periodicity of the
+Coulomb blockade peak spacing in the case of commensurate DWCNT QDs and a
+4-electron periodicity in the incommensurate case are predicted. The
+contribution of excited states of DWCNTs to the nonlinear transport is
+investigated as well.

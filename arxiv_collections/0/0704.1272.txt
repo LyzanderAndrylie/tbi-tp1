@@ -1,0 +1,7 @@
+Sharkovskii proved that the existence of a periodic orbit in a
+one-dimensional dynamical system implies existence of infinitely many periodic
+orbits. We obtain an analog of Sharkovskii's theorem for periodic orbits of
+shear homeomorphisms of the torus. This is done by obtaining a dynamical order
+relation on the set of simple orbits and simple pairs. We then use this order
+relation for a global analysis for a quantum chaotic physical system called the
+kicked accelerated particle.

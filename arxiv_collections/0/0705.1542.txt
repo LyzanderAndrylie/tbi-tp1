@@ -1,0 +1,13 @@
+We describe a general framework for avoiding spurious eigenvalues --
+unphysical unstable eigenvalues that often occur in hydrodynamic stability
+problems. In two example problems, we show that when system stability is
+analyzed numerically using {\em descriptor} notation, spurious eigenvalues are
+eliminated. Descriptor notation is a generalized eigenvalue formulation for
+differential-algebraic equations that explicitly retains algebraic constraints.
+We propose that spurious eigenvalues are likely to occur when algebraic
+constraints are used to analytically reduce the number of independent variables
+in a differential-algebraic system of equations before the system is
+approximated numerically. In contrast, the simple and easily generalizable
+descriptor framework simultaneously solves the differential equations and
+algebraic constraints and is well-suited to stability analysis in these
+systems.

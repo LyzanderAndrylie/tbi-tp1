@@ -1,0 +1,7 @@
+Total precession (geodetic precession and frame dragging) depends on the
+velocity of each source of gravitation, which means that it depends on the
+choice of the coordinate system. We consider the latter as an anomaly
+specifically in the Gravity Probe B experiment, we investigated it and solved
+this anomaly. Thus, we proved that if our present expression for the geodetic
+precession is correct, then the frame dragging should be 25% less than its
+predicted value.

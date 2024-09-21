@@ -1,0 +1,12 @@
+We study the problem of constructing coded modulation schemes over
+multidimensional signal sets in Nakagami-$m$ block-fading channels. In
+particular, we consider the optimal diversity reliability exponent of the error
+probability when the multidimensional constellation is obtained as the rotation
+of classical complex-plane signal constellations. We show that multidimensional
+rotations of full dimension achieve the optimal diversity reliability exponent,
+also achieved by Gaussian constellations. Multidimensional rotations of full
+dimension induce a large decoding complexity, and in some cases it might be
+beneficial to use multiple rotations of smaller dimension. We also study the
+diversity reliability exponent in this case, which yields the optimal
+rate-diversity-complexity tradeoff in block-fading channels with discrete
+inputs.

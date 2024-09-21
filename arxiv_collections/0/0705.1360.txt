@@ -1,0 +1,13 @@
+Inelastic and elastic neutron scattering is used to study spin correlations
+in the quasi-one dimensional quantum antiferromagnet IPA-CuCl3 in strong
+applied magnetic fields. A condensation of magnons and commensurate transverse
+long-range ordering is observe at a critical filed $H_c=9.5$ T. The field
+dependencies of the energies and polarizations of all magnon branches are
+investigated both below and above the transition point. Their dispersion is
+measured across the entire 1D Brillouin zone in magnetic fields up to 14 T. The
+critical wave vector of magnon spectrum truncation [Masuda et al., Phys. Rev.
+Lett. 96, 047210 (2006)] is found to shift from h_c 0.35 at H>H_c. A drastic
+reduction of magnon bandwidths in the ordered phase [Garlea et al., Phys. Rev.
+Lett. 98, 167202 (2007)] is observed and studied in detail. New features of the
+spectrum, presumably related to this bandwidth collapse, are observed just
+above the transition field.

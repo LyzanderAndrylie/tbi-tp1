@@ -1,0 +1,13 @@
+Graphene's honeycomb lattice structure underlies much of the remarkable
+physics inherent in this material, most strikingly through the formation of two
+``flavors'' of Dirac cones for each spin. In the quantum Hall regime, the
+resulting flavor degree of freedom leads to an interesting problem when a
+Landau level is partially occupied. Namely, while Zeeman splitting clearly
+favors polarizing spins along the field, precisely how the states for each
+flavor are occupied can become quite delicate. Here we focus on clean graphene
+sheets in the regime of quantum Hall ferromagnetism, and discuss how subtler
+lattice-scale physics, arising either from interactions or disorder, resolves
+this ambiguity to measurable consequence. Interestingly, such lattice-scale
+physics favors microscopic symmetry-breaking order coexisting with the usual
+liquid-like quantum Hall physics emerging on long length scales. The current
+experimental situation is briefly reviewed in light of our discussion.

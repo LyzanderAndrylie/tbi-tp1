@@ -1,0 +1,24 @@
+[Abridged] We have been exploring a spectroscopic unification for all known
+types of broad line emitting AGN. The 4D Eigenvector 1 (4DE1) parameter space
+shows promise as a unification capable of organizing quasar diversity on a
+sequence primarily governed by Eddington ratio. This paper considers the role
+of CIV 1549 measures with special emphasis on the CIV 1549 line shift as a
+principal 4DE1 diagnostic. We use HST archival spectra for 130 sources with S/N
+high enough to permit reliable CIV 1549 broad component (BC) measures. We find
+a CIV 1549 BC profile blueshift that is strongly concentrated among (largely
+radio-quiet: RQ) sources with FWHM(H beta BC) < 4000 km/s (which we call
+Population A). Narrow line Seyfert 1 (NLSy1, with FWHM H beta < 2000 km/s)
+sources belong to this population but do not emerge as a distinct class. The
+systematic blueshift, widely interpreted as arising in a disk wind/outflow, is
+not observed in broader lined AGN which we call Population B. We find new
+correlations between FWHM(CIV 1549 BC) and CIV 1549 line shift as well as the
+equivalent width of CIV 1549. They are seen only in Pop. A sources. CIV 1549
+measures enhance the apparent dichotomy at FWHM(Hbeta BC) approx. 4000 \kms\
+(Sulentic et al. 2000) suggesting that it has more significance in the context
+of Broad Line Region structure than the more commonly discussed RL vs. RQ
+dichotomy. Black hole masses computed from FWHM CIV 1549 BC for about 80 AGN
+indicate that the CIV 1549 width is a poor virial estimator. Comparison of mass
+estimates derived from Hbeta BC and CIV 1549 reveals that the latter show
+different and nonlinear offsets for population A and B sources. A significant
+number of sources also show narrow line CIV 1549 emission. We present a recipe
+for CIV 1549 narrow component extraction.

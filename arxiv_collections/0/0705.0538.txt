@@ -1,0 +1,20 @@
+We have compiled the largest sample of multiwavelength spectral energy
+distributions (SEDs) of Broad Absorption Line (BAL) quasars to date, from the
+radio to the X-ray. We present new Spitzer MIPS (24, 70, and 160 micron)
+observations of 38 BAL quasars in addition to data from the literature and
+public archives. In general, the mid-infrared properties of BAL quasars are
+consistent with those of non-BAL quasars of comparable luminosity. In
+particular, the optical-to-mid-infrared luminosity ratios of the two
+populations are indistinguishable. We also measure or place upper limits on the
+contribution of star formation to the far-infrared power. Of 22 (57%) upper
+limits, seven quasars have sufficiently sensitive constraints to conclude that
+star formation likely contributes little (<20%) to their far-infrared power.
+The 17 BAL quasars (45%) with detected excess far-infrared emission likely host
+hyperluminous starbursts with L_fir,SF=10^{13-14} L_sun. Mid-infrared through
+X-ray composite BAL quasar SEDs are presented, incorporating all of the
+available photometry. Overall, we find no compelling evidence for inherent
+differences between the SEDs of BAL vs. non-BAL quasars of comparable
+luminosity. Therefore a ``cocoon'' picture of a typical BAL quasar outflow
+whereby the wind covers a large fraction of the sky is not supported by the
+mid-infrared SED comparison with normal quasars, and the disk-wind paradigm
+with a typical radio-quiet quasar hosting a BAL region remains viable.

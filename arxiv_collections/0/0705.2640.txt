@@ -1,0 +1,6 @@
+We provide a combinatorial description of exclusion statistics in terms of
+minimal difference $p$ partitions. We compute the probability distribution of
+the number of parts in a random minimal $p$ partition. It is shown that the
+bosonic point $ p=0$ is a repulsive fixed point for which the limiting
+distribution has a Gumbel form. For all positive $p$ the distribution is shown
+to be Gaussian.

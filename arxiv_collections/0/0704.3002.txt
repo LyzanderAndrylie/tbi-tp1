@@ -1,0 +1,8 @@
+Inverse braid monoid describes a structure on braids where the number of
+strings is not fixed. So, some strings of initial $n$ may be deleted. In the
+paper we show that many properties and objects based on braid groups may be
+extended to the inverse braid monoids. Namely we prove an inclusion into a
+monoid of partial monomorphisms of a free group. This gives a solution of the
+word problem. Another solution is obtained by an approach similar to that of
+Garside. We give also the analogues of Artin presentation with two generators
+and Sergiescu graph-presentations.

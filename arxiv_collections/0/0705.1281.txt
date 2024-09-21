@@ -1,0 +1,9 @@
+It is shown how to model weakly dissipative free-surface flows using the
+classical potential flow approach. The Helmholtz-Leray decomposition is applied
+to the linearized 3D Navier-Stokes equations. The governing equations are
+treated using Fourier--Laplace transforms. We show how to express the vortical
+component of the velocity only in terms of the potential and free-surface
+elevation. A new predominant nonlocal viscous term is derived in the bottom
+kinematic boundary condition. The resulting formulation is simple and does not
+involve any correction procedure as in previous viscous potential flow theories
+[Joseph2004]. Corresponding long wave model equations are derived.

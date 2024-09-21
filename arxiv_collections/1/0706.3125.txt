@@ -1,0 +1,7 @@
+The spatial string tension across a crossover from the low temperature phase
+to the high temperature phase is computed in QCD with two flavors of
+non-perturbatively improved Wilson fermions at small lattice spacing a \sim
+0.12fm. We find that in the low temperature phase spatial string tension agrees
+well with zero temperature string tension. Furthermore, it does not show
+increasing for temperatures up to T = 1.36 T_{pc}, the highest temperature
+considered. Our results agree with some theoretical predictions.

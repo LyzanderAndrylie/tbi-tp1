@@ -1,0 +1,12 @@
+An information-theoretic approach is proposed to watermark embedding and
+detection under limited detector resources. First, we consider the attack-free
+scenario under which asymptotically optimal decision regions in the
+Neyman-Pearson sense are proposed, along with the optimal embedding rule.
+Later, we explore the case of zero-mean i.i.d. Gaussian covertext distribution
+with unknown variance under the attack-free scenario. For this case, we propose
+a lower bound on the exponential decay rate of the false-negative probability
+and prove that the optimal embedding and detecting strategy is superior to the
+customary linear, additive embedding strategy in the exponential sense.
+Finally, these results are extended to the case of memoryless attacks and
+general worst case attacks. Optimal decision regions and embedding rules are
+offered, and the worst attack channel is identified.

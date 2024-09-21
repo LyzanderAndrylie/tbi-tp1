@@ -1,0 +1,7 @@
+We demonstrate the possibility of controlling the border between the quantum
+and the classical world by performing nonselective measurements on quantum
+systems. We consider a quantum harmonic oscillator initially prepared in a
+Schroedinger cat state and interacting with its environment. We show that the
+environment induced decoherence transforming the cat state into a statistical
+mixture can be strongly inhibited by means of appropriate sequences of
+measurements.

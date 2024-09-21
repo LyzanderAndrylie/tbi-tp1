@@ -1,0 +1,14 @@
+The probability distributions for bending angles in double helical DNA
+obtained in all-atom molecular dynamics simulations are compared with
+theoretical predictions. The computed distributions remarkably agree with the
+worm-like chain theory for double helices of one helical turn and longer, and
+qualitatively differ from predictions of the semi-elastic chain model. The
+computed data exhibit only small anomalies in the apparent flexibility of short
+DNA and cannot account for the recently reported AFM data (Wiggins et al,
+Nature nanotechnology 1, 137 (2006)). It is possible that the current atomistic
+DNA models miss some essential mechanisms of DNA bending on intermediate length
+scales. Analysis of bent DNA structures reveals, however, that the bending
+motion is structurally heterogeneous and directionally anisotropic on the
+intermediate length scales where the experimental anomalies were detected.
+These effects are essential for interpretation of the experimental data and
+they also can be responsible for the apparent discrepancy.

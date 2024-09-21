@@ -1,0 +1,14 @@
+In response to a sound stimulus, the inner ear emits sounds called
+otoacoustic emissions. While the exact mechanism for the production of
+otoacoustic emissions is not known, active motion of individual hair cells is
+thought to play a role. Two possible sources for otoacoustic emissions, both
+localized within individual hair cells, include somatic motility and hair
+bundle motility. Because physiological models of each of these systems are
+thought to be poised near a Hopf bifurcation, the dynamics of each can be
+described by the normal form for a system near a Hopf bifurcation. Here we
+demonstrate that experimental results from three-frequency suppression
+experiments can be predicted based on the response of an array of
+noninteracting Hopf oscillators tuned at different frequencies. This supports
+the idea that active motion of individual hair cells contributes to active
+processing of sounds in the ear. Interestingly, the model suggests an
+explanation for differing results recorded in mammals and nonmammals.

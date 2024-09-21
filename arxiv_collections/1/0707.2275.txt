@@ -1,0 +1,9 @@
+In the present paper, we introduce a new control architecture aimed at
+driving virtual humans in interaction with virtual environments, by motion
+capture. It brings decoupling of functionalities, and also of stability thanks
+to passivity. We show projections can break passivity, and thus must be used
+carefully. Our control scheme enables task space and internal control, contact,
+and joint limits management. Thanks to passivity, it can be easily extended.
+Besides, we introduce a new tool as for manikin's control, which makes it able
+to build passive projections, so as to guide the virtual manikin when sharp
+movements are needed.

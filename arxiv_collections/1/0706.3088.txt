@@ -1,0 +1,17 @@
+Ferromagnetism in the t-t' Hubbard model is investigated on a square lattice.
+Correlation effects in the form of self-energy and vertex corrections are
+systematically incorporated within a spin-rotationally-symmetric scheme which
+explicitly preserves the Goldstone mode and is therefore in accord with the
+Mermin-Wagner theorem. Interplay of band dispersion and correlation effects on
+ferromagnetic-state stability are highlighted with respect to both long- and
+short-wavelength fluctuations, which are shown to have substantially different
+behaviour. Our approach provides a novel understanding of the enhancement of
+ferromagnetism near van Hove filling for t'~0.5 in terms of strongly suppressed
+saddle-point contribution to the destabilizing exchange part of spin stiffness.
+Finite-temperature electron spin dynamics is investigated directly in terms of
+spectral-weight transfer across the Fermi energy due to electron-magnon
+coupling. Relevant in the context of recent magnetization measurements on
+ultrathin films, the role of strong thermal spin fluctuations in low dimensions
+is highlighted, in the anisotropy-stabilized ordered state, by determining the
+thermal decay of magnetization and T_c within a renormalized spin-fluctuation
+theory.

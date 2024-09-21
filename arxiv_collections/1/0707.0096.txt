@@ -1,0 +1,8 @@
+The phase coherence of an ultrastable optical frequency reference is fully
+maintained over actively stabilized fiber networks of lengths exceeding 30 km.
+For a 7-km link installed in an urban environment, the transfer instability is
+$6 \times 10^{-18}$ at 1-s. The excess phase noise of 0.15 rad, integrated from
+8 mHz to 25 MHz, yields a total timing jitter of 0.085 fs. A 32-km link
+achieves similar performance. Using frequency combs at each end of the
+coherent-transfer fiber link, a heterodyne beat between two independent
+ultrastable lasers, separated by 3.5 km and 163 THz, achieves a 1-Hz linewidth.

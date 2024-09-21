@@ -1,0 +1,9 @@
+Injection and decay of particles in an inhomogeneous quantum condensate can
+significantly change its behaviour. We model trapped, pumped, decaying
+condensates by a complex Gross-Pitaevskii equation and analyse the density and
+currents in the steady state. With homogeneous pumping, rotationally symmetric
+solutions are unstable. Stability may be restored by a finite pumping spot.
+However if the pumping spot is larger than the Thomas-Fermi cloud radius, then
+rotationally symmetric solutions are replaced by solutions with spontaneous
+arrays of vortices. These vortex arrays arise without any rotation of the trap,
+spontaneously breaking rotational symmetry.

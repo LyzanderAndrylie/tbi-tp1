@@ -1,0 +1,10 @@
+The minimal supersymmetric standard model with soft breaking has a large
+landscape of supersymmetric particle mass hierarchies. This number is reduced
+significantly in well-motivated scenarios such as minimal supergravity and
+alternatives. We carry out an analysis of the landscape for the first four
+lightest particles and identify at least 16 mass patterns, and provide
+benchmarks for each. We study the signature space for the patterns at the CERN
+Large Hadron Collider by analyzing the lepton + (jet $\geq 2$) + missing $P_T$
+signals with 0, 1, 2 and 3 leptons. Correlations in missing $P_T$ are also
+analyzed. It is found that even with 10 fb$^{-1}$ of data a significant
+discrimination among patterns emerges

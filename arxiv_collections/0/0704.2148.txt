@@ -1,0 +1,12 @@
+We show that condensation in a capped capillary slit is a continuous
+interfacial critical phenomenon, related intimately to several other surface
+phase transitions. In three dimensions (3d), the adsorption and desorption
+branches correspond to the unbinding of the meniscus from the cap and opening,
+respectively and are equivalent to 2d-like complete-wetting transitions. For
+dispersion forces, the singularities on the two branches are distinct, owing to
+the different interplay of geometry and intermolecular forces. In 2d we
+establish precise connection, or covariance, with 2d critical-wetting and
+wedge-filling transitions, i.e. we establish that certain interfacial
+properties in very different geometries are identical. Our predictions of
+universal scaling and covariance in finite capillaries are supported by
+extensive Ising model simulation studies in 2d and 3d.

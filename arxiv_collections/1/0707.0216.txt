@@ -1,0 +1,9 @@
+We develop a comprehensive, elegant theory to explain terahertz (THz)
+emission from a superlattice over a wide range of applied electric field,which
+shows excellent agreement between theory andexperiment for a
+GaAs/Al{0.3}Ga{0.7As superlattice. Specifically we show that increasing
+electric field increases THz emission for low fields, then reduces emission for
+medium fields due to field-induced wave function localization, and then
+increases emission in the high field due to delocalization and Zener tunneling
+between minibands. Our theory shows that Zener tunneling resonances yield high
+THz emission intensities and points to superlattice design improvements.

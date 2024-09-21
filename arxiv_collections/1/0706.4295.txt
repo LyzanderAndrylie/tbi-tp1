@@ -1,0 +1,17 @@
+How useful it is to think about the potential energy landscape of a complex
+many-body system depends in large measure on how direct the connection is to
+the system's dynamics. In this paper we show that, within what we call the
+potential energy landscape ensemble, it is possible to make direct connections
+between the geometry of the landscape and the long-time dynamical behaviors of
+systems such as supercooled liquids. We show, in particular, that the onset of
+slow dynamics in such systems is governed directly by the lengths of their
+geodesics - the shortest paths through their landscapes within the special
+ensemble. The more convoluted and labyrinthine these geodesics are, the slower
+that dynamics is. Geodesics in the landscape ensemble have sufficiently
+well-defined characteristics that is straightforward to search for them
+numerically, a point we illustrate by computing the geodesic lengths for an
+ordinary atomic liquid and a binary glass-forming atomic mixture. We find that
+the temperature dependence of the diffusion constants of these systems,
+including the precipitous drop as the glass-forming system approaches its
+mode-coupling transition, is predicted quantitatively by the growth of the
+geodesic path lengths.

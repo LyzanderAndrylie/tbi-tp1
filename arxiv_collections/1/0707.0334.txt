@@ -1,0 +1,8 @@
+Using resonant interaction of three Rydberg atoms with a single-mode
+microwave cavity, we consider a realization of three-qubit Grover search
+algorithm in the presence of weak cavity decay, based on a previous idea for
+three-qubit quantum gate [Phys. Rev. A 73, 064304 (2006)]. We simulate the
+searching process under the influence of the cavity decay and show that our
+scheme could be achieved efficiently to find the marked state with high
+fidelity. The required operations are very close to the reach with current
+cavity QED techniques.

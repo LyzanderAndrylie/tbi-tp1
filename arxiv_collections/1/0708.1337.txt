@@ -1,0 +1,17 @@
+Belief Propagation algorithms acting on Graphical Models of classical
+probability distributions, such as Markov Networks, Factor Graphs and Bayesian
+Networks, are amongst the most powerful known methods for deriving
+probabilistic inferences amongst large numbers of random variables. This paper
+presents a generalization of these concepts and methods to the quantum case,
+based on the idea that quantum theory can be thought of as a noncommutative,
+operator-valued, generalization of classical probability theory. Some novel
+characterizations of quantum conditional independence are derived, and
+definitions of Quantum n-Bifactor Networks, Markov Networks, Factor Graphs and
+Bayesian Networks are proposed. The structure of Quantum Markov Networks is
+investigated and some partial characterization results are obtained, along the
+lines of the Hammersely-Clifford theorem. A Quantum Belief Propagation
+algorithm is presented and is shown to converge on 1-Bifactor Networks and
+Markov Networks when the underlying graph is a tree. The use of Quantum Belief
+Propagation as a heuristic algorithm in cases where it is not known to converge
+is discussed. Applications to decoding quantum error correcting codes and to
+the simulation of many-body quantum systems are described.

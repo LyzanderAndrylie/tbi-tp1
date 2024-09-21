@@ -1,0 +1,17 @@
+Revised Hipparcos parallaxes for classical Cepheids are analysed together
+with 10 HST-based parallaxes (Benedict et al.). In a reddening-free V,I
+relation we find that the coefficient of logP is the same within the
+uncertainties in our Galaxy as in the LMC, contrary to some previous
+suggestions. Cepheids in the inner region of NGC4258 with near solar
+metallicities (Macri et al.) confirm this result. We obtain a zero-point for
+the reddening-free relation and apply it to Cepheids in galaxies used by
+Sandage et al. to calibrate the absolute magnitudes of SNIa and to derive the
+Hubble constant. We revise their result from 62 to 70+/-5 km/s/Mpc. The
+Freedman et al. 2001 value is revised from 72 to 76+/-8 km/s/Mpc. These results
+are insensitive to Cepheid metallicity corrections. The Cepheids in the inner
+region of NGC4258 yield a modulus of 29.22+/-0.03(int) compared with a
+maser-based modulus of 29.29+/-0.15. Distance moduli for the LMC, uncorrected
+for any metallicity effects, are; 18.52+/-0.03 from a reddening-free relation
+in V,I; 18.47+/-0.03 from a period-luminosity relation at K; 18.45+/-0.04 from
+a period-luminosity-colour relation in J,K. Adopting a metallicity correction
+in V,I from Marci et al. leads to a true LMC modulus of 18.39+/-0.05.

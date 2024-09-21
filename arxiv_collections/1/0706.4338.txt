@@ -1,0 +1,6 @@
+In a recent paper Donaldson defines three operators on a space of Hermitian
+metrics on a complex projective manifold: $T, T_{\nu}, T_K.$ Iterations of
+these operators converge to balanced metrics, and these themselves approximate
+constant scalar curvature metrics. In this paper we investigate the convergence
+properties of these iterations by examining the case of the Riemann sphere as
+well as higher dimensional $\mathbb{CP}^n$.

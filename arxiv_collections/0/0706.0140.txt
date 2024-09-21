@@ -1,0 +1,9 @@
+In a recent paper Sai {\it et al.} [1] identified a correction $R^{dyn}$ to
+the DC conductance of nanoscale junctions arising from dynamical
+exchange-correlation ($XC$) effects within time-dependent density functional
+theory. This quantity contributes to the total resistance through
+$R=R_{s}+R^{dyn}$ where $R_{s}$ is the resistance evaluated in the absence of
+dynamical $XC$ effects. In this Comment we show that the numerical estimation
+of $R^{dyn}$ in example systems of the type they considered should be
+considerably reduced, once a more appropriate form for the shear electron
+viscosity $\eta$ is used.

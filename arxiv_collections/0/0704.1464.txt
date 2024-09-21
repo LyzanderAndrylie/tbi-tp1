@@ -1,0 +1,12 @@
+We present a protocol for growing graph states, the resource for one-way
+quantum computing, when the available entanglement mechanism is highly
+imperfect. The distillation protocol is frugal in its use of ancilla qubits,
+requiring only a single ancilla qubit when the noise is dominated by one Pauli
+error, and two for a general noise model. The protocol works with such scarce
+local resources by never post-selecting on the measurement outcomes of
+purification rounds. We find that such a strategy causes fidelity to follow a
+biased random walk, and that a target fidelity is likely to be reached more
+rapidly than for a comparable post-selecting protocol. An analysis is presented
+of how imperfect local operations limit the attainable fidelity. For example, a
+single Pauli error rate of 20% can be distilled down to $\sim 10$ times the
+imperfection in local operations.

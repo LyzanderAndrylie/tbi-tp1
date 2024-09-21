@@ -1,0 +1,9 @@
+We provide a novel approach for characterization of quantum Hamiltonian
+systems via utilizing a single measurement device. Specifically, we demonstrate
+how external quantum correlations can be used for Hamiltonian identification
+tasks. We explicitly introduce experimental procedures for direct estimation of
+single- and two-qubit Hamiltonian parameters, and also for simultaneous
+estimation of transverse and longitudinal relaxation rates, using a single
+Bell-state analyzer. An advantage of our method over the earlier approaches is
+that it has a built-in feature which makes it suitable for partial
+characterization of Hamiltonian parameters.

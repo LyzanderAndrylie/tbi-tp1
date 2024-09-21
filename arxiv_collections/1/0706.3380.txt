@@ -1,0 +1,10 @@
+The transition metal-oxygen bond appears prominently throughout chemistry and
+solid-state physics. Many materials, from biomolecules to ferroelectrics to the
+components of supernova remnants contain this bond in some form. Many of these
+materials' properties strongly depend on fine details of the TM-O bond and
+intricate correlation effects, which make accurate calculations of their
+properties very challenging. We present quantum Monte Carlo, an explicitly
+correlated class of methods, to improve the accuracy of electronic structure
+calculations over more traditional methods like density functional theory. We
+find that unlike s-p type bonding, the amount of hybridization of the d-p bond
+in TM-O materials is strongly dependant on electronic correlation.

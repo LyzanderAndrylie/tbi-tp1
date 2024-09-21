@@ -1,0 +1,4 @@
+We introduce a new approach for cryptanalysis of key agreement protocols
+based on noncommutative groups. This approach uses functions that estimate the
+distance of a group element to a given subgroup. We test it against the
+Shpilrain-Ushakov protocol, which is based on Thompson's group F.

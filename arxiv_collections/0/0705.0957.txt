@@ -1,0 +1,11 @@
+We investigate the entanglement between a spin and its environment in
+impurity systems which exhibit a second-order quantum phase transition. As an
+application, we employ the spin-boson model, describing a two-level system
+(spin) coupled to a subohmic bosonic bath with power-law spectral density,
+${\cal J}(\omega)\propto \omega^s$ and $0<s<1$. Combining Wilson's Numerical
+Renormalization Group method and hyperscaling relations, we demonstrate that
+the entanglement between the spin and its environment is always enhanced at the
+quantum phase transition resulting in a visible cusp (maximum) in the entropy
+of entanglement. We formulate a correspondence between criticality and impurity
+entanglement entropy, and the relevance of these ideas to Nano-systems is
+outlined.

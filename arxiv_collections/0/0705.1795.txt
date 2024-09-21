@@ -1,0 +1,14 @@
+Our incomplete understanding of the formation of gas giants and of their
+mass-radius relationship has motivated ground-based, wide-field surveys for new
+transiting extrasolar giant planets. Yet, astrophysical false positives have
+dominated the yield from these campaigns. Astronomical systems where the light
+from a faint eclipsing binary and a bright star is blended, producing a
+transit-like light curve, are particularly difficult to eliminate. As part of
+the Trans-atlantic Exoplanet Survey, we have encountered numerous false
+positives and have developed a procedure to reject them. We present examples of
+these false positives, including the blended system GSC 03885-00829 which we
+showed to be a K dwarf binary system superimposed on a late F dwarf star. This
+transit candidate in particular demonstrates the careful analysis required to
+identify astrophysical false positives in a transit survey. From amongst these
+impostors, we have found two transiting planets. We discuss our follow-up
+observations of TrES-2, the first transiting planet in the Kepler field.

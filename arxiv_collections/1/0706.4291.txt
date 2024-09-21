@@ -1,0 +1,15 @@
+Icosahedral shells undergo a buckling transition as the ratio of Young's
+modulus to bending stiffness increases. Strong bending stiffness favors smooth,
+nearly spherical shapes, while weak bending stiffness leads to a sharply
+faceted icosahedral shape. Based on the phonon spectrum of a simplified
+mass-and-spring model of the shell, we interpret the transition from smooth to
+faceted as a soft-mode transition. In contrast to the case of a disclinated
+planar network where the transition is sharply defined, the mean curvature of
+the sphere smooths the transitition. We define elastic susceptibilities as the
+response to forces applied at vertices, edges and faces of an icosahedron. At
+the soft-mode transition the vertex susceptibility is the largest, but as the
+shell becomes more faceted the edge and face susceptibilities greatly exceed
+the vertex susceptibility. Limiting behaviors of the susceptibilities are
+analyzed and related to the ridge-scaling behavior of elastic sheets. Our
+results apply to virus capsids, liposomes with crystalline order and other
+shell-like structures with icosahedral symmetry.

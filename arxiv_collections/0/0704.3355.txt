@@ -1,0 +1,6 @@
+Let $K$ be field of characteristic 2 and let $G$ be a finite non-abelian
+2-group with the cyclic derived subgroup $G'$, and there exists a central
+element $z$ of order 2 in $Z(G) \backslash G'$. We prove that the unit group of
+the group algebra $KG$ possesses a section isomorphic to the wreath product of
+a group of order 2 with the derived subgroup of the group $G$, giving for such
+groups a positive answer to the question of A. Shalev.

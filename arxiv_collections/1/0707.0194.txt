@@ -1,0 +1,9 @@
+We develop a theoretical model of the carious lesion progress caused by acids
+diffusing into the tooth enamel from the dental plaque. The acids react with
+static hydroxyapatite, which leads to demineralization of the enamel, and
+consequently to the development of the carious lesion. The model utilizes the
+diffusion-reaction equations with one static and one mobile reactant where the
+reaction term is proportional to the product of concentrations of acids and of
+mineral. The changes of concentrations are calculated approximately by means of
+a perturbation method. The analytical approximate solutions are compared with
+the numerical ones and experimental data.

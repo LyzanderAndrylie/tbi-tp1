@@ -1,0 +1,9 @@
+Successful predictions are among the most compelling validations of any
+model. Extracting falsifiable predictions from nonlinear multiparameter models
+is complicated by the fact that such models are commonly sloppy, possessing
+sensitivities to different parameter combinations that range over many decades.
+Here we discuss how sloppiness affects the sorts of data that best constrain
+model predictions, makes linear uncertainty approximations dangerous, and
+introduces computational difficulties in Monte-Carlo uncertainty analysis. We
+also present a useful test problem and suggest refinements to the standards by
+which models are communicated.

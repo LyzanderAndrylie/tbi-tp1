@@ -1,0 +1,10 @@
+The possible connection between High-T$_c$ superconductivity and quantum
+chromodynamics is considered that is based on two interacting Ginzburg-Landau
+equations. For High-T$_c$ superconductivity these two equations describe Cooper
+electrons interacting with different kind of quasi particles (phonons, magnons,
+excitons and so on). The interaction term describes a possible interaction
+between different kind of quasi particles. For quantum chromodynamics the
+equations describe two kinds of gauge condensates. The condensates describe a
+gauge potential from a subalgebra of the SU(3) gauge group and the
+corresponding coset. Regular solutions are found which describe the situation
+where one field, $\psi_1$, is pushed out by another, $\psi_2$.

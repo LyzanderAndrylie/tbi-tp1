@@ -1,0 +1,5 @@
+We argue that the existence of a modular differential equation implies that a
+certain vector vanishes in Zhu's C2 quotient space, and we check this assertion
+in numerous examples. If this connection is true in general, it would imply
+that the recently conjectured extremal self-dual conformal field theories at
+c=24 k cannot exist for k\geq 42.

@@ -1,0 +1,10 @@
+In this article it is shown that, Sommerfeld's coefficients for excitonic
+transitions in quantum wells are determined only with the principle quantum
+number within the framework of two-dimensional Coulomb potential. This is a
+consequence of hidden symmetry of two-dimensional Coulomb problem, conditioned
+by the existence of two-dimensional analog of the Runge-Lentz vector. For the
+narrow gap semiconductor quantum well with the non-parabolic dispersion law of
+electron and hole in the two-band Kane model it is shown that two-dimensional
+excitonic states are described in the frames of an analog of Klein-Gordon
+equation with the two-dimensional Coulomb potential. The non-stability of the
+ground state of the two-dimensional Kane's exciton is show.

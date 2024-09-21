@@ -1,0 +1,19 @@
+We make use of new near and mid-IR photometry of the Pleiades cluster in
+order to help identify proposed cluster members. We also use the new photometry
+with previously published photometry to define the single-star main sequence
+locus at the age of the Pleiades in a variety of color-magnitude planes.
+  The new near and mid-IR photometry extend effectively two magnitudes deeper
+than the 2MASS All-Sky Point Source catalog, and hence allow us to select a new
+set of candidate very low mass and sub-stellar mass members of the Pleiades in
+the central square degree of the cluster. We identify 42 new candidate members
+fainter than Ks =14 (corresponding to 0.1 Mo). These candidate members should
+eventually allow a better estimate of the cluster mass function to be made down
+to of order 0.04 solar masses.
+  We also use new IRAC data, in particular the images obtained at 8 um, in
+order to comment briefly on interstellar dust in and near the Pleiades. We
+confirm, as expected, that -- with one exception -- a sample of low mass stars
+recently identified as having 24 um excesses due to debris disks do not have
+significant excesses at IRAC wavelengths. However, evidence is also presented
+that several of the Pleiades high mass stars are found to be impacting with
+local condensations of the molecular cloud that is passing through the Pleiades
+at the current epoch.

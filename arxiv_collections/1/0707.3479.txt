@@ -1,0 +1,24 @@
+In this article we develop quantum algorithms for learning and testing
+juntas, i.e. Boolean functions which depend only on an unknown set of k out of
+n input variables. Our aim is to develop efficient algorithms:
+  - whose sample complexity has no dependence on n, the dimension of the domain
+the Boolean functions are defined over;
+  - with no access to any classical or quantum membership ("black-box")
+queries. Instead, our algorithms use only classical examples generated
+uniformly at random and fixed quantum superpositions of such classical
+examples;
+  - which require only a few quantum examples but possibly many classical
+random examples (which are considered quite "cheap" relative to quantum
+examples).
+  Our quantum algorithms are based on a subroutine FS which enables sampling
+according to the Fourier spectrum of f; the FS subroutine was used in earlier
+work of Bshouty and Jackson on quantum learning. Our results are as follows:
+  - We give an algorithm for testing k-juntas to accuracy $\epsilon$ that uses
+$O(k/\epsilon)$ quantum examples. This improves on the number of examples used
+by the best known classical algorithm.
+  - We establish the following lower bound: any FS-based k-junta testing
+algorithm requires $\Omega(\sqrt{k})$ queries.
+  - We give an algorithm for learning $k$-juntas to accuracy $\epsilon$ that
+uses $O(\epsilon^{-1} k\log k)$ quantum examples and $O(2^k \log(1/\epsilon))$
+random examples. We show that this learning algorithms is close to optimal by
+giving a related lower bound.

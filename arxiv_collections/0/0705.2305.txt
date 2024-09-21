@@ -1,0 +1,8 @@
+The work proposes the application of fuzzy set theory (FST) to diagnose the
+condition of high voltage bushings. The diagnosis uses dissolved gas analysis
+(DGA) data from bushings based on IEC60599 and IEEE C57-104 criteria for oil
+impregnated paper (OIP) bushings. FST and neural networks are compared in terms
+of accuracy and computational efficiency. Both FST and NN simulations were able
+to diagnose the bushings condition with 10% error. By using fuzzy theory, the
+maintenance department can classify bushings and know the extent of degradation
+in the component.

@@ -1,0 +1,8 @@
+We study the Aharonov-Bohm oscillations of a charged particle on a ring of
+radius R coupled to a dirty metal environment. With Monte-Carlo methods we
+evaluate the curvature of these oscillations which has the form 1/M*R^2, where
+M* is an effective mass. We find that at low temperatures T the curvature
+approaches at large R>l an R independent M*>M, where l is the mean free path in
+the metal. This behavior is also consistent with perturbation theory in the
+particle - metal coupling parameter. At finite temperature T we identify
+dephasing lengths that scale as T^{-1} at R>l and as T^{-1/4} at R<<l.

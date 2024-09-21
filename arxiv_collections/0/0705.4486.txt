@@ -1,0 +1,13 @@
+We study the magnetoresistance, \delta\rho_{xx}(B)/\rho_0, of a high-mobility
+2D electron gas in the domain of magnetic fields, B, intermediate between the
+weak localization and the Shubnikov-de Haas oscillations, where
+\delta\rho_{xx}(B)/\rho_0 is governed by the interaction effects. Assuming
+short-range impurity scattering, we demonstrate that in the {\em second order}
+in the interaction parameter, $\lambda$, a {\em linear} B-dependence,
+\delta\rho_{xx}(B)/\rho_0\sim \lambda^2\omega_c/E_F with {\em
+temperature-independent} slope emerges in this domain of B (here \omega_c and
+E_F are the cyclotron frequency and the Fermi energy, respectively). Unlike
+previous mechanisms, the linear magnetoresistance is {\em unrelated} to the
+electron executing the full Larmour circle, but rather originates from the
+impurity scattering via the B-dependence of the {\em phase} of the
+impurity-induced Friedel oscillations.

@@ -1,0 +1,14 @@
+We study a diffusive superconductor--ferromagnet--superconductor (SFS)
+junction with in-plane ferromagnetic domains. Close to the superconducting
+transition temperature, we describe the proximity effect in the junction with
+the linearized Usadel equations. We find that properties of such a junction
+depend on the size of the domains relative to the magnetic coherence length. In
+the case of large domains, the junction exhibits transitions to the $\pi$
+state, similarly to a single-domain SFS junction. In the case of small domains,
+the magnetization effectively averages out, and the junction is always in the
+zero state, similarly to a superconductor--normal metal--superconductor (SNS)
+junction. In both those regimes, the influence of domain walls may be
+approximately described as an effective spin-flip scattering. We also study the
+inhomogeneous distribution of the local current density in the junction. Close
+to the 0--$\pi$ transitions, the directions of the critical current may be
+opposite in the vicinity of the domain wall and in the middle of the domains.

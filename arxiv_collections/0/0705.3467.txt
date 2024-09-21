@@ -1,0 +1,9 @@
+Abelian topologically massive gauge theories (TMGT) provide a topological
+mechanism to generate mass for any p-tensor boson in any dimension. Within the
+Hamiltonian formulation, the embedded topological field theory (TFT) is not
+made manifest. We therefore introduce a gauge invariant factorization of the
+classical phase space in two orthogonal sectors. The first of these sectors is
+that of gauge invariant dynamical variables with massive excitations. The
+second is that of a decoupled TFT. Through canonical quantization, a
+factorization of quantum states arises, enabling the projection from TMGT onto
+topological quantum field theories in a most transparent way.

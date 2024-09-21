@@ -1,0 +1,8 @@
+We propose a scheme for generating entangled states of light fields. This
+scheme only requires the cross-Kerr nonlinear interaction between coherent
+light-beams, followed by a homodyne detection. Therefore, this scheme is within
+the reach of current technology. We study in detail the generation of the
+entangled states between two modes, and that among three modes. In addition to
+the Bell states between two modes and the W states among three modes, we find
+plentiful new kinds of entangled states. Finally, the scheme can be extend to
+generate the entangled states among more than three modes.

@@ -1,0 +1,9 @@
+We develop a semi-classical field method for the study of the weakly
+interacting Bose gas at finite temperature, which, contrarily to the usual
+classical field model, does not suffer from an ultraviolet cut-off dependence.
+We apply the method to the study of thermal vortices in spatially homogeneous,
+two-dimensional systems. We present numerical results for the vortex density
+and the vortex pair distribution function. Insight in the physics of the system
+is obtained by comparing the numerical results with the predictions of simple
+analytical models. In particular, we calculate the activation energy required
+to form a vortex pair at low temperature.

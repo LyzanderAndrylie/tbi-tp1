@@ -1,0 +1,8 @@
+We report Relativity tests based on data from two simultaneous
+Michelson-Morley experiments, spanning a period of more than one year. Both
+were actively rotated on turntables. One (in Berlin, Germany) uses optical
+Fabry-Perot resonators made of fused silica; the other (in Perth, Australia)
+uses microwave whispering-gallery sapphire resonators. Within the standard
+model extension, we obtain simultaneous limits on Lorentz violation for
+electrons (5 coefficients) and photons (8) at levels down to $10^{-16}$,
+improved by factors between 3 and 50 compared to previous work.

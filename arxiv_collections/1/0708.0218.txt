@@ -1,0 +1,21 @@
+We have determined the spins J of resonances in the 147Sm(n,gamma) reaction
+by measuring multiplicities of gamma-ray cascades following neutron capture.
+Using this technique, we were able to determine J values for all but 14 of the
+140 known resonances below En = 1 keV, including 41 firm J assignments for
+resonances whose spins previously were either unknown or tentative. These new
+spin assignments, together with previously determined resonance parameters,
+allowed us to extract separate level spacings and neutron strength functions
+for J = 3 and 4 resonances. Furthermore, several statistical test of the data
+indicate that very few resonances of either spin have been missed below En =
+700eV. Because a non-statistical effect recently was reported near En = 350 eV
+from an analysis of 147Sm(n,alpha) data, we divided the data into two regions;
+0 < En < 350 eV and 350 < En < 700 eV. Using neutron widths from a previous
+measurement and published techniques for correcting for missed resonances and
+for testing whether data are consistent with a Porter-Thomas distribution, we
+found that the reduced-neutron-width distribution for resonances below 350 eV
+is consistent with the expected Porter-Thomas distribution. On the other hand,
+we found that reduced-neutron-width data in the 350 < En < 700 eV region are
+inconsistent with a Porter-Thomas distribution, but in good agreement with a
+chi-squared distribution having two or more degrees of freedom. We discuss
+possible explanations for these observed non-statistical effects and their
+possible relation to similar effects previously observed in other nuclides.

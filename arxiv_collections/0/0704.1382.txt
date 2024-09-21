@@ -1,0 +1,9 @@
+We consider the influence of the inclusion of interatomic interactions on the
+delta-kicked accelerator model. Our analysis concerns in particular quantum
+accelerator modes, namely quantum ballistic transport near quantal resonances.
+The atomic interaction is modelled by a Gross-Pitaevskii cubic nonlinearity,
+and we address both attractive (focusing) and repulsive (defocusing) cases. The
+most remarkable effect is enhancement or damping of the accelerator modes,
+depending on the sign of the nonlinear parameter. We provide arguments showing
+that the effect persists beyond mean-field description, and lies within the
+experimentally accessible parameter range.

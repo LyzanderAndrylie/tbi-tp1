@@ -1,0 +1,13 @@
+Recently it was shown that the eigenfunctions for the the asymmetric
+exclusion problem and several of its generalizations as well as a huge family
+of quantum chains, like the anisotropic Heisenberg model, Fateev- Zamolodchikov
+model, Izergin-Korepin model, Sutherland model, t-J model, Hubbard model, etc,
+can be expressed by a matrix product ansatz. Differently from the coordinate
+Bethe ansatz, where the eigenvalues and eigenvectors are plane wave
+combinations, in this ansatz the components of the eigenfunctions are obtained
+through the algebraic properties of properly defined matrices. In this work, we
+introduce a formulation of a matrix product ansatz for the six-vertex model
+with periodic boundary condition, which is the paradigmatic example of
+integrability in two dimensions. Remarkably, our studies of the six-vertex
+model are in agreement with the conjecture that all models exactly solved by
+the Bethe ansatz can also be solved by an appropriated matrix product ansatz.

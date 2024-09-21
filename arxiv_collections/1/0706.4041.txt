@@ -1,0 +1,7 @@
+Elongated Bose-Einstein condensates (BECs) exhibit strong spatial phase
+fluctuations even well below the BEC transition temperature. We demonstrate
+that atom interferometers using such condensates are robust against phase
+fluctuations, i.e. the relative phase of the split condensate is reproducible
+despite axial phase fluctuations. However, larger phase fluctuations limit the
+coherence time, especially in the presence of some asymmetries in the two wells
+of the interferometer.

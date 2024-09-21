@@ -1,0 +1,12 @@
+Various measurements of the Coulomb breakup of 8B are analyzed within the
+dynamical eikonal approximation using a single description of 8B. We obtain a
+good agreement with experiment for different observables measured between 40
+and 80 MeV per nucleon. A simple 7Be-p potential model description of 8B seems
+sufficient to describe all observables. In particular, the asymmetry in
+parallel-momentum distributions due to E1-E2 interferences is well reproduced
+without any scaling. The projectile-target nuclear interactions seem negligible
+if data are selected at forward angles. On the contrary, like in previous
+analyzes we observe a significant influence of higher-order effects. The
+accuracy of astrophysical S factors for the 7Be(p,gamma)8B reaction at stellar
+energies extracted from breakup measurements therefore seems difficult to
+evaluate.

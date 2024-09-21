@@ -1,0 +1,7 @@
+We introduce our publicly available Wide-Field-Imaging reduction pipeline
+THELI. The procedures applied for the efficient pre-reduction and astrometric
+calibration are presented. A special emphasis is put on the methods applied to
+the photometric calibration. As a test case the reduction of optical data from
+the ESO Deep Public Survey including the WFI-GOODS data is described. The
+end-products of this project are now available via the ESO archive Advanced
+Data Products section.

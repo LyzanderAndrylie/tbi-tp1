@@ -1,0 +1,19 @@
+Simple general formula describing the p-V-T relationships of elastic solids
+is derived from theoretical considerations. The new EoS was tested to
+experiments of perovskite 0-109 GPa and 293-2000 K. The parameters providing
+the best fit are: Ko = 267.5 GPa, Vo = 24.284 cm3, alpha_o = 2.079x10^-5 K^-1,
+the pressure derivative of Ko is 1.556 and the pressure derivative of alpha_o
+is -1.098x10^-7 K^-1GPa^-1 . The root-mean-square-deviations (RMSD) of the
+residuals are 0.043 cm3, 0.79 GPa, and 125 K for the molar volume, pressure,
+and temperature respectively. These RMSD values are in the range of the
+uncertainty of the experiments, indicating that the five parameters
+semi-empirical EoS correctly describes the p-V-T relationships of perovskite.
+Separating the experiments into 200 K ranges the semi-empirical EoS was
+compared to the most widely used finite strain, interatomic potential, and
+empirical isothermal EoSs such as the Birch-Murnaghan, the Vinet, and the
+Roy-Roy respectively. Correlation coefficients, RMSDs of the residuals and
+Akaike Information Criteria were used for evaluating the fitting. Based on
+these fitting parameters under pure isothermal conditions the semi-empirical
+p-V EoS is slightly weaker than the Birch-Murnaghan and Vinet EoSs; however,
+the semi-empirical p-V-T EoS is superior in every temperature range to all of
+the investigated conventional isothermal EoSs.

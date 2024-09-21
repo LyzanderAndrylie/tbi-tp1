@@ -1,0 +1,12 @@
+We consider the quantum fluctuations of the Casimir-Polder force between a
+neutral atom and a perfectly conducting wall in the ground state of the system.
+In order to obtain the atom-wall force fluctuation we first define an operator
+directly associated to the force experienced by the atom considered as a
+polarizable body in an electromagnetic field, and we use a time-averaged force
+operator in order to avoid ultraviolet divergences appearing in the fluctuation
+of the force. This time-averaged force operator takes into account that any
+measurement involves a finite time. We also calculate the Casimir-Polder force
+fluctuation for an atom between two conducting walls. Experimental
+observability of these Casimir-Polder force fluctuations is also discussed, as
+well as the dependence of the relative force fluctuation on the duration of the
+measurement.

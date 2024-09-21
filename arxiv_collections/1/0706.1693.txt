@@ -1,0 +1,10 @@
+Using one-center expansion relations for the Slater type orbitals (STOs) of
+noninteger principal quantum numbers in terms of integer n STOs derived in this
+study with the help of - exponential type orbitals (-ETOs, the general formulas
+are established for the unsymmetrical and symmetrical one-range addition
+theorems of STOs and Coulomb-Yukawa like correlated interaction potentials
+(CIPs) with integer and noninteger indices. The final results are especially
+useful for computations of arbitrary multicenter multielectron integrals over
+STOs that arise in the Hartree-Fock-Roothaan (HFR) approximation and also in
+the correlated methods which play a significant role in theory and application
+to quantum mechanics of atoms, molecules, and solids.

@@ -1,0 +1,10 @@
+The ground state carrier dynamics in self-assembled (In,Ga)As/GaAs quantum
+dots has been studied using time-resolved photoluminescence and transmission.
+By varying the dot design with respect to confinement and doping, the dynamics
+is shown to follow in general a non-exponential decay. Only for specific
+conditions in regard to optical excitation and carrier population, for example,
+the decay can be well described by a mono-exponential form. For resonant
+excitation of the ground state transition a strong shortening of the
+luminescence decay time is observed as compared to the non-resonant case. The
+results are consistent with a microscopic theory that accounts for deviations
+from a simple two-level picture.

@@ -1,0 +1,8 @@
+We show that strong pairing correlations in Fermi gases lead to the
+appearance of a gap-like structure in the RF-spectrum, both in the balanced
+superfluid and in the normal phase above the Clogston-Chandrasekhar limit. The
+average RF-shift of a unitary gas is proportional to the ratio of the Fermi
+velocity and the scattering length with the final state. In the strongly
+imbalanced case, the RF-spectrum measures the binding energy of a minority atom
+to the Fermi sea of majority atoms. Our results provide a qualitative
+understanding of recent experiments by Schunck et.al.

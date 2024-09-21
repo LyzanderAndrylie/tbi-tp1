@@ -1,0 +1,5 @@
+We adapt Sarason's proof of the Julia-Caratheodory theorem to the class of
+Schur-Agler mappings of the unit ball, obtaining a strengthened form of this
+theorem. In particular those quantities which appear in the classical theorem
+and depend only on the component of the mapping in the complex normal direction
+have K-limits (not just restricted K-limits) at the boundary.

@@ -1,0 +1,23 @@
+Motivation: Similarity-measure based clustering is a crucial problem
+appearing throughout scientific data analysis. Recently, a powerful new
+algorithm called Affinity Propagation (AP) based on message-passing techniques
+was proposed by Frey and Dueck \cite{Frey07}. In AP, each cluster is identified
+by a common exemplar all other data points of the same cluster refer to, and
+exemplars have to refer to themselves. Albeit its proved power, AP in its
+present form suffers from a number of drawbacks. The hard constraint of having
+exactly one exemplar per cluster restricts AP to classes of regularly shaped
+clusters, and leads to suboptimal performance, {\it e.g.}, in analyzing gene
+expression data. Results: This limitation can be overcome by relaxing the AP
+hard constraints. A new parameter controls the importance of the constraints
+compared to the aim of maximizing the overall similarity, and allows to
+interpolate between the simple case where each data point selects its closest
+neighbor as an exemplar and the original AP. The resulting soft-constraint
+affinity propagation (SCAP) becomes more informative, accurate and leads to
+more stable clustering. Even though a new {\it a priori} free-parameter is
+introduced, the overall dependence of the algorithm on external tuning is
+reduced, as robustness is increased and an optimal strategy for parameter
+selection emerges more naturally. SCAP is tested on biological benchmark data,
+including in particular microarray data related to various cancer types. We
+show that the algorithm efficiently unveils the hierarchical cluster structure
+present in the data sets. Further on, it allows to extract sparse gene
+expression signatures for each cluster.

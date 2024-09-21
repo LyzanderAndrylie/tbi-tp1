@@ -1,0 +1,4 @@
+We introduce signed q-analogs of Tornheim's double series, and evaluate them
+in terms of double q-Euler sums. As a consequence, we provide explicit
+evaluations of signed and unsigned Tornheim double series, and correct some
+mistakes in the literature.

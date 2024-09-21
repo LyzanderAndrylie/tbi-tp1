@@ -1,0 +1,17 @@
+We have investigated the ground state properties of solid $^4$He with the
+Shadow Path Integral Ground State method. This exact T=0 K projector method
+allows to describes quantum solids without introducing any a priori equilibrium
+position. We have found that the efficiency in computing off-diagonal
+properties in the solid phase sensibly improves when the direct sampling of
+permutations, in principle not required, is introduced. We have computed the
+exact one-body density matrix (obdm) in large commensurate 4He crystal finding
+a decreasing condensate fraction with increasing imaginary time of projection,
+making our result not conclusive on the presence of Bose-Einstein condensation
+in bulk solid 4He. We can only give an upper bound of 2.5 times 10^-8 on the
+condensate fraction. We have exploited the SPIGS method to study also 4He
+crystal containing grain boundaries by computing the related surface energy and
+the obdm along these defects. We have found that also highly symmetrical grain
+boundaries have a finite condensate fraction. We have also derived a route for
+the estimation of the true equilibrium concentration of vacancies x_v in bulk
+T=0 K solid 4He, which is shown to be finite, x_v=0.0014(1) at the melting
+density, when computed with the variational shadow wave function technique.

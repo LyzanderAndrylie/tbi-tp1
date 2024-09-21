@@ -1,0 +1,13 @@
+Given a real and separable Hilbert space H we consider the measure-valued
+equation \begin{equation*} \int_H\phi(x)\mu_t(dx)- \int_H\phi(x)\mu(dx)=
+  \int_0^t(\int_HK_0\phi(x)\mu_s(dx))ds, \end{equation*} where K_0 is the
+Kolmogorov differential operator \[
+  K_0\phi(x)=\frac12\textrm{Trace}\big[BB^*D^2\phi(x)\big]+< x,A^*D\phi(x)>+<
+D\phi(x),F(x)>, \] $x\in H$, $\phi:H\to \Rset$ is a suitable smooth function,
+$A:D(A)\subset H\to H $ is linear, $F:H\to H$ is a globally Lipschitz function
+and $B:H\to H$ is linear and continuous. In order prove existence and
+uniqueness of a solution for the above equation, we show that $K_0$ is a core,
+in a suitable way, of the infinitesimal generator associated to the solution of
+a certain stochastic differential equation in H.
+  We also extend the above results to a reaction-diffusion operator with
+polinomial nonlinearities.

@@ -1,0 +1,10 @@
+Cuprate films offer a unique opportunity to observe vortex tunneling effects,
+due to their unusually low superfluid density and short coherence length. Here,
+we measure the magnetoresistance (\textit{MR}) due to vortex motion of a long
+meander line of a superconducting film made of underdoped
+$YBa_2Cu_3O_{7-\delta}$. At low temperatures (\textit{T}), the \textit{MR}
+shows a significant deviation from Arrhenius activation. The data is consistent
+with two dimensional Variable Range Hopping (VRH) of single vortices, i.e.
+$MR\propto exp[-(T_0/T)^{1/3}]$. The VRH temperature scale $T_0$ depends on the
+vortex tunneling rates between pinning sites. We discuss its magnitude with
+respect to estimated parameters of the meander thin film.

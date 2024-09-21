@@ -1,0 +1,6 @@
+We introduce an algorithm based on a method of snapshots for computing
+approximate balanced truncations for discrete-time, stable, linear
+time-periodic systems. By construction, this algorithm is applicable to very
+high-dimensional systems, even with very high-dimensional outputs (or,
+alternatively, very high-dimensional inputs). An example is shown to validate
+the method.

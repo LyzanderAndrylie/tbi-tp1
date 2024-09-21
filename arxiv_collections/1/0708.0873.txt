@@ -1,0 +1,10 @@
+The force exerted on nanoparticles and atomic clusters by fast passing
+electrons like those employed in transmission electron microscopes are
+calculated and integrated over time to yield the momentum transferred from the
+electrons to the particles. Numerical results are offered for metallic and
+dielectric particles of different sizes (0-500 nm in diameter) as well as for
+carbon nanoclusters. Results for both linear and angular momentum transfers are
+presented. For the electron beam currents commonly employed in electron
+microscopes, the time-averaged forces are shown to be comparable in magnitude
+to laser-induced forces in optical tweezers. This opens up the possibility to
+study optically-trapped particles inside transmission electron microscopes.

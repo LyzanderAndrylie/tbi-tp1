@@ -1,0 +1,13 @@
+In the limit of a large number of colors, N_c, we suggest that gauge theories
+can exhibit several distinct phases at nonzero temperature and quark density.
+Two are familiar: a cold, dilute phase of confined hadrons, where the pressure
+is ~ 1, and a hot phase of deconfined quarks and gluons, with pressure ~ N_c^2.
+When the quark chemical potential mu ~ 1, the deconfining transition
+temperature, T_d, is independent of mu. For T < T_d, as mu increases above the
+mass threshold, baryons quickly form a dense phase where the pressure is ~ N_c.
+As illustrated by a Skyrme crystal, chiral symmetry can be both spontaneously
+broken, and then restored, in the dense phase. While the pressure is ~ N_c,
+like that of (non-ideal) quarks, the dense phase is still confined, with
+interactions near the Fermi surface those of baryons, and not of quarks. Thus
+in the chirally symmetric region, baryons near the Fermi surface are parity
+doubled. We suggest possible implications for the phase diagram of QCD.

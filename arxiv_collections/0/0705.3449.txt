@@ -1,0 +1,11 @@
+Signal formation mechanism of Piezoresponse Force Microscopy of piezoelectric
+surface layers and thin films on stiff and elastically matched substrates is
+analyzed and thickness dependence of effective piezoelectric response, object
+transfer function components and Rayleigh two-point resolution are derived.
+Obtained exact series and simple Pade approximations can be applied for the
+effective piezoresponse analytical calculations in the case of films capped on
+different substrates. The effective piezoresponse is thickness dependent for
+piezoelectric films on substrates with low dielectric permittivity (extrinsic
+size effect), whereas the thickness dependence is essentially suppressed for
+giant permittivity or metallic substrates. Thus implications of analysis for
+ferroelectric data storage and device applications are discussed.

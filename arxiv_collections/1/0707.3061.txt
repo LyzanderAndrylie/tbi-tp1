@@ -1,0 +1,10 @@
+We report on coherent resonant emission of the fundamental exciton state in a
+single semiconductor GaAs quantum dot. Resonant regime with picoseconde laser
+excitation is realized by embedding the quantum dots in a waveguiding
+structure. As the pulse intensity is increased, Rabi oscillation is observed up
+to three periods. The Rabi regime is achieved owing to an enhanced light-matter
+coupling in the waveguide. This is due to a \emph{slow light effect}
+($c/v_{g}\simeq 3000$), occuring when an intense resonant pulse propagates in a
+medium. The resonant control of the quantum dot fundamental transition opens
+new possibilities in quantum state manipulation and quantum optics experiments
+in condensed matter physics.

@@ -1,0 +1,16 @@
+Social groups with widely different music tastes, political convictions, and
+religious beliefs emerge and disappear on scales from extreme subcultures to
+mainstream mass-cultures. Both the underlying social structure and the
+formation of opinions are dynamic and changes in one affect the other. Several
+positive feedback mechanisms have been proposed to drive the diversity in
+social and economic systems, but little effort has been devoted to pinpoint the
+interplay between a dynamically changing social network and the spread and
+gathering of information on the network. Here we analyze this phenomenon in
+terms of a social network-model that explicitly simulates the feedback between
+information assembly and emergence of social structures: changing beliefs are
+coupled to changing relationships because agents self-organize a dynamic
+network to facilitate their hunter-gatherer behavior in information space. Our
+analysis demonstrates that tribal organizations and modular social networks can
+emerge as a result of contact-seeking agents that reinforce their beliefs among
+like-minded. We also find that prestigious persons can streamline the social
+network into hierarchical structures around themselves.

@@ -1,0 +1,8 @@
+The Zero-Range Process, in which particles hop between sites on a lattice
+under conserving dynamics, is a prototypical model for studying real-space
+condensation. Within this model the system is critical only at the transition
+point. Here we consider a non-conserving Zero-Range Process which is shown to
+exhibit generic critical phases which exist in a range of creation and
+annihilation parameters. The model also exhibits phases characterised by
+mesocondensates each of which contains a subextensive number of particles. A
+detailed phase diagram, delineating the various phases, is derived.

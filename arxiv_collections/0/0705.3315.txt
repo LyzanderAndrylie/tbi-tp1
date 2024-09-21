@@ -1,0 +1,8 @@
+The effect of the Pauli exclusion principle on double ionization of He atoms
+by strong, linearly polarized laser pulses is analyzed. We show that correlated
+electron escape, with electron momenta symmetric with respect to the field
+polarization axis, is suppressed if atoms are initially prepared in the
+metastable state 3S. The effect is a consequence of selection rules for the
+transition to the appropriate outgoing two-electron states. We illustrate the
+suppression in numerical calculations of electron and ion momentum
+distributions within a reduced dimensionality model.

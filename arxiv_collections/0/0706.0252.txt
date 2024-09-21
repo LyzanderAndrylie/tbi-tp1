@@ -1,0 +1,7 @@
+Digital linear filters are used in a variety of applications (sound
+treatment, control/command, etc.), implemented in software, in hardware, or a
+combination thereof. For safety-critical applications, it is necessary to bound
+all variables and outputs of all filters. We give a compositional, effective
+abstraction for digital linear filters expressed as block diagrams, yielding
+sound, precise bounds for fixed-point or floating-point implementations of the
+filters.

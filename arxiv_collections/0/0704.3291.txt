@@ -1,0 +1,10 @@
+We compute the dependence of the tunneling current in a double point contact
+in the k=3 Read-Rezayi state (which is conjectured to describe an
+incompressible quantum hall fluid at filling fraction nu=12/5) on voltage,
+separation between the two contacts, and temperature. Using the tunneling
+hamiltonian of cond-mat/0607431, we show that the effect of quasiholes in the
+bulk region between the two contacts is simply an overall constant multiplying
+the interference term. This is the same effect as found for the differential
+conductivity in cond-mat/0601242; the difference is that we do an actual edge
+theory calculation and compute the full current-voltage curve at weak
+tunneling.

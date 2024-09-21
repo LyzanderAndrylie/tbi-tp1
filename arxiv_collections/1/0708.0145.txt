@@ -1,0 +1,6 @@
+A programmable quantum networks model is used in this paper for development
+of methods of control of a quantum state transport. These methods may be
+applied for a wide variety of patterns of controlled state transmission and
+spreading in quantum systems. The programmable perfect state transfer and
+quantum walk, mobile quantum (ro)bots and lattice gas automata may be described
+by unified way with such approach.

@@ -1,0 +1,9 @@
+Magnetic switching of a single-molecule magnet (SMM) due to spin-polarized
+current is investigated theoretically. The charge transfer between the
+electrodes takes place via the lowest unoccupied molecular orbital (LUMO) of
+the SMM. Generally, the double occupancy of the LUMO level, and a finite
+on-site Coulomb repulsion, is taken into account. Owing to the exchange
+interaction between electrons in the LUMO level and the SMM's spin, the latter
+can be reversed. The perturbation approach (Fermi golden rule) is applied to
+calculate current-voltage characteristics. The influence of Coulomb
+interactions on the switching process is also analyzed.

@@ -1,0 +1,9 @@
+The energy--momentum tensor in general relativity contains only localized
+contributions to the total energy--momentum. Here, we consider a static,
+spherically symmetric object consisting of a charged perfect fluid. For this
+object, the total gravitational mass contains a non--localizable contribution
+of electric coupling (ordinarily associated with electromagnetic mass). We
+derive an explicit expression for the total mass which implies that the
+non--localizable contribution of electric coupling is not bound together by
+gravity, thus ruling out existence of the objects with pure Lorentz
+electromagnetic mass in general relativity.

@@ -1,0 +1,7 @@
+We establish the existence of a chiral spin liquid (CSL) as the exact ground
+state of the Kitaev model on a decorated honeycomb lattice, which is obtained
+by replacing each site in the familiar honeycomb lattice with a triangle. The
+CSL state spontaneously breaks time reversal symmetry but preserves other
+symmetries. There are two topologically distinct CSLs separated by a quantum
+critical point. Interestingly, vortex excitations in the topologically
+nontrivial (Chern number $\pm 1$) CSL obey non-Abelian statistics.

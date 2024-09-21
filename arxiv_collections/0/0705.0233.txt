@@ -1,0 +1,7 @@
+In this paper, we consider the coordination control of a group of autonomous
+mobile agents with multiple leaders. Different interconnection topologies are
+investigated. At first, a necessary and sufficient condition is proved in the
+case of fixed interconnection topology. Then a sufficient condition is proposed
+when the interconnection topology is switched. With a simple first-order
+dynamics model by using the neighborhood rule, both results show that the group
+behavior of the agents will converge to the polytope formed by the leaders.

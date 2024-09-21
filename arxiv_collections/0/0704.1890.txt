@@ -1,0 +1,9 @@
+We present a method of computing Casimir forces for arbitrary geometries,
+with any desired accuracy, that can directly exploit the efficiency of standard
+numerical-electromagnetism techniques. Using the simplest possible
+finite-difference implementation of this approach, we obtain both agreement
+with past results for cylinder-plate geometries, and also present results for
+new geometries. In particular, we examine a piston-like problem involving two
+dielectric and metallic squares sliding between two metallic walls, in two and
+three dimensions, respectively, and demonstrate non-additive and non-monotonic
+changes in the force due to these lateral walls.

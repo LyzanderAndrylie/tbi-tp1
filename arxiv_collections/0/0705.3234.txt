@@ -1,0 +1,10 @@
+We describe an experimental setup designed to produce ultracold trapped gas
+clouds of fermionic 6Li and bosonic 87Rb. This combination of alkali metals has
+the potential to reach deeper Fermi degeneracy with respect to other mixtures
+since it allows for improved heat capacity matching which optimizes sympathetic
+cooling efficiency. Atomic beams of the two species are independently produced
+and then decelerated by Zeeman slowers. The slowed atoms are collected into a
+magneto-optical trap and then transferred into a quadrupole magnetic trap. An
+ultracold Fermi gas with temperature in the 10^-3 T_F range should be
+attainable through selective confinement of the two species via a properly
+detuned laser beam focused in the center of the magnetic trap.

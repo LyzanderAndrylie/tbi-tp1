@@ -1,0 +1,15 @@
+Manufacturing is using Virtual Reality tools to enhance the product life
+cycle. Their definitions are still in flux and it is necessary to define their
+connections. Thus, firstly, we will introduce more closely some definitions
+where we will find that, if the Virtual manufacturing concepts originate from
+machining operations and evolve in this manufacturing area, there exist a lot
+of applications in different fields such as casting, forging, sheet
+metalworking and robotics (mechanisms). From the recent projects in Europe or
+in USA, we notice that the human perception or the simulation of mannequin is
+more and more needed in both fields. In this context, we have isolated some
+applications as ergonomic studies, assembly and maintenance simulation, design
+or training where the virtual reality tools can be applied. Thus, we find out a
+family of applications where the virtual reality tools give the engineers the
+main role in the optimization process. We will illustrate our paper by several
+examples where virtual reality interfaces are used and combined with
+optimization tools as multi-agent systems.

@@ -1,0 +1,15 @@
+One of the most important issues of quantum engineering is the construction
+of low-dimensional structures possessing desirable properties. For example, in
+different areas of possible applications of the structures containing quantum
+wells (QW), there is need to have QW energy spectrum, which is predetermined.
+  Then the following question arises: can one reconstruct the shape of QW which
+supports this spectrum? We outline the possible strategy of the QW potential
+shape reconstruction, if the spectrum of QW is given in advance. The proposed
+approach is based on the combination of different techniques such as Inverse
+Scattering Problem Method, Darboux and Liouville transformation. It enables to
+take into account the space-variable dependent effective mass of charge
+carriers and allows the kinetic energy operator to be of non-Hermitian as well
+as Hermitian form. The proposed technique allows to construct phase-equivalent
+potentials, to add the new bounded states to (or remove some of them from) the
+spectrum supported by an initial potential and provides a systematic procedure
+for generating new exactly solvable models.

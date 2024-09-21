@@ -1,0 +1,13 @@
+We use scanning photocurrent microscopy (SPCM) to investigate the properties
+of internal p-n junctions as well as local defects in ambipolar carbon nanotube
+(CNT) transistors. Our SPCM images show strong signals near metal contacts
+whose polarity and positions change depending on the gate bias. SPCM images
+analyzed in conjunction with the overall conductance also indicate the
+existence and gate-dependent evolution of internal p-n junctions near contacts
+in the n-type operation regime. To determine the p-n junction position and the
+depletion width with a nanometer scale resolution, a Gaussian fit was used. We
+also measure the electric potential profile of CNT devices at different gate
+biases, which shows that both local defects and induced electric fields can be
+imaged using the SPCM technique. Our experiment clearly demonstrates that SPCM
+is a valuable tool for imaging and optimizing electrical and optoelectronic
+properties of CNT based devices.

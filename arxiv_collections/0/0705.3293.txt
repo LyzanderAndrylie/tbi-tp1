@@ -1,0 +1,20 @@
+We present a study of variability time scales in a large sample of Active
+Galactic Nuclei at several frequencies between 4.8 and 230 GHz. We investigate
+the differences of various AGN types and frequencies and correlate the measured
+time scales with physical parameters such as the luminosity and the Lorentz
+factor. Our sample consists of both high and low polarization quasars, BL
+Lacertae objects and radio galaxies. The basis of this work is the 22 GHz, 37
+GHz and 87 GHz monitoring data from the Metsahovi Radio Observatory spanning
+over 25 years. In addition,we used higher 90 GHz and 230 GHz frequency data
+obtained with the SEST-telescope between 1987 and 2003. Further lower frequency
+data at 4.8 GHz, 8 GHz and 14.5 GHz from the University of Michigan monitoring
+programme have been used. We have applied three different statistical methods
+to study the time scales: The structure function, the discrete correlation
+function and the Lomb-Scargle periodogram. We discuss also the differences and
+relative merits of these three methods. Our study reveals that smaller flux
+density variations occur in these sources on short time scales of 1-2 years,
+but larger outbursts happen quite rarely, on the average only once in every 6
+years. We do not find any significant differences in the time scales between
+the source classes. The time scales are also only weakly related to the
+luminosity suggesting that the shock formation is caused by jet instabilities
+rather than the central black hole.

@@ -1,0 +1,13 @@
+A general {\it ab-initio} and non-perturbative method to solve the
+time-dependent Schr\"odinger equation (TDSE) for the interaction of a strong
+attosecond laser pulse with a general atom, i.e., beyond the models of
+quasi-one-electron or quasi-two-electron targets, is described. The field-free
+Hamiltonian and the dipole matrices are generated using a flexible $B$-spline
+$R$-matrix method. This numerical implementation enables us to construct
+term-dependent, non-orthogonal sets of one-electron orbitals for the bound and
+continuum electrons. The solution of the TDSE is propagated in time using the
+Arnoldi-Lanczos method, which does not require the diagonalization of any large
+matrices. The method is illustrated by an application to the multi-photon
+excitation and ionization of Ne atoms. Good agreement with $R$-matrix Floquet
+calculations for the generalized cross sections for two-photon ionization is
+achieved.

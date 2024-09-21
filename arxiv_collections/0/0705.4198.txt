@@ -1,0 +1,23 @@
+Coulomb repulsion between electrons moving on a frustrated lattice can give
+rise, at simple commensurate electronic densities, to exotic insulating phases
+of matter. Such a phenomenon is illustrated using an extended t--J model on a
+planar pyrochlore lattice for which the work on the quarter-filled case
+[cond-mat/0702367] is complemented and extended to 1/8- and 3/8-fillings. The
+location of the metal-insulator transition as a function of the Coulomb
+repulsion is shown to depend strongly on the sign of the hopping. Quite
+generally, the metal-insulator transition is characterized by lattice symmetry
+breaking but the nature of the insulating Mott state is more complex than a
+simple Charge Density Wave. Indeed, in the limit of large Coulomb repulsion,
+the physics can be described in the framework of (extended) quantum
+fully-packed loop or dimer models carrying extra spin degrees of freedom.
+Various diagonal and off-diagonal plaquette correlation functions are computed
+and the low-energy spectra are analyzed in details in order to characterize the
+nature of the insulating phases. We provide evidence that, as for an electronic
+density of n=1/2 (quarter-filling), the system at $n=1/4$ or $n=3/4$ exhibits
+also plaquette order by forming a (lattice rotationally-invariant)
+Resonating-Singlet-Pair Crystal, although with a quadrupling of the lattice
+unit cell (instead of a doubling for $n=1/2$) and a 4-fold degenerate ground
+state. Interestingly, qualitative differences with the bosonic analog (e.g.
+known to exhibit columnar order at n=1/4) emphasize the important role of the
+spin degrees of freedom in e.g. stabilizing plaquette phases w.r.t. rotational
+symmetry-breaking phases.

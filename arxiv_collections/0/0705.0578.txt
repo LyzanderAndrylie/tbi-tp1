@@ -1,0 +1,15 @@
+In this paper, we propose a quantum field theoretical renormalization group
+approach to the vortex dynamics of magnetically coupled layered
+superconductors, to supplement our earlier investigations on the
+Josephson-coupled case. We construct a two-dimensional multi-layer sine-Gordon
+type model which we map onto a gas of topological excitations. With a special
+choice of the mass matrix for our field theoretical model, vortex dominated
+properties of magnetically coupled layered superconductors can be described.
+The well known interaction potentials of fractional flux vortices are
+consistently obtained from our field-theoretical analysis, and the physical
+parameters (vortex fugacity and temperature parameter) are also identified. We
+analyse the phase structure of the multi-layer sine--Gordon model by a
+differential renormalization group method for the magnetically coupled case
+from first principles. The dependence of the transition temperature on the
+number of layers is found to be in agreement with known results based on other
+methods.

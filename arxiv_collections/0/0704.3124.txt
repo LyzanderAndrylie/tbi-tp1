@@ -1,0 +1,9 @@
+A new necessary minimality condition for the Mumford-Shah functional is
+derived by means of second order variations. It is expressed in terms of a sign
+condition for a nonlocal quadratic form on $H^1_0(\Gamma)$, $\Gamma$ being a
+submanifold of the regular part of the discontinuity set of the critical point.
+Two equivalent formulations are provided: one in terms of the first eigenvalue
+of a suitable compact operator, the other involving a sort of nonlocal capacity
+of $\Gamma$. A sufficient condition for minimality is also deduced. Finally, an
+explicit example is discussed, where a complete characterization of the domains
+where the second variation is nonnegative can be given.

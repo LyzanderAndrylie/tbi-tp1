@@ -1,0 +1,7 @@
+We demonstrate slow and stored light in Rb vapor with a combination of
+desirable features: minimal loss and distortion of the pulse shape, and large
+fractional delay (> 10). This behavior is enabled by: (i) a group index that
+can be controllably varied during light pulse propagation; and (ii)
+controllable gain integrated into the medium to compensate for pulse loss. Any
+medium with the above two characteristics should be able to realize similarly
+high-performance slow light.

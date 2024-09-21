@@ -1,0 +1,12 @@
+We report extensive simulations of the relaxation dynamics of a self-avoiding
+polymer confined inside a cylindrical pore. In particular, we concentrate on
+examining how confinement influences the scaling behavior of the global
+relaxation time of the chain, t, with the chain length N and pore diameter D.
+An earlier scaling analysis based on the de Gennes blob picture led to t ~
+N^2D^(1/3). Our numerical effort that combines molecular dynamics and Monte
+Carlo simulations, however, consistently produces different t-results for N up
+to 2000. We argue that the previous scaling prediction is only asymptotically
+valid in the limit N >> D^(5/3) >> 1, which is currently inaccessible to
+computer simulations and, more interestingly, is also difficult to reach in
+experiments. Our results are thus relevant for the interpretation of recent
+experiments with DNA in nano- and micro-channels.

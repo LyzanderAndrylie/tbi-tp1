@@ -1,0 +1,9 @@
+We study a method to cool down the vibration mode of a micro-mechanical beam
+using a capacitively-coupled superconducting transmission line. The Coulomb
+force between the transmission line and the beam is determined by the driving
+microwave on the transmission line and the displacement of the beam. When the
+frequency of the driving microwave is smaller than that of the transmission
+line resonator, the Coulomb force can oppose the velocity of the beam. Thus,
+the beam can be cooled. This mechanism, which may enable to prepare the beam in
+its quantum ground state of vibration, is feasible under current experimental
+conditions.

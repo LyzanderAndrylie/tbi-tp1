@@ -1,0 +1,9 @@
+Mandel Q-parameter, which is determined from single event photon statistics,
+provides an alternative to differentiate single-molecule with fluorescence
+detection. In this work, by using the Q-parameter of the sample fluorescence
+compared to that of an ideal double-molecule system with the same average
+photon number, we present a novel and fast approach for identifying single
+molecules based on single event photon statistics analyses, compared with
+commonly used two-time correlation measurements. The error estimates for
+critical values of photon statistics are also presented for single-molecule
+determination.

@@ -1,0 +1,19 @@
+In recent years, the availability of highly pure stable isotopes has made
+possible the investigation of the dependence of the physical properties of
+crystals, in particular semiconductors, on their isotopic composition.
+Following the investigation of the specific heat ($C_p$, $C_v$) of monatomic
+crystals such as diamond, silicon, and germanium, similar investigations have
+been undertaken for the tetrahedral diatomic systems ZnO and GaN (wurtzite
+structure), for which the effect of the mass of the cation differs from that of
+the anion. In this article we present measurements for a semiconductor with
+rock salt structure, namely lead sulfide. Because of the large difference in
+the atomic mass of both constituents ($M_{\rm Pb}$= 207.21 and ($M_{\rm
+S}$=32.06 a.m.u., for the natural isotopic abundance) the effects of varying
+the cation and that of the anion mass are very different for this canonical
+semiconductor. We compare the measured temperature dependence of $C_p \approx
+C_v$, and the corresponding derivatives with respect to ($M_{\rm Pb}$ and
+$M_{\rm S}$), with \textit{\textit{ab initio}} calculations based on the
+lattice dynamics obtained from the local density approximation (LDA) electronic
+band structure. Quantitative deviations between theory and experiment are
+attributed to the absence of spin-orbit interaction in the ABINIT program used
+for the electronic band structure calculations.

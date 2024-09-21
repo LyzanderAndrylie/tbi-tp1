@@ -1,0 +1,9 @@
+It is shown that spectral functions within the extended t-J model, evaluated
+using the finite-temperature diagonalization of small clusters, exhibit the
+high-energy kink in single-particle dispersion consistent with recent
+angle-resolved photoemission results on hole-doped cuprates. The kink and
+waterfall-like features persist up to large doping and to temperatures beyond
+$J$ hence the origin can be generally attributed to strong correlations and
+incoherent hole propagation at large binding energies. In contrast, our
+analysis predicts that electron-doped cuprates do not exhibit these phenomena
+in photoemission.

@@ -1,0 +1,9 @@
+We have performed a search for new particles which decay to two photons using
+1.2/fb of integrated luminosity from p-pbar collisions at sqrt(s) = 1.96 TeV
+collected using the CDF II Detector at the Fermilab Tevatron. We find the
+diphoton mass spectrum to be in agreement with the standard model expectation,
+and set limits on the cross section times branching ratio for the
+Randall-Sundrum graviton, as a function of diphoton mass. We subsequently
+derive lower limits for the graviton mass of 230 GeV/c2 and 850 GeV/c2, at the
+95% confidence level, for coupling parameters (k/M_Pl) of 0.01 and 0.1
+respectively.

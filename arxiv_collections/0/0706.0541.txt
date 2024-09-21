@@ -1,0 +1,6 @@
+In this paper we present a new method to show that a principal homogeneous
+space of the Jacobian of a curve of genus two is nontrivial. The idea is to
+exhibit a Brauer-Manin obstruction to the existence of rational points on a
+quotient of this principal homogeneous space. In an explicit example we apply
+the method to show that a specific curve has infinitely many quadratic twists
+whose Jacobians have nontrivial Tate-Shafarevich group.

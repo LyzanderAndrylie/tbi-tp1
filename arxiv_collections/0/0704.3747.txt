@@ -1,0 +1,5 @@
+We review studies of QCD thermodynamics by lattice QCD simulations with
+dynamical Wilson quarks. After explaining the basic properties of QCD with
+Wilson quarks at finite temperature including the phase structure and the
+scaling properties around the chiral phase transition, we discuss the critical
+temperature, the equation of state and heavy-quark free energies.

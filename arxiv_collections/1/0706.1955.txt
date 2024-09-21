@@ -1,0 +1,9 @@
+We study the effect of disorder on the order parameter equation and
+transition temperature of a Pomeranchuk-type Fermi-surface instability using
+replica mean field theory. We consider the example of a phase transition to a
+$d_{x^2 +y^2}$ type Fermi surface distortion, and show that, in the regime
+where such a transition is second order, the transition temperature is reduced
+by disorder in essentially the same way as that for a d-wave superconductor. We
+argue that observing this disorder dependence of metal-to-metal transition
+might be a useful indicator of a finite angular momentum Fermi surface
+distortion.

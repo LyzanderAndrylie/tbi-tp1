@@ -1,0 +1,20 @@
+By combining experimental measurements of the quasiparticle and dynamical
+magnetic properties of optimally electron-doped Pr$_{0.88}$LaCe$_{0.12}$CuO$_4$
+with theoretical calculations we demonstrate that the conventional fermiology
+approach cannot possibly account for the magnetic fluctuations in these
+materials. In particular, we perform tunneling experiments on the very same
+sample for which a dynamical magnetic resonance has been reported recently and
+use photoemission data by others on a similar sample to characterize the
+fermionic quasiparticle excitations in great detail. We subsequently use this
+information to calculate the magnetic response within the conventional
+fermiology framework as applied in a large body of work for the hole-doped
+superconductors to find a profound disagreement between the theoretical
+expectations and the measurements: this approach predicts a step-like feature
+rather than a sharp resonance peak, it underestimates the intensity of the
+resonance by an order of magnitude, it suggests an unreasonable temperature
+dependence of the resonance, and most severely, it predicts that most of the
+spectral weight resides in incommensurate wings which are a key feature of the
+hole-doped cuprates but have never been observed in the electron-doped
+counterparts. Our findings strongly suggest that the magnetic fluctuations
+reflect the quantum-mechanical competition between antiferromagnetic and
+superconducting orders.

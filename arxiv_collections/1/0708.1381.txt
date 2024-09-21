@@ -1,0 +1,17 @@
+The development of analytic-gradient methodology for excited states within
+conventional time-dependent density-functional theory (TDDFT) would seem to
+offer a relatively inexpensive alternative to better established
+quantum-chemical approaches for the modeling of photochemical reactions.
+However, even though TDDFT is formally exact, practical calculations involve
+the use of approximate functionals, in particular the TDDFT adiabatic
+approximation, whose use in photochemical applications must be further
+validated. Here, we investigate the prototypical case of the symmetric CC ring
+opening of oxirane. We demonstrate by direct comparison with the results of
+high-quality quantum Monte Carlo calculations that, far from being an
+approximation on TDDFT, the Tamm-Dancoff approximation (TDA) is a practical
+necessity for avoiding triplet instabilities and singlet near instabilities,
+thus helping maintain energetically reasonable excited-state potential energy
+surfaces during bond breaking. Other difficulties one would encounter in
+modeling oxirane photodynamics are pointed out but none of these is likely to
+prevent a qualitatively correct TDDFT/TDA description of photochemistry in this
+prototypical molecule.

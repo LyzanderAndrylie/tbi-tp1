@@ -1,0 +1,10 @@
+QUaD is a bolometric CMB polarimeter sited at the South Pole, operating at
+frequencies of 100 and 150 GHz. In this paper we report preliminary results
+from the first season of operation (austral winter 2005). All six CMB power
+spectra are presented derived as cross spectra between the 100 and 150 GHz maps
+using 67 days of observation in a low foreground region of approximately 60
+square degrees. This data is a small fraction of the data acquired to date. The
+measured spectra are consistent with the LCDM cosmological model. We perform
+jackknife tests which indicate that the observed signal has negligible
+contamination from instrumental systematics. In addition by using a frequency
+jackknife we find no evidence for foreground contamination.

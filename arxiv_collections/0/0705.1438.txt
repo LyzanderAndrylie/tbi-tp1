@@ -1,0 +1,9 @@
+High Tc Josephson nanoJunctions (HTc JnJ) made by ion irradiation have
+remarkable properties for technological applications. However, the spread in
+their electrical characteristics increases with the ion dose. We present a
+simple model to explain the JnJ inhomogeneities, which accounts quantitatively
+for experimental data. The spread in the slit's width of the irradiation mask
+is the limiting factor.Monte Carlo simulations have been performed using
+different irradiation conditions to study their influence on the spread of the
+JnJ charcateristics. A "universal" behavior has been evidenced, which allows to
+propose new strategies to optimize JnJ reproducibility.

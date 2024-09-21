@@ -1,0 +1,7 @@
+Analysis of quantum dot structures is a current topic with important
+applications in solid-state digital logic design, quantum information
+technology and quantum optics. In this work, we show a variational formulation
+for the solution of the effective two-level approach of the analysis of
+electron localization in two coupled quantum dots. Numerical results are
+presented as well the use of electron localization in the realization of a
+configurable logic circuit using quantum-dot cellular automata.

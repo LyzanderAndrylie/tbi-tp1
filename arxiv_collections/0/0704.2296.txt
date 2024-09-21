@@ -1,0 +1,15 @@
+It has recently been suggested \cite{Chang:2006bm} that a reliable and
+unambiguous definition of the non-perturbative massive quark condensate could
+be provided by considering a non positive-definite class of solutions to the
+Schwinger Dyson Equation for the quark propagator. In this paper we show that
+this definition is incomplete without considering a third class of solutions.
+Indeed, studying these three classes reveals a degeneracy of possible
+condensate definitions leading to a whole range of values. However, we show
+that the {\it physical} condensate may in fact be extracted by simple fitting
+to the Operator Product Expansion, a procedure which is stabilised by
+considering the three classes of solution together. We find that for current
+quark masses in the range from zero to 25 MeV or so (defined at a scale of 2
+GeV in the $\bar{MS}$ scheme), the dynamically generated condensate increases
+from the chiral limit in a wide range of phenomenologically successful models
+of the confining QCD interaction. Lastly, the role of a fourth class of noded
+solutions is briefly discussed.

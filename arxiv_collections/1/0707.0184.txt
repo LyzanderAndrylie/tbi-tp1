@@ -1,0 +1,8 @@
+In a recent table-top experiment we demonstrated the compatibility of three
+advanced interferometer techniques for gravitational wave detection, namely
+power-recycling, detuned signal-recycling and squeezed field injection. The
+interferometer's signal to noise ratio was improved by up to 2.8 dB beyond the
+coherent state's shot-noise. This value was mainly limited by optical losses on
+the squeezed field. We present a detailed analysis of the optical losses of in
+our experiment and provide an estimation of the possible nonclassical
+performance of a future squeezed field enhanced GEO600 detector.

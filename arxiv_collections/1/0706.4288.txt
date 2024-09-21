@@ -1,0 +1,5 @@
+The paper studies some properties of the ring of integer-valued
+quasi-polynomials. On this ring, theory of generalized Euclidean division and
+generalized GCD are presented. Applications to finite simple continued fraction
+expansion and Smith normal form of integral matrices with integer parameters
+are also given.

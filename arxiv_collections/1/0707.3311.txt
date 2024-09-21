@@ -1,0 +1,8 @@
+A fiber taper waveguide is used to perform direct optical spectroscopy of a
+microdisk-quantum-dot system, exciting the system through the photonic (light)
+channel rather than the excitonic (matter) channel. Strong coupling, the regime
+of coherent quantum interactions, is demonstrated through observation of vacuum
+Rabi splitting in the transmitted and reflected signals from the cavity. The
+fiber coupling method also allows the examination of the system's steady-state
+nonlinear properties, where saturation of the cavity-QD response is observed
+for less than one intracavity photon.

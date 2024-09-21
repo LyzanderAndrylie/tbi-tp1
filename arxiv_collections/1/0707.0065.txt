@@ -1,0 +1,5 @@
+In this paper a new approach to obtain the interface propagation speed in
+superconductors by means of a variationalme thod is introduced. The results of
+the approach proposed coincide with the numerical simulations. The hyperbolic
+differential equations are introduced as an extension of the modelin order to
+take into account delay effects in the front propagation due to the pinning.

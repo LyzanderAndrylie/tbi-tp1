@@ -1,0 +1,11 @@
+In the work, the new method for the design of the wavelength division
+multiplexer on the basis of 2D photonic crystal integrated circuit for the
+ultra-short pulses channel separation is proposed and investigated. The method
+is based on the analysis of full photonic bandgap maps that allows defining the
+ultra-short pulse demultiplexer parameters selection. For the method
+approbation, there was synthesized the device in which the wideband filters are
+used for the channel separation. As it was expected, the device effectively
+separates 50 fs pulse channels with 1.31 and 1.55 microns wavelengths. The
+obtained spectral characteristics and pulse pattern responses validate the
+efficiency of the proposed method and the applicability of such devices to the
+integrated photonic information processing circuits.

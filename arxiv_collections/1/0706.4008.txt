@@ -1,0 +1,14 @@
+In a previous paper we showed that the electromagnetic superenergy tensor,
+the Chevreton tensor, gives rise to a conserved current when there is a
+hypersurface orthogonal Killing vector present. In addition, the current is
+proportional to the Killing vector. The aim of this paper is to extend this
+result to the case when we have a two-parameter Abelian isometry group that
+acts orthogonally transitive on non-null surfaces. It is shown that for
+four-dimensional Einstein-Maxwell theory with a source-free electromagnetic
+field, the corresponding superenergy currents lie in the orbits of the group
+and are conserved. A similar result is also shown to hold for the trace of the
+Chevreton tensor and for the Bach tensor, and also in Einstein-Klein-Gordon
+theory for the superenergy of the scalar field. This links up well with the
+fact that the Bel tensor has these properties and the possibility of
+constructing conserved mixed currents between the gravitational field and the
+matter fields.

@@ -1,0 +1,13 @@
+ASTROD is a relativity mission concept encompassing multi-purposes. One of
+its main purposes is to detect gravitational waves sensitive to low-frequency
+band similar to LISA, but shifted to lower frequencies. In this aspect, ASTROD
+would complement LISA in probing the Universe and study strong-field black hole
+physics. Since ASTROD will be after LISA, in the Cosmic Vision time-frame
+2015-2025, a ten-fold improvement over LISA accelerometer noise goal would be
+possible, allowing us to test relativistic gravity to 1 ppb and improve the
+gravitational-wave sensitivity. In this paper, we address to this possible
+improvement, especially in the frequency range below 0.1 mHz. We look into
+possible thermal noise improvement, magnetic noise improvement, spurious
+discharging noise improvement and local gravitational noise improvement. We
+discuss various possibilities of lower-frequency gravitational-wave responses
+and their significance to potential astrophysical sources.

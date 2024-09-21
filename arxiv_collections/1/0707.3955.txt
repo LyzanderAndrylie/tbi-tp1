@@ -1,0 +1,16 @@
+We consider the classical and quantum dynamics of excitations in a system of
+two capacitively coupled Josephson junctions. In the classical case the
+equations of motion admit discrete breather solutions, which are time periodic
+and localized predominantly on one of the junctions. In the quantum case
+breather states are found in the central part of the energy spectrum of the
+confined nonescaping states of the system. We perform a systematic analysis of
+their tunneling frequency, site correlations, fluctuations of the number of
+quanta, and entanglement. Quantum breather states show strong site correlation
+of quanta and are characterized by a strong excitation of quanta on one
+junction which perform slow coherent tunneling motion from one junction to the
+other. They suppress fluctuations of the total number of excited quanta.
+Quantum breather states are the least entangled states among the group of
+eigenstates in the same range of the energy spectrum. We describe how quantum
+breather excitations could be experimentally observed by employing the already
+developed techniques for quantum information processing using Josephson
+junctions.

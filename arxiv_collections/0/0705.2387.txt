@@ -1,0 +1,14 @@
+Neutron- and proton-induced fission cross-sections of separated isotopes of
+tungsten (182W, 183W, 184W, and 186W) and 181Ta relative to 209Bi have been
+measured in the incident nucleon energy region 50 - 200 MeV using fission
+chambers based on thin-film breakdown counters (TFBC) using quasi-monoenergetic
+neutrons from the 7Li(p,n) reaction and at the proton beams of The Svedberg
+Laboratory (TSL), Uppsala University (Uppsala, Sweden). The results are
+compared with predictions by the CEM03.01 event generator, as well as with the
+recent data for nuclei in the lead-bismuth region. The effect of "compound
+nucleus" in the intermediate energy region is discussed, displaying in
+exponential dependence of nucleon-induced fission cross-sections on the
+parameter Z^2/A of the composite system (projectile+target nucleus), and in
+other characteristics of the fission process for which parameter Z^2/A plays a
+role similar to the one of the usual liquid-drop parameter Z^2/A of compound
+nuclei.

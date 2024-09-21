@@ -1,0 +1,8 @@
+We investigate the creation of highly entangled ground states in a system of
+three exchange-coupled qubits arranged in a ring geometry. Suitable magnetic
+field configurations yielding approximate GHZ and exact W ground states are
+identified. The entanglement in the system is studied at finite temperature in
+terms of the mixed-state tangle tau. By adapting a steepest-descent
+optimization algorithm we demonstrate that tau can be evaluated efficiently and
+with high precision. We identify the parameter regime for which the equilibrium
+entanglement of the tripartite system reaches its maximum.

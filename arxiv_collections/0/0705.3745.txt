@@ -1,0 +1,9 @@
+It is shown that the action associated with center vortices in SU(2) lattice
+gauge theory is strongly correlated with extrinsic and internal curvatures of
+the vortex surface and that this correlation persists in the continuum limit.
+Thus a good approximation for the effective vortex action is the action of
+rigid strings, which can reproduce some of the observed geometric properties of
+center vortices. It is conjectured that rigidity may be induced by some fields
+localized on vortices, and a model-independent test of localization is
+performed. Monopoles detected in the Abelian projection are discussed as
+natural candidates for such two-dimensional fields.

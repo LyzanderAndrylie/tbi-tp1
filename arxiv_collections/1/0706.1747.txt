@@ -1,0 +1,7 @@
+We propose a characterisation of the effects of bistable coherent impurities
+in solid state qubits. We introduce an effective impurity description in terms
+of a tunable spin-boson environment and solve the dynamics for the qubit
+coherences. The dominant rate characterizing the asymptotic time limit is
+identified and signatures of non-Gaussian behavior of the quantum impurity at
+intermediate times are pointed out. An alternative perspective considering the
+qubit as a measurement device for the spin-boson impurity is proposed.

@@ -1,0 +1,7 @@
+We investigate entanglement properties of mixtures of short-range spin-s
+dimer coverings in lattices of arbitrary topology and dimension. We show that
+in one spacial dimension nearest neighbour entanglement exists for any spin
+$s$. Surprisingly, in higher spatial dimensions there is a threshold value of
+spin $s$ below which the nearest neighbour entanglement disappears. The
+traditional "classical" limit of large spin value corresponds to the highest
+nearest neighbour entanglement that we quantify using the negativity.

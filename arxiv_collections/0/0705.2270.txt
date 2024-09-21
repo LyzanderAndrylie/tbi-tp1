@@ -1,0 +1,11 @@
+This paper characterizes the effect of finite rate channel state feedback on
+the sum rate of a multi-access multiple-input multiple-output (MIMO) system. We
+propose to control the users jointly, specifically, we first choose the users
+jointly and then select the corresponding beamforming vectors jointly. To
+quantify the sum rate, this paper introduces the composite Grassmann manifold
+and the composite Grassmann matrix. By characterizing the distortion rate
+function on the composite Grassmann manifold and calculating the logdet
+function of a random composite Grassmann matrix, a good sum rate approximation
+is derived. According to the distortion rate function on the composite
+Grassmann manifold, the loss due to finite beamforming decreases exponentially
+as the feedback bits on beamforming increases.

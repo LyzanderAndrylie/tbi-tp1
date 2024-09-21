@@ -1,0 +1,8 @@
+We calculate the non-linear I-V tunneling curves for a two-point-contact
+tunneling junction between two edges of the $\nu={5/2}$ non-abelian fractional
+quantum Hall state. The non-linear I-V tunneling curves are calculated for both
+cases with and without an $e/4$ non-abelian quasiparticle between the two
+contacts. We confirm that, within a dynamical edge theory, the presence of the
+$e/4$ quasiparticle between the two contacts destroys the interference between
+the two tunneling paths. We also calculate how the interference reappears as
+the $e/4$ quasiparticle is moved closer to an edge.

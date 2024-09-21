@@ -1,0 +1,12 @@
+We examine the structure of the distribution of single particle displacements
+(van-Hove function) in a broad class of materials close to glass and jamming
+transitions. In a wide time window comprising structural relaxation, van-Hove
+functions reflect the coexistence of slow and fast particles (dynamic
+heterogeneity). The tails of the distributions exhibit exponential, rather than
+Gaussian, decay. We argue that this behavior is universal in glassy materials
+and should be considered the analog, in space, of the stretched exponential
+decay of time correlation functions. We introduce a dynamical model that
+describes quantitatively numerical and experimental data in supercooled
+liquids, colloidal hard spheres and granular materials. The tails of the
+distributions directly explain the decoupling between translational diffusion
+and structural relaxation observed in glassy materials.

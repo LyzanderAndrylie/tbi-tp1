@@ -1,0 +1,13 @@
+We investigate time evolution of prepared vibrational state (system) coupled
+to a reservoir with dense spectrum of its vibrational states. We assume that
+the reservoir has an equidistant spectrum, and the system - reservoir coupling
+matrix elements are independent of the reservoir states. The analytical
+solution manifests three regimes of the evolution for the system: (I) weakly
+damped oscillations; (II) multicomponent Loschmidt echo in recurrence cycles;
+(III) overlapping recurrence cycles. We find the characteristic critical values
+of the system - reservoir coupling constant for the transitions between these
+regimes. Stochastic dynamics occurs in the regime (III) due to inevoidably in
+any real system coarse graining of time or energy measurements, or initial
+condition uncertainty. Even though a specific toy model is investigated here,
+when properly interpreted it yields quite reasonable description for a variety
+of physically relevant phenomena.

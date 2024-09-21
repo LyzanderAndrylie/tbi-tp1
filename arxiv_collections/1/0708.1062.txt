@@ -1,0 +1,10 @@
+We discuss a measurement-based implementation of a controlled-NOT (CNOT)
+quantum gate. Such a gate has recently been discussed for free electron qubits.
+Here we extend this scheme for qubits encoded in product states of two (or
+more) spins-1/2 or in equivalent systems. The key to such an extension is to
+find a feasible qubit-parity meter. We present a general scheme for reducing
+this qubit-parity meter to a local spin-parity measurement performed on two
+spins, one from each qubit. Two possible realizations of a multiparticle CNOT
+gate are further discussed: electron spins in double quantum dots in the
+singlet-triplet encoding, and nu=5/2 Ising non-Abelian anyons using topological
+quantum computation braiding operations and nontopological charge measurements.

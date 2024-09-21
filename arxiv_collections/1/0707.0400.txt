@@ -1,0 +1,11 @@
+We define the singular Hecke algebra ${\mathcal H} (SB_n)$ as the quotient of
+the singular braid monoid algebra ${\mathbb C} (q) [SB_n]$ by the Hecke
+relations $\sigma_k^2 = (q-1) \sigma_k +q$, $1 \le k\le n-1$, and define the
+Markov traces on the sequence $\{{\mathcal H}(SB_n)\}_{n=1}^{+\infty}$ in the
+same way as for the Markov traces on the tower of (non-singular) Hecke algebras
+of the symmetric groups. We prove that the Markov traces are in one-to-one
+correspondance with the invariants that satisfies some skein relation, and
+compute an explicit classification of the Markov traces. Thanks to this
+classification, we define some universal HOMFLY-type invariant which has the
+property that it distinguishes all the pairs of singular links that can be
+distinguished by an invariant which satisfies the required skein relation.

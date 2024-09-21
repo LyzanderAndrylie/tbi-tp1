@@ -1,0 +1,10 @@
+We introduce a novel scheme for one-way quantum computing (QC) based on the
+use of information encoded qubits in an effective cluster state resource. With
+the correct encoding structure, we show that it is possible to protect the
+entangled resource from phase damping decoherence, where the effective cluster
+state can be described as residing in a Decoherence-Free Subspace (DFS) of its
+supporting quantum system. One-way QC then requires either single or two-qubit
+adaptive measurements. As an example where this proposal can be realized, we
+describe an optical lattice setup where the scheme provides robust quantum
+information processing. We also outline how one can adapt the model to provide
+protection from other types of decoherence.

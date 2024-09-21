@@ -1,0 +1,9 @@
+A novel measure, quantumness of correlations is introduced here for bipartite
+states, by incorporating the required measurement scheme crucial in defining
+any such quantity. Quantumness coincides with the previously proposed measures
+in special cases and it vanishes for separable states - a feature not captured
+by the measures proposed earlier. It is found that an optimal generalized
+measurement on one of the parts leaves the overall state in its closest
+separable form, which shares the same marginal for the other part, implying
+that quantumness is non-zero for all entangled bipartite states and it serves
+as an upper bound to the relative entropy of entanglement.

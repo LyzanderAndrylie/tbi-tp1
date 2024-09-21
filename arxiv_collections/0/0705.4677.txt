@@ -1,0 +1,6 @@
+We describe the $\pi\pi$ $S$-wave in $D^+ \to\pi^+ \pi^- \pi^+$ decays using
+a unitary model for the $\pi\pi$ Final State Interactions (FSI). The three body
+decay is treated as a quasi two-body process where, at the weak vertex, the D
+meson decays into a resonance and a pion. The weak part of the decay amplitude
+is evaluated using the effective weak Hamiltonian within the factorization
+approximation.

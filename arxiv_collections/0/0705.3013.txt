@@ -1,0 +1,11 @@
+In this paper the issue of energy efficiency in CDMA wireless data networks
+is addressed through a game theoretic approach. Building on a recent paper by
+the first two authors, wherein a non-cooperative game for spreading-code
+optimization, power control, and receiver design has been proposed to maximize
+the ratio of data throughput to transmit power for each active user, a
+stochastic algorithm is here described to perform adaptive implementation of
+the said non-cooperative game. The proposed solution is based on a combination
+of RLS-type and LMS-type adaptations, and makes use of readily available
+measurements. Simulation results show that its performance approaches with
+satisfactory accuracy that of the non-adaptive game, which requires a much
+larger amount of prior information.

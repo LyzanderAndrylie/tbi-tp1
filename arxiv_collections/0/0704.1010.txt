@@ -1,0 +1,9 @@
+We introduce an explicit method for studying actions of a group stack G on an
+algebraic stack X. As an example, we study in detail the case where
+X=P(n_0,...,n_r) is a weighted projective stack over an arbitrary base S. To
+this end, we give an explicit description of the group stack of automorphisms
+of, the weighted projective general linear 2-group PGL(n_0,...,n_r). As an
+application, we use a result of Colliot-Thelene to show that for every linear
+algebraic group G over an arbitrary base field k (assumed to be reductive if
+char(k)>0) such that Pic}(G)=0, every action of G on P(n_0,...,n_r) lifts to a
+linear action of G on A^{r+1}.

@@ -1,0 +1,7 @@
+We study the effect of an external magnetic field on the transport properties
+of a quantum dot using a recently developed extension of the functional
+renormalization group approach to non-equilibrium situations. We discuss in
+particular the interplay and competition of the different energy scales of the
+dot and the magnetic field on the stationary non-equilibrium current and
+conductance. As rather interesting behavior we find a switching behavior of the
+magnetic field for intermediate correlations and bias voltage.

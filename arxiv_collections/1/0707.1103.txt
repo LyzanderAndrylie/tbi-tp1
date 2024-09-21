@@ -1,0 +1,13 @@
+We report direct observation of the evolution of local temperature
+inhomogeneity and the resulting atomic migration in a metal film (Ag on Si)
+stressed by a current by using a Scanning Thermal Microscope that allows
+simultaneous temperature mapping and topography imaging. The experimental
+observation is analyzed using a model based simulation. The experimental
+observation and the simulation show that due to current stressing the
+temperature of the film becomes significantly inhomogeneous over time (with
+local temperature deviating strongly from the mean). This creates local stress
+as well as local temperature gradient that lead to mass migration in addition
+to the electromigration. We show that the local temperature inhomogeneity
+serves as one of the main agents for local atomic migration which leads to
+change in film microstructure. The migration leads to damage and eventual
+failure as simultaneously monitored by in-situ resistance measurement.

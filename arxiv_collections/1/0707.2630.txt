@@ -1,0 +1,6 @@
+OpenFMO framework, an open-source software (OSS) platform for Fragment
+Molecular Orbital (FMO) method, is extended to multi-physics simulations (MPS).
+After reviewing the several FMO implementations on distributed computer
+environments, the subsequent development planning corresponding to MPS is
+presented. It is discussed which should be selected as a scientific software,
+lightweight and reconfigurable form or large and self-contained form.

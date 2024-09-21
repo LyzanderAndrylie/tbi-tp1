@@ -1,0 +1,9 @@
+We study gravitational radiation reaction in the equations of motion for
+binary systems with spin-orbit coupling, at order (v/c)^7 beyond Newtonian
+gravity, or O(v/c)^2 beyond the leading radiation reaction effects for
+non-spinning bodies. We use expressions for the energy and angular momentum
+flux at infinity that include spin-orbit corrections, together with an
+assumption of energy and angular momentum balance, to derive equations of
+motion that are valid for general orbits and for a class of coordinate gauges.
+We show that the equations of motion are compatible with those derived earlier
+by a direct calculation.

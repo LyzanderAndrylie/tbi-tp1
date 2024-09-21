@@ -1,0 +1,4 @@
+In a recent paper Flohr, Grabow and Koehn conjectured that the characters of
+the logarithmic conformal field theory c_{k,1}, of central charge
+c=1-6(k-1)^2/k, admit fermionic representations labelled by the Lie algebra
+D_k. In this note we provide a simple analytic proof of this conjecture.

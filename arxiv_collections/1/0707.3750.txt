@@ -1,0 +1,10 @@
+The fold recognition methods are promissing tools for capturing the structure
+of a protein by its amino acid residues sequence but their use is still
+restricted by the needs of huge computational resources and suitable efficient
+algorithms as well. In the recent version of FROST (Fold Recognition Oriented
+Search Tool) package the most efficient algorithm for solving the Protein
+Threading Problem (PTP) is implemented due to the strong collaboration between
+the SYMBIOSE group in IRISA and MIG in Jouy-en-Josas. In this paper, we present
+the diverse components of FROST, emphasizing on the recent advances in
+formulating and solving new versions of the PTP and on the way of solving on a
+computer cluster a million of instances in a easonable time.

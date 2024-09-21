@@ -1,0 +1,13 @@
+Our previous point-contact Andreev reflection studies of the heavy-fermion
+superconductor CeCoIn$_5$ using Au tips have shown two clear features: reduced
+Andreev signal and asymmetric background conductance [1]. To explore their
+physical origins, we have extended our measurements to point-contact junctions
+between single crystalline heavy-fermion metals and superconducting Nb tips.
+Differential conductance spectra are taken on junctions with three
+heavy-fermion metals, CeCoIn$_5$, CeRhIn$_5$, and YbAl$_3$, each with different
+electron mass. In contrast with Au/CeCoIn$_5$ junctions, Andreev signal is not
+reduced and no dependence on effective mass is observed. A possible explanation
+based on a two-fluid picture for heavy fermions is proposed. [1] W. K. Park et
+al., Phys. Rev. B 72 052509 (2005); W. K. Park et al., Proc. SPIE-Int. Soc.
+Opt. Eng. 5932 59321Q (2005); W. K. Park et al., Physica C (in press)
+(cond-mat/0606535).

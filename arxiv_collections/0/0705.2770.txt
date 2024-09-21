@@ -1,0 +1,11 @@
+We study the Schwinger mechanism in QCD in the presence of an arbitrary
+time-dependent chromo-electric background field $E^a(t)$ with arbitrary color
+index $a$=1,2,...8 in SU(3). We obtain an exact result for the non-perturbative
+quark (antiquark) production from an arbitrary $E^a(t)$ by directly evaluating
+the path integral. We find that the exact result is independent of all the time
+derivatives $\frac{d^nE^a(t)}{dt^n}$ where $n=1,2,...\infty$. This result has
+the same functional dependence on two Casimir invariants $[E^a(t)E^a(t)]$ and
+$[d_{abc}E^a(t)E^b(t)E^c(t)]^2$ as the constant chromo-electric field $E^a$
+result with the replacement: $E^a \rightarrow E^a(t)$. This result relies
+crucially on the validity of the shift conjecture, which has not yet been
+established.

@@ -1,0 +1,10 @@
+A theory is presented for lambda_C, the coefficient of the first-order
+correction in the density of the collective diffusion coefficient, for protein
+spheres interacting by electrostatic and adhesive forces. An extensive
+numerical analysis of the Stokesian hydrodynamics of two moving spheres is
+given so as to gauge the precise impact of lubrication forces. An effective
+stickiness is introduced and a simple formula for lambda_C in terms of this
+variable is put forward. A precise though more elaborate approximation for
+lambda_C is also developed. These and numerically exact expressions for
+lambda_C are compared with experimental data on lysozyme at pH 4.5 and a range
+of ionic strengths between 0.05 M and 2 M.

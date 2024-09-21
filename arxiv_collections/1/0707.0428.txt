@@ -1,0 +1,9 @@
+The construction of optimal template banks for matched-filtering searches is
+an example of the sphere covering problem. For parameter spaces with
+constant-coefficient metrics a (near-) optimal template bank is achieved by the
+A_n* lattice, which is the best lattice-covering in dimensions n <= 5, and is
+close to the best covering known for dimensions n <= 16. Generally this
+provides a substantially more efficient covering than the simpler hyper-cubic
+lattice. We present an algorithm for generating lattice template banks for
+constant-coefficient metrics and we illustrate its implementation by generating
+A_n* template banks in n=2,3,4 dimensions.

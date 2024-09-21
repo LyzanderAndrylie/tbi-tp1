@@ -1,0 +1,23 @@
+The experimental demonstration of the modification of the Casimir force
+between a gold coated sphere and a single-crystal Si membrane by light pulses
+is performed. The specially designed and fabricated Si membrane was irradiated
+with 514 nm laser pulses of 5 ms width in high vacuum leading to a change of
+the charge-carrier density. The difference in the Casimir force in the presence
+and in the absence of laser radiation was measured by means of an atomic force
+microscope as a function of separation at different powers of the absorbed
+light. The total experimental error of the measured force differences at a
+separation of 100 nm varies from 10 to 20% in different measurements. The
+experimental results are compared with theoretical computations using the
+Lifshitz theory at both zero and laboratory temperatures. The total theoretical
+error determined mostly by the uncertainty in the concentration of charge
+carriers when the light is incident is found to be about 14% at separations
+less than 140 nm. The experimental data are consistent with the Lifshitz theory
+at laboratory temperature, if the static dielectric permittivity of
+high-resistivity Si in the absence of light is assumed to be finite. If the dc
+conductivity of high-resistivity Si in the absence of light is included into
+the model of dielectric response, the Lifshitz theory at nonzero temperature is
+shown to be experimentally inconsistent at 95% confidence. The demonstrated
+phenomenon of the modification of the Casimir force through a change of the
+charge-carrier density is topical for applications of the Lifshitz theory to
+real materials in fields ranging from nanotechnology and condensed matter
+physics to the theory of fundamental interactions.

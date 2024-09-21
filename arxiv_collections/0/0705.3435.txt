@@ -1,0 +1,10 @@
+We study the Casimir force in piston-like geometries semiclassically. The
+force on the piston is finite and physical, but to leading semiclassical
+approximation depends strongly on the shape of the surrounding cavity. Whereas
+this force is attractive for pistons in a parallelepiped with flat cylinder
+head, for which the semiclassical approximation by periodic orbits is exact,
+this approximation to the force on the piston vanishes for a semi-cylindrical
+head and becomes repulsive for a cylinder of circular cross section with a
+hemispherical head. In leading semiclassical approximation the sign of the
+force is related to the generalized Maslov index of short periodic orbits
+between the piston and its casing.

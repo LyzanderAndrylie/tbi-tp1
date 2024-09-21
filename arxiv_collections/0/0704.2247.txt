@@ -1,0 +1,11 @@
+The problem of characterizing complexity of quantum dynamics - in particular
+of locally interacting chains of quantum particles - will be reviewed and
+discussed from several different perspectives: (i) stability of motion against
+external perturbations and decoherence, (ii) efficiency of quantum simulation
+in terms of classical computation and entanglement production in operator
+spaces, (iii) quantum transport, relaxation to equilibrium and quantum mixing,
+and (iv) computation of quantum dynamical entropies. Discussions of all these
+criteria will be confronted with the established criteria of integrability or
+quantum chaos, and sometimes quite surprising conclusions are found. Some
+conjectures and interesting open problems in ergodic theory of the quantum many
+problem are suggested.

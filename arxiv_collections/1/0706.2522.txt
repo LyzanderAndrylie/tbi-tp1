@@ -1,0 +1,15 @@
+Bohmian mechanics (BM) is a popular interpretation of quantum mechanics in
+which particles have real positions. The velocity of a point x in configuration
+space is defined as the standard probability current j(x) divided by the
+probability density P(x). However, this ``standard'' j is in fact only one of
+infinitely many that transform correctly and satisfy \dot P + \del . j=0. In
+this article I show that there is a unique j that can be determined
+experimentally as a weak value using techniques that would make sense to a
+classical physicist. Moreover, this operationally defined j equals the standard
+j, so, assuming \dot x = j/P, the possible Bohmian paths can also be determined
+experimentally from a large enough ensemble. Furthermore, this approach to
+deriving BM singles out x as the hidden variable, because (for example) the
+operationally defined momentum current is in general incompatible with the
+evolution of the momentum distribution. Finally I discuss how, in this setting,
+the usual quantum probabilities can be derived from a Bayesian standpoint, via
+the principle of indifference.

@@ -1,0 +1,10 @@
+We construct a spinfoam model for Yang-Mills theory coupled to quantum
+gravity in three dimensional riemannian spacetime. We define the partition
+function of the coupled system as a power series in g_0^2 G that can be
+evaluated order by order using grasping rules and the recoupling theory. With
+respect to previous attempts in the literature, this model assigns the
+dynamical variables of gravity and Yang-Mills theory to the same simplices of
+the spinfoam, and it thus provides transition amplitudes for the spin network
+states of the canonical theory. For SU(2) Yang-Mills theory we show explicitly
+that the partition function has a semiclassical limit given by the Regge
+discretization of the classical Yang-Mills action.

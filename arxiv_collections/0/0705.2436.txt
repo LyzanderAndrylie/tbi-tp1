@@ -1,0 +1,11 @@
+In this paper we study standard bases for submodules of
+K[[t_1,...,t_m]][x_1,...,x_n]^s respectively of their localisation with respect
+to a t-local monomial ordering. The main step is to prove the existence of a
+division with remainder generalising and combining the division theorems of
+Grauert and Mora. Everything else then translates naturally. Setting either m=0
+or n=0 we get standard bases for polynomial rings respectively for power series
+rings as a special case. We then apply this technique to show that the
+t-initial ideal of an ideal over the Puiseux series field can be read of from a
+standard basis of its generators. This is an important step in the constructive
+proof that each point in the tropical variety of such an ideal admits a
+lifting.

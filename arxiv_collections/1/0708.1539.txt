@@ -1,0 +1,8 @@
+On the basis of a suggestive definition of a classical extension of quantum
+mechanics in terms of statistical models, we prove that every such classical
+extension is essentially given by the so-called Misra-Bugajski reduction map.
+We consider how this map enables one to understand quantum mechanics as a
+reduced classical statistical theory on the projective Hilbert space as phase
+space and discuss features of the induced hidden-variables model. Moreover,
+some relevant technical results on the topology and Borel structure of the
+projective Hilbert space are reviewed.

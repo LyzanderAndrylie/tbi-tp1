@@ -1,0 +1,15 @@
+In this paper we present the asymptotic enumeration of RNA structures with
+pseudoknots. We develop a general framework for the computation of exponential
+growth rate and the sub exponential factors for $k$-noncrossing RNA structures.
+Our results are based on the generating function for the number of
+$k$-noncrossing RNA pseudoknot structures, ${\sf S}_k(n)$, derived in
+\cite{Reidys:07pseu}, where $k-1$ denotes the maximal size of sets of mutually
+intersecting bonds. We prove a functional equation for the generating function
+$\sum_{n\ge 0}{\sf S}_k(n)z^n$ and obtain for $k=2$ and $k=3$ the analytic
+continuation and singular expansions, respectively. It is implicit in our
+results that for arbitrary $k$ singular expansions exist and via transfer
+theorems of analytic combinatorics we obtain asymptotic expression for the
+coefficients. We explicitly derive the asymptotic expressions for 2- and
+3-noncrossing RNA structures. Our main result is the derivation of the formula
+${\sf S}_3(n) \sim \frac{10.4724\cdot 4!}{n(n-1)...(n-4)}
+(\frac{5+\sqrt{21}}{2})^n$.

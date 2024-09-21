@@ -1,0 +1,13 @@
+We show that matrix $Q\times Q$ Self-dual type $S$-integrable Partial
+Differential
+  Equations (PDEs) possess a family of lower-dimensional reductions represented
+by the matrix $ Q \times n_0 Q$ quasilinear first order PDEs solved in
+\cite{SZ1} by the method of characteristics. In turn, these PDEs admit two
+types of available particular solutions: (a) explicit solutions and (b)
+solutions described implicitly by a system of non-differential equations. The
+later solutions, in particular, exhibit the wave profile breaking. Only first
+type of solutions is available for (1+1)-dimensional nonlinear $S$-integrable
+PDEs. (1+1)-dimensional $N$-wave equation, (2+1)- and (3+1)-dimensional
+Pohlmeyer equations are represented as examples. We also represent a new
+version of the dressing method which supplies both classical solutions and
+solutions with wave profile breaking to the above $S$-integrable PDEs.

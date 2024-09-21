@@ -1,0 +1,11 @@
+Till now, few work has been done to analyze the performances of joint
+fingerprint embedding and decryption schemes. In this paper, the security of
+the joint fingerprint embedding and decryption scheme proposed by Kundur et al.
+is analyzed and improved. The analyses include the security against
+unauthorized customer, the security against authorized customer, the
+relationship between security and robustness, the relationship between
+secu-rity and imperceptibility and the perceptual security. Based these
+analyses, some means are proposed to strengthen the system, such as multi-key
+encryp-tion and DC coefficient encryption. The method can be used to analyze
+other JFD schemes. It is expected to provide valuable information to design JFD
+schemes.

@@ -1,0 +1,10 @@
+A doping series of AlAs (001) quantum wells with Si delta-modulation doping
+on both sides reveals different dark and post-illumination saturation
+densities, as well as temperature dependent photoconductivity. The lower dark
+two-dimensional electron density saturation is explained assuming deep binding
+energy of Delta_DK = 65.2 meV for Si-donors in the dark. Persistent
+photoconductivity (PPC) is observed upon illumination, with higher saturation
+density indicating shallow post-illumination donor binding energy. The
+photoconductivity is thermally activated, with 4 K illumination requiring
+post-illumination annealing to T = 30 K to saturate the PPC. Dark and
+post-illumination doping efficiencies are reported.

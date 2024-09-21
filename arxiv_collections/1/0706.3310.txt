@@ -1,0 +1,17 @@
+This work presents the study of some new anomalous electromagnetic effects in
+graphite-like thin carbon films. These are: The fast switching (1nanosecond) of
+electrical conductivity The detection of microwave radiation and its
+temperature dependence The oscillations of film stack magnetization in the
+magnetic field of 1-5 T. The optical radiation under process of spasmodic
+switching of conductivity Results of magnetic force microscopy (MFM), DC SQUID
+magnetization, reversed Josephson effect (RJE), and resistance measurements in
+thin carbon arc (CA) films are presented. The observation of a RJE induced
+voltage as well as its rf frequency, input amplitude, and temperature
+dependence reveals the existence of Josephson-like Junction arrays. Oscillating
+behavior of the DC SQUID magnetization reminiscent of the Fraunhofer-like
+behavior of superconducting (SC) critical current in the range of 10000-50000
+Oe has been observed. The DC SQUID magnetization measurement indicates a
+possible elementary 102 nm SC loop; this is compared to MFM direct observations
+of magnetic clusters with a median size of 165 nm. The results obtained
+provides a basis for non-cryogenic elecrtonic devices utilizing the Josephson
+effect.

@@ -1,0 +1,17 @@
+We evaluate the antikaon and hyperon spectral functions in a self-consistent
+and covariant many-body approach. The computation is based on coupled-channel
+dynamics derived from the chiral SU(3) Lagrangian. A novel subtraction scheme
+is developed that avoids kinematical singularities and medium-induced power
+divergencies all together. Scalar and vector mean fields are used to model
+nuclear binding and saturation. The effect of the latter is striking for the
+antikaon spectral function that becomes significantly more narrow at small
+momenta. Attractive mass shifts of about 30 and 40 MeV are predicted for the
+Lambda(1405) and Sigma(1385) resonances. Once scalar and vector mean fields for
+the nucleon are switched on the Lambda(1520) resonances dissolves almost
+completely in nuclear matter. All together only moderate attraction is
+predicted for the nuclear antikaon systems at saturation density. However, at
+larger densities we predict a sizable population of soft antikaon modes that
+arise from the coupling of the antikaon to a highly collective Lambda(1115)
+nucleon-hole state. This may lead to the formation of exotic nuclear systems
+with strangeness and antikaon condensation in compact stars at moderate
+densities.

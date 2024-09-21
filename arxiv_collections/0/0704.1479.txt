@@ -1,0 +1,7 @@
+Recently, it was predicted that if all one-electron states in a
+non-interacting disordered system are localized, the interaction between
+electrons in the absence of coupling to phonons leads to a finite-temperature
+metal-insulator trnasition. Here we show that even in the presence of a weak
+coupling to phonons the transition manifests itself (i) in the nonlinear
+conduction, leading to a bistable $I$-$V$ curve, (ii) by a dramatic enhancement
+of the nonequilibrium current noise near the transition.

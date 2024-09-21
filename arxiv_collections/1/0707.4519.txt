@@ -1,0 +1,11 @@
+We study real-space condensation phenomena in a type of classical stochastic
+processes (site-particle system), such as zero-range processes and urn models.
+We here study a stochastic process in the Ehrenfest class, i.e., particles in a
+site are distinguishable. In terms of the statistical mechanical analogue, the
+Ehrenfest class obeys the Maxwell-Boltzmann statistics. We analytically clarify
+conditions for condensation phenomena in disordered cases in the Ehrenfest
+class. In addition, we discuss the preferential urn model as an example of the
+disordered urn model. It becomes clear that the quenched disorder property
+plays an important role in the occurrence of the condensation phenomenon in the
+preferential urn model. It is revealed that the preferential urn model shows
+three types of condensation depending on the disorder parameters.

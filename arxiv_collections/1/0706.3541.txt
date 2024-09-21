@@ -1,0 +1,22 @@
+A large number of effects related to the phenomenon of Bose-Einstein
+Condensation (BEC) can be understood in terms of lowest order mean field
+theory, whereby the entire system is assumed to be condensed, with thermal and
+quantum fluctuations completely ignored. Such a treatment leads to the
+Gross-Pitaevskii Equation (GPE) used extensively throughout this book. Although
+this theory works remarkably well for a broad range of experimental parameters,
+a more complete treatment is required for understanding various experiments,
+including experiments with solitons and vortices. Such treatments should
+include the dynamical coupling of the condensate to the thermal cloud, the
+effect of dimensionality, the role of quantum fluctuations, and should also
+describe the critical regime, including the process of condensate formation.
+The aim of this Chapter is to give a brief but insightful overview of various
+recent theories, which extend beyond the GPE. To keep the discussion brief,
+only the main notions and conclusions will be presented. This Chapter
+generalizes the presentation of Chapter 1, by explicitly maintaining
+fluctuations around the condensate order parameter. While the theoretical
+arguments outlined here are generic, the emphasis is on approaches suitable for
+describing single weakly-interacting atomic Bose gases in harmonic traps.
+Interesting effects arising when condensates are trapped in double-well
+potentials and optical lattices, as well as the cases of spinor condensates,
+and atomic-molecular coupling, along with the modified or alternative theories
+needed to describe them, will not be covered here.

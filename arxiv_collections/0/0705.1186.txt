@@ -1,0 +1,16 @@
+We present the results of the analysis of neutrino observations by the
+Antarctic Muon and Neutrino Detector Array (AMANDA) correlated with photon
+observations of more than 400 gamma-ray bursts (GRBs) in the Northern
+Hemisphere from 1997 to 2003. During this time period, AMANDA's effective
+collection area for muon neutrinos was larger than that of any other existing
+detector. Based on our observations of zero neutrinos during and immediately
+prior to the GRBs in the dataset, we set the most stringent upper limit on muon
+neutrino emission correlated with gamma-ray bursts. Assuming a Waxman-Bahcall
+spectrum and incorporating all systematic uncertainties, our flux upper limit
+has a normalization at 1 PeV of
+  E^2{\Phi}_{\nu} {\leq} 6.0 \times 10^{-9} GeV cm^{-2} s^{-1} sr^{-1}, with
+90% of the events expected within the energy range of ~10 TeV to ~3 PeV. The
+impact of this limit on several theoretical models of GRBs is discussed, as
+well as the future potential for detection of GRBs by next generation neutrino
+telescopes. Finally, we briefly describe several modifications to this analysis
+in order to apply it to other types of transient point sources.

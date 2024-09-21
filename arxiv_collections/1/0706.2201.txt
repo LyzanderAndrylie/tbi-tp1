@@ -1,0 +1,7 @@
+In this paper we analyze the spin-wave excitations (magnons) of an
+inhomogeneous spin system within the Boltzmann-Gibbs framework and then connect
+the results with the nonextensive approach (in the sense of Tsallis
+statistics). Considering an equivalence between those two frameworks, we could
+connect the entropic parameter q with moments of the distribution of exchange
+integrals of the inhomogenous system. It ratifies the idea that the entropic
+parameter is connected to the microscopic properties of the system.

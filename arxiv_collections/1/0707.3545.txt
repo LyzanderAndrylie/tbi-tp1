@@ -1,0 +1,9 @@
+We introduce and study a class of exchangeable random graph ensembles. They
+can be used as statistical null models for empirical networks, and as a tool
+for theoretical investigations. We provide general theorems that carachterize
+the degree distribution of the ensemble graphs, together with some features
+that are important for applications, such as subgraph distributions and kernel
+of the adjacency matrix. These results are used to compare to other models of
+simple and complex networks. A particular case of directed networks with
+power-law out--degree is studied in more detail, as an example of the
+flexibility of the model in applications.

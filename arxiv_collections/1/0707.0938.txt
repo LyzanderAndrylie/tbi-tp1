@@ -1,0 +1,10 @@
+Classical radiation equilibrium (the blackbody problem) is investigated by
+the use of an analogy. Scaling symmetries are noted for systems of classical
+charged particles moving in circular orbits in central potentials V(r)=-k/r^n
+when the particles are held in uniform circular motion against radiative
+collapse by a circularly polarized incident plane wave. Only in the case of a
+Coulomb potential n=1 with fixed charge e is there a unique scale-invariant
+spectrum of radiation versus frequency (analogous to zero-point radiation)
+obtained from the stable scattering arrangement. These results suggest that
+non-electromagnetic potentials are not appropriate for discussions of classical
+radiation equilibrium.

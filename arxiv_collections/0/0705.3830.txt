@@ -1,0 +1,10 @@
+We consider a two-dimensional electron gas with Rashba's spin-orbit
+interaction and two in-plane potentials superimposed along directions
+perpendicular to each other. The first of these potentials is assumed to be a
+general periodic potential while the second one is totally arbitrary. A general
+form for Bloch's amplitude is found and an eigen-value problem for the band
+structure of the system is derived. We apply the general result to the two
+particular cases in which either the second potential represents a harmonic
+in-plane confinement or it is zero. We find that for a harmonic confinement
+regions of the Brillouin zone with high polarizations are associated with the
+ones of large group velocity.

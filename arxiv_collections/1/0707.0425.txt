@@ -1,0 +1,10 @@
+We show that in the large matrix limit, the eigenvalues of the normal matrix
+model for matrices with spectrum inside a compact domain with a special class
+of potentials homogeneously fill the interior of a polynomial curve uniquely
+defined by the area of its interior domain and its exterior harmonic moments
+which are all given as parameters of the potential.
+  Then we consider the orthogonal polynomials corresponding to this matrix
+model and show that, under certain assumptions, the density of the zeros of the
+highest relevant orthogonal polynomial in the large matrix limit is (up to some
+constant factor) given by the discontinuity of the Schwarz function of this
+polynomial curve.

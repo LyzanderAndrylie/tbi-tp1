@@ -1,0 +1,7 @@
+We discuss three issues in the context of three-dimensional (3D)
+hydrodynamical model atmospheres for late-type stars, related to spectral line
+shifts, radiative transfer in metal-poor 3D models, and the solar oxygen
+abundance. We include a brief overview about the model construction, taking the
+radiation-hydrodynamics code CO5BOLD (COnservative COde for the COmputation of
+COmpressible COnvection in a BOx of L Dimensions with L=2,3) and the related
+spectral synthesis package Linfor3D as examples.

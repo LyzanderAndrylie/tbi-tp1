@@ -1,0 +1,10 @@
+Recently, Bender et al. have considered the quantum brachistochrone problem
+for the non-Hermitian $\cal PT$-symmetric quantum system and have shown that
+the optimal time evolution required to transform a given initial state
+$|\psi_i\rangle$ into a specific final state $|\psi_f\rangle$ can be made
+arbitrarily small. Additionally, it has been shown that finding the shortest
+possible time requires only the solution of the two-dimensional problem for the
+quantum system governed by the effective Hamiltonian acting in the subspace
+spanned by $|\psi_i\rangle$ and $|\psi_f\rangle$. In this paper, we study a
+similar problem for the generic non-Hermitian Hamiltonian, focusing our
+attention on the geometric aspects of the problem.

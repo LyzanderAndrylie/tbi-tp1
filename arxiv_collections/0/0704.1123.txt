@@ -1,0 +1,20 @@
+The two-dimensional kinetic Ising model, when exposed to an oscillating
+applied magnetic field, has been shown to exhibit a nonequilibrium,
+second-order dynamic phase transition (DPT), whose order parameter Q is the
+period-averaged magnetization. It has been established that this DPT falls in
+the same universality class as the equilibrium phase transition in the
+two-dimensional Ising model in zero applied field. Here we study for the first
+time the scaling of the dynamic order parameter with respect to a nonzero,
+period-averaged, magnetic `bias' field, H_b, for a DPT produced by a
+square-wave applied field. We find evidence that the scaling exponent,
+\delta_d, of H_b at the critical period of the DPT is equal to the exponent for
+the critical isotherm, \delta_e, in the equilibrium Ising model. This implies
+that H_b is a significant component of the field conjugate to Q. A finite-size
+scaling analysis of the dynamic order parameter above the critical period
+provides further support for this result. We also demonstrate numerically that,
+for a range of periods and values of H_b in the critical region, a
+fluctuation-dissipation relation (FDR), with an effective temperature
+T_{eff}(T, P, H_0) depending on the period, and possibly the temperature and
+field amplitude, holds for the variables Q and H_b. This FDR justifies the use
+of the scaled variance of Q as a proxy for the nonequilibrium susceptibility,
+\partial<Q> / \partial H_b, in the critical region.

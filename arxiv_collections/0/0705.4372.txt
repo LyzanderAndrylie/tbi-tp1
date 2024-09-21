@@ -1,0 +1,20 @@
+This paper generalizes two previously known techniques for generating
+minimally coupled Einstein-scalar field solutions in 4 dimensions; the Buchdahl
+and Fonarev transformations. By applying this solution generation technique,
+minimally coupled Einstein-scalar field solutions can be generated from vacuum
+solutions with arbitrary cosmological constant in arbitrary dimension. The only
+requirement to a seed solution is that it posesses a hypersurface-orthogonal
+Killing vector field. The generalization that allows us to use seed solutions
+with arbitrary cosmological constant uncovers a new class of Einstein-scalar
+field solutions that has previously not been studied. We apply the new solution
+transformation to the (A)dS4 vacuum solution. Transforming the resulting
+Einstein-scalar field solution to the conformal frame, a two-parameter family
+of spatially finite, expanding and accelerating cosmological solutions are
+found that are conformally isometric to the Einstein static universe RxS^3. We
+study null geodesics and find that for any observer, the solution has a
+cosmological horizon at an angular distance of pi/2 away from the observer. We
+find that a subset of these solutions can be naturally interpreted as expanding
+cosmologies in which a scalar black hole is formed at late times. The
+conformally coupled scalar field satisfies the weak energy condition as long as
+the energy density is positive, while the strong energy condition is generally
+violated.

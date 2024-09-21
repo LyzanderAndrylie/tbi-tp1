@@ -1,0 +1,12 @@
+We comment on the relationships between several supersymmetric lattice
+models; the ``orbifold lattice theory'' by Cohen-Kaplan-Katz-Unsal (CKKU),
+lattice regularization of the topological field theory by Sugino and the
+``geometrical approach'' by Catterall. We point out that these three models
+have close relationships; the N =(2,2) model by Catterall [Catterall] and the
+two-dimensional N = (2,2) lattice theory being similar to Sugino's construction
+[Sugino] can be derived by appropriate truncation of fields in the
+two-dimensional N = (4,4) orbifold lattice theory by CKKU [Cohen et al].
+Catterall's N = (2,2) description possesses extra degrees of freedom compared
+to the target N = (2,2) theory. If we remove those extra degrees of freedom in
+a way keeping supersymmetry on the lattice, Catterall's description reduces to
+a model of the Sugino type.

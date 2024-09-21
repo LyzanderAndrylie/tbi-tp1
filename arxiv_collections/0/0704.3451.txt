@@ -1,0 +1,11 @@
+The electronic structure of nanowires in contact with metallic electrodes of
+experimentally relevant sizes is calculated by incorporating the electrostatic
+polarization potential into the atomistic single particle Schr\"odinger
+equation. We show that the presence of an electrode produces localized
+electron/hole states near the electrode, a phenomenon only exhibited in
+nanostructures and overlooked in the past. This phenomenon will have profound
+implications on electron transport in such nanosystems. We calculate several
+electrode/nanowire geometries, with varying contact depths and nanowire radii.
+We demonstrate the change in the band gap of up to 0.5 eV in 3 nm diameter CdSe
+nanowires and calculate the magnitude of the applied electric field necessary
+to overcome the localization.

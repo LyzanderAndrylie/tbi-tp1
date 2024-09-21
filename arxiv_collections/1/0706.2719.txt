@@ -1,0 +1,8 @@
+We examine whether the Painleve property is necessary for the integrability
+of partial differential equations (PDEs). We show that in analogy to what
+happens in the case of ordinary differential equations (ODEs) there exists a
+class of PDEs, integrable through linearisation, which do not possess the
+Painleve property. The same question is addressed in a discrete setting where
+we show that there exist linearisable lattice equations which do not possess
+the singularity confinement property (again in analogy to the one-dimensional
+case).

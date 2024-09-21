@@ -1,0 +1,8 @@
+If we distribute n qubits between two parties, which quantum pure states and
+distributions of qubits would allow all-versus-nothing (or
+Greenberger-Horne-Zeilinger-like) proofs of Bell's theorem using only
+single-qubit measurements? We show a necessary and sufficient condition for the
+existence of these proofs for any number of qubits, and provide all distinct
+proofs up to n=7 qubits. Remarkably, there is only one distribution of a state
+of n=4 qubits, and six distributions, each for a different state of n=6 qubits,
+which allow these proofs.

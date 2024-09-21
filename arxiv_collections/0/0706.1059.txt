@@ -1,0 +1,6 @@
+We report on a search for the process B+ -> Kbar*0(892) K+ using 232 10^6
+Upsilon(4S) -> BBbar decays collected with the BaBar detector at the PEP-II
+asymmetric-energy B Factory at SLAC. From a signal yield of 25 +/- 13 [stat]
++/- 7 [syst] B+ -> Kbar*0(892) (-> K- pi+) K+ events, we place an upper limit
+on the branching fraction BF(B+ -> Kbar*0(892) K+) of 1.1 10^-6, at the 90%
+confidence level.

@@ -1,0 +1,17 @@
+This is the first of two lectures on a new powerful technique employed by
+Brown, Preston, and Singleton (BPS) to calculate transport quantities in a
+plasma. This exposition will be self-contained and intended for those who are
+not specialists in quantum field theory, where the technique of dimensional
+continuation exploited by BPS first arose. The method is highlighted by the
+interesting analogy between the Coulomb logarithm of Lyman Spitzer on the one
+hand, and the Lamb shift as calculated by Hans Bethe on the other. BPS employed
+the method in a novel way that provides the leading and subleading behavior for
+processes with competing disparate length or energy scales. They calculated the
+temperature equilibration rate to leading and next-to-leading order in the
+plasma number density for any two species in a plasma that are in thermal
+equilibrium with themselves, but not necessarily with each other. A special
+case of this calculation is the electron-ion temperature equilibration rate. It
+should be emphasized that the BPS result is not a model, but rather it is an
+exact calculation of the leading terms in a well-defined perturbation theory.
+This exact result differs from approximations and models given in the
+literature.

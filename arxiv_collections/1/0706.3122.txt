@@ -1,0 +1,19 @@
+Adaptive populations such as those in financial markets and distributed
+control can be modeled by the Minority Game. We consider how their dynamics
+depends on the agents' initial preferences of strategies, when the agents use
+linear or quadratic payoff functions to evaluate their strategies. We find that
+the fluctuations of the population making certain decisions (the volatility)
+depends on the diversity of the distribution of the initial preferences of
+strategies. When the diversity decreases, more agents tend to adapt their
+strategies together. In systems with linear payoffs, this results in dynamical
+transitions from vanishing volatility to a non-vanishing one. For low signal
+dimensions, the dynamical transitions for the different signals do not take
+place at the same critical diversity. Rather, a cascade of dynamical
+transitions takes place when the diversity is reduced. In contrast, no phase
+transitions are found in systems with the quadratic payoffs. Instead, a basin
+boundary of attraction separates two groups of samples in the space of the
+agents' decisions. Initial states inside this boundary converge to small
+volatility, while those outside diverge to a large one. Furthermore, when the
+preference distribution becomes more polarized, the dynamics becomes more
+erratic. All the above results are supported by good agreement between
+simulations and theory.

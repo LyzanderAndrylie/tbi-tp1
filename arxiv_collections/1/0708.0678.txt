@@ -1,0 +1,14 @@
+The response functions for small spatial perturbations of a homogeneous
+granular fluid have been described recently. In appropriate dimensionless
+variables, they have the form of stationary state time correlation functions.
+Here, these functions are expressed in terms of reduced single particle
+functions that are expected to obey a linear kinetic equation. The functional
+assumption required for such a kinetic equation, and a Markov approximation for
+its implementation are discussed. If, in addition, static velocity correlations
+are neglected, a granular fluid version of the linearized Enskog kinetic theory
+is obtained. The derivation makes no a priori limitation on the density, space
+and time scale, nor degree of inelasticity. As an illustration, recently
+derived Helfand and Green-Kubo expressions for the Navier-Stokes order
+transport coefficients are evaluated with this kinetic theory. The results are
+in agreement with those obtained from the Chapman-Enskog solution to the
+nonlinear Enskog kinetic equation.

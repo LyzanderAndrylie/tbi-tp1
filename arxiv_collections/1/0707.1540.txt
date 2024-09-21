@@ -1,0 +1,14 @@
+The paper addresses the space-frequency correlations of electromagnetic waves
+in general random, bi-anisotropic media whose constitutive tensors are complex
+Hermitian matrices. The two-frequency Wigner distribution (2f-WD) for polarized
+waves is introduced to describe the space-frequency correlations and the closed
+form Wigner-Moyal equation is derived from the Maxwell equations. Two-frequency
+radiative transfer (2f-RT) equations is then derived from the Wigner-Moyal
+equation by using the multiple scale expansion. For the simplest isotropic
+medium, the result coincides with Chandrasekhar's transfer equation. In
+birefringent media, the 2f-RT equations take the scalar form due to the absence
+of depolarization. A number of birefringent media such as the chiral, uniaxial
+and gyrotropic media are examined. For the unpolarized wave in the isotropic
+medium the 2f-RT equations reduces to the Fokker-Planck equation previously
+derived in Part I. A similar Fokker-Planck equation is derived from the scalar
+2f-RT equation for the birefringent media.

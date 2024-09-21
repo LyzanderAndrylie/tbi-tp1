@@ -1,0 +1,6 @@
+The CELSIUS/WASA setup is used to measure the 3pi0 decay of eta mesons
+produced in pp interactions with beam kinetic energies of 1.36 and 1.45 GeV.
+The efficiency-corrected Dalitz plot and density distributions for this decay
+are shown, together with a fit of the quadratic slope parameter alpha yielding
+alpha = -0.026 +/- 0.010(stat) +/- 0.010(syst). This value is compared to
+recent experimental results and theoretical predictions.

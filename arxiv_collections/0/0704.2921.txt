@@ -1,0 +1,11 @@
+Feature tracking and recognition are increasingly common tools for data
+analysis, but are typically implemented on an ad-hoc basis by individual
+research groups, limiting the usefulness of derived results when selection
+effects and algorithmic differences are not controlled. Specific results that
+are affected include the solar magnetic turnover time, the distributions of
+sizes, strengths, and lifetimes of magnetic features, and the physics of both
+small scale flux emergence and the small-scale dynamo. In this paper, we
+present the results of a detailed comparison between four tracking codes
+applied to a single set of data from SOHO/MDI, describe the interplay between
+desired tracking behavior and parameterization of tracking algorithms, and make
+recommendations for feature selection and tracking practice in future work.

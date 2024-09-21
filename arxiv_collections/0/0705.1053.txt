@@ -1,0 +1,8 @@
+We consider a probabilistic cellular automaton to analyze the stochastic
+dynamics of a predator-prey system. The local rules are Markovian and are based
+in the Lotka-Volterra model. The individuals of each species reside on the
+sites of a lattice and interact with an unsymmetrical neighborhood. We look for
+the effect of the space anisotropy in the characterization of the oscillations
+of the species population densities. Our study of the probabilistic cellular
+automaton is based on simple and pair mean-field approximations and explicitly
+takes into account spatial anisotropy.

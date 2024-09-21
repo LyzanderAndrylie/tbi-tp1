@@ -1,0 +1,15 @@
+The bandstructure was calculated by the full-potential linearized augmented
+plane wave method. The result reveals two important insights to the novel
+second harmonic generation (SHG) of alpha-phase lithium iodate
+($\alpha-LiIO_{3}$) crystal: the existence of finite intra-band momentum matrix
+elements due to the non-inversion symmetry of the crystal illuminating the
+potential of the intra-band transition, and the strong covalent bonding between
+the $I$-atoms and the ligand $O$-atoms resulting the condition of the
+double-resonance. An inter-band transition scenario in SHG as $\alpha-LiIO_{3}$
+in nano-structure is proposed. The optical properties were calculated within
+the theoretical framework of the time-dependent perturbation of the
+independent-particle model. The dielectric tensors and the refractive index
+were evaluated. Comparisons between the predictions and the results were made:
+the x-ray near edge absorption spectra; the refractive index at the static
+limit, and at finite frequencies. Possible factors attributing the calculation
+errors is discussed.

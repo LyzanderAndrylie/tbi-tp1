@@ -1,0 +1,20 @@
+The stability of two-dimensional (2D) layers and membranes is subject of a
+long standing theoretical debate. According to the so called Mermin-Wagner
+theorem, long wavelength fluctuations destroy the long-range order for 2D
+crystals. Similarly, 2D membranes embedded in a 3D space have a tendency to be
+crumpled. These dangerous fluctuations can, however, be suppressed by
+anharmonic coupling between bending and stretching modes making that a
+two-dimensional membrane can exist but should present strong height
+fluctuations. The discovery of graphene, the first truly 2D crystal and the
+recent experimental observation of ripples in freely hanging graphene makes
+these issues especially important. Beside the academic interest, understanding
+the mechanisms of stability of graphene is crucial for understanding electronic
+transport in this material that is attracting so much interest for its unusual
+Dirac spectrum and electronic properties. Here we address the nature of these
+height fluctuations by means of straightforward atomistic Monte Carlo
+simulations based on a very accurate many-body interatomic potential for
+carbon. We find that ripples spontaneously appear due to thermal fluctuations
+with a size distribution peaked around 70 \AA which is compatible with
+experimental findings (50-100 \AA) but not with the current understanding of
+stability of flexible membranes. This unexpected result seems to be due to the
+multiplicity of chemical bonding in carbon.

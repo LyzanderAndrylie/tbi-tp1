@@ -1,0 +1,8 @@
+Let $(X,\omega)$ be a compact K\"ahler manifold. We introduce and study the
+largest set $DMA(X,\omega)$ of $\omega$-plurisubharmonic (psh) functions on
+which the complex Monge-Amp\`ere operator is well defined. It is much larger
+than the corresponding local domain of definition, though still a proper subset
+of the set $PSH(X,\om)$ of all $\om$-psh functions. We prove that certain
+twisted Monge-Amp\`ere operators are well defined for all $\omega$-psh
+functions. As a consequence, any $\om$-psh function with slightly attenuated
+singularities has finite weighted Monge-Amp\`ere energy.

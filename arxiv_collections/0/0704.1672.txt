@@ -1,0 +1,6 @@
+We propose a new theoretical method for the calculation of the interaction
+energy between macromolecular systems at large distances. The method provides a
+linear scaling of the computing time with the system size and is considered as
+an alternative to the well known fast multipole method. Its efficiency,
+accuracy and applicability to macromolecular systems is analyzed and discussed
+in detail.

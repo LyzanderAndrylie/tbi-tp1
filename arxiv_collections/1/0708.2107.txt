@@ -1,0 +1,9 @@
+The phase diagram of the Bose-Hubbard model in the presence of off-diagonal
+disorder is determined using Quantum Monte Carlo simulations. A sequence of
+quantum glass phases intervene at the interface between the Mott insulating and
+the Superfluid phases of the clean system. In addition to the standard Bose
+glass phase, the coexistence of gapless and gapped regions close to the Mott
+insulating phase leads to a novel Mott glass regime which is incompressible yet
+gapless. Numerical evidence for the properties of these phases is given in
+terms of global (compressibility, superfluid stiffness) and local
+(compressibility, momentum distribution) observables.

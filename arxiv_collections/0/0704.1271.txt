@@ -1,0 +1,6 @@
+We apply the recently proposed amplitude reduction at the integrand level
+method, to the computation of the scattering process 2 photons -> 4 photons,
+including the case of a massive fermion loop. We also present several
+improvements of the method, including a general strategy to reconstruct the
+rational part of any one-loop amplitude and the treatment of vanishing
+Gram-determinants.

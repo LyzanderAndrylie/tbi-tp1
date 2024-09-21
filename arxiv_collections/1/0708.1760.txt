@@ -1,0 +1,6 @@
+The Cauchy problem is revisited for the so-called relativistic Vlasov-Poisson
+system in the attractive case. Global existence and uniqueness of spherical
+classical solutions is proved under weaker assumptions than previously used. A
+new class of blowing up solutions is found when these conditions are violated.
+A new, non-gravitational physical vindication of the model which (unlike the
+gravitational one) is not restricted to weak fields, is also given.

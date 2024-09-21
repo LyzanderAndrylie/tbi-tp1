@@ -1,0 +1,9 @@
+Data from e+e- annihilation into hadrons collected by the JADE experiment at
+centre-of-mass energies between 14 GeV and 44 GeV are used to study the
+four-jet event production rate as a function of the Durham jet algorithm's
+resolution parameter ycut. The four-jet rate is compared to QCD next-to-leading
+order calculations including resummation of large logarithms in the
+next-to-leading logarithmic approximation. The strong coupling measured from
+the four-jet rate is
+as(MZ)=0.1159+-0.0004(stat)+-0.0012(expt)+-0.0024(had)+-0.0007(theo) in
+agreement with the world average.

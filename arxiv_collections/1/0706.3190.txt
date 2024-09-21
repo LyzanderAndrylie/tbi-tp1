@@ -1,0 +1,18 @@
+A generalised Wulf-Kaishew theorem is given describing the equilibrium shape
+(ES) of an isolated 3D crystal A deposited coherently onto a lattice mismatched
+planar substrate. For this purpose a free polyhedral crystal is formed then
+homogeneously strained to be accommodated onto the lattice mismatched
+substrate. During its elastic inhomogeneous relaxation the epitaxial contact
+remains coherent so that the 3D crystal drags the atoms of the contact area and
+produces a strain field in the substrate. The ES of the deposit is obtained by
+minimising at constant volume the total energy (bulk and surface energies)
+taking into account the bulk elastic relaxation. Our main results are: (1)
+Epitaxial strain acts against wetting (adhesion) so that globally it leads to a
+thickening of the ES. (2) Owing to strain the ES changes with size. More
+precisely the various facets extension changes, some facets decreasing, some
+others increasing. (3) Each dislocation entrance, necessary for relaxing
+plastically too large crystals abruptly modifies the ES and thus the different
+facets extension in a jerky way. (4) In all cases the usual self-similarity
+with size is lost when misfit is considered. We illustrate these points in case
+of box shaped and truncated pyramidal crystals. Some experimental evidences are
+discussed.

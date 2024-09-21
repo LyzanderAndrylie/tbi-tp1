@@ -1,0 +1,20 @@
+A temperature-dependent EXAFS investigation of La{1-x}Ca{x}MnO3 is presented
+for the concentration range that spans the ferromagnetic-insulator (FMI) to
+ferromagnetic-metal (FMM) transition region, x = 0.16-0.22. The samples are
+insulating for x = 0.16-0.2 and show a metal/insulator transition for x = 0.22.
+All samples are ferromagnetic although the saturation magnetization for the 16%
+Ca sample is only ~ 70% of the expected value at 0.4T. We find that the FMI
+samples have similar correlations between changes in the local Mn-O distortions
+and the magnetization as observed previously for the colossal magnetoresistance
+(CMR) samples (0.2 < x < 0.5) - except that the FMI samples never become fully
+magnetized. The data show that there are at least two distinct types of
+distortions. The initial distortions removed as the insulating sample becomes
+magnetized are small and provides direct evidence that roughly 50% of the Mn
+sites have a small distortion/site and are magnetized first. The large
+remaining Mn-O distortions at low T are attributed to a small fraction of
+Jahn-Teller-distorted Mn sites that are either antiferromagnetically ordered or
+unmagnetized. Thus the insulating samples are very similar to the behavior of
+the CMR samples up to the point at which the M/I transition occurs for the CMR
+materials. The lack of metallic conductivity for x <= 0.2, when 50% or more of
+the sample is magnetic, implies that there must be preferred magnetized Mn
+sites and that such sites do not percolate at these concentrations.

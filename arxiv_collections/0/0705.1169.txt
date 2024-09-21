@@ -1,0 +1,13 @@
+We study the effects of frustration in an antiferromagnetic film of FCC
+lattice with Heisenberg spin model including an Ising-like anisotropy. Monte
+Carlo (MC) simulations have been used to study thermodynamic properties of the
+film. We show that the presence of the surface reduces the ground state (GS)
+degeneracy found in the bulk. The GS is shown to depend on the surface in-plane
+interaction $J_s$ with a critical value at which ordering of type I coexists
+with ordering of type II. Near this value a reentrant phase is found. Various
+physical quantities such as layer magnetizations and layer susceptibilities are
+shown and discussed. The nature of the phase transition is also studied by
+histogram technique. We have also used the Green's function (GF) method for the
+quantum counterpart model. The results at low-$T$ show interesting effects of
+quantum fluctuations. Results obtained by the GF method at high $T$ are
+compared to those of MC simulations. A good agreement is observed.

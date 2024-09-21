@@ -1,0 +1,9 @@
+We study the coherent flow of interacting Bose-condensed atoms in mesoscopic
+waveguide geometries. Analytical and numerical methods, based on the mean-field
+description of the condensate, are developed to study both stationary as well
+as time-dependent propagation processes. We apply these methods to the
+propagation of a condensate through an atomic quantum dot in a waveguide,
+discuss the nonlinear transmission spectrum and show that resonant transport is
+generally suppressed due to an interaction-induced bistability phenomenon.
+Finally, we establish a link between the nonlinear features of the transmission
+spectrum and the self-consistent quasi-bound states of the quantum dot.

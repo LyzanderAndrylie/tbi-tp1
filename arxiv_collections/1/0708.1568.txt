@@ -1,0 +1,5 @@
+Several models for the pricing of derivative securities in illiquid markets
+are discussed. A typical type of nonlinear partial differential equations
+arising from these investigation is studied. The scaling properties of these
+equations are discussed. Explicit solutions for one of the models are obtained
+and studied.

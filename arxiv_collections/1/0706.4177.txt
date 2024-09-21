@@ -1,0 +1,6 @@
+Suppose A\in GL_n(\C) has a relation A^p=c_{p-1}A^{p-1}+.... + c_1 A+ c_0I
+where the c_i in \C. This article describes how to construct analytic functions
+c_i(z) such that A^z=c_{p-1}(z)A^{p-1}+... + c_1(z) A+ c_0(z)I . One of the
+theorems gives a possible description of the c_i(z): c_i(z)=C^z\alpha where
+C\in Mat_p(\C) is (similar to) the companion matrix of X^p-c_{p-1}X^{p-1}-...
+-c_1X-c_0I, and \alpha:= (c_{p-1},...,c_1,c_0)^t.

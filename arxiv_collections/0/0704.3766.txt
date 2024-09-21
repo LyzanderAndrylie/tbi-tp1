@@ -1,0 +1,14 @@
+Past work has shown that ions can pass through a membrane more readily in one
+direction than the other. We demonstrate here in a model and an experiment that
+for a mixture of small and large particles such asymmetric diffusion can arise
+solely from an asymmetry in the geometry of the pores of the membrane. Our
+deterministic simulation considers a two-dimensional gas of elastic disks of
+two sizes diffusing through a membrane, and our laboratory experiment examines
+the diffusion of glass beads of two sizes through a metal membrane. In both
+experiment and simulation, the membrane is permeable only to the smaller
+particles, and the asymmetric pores lead to an asymmetry in the diffusion rates
+of these particles. The presence of even a small percentage of large particles
+can clog a membrane, preventing passage of the small particles in one direction
+while permitting free flow of the small particles in the other direction. The
+purely geometric kinetic constraints may play a role in common biological
+contexts such as membrane ion channels.

@@ -1,0 +1,9 @@
+With the great success in simulating many intelligent behaviors using
+computing devices, there has been an ongoing debate whether all conscious
+activities are computational processes. In this paper, the answer to this
+question is shown to be no. A certain phenomenon of consciousness is
+demonstrated to be fully represented as a computational process using a quantum
+computer. Based on the computability criterion discussed with Turing machines,
+the model constructed is shown to necessarily involve a non-computable element.
+The concept that this is solely a quantum effect and does not work for a
+classical case is also discussed.

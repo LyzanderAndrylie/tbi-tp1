@@ -1,0 +1,14 @@
+We use a recently proposed non-perturbative model, based on an effective
+strong coupling constant and free from tunable parameters, to study c-flavoured
+hadron production in e+e- annihilation. Charm-quark production is described in
+the framework of perturbative fragmentation functions, with NLO coefficient
+functions, NLL non-singlet DGLAP evolution and NNLL large-x resummation. We
+model hadronization effects by means of the effective coupling constant in the
+NNLO approximation and compare our results with experimental data taken at the
+Z0 pole and at the Upsilon(4S) resonance. We find that, within the experimental
+and theoretical uncertainties, our model is able to give a reasonable
+description of D*+-meson spectra from ALEPH for x<1-Lambda/m_c. More serious
+discrepancies are instead present when comparing with D and D^* data from BELLE
+and CLEO in x-space. Within the errors, our model is nonetheless capable of
+reproducing the first ten Mellin moments of all considered data sets. However,
+the fairly large theoretical uncertainties call for a full NNLO/NNLL analysis.

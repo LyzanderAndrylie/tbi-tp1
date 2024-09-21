@@ -1,0 +1,10 @@
+Recent theoretical studies raised the possibility of a realization of spin
+nematic states in the S=1 triangular lattice compound NiGa_2S_4. We study the
+bilinear-biquadratic spin 1 chain in a zig-zag geometry by means of the density
+matrix renormalization group method and exact diagonalization. We present the
+phase diagram focusing on antiferromagnetic interactions. Adjacent to the known
+Haldane-double Haldane and the extended critical phase with dominant spin
+nematic correlations we find a trimerized phase with a nonvanishing energy gap.
+We discuss results for different order parameters, energy gaps, correlation
+functions, and the central charge, and make connection to field theoretical
+predictions for the phase diagram.

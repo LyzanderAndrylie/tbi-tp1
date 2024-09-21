@@ -1,0 +1,9 @@
+Recent studies of quantum phase transitions in coupled atom-cavity arrays
+have focused on the similarities between such systems and the Bose-Hubbard
+model. However, the bipartite nature of the atom-cavity systems that make up
+the array introduces some differences. In order to examine the unique features
+of the coupled-cavity system, the behavior of a simple two-site model is
+studied over a wide range of parameters. Four regions are identified, in which
+the ground state of the system may be classified as either a polaritonic
+insulator, a photonic superfluid, an atomic insulator, or a polaritonic
+superfluid.

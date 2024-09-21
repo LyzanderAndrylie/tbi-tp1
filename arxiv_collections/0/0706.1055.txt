@@ -1,0 +1,15 @@
+We propose a new, cyclic-voltammetry based experimental technique that can
+not only differentiate between discontinuous and continuous phase transitions
+in an adsorbate layer, but also quite accurately recover equilibrium behavior
+from dynamic analysis of systems with a continuous phase transition. The
+Electrochemical first-order reversal curve (EC-FORC) diagram for a
+discontinuous phase transition (nucleation and growth), such as occurs in
+underpotential deposition, is characterized by a negative region, while such a
+region does not exist for a continuous phase transition, such as occurs in the
+electrosorption of Br on Ag(100). Moreover, for systems with a continuous phase
+transition, the minima of the individual EC-FORCs trace the equilibrium curve,
+even at very high scan rates. Since obtaining experimental data for the EC-FORC
+method would require only a simple reprogramming of the potentiostat used in
+conventional cyclic-voltammetry experiments, we believe that this method has
+significant potential for easy, rapid, in-situ analysis of systems undergoing
+electrochemical deposition.

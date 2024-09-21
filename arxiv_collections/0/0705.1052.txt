@@ -1,0 +1,10 @@
+In this paper we investigate the thermodynamical properties of ``unbalanced''
+superconductors, namely, systems where the electron-boson coupling $\lambda$ is
+different in the self-energy and in the Cooper channels. This situation is
+encountered in a variety of situation, as for instance in d-wave
+superconductors. Quite interesting is the case where the pairing in the
+self-energy is smaller than the one in the gap equation. In this case we
+predict a finite critical value $\lambda_c$ where the superconducting critical
+temperature $T_c$ diverges but the zero temperature gap is still finite. The
+specific heat, magnetic critical field and the penetration depth are also
+evaluated.

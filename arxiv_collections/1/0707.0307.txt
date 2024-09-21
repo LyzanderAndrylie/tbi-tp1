@@ -1,0 +1,12 @@
+The notion of quasi-angular momentum is introduced to label the eigenstates
+of a Hamiltonian with a discrete rotational symmetry. This concept is recast in
+an operatorial form where the creation and annihilation operators of a Hubbard
+Hamiltonian carry units of quasi-angular momentum. Using this formalism, the
+ground states of ultracold gases of non-interacting fermions in rotating
+optical lattices are studied as a function of rotation, and transitions between
+states of different quasi-angular momentum are identified. In addition,
+previous results for strongly-interacting bosons are re-examined and compared
+to the results for non-interacting fermions. Quasi-angular momentum can be used
+to distinguish between these two cases. Finally, an experimentally accessible
+signature of quasi-angular momentum is identified in the momentum distributions
+of single-particle eigenstates.

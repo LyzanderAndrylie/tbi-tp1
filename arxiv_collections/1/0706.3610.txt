@@ -1,0 +1,11 @@
+A new contribution to friction is predicted to occur in systems with magnetic
+correlations: Tangential relative motion of two Ising spin systems pumps energy
+into the magnetic degrees of freedom. This leads to a friction force
+proportional to the area of contact. The velocity and temperature dependence of
+this force are investigated. Magnetic friction is strongest near the critical
+temperature, below which the spin systems order spontaneously.
+Antiferromagnetic coupling leads to stronger friction than ferromagnetic
+coupling with the same exchange constant. The basic dissipation mechanism is
+explained. If the coupling of the spin system to the heat bath is weak, a
+surprising effect is observed in the ordered phase: The relative motion acts
+like a heat pump cooling the spins in the vicinity of the friction surface.

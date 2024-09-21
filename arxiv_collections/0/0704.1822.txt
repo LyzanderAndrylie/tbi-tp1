@@ -1,0 +1,4 @@
+We introduce certain energy functionals to the complex Monge-Ampere equation
+over a bounded domain with inhomogeneous boundary condition, and use these
+functionals to show the convergence of the solution to the parabolic
+Monge-Ampere equation.

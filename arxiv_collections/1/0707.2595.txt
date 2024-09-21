@@ -1,0 +1,15 @@
+We survey our research on modeling the mechanisms of control of uniformity in
+growth of nanosize and colloid particles. The former are produced as
+nanocrystals, by burst-nucleation from solution. The latter, colloid-size
+particles, are formed by self-assembly (aggregation) of the nanocrystals. In
+the colloid particle synthesis, the two dynamical processes are coupled, and
+both are governed by diffusional transport of the respective building blocks
+(monomers). The interrelation of the two processes allows for synthesis of
+narrow size distribution colloid dispersions which are of importance in many
+applications.
+  We first review a mathematical model of diffusive cluster growth by capture
+of monomer "singlets." Burst nucleation of nanoparticles in solution is then
+analyzed. Finally, we couple it to the secondary process of aggregation of
+nanoparticles to form colloids, and we discuss various aspects of the modeling
+of particle size distribution, as well as other features of the processes
+considered.

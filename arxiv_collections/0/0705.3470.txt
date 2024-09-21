@@ -1,0 +1,12 @@
+When a low dimensional chaotic attractor is embedded in a three dimensional
+space its topological properties are embedding-dependent. We show that there
+are just three topological properties that depend on the embedding: parity,
+global torsion, and knot type. We discuss how they can change with the
+embedding. Finally, we show that the mechanism that is responsible for creating
+chaotic behavior is an invariant of all embeddings. These results apply only to
+chaotic attractors of genus one, which covers the majority of cases in which
+experimental data have been subjected to topological analysis. This means that
+the conclusions drawn from previous analyses, for example that the mechanism
+generating chaotic behavior is a Smale horseshoe mechanism, a reverse
+horseshoe, a gateau roule, an S-template branched manifold, ..., are not
+artifacts of the embedding chosen for the analysis.

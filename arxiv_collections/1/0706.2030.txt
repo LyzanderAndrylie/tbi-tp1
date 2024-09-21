@@ -1,0 +1,15 @@
+With a sample of about 384 million BBbar pairs recorded with the BABAR
+detector, we search for the flavor-changing charged current transition B+ ->
+\tau\nu and perform an amplitude analysis of the effective flavor-changing
+neutral current transition B+ -> \phi(1020)K*(892)+. We also extend our search
+for other K* final states in the decay B0 -> phi(1020)K*0 with a large K*0 ->
+K+pi- invariant mass. Two samples of events with one reconstructed hadronic B
+decay or one reconstructed semileptonic B decay are selected, and in the recoil
+a search for B+ -> \tau\nu is performed. We find a 2.6 sigma (3.2 sigma not
+including expected background uncertainty) excess in data which can be
+converted to a preliminary branching fraction central value of BR(B+ -> \tau\nu
+) = (1.20 +0.40-0.38 +0.29-0.30 +-0.22) 10^-4. With the decay B+- ->
+\phi(1020)K*(892)+-, twelve parameters are measured, where our measurements of
+f_L=0.49+-0.05+-0.03, f_perp=0.21+-0.05+-0.02, and the strong phases point to
+the presence of a substantial helicity-plus amplitude from a presently unknown
+source.

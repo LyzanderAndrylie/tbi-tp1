@@ -1,0 +1,6 @@
+Spin Hamiltonians with degenerate ground states are one potential system for
+the storage of quantum information at low temperatures. Trapped ions can be
+used to simulate the dynamics of these Hamiltonians, but the
+coherence-preserving properties will be lost. This illustrates that a quantum
+simulation performed in an interaction frame will not thermalize with its
+environment.

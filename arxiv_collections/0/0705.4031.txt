@@ -1,0 +1,5 @@
+For thermoelectric, galvanomagnetic and some other effects there may
+simultaneously exist two percolation thresholds, close to which the effective
+kinetic coefficients of macroscopically disordered media are critically
+dependent on the proximity to percolation thresholds, their behavior being
+described by universal critical indexes.

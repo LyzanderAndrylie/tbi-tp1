@@ -1,0 +1,14 @@
+We present a systematic study of exclusive charmless nonleptonic two-body B
+decays including axial-vector mesons in the final state. We calculate branching
+ratios of B\to PA, VA and AA decays, where A, V and P denote an axial-vector, a
+vector and a pseudoscalar meson, respectively. We assume naive factorization
+hypothesis and use the improved version of the nonrelativistic ISGW quark model
+for form factors in B\to A transitions. We include contributions that arise
+from the effective \Delta B=1 weak Hamiltonian H_{eff}. The respective
+factorized amplitude of these decays are explicitly showed and their penguin
+contributions are classified. We find that decays B^-to a_1^0\pi^-,\barB^0\to
+a_1^{\pm}\pi^{\mp}, B^-\to a_1^-\bar K^0, \bar B^0\to a_1^+K^-, \bar B^0\to
+f_1\bar K^0, B^-\to f_1K^-, B^-\to K_1^-(1400)\etap, B^-\to b_1^-\bar K^{0},
+and \bar B^0\to b_1^+\pi^-(K^-) have branching ratios of the order of 10^{-5}.
+We also study the dependence of branching ratios for B \to K_1P(V,A) decays
+(K_1=K_1(1270),K_1(1400)) with respect to the mixing angle between K_A and K_B.

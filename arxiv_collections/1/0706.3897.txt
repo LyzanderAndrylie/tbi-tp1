@@ -1,0 +1,11 @@
+We briefly review the five possible real polynomial solutions of
+hypergeometric differential equations. Three of them are the well known
+classical orthogonal polynomials, but the other two are different with respect
+to their orthogonality properties. We then focus on the family of polynomials
+which exhibits a finite orthogonality. This family, to be referred to as the
+Romanovski polynomials, is required in exact solutions of several physics
+problems ranging from quantum mechanics and quark physics to random matrix
+theory. It appears timely to draw attention to it by the present study. Our
+survey also includes several new observations on the orthogonality properties
+of the Romanovski polynomials and new developments from their Rodrigues
+formula.

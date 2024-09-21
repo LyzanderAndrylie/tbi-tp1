@@ -1,0 +1,20 @@
+In 1953, Kuhn showed that every sequential game has a Nash equilibrium by
+showing that a procedure, named ``backward induction'' in game theory, yields a
+Nash equilibrium. It actually yields Nash equilibria that define a proper
+subclass of Nash equilibria. In 1965, Selten named this proper subclass subgame
+perfect equilibria. In game theory, payoffs are rewards usually granted at the
+end of a game. Although traditional game theory mainly focuses on real-valued
+payoffs that are implicitly ordered by the usual total order over the reals,
+works of Simon or Blackwell already involved partially ordered payoffs. This
+paper generalises the notion of sequential game by replacing real-valued payoff
+functions with abstract atomic objects, called outcomes, and by replacing the
+usual total order over the reals with arbitrary binary relations over outcomes,
+called preferences. This introduces a general abstract formalism where Nash
+equilibrium, subgame perfect equilibrium, and ``backward induction'' can still
+be defined. This paper proves that the following three propositions are
+equivalent: 1) Preferences over the outcomes are acyclic. 2) Every sequential
+game has a Nash equilibrium. 3) Every sequential game has a subgame perfect
+equilibrium. The result is fully computer-certified using Coq. Beside the
+additional guarantee of correctness, the activity of formalisation using Coq
+also helps clearly identify the useful definitions and the main articulations
+of the proof.

@@ -1,0 +1,12 @@
+The rms (root mean square) variability is the parameter for understanding the
+emission temporal properties of X-ray binaries (XRBs) and active galactic
+nuclei (AGN).
+  The rms-flux relation with Rossi X-ray Timing Explorer (RXTE) data for the
+dips and nondip of black hole Cyg X-1 has been investigated in this paper. Our
+results show that there exist the linear rms-flux relations in the frequency
+range 0.1-10 Hz for the dipping light curve. Moreover, this linear relation
+still remains during the nondip regime, but with the steeper slope than that of
+the dipping case in the low energy band. For the high energy band, the slopes
+of the dipping and nondipping cases are hardly constant within errors. The
+explanations of the results have been made by means of the ``Propagating
+Perturbation'' model of Lyubarskii (1997).

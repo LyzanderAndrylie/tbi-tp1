@@ -1,0 +1,6 @@
+Tunnel spin polarization in a piezoelectric AlGaN/GaN double barrier
+structure is calculated. It is shown that the piezoelectric field and the
+spontaneous electrical polarization increase an efficiency of the tunnel spin
+injection. The relation between the electrical polarization and the spin
+orientation allows engineering a zero magnetic field spin injection
+manipulating the lattice-mismatch strain with an Al-content in the barriers.

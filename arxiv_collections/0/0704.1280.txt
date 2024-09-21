@@ -1,0 +1,4 @@
+All quantum information processes inevitably requires the explicit state
+preparation of an entangled state. Here we present the construction of a
+quantum switchboard which can act both as an optimal quantum cloning machine
+and a quantum demultiplexer based on the preparation of a four-qubit state.

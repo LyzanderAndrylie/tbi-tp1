@@ -1,0 +1,7 @@
+We present preliminary results of Upsilon production in p+p collisions at
+sqrt(s)=200 GeV at central rapidity. This measurement was performed at the STAR
+experiment through the Upsilon->e^+e^- decay channel. In this manuscript we
+describe the experimental details, from the development of a specially designed
+trigger setup to the analysis methods used to discriminate electrons from
+hadrons. The production cross-section obtained B*{(dsigma/dy)|(y=0)}=91(28)(22)
+pb is compatible with our expectations based on pQCD calculations.

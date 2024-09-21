@@ -1,0 +1,10 @@
+We compute supersymmetric contributions to pion leptonic (\pi_{l2}) decays in
+the Minimal Supersymmetric Standard Model (MSSM). When R-parity is conserved,
+the largest contributions to the ratio R_{e/\mu} = \Gamma[ \pi^+ \to e^+
+\nu_e(\gamma)]/\Gamma[ \pi^+ \to \mu^+ \nu_\mu(\gamma)] arise from one-loop
+(V-A)x(V-A) corrections. These contributions can be potentially as large as the
+sensitivities of upcoming experiments; if measured, they would imply
+significant bounds on the chargino and slepton sectors complementary to current
+collider limits. We also analyze R-parity violating interactions, which may
+produce a detectable deviation in R_{e/\mu} while remaining consistent with all
+other precision observables.

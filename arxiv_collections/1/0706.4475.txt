@@ -1,0 +1,8 @@
+We analyze some exact chain-shaped black hole solutions in 5-dimensional
+spacetime. Unlike usual black string and black ring solutions, the topology of
+the horizons of the new solutions are neither $\mathbb{R}\times R^{2}$ nor
+$S^1\times S^2$ but rather like several topological spheres concatenating each
+other at single points. The shape of the horizon suggests the name \emph{black
+chain of pearls} on which each \emph{pearl} is a topological 3-sphere on the
+chain. In addition to the usual black hole hairs, the number of pearls can be
+viewed as a new hair of the black chain of pearls.

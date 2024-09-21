@@ -1,0 +1,19 @@
+We present X-ray spectral analyses of low mass X-ray binary Cir X-1 during
+X-ray dips, using the Rossi X-ray Timing Explorer (RXTE) data. Each dip was
+divided into several segments, and the spectrum of each segment was fitted with
+a three-component blackbody model, in which two components are affected by
+partial covering and the third one is unaffected. A Gaussian emission line is
+also included in the spectral model to represent the Fe Ka line at ~ 6.4 keV.
+The fitted temperatures of the two partially covered components are about 2 keV
+and 1 keV, while the uncovered component has a temperature of ~ 0.5-0.6 keV.
+The equivalent blackbody emission radius of the hottest component is the
+smallest and that of the coolest component is the biggest. During dips, the
+fluxes of the two hot components are linearly correlated, while that of the
+third component doesn't show any significant variation. The Fe line flux
+remains constant within errors during the short dips. However, during the long
+dips the line flux changes significantly and is positively correlated with the
+fluxes of the two hot components. These results suggest: (1) the temperature of
+the X-ray emitting region decreases with radius, (2) the Fe Ka line emitting
+region is close to the hot continuum emitting region, and (3) the size of the
+Fe line emitting region is bigger than the size of the obscuring matters
+causing short dips but smaller than the sizes of those causing long dips.

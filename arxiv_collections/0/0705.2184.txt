@@ -1,0 +1,16 @@
+We study the moduli space $\fM^s(6;3,6,4)$ of simple rank 6 vector bundles
+$\E$ on $\PP^3$ with Chern polynomial $1+3t+6t^2+4t^3$ and properties of these
+bundles, especially we prove some partial results concerning their stability.
+We first recall how these bundles are related to the construction of sextic
+nodal surfaces in $\PP^3$ having an even set of 56 nodes (cf. \cite{CaTo}). We
+prove that there is an open set, corresponding to the simple bundles with
+minimal cohomology, which is irreducible of dimension 19 and bimeromorphic to
+an open set $\fA^0$ of the G.I.T. quotient space of the projective space
+$\fB:=\{B\in \PP(U^\vee\otimes W\otimes V^\vee)\}$ of triple tensors of type
+$(3,3,4)$ by the natural action of $SL(W)\times SL(U)$. We give several
+constructions for these bundles, which relate them to cubic surfaces in 3-space
+$\PP^3$ and to cubic surfaces in the dual space $(\PP^3)^{\vee}$. One of these
+constructions, suggested by Igor Dolgachev, generalizes to other types of
+tensors. Moreover, we relate the socalled {\em cross-product involution} for
+$(3,3,4)$-tensors, introduced in \cite{CaTo}, with the Schur quadric associated
+to a cubic surface in $\PP^3$ and study further properties of this involution.

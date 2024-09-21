@@ -1,0 +1,12 @@
+The stock market has been known to form homogeneous stock groups with a
+higher correlation among different stocks according to common economic factors
+that influence individual stocks. We investigate the role of common economic
+factors in the market in the formation of stock networks, using the arbitrage
+pricing model reflecting essential properties of common economic factors. We
+find that the degree of consistency between real and model stock networks
+increases as additional common economic factors are incorporated into our
+model. Furthermore, we find that individual stocks with a large number of links
+to other stocks in a network are more highly correlated with common economic
+factors than those with a small number of links. This suggests that common
+economic factors in the stock market can be understood in terms of
+deterministic factors.

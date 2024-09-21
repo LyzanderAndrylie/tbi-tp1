@@ -1,0 +1,15 @@
+We propose a method for polarising antiprotons in a storage ring by means of
+a polarised positron beam moving parallel to the antiprotons. If the relative
+velocity is adjusted to $v/c \approx 0.002$ the cross section for spin-flip is
+as large as about $2 \cdot 10^{13}$ barn as shown by new QED-calculations of
+the triple spin-cross sections. Two possibilities for providing a positron
+source with sufficient flux density are presented. A polarised positron beam
+with a polarisation of 0.70 and a flux density of approximately $1.5 \cdot
+10^{10}$/(mm$^2$ s) appears to be feasible by means of a radioactive $^{11}$C
+dc-source. A more involved proposal is the production of polarised positrons by
+pair production with circularly polarised photons. It yields a polarisation of
+0.76 and requires the injection into a small storage ring. Such polariser
+sources can be used at low (100 MeV) as well as at high (1 GeV) energy storage
+rings providing a time of about one hour for polarisation build-up of about
+$10^{10}$ antiprotons to a polarisation of about 0.18. A comparison with other
+proposals show a gain in the figure-of-merit by a factor of about ten.

@@ -1,0 +1,14 @@
+The first goal of the article is to solve several fundamental problems in the
+theory of holomorphic bundles over non-algebraic manifolds: For instance we
+prove that stability and semi-stability are Zariski open properties in families
+when the Gauduchon degree map is a topological invariant, or when the parameter
+manifold is compact. Second we show that, for a generically stable family of
+bundles over a K\"ahler manifold, the Petersson-Weil form extends as a closed
+positive current on the whole parameter space of the family. This extension
+theorem uses classical tools from Yang-Mills theory developed by Donaldson
+(e.g. the Donaldson functional and the heat equation for Hermitian metrics on a
+holomorphic bundle). We apply these results to study families of bundles over a
+K\"ahlerian manifold $Y$ parameterized by a non-K\"ahlerian surface $X$,
+proving that such families must satisfy very restrictive conditions. These
+results play an important role in our program to prove existence of curves on
+class VII surfaces.

@@ -1,0 +1,4 @@
+It is shown that Schroedinger operators, with potentials along the shift
+embedding of Lebesgue almost every interval exchange transformations, have
+Cantor spectrum of measure zero and pure singular continuous for Lebesgue
+almost all points of the interval.

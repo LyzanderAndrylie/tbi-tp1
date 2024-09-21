@@ -1,0 +1,9 @@
+In this short note, we give a link between the regularity of the solution $u$
+to the 3D Navier-Stokes equation, and the behavior of the direction of the
+velocity $u/|u|$. It is shown that the control of $\Div (u/|u|)$ in a suitable
+$L_t^p(L_x^q)$ norm is enough to ensure global regularity. The result is
+reminiscent of the criterion in terms of the direction of the vorticity,
+introduced first by Constantin and Fefferman. But in this case the condition is
+not on the vorticity, but on the velocity itself. The proof, based on very
+standard methods, relies on a straightforward relation between the divergence
+of the direction of the velocity and the growth of energy along streamlines.

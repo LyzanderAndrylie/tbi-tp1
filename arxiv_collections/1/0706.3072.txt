@@ -1,0 +1,22 @@
+We measure the application of simple and compound pulses consisting of
+time-dependent spatial translations to coupling vibrational states of ultracold
+85Rb atoms in a far-detuned 1D optical lattice. The lattice wells are so
+shallow as to support only two bound states, and we prepare the atoms in the
+ground state. The lattice is oriented vertically, leading to a tilted-washboard
+potential analogous to those encountered in condensed-matter systems.
+Experimentally, we find that a square pulse consisting of lattice displacements
+and a delay is more efficient than single-step and Gaussian pulses. This is
+described as an example of coherent control. It is striking that contrary to
+the intuition that soft pulses minimize loss, the Gaussian pulse is
+outperformed by the square pulse. Numerical calculations are in strong
+agreement with our experimental results and show the superiority of the square
+pulse to the single-step pulse for all lattice depths and to the Gaussian pulse
+for lattice depths greater than 7 lattice recoil energies. We also compare the
+effectiveness of these pulses for reviving oscillations of atoms in vibrational
+superposition states using the pulse-echo technique. We find that the square
+and Gaussian pulses result in higher echo amplitudes than the single-step
+pulse. These improved echo pulses allow us to probe coherence at longer times
+than in the past, measuring a plateau which has yet to be explained. In
+addition, we show numerically that the vibrational state coupling due to such
+lattice manipulations is more efficient in shallow lattices than in deep
+lattices.

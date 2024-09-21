@@ -1,0 +1,12 @@
+In this paper we consider magnetic Schr\"odinger operators in R^n, n \ge 3.
+Under almost optimal conditions on the potentials in terms of decay and
+regularity we prove smoothing and Strichartz estimates, as well as a limiting
+absorption principle. For large gradient perturbations the latter is not a
+corollary of the free case as the differentiated free resolvent does not have
+small operator norm on any weighted L^2 spaces.
+  We instead show that the spectral radius of such operators decreases to zero,
+hence their perturbation of the identity is still invertible. The key estimates
+are based on an angular decomposition of the free resolvent, or rather a bound
+that holds uniformly for all possible angular decompositions. The proof avoids
+the Fourier transform and instead uses H\"ormander's variable coefficient
+Plancherel theorem for oscillatory integrals.

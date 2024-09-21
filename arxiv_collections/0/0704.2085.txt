@@ -1,0 +1,12 @@
+We present high sensitivity Very Long Baseline Interferometry (VLBI)
+observations 806 days after the gamma-ray burst of 2003 March 29 (GRB030329).
+The angular diameter of the radio afterglow is measured to be 0.347 +- 0.09
+mas, corresponding to 0.99 +- 0.26 pc at the redshift of GRB030329 (z =
+0.1685). The evolution of the image size favors a uniform external density over
+an R^-2 wind-like density profile (at distances of R >~10^18 cm from the
+source), although the latter cannot be ruled out yet. The current apparent
+expansion velocity of the image size is only mildly relativistic, suggesting a
+non-relativistic transition time of t_NR ~ 1 yr. A rebrightening, or at least a
+significant flattening in the flux decay, is expected within the next several
+years as the counter-jet becomes visible (this has not yet been observed). An
+upper limit of <1.9c is set on the proper motion of the flux centroid.

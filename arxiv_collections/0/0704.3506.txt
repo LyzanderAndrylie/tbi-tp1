@@ -1,0 +1,7 @@
+The amount $Q$ of particles that are transported via a path of motion is
+characterized by its expectation value $<Q>$ and by its variance $Var(Q)$. We
+analyze what happens if a particle has two optional paths available to get from
+one site to another site, and in particular what is $Var(Q)$ for the current
+which is induced in a quantum stirring device. It turns out that coherent
+splitting and the stirring effect are intimately related and cannot be
+understood within the framework of the prevailing probabilistic theory.

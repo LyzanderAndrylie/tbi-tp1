@@ -1,0 +1,6 @@
+We report on a new measurement of the branching ratio B(KL -> pi0 e+ e-
+gamma) using the KTeV detector. This analysis uses the full KTeV data set
+collected from 1997 to 2000. We reconstruct 139 events over a background of 14,
+which results in B(KL -> pi0 e+ e- gamma) = (1.62 +/- 0.14 (stat) +/- 0.09
+(syst)) x 10^{-8}. This result supersedes the earlier KTeV measurement of this
+branching ratio.

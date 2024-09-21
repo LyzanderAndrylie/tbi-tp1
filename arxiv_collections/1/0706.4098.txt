@@ -1,0 +1,14 @@
+A superconductor with 4-fermion attraction, considered by Ma\'{c}kowiak and
+Tarasewicz is modified by adding to the Hamiltonian a long-range magnetic
+interaction $V$ between conduction fermions and localized distinguishable spin
+1/2 magnetic impurities. $V$ has the form of a reduced s-d interaction. An
+upper and lower bound to the system's free energy density $f(H,\beta)$ is
+derived and the two bounds are shown to coalesce in the thermodynamic limit.
+The resulting mean-field equations for the gap $\Delta$ and a parameter $y$,
+characterizing the impurity subsystem are solved and the solution minimizing
+$f$ is found for various values of magnetic coupling constant $g$ and impurity
+concentration. The phase diagrams of the system are depicted with five distinct
+phases: the normal phase, unperturbed superconducting phase, perturbed
+superconducting phase with nonzero gap in the excitation spectrum, perturbed
+gapless superconducting phase and impurity phase with completely suppressed
+superconductivity.

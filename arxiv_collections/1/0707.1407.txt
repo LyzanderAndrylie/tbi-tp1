@@ -1,0 +1,11 @@
+Control of the living cell functions with remarkable reliability despite the
+stochastic nature of the underlying molecular networks -- a property presumably
+optimized by biological evolution. We here ask to what extent the property of a
+stochastic dynamical network to produce reliable dynamics is an evolvable
+trait. Using an evolutionary algorithm based on a deterministic selection
+criterion for the reliability of dynamical attractors, we evolve dynamical
+networks of noisy discrete threshold nodes. We find that, starting from any
+random network, reliability of the attractor landscape can often be achieved
+with only few small changes to the network structure. Further, the evolvability
+of networks towards reliable dynamics while retaining their function is
+investigated and a high success rate is found.

@@ -1,0 +1,8 @@
+In despair, as Deligne (2000) put it, of proving the Hodge and Tate
+conjectures, we can try to find substitutes. For abelian varieties in
+characteristic zero, Deligne (1982) constructed a theory of Hodge classes
+having many of the properties that the algebraic classes would have if the
+Hodge conjecture were known. In this article I investigate whether there exists
+a theory of "rational Tate classes" on varieties over finite fields having the
+properties that the algebraic classes would have if the Hodge and Tate
+conjectures were known. v3. Submitted version.

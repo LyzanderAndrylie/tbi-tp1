@@ -1,0 +1,11 @@
+One of the fundamental conditions for one-way quantum computation (1WQC) is
+the ability to make sequential measurements on isolated qubits that comprise
+the highly entangled resource for 1WQC, the cluster state. This has been a
+significant impediment in the implementation of 1WQC with ultracold atoms
+confined in optical lattices, because the width of the measuring lasers is
+generally much greater than the atomic (qubit) spacing. We demonstrate that
+deterministic 1WQC is nevertheless possible, with a polynomial increase in the
+number of operations, as long as the center of the beams can be positioned with
+high accuracy. Extending the number of cluster atoms, the scheme is also able
+to compensate for accidental measurements of an arbitrary number of nearby
+qubits.

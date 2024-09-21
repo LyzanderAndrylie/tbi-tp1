@@ -1,0 +1,13 @@
+We consider two-band double exchange model and calculate the critical
+temperature in ferromagnetic regime (Curie temperature). The localized spins
+are represented in terms of the Schwinger-bosons, and two spin-singlet Fermion
+operators are introduced. In terms of the new Fermi fields the on-site Hund's
+interactions are in a diagonal form and one accounts for them exactly.
+Integrating out the spin-singlet fermions we derive an effective Heisenberg
+type model for a vector which describes the local orientations of the total
+magnetization. The transversal fluctuations of the vector are the true magnons
+in the theory, which is a base for Curie temperature calculation. The critical
+temperature is calculated employing the Schwinger-bosons mean-field theory.
+While approximate, this technic of calculation captures the essentials of the
+magnon fluctuations in the theory, and for 2D systems one obtains zero Curie
+temperature, in accordance with Mermin-Wagner theorem.

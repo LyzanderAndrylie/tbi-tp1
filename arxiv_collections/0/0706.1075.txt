@@ -1,0 +1,9 @@
+Present proposals for the realisation of entangled photon pair sources using
+the radiative decay of the biexciton in semiconductor quantum dots are limited
+by the need to enforce degeneracy of the two intermediate, single exciton
+states. We show how this requirement is lifted if the biexciton binding energy
+can be tuned to zero and we demonstrate this unbinding of the biexciton in a
+single, pre-positioned InAs quantum dot subject to a lateral electric field.
+Full Configuration-Interaction calculations are presented that reveal how the
+biexciton is unbound through manipulation of the electron-hole Coulomb
+interaction and the consequent introduction of Hidden Symmetry.

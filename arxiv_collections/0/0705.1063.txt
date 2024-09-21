@@ -1,0 +1,12 @@
+A simple stochastic formulation of the multiple scattering representation
+solution of the classical linear incoherent trapping problem is presented for a
+broad audience. A clear connection with the alternative Holstein's solution
+ansatz is emphasized by the (re)interpretation of the fundamental mode as the
+one associated with a relaxed nonchanging spatial distribution of excitation.
+Expressions for overall relaxation parameters (ensemble emission yield and
+lifetime) as well as time-resolved (decay and spatial distribution) and
+steady-state quantities (spectra and spatial distribution) are given with the
+fundamental mode contribution singled out. The multiple scattering
+representation is advocated for final undergraduate and beginning graduate
+physics instruction based on physical insight and computation feasibility. This
+will be illustrated in the following instalment of this contribution.

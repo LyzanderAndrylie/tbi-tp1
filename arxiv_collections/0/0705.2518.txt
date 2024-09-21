@@ -1,0 +1,6 @@
+We study experimentally superradiance in a Bose-Einstein condensate using a
+two-frequency pump beam. By controlling the frequency difference between the
+beam components, we measure the spectrum of the backward (energy-mismatched)
+superradiant atomic modes. In addition, we show that the populations of these
+modes display coherent time-dynamics. These results are compared to a
+semi-classical model based on coupled Schroedinger-Maxwell equations.

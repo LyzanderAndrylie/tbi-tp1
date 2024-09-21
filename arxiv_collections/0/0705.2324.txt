@@ -1,0 +1,7 @@
+We study stimulated light scattering off a superfluid Fermi gas of atoms at
+finite temperature. We derive response function that takes into account vertex
+correction due to final state interactions; and analyze finite temperature
+effects on collective and quasiparticle excitations of a uniform superfluid
+Fermi gas. Light polarization is shown to play an important role in
+excitations. Our results suggest that it is possible to excite
+Bogoliubov-Anderson phonon at a large scattering length by light scattering.

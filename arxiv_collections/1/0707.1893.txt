@@ -1,0 +1,5 @@
+We consider an example of tubes of hypersurfaces in Euclidean space and
+generalise the tube formula to supercase. By this we assign to a point of the
+hypersurface in superspace a rational characteristic function. Does this
+rational function appear when we calculate the zeta-function of an arithmetic
+variety?

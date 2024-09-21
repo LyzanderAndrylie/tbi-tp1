@@ -1,0 +1,17 @@
+We have studied two types of meshwork models by using the canonical Monte
+Carlo simulation technique. The first meshwork model has elastic junctions,
+which are composed of vertices, bonds, and triangles, while the second model
+has rigid junctions, which are hexagonal (or pentagonal) rigid plates.
+Two-dimensional elasticity is assumed only at the elastic junctions in the
+first model, and no two-dimensional bending elasticity is assumed in the second
+model. Both of the meshworks are of spherical topology. We find that both
+models undergo a first-order collapsing transition between the smooth spherical
+phase and the collapsed phase. The Hausdorff dimension of the smooth phase is
+H\simeq 2 in both models as expected. It is also found that H\simeq 2 in the
+collapsed phase of the second model, and that H is relatively larger than 2 in
+the collapsed phase of the first model, but it remains in the physical bound,
+i.e., H<3. Moreover, the first model undergoes a discontinuous surface
+fluctuation transition at the same transition point as that of the collapsing
+transition, while the second model undergoes a continuous transition of surface
+fluctuation. This indicates that the phase structure of the meshwork model is
+weakly dependent on the elasticity at the junctions.

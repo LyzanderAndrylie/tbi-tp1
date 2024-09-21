@@ -1,0 +1,14 @@
+We studied the dynamical response of a nanomechanical resonator to
+biomolecular (e.g. DNA) adsorptions on a resonator's surface by using a
+theoretical model, which considers the Hamiltonian H such that the potential
+energy consists of elastic bending energy of a resonator and the potential
+energy for biomolecular interactions. It was shown that the resonant frequency
+shift of a resonator due to biomolecular adsorption depends on not only the
+mass of adsorbed biomolecules but also the biomolecular interactions.
+Specifically, for dsDNA adsorption on a resonator's surface, the resonant
+frequency shift is also dependent on the ionic strength of a solvent, implying
+the role of molecular interactions on the dynamic behavior of a resonator. This
+indicates that nanomechanical resonators may enable one to quantify the
+biomolecular mass, implying the enumeration of biomolecules, as well as gain
+insight into intermolecular interactions between adsorbed biomolecules on the
+surface.

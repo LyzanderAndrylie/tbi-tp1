@@ -1,0 +1,11 @@
+We present the performances and the strain sensitivity of the first spherical
+gravitational wave detector equipped with a capacitive transducer and read out
+by a low noise two-stage SQUID amplifier and operated at a temperature of 5 K.
+We characterized the detector performance in terms of thermal and electrical
+noise in the system output sygnal. We measured a peak strain sensitivity of
+$1.5\cdot 10^{-20} Hz^{-1/2}$ at 2942.9 Hz. A strain sensitivity of better than
+$5\cdot 10{-20}Hz{-1/2}$ has been obtained over a bandwidth of 30 Hz. We expect
+an improvement of more than one order of magnitude when the detector will
+operate at 50 mK. Our results represent the first step towards the development
+of an ultracryogenic omnidirectional detector sensitive to gravitational
+radiation in the 3kHz range.

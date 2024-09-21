@@ -1,0 +1,7 @@
+Mehring et al. have recently described an elegant nuclear magnetic resonance
+(NMR) experiment implementing an algorithm to factor numbers based on the
+properties of Gauss sums. Similar experiments have also been described by
+Mahesh et al. In fact these algorithms do not factor numbers directly, but
+rather check whether a trial integer $\ell$ is a factor of a given integer $N$.
+Here I show that these NMR schemes cannot be used for factor checking without
+first implicitly determining whether or not $\ell$ is a factor of $N$.

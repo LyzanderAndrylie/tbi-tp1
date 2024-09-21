@@ -1,0 +1,7 @@
+We compare several optical implementations of phase-covariant cloning
+machines. The experiments are based on copying of the polarization state of a
+single photon in bulk optics by special unbalanced beam splitter or by balanced
+beam splitter accompanied by a state filtering. Also the all-fiber based setup
+is discussed, where the information is encoded into spatial modes, i.e., the
+photon can propagate through two optical fibers. Each of the four
+implementations possesses some advantages and disadvantages that are discussed.

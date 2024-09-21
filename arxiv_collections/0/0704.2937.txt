@@ -1,0 +1,6 @@
+We present a quantum implementation of Parrondo's game with randomly switched
+strategies using 1) a quantum walk as a source of ``randomness'' and 2) a
+completely positive (CP) map as a randomized evolution. The game exhibits the
+same paradox as in the classical setting where a combination of two losing
+strategies might result in a winning strategy. We show that the CP-map scheme
+leads to significantly lower net gain than the quantum walk scheme.

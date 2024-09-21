@@ -1,0 +1,9 @@
+This work explores a simple approximation to describe isolated impurity
+scattering in a strongly correlated metal. The approximation combines
+conventional one electron scattering theory and the Dynamic Mean Field Theory
+to describe strong correlations in the host. It becomes exact in several
+limits, including those of very weak and very strong impurity potentials.
+Original electronic structure appears at the impurity site when the impurity
+potential strength is moderate and the host is close to the Mott transition.
+Our results may provide useful guidance for interpretation of scanning
+tunneling microscopy experiments in strongly correlated systems.

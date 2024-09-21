@@ -1,0 +1,13 @@
+The damage spreading method (DS) provided a useful tool to obtain analytical
+results of the thermodynamics and stability of the 2D Ising model --amongst
+many others--, but it suffered both from ambiguities in its results and from
+large computational costs. In this paper we propose an alternative method, the
+so called self-overlap method, based on the study of correlation functions
+measured at subsequent time steps as the system evolves towards its
+equilibrium. Applying markovian and mean field approximations to a 2D Ising
+system we obtain both analytical and numerical results on the thermodynamics
+that agree with the expected behavior. We also provide some analytical results
+on the stability of the system. Since only a single replica of the system needs
+to be studied, this method would seem to be free from the ambiguities that
+afflicted DS. It also seems to be numerically more efficient and analytically
+simpler.

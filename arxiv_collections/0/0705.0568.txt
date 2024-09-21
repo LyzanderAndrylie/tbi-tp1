@@ -1,0 +1,8 @@
+Bivariate linear mixed models are useful when analyzing longitudinal data of
+two associated markers. In this paper, we present a bivariate linear mixed
+model including random effects or first-order auto-regressive process and
+independent measurement error for both markers. Codes and tricks to fit these
+models using SAS Proc MIXED are provided. Limitations of this program are
+discussed and an example in the field of HIV infection is shown. Despite some
+limitations, SAS Proc MIXED is a useful tool that may be easily extendable to
+multivariate response in longitudinal studies.

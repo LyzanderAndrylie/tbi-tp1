@@ -1,0 +1,9 @@
+When ground state atoms are excited to a Rydberg state, van der Waals
+interactions among them can lead to a strong suppression of the excitation.
+Despite the strong interactions the evolution can still be reversed by a simple
+phase shift in the excitation laser field. We experimentally prove the
+coherence of the excitation in the strong blockade regime by applying an
+`optical rotary echo' technique to a sample of magnetically trapped ultracold
+atoms, analogous to a method known from nuclear magnetic resonance. We
+additionally measured the dephasing time due to the interaction between the
+Rydberg atoms.

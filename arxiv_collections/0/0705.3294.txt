@@ -1,0 +1,7 @@
+Guided by a geometric understanding developed in earlier works of Wang and
+Young, we carry out some numerical studies of shear-induced chaos. The settings
+considered include periodic kicking of limit cycles, random kicks at Poisson
+times, and continuous-time driving by white noise. The forcing of a
+quasi-periodic model describing two coupled oscillators is also investigated.
+In all cases, positive Lyapunov exponents are found in suitable parameter
+ranges when the forcing is suitably directed.

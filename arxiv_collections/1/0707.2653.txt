@@ -1,0 +1,7 @@
+Let K be a non-Archimedean local field with the normalized absolute value
+$|\cdot |$. It is shown that a ``plane wave'' $f(t+\omega_1 x_1+...
++\omega_nx_n)$, where f is a Bruhat-Schwartz complex-valued test function on K,
+$(t,x_1,..., x_n)\in K^{n+1}$, $\max\limits_{1\le j\le n}|\omega_j|=1$,
+satisfies, for any f, a certain homogeneous pseudo-differential equation, an
+analog of the classical wave equation. A theory of the Cauchy problem for this
+equation is developed.

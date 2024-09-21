@@ -1,0 +1,15 @@
+Strong experimental and theoretical evidence shows that transcription factors
+and other specific DNA-binding proteins find their sites using a two-mode
+search: alternating between 3D diffusion through the cell and 1D sliding along
+the DNA. We consider the role spatial effects in the mechanism on two different
+scales. First, we reconcile recent experimental findings by showing that the 3D
+diffusion of the transcription factor is often local, i.e. the transcription
+factor lands quite near its dissociation site. Second, we discriminate between
+two types of searches: global searches and local searches. We show that these
+searches differ significantly in average search time and the variability of
+search time. Using experimentally measured parameter values, we also show that
+1D and 3D search is not optimally balanced, leading to much larger estimates of
+search time. Together, these results lead to a number of biological
+implications including suggestions of how prokaryotes and eukaryotes achieve
+rapid gene regulation and the relationship between the search mechanism and
+noise in gene expression.

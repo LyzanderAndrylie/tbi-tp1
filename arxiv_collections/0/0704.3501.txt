@@ -1,0 +1,12 @@
+We present in this paper a new benchmark for evaluating the performances of
+data warehouses. Benchmarking is useful either to system users for comparing
+the performances of different systems, or to system engineers for testing the
+effect of various design choices. While the TPC (Transaction Processing
+Performance Council) standard benchmarks address the first point, they are not
+tuneable enough to address the second one. Our Data Warehouse Engineering
+Benchmark (DWEB) allows to generate various ad-hoc synthetic data warehouses
+and workloads. DWEB is fully parameterized. However, two levels of
+parameterization keep it easy to tune. Since DWEB mainly meets engineering
+benchmarking needs, it is complimentary to the TPC standard benchmarks, and not
+a competitor. Finally, DWEB is implemented as a Java free software that can be
+interfaced with most existing relational database management systems.

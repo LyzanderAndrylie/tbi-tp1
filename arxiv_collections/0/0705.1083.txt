@@ -1,0 +1,4 @@
+We analyse Selten's concept of trembling hand perfect equilibria in the
+context of quantum game theory. We define trembles as mixed quantum strategies
+by replacing discrete probabilities with probability distribution functions.
+Explicit examples of analysis are given.

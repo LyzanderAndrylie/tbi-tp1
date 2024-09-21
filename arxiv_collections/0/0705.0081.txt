@@ -1,0 +1,5 @@
+This paper introduces a new combinatorial construction for q-ary
+constant-weight codes which yields several families of optimal codes and
+asymptotically optimal codes. The construction reveals intimate connection
+between q-ary constant-weight codes and sets of pairwise disjoint combinatorial
+designs of various types.

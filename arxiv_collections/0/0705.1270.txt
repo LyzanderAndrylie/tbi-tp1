@@ -1,0 +1,19 @@
+A new class of Marginal Structural Models (MSMs), History-Restricted MSMs
+(HRMSMs), was recently introduced for longitudinal data for the purpose of
+defining causal parameters which may often be better suited for public health
+research or at least more practicable than MSMs \citejoffe,feldman. HRMSMs
+allow investigators to analyze the causal effect of a treatment on an outcome
+based on a fixed, shorter and user-specified history of exposure compared to
+MSMs. By default, the latter represent the treatment causal effect of interest
+based on a treatment history defined by the treatments assigned between the
+study's start and outcome collection. We lay out in this article the formal
+statistical framework behind HRMSMs. Beyond allowing a more flexible causal
+analysis, HRMSMs improve computational tractability and mitigate statistical
+power concerns when designing longitudinal studies. We also develop three
+consistent estimators of HRMSM parameters under sufficient model assumptions:
+the Inverse Probability of Treatment Weighted (IPTW), G-computation and Double
+Robust (DR) estimators. In addition, we show that the assumptions commonly
+adopted for identification and consistent estimation of MSM parameters
+(existence of counterfactuals, consistency, time-ordering and sequential
+randomization assumptions) also lead to identification and consistent
+estimation of HRMSM parameters.

@@ -1,0 +1,10 @@
+An attempt to construct the ``ground state'' vacuum initial data for the
+gravitational field surrounding two black holes is presented. The ground state
+is defined as the gravitational initial data minimizing the ADM mass within the
+class of data for which the masses of the holes and their distance are fixed.
+To parameterize different geometric arrangements of the two holes (and,
+therefore, their distance) we use an appropriately chosen scale factor. A
+method for analyzing the variations of the ADM mass and the masses (areas) of
+the horizons in terms of gravitational degrees of freedom is proposed. The
+Misner initial data are analyzed in this context: it is shown that they do not
+minimize the ADM mass.

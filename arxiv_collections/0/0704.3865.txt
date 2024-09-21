@@ -1,0 +1,17 @@
+Multicriticality of the gonihedric model in 2+1 dimensions is investigated
+numerically. The gonihedric model is a fully frustrated Ising magnet with the
+finely tuned plaquette-type (four-body and plaquette-diagonal) interactions,
+which cancel out the domain-wall surface tension. Because the
+quantum-mechanical fluctuation along the imaginary-time direction is simply
+ferromagnetic, the criticality of the (2+1)-dimensional gonihedric model should
+be an anisotropic one; that is, the respective critical indices of real-space
+(\perp) and imaginary-time (\parallel) sectors do not coincide. Extending the
+parameter space to control the domain-wall surface tension, we analyze the
+criticality in terms of the crossover (multicritical) scaling theory. By means
+of the numerical diagonalization for the clusters with N\le 28 spins, we
+obtained the correlation-length critical indices
+(\nu_\perp,\nu_\parallel)=(0.45(10),1.04(27)), and the crossover exponent
+\phi=0.7(2). Our results are comparable to
+(\nu_{\perp},\nu_{\parallel})=(0.482,1.230), and \phi=0.688 obtained by Diehl
+and Shpot for the (d,m)=(3,2) Lifshitz point with the \epsilon-expansion method
+up to O(\epsilon^2).

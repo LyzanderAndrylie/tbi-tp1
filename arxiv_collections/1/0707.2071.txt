@@ -1,0 +1,12 @@
+Since Renes et al. [J. Math. Phys. 45, 2171 (2004)], there has been much
+effort in the quantum information community to prove (or disprove) the
+existence of symmetric informationally complete (SIC) sets of quantum states in
+arbitrary finite dimension. This paper strengthens the urgency of this question
+by showing that if SIC-sets exist: 1) by a natural measure of orthonormality,
+they are as close to being an orthonormal basis for the space of density
+operators as possible, and 2) in prime dimensions, the standard construction
+for complete sets of mutually unbiased bases and Weyl-Heisenberg covariant
+SIC-sets are intimately related: The latter represent minimum uncertainty
+states for the former in the sense of Wootters and Sussman. Finally, we
+contribute to the question of existence by conjecturing a quadratic redundancy
+in the equations for Weyl-Heisenberg SIC-sets.

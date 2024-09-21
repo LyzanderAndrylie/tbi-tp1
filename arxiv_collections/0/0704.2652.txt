@@ -1,0 +1,8 @@
+We report the first observation of the decay \bar{B0} -> D_s^+ Lambda \bar{p}
+with a statistical significance of 6.6 sigma. We measure Br(\bar{B0} -> Ds+
+Lambda \bar{p}) = (2.9 \pm 0.7\pm 0.5 \pm 0.4)* 10^{-5}, where the first error
+is statistical, the second is systematic and the third error comes fr\om the
+uncertainty in Br(Ds+ -> phi pi+). The data used for this analysis was
+accumulated at the Upsilon(4S) resonance, using the Belle detector at the KEKB
+asymmetric-energy e+e- collider. The integrated luminosity of the data sample
+is 414 fb-1, corresponding to 449*10^{6} B{\bar B} pairs.

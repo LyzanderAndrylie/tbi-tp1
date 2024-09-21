@@ -1,0 +1,11 @@
+The Lindblad generators of the master equation define which kind of
+decoherence happens in an open quantum system. We are working with a two qubit
+system and choose the generators to be projection operators on the eigenstates
+of the system and unitary bilocal rotations of them. The resulting decoherence
+modes are studied in detail. Besides the general solutions we investigate the
+special case of maximally entangled states - the Bell singlet states. The
+results are depicted in the so-called spin geometry picture which allows to
+illustrate the evolution of the (nonlocal) correlations stored in a certain
+state. The question for which conditions the path traced out in the geometric
+picture depends only on the relative angle between the bilocal rotations is
+addressed.

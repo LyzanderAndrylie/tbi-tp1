@@ -1,0 +1,11 @@
+We consider the problem of forecasting the next (observable) state of an
+unknown ergodic dynamical system from a noisy observation of the present state.
+Our main result shows, for example, that support vector machines (SVMs) using
+Gaussian RBF kernels can learn the best forecaster from a sequence of noisy
+observations if (a) the unknown observational noise process is bounded and has
+a summable $\alpha$-mixing rate and (b) the unknown ergodic dynamical system is
+defined by a Lipschitz continuous function on some compact subset of
+$\mathbb{R}^d$ and has a summable decay of correlations for Lipschitz
+continuous functions. In order to prove this result we first establish a
+general consistency result for SVMs and all stochastic processes that satisfy a
+mixing notion that is substantially weaker than $\alpha$-mixing.

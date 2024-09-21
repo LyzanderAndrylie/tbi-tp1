@@ -1,0 +1,11 @@
+We propose generalization of escape rate from a metastable state for
+externally driven correlated noise processes in one dimension. In addition to
+the internal non-Markovian thermal fluctuations, the external correlated noise
+processes we consider are Gaussian, stationary in nature and are of
+Ornstein-Uhlenbeck type. Based on a Fokker-Planck description of the effective
+noise processes with finite memory we derive the generalized escape rate from a
+metastable state in the moderate to large damping limit and investigate the
+effect of degree of correlation on the resulting rate. Comparison of the
+theoretical expression with numerical simulation gives a satisfactory agreement
+and shows that by increasing the degree of external noise correlation one can
+enhance the escape rate through the dressed effective noise strength.

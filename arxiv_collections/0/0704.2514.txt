@@ -1,0 +1,23 @@
+The threshold electrodisintegration of the deuteron at backward angles is
+studied with a relativistic Hamiltonian, including a relativistic
+one-pion-exchange potential (OPEP) with off-shell terms as predicted by
+pseudovector coupling of pions to nucleons. The bound and scattering states are
+obtained in the center-of-mass frame, and then boosted from it to the Breit
+frame, where the evaluation of the relevant matrix elements of the
+electromagnetic current operator is carried out. The latter includes, in
+addition to one-body, also two-body terms due to pion exchange, as obtained,
+consistently with the OPEP, in pseudovector pion-nucleon coupling theory. The
+full Lorentz structure of these currents is retained. In order to estimate the
+magnitude of the relativistic effects we perform, for comparison, the
+calculation with a non-relativistic phase-equivalent Hamiltonian and the
+standard non-relativistic expressions for the one-body and two-body
+pion-exchange currents. Our results for the electrodisintegration cross section
+show that, in the calculations using one-body currents, relativistic
+corrections become significant ({\it i.e.}, larger than 10%) only at high
+momentum transfer $Q$ ($Q^2 \simeq 40$fm$^{-2}$ and beyond). However, the
+inclusion of two-body currents makes the relativistic predictions considerably
+smaller than the corresponding non-relativistic results in the $Q^2$ region
+(18--40) fm$^{-2}$. The calculations based on the relativistic model also
+confirm the inadequacy, already established in a non-relativistic context, of
+the present electromagnetic current model to reproduce accurately the
+experimental data at intermediate values of momentum transfers.

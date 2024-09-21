@@ -1,0 +1,10 @@
+The Cauchy horizon forming colliding wave solution due to Chandrasekhar and
+Xanthopoulos (CX) has been generalized by inclusion of the NUT (Newman - Unti -
+Tamburino) parameter. This is done by transforming the part of the inner
+horizon region of a Kerr-Newman-NUT black hole into the space of colliding
+waves. By taking appropriate combination of Killing vectors and analytically
+extending beyond the Cauchy horizon the time-like hyperbolic sigularities are
+resolved as well. This provides another example of its kind among the type - D
+metrics with special emphasis on the role of the NUT parameter. Finally, it is
+shown that horizons of colliding higher dimensional plane waves obtained from
+the black p-branes undergoes a similar procedure of analytic extension.

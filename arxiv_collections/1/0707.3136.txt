@@ -1,0 +1,12 @@
+Ion mixtures require an exclusion core to avoid collapse. The Debye Hueckel
+theory, where ions are point charges, is accurate only in the limit of infinite
+dilution. The MSA is the embedding of hard cores into DH, is valid for higher
+densities. In the MSA the properties of any ionic mixture can be represented by
+a single screening parameter $\Gamma$. For equal ionic size restricted model is
+obtained from the Debye parameter $\kappa$. This one parameter representation
+(BIMSA) is valid for complex and associating systems, such as the general
+n-polyelectrolytes. The BIMSA is the only theory that satisfies the infinite
+dilution limit of the DH theory for any chain length. The contact pair
+distribution function of hard ions mixture is a functional of $\Gamma$ and a
+small mean field parameter. This yields good agreement with the Monte Carlo
+(Bresme et al. Phys. Rev. E {\textbf 51} 289 (1995)) .

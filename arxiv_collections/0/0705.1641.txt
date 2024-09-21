@@ -1,0 +1,7 @@
+For the complex Clifford algebra Cl(p,q) of dimension n=p+q we define a
+Hermitian scalar product. This scalar product depends on the signature (p,q) of
+Clifford algebra. So, we arrive at unitary spaces on Clifford algebras. With
+the aid of Hermitian idempotents we suggest a new construction of, so called,
+normal matrix representations of Clifford algebra elements. These
+representations take into account the structure of unitary space on Clifford
+algebra.

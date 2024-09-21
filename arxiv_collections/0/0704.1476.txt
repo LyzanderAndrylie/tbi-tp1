@@ -1,0 +1,21 @@
+The field equations and boundary conditions of Horava-Witten theory,
+compactified on a smooth compact spin quotient of CH^3, where CH^3 denotes the
+hyperbolic cousin of CP^3, are studied in the presence of Casimir energy
+density terms. If the Casimir energy densities near one boundary result in a
+certain constant of integration taking a value greater than around 10^5 in
+units of the d = 11 gravitational length, a form of thick pipe geometry is
+found that realizes TeV-scale gravity by the ADD mechanism, with that boundary
+becoming the inner surface of the thick pipe, where we live. Three alternative
+ways in which the outer surface of the thick pipe might be stabilized
+consistent with the observed value of the effective d = 4 cosmological constant
+are considered. In the first alternative, the outer surface is stabilized in
+the classical region and the constant of integration is fixed at around 10^{13}
+in units of the d = 11 gravitational length for consistency with the observed
+cosmological constant. In the second alternative, the four observed dimensions
+have reduced in size down to the d = 11 gravitational length at the outer
+surface, and there are Casimir effects near the outer surface. In the third
+alternative, the outer surface is stabilized in the classical region by extra
+fluxes of the three-form gauge field, whose four-form field strength wraps
+three-cycles of the compact six-manifold times the radial dimension of the
+thick pipe. Some problems related to fitting the strong/electroweak Standard
+Model are considered.

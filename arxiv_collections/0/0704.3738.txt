@@ -1,0 +1,9 @@
+In order to describe a nonuniform equilibrium mixture with an interface
+between two coexisting phases it is necessary to consider contributions to the
+Helmholtz energy which depend on the gradients of for instance the density. Van
+der Waals \cite{vdW/sg, vdW/translation} was the first to introduce such a
+term, which is very important in the interfacial region for a one-component
+system. Cahn & Hilliard \cite{cahnhilliard/fens/I} extended this analysis to a
+binary mixture by introducing gradient terms of the mol fraction. We give an
+systematic extension of the gradient theory to three-dimensional
+multi-component systems.

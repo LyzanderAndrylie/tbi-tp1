@@ -1,0 +1,10 @@
+We consider Rashba spin-orbit effects on spin transport driven by an electric
+field in semiconductor quantum wells. We derive spin diffusion equations that
+are valid when the mean free path and the Rashba spin-orbit interaction vary on
+length scales larger than the mean free path in the weak spin-orbit coupling
+limit. From these general diffusion equations, we derive boundary conditions
+between regions of different spin-orbit couplings. We show that spin injection
+is feasible when the electric field is perpendicular to the boundary between
+two regions. When the electric field is parallel to the boundary, spin
+injection only occurs when the mean free path changes within the boundary, in
+agreement with the recent work by Tserkovnyak et al. [cond-mat/0610190].

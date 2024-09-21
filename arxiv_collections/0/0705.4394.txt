@@ -1,0 +1,9 @@
+We report on the electron analog of the single photon gun. On demand single
+electron injection in a quantum conductor was obtained using a quantum dot
+connected to the conductor via a tunnel barrier. Electron emission is triggered
+by application of a potential step which compensates the dot charging energy.
+Depending on the barrier transparency the quantum emission time ranges from 0.1
+to 10 nanoseconds. The single electron source should prove useful for the
+implementation of quantum bits in ballistic conductors. Additionally periodic
+sequences of single electron emission and absorption generate a quantized
+AC-current.

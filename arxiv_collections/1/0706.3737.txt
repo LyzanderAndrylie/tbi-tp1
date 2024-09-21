@@ -1,0 +1,10 @@
+We investigate, analytically and numerically, the effects of disorder on the
+density of states and on the localization properties of the relativistic two
+dimensional fermions in the lowest Landau level. Employing a supersymmetric
+technique, we calculate the exact density of states for the Cauchy (Lorentzian)
+distribution for various types of disorders. We use a numerical technique to
+establish the localization-delocalization (LD) transition in the lowest Landau
+level. For some types of disorder the LD transition is shown to belong to a
+different universality class, as compared to the corresponding nonrelativistic
+problem. The results are relevant to the integer quantum Hall plateau
+transitions observed in graphene.

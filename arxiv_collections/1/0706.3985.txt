@@ -1,0 +1,13 @@
+This paper gives a method for computing distributions associated with
+patterns in the state sequence of a hidden Markov model, conditional on
+observing all or part of the observation sequence. Probabilities are computed
+for very general classes of patterns (competing patterns and generalized later
+patterns), and thus, the theory includes as special cases results for a large
+class of problems that have wide application. The unobserved state sequence is
+assumed to be Markovian with a general order of dependence. An auxiliary Markov
+chain is associated with the state sequence and is used to simplify the
+computations. Two examples are given to illustrate the use of the methodology.
+Whereas the first application is more to illustrate the basic steps in applying
+the theory, the second is a more detailed application to DNA sequences, and
+shows that the methods can be adapted to include restrictions related to
+biological knowledge.

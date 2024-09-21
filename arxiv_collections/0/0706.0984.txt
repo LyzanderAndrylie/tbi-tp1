@@ -1,0 +1,14 @@
+Nucleon-nucleon scattering in spin-triplet channels is analysed within an
+effective field theory where one-pion exchange is treated nonperturbatively.
+Justifying this requires the identification of an additional low-energy scale
+in the strength of that potential. Short-range interactions are organised
+according to the resulting power counting, in which the leading term is
+promoted to significantly lower order than in the usual perturbative counting.
+In each channel there is a critical momentum above which the waves probe the
+singular core of the tensor potential and the new counting is necessary. When
+the effects of one- and two-pion exchange have been removed using a
+distorted-wave Born approximation, the residual scattering in waves with L<=2
+is well described by the first three terms in the new counting. In contrast,
+the scattering in waves with L>=3 is consistent with the perturbative counting,
+at least for energies up to 300 MeV. This pattern is in agreement with
+estimates of the critical momenta in these channels.

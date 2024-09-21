@@ -1,0 +1,12 @@
+The notion of tissue surface tension has provided a physical understanding of
+morphogenetic phenomena such as tissue spreading or cell sorting. The
+measurement of tissue surface tension so far relied on strong approximations on
+the geometric profile of a spherical droplet compressed between parallel
+plates. We solved the Laplace equation for this geometry and tested its
+solution on true liquids and embryonic tissue fragments as well as
+multicellular aggregates. The analytic solution provides the surface tension in
+terms of easily and accurately measurable geometric parameters. Experimental
+results show that the various tissues and multicellular aggregates studied here
+are incompressible and, similarly to true liquids, possess effective surface
+tensions that are independent of the magnitude of the compressive force and the
+volume of the droplet.

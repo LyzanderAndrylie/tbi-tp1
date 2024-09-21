@@ -1,0 +1,24 @@
+Using fish-covering model, this paper intuitively explains how to extend
+Hartley's information formula to the generalized information formula step by
+step for measuring subjective information: metrical information (such as
+conveyed by thermometers), sensory information (such as conveyed by color
+vision), and semantic information (such as conveyed by weather forecasts). The
+pivotal step is to differentiate condition probability and logical condition
+probability of a message. The paper illustrates the rationality of the formula,
+discusses the coherence of the generalized information formula and Popper's
+knowledge evolution theory. For optimizing data compression, the paper
+discusses rate-of-limiting-errors and its similarity to complexity-distortion
+based on Kolmogorov's complexity theory, and improves the rate-distortion
+theory into the rate-fidelity theory by replacing Shannon's distortion with
+subjective mutual information. It is proved that both the rate-distortion
+function and the rate-fidelity function are equivalent to a
+rate-of-limiting-errors function with a group of fuzzy sets as limiting
+condition, and can be expressed by a formula of generalized mutual information
+for lossy coding, or by a formula of generalized entropy for lossless coding.
+By analyzing the rate-fidelity function related to visual discrimination and
+digitized bits of pixels of images, the paper concludes that subjective
+information is less than or equal to objective (Shannon's) information; there
+is an optimal matching point at which two kinds of information are equal; the
+matching information increases with visual discrimination (defined by confusing
+probability) rising; for given visual discrimination, too high resolution of
+images or too much objective information is wasteful.

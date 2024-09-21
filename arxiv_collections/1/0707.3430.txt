@@ -1,0 +1,10 @@
+Let M be a surface (possibly nonorientable) with punctures and/or boundary
+components. The paper is a study of ``geometric subgroups'' of the mapping
+class group of M, that is subgroups corresponding to inclusions of subsurfaces
+(possibly disconnected). We characterise the subsurfaces which lead to
+virtually abelian geometric subgroups. We provide algebraic and geometric
+conditions under which two geometric subgroups are commensurable. We also
+describe the commensurator of a geometric subgroup in terms of the stabiliser
+of the underlying subsurface. Finally, we show some applications of our
+analysis to the theory of irreducible unitary representations of mapping class
+groups.

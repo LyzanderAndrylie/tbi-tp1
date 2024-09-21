@@ -1,0 +1,10 @@
+We report on measurements of dynamical suppression of inter-well tunneling of
+a Bose-Einstein condensate (BEC) in a strongly driven optical lattice. The
+strong driving is a sinusoidal shaking of the lattice corresponding to a
+time-varying linear potential, and the tunneling is measured by letting the BEC
+freely expand in the lattice. The measured tunneling rate is reduced and, for
+certain values of the shaking parameter, completely suppressed. Our results are
+in excellent agreement with theoretical predictions. Furthermore, we have
+verified that in general the strong shaking does not destroy the phase
+coherence of the BEC, opening up the possibility of realizing quantum phase
+transitions by using the shaking strength as the control parameter.

@@ -1,0 +1,10 @@
+An impurity solver based on a continuous-time quantum Monte Carlo method is
+developed for the Coqblin-Schrieffer model. The Monte Carlo simulation does not
+encounter a sign problem for antiferromagnetic interactions, and accurately
+reproduces the Kondo effect. Our algorithm can deal with an arbitrary number N
+of local degrees of freedom, becomes more efficient for larger values of N, and
+is hence suitable for models with orbital degeneracy. The dynamical
+susceptibility and the impurity t-matrix are derived with the aid of the Pad\'e
+approximation for various values of N, and good agreement is found with other
+methods and available exact results. We point out that the Korringa-Shiba
+relation needs correction for a finite value of the exchange interaction.

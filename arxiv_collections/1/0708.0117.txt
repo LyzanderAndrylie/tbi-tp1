@@ -1,0 +1,6 @@
+The resistance noise in a Bi_2Sr_2CaCu_2O$_{8+\delta}$ thin film is found to
+increase strongly in the underdoped regime. While the increase of the raw
+resistance noise with decreasing temperature appears to roughly track the
+previously reported pseudogap temperature for this material, standard noise
+analysis rather suggests that the additional noise contribution is driven by
+the proximity of the superconductor-insulator transition.

@@ -1,0 +1,12 @@
+We present results from an analysis of B0 to rho+rho- decays using 383.6
+million BB-bar pairs collected by the BaBar detector at the PEP-II
+asymmetric-energy B Factory at SLAC. The measurements of the B0 to rho+rho-
+branching fraction, longitudinal polarization fraction f_L, and the
+CP-violating parameters S_{long} and C_{long} are:
+  B(B0-> rho+rho-) = (25.5 +/- 2.1 (stat) +3.6/-3.9 (syst))*10^-6 f_L = 0.992
++/- 0.024 (stat) +0.026/-0.013 (syst) S_{long} = -0.17 +/- 0.20 (stat)
++0.05/-0.06 (syst) C_{long} = 0.01 +/- 0.15 (stat) +/- 0.06 (syst) We determine
+the unitarity triangle angle alpha, using an isospin analysis of B to rhorho
+decays. One of the two solutions, alpha = [73.1, 117.0] degrees at 68% CL is
+compatible with standard model-based fits of existing data. Constraints on the
+unitarity triangle are also evaluated using an SU(3) symmetry based approach.

@@ -1,0 +1,8 @@
+We compare results of $k_t$-factorization approach and next-to-leading order
+collinear-factorization approach for dijet correlations in proton-proton
+collisions at RHIC energies. We discuss correlations in azimuthal angle as well
+as correlations in two-dimensional space of transverse momenta of two jets.
+Some $k_t$-factorization subprocesses are included for the first time in the
+literature. Different unintegrated gluon/parton distributions are used in the
+$k_t$-factorization approach. The results depend on UGDF/UPDF used. Limitations
+due to leading jet condition are discussed.

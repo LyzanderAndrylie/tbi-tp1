@@ -1,0 +1,11 @@
+We have imaged a $\sim$6 arcminute$^2$ region in the Bo\"otes Deep Field
+using the 350 $\mu$m-optimised second generation Submillimeter High Angular
+Resolution Camera (SHARC II), achieving a peak 1$\sigma$ sensitivity of $\sim$5
+mJy. We detect three sources above 3$\sigma$, and determine a spurious source
+detection rate of 1.09 in our maps. In the absence of $5\sigma$ detections, we
+rely on deep 24 $\mu$m and 20 cm imaging to deduce which sources are most
+likely to be genuine, giving two real sources. From this we derive an integral
+source count of 0.84$^{+1.39}_{-0.61}$ sources arcmin$^{-2}$ at $S>13$ mJy,
+which is consistent with 350 $\mu$m source count models that have an
+IR-luminous galaxy population evolving with redshift. We use these constraints
+to consider the future for ground-based short-submillimetre surveys.

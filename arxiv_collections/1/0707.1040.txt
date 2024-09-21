@@ -1,0 +1,7 @@
+Several general results are derived for diffuse waves in anisotropic solids,
+including concise expressions for the modal density per unit volume and for the
+participation factor matrix G. The latter is a second order tensor which
+describes the orientational distribution of diffuse wave or reverberant energy,
+and reduces to the identity I under isotropy. Calculations of G for a variety
+of example materials show significant deviation from I even under moderate
+levels of anisotropy.

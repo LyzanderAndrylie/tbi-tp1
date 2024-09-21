@@ -1,0 +1,8 @@
+The general problem of dissipation in macroscopic large-amplitude collective
+motion and its relation to energy diffusion of intrinsic degrees of freedom of
+a nucleus is studied. By applying the cranking approach to the nuclear
+many-body system, a set of coupled dynamical equations for the collective
+classical variable and the quantum mechanical occupancies of the intrinsic
+nuclear states is derived. Different dynamical regimes of the intrinsic nuclear
+motion and its consequences on time properties of collective dissipation are
+discussed.

@@ -1,0 +1,4 @@
+We compute the Dijkgraaf-Witten invariants of surfaces in terms of projective
+representations of groups. As an application we prove that the complex
+Dijkgraaf-Witten invariants of surfaces of positive genus are positive
+integers.

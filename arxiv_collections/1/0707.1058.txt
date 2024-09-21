@@ -1,0 +1,11 @@
+Let M_0^R be the moduli space of smooth real cubic surfaces. We show that
+each of its components admits a real hyperbolic structure. More precisely, one
+can remove some lower-dimensional geodesic subspaces from a real hyperbolic
+space H^4 and form the quotient by an arithmetic group to obtain an orbifold
+isomorphic to a component of the moduli space. There are five components. For
+each we describe the corresponding lattices in PO(4,1). We also derive several
+new and several old results on the topology of M_0^R. Let M_s^R be the moduli
+space of real cubic surfaces that are stable in the sense of geometric
+invariant theory. We show that this space carries a hyperbolic structure whose
+restriction to M_0^R is that just mentioned. The corresponding lattice in
+PO(4,1), for which we find an explicit fundamental domain, is nonarithmetic.

@@ -1,0 +1,8 @@
+Edge casing is a well-known method to improve the readability of drawings of
+non-planar graphs. A cased drawing orders the edges of each edge crossing and
+interrupts the lower edge in an appropriate neighborhood of the crossing.
+Certain orders will lead to a more readable drawing than others. We formulate
+several optimization criteria that try to capture the concept of a "good" cased
+drawing. Further, we address the algorithmic question of how to turn a given
+drawing into an optimal cased drawing. For many of the resulting optimization
+problems, we either find polynomial time algorithms or NP-hardness results.

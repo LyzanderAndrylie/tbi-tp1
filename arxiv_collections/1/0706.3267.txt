@@ -1,0 +1,6 @@
+We consider an integrable system in five unknowns having three quartics
+invariants. We show that the complex affine variety defined by putting these
+invariants equal to generic constants, completes into an abelian surface; the
+jacobian of a genus two hyperelliptic curve. This system is algebraic
+completely integrable and it can be integrated in genus two hyperelliptic
+functions.

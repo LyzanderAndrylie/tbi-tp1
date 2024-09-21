@@ -1,0 +1,21 @@
+In recent years, several authors have used probabilistic graphical models to
+learn expression modules and their regulatory programs from gene expression
+data. Here, we demonstrate the use of the synthetic data generator SynTReN for
+the purpose of testing and comparing module network learning algorithms. We
+introduce a software package for learning module networks, called LeMoNe, which
+incorporates a novel strategy for learning regulatory programs. Novelties
+include the use of a bottom-up Bayesian hierarchical clustering to construct
+the regulatory programs, and the use of a conditional entropy measure to assign
+regulators to the regulation program nodes. Using SynTReN data, we test the
+performance of LeMoNe in a completely controlled situation and assess the
+effect of the methodological changes we made with respect to an existing
+software package, namely Genomica. Additionally, we assess the effect of
+various parameters, such as the size of the data set and the amount of noise,
+on the inference performance. Overall, application of Genomica and LeMoNe to
+simulated data sets gave comparable results. However, LeMoNe offers some
+advantages, one of them being that the learning process is considerably faster
+for larger data sets. Additionally, we show that the location of the regulators
+in the LeMoNe regulation programs and their conditional entropy may be used to
+prioritize regulators for functional validation, and that the combination of
+the bottom-up clustering strategy with the conditional entropy-based assignment
+of regulators improves the handling of missing or hidden regulators.

@@ -1,0 +1,11 @@
+This paper studies a specific metric on plane curves that has the property of
+being isometric to classical manifold (sphere, complex projective, Stiefel,
+Grassmann) modulo change of parametrization, each of these classical manifolds
+being associated to specific qualifications of the space of curves
+(closed-open, modulo rotation etc...) Using these isometries, we are able to
+explicitely describe the geodesics, first in the parametric case, then by
+modding out the paremetrization and considering horizontal vectors. We also
+compute the sectional curvature for these spaces, and show, in particular, that
+the space of closed curves modulo rotation and change of parameter has positive
+curvature. Experimental results that explicitly compute minimizing geodesics
+between two closed curves are finally provided

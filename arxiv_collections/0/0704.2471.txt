@@ -1,0 +1,8 @@
+We propose a method to study the integrable cellular automata with periodic
+boundary conditions, via the tropical spectral curve and its Jacobian. We
+introduce the tropical version of eigenvector map from the isolevel set to a
+divisor class on the tropical hyperelliptic curve. We also provide some
+conjectures related to the divisor class and the Jacobian. Finally, we apply
+our method to the periodic box and ball system and clarify the
+algebro-geometrical meaning of the real torus introduced for its initial value
+problem.

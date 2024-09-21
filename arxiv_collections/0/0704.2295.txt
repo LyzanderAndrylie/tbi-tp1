@@ -1,0 +1,17 @@
+A secure human identification protocol aims at authenticating human users to
+a remote server when even the users' inputs are not hidden from an adversary.
+Recently, the authors proposed a human identification protocol in the RSA
+Conference 2007, which is loosely based on the ability of humans to efficiently
+process an image. The advantage being that an automated adversary is not
+effective in attacking the protocol without human assistance. This paper
+extends that work by trying to solve some of the open problems. First, we
+analyze the complexity of defeating the proposed protocols by quantifying the
+workload of a human adversary. Secondly, we propose a new construction based on
+textual CAPTCHAs (Reverse Turing Tests) in order to make the generation of
+automated challenges easier. We also present a brief experiment involving real
+human users to find out the number of possible attributes in a given image and
+give some guidelines for the selection of challenge questions based on the
+results. Finally, we analyze the previously proposed protocol in detail for the
+relationship between the secrets. Our results show that we can construct human
+identification protocols based on image evaluation with reasonably
+``quantified'' security guarantees based on our model.

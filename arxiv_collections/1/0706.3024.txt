@@ -1,0 +1,9 @@
+Viewing Dehn's algorithm as a rewriting system, we generalise to allow an
+alphabet containing letters which do not necessarily represent group elements.
+This extends the class of groups for which the algorithm solves the word
+problem to include nilpotent groups, many relatively hyperbolic groups
+including geometrically finite groups and fundamental groups of certain
+geometrically decomposable manifolds. The class has several nice closure
+properties. We also show that if a group has an infinite subgroup and one of
+exponential growth, and they commute, then it does not admit such an algorithm.
+We dub these Cannon's algorithms.

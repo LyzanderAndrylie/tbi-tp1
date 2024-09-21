@@ -1,0 +1,5 @@
+We discuss the quasiclassical Green function method for a two-dimensional
+electron gas in the presence of spin-orbit coupling, with emphasis on the
+meaning of the $\xi$-integration procedure. As an application of our approach,
+we demonstrate how the spin-Hall conductivity, in the presence of spin-flip
+scattering, can be easily obtained from the spin-density continuity equation.

@@ -1,0 +1,9 @@
+The long-time behavior of the current auto-correlation functions for the
+velocity, the shear stress and the heat flux is investigated in freely cooling
+granular gases. It is found that the correlation functions for the velocity and
+the shear stress have the long-time tails obeying $\tau^{-d/2}$, while the
+correlation function of heat flux decays as $\tau^{-(d+2)/2} \exp(-\zeta^*
+\tau)$ with the dimensionless cooling rate $\zeta^*$, the spatial dimension $d$
+and the scaled time $\tau$ in terms of the collision frequency. The result of
+our numerical simulation of the freely cooling granular gases is consistent
+with the theoretical prediction.

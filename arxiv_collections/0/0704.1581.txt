@@ -1,0 +1,13 @@
+Mn3V2O8 is a magnetic system in which S = 5/2 Mn2+ is found in the kagome
+staircase lattice. Here we report the magnetic phase diagram for temperatures
+above 2 K and applied magnetic fields below 9 T, characterized by measurements
+of the magnetization and specific heat with field along the three unique
+lattice directions. At low applied magnetic fields, the system first orders
+magnetically below Tm1 ~ 21 K, and then shows a second magnetic phase
+transition at Tm2 ~ 15 K. In addition, a phase transition that is apparent in
+specific heat but not seen in magnetization is found for all three applied
+field orientations, converging towards Tm2 as H -> 0. The magnetic behavior is
+highly anisotropic, with critical fields for magnetic phase boundaries much
+higher when the field is applied perpendicular to the Kagome staircase plane
+than when applied in-plane. The field-temperature (H - T) phase diagrams are
+quite rich, with 7 distinct phases observed.

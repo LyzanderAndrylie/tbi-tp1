@@ -1,0 +1,11 @@
+We investigate hadronic unquenching effects in light quarks and mesons.
+Within the non-perturbative continuum framework of Schwinger-Dyson and
+Bethe-Salpeter equations we quantify the strength of the back reaction of the
+pion onto the quark-gluon interaction. To this end we add a Yang-Mills part of
+the interaction such that unquenched lattice results for various current quark
+masses are reproduced. We find considerable effects in the quark mass function
+at low momenta as well as for the chiral condensate. The quark wave function is
+less affected. The Gell--Mann-Oakes-Renner relation is valid to good accuracy
+up to pion masses of 400-500 MeV. As a byproduct of our investigation we verify
+the Coleman theorem, that chiral symmetry cannot be broken spontaneously when
+QCD is reduced to 1+1 dimensions.

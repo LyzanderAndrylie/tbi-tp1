@@ -1,0 +1,9 @@
+The (e,n)-complexity functions describe total instability of trajectories in
+dynamical systems. They reflect an ability of trajectories going through a
+Borel set to diverge on the distance $\epsilon$ during the time interval n.
+Behavior of the (e, n)-complexity functions as n goes to infinity is reflected
+in the properties of special measures. These measures are constructed as limits
+of atomic measures supported at points of (e,n)-separated sets. We study such
+measures. In particular, we prove that they are invariant if the
+(e,n)-complexity function grows subexponentially.
+  Keywords: Topological entropy, complexity functions, separability.

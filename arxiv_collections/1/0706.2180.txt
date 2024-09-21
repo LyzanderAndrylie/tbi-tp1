@@ -1,0 +1,10 @@
+The intermetallic perovskite MgCNi3 is a superconductor with a Tc=7 K.
+Substitution of Fe and Ru for Ni decreases Tc monotonically as the doping
+concentration is increased. Here we report thermopower measurements, S(T), on
+MgCNi3, MgCNi3-xFex and MgCNi3-xRux. For MgCNi3, the thermopower is negative, -
+12.5 mikroV/K, at 300 K. The absolute value of S decreases as x increases in
+MgCNi3-xFex and MgCNi3-xRux. The sign of S changes from negative to positive at
+low temperatures for values of x > 0.01. These data show that the carriers in
+MgCNi3 are electrons, and by increasing x and decreasing temperature, the
+participation of hole carriers clearly increases. The influence of the magnetic
+moments of the Fe atoms on the thermopower is not visible.

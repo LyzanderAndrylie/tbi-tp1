@@ -1,0 +1,6 @@
+We define the concept of weighted lattice polynomial functions as lattice
+polynomial functions constructed from both variables and parameters. We provide
+equivalent forms of these functions in an arbitrary bounded distributive
+lattice. We also show that these functions include the class of discrete Sugeno
+integrals and that they are characterized by a median based decomposition
+formula.

@@ -1,0 +1,10 @@
+We present experiments on the slow growth of a single crack in a fax paper
+sheet submitted to a constant force $F$. We find that statistically averaged
+crack growth curves can be described by only two parameters : the mean rupture
+time $\tau$ and a characteristic growth length $\zeta$. We propose a model
+based on a thermally activated rupture process that takes into account the
+microstructure of cellulose fibers. The model is able to reproduce the shape of
+the growth curve, the dependence of $\zeta$ on $F$ as well as the effect of
+temperature on the rupture time $\tau$. We find that the length scale at which
+rupture occurs in this model is consistently close to the diameter of cellulose
+microfibrils.

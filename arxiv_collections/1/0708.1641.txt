@@ -1,0 +1,11 @@
+The monomer-dimer model is fundamental in statistical mechanics. However, it
+is $#P$-complete in computation, even for two dimensional problems. A
+formulation in matrix permanent for the partition function of the monomer-dimer
+model is proposed in this paper, by transforming the number of all matchings of
+a bipartite graph into the number of perfect matchings of an extended bipartite
+graph, which can be given by a matrix permanent. Sequential importance sampling
+algorithm is applied to compute the permanents. For two-dimensional lattice
+with periodic condition, we obtain $ 0.6627\pm0.0002$, where the exact value is
+$h_2=0.662798972834$. For three-dimensional lattice with periodic condition,
+our numerical result is $ 0.7847\pm0.0014$, {which agrees with the best known
+bound $0.7653 \leq h_3 \leq 0.7862$.}

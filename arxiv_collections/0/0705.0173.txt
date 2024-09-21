@@ -1,0 +1,17 @@
+Very much like the ubiquitous quantum interference of a single particle with
+itself, quantum interference of two independent, but indistinguishable,
+particles is also possible. This interference is a direct result of quantum
+exchange statistics, however, it is observed only in the joint probability to
+find the particles in two separated detectors. Here we report the first
+observation of such interference fringes between two independent and
+non-interacting electrons in an interferometer proposed by Yurke et al. and
+Samuelsson et al. Our experiment resembles the "Hanbury Brown and Twiss" (HBT)
+experiment, which was performed with classical waves. In the experiment, two
+independent and mutually incoherent electron beams were each partitioned into
+two trajectories. The combined four trajectories enclosed an Aharonov-Bohm (AB)
+flux (but not the two trajectories of a single electron). While individual
+currents were found to be independent of the AB flux, as expected, the
+cross-correlation between current fluctuations in two opposite points across
+the device exhibited strong AB oscillations. This is a direct signature of
+orbital entanglement between two electrons even though they never interact with
+each other.

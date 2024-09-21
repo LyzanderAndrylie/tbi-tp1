@@ -1,0 +1,12 @@
+The topcolor-assisted technicolor (TC2) model predicts a number of neutral
+scalars like the top-pion ($\pi^0_t$) and the top-Higgs ($h^0_t$). These
+scalars have flavor-changing neutral-current (FCNC) top quark couplings, among
+which the top-charm transition couplings may be sizable. Such FCNC couplings
+induce single top productions associated with a neutral scalar at the CERN
+Large Hadron Collider (LHC) through the parton processes $cg \to t \pi_t^0$ and
+$cg \to t h_t^0$. In this note we examine these productions and find their
+production rates can exceed the $3\sigma$ sensitivity of the LHC in a large
+part of parameter space. Since in the Standard Model and the minimal
+supersymmetric model such rare productions have unobservably small production
+rates at the LHC, these rare processes will serve as a good probe for the TC2
+model.

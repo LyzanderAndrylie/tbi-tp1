@@ -1,0 +1,9 @@
+We consider the transport through a system of three coupled quantum dots in a
+perpendicular magnetic field. At zero field, destructive interference can trap
+an electron in a dark state -- a coherent superposition of dot states that
+completely blocks current flow. The magnetic field can disrupt this
+interference giving rise to oscillations in the current and its higher-order
+statistics as the field is increased. These oscillations have a period of
+either the flux-quantum or half the flux-quantum, depending on the dot
+geometry. We give results for the stationary current and for the shotnoise and
+skewness at zero and finite frequency.

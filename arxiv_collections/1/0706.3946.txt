@@ -1,0 +1,10 @@
+The stability of superfluid currents in a system of ultracold bosons was
+studied using a moving optical lattice. Superfluid currents in a very weak
+lattice become unstable when their momentum exceeds 0.5 recoil momentum.
+Superfluidity vanishes already for zero momentum as the lattice deep reaches
+the Mott insulator(MI) phase transition. We study the phase diagram for the
+disappearance of superfluidity as a function of momentum and lattice depth
+between these two limits. Our phase boundary extrapolates to the critical
+lattice depth for the superfluid-to-MI transition with 2% precision. When a
+one-dimensional gas was loaded into a moving optical lattice a sudden
+broadening of the transition between stable and unstable phases was observed.

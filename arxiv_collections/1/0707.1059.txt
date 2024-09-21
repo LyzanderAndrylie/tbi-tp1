@@ -1,0 +1,6 @@
+A rigid loop is a for-loop with a counter not accessible to the loop body or
+any other part of a program. Special instructions for rigid loops are
+introduced on top of the syntax of the program algebra PGA. Two different
+semantic projections are provided and proven equivalent. One of these is taken
+to have definitional status on the basis of two criteria: `normative semantic
+adequacy' and `indicative algorithmic adequacy'.

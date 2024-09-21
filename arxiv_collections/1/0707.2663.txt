@@ -1,0 +1,9 @@
+We consider the problem of optimal multiple switching in finite horizon, when
+the state of the system, including the switching costs, is a general adapted
+stochastic process. The problem is formulated as an extended impulse control
+problem and completely solved using probabilistic tools such as the Snell
+envelop of processes and reflected backward stochastic differential equations.
+Finally, when the state of the system is a Markov diffusion process, we show
+that the vector of value functions of the optimal problem is a viscosity
+solution to a system of variational inequalities with inter-connected
+obstacles.

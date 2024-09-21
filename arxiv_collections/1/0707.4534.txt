@@ -1,0 +1,12 @@
+We study the effect of an internal rotor on the classical and quantum
+intramolecular vibrational energy redistribution (IVR) dynamics of a model
+system with three degrees of freedom. The system is based on a Hamiltonian
+proposed by Martens and Reinhardt (J. Chem. Phys. {\bf 93}, 5621 (1990).) to
+study IVR in the excited electronic state of para-fluorotoluene. We explicitly
+construct the state space and show, confirming the mechanism proposed by
+Martens and Reinhardt, that an excited high frequency mode relaxes via
+diffusion along a thick layer of chaos created by the low frequency-rotor
+interactions. However, the corresponding quantum dynamics exhibits no
+appreciable relaxation of the high frequency mode. We attribute the quantum
+suppression of the classical thick-layer diffusion to the rotor selection rules
+and, possibly, dynamical localization effects.

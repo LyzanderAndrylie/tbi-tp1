@@ -1,0 +1,12 @@
+Andreev interferometers, normal metal wires coupled to superconducting loops,
+display phase coherent changes as the magnetic flux through the superconducting
+loops is altered. Properties such as the electronic and thermal conductance of
+these devices have been shown to oscillate symmetrically about zero with a
+period equal to one superconducting flux quantum, $\Phi_o = h/2e$. However, the
+thermopower of these devices can oscillate symmetrically or antisymmetrically
+depending on the geometry of the sample, a phenomenon not well understood
+theoretically. Here we report on thermopower measurements of a double-loop
+Andreev interferometer where two Josephson currents in the normal metal wire
+may be controlled independently. The amplitude and symmetries of the observed
+thermopower oscillations may help to illuminate the unexplained dependence of
+oscillation symmetry on sample geometry.

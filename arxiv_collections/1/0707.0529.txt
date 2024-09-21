@@ -1,0 +1,6 @@
+We propose a scheme to realize $1\to 2$ universal quantum cloning machine
+(UQCM) with superconducting quantum interference device (SQUID) qubits, embeded
+in a high-Q cavity. CNOT operations are derived to present our scheme, and the
+two-photon Raman resonance processes are used to increase the operation rate.
+Compared with previous works, our scheme has advantages in the experimental
+realization and further utilization.

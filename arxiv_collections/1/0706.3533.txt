@@ -1,0 +1,16 @@
+Motivated by the intriguing motility of spirochetes (helically-shaped
+bacteria that screw through viscous fluids due to the action of internal
+periplasmic flagella), we examine the fundamental fluid dynamics of
+superhelices translating and rotating in a Stokes fluid. A superhelical
+structure may be thought of as a helix whose axial centerline is not straight,
+but also a helix. We examine the particular case where these two superimposed
+helices have different handedness, and employ a combination of experimental,
+analytic, and computational methods to determine the rotational velocity of
+superhelical bodies being towed through a very viscous fluid. We find that the
+direction and rate of the rotation of the body is a result of competition
+between the two superimposed helices; for small axial helix amplitude, the body
+dynamics is controlled by the short-pitched helix, while there is a cross-over
+at larger amplitude to control by the axial helix. We find far better, and
+excellent, agreement of our experimental results with numerical computations
+based upon the method of Regularized Stokeslets than upon the predictions of
+classical resistive force theory.

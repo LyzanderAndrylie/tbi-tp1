@@ -1,0 +1,7 @@
+Although fully elastic when static, granular media become transiently elastic
+when being slowly sheared -- during which both the elastic energy and stress
+relax. Starting from this observation, we cogently derive the framework for
+granular hydrodynamics, a set of differential equations consistent with general
+principles of physics, especially reversible and irreversible thermodynamics.
+In addition, an expression for the granular elastic energy is reviewed and
+further discussed.

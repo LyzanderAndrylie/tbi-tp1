@@ -1,0 +1,18 @@
+The physics of manganites is often described within an effective two-band
+tight-binding (TB) model for the Mn e_g electrons, which apart from the kinetic
+energy includes also a local "Hund's rule" coupling to the t_{2g} core spin and
+a local coupling to the Jahn-Teller (JT) distortion of the oxygen octahedra. We
+test the validity of this model by comparing the energy dispersion calculated
+for the TB model with the full Kohn-Sham band-structure calculated within the
+local spin-density approximation (LSDA) to density functional theory. We
+analyze the effect of magnetic order, JT distortions, and "GdFeO_3-type"
+tilt-rotations of the oxygen octahedra. We show that the hopping amplitudes are
+independent of magnetic order and JT distortions, and that both effects can be
+described with a consistent set of model parameters if hopping between both
+nearest and next-nearest neighbors is taken into account. We determine a full
+set of model parameters from the density functional theory calculations, and we
+show that both JT distortions and Hund's rule coupling are required to obtain
+an insulating ground state within LSDA. Furthermore, our calculations show that
+the "GdFeO_3-type" rotations of the oxygen octahedra lead to a substantial
+reduction of the hopping amplitudes but to no significant deviation from the
+simple TB model.

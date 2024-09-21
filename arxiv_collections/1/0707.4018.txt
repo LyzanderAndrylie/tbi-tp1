@@ -1,0 +1,7 @@
+We present a new multigrid solver that is suitable for the Dirac operator in
+the presence of disordered gauge fields. The key behind the success of the
+algorithm is an adaptive projection onto the coarse grids that preserves the
+near null space. The resulting algorithm has weak dependence on the gauge
+coupling and exhibits very little critical slowing down in the chiral limit.
+Results are presented for the Wilson Dirac operator of the 2d U(1) Schwinger
+model.

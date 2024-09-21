@@ -1,0 +1,20 @@
+Some statistical properties of finite-time stability exponents in the
+standard map can be estimated analytically. The mean exponent averaged over the
+entire phase space behaves quite differently from all the other cumulants.
+Whereas the mean carries information about the strength of the interaction, and
+only indirect information about dynamical correlations, the higher cumulants
+carry information about dynamical correlations and essentially no information
+about the interaction strength. In particular, the variance and higher
+cumulants of the exponent are very sensitive to dynamical correlations and
+easily detect the presence of very small islands of regular motion via their
+anomalous time-scalings. The average of the stability matrix' inverse trace is
+even more sensitive to the presence of small islands and has a seemingly
+fractal behavior in the standard map parameter. The usual accelerator modes and
+the small islands created through double saddle node bifurcations, which come
+halfway between the positions in interaction strength of the usual accelerator
+modes, are clearly visible in the variance, whose time scaling is capable of
+detecting the presence of islands as small as 0.01% of the phase space. We
+study these quantities with a local approximation to the trace of the stability
+matrix which significantly simplifies the numerical calculations as well as
+allows for generalization of these methods to higher dimensions. We also
+discuss the nature of this local approximation in some detail.

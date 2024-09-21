@@ -1,0 +1,4 @@
+The first order nonlinear ODE d phi(t)/d t + sin phi(t)=B+A cos(omega t),
+(A,B,omega are real constants) is investigated. Its general solution is derived
+in the case of the choice of parameters ensuring the phase-lock mode. It is
+represented in terms of Floquet solution of double confluent Heun equation.

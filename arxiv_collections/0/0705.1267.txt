@@ -1,0 +1,12 @@
+We present the analysis and results of a 20 ks XMM-Newton observation of
+RBS1423. X-ray spectral analysis is used to establish a significantly broadened
+relativistic iron K-alpha line from a highly ionised disk. A QSO at z=2.262 was
+considered to be the optical counterpart of this ROSAT Bright Survey X-ray
+source. Based on the improved XMM-Newton source position we identified a
+z=0.208 QSO as optical counterpart to RBS1423. The 0.2-12 keV X-ray luminosity
+of this radio-quiet QSO is 6x10^{44} erg/s. The XMM-EPIC spectra are well
+described by a power law with a significantly broadened iron K-alpha line. Disk
+line models for both Schwarzschild and Kerr black holes require hydrogen-like
+iron ions to fit the measured line profile. Significant ionisation of the
+reflection disk is confirmed by model fits with ionised disk models, resulting
+in an ionisation parameter xi~2000.

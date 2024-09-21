@@ -1,0 +1,9 @@
+Tensor models can be interpreted as theory of dynamical fuzzy spaces. In this
+paper, I study numerically the fluctuation spectra around a Gaussian classical
+solution of a tensor model, which represents a fuzzy flat space in arbitrary
+dimensions. It is found that the momentum distribution of the low-lying
+low-momentum spectra is in agreement with that of the metric tensor modulo the
+general coordinate transformation in the general relativity at least in the
+dimensions studied numerically, i.e. one to four dimensions. This result
+suggests that the effective field theory around the solution is described in a
+similar manner as the general relativity.

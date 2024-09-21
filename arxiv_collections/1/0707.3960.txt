@@ -1,0 +1,14 @@
+The author's new p-V-T Equation of State is tested against the available
+experiments of epsilon iron. The root-mean-square-deviations (RMSD) of the
+molar volume, pressure, and temperature are 0.021 cm3, 2.0 GPa and 144.9 K
+respectively. Separating the experiments into 200 K ranges the new EoS was
+compared to the most widely used finite strain, interatomic potential, and
+empirical isothermal EoSs such as the Burch-Murnaghan, the Vinet, and the
+Roy-Roy respectively. Correlation coefficients, RMSDs of the residuals and
+Akaike Information Criteria were used for evaluating the fittings. Based on
+these fitting parameters the new p-V-T EoS is equal or better than the
+conventional isothermal EoSs. The newly defined parameters were used to
+calculate the density of the inner core. The calculated densities are
+significantly lower than the current consensus indicating that it might be too
+early excluding the possibility of a pure iron-nickel core with no light
+elements.

@@ -1,0 +1,15 @@
+We consider the transport properties of multiple-particle quantum states in a
+class of one-dimensional systems with a single quantum impurity. In these
+systems, the local interaction at the quantum impurity induces strong and
+non-trivial correlations between the multi-particles. We outline an exact
+theoretical approach, based upon real-space equations of motion and the Bethe
+ansatz, that allows one to construct the full scattering matrix (S-matrix) for
+these systems. In particular, we emphasize the need for completeness check upon
+the eigenstates of the S-matrix, when these states obtained from Bethe Ansatz
+are used for describing the scattering properties. As a detailed example of our
+approach, we solve the transport properties of two photons incident on a single
+two-level atom, when the photons are restricted to a one-dimensional system
+such as a photonic crystal waveguide. Our approach predicts a number of novel
+nonlinear effects involving only two photons, including background
+fluorescence, spatial attraction and repulsion between the photons, as well as
+the emergence of a two-photon bound state.

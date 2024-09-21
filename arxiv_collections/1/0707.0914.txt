@@ -1,0 +1,7 @@
+In this paper the singlet and non-singlet structure functions have been
+obtained by solving Dokshitzer, Gribove, Lipatov, Alterelli, Parisi (DGLAP)
+evolution equations in leading order (LO) and next to leading order (NLO) at
+the small x limit. Here we have used a Taylor Series expansion and then the
+method of characteristics to solve the evolution equations. We have also
+calculated t and x-evolutions of deuteron structure function and the results
+are compared with the New Muon Collaboration (NMC) data.

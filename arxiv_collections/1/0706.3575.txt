@@ -1,0 +1,10 @@
+With the aid of the quasiclassical Eilenberger formalism we develop a theory
+of non-local electron transport across three-terminal ballistic
+normal-superconducting-normal (NSN) devices with spin-active NS interfaces. The
+phenomenon of crossed Andreev reflection (CAR) is known to play the key role in
+such transport. We demonstrate that CAR is highly sensitive to electron spins
+and yields a rich variety of properties of non-local conductance which we
+describe non-perturbatively at arbitrary voltages, temperature, spin-dependent
+interface transmissions and their polarizations. Our results can be applied to
+multi-terminal hybrid structures with normal, ferromagnetic and half-metallic
+electrodes and can be directly tested in future experiments.

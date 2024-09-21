@@ -1,0 +1,13 @@
+We demonstrate a new algorithm for finding protein conformations that
+minimize a non-bonded energy function. The new algorithm, called the difference
+map, seeks to find an atomic configuration that is simultaneously in two
+constraint spaces. The first constraint space is the space of atomic
+configurations that have a valid peptide geometry, while the second is the
+space of configurations that have a non-bonded energy below a given target.
+These two constraint spaces are used to define a deterministic dynamical
+system, whose fixed points produce atomic configurations in the intersection of
+the two constraint spaces. The rate at which the difference map produces low
+energy protein conformations is compared with that of a contemporary search
+algorithm, parallel tempering. The results indicate the difference map finds
+low energy protein conformations at a significantly higher rate then parallel
+tempering.

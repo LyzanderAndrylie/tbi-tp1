@@ -1,0 +1,11 @@
+We consider the quadratic family of maps given by $f_{a}(x)=1-a x^2$ with
+$x\in [-1,1]$, where $a$ is a Benedicks-Carleson parameter. For each of these
+chaotic dynamical systems we study the extreme value distribution of the
+stationary stochastic processes $X_0,X_1,...$, given by $X_{n}=f_a^n$, for
+every integer $n\geq0$, where each random variable $X_n$ is distributed
+according to the unique absolutely continuous, invariant probability of $f_a$.
+Using techniques developed by Benedicks and Carleson, we show that the limiting
+distribution of $M_n=\max\{X_0,...,X_{n-1}\}$ is the same as that which would
+apply if the sequence $X_0,X_1,...$ was independent and identically
+distributed. This result allows us to conclude that the asymptotic distribution
+of $M_n$ is of Type III (Weibull).

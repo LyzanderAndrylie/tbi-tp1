@@ -1,0 +1,6 @@
+The h^*-polynomial of a lattice polytope is the numerator of the generating
+function of the Ehrhart polynomial. Let P be a lattice polytope with
+h^*-polynomial of degree d and with linear coefficient h^*_1. We show that P
+has to be a lattice pyramid over a lower-dimensional lattice polytope, if the
+dimension of P is greater or equal to h^*_1 (2d+1) + 4d-1. This result has a
+purely combinatorial proof and generalizes a recent theorem of Batyrev.

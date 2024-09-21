@@ -1,0 +1,9 @@
+This paper is a continuation of a previous paper by the same authors, where
+an analytic smoothing effect was proved for long-range type perturbations of
+the Laplacian $H_0$ on $\re^n$. In this paper, we consider short-range type
+perturbations $H$ of the Laplacian on $\re^n$, and we characterize the analytic
+wave front set of the solution to the Schr\"odinger equation:
+  $e^{-itH}f$, in terms of that of the free solution: $e^{-itH_0}f$, for $t<0$
+in the forward nontrapping region. The same result holds for $t>0$ in the
+backward nontrapping region. This result is an analytic analogue of results by
+Hassel and Wunsch and Nakamura.

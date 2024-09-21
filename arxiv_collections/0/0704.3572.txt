@@ -1,0 +1,24 @@
+A large sample of pulsars has been observed to study their subpulse
+modulation at an observing wavelength (when achievable) of both 21 and 92 cm
+using the Westerbork Synthesis Radio Telescope. In this paper we present the
+92-cm data and a comparison is made with the already published 21-cm results.
+We analysed 191 pulsars at 92 cm using fluctuation spectra. The sample of
+pulsars is as unbiased as possible towards any particular pulsar
+characteristics. For 15 pulsars drifting subpulses are discovered for the first
+time and 26 of the new drifters found in the 21-cm data are confirmed. We
+discovered nulling for 8 sources and 8 pulsars are found to intermittently emit
+single pulses that have pulse energies similar to giant pulses. It is estimated
+that at least half of the total population of pulsars have drifting subpulses
+when observations with a high enough signal-to-noise ratio would be available.
+It could well be that the drifting subpulse mechanism is an intrinsic property
+of the emission mechanism itself, although for some pulsars it is difficult or
+impossible to detect. Drifting subpulses are in general found at both
+frequencies, although the chance of detecting drifting subpulses is possibly
+slightly higher at 92 cm. It appears that the youngest pulsars have the most
+disordered subpulses and the subpulses become more and more organized into
+drifting subpulses as the pulsar ages. The correlations with the modulation
+indices are argued to be consistent with the picture in which the radio
+emission can be divided in a drifting subpulse signal plus a quasi-steady
+signal which becomes, on average, stronger at high observing frequencies. The
+measured values of P3 at the two frequencies are highly correlated, but there
+is no evidence for a correlation with other pulsar parameters.

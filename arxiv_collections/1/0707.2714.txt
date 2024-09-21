@@ -1,0 +1,15 @@
+Different sets of metastable states can be reached in glassy systems below
+some transition temperature depending on initial conditions and details of the
+dynamics. This is investigated for the Sherrington-Kirkpatrick spin glass model
+with long ranged interactions. In particular, the time dependent local field
+distribution and energy are calculated for zero temperature. This is done for a
+system quenched to zero temperature, slow cooling or simulated annealing, a
+greedy algorithm and repeated tapping. Results are obtained from Monte-Carlo
+simulations and a Master-Fokker-Planck approach. A comparison with replica
+symmetry broken theory, evaluated in high orders, shows that the energies
+obtained via dynamics are higher than the ground state energy of replica
+theory. Tapping and simulated annealing yield on the other hand results which
+are very close to the ground state energy. The local field distribution tends
+to zero for small fields. This is in contrast to the Edwards flat measure
+hypothesis. The distribution of energies obtained for different tapping
+strengths does again not follow the canonical form proposed by Edwards.

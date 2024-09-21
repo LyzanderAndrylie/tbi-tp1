@@ -1,0 +1,9 @@
+We study spatio-temporal chaos in the complex Ginzburg-Landau equation in
+parameter regions of weak amplification and viscosity. Turbulent states
+involving many soliton-like pulses appear in the parameter range, because the
+complex Ginzburg-Landau equation is close to the nonlinear Schr\"odinger
+equation. We find that the distributions of amplitude and wavenumber of pulses
+depend only on the ratio of the two parameters of the amplification and the
+viscosity. This implies that a one-parameter family of soliton turbulence
+states characterized by different distributions of the soliton parameters
+exists continuously around the completely integrable system.

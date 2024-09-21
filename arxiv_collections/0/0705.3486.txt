@@ -1,0 +1,15 @@
+The structure of Poisson polynomial algebras of the type obtained as
+semiclassical limits of quantized coordinate rings is investigated. Sufficient
+conditions for a rational Poisson action of a torus on such an algebra to leave
+only finitely many Poisson prime ideals invariant are obtained. Combined with
+previous work of the first-named author, this establishes the Poisson
+Dixmier-Moeglin equivalence for large classes of Poisson polynomial rings, such
+as semiclassical limits of quantum matrices, quantum symplectic and euclidean
+spaces, quantum symmetric and antisymmetric matrices. For a similarly large
+class of Poisson polynomial rings, it is proved that the quotient field of the
+algebra (respectively, of any Poisson prime factor ring) is a rational function
+field $F(x_1,...,x_n)$ over the base field (respectively, over an extension
+field of the base field) with $\{x_i,x_j\}= \lambda_{ij} x_ix_j$ for suitable
+scalars $\lambda_{ij}$, thus establishing a quadratic Poisson version of the
+Gel'fand-Kirillov problem. Finally, partial solutions to the isomorphism
+problem for Poisson fields of the type just mentioned are obtained.

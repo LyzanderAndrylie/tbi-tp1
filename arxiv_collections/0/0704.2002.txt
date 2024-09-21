@@ -1,0 +1,19 @@
+This paper is a detailed report on a programme of simulations used to settle
+a long-standing issue in the dynamo theory and demonstrate that the fluctuation
+dynamo exists in the limit of large magnetic Reynolds number Rm>>1 and small
+magnetic Prandtl number Pm<<1. The dependence of the critical Rm_c vs. the
+hydrodynamic Reynolds number Re is obtained for 1<Re<6700. In the limit Pm<<1,
+Rm_c is ~3 times larger than for Pm>1. The stability curve Rm_c(Re) (and, it is
+argued, the nature of the dynamo) is substantially different from the case of
+the simulations and liquid-metal experiments with a mean flow. It is not as yet
+possible to determine numerically whether the growth rate is ~Rm^{1/2} in the
+limit Re>>Rm>>1, as should be the case if the dynamo is driven by the
+inertial-range motions. The magnetic-energy spectrum in the low-Pm regime is
+qualitatively different from the Pm>1 case and appears to develop a negative
+spectral slope, although current resolutions are insufficient to determine its
+asymptotic form. At 1<Rm<Rm_c, the magnetic fluctuations induced via the
+tangling by turbulence of a weak mean field are investigated and the
+possibility of a k^{-1} spectrum above the resistive scale is examined. At low
+Rm<1, the induced fluctuations are well described by the quasistatic
+approximation; the k^{-11/3} spectrum is confirmed for the first time in direct
+numerical simulations.

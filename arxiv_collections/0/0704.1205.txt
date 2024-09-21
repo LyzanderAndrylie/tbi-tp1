@@ -1,0 +1,9 @@
+Band structure calculations within the local spin-density approximation are
+presented in order to investigate the electronic and magnetic properties of the
+zigzag spin-chain compound In$_2$VO$_5$. The essential structural feature of
+the system is a double chain of VO$_6$-octahedra, which leads to competing
+intrachain and interchain magnetic couplings. Frustration of the spin-chains is
+expected for the proposed antiferromagnetic ordering at low temperatures.
+However, the band calculations show that the experimental room temperature
+crystal structure is incompatible with antiferromagnetism. Both the intrachain
+and interchain coupling is found to be ferromagnetic.

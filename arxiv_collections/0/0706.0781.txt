@@ -1,0 +1,7 @@
+We have calculated the two-loop strong interaction corrections to the
+chargino pole masses in the DRbar'-scheme in the Minimal Supersymmetric
+Standard Model (MSSM) with complex parameters. We have performed a detailed
+numerical analysis for a particular point in the parameter space and found
+corrections of a few tenths of a percent. We provide a computer program which
+calculates chargino and neutralino masses with complex parameters including the
+one-loop corrections and all two-loop SQCD effects.

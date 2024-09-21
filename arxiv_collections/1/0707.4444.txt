@@ -1,0 +1,10 @@
+A Bose-Einstein condensate in an external potential consisting of a
+superposition of a harmonic and a random potential is considered theoretically.
+  From a semi-quantitative analysis we find the size, shape and excitation
+energy as a function of the disorder strength. For positive scattering length
+and sufficiently strong disorder the condensate decays into fragments each of
+the size of the Larkin length ${\cal L}$. This state is stable over a large
+range of particle numbers. The frequency of the breathing mode scales as
+$1/{\cal L}^2$. For negative scattering length a condensate of size ${\cal L}$
+may exist as a metastable state. These finding are generalized to anisotropic
+traps.

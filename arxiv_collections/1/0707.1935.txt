@@ -1,0 +1,9 @@
+Recently it was discovered that non-Gaussian decoherence processes, such as
+phase-diffusion, can be counteracted by purification and distillation protocols
+that are solely built on Gaussian operations. Here, we make use of this
+experimentally highly accessible regime, and provide a detailed experimental
+and theoretical analysis of several strategies for purification/distillation
+protocols on phase-diffused squeezed states. Our results provide valuable
+information for the optimization of such protocols with respect to the choice
+of the trigger quadrature, the trigger threshold value and the probability of
+generating a distilled state.

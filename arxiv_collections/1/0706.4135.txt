@@ -1,0 +1,11 @@
+We study the origin of the cooperative nature of spin crossover (SC) between
+low spin (LS) and high spin (HS) states from the view point of elastic
+interactions among molecules. As the size of each molecule changes depending on
+its spin state, the elastic interaction among the lattice distortions provides
+the cooperative interaction of the spin states. We develop a simple model of SC
+with intra and intermolecular potentials which accounts for the elastic
+interaction including the effect of the inhomogeneity of the spin states, and
+apply constant temperature molecular dynamics based on the Nos\'e-Hoover
+formalism. We demonstrate that, with increase of the strength of the
+intermolecular interactions, the temperature dependence of the HS component
+changes from a gradual crossover to a first-order transition.

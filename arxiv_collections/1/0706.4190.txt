@@ -1,0 +1,11 @@
+Smoothing methods and SiZer are a useful statistical tool for discovering
+statistically significant structure in data. Based on scale space ideas
+originally developed in the computer vision literature, SiZer (SIgnificant ZERo
+crossing of the derivatives) is a graphical device to assess which observed
+features are `really there' and which are just spurious sampling artifacts. In
+this paper, we develop SiZer like ideas in time series analysis to address the
+important issue of significance of trends. This is not a straightforward
+extension, since one data set does not contain the information needed to
+distinguish `trend' from `dependence'. A new visualization is proposed, which
+shows the statistician the range of trade-offs that are available. Simulation
+and real data results illustrate the effectiveness of the method.

@@ -1,0 +1,11 @@
+We present self consistent calculations of Synchrotron self Compton (SSC)
+radiation that takes place within the afterglow blast wave and External inverse
+Compton (EIC) radiation that takes place when flare photons (produced by an
+internal process) pass through the blast wave. We show that if our current
+interpretations of the Swift XRT data are correct, there should be a canonical
+high energy afterglow emission light curve. We expect that GRBs with a long
+term X-ray flattening or X-ray flares should show similar high energy features.
+The EIC emission, however, is long lasting and weak and might be outshined by
+the SSC emission of the forward shock. The high energy emission could be well
+detected by the soon to be launched GLAST satellite. Its detection could shed
+new light on the conditions within the emitting regions of GRBs.

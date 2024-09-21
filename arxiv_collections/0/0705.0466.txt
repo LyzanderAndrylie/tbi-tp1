@@ -1,0 +1,10 @@
+In this paper we investigate a class of swing options with firm constraints
+in view of the modeling of supply agreements. We show, for a fully general
+payoff process, that the premium, solution to a stochastic control problem, is
+concave and piecewise affine as a function of the global constraints of the
+contract. The existence of bang-bang optimal controls is established for a set
+of constraints which generates by affinity the whole premium function. When the
+payoff process is driven by an underlying Markov process, we propose a
+quantization based recursive backward procedure to price these contracts. A
+priori error bounds are established, uniformly with respect to the global
+constraints.

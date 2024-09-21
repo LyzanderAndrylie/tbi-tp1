@@ -1,0 +1,12 @@
+We investigate the doping of a geometrically frustrated spin ladder with
+static holes by a complementary approach using exact diagonalization and
+quantum dimers. Results for thermodynamic properties, the singlet density of
+states, the hole-binding energy and the spin correlations will be presented.
+For the undoped systems the ground state is non-degenerate, with
+translationally invariant nearest-neighbor spin correlations. In the doped
+case, we find that static holes polarize their vicinity by a localization of
+singlets in order to reduce the frustration. This polarization induces short
+range repulsive forces between two holes and an oscillatory behavior of the
+long range two-hole energy. For most quantities investigated, we find very good
+agreement between the quantum dimer approach and the results from exact
+diagonalization.

@@ -1,0 +1,6 @@
+Let k be an algebraically closed field of characteristic >2, F=k((t)) and
+Mp(F) denote the metaplectic extension of Sp_{2d}(F). In this paper we propose
+a geometric analog of the Weil representation of Mp(F). This is a category of
+certain perverse sheaves on some stack, on which Mp(F) acts by functors. This
+construction will be used in math.RT/0701170 (and subsequent publications) for
+a proof of the geometric Langlands functoriality for some dual reductive pairs.

@@ -1,0 +1,3 @@
+We prove the claim made in the title by showing that approximately
+randomising maps of large dimension are counterexamples to the multiplicativity
+conjecture.

@@ -1,0 +1,12 @@
+The security of lattice-based cryptosystems such as NTRU, GGH and Ajtai-Dwork
+essentially relies upon the intractability of computing a shortest non-zero
+lattice vector and a closest lattice vector to a given target vector in high
+dimensions. The best algorithms for these tasks are due to Kannan, and, though
+remarkably simple, their complexity estimates have not been improved since more
+than twenty years. Kannan's algorithm for solving the shortest vector problem
+is in particular crucial in Schnorr's celebrated block reduction algorithm, on
+which are based the best known attacks against the lattice-based encryption
+schemes mentioned above. Understanding precisely Kannan's algorithm is of prime
+importance for providing meaningful key-sizes. In this paper we improve the
+complexity analyses of Kannan's algorithms and discuss the possibility of
+improving the underlying enumeration strategy.

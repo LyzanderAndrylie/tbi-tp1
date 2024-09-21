@@ -1,0 +1,20 @@
+The OPE treatment that has been so successful in describing inclusive $\bar B
+\to l \bar \nu X_c$ decays yields sum rules (in particular the Uraltsev sum
+rule and its higher moments) implying the dominance of the $P$ wave $j_q = 3/2$
+charm states in $X_c$ over their $j_q=1/2$ counterparts. This prediction is
+supported by other general arguments as well as quark model calculations, which
+illustrate the OPE results, and by preliminary lattice findings. Its failure
+would indicate a significant limitation in our theoretical understanding of
+$\bar B \to l \bar \nu X_c$. Some experimental issues have been clarified since
+a preliminary version of this note had appeared, yet the verdict on the
+composition of the final states {\em beyond} $D$, $D^*$ and the two narrow $j_q
+= 3/2$ resonances remains unsettled. Establishing which hadronic configurations
+-- $D/D^* + \pi, D/D^* + 2 \pi, ...$ -- contribute, what their quantum numbers
+are and their mass distributions will require considerable experimental effort.
+We explain the theoretical issues involved and why a better understanding of
+them will be of significant value. Having significant contributions from a mass
+continuum distribution below 2.5 GeV raises serious theoretical questions for
+which we have no good answer. Two lists are given, one with measurements that
+need to be done and one with items of theoretical homework. Some of the latter
+can be done by employing existing theoretical tools, whereas others need new
+ideas.

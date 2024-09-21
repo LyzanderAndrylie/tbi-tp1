@@ -1,0 +1,8 @@
+Critical behavior of the Ising model is investigated at the center of large
+scale finite size systems, where the lattice is represented as the tiling of
+pentagons. The system is on the hyperbolic plane, and the recursive structure
+of the lattice makes it possible to apply the corner transfer matrix
+renormalization group method. From the calculated nearest neighbor spin
+correlation function and the spontaneous magnetization, it is concluded that
+the phase transition of this model is mean-field like. One parameter
+deformation of the corner Hamiltonian on the hyperbolic plane is discussed.

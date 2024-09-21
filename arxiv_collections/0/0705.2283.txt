@@ -1,0 +1,19 @@
+We present a numerical method for spatially 1.5-dimensional and
+time-dependent studies of accretion disks around black holes, that is
+originated from a combination of the standard pseudo-spectral method and the
+adaptive domain decomposition method existing in the literature, but with a
+number of improvements in both the numerical and physical senses. In
+particular, we introduce a new treatment for the connection at the interfaces
+of decomposed subdomains, construct an adaptive function for the mapping
+between the Chebyshev-Gauss-Lobatto collocation points and the physical
+collocation points in each subdomain, and modify the over-simplified
+1-dimensional basic equations of accretion flows to account for the effects of
+viscous stresses in both the azimuthal and radial directions. Our method is
+verified by reproducing the best results obtained previously by Szuszkiewicz &
+Miller on the limit-cycle behavior of thermally unstable accretion disks with
+moderate viscosity. A new finding is that, according to our computations, the
+Bernoulli function of the matter in such disks is always and everywhere
+negative, so that outflows are unlikely to originate from these disks. We are
+encouraged to study the more difficult case of thermally unstable accretion
+disks with strong viscosity, and wish to report our results in a subsequent
+paper.

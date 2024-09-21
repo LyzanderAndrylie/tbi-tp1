@@ -1,0 +1,14 @@
+An important natural phenomenon surfaces that satisfactory synchronization of
+self-driven particles can be achieved via sharply reduced communication cost,
+especially for high density particle groups with low external noise.
+Statistical numerical evidence illustrates that a highly efficient manner is to
+distribute the communication messages as evenly as possible along the whole
+dynamic process, since it minimizes the communication redundancy. More
+surprisingly, it is discovered that there exist some abnormal regions where
+moderately decreasing the communication cost can even improve the
+synchronization performance. A phase diagram on the noise-density parameter
+space is given, where the dynamical behaviors can be divided into three
+qualitatively different phases: normal phase where better synchronization
+corresponds to higher communication cost, abnormal phase where moderately
+decreasing communication cost could even improve the synchronization, and the
+disordered phase where no coherence among individuals is observed.

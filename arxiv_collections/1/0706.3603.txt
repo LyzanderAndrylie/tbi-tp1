@@ -1,0 +1,12 @@
+We show that the critical mass M_c=8\pi of bacterial populations in two
+dimensions in the chemotactic problem is the counterpart of the critical
+temperature T_c=GMm/4k_B of self-gravitating Brownian particles in
+two-dimensional gravity. We obtain these critical values by using the Virial
+theorem or by considering stationary solutions of the Keller-Segel model and
+Smoluchowski-Poisson system. We also consider the case of one dimensional
+systems and develop the connection with the Burgers equation. Finally, we
+discuss the evolution of the system as a function of M or T in bounded and
+unbounded domains in dimensions d=1, 2 and 3 and show the specificities of each
+dimension. This paper aims to point out the numerous analogies between
+bacterial populations, self-gravitating Brownian particles and, occasionally,
+two-dimensional vortices.

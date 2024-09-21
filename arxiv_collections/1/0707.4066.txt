@@ -1,0 +1,24 @@
+We present a systematic study of quantum phases in a one-dimensional
+spin-polarized Fermi gas. Three comparative theoretical methods are used to
+explore the phase diagram at zero temperature: the mean-field theory with
+either an order parameter in a single-plane-wave form or a self-consistently
+determined order parameter using the Bogoliubov-de Gennes equations, as well as
+the exact soluble Bethe ansatz method. We find that a spatially inhomogeneous
+Fulde-Ferrell-Larkin-Ovchinnikov phase, which lies between the fully paired BCS
+state and the fully polarized normal state, dominates most of the phase diagram
+of a uniform gas. The phase transition from the BCS state to the
+Fulde-Ferrell-Larkin-Ovchinnikov phase is of second order, and therefore there
+are no phase separation states in one-dimensional homogeneous polarized gases.
+This is in sharp contrast to the three-dimensional situation, where a phase
+separation regime is predicted to occupy a very large space in the phase
+diagram. We conjecture that the prediction of the dominance of the phase
+separation phases in three dimension could be an artifact of the
+non-self-consistent mean-field approximation, which is heavily used in the
+study of three-dimensional polarized Fermi gases. We consider also the effect
+of a harmonic trapping potential on the phase diagram, and find that in this
+case the trap generally leads to phase separation, in accord with the
+experimental observations for a trapped gas in three dimension. We finally
+investigate the local fermionic density of states of the
+Fulde-Ferrell-Larkin-Ovchinnikov ansatz. A two-energy-gap structure is shown
+up, which could be used as an experimental probe of the
+Fulde-Ferrell-Larkin-Ovchinnikov states.

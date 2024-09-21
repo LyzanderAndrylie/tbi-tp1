@@ -1,0 +1,8 @@
+Rankine-Hugoniot shock adiabats are calculated in the pressure range 1
+Mbar-10 Gbar with two atomic-structure models: the atom in a spherical cell and
+the atom in a jellium of charges. These quantum self-consistent-field models
+include shell effects, which have a strong impact on pressure and shock
+velocity along the shock adiabat. Comparisons with experimental data are
+presented and quantum effects are interpreted in terms of electronic specific
+heat. A simple analytical estimate for the maximum compression is proposed,
+depending on initial density, atomic weight and atomic number.

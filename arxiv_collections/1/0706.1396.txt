@@ -1,0 +1,5 @@
+For any L-infinity algebra L, we construct an A-infinity structure on the
+space of symmetric tensors Sym*(L), which generalizes the classical universal
+enveloping for Lie algebras. Our construction is based on an invariant homotopy
+on a cobar construction of the symmetric coalgebra, which is obtained through
+its relation with permutahedra and Young tableaux.

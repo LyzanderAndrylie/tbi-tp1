@@ -1,0 +1,7 @@
+The branching fraction for the decay $K^{-} \to \pi^{0} e \bar \nu$ is
+measured using in-flight decays detected with {\bf ISTRA+} setup working at the
+25 GeV negative secondary beam of the U-70 PS:\linebreak $Br_{K_{e3}}= (5.124
+\pm 0.009 (stat) \pm 0.029(norm) \pm 0.030(syst))%$. From this value the
+$|V_{us}|$ element of the CKM matrix is extracted, using previously measured
+$f_{+}(t)$ form factor: $|V_{us}|=0.227 \pm 0.002$. The results are in
+agreement with recent measurements by BNL E865, FNAL KTeV, KLOE.

@@ -1,0 +1,6 @@
+We study the spin-$\frac32$ Hubbard-Kondo lattice model by means of the
+Composite Operator Method, after applying a Holstein-Primakov transformation.
+The spin and particle dynamics in the ferromagnetic state are calculated by
+taking into account strong on-site correlations between electrons and
+antiferromagnetic exchange among $\frac32$ spins, together with usual Hund
+coupling between electrons and spins.

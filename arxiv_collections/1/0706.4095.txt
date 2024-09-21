@@ -1,0 +1,21 @@
+Motivated by results on generic-case complexity in group theory, we apply the
+ideas of effective Baire category and effective measure theory to study
+complexity classes of functions which are "fractionally computable" by a
+partial algorithm. For this purpose it is crucial to specify an allowable
+effective density, $\delta$, of convergence for a partial algorithm. The set
+$\mathcal{FC}(\delta)$ consists of all total functions $ f: \Sigma^\ast \to
+\{0,1 \}$ where $\Sigma$ is a finite alphabet with $|\Sigma| \ge 2$ which are
+"fractionally computable at density $\delta$". The space $\mathcal{FC}(\delta)
+$ is effectively of the second category while any fractional complexity class,
+defined using $\delta$ and any computable bound $\beta$ with respect to an
+abstract Blum complexity measure, is effectively meager. A remarkable result of
+Kautz and Miltersen shows that relative to an algorithmically random oracle
+$A$, the relativized class $\mathcal{NP}^A$ does not have effective polynomial
+measure zero in $\mathcal{E}^A$, the relativization of strict exponential time.
+We define the class $\mathcal{UFP}^A$ of all languages which are fractionally
+decidable in polynomial time at ``a uniform rate'' by algorithms with an oracle
+for $A$. We show that this class does have effective polynomial measure zero in
+$\mathcal{E}^A$ for every oracle $A$. Thus relaxing the requirement of
+polynomial time decidability to hold only for a fraction of possible inputs
+does not compensate for the power of nondeterminism in the case of random
+oracles.

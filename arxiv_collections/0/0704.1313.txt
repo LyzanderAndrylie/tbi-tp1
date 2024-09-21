@@ -1,0 +1,5 @@
+We prove that if a finite order knot invariant does not distinguish mutant
+knots, then the corresponding weight system depends on the intersection graph
+of a chord diagram rather than on the diagram itself. The converse statement is
+easy and well known. We discuss relationship between our results and certain
+Lie algebra weight systems.

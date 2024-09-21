@@ -1,0 +1,12 @@
+We analyze the Two Level Processor Sharing (TLPS) scheduling discipline with
+the hyper-exponential job size distribution and with the Poisson arrival
+process. TLPS is a convenient model to study the benefit of the file size based
+differentiation in TCP/IP networks. In the case of the hyper-exponential job
+size distribution with two phases, we find a closed form analytic expression
+for the expected sojourn time and an approximation for the optimal value of the
+threshold that minimizes the expected sojourn time. In the case of the
+hyper-exponential job size distribution with more than two phases, we derive a
+tight upper bound for the expected sojourn time conditioned on the job size. We
+show that when the variance of the job size distribution increases, the gain in
+system performance increases and the sensitivity to the choice of the threshold
+near its optimal value decreases.

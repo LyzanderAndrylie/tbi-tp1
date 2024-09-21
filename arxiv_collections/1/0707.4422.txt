@@ -1,0 +1,12 @@
+We re-visit the issue of the temperature dependence of the specific heat C(T)
+for interacting fermions in 1D. The charge component C_c(T) scales linearly
+with T, but the spin component C_s (T) displays a more complex behavior with T
+as it depends on the backscattering amplitude, g_1, which scales down under RG
+transformation and eventually behaves as g_1 (T) \sim 1/\log T. We show,
+however, by direct perturbative calculations that C_s(T) is strictly linear in
+T to order g^2_1 as it contains the renormalized backscattering amplitude not
+on the scale of T, but at the cutoff scale set by the momentum dependence of
+the interaction around 2k_F. The running amplitude g_1 (T) appears only at
+third order and gives rise to an extra T/\log^3 T term in C_s (T). This agrees
+with the results obtained by a variety of bosonization techniques. We also show
+how to obtain the same expansion in g_1 within the sine-Gordon model.

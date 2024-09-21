@@ -1,0 +1,21 @@
+Context. Although Blazars are a small fraction of the overall AGN population
+they are expected to be the dominant population of extragalactic sources in the
+hard X-ray and gamma-ray bands and have been shown to be the largest
+contaminant of CMB fluctuation maps. So far the number of known blazars is of
+the order of several hundreds, but the forthcoming AGILE, GLAST and Planck
+space observatories will detect several thousand of objects of this type. Aims.
+In preparation for these missions it is necessary to identify new samples of
+blazars to study their multi-frequency characteristics and statistical
+properties. Methods. We compiled a sample of objects with blazar-like
+properties via a cross-correlation between large radio (NVSS, ATCAPMN) and X-
+ray surveys (RASS) using the SDSS-DR4 and 2dF survey data to spectroscopically
+identify our candidates and test the validity of the selection method. Results.
+We present the Radio - Optical - X-ray catalog built at ASDC (ROXA), a list of
+816 objects among which 510 are confirmed blazars. Only 19% of the candidates
+turned out to be certainly non-blazars demonstrating the high efficiency of our
+selection method. Conclusions. Our catalog includes 173 new blazar
+identifications, or about 10% of all presently known blazars. The relatively
+high flux threshold in the X-ray energy band (given by the RASS survey)
+preferentially selects objects with high fx / fr ratio leading to the discovery
+of new High Energy Peaked BL Lac (HBLs). Our catalog therefore includes many
+new potential targets for GeV-TeV observations.

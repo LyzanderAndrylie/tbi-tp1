@@ -1,0 +1,8 @@
+Interacting electrons in quantum dots with large Thouless number $g$ in the
+three classical random matrix symmetry classes are well-understood. When a
+specific type of spin-orbit coupling known to be dominant in two dimensional
+semiconductor quantum dots is introduced, we show that a new interacting
+quantum critical crossover energy scale emerges and low-energy quasiparticles
+generically have a decay width proportional to their energy. The low-energy
+physics of this system is an example of a universal interacting crossover
+regime.

@@ -1,0 +1,13 @@
+The present work performs full bandstructure calculations to investigate the
+structural effect and the transition mechanisms of the second harmonic
+generation (SHG) susceptibility of the $\alpha-LiIO_{3}$ crystal. The anomalous
+inconsistency of associated experimental data of the SHG susceptibility tensor
+is elucidated to be dominated by the structural effect especially on the
+topology of $O$-atoms. On the manipulation of the structural effect, the
+modification of SHG susceptibility using an external pressure is simulated. The
+calculations of SHG susceptibility tensor are completed at finite frequencies
+and the static limit. The comparison with the experiments is also incorporated.
+On the analysis of the transition mechanisms, the inter-band transition is
+determined to entirely dominate the whole SHG susceptibility at the static
+limit; however, the effect of the intra-band motion is revealed to be as
+important as that of the inter-band transition at finite frequencies.

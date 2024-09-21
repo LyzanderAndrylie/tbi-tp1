@@ -1,0 +1,24 @@
+In view of the newly discovered and physically acceptable $PT$ symmetric and
+non-Hermitian models, we reinvestigated the phase structure of the
+($g\phi^{4}+h\phi^{6}$)$_{1+1}$ Hermitian model. The reinvestigation concerns
+the possibility of a phase transition from the original Hermitian and $PT$
+symmetric phase to a non-Hermitian and $PT$ symmetric one. This kind of phase
+transition, if verified experimentally, will lead to the first proof that
+non-Hermitian and $PT$ symmetric models are not just a mathematical research
+framework but are a nature desire. To do the investigation, we calculated the
+effective potential up to second order in the couplings and found a Hermitian
+to Non-Hermitian phase transition. This leads us to introduce, for the first
+time, hermiticity as a symmetry which can be broken due to quantum corrections,
+\textit{i.e.}, when starting with a model which is Hermitian in the classical
+level, quantum corrections can break hermiticity while the theory stays
+physically acceptable. In fact, ignoring this phase will lead to violation of
+universality when comparing this model predictions with other models in the
+same class of universality. For instance, in a previous work we obtained a
+second order phase transition for the $PT$ symmetric and non-Hermitian
+$(-g\phi^{4})$ and according to universality, this phase should exist in the
+phase structure of the ($g\phi^{4}+h\phi^{6}$) model for negative $g$. Finally,
+among the novelties in this letter, in our calculation for the effective
+potential, we introduced a new renormalization group equation which describes
+the invariance of the bare vacuum energy under the change of the scale. We
+showed that without this invariance, the original theory and the effective one
+are inequivalent.

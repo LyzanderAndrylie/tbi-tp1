@@ -1,0 +1,7 @@
+An implementation of weak values is investigated in solid-state qubits. We
+demonstrate that a weak value can be non-classical if and only if a
+Leggett-Garg inequality can also be violated. Generalized weak values are
+described, where post-selection on a range of weak measurement results.
+Imposing classical weak values permits the derivation of Leggett-Garg
+inequalities for bounded operators. Our analysis is presented in terms of
+kicked quantum nondemolition measurements on a quantum double-dot charge qubit.

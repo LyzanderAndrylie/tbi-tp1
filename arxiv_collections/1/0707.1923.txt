@@ -1,0 +1,9 @@
+We report the first observation of photon antibunching in the
+photoluminescence from single carbon nanotubes. The emergence of a fast
+luminescence decay component under strong optical excitation indicates that
+Auger processes are partially responsible for inhibiting two-photon generation.
+Additionally, the presence of exciton localization at low temperatures ensures
+that nanotubes emit photons predominantly one by one. The fact that multiphoton
+emission probability can be smaller than 5% suggests that carbon nanotubes
+could be used as a source of single photons for applications in quantum
+cryptography.

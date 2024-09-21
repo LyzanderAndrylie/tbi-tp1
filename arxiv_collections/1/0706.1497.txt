@@ -1,0 +1,2 @@
+Let f be a cubic polynomial. Then there are infinitely many primes p such
+that f(p) is square-free.

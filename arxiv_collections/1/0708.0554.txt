@@ -1,0 +1,10 @@
+We demonstrate that the charge distributions in Hubbard-model representations
+of transition metal oxide heterojucntions can be described by a Thomas-Fermi
+theory in which the energy is approximated as the sum of the electrostatic
+energy and the uniform three-dimensional Hubbard model energy per site at the
+local density equals to a constant. When charged atomic layers in the oxides
+are approximated as two-dimensional sheets with uniform charge density, the
+electrostatic energy is simply evaluated. We find that this Thomas-Fermi theory
+can reproduce results obtained from full Hartree-Fock theory for various
+different heterostructures. We also show explicitly how Thomas-Fermi theory can
+be used to estimate some key properties qualitatively.

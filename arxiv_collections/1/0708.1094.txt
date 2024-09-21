@@ -1,0 +1,9 @@
+The structures observed in the sub-threshold neutron-induced fission of
+^{232}Th were investigated employing a recent developed model. Theoretical
+single-particle excitations of a phenomenological two-humped barrier are
+determined by solving a system of coupled differential equations for the motion
+along the optimal fission path. A rather good agreement with experimental data
+was obtained using a small number of independent parameters. It is predicted
+that the structure at 1.4 and 1.6 MeV is mainly dominated by spin 3/2 partial
+cross-section with small admixture of spin 1/2, while the structure at 1.7 MeV
+is given by a large partial cross section of spin 5/2.

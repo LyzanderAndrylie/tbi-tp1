@@ -1,0 +1,4 @@
+The hamiltonian formulation of Supersymmetric Yang-Mills quantum mechanics
+(SYMQM) is discussed. We focus on the Fock space formulation of the models
+since it is convenient for the numerical analysis, however some novel
+analytical results are also pointed out.

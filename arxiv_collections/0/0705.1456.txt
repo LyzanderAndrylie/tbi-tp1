@@ -1,0 +1,15 @@
+In a data warehousing process, mastering the data preparation phase allows
+substantial gains in terms of time and performance when performing
+multidimensional analysis or using data mining algorithms. Furthermore, a data
+warehouse can require external data. The web is a prevalent data source in this
+context. In this paper, we propose a modeling process for integrating diverse
+and heterogeneous (so-called multiform) data into a unified format.
+Furthermore, the very schema definition provides first-rate metadata in our
+data warehousing context. At the conceptual level, a complex object is
+represented in UML. Our logical model is an XML schema that can be described
+with a DTD or the XML-Schema language. Eventually, we have designed a Java
+prototype that transforms our multiform input data into XML documents
+representing our physical model. Then, the XML documents we obtain are mapped
+into a relational database we view as an ODS (Operational Data Storage), whose
+content will have to be re-modeled in a multidimensional way to allow its
+storage in a star schema-based warehouse and, later, its analysis.

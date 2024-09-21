@@ -1,0 +1,15 @@
+We study the consequences of timelike and spaccelike conformal Ricci and
+conformal matter collineations for anisotropic fluid in the context of General
+Relativity. Necessary and sufficient conditions are derived for a spacetime
+with anisotropic fluid to admit conformal Ricci and conformal matter
+collineations parallel to u^a and x^a. These conditions for timelike and
+spacelike conformal Ricci and conformal matter collineations for anisotropic
+fluid reduce to the conditions of perfect fluid when the heat flux and the
+traceless anisotropic stress tensor vanish. Further, for $\alpha=0$ (the
+conformal factor), we recover the earlier results of Ricci collineations and
+matter collineations in each case of timelike and spacelike conformal Ricci
+collineations and conformal matter collineations for the perfect fluid. Thus
+our results give the generalization of the results already available in the
+literature. It is worth noticing that the conditions of conformal matter
+collineations can be derived from the conditions of conformal Ricci
+collineations or vice versa under certain constraints.

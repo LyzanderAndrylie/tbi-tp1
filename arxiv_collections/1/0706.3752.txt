@@ -1,0 +1,14 @@
+This paper considers the problem of secure coding design for a type II
+wiretap channel, where the main channel is noiseless and the eavesdropper
+channel is a general binary-input symmetric-output memoryless channel. The
+proposed secure error-correcting code has a nested code structure. Two secure
+nested coding schemes are studied for a type II Gaussian wiretap channel. The
+nesting is based on cosets of a good code sequence for the first scheme and on
+cosets of the dual of a good code sequence for the second scheme. In each case,
+the corresponding achievable rate-equivocation pair is derived based on the
+threshold behavior of good code sequences. The two secure coding schemes
+together establish an achievable rate-equivocation region, which almost covers
+the secrecy capacity-equivocation region in this case study. The proposed
+secure coding scheme is extended to a type II binary symmetric wiretap channel.
+A new achievable perfect secrecy rate, which improves upon the previously
+reported result by Thangaraj et al., is derived for this channel.

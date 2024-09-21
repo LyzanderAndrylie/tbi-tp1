@@ -1,0 +1,18 @@
+Shell model calculations for low lying energy states of neutron rich oxygen
+isotopes 19O, 20O, 21O, 22O, 23O, 24O, 25O, 26O have been performed using
+OXBASH code. The configuration space consists of 0d5/2, 1s1/2, 0d3/2 orbital
+for neutrons outside the 16O core. Different interactions namely, Wildenthal,
+Preedom-Wildenthal, Wildenthal-Mcgrory and renormalized Kuo and Brown, which
+are either empirical or realistic in nature have been used in the calculation,
+The calculated energy spectrum are in good agreement with the experimental data
+wherever available for the empirical interactions and the correct ordering of
+levels is reproduced. The levels obtained from realistic interactions, though
+have a small rms deviation, do not reproduce the correct ordering in some of
+the cases. In the case of 21O, realistic interactions predict a much too
+compressed 1/2+ state at energy 0.157 MeV compared to the experimental value of
+1.218 MeV. For even isotopes the variation of the energy of the first 2+exited
+state has been studied as a function of neutron number N. A sharp rise in the
+value is observed at N=16 for both empirical and realistic interactions and
+only at N=14 for empirical interactions. Significantly higher energy of first
+2+ exited state compared to the value in the neighboring even-even nuclei is
+considered as a signature for magic nuclei at N=14 and N=16.

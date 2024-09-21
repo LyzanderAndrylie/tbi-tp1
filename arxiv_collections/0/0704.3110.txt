@@ -1,0 +1,9 @@
+The blow-up in finite time for the solutions to the initial-boundary value
+problem associated to the multi-dimensional quantum hydrodynamic model in a
+bounded domain is proved. The model consists on conservation of mass equation
+and a momentum balance equation equivalent to a compressible Euler equations
+corrected by a dispersion term of the third order in the momentum balance. The
+proof is based on a-priori estimates for the energy functional for a new
+observable constructed with an auxiliary function, and it is shown that, under
+suitable boundary conditions and assumptions on the initial data, the solution
+blows up after a finite time.

@@ -1,0 +1,24 @@
+In the paper, the description of the dielectric and ferroelectric properties
+of BaTiO_3 single crystals using Landau thermodynamic potential is addressed.
+Our results suggest that when using the sixth-power free energy expansion of
+the thermodynamic potential, remarkably different values of the fourth-power
+coefficient, \beta (the coefficient of P^4_i terms), are required to adequately
+reproduce the nonlinear dielectric behavior of the paraelectric phase and the
+electric field induced ferroelectric phase, respectively. In contrast, the
+eighth-power expansion with a common set of coefficients enables a good
+description for both phases at the same time. These features, together with the
+data available in literature, strongly attest to the necessity of the
+eighth-power terms in Landau thermodynamic potential of BaTiO_3. In addition,
+the fourth-power coefficients, \beta and \xi (the coefficient of P^2_i P^2_j
+terms), were evaluated from the nonlinear dielectric responses along [001],
+[011], and [111] orientations in the paraelectric phase. Appreciable
+temperature dependence was evidenced for both coefficients above T_C. Further
+analysis on the linear dielectric response of the single domain crystal in the
+tetragonal phase demonstrated that temperature dependent anharmonic
+coefficients are also necessary for an adequate description of the dielectric
+behavior in the ferroelectric phase. As a consequence, an eighth-power
+thermodynamic potential, with some of the anharmonic coefficients being
+temperature dependent, was proposed and compared with the existing potentials.
+In general, the potential proposed in this work exhibits a higher quality in
+reproducing the dielectric and ferroelectric properties of this prototypic
+ferroelectric substance.

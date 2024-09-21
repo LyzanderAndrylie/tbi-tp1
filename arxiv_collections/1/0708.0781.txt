@@ -1,0 +1,6 @@
+We present a new type of modified Galerkin method. It is a construction with
+several (inductively defined) levels, that provides approximate solutions of
+increasing accuracy with every new level. These solutions are constructed as
+approximations of the so called induced trajectories (notion on which the
+definition of a class of approximate inertial manifolds used in the nonlinear
+and postprocessed Galerkin methods is based).

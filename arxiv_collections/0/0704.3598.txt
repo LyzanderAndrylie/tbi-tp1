@@ -1,0 +1,11 @@
+We study spin-polarized transient transport in a quantum dot coupled to two
+ferromagnetic leads subjected to a rectangular bias voltage pulse.
+Time-dependent spin-resolved currents, occupations, spin accumulation, and
+tunneling magnetoresistance (TMR) are calculated using both nonequilibrium
+Green function and master equation techniques. Both parallel and antiparallel
+leads' magnetization alignments are analyzed. Our main findings are: a
+dynamical spin accumulation that changes sign in time, a short-lived pulse of
+spin polarized current in the emitter lead (but not in the collector lead), and
+a dynamical TMR that develops negative values in the transient regime. We also
+observe that the intra-dot Coulomb interaction can enhance even further the
+negative values of the TMR.

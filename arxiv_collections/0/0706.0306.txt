@@ -1,0 +1,11 @@
+The prototype of a workflow system for the submission of content to a digital
+object repository is here presented. It is based entirely on open-source
+standard components and features a service-oriented architecture. The front-end
+consists of Java Business Process Management (jBPM), Java Server Faces (JSF),
+and Java Server Pages (JSP). A Fedora Repository and a mySQL data base
+management system serve as a back-end. The communication between front-end and
+back-end uses a SOAP minimal binding stub. We describe the design principles
+and the construction of the prototype and discuss the possibilities and
+limitations of work ow creation by administrators. The code of the prototype is
+open-source and can be retrieved in the project escipub at
+http://sourceforge.net

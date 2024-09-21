@@ -1,0 +1,12 @@
+Sequence alignment forms the basis of many methods for functional annotation
+by phylogenetic comparison, but becomes unreliable in the `twilight' regions of
+high sequence divergence and short gene length. Here we perform a cross-species
+comparison of two herpesviruses, VZV and KSHV, with a hybrid method called
+graph alignment. The method is based jointly on the similarity of protein
+interaction networks and on sequence similarity. In our alignment, we find open
+reading frames for which interaction similarity concurs with a low level of
+sequence similarity, thus confirming the evolutionary relationship. In
+addition, we find high levels of interaction similarity between open reading
+frames without any detectable sequence similarity. The functional predictions
+derived from this alignment are consistent with genomic position and gene
+expression data.

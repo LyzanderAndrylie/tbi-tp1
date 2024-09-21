@@ -1,0 +1,13 @@
+We consider the propagation of slow light with an orbital angular momentum
+(OAM) in a moving atomic medium. We have derived a general equation of motion
+and applied it in analysing propagation of slow light with an OAM in a rotating
+medium, such as a vortex lattice. We have shown that the OAM of slow light
+manifests itself in a rotation of the polarisation plane of linearly polarised
+light. To extract a pure rotational phase shift, we suggest to measure a
+difference in the angle of the polarisation plane rotation by two consecutive
+light beams with opposite OAM. The differential angle $\Delta\alpha_{\ell}$ is
+proportional to the rotation frequency of the medium $\omega_{\mathrm{rot}}$
+and the winding number $\ell$ of light, and is inversely proportional to the
+group velocity of light. For slow light the angle $\Delta\alpha_{\ell}$ should
+be large enough to be detectable. The effect can be used as a tool for
+measuring the rotation frequency $\omega_{\mathrm{rot}}$ of the medium.

@@ -1,0 +1,14 @@
+The dynamics of receding contact lines is investigated experimentally through
+controlled perturbations of a meniscus in a dip coating experiment. We first
+characterize stationary menisci and their breakdown at the coating transition.
+It is then shown that the dynamics of both liquid deposition and
+long-wavelength perturbations adiabatically follow these stationary states.
+This provides a first experimental access to the entire bifurcation diagram of
+dynamical wetting, confirming the hydrodynamic theory developed in Part 1. In
+contrast to quasi-static theories based on a dynamic contact angle, we
+demonstrate that the transition strongly depends on the large scale flow
+geometry. We then establish the dispersion relation for large wavenumbers, for
+which we find that sigma is linear in q. The speed dependence of sigma is well
+described by hydrodynamic theory, in particular the absence of diverging
+time-scales at the critical point. Finally, we highlight some open problems
+related to contact angle hysteresis that lead beyond the current description.

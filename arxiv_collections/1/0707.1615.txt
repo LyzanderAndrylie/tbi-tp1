@@ -1,0 +1,19 @@
+The random phase approximation (RPA) for the correlation energy functional of
+density functional theory has recently attracted renewed interest. Formulated
+in terms of the Kohn-Sham (KS) orbitals and eigenvalues, it promises to resolve
+some of the fundamental limitations of the local density and generalized
+gradient approximations, as for instance their inability to account for
+dispersion forces. First results for atoms, however, indicate that the RPA
+overestimates correlation effects as much as the orbital-dependent functional
+obtained by a second order perturbation expansion on the basis of the KS
+Hamiltonian. In this contribution, three simple extensions of the RPA are
+examined, (a) its augmentation by an LDA for short-range correlation, (b) its
+combination with the second order exchange term, and (c) its combination with a
+partial resummation of the perturbation series including the second order
+exchange. It is found that the ground state and correlation energies as well as
+the ionization potentials resulting from the extensions (a) and (c) for closed
+sub-shell atoms are clearly superior to those obtained with the unmodified RPA.
+Quite some effort is made to ensure highly converged RPA data, so that the
+results may serve as benchmark data. The numerical techniques developed in this
+context, in particular for the inherent frequency integration, should also be
+useful for applications of RPA-type functionals to more complex systems.

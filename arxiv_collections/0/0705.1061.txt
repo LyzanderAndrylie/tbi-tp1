@@ -1,0 +1,12 @@
+The prompt emission from gamma-ray bursts (GRBs) still requires a physical
+explanation. Studies of time-resolved GRB spectra, observed in the keV-MeV
+range, show that a hybrid model consisting of two components, a photospheric
+and a non-thermal component, in many cases fits bright, single-pulsed bursts as
+well as, and in some instances even better than, the Band function. With an
+energy coverage from 8 keV up to 300 GeV, GLAST will give us an unprecedented
+opportunity to further investigate the nature of the prompt emission. In
+particular, it will give us the possibility to determine whether a photospheric
+component is the determining feature of the spectrum or not. Here we present a
+short study of the ability of GLAST to detect such a photospheric component in
+the sub-MeV range for typical bursts, using simulation tools developed within
+the GLAST science collaboration.

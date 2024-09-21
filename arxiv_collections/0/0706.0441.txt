@@ -1,0 +1,16 @@
+We study the pair production of doubly charged Higgs bosons at the Large
+Hadron Collider (LHC), assuming the doubly charged Higgs to be part of an
+SU(2)_L triplet which generates Majorana masses for left-handed neutrinos. Such
+pair-production has the advantage that it is not constrained by the triplet
+vacuum expectation value, which tends to make the single production rate rather
+small. We point out that, in addition to the Drell-Yan (DY) production
+mechanism, two-photon processes also contribute to H++H++ production at a level
+comparable to the QCD corrections to the DY channel. Decays of the doubly
+charged Higgs into both the l+l+ and W+W+ modes are studied in detail to
+optimize the signal observation over the backgrounds. Doubly charged scalars
+should be observable at the LHC with 300 fb^-1 integrated luminosity in the ll
+channel upto the mass range of 1 TeV even with a branching fraction of about 60
+%, and in the WW channel upto a mass of 700 GeV. Such a doubly charged Higgs,
+if it is a member of a triplet generating neutrino masses,cannot be long-lived
+on the scale of collider detectors although it might lead to a displaced
+secondary vertex during its decay if it is lighter than about 250 GeV.

@@ -1,0 +1,9 @@
+A nonlocal electric response in the spin-Hall regime, resulting from spin
+diffusion mediating charge conduction, is predicted. The spin-mediated
+transport stands out due to its long-range character, and can give dominant
+contribution to nonlocal resistance. The characteristic range of nonlocality,
+set by the spin diffusion length, can be large enough to allow detection of
+this effect in materials such as GaAs despite its small magnitude. The
+detection is facilitated by a characteristic nonmonotonic dependence of
+transresistance on the external magnetic field, exhibiting sign changes and
+decay.

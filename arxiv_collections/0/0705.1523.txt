@@ -1,0 +1,11 @@
+We study a model ecosystem by means of dynamical techniques from disordered
+systems theory. The model describes a set of species subject to competitive
+interactions through a background of resources, which they feed upon.
+Additionally direct competitive or co-operative interaction between species may
+occur through a random coupling matrix. We compute the order parameters of the
+system in a fixed point regime, and identify the onset of instability and
+compute the phase diagram. We focus on the effects of variability of resources,
+direct interaction between species, co-operation pressure and dilution on the
+stability and the diversity of the ecosystem. It is shown that resources can be
+exploited optimally only in absence of co-operation pressure or direct
+interaction between species.

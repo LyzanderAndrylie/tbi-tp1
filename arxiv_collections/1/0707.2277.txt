@@ -1,0 +1,12 @@
+We derive a simplified representation for the pion mass to two loops in
+three-flavour chiral perturbation theory. For this purpose, we first determine
+the reduced expressions for the tensorial two-loop 2-point sunset integrals
+arising in chiral perturbation theory calculations. Making use of those
+relations, we obtain the expression for the pion mass in terms of the minimal
+set of master integrals. On the basis of known results for these, we arrive at
+an explicit analytic representation, up to the contribution from K-K-eta
+intermediate states where a closed-form expression for the corresponding sunset
+integral is missing. However, the expansion of this function for a small pion
+mass leads to a simple representation which yields a very accurate
+approximation of this contribution. Finally, we also give a discussion of the
+numerical implications of our results.

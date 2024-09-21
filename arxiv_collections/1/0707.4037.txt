@@ -1,0 +1,11 @@
+We review in a pedagogical way the method of differential equations for the
+evaluation of D-dimensionally regulated Feynman integrals. After dealing with
+the general features of the technique, we discuss its application in the
+context of one- and two-loop corrections to the photon propagator in QED, by
+computing the Vacuum Polarization tensor exactly in D. Finally, we treat two
+cases of less trivial differential equations, respectively associated to a
+two-loop three-point, and a four-loop two-point integral. These two examples
+are the playgrounds for showing more technical aspects about: Laurent expansion
+of the differential equations in D (around D=4); the choice of the boundary
+conditions; and the link among differential and difference equations for
+Feynman integrals.

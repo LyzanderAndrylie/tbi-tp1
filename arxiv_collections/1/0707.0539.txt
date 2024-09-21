@@ -1,0 +1,10 @@
+In KEKB, synchrotron radiation interferometers (SRMs) are used for measuring
+the transverse beam sizes. There is also a tool for enlarging the vertical beam
+size intentionally by making an asymmetric bump, called an ``iSize'' bump, at
+one of the strongest non-interleaved sextupole magnets in each KEKB ring. The
+calibrations of the SRMs were checked by comparing the measured vertical beam
+sizes with those calculated using the computer code ``SAD''. The obtained
+correction factors are 1.000$\pm$0.045 for HER and 0.971$\pm$0.060 for LER,
+which are consistent with the calibration factors of SRMs\cite{SRMcalib} within
+errors. Using the obtained calibration factor, x-y coupling of each ring was
+calculated .

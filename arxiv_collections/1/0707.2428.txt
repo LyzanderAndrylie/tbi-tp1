@@ -1,0 +1,14 @@
+The distribution of genetic polymorphisms in a population contains
+information about the mutation rate and the strength of natural selection at a
+locus. Here, we show that the Poisson Random Field (PRF) method of
+population-genetic inference suffers from systematic biases that tend to
+underestimate selection pressures and mutation rates, and that erroneously
+infer positive selection. These problems arise from the infinite-sites
+approximation inherent in the PRF method. We introduce three new inference
+techniques that correct these problems. We present a finite-site modification
+of the PRF method, as well as two new methods for inferring selection pressures
+and mutation rates based on diffusion models. Our methods can be used to infer
+not only a "weighted average" of selection pressures acting on a gene sequence,
+but also the distribution of selection pressures across sites. We evaluate the
+accuracy of our methods, as well that of the original PRF approach, by
+comparison with Wright-Fisher simulations.

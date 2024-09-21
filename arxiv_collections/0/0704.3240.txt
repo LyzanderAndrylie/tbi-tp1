@@ -1,0 +1,8 @@
+The purpose of this work is to test the application of the finite element
+method to quantum mechanical problems, in particular for solving the
+Schroedinger equation.
+  We begin with an overview of quantum mechanics, and standard numerical
+techniques. We then give an introduction to finite element analysis using the
+diffusion equation as an example. Three numerical time evolution methods are
+considered: the (tried and tested) Crank-Nicolson method, the continuous
+space-time method, and the discontinuous space-time method.

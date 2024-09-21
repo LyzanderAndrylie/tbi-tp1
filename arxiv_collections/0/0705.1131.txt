@@ -1,0 +1,10 @@
+We study the renormalized stress-energy tensor (RSET) for static quantum
+states on (n+1)-dimensional, static, spherically symmetric black holes. By
+solving the conservation equations, we are able to write the stress-energy
+tensor in terms of a single unknown function of the radial co-ordinate, plus
+two arbitrary constants. Conditions for the stress-energy tensor to be regular
+at event horizons (including the extremal and ``ultra-extremal'' cases) are
+then derived using generalized Kruskal-like co-ordinates. These results should
+be useful for future calculations of the RSET for static quantum states on
+spherically symmetric black hole geometries in any number of space-time
+dimensions.

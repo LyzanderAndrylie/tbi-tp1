@@ -1,0 +1,12 @@
+The main result of this article is the fact that the currents defined by
+Levin give a description of the polylogarithm of an abelian scheme at the
+topological level. This result was a conjecture of Levin. This provides a
+method to explicit the Eisenstein classes of an abelian scheme at the
+topological level. These classes are of special interest since they have a
+motivic origin by a theorem of Kings. In a forthcoming article, we use the main
+result of this paper to prove that the Eisenstein classes of the universal
+abelian scheme over an Hilbert-Blumenthal variety degenerate at the boundary of
+the Baily-Borel compactification of the base in a special value of an
+$L$-function associated to the underlying totally real number field. As a
+corollary, we get a non vanishing result for some of these Eisenstein classes
+in this geometric situation.

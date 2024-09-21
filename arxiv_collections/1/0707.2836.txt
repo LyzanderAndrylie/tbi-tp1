@@ -1,0 +1,18 @@
+We first propose a simple mathematical analysis framework for the Enhanced
+Distributed Channel Access (EDCA) function of the recently ratified IEEE
+802.11e standard. Our analysis considers the fact that the distributed random
+access systems exhibit cyclic behavior. The proposed model is valid for
+arbitrary assignments of AC-specific Arbitration Interframe Space (AIFS) values
+and Contention Window (CW) sizes and is the first that considers an arbitrary
+distribution of active Access Categories (ACs) at the stations. Validating the
+theoretical results via extensive simulations, we show that the proposed
+analysis accurately captures the EDCA saturation performance. Next, we propose
+a framework for multimedia capacity analysis of the EDCA function. We calculate
+an accurate station- and AC-specific queue utilization ratio by appropriately
+weighing the service time predictions of the cycle time model for different
+number of active stations. Based on the calculated queue utilization ratio, we
+design a simple model-based admission control scheme. We show that the proposed
+call admission control algorithm maintains satisfactory user-perceived quality
+for coexisting voice and video connections in an infrastructure BSS and does
+not present over- or under-admission problems of previously proposed models in
+the literature.

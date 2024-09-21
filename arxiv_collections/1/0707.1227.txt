@@ -1,0 +1,12 @@
+The single qubit quantum teleportation (sender and receiver are Alice and Bob
+respectively) is analyzed from the aspect of the quantum information theories.
+The various quantum entropies are computed at each stage, which ensures the
+emergence of the entangled states in the intermediate step. The mutual
+information $S(B:C)$ becomes non-zero before performing quantum measurement,
+which seems to be consistent to the original purpose of the quantum
+teleportation. It is shown that if the teleported state $|\psi>$ is near the
+computational basis, the quantum measurement in $C$-system is dominantly
+responsible for the joint entropy $S(A,C)$ at the final stage. If, however,
+$|\psi>$ is far from the computational basis, this dominant responsibility is
+moved into the quantum measurement of system $A$. A possible extension of our
+results are briefly discussed.

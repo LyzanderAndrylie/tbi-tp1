@@ -1,0 +1,6 @@
+We construct a theory of continuous-variable entanglement-assisted quantum
+error correction. We present an example of a continuous-variable
+entanglement-assisted code that corrects for an arbitrary single-mode error. We
+also show how to implement encoding circuits using passive optical devices,
+homodyne measurements, feedforward classical communication, conditional
+displacements, and off-line squeezers.

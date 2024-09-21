@@ -1,0 +1,23 @@
+We present optical and X-ray data for a sample of serendipitous XMM-Newton
+sources that are selected to have 0.5-2 keV vs 2-4.5 keV X-ray hardness ratios
+which are harder than the X-ray background. The sources have 2-4.5 keV X-ray
+flux >= 10^-14 cgs, and in this paper we examine a subsample of 42 optically
+bright (r < 21) sources; this subsample is 100 per cent spectroscopically
+identified. All but one of the optical counterparts are extragalactic, and we
+argue that the single exception, a Galactic M star, is probably a coincidental
+association. The X-ray spectra are consistent with heavily absorbed power laws
+(21.8 < log NH < 23.4), and all of them appear to be absorbed AGN. The majority
+of the sources show only narrow emission lines in their optical spectra,
+implying that they are type-2 AGN. Only a small fraction of the sources (7/42)
+show broad optical emission lines, and all of these have NH < 10^23 cm^-2. This
+implies that ratios of X-ray absorption to optical/UV extinction equivalent to
+> 100 times the Galactic gas-to-dust ratio are rare in AGN absorbers (at most a
+few percent of the population), and may be restricted to broad absorption-line
+QSOs. Seven objects appear to have an additional soft X-ray component in
+addition to the heavily absorbed power law. We consider the implications of our
+results in the light of the AGN unified scheme. We find that the soft
+components in narrow-line objects are consistent with the unified scheme
+provided that > 4 per cent of broad-line AGN have ionised absorbers that
+attenuate their soft X-ray flux by >50 per cent. In at least one of the X-ray
+absorbed, broad-line AGN in our sample the X-ray spectrum requires an ionised
+absorber, consistent with this picture.

@@ -1,0 +1,7 @@
+In mesoscopic systems conductance fluctuations are a sensitive probe of
+electron dynamics and chaotic phenomena. We show that the conductance of a
+purely classical chaotic system with either fully chaotic or mixed phase space
+generically exhibits fractal conductance fluctuations unrelated to quantum
+interference. This might explain the unexpected dependence of the fractal
+dimension of the conductance curves on the (quantum) phase breaking length
+observed in experiments on semiconductor quantum dots.

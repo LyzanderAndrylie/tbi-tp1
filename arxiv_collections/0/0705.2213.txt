@@ -1,0 +1,19 @@
+We employ X-ray stacking techniques to examine the contribution from X-ray
+undetected, mid-infrared-selected sources to the unresolved, hard (6-8 keV)
+cosmic X-ray background (CXB). We use the publicly available, 24 micron Spitzer
+Space Telescope MIPS catalogs from the Great Observatories Origins Deep Survey
+(GOODS) - North and South fields, which are centered on the 2 Ms Chandra Deep
+Field-North and the 1 Ms Chandra Deep Field-South, to identify bright (S_24 >
+80 microJy) mid-infrared sources that may be powered by heavily obscured AGNs.
+We measure a significant stacked X-ray signal in all of the X-ray bands
+examined, including, for the first time, a significant (3.2 sigma) 6-8 keV
+stacked X-ray signal from an X-ray undetected source population. We find that
+the X-ray-undetected MIPS sources make up about 2% (or less) of the total CXB
+below 6 keV, but about 6% in the 6-8 keV band. The 0.5-8 keV stacked X-ray
+spectrum is consistent with a hard power-law (Gamma = 1.44 +/- 0.07), with the
+spectrum hardening at higher X-ray energies. Our findings show that these
+bright MIPS sources do contain obscured AGNs, but are not the primary source of
+the unresolved 50% of 6-8 keV CXB. Our study rules out obscured, luminous QSOs
+as a significant source of the remaining unresolved CXB and suggests that it
+most likely arises from a large population of obscured, high-redshift (z > 1),
+Seyfert-luminosity AGNs.

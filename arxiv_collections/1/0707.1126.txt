@@ -1,0 +1,6 @@
+Using the idea of transformation medium, a cloak can be designed to make a
+domain invisible for one target frequency. In this article, we examine the
+possibility to extend the bandwidth of such a cloak. We obtained a constraint
+of the band width, which is summarized as a simple inequality that states that
+limits the bandwidth of operation. The constraint originates from causality
+requirements. We suggest a simple strategy that can get around the constraint.

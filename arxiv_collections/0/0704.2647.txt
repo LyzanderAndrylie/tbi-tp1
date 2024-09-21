@@ -1,0 +1,15 @@
+In this paper, the study of the gravitational collapse of cylindrically
+distributed two perfect fluid system has been carried out. It is assumed that
+the collapsing speeds of the two fluids are very large. We explore this
+condition by using the high-speed approximation scheme. There arise two cases,
+i.e., bounded and vanishing of the ratios of the pressures with densities of
+two fluids given by $c_s, d_s$. It is shown that the high-speed approximation
+scheme breaks down by non-zero pressures $p_1, p_2$ when $c_s, d_s$ are bounded
+below by some positive constants. The failure of the high-speed approximation
+scheme at some particular time of the gravitational collapse suggests the
+uncertainity on the evolution at and after this time. In the bounded case, the
+naked singularity formation seems to be impossible for the cylindrical two
+perfect fluids. For the vanishing case, if a linear equation of state is used,
+the high-speed collapse does not break down by the effects of the pressures and
+consequently a naked singularity forms. This work provides the generalisation
+of the results already given by Nakao and Morisawa [1] for the perfect fluid.

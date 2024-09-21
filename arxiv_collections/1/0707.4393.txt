@@ -1,0 +1,8 @@
+We examine stochastic processes that are used to model nonequilibrium
+processes (e.g, pulling RNA or dragging colloids) and so deliberately violate
+detailed balance. We argue that by combining an information-theoretic measure
+of irreversibility with nonequilibrium work theorems, the thermal physics
+implied by abstract dynamics can be determined. This measure is bounded above
+by thermodynamic entropy production and so may quantify how well a stochastic
+dynamics models reality. We also use our findings to critique various modeling
+approaches and notions arising in steady-state thermodynamics.

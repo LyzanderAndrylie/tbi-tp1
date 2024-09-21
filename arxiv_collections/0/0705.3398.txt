@@ -1,0 +1,12 @@
+In various neurological disorders spatio-temporal excitation patterns
+constitute examples of excitable behavior emerging from pathological pathways.
+During migraine, seizure, and stroke an initially localized pathological state
+can temporarily spread indicating a transition from non-excitable to excitable
+behavior. We investigate these transient wave forms in the generic
+FitzHugh-Nagumo (FHN) system of excitable media. Our goal is to define an
+efficient control minimizing the volume of invaded tissue. The general point of
+such a therapeutic optimization is how to apply control theory in the framework
+of structures in differential geometry by regarding parameter plane M of the
+FHN system as a differential manifold endowed with a metric. We suggest to
+equip M with a metric given by pharmacokinetic-pharmacodynamic models of drug
+receptor interaction.

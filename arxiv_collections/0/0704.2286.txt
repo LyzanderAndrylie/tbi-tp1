@@ -1,0 +1,9 @@
+Fourier phases contain a vast amount of information about structure in direct
+space, that most statistical tools never tap into. We address ALMA's ability to
+detect and recover this information, using the probability distribution
+function (PDF) of phase increments, and the related concepts of phase entropy
+and phase structure quantity. We show that ALMA, with its high dynamical range,
+is definitely needed to achieve significant detection of phase structure, and
+that it will do so even in the presence of a fair amount of atmospheric phase
+noise. We also show that ALMA should be able to recover the actual "amount" of
+phase structure in the noise-free case, if multiple configurations are used.

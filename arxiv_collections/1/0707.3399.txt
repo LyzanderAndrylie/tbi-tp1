@@ -1,0 +1,13 @@
+We analyse a simple model of the heat transfer to and from a small satellite
+orbiting round a solar system planet. Our approach considers the satellite
+isothermal, with external heat input from the environment and from internal
+energy dissipation, and output to the environment as black-body radiation. The
+resulting nonlinear ordinary differential equation for the satellite's
+temperature is analysed by qualitative, perturbation and numerical methods,
+which show that the temperature approaches a periodic pattern (attracting limit
+cycle). This approach can occur in two ways, according to the values of the
+parameters: (i) a slow decay towards the limit cycle over a time longer than
+the period, or (ii) a fast decay towards the limit cycle over a time shorter
+than the period. In the first case, an exactly soluble average equation is
+valid. We discuss the consequences of our model for the thermal stability of
+satellites.

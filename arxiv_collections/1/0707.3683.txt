@@ -1,0 +1,12 @@
+The physical origin of frequency dependence in elastic constants, which are
+often found in an ultrasound propagation in filled skutterudites and clathrate
+compounds, is investigated theoretically. This dependence arises from a
+coupling between the acoustic phonon and some optical phonons, which strongly
+interact with electrons. Using a self-consistent ladder approximation together
+with a pseudofermion mapping of the phonon to the single site Holstein Anderson
+model, a soft mode of the optical phonon at zero frequency is shown to emerge.
+The temperature dependence of the spectral weight of this soft mode shows an
+activation-type behavior, which is characterized by the optical phonon
+frequency. These features can generate the frequency dependence and the
+shoulder in the elastic constants observed in some filled skutterudites and
+clathrate compounds.

@@ -1,0 +1,8 @@
+Topological excitations are prominent candidates for explaining
+nonperturbative effects in QCD like confinement. In these lectures, I cover
+both formal treatments and applications of topological objects. The typical
+phenomena like BPS bounds, topology, the semiclassical approximation and chiral
+fermions are introduced by virtue of kinks. Then I proceed in higher dimensions
+with magnetic monopoles and instantons and special emphasis on calorons.
+Analytical aspects are discussed and an overview over models based on these
+objects as well as lattice results is given.

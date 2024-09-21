@@ -1,0 +1,14 @@
+A dynamic cluster quantum Monte Carlo algorithm is used to study a spin
+susceptibility representation of the pairing interaction for the
+two-dimensional Hubbard model with an on-site Coulomb interaction equal to the
+bandwidth for various doping levels. We find that the pairing interaction is
+well approximated by ${3/2}\Ub(T)^2\chi(K-K')$ with an effective temperature
+and doping dependent coupling $\Ub(T)$ and the numerically calculated spin
+susceptibility $\chi(K-K')$. We show that at low temperatures, $\Ub$ may be
+accurately determined from a corresponding spin susceptibility based
+calculation of the single-particle self-energy. We conclude that the strength
+of the d-wave pairing interaction, characterized by the mean-field transition
+temperature, can be determined from a knowledge of the dressed spin
+susceptibility and the nodal quasiparticle spectral weight. This has important
+implications with respect to the questions of whether spin fluctuations are
+responsible for pairing in the high-T$_c$ cuprates.

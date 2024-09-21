@@ -1,0 +1,14 @@
+X-ray absorption spectroscopy was used to study the microscopic origin of
+conductance and resistive switching in chromium doped strontium titanate
+(Cr:SrTiO3). Differences in the x-ray absorption near edge spectroscopy (XANES)
+at the Cr K-edge indicate that the valence of Cr changes from 3+ to 4+
+underneath the anode of our sample device after the application of an electric
+field. Spatially resolved x-ray fluorescence microscopy ($\mu$-XRF) maps show
+that the Cr4+ region retracts from the anode-Cr:SrTiO3 interface after a
+conducting state has been achieved. This interface region is studied with
+extended x-ray absorption fine structure (EXAFS) and the results are compared
+with structural parameters obtained from density functional theory (DFT)
+calculations. They confirm that oxygen vacancies which are localized at the
+octahedron with a Cr at its center are introduced at the interface. It is
+proposed that the switching state is not due to a valence change of chromium
+but caused by changes of oxygen vacancies at the interface.

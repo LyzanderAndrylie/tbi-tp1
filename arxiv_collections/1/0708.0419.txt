@@ -1,0 +1,9 @@
+The moduli space of smooth real binary octics has five connected components.
+They parametrize the real binary octics whose defining equations have 0, 1,
+..., 4 complex-conjugate pairs of roots respectively. We show that the
+GIT-stable completion of each of these five components admits the structure of
+an arithmetic real hyperbolic orbifold. The corresponding monodromy groups are,
+up to commensurability, discrete hyperbolic reflection groups, and their
+Vinberg diagrams are computed. We conclude with a simple proof that the moduli
+space of GIT-stable real binary octics itself cannot be a real hyperbolic
+orbifold.

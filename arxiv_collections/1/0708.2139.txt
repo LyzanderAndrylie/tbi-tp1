@@ -1,0 +1,10 @@
+We study mass fluxes in aggregation models where mass transfer to large
+scales by aggregation occurs alongside desorption or fragmentation. Two models
+are considered. (1) A system of diffusing, aggregating particles with influx
+and outflux of particles (in-out model) (2) A system of diffusing aggregating
+particles with fragmentation (chipping model). Both these models can exist in
+phases where probability distributions are power laws. In these power law
+phases, we argue that the two point correlation function should have a certain
+homogeneity exponent. These arguments are based on the exact constant flux
+scaling valid for simple aggregation with input. Predictions are compared with
+Monte Carlo simulations.

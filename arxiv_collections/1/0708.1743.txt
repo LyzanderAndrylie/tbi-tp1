@@ -1,0 +1,13 @@
+Atomic vapor of four different paramagnetic species: gold, silver, lithium,
+and rubidium, is produced and studied inside several buffer gases: helium,
+nitrogen, neon, and argon. The paramagnetic atoms are injected into the buffer
+gas using laser ablation. Wires with diameters 25 $\mu$m, 50 $\mu$m, and 100
+$\mu$m are used as ablation targets for gold and silver, bulk targets are used
+for lithium and rubidium. The buffer gas cools and confines the ablated atoms,
+slowing down their transport to the cell walls. Buffer gas temperatures between
+20 K and 295 K, and densities between $10^{16}$ cm$^{-3}$ and $2\times10^{19}$
+cm$^{-3}$ are explored. Peak paramagnetic atom densities of $10^{11}$ cm$^{-3}$
+are routinely achieved. The longest observed paramagnetic vapor density decay
+times are 110 ms for silver at 20 K and 4 ms for lithium at 32 K. The
+candidates for the principal paramagnetic-atom loss mechanism are impurities in
+the buffer gas, dimer formation and atom loss on sputtered clusters.

@@ -1,0 +1,20 @@
+We study theoretically the propagation of a step-modulated optical field as
+it passes through a dispersive dielectric made up of a dilute collection of
+oscillators characterized by a single narrow-band resonance. The propagated
+field is given in terms of an integral of a Fourier type, which cannot be
+evaluated even for simple models of the dispersive dielectric. The fact that
+the oscillators have a low number density (dilute medium) and have a
+narrow-band resonance allows us to simplify the integrand. In this case, the
+integral can be evaluated exactly, although it is not possible using this
+method to separate out the transient part of the propagated field known as
+optical precursors. We also use an asymptotic method (saddle-point method) to
+evaluate the integral. The contributions to the integral related to the
+saddle-points of the integrand give rise to the optical precursors. We obtain
+analytic expressions for the precursor fields and the domain over which the
+asymptotic method is valid. When combined to obtain the total transient field,
+we find that the agreement between the solutions obtained by the asymptotic and
+the exact methods is excellent. Our results demonstrate that precursors can
+persist for many nanoseconds and the chirp in the instantaneous frequency of
+the precursors can manifest itself in beats in the transmitted intensity. Our
+work strongly suggests that precursors have been observed in many previous
+experiments.

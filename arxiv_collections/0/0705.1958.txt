@@ -1,0 +1,9 @@
+We remind the reader that it is possible to tell if two or more eigenvalues
+of a matrix are equal, without calculating the eigenvalues. We then use this
+property to detect (avoided) crossings in the spectra of quantum Hamiltonians
+representable by matrices. This approach provides a pedagogical introduction to
+(avoided) crossings, is capable of handling realistic Hamiltonians
+analytically, and offers a way to visualize crossings which is sometimes
+superior to that provided by the spectrum. We illustrate the method using the
+Breit-Rabi Hamiltonian to describe the hyperfine-Zeeman structure of the ground
+state hydrogen atom in a uniform magnetic field.

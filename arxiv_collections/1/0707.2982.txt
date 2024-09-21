@@ -1,0 +1,21 @@
+The planned Laser Interferometer Space Antenna (LISA) is expected to detect
+the inspiral and merger of massive black hole binaries (MBHBs) at z <~ 5 with
+signal-to-noise ratios (SNRs) of hundreds to thousands. Because of these high
+SNRs, and because these SNRs accrete over periods of weeks to months, it should
+be possible to extract the physical parameters of these systems with high
+accuracy; for instance, for a ~ 10^6 Msun MBHBs at z = 1 it should be possible
+to determine the two masses to ~ 0.1% and the sky location to ~ 1 degree.
+However, those are just the errors due to noise: there will be additional
+"theoretical" errors due to inaccuracies in our best model waveforms, which are
+still only approximate. The goal of this paper is to estimate the typical
+magnitude of these theoretical errors. We develop mathematical tools for this
+purpose, and apply them to a somewhat simplified version of the MBHB problem,
+in which we consider just the inspiral part of the waveform and neglect
+spin-induced precession, eccentricity, and PN amplitude corrections. For this
+simplified version, we estimate that theoretical uncertainties in sky position
+will typically be ~ 1 degree, i.e., comparable to the statistical uncertainty.
+For the mass and spin parameters, our results suggest that while theoretical
+errors will be rather small absolutely, they could still dominate over
+statistical errors (by roughly an order of magnitude) for the strongest
+sources. The tools developed here should be useful for estimating the magnitude
+of theoretical errors in many other problems in gravitational-wave astronomy.

@@ -1,0 +1,18 @@
+We examine Gaussian-basis Monte Carlo method (GBMC) introduced by Corney and
+Drummond. This method is based on an expansion of the density-matrix operator
+rho by means of the coherent Gaussian-type operator basis Lambda and does not
+suffer from the minus sign problem. The original method, however, often fails
+in reproducing the true ground state and causes systematic errors of calculated
+physical quantities because the samples are often trapped in some metastable or
+symmetry broken states. To overcome this difficulty, we combine the
+quantum-number projection scheme proposed by Assaad, Werner, Corboz, Gull and
+Troyer in conjunction with the importance sampling of the original GBMC method.
+This improvement allows us to carry out the importance sampling in the
+quantum-number-projected phase-space. Some comparisons with the previous
+quantum-number projection scheme indicate that, in our method, the convergence
+with the ground state is accelerated, which makes it possible to extend the
+applicability and widen the range of tractable parameters in the GBMC method.
+The present scheme offers an efficient practical way of computation for
+strongly correlated electron systems beyond the range of system sizes,
+interaction strengths and lattice structures tractable by other computational
+methods such as the quantum Monte Carlo method.

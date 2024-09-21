@@ -1,0 +1,8 @@
+We consider controllability of two conjugate observables Z and X by two
+parties with classical communication. The ability is specified by two
+alternative tasks, (i) agreement on Z and (ii) preparation of an eigenstate of
+X with use of an extra communication channel. We prove that their feasibility
+is equivalent to that of key distillation if the extra channel is quantum, and
+to that of entanglement distillation if it is classical. This clarifies the
+distinction between two entanglement measures, distillable key and distillable
+entanglement.

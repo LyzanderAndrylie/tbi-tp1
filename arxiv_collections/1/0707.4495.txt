@@ -1,0 +1,16 @@
+A system of coupled chaotic bistable maps on a lattice with randomly
+distributed impurities is investigated as a model for studying the phenomenon
+of phase growth in nonuniform media. The statistical properties of the system
+are characterized by means of the average size of spatial domains of equivalent
+spin variables that define the phases. It is found that the rate at which phase
+domains grow becomes smaller when impurities are present and that the average
+size of the resulting domains in the inhomogeneous state of the system
+decreases when the density of impurities is increased. The phase diagram
+showing regions where homogeneous, heterogeneous, and chessboard patterns occur
+on the space of parameters of the system is obtained. A critical boundary that
+separates the regime of slow growth of domains from the regime of fast growth
+in the heterogeneous region of the phase diagram is calculated. The transition
+between these two growth regimes is explained in terms of the stability
+properties of the local phase configurations. Our results show that the
+inclusion of spatial inhomogeneities can be used as a control mechanism for the
+size and growth velocity of phase domains forming in spatiotemporal systems.

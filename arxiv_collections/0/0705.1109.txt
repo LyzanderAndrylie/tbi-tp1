@@ -1,0 +1,21 @@
+The monotonicity and stability of difference schemes for, in general,
+hyperbolic systems of conservation laws with source terms are studied. The
+basic approach is to investigate the stability and monotonicity of a non-linear
+scheme in terms of its corresponding scheme in variations. Such an approach
+leads to application of the stability theory for linear equation systems to
+establish stability of the corresponding non-linear scheme. The main
+methodological innovation is the theorems establishing the notion that a
+non-linear scheme is stable (and monotone) if the corresponding scheme in
+variations is stable (and, respectively, monotone). Criteria are developed for
+monotonicity and stability of difference schemes associated with the numerical
+analysis of systems of partial differential equations. The theorem of
+Friedrichs (1954) is generalized to be applicable to variational schemes with
+non-symmetric matrices. A new modification of the central Lax-Friedrichs (LxF)
+scheme is developed to be of the second order accuracy. A monotone piecewise
+cubic interpolation is used in the central schemes to give an accurate
+approximation for the model in question. The stability and monotonicity of the
+modified scheme are investigated. Some versions of the modified scheme are
+tested on several conservation laws, and the scheme is found to be accurate and
+robust. As applied to hyperbolic conservation laws with, in general, stiff
+source terms, it is constructed a second order scheme based on
+operator-splitting techniques.

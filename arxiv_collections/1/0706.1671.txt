@@ -1,0 +1,5 @@
+We give a simple derivation of all $n$-point densities for the eigenvalues of
+the real Ginibre ensemble with even dimension $N$ as quaternion determinants. A
+very simple symplectic kernel governs both, the real and complex correlations.
+1-and-2-point correlations are discussed in more detail. Scaling forms for
+large dimension $N$ are derived.

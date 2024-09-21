@@ -1,0 +1,9 @@
+A phase-field model for dealing with dynamic instabilities in membranes is
+presented. We use it to study curvature-driven pearling instability in vesicles
+induced by the anchorage of amphiphilic polymers on the membrane. Within this
+model, we obtain the morphological changes reported in recent experiments. The
+formation of a homogeneous pearled structure is achieved by consequent pearling
+of an initial cylindrical tube from the tip. For high enough concentration of
+anchors, we show theoretically that the homogeneous pearled shape is
+energetically less favorable than an inhomogeneous one, with a large sphere
+connected to an array of smaller spheres.

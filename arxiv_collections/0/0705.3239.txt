@@ -1,0 +1,11 @@
+The magnetic field-dependent longitudinal and Hall components of the
+resistivity rho_xx(H) and rho_xy(H) are measured in graphene on silicon dioxide
+substrates at temperatures from 1.6 K to room temperature. At charge densities
+near the charge-neutrality point rho_xx(H) is strongly enhanced and rho_xy(H)
+is suppressed, indicating nearly equal electron and hole contributions to the
+transport current. The data are inconsistent with uniformly distributed
+electron and hole concentrations (two-fluid model) but in excellent agreement
+with the recent theoretical prediction for inhomogeneously distributed electron
+and hole regions of equal mobility. At low temperatures and high magnetic
+fields rho_xx(H) saturates to a value ~h/e^2, with Hall conductivity << e^2/h,
+which may indicate a regime of localized v = 2 and v = -2 quantum Hall puddles.

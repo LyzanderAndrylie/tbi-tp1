@@ -1,0 +1,23 @@
+Cell colonies of bacteria, tumour cells and fungi, under nutrient limited
+growth conditions, exhibit complex branched growth patterns. In order to
+investigate this phenomenon we present a simple hybrid cellular automaton model
+of cell colony growth. In the model the growth of the colony is limited by a
+nutrient that is consumed by the cells and which inhibits cell division if it
+falls below a certain threshold. Using this model we have investigated how the
+nutrient consumption rate of the cells affects the growth dynamics of the
+colony. We found that for low consumption rates the colony takes on a Eden-like
+morphology, while for higher consumption rates the morphology of the colony is
+branched with a fractal geometry. These findings are in agreement with previous
+results, but the simplicity of the model presented here allows for a linear
+stability analysis of the system. By observing that the local growth of the
+colony is proportional to the flux of the nutrient we derive an approximate
+dispersion relation for the growth of the colony interface. This dispersion
+relation shows that the stability of the growth depends on how far the nutrient
+penetrates into the colony. For low nutrient consumption rates the penetration
+distance is large, which stabilises the growth, while for high consumption
+rates the penetration distance is small, which leads to unstable branched
+growth. When the penetration distance vanishes the dispersion relation is
+reduced to the one describing Laplacian growth without ultra-violet
+regularisation. The dispersion relation was verified by measuring how the
+average branch width depends on the consumption rate of the cells and shows
+good agreement between theory and simulations.

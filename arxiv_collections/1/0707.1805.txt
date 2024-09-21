@@ -1,0 +1,6 @@
+A theoretical scheme to generate multipartite entangled states in a Josephson
+planar-designed architecture is reported. This scheme improves the one
+published in [Phys. Rev. B 74, 104503 (2006)] since it speeds up the generation
+of W entangled states in an MxN array of inductively coupled Josephson flux
+qubits by reducing the number of necessary steps. In addition, the same
+protocol is shown to be able to transfer the W state from one row to the other.

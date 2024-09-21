@@ -1,0 +1,7 @@
+We show that nuclear spin subsystems can be completely controlled via
+microwave irradiation of resolved anisotropic hyperfine interactions with a
+nearby electron spin. Such indirect addressing of the nuclear spins via
+coupling to an electron allows us to create nuclear spin gates whose
+operational time is significantly faster than conventional direct addressing
+methods. We experimentally demonstrate the feasibility of this method on a
+solid-state ensemble system consisting of one electron and one nuclear spin.

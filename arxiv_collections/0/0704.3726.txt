@@ -1,0 +1,15 @@
+We use an effective field theory (EFT) which contains only short-range
+interactions to study the dependence of a variety of three-nucleon observables
+on the pion mass. The pion-mass dependence of input quantities in our
+``pionless'' EFT is obtained from a recent chiral EFT calculation. To the order
+we work at, these quantities are the 1S0 scattering length and effective range,
+the deuteron binding energy, the 3S1 effective range, and the binding energy of
+one three-nucleon bound state. The chiral EFT input we use has the inverse 3S1
+and 1S0 scattering lengths vanishing at mpi_c=197.8577 MeV. At this
+``critical'' pion mass, the triton has infinitely many excited states with an
+accumulation point at the three-nucleon threshold. We compute the binding
+energies of these states up to next-to-next-to-leading order in the pionless
+EFT and study the convergence pattern of the EFT in the vicinity of the
+critical pion mass. Furthermore, we use the pionless EFT to predict how doublet
+and quartet nd scattering lengths depend on mpi in the region between the
+physical pion mass and mpi=mpi_c.

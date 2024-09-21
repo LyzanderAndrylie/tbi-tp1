@@ -1,0 +1,9 @@
+We study the linear response in different models of driven granular gases. In
+some situations, even if the the velocity statistics can be strongly
+non-Gaussian, we do not observe appreciable violations of the Einstein formula
+for diffusion versus mobility. The situation changes when strong correlations
+between velocities and density are present: in this case, although a form of
+fluctuation-dissipation relation holds, the differential velocity response of a
+particle and its velocity self-correlation are no more proportional. This
+happens at high densities and strong inelasticities, but still in the
+fluid-like (and ergodic) regime.

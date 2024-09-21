@@ -1,0 +1,23 @@
+The physical interpretation of the spectral line polarization produced by the
+joint action of the Hanle and Zeeman effects offers a unique opportunity to
+obtain empirical information about hidden aspects of solar and stellar
+magnetism. To this end, it is important to achieve a complete understanding of
+the sensitivity of the emergent spectral line polarization to the presence of a
+magnetic field. Here we present a detailed theoretical investigation on the
+role of resonance scattering and magnetic fields on the polarization signals of
+the Ba II D1 and D2 lines of the Fraunhofer spectrum, respectively at 4934 \AA\
+and 4554 \AA. We adopt a three-level model of Ba II, and we take into account
+the hyperfine structure that is shown by the $^{135}$Ba and $^{137}$Ba
+isotopes. Despite of their relatively small abundance (18%), the contribution
+coming from these two isotopes is indeed fundamental for the interpretation of
+the polarization signals observed in these lines. We consider an optically thin
+slab model, through which we can investigate in a rigorous way the essential
+physical mechanisms involved (resonance polarization, Zeeman, Paschen-Back and
+Hanle effects), avoiding complications due to radiative transfer effects. We
+assume the slab to be illuminated from below by the photospheric solar
+continuum radiation field, and we investigate the radiation scattered at 90
+degrees, both in the absence and in the presence of magnetic fields,
+deterministic and microturbulent. We show in particular the existence of a
+differential magnetic sensitivity of the three-peak Q/I profile that is
+observed in the D2 line in quiet regions close to the solar limb, which is of
+great interest for magnetic field diagnostics.

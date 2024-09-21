@@ -1,0 +1,7 @@
+We study the mathematical evolution of a liquid fuel droplet inside a vessel.
+In particular, we analyze the evolution of the droplet radius on a finite time
+interval. The model problem involves an hyperbolic system coupled with the
+pressure and velocity of the surrounding gas. Existence of bounded solutions
+for the mass fraction of the liquid, submitted to nonlinear constraints, is
+shown. Numerical simulations are given, in agreement with known physical
+experiments.

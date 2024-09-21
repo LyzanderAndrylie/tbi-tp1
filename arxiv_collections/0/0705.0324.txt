@@ -1,0 +1,7 @@
+For a colloidal particle driven by a constant force across a periodic
+potential, we investigate the distribution of entropy production both
+experimentally and theoretically. For short trajectories, the fluctuation
+theorem holds experimentally. The mean entropy production rate shows two
+regimes as a function of the applied force. Theoretically, both mean and
+variance of the pronounced non-Gaussian distribution can be obtained from a
+differential equation in good agreement with the experimental data.

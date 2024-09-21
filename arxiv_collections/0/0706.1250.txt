@@ -1,0 +1,7 @@
+Here we present a system of coupled phase oscillators with nearest neighbors
+coupling, which we study for different boundary conditions. We concentrate at
+the transition to total synchronization. We are able to develop exact solutions
+for the value of the coupling parameter when the system becomes completely
+synchronized, for the case of periodic boundary conditions as well as for an
+open chain with fixed ends. We compare the results with those calculated
+numerically.

@@ -1,0 +1,11 @@
+Electronic properties of heterostructures in which a finite number of
+Mott-insulator layers are sandwiched by semi-infinite metallic leads are
+investigated by using the dynamical-mean-field method combined with the Keldysh
+Green's function technique to account for the finite bias voltage between the
+leads. Current across the junction is computed as a function of bias voltage.
+Electron spectral functions in the interacting region are shown to evolve by an
+applied bias voltage. This effect is measurable by photoemission spectroscopy
+and scanning tunneling microscopy. Further predictions are made for the optical
+conductivity under a bias voltage as a possible tool to detect a deformed
+density of states. A general discussion of correlated-electron based
+heterostructures and future prospect is given.

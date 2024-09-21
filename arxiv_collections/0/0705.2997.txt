@@ -1,0 +1,13 @@
+Coulomb drag experiments in which the inter-layer resistivity is measured are
+important as they provide information on the Coulomb interactions in bilayer
+systems. When the layer densities are low correlation effects become
+significant to account for the quantitative description of experimental
+results. We investigate systematically various models of effective inter-layer
+interactions in a bilayer system and compare our results with recent
+experiments. In the low density regime, the correlation effects are included
+via the intra- and inter-layer local-field corrections. We employ several
+theoretical approaches to construct static local-field corrections. Our
+comparative study demonstrates the importance of including the correlation
+effects accurately in the calculation of drag resistivity. Recent experiments
+performed at low layer densities are adequately described by effective
+inter-layer interactions incorporating static correlations.

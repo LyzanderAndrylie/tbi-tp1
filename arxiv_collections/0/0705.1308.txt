@@ -1,0 +1,12 @@
+In this paper, we consider the problem of how to quantify entanglement for
+any multipartite quantum states. For bipartite pure states partial entropy is a
+good entanglement measure. By using partial entropy, we firstly introduce the
+Combinatorial Entropy of Fully entangled states (CEF) which can be used to
+quantify entanglement for any fully entangled pure states. In order to quantify
+entanglement for any multipartite states we also need another concept the
+Entanglement Combination (EC) which can be used to completely describe the
+entanglement between any parties of the given quantum states. Combining CEF
+with EC, we define the Combinatorial Entropy (CE) for any multipartite pure
+states and present some nice properties which indicate CE is a good
+entanglement measure. Finally, we point out the feasibility of extending these
+three concepts to mixed quantum states.

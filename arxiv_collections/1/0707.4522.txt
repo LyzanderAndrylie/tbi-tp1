@@ -1,0 +1,7 @@
+We prove that an irreducible 3-manifold whose fundamental group satisfies a
+certain group-theoretic property called RFRS is virtually fibered. As a
+corollary, we show that 3-dimensional reflection orbifolds and arithmetic
+hyperbolic orbifolds defined by a quadratic form virtually fiber. These include
+the Seifert Weber dodecahedral space and the Bianchi orbifolds. Moreover, we
+show that a taut sutured compression body has a finite-sheeted cover with a
+depth one taut-oriented foliation.

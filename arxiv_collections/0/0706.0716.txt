@@ -1,0 +1,9 @@
+We illustrate the main features of a recently proposed method based on
+ensemble density functional theory to divide rigorously a complex molecular
+system into its parts [M.H. Cohen and A. Wasserman, J. Phys. Chem. A 111, 2229
+(2007)]. The illustrative system is an analog of the hydrogen molecule for
+which analytic expressions for the densities of the parts (hydrogen "atoms")
+are found along with the "reactivity potential" that enters the theory. While
+previous formulations of Chemical Reactivity Theory lead to zero, or undefined,
+values for the chemical hardness of the isolated parts, we demonstrate they can
+acquire a finite and positive hardness within the present formulation.

@@ -1,0 +1,10 @@
+Low energy scattering amplitudes for two atoms in one- and two-dimensional
+atomic wave guides are derived for short range isotropic and resonant
+interactions in high partial wave channels. Taking into account the finite
+width of the resonance which was neglected in previous works is shown to have
+important implications in the properties of the confinement induced resonances.
+For spin polarized fermions in quasi-1D wave guides it imposes a strong
+constraint on the atomic density for achieving the Fermi Tonks Girardeau gas.
+For a planar wave guide, the charateristics of the 2D induced scattering
+resonances in $p$- and d-wave are determined as a function of the 3D scattering
+parameters and of the wave guide frequency.

@@ -1,0 +1,6 @@
+We present an algorithm for constructing an optimal slate of sponsored search
+advertisements which respects the ordering that is the outcome of a generalized
+second price auction, but which must also accommodate complicating factors such
+as overall budget constraints. The algorithm is easily fast enough to use on
+the fly for typical problem sizes, or as a subroutine in an overall
+optimization.

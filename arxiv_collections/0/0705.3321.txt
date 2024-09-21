@@ -1,0 +1,5 @@
+For the 1-dimensional Kuramoto-Sivashinsky equation with random forcing term,
+existence and uniqueness of solutions is proved. Then, the Markovian semigroup
+is well defined; its properties are analyzed, in order to provide sufficient
+conditions for existence and uniqueness of invariant measures for this
+stochastic equation. Finally, regularity results are presented.

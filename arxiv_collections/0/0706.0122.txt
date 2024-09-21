@@ -1,0 +1,11 @@
+A granular instability driven by gravity is studied experimentally and
+numerically. The instability arises as grains fall in a closed Hele-Shaw cell
+where a layer of dense granular material is positioned above a layer of air.
+The initially flat front defined by the grains subsequently develops into a
+pattern of falling granular fingers separated by rising bubbles of air. A
+transient coarsening of the front is observed right from the start by a finger
+merging process. The coarsening is later stabilized by new fingers growing from
+the center of the rising bubbles. The structures are quantified by means of
+Fourier analysis and quantitative agreement between experiment and computation
+is shown. This analysis also reveals scale invariance of the flow structures
+under overall change of spatial scale.

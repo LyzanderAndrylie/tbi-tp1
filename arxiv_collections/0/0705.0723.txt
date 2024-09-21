@@ -1,0 +1,4 @@
+Assuming the Riemann Hypothesis we establish an upper bound for the sum of
+the M{\" o}bius function up to $x$. Our method is based on estimating the
+frequency with which intervals of a given length can contain an unusual number
+of ordinates of zeros of the Riemann zeta-function.

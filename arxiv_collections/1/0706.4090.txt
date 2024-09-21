@@ -1,0 +1,10 @@
+We study the motion of charged Brownian particles in an external magnetic
+field. It is found that a correlation appears between the components of
+particle velocity in the case of anisotropic friction, approaching
+asymptotically zero in the stationary limit. If magnetic field is smaller
+compared to the critical value, determined by frictional anisotropy, the
+relaxation of the correlation is non-oscillating in time. However, in a larger
+magnetic field this relaxation becomes oscillating. The phenomenon is related
+to the statistical dependence of the components of transformed random force
+caused by the simultaneous influence of magnetic field and anisotropic
+dissipation.

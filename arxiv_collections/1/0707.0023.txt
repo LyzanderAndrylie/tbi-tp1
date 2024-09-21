@@ -1,0 +1,5 @@
+We extend the 1/N_c meson-baryon scattering formalism to pi N to multi-pi N
+case. We first show that the leading-order large N_c processes proceed through
+resonant intermediate states (e.g., rho N or pi Delta). We find that the pole
+structure of baryon resonances can be uniquely identified by their
+(non)appearance in eta N or mixed partial-wave pi Delta final states.

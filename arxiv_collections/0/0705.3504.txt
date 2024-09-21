@@ -1,0 +1,13 @@
+We present molecular dynamics simulations of a realistic model of an
+ultrathin film of BaTiO$_3$ sandwiched between short-circuited electrodes to
+determine and understand effects of film thickness, epitaxial strain and the
+nature of electrodes on its ferroelectric phase transitions as a function of
+temperature. We determine a full epitaxial strain-temperature phase diagram in
+the presence of perfect electrodes. Even with the vanishing depolarization
+field, we find that ferroelectric phase transitions to states with in-plane and
+out-of-plane components of polarization exhibit dependence on thickness; it
+arises from the interactions of local dipoles with their electrostatic images
+in the presence of electrodes. Secondly, in the presence of relatively bad
+metal electrodes which only partly compensate the surface charges and
+depolarization field, a qualitatively different phase with stripe-like domains
+is stabilized at low temperature.

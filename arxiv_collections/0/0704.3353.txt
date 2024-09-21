@@ -1,0 +1,9 @@
+This paper deals with sensors which compute and report linguistic assessments
+of their values.Such sensors, called symbolic sensors are a natural extension
+of smart ones when working with control systems which use artificial
+intelligence based technics. After having recalled the smart sensor concepts,
+this paper introduces the symbolic sensor ones. Links between the physical
+world and the symbolic one are described. It is then shown how Zadeh's
+approximate reasoning theory provides a smart way to implement symbolic
+sensors. Finally, since the symbolic sensor is a general component, a
+functional adaptation to the measurement context is proposed.

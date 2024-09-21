@@ -1,0 +1,11 @@
+Recently J.N. Munday and F. Capasso [Phys. Rev. A {\bf 75}, 060102(R) (2007);
+arXiv:0705.3793] claimed that they have performed a precision measurement of
+the Casimir force between a sphere and a plate coated with Au, both immersed in
+ethanol. The measurement results were claimed to be consistent with the
+Lifshitz theory. We demonstrate that the calculation of the Casimir force
+between the smooth bodies following the authors prescription has a discrepancy
+up to 25% with respect to authors result. We show also that the attractive
+electrostatic force only due to the surface potential differences was
+underestimated by a factor of 590 and the charge double layer interaction was
+not taken into account. All this leads to the conclusion that the results of
+this experiment are in fact uncertain.

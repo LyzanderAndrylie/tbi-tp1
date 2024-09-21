@@ -1,0 +1,13 @@
+Attosecond pulses can be used to initiate and control electron dynamics on a
+sub-femtosecond time scale. The first step in this process occurs when an atom
+absorbs an ultraviolet photon leading to the formation of an attosecond
+electron wave packet (EWP). Until now, attosecond pulses have been used to
+create free EWPs in the continuum, where they quickly disperse. In this paper
+we use a train of attosecond pulses, synchronized to an infrared (IR) laser
+field, to create a series of EWPs that are below the ionization threshold in
+helium. We show that the ionization probability then becomes a function of the
+delay between the IR and attosecond fields. Calculations that reproduce the
+experimental results demonstrate that this ionization control results from
+interference between transiently bound EWPs created by different pulses in the
+train. In this way, we are able to observe, for the first time, wave packet
+interference in a strongly driven atomic system.

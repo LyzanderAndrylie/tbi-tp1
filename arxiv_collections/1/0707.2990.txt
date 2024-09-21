@@ -1,0 +1,20 @@
+Au+Au, $s^{1/2} = 200$ A GeV measurements at RHIC, obtained with the PHENIX,
+STAR, PHOBOS and BRAHMS detectors, have all indicated a suppression of neutral
+pion production, relative to an appropriately normalized NN level. For central
+collisions and vanishing pseudo-rapidity these experiments exhibit suppression
+in charged meson production, especially at medium to large transverse momenta.
+In the PHENIX experiment similar behavior has been reported for $\pi^0$
+spectra.
+  In a recent work on the simpler D+Au interaction, to be considered perhaps as
+a tune-up for Au+Au, we reported on a pre-hadronic cascade mechanism which
+explains the mixed observation of moderately reduced $p_\perp$ suppression at
+higher pseudo-rapidity as well as the Cronin enhancement at mid-rapidity. Here
+we present the extension of this work to the more massive ion-ion collisions.
+  Our major thesis is that much of the suppression is generated in a late stage
+cascade of colourless pre-hadrons produced after an initial short-lived
+coloured phase. We present a pQCD argument to justify this approach and to
+estimate the time duration $\tau_p$ of this initial phase. Of essential
+importance is the brevity in time of the coloured phase existence relative to
+that of the strongly interacting pre-hadron phase. The split into two phases is
+of course not sharp in time, but adequate for treating the suppression of
+moderate and high $p_\perp$ mesons.

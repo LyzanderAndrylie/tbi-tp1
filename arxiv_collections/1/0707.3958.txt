@@ -1,0 +1,18 @@
+From the starting point of the well known Reynolds number of fluid turbulence
+we propose a control parameter $R$ for a wider class of systems including
+avalanche models that show Self Organized Criticality (SOC) and ecosystems. $R$
+is related to the driving and dissipation rates and from similarity analysis we
+obtain a relationship $R\sim N^{\beta_N}$ where $N$ is the number of degrees of
+freedom. The value of the exponent $\beta_N$ is determined by detailed
+phenomenology but its sign follows from our similarity analysis. For SOC,
+$R=h/\epsilon$ and we show that $\beta_N<0$ hence we show independent of the
+details that the transition to SOC is when $R \to 0$, in contrast to fluid
+turbulence, formalizing the relationship between turbulence (since $\beta_N
+>0$, $R \to \infty$) and SOC ($R=h/\epsilon\to 0$). A corollary is that SOC
+phenomenology, that is, power law scaling of avalanches, can persist for finite
+$R$ with unchanged exponent if the system supports a sufficiently large range
+of lengthscales; necessary for SOC to be a candidate for physical systems. We
+propose a conceptual model ecosystem where $R$ is an observable parameter which
+depends on the rate of throughput of biomass or energy; we show this has
+$\beta_N>0$, so that increasing $R$ increases the abundance of species,
+pointing to a critical value for species 'explosion'.

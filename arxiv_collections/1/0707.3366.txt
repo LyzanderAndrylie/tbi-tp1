@@ -1,0 +1,9 @@
+We define the pion-photon Transition Distribution Amplitudes (TDA) in a field
+theoretic formalism from a covariant Bethe-Salpeter approach for the
+determination of the bound state. We apply our formalism to the Nambu - Jona
+Lasinio model, as a realistic theory of the pion. The obtained vector and axial
+TDAs satisfy all features required by general considerations. In particular,
+sum rules and polynomiality condition are explicitly verified. We have
+numerically proved that the odd coefficients in the polynomiality expansion of
+the vector TDA vanish in the chiral limit. The role of PCAC and the presence of
+a pion pole are explicitly shown.

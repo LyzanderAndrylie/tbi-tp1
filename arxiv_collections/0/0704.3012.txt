@@ -1,0 +1,19 @@
+We present the first strong lensing study of the mass distribution in the
+cluster MS 2053-04 based on HST archive data. This massive, X-ray luminous
+cluster has a redshift z=0.583, and it is composed of two structures that are
+gravitationally bound to each other. The cluster has one multiply imaged system
+constituted by a double gravitational arc.
+  We have performed a parametric strong lensing mass reconstruction using NFW
+density profiles to model the cluster potential. We also included perturbations
+from 23 galaxies, modeled like elliptical singular isothermal sphere, that are
+approximately within 1'x1' around the cluster center. These galaxies were
+constrained in both the geometric and dynamical parameters with observational
+data. Our analysis predicts a third image which is slightly demagnified. We
+found a candidate for this counter-image near the expected position and with
+the same F702W-F814W colors as the gravitational arcs in the cluster. The
+results from the strong lensing model shows the complex structure in this
+cluster, the asymmetry and the elongation in the mass distribution, and are
+consistent with previous spectrophotometric results that indicate that the
+cluster has a bimodal mass distribution. Finally, the derived mass profile was
+used to estimate the mass within the arcs and for comparison with X-ray
+estimates.

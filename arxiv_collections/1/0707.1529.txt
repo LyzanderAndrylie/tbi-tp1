@@ -1,0 +1,9 @@
+We derive the power of direct radiation into free space induced by Josephson
+oscillations in intrinsic Josephson junctions of highly anisotropic layered
+superconductors. We consider the super-radiation regime for a crystal cut in
+the form of a thin slice parallel to the c-axis. We find that the radiation
+correction to the current-voltage characteristic in this regime depends only on
+crystal shape. We show that at large enough number of junctions oscillations
+are synchronized providing high radiation power and efficiency in the THz
+frequency range. We discuss crystal parameters and bias current optimal for
+radiation power and crystal cooling.

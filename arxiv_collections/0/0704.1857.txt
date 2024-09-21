@@ -1,0 +1,19 @@
+An end-grafted flexible polymer chain in 3d space between two pistons
+undergoes an abrupt transition from a confined coil to a flower-like
+conformation when the number of monomers in the chain, N, reaches a critical
+value. In 2d geometry, excluded volume interactions between monomers of a chain
+confined inside a strip of finite length 2L transform the coil conformation
+into a linear string of blobs. However, the blob picture raises questions on
+the nature of this escape transition. To check the theoretical predictions
+based on the blob picture we study 2d single polymer chains with excluded
+volume interactions and with one end grafted in the middle of a strip of length
+  2L and width H by simulating self-avoiding walks on a square lattice with the
+pruned-enriched-Rosenbluth method (PERM). We estimate the free energy, the
+end-to-end distance, the number of imprisoned monomers, the order parameter,
+and its distribution. It is shown that in the thermodynamic limit of large N
+and L but finite L/N, there is a small but finite jump in several average
+characteristics, including the order parameter. We also present a theoretical
+description based on the Landau free energy approach, which is in good
+agreement with the simulation results. Both simulation results and the
+analytical theory indicate that the 2d escape transition is a weak first-order
+phase transition.

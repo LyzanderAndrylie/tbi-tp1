@@ -1,0 +1,24 @@
+A first principles analysis of order-disorder transition in alloys shows that
+ordering energy is a function of temperature due to thermal vibrations. The
+inter-nuclear potential energy term converges if zero point vibrations are
+incorporated and this method can replace the Ewald sum method. Core energy
+contributions to the ordering energy are stored exclusively in superlattice
+lines. The effect of electron-phonon interactions on ordering energy is of the
+same order of magnitude as ordering energy near transition temperatures and
+cannot be ignored. Ising model and variants are incorrect in explaining alloy
+phase transitions as they ignore the role of electron-phonon interactions
+without justification. A theoretical formalism that incorporates the
+Debye-Waller Factor component of electron-phonon interactions in electronic
+structure calculations already exists and must be adopted when modeling
+temperature dependent phenomena. It is suggested that DWF correction will
+account substantially for the discrepancy between experimental and theoretical
+ordering energy in Ni3V. Thermal vibrations alter magnetic ordering energy at
+finite temperatures. The role of electron-phonon interactions in alloy and
+magnetic phase transitions cannot be ignored and must be incorporated in all
+models. This will also ensure consistency with x-ray and electron diffraction
+(alloy transitions) and neutron diffraction (magnetic transitions) results. An
+isotope effect is predicted for (magnetic) phase transitions if the transition
+temperature is below Debye temperature. Recent observations of an isotope
+effect in magnetic phase transitions confirm our above conclusions and imply
+that the role of electron-phonon interactions must be incorporated in all
+theories and models of magnetism to avoid contradictions.

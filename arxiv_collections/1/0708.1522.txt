@@ -1,0 +1,15 @@
+The progress of semiconductor electronics toward ever-smaller length scales
+and associated higher power densities brings a need for new high-resolution
+thermal microscopy techniques. Traditional thermal microscopy is performed by
+detecting infrared radiation with far-field optics, where the resolution is
+limited by the wavelength of the light. By adopting a serial, local-probe
+approach, near-field and scanned-probe microscopies can surpass this limit but
+sacrifice imaging speed. In the same way that electron microscopy was invented
+to overcome the resolution limits of light microscopy, we here demonstrate a
+thermal imaging technique that uses an electron microscope to overcome the
+limits of infrared thermal microscopy, without compromising imaging speed. With
+this new technique, which we call electron thermal microscopy, temperature is
+resolved by detecting the liquid-solid transition of arrays of nanoscale
+islands, producing thermal maps in real-time (30 thermal images per second over
+a 16um^2 field-of-view). The experimental demonstration is supported by
+combined electrical and thermal modeling.

@@ -1,0 +1,10 @@
+Optimal generalized measurements for state estimation are well understood.
+However, practical quantum state tomography is typically performed using a
+fixed set of projective measurements and the question of how to choose these
+measurements has been largely unexplored in the literature. In this work we
+develop theoretical asymptotic bounds for the average fidelity of pure qubit
+tomography using measurement sets whose axes correspond to vertices of Platonic
+solids. We also present complete simulations of maximum likelihood tomography
+for mixed qubit states using the Platonic solid measurements. We show that
+overcomplete measurement sets can be used to improve the accuracy of
+tomographic reconstructions.

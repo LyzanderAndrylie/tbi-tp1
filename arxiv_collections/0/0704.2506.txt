@@ -1,0 +1,8 @@
+We prove well-posedness of the initial value problem for the Einstein
+equations for spatially-homogeneous cosmologies with data at an isotropic
+cosmological singularity, for which the matter content is either a cosmological
+constant with collisionless particles of a single mass (possibly zero) or a
+cosmological constant with a perfect fluid having the radiation equation of
+state. In both cases, with a positive cosmological constant, these solutions,
+except possibly for Bianchi-type-IX, will expand forever, and be
+geodesically-complete into the future.

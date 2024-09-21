@@ -1,0 +1,9 @@
+We present results of a direct search for the decay KS --> e+e- with the KLOE
+detector, obtained with a sample of e+e- --> phi --> KSKL events produced at
+DAFNE, the Frascati phi-factory, for an integrated luminosity of 1.3fb-1. The
+Standard Model prediction for this decay is BR(KS --> e+e-) = 1.6*10^-15. The
+search has been performed tagging the KS decays by simultaneous detection of a
+KL interaction in the calorimeter. Background rejection has been optimized by
+using both kinematic cuts and particle identification. At the end of the
+analysis chain we find BR(KS --> e+e-) < 2.1*10^-8 at 90% CL, which improves by
+a factor of ~7 on the previous best result, obtained by CPLEAR experiment.

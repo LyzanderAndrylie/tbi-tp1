@@ -1,0 +1,8 @@
+The heat kernel in curved space-time is computed to fourth order in a strict
+expansion in the number of covariant derivatives. The computation is made for
+arbitrary non abelian gauge and scalar fields and for the Riemann connection in
+the coordinate sector. The expressions obtained hold for arbitrary tensor
+representations of the matter field. Complete results are presented for the
+diagonal matrix elements and for the trace of the heat kernel operator. In
+addition, Chan's formula is extended to curved space-time. As a byproduct, the
+bosonic effective action is also obtained to fourth order.

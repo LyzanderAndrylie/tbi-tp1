@@ -1,0 +1,14 @@
+We have studied zigzag and armchair graphene nano ribbons (GNRs), described
+by the Hubbard Hamiltonian using quantum many body configuration interaction
+methods. Due to finite termination, we find that the bipartite nature of the
+graphene lattice gets destroyed at the edges making the ground state of the
+zigzag GNRs a high spin state, whereas the ground state of the armchair GNRs
+remains a singlet. Our calculations of charge and spin densities suggest that,
+although the electron density prefers to accumulate on the edges, instead of
+spin polarization, the up and down spins prefer to mix throughout the GNR
+lattice. While the many body charge gap results in insulating behavior for both
+kinds of GNRs, the conduction upon application of electric field is still
+possible through the edge channels because of their high electron density.
+Analysis of optical states suggest differences in quantum efficiency of
+luminescence for zigzag and armchair GNRs, which can be probed by simple
+experiments.

@@ -1,0 +1,18 @@
+We present a novel experiment with the capacity to independently measure both
+the electron density and the magnetic field of the solar corona. We achieve
+this through measurement of the excess Faraday rotation due to propagation of
+the polarised emission from a number of pulsars through the magnetic field of
+the solar corona. This method yields independent measures of the integrated
+electron density, via dispersion of the pulsed signal and the magnetic field,
+via the amount of Faraday rotation. In principle this allows the determination
+of the integrated magnetic field through the solar corona along many lines of
+sight without any assumptions regarding the electron density distribution. We
+present a detection of an increase in the rotation measure of the pulsar
+J1801$-$2304 of approximately 160 \rad at an elongation of 0.95$^\circ$ from
+the centre of the solar disk. This corresponds to a lower limit of the magnetic
+field strength along this line of sight of $> 393\mu\mathrm{G}$. The lack of
+precision in the integrated electron density measurement restricts this result
+to a limit, but application of coronal plasma models can further constrain this
+to approximately 20mG, along a path passing 2.5 solar radii from the solar
+limb. Which is consistent with predictions obtained using extensions to the
+Source Surface models published by Wilcox Solar Observatory

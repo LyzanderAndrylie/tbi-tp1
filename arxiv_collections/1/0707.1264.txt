@@ -1,0 +1,21 @@
+We perform a theoretical study of the nonlinear optical response of an
+ultrathin film consisting of oriented linear aggregates. A single aggregate is
+described by a Frenkel exciton Hamiltonian with uncorrelated on-site disorder.
+The exciton wave functions and energies are found exactly by numerically
+diagonalizing the Hamiltonian. The principal restriction we impose is that only
+the optical transitions between the ground state and optically dominant states
+of the one-exciton manifold are considered, whereas transitions to other
+states, including those of higher exciton manifolds, are neglected. The optical
+dynamics of the system is treated within the framework of truncated optical
+Maxwell-Bloch equations in which the electric polarization is calculated by
+using a joint distribution of the transition frequency and the transition
+dipole moment of the optically dominant states. This function contains all the
+statistical information about these two quantities that govern the optical
+response, and is obtained numerically by sampling many disorder realizations.
+We derive a steady-state equation that establishes a relationship between the
+output and input intensities of the electric field and show that within a
+certain range of the parameter space this equation exhibits a three-valued
+solution for the output field. A time-domain analysis is employed to
+investigate the stability of different branches of the three-valued solutions
+and to get insight into switching times. We discuss the possibility to
+experimentally verify the bistable behavior.

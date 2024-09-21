@@ -1,0 +1,11 @@
+In low temperature scanning tunneling microscopy (STM) experiments a cerium
+adatom on Ag(100) possesses two discrete states with significantly different
+apparent heights. These atomic switches also exhibit a Kondo-like feature in
+spectroscopy experiments. By extensive theoretical simulations we find that
+this behavior is due to diffusion of hydrogen from the surface onto the Ce
+adatom in the presence of the STM tip field. The cerium adatom possesses
+vibrational modes of very low energy (3-4meV) and very high efficiency (> 20%),
+which are due to the large changes of Ce-states in the presence of hydrogen.
+The atomic vibrations lead to a Kondo-like feature at very low bias voltages.
+We predict that the same low-frequency/high-efficiency modes can also be
+observed at lanthanum adatoms.

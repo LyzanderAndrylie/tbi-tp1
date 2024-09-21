@@ -1,0 +1,8 @@
+Let m,n be positive integers. Define T(m,n) to be the transportation polytope
+consisting of the m x n non-negative real matrices whose rows each sum to 1 and
+whose columns each sum to m/n. The special case B(n)=T(n,n) is the much-studied
+Birkhoff-von Neumann polytope of doubly-stochastic matrices. Using a recent
+asymptotic enumeration of non-negative integer matrices (Canfield and McKay,
+2007), we determine the asymptotic volume of T(m,n) as n goes to infinity, with
+m=m(n) such that m/n neither decreases nor increases too quickly. In
+particular, we give an asymptotic formula for the volume of B(n).

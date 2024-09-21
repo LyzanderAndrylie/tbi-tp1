@@ -1,0 +1,18 @@
+We discuss a recent experiment in which the resistance of a superconducting
+film has been measured in magnetic field. A strong decrease of the
+superconducting film resistance has been observed when a metallic gate is
+placed above the film. We study how the magnetic coupling between vortices in a
+thin superconducting film and electrons in a remote unbiased gate suppresses
+the tunneling rate of the vortices. We examine two general approaches to
+analyze tunneling in the presence of slow low-energy degrees of freedom: the
+functional-integral and scattering formalisms. In the first one, the response
+of the electrons inside the metallic gate to a change in the vortex position is
+described by the "tunneling with dissipation". We consider the Eddy current
+induced in the gate by the magnetic flux of the vortex as a result of
+tunneling. In the second approach, the response is given in terms of scattering
+of the electrons by the magnetic flux of the vortex in a way similar to the
+Aharonov-Bohm scattering. A sudden change in the vortex position leads to the
+Orthogonality Catastrophe that opposes the vortex tunneling. We show that the
+magnetic coupling between the vortices and the electrons inside the gate can
+lead to a dramatic suppression of the vortex tunneling, restoring the
+superconducting property in accord with the experiment.

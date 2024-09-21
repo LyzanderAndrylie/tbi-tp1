@@ -1,0 +1,8 @@
+Given our set-up of a system of curves and maps between them satisfying
+certain assumptions, we prove a classicality criterion for overconvergent
+sections of line bundles over these curves. As a result, we prove such criteria
+for overconvergent modular forms over various Shimura curves. In particular, we
+provide a classicality criterion for overconvergent modular forms studied in
+[Kassaei: P-adic modular forms over Shimura curves over totally real fields,
+Compositio Math. 140 (2004), no 2, 359-395] and their higher-level
+generalizations.

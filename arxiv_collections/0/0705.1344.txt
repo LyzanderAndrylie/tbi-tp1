@@ -1,0 +1,8 @@
+The aim of this paper is to classify one family of 3R serial positioning
+manipulators. This categorization is based on the number of cusp points of
+quaternary, binary, generic and non-generic manipulators. It was found three
+subsets of manipulators with 0, 2 or 4 cusp points and one homotopy class for
+generic quaternary manipulators. This classification allows us to define the
+design parameters for which the manipulator is cuspidal or not, i.e., for which
+the manipulator can or cannot change posture without meeting a singularity,
+respectively.

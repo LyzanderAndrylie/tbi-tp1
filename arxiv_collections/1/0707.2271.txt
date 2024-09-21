@@ -1,0 +1,7 @@
+We study the entanglement capability of the evolution of a pair of qubits
+evolving under unitary dynamics, when the local dynamical parameters cannot be
+modified during the time-evolution. Unlike the fast local control regime, we
+find that local and non-local contributions to the dynamics are strictly
+interconnected. Moreover, it is possible to strongly increase the entanglement
+capability by suitably initializing the characteristic energies of the two
+parties.

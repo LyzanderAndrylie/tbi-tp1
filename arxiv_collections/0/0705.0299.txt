@@ -1,0 +1,10 @@
+We propose a model for charge transfer mechanism in Y0.8(Ca)0.2Ba2Cu3O6+x to
+count hole doping of CuO2 planes and x dependence of critical transition
+temperature T_c. It is assumed the total number of doped holes in the planes is
+sum of holes that are introduced through two separate channels: substitution of
+Y3+ by Ca2+ and from CuO chains that are longer than a minimal (critical)
+length l_min needed for charge transfer to take place. The T_c(x) dependence is
+obtained by combining calculated x dependence of doping, p(x), and universal
+T_c versus p relation. Although calculated T_c(x) dependences for l_min=3 and
+l_min=4 both remarkably correlate to the experimental T_c(x), we argue that the
+value l_min=4 gives a reasonable overall agreement.

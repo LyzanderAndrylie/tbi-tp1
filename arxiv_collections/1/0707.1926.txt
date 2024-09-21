@@ -1,0 +1,3 @@
+I prove that in a tree in which the distance between any two endpoints is
+even, there is a maximum proper partial 0-1 coloring such that the edges
+colored by 0 form a maximum matching.

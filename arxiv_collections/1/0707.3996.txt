@@ -1,0 +1,5 @@
+A simple string model inspired by the strong-coupling regime of Quantum
+ChromoDynamics is used as a potential for studying the spectrum of multiquark
+systems with two quarks and two antiquarks, with a careful treatment of the
+four-body problem. It is found that the ground state is stable, lying below the
+threshold for dissociation into two isolated mesons.

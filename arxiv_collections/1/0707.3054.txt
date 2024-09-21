@@ -1,0 +1,9 @@
+We propose an implementation of the quantum search algorithm of a marked item
+in an unsorted list of N items by adiabatic passage in a cavity-laser-atom
+system. We use an ensemble of N identical three-level atoms trapped in a
+single-mode cavity and driven by two lasers. In each atom, the same level
+represents a database entry. One of the atoms is marked by having an energy gap
+between its two ground states. Appropriate time delays between the two laser
+pulses allow one to populate the marked state starting from an initial
+entangled state within a decoherence-free adiabatic subspace. The time to
+achieve such a process is shown to exhibit the Grover speedup.

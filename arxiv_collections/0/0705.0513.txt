@@ -1,0 +1,6 @@
+Lunar laser ranging analysis, as regularly performed in the solar system
+barycentric frame, requires the presence of the gravitomagnetic term in the
+equation of motion at the strength predicted by general relativity. The same
+term is responsible for the Lense Thirring effect. Any attempt to modify the
+strength of the gravitomagnetic interaction would have to do so in a way that
+does not destroy the fit to lunar ranging data and other observations.

@@ -1,0 +1,13 @@
+Silicon-based CMOS technologies are predicted to reach their ultimate limits
+by the middle of the next decade. Research on nanotechnologies is actively
+conducted, in a world-wide effort to develop new technologies able to maintain
+the Moore's law. They promise revolutionizing the computing systems by
+integrating tremendous numbers of devices at low cost. These trends will have a
+profound impact on the architectures of computing systems and will require a
+new paradigm of CAD. The paper presents a work in progress on this direction.
+It is aimed at fitting requirements and constraints of nanotechnologies, in an
+effort to achieve efficient use of the huge computing power promised by them.
+To achieve this goal we are developing CAD tools able to exploit efficiently
+these huge computing capabilities promised by nanotechnologies in the domain of
+simulation of complex systems composed by huge numbers of relatively simple
+elements.

@@ -1,0 +1,10 @@
+The transmission of fermions of mass m and energy E through an electrostatic
+potential barrier of rectangular shape (i.e. supporting an infinite electric
+field), of height U> E + m - due to the many-body nature of the Dirac equation
+evidentiated by the Klein paradox - has been widely studied. We exploit here
+the analytical solution, given by Sauter for the linearly rising potential
+step, to show that the tunnelling rate through a more realistic trapezoidal
+barrier is exponentially depressed, as soon as the length of the regions
+supporting a finite electric field exceeds the Compton wavelenght of the
+particle - the latter circumstance being hardly escapable in most realistic
+cases.

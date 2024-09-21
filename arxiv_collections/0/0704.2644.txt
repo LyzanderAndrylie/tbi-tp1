@@ -1,0 +1,9 @@
+The problem of joint universal source coding and modeling, treated in the
+context of lossless codes by Rissanen, was recently generalized to fixed-rate
+lossy coding of finitely parametrized continuous-alphabet i.i.d. sources. We
+extend these results to variable-rate lossy block coding of stationary ergodic
+sources and show that, for bounded metric distortion measures, any finitely
+parametrized family of stationary sources satisfying suitable mixing,
+smoothness and Vapnik-Chervonenkis learnability conditions admits universal
+schemes for joint lossy source coding and identification. We also give several
+explicit examples of parametric sources satisfying the regularity conditions.

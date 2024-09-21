@@ -1,0 +1,8 @@
+We introduce some applications of Stein's method in the high temperature
+analysis of spin glasses. Stein's method allows the direct analysis of the
+Gibbs measure without having to create a cavity. Another advantage is that it
+gives limit theorems with total variation error bounds, although the bounds can
+be suboptimal. A surprising byproduct of our analysis is a relatively
+transparent explanation of the Thouless-Anderson-Palmer system of equations.
+Along the way, we develop Stein's method for mixtures of two Gaussian
+densities.

@@ -1,0 +1,18 @@
+We study the properties of the chromohydrodynamical instabilities induced by
+a relativistic jet that crosses the quark-gluon plasma. Assuming that the jet
+of particles and the plasma can be described using a hydrodynamical approach,
+we derive and discuss the dispersion laws for the unstable collective modes. In
+our analysis the chromohydrodynamical equations for the collective modes are
+tackled in the linear response approximation. Such an approximation, valid for
+short time scales, allows to study in a straightforward way the dependence of
+the dispersion laws of the collective modes on the velocity of the jet, on the
+magnitude of the momentum of the collective mode and on the angle between these
+two quantities. We find that unstable modes arise for velocity of the jet
+larger than the speed of the sound of the plasma and only modes with momenta
+smaller than a certain values are unstable. Moreover, for ultrarelativistic
+velocities of the jet the longitudinal mode becomes stable and the most
+unstable modes correspond to relative angles between the velocity of the jet
+and momentum of the collective mode larger than $\sim \pi/8$. Our results
+suggest an alternative mechanism for the description of the jet quenching
+phenomenon, where the jet crossing the plasma loses energy exciting colored
+unstable modes.

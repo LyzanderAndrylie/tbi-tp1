@@ -1,0 +1,7 @@
+We present results of a search for the decays $B^0 \to \ell^+\ell^-\gamma$
+($\ell=e$, $\mu$). The search is performed using $320\times 10^{6}$ $B\bar{B}$
+pairs collected at the $\Upsilon(4S)$ resonance with the BABAR detector at the
+PEP-II $B$ Factory at SLAC. We find no significant signal and set the following
+branching fraction upper limits at the 90% confidence level:
+$\mathcal{B}(B^0\to e^+e^-\gamma)<1.2\times 10^{-7}$ and $\mathcal{B}(B^0\to
+\mu^+\mu^-\gamma)<1.5\times 10^{-7}$.

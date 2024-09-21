@@ -1,0 +1,9 @@
+1/f noise in current biased La0.82Ca0.18MnO3 crystals has been investigated.
+The temperature dependence of the noise follows the resistivity changes with
+temperature suggesting that resistivity fluctuations constitute a fixed
+fraction of the total resistivity, independently of the dissipation mechanism
+and magnetic state of the system. The noise scales as a square of the current
+as expected for equilibrium resistivity fluctuations. However, at 77 K at bias
+exceeding some threshold, the noise intensity starts to decrease with
+increasing bias. The appearance of nonequilibrium noise is interpreted in terms
+of bias dependent multi-step indirect tunneling.

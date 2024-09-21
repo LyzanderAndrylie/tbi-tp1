@@ -1,0 +1,10 @@
+Discrete Fourier transform (DFT) is the base of modern signal or information
+processing. 1-Dimensional fast Fourier transform (1D FFT) and 2D FFT have time
+complexity O(NlogN) and O(N^2logN) respectively. Quantum 1D and 2D DFT
+algorithms with classical output (1D QDFT and 2D QDFT) are presented in this
+paper. And quantum algorithm for convolution estimation is also presented in
+this paper. Compared with FFT, QDFT has two advantages at least. One of
+advantages is that 1D and 2D QDFT has time complexity O(sqrt(N)) and O(N)
+respectively. The other advantage is that QDFT can process very long signal
+sequence at a time. QDFT and quantum convolution demonstrate that quantum
+signal processing with classical output is possible.

@@ -1,0 +1,9 @@
+We propose two alternatives to Xu's axiomatization of the Chellas STIT. The
+first one also provides an alternative axiomatization of the deliberative STIT.
+The second one starts from the idea that the historic necessity operator can be
+defined as an abbreviation of operators of agency, and can thus be eliminated
+from the logic of the Chellas STIT. The second axiomatization also allows us to
+establish that the problem of deciding the satisfiability of a STIT formula
+without temporal operators is NP-complete in the single-agent case, and is
+NEXPTIME-complete in the multiagent case, both for the deliberative and the
+Chellas' STIT.

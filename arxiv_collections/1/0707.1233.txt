@@ -1,0 +1,17 @@
+A system with Bose-Einstein condensate is considered in the frame of the
+self-consistent mean-field approximation, which is conserving, gapless, and
+applicable for arbitrary interaction strengths and temperatures. The main
+attention is paid to the thorough analysis of the condensate and superfluid
+fractions in a wide region of interaction strengths and for all temperatures
+between zero and the critical point T_c. The normal and anomalous averages are
+shown to be of the same order for almost all interactions and temperatures,
+except the close vicinity of T_c. But even in the vicinity of the critical
+temperature, the anomalous average cannot be neglected, since only in the
+presence of the latter the phase transition at T_c becomes of second order, as
+it should be. Increasing temperature influences the condensate and superfluid
+fractions in a similar way, by diminishing them. But their behavior with
+respect to the interaction strength is very different. For all temperatures,
+the superfluid fraction is larger than the condensate fraction. These coincide
+only at T_c or under zero interactions. For asymptotically strong interactions,
+the condensate is almost completely depleted, even at low temperatures, while
+the superfluid fraction can be close to one.

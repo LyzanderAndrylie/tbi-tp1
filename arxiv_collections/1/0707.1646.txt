@@ -1,0 +1,18 @@
+We consider the problem of fuzzy community detection in networks, which
+complements and expands the concept of overlapping community structure. Our
+approach allows each vertex of the graph to belong to multiple communities at
+the same time, determined by exact numerical membership degrees, even in the
+presence of uncertainty in the data being analyzed. We created an algorithm for
+determining the optimal membership degrees with respect to a given goal
+function. Based on the membership degrees, we introduce a new measure that is
+able to identify outlier vertices that do not belong to any of the communities,
+bridge vertices that belong significantly to more than one single community,
+and regular vertices that fundamentally restrict their interactions within
+their own community, while also being able to quantify the centrality of a
+vertex with respect to its dominant community. The method can also be used for
+prediction in case of uncertainty in the dataset analyzed. The number of
+communities can be given in advance, or determined by the algorithm itself
+using a fuzzified variant of the modularity function. The technique is able to
+discover the fuzzy community structure of different real world networks
+including, but not limited to social networks, scientific collaboration
+networks and cortical networks with high confidence.

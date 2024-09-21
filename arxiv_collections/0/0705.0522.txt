@@ -1,0 +1,8 @@
+Anderson's orthogonality catastrophe in graphene, at energies close to the
+Dirac point, is analyzed. It is shown that, in clean systems, the orthogonality
+catastrophe is suppressed, due to the vanishing density of states at the Dirac
+point. In the presence of preexisting localized states at the Dirac energy, the
+orthogonality catastrophe shows similar features to those found in normal
+metals with a finite density of states at the Fermi level. The implications for
+the Kondo effect induced by magnetic impurities, and for the Fermi edge
+singularities in tunneling processes are also discussed.

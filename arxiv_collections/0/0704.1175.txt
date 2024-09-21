@@ -1,0 +1,7 @@
+Two identical 1D autocatalytic systems with Gray--Scott kinetics--driven
+towards convectively unstable regimes and submitted to independent
+spatiotemporal Gaussian white noises--are coupled unidirectionally, but
+otherwise linearly. Numerical simulation then reveals that (even when perturbed
+by noise) the slave system replicates the convective patterns arising in the
+master one to a very high degree of precision, as indicated by several measures
+of synchronization.

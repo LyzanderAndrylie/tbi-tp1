@@ -1,0 +1,7 @@
+Hitchin shows that half-flat SU(3)-structures on a 6-dimensional manifold M
+can be lifted to parallel G_{2}-structure on the product $M\times\mathbb{R}$.
+We show that Hitchin's approach can also be used to construct nearly parallel
+G_{2}-structures by lifting so-called nearly half-flat structures. These
+SU(3)-structures are described by pairs $(\omega,\phi)$ of stable 2- and
+3-forms with $d\phi=\lambda\omega^{2}$ for some
+$\lambda\in\mathbb{R}\setminus\{0\}$.

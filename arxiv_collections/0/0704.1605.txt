@@ -1,0 +1,9 @@
+In this work we show that is possible to obtain Total Quantum Zeno Effect in
+an unstable systems for times larger than the correlation time of the bath. The
+effect is observed for some particular systems in which one can chose
+appropriate observables which frequent measurements freeze the system into the
+initial state. For a two level system in a squeezed bath one can show that
+there are two bath dependent observables displaying Total Zeno Effect when the
+system is initialized in some particular states. We show also that these states
+are intelligent states of two conjugate observables associated to the
+electromagnetic fluctuations of the bath.

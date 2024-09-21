@@ -1,0 +1,11 @@
+Promoted by the recent progress of Berry phase physics in spin
+galvanomagnetic communities, we develop a systematic derivation of the reduced
+Keldysh equation (RKE) which captures the low-energy dynamics of
+quasi-particles constrained within doubly degenerate bands forming a single
+Fermi surface. Specifically, we project out the fully occupied/empty band
+degrees of freedom perturbatively in the gradient expansion, whose coupling
+constant measures how a system is disequilibrated. As for the electron-electron
+interactions, however, we only employ the so-called adiabatic assumption of the
+Fermi liquid theory, so that the effect of electron correlations onto the
+adiabatic transport of quasi-particles, i.e. the hermitian (real) part of the
+self-energy, is taken into account in an unbiased manner.

@@ -1,0 +1,10 @@
+Proteins are known to locate their specific targets on DNA up to two orders
+of magnitude faster than predicted by the Smoluchowski three-dimensional
+diffusion rate. One of the mechanisms proposed to resolve this discrepancy is
+termed "intersegment transfer". Many proteins have two DNA binding sites and
+can transfer from one DNA segment to another without dissociation to water. We
+calculate the target search rate for such proteins in a dense globular DNA,
+taking into account intersegment transfer working in conjunction with DNA
+motion and protein sliding along DNA. We show that intersegment transfer plays
+a very important role in cases where the protein spends most of its time
+adsorbed on DNA.

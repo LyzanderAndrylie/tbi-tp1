@@ -1,0 +1,6 @@
+We prove a non-standard functional limit theorem for a two dimensional simple
+random walk on some randomly oriented lattices. This random walk, already known
+to be transient, has different horizontal and vertical fluctuations leading to
+different normalizations in the functional limit theorem, with a non-Gaussian
+horizontal behavior. We also prove that the horizontal and vertical components
+are not asymptotically independent.

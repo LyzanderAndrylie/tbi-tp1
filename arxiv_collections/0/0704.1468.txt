@@ -1,0 +1,7 @@
+The Feynman propagator has nonzero values outside of the forward light cone.
+That does not allow messages to be transmitted faster than the speed of light,
+but it is shown here that it does allow entanglement and mutual information to
+be generated at space-like separated points. These effects can be interpreted
+as being due to the propagation of virtual photons outside of the light cone or
+as a transfer of pre-existing entanglement from the quantum vacuum. The
+differences between these two interpretations are discussed.

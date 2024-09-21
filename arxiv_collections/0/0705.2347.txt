@@ -1,0 +1,8 @@
+We consider the bosonic and fermionic symmetries of five-dimensional Maxwell-
+and Yang-Mills-Einstein supergravity theories on a spacetime with boundaries
+(isomorphic to M x S1/Z2). Due to the appearance of the "Chern-Simons" term,
+the classical action is not generally invariant under gauge and
+supersymmetries. Once bulk vector fields are allowed to propagate on the
+boundaries, there is an "inflow" governed by the rank-3 symmetric tensor that
+defines the five-dimensional theories. We discuss the requirements that
+invariance of the action imposes on new matter content and boundary conditions.

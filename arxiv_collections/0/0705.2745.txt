@@ -1,0 +1,24 @@
+[Abridged] In galactic nuclei with sufficiently short relaxation times,
+binary supermassive black holes can evolve beyond their stalling radii via
+continued interaction with stars. We study this "collisional" evolutionary
+regime using both fully self-consistent N-body integrations and approximate
+Fokker-Planck models. The N-body integrations employ particle numbers up to
+0.26M and a direct-summation potential solver; close interactions involving the
+binary are treated using a new implementation of the Mikkola-Aarseth chain
+regularization algorithm. Even at these large values of N, two-body scattering
+occurs at high enough rates in the simulations that they can not be simply
+scaled to the large-N regime of real galaxies. The Fokker-Planck model is used
+to bridge this gap; it includes, for the first time, binary-induced changes in
+the stellar density and potential. The Fokker-Planck model is shown to
+accurately reproduce the results of the N-body integrations, and is then
+extended to the much larger N regime of real galaxies. Analytic expressions are
+derived that accurately reproduce the time dependence of the binary semi-major
+axis as predicted by the Fokker-Planck model. Gravitational wave coalescence is
+shown to occur in <10 Gyr in nuclei with velocity dispersions below about 80
+km/s. Formation of a core results from a competition between ejection of stars
+by the binary and re-supply of depleted orbits via two-body scattering. Mass
+deficits as large as ~4 times the binary mass are produced before coalescence.
+After the two black holes coalesce, a Bahcall-Wolf cusp appears around the
+single hole in one relaxation time, resulting in a nuclear density profile
+consisting of a flat core with an inner, compact cluster, similar to what is
+observed at the centers of low-luminosity spheroids.

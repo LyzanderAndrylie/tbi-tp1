@@ -1,0 +1,13 @@
+We study quantum trajectories of collective atomic spin states of $N$
+effective two-level atoms driven with laser and cavity fields. We show that
+interesting ``entangled-state cycles'' arise probabilistically when the (Raman)
+transition rates between the two atomic levels are set equal. For odd (even)
+$N$, there are $(N+1)/2$ ($N/2$) possible cycles. During each cycle the
+$N$-qubit state switches, with each cavity photon emission, between the states
+$(|N/2,m>\pm |N/2,-m>)/\sqrt{2}$, where $|N/2,m>$ is a Dicke state in a rotated
+collective basis. The quantum number $m$ ($>0$), which distinguishes the
+particular cycle, is determined by the photon counting record and varies
+randomly from one trajectory to the next. For even $N$ it is also possible,
+under the same conditions, to prepare probabilistically (but in steady state)
+the Dicke state $|N/2,0>$, i.e., an $N$-qubit state with $N/2$ excitations,
+which is of particular interest in the context of multipartite entanglement.

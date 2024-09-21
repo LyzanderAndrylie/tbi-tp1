@@ -1,0 +1,17 @@
+To enlighten the nature of the order-disorder and order-order transitions in
+block copolymer melts confined in narrow capillaries we analyze peculiarities
+of the conventional Landau weak crystallization theory of systems confined to
+cylindrical geometry. This phenomenological approach provides a quantitative
+classification of the cylindrical ordered morphologies by expansion of the
+order parameter spatial distribution into the eigenfunctions of the Laplace
+operator. The symmetry of the resulting ordered morphologies is shown to
+strongly depend both on the boundary conditions (wall preference) and the ratio
+of the cylinder radius and the wave length of the critical order parameter
+fluctuations, which determine the bulk ordering of the system under
+consideration. In particular, occurrence of the helical morphologies is a
+rather general consequence of the imposed cylindrical symmetry for narrow
+enough capillaries. We discuss also the ODT and OOT involving some other
+simplest morphologies. The presented results are relevant also to other
+ordering systems as charge-density waves appearing under addition of an ionic
+solute to a solvent in its critical region, weakly charged polyelectrolyte
+solutions in poor solvent, microemulsions etc.

@@ -1,0 +1,7 @@
+Dehornoy showed that the Artin braid groups $B_n$ are left-orderable. This
+ordering is discrete, but we show that, for $n >2$ the Dehornoy ordering, when
+restricted to certain natural subgroups, becomes a dense ordering. Among
+subgroups which arise are the commutator subgroup and the kernel of the Burau
+representation (for those $n$ for which the kernel is nontrivial). These
+results follow from a characterization of least positive elements of any normal
+subgroup of $B_n$ which is discretely ordered by the Dehornoy ordering.

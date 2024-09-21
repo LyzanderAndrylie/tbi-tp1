@@ -1,0 +1,6 @@
+We find a protocol transmitting two quantum states crossly in the butterfly
+network only with prior entanglement between two senders. This protocol
+requires only one qubit transmission or two classical bits transmission in each
+channel in the butterfly network. It is also proved that it is impossible
+without prior entanglement. More precisely, an upper bound of average fidelity
+is given in the butterfly network when prior entanglement is not allowed.

@@ -1,0 +1,7 @@
+We derive a new recursion relation to obtain the Feynman diagrams of the
+Cornwall-Jackiw-Toumboulis(CJT) effective action by using the functional
+derivative identities. By using this recursion relation we show the
+two-particle-irreducibility of the Feynman diagrams of the CJT effective action
+by induction. We apply the recursion relation to obtain the Feynman diagrams of
+the CJT effective action up to the four-loop order in case of the bosonic field
+theory.

@@ -1,0 +1,11 @@
+I present an overview of pulse propagation methods used in nonlinear optics,
+covering both full-field and envelope-and-carrier methods. Both wideband and
+narrowband cases are discussed. Three basic forms are considered -- those based
+on (a) Maxwell's equations, (b) directional fields, and (c) the second order
+wave equation. While Maxwell's equations simulators are the most general,
+directional field methods can give significant computational and conceptual
+advantages. Factorizations of the second order wave equation complete the set
+by being the simplest to understand. One important conclusion is that that
+envelope methods based on forward-only directional field propagation has made
+the traditional envelope methods (such as the SVEA, and extensions) based on
+the second order wave equation utterly redundant.

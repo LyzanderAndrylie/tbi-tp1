@@ -1,0 +1,20 @@
+The numerical analysis of strongly interacting nanostructures requires
+powerful techniques. Recently developed methods, such as the time-dependent
+density matrix renormalization group (tDMRG) approach or the embedded-cluster
+approximation (ECA), rely on the numerical solution of clusters of finite size.
+For the interpretation of numerical results, it is therefore crucial to
+understand finite-size effects in detail. In this work, we present a careful
+finite-size analysis for the examples of one quantum dot, as well as three
+serially connected quantum dots. Depending on odd-even effects, physically
+quite different results may emerge from clusters that do not differ much in
+their size. We provide a solution to a recent controversy over results obtained
+with ECA for three quantum dots. In particular, using the optimum clusters
+discussed in this paper, the parameter range in which ECA can reliably be
+applied is increased, as we show for the case of three quantum dots. As a
+practical procedure, we propose that a comparison of results for static
+quantities against those of quasi-exact methods, such as the ground-state
+density matrix renormalization group (DMRG) method or exact diagonalization,
+serves to identify the optimum cluster type. In the examples studied here, we
+find that to observe signatures of the Kondo effect in finite systems, the best
+clusters involving dots and leads must have a total z-component of the spin
+equal to zero.

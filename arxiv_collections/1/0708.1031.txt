@@ -1,0 +1,18 @@
+We derive a correct first-order perturbation theory in electromagnetism for
+cases where an interface between two anisotropic dielectric materials is
+slightly shifted. Most previous perturbative methods give incorrect results for
+this case, even to lowest order, because of the complicated discontinuous
+boundary conditions on the electric field at such an interface. Our final
+expression is simply a surface integral, over the material interface, of the
+continuous field components from the unperturbed structure. The derivation is
+based on a "localized" coordinate-transformation technique, which avoids both
+the problem of field discontinuities and the challenge of constructing an
+explicit coordinate transformation by taking a limit in which a coordinate
+perturbation is infinitesimally localized around the boundary. Not only is our
+result potentially useful in evaluating boundary perturbations, e.g. from
+fabrication imperfections, in highly anisotropic media such as many
+metamaterials, but it also has a direct application in numerical
+electromagnetism. In particular, we show how it leads to a sub-pixel smoothing
+scheme to ameliorate staircasing effects in discretized simulations of
+anisotropic media, in such a way as to greatly reduce the numerical errors
+compared to other proposed smoothing schemes.

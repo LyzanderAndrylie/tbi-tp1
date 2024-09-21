@@ -1,0 +1,23 @@
+Observations by the Cores to Disk Legacy Team with the Spitzer Space
+Telescope have identified a low luminosity, mid-infrared source within the
+dense core, Lynds 1014, which was previously thought to harbor no internal
+source. Followup near-infrared and submillimeter interferometric observations
+have confirmed the protostellar nature of this source by detecting scattered
+light from an outflow cavity and a weak molecular outflow. In this paper, we
+report the detection of cm continuum emission with the VLA. The emission is
+characterized by a quiescent, unresolved 90 uJy 6 cm source within 0.2" of the
+Spitzer source. The spectral index of the quiescent component is $\alpha =
+0.37\pm 0.34$ between 6 cm and 3.6 cm. A factor of two increase in 6 cm
+emission was detected during one epoch and circular polarization was marginally
+detected at the $5\sigma$ level with Stokes {V/I} $= 48 \pm 16$% . We have
+searched for 22 GHz H2O maser emission toward L1014-IRS, but no masers were
+detected during 7 epochs of observations between June 2004 and December 2006.
+L1014-IRS appears to be a low-mass, accreting protostar which exhibits cm
+emission from a thermal jet or a wind, with a variable non-thermal emission
+component. The quiescent cm radio emission is noticeably above the correlation
+of 3.6 cm and 6 cm luminosity versus bolometric luminosity, indicating more
+radio emission than expected. We characterize the cm continuum emission in
+terms of observations of other low-mass protostars, including updated
+correlations of centimeter continuum emission with bolometric luminosity and
+outflow force, and discuss the implications of recent larger distance estimates
+on the physical attributes of the protostar and dense molecular core.

@@ -1,0 +1,11 @@
+We analyse the static solutions of attractive Bose-Einstein condensates under
+transverse confinement, both with and without axial confinement. By full
+numerical solution of the Gross-Pitaevskii equation and variational methods we
+map out the condensate solutions, their energetic properties, and their
+critical points for instability. With no axial confinement a bright solitary
+wave solution will tend to decay by dispersion unless the interaction energy is
+close to the critical value for collapse. In contrast, with axial confinement
+the only decay mechanism is collapse. The stability of a bright solitary wave
+solution increases with higher radial confinement. Finally we consider the
+stability of dynamical states containing up to four solitons and find good
+agreement with recent experiments.

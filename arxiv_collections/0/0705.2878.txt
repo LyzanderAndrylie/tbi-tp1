@@ -1,0 +1,10 @@
+We provide a mathematical analysis of appearance of the concentrations (as
+Dirac masses) of the solution to a Fokker-Planck system with asymmetric
+potentials. This problem has been proposed as a model to describe motor
+proteins moving along molecular filaments. The components of the system
+describe the densities of the different conformations of the proteins. Our
+results are based on the study of a Hamilton-Jacobi equation arising, at the
+zero diffusion limit, after an exponential transformation change of the phase
+function that rises a Hamilton-Jacobi equation. We consider different classes
+of conformation transitions coefficients (bounded, unbounded and locally
+vanishing).

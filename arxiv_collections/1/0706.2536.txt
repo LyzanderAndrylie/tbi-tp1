@@ -1,0 +1,13 @@
+We find an exact analytical solution of the reduced density matrix from the
+Feynman-Vernon influence functional theory for a wave packet influenced by an
+environment containing a few discrete modes. We obtain two intrinsic energy
+scales relating to the time scales of the system and the environment. Different
+relationship between these two scales alters the overall form of the solution
+of the system. We also introduce a decoherence measure for a single wave packet
+which is defined as the ratio of Schr\"odinger uncertainty over the
+delocalization extension of the wave packet and characterizes the
+time-evolution behavior of the off-diagonal reduced density matrix element. We
+utilize the exact solution and the docherence measure to study the wave packet
+decoherence dynamics. We further demonstrate how the dynamical diffusion of the
+wave packet leads to non-Markovian decoherence in such a microscopic
+environment.

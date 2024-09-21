@@ -1,0 +1,10 @@
+We report on measurements of an elementary surface mode in an ultracold,
+strongly interacting Fermi gas of 6Li atoms. The radial quadrupole mode allows
+us to probe hydrodynamic behavior in the BEC-BCS crossover without being
+influenced by changes in the equation of state. We examine frequency and
+damping of this mode, along with its expansion dynamics. In the unitarity limit
+and on the BEC side of the resonance, the observed frequencies agree with
+standard hydrodynamic theory. However, on the BCS side of the crossover, a
+striking down shift of the oscillation frequency is observed in the
+hydrodynamic regime as a precursor to an abrupt transition to collisionless
+behavior; this indicates coupling of the oscillation to fermionic pairs.

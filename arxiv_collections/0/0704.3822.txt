@@ -1,0 +1,7 @@
+We consider the problem of detecting edges in piecewise smooth functions from
+their N-degree spectral content, which is assumed to be corrupted by noise.
+There are three scales involved: the "smoothness" scale of order 1/N, the noise
+scale of order $\eta$ and the O(1) scale of the jump discontinuities. We use
+concentration factors which are adjusted to the noise variance, $\eta$ >> 1/N,
+in order to detect the underlying O(1)-edges, which are separated from the
+noise scale, $\eta$ << 1.

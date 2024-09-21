@@ -1,0 +1,10 @@
+Retarded electromagnetic potentials are derived from Maxwell's equations and
+the Lorenz condition. The difference found between these potentials and the
+conventional Li\'{e}nard-Wiechert ones is explained by neglect, for the latter,
+of the motion-dependence of the effective charge density. The corresponding
+retarded fields of a point-like charge in arbitary motion are compared with
+those given by the formulae of Heaviside, Feynman, Jefimenko and other authors.
+The fields of an accelerated charge given by the Feynman are the same as those
+derived from the Li\'{e}nard-Wiechert potentials but not those given by the
+Jefimenko formulae. A mathematical error concerning partial space and time
+derivatives in the derivation of the Jefimenko equations is pointed out.

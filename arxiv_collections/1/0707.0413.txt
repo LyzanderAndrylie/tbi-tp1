@@ -1,0 +1,8 @@
+We propose a new interferometer technique for high precision phase
+measurements such as those in gravitational wave detection. The technique
+utilizes a pair of optically coupled resonators that provides identical
+resonance conditions for the upper as well the lower phase modulation signal
+sidebands. This symmetry significantly reduces the noise spectral density in a
+wide frequency band compared with single sideband recycling topologies of
+current and planned gravitational wave detectors. Furthermore the application
+of squeezed states of light becomes less demanding.

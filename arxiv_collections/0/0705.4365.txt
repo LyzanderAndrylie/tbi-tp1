@@ -1,0 +1,21 @@
+We present Gemini integral field spectroscopy and Keck II longslit
+spectroscopy of the extended emission-line region (EELR) around the quasar 4C
+37.43. The velocity structure of the ionized gas is complex and cannot be
+explained globally by a simple dynamical model. The spectra from the clouds are
+inconsistent with shock or ``shock + precursor'' ionization models, but they
+are consistent with photoionization by the quasar nucleus. The best-fit
+photoionization model requires a low-metallicity (12+log(O/H) < 8.7) two-phase
+medium, consisting of a matter-bounded diffuse component with a unity
+filling-factor (N ~ 1 \cc, T ~ 15000 K), in which are embedded small, dense
+clouds (N ~ 400 \cc, T ~ 10^4 K). The high-density clouds are transient and can
+be re-generated through compressing the diffuse medium by low-speed shocks (V_S
+\lesssim 100 \kms). Our photoionization model gives a total mass for the
+ionized gas of about 3x10^{10} M_sun, and the total kinetic energy implied by
+this mass and the observed velocity field is ~2x10^{58} ergs. The fact that
+luminous EELRs are confined to steep-spectrum radio-loud quasars, yet show no
+morphological correspondence to the radio jets, suggests that the driving force
+producing the 4C 37.43 EELR was a roughly spherical blast wave initiated by the
+production of the jet. That such a mechanism seems capable of ejecting a mass
+comparable to that of the total interstellar medium of the Milky Way suggests
+that ``quasar-mode'' feedback may indeed be an efficient means of regulating
+star formation in the early universe.

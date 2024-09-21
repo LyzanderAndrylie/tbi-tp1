@@ -1,0 +1,13 @@
+We report searches for standard model (SM) Higgs production decaying to WW(*)
+and continuum ZZ production in the two charged lepton and two neutrino final
+states. The data were collected with the CDF II detector at the Fermilab
+Tevatron and correspond to an integrated luminosity of 1.1^fb-1. In order to
+separate the processes contributing to the final state, event probabilities
+calculated using the leading order differential cross-sections were used to
+construct a likelihood ratio discriminant. The observed (median expected) 95%
+C.L. upper limit for sigma(H->WW^(*)) with 160 GeV/c^2 mass hypothesis is 1.3
+(1.8) pb which corresponds to 3.4 (4.8) times the SM prediction at
+next-to-next-to-leading logarithmic level (NNLL) calculation. The significance
+of the observed ZZ signal is 1.9 sigma and the 95% C.L. upper limit is 3.4 pb
+which is consistent with the next-to-leading order (NLO) calculation of
+1.4+/-0.1 pb.

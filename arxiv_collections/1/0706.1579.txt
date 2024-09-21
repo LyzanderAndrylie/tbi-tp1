@@ -1,0 +1,16 @@
+In this paper, we discuss an interaction between complex geometry and
+integrable systems. Section 1 reviews the classical results on integrable
+systems. New examples of integrable systems, which have been discovered, are
+based on the Lax representation of the equations of motion. These systems can
+be realized as straight line motions on a Jacobi variety of a so-called
+spectral curve. In section 2, we study a Lie algebra theoretical method leading
+to integrable systems and we apply the method to several problems. In section
+3, we discuss the concept of the algebraic complete integrability (a.c.i.) of
+hamiltonian systems. Algebraic integrability means that the system is
+completely integrable in the sens of the phase space being folited by tori,
+which in addition are real parts of a complex algebraic tori (abelian
+varieties). The method is devoted to illustrate how to decide about the a.c.i.
+of hamiltonian systems and is applied to some examples. Finally, in section 4
+we study an a.c.i. in the generalized sense which appears as covering of a.c.i.
+system. The manifold invariant by the complex flow is covering of abelian
+variety.

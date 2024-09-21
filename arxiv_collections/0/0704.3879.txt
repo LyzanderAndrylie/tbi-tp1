@@ -1,0 +1,12 @@
+Hard processes leading to high transverse momentum hadron production are
+calculable in perturbative Quantum Chromodynamics (pQCD) for proton-proton
+collisions. In heavy-ion collisions, such processes occur as well, and due to a
+separation of scales are calculable on the level of the production of high p_T
+partons. These subsequently interact with the medium which originates from
+semi-hard and soft processes in the same collision before they hadronize. The
+presence of the medium thus modifies the momentum spectrum of outgoing partons
+and thus hard hadrons. The idea of jet tomography is to study this modification
+in order to learn about the medium density distribution. While this is a
+compelling idea, its practical application encounters some difficulties. In
+this paper, the capability of various observables to provide tomographic
+information about the medium is discussed and compared.

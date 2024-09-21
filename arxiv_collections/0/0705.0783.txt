@@ -1,0 +1,17 @@
+This paper focuses on the issue of energy efficiency in wireless data
+networks through a game theoretic approach. The case considered is that in
+which each user is allowed to vary its transmit power, spreading code, and
+uplink receiver in order to maximize its own utility, which is here defined as
+the ratio of data throughput to transmit power. In particular, the case in
+which linear multiuser detectors are employed at the receiver is treated first,
+and, then, the more challenging case in which non-linear decision feedback
+multiuser receivers are adopted is addressed. It is shown that, for both
+receivers, the problem at hand of utility maximization can be regarded as a
+non-cooperative game, and it is proved that a unique Nash equilibrium point
+exists. Simulation results show that significant performance gains can be
+obtained through both non-linear processing and spreading code optimization; in
+particular, for systems with a number of users not larger than the processing
+gain, remarkable gains come from spreading code optimization, while, for
+overloaded systems, the largest gainscome from the use of non-linear
+processing. In every case, however, the non-cooperative games proposed here are
+shown to outperform competing alternatives.

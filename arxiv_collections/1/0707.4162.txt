@@ -1,0 +1,10 @@
+Working with a large basis of covariant derivative-based meson interpolating
+fields we demonstrate the feasibility of reliably extracting multiple excited
+states using a variational method. The study is performed on quenched
+anisotropic lattices with clover quarks at the charm mass. We demonstrate how a
+knowledge of the continuum limit of a lattice interpolating field can give
+additional spin-assignment information, even at a single lattice spacing, via
+the overlap factors of interpolating field and state. Excited state masses are
+systematically high with respect to quark potential model predictions and,
+where they exist, experimental states. We conclude that this is most likely a
+result of the quenched approximation.

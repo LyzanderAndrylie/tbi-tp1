@@ -1,0 +1,9 @@
+Motivated by the recently observed pattern of unidirectional domains in
+high-T_c superconductors [Y. Kohsaka et al., Science 315, 1380 (2007)], we
+investigate the emergence of spontaneous modulations in the d-wave
+superconducting resonating valence bond phase using the t-J model at x=1/8
+doping. Half-filled charge domains separated by four lattice spacings are found
+to form along one of the crystal axis leading to modulated superconductivity
+with out-of-phase d-wave order parameters in neighboring domains. Both
+renormalized mean-field theory and variational Monte Carlo calculations yield
+that the energies of modulated and uniform phases are very close to each other.

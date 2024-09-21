@@ -1,0 +1,21 @@
+Establishing the reliability with which stellar population parameters can be
+measured is vital to extragalactic astronomy. Galactic GCs provide an excellent
+medium in which to test the consistency of Single Stellar Population (SSP)
+models as they should be our best analogue to a homogeneous (single) stellar
+population. Here we present age, metallicity and $\alpha$-element abundance
+measurements for 48 Galactic globular clusters (GCs) as determined from
+integrated spectra using Lick indices and SSP models from Thomas, Maraston &
+Korn, Lee & Worthey and Vazdekis et al. By comparing our new measurements to
+independent determinations we are able to assess the ability of these SSPs to
+derive consistent results -- a key requirement before application to
+heterogeneous stellar populations like galaxies.
+  We find that metallicity determinations are extremely robust, showing good
+agreement for all models examined here, including a range of enhancement
+methods. Ages and $\alpha$-element abundances are accurate for a subset of our
+models, with the caveat that the range of these parameters in Galactic GCs is
+limited. We are able to show that the application of published Lick index
+response functions to models with fixed abundance ratios allows us to measure
+reasonable $\alpha$-element abundances from a variety of models. We also
+examine the age-metallicity and [$\alpha$/Fe]-metallicity relations predicted
+by SSP models, and characterise the possible effects of varied model horizontal
+branch morphology on our overall results.

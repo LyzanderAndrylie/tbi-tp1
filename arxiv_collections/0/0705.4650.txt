@@ -1,0 +1,8 @@
+The entanglement content of superpositions of quantum states is investigated
+based on a measure called {\it concurrence}. Given a bipartite pure state in
+arbitrary dimension written as the quantum superposition of two other such
+states, we find simple inequalities relating the concurrence of the state to
+that of its components. We derive an exact expression for the concurrence when
+the component states are biorthogonal, and provide elegant upper and lower
+bounds in all other cases. For quantum bits, our upper bound is tighter than
+the previously derived bound in [Phys. Rev. Lett. 97, 100502 (2006).]

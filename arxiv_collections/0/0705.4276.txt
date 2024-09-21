@@ -1,0 +1,16 @@
+Using a 281 pb^{-1} data sample collected at the psi(3770) with the CLEO-c
+detector, we present the first absolute branching fraction measurement of the
+decay D^0 rightarrow K^-pi^+pi^-e^+nu_e at a statistical significance of about
+4.0 standard deviations. We find 10 candidates consistent with the decay D^0
+rightarrow K^-pi^+pi^- e^+nu_e. The probability that a background fluctuation
+accounts for this signal is less than 4.1 times 10^{-5}. We find {cal B}(D^0
+rightarrow K^-pi^+pi^-e^+nu_e)= [2.8 ^{+1.4}_{-1.1}{rm (stat)} pm 0.3{rm
+(syst)}] times 10 ^{-4}. This channel is consistent with being predominantly
+produced through D^0 rightarrow K1^- e^+nu_e. By restricting the invariant mass
+of the hadronic system to be consistent with K1, we obtain the product of
+branching fractions {cal B}(D^0 rightarrow K1^- e^+nu_e)cdot{\cal B}(K1 to
+K^-pi^+pi^-)=[2.5^{+1.3}_{-1.0}{rm(stat)} pm 0.2 {rm (syst)}]times 10^{-4}.
+Using {cal B}(K1 to K^-pi^+pi^-) = (33 pm 3) %, we obtain {cal B}(D^0 to
+K1^-e^+nu_e)=[7.6^{+4.1}_{-3.0}{rm (stat)} pm 0.6{rm (syst)}pm 0.7 ]times
+10^{-4}. The last error accounts for the uncertainties in the measured konem to
+K^-pi^+pi^- branching fraction.

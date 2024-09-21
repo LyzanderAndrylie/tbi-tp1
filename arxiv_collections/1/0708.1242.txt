@@ -1,0 +1,18 @@
+Supervised learning deals with the inference of a distribution over an output
+or label space $\CY$ conditioned on points in an observation space $\CX$, given
+a training dataset $D$ of pairs in $\CX \times \CY$. However, in a lot of
+applications of interest, acquisition of large amounts of observations is easy,
+while the process of generating labels is time-consuming or costly. One way to
+deal with this problem is {\em active} learning, where points to be labelled
+are selected with the aim of creating a model with better performance than that
+of an model trained on an equal number of randomly sampled points. In this
+paper, we instead propose to deal with the labelling cost directly: The
+learning goal is defined as the minimisation of a cost which is a function of
+the expected model performance and the total cost of the labels used. This
+allows the development of general strategies and specific algorithms for (a)
+optimal stopping, where the expected cost dictates whether label acquisition
+should continue (b) empirical evaluation, where the cost is used as a
+performance metric for a given combination of inference, stopping and sampling
+methods. Though the main focus of the paper is optimal stopping, we also aim to
+provide the background for further developments and discussion in the related
+field of active learning.

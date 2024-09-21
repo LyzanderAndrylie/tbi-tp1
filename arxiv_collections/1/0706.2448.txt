@@ -1,0 +1,14 @@
+Based only on the parallel transport condition, we present a general method
+to compute Abelian or non-Abelian geometric phases acquired by the basis states
+of pure or mixed density operators, which also holds for nonadiabatic and
+noncyclic evolution. Two interesting features of the non-Abelian geometric
+phase obtained by our method stand out: i) it is a generalization of Wilczek
+and Zee's non-Abelian holonomy, in that it describes nonadiabatic evolution
+where the basis states are parallelly transported between distinct degenerate
+subspaces, and ii) the non-Abelian character of our geometric phase relies on
+the transitional evolution of the basis states, even in the nondegenerate case.
+We apply our formalism to a two-level system evolving nonadiabatically under
+spontaneous decay to emphasize the non-Abelian nature of the geometric phase
+induced by the reservoir. We also show, through the generalized invariant
+theory, that our general approach encompasses previous results in the
+literature.

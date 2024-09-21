@@ -1,0 +1,10 @@
+We study the folding dynamics of polyalanine (Ala$_{20}$), a protein fragment
+with 20 residues whose native state is a single alpha helix. We use the CSAW
+model (conditioned self-avoiding walk), which treats the protein molecule as a
+chain in Brownian motion, with interactions that include hydrophobic forces and
+internal hydrogen bonding. We find that large scale structures form before
+small scale structures, and obtain the relevant relaxation times. We find that
+helix nucleation occurs at two separate points on the protein chain. The
+evolution of small and large scale structures involve different mechanisms.
+While the former can be describe by rate equations governing the growth of
+helical content, the latter is akin to the relaxation of an elastic solid.

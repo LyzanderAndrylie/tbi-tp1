@@ -1,0 +1,22 @@
+This thesis discusses the search for supersymmetry at the future Large Hadron
+Collider (LHC) and the ongoing construction of one of the four large LHC
+experiments, the Compact Muon Solenoid (CMS), and focuses on the detection of
+signals from the annihilation of supersymmetric dark matter in the spectra of
+cosmic rays.
+  Measurements of cosmic ray antiparticles, such as positrons, can impose
+strong constraints on the nature of new physics beyond the Standard Model.
+However, cosmic ray positron measurements are experimentally very challenging
+due to the vast proton background. A novel approach of positron identification
+with the space-borne AMS-01 experiment, namely through the detection of
+bremsstrahlung conversion in a silicon microstrip detector, is introduced.
+Bremsstrahlung from protons is suppressed by a factor of more than 3*10^6 with
+respect to positrons. The results of the positron measurement show that the
+bremsstrahlung approach extends the sensitivity range of AMS-01 to positron
+momenta up to 50 GeV/c, which is far beyond the original scope of the
+experiment. At momenta above 8 GeV/c there is indication for a positron
+overabundance with respect to model predictions for purely secondary positron
+production. Therefore, the AMS-01 data lend further weight to the hints of a
+positron overabundance seen in the data from earlier experiments.
+  The positron fraction measurements from the most recent experiments are
+combined with the results of this analysis, giving the most precise positron
+fraction data yet available.

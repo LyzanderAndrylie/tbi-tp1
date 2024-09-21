@@ -1,0 +1,15 @@
+Endothelial cells are responsible for the formation of the capillary blood
+vessel network. We describe a system of endothelial cells by means of
+two-dimensional molecular dynamics simulations of point-like particles. Cells'
+motion is governed by the gradient of the concentration of a chemical substance
+that they produce (chemotaxis). The typical time of degradation of the chemical
+substance introduces a characteristic length in the system. We show that
+point-like model cells form network resembling structures tuned by this
+characteristic length, before collapsing altogether. Successively, we improve
+the non-realistic point-like model cells by introducing an isotropic strong
+repulsive force between them and a velocity dependent force mimicking the
+observed peculiarity of endothelial cells to preserve the direction of their
+motion (persistence). This more realistic model does not show a clear network
+formation. We ascribe this partial fault in reproducing the experiments to the
+static geometry of our model cells that, in reality, change their shapes by
+elongating toward neighboring cells.

@@ -1,0 +1,15 @@
+It has been reported that traveling waves propagate periodically and stably
+in sub-excitable systems driven by noise [Phys. Rev. Lett. \textbf{88}, 138301
+(2002)]. As a further investigation, here we observe different types of
+traveling waves under different noises and periodic forces, using a simplified
+Oregonator model. Depending on different noises and periodic forces, we have
+observed different types of wave propagation (or their disappearance).
+Moreover, the reversal phenomena are observed in this system based on the
+numerical experiments in the one-dimensional space. As an explanation, we
+regard it as the effect of periodic forces. Thus, we give qualitative
+explanations to how reversal phenomena stably appear, which seem to arise from
+the mixing function of the periodic force and the noise. And the output period
+and three velocities (the normal, the positive and the negative) of the
+travelling waves are defined and their relationship with the periodic forces,
+along with the types of waves, are also studied in sub-excitable system under a
+fixed noise intensity.

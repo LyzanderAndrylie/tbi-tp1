@@ -1,0 +1,12 @@
+This paper uses firm-level data recorded in the AMADEUS database to
+investigate the distribution of labour productivity in different European
+countries. We find that the upper tail of the empirical productivity
+distributions follows a decaying power-law, whose exponent $\alpha$ is obtained
+by a semi-parametric estimation technique recently developed by Clementi et al.
+(2006). The emergence of "fat tails" in productivity distribution has already
+been detected in Di Matteo et al. (2005) and explained by means of a model of
+social network. Here we show that this model is tested on a broader sample of
+countries having different patterns of social network structure. These
+different social attitudes, measured using a social capital indicator, reflect
+in the power-law exponent estimates, verifying in this way the existence of
+linkages among firms' productivity performance and social network.

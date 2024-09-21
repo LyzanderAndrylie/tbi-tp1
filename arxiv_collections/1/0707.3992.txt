@@ -1,0 +1,20 @@
+Let w(i) be a period of rotation of the i-th planet around the Sun (or w(j;i)
+be a period of rotation of j-th satellite around the i-th planet). From
+empirical observations it is known that the sum of n(i)w(i)=0 (or the sum of
+n(j)w(j;i)=0) for some integers n(i) (or n(j)), different for different
+satellite systems. These conditions, known as resonance conditions, make uses
+of theories such as KAM difficult to implement. The resonances in Solar System
+are similar to those encountered in old quantum mechanics where applications of
+methods of celestial mechanics to atomic and molecular physics were highly
+sucsessful. With such a success, the birth of new quantum mechanics is
+difficult to understand. In short, the rationale for its birth lies in
+simplicity with which the same type of calculations are done using new methods
+capable of taking care of resonances. The solution of quantization puzzle was
+found by Heisenberg. In this paper new uses of Heisenberg's ideas are found.
+When superimposed with the equivalence principle of general relativity, they
+lead to quantum mechanical tratment of observed resonances in Solar System. To
+test correctness of our theoretical predictions the number of allowed stable
+orbits for planets and for equatorial stable orbits of satellites of heavy
+planets is calculated resulting in good agreement with observational data. In
+addition, the paper briefly discusses quantum mechanical nature of rings of
+heavy planets and potential usefulness of the obtained results for cosmology.

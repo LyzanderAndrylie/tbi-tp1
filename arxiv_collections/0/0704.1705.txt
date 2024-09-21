@@ -1,0 +1,7 @@
+A modification of the optimal fluctuation approach is applied to study the
+tails of the free energy distribution function P(F) for an elastic string in
+quenched disorder both in the regions of the universal behavior of P(F) and in
+the regions of large fluctuations, where the behavior of P(F) is non-universal.
+The difference between the two regimes is shown to consist in whether it is
+necessary or not to take into account the renormalization of parameters by the
+fluctuations of disorder in the vicinity of the optimal fluctuation.

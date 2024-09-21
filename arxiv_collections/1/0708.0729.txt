@@ -1,0 +1,7 @@
+Given the insight steming from string theory, the origin of the black-hole
+(BH) information puzzle is traced back to the assumption that it is physically
+meaningful to trace out the density matrix over negative-frequency Hawking
+particles. Instead, treating them as virtual particles necessarily absorbed by
+the BH in a manner consistent with the laws of BH thermodynamics, and tracing
+out the density matrix only over physical BH states, the complete evaporation
+becomes compatible with unitarity.

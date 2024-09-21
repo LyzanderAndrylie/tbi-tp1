@@ -1,0 +1,18 @@
+We discuss the geometry of the highly quantal nuclear three-body systems
+composed of a core plus two loosely bound particles. These Borromean nuclei
+have no single bound two-body subsystem. Correlation plays a prominent role.
+  From consideration of the $B(E1)$ value extracted from electromagnetic
+dissociation, in conjunction with HBT-type analysis of the two valence-halo
+particles correlation, we show that an estimate of the over-all geometry can be
+deduced. In particular we find that the opening angle between the two neutrons
+in $^{6}$He and $^{11}$Li are, respectively, $\theta_{nn} =
+{83^{\circ}}^{+20}_{-10}$ and ${66^{\circ}}^{+22}_{-18}$. These angles are
+reduced by about 12% to $\theta_{nn} = {78^{\circ}}^{+13}_{-18}$ and
+${58^{\circ}}^{+10}_{-14}$ if the laser spectroscopy values of the rms charge
+radii are used to obtain the rms distance between the cores and the center of
+mass of the two neutrons. The opening angle in the case of $^{11}$Li is more
+than 20% larger than recently reported by Nakamura \cite{Nak06}. The analysis
+is extended to $^{14}$Be and the two-proton Borromean nucleus $^{17}% $Ne where
+complete data is still not available. Using available experimental data and
+recent theoretical calculations we find, $\theta_{nn} = {64^{0}}^{+9}_{-10}$
+and $\theta_{pp} = 110^{0}$, respectively.

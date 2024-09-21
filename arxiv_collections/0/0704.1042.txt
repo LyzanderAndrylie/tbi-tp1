@@ -1,0 +1,5 @@
+Entangling and disentangling capacities are the key manifestation of the
+nonlocal content of a quantum operation. A lot of effort has been put recently
+into investigating (dis)entangling capacities of unitary operations, but very
+little is known about capacities of non-unitary operations. Here we investigate
+(dis)entangling capacities of unital CPTP maps acting on two qubits.

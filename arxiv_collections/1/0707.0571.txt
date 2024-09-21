@@ -1,0 +1,3 @@
+Let G be a free group in a variety of groups, but G is not absolutely free.
+We prove that the group of automorphisms Aut(G) is linear iff G is a virtually
+nilpotent group.

@@ -1,0 +1,9 @@
+We analyze the validity of the adiabatic approximation, and in particular the
+reliability of what has been called the "standard criterion" for validity of
+this approximation. Recently, this criterion has been found to be insufficient.
+We will argue that the criterion is sufficient only when it agrees with the
+intuitive notion of slowness of evolution of the Hamiltonian. However, it can
+be insufficient in cases where the Hamiltonian varies rapidly but only by a
+small amount. We also emphasize the distinction between the adiabatic {\em
+theorem} and the adiabatic {\em approximation}, two quite different although
+closely related ideas.

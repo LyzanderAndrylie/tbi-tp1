@@ -1,0 +1,18 @@
+The topological insulator is an electronic phase stabilized by spin-orbit
+coupling that supports propagating edge states and is not adiabatically
+connected to the ordinary insulator. In several ways it is a spin-orbit-induced
+analogue in time-reversal-invariant systems of the integer quantum Hall effect
+(IQHE). This paper studies the topological insulator phase in disordered
+two-dimensional systems, using a model graphene Hamiltonian introduced by Kane
+and Mele as an example. The nonperturbative definition of a topological
+insulator given here is distinct from previous efforts in that it involves
+boundary phase twists that couple only to charge, does not refer to edge
+states, and can be measured by pumping cycles of ordinary charge. In this
+definition, the phase of a Slater determinant of electronic states is
+determined by a Chern parity analogous to Chern number in the IQHE case.
+Numerically we find, in agreement with recent network model studies, that the
+direct transition between ordinary and topological insulators that occurs in
+band structures is a consequence of the perfect crystalline lattice.
+Generically these two phases are separated by a metallic phase, which is
+allowed in two dimensions when spin-orbit coupling is present. The same
+approach can be used to study three-dimensional topological insulators.

@@ -1,0 +1,10 @@
+We introduce a simple general method for finding the equilibrium distribution
+for a class of widely used inexact Markov Chain Monte Carlo algorithms. The
+explicit error due to the non-commutivity of the updating operators when
+numerically integrating Hamilton's equations can be derived using the
+Baker-Campbell-Hausdorff formula. This error is manifest in the conservation of
+a ``shadow'' Hamiltonian that lies close to the desired Hamiltonian. The fixed
+point distribution of inexact Hybrid algorithms may then be derived taking into
+account that the fixed point of the momentum heatbath and that of the molecular
+dynamics do not coincide exactly. We perform this derivation for various
+inexact algorithms used for lattice QCD calculations.

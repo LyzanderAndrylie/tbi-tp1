@@ -1,0 +1,8 @@
+A set of analog electronics boards for serial readout of silicon strip
+sensors was fabricated. A commercially available amplifier is mounted on a
+homemade hybrid board in order to receive analog signals from silicon strip
+sensors. Also, another homemade circuit board is fabricated in order to
+translate amplifier control signals into a suitable format and to provide bias
+voltage to the amplifier as well as to the silicon sensors. We discuss
+technical details of the fabrication process and performance of the circuit
+boards we developed.

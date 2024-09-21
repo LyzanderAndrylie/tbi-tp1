@@ -1,0 +1,5 @@
+The stability of (C20)N chains with N = 3 - 7 is analyzed by numerical
+simulation using a tight-binding potential and molecular dynamics. Various
+channels of losing the cluster-chain structure of the (C20)N complexes are
+observed, including the decay of C20 clusters, their coalescence, and the
+separation of one C20 fullerene from the chain.

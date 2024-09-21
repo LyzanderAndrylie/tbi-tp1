@@ -1,0 +1,7 @@
+The designs integrating the promising carbon nanotube transistors (CNTFET)
+will have to take into account the constraints implied by the strong dispersion
+inherent to nanotube manufacturing. This paper proposes to characterize the
+main CNTFET performances : on-current Ion, Ion/Ioff ratio and inverse
+sub-threshold slope S according to the dispersion on the nanotube diameter. For
+this purpose, we use a compact model suitable for testing several diameter
+values.

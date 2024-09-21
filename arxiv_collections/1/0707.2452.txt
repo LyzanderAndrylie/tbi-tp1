@@ -1,0 +1,9 @@
+We present a new prescription for the resummation of the divergent series of
+perturbative corrections, due to soft gluon emission, to hard processes near
+threshold in perturbative QCD (threshold resummation). This prescription is
+based on Borel resummation, and contrary to the commonly used minimal
+prescription, it does not introduce a dependence of resummed physical
+observables on the kinematically unaccessible x->0 region of parton
+distributions. We compare results for resummed deep-inelastic scattering
+obtained using the Borel prescription and the minimal prescription and exploit
+the comparison to discuss the ambiguities related to the resummation procedure.

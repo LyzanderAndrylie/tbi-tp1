@@ -1,0 +1,8 @@
+Spectral diagnostic features formed in the solar chromosphere are few and
+difficult to interpret -- they are neither formed in the optically thin regime
+nor in local thermodynamic equilibrium (LTE). To probe the state of the
+chromosphere, both from observations and theory, it is therefore necessary with
+modeling. I discuss both traditional semi-empirical modeling, numerical
+experiments illustrating important ingredients necessary for a self-consistent
+theoretical modeling of the solar chromosphere and the first results of such
+models.

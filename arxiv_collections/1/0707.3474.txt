@@ -1,0 +1,4 @@
+Based on an iterative method for solving the goundstate of Schroedinger
+equation, it is found that a kind of generalized Sombrero-shaped potentials in
+N-dimensional space has groundstates with zero eigenvalue. The restrictions on
+the parameters in the potential are discussed.

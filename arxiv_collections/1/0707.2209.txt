@@ -1,0 +1,7 @@
+A system of partial differential equations describing the spatial
+oscillations of an Euler-Bernoulli beam with a tip mass is considered. The
+linear system considered is actuated by two independent controls and separated
+into a pair of differential equations in a Hilbert space. A feedback control
+ensuring strong stability of the equilibrium in the sense of Lyapunov is
+proposed. The proof of the main result is based on the theory of strongly
+continuous semigroups.

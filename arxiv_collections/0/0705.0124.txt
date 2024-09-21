@@ -1,0 +1,10 @@
+The low-snr capacity of M-ary PSK transmission over both the additive white
+Gaussian noise (AWGN) and fading channels is analyzed when hard-decision
+detection is employed at the receiver. Closed-form expressions for the first
+and second derivatives of the capacity at zero snr are obtained. The
+spectral-efficiency/bit-energy tradeoff in the low-snr regime is analyzed by
+finding the wideband slope and the bit energy required at zero spectral
+efficiency. Practical design guidelines are drawn from the
+information-theoretic analysis. The fading channel analysis is conducted for
+both coherent and noncoherent cases, and the performance penalty in the
+low-power regime for not knowing the channel is identified.

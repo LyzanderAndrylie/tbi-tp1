@@ -1,0 +1,9 @@
+A two-dimensional lattice gas of two species, driven in opposite directions
+by an external force, undergoes a jamming transition if the filling fraction is
+sufficiently high. Using Monte Carlo simulations, we investigate the growth of
+these jams ("clouds"), as the system approaches a non-equilibrium steady state
+from a disordered initial state. We monitor the dynamic structure factor
+$S(k_x,k_y;t)$ and find that the $k_x=0$ component exhibits dynamic scaling, of
+the form $S(0,k_y;t)=t^\beta \tilde{S}(k_yt^\alpha)$. Over a significant range
+of times, we observe excellent data collapse with $\alpha=1/2$ and $\beta=1$.
+The effects of varying filling fraction and driving force are discussed.

@@ -1,0 +1,8 @@
+Centered finite volume methods are considered in the context of Numerical
+Relativity. A specific formulation is presented, in which third-order space
+accuracy is reached by using a piecewise-linear reconstruction. This
+formulation can be interpreted as an 'adaptive viscosity' modification of
+centered finite difference algorithms. These points are fully confirmed by 1D
+black-hole simulations. In the 3D case, evidence is found that the use of a
+conformal decomposition is a key ingredient for the robustness of black hole
+numerical codes.

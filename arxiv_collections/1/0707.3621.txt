@@ -1,0 +1,18 @@
+We calculate analytically the critical connectivity $K_c$ of Random Threshold
+Networks (RTN) for homogeneous and inhomogeneous thresholds, and confirm the
+results by numerical simulations. We find a super-linear increase of $K_c$ with
+the (average) absolute threshold $|h|$, which approaches $K_c(|h|) \sim
+h^2/(2\ln{|h|})$ for large $|h|$, and show that this asymptotic scaling is
+universal for RTN with Poissonian distributed connectivity and threshold
+distributions with a variance that grows slower than $h^2$. Interestingly, we
+find that inhomogeneous distribution of thresholds leads to increased
+propagation of perturbations for sparsely connected networks, while for densely
+connected networks damage is reduced; the cross-over point yields a novel,
+characteristic connectivity $K_d$, that has no counterpart in Boolean networks.
+Last, local correlations between node thresholds and in-degree are introduced.
+Here, numerical simulations show that even weak (anti-)correlations can lead to
+a transition from ordered to chaotic dynamics, and vice versa. It is shown that
+the naive mean-field assumption typical for the annealed approximation leads to
+false predictions in this case, since correlations between thresholds and
+out-degree that emerge as a side-effect strongly modify damage propagation
+behavior.

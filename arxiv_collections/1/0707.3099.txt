@@ -1,0 +1,3 @@
+A generalization of the Hohenberg-Kohn theorem proves the existence of a
+density functional for an intrinsic state, symmetry violating, out of which a
+physical state with good quantum numbers can be projected.

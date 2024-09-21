@@ -1,0 +1,13 @@
+Schroedinger equation on a Hilbert space ${\cal H}$, represents a linear
+Hamiltonian dynamical system on the space of quantum pure states, the
+projective Hilbert space $P {\cal H}$. Separable states of a bipartite quantum
+system form a special submanifold of $P {\cal H}$.
+  We analyze the Hamiltonian dynamics that corresponds to the quantum system
+constrained on the manifold of separable states, using as an important example
+the system of two interacting qubits. The constraints introduce nonlinearities
+which render the dynamics nontrivial. We show that the qualitative properties
+of the constrained dynamics clearly manifest the symmetry of the qubits system.
+In particular, if the quantum Hamilton's operator has not enough symmetry, the
+constrained dynamics is nonintegrable, and displays the typical features of a
+Hamiltonian dynamical system with mixed phase space. Possible physical
+realizations of the separability constraints are discussed.

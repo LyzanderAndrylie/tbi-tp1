@@ -1,0 +1,9 @@
+We generated configurations with the parametrized fixed-point Dirac operator
+D_{FP} on a (1.6 fm)^4 box at a lattice spacing a=0.13 fm. We compare the
+distributions of the three lowest k=1,2,3 eigenvalues in the nu= 0,1,2
+topological sectors with that of the Random Matrix Theory predictions. The
+ratios of expectation values of the lowest eigenvalues and the cumulative
+eigenvalue distributions are studied for all combinations of k and nu. After
+including the finite size correction from one-loop chiral perturbation theory
+we obtained for the chiral condensate in the MSbar scheme
+Sigma(2GeV)^{1/3}=0.239(11) GeV, where the error is statistical only.

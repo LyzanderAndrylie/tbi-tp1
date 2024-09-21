@@ -1,0 +1,5 @@
+In this work we solve exactly a class of three-body propagators for the most
+general quadratic interactions in the coordinates, for arbitrary masses and
+couplings. This is done both for the constant as the time-dependent couplings
+and masses, by using the Feynman path integral formalism. Finally the energy
+spectrum and the eigenfunctions are recovered from the propagators.

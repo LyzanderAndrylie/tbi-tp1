@@ -1,0 +1,11 @@
+Speaker identification is a powerful, non-invasive and in-expensive biometric
+technique. The recognition accuracy, however, deteriorates when noise levels
+affect a specific band of frequency. In this paper, we present a sub-band based
+speaker identification that intends to improve the live testing performance.
+Each frequency sub-band is processed and classified independently. We also
+compare the linear and non-linear merging techniques for the sub-bands
+recognizer. Support vector machines and Gaussian Mixture models are the
+non-linear merging techniques that are investigated. Results showed that the
+sub-band based method used with linear merging techniques enormously improved
+the performance of the speaker identification over the performance of wide-band
+recognizers when tested live. A live testing improvement of 9.78% was achieved

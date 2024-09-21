@@ -1,0 +1,14 @@
+A general Hamiltonian theory for the adiabatic motion of relativistic charged
+particles confined by slowly-varying background electromagnetic fields is
+presented based on a unified Lie-transform perturbation analysis in extended
+phase space (which includes energy and time as independent coordinates) for all
+three adiabatic invariants. First, the guiding-center equations of motion for a
+relativistic particle are derived from the particle Lagrangian. Covariant
+aspects of the resulting relativistic guiding-center equations of motion are
+discussed and contrasted with previous works. Next, the second and third
+invariants for the bounce motion and drift motion, respectively, are obtained
+by successively removing the bounce phase and the drift phase from the
+guiding-center Lagrangian. First-order corrections to the second and third
+adiabatic invariants for a relativistic particle are derived. These results
+simplify and generalize previous works to all three adiabatic motions of
+relativistic magnetically-trapped particles.

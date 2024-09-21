@@ -1,0 +1,15 @@
+Data aggregation in Geographic Information Systems (GIS) is only marginally
+present in commercial systems nowadays, mostly through ad-hoc solutions. In
+this paper, we first present a formal model for representing spatial data. This
+model integrates geographic data and information contained in data warehouses
+external to the GIS. We define the notion of geometric aggregation, a general
+framework for aggregate queries in a GIS setting. We also identify the class of
+summable queries, which can be efficiently evaluated by precomputing the
+overlay of two or more of the thematic layers involved in the query. We also
+sketch a language, denoted GISOLAP-QL, for expressing queries that involve GIS
+and OLAP features. In addition, we introduce Piet, an implementation of our
+proposal, that makes use of overlay precomputation for answering spatial
+queries (aggregate or not). Our experimental evaluation showed that for a
+certain class of geometric queries with or without aggregation, overlay
+precomputation outperforms R-tree-based techniques. Finally, as a particular
+application of our proposal, we study topological queries.

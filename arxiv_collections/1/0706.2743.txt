@@ -1,0 +1,3 @@
+In this note, we present a few methods (Theorems 1, 2, and 3) from discrete
+dynamical systems theory of obtaining new functions Q(n) from the known ones so
+that the dividing formulas n|Q(n) hold.

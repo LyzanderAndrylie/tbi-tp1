@@ -1,0 +1,15 @@
+A quantum computer is a machine that can perform certain calculations much
+faster than a classical computer by using the laws of quantum mechanics.
+Quantum computers do not exist yet, because it is extremely difficult to
+control quantum mechanical systems to the necessary degree. What is more, we do
+at this moment not know which physical system is the best suited for making a
+quantum computer (although we have some ideas). It is likely that a mature
+quantum information processing technology will use (among others) light,
+because photons are ideal carriers for quantum information. These notes are an
+expanded version of the five lectures I gave on the possibility of making a
+quantum computer using light, at the Summer School in Theoretical Physics in
+Durban, 14-24 January, 2007. There are quite a few proposals using light for
+quantum computing, and I can highlight only a few here. I will focus on
+photonic qubits, and leave out continuous variables completely. I assume that
+the reader is familiar with basic quantum mechanics and introductory quantum
+computing.

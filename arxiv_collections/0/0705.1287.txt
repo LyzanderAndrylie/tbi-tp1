@@ -1,0 +1,13 @@
+This article introduces new algorithms for the uniform random generation of
+labelled planar graphs. Its principles rely on Boltzmann samplers, as recently
+developed by Duchon, Flajolet, Louchard, and Schaeffer. It combines the
+Boltzmann framework, a suitable use of rejection, a new combinatorial bijection
+found by Fusy, Poulalhon and Schaeffer, as well as a precise analytic
+description of the generating functions counting planar graphs, which was
+recently obtained by Gim\'enez and Noy. This gives rise to an extremely
+efficient algorithm for the random generation of planar graphs. There is a
+preprocessing step of some fixed small cost. Then, the expected time complexity
+of generation is quadratic for exact-size uniform sampling and linear for
+approximate-size sampling. This greatly improves on the best previously known
+time complexity for exact-size uniform sampling of planar graphs with $n$
+vertices, which was a little over $O(n^7)$.

@@ -1,0 +1,10 @@
+Coupled-channel three-body calculations of an $I=1/2$, $J^{\pi}=0^-$
+$\bar{K}NN$ quasi-bound state in the $\bar{K}NN - \pi \Sigma N$ system were
+performed and the dependence of the resulting three-body energy on the two-body
+$\bar{K}N - \pi \Sigma$ interaction was investigated. Earlier results of
+binding energy $B_{K^-pp} \sim 50 -70$ MeV and width $\Gamma_{K^-pp} \sim 100$
+MeV are confirmed [N.V. Shevchenko {\it et al.}, Phys. Rev. Lett. {\bf 98},
+082301 (2007)]. It is shown that a suitably constructed energy-independent
+complex $\bar{K}N$ potential gives a considerably shallower and narrower
+three-body quasi-bound state than the full coupled-channel calculation.
+Comparison with other calculations is made.

@@ -1,0 +1,10 @@
+We compute the magnetic susceptibility and specific heat of the spin-1/2
+Heisenberg model on the kagome lattice with high-temperature expansions and
+exact diagonalizations. We compare the results with the experimental data on
+ZnCu3(OH)6Cl2 obtained by Helton et al. [Phys. Rev. Lett. 98, 107204 (2007)].
+Down to k_BT/J~0.2, our calculations reproduce accurately the experimental
+susceptibility, with an exchange interaction J~190K and a contribution of 3.7%
+of weakly interacting impurity spins. The comparison between our calculations
+of the specific heat and the experiments indicate that the low-temperature
+entropy (below ~20K) is smaller in ZnCu3(OH)6Cl2 than in the kagome Heisenberg
+model, a likely signature of other interactions in the system.

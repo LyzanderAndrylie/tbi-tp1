@@ -1,0 +1,9 @@
+We present the first protocol for the anonymous transmission of a quantum
+state that is information-theoretically secure against an active adversary,
+without any assumption on the number of corrupt participants. The anonymity of
+the sender and receiver is perfectly preserved, and the privacy of the quantum
+state is protected except with exponentially small probability. Even though a
+single corrupt participant can cause the protocol to abort, the quantum state
+can only be destroyed with exponentially small probability: if the protocol
+succeeds, the state is transferred to the receiver and otherwise it remains in
+the hands of the sender (provided the receiver is honest).

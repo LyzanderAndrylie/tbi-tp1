@@ -1,0 +1,13 @@
+A survey of Galactic gamma-ray sources at a median energy of ~20 TeV has been
+performed using the Milagro Gamma Ray Observatory. Eight candidate sources of
+TeV emission are detected with pre-trials significance $>4.5\sigma$ in the
+region of Galactic longitude $l\in[30^\circ,220^\circ]$ and latitude
+$b\in[-10^\circ,10^\circ]$. Four of these sources, including the Crab nebula
+and the recently published MGRO J2019+37, are observed with significances
+$>4\sigma$ after accounting for the trials involved in searching the 3800
+square degree region. All four of these sources are also coincident with EGRET
+sources. Two of the lower significance sources are coincident with EGRET
+sources and one of these sources is Geminga. The other two candidates are in
+the Cygnus region of the Galaxy. Several of the sources appear to be spatially
+extended. The fluxes of the sources at 20 TeV range from ~25% of the Crab flux
+to nearly as bright as the Crab.

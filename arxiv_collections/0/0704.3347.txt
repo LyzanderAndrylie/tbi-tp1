@@ -1,0 +1,8 @@
+In this article we develop, step by step, the framework for universal
+dynamical control of two-level systems (TLS) or qubits experiencing amplitude-
+or phase-noise (AN or PN) due to coupling to a thermal bath. A comprehensive
+arsenal of modulation schemes is introduced and applied to either AN or PN,
+resulting in completely analogous formulae for the decoherence rates, thus
+underscoring the unified nature of this universal formalism. We then address
+the extension of this formalism to multipartite decoherence control, where
+symmetries are exploited to overcome decoherence.

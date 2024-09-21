@@ -1,0 +1,9 @@
+We illustrate through numerical results a number of features of
+environment-induced decoherence under a broad class of apparatus-environment
+interactions in quantum measurements wherein the reduced system-apparatus
+density matrix evolves towards the nearest separable state and, in addition,
+there occurs a mixing in relevant groups of apparatus microstates (see below).
+The resulting final state is unique and correctly embodies the measurement
+statistics even in the absence of environment-induced superselection because of
+energy differences between these groups of states. The partial transpose
+remains non-positive throughout the process.

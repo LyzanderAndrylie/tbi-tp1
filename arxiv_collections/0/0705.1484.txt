@@ -1,0 +1,11 @@
+Historically, the thermodynamic behavior of gasses was described first and
+the derived equations were adapted to solids. It is suggested that the current
+thermodynamic description of solid phase is still incomplete because the
+isothermal work done on or by the system is not counted in the internal energy.
+It is also suggested that the isobaric work should not be deducted from the
+internal energy because the system does not do work when it expands. Further
+more it is suggested that Joule postulate regarding the mechanical equivalency
+of heat -the first law of thermodynamics- is not universal and not applicable
+to elastic solids. The equations for the proposed thermodynamic description of
+solids are derived and tested by calculating the internal energies of the
+system using the equation of state of MgO. The agreement with theory is good.

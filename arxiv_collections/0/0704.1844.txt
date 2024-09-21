@@ -1,0 +1,8 @@
+In this paper we present a new algebraic structure (a super hyperbolic system
+in our terminology) for finite quantum systems, which is a generalization of
+the usual one in the two-level system.
+  It fits into the so-called generalized Pauli matrices, so they play an
+important role in the theory. Some deep relation to the modified Bessel
+functions of integer order is pointed out.
+  By taking a skillful limit finite quantum systems become quantum mechanics on
+the circle developed by Ohnuki and Kitakado.

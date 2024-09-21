@@ -1,0 +1,8 @@
+A Yukawa-Higgs model with Ginsparg-Wilson (GW) fermions, proposed recently by
+Bhattacharya, Martin and Poppitz as a possible lattice formulation of chiral
+gauge theories, is studied. A simple argument shows that the gauge boson always
+acquires mass by the St\"uckelberg (or, in a broad sense, Higgs) mechanism,
+regardless of strength of interactions. The gauge symmetry is spontaneously
+broken. When the gauge coupling constant is small, the physical spectrum of the
+model consists of massless fermions, massive fermions and \emph{massive} vector
+bosons.

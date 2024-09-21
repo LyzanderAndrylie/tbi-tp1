@@ -1,0 +1,10 @@
+In this article, we study translations between variants of defaults logics
+such that the extensions of the theories that are the input and the output of
+the translation are in a bijective correspondence. We assume that a translation
+can introduce new variables and that the result of translating a theory can
+either be produced in time polynomial in the size of the theory or its output
+is polynomial in that size; we however restrict to the case in which the
+original theory has extensions. This study fills a gap between two previous
+pieces of work, one studying bijective translations among restrictions of
+default logics, and the other one studying non-bijective translations between
+default logics variants.

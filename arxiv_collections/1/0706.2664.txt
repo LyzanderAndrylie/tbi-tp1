@@ -1,0 +1,7 @@
+We show that there exist non-compact composition operators in the connected
+component of the compact ones on the classical Hardy space $H^2$ on the unit
+disc. This answers a question posed by Shapiro and Sundberg in 1990. We also
+establish an improved version of a theorem of MacCluer, giving a lower bound
+for the essential norm of a difference of composition operators in terms of the
+angular derivatives of their symbols. As a main tool we use Aleksandrov-Clark
+measures.

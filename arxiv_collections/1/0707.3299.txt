@@ -1,0 +1,6 @@
+The effect of random shooting of particles is considered on the basis of
+solution of the Schrodinger equation and in terms of the Wigner function.
+Two-particles description shows, in particular, that initial correlation leads
+to high velocities of particles. This could be a potential mechanism for
+obtaining energy. Evolution of the n-particle probability distribution is
+descibed analytically.

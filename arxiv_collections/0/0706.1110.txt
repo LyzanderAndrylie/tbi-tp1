@@ -1,0 +1,11 @@
+Utilizing only the vertical muon intensity of the Gaisser parameterization of
+the muon flux at the surface and propagating this energy spectrum underground
+according to statistical ionization and radiative energy losses, it is possible
+to calculate the underground muon intensity Crouch curve. In addition, the
+primary spectral index of the Gaisser parameterization can be adjusted from
+$E^{-2.7}$ to $E^{-2.643}$ simply by minimizing the deviation from the Crouch
+curve. For chemical compositions other than standard rock, the propagation of
+the spectrum underground can be repeated with a different muon energy loss in
+the material. The resulting underground muon intensity curve represents a
+consistent conversion of the Crouch curve to the local rock, fully accounting
+for the energy dependence of the muon $dE/dx$.

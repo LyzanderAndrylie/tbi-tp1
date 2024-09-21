@@ -1,0 +1,10 @@
+We study the growth of a directed transportation network, such as a food web,
+in which links carry resources. We propose a growth process in which new nodes
+(or species) preferentially attach to existing nodes with high indegree (in
+food-web language, number of prey) and low outdegree (or number of predators).
+This scheme, which we call inverse preferential attachment, is intended to
+maximize the amount of resources available to each new node. We show that the
+outdegree (predator) distribution decays at least exponentially fast for large
+outdegree and is continuously tunable between an exponential distribution and a
+delta function. The indegree (prey) distribution is poissonian in the
+large-network limit.

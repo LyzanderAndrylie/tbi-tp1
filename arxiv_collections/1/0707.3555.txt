@@ -1,0 +1,11 @@
+We propose a kinetic theory to describe the power dependence, $I_{PC}(P)$, of
+the photocurrent (PC) lineshape in optically pumped quantum dots at low
+temperatures, in both zero and finite magnetic fields. We show that there is a
+crossover power $P_c$, determined by the electron and hole tunneling rates, at
+which the photocurrent spectra become strongly influenced by the dot kinetics,
+and no longer reflect the exciton lifetime in the dot. For $P>P_c$, we show
+that the photocurrent saturates due to the slow hole escape rate (in e.g.,
+InGaAs/GaAs dots), whereas the line-width increases with power: $\Gamma \propto
+\sqrt{P}$. We also analyze to what measure the spin-doublet lineshape of the
+photocurrent studied in a high magnetic field reflects the degree of circular
+polarization of the incident light.

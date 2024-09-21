@@ -1,0 +1,9 @@
+We propose the implementation of a geometric-phase gate on
+magnetic-field-insensitive qubits with $\hat{\sigma}^z$-dependent forces for
+trapped ion quantum computing. The force is exerted by two laser beams in a
+Raman configuration. Qubit-state dependency is achieved by a small frequency
+detuning from the virtually-excited state. Ion species with excited states of
+long radiative lifetimes are used to reduce the chance of a spontaneous photon
+emission to less than 10$^{-8}$ per gate-run. This eliminates the main source
+of gate infidelity of previous implementations. With this scheme it seems
+possible to reach the fault tolerant threshold.

@@ -1,0 +1,7 @@
+The charge of the subgap states in an Andreev quantum dot (AQD; this is a
+quantum dot inserted into a superconducting loop) is very sensitive to the
+magnetic flux threading the loop. We study the sensitivity of this device as a
+function of its parameters for the limit of a large superconducting gap. In our
+analysis, we account for the effects of a weak Coulomb interaction within the
+dot. We discuss the suitability of this setup as a device detecting weak
+magnetic fields.

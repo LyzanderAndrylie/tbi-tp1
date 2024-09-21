@@ -1,0 +1,9 @@
+We compute, in the MSSM framework, the sum of the one-loop electroweak and of
+the total QED radiation effects for the process $pp \to t W+X$, initiated by
+the parton process $bg\to tW$. Combining these terms with the existing NLO
+calculations of SM and SUSY QCD corrections, we analyze the overall one-loop
+supersymmetric effects on the partial rates of the process, obtained by
+integrating the differential cross section up to a final variable invariant
+mass. We conclude that, for some choices of the SUSY parameters and for
+relatively small final invariant masses, they could reach the relative ten
+percent level, possibly relevant for a dedicated experimental effort at LHC.

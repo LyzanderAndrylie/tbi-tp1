@@ -1,0 +1,6 @@
+We study how iterated convolutions of probability measures compare under
+stochastic domination. We give necessary and sufficient conditions for the
+existence of an integer $n$ such that $\mu^{*n}$ is stochastically dominated by
+$\nu^{*n}$ for two given probability measures $\mu$ and $\nu$. As a consequence
+we obtain a similar theorem on the majorization order for vectors in $\R^d$. In
+particular we prove results about catalysis in quantum information theory.

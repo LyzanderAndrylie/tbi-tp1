@@ -1,0 +1,7 @@
+The S-pi-calculus is a synchronous pi-calculus which is based on the SL
+model. The latter is a relaxation of the Esterel model where the reaction to
+the absence of a signal within an instant can only happen at the next instant.
+In the present work, we present and characterise a compositional semantics of
+the S-pi-calculus based on suitable notions of labelled transition system and
+bisimulation. Based on this semantic framework, we explore the notion of
+determinacy and the related one of (local) confluence.

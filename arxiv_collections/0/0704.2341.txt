@@ -1,0 +1,8 @@
+We construct a hierarchy of lattice fermions, where the coarser lattice Dirac
+operator is the Schur complement of the block UL decomposition of the finer
+lattice operator. We show that the construction is an exact gauged
+renormalisation group transformation of the lattice action. In particular,
+using such a transformation and the QCDLAB tool, it is shown how to implement
+the Ginsparg-Wilson strategy for chiral fermions in the presence of a dynamical
+gauge field. The scheme allows, for the first time, a full multigrid algorithm
+for lattice quarks.

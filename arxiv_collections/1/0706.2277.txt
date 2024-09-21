@@ -1,0 +1,11 @@
+We present and investigate different external cavity diode laser (ECDL)
+configurations for the manipulation of neutrals atoms, wavelength-stabilized by
+a narrow-band high transmission interference filter. A novel diode laser,
+providing high output power of more than 1 W, with a linewidth of less than 200
+kHz, based on a self-seeded tapered amplifier chip has been developed.
+Additionally, we compare the optical and spectral properties of two laser
+systems based on common laser diodes, differing in their coating, as well as
+one, based on a distributed-feedback (DFB) diode. The linear cavity setup in
+all these systems combines a robust and compact design with a high wavelength
+tunability and an improved stability of the optical feedback compared to diode
+laser setups using diffraction gratings for wavelength discrimination.

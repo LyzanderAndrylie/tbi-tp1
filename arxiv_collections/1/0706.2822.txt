@@ -1,0 +1,8 @@
+We have measured the quantum-Hall activation gaps in graphene at filling
+factors $\nu=2$ and $\nu=6$ for magnetic fields up to 32 T and temperatures
+from 4 K to 300 K. The $\nu =6$ gap can be described by thermal excitation to
+broadened Landau levels with a width of 400 K. In contrast, the gap measured at
+$\nu=2$ is strongly temperature and field dependent and approaches the expected
+value for sharp Landau levels for fields $B > 20$ T and temperatures $T > 100$
+K. We explain this surprising behavior by a narrowing of the lowest Landau
+level.

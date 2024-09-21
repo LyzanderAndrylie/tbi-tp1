@@ -1,0 +1,6 @@
+Hypertoric varieties are quaternionic analogues of toric varieties, important
+for their interaction with the combinatorics of matroids as well as for their
+prominent place in the rapidly expanding field of algebraic symplectic and
+hyperkahler geometry. The aim of this survey is to give clear definitions and
+statements of known results, serving both as a reference and as a point of
+entry to this beautiful subject.

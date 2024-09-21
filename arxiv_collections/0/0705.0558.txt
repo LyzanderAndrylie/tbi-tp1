@@ -1,0 +1,8 @@
+We use a 1.0-um-wide patterned Cu wire with an integrated nanomagnetic tip to
+measure the statistical nuclear polarization of 19F in CaF2 by magnetic
+resonance force microscopy (MRFM). With less than 350 uW of dissipated power,
+we achieve rf magnetic fields over 4 mT at 115 MHz for a sample positioned
+within 100 nm of the "microwire" rf source. A 200-nm diameter FeCo tip
+integrated onto the wire produces field gradients greater than 10^5 T/m at the
+same position. The large rf fields from the broadband microwire enable long
+rotating-frame spin lifetimes of up to 15 s at 4 K.

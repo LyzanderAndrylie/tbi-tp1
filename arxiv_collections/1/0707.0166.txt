@@ -1,0 +1,9 @@
+We report on the experimental combination of three advanced interferometer
+techniques for gravitational wave detection, namely power-recycling, detuned
+signal-recycling and squeezed field injection. For the first time we
+experimentally prove the compatibility of especially the latter two. To achieve
+a broadband non-classical sensitivity improvement we applied a filter cavity
+for compensation of quadrature rotation. Signal to noise ratio was improved by
+up to 2.8 dB beyond the coherent state's shot noise. The complete set-up was
+stably locked for arbitrary times and characterized by injected single-sideband
+modulation fields.

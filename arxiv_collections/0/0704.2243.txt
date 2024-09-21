@@ -1,0 +1,14 @@
+Using post-Newtonian equations of motion for fluid bodies valid to the second
+post-Newtonian order, we derive the equations of motion for binary systems with
+finite-sized, non-spinning but arbitrarily shaped bodies. In particular we
+study the contributions of the internal structure of the bodies (such as
+self-gravity) that would diverge if the size of the bodies were to shrink to
+zero. Using a set of virial relations accurate to the first post-Newtonian
+order that reflect the stationarity of each body, and redefining the masses to
+include 1PN and 2PN self-gravity terms, we demonstrate the complete
+cancellation of a class of potentially divergent, structure-dependent terms
+that scale as s^{-1} and s^{-5/2}, where s is the characteristic size of the
+bodies. This is further evidence of the Strong Equivalence Principle, and
+supports the use of post-Newtonian approximations to derive equations of motion
+for strong-field bodies such as neutron stars and black holes. This extends
+earlier work done by Kopeikin.

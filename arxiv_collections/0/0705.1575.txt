@@ -1,0 +1,17 @@
+The branching ratios and CP violations of the $B\to D\pi$ decays, including
+both the color-allowed and the color-suppressed modes, are investigated in
+detail within QCD framework by considering all diagrams which lead to three
+effective currents of two quarks. An intrinsic mass scale as a dynamical gluon
+mass is introduced to treat the infrared divergence caused by the soft
+collinear approximation in the endpoint regions, and the Cutkosky rule is
+adopted to deal with a physical-region singularity of the on mass-shell quark
+propagators. When the dynamical gluon mass $\mu_g$ is regarded as a universal
+scale, it is extracted to be around $\mu_g = 440$ MeV from one of the
+well-measured $B\to D\pi$ decay modes. The resulting predictions for all
+branching ratios are in agreement with the current experimental measurements.
+As these decays have no penguin contributions, there are no direct $CP$
+asymmetries. Due to interference between the Cabibbo-suppressed and the
+Cabibbo-favored amplitudes, mixing-induced CP violations are predicted in the
+$B\to D^{\pm}\pi^{\mp}$ decays to be consistent with the experimental data at
+1-$\sigma$ level. More precise measurements will be helpful to extract weak
+angle $2\beta+\gamma$.

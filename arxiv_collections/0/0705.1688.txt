@@ -1,0 +1,10 @@
+We investigate a cosmological model with a big-brake singularity in the
+future: while the first time derivative of the scale factor goes to zero, its
+second time derivative tends to minus infinity. Although we also discuss the
+classical version of the model in some detail, our main interest lies in its
+quantization. We formulate the Wheeler-DeWitt equation and derive solutions
+describing wave packets. We show that all such solutions vanish in the region
+of the classical singularity, a behaviour which we interpret as singularity
+avoidance. We then discuss the same situation in loop quantum cosmology. While
+this leads to a different factor ordering, the singularity is there avoided,
+too.

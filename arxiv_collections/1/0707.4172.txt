@@ -1,0 +1,15 @@
+We study the properties of a one-dimensional (1D) gas of fermions trapped in
+a lattice by means of the density matrix renormalization group method, focusing
+on the case of unequal spin populations, and strong attractive interaction. In
+the low density regime, the system phase-separates into a well defined
+superconducting core and a fully polarized metallic cloud surrounding it. We
+argue that the superconducting phase corresponds to a 1D analogue of the
+Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state, with a quasi-condensate of
+tightly bound bosonic pairs with a finite center-of-mass momentum that scales
+linearly with the magnetization. In the large density limit, the system allows
+for four phases: in the core, we either find a Fock state of localized pairs or
+a metallic shell with free spin-down fermions moving in a fully filled
+background of spin-up fermions. As the magnetization increases, the Fock state
+disappears to give room for a metallic phase, with a partially polarized
+superconducting FFLO shell and a fully polarized metallic cloud surrounding the
+core.

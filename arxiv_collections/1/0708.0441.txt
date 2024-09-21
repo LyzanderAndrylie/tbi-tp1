@@ -1,0 +1,7 @@
+In the framework of the Density Functional Theory for superconductors, we
+study the restoration of the particle number symmetry by means of the
+projection technique. Conceptual problems are outlined and numerical
+difficulties are discussed. Both are related to the fact that neither the
+many-body Hamiltonian nor the wave function of the system appear explicitly in
+the Density Functional Theory. Similar obstacles are encountered in
+self-consistent theories utilizing density-dependent effective interactions.

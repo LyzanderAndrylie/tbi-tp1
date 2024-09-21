@@ -1,0 +1,14 @@
+Image and video quality in Long Range Observation Systems (LOROS) suffer from
+atmospheric turbulence that causes small neighbourhoods in image frames to
+chaotically move in different directions and substantially hampers visual
+analysis of such image and video sequences. The paper presents a real-time
+algorithm for perfecting turbulence degraded videos by means of stabilization
+and resolution enhancement. The latter is achieved by exploiting the turbulent
+motion. The algorithm involves generation of a reference frame and estimation,
+for each incoming video frame, of a local image displacement map with respect
+to the reference frame; segmentation of the displacement map into two classes:
+stationary and moving objects and resolution enhancement of stationary objects,
+while preserving real motion. Experiments with synthetic and real-life
+sequences have shown that the enhanced videos, generated in real time, exhibit
+substantially better resolution and complete stabilization for stationary
+objects while retaining real motion.

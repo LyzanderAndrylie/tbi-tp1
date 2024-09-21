@@ -1,0 +1,9 @@
+In this paper we study Hardy and Rellich type inequalities for
+Baouendi-Grushin vector fields : $\nabla_{\gamma}=(\nabla_x,
+|x|^{2\gamma}\nabla_y)$ where $\gamma>0$, $\nabla_x$ and $\nabla_y$ are usual
+gradient operators in the variables $x\in \mathbb{R}^m$ and $y\in\mathbb{R}^k$,
+respectively. In the first part of the paper, we prove some weighted Hardy type
+inequalities with remainder terms. In the second part, we prove two versions of
+weighted Rellich type inequality on the whole space. We find sharp constants
+for these inequalities. We also obtain their improved versions for bounded
+domains.

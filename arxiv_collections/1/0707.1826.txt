@@ -1,0 +1,9 @@
+The insulator to metal transition in LaTiO_3 induced by La substitution via
+Sr is studied within multi-band exact diagonalization dynamical mean field
+theory at finite temperatures. It is shown that weak hole doping triggers a
+large interorbital charge transfer, with simultaneous electron and hole doping
+of t2g subbands. The transition is first-order and exhibits phase separation
+between insulator and metal. In the metallic phase, subband compressibilities
+become very large and have opposite signs. Electron doping gives rise to an
+interorbital charge flow in the same direction as hole doping. These results
+can be understood in terms of a strong orbital depolarization.

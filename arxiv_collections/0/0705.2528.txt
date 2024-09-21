@@ -1,0 +1,24 @@
+We compare the use of galaxy asymmetry and pair proximity for measuring
+galaxy merger fractions and rates for a volume limited sample of 3184 galaxies
+with -21 < M(B) -5 log h < -18 mag. and 0.010 < z < 0.123 drawn from the
+Millennium Galaxy Catalogue. Our findings are that:
+  (i) Galaxies in close pairs are generally more asymmetric than isolated
+galaxies and the degree of asymmetry increases for closer pairs. At least 35%
+of close pairs (with projected separation of less than 20 h^{-1} kpc and
+velocity difference of less than 500 km s^{-1}) show significant asymmetry and
+are therefore likely to be physically bound.
+  (ii) Among asymmetric galaxies, we find that at least 80% are either
+interacting systems or merger remnants. However, a significant fraction of
+galaxies initially identified as asymmetric are contaminated by nearby stars or
+are fragmented by the source extraction algorithm. Merger rates calculated via
+asymmetry indices need careful attention in order to remove the above sources
+of contamination, but are very reliable once this is carried out.
+  (iii) Close pairs and asymmetries represent two complementary methods of
+measuring the merger rate. Galaxies in close pairs identify future mergers,
+occurring within the dynamical friction timescale, while asymmetries are
+sensitive to the immediate pre-merger phase and identify remnants.
+  (iv) The merger fraction derived via the close pair fraction and asymmetries
+is about 2% for a merger rate of (5.2 +- 1.0) 10^{-4} h^3 Mpc^{-3} Gyr^{-1}.
+These results are marginally consistent with theoretical simulations (depending
+on the merger time-scale), but imply a flat evolution of the merger rate with
+redshift up to z ~1.

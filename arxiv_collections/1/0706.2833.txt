@@ -1,0 +1,7 @@
+The Bose-Einstein condensation (BEC) critical temperature in a relativistic
+ideal Bose gas of identical bosons, with and without the antibosons expected to
+be pair-produced abundantly at sufficiently hot temperatures, is exactly
+calculated for all boson number-densities, all boson point rest masses, and all
+temperatures. The Helmholtz free energy at the critical BEC temperature is
+found to be lower, thus implying that the omission of antibosons always leads
+to the computation of a metastable state.

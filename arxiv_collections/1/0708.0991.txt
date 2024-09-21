@@ -1,0 +1,10 @@
+Light transmission through 2D subwavelength hole arrays in perfect-conductor
+films is shown to be complete (100%) at some resonant wavelengths even for
+arbitrarily narrow holes. Conversely, the reflection on a 2D planar array of
+non-absorbing scatterers is shown to be complete at some wavelengths regardless
+how weak the scatterers are. These results are proven analytically and
+corroborated by rigorous numerical solution of Maxwell's equations. This work
+supports the central role played by dynamical diffraction during light
+transmission through subwavelength hole arrays and it provides a systematics to
+analyze more complex geometries and many of the features observed in connection
+with transmission through hole arrays.

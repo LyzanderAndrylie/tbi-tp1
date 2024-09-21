@@ -1,0 +1,10 @@
+Optical tweezers and optical lattices are making it possible to control small
+particles by means of electromagnetic forces and torques. In this context, a
+method is presented in this work to calculate electromagnetic forces and
+torques for arbitrarily-shaped objects in the presence of other objects
+illuminated by a plane wave. The method is based upon an expansion of the
+electromagnetic field in terms of multipoles around each object, which are in
+turn used to derive forces and torques analytically. The calculation of
+multipole coefficients are obtained numerically by means of the boundary
+element method. Results are presented for both spherical and non-spherical
+objects.

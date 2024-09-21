@@ -1,0 +1,17 @@
+We present a detailed study of a linear sigma model containing one chiral
+nonet transforming under U(1)$_A$ as a quark-antiquark composite and another
+chiral nonet transforming as a diquark-anti diquark composite (or, equivalently
+from a symmetry point of view, as a two meson molecule). The model provides an
+intuitive explanation of a current puzzle in low energy QCD: Recent work has
+suggested the existence of a lighter than 1 GeV nonet of scalar mesons which
+behave like four quark composites. On the other hand, the validity of a
+spontaneously broken chiral symmetric description would suggest that these
+states be chiral partners of the light pseudoscalar mesons, which are two quark
+composites. The model solves the problem by starting with the two chiral nonets
+mentioned and allowing them to mix with each other. The input of physical
+masses in the SU(3) invariant limit for two scalar octets and an "excited" pion
+octet results in a mixing pattern wherein the light scalars have a large four
+quark content while the light pseudoscalars have a large two quark content. One
+light isosinglet scalar is exceptionally light. In addition, the pion pion
+scattering is also studied and the current algebra theorem is verified for
+massless pions which contain some four quark admixture.

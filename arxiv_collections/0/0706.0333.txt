@@ -1,0 +1,12 @@
+In this paper, we propose a probabilistic approach to the study of the
+characteristic polynomial of a random unitary matrix. We recover the Mellin
+Fourier transform of such a random polynomial, first obtained by Keating and
+Snaith, using a simple recursion formula, and from there we are able to obtain
+the joint law of its radial and angular parts in the complex plane. In
+particular, we show that the real and imaginary parts of the logarithm of the
+characteristic polynomial of a random unitary matrix can be represented in law
+as the sum of independent random variables. From such representations, the
+celebrated limit theorem obtained by Keating and Snaith is now obtained from
+the classical central limit theorems of Probability Theory, as well as some new
+estimates for the rate of convergence and law of the iterated logarithm type
+results.

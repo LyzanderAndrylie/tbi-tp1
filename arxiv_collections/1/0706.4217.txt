@@ -1,0 +1,9 @@
+The high-accuracy W4 computational thermochemistry protocol, and several
+post-W4 methods, have been applied to the P$_2$ and P$_4$ molecules. Contrary
+to previous studies, we find the experimental thermochemistry to be
+fundamentally sound. The reaction enthalpy for P$_4\to 2$P$_2$ has a very
+significant contribution from post-CCSD(T) correlation effects. We derive a
+gas-phase heat of formation for the phosphorus atom of $\Delta
+H^\circ_{f,0}$[P(g)]=75.54$\pm$0.1 kcal/mol and $\Delta
+H^\circ_{f,298}$[P(g)]=75.74$\pm$0.1 kcal/mol, in the upper half of the CODATA
+uncertainty interval.

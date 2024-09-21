@@ -1,0 +1,17 @@
+We consider the question of which right-angled Artin groups contain closed
+hyperbolic surface subgroups. It is known that a right-angled Artin group
+$A(K)$ has such a subgroup if its defining graph $K$ contains an $n$-hole (i.e.
+an induced cycle of length $n$) with $n\geq 5$. We construct another eight
+"forbidden" graphs and show that every graph $K$ on $\le 8$ vertices either
+contains one of our examples, or contains a hole of length $\ge 5$, or has the
+property that $A(K)$ does not contain hyperbolic closed surface subgroups. We
+also provide several sufficient conditions for a \RAAG to contain no hyperbolic
+surface subgroups.
+  We prove that for one of these "forbidden" subgraphs $P_2(6)$, the right
+angled Artin group $A(P_2(6))$ is a subgroup of a (right angled Artin) diagram
+group. Thus we show that a diagram group can contain a non-free hyperbolic
+subgroup answering a question of Guba and Sapir. We also show that fundamental
+groups of non-orientable surfaces can be subgroups of diagram groups. Thus the
+first integral homology of a subgroup of a diagram group can have torsion (all
+homology groups of all diagram groups are free Abelian by a result of Guba and
+Sapir).

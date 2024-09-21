@@ -1,0 +1,9 @@
+The performance of field effect transistors based on an single graphene
+ribbon with a constriction and a single back gate are studied with the help of
+atomistic models. It is shown how this scheme, unlike that of traditional
+carbon-nanotube-based transistors, reduces the importance of the specifics of
+the chemical bonding to the metallic electrodes in favor of the carbon-based
+part of device. The ultimate performance limits are here studied for various
+constriction and metal-ribbon contact models. In particular we show that, even
+for poorly contacting metals, properly taylored constrictions can give
+promising values for both the on-conductance and the subthreshold swing.

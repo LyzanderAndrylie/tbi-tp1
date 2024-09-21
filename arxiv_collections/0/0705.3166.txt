@@ -1,0 +1,8 @@
+We use a double quantum dot as a frequency-tunable on-chip microwave detector
+to investigate the radiation from electron shot-noise in a near-by quantum
+point contact. The device is realized by monitoring the inelastic tunneling of
+electrons between the quantum dots due to photon absorption. The frequency of
+the absorbed radiation is set by the energy separation between the dots, which
+is easily tuned with gate voltages. Using time-resolved charge detection
+techniques, we can directly relate the detection of a tunneling electron to the
+absorption of a single photon.

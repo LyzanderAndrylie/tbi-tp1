@@ -1,0 +1,13 @@
+We resolve the long standing controversy regarding the imaging by a planar
+lens made of left-handed media and demonstrate theoretically that its far field
+image has a fundamentally different origin depending on the relationship
+between losses {inside} the lens and the wavelength of the light $\lambda$. At
+small enough $\lambda$ the image is always governed by diffraction theory, and
+the resolution is independent of the absorption if both Im$\epsilon \ll 1$ and
+Im$\mu \ll 1$. For any finite $\lambda$, however, a critical absorption exists
+below which the superresolution regime takes place, though this absorption is
+extremely low and can hardly be achieved. We demonstrate that the transition
+between diffraction limited and superresolution regimes is governed by {the}
+universal parameter combining absorption, wavelength, and lens thickness.
+Finally, we show that this parameter is related to the resonant excitation of
+the surface plasma waves.

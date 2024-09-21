@@ -1,0 +1,13 @@
+The estimation of rare K decay matrix-elements from Kl3 experimental data is
+extended beyond LO in Chiral Perturbation Theory. Isospin-breaking effects at
+NLO (and partially NNLO) in the ChPT expansion, as well as QED radiative
+corrections are now accounted for. The analysis relies mainly on the cleanness
+of two specific ratios of form-factors, for which the theoretical control is
+excellent. As a result, the uncertainties on the K+ --> pi+ nu nubar and KL -->
+pi0 nu nubar matrix-elements are reduced by a factor of about 7 and 4,
+respectively, and similarly for the direct CP-violating contribution to KL -->
+pi0 l+ l-. They could be reduced even further with better experimental data for
+the Kl3 slopes and the K+l3 branching ratios. As a result, the non-parametric
+errors for B(K --> pi nu nubar) and for the direct CP-violating contributions
+to B(KL --> pi0 l+ l-) are now completely dominated by those on the
+short-distance physics.

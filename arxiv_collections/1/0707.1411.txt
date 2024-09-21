@@ -1,0 +1,9 @@
+Branched covers are applied frequently in topology - most prominently in the
+construction of closed oriented PL d-manifolds. In particular, strong bounds
+for the number of sheets and the topology of the branching set are known for
+dimension d<=4. On the other hand, Izmestiev and Joswig described how to obtain
+a simplicial covering space (the partial unfolding) of a given simplicial
+complex, thus obtaining a simplicial branched cover [Adv. Geom. 3(2):191-255,
+2003]. We present a large class of branched covers which can be constructed via
+the partial unfolding. In particular, for d<=4 every closed oriented PL
+d-manifold is the partial unfolding of some polytopal d-sphere.

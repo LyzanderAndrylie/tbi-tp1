@@ -1,0 +1,16 @@
+This paper studies the problem of maximizing the expected utility of terminal
+wealth for a financial agent with an unbounded random endowment, and with a
+utility function which supports both positive and negative wealth. We prove the
+existence of an optimal trading strategy within a class of permissible
+strategies -- those strategies whose wealth process is a supermartingale under
+all pricing measures with finite relative entropy. We give necessary and
+sufficient conditions for the absence of utility-based arbitrage, and for the
+existence of a solution to the primal problem.
+  We consider two utility-based methods which can be used to price contingent
+claims. Firstly we investigate marginal utility-based price processes
+(MUBPP's). We show that such processes can be characterized as local
+martingales under the normalized optimal dual measure for the utility
+maximizing investor. Finally, we present some new results on utility
+indifference prices, including continuity properties and volume asymptotics for
+the case of a general utility function, unbounded endowment and unbounded
+contingent claims.

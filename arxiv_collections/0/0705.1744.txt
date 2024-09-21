@@ -1,0 +1,7 @@
+Jamming and avalanche statistics are studied in a simulation of the discharge
+of a polydisperse ensemble of disks from a 2-D silo. Exponential distributions
+are found for the avalanche sizes for all sizes of the exit opening, in
+agreement with reported experiments. The average avalanche size grows quite
+fast with the size of the exit opening. Data for this growth agree better with
+a critical divergence with a large critical exponent, as reported for 3-D
+experiments, than with the exponential growth reported for 2-D experiments.

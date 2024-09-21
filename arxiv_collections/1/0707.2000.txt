@@ -1,0 +1,5 @@
+We have constructed a noise measurement setup for high impedance carbon
+nanotube samples. Our setup, working in the frequency range of 600 - 900 MHz,
+takes advantage of the fact that the shot noise power is reasonably large for
+high impedance sources so that relatively large, fixed non-matching conditions
+can be tolerated.

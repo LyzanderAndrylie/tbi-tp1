@@ -1,0 +1,22 @@
+We analyze the local field of stellar tangential velocities for a sample of
+$42 339$ non-binary Hipparcos stars with accurate parallaxes, using a vector
+spherical harmonic formalism. We derive simple relations between the parameters
+of the classical linear model (Ogorodnikov-Milne) of the local systemic field
+and low-degree terms of the general vector harmonic decomposition. Taking
+advantage of these relationships we determine the solar velocity with respect
+to the local stars of $(V_X,V_Y,V_Z)=(10.5, 18.5, 7.3)\pm 0.1$ \kms. The Oort's
+parameters determined by a straightforward least-squares adjustment in vector
+spherical harmonics, are $A=14.0\pm 1.4$, $B=-13.1\pm 1.2$, $K=1.1\pm 1.8$, and
+$C=-2.9\pm 1.4$ \kmspc. We find a few statistically significant higher degree
+harmonic terms, which do not correspond to any parameters in the classical
+linear model. One of them, a third-degree electric harmonic, is tentatively
+explained as the response to a negative linear gradient of rotation velocity
+with distance from the Galactic plane, which we estimate at $\sim -20$ \kmspc.
+The most unexpected and unexplained term within the Ogorodnikov-Milne model is
+the first-degree magnetic harmonic representing a rigid rotation of the stellar
+field about the axis $-Y$ pointing opposite to the direction of rotation. This
+harmonic comes out with a statistically robust coefficient $6.2 \pm 0.9$
+\kmspc, and is also present in the velocity field of more distant stars. The
+ensuing upward vertical motion of stars in the general direction of the
+Galactic center and the downward motion in the anticenter direction are
+opposite to the vector field expected from the stationary Galactic warp model.

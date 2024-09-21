@@ -1,0 +1,14 @@
+We employ the Boltzmann equation for describing hadron production from a
+quark-gluon plasma (QGP) in ultrarelativistic heavy-ion collisions. We propose
+resonance formation in quark-antiquark scattering as the dominant
+meson-production channel, which, in particular, ensures that energy is
+conserved in the recombination process. This, in turn, facilitates a more
+controlled extension of hadronization to low transverse momenta ($p_T$), and to
+address the experimentally observed transition from a hydrodynamic regime to
+constituent quark-number scaling (CQNS). Based on input distributions for
+strange and charm quarks with azimuthal asymmetries, $v_2(p_T)$, characteristic
+for RHIC energies, we recover CQNS at sufficiently high $p_T$, while at low
+$p_T$ a scaling with transverse kinetic energy is found, reminiscent to
+experiment. The dependence of the transition regime on microscopic QGP
+properties, i.e. resonance widths and $Q$-values in the $q+\bar q \to M$
+process, is elucidated.

@@ -1,0 +1,15 @@
+Photoinduced melting of charge order is calculated by using the exact
+many-electron wave function coupled with classically treated phonons in the
+one-dimensional quarter-filled Hubbard model with Peierls and Holstein types of
+electron-phonon couplings. The model parameters are taken from recent
+experiments on (EDO-TTF)_2PF_6 (EDO-TTF=ethylenedioxy-tetrathiafulvalene) with
+(0110) charge order, where transfer integrals are modulated by molecular
+displacements (bond-coupled phonons) and site energies by molecular
+deformations (charge-coupled phonons). The charge-transfer photoexcitation from
+(0110) to (0200) configurations and that from (0110) to (1010) configurations
+have different energies. The corresponding excited states have different shapes
+of adiabatic potentials as a function of these two phonon amplitudes. The
+adiabatic potentials are shown to be useful in understanding differences in the
+photoinduced charge dynamics and the efficiency of melting, which depend not
+only on the excitation energy but also on the relative phonon frequency of the
+bond- and charge-coupled phonons.

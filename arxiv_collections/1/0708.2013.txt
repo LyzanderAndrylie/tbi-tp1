@@ -1,0 +1,20 @@
+Quantum amplitudes for $s=1$ at Maxwell fields and for $s=2$ linearised
+gravitational wave perturbations of a spherically symmetric Einstein/massless
+scalar background, describing gravitational collapse to a black hole, are
+treated by analogy with a previous treatment of $s=0$ scalar-field
+perturbations of gravitational collapse at late times. In both the $s=1$ and
+$s=2$ cases, we isolate suitable 'co-ordinate' variables which can be taken as
+boundary data on a final space-like hypersurface $\Sigma_F$. For simplicity, we
+take the data on an initial pre-collapse surface $\Sigma_I$ to be exactly
+spherically symmetric. The (large) Lorentzian proper-time interval between
+$\Sigma_{I}, \Sigma_{F}$, measured at spatial infinity, is denoted by $T$. The
+complexified classical boundary-value problem is expected to be well-posed,
+provide that the time interval $T$ has been rotated into the complex:
+$T\to{\mid}T{\mid}\exp(-i\theta)$, for $0<\theta\leq{\pi}/2$. We calculate the
+second-variation classical Lorenztian action $S ^{(2)}_{\rm class}$. Following
+Feynman, we recover the Lorentzian quantum amplitude by taking the limit as
+$\theta\to 0_+$ of the semi-classical amplitude $\exp(iS^{(2)}_{\rm class})$.
+The boundary data for $ s=1$ involve the Maxwell magnetic field; the data for
+$s=2$ involve the magnetic part of the Weyl curvature tensor. The magnetic
+boundary conditions are related to each other and to the natural $s={1 \over
+2}$ boundary conditions by supersymmetry.

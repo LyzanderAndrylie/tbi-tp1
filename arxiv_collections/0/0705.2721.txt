@@ -1,0 +1,9 @@
+Forest-fire waiting times, defined as the time between successive events
+above a certain size in a given region, are calculated for Italy. The
+probability densities of the waiting times are found to verify a scaling law,
+despite that fact that the distribution of fire sizes is not a power law. The
+meaning of such behavior in terms of the possible self-similarity of the
+process in a nonstationary system is discussed. We find that the scaling law
+arises as a consequence of the stationarity of fire sizes and the existence of
+a non-trivial ``instantaneous'' scaling law, sustained by the correlations of
+the process.

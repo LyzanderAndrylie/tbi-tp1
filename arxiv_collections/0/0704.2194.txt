@@ -1,0 +1,4 @@
+We introduce the concept of Casimir friction, i.e. friction due to quantum
+fluctuations. In this first article we describe the calculation of a constant
+torque, arising from the scattering of quantum fluctuations, on a dielectric
+rotating in an electromagnetic vacuum.

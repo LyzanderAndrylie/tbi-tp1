@@ -1,0 +1,9 @@
+Condition monitoring techniques are described in this chapter. Two aspects of
+condition monitoring process are considered: (1) feature extraction; and (2)
+condition classification. Feature extraction methods described and implemented
+are fractals, Kurtosis and Mel-frequency Cepstral Coefficients. Classification
+methods described and implemented are support vector machines (SVM), hidden
+Markov models (HMM), Gaussian mixture models (GMM) and extension neural
+networks (ENN). The effectiveness of these features were tested using SVM, HMM,
+GMM and ENN on condition monitoring of bearings and are found to give good
+results.

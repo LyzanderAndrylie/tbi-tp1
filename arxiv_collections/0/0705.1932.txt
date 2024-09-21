@@ -1,0 +1,24 @@
+In this thesis, we consider some spin effects in QCD and recurrence lattices
+with multi-site exchanges. Main topic of our manuscript are critical phenomena
+in spin systems defined on the recurrence lattices. Main tool of our approach
+is the method of recursive (hierarchical) lattices. We apply the method of
+dynamical mapping (or recursive lattices) for investigation of magnetic
+properties of the fluid and solid $^3$He, phase transitions in crystals and
+macromolecules. First, we analyze the helix-coil phase transition for
+polypeptides and proteins, and describe an quasi unfolding transition (like the
+cold denaturation process) for the degree of helicity (the order parameter for
+macromolecules). Next we consider the recurrent models of $^3$He defined on the
+square, Husimi and hexagon lattices. Using the method of dynamical mapping, the
+magnetization curves with plateaus, bifurcation point and one period doubling
+are obtained. Then we investigate the model with cubic symmetry defined on the
+Bethe lattice and containing both linear and quadratic spin-spin interactions.
+The magnetization of the system is calculated, and a complex structure of the
+phase transitions between the disordered, partially ordered and completely
+ordered states is observed. In the framework of QCD, we consider the azimuthal
+asymmetries in heavy flavor production in the lepton-nucleon deep inelastic
+scattering (DIS). We calculate the azimuthal (or $\phi$-) dependence of the
+next-to-leading order heavy-quark-initiated contributions to DIS. It is shown
+that, contrary to the basic gluon-initiated component, the photon-quark
+scattering mechanism is practically $\cos2\phi$-independent. We investigate the
+possibility of measuring both nonperturbative (intrinsic) and perturbative
+(CTEQ, MRST) charm distributions using the $\cos2\phi$ asymmetry.

@@ -1,0 +1,9 @@
+A tensor invariant is defined on a quaternionic contact manifold in terms of
+the curvature and torsion of the Biquard connection involving derivatives up to
+third order of the contact form. This tensor, called quaternionic contact
+conformal curvature, is similar to the Weyl conformal curvature in Riemannian
+geometry and to the Chern-Moser tensor in CR geometry. It is shown that a
+quaternionic contact manifold is locally quaternionic contact conformal to the
+standard flat quaternionic contact structure on the quaternionic Heisenberg
+group, or equivalently, to the standard 3-sasakian structure on the sphere iff
+the quaternionic contact conformal curvature vanishes.

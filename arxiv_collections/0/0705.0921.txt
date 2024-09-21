@@ -1,0 +1,22 @@
+Phenomenologically viable and interesting regions of parameter space in the
+minimal super-gravity (mSUGRA) model with small $m_0$ and small $m_{1/2}$
+consistent with the WMAP data on dark matter relic density and the bound on the
+mass of the lightest Higgs scalar $ m_h>$ 114 GeV from LEP2 open up if the
+rather adhoc assumption $A_0$=0, where $A_0$ is the common trilinear soft
+breaking parameter, employed in most of the existing analyses is relaxed. Since
+this region corresponds to relatively light squarks and gluinos which are
+likely to be probed extensively in the very early stages of the LHC
+experiments, the consequences of moderate or large negative values of $A_0$ are
+examined in detail. We find that in this region several processes including
+lightest supersymmetric particle (LSP) pair annihilation, LSP - lighter tau
+slepton (${\tilde \tau}_1$) coannihilation and LSP - lighter top squark
+(${\tilde t}_1$) coannihilation contribute to the observed dark matter relic
+density. %\sout{The possibility that a relic density producing ${\tilde t}_1$
+can be %observed at the current experiments at the Tevatron is wide open.} The
+possibility that a ${\tilde t}_1$ that can participate in coannihilation with
+the lightest neutralino to satisfy the WMAP bound on relic density and at the
+same time be observed at the current experiments at the Tevatron is wide open.
+At the LHC a large number of squark - gluino events lead to a very distinctive
+semi-inclusive signature $\tau^\pm$+X$_\tau$ (anything without a tau lepton)
+with a characteristic size much larger than $e^\pm$+X$_e$ or $\mu^\pm$+X$_\mu$
+events.

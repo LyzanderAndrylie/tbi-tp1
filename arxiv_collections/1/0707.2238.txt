@@ -1,0 +1,13 @@
+This paper proposes a method to calculate the largest Regular Dextrous
+Workspace (RDW) of some types of three-revolute orthogonal manipulators that
+have at least one of their DH parameters equal to zero. Then a new performance
+index based on the RDW is introduced, the isocontours of this index are plotted
+in the parameter space of the interesting types of manipulators and finally an
+inspection of the domains of the parameter spaces is conducted in order to
+identify the better manipulator architectures. The RDW is a part of the
+workspace whose shape is regular (cube, cylinder) and the performances
+(conditioning index) are bounded inside. The groups of 3R orthogonal
+manipulators studied have interesting kinematic properties such as, a
+well-connected workspace that is fully reachable with four inverse kinematic
+solutions and that does not contain any void. This study is of high interest
+for the design of alternative manipulator geometries.

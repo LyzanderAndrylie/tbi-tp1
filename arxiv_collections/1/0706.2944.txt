@@ -1,0 +1,9 @@
+In this paper we argue that in the kinematic range given by $ 1 \ll
+\ln(1/\as^2) \ll \as Y \ll \frac{1}{\as}$, we can reduce the Pomeron calculus
+to the exchange of non-interacting Pomerons with the renormalized amplitude of
+their interaction with the target. Therefore, the summation of the Pomeron
+loops can be performed using the improved Mueller, Patel, Salam and Iancu
+approximation and this leads to the geometrical scaling solution. This solution
+is found for the simplified BFKL kernel. We reproduce the findings of Hatta and
+Mueller that there are overlapping singularities. We suggest a way of dealing
+with these singularities.

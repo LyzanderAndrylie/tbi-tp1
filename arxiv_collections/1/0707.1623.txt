@@ -1,0 +1,6 @@
+We present an alternative frequencists' proof of the quantum probability rule
+which does not make use of the frequency operator, with expectation that this
+can circumvent the recent criticism against the previous proofs which use it.
+We also argue that avoiding the frequency operator is not only for technical
+merits for doing so but is closely related to what quantum mechanics is all
+about from the viewpoint of many-world interpretation.

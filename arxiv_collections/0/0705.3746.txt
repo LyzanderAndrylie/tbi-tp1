@@ -1,0 +1,14 @@
+We propose a generalization of the Tonks-Girardeau model that describes a
+coherent gas of cold two-level Bosons which interact with two external fields
+in a Ramsey interferometer. They also interact among themselves by contact
+collisions with interchange of momentum and internal state. We study the
+corresponding Ramsey fringes and the quantum projection noise which,
+essentially unaffected by the interactions, remains that for ideal Bosons. The
+dual system of this gas, an ideal gas of two-level Fermions coupled by the
+interaction with the separated fields, produces the same fringes and noise
+fluctuations. The cases of time-separated and spatially-separated fields are
+studied. For spatially separated fields the fringes may be broadened slightly
+by increasing the number of particles, but only for large particle numbers far
+from present experiments with Tonks-Girardeau gases. The uncertainty in the
+determination of the atomic transition frequency diminishes, essentially with
+the inverse root of the particle number.

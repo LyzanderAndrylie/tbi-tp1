@@ -1,0 +1,16 @@
+We present the first measurement of the black hole (BH) mass function for
+broad-line active galaxies in the local Universe. Using the ~9000 broad-line
+active galaxies from the Fourth Data Release of the Sloan Digital Sky Survey,
+we construct a broad-line luminosity function that agrees very well with the
+local soft X-ray luminosity function. Using standard virial relations, we then
+convert observed broad-line luminosities and widths into BH masses. A mass
+function constructed in this way has the unique capability to probe the mass
+region <10^6 M_sun, which, while insignificant in terms of total BH mass
+density, nevertheless may place important constraints on the mass distribution
+of seed BHs in the early Universe. The characteristic local active BH has a
+mass of ~10^7 M_sun radiating at 10% of the Eddington rate. The active fraction
+is a strong function of BH mass; at both higher and lower masses the active
+mass function falls more steeply than one would infer from the distribution of
+bulge luminosity. The deficit of local massive radiating BHs is a well-known
+phenomenon, while we present the first robust measurement of a decline in the
+space density of active BHs at low mass.

@@ -1,0 +1,4 @@
+We present a short survey on fluctuation-enhanced gas sensing. We compare
+some of its main characteristics with those of classical sensing. We address
+the problem of linear response, information channel capacity, missed alarms and
+false alarms.

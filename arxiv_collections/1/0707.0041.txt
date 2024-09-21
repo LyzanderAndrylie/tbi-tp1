@@ -1,0 +1,12 @@
+We study entanglement in two coupled quartic oscillators. It is shown that
+the entanglement, as measured by the von Neumann entropy, increases with the
+classical chaos parameter for generic chaotic eigenstates. We consider certain
+isolated periodic orbits whose bifurcation sequence affects a class of quantum
+eigenstates, called the channel localized states. For these states, the
+entanglement is a local minima in the vicinity of a pitchfork bifurcation but
+is a local maxima near a anti-pitchfork bifurcation. We place these results in
+the context of the close connections that may exist between entanglement
+measures and conventional measures of localization that have been much studied
+in quantum chaos and elsewhere. We also point to an interesting near-degeneracy
+that arises in the spectrum of reduced density matrices of certain states as an
+interplay of localization and symmetry.

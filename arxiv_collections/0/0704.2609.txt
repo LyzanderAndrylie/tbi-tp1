@@ -1,0 +1,7 @@
+A discrete (finite-difference) analogue of differential forms is considered,
+defined on simplicial complexes, including triangulations of continuous
+manifolds. Various operations are explicitly defined on these forms, including
+exterior derivative and exterior product. The latter one is non-associative.
+Instead, as anticipated, it is a part of non-trivial A-infinity structure,
+involving a chain of poly-linear operations, constrained by nilpotency
+relation: (d + \wedge + m + ...)^n = 0 with n=2.

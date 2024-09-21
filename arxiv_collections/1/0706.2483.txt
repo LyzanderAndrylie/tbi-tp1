@@ -1,0 +1,7 @@
+Let || . || be a norm on R^n. Averaging || (\eps_1 x_1, ..., \eps_n x_n) ||
+over all the 2^n choices of \eps = (\eps_1, ..., \eps_n) in {-1, +1}^n, we
+obtain an expression ||| . ||| which is an unconditional norm on R^n.
+  Bourgain, Lindenstrauss and Milman showed that, for a certain (large)
+constant \eta > 1, one may average over (\eta n) (random) choices of \eps and
+obtain a norm that is isomorphic to ||| . |||. We show that this is the case
+for any \eta > 1.

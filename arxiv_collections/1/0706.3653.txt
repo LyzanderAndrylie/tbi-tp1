@@ -1,0 +1,15 @@
+We show that the total time of evolution from the initial quantum state to
+final quantum state and then back to the initial state, i.e., making a round
+trip along the great circle over S^2, must have a lower bound in quantum
+mechanics, if the difference between two eigenstates of the 2\times 2
+Hamiltonian is kept fixed. Even the non-hermitian quantum mechanics can not
+reduce it to arbitrarily small value. In fact, we show that whether one uses a
+hermitian Hamiltonian or a non-hermitian, the required minimal total time of
+evolution is same. It is argued that in hermitian quantum mechanics the
+condition for minimal time evolution can be understood as a constraint coming
+from the orthogonality of the polarization vector \bf P of the evolving quantum
+state \rho={1/2}(\bf 1+ \bf{P}\cdot\boldsymbol{\sigma}) with the vector
+\boldsymbol{\mathcal O}(\Theta) of the 2\times 2 hermitian Hamiltonians H
+={1/2}({\mathcal O}_0\boldsymbol{1}+ \boldsymbol{\mathcal
+O}(\Theta)\cdot\boldsymbol{\sigma}) and it is shown that the Hamiltonian H can
+be parameterized by two independent parameters {\mathcal O}_0 and \Theta.

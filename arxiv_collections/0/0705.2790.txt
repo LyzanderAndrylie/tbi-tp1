@@ -1,0 +1,5 @@
+We study a particle moving at unit speed in a self-similar Lorentz billiard
+channel; the latter consists of an infinite sequence of cells which are
+identical in shape but growing exponentially in size, from left to right. We
+present numerical computation of the drift term in this system and establish
+the logarithmic periodicity of the corrections to the average drift.

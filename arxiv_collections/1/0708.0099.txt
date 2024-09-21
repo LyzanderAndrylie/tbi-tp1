@@ -1,0 +1,4 @@
+In this paper, we prove the local well-posedness for the Ideal MHD equations
+in the Triebel-Lizorkin spaces and obtain blow-up criterion of smooth
+solutions. Specially, we fill a gap in a step of the proof of the local
+well-posedness part for the incompressible Euler equation in \cite{Chae1}.

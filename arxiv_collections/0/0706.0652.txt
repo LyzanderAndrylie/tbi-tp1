@@ -1,0 +1,20 @@
+Indirect information about the possible scale of supersymmetry (SUSY)
+breaking is provided by B-physics observables (BPO) as well as electroweak
+precision observables (EWPO). We combine the constraints imposed by recent
+measurements of the BPO BR(b -> s gamma), BR(B_s -> mu^+ mu^-), BR(B_u -> tau
+nu_tau) and Delta M_{B_s} with those obtained from the experimental
+measurements of the EWPO M_W, sin^2 theta_eff, Gamma_Z, (g-2)_mu and M_h,
+incorporating the latest theoretical calculations of these observables within
+the Standard Model and supersymmetric extensions. We perform a chi^2 fit to the
+parameters of the constrained minimal supersymmetric extension of the Standard
+Model (CMSSM), in which the SUSY-breaking parameters are universal at the GUT
+scale, and the non-universal Higgs model (NUHM), in which this constraint is
+relaxed for the soft SUSY-breaking contributions to the Higgs masses. Assuming
+that the lightest supersymmetric particle (LSP) provides the cold dark matter
+density preferred by WMAP and other cosmological data, we scan over the
+remaining parameter space. Within the CMSSM, we confirm the preference found
+previously for a relatively low SUSY-breaking scale, though there is some
+slight tension between the EWPO and the BPO. In studies of some specific NUHM
+scenarios compatible with the cold dark matter constraint we investigate
+M_A-tan_beta planes and find preferred regions that have values of chi^2
+somewhat lower than in the CMSSM.

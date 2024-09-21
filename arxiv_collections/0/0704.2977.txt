@@ -1,0 +1,7 @@
+We discuss two main universal dynamic crossovers in a liquid that correspond
+to relaxation times of 1 ps and $10^{-7}-10^{-6}$ s. We introduce the concept
+of liquid elasticity length $d_{el}$. At room temperature, $d_{el}$ is several
+\AA in water and increases to 0.01 mm in honey and 1 mm in tar. We show that on
+temperature decrease, $d_{el}$ crosses the fundamental lengths of the system,
+medium-range order $d_m$ and system size $L$. We discuss how $d_{el}=d_m$ and
+$d_{el}=L$ correspond to the two dynamic crossovers.

@@ -1,0 +1,11 @@
+Web page ranking and collaborative filtering require the optimization of
+sophisticated performance measures. Current Support Vector approaches are
+unable to optimize them directly and focus on pairwise comparisons instead. We
+present a new approach which allows direct optimization of the relevant loss
+functions. This is achieved via structured estimation in Hilbert spaces. It is
+most related to Max-Margin-Markov networks optimization of multivariate
+performance measures. Key to our approach is that during training the ranking
+problem can be viewed as a linear assignment problem, which can be solved by
+the Hungarian Marriage algorithm. At test time, a sort operation is sufficient,
+as our algorithm assigns a relevance score to every (document, query) pair.
+Experiments show that the our algorithm is fast and that it works very well.

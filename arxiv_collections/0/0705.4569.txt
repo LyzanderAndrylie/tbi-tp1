@@ -1,0 +1,24 @@
+We study Gauge-Higgs unification model on the orbifold $S^{1}/Z_{2}$ based on
+the extended SM gauge group $G_{SM}^{ex}=SU(2)_{L} \times U(1)_{Y} \times
+SO(3)_{F}$. The group $SO(3)_{F}$ is treated as a chiral gauged flavour
+symmetry. Electroweak-, flavour- and Higgs interactions are unified in one
+single gauge group SU(7) which is broken again down to $G_{SM}^{ex}$ by
+orbifolding and imposing additional boundary conditions. The compactification
+scale is O(1) TeV. The orbifold $S^{1}/Z_{2}$ is put on a lattice. This setting
+gives a staring point for RG-transformations. As a result the bulk is
+integrated out and the extra dimension consist of only two points: the orbifold
+fixed points. Parallel transporters (PT) in the extra dimension become
+nonunitary as a result of the blockspin transformations. In addition, a Higgs
+potential emerges naturally. The PTs can be written as a product $e^{A_{y}}
+e^{\eta} e^{A_{y}}$ of unitary factors $e^{A_{y}}$ and a selfadjoint factor
+$e^{\eta}$. The reduction $48 \to 35 + 6 + \bar{6} + 1$ of the adjoint reps of
+SU(7) with respect to $SU(6) \supset G_{SM}^{ex}$ leads to three $SU(2)_{L}$
+Higgs doublets: one for each flavour. Their zero modes serve as a substitute
+for the SM Higgs. When $G_{SM}^{ex}$ is spontaneously broken down to
+$U(1)_{em}$, an exponential gauge boson mass splitting occurs naturally. This
+breaking leads to $SO(3)_{F}$ flavour gauge boson masses much above the
+compactification scale. Thus tree-level FCNC are naturally suppressed. Making
+some simplifying assumptions we also calculate fermion masses and CKM mixing
+angles. As for the gauge bosons an exponential fermion mass splitting occurs
+naturally. The model predicts a large Higgs sector consisting of 30 Higgs
+particles and in its simplest form the weak mixing angle $\theta=0.125$.

@@ -1,0 +1,18 @@
+The seesaw-extended MSSM provides a framework in which the observed light
+neutrino masses and mixing angles can be generated in the context of a natural
+theory for the TeV-scale. Sneutrino-mixing phenomena provide valuable tools for
+connecting the physics of neutrinos and supersymmetry. We examine the
+theoretical structure of the seesaw-extended MSSM, retaining the full
+complexity of three generations of neutrinos and sneutrinos. In this general
+framework, new flavor-changing and CP-violating sneutrino processes are
+allowed, and are parameterized in terms of two $3\times 3$ matrices that
+respectively preserve and violate lepton number. The elements of these matrices
+can be bounded by analyzing the rate for rare flavor-changing decays of charged
+leptons and the one-loop contribution to neutrino masses. In the former case,
+new contributions arise in the seesaw extended model which are not present in
+the ordinary MSSM. In the latter case, sneutrino--antisneutrino mixing
+generates the leading correction at one-loop to neutrino masses, and could
+provide the origin of the observed texture of the light neutrino mass matrix.
+Finally, we derive general formulae for sneutrino--antisneutrino oscillations
+and sneutrino flavor-oscillations. Unfortunately, neither oscillation phenomena
+is likely to be observable at future colliders.

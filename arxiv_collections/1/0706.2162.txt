@@ -1,0 +1,17 @@
+We investigate a lattice model of polymers where the nearest-neighbour
+monomer-monomer interaction strengths differ according to whether the local
+configurations have so-called ``hydrogen-like'' formations or not. If the
+interaction strengths are all the same then the classical $\theta$-point
+collapse transition occurs on lowering the temperature, and the polymer enters
+the isotropic liquid-drop phase known as the collapsed globule. On the other
+hand, strongly favouring the hydrogen-like interactions give rise to an
+anisotropic folded (solid-like) phase on lowering the temperature. We use Monte
+Carlo simulations up to a length of 256 to map out the phase diagram in the
+plane of parameters and determine the order of the associated phase
+transitions. We discuss the connections to semi-flexible polymers and other
+polymer models. Importantly, we demonstrate that for a range of energy
+parameters two phase transitions occur on lowering the temperature, the second
+being a transition from the globule state to the crystal state. We argue from
+our data that this globule-to-crystal transition is continuous in two
+dimensions in accord with field-theory arguments concerning Hamiltonian walks,
+but is first order in three dimensions.

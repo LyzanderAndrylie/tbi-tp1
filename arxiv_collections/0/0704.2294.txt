@@ -1,0 +1,23 @@
+Context. The most recent determination of the solar chemical composition,
+using a time-dependent, 3D hydrodynamical model of the solar atmosphere,
+exhibits a significant decrease of C, N, O abundances compared to their
+previous values. Solar models that use these new abundances are not consistent
+with helioseismological determinations of the sound speed profile, the surface
+helium abundance and the convection zone depth. Aims. We investigate the effect
+of changes of solar abundances on low degree p-mode and g-mode characteristics
+which are strong constraints of the solar core. We consider particularly the
+increase of neon abundance in the new solar mixture in order to reduce the
+discrepancy between models using new abundances and helioseismology. Methods.
+The observational determinations of solar frequencies from the GOLF instrument
+are used to test solar models computed with different chemical compositions. We
+consider in particular the normalized small frequency spacings in the low
+degree p-mode frequency range. Results. Low-degree small frequency spacings are
+very sensitive to changes in the heavy-element abundances, notably neon. We
+show that by considering all the seismic constraints, including the small
+frequency spacings, a rather large increase of neon abundance by about (0.5 +/-
+0.05)dex can be a good solution to the discrepancy between solar models that
+use new abundances and low degree helioseismology, subject to adjusting
+slightly the solar age and the highest abundances. We also show that the change
+in solar abundances, notably neon, considerably affects g-mode frequencies,
+with relative frequency differences between the old and the new models higher
+than 1.5%

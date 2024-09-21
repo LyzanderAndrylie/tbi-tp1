@@ -1,0 +1,11 @@
+Spatially-resolved techniques of laser scanning microscopy (LSM) have been
+used to image simultaneously the spatial variations of (i) rf current flow,
+J$_RF$(x,y), of (ii) areas of resistive dissipation and (iii) the sources of
+microwave nonlinearity (NL) in an operating superconducting resonator. The RF
+power dependent spatial evolution of these linear and NL microwave properties
+in the meander strip YBCO/LAO superconducting resonator have been LSM probed at
+different temperatures below Tc. The influence of both topologies of the
+twin-domain YBCO structure and of J$_RF$(x,y) peaks at the edges of
+superconducting strip line on its NL properties was analyzed in detail with a
+micron-scale spatial resolution. Result shows the resistive origin of the
+dominant sources of microwave NLs

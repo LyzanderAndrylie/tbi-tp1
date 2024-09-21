@@ -1,0 +1,4 @@
+We show that elliptic curves whose Mordell-Weil groups are finitely generated
+over some infinite extensions of $\Q$, can be used to show the Diophantine
+undecidability of the rings of integers and bigger rings contained in some
+infinite extensions of rational numbers.

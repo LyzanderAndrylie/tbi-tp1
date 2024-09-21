@@ -1,0 +1,7 @@
+Using the method of adiabatic invariants and the Born-Oppenheimer
+approximation, we have successfully got the excited-state wave functions for a
+pair of coupled oscillators in the so-called \textit{semiquantum chaos}. Some
+interesting characteristics in the \textit{Fourier spectra} of the wave
+functions and its \textit{Correlation Functions} in the regular and chaos
+states have been found, which offers a new way to distinguish the regular and
+chaotic states in quantum system.

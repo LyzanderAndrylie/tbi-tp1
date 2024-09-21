@@ -1,0 +1,13 @@
+The nitrogen-vacancy (N-V) center in diamond is promising as an electron spin
+qubit due to its long-lived coherence and optical addressability. The ground
+state is a spin triplet with two levels ($m_s = \pm 1$) degenerate at zero
+magnetic field. Polarization-selective microwave excitation is an attractive
+method to address the spin transitions independently, since this allows
+operation down to zero magnetic field. Using a resonator designed to produce
+circularly polarized microwaves, we have investigated the polarization
+selection rules of the N-V center. We first apply this technique to N-V
+ensembles in [100] and [111]-oriented samples. Next, we demonstrate an imaging
+technique, based on optical polarization dependence, that allows rapid
+identification of the orientations of many single N-V centers. Finally, we test
+the microwave polarization selection rules of individual N-V centers of known
+orientation.

@@ -1,0 +1,7 @@
+We obtain analytic formulae for the spacing between conductance peaks in the
+Coulomb blockade regime, based on the universal Hamiltonian model of quantum
+dots. New random matrix theory results are developed in order to treat
+correlations between two and three consecutive spacings in the energy level
+spectrum. These are generalizations of the Wigner surmise for the probability
+distribution of single level spacing. The analytic formulae are shown to be in
+good agreement with numerical evaluation.

@@ -1,0 +1,7 @@
+The paper addresses kinematic and geometrical aspects of the Orthoglide, a
+three-DOF parallel mechanism. This machine consists of three fixed linear
+joints, which are mounted orthogonally, three identical legs and a mobile
+platform, which moves in the Cartesian x-y-z space with fixed orientation. New
+solutions to solve inverse/direct kinematics are proposed and a detailed
+workspace analysis is performed taking into account specific joint limit
+constraints.

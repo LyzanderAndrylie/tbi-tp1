@@ -1,0 +1,11 @@
+Using the collinear QCD factorization approach, we study the
+single-transverse-spin dependent cross section Delta sigma(S_perp) for the
+hadronic production of two jets of momenta P_1=P+q/2 and P_2=-P+q/2. We
+consider the kinematic region where the transverse components of the momentum
+vectors satisfy P_perp >> q_perp >> Lambda_QCD. For the case of initial-state
+gluon radiation, we show that at the leading power in q_perp/P_perp and at the
+lowest non-trivial perturbative order, the dependence of Delta sigma(S_perp) on
+q_perp decouples from that on P_perp, so that the cross section can be
+factorized into a hard part that is a function only of the single scale P_perp,
+and into perturbatively generated transverse-momentum dependent (TMD) parton
+distributions with transverse momenta k_perp = O(q_perp).

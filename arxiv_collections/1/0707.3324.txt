@@ -1,0 +1,9 @@
+In the analysis of the heavy electron systems, theoretical models with c-f
+hybridization gap are often used. We point out that such a gap does not exist
+and the simple picture with the hybridization gap is misleading in the metallic
+systems, and present a correct picture by explicitly constructing an effective
+band model of YbAl_3. Hamiltonian consists of a nearly free electron model for
+conduction bands which hybridize with localized f-electrons, and includes only
+a few parameters. Density of states, Sommerfeld coefficient, f-electron number
+and optical conductivity are calculated and compared with the band calculations
+and the experiments.

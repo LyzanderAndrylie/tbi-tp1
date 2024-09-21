@@ -1,0 +1,11 @@
+We report depolarization of extragalactic sources in the NRAO VLA Sky Survey
+(NVSS) by local structures in the interstellar medium. The sky density of
+polarized sources drops by a factor 2 - 4 in regions with angular scales
+approx. 10 degrees, implying up to 40% depolarization on average per source.
+Some of these polarization shadows are associated with HII regions, but three
+are associated with regions of depolarized diffuse Galactic emission. The
+absence of a correlation between the depth of polarization shadows and H-alpha
+intensity suggests that some shadows are related to structure in the magnetic
+field. At least some polarization shadows are caused by partial bandwidth
+depolarization in the NVSS. Alternatively, some may be caused by regions with
+small scale (< 1 arcsec) variations in rotation measure.

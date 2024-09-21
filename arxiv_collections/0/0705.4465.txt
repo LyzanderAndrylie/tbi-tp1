@@ -1,0 +1,11 @@
+In this report we demonstrate a simple model for the motion of a vortex
+domain wall in a ferromagnetic strip of submicron width under the influence of
+an external magnetic field. The model exhibits three distinct dynamical
+regimes. In a viscous regime at low fields the wall moves rigidly with a
+velocity proportional to the field. Above a critical field the motion becomes
+underdamped as the vortex moves periodically across the strip; these
+oscillations are accompanied by a slow drift with a decreasing velocity. At
+still higher fields the drift velocity starts rising linearly with the field
+again but with a much lower mobility dv/dH than in the low-field regime. We
+calculate the relevant quantities and compare them to experimentally observed
+values.

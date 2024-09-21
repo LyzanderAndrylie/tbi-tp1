@@ -1,0 +1,5 @@
+The notion of quadratic maps between arbitrary groups appeared at several
+places in the literature on quadratic algebra. Here a unified extensive
+treatment of their properties is given; the relation with a relative version of
+Passi's polynomial maps and groups of degree 2 is established and used to study
+the structure of the latter.

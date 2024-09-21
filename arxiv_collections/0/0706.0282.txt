@@ -1,0 +1,14 @@
+The CDF Collaboration has analyzed 955/pb of CDF II data to search for
+electroweak single top quark production at the Tevatron. We employ three
+different analysis techniques to search for a single top signal: multivariate
+likelihood functions; neural networks; the matrix element analysis technique.
+The sensitivities to a single top signal at the rate predicted by the Standard
+Model are 2.1 - 2.6 sigma. The first two analyses observe a deficit of single
+top-like events and set upper limits on the production cross section. The
+matrix element analysis observes a 2.3 sigma single top excess and measures a
+combined t-channel and s-channel cross section of 2.7 +1.5-1.3 pb. Using the
+same dataset, we have searched for non-Standard Model production of single top
+quarks through a heavy W' boson resonance. No evidence for a signal is
+observed. We exclude at the 95 % C.L. W' boson production with masses of 760
+GeV/c^2 (790 GeV/c^2) in case the right handed neutrino is smaller (larger)
+than the mass of the W' boson.

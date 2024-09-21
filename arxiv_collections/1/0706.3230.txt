@@ -1,0 +1,19 @@
+A dynamical theory of geophysical precipitation pattern formation is
+presented and applied to irreversible calcium carbonate (travertine)
+deposition. Specific systems studied here are the terraces and domes observed
+at geothermal hot springs, such as those at Yellowstone National Park, and
+speleothems, particularly stalactites and stalagmites. The theory couples the
+precipitation front dynamics with shallow water flow, including corrections for
+turbulent drag and curvature effects. In the absence of capillarity and with a
+laminar flow profile, the theory predicts a one-parameter family of steady
+state solutions to the moving boundary problem describing the precipitation
+front. These shapes match well the measured shapes near the vent at the top of
+observed travertine domes. Closer to the base of the dome, the solutions
+deviate from observations, and circular symmetry is broken by a fluting
+pattern, which we show is associated with capillary forces causing thin film
+break-up. We relate our model to that recently proposed for stalactite growth,
+and calculate the linear stability spectrum of both travertine domes and
+stalactites. Lastly, we apply the theory to the problem of precipitation
+pattern formation arising from turbulent flow down an inclined plane, and
+identify a linear instability that underlies scale-invariant travertine terrace
+formation at geothermal hot springs.

@@ -1,0 +1,12 @@
+We present a combined experimental and computational study of the (110)
+cross-sectional surface of Mn $\delta$-doped GaAs samples. We focus our study
+on three different selected Mn defect configurations not previously studied in
+details, namely surface interstitial Mn, isolated and in pairs, and
+substitutional Mn atoms on cationic sites (Mn$_{\rm Ga}$) in the first
+subsurface layer. The sensitivity of the STM images to the specific local
+environment allows to distinguish between Mn interstitials with nearest
+neighbor As atoms (Int$_{\rm As}$) rather than Ga atoms (Int$_{\rm Ga}$), and
+to identify the fingerprint of peculiar satellite features around subsurface
+substitutional Mn. The simulated STM maps for Int$_{\rm As}$, both isolated and
+in pairs, and Mn$_{\rm Ga}$ in the first subsurface layer are consistent with
+some experimental images hitherto not fully characterized.

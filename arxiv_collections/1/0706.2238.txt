@@ -1,0 +1,8 @@
+The renormalization method which is a type of perturbation method is extended
+to a tool to study weakly nonlinear time-delay systems. For systems with
+order-one delay, we show that the renormalization method leads to reduced
+systems without delay. For systems with order-one and large-delay, we propose
+an extended renormalization method which leads to reduced systems with delay.
+In some examples, the validities of our perturbative results are confirmed
+analytically and numerically. We also compare our reduced equations with
+reduced ones obtained by another perturbation method.

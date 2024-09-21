@@ -1,0 +1,8 @@
+The role of isospin in quasielastic electron scattering and charge-changing
+neutrino reactions is investigated in the relativistic impulse approximation.
+We analyze proton and neutron scaling functions making use of various
+theoretical descriptions for the final-state interactions, focusing on the
+effects introduced by the presence of strong scalar and vector terms in the
+relativistic mean field approach. An explanation for the differences observed
+in the scaling functions evaluated from $(e,e')$ and $(\nu,\mu)$ reactions is
+provided by invoking the differences in isoscalar and isovector contributions.

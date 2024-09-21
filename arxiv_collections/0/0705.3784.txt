@@ -1,0 +1,11 @@
+The Stern-Gerlach effect is well-known as spin-dependent splitting of a beam
+of atoms with magnetic moments by a magnetic-field gradient. Here, we show that
+an induced gauge potential may lead to a similar effect for chiral molecules.
+In the presence of three inhomogeneous light fields, the center-of-mass of a
+three-level chiral molecule is subject to an optically induced gauge potential,
+and the internal dynamics of the molecules can be described as an adiabatic
+evolution in the reduced pseudo-spin subspace of the two lowest energy levels.
+We demonstrate numerically that such an induced gauge potential can lead to
+observable pseudo-spin dependent and chirality-dependent generalized
+Stern-Gerlach effects for mixed left- and right-handed chiral molecules under
+realistic conditions.

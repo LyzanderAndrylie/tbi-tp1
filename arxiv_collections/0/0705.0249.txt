@@ -1,0 +1,7 @@
+Principal component analysis is a statistical method, which lowers the number
+of important variables in a data set. The use of this method for the bursts'
+spectra and afterglows is discussed in this paper. The analysis indicates that
+three principal components are enough among the eight ones to describe the
+variablity of the data. The correlation between spectral index alpha and the
+redshift suggests that the thermal emission component becomes more dominant at
+larger redshifts.

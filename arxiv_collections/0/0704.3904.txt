@@ -1,0 +1,12 @@
+In this work we study preference systems natural for the Peer-to-Peer
+paradigm. Most of them fall in three categories: global, symmetric and
+complementary. All these systems share an acyclicity property. As a
+consequence, they admit a stable (or Pareto efficient) configuration, where no
+participant can collaborate with better partners than their current ones. We
+analyze the representation of the such preference systems and show that any
+acyclic system can be represented with a symmetric mark matrix. This gives a
+method to merge acyclic preference systems and retain the acyclicity. We also
+consider such properties of the corresponding collaboration graph, as
+clustering coefficient and diameter. In particular, studying the example of
+preferences based on real latency measurements, we observe that its stable
+configuration is a small-world graph.

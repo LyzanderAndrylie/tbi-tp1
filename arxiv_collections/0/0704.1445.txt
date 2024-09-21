@@ -1,0 +1,15 @@
+The spatial Fourier spectrum of the electron density distribution in a finite
+1D system and the distribution function of electrons over single-particle
+states are studied in detail to show that there are two universal features in
+their behavior, which characterize the electron ordering and the deformation of
+Wigner crystal by boundaries. The distribution function has a $\delta$-like
+singularity at the Fermi momentum $k_F$. The Fourier spectrum of the density
+has a step-like form at the wavevector $2k_F$, with the harmonics being absent
+or vanishing above this threshold. These features are found by calculations
+using exact diagonalization method. They are shown to be caused by Wigner
+ordering of electrons, affected by the boundaries. However the common Luttinger
+liquid model with open boundaries fails to capture these features, because it
+overestimates the deformation of the Wigner crystal. An improvement of the
+Luttinger liquid model is proposed which allows one to describe the above
+features correctly. It is based on the corrected form of the density operator
+conserving the particle number.

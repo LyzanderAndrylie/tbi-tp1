@@ -1,0 +1,9 @@
+We study ground state degeneracy and spin-wave excitations in a 1D version of
+a Kagome antiferromagnet -- a Heisenberg antiferromagnet on a Kagome stripe. We
+show that for nearest-neighbor interaction, the classical ground state is
+infinitely degenerate. For any spin configuration from the degenerate set, the
+classical spin-wave spectrum contains, in addition to Goldstone modes, a branch
+of zero energy excitations, and a zero mode in another branch. We demonstrate
+that the interactions beyond nearest neighbors lift the degeneracy, eliminate a
+zero mode, and give a finite dispersion to formerly zero-energy branch, leaving
+only Goldstone modes as zero-energy excitations.

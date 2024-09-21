@@ -1,0 +1,6 @@
+The inelastic neutral reaction of neutrino on 4He is calculated using two
+modern nucleon--nucleon potentials. Full final state interaction among the four
+nucleons is considered, via the Lorentz integral transform (LIT) method. The
+effective interaction hyperspherical-harmonic (EIHH) approach is used to solve
+the resulting Schrodinger like equations. A detailed energy dependent
+calculation is given in the impulse approximation.

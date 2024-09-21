@@ -1,0 +1,16 @@
+The OSGi Platform finds a growing interest in two different applications
+domains: embedded systems, and applications servers. However, the security
+properties of this platform are hardly studied, which is likely to hinder its
+use in production systems. This is all the more important that the dynamic
+aspect of OSGi-based applications, that can be extended at runtime, make them
+vulnerable to malicious code injection. We therefore perform a systematic audit
+of the OSGi platform so as to build a vulnerability catalog that intends to
+reference OSGi Vulnerabilities originating in the Core Specification, and in
+behaviors related to the use of the Java language. Standard Services are not
+considered. To support this audit, a Semi-formal Vulnerability Pattern is
+defined, that enables to uniquely characterize fundamental properties for each
+vulnerability, to include verbose description in the pattern, to reference
+known security protections, and to track the implementation status of the
+proof-of-concept OSGi Bundles that exploit the vulnerability. Based on the
+analysis of the catalog, a robust OSGi Platform is built, and recommendations
+are made to enhance the OSGi Specifications.

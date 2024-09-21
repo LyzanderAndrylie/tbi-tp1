@@ -1,0 +1,24 @@
+We present results of a photometric survey whose aim was to derive structural
+and astrophysical parameters for 42 open clusters. While our sample is
+definitively not representative of the total open cluster sample in the Galaxy,
+it does cover a wide range of cluster parameters and is uniform enough to allow
+for simple statistical considerations. BV wide-field CCD photometry was
+obtained for open clusters for which photometric, structural, and dynamical
+evolution parameters were determined. The limiting and core radii were
+determined by analyzing radial density profiles. The ages, reddenings, and
+distances were obtained from the solar metallicity isochrone fitting. The mass
+function was used to study the dynamical state of the systems, mass segregation
+effect and to estimate the total mass and number of cluster members. This study
+reports on the first determination of basic parameters for 11 out of 42
+observed open clusters. The angular sizes for the majority of the observed
+clusters appear to be several times larger than the catalogue data indicate.
+The core and limiting cluster radii are correlated and the latter parameter is
+3.2 times larger on average. The limiting radius increases with the cluster's
+mass, and both the limiting and core radii decrease in the course of dynamical
+evolution. For dynamically not advanced clusters, the mass function slope is
+similar to the universal IMF slope. For more evolved systems, the effect of
+evaporation of low-mass members is clearly visible. The initial mass
+segregation is present in all the observed young clusters, whereas the
+dynamical mass segregation appears in clusters older than about log(age)=8.
+Low-mass stars are deficient in the cores of clusters older than log(age)=8.5
+and not younger than one relaxation time.

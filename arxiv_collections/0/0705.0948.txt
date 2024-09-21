@@ -1,0 +1,6 @@
+In this paper we show that, under certain generic conditions, billiards on
+ovals have only a finite number of periodic orbits, for each period, all
+non-degenerate and at least one of them is hyperbolic. Moreover, the invariant
+curves of two hyperbolic points are transversal. We explore these properties to
+give some dynamical consequences specially about the dynamics in the
+instability regions.

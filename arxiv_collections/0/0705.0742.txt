@@ -1,0 +1,5 @@
+We propose a soft-output detection scheme for Multiple-Input-Multiple-Output
+(MIMO) systems. The detector employs Markov Chain Monte Carlo method to compute
+bit reliabilities from the signals received and is thus suited for coded MIMO
+systems. It offers a good trade-off between achievable performance and
+algorithmic complexity.

@@ -1,0 +1,8 @@
+A statistical mechanical framework to analyze linear vector channel models in
+digital wireless communication is proposed for a large system. The framework is
+a generalization of that proposed for code-division multiple-access systems in
+Europhys. Lett. 76 (2006) 1193 and enables the analysis of the system in which
+the elements of the channel transfer matrix are statistically correlated with
+each other. The significance of the proposed scheme is demonstrated by
+assessing the performance of an existing model of multi-input multi-output
+communication systems.

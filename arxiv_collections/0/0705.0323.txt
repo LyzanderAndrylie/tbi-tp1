@@ -1,0 +1,7 @@
+Based on the concept of a nonequilibrium steady state, we present a novel
+method to experimentally determine energy landscapes acting on colloidal
+systems. By measuring the stationary probability distribution and the current
+in the system, we explore potential landscapes with barriers up to several
+hundred $\kT$. As an illustration, we use this approach to measure the
+effective diffusion coefficient of a colloidal particle moving in a tilted
+potential.

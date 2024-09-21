@@ -1,0 +1,6 @@
+We present a measurement of the branching fraction for the decay
+B^0->a1+(1260)pi- with a1+->pi+pi+pi- using a data sample containing 535x10^6
+BBbar pairs collected with the Belle detector at the KEKB asymmetric-energy
+e+e- collider operating at the Upsilon(4S) resonance. We measure the branching
+fraction Br(B^0->a1+pi-)Br(a1+->pi+pi+pi-) = (14.9 +- 1.6 +- 2.3)x10^-6, where
+the first and second errors are statistical and systematic, respectively.

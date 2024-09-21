@@ -1,0 +1,7 @@
+A generalized version of the rotating-wave approximation for the single-mode
+spin-boson Hamiltonian is presented. It is shown that performing a simple
+change of basis prior to eliminating the off-resonant terms results in a
+significantly more accurate expression for the energy levels of the system. The
+generalized approximation works for all values of the coupling strength and for
+a wide range of detuning values, and may find applications in solid-state
+experiments.

@@ -1,0 +1,6 @@
+A lemma of Tits establishes a connection between the simple connectivity of
+an incidence geometry and the universal completion of an amalgam induced by a
+sufficiently transitive group of automorphisms of that geometry. In the present
+paper, we generalize this lemma to intransitive geometries, thus opening the
+door for numerous applications. We treat ourselves some amalgams related to
+intransitive actions of finite orthogonal groups, as a first class of examples.

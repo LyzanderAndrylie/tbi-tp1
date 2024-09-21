@@ -1,0 +1,10 @@
+The observation of dark-resonances in the two-electron atom barium and their
+influence on optical cooling is reported. In heavy alkali earth atoms, i.e.
+barium or radium, optical cooling can be achieved using n^1S_0-n^1P_1
+transitions and optical repumping from the low lying n^1D_2 and n^3D_{1,2}
+states to which the atoms decay with a high branching ratio. The cooling and
+repumping transition have a common upper state. This leads to dark resonances
+and hence make optical cooling less inefficient. The experimental observations
+can be accurately modelled by the optical Bloch equations. Comparison with
+experimental results allows us to extract relevant parameters for effective
+laser cooling of barium.

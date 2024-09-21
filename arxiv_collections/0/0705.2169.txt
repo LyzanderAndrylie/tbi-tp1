@@ -1,0 +1,17 @@
+A supersymmetric extension of the dynamical symmetry group $Sp^{B}(12,R)$ of
+the Interacting Vector Boson Model (IVBM), to the orthosymplectic group
+$OSp(2\Omega/12,R)$ is developed in order to incorporate fermion degrees of
+freedom into the nuclear dynamics and to encompass the treatment of odd mass
+nuclei. The bosonic sector of the supergroup is used to describe the complex
+collective spectra of the neighboring even-even nuclei and is considered as a
+core structure of the odd nucleus. The fermionic sector is represented by the
+fermion spin group $SO^{F}(2\Omega)\supset SU^{F}(2)$.
+  The so obtained, new exactly solvable limiting case is applied for the
+description of the nuclear collective spectra of odd mass nuclei. The
+theoretical predictions for different collective bands in three odd mass
+nuclei, namely $^{157}Gd$, $^{173}Yb$ and $^{163}Dy$ from rare earth region are
+compared with the experiment. The $B(E2)$ transition probabilities for the
+$^{157}Gd$ and $^{163}Dy$ between the states of the ground band are also
+studied. The important role of the symplectic structure of the model for the
+proper reproduction of the $B(E2)$ behavior is revealed. The obtained results
+reveal the applicability of the models extension.

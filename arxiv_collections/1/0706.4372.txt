@@ -1,0 +1,11 @@
+We propose a mechanism to explain the nature of the damping of Rabi
+oscillations with increasing driving-pulse area in localized semiconductor
+systems, and have suggested a general approach which describes a coherently
+driven two-level system interacting with a dephasing reservoir. Present
+calculations show that the non-Markovian character of the reservoir leads to
+the dependence of the dephasing rate on the driving-field intensity, as
+observed experimentally. Moreover, we have shown that the damping of Rabi
+oscillations might occur as a result of different dephasing mechanisms for both
+stationary and non-stationary effects due to coupling to the environment.
+Present calculated results are found in quite good agreement with available
+experimental measurements.

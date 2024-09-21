@@ -1,0 +1,11 @@
+The angle-dependent interlayer magnetoresistance of overdoped
+Tl$_2$Ba$_2$CuO$_{6+\delta}$ has been measured in high magnetic fields up to 45
+Tesla. A conventional Boltzmann transport analysis with no basal-plane
+anisotropy in the cyclotron frequency $\omega_c$ or transport lifetime $\tau$
+is shown to be inadequate for explaining the data. We describe in detail how
+the analysis can be modified to incorporate in-plane anisotropy in these two
+key quantities and extract the degree of anisotropy for each by assuming a
+simple four-fold symmetry. While anisotropy in $\omega_c$ and other Fermi
+surface parameters may improve the fit, we demonstrate that the most important
+anisotropy is that in the transport lifetime, thus confirming its role in the
+physics of overdoped superconducting cuprates.

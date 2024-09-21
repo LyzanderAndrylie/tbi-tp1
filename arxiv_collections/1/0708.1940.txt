@@ -1,0 +1,10 @@
+We prove an inequality for H\"older continuous differential forms on compact
+manifolds in which the integral of the form over the boundary of a sufficiently
+small, smoothly immersed disk is bounded by a certain multiplicative convex
+combination of the volume of the disk and the area of its boundary. This
+inequality has natural applications in dynamical systems, where H\"older
+continuity is ubiquitous. We give two such applications. In the first one, we
+prove a criterion for the existence of global cross sections to Anosov flows in
+terms of their expansion-contraction rates. The second application provides an
+analogous criterion for non-accessibility of partially hyperbolic
+diffeomorphisms.

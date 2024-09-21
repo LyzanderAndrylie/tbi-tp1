@@ -1,0 +1,11 @@
+We describe a novel type of magnetic domain wall which, in contrast to Bloch
+or Neel walls, is non-localized and, in a certain temperature range,
+non-monotonic. The wall appears as the mean-field solution of the
+two-dimensional ferromagnetic Ising model frustrated by the long-ranged dipolar
+interaction. We provide experimental evidence of this wall delocalization in
+the stripe-domain phase of perpendicularly magnetized ultrathin magnetic films.
+In agreement with experimental results, we find that the stripe width decreases
+with increasing temperature and approaches a finite value at the
+Curie-temperature following a power law. The same kind of wall and a similar
+temperature dependence of the stripe width is expected in the mean-field
+approximation of the two-dimensional Coulomb frustrated Ising ferromagnet.

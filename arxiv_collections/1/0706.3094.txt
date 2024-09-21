@@ -1,0 +1,11 @@
+Magnetoresistance oscillations in two-dimensional electron systems driven
+simultaneously by a strong direct current and a microwave irradiation, are
+analyzed within a unified microscopic scheme treating both excitations on an
+equal footing. The microwave-induced resistance oscillations are described by a
+parameter $\epsilon_\omega$ proportional to the radiation frequency, while the
+dc-induced resistance oscillations are governed by a parameter $\epsilon_j$
+proportional to the current density. In the presence of both a microwave
+radiation and a strong dc, the combined parameter $\epsilon_\omega+\epsilon_j$
+is shown to control the main resistance oscillations, in agreement with the
+recent measurement [Zhang {\it et al.} Phys. Rev. Lett. {\bf 98}, 106804
+(2007)]

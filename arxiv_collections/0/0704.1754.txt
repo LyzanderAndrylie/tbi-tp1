@@ -1,0 +1,8 @@
+Although it is widely accepted that `no-broadcasting' -- the nonclonability
+of quantum information -- is a fundamental principle of quantum mechanics, an
+impossibility theorem for the broadcasting of general density matrices has not
+yet been formulated. In this paper, we present a general proof for the
+no-broadcasting theorem, which applies to arbitrary density matrices. The proof
+relies on entropic considerations, and as such can also be directly linked to
+its classical counterpart, which applies to probabilistic distributions of
+statistical ensembles.

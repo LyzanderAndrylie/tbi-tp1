@@ -1,0 +1,9 @@
+Recently, P. M. Brooks and C.J. Maxwell [Phys. Rev. D{\bf 74} 065012 (2006)]
+claimed that the Landau pole of the one-loop coupling at $Q^2=\Lambda^2$ is
+absent from the leading one-chain term in a skeleton expansion of the Euclidean
+Adler ${\cal D}$ function. Moreover, in this approximation one has continuity
+along the Euclidean axis and a smooth infrared freezing, properties known to be
+satisfied by the "true" Adler function. We show that crucial in the derivation
+of these results is the use of a modified Borel summation, which leads
+simultaneously to the loss of another fundamental property of the true Adler
+function: the analyticity implied by the K\"allen-Lehmann representation.

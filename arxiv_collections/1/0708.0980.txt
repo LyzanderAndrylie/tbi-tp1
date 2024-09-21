@@ -1,0 +1,22 @@
+When a sample frequency table is published, disclosure risk arises when some
+individuals can be identified on the basis of their values in certain
+attributes in the table called key variables, and then their values in other
+attributes may be inferred, and their privacy is violated. On the basis of the
+sample to be released, and possibly some partial knowledge of the whole
+population, an agency which considers releasing the sample, has to estimate the
+disclosure risk. Risk arises from non-empty sample cells which represent small
+population cells and from population uniques in particular. Therefore risk
+estimation requires assessing how many of the relevant population cells are
+likely to be small. Various methods have been proposed for this task, and we
+present a method in which estimation of a population cell frequency is based on
+smoothing using a local neighborhood of this cell, that is, cells having
+similar or close values in all attributes. We provide some preliminary results
+and experiments with this method. Comparisons are made to two other methods: 1.
+a log-linear models approach in which inference on a given cell is based on a
+``neighborhood'' of cells determined by the log-linear model. Such
+neighborhoods have one or some common attributes with the cell in question, but
+some other attributes may differ significantly. 2 The Argus method in which
+inference on a given cell is based only on the sample frequency in the specific
+cell, on the sample design and on some known marginal distributions of the
+population, without learning from any type of ``neighborhood'' of the given
+cell, nor from any model which uses the structure of the table.

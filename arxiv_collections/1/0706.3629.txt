@@ -1,0 +1,10 @@
+Cooperative behaviors near the disorder-induced critical point in a random
+field Ising model are numerically investigated by analyzing time-dependent
+magnetization in ordering processes from a special initial condition. We find
+that the intensity of fluctuations of time-dependent magnetization, $\chi(t)$,
+attains a maximum value at a time $t=\tau$ in a normal phase and that
+$\chi(\tau)$ and $\tau$ exhibit divergences near the disorder-induced critical
+point. Furthermore, spin configurations around the time $\tau$ are
+characterized by a length scale, which also exhibits a divergence near the
+critical point. We estimate the critical exponents that characterize these
+power-law divergences by using a finite-size scaling method.

@@ -1,0 +1,9 @@
+We have used a torsional oscillator with square cross section and a resonance
+frequency of 185 Hz to confirm the nonclassical rotational inertia (NCRI)
+discovered by Kim and Chan\cite{1,2}. We have also found a strong correlation
+between the NCRI signal and a high dissipation Q$^{-1}$ of 4 $\times$ 10$^{-6}$
+of the oscillation above the transition temperature. Here, we present
+preliminary results of the annealing process in $^{4}$He at a pressure of 26
+bar. When holding the temperature constant above 1 K we have observed a
+immediate rise in the period and a slow decay of the dissipation. The
+equilibrium value of Q$^{-1}$ decreases with increasing temperature.

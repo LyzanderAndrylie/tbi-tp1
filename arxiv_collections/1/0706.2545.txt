@@ -1,0 +1,10 @@
+We prove factorization and gauge invariance of the twist-3
+single-spin-dependent cross section in the leading order perturbative QCD,
+which was missing in the previous literature. We emphasize that the consistency
+relation from the Ward identities for color gauge invariance is crucial to
+guarantee the cancelation among the various gauge-noninvariant contributions in
+the cross section. This relation also proves the absence of the "derivative"
+terms in the cross section corresponding to the hard-pole and soft-fermion-pole
+contributions. Applying the formalism to SIDIS, $ep^\uparrow\to e\pi X$, we
+have derived the complete cross section associated with the twist-3
+distribution for the transversely polarized nucleon.

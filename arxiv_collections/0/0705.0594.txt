@@ -1,0 +1,17 @@
+The recent PRB, henceforth referred as Ref.[1], experimentally resolves the
+intrinsic shape of the c-axis current-voltage characteristics (IVC) of HTSC and
+demonstrates that at sufficiently high heat loads the heating-induced IVC
+nonlinearities exceed the intrinsic ones so radically that the latter might be
+safely ignored.
+  The author of the comment fails to take account of the experimental findings
+by Ref.[1] and seeks to cast doubt on all its conclusions through reference to
+a brush-like IVC, which is claimed to be free of heating. I will show that this
+claim lacks substantiation; indeed it can be stated with certainty that the IVC
+is not free from heating. I will further show that the data selected for this
+comment make it possible to explore for the first time the effect of
+temperature on a range of loads where the genuine response is not hidden by
+heating and to demonstrate for the first time that $R(T)$ of the same sample is
+responsible for a rich variety of IVC behaviours taken above and below $T_c$ at
+bath temperatures spanned over 180K. Thus these data in fact provide strong
+novel evidence in favour of the major conclusions by Ref.[1], in particular the
+extrinsic cause of the key findings by intrinsic tunnelling spectroscopy.

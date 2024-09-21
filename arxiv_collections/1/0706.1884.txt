@@ -1,0 +1,11 @@
+The longest spin lifetimes in bulk n-GaAs exceed 100 ns for doping
+concentrations near the metal-insulator transition (J.M. Kikkawa, D.D.
+Awschalom, Phys. Rev. Lett. 80, 4313 (1998)). The respective electronic states
+have yet not been identified. We therefore investigate the energy dependence of
+spin lifetimes in n-GaAs by time-resolved Kerr rotation. Spin lifetimes vary by
+three orders of magnitude as a function of energy when occupying donor and
+conduction band states. The longest spin lifetimes (>100 ns) are assigned to
+delocalized donor band states, while conduction band states exhibit shorter
+spin lifetimes. The occupation of localized donor band states is identified by
+short spin lifetimes (~300 ps) and a distinct Overhauser shift due to dynamic
+nuclear polarization.

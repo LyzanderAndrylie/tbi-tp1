@@ -1,0 +1,8 @@
+Molecular dynamics simulations of crack propagation are performed for two
+extreme cases of complex metallic alloys (CMAs): In a model quasicrystal the
+structure is determined by clusters of atoms, whereas the model C15 Laves phase
+is a simple periodic stacking of a unit cell. The simulations reveal that the
+basic building units of the structures also govern their fracture behaviour.
+Atoms in the Laves phase play a comparable role to the clusters in the
+quasicrystal. Although the latter are not rigid units, they have to be regarded
+as significant physical entities.

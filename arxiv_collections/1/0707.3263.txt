@@ -1,0 +1,5 @@
+We outline design and lines of development of autonomous tools for the
+computing Grid management, monitoring and optimization. The management is
+proposed to be based on the notion of utility. Grid optimization is considered
+to be application-oriented. A generic Grid simulator is proposed as an
+optimization tool for Grid structure and functionality.

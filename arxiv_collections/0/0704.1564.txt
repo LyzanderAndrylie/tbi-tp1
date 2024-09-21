@@ -1,0 +1,5 @@
+We study the high--energy limit for eigenfunctions of the laplacian, on a
+compact negatively curved manifold. We review the recent result of
+Anantharaman-Nonnenmacher giving a lower bound on the Kolmogorov-Sinai entropy
+of semiclassical measures, and improve this lower bound in the case of variable
+negative curvature.

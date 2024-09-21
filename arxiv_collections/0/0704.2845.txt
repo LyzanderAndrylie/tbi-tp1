@@ -1,0 +1,4 @@
+Suppose that an automorphism group $G$ acts flag-transitively on a finite
+generalized hexagon or octagon $\cS$, and suppose that the action on both the
+point and line set is primitive. We show that $G$ is an almost simple group of
+Lie type, that is, the socle of $G$ is a simple Chevalley group.

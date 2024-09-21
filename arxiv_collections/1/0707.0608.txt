@@ -1,0 +1,11 @@
+In itinerant magnetic systems with disorder, the quantum Griffiths phase at
+T=0 is unstable to formation of a cluster glass (CG) of frozen droplet degrees
+of freedom. In the absence of the fluctuations associated with these degrees of
+freedom, the transition from the paramagnetic Fermi liquid (PMFL) to the
+ordered phase proceeds via a conventional second-order quantum phase
+transition. However, when the Griffiths anomalies due to the broad distribution
+of local energy scales are included, the transition is driven first-order via a
+novel mechanism for a fluctuation induced first-order transition. At higher
+temperatures, thermal effects restore the transition to second-order.
+Implications of the enhanced non-Ohmic dissipation in the CG phase are briefly
+discussed.

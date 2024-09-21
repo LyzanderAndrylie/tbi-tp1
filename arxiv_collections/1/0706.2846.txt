@@ -1,0 +1,6 @@
+We update our recent calculation of quarkonium Euclidean correlators at
+finite temperatures in a potential model by including the effect of zero modes
+in the lattice spectral functions. These contributions cure most of the
+previously observed discrepancies with lattice calculations, supporting the use
+of potential models at finite temperature as an important tool to complement
+lattice studies.

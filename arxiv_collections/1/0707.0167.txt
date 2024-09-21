@@ -1,0 +1,13 @@
+The computation of the Tukey depth, also called halfspace depth, is very
+demanding, even in low dimensional spaces, because it requires the
+consideration of all possible one-dimensional projections. In this paper we
+propose a random depth which approximates the Tukey depth. It only takes into
+account a finite number of one-dimensional projections which are chosen at
+random. Thus, this random depth requires a very small computation time even in
+high dimensional spaces. Moreover, it is easily extended to cover the
+functional framework.
+  We present some simulations indicating how many projections should be
+considered depending on the sample size and on the dimension of the sample
+space. We also compare this depth with some others proposed in the literature.
+It is noteworthy that the random depth, based on a very low number of
+projections, obtains results very similar to those obtained with other depths.

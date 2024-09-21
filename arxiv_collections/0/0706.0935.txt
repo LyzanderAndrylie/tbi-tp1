@@ -1,0 +1,12 @@
+We construct a linear optics measurement process to determine the
+entanglement measure, named \emph{I-concurrence}, of a set of $4 \times 4$
+dimensional two-photon entangled pure states produced in the optical parametric
+down conversion process. In our experiment, an \emph{equivalent} symmetric
+projection for the two-fold copy of single subsystem (presented by L. Aolita
+and F. Mintert, Phys. Rev. Lett. \textbf{97}, 050501 (2006)) can be realized by
+observing the one-side two-photon coincidence without any triggering detection
+on the other subsystem. Here, for the first time, we realize the measurement
+for entanglement contained in bi-photon pure states by taking advantage of the
+indistinguishability and the bunching effect of photons. Our method can
+determine the \emph{I-concurrence} of generic high dimensional bipartite pure
+states produced in parametric down conversion process.

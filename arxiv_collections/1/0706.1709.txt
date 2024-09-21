@@ -1,0 +1,17 @@
+The Schwarzian derivative of a function f(x) which is defined in the interval
+(a, b) having higher order derivatives is given by
+Sf(x)=(f''(x)/f'(x))'-1/2(f''(x)/f'(x))^2 . A sufficient condition for a
+function to behave chaotically is that its Schwarzian derivative is negative.
+In this paper, we try to find a sufficient condition for a non-linear dynamical
+system to behave chaotically. The solution function of this system is a higher
+degree polynomial. We define n-th Schwarzian derivative to examine its general
+properties. Our analysis shows that the sufficient condition for chaotic
+behavior of higher order polynomial is provided if its highest order three
+terms satisfy an inequality which is invariant under the degree of the
+polynomial and the condition is represented by Hankel determinant of order 2.
+Also the n-th order polynomial can be considered to be the partial sum of real
+variable analytic function. Let this analytic function be the solution of
+non-linear differential equation, then the sufficient condition for the
+chaotical behavior of this function is the Hankel determinant of order 2
+negative, where the elements of this determinant are the coefficient of the
+terms of n, n-1, n-2 in Taylor expansion.

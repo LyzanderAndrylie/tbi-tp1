@@ -1,0 +1,5 @@
+A new variant of the Feshbach map, called smooth Feshbach map, has been
+introduced recently by Bach et al., in connection with the renormalization
+analysis of non-relativistic quantum electrodynamics. We analyze and clarify
+its algebraic and analytic properties, and we generalize it to non-selfadjoint
+partition operators $\chi$ and $\chib$.

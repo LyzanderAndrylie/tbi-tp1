@@ -1,0 +1,6 @@
+The determination of the state fidelity and the detection of entanglement are
+fundamental problems in quantum information experiments. We investigate how
+these goals can be achieved with a minimal effort. We show that the fidelity of
+GHZ and W states can be determined with an effort increasing only linearly with
+the number of qubits. We also present simple and robust methods for other
+states, such as cluster states and states in decoherence-free subspaces.

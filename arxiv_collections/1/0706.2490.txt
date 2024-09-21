@@ -1,0 +1,10 @@
+We discuss various scattering mechanisms for Dirac fermions in single-layer
+graphene. It is shown that scattering on a short-range potential (due to, for
+example, neutral impurities) is mostly irrelevant for electronic quality of
+graphene, which is likely to be controlled by charged impurities and ripples
+(microscopic corrugations of a graphene sheet). The latter are an inherent
+feature of graphene due to its two-dimensional nature and can also be an
+important factor in defining the electron mean free path. We show that certain
+types of ripples create a long-range scattering potential, similar to Coulomb
+scatterers, and result in charge-carrier mobility practically independent on
+carrier concentration, in agreement with experimental observations.

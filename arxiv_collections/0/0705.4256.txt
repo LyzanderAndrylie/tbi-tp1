@@ -1,0 +1,14 @@
+We prove that if $A \subset {\Bbb F}_q$ is such that
+$$|A|>q^{{1/2}+\frac{1}{2d}},$$ then $${\Bbb F}_q^{*} \subset dA^2=A^2+...+A^2
+d \text{times},$$ where $$A^2=\{a \cdot a': a,a' \in A\},$$ and where ${\Bbb
+F}_q^{*}$ denotes the multiplicative group of the finite field ${\Bbb F}_q$. In
+particular, we cover ${\Bbb F}_q^{*}$ by $A^2+A^2$ if $|A|>q^{{3/4}}$.
+Furthermore, we prove that if $$|A| \ge
+C_{size}^{\frac{1}{d}}q^{{1/2}+\frac{1}{2(2d-1)}},$$ then $$|dA^2| \ge q \cdot
+\frac{C^2_{size}}{C^2_{size}+1}.$$
+  Thus $dA^2$ contains a positive proportion of the elements of ${\Bbb F}_q$
+under a considerably weaker size assumption.We use the geometry of ${\Bbb
+F}_q^d$, averages over hyper-planes and orthogonality properties of character
+sums. In particular, we see that using operators that are smoothing on $L^2$ in
+the Euclidean setting leads to non-trivial arithmetic consequences in the
+context of finite fields.

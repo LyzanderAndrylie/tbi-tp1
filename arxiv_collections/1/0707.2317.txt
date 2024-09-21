@@ -1,0 +1,8 @@
+We illustrate the scope of Time Dependent Density Functional Theory (TDDFT)
+for strongly correlated (lattice) models out of equilibrium. Using the exact
+many body time evolution, we reverse engineer the exact exchange correlation
+(xc) potential $v_{xc}$ for small Hubbard chains exposed to time-dependent
+fields. We introduce an adiabatic local density approximation (ALDA) to
+$v_{xc}$ for the 1D Hubbard model and compare it to exact results, to gain
+insight about approximate xc potentials. Finally, we provide some remarks on
+the v-representability for the 1D Hubbard model.

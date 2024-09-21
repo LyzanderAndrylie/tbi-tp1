@@ -1,0 +1,11 @@
+We have modified the colour screening theory of Chu and Matsui by properly
+incorporating bag model equation of state for quark gluon plasma (QGP). We have
+also chosen the pressure parametrization rather than parametrizing energy
+density in the transverse plane. We assume that the QGP dense medium is
+expanding in the longitudinal direction obeying Bjorken boost invariant scaling
+law. Sequential melting of $\chi_c$, $\psi^{'}$ and $J/\psi$ is also considered
+in this scenario. We have applied above formulation to the recent PHENIX
+experimental data of $J/\psi$ suppression in Au + Au collisions at RHIC. We
+find that the model gives a good description of data at mid-rapidity in terms
+of survival probability versus number of participants without any necessity of
+implementing (3+1)-dimensional expansion of the deconfined medium.

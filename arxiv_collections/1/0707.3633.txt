@@ -1,0 +1,14 @@
+Mixtures of bosonic and fermionic atoms in optical lattices provide a
+promising arena to study strongly correlated systems. In experiments realizing
+such mixtures in the quantum degenerate regime the temperature is a key
+parameter. In this work, we investigate the intrinsic heating and cooling
+effects due to an entropy-preserving raising of the optical lattice potential.
+We analyze this process, identify the generic behavior valid for a wide range
+of parameters, and discuss it quantitatively for the recent experiments with
+87Rb and 40K atoms. In the absence of a lattice, we treat the bosons in the
+Hartree-Fock-Bogoliubov-Popov-approximation, including the fermions in a
+self-consistent mean field interaction. In the presence of the full
+three-dimensional lattice, we use a strong coupling expansion. As a result of
+the presence of the fermions, the temperature of the mixture after the lattice
+ramp-up is always higher than for the pure bosonic case. This sheds light onto
+a key point in the analysis of recent experiments.

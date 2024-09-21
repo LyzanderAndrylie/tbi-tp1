@@ -1,0 +1,6 @@
+In this paper we present a survey of the use of differential geometric
+formalisms to describe Quantum Mechanics. We analyze Schroedinger and
+Heisenberg frameworks from this perspective and discuss how the momentum map
+associated to the action of the unitary group on the Hilbert space allows to
+relate both approaches. We also study Weyl-Wigner approach to Quantum Mechanics
+and discuss the implications of bi-Hamiltonian structures at the quantum level.

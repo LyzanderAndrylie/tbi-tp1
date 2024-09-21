@@ -1,0 +1,12 @@
+We study the properties of t-t'-V model of hard-core bosons on the triangular
+lattice that can be realized in optical lattices. By mapping to the spin-1/2
+XXZ model in a field, we determine the phase diagram of the t-V model where the
+supersolid characterized by the ordering pattern (x,x,-2x') ("ferrimagnetic" or
+SS A) is a ground state for chemical potential \mu >3V. By turning on either
+temperature or t' at half-filling \mu =3V, we find a first order transition
+from SS A to the elusive supersolid characterized by the (x,-x,0) ordering
+pattern ("antiferromagnetic" or SS C). In addition, we find a large region
+where a superfluid phase becomes a solid upon raising temperature at fixed
+chemical potential. This is an analog of the Pomeranchuk effect driven by the
+large entropic effects associated with geometric frustration on the triangular
+lattice.

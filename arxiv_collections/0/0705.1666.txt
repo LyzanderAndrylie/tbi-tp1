@@ -1,0 +1,8 @@
+Nematic elastomers with a locked-in anisotropy direction exhibit semi-soft
+elastic response characterized by a plateau in the stress-strain curve in which
+stress does not change with strain. We calculate the global phase diagram for a
+minimal model, which is equivalent to one describing a nematic in crossed
+electric and magnetic fields, and show that semi-soft behavior is associated
+with a broken symmetry biaxial phase and that it persists well into the
+supercritical regime. We also consider generalizations beyond the minimal model
+and find similar results.

@@ -1,0 +1,18 @@
+In many modern applications, including analysis of gene expression and text
+documents, the data are noisy, high-dimensional, and unordered--with no
+particular meaning to the given order of the variables. Yet, successful
+learning is often possible due to sparsity: the fact that the data are
+typically redundant with underlying structures that can be represented by only
+a few features. In this paper we present treelets--a novel construction of
+multi-scale bases that extends wavelets to nonsmooth signals. The method is
+fully adaptive, as it returns a hierarchical tree and an orthonormal basis
+which both reflect the internal structure of the data. Treelets are especially
+well-suited as a dimensionality reduction and feature selection tool prior to
+regression and classification, in situations where sample sizes are small and
+the data are sparse with unknown groupings of correlated or collinear
+variables. The method is also simple to implement and analyze theoretically.
+Here we describe a variety of situations where treelets perform better than
+principal component analysis, as well as some common variable selection and
+cluster averaging schemes. We illustrate treelets on a blocked covariance model
+and on several data sets (hyperspectral image data, DNA microarray data, and
+internet advertisements) with highly complex dependencies between variables.

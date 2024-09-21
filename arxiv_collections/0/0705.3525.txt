@@ -1,0 +1,20 @@
+It is now an accepted fact that the size at which dunes form from a flat sand
+bed as well as their `minimal size' scales on the flux saturation length. This
+length is by definition the relaxation length of the slowest mode toward
+equilibrium transport. The model presented by Parteli, Duran and Herrmann
+[Phys. Rev. E 75, 011301 (2007)] predicts that the saturation length decreases
+to zero as the inverse of the wind shear stress far from the threshold. We
+first show that their model is not self-consistent: even under large wind, the
+relaxation rate is limited by grain inertia and thus can not decrease to zero.
+A key argument presented by these authors comes from the discussion of the
+typical dune wavelength on Mars (650 m) on the basis of which they refute the
+scaling of the dune size with the drag length evidenced by Claudin and
+Andreotti [Earth Pla. Sci. Lett. 252, 30 (2006)]. They instead propose that
+Martian dunes, composed of large grains (500 micrometers), were formed in the
+past under very strong winds. We show that this saltating grain size, estimated
+from thermal diffusion measurements, is not reliable. Moreover, the microscopic
+photographs taken by the rovers on Martian aeolian bedforms show a grain size
+of 87 plus or minus 25 micrometers together with hematite spherules at
+millimetre scale. As those so-called ``blueberries'' can not be entrained by
+reasonable winds, we conclude that the saltating grains on Mars are the small
+ones, which gives a second strong argument against the model of Parteli et al.

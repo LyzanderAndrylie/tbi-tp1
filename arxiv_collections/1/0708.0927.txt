@@ -1,0 +1,18 @@
+We live in the Information Age, and information has become a critically
+important component of our life. The success of the Internet made huge amounts
+of it easily available and accessible to everyone. To keep the flow of this
+information manageable, means for its faultless circulation and effective
+handling have become urgently required. Considerable research efforts are
+dedicated today to address this necessity, but they are seriously hampered by
+the lack of a common agreement about "What is information?" In particular, what
+is "visual information" - human's primary input from the surrounding world. The
+problem is further aggravated by a long-lasting stance borrowed from the
+biological vision research that assumes human-like information processing as an
+enigmatic mix of perceptual and cognitive vision faculties. I am trying to find
+a remedy for this bizarre situation. Relying on a new definition of
+"information", which can be derived from Kolmogorov's compexity theory and
+Chaitin's notion of algorithmic information, I propose a unifying framework for
+visual information processing, which explicitly accounts for the perceptual and
+cognitive image processing peculiarities. I believe that this framework will be
+useful to overcome the difficulties that are impeding our attempts to develop
+the right model of human-like intelligent image processing.

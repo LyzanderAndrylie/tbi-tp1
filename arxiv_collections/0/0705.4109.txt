@@ -1,0 +1,24 @@
+Both numerical simulations and observational evidence indicate that the outer
+regions of galaxies and dark matter haloes are typically mildly to
+significantly radially anisotropic. The inner regions can be significantly
+non-isotropic, depending on the dynamical formation and evolution processes. In
+an attempt to break the lack of simple dynamical models that can reproduce this
+behaviour, we explore a technique to construct dynamical models with an
+arbitrary density and an arbitrary anisotropy profile. We outline a general
+construction method and propose a more practical approach based on a
+parameterized anisotropy profile. This approach consists of fitting the density
+of the model with a set of dynamical components, each of which have the same
+anisotropy profile. Using this approach we avoid the delicate fine-tuning
+difficulties other fitting techniques typically encounter when constructing
+radially anisotropic models. We present a model anisotropy profile that
+generalizes the Osipkov-Merritt profile, and that can represent any smooth
+monotonic anisotropy profile. Based on this model anisotropy profile, we
+construct a very general seven-parameter set of dynamical components for which
+the most important dynamical properties can be calculated analytically. We use
+the results to look for simple one-component dynamical models that generate
+simple potential-density pairs while still supporting a flexible anisotropy
+profile. We present families of Plummer and Hernquist models in which the
+anisotropy at small and large radii can be chosen as free parameters. We also
+generalize these two families to a three-parameter family that
+self-consistently generates the set of Veltmann potential-density pairs.
+(Abridged...)

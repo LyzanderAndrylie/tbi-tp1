@@ -1,0 +1,8 @@
+We define and study entanglement of continuous positive definite functions on
+products of compact groups. We formulate and prove an infinite-dimensional
+analog of Horodecki Theorem, giving a necessary and sufficient criterion for
+separability of such functions. The resulting characterisation is given in
+terms of mappings of the space of continuous functions, preserving positive
+definiteness. The relation between the developed group-theoretical formalism
+and the conventional one, given in terms of density matrices, is established
+through the non-commutative Fourier analysis.

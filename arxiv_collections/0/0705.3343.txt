@@ -1,0 +1,6 @@
+In binary images, the distance transformation (DT) and the geometrical
+skeleton extraction are classic tools for shape analysis. In this paper, we
+present time optimal algorithms to solve the reverse Euclidean distance
+transformation and the reversible medial axis extraction problems for
+$d$-dimensional images. We also present a $d$-dimensional medial axis filtering
+process that allows us to control the quality of the reconstructed shape.

@@ -1,0 +1,7 @@
+We calculate the ground-state energy of 4He, 8He, 16O, and 40Ca using the
+auxiliary field diffusion Monte Carlo method in the fixed phase approximation
+and the Argonne v6' interaction which includes a tensor force. Comparison of
+our light nuclei results to those of Green's function Monte Carlo calculations
+shows the accuracy of our method for both open and closed shell nuclei. We also
+apply it to 16O and 40Ca to show that quantum Monte Carlo methods are now
+applicable to larger nuclei.

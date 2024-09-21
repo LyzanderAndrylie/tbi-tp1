@@ -1,0 +1,8 @@
+We study link-diluted $\pm J$ Ising spin glass models on the hierarchical
+lattice and on a three-dimensional lattice close to the percolation threshold.
+We show that previously computed zero temperature fixed points are unstable
+with respect to temperature perturbations and do not belong to any critical
+line in the dilution-temperature plane. We discuss implications of the presence
+of such spurious unstable fixed points on the use of optimization algorithms,
+and we show how entropic effects should be taken into account to obtain the
+right physical behavior and critical points.

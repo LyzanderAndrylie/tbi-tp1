@@ -1,0 +1,6 @@
+In this article we review our work on the dynamics and decoherence of
+electron and hole spins in single and double quantum dots. The first part, on
+electron spins, focuses on decoherence induced via the hyperfine interaction
+while the second part covers decoherence and relaxation of heavy-hole spins due
+to spin-orbit interaction as well as the manipulation of heavy-hole spin using
+electric dipole spin resonance.

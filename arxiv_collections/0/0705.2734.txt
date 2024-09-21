@@ -1,0 +1,4 @@
+We prove that the generating polynomials of partitions of an $n$-element set
+into non-singleton blocks, counted by the number of blocks, have real roots
+only and we study the asymptotic behavior of the leftmost roots. We apply this
+information to find the most likely number of blocks.

@@ -1,0 +1,8 @@
+In a way similar to the continuous case formally, we define in different but
+equivalent manners the difference discrete connection and curvature on discrete
+vector bundle over the regular lattice as base space. We deal with the
+difference operators as the discrete counterparts of the derivatives based upon
+the differential calculus on the lattice. One of the definitions can be
+extended to the case over the random lattice. We also discuss the relation
+between our approach and the lattice gauge theory and apply to the discrete
+integrable systems.

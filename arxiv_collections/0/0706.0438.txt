@@ -1,0 +1,10 @@
+A holonomic constraint is used to enforce a constant instantaneous
+configurational temperature on an equilibrium system. Three sets of equations
+of motion are obtained, differing according to the way in which the holonomic
+constraint is introduced and the phase space distribution function that is
+preserved by the dynamics. Firstly, Gauss' principle of least constraint is
+used, and it is shown that it does not preserve the canonical distribution.
+Secondly, a modified Hamiltonian is used to find a dynamics that provides a
+restricted microcanonical distribution. Lastly, we provide equations that are
+specifically designed to both satisfy the temperature constraint and produce a
+restricted canonical ensemble.

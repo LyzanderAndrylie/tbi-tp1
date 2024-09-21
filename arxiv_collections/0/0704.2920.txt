@@ -1,0 +1,7 @@
+In this paper we show a local Jacquet-Langlands correspondence for all
+unitary irreducible representations. We prove the global Jacquet-Langlands
+correspondence in characteristic zero. As consequences we obtain the
+multiplicity one and strong multiplicity one theorems for inner forms of GL(n)
+as well as a classification of the residual spectrum and automorphic
+representations in analogy with results proved by Moeglin-Waldspurger and
+Jacquet-Shalika for GL(n).

@@ -1,0 +1,8 @@
+A novel atomistic-continuum method (ACM) based on finite element method (FEM)
+is proposed to numerically simulate the nano-scaled Poisson's ratio and Young's
+modulus effect of Lithium (Li) body-centered cubic (BCC) structure. The
+potential energy between Li atoms is described by the Morse potential function
+[1]. The pre-force effect will be discussed due to the different Li lattice
+length between experimental lattice constant and diatom distance from Morse
+function. Moreover, the size effect of the nano-scaled Li cluster will be
+introduced.

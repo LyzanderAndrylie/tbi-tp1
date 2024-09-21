@@ -1,0 +1,9 @@
+We study the disentanglement of two spin qubits which interact with a general
+XY spin-chain environment. The dynamical process of the disentanglement is
+numerically and analytically investigated in the vicinity of quantum phase
+transition (QPT) of the spin chain in both weak and strong coupling cases. We
+find that the disentanglement of the two qubits is in general enhanced greatly
+when the environmental spin chain is exposed to QPT. We give a detailed
+analysis to facilitate the understanding of the QPT-enhanced decaying behavior
+of the disentanglement factor. Furthermore, the scaling behavior in the
+disentanglement dynamics is also revealed and analyzed.

@@ -1,0 +1,19 @@
+Searches for the permanent electric dipole moments (EDMs) of diamagnetic
+atoms provide powerful probes of CP-violating hadronic and semileptonic
+interactions. The theoretical interpretation of such experiments, however,
+requires careful implementation of a well-known theorem by Schiff that implies
+a vanishing net EDM for an atom built entirely from point-like, nonrelativistic
+constituents that interact only electrostatically. Any experimental observation
+of a nonzero atomic EDM would result from corrections to the point-like,
+nonrelativistic, electrostatic assumption. We reformulate Schiff's theorem at
+the operator level and delineate the electronic and nuclear operators whose
+atomic matrix elements generate corrections to "Schiff screening". We obtain a
+form for the operator responsible for the leading correction associated with
+finite nuclear size -- the so-called "Schiff moment" operator -- and observe
+that it differs from the corresponding operator used in previous Schiff moment
+computations. We show that the more general Schiff moment operator reduces to
+the previously employed operator only under certain approximations that are not
+generally justified. We also identify other corrections to Schiff screening
+that may not be included properly in previous theoretical treatments. We
+discuss practical considerations for obtaining a complete computation of
+corrections to Schiff screening in atomic EDM calculations.

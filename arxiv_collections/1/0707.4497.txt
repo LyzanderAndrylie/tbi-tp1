@@ -1,0 +1,7 @@
+We establish some properties of a within host mathematical model of malaria
+proposed by Recker et al which includes the role of the immune system during
+the infection. The model accounts for the antigenic variation exhibited by the
+malaria parasite (P. falciparum). We show that the model can exhibit a wide
+variety of dynamical behaviors. We provide criteria for global stability,
+competitive exclusion, and persistence. We also demonstrate that the disease
+equilibrium can be destabilized by non-symmetric cross-reactive responses.

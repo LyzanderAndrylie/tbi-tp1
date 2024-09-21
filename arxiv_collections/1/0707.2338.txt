@@ -1,0 +1,7 @@
+We show that starting with the fact that special relativity theory is
+concerned with a distortion of the observed length of a moving rod, without
+mentioning if it is a "contraction" or "dilation", we can derive the Lorentz
+transformations for the spacetime coordinates of the same event. This
+derivation is based on expressing the length of the moving rod as a sum of
+components with all the lengths involved in this summation being measured by
+the observers of the same inertial reference frame.

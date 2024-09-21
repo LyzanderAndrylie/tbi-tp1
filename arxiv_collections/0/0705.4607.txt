@@ -1,0 +1,13 @@
+We introduce and solve a general model of dynamic response under external
+perturbations. This model captures a wide range of systems out of equilibrium
+including Ising models of physical systems, social opinions, and population
+genetics. The distribution of states under perturbation and relaxation process
+reflects two regimes -- one driven by the external perturbation, and one driven
+by internal ordering. These regimes parallel the disordered and ordered regimes
+of equilibrium physical systems driven by thermal perturbations but here are
+shown to be relevant for non-thermal and non-equilibrium external influences on
+complex biological and social systems. We extend our results to a wide range of
+network topologies by introducing an effective strength of external
+perturbation by analytic mean-field approximation. Simulations show this
+generalization is remarkably accurate for many topologies of current interest
+in describing real systems.

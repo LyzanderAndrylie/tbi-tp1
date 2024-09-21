@@ -1,0 +1,6 @@
+We review the properties of quantum groups occurring as Kazhdan--Lusztig dual
+to logarithmic conformal field theory models. These quantum groups at even
+roots of unity are not quasitriangular but are factorizable and have a ribbon
+structure; the modular group representation on their center coincides with the
+representation on generalized characters of the chiral algebra in logarithmic
+conformal field models.

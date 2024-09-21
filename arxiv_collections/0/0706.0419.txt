@@ -1,0 +1,19 @@
+An introductory review on the critical behaviour of some irreversible
+reaction systems is given. The study of these systems has attracted great
+attention during the last decades due to, on the one hand, the rich and complex
+underlying physics, and on the other hand, their relevance for numerous
+technological applications in heterogeneous catalysis, corrosion and coating,
+development of microelectronic devices, etc. The review is focuses on recent
+advances in the understanding of irreversible phase transitions (IPT's)
+providing a survey of the theoretical development of the field during the last
+decade, as well as a detailed discussion of relevant numerical simulations. The
+Langevin formulation for the treatment of second-order IPT's is discussed.
+Different Monte Carlo approaches are also presented in detail and the
+finite-size scaling analysis of second-order IPT's is described. Special
+attention is devoted to the description of recent progress in the study of
+first-order IPT's observed upon catalytic oxidation of carbon monoxide and the
+reduction of nitrogen monoxide, using lattice gas reaction models. Only brief
+comments are given on other reactions such as the oxidation of hydrogen,
+ammonia synthesis, etc. Also, a discussion of relevant experiments is presented
+and measurement are compared with the numerical results. Furthermore, promising
+areas for further research and open questions are also addressed.

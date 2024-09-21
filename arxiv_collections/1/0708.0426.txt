@@ -1,0 +1,9 @@
+We perform extensive Monte Carlo simulations of a lattice model and the Go
+potential to investigate the existence of folding pathways at the level of
+contact cluster formation for two native structures with markedly different
+geometries. Our analysis of folding pathways revealed a common underlying
+folding mechanism, based on nucleation phenomena, for both protein models.
+However, folding to the more complex geometry (i.e. that with more non-local
+contacts) is driven by a folding nucleus whose geometric traits more closely
+resemble those of the native fold. For this geometry folding is clearly a more
+cooperative process.

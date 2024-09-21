@@ -1,0 +1,13 @@
+After the nontrivial quantum parameters $\Omega_{n}$ and quantum potentials
+$V_{n}$ obtained in our previous research, the circumstance of a real scalar
+wave in the bulk is studied with the similar method of Brevik (2001). The
+equation of a massless scalar field is solved numerically under the boundary
+conditions near the inner horizon $r_{e}$ and the outer horizon $r_{c}$. Unlike
+the usual wave function $\Psi_{\omega l}$ in 4D, quantum number $n$ introduces
+a new functions $\Psi_{\omega l n}$, whose potentials are higher and wider with
+bigger n. Using the tangent approximation, a full boundary value problem about
+the Schr$\ddot{o}$dinger-like equation is solved. With a convenient replacement
+of the 5D continuous potential by square barrier, the reflection and
+transmission coefficients are obtained. If extra dimension does exist and is
+visible at the neighborhood of black holes, the unique wave function
+$\Psi_{\omega l n}$ may say something to it.

@@ -1,0 +1,17 @@
+We develop an extension of Bohmian mechanics to a curved background
+space-time containing a singularity. The present paper focuses on timelike
+singularities. We use the naked timelike singularity of the super-critical
+Reissner-Nordstrom geometry as an example. While one could impose boundary
+conditions at the singularity that would prevent the particles from falling
+into the singularity, we are interested here in the case in which particles
+have positive probability to hit the singularity and get annihilated. The wish
+for reversibility, equivariance, and the Markov property then dictates that
+particles must also be created by the singularity, and indeed dictates the rate
+at which this must occur. That is, a stochastic law prescribes what comes out
+of the singularity. We specify explicit equations of a non-rigorous model
+involving an interior-boundary condition on the wave function at the
+singularity, which can be used also in other versions of quantum theory besides
+Bohmian mechanics. As the resulting theory involves particle creation and
+annihilation, it can be regarded as a quantum field theory, and the stochastic
+process for the Bohmian particles is analogous to Bell-type quantum field
+theories.

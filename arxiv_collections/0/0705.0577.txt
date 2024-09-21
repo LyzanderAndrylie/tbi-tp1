@@ -1,0 +1,9 @@
+To clarify the order parameter symmetry of cuprates, the magnetic penetration
+depth $\lambda$ was measured along the crystallographic directions $a$, $b$,
+and $c$ in single crystals of YBa$_2$Cu$_4$O$_8$ via muon spin rotation. This
+method is direct, bulk sensitive, and unambiguous. The temperature dependences
+of $\lambda_a^{-2}$ and $\lambda_b^{-2}$ exhibit an inflection point at low
+temperatures as is typical for two-gap superconductivity (TGS) with $s+d-$wave
+character in the planes. Perpendicular to the planes a pure s-wave gap is
+observed thereby highlighting the important role of c-axis effects. We conclude
+that these are generic and universal features in the bulk of cuprates.

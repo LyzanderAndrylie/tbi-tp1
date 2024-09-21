@@ -1,0 +1,14 @@
+Voice disorders affect patients profoundly, and acoustic tools can
+potentially measure voice function objectively. Nonetheless, existing tools are
+limited to analysing voices displaying near periodicity, and do not account for
+inherent biophysical nonlinearity and non-Gaussian randomness. They do not
+directly measure complex nonlinear aperiodicity, and turbulent, aeroacoustic,
+non-Gaussian randomness. Often these tools have limited clinical usefulness.
+This paper introduces two new tools to speech analysis: recurrence and fractal
+scaling, which overcome the range limitations of existing tools by addressing
+directly these two symptoms of disorder, and a simple bootstrapped classifier
+distinguishes normal from disordered voices to 91.8% overall accuracy on a
+large database of subjects with a wide variety of voice disorders. They are
+widely applicable to the whole range of disordered voice phenomena by design.
+These new measures could therefore be used for a variety of practical clinical
+purposes.

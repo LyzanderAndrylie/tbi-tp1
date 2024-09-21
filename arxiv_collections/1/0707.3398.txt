@@ -1,0 +1,13 @@
+Single dye molecules at cryogenic temperatures display many spectroscopic
+phenomena known from free atoms and are thus promising candidates for
+fundamental quantum optical studies. However, the existing techniques for the
+detection of single molecules have either sacrificed the information on the
+coherence of the excited state or have been inefficient. Here we show that
+these problems can be addressed by focusing the excitation light near to the
+absorption cross section of a molecule. Our detection scheme allows us to
+explore resonance fluorescence over 9 orders of magnitude of excitation
+intensity and to separate its coherent and incoherent parts. In the strong
+excitation regime, we demonstrate the first observation of the Mollow triplet
+from a single solid-state emitter. Under weak excitation we report the
+detection of a single molecule with an incident power as faint as 150 attoWatt,
+paving the way for studying nonlinear effects with only a few photons.

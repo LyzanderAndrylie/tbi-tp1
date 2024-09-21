@@ -1,0 +1,21 @@
+It has long been speculated that supernova remnants represent a major source
+of cosmic rays in the Galaxy. Observations over the past decade have
+ceremoniously unveiled direct evidence of particle acceleration in SNRs to
+energies approaching the knee of the cosmic ray spectrum. Nonthermal X-ray
+emission from shell-type SNRs reveals multi-TeV electrons, and the dynamical
+properties of several SNRs point to efficient acceleration of ions.
+Observations of TeV gamma-ray emission have confirmed the presence of energetic
+particles in several remnants as well, but there remains considerable debate as
+to whether this emission originates with high energy electrons or ions. Equally
+uncertain are the exact conditions that lead to efficient particle
+acceleration.
+  Based on the catalog of EGRET sources, we know that there is a large
+population of Galactic gamma-ray sources whose distribution is similar to that
+of SNRs. With the increased resolution and sensitivity of GLAST, the gamma-ray
+SNRs from this population will be identified. Their detailed emission
+structure, along with their spectra, will provide the link between their
+environments and their spectra in other wavebands to constrain emission models
+and to potentially identify direct evidence of ion acceleration in SNRs. Here I
+summarize recent observational and theoretical work in the area of cosmic ray
+acceleration by SNRs, and discuss the contributions GLAST will bring to our
+understanding of this problem.

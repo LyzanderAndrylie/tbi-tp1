@@ -1,0 +1,13 @@
+Zero- and longitudinal-field muon spin relaxation (MuSR) experiments have
+been carried out in the alloy series Pr(Os1-xRux)4Sb12 and Pr1-yLayOs4Sb12 to
+elucidate the anomalous dynamic muon spin relaxation observed in these
+materials. The damping rate associated with this relaxation varies with
+temperature, applied magnetic field, and dopant concentrations x and y in a
+manner consistent with the ``hyperfine enhancement'' of 141Pr nuclear spins
+first discussed by Bleaney in 1973. This mechanism arises from Van Vleck-like
+admixture of magnetic Pr3+ crystalline-electric-field-split excited states into
+the nonmagnetic singlet ground state by the nuclear hyperfine coupling, thereby
+increasing the strengths of spin-spin interactions between 141Pr and muon spins
+and within the 141Pr spin system. We find qualitative agreement with this
+scenario, and conclude that electronic spin fluctuations are not directly
+involved in the dynamic muon spin relaxation.

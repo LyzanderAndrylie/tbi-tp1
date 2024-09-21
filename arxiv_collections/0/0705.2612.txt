@@ -1,0 +1,19 @@
+In this work, we investigate the detailed theory of the supercoupling,
+anomalous tunneling effect, and field confinement originally identified in [M.
+Silveirinha, N. Engheta, Phys. Rev. Lett. 97, 157403, (2006)], where we
+demonstrated the possibility of using materials with permittivity near zero to
+drastically improve the transmission of electromagnetic energy through a narrow
+irregular channel with very subwavelength transverse cross-section. Here, we
+present additional physical insights, describe new applications of the
+tunneling effect in relevant waveguide scenarios (e.g., the "perfect" or
+"super" waveguide coupling), study the effect of metal losses in the metallic
+walls, and the possibility of using epsilon-near zero materials to confine
+energy in a subwavelength cavity with gigantic field enhancement. In addition,
+we systematically study the propagation of electromagnetic waves through narrow
+channels filled with anisotropic epsilon-near zero materials. It is
+demonstrated that these materials may have interesting potentials, and that for
+some particular geometries the reflectivity of the channel is independent of
+the specific dimensions or parameters of epsilon-near zero transition. We also
+describe several realistic metamaterial implementations of the studied
+problems, based on standard metallic waveguides, microstrip line
+configurations, and wire media.

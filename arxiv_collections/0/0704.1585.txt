@@ -1,0 +1,10 @@
+Building quantum devices using fixed operators is a must to simplify the
+hardware construction. Quantum search engine is not an exception. In this
+paper, a fixed phase quantum search algorithm that searches for M matches in an
+unstructured search space of size N will be presented. Selecting phase shifts
+of 1.91684\pi in the standard amplitude amplification will make the technique
+perform better so as to get probability of success at least 99.58% in
+O(sqrt(N/M)) better than any know fixed operator quantum search algorithms. The
+algorithm will be able to handle either a single match or multiple matches in
+the search space. The algorithm will find a match in O(sqrt(N/M)) whether the
+number of matches is known or not in advance.

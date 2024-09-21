@@ -1,0 +1,17 @@
+We examine the electronic ground state of acenes with different number of
+fused benzene rings (up to 40) by using first principles density functional
+theory. Their properties are compared with those of infinite polyacene. We find
+that the ground state of acenes that consist of more than seven fused benzene
+rings is an antiferromagnetic (in other words, open-shell singlet) state, and
+we show that this singlet is not necessarily a diradical, because the spatially
+separated magnetizations for the spin-up and spin-down electrons increase with
+the size of the acene. For example, our results indicate that there are about
+four spin-up electrons localized at one zigzag edge of 20-acene. The reason
+that both acenes and polyacene have the antiferromagnetic ground state is due
+to the zigzag-shaped boundaries, which cause pi-electrons to localize and form
+spin orders at the edges. Both wider graphene ribbons and large
+rectangular-shaped polycyclic aromatic hydrocarbons have been shown to share
+this antiferromagnetic ground state. Therefore, we demonstrate that the
+pi-electronic structure of higher acenes and ployacene are still dictated by
+the zigzag edges, and our results provide a consistent description of their
+electronic ground state.

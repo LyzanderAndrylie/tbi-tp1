@@ -1,0 +1,7 @@
+In this paper we consider the Cahn-Hilliard equation endowed with Wentzell
+boundary condition which is a model of phase separation in a binary mixture
+contained in a bounded domain with permeable wall. Under the assumption that
+the nonlinearity is analytic with respect to unknown dependent function, we
+prove the convergence of a global solution to an equilibrium as time goes to
+infinity by means of a suitable \L ojasiewicz-Simon type inequality with
+boundary term. Estimates of convergence rate are also provided.

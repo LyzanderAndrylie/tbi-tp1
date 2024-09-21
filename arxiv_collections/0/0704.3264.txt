@@ -1,0 +1,13 @@
+Transcription regulation typically involves the binding of proteins over long
+distances on multiple DNA sites that are brought close to each other by the
+formation of DNA loops. The inherent complexity of the assembly of regulatory
+complexes on looped DNA challenges the understanding of even the simplest
+genetic systems, including the prototypical lac operon. Here we implement a
+scalable quantitative computational approach to analyze systems regulated
+through multiple DNA sites with looping. Our approach applied to the lac operon
+accurately predicts the transcription rate over five orders of magnitude for
+wild type and seven mutants accounting for all the combinations of deletions of
+the three operators. A quantitative analysis of the model reveals that the
+presence of three operators provides a mechanism to combine robust repression
+with sensitive induction, two seemingly mutually exclusive properties that are
+required for optimal functioning of metabolic switches.

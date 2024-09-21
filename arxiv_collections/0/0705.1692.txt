@@ -1,0 +1,9 @@
+The bandstructure of the prototypical charge-transfer insulator NiO is
+computed by using a combination of an {\it ab initio} bandstructure method and
+the dynamical mean-field theory with a quantum Monte-Carlo impurity solver.
+Employing a Hamiltonian which includes both Ni-d and O-p orbitals we find
+excellent agreement with the energy bands determined from angle-resolved
+photoemission spectroscopy. This solves a long-standing problem in solid state
+theory. Most notably we obtain the low-energy Zhang-Rice bands with strongly
+k-dependent orbital character discussed previously in the context of low-energy
+model theories.

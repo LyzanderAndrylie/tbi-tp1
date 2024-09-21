@@ -1,0 +1,12 @@
+We consider the conformal group of the unit sphere $S^{n-1},$ the so-called
+proper Lorentz group Spin$^+(1,n),$ for the study of spherical continuous
+wavelet transforms (CWT). Our approach is based on the method for construction
+of general coherent states associated to square integrable group
+representations over homogeneous spaces. The underlying homogeneous space is an
+extension to the whole of the group Spin$^+(1,n)$ of the factorization of the
+gyrogroup of the unit ball by an appropriate gyro-subgroup. Sections on this
+homogeneous space are constituted by rotations of the subgroup Spin$(n)$ and
+M\"{o}bius transformations of the type $\phi_a(x)=(x-a)(1+ax)^{-1},$ where $a$
+belongs to a given section on a homogeneous space of the unit ball. This
+extends in a natural way the work of Antoine and Vandergheynst to anisotropic
+conformal dilations.

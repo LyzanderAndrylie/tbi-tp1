@@ -1,0 +1,14 @@
+In this paper we study the confluence of two regular singular points of the
+hypergeometric equation into an irregular one. We study the consequence of the
+divergence of solutions at the irregular singular point for the unfolded
+system. Our study covers a full neighborhood of the origin in the confluence
+parameter space. In particular, we show how the divergence of solutions at the
+irregular singular point explains the presence of logarithmic terms in the
+solutions at a regular singular point of the unfolded system. For this study,
+we consider values of the confluence parameter taken in two sectors covering
+the complex plane. In each sector, we study the monodromy of a first integral
+of a Riccati system related to the hypergeometric equation. Then, on each
+sector, we include the presence of logarithmic terms into a continuous
+phenomenon and view a Stokes multiplier related to a 1-summable solution as the
+limit of an obstruction that prevents a pair of eigenvectors of the monodromy
+operators, one at each singular point, to coincide.

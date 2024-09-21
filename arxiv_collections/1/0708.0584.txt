@@ -1,0 +1,7 @@
+Bell's theorem guarantees that no model based on local variables can
+reproduce quantum correlations. Also some models based on non-local variables,
+if subject to apparently "reasonable" constraints, may fail to reproduce
+quantum physics. In this paper, we introduce a family of inequalities, which
+allow testing Leggett's non-local model versus quantum physics, and which can
+be tested in an experiment without additional assumptions. Our experimental
+data falsify Leggett's model and are in agreement with quantum predictions.

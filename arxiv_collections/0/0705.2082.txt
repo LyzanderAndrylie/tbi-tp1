@@ -1,0 +1,16 @@
+We study plasma effects in a micromachined high-electron mobility transistor
+(HEMT) with the microcantilever serving as the gate using the developed a
+model. The model accounts for mechanical motion of the microcantilever and
+spatio-temporal variations (plasma effects) of the two-dimensional electron
+gas(2DEG) system in the transistor channel. The microcantilever mechanical
+motion is described in the point-mass approximation. The hydrodynamic electron
+transport model is used to describe distributed electron plasma phenomena in
+the 2DEG system. Using the developed model, we calculated the response function
+characterizing the amplitude microcantilever oscillations and the output
+electric signal as functions of the signal frequency and the bias voltage for
+the devices with different parameters. We find the voltage dependences of the
+frequency of the mechanical resonance and its damping. In particular, it is
+demonstrated that the amplitudes of the mechanical oscillations and output
+electric signal exhibit pronounced maxima at the bias voltages close to the
+voltage of the 2DEG channel depletion followed by a steep drop with further
+increase in the bias voltage.

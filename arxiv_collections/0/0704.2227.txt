@@ -1,0 +1,12 @@
+Long, cylindrical metal nanowires have recently been observed to form and be
+stable for seconds at a time at room temperature. Their stability and
+structural dynamics is well described by a continuum model, the nanoscale
+free-electron model, which predicts cylinders in certain intervals of radius to
+be linearly unstable. In this paper, I study how a small, localized
+perturbation of such an unstable wire grows exponentially and propagates along
+the wire with a well-defined front. The front is found to be pulled, and forms
+a coherent pattern behind it. It is well described by a linear marginal
+stability analysis of front propagation into an unstable state. In some cases,
+nonlinearities of the wire dynamics are found to trigger an invasive mode that
+pushes the front. Experimental procedures that could lead to the observation of
+this phenomenon are suggested.

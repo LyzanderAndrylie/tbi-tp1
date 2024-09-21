@@ -1,0 +1,10 @@
+We study a quantum phase transition between fermion superfluid (SF) and band
+insulator (BI) of fermions in optical lattices. The destruction of the band
+insulator is driven by the energy gain in promoting fermions from valance band
+to various conducting bands to form Cooper pairs. We show that the transition
+must take place in rather shallow lattice height, $V_{o}/E_{R}$ between 2.23
+and 4.14. The latter is the prediction of mean field theory while the former is
+the value for opening a band gap. As one moves across resonance to the molecule
+side, the SF-BI transition evolves into the SF-Mott insulator transition of
+bosonic molecules. We shall also present the global phase diagram for
+SF-Insulator transition for the BCS-BEC family.

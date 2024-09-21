@@ -1,0 +1,6 @@
+A new symplectic variational approach is developed for modeling dissipation
+in kinetic equations. This approach yields a double bracket structure in phase
+space which generates kinetic equations representing coadjoint motion under
+canonical transformations. The Vlasov example admits measure-valued
+single-particle solutions. Such solutions are reversible; and the total entropy
+is a Casimir, and thus is preserved.

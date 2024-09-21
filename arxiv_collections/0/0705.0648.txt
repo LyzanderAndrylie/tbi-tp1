@@ -1,0 +1,9 @@
+We examine transport through a quantum dot coupled to three ferromagnetic
+leads in the regime of weak tunnel coupling. A finite source-drain voltage
+generates a nonequilibrium spin on the otherwise non-magnetic quantum dot. This
+spin accumulation leads to magnetoresistance. A ferromagnetic but current-free
+base electrode influences the quantum-dot spin via incoherent spin-flip
+processes and coherent spin precession. As the dot spin determines the
+conductance of the device, this allows for a purely magnetic transistor-like
+operation. We analyze the effect of both types of processes on the electric
+current in different geometries.

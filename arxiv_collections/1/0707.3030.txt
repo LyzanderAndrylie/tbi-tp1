@@ -1,0 +1,8 @@
+This work aims at optimizing injection networks, which consist in adding a
+set of long-range links (called bypass links) in mobile multi-hop ad hoc
+networks so as to improve connectivity and overcome network partitioning. To
+this end, we rely on small-world network properties, that comprise a high
+clustering coefficient and a low characteristic path length. We investigate the
+use of two genetic algorithms (generational and steady-state) to optimize three
+instances of this topology control problem and present results that show
+initial evidence of their capacity to solve it.

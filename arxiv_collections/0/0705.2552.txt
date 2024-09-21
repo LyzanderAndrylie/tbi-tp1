@@ -1,0 +1,19 @@
+We present a purely theoretical study of the morphological evolution of
+self-gravitating systems formed through the dissipationless collapse of N-point
+sources. We explore the effects of resolution in mass and length on the growth
+of triaxial structures formed by an instability triggered by an excess of
+radial orbits. We point out that as resolution increases, the equilibria shift,
+from mildly prolate, to oblate. A number of particles N ~= 100000 or larger is
+required for convergence of axial aspect ratios. An upper bound for the
+softening, e ~ 1/256, is also identified. We then study the properties of a set
+of equilibria formed from scale-free cold initial mass distributions, ro ~ r^-g
+with 0 <= g <= 2. Oblateness is enhanced for initially more peaked structures
+(larger values of g). We map the run of density in space and find no evidence
+for a power-law inner structure when g <= 3/2 down to a mass fraction <~0.1 per
+cent of the total. However, when 3/2 < g <= 2, the mass profile in equilibrium
+is well matched by a power law of index ~g out to a mass fraction ~ 10 per
+cent. We interpret this in terms of less-effective violent relaxation for more
+peaked profiles when more phase mixing takes place at the centre. We map out
+the velocity field of the equilibria and note that at small radii the velocity
+coarse-grained distribution function (DF) is Maxwellian to a very good
+approximation.

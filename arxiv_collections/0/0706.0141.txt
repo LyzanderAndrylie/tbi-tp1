@@ -1,0 +1,19 @@
+Howard Brenner has recently proposed modifications to the Navier-Stokes
+equations that relate to a diffusion of fluid volume that would be significant
+for flows with high density gradients. In a previous paper (Greenshields &
+Reese, 2007), we found these modifications gave good predictions of the viscous
+structure of shock waves in argon in the range Mach 1.0-12.0 (while
+conventional Navier-Stokes equations are known to fail above about Mach 2).
+However, some areas of concern with this model were a somewhat arbitrary choice
+of modelling coefficient, and potentially unphysical and unstable solutions. In
+this paper, we therefore present slightly different modifications to include
+molecule mass diffusion fully in the Navier-Stokes equations. These
+modifications are shown to be stable and produce physical solutions to the
+shock problem of a quality broadly similar to those from the family of extended
+hydrodynamic models that includes the Burnett equations. The modifications
+primarily add a diffusion term to the mass conservation equation, so are at
+least as simple to solve as the Navier-Stokes equations; there are none of the
+numerical implementation problems of conventional extended hydrodynamics
+models, particularly in respect of boundary conditions. We recommend further
+investigation and testing on a number of different benchmark non-equilibrium
+flow cases.

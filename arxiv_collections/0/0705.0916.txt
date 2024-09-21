@@ -1,0 +1,12 @@
+The mass spectra of heavy and light mesons is computed within the framework
+of the relativistic flux tube model. A good agreement with the experimental
+data is obtained provided that the flux tube contributions, including
+retardation and spin-orbit effects, are supplemented by a one-gluon-exchange
+potential, a quark self-energy term and instanton-induced interactions. No
+arbitrary constant is needed to fit the absolute scale of the mass spectra, and
+the different parameters are fitted on lattice QCD in order to strongly
+restrict the arbitrariness of our model. The relevance of the present approach
+is discussed in the case of glueballs, and the glueball spectrum we compute is
+compared to the lattice QCD one. Finally, we make connections between the
+results of our model and the nature of some newly discovered experimental
+states such as the f_0(1810), X(3940), Y(3940), etc.

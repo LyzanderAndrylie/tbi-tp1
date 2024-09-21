@@ -1,0 +1,8 @@
+We propose a new simple model for DNA denaturation bases on the pendulum
+model of Englander\cite{A1} and the microscopic model of Peyrard {\it et
+al.},\cite{A3} so called "combined model". The main parameters of our model
+are: the coupling constant $k$ along each strand, the mean stretching $y^\ast$
+of the hydrogen bonds, the ratio of the damping constant and driven force
+$\gamma/F$. We show that both the length $L$ of unpaired bases and the velocity
+$v$ of kinks depend on not only the coupling constant $k$ but also the
+temperature $T$. Our results are in good agreement with previous works.

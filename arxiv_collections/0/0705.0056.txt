@@ -1,0 +1,10 @@
+From an N=1 supersymmetric electric gauge theory with the gauge group SU(N_c)
+x SU(N_c') with fundamentals for each gauge group, the bifundamentals and a
+symmetric flavor and a conjugate symmetric flavor for SU(N_c), we apply Seiberg
+dual to each gauge group independently and obtain two N=1 supersymmetric dual
+magnetic gauge theories with dual matters including the gauge singlets. By
+analyzing the F-term equations of the dual magnetic superpotentials, we
+describe the intersecting brane configurations of type IIA string theory
+corresponding to the meta-stable nonsupersymmetric vacua of these gauge
+theories. The case where the above symmetric flavor is replaced by an
+antisymmetric flavor is also discussed.

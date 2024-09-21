@@ -1,0 +1,9 @@
+Bipolaron formation in a two-dimensional lattice with harmonic confinement,
+representing a simplified model for a quantum dot, is investigated by means of
+quantum Monte Carlo simulations. This method treats all interactions exactly
+and takes into account quantum lattice fluctuations. Calculations of the
+bipolaron binding energy reveal that confinement opposes bipolaron formation
+for weak electron-phonon coupling, but abets a bound state at intermediate to
+strong coupling. Tuning the system from weak to strong confinement gives rise
+to a small reduction of the minimum Frohlich coupling parameter for the
+existence of a bound state.

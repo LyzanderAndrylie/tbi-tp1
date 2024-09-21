@@ -1,0 +1,11 @@
+Cylindrically symmetric inhomogeneous string cosmological models in presence
+of electromagnetic field is investigated. We have assumed that $F_{12}$ is the
+only non-vanishing component of $F_{ij}$. The Maxwell's equations require that
+$F_{12}$ is the function of $x$ and $t$ both and the magnetic permeability is
+the function of $x$ and $t$ both. To get the deterministic solution, it has
+been assumed that the expansion ($\theta$) in the model is proportional to the
+eigen value $\sigma^{1}_{1}$ of the shear tensor $\sigma^{i}_{j}$. The derived
+model represents the inflationary scenario as the proper volume increases
+exponentially with cosmic time. It is observed that the model has a point type
+singularity. The physical and geometric aspects of the model are also
+discussed.

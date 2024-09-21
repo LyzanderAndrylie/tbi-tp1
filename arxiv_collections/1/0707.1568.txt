@@ -1,0 +1,7 @@
+We extend the results of a previous paper on the Gross-Pitaevskii description
+of rotating Bose-Einstein condensates in two-dimensional traps to confining
+potentials of the form V(r) = r^s, $2<s <\infty$. Writing the coupling constant
+as $1/\epsilon^2$ we study the limit $\epsilon \to 0$. We derive rigorously the
+leading asymptotics of the ground state energy and the density profile when the
+rotation velocity \Omega tends to infinity as a power of $1/\epsilon$. The case
+of asymptotically homogeneous potentials is also discussed.

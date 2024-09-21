@@ -1,0 +1,20 @@
+It usually writes the boundary condition of the wave equation in the Coulomb
+field as a rough form without considering the size of the atomic nucleus. The
+rough expression brings on that the solutions of the Klein-Gordon equation and
+the Dirac equation with the Coulomb potential are divergent at the origin of
+the coordinates, also the virtual energies, when the nuclear charges number Z >
+137, meaning the original solutions do not satisfy the conditions for
+determining solution. Any divergences of the wave functions also imply that the
+probability density of the meson or the electron would rapidly increase when
+they are closing to the atomic nucleus. What it predicts is not a truth that
+the atom in ground state would rapidly collapse to the neutron-like. We
+consider that the atomic nucleus has definite radius and write the exact
+boundary condition for the hydrogen and hydrogen-like atom, then newly solve
+the radial Dirac-Coulomb equation and obtain a new exact solution without any
+mathematical and physical difficulties. Unexpectedly, the K value constructed
+by Dirac is naturally written in the barrier width or the equivalent radius of
+the atomic nucleus in solving the Dirac equation with the exact boundary
+condition, and it is independent of the quantum energy. Without any divergent
+wave function and the virtual energies, we obtain a new formula of the energy
+levels that is different from the Dirac formula of the energy levels in the
+Coulomb field.

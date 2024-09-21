@@ -1,0 +1,13 @@
+Within the framework of a (1+1)-dimensional model which mimics evolution and
+scattering in QCD at high energy, we study the influence of the running of the
+coupling on the high-energy dynamics with Pomeron loops. We find that the
+particle number fluctuations are strongly suppressed by the running of the
+coupling, by at least one order of magnitude as compared to the case of a fixed
+coupling, for all the rapidities that we have investigated, up to Y=200. This
+reflects the slowing down of the evolution by running coupling effects, in
+particular, the large rapidity evolution which is required for the formation of
+the saturation front via diffusion. We conclude that, for all energies of
+interest, processes like deep inelastic scattering or forward particle
+production can be reliably studied within the framework of a mean-field
+approximation (like the Balitsky-Kovchegov equation) which includes running
+coupling effects.

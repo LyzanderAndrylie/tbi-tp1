@@ -1,0 +1,9 @@
+Plasma instabilities can play a fundamental role in quark-gluon plasma
+equilibration in the high energy (weak coupling) limit. Early simulations of
+the evolution of plasma instabilities in non-abelian gauge theory, performed in
+one spatial dimension, found behavior qualitatively similar to traditional QED
+plasmas. Later simulations of the fully three-dimensional theory found
+different behavior, unlike traditional QED plasmas. To shed light on the origin
+of this difference, we study the intermediate case of two spatial dimensions.
+Depending on how the "two-dimensional'' theory is formulated, we can obtain
+either behavior.

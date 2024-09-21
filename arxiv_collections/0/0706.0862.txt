@@ -1,0 +1,5 @@
+We derive a quantum-kinetic description of phonon-assisted F{\"o}rster
+transfer between two coupled quantum dots (a quantum dot molecule). We show
+that the exciton state decays to the ground state of the QDM via a combination
+of the Rabi rotation and exponential decay. For moderately spaced dots this
+process takes place on a picosecond time scale.

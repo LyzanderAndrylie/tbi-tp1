@@ -1,0 +1,5 @@
+We give a purely geometric categorification of tensor products of
+finite-dimensional simple $U_q(sl_2)$-modules and $R$-matrices on them. The
+work is developed in the framework of category of perverse sheaves and the
+categorification theorems are understood as consequences of Deligne's theory of
+weights.

@@ -1,0 +1,6 @@
+We present a general framework to describe the simultaneous
+para-to-ferromagnetic and semiconductor-to-metal transition in electron-doped
+EuO. The theory correctly describes detailed experimental features of the
+conductivity and of the magnetization, in particular the doping dependence of
+the Curie temperature. The existence of correlation-induced local moments on
+the impurity sites is essential for this description.

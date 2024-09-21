@@ -1,0 +1,12 @@
+The semiclassical theory of laser cooling is applied for the analysis of
+cooling of unbound atoms with the values of the ground and exited state angular
+moments 1/2 in a one-dimensional nondissipative optical lattice. We show that
+in the low-saturation limit with respect to the pumping field a qualitative
+interpretation of the cooling mechanisms can be made by the consideration of
+effective two-level system of the ground-state sublevels. It is clarified that
+in the limit of weak Raman transitions the cooling mechanism is similar to the
+Doppler mechanism, which is known in the theory of two-level atom. In the limit
+of strong Raman transitions the cooling mechanism is similar to the known
+Sisyphus mechanism. In the slow atom approximation the analytical expressions
+for the coefficients of friction, spontaneous and induced diffusion are given,
+and the kinetic temperature is estimated.

@@ -1,0 +1,18 @@
+This paper introduces "OPTOTEACH", a new teaching system for photonics lab
+work, designed by Harz University and successfully released on the German
+market by HarzOptics. OPTOTEACH is the first POF-WDM teaching system,
+specifically designed to cover a multitude of lab experiments in the field of
+optical communication technology.
+  It is illustrated, how this lab system is supplemented by a newly developed
+optical teaching software - "OPTOSOFT" - and how the combination of system and
+software creates a unique augmented learning environment. The paper details,
+how the didactic concept for the software was conceptualised and introduces the
+latest beta version. OPTOSOFT is specifically designed not only as an
+attachment to OPTOTEACH, it also allows students to rehearse various aspects of
+theoretical optics and experience a fully interactive and feature-rich
+self-learning environment.
+  The paper further details the first experiences educators at Harz University
+have made working with the lab system as well as the teaching software. So far,
+the augmented learning concept was received mostly positive, although there is
+some potential for further optimisation concerning integration and pacing of
+various interactive modules.

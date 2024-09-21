@@ -1,0 +1,10 @@
+We show that it is necessary to go beyond the BCS (rainbow-ladder)
+approximation to split the $\eta$ and $\eta'$ masses from the $\pi$ and K
+masses. We determine the self-consistent set of one-quark-loop diagrams both
+for the Schwinger-Dyson quark mass gap equation and for the Bethe-Salpeter
+quark-antiquark boundstate equation. We identify the dominant diagrams, and we
+focus on the boundstate equation. We detail the Bethe-Salpeter equation, adding
+the dominant new diagram to the BCS kernel. The relevant numerical techniques
+are also discussed. The ideal cases of one, two and three light flavors,
+relevant to lattice QCD are also explored, together with the case of realistic
+current quark masses.

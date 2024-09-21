@@ -1,0 +1,6 @@
+We show that the third-order optical response of disordered linear
+J-aggregates can be calculated by considering only a limited number of
+transitions between (multi-) exciton states. We calculate the pump-probe
+absorption spectrum resulting from the truncated set of transitions and show
+that, apart from the blue wing of the induced absorption peak, it agrees well
+with the exact spectrum.

@@ -1,0 +1,10 @@
+We revisit the relationship between three classical measures of particle
+number, namely the chemical doping $x$, the Hall number $x_{hall}$ and the
+particle number inferred from the optical sum rule $x_{opt}$. We study the
+$t$-$t'$-$J$ model of correlations on a square lattice, as a minimal model for
+High $T_c$ systems, using numerical methods to evaluate the low temperature
+Kubo conductivites. These measures disagree significantly in this type of
+system, owing to Mott Hubbard correlations. The Hall constant has a complex
+behavior with several changes of sign as a function of filling $x$, depending
+upon the model parameters. Thus $x_{hall}$ depends sensitively on $t'$ and $J$,
+due to a kind of quantum interference.

@@ -1,0 +1,17 @@
+The solar magnetic field is the primary agent that drives solar activity and
+couples the Sun to the Heliosphere. Although the details of this coupling
+depend on the quantitative properties of the field, many important aspects of
+the corona - solar wind connection can be understood by considering only the
+general topological properties of those regions on the Sun where the field
+extends from the photosphere out to interplanetary space, the so-called open
+field regions that are usually observed as coronal holes. From the simple
+assumptions that underlie the standard quasi-steady corona-wind theoretical
+models, and that are likely to hold for the Sun, as well, we derive two
+conjectures on the possible structure and dynamics of coronal holes: (1)
+Coronal holes are unique in that every unipolar region on the photosphere can
+contain at most one coronal hole. (2) Coronal holes of nested polarity regions
+must themselves be nested. Magnetic reconnection plays the central role in
+enforcing these constraints on the field topology. From these conjectures we
+derive additional properties for the topology of open field regions, and
+propose several observational predictions for both the slowly varying and
+transient corona/solar wind.

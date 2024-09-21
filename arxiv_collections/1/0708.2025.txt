@@ -1,0 +1,14 @@
+The magnetic lattice of mixed-valence Mn ions in
+La$_{0.7}$Sr$_{0.3}$MnO$_{3}$ is selectively diluted by partial substitution of
+Al or Ti for Mn. The ferromagnetic transition temperature $T_\mathrm{c}$ and
+the saturation magnetization $M_\mathrm{s}$ both decrease with substitution. By
+presenting the data in terms of selective dilution, $T_\mathrm{c}$ in the
+low-doping region is found to follow the relation
+$T_\mathrm{c}=T_\mathrm{c0}(1-n_\mathrm{p})$, where $T_\mathrm{c0}$ refers to
+the undiluted system and $n_\mathrm{p}$ is the dilution concentration defined
+as $n_\mathrm{p}=x/0.7$ or $n_\mathrm{p}=x/0.3$ for $M^\prime=$ Al or Ti,
+respectively. The scaling behavior of $T_\mathrm{c}(n_\mathrm{p})$ can be
+analyzed in the framework of the molecular-field theory and still valid when Mn
+is substituted by both Al and Ti. The results are discussed with respect to the
+contributions from ferromagnetic double exchange and other possible
+antiferromagnetic superexchange interactions coexisting in the material.

@@ -1,0 +1,9 @@
+We investigate the competition between pairing correlations and
+ferromagnetism in small metallic grains in the presence of a Zeeman field. Our
+analysis is based on the universal Hamiltonian, valid in the limit of large
+Thouless conductance. We show that the coexistence regime of superconducting
+and ferromagnetic correlations can be made experimentally accessible by tuning
+an external Zeeman field. We compare the exact solution of the model with a
+mean-field theory and find that the latter cannot describe pairing correlations
+in the intermediate regime. We also study the occurrence of spin jumps across
+the phase boundary separating the superconducting and coexistence regimes.

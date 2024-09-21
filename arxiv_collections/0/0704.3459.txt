@@ -1,0 +1,8 @@
+When CP asymmetries in $B^0(t)\to \pi^+ \pi^-$ are combined using broken
+flavor SU(3) with decay rates for $B^+\to K^0\pi^+$ and/or $B^0\to K^+\pi^-$,
+one can obtain stringent limits on the weak phase $\gamma$ which are consistent
+with those obtained from other CKM constraints. Experimental data in the past
+few years have improved to the extent that systematic errors associated with
+uncertainty in SU(3) symmetry breaking dominate the determination of $\gamma$.
+We obtain a value $\gamma =(73 \pm 4^{+10}_{-8})^\circ$, where the first error
+is statistical while the second one is systematic.

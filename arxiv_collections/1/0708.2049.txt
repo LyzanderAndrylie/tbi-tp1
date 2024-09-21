@@ -1,0 +1,10 @@
+Three-dimensional, time-dependent numerical simulations of the dynamics of
+magnetic flux ropes are presented. The simulations are targeted towards an
+experiment previously conducted at CalTech (Bellan, P. M. and J. F. Hansen,
+Phys. Plasmas, 5, 1991 (1998)) which aimed at simulating Solar prominence
+eruptions in the laboratory. The plasma dynamics is described by ideal MHD
+using different models for the evolution of the mass density. Key features of
+the reported experimental observations like pinching of the current loop, its
+expansion and distortion into helical shape are reproduced in the numerical
+simulations. Details of the final structure depend on the choice of a specific
+model for the mass density.

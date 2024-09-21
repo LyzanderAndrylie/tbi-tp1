@@ -1,0 +1,13 @@
+The physical interpretation of spectropolarimetric observations of lines of
+neutral helium, such as those of the 10830 A multiplet, represents an excellent
+opportunity for investigating the magnetism of plasma structures in the solar
+chromosphere. Here we present a powerful forward modeling and inversion code
+that permits either to calculate the emergent intensity and polarization for
+any given magnetic field vector or to infer the dynamical and magnetic
+properties from the observed Stokes profiles. This diagnostic tool is based on
+the quantum theory of spectral line polarization, which self-consistently
+accounts for the Hanle and Zeeman effects in the most general case of the
+incomplete Paschen-Back effect regime. We also take into account radiative
+transfer effects. An efficient numerical scheme based on global optimization
+methods has been applied. Our Stokes inversion code permits a fast and reliable
+determination of the global minimum.

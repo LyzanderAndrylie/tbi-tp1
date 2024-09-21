@@ -1,0 +1,12 @@
+The Kripke semantics of classical propositional normal modal logic is made
+algebraic via an embedding of Kripke structures into the larger class of
+pointed stably supported quantales. This algebraic semantics subsumes the
+traditional algebraic semantics based on lattices with unary operators, and it
+suggests natural interpretations of modal logic, of possible interest in the
+applications, in structures that arise in geometry and analysis, such as
+foliated manifolds and operator algebras, via topological groupoids and inverse
+semigroups. We study completeness properties of the quantale based semantics
+for the systems K, T, K4, S4, and S5, in particular obtaining an axiomatization
+for S5 which does not use negation or the modal necessity operator. As
+additional examples we describe intuitionistic propositional modal logic, the
+logic of programs PDL, and the ramified temporal logic CTL.

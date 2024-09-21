@@ -1,0 +1,12 @@
+We study Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state of superconductors
+with and without inversion symmetry based on the Hubbard model on the square
+lattice near half-filling, using the random phase approximation. We show that
+center of mass momentum $Q$ tends to be parallel to $x$- or y-axis in the
+presence of inversion symmetry, while $Q$ vector is likely to be perpendicular
+to the magnetic field in the absence of inversion symmetry. We also clarify
+that $d+f$-wave pairing is favored and the hetero spin triplet $f$-wave state
+is present in the FFLO state unlike state in the superconductors only with the
+Rashba type spin-orbit coupling (RSOC) originating from the broken inversion
+symmetry. The triplet $f$-wave state is enhanced by magnetic field and the
+RSOC. This stems from the reduction of the spin susceptibilities by the
+magnetic field and the RSOC.

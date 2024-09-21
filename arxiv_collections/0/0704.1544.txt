@@ -1,0 +1,21 @@
+An interaction between electrons and lattice vibrations (phonons) results in
+two fundamental quantum phenomena in solids: in three dimensions it can turn a
+metal into a superconductor whereas in one dimension it can turn a metal into
+an insulator. In two dimensions (2D) both superconductivity and charge-density
+waves (CDW) are believed to be anomalous. In superconducting cuprates, critical
+transition temperatures are unusually high and the energy gap may stay unclosed
+even above these temperatures (pseudogap). In CDW-bearing dichalcogenides the
+resistivity below the transition can decrease with temperature even faster than
+in the normal phase and a basic prerequisite for the CDW, the favourable
+nesting conditions (when some sections of the Fermi surface appear shifted by
+the same vector), seems to be absent. Notwithstanding the existence of
+alternatives to conventional theories, both phenomena in 2D still remain the
+most fascinating puzzles in condensed matter physics. Using the latest
+developments in high-resolution angle-resolved photoemission spectroscopy
+(ARPES) here we show that the normal-state pseudogap also exists in one of the
+most studied 2D examples, dichalcogenide 2H-TaSe2, and the formation of CDW is
+driven by a conventional nesting instability, which is masked by the pseudogap.
+Our findings reconcile and explain a number of unusual, as previously believed,
+experimental responses as well as disprove many alternative theoretical
+approaches. The magnitude, character and anisotropy of the 2D-CDW pseudogap are
+intriguingly similar to those seen in superconducting cuprates.

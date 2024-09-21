@@ -1,0 +1,6 @@
+We present spin wave dispersions in MnO, NiO, and $\alpha$-MnAs based on the
+quasiparticle self-consistent $GW$ method (\qsgw), which determines an optimum
+quasiparticle picture. For MnO and NiO, \qsgw results are in rather good
+agreement with experiments, in contrast to the LDA and LDA+U description. For
+$\alpha$-MnAs, we find a collinear ferromagnetic ground state in \qsgw, while
+this phase is unstable in the LDA.

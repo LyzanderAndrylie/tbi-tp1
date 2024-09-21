@@ -1,0 +1,13 @@
+We have investigated the possibility of direct tests of little Higgs models
+incorporating triplet Higgs neutrino mass mechanism at LHC experiments. We have
+performed Monte Carlo studies of Drell-Yan pair production of doubly charged
+Higgs boson \Phi^{++} followed by its leptonic decays which branching ratios
+are fixed from the neutrino oscillation data. We propose appropriate selection
+rules for the four-lepton signal, including reconstructed taus, which are
+optimized for the discovery of \Phi^{++} with the lowest LHC luminosity. As the
+Standard Model background can be effectively eliminated, an important aspect of
+our study is the correct statistical treatment of the LHC discovery potential.
+Adding detection efficiencies and measurement errors to the Monte Carlo
+analyses, \Phi^{++} can be discovered up to the mass 250 GeV in the first year
+of LHC, and 700 GeV mass is reachable for the integrated luminosity L=30
+fb^{-1}.

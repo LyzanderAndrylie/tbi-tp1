@@ -1,0 +1,8 @@
+A graph G is intrinsically S^1-linked if for every embedding of the vertices
+of G into S^1, vertices that form the endpoints of two disjoint edges in G form
+a non-split link in the embedding. We show that a graph is intrinsically
+S^1-linked if and only if it is not outer-planar. A graph is outer-flat if it
+can be embedded in the 3-ball such that all of its vertices map to the boundary
+of the 3-ball, all edges to the interior, and every cycle bounds a disk in the
+3-ball that meets the graph only along its boundary. We show that a graph is
+outer-flat if and only if it is planar.

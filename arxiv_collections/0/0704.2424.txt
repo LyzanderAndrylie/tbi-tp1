@@ -1,0 +1,6 @@
+We present a method for generating new deformed solutions starting from
+systems of two real scalar fields for which defect solutions and orbits are
+known. The procedure generalizes the approach introduced in a previous work
+[Phys. Rev. D 66, 101701(R) (2002)], in which it is shown how to construct new
+models altogether with its defect solutions, in terms of the original model and
+solutions. As an illustration, we work out an explicit example in detail.

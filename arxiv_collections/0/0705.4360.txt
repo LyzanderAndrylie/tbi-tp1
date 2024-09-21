@@ -1,0 +1,11 @@
+In this paper, we place bounds on when it is impossible to purify a noisy
+two-qubit state if all the gates used in the purification protocol are subject
+to adversarial local, independent, noise. It is found that the gate operations
+must be subject to less than 5.3% error. An existing proof that purification is
+equivalent to error correction is used to show that this bound can also be
+applied to concatenated error correcting codes in the presence of noisy gates,
+and hence gives a limit to the tolerable error rate for a fault-tolerant
+quantum computer formed by concatenation. This is shown to apply also to the
+case where error detection and post-selection, as proposed by Knill, is used to
+enhance the threshold. We demonstrate the trade-off between
+gate/environmentally induced faulty rotations and qubit loss errors.

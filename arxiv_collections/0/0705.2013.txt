@@ -1,0 +1,8 @@
+We formulate the Josephson effect in a field theoretic language which affords
+a straightforward generalization to the non-abelian case. Our formalism
+interprets Josephson tunneling as the excitation of pseudo-Goldstone bosons. We
+demonstrate the formalism through the consideration of a single junction
+separating two regions with a purely non-abelian order parameter and a sandwich
+of three regions where the central region is in a distinct phase. Applications
+to various non-abelian symmetry breaking systems in particle and condensed
+matter physics are given.

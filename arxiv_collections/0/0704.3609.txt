@@ -1,0 +1,18 @@
+A SST survey in the NOAO Deep-Wide Field in Bo\"otes provides a complete,
+8-micron-selected sample of galaxies to a limiting (Vega) magnitude of 13.5. In
+the 6.88 deg$^2$ field sampled, 79% of the 4867 galaxies have spectroscopic
+redshifts, allowing an accurate determination of the local (z<0.3) galaxy
+luminosity function. Stellar and dust emission can be separated on the basis of
+observed galaxy colors. Dust emission (mostly PAH) accounts for 80% of the 8
+micron luminosity, stellar photospheres account for 19%, and AGN emission
+accounts for roughly 1 %. A sub-sample of the 8 micron-selected galaxies have
+blue, early-type colors, but even most of these have significant PAH emission.
+The luminosity functions for the total 8 micron luminosity and for the dust
+emission alone are both well fit by Schechter functions. For the 8 micron
+luminosity function, the characteristic luminosity is \nu L_{\nu}^*(8.0
+\micron) = 1.8 \times 10^{10}$ \Lsun while for the dust emission alone it is
+1.6 x 10^{10}$ \Lsun\null. The average 8 \micron luminosity density at z<0.3 is
+3.1 x 10^7 \Lsun Mpc^{-3}, and the average luminosity density from dust alone
+is 2.5 x 10^7 \Lsun Mpc^{-3}. This luminos ity arises predominantly from
+galaxies with 8 \micron luminosities ($\nu L_{\nu}$) between $2\times 10^9$ and
+$2 x 10^{10}$ \Lsun, i.e., normal galaxies, not LIRGs or ULIRGs.

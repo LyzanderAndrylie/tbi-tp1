@@ -1,0 +1,8 @@
+Considering the plasmon oscillation of each layer of the cell membranes as a
+quasi-particle, we introduce a simple model for the membrane collective charge
+excitations, take into account the surface effective potential of the
+plasmon-plasmon interaction between two layers. By using the useful Bogoliubov
+transformation method, we easily obtained the expressions of the frequencies of
+plasmon oscillations as a function of wave-number $k$ and membrane thickness
+$d$, magnitude of these frequencies is in the order of $\sqrt{kd}$. Our results
+are in good agreement with ones obtained by E. Manousakis.

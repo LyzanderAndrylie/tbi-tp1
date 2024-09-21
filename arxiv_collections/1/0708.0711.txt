@@ -1,0 +1,11 @@
+In the design of efficient simulation algorithms, one is often beset with a
+poor choice of proposal distributions. Although the performance of a given
+simulation kernel can clarify a posteriori how adequate this kernel is for the
+problem at hand, a permanent on-line modification of kernels causes concerns
+about the validity of the resulting algorithm. While the issue is most often
+intractable for MCMC algorithms, the equivalent version for importance sampling
+algorithms can be validated quite precisely. We derive sufficient convergence
+conditions for adaptive mixtures of population Monte Carlo algorithms and show
+that Rao--Blackwellized versions asymptotically achieve an optimum in terms of
+a Kullback divergence criterion, while more rudimentary versions do not benefit
+from repeated updating.

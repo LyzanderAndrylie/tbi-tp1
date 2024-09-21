@@ -1,0 +1,6 @@
+We study a class of representations of the Lie algebra of Laurent polynomials
+with values in the nilpotent subalgebra of sl(3). We derive Weyl-type (bosonic)
+character formulas for these representations. We establish a connection between
+the bosonic formulas and the Whittaker vector in the Verma module for the
+quantum group $U_v sl(3)$. We also obtain a fermionic formula for an
+eigenfunction of the sl(3) quantum Toda Hamiltonian.

@@ -1,0 +1,13 @@
+The Gauss map of non-degenerate surfaces in the three-dimensional Minkowski
+space are viewed as dynamical fields of the two-dimensional O(2,1) Nonlinear
+Sigma Model. In this setting, the moduli space of solutions with rotational
+symmetry is completely determined. Essentially, the solutions are warped
+products of orbits of the 1-dimensional groups of isometries and elastic curves
+in either a de Sitter plane, a hyperbolic plane or an anti de Sitter plane. The
+main tools are the equivalence of the two-dimensional O(2,1) Nonlinear Sigma
+Model and the Willmore problem, and the description of the surfaces with
+rotational symmetry. A complete classification of such surfaces is obtained in
+this paper. Indeed, a huge new family of Lorentzian rotational surfaces with a
+space-like axis is presented. The description of this new class of surfaces is
+based on a technique of surgery and a gluing process, which is illustrated by
+an algorithm.

@@ -1,0 +1,13 @@
+We compare pseudopure state ensemble implementations, quantified by their
+initial polarization and ensemble size, of Grover's search algorithm to
+probabilistic classical sequential search algorithms in terms of their success
+and failure probabilities. We propose a criterion for quantifying the resources
+used by the ensemble implementation via the aggregate number of oracle
+invocations across the entire ensemble and use this as a basis for comparison
+with classical search algorithms. We determine bounds for a critical
+polarization such that the ensemble algorithm succeeds with a greater
+probability than the probabilistic classical sequential search. Our results
+indicate that the critical polarization scales as N^(-1/4) where N is the
+database size and that for typical room temperature solution state NMR, the
+polarization is such that the ensemble implementation of Grover's algorithm
+would be advantageous for N > 10^22

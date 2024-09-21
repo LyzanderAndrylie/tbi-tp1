@@ -1,0 +1,10 @@
+Different scattering mechanisms in graphene are explored and conductivity is
+calculated within the Boltzmann transport theory. We provide results for
+short-range scattering using the Random Phase Approximation for electron
+screening, as well as analytical expressions for the dependence of conductivity
+on the dielectric constant of the substrate. We further examine the effect of
+ripples on the transport using a surface roughness model developed for
+semiconductor heterostructures. We find that close to the Dirac point, \sigma
+\sim n^\beta, where \beta=1,0,-2 for Coulomb, short-range and surface roughness
+respectively; implying that Coulomb scattering dominates over both short-range
+and surface roughness scattering at low density.

@@ -1,0 +1,8 @@
+We present a diffusion Monte Carlo study of a vortex line excitation attached
+to the center of a $^4$He droplet at zero temperature. The vortex energy is
+estimated for droplets of increasing number of atoms, from N=70 up to 300
+showing a monotonous increase with $N$. The evolution of the core radius and
+its associated energy, the core energy, is also studied as a function of $N$.
+The core radius is $\sim 1$ \AA in the center and increases when approaching
+the droplet surface; the core energy per unit volume stabilizes at a value 2.8
+K$\sigma^{-3}$ ($\sigma=2.556$ \AA) for $N \ge 200$.

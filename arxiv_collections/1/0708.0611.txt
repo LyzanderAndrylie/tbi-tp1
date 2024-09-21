@@ -1,0 +1,19 @@
+Optical frequency combs provide equidistant frequency markers in the
+infrared, visible and ultra-violet and can link an unknown optical frequency to
+a radio or microwave frequency reference. Since their inception frequency combs
+have triggered major advances in optical frequency metrology and precision
+measurements and in applications such as broadband laser-based gas sensing8 and
+molecular fingerprinting. Early work generated frequency combs by intra-cavity
+phase modulation while to date frequency combs are generated utilizing the
+comb-like mode structure of mode-locked lasers, whose repetition rate and
+carrier envelope phase can be stabilized. Here, we report an entirely novel
+approach in which equally spaced frequency markers are generated from a
+continuous wave (CW) pump laser of a known frequency interacting with the modes
+of a monolithic high-Q microresonator13 via the Kerr nonlinearity. The
+intrinsically broadband nature of parametric gain enables the generation of
+discrete comb modes over a 500 nm wide span (ca. 70 THz) around 1550 nm without
+relying on any external spectral broadening. Optical-heterodyne-based
+measurements reveal that cascaded parametric interactions give rise to an
+optical frequency comb, overcoming passive cavity dispersion. The uniformity of
+the mode spacing has been verified to within a relative experimental precision
+of 7.3*10(-18).

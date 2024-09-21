@@ -1,0 +1,5 @@
+In this paper we consider a phase space path integral for general
+time-dependent quantum operations, not necessarily unitary. We obtain the path
+integral for a completely positive quantum operation satisfied Lindblad
+equation (quantum Markovian master equation). We consider the path integral for
+quantum operation with a simple infinitesimal generator.

@@ -1,0 +1,11 @@
+In the second paper of this series, I obtained the twisted BRST systems and
+extended physical-state conditions of all twisted open and closed $\hat{c} =
+52$ strings. In this paper, I supplement the extended physical-state conditions
+with the explicit form of the extended (twisted) Virasoro generators of all
+$\hat{c} = 52$ strings, which allows us to discuss the physical spectra of
+these systems. Surprisingly, all the $\hat{c}=52$ spectra admit an equivalent
+description in terms of generically-unconventional Virasoro generators at
+$c=26$. This description strongly supports our prior conjecture that the
+$\hat{c}=52$ strings are free of negative-norm states, and moreover shows that
+the spectra of some of the simpler cases are equivalent to those of ordinary
+untwisted open and closed $c=26$ strings.

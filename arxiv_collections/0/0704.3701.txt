@@ -1,0 +1,8 @@
+The purpose of this comment is first to correct a misapprehension of the role
+played by composite wave diffraction on surface-wave generation at
+subwavelength structures and second to point out that periodic Bloch structures
+are unnecessary for the efficient production of the surface plasmon polariton
+(SPP) guided mode either as traveling or standing waves. Guided surface waves
+originate from simple slit or groove edges illuminated under normal incidence,
+and one-dimensional (1-D) surface cavities from these standing waves are easily
+realized.

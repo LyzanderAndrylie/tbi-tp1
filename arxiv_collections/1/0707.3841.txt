@@ -1,0 +1,13 @@
+We apply the Poynting theorem to the scattering of monochromatic
+electromagnetic planes waves with normal incidence to the interface of two
+different media. We write this energy conservation theorem to introduce a
+natural definition of the scattering matrix S. For the dielectric-dielectric
+interface the balance equation lead us to the energy flux conservation which
+express one of the properties of S: it is a unitary matrix. For the
+dielectric-conductor interface the scattering matrix is no longer unitary due
+to the presence of losses at the conductor. However, the dissipative term
+appearing in the Poynting theorem can be interpreted as a single absorbing mode
+at the conductor such that a whole S, satisfying flux conservation and
+containing this absorbing mode, can be defined. This is a simplest version of a
+model introduced in the current literature to describe losses in more complex
+systems.

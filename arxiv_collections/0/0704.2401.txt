@@ -1,0 +1,12 @@
+A combined experimental and computational investigation of coupling between
+polarization and epitaxial strain in highly polar ferroelectric
+PbZr_0.2Ti_0.8O_3 (PZT) thin films is reported. A comparison of the properties
+of relaxed (tetragonality c/a = 1.05) and highly-strained (c/a = 1.09)
+epitaxial films shows that polarization, while being amongst the highest
+reported for PZT or PbTiO_3 in either film or bulk forms (P_r = 82
+microC/cm^2), is almost independent of the epitaxial strain. We attribute this
+behavior to a suppressed sensitivity of the A-site cations to epitaxial strain
+in these Pb-based perovskites, where the ferroelectric displacements are
+already large, contrary to the case of less polar perovskites, such as BaTiO_3.
+In the latter case, the A-site cation (Ba) and equatorial oxygen displacements
+can lead to substantial polarization increases.

@@ -1,0 +1,24 @@
+A new model for the explanation of the high frequency quasi-periodic
+oscillations (QPOs) in pulsars, black holes and white dwarfs is presented.
+Three circular tori are assumed to be present around the star: an inner torus
+with charge $Q_i$, an outer torus with charge $Q_o$ and a torus with
+electrically neutral mass $m_m$ in the middle, whereas the star bears a charge
+$Q_s$ ($Q_o$ and $Q_s$ have the same sign, $Q_i$ the opposite one). The
+frequency $\nu_m$ of the mass current is approximately given by the Kepler
+frequency, whereas the frequencies of $Q_i$ and $Q_o$, $\nu_i$ and $\nu_o$,
+respectively, are calculated from classical mechanics and Coulomb's law.
+  For the explanation of the low frequency QPOs in pulsars and black holes a
+special interpretation of the gravitomagnetic theory may be essential. From the
+latter theory four new gravitomagnetic precession frequencies are deduced,
+which may be identified with the observed low frequency QPOs.
+  Predictions of the presented model are compared with observed high frequency
+and low frequency QPOs of the pulsars SAX J1808.4--3658, XTE J1807--294, IGR
+J00291+5934, SGR 1806--20 and the black hole XTE J1550--564. In addition,
+charge flow near the pole of pulsars may explain frequency drift of burst
+oscillations. Moreover, charge flow at the equator of SAX J1808.4--3658 may be
+the cause of the enigmatic 410 kHz QPO. Furthermore, the Lense-Thirring
+frequency is discussed and a modified formula is compared with data of the
+pulsars.
+  Contrary to pulsars and black holes, the low frequency QPOs of white dwarfs
+might be attributed to electromagnetic precession frequencies, deduced in this
+work. Predictions are compared with data of the dwarf nova VW Hyi.

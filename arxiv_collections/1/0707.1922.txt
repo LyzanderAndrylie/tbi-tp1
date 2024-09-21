@@ -1,0 +1,12 @@
+We propose and numerically analyze novel reconfigurable logic gates using
+"single-electron spin transistors" (SESTs), which are single-electron
+transistors (SETs) with ferromagnetic electrodes and islands. The output
+characteristics of a SEST depend on the relative magnetization configuration of
+the ferromagnetic island with respect to the magnetization of the source and
+the drain, i.e., high current drive capability in parallel magnetization and
+low current drive capability in antiparallel magnetization. The summation of
+multiple input signals can be achieved by directly coupling multiple input gate
+electrodes to the SEST island, without using a floating gate. A Tucker-type
+inverter with a variable threshold voltage, a reconfigurable AND/OR logic gate,
+and a reconfigurable logic gate for all symmetric Boolean functions are
+proposed and simulated using the Monte Carlo method.

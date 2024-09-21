@@ -1,0 +1,14 @@
+This lecture presents recent advances in the theory of errors propagation. We
+first explain in which cases the propagation of errors may be performed with a
+first order differential calculus or needs a second order differential
+calculus. Then we point out the link between error propagation and the concept
+of second order vector in differential geometry, emphasizing the existence of a
+slight ambiguity concerning the bias operator. The third part in devoted to the
+powerful framework of Dirichlet forms whose main feature is to apply easily to
+infinite dimensional models including the Wiener space (giving an
+interpretation of Malliavin calculus in terms of errors), the Poisson space and
+the Monte Carlo space. In the fourth part we show how an error in the usual
+mathematical sense, i.e. an approximate quantity, may yield a Dirichlet form
+and we introduce the four bias operators. Eventually we connect the Dirichlet
+form with statistics by identifying the square of field operator with the
+inverse of the Fisher information matrix.

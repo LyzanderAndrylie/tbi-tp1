@@ -1,0 +1,12 @@
+We derive the exact solution for the optical conductivity $\sigma(\omega)$ of
+one hole in the Holstein-t-J model in the framework of dynamical mean-field
+theory (DMFT). We investigate the magnetic and phonon features associated with
+polaron formation as a function of the exchange coupling $J$, of the
+electron-phonon interaction $\lambda$ and of the temperature. Our solution
+directly relates the features of the optical conductivity to the excitations in
+the single-particle spectral function, revealing two distinct mechanisms of
+closing and filling of the optical pseudogap that take place upon varying the
+microscopic parameters. We show that the optical absorption at the polaron
+crossover is characterized by a coexistence of a magnon peak at low frequency
+and a broad polaronic band at higher frequency. An analytical expression for
+$\sigma(\omega)$ valid in the polaronic regime is presented.

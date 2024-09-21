@@ -1,0 +1,6 @@
+In this paper we discuss new types of differential equations which we call
+anticipated backward stochastic differential equations (anticipated BSDEs). In
+these equations the generator includes not only the values of solutions of the
+present but also the future. We show that these anticipated BSDEs have unique
+solutions, a comparison theorem for their solutions, and a duality between them
+and stochastic differential delay equations.

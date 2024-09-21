@@ -1,0 +1,20 @@
+The performance of telescope systems working at microwave or visible/IR
+wavelengths is typically described in terms of different parameters according
+to the wavelength range. Most commercial ray tracing packages have been
+specifically designed for use with visible/IR systems and thus, though very
+flexible and sophisticated, do not provide the appropriate parameters to fully
+describe microwave antennas, and thus to compare with specifications. In this
+work we demonstrate that the Strehl ratio is equal to the phase efficiency when
+the apodization factor is taken into account. The phase efficiency is the most
+critical contribution to the aperture efficiency of an antenna, and the most
+difficult parameter to optimize during the telescope design. The equivalence
+between the Strehl ratio and the phase efficiency gives the designer/user of
+the telescope the opportunity to use the faster commercial ray-tracing software
+to optimize the design. We also discuss the results of several tests performed
+to check the validity of this relationship that we carried out using a
+ray-tracing software, ZEMAX and a full Physical Optics software, GRASP9.3,
+applied to three different telescope designs that span a factor of $\simeq 10
+in terms of D/lambda. The maximum measured discrepancy between phase efficiency
+and Strehl ratio varies between $\simeq 0.4 and 1.9 up to an offset angle of
+>40 beams, depending on the optical configuration, but it is always less than
+0.5 where the Strehl ratio is >0.95.

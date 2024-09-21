@@ -1,0 +1,9 @@
+The measured conductance distribution for single molecule benzenediamine-gold
+junctions, based on 59,000 individual conductance traces recorded while
+breaking a gold point contact in solution, has a clear peak at 0.0064 G$_{0}$
+with a width of $\pm$ 40%. Conductance calculations based on density functional
+theory (DFT) for 15 distinct junction geometries show a similar spread.
+Differences in local structure have a limited influence on conductance because
+the amine-Au bonding motif is well-defined and flexible. The average calculated
+conductance (0.046 G$_{0}$) is seven times larger than experiment, suggesting
+the importance of many-electron corrections beyond DFT.

@@ -1,0 +1,10 @@
+We implement the damage spreading technique on 2-dimensional isotropic and
+anisotropic Bak-Sneppen models. Our extensive numerical simulations show that
+there exists a power-law sensitivity to the initial conditions at the
+statistically stationary state (self-organized critical state). Corresponding
+growth exponent $\alpha$ for the Hamming distance and the dynamical exponent
+$z$ are calculated. These values allow us to observe a clear data collapse of
+the finite size scaling for both versions of the Bak-Sneppen model. Moreover,
+it is shown that the growth exponent of the distance in the isotropic and
+anisotropic Bak-Sneppen models is strongly affected by the choice of the
+transient time.

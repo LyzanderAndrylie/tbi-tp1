@@ -1,0 +1,13 @@
+In microwaves, a TE-polarized rectangular-waveguide resonator with an
+inserted thin ferrite disk gives an example of a nonintegrable system. The
+interplay of reflection and transmission at the disk interfaces together with
+the material gyrotropy effect gives rise to whirlpool-like electromagnetic
+vortices in the proximity of the ferromagnetic resonance. Based on numerical
+simulation, we show that a character of microwave vortices in a cavity can be
+analyzed by means of consideration of equivalent magnetic currents. Maxwell
+equations allows introduction of a magnetic current as a source of the
+electromagnetic field. Specifically, we found that in such nonintegrable
+structures, magnetic gyrotropy and geometrical factors leads to the effect of
+symmetry breaking resulting in effective chiral magnetic currents and
+topological magnetic charges. As an intriguing fact, one can observe precessing
+behavior of the electric-dipole polarization inside a ferrite disk.

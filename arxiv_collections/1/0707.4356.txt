@@ -1,0 +1,9 @@
+We investigate velocity probability distribution functions (PDF) of sheared
+hard-sphere suspensions. As observed in our Stokes flow simulations and
+explained by our single-particle theory, these PDFs can show pronounced
+deviations from a Maxwell-Boltzmann distribution. The PDFs are symmetric around
+zero velocity and show a Gaussian core and exponential tails over more than six
+orders of magnitude of probability. Following the excellent agreement of our
+theory and simulation data, we demonstrate that the distribution functions
+scale with the shear rate, the particle volume concentration, as well as the
+fluid viscosity.

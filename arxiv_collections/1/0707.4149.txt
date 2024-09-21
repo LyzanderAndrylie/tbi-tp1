@@ -1,0 +1,5 @@
+For smooth test configurations, there always exist C^{1,1} geodesic rays in
+Kahler metric space parallel to the algebraic ray. The $\yen$ invariant agrees
+with Futaki invariant, at least under nice assumptions. Explicit examples in
+Toric cases are calculated. On simple test configurations, Donaldson's
+correspondence between HCMA solution and holomorphic disc family is extended.

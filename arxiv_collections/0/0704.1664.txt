@@ -1,0 +1,23 @@
+We have measured the flux, profile, color, and substructure in the diffuse
+intracluster light (ICL) in a sample of ten galaxy clusters with a range of
+mass, morphology, redshift, and density. Deep, wide-field observations for this
+project were made in two bands at the one meter Swope and 2.5 meter du Pont
+telescope at Las Campanas Observatory. Careful attention in reduction and
+analysis was paid to the illumination correction, background subtraction, point
+spread function determination, and galaxy subtraction. ICL flux is detected in
+both bands in all ten clusters ranging from 7.6 x 10^{10} to 7.0 x 10^{11}
+h^{-1} solar luminosities in r and 1.4 x 10^{10} to 1.2 x 10^{11} h^{-1} solar
+luminosities in the B-band. These fluxes account for 6 to 22% of the total
+cluster light within one quarter of the virial radius in r and 4 to 21% in the
+B-band. Average ICL B-r colors range from 1.5 to 2.8 mags when k and evolution
+corrected to the present epoch. In several clusters we also detect ICL in group
+environments near the cluster center and up to ~1 h^{-1} Mpc distant from the
+cluster center. Our sample, having been selected from the Abell sample, is
+incomplete in that it does not include high redshift clusters with low density,
+low flux, or low mass, and it does not include low redshift clusters with high
+flux, mass, or density. This bias makes it difficult to interpret correlations
+between ICL flux and cluster properties. Despite this selection bias, we do
+find that the presence of a cD galaxy corresponds to both centrally
+concentrated galaxy profiles and centrally concentrated ICL profiles. This is
+consistent with ICL either forming from galaxy interactions at the center, or
+forming at earlier times in groups and later combining in the center.

@@ -1,0 +1,16 @@
+The aim of this paper is to characterize the notion of aspect in the
+workspace and in the joint space for parallel manipulators. In opposite to the
+serial manipulators, the parallel manipulators can admit not only multiple
+inverse kinematic solutions, but also multiple direct kinematic solutions. The
+notion of aspect introduced for serial manipulators in [Borrel 86], and
+redefined for parallel manipulators with only one inverse kinematic solution in
+[Wenger 1997], is redefined for general fully parallel manipulators. Two
+Jacobian matrices appear in the kinematic relations between the joint-rate and
+the Cartesian-velocity vectors, which are called the "inverse kinematics" and
+the "direct kinematics" matrices. The study of these matrices allow to
+respectively define the parallel and the serial singularities. The notion of
+working modes is introduced to separate inverse kinematic solutions. Thus, we
+can find out domains of the workspace and the joint space exempt of
+singularity. Application of this study is the moveability analysis in the
+workspace of the manipulator as well as path-planing and control. This study is
+illustrated in this paper with a RR-RRR planar parallel manipulator.

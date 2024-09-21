@@ -1,0 +1,5 @@
+Multiply nested finite harmonic sums $S_{a_1 ... a_n}(N)$ occur in many
+single scale higher order calculations in Quantum Field Theory. We discuss
+their algebraic and structural relations to weight {\sf w=6}. As an example, we
+consider the application of these relations to the soft and virtual corrections
+for Bhabha-scattering to $O(\alpha^2)$.

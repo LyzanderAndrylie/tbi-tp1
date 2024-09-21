@@ -1,0 +1,18 @@
+In the recent progress [BE1], [Me] and [Z2], the well-known JC (Jacobian
+conjecture) ([BCW], [E]) has been reduced to a VC (vanishing conjecture) on the
+Laplace operators and HN (Hessian nilpotent) polynomials (the polynomials whose
+Hessian matrix are nilpotent). In this paper, we first show that the vanishing
+conjecture above, hence also the JC, is equivalent to a vanishing conjecture
+for all 2nd order homogeneous differential operators $\Lambda$ and
+$\Lambda$-nilpotent polynomials $P$ (the polynomials $P(z)$ satisfying
+$\Lambda^m P^m=0$ for all $m\ge 1$). We then transform some results in the
+literature on the JC, HN polynomials and the VC of the Laplace operators to
+certain results on $\Lambda$-nilpotent polynomials and the associated VC for
+2nd order homogeneous differential operators $\Lambda$. This part of the paper
+can also be read as a short survey on HN polynomials and the associated VC in
+the more general setting. Finally, we discuss a still-to-be-understood
+connection of $\Lambda$-nilpotent polynomials in general with the classical
+orthogonal polynomials in one or more variables. This connection provides a
+conceptual understanding for the isotropic properties of homogeneous
+$\Lambda$-nilpotent polynomials for the 2nd order homogeneous full rank
+differential operators $\Lambda$ with constant coefficients.

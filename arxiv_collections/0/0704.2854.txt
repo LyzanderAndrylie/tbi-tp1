@@ -1,0 +1,9 @@
+We derive coupled-cluster equations for three-body Hamiltonians. The
+equations for the one- and two-body cluster amplitudes are presented in a
+factorized form that leads to an efficient numerical implementation. We employ
+low-momentum two- and three-nucleon interactions and calculate the binding
+energy of He-4. The results show that the main contribution of the
+three-nucleon interaction stems from its density-dependent zero-, one-, and
+two-body terms that result from the normal ordering of the Hamiltonian in
+coupled-cluster theory. The residual three-body terms that remain after normal
+ordering can be neglected.

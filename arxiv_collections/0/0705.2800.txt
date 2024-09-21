@@ -1,0 +1,6 @@
+Let Y=G/L be a flag manifold for a reductive G and K a maximal compact
+subgroup of G. We define an equivariant differential operator on G/(L cap K)
+playing the role of an equivariant Dolbeault Laplacian when restricted to the
+complex manifold G/L, using a distribution transverse to the fibers and
+satisfying the Hormander condition. We prove here that this operator is not
+maximal hypoelliptic when G=U(p,q).

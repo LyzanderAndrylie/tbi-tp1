@@ -1,0 +1,10 @@
+We analyze the exclusive charmonium $J/\psi+\eta_c$ pair production in
+$e^+e^-$ annihilation using the nonfactorized perturbative QCD and the
+light-front quark model(LFQM) that goes beyond the peaking approximation. We
+effectively include all orders of higher twist terms in the leading order of
+QCD coupling constant and compare our nonfactorized analysis with the usual
+factorized analysis in the calculation of the cross section. We also calculate
+the quark distribution amplitudes, the Gegenbauer moments, and the decay
+constants for $J/\psi$ and $\eta_c$ mesons using our LFQM. Our nonfactorized
+result enhances the NRQCD result by a factor of $3\sim4$ at $\sqrt{s}=10.6$
+GeV.

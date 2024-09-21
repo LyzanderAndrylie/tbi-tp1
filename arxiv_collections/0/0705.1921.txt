@@ -1,0 +1,12 @@
+We present cosmological hydrodynamical simulations of galaxy clusters aimed
+at studying the process of metal enrichment of the intra--cluster medium (ICM).
+These simulations have been performed by implementing a detailed model of
+chemical evolution in the Tree-SPH \gd code. This model allows us to follow the
+metal release from SNII, SNIa and AGB stars, by properly accounting for the
+lifetimes of stars of different mass, as well as to change the stellar initial
+mass function (IMF), the lifetime function and the stellar yields. As such, our
+implementation of chemical evolution represents a powerful instrument to follow
+the cosmic history of metal production. The simulations presented here have
+been performed with the twofold aim of checking numerical effects, as well as
+the impact of changing the model of chemical evolution and the efficiency of
+stellar feedback.

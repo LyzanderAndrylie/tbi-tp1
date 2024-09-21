@@ -1,0 +1,12 @@
+Context. A derivation of a generalized sqrt(epsilon)-law for nonthermal
+collisional rates of excitation by charged perturbers is presented. Aims. Aim
+of this paper is to find a more general analytical expression for a surface
+value of the source function which can be used as an addtional tool for
+verification of the non-LTE radiative transfer codes. Methods. Under the impact
+approximation hypothesis, static, one-dimensional, plane-parallel atmosphere,
+constant magnetic field of arbitrary strength and direction, two-level atom
+model with unpolarized lower level and stimulated emission neglected, we
+introduce the unphysical terms into the equations of statistical equilibrium
+and solve the appropriate non-LTE integral equations. Results. We derive a new
+analytical condition for the surface values of the source function components
+expressed in the basis of irreducible spherical tensors.

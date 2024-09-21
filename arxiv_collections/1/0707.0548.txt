@@ -1,0 +1,15 @@
+Although there are some real world applications where the use of variable
+length representation (VLR) in Evolutionary Algorithm is natural and suitable,
+an academic framework is lacking for such representations. In this work we
+propose a family of tunable fitness landscapes based on VLR of genotypes. The
+fitness landscapes we propose possess a tunable degree of both neutrality and
+epistasis; they are inspired, on the one hand by the Royal Road fitness
+landscapes, and the other hand by the NK fitness landscapes. So these
+landscapes offer a scale of continuity from Royal Road functions, with
+neutrality and no epistasis, to landscapes with a large amount of epistasis and
+no redundancy. To gain insight into these fitness landscapes, we first use
+standard tools such as adaptive walks and correlation length. Second, we
+evaluate the performances of evolutionary algorithms on these landscapes for
+various values of the neutral and the epistatic parameters; the results allow
+us to correlate the performances with the expected degrees of neutrality and
+epistasis.

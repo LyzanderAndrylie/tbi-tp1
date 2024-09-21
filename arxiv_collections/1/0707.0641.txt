@@ -1,0 +1,10 @@
+Usually the offspring-parent fitness correlation is used to visualize and
+analyze some caracteristics of fitness landscapes such as evolvability. In this
+paper, we introduce a more general representation of this correlation, the
+Fitness Cloud (FC). We use the bottleneck metaphor to emphasise fitness levels
+in landscape that cause local search process to slow down. For a local search
+heuristic such as hill-climbing or simulated annealing, FC allows to visualize
+bottleneck and neutrality of landscapes. To confirm the relevance of the FC
+representation we show where the bottlenecks are in the well-know NK fitness
+landscape and also how to use neutrality information from the FC to combine
+some neutral operator with local search heuristic.

@@ -1,0 +1,22 @@
+We discuss the difficulties of predicting the solar cycle using mean-field
+models. Here we argue that these difficulties arise owing to the significant
+modulation of the solar activity cycle, and that this modulation arises owing
+to either stochastic or deterministic processes. We analyse the implications
+for predictability in both of these situations by considering two separate
+solar dynamo models. The first model represents a stochastically-perturbed flux
+transport dynamo. Here even very weak stochastic perturbations can give rise to
+significant modulation in the activity cycle. This modulation leads to a loss
+of predictability. In the second model, we neglect stochastic effects and
+assume that generation of magnetic field in the Sun can be described by a fully
+deterministic nonlinear mean-field model -- this is a best case scenario for
+prediction. We designate the output from this deterministic model (with
+parameters chosen to produce chaotically modulated cycles) as a target
+timeseries that subsequent deterministic mean-field models are required to
+predict. Long-term prediction is impossible even if a model that is correct in
+all details is utilised in the prediction. Furthermore, we show that even
+short-term prediction is impossible if there is a small discrepancy in the
+input parameters from the fiducial model. This is the case even if the
+predicting model has been tuned to reproduce the output of previous cycles.
+Given the inherent uncertainties in determining the transport coefficients and
+nonlinear responses for mean-field models, we argue that this makes predicting
+the solar cycle using the output from such models impossible.

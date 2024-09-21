@@ -1,0 +1,14 @@
+Let $G$ be a finite group and $N$ be a normal subgroup of $G$. Let
+$J=J(F[N])$ denote the Jacboson radical of $F[N]$ and $I={\rm Ann}(J)=\{\alpha
+\in F[G]|J\alpha =0\}$. We have another algebra $F[G]/I$. We study the
+decomposition of Cartan matrix of $F[G]$ according to $F[G/N]$ and $F[G]/I$.
+This decomposition establishs some connections between Cartan invariants and
+chief composition factors of $G$. We find that existing zero-defect $p$-block
+in $N$ depends on the properties of $I$ in $F[G]$ or Cartan invariants. When we
+consider the Cartan invariants for a block algebra $B$ of $G$, the
+decomposition is related to what kind of blocks in $N$ covered by $B$. We
+mainly consider a block $B$ of $G$ which covers a block $b$ of $N$ with
+$l(b)=1$. In two cases, we prove Willems' conjecture holds for these blocks,
+which covers some true cases by Holm and Willems. Furthermore We give an
+affirmative answer to a question by Holm and Willems in our cases. Some other
+results about Cartan invariants are presented in our paper.

@@ -1,0 +1,6 @@
+Hadron production has been calculated in a pQCD improved parton model for pp,
+dA and heavy ion collisions. We applied KKP and AKK fragmentation functions.
+Our jet fragmentation study shows, that hadron ratios at high p_T depend on
+quark contribution mostly and less on the gluonic one. This finding can be seen
+in jet-energy loss calculations, also. We display the suppression pattern on
+different hadron ratios in PbPb collisions at LHC energies.

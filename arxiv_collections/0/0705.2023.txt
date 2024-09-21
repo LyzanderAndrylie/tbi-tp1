@@ -1,0 +1,9 @@
+Particle statistics plays a crucial role in a strongly interacting quantum
+many-body system. Here, we study the Hubbard model for distinguishable
+particles at unit filling. Starting from the superfluid-like state in the
+strong tunneling limit and gradually reducing the tunneling so that the on-site
+repulsive interaction dominates, the state ends up in a symmetric superposition
+of Mott insulator states. This result can be experimentally confirmed by the
+recovery of interference patterns in the density correlation functions. We also
+show that this state is a maximally entangled state, in contrast to the
+standard picture.

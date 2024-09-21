@@ -1,0 +1,6 @@
+For each d>=2, the mapping class group for plane curves of degree d will be
+defined and it is proved that there exists uniquely the Meyer function on this
+group. In the case of d=4, using our Meyer function, we can define the local
+signature for 4-dimensional fiber spaces whose general fibers are
+non-hyperelliptic compact Riemann surfaces of genus 3. Some computations of our
+local signature will be given.

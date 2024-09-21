@@ -1,0 +1,14 @@
+The lifetime of the asymmetric fundamental stretching 2218 cm$^{-1}$
+vibration of the anesthetic gas nitrous oxide (N$_2$O) dissolved in octanol and
+olive oil is reported. These solvents are model systems commonly used to assess
+anesthetic potency. Picosecond time-scale molecular dynamics simulations have
+suggested that protein dynamics or membrane dynamics play a role in the
+molecular mechanism of anesthetic action. Ultrafast infrared spectroscopy with
+100 fs time resolution is an ideal tool to probe dynamics of anesthetic
+molecules on such timescales. Pump-probe studies at the peak of the vibrational
+band yield a lifetime of $55 \pm 1$ ps in olive oil and $52 \pm 1 ps$ in
+octanol. The similarity of lifetimes suggests that energy relaxation of the
+anesthetic is determined primarily by the hydrophobic nature of the
+environment, consistent with models of anesthetic action. The results show that
+nitrous oxide is a good model system for probing anesthetic-solvent
+interactions using nonlinear infrared spectroscopy.

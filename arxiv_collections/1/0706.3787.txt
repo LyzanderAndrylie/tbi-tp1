@@ -1,0 +1,13 @@
+We consider the spherically symmetric, asymptotically flat Einstein-Vlasov
+system. We find explicit conditions on the initial data, with ADM mass M, such
+that the resulting spacetime has the following properties: there is a family of
+radially outgoing null geodesics where the area radius r along each geodesic is
+bounded by 2M, the timelike lines $r=c\in [0,2M]$ are incomplete, and for r>2M
+the metric converges asymptotically to the Schwarzschild metric with mass M.
+The initial data that we construct guarantee the formation of a black hole in
+the evolution. We also give examples of such initial data with the additional
+property that the solutions exist for all $r\geq 0$ and all Schwarzschild time,
+i.e., we obtain global existence in Schwarzschild coordinates in situations
+where the initial data are not small. Some of our results are also established
+for the Einstein equations coupled to a general matter model characterized by
+conditions on the matter quantities.

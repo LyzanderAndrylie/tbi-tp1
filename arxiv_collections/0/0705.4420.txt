@@ -1,0 +1,8 @@
+A theoretical study of the energy distribution function of the negative
+hydrogen ion H- in typical conditions for multicusp ion sources is presented.
+The case of H/H2 mixture is studied by a Monte Carlo solution of the kinetic
+equation for H- transport. A simple analytical model is obtained for the case
+of a fully dissociated H plasma and uniform reduced electric field (E/N).
+Results are in good agreement with the two-group distribution deduced from
+laser photodetachment experiments and explain the low energy group as an effect
+of the charge exchange collisions of negative ions with H atoms.

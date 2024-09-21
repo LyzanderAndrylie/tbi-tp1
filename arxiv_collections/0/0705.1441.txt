@@ -1,0 +1,12 @@
+We present a new, completely Lagrangian magnetohydrodynamics code that is
+based on the SPH method. The equations of self-gravitating hydrodynamics are
+derived self-consistently from a Lagrangian and account for variable smoothing
+length (``grad-h''-) terms in both the hydrodynamic and the gravitational
+acceleration equations. The evolution of the magnetic field is formulated in
+terms of so-called Euler potentials which are advected with the fluid and thus
+guarantee the MHD flux-freezing condition. This formulation is equivalent to a
+vector potential approach and therefore fulfills the
+$\vec{\nabla}\cdot\vec{B}=0$-constraint by construction. Extensive tests in
+one, two and three dimensions are presented. The tests demonstrate the
+excellent conservation properties of the code and show the clear superiority of
+the Euler potentials over earlier magnetic SPH formulations.

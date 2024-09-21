@@ -1,0 +1,9 @@
+We determine the radio-frequency (RF) spectra for non-stationary states of a
+fermionic condensate produced by a rapid switch of the scattering length. The
+RF spectrum of the nonequilibrium state with constant BCS order parameter has
+two features in contrast to equilibrium where there is a single peak. The
+additional feature reflects the presence of excited pairs in the steady state.
+In the state characterized by periodically oscillating order parameter
+RF-absorption spectrum contains two sequences of peaks spaced by the frequency
+of oscillations. Satellite peaks appear due to a process where an RF photon in
+addition to breaking a pair emits/absorbs oscillation quanta.

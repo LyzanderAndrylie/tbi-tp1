@@ -1,0 +1,13 @@
+In this paper we study the possibility of detecting lensing signals in
+high-resolution and high-sensitivity CMB experiments. At scales below 1 arcmin,
+the CMB background is dominated by the Sunyaev-Zel'dovich effect in clusters
+and by Ostriker-Vishniac effect distortions elsewhere. Assuming the
+Sunyaev-Zel'dovich component in clusters can be removed, we focus on the
+Ostriker-Vishniac effect and study the possibility of its detection while
+paying special attention to contaminants, such as instrumental noise and point
+sources. After designing an optimal filter for this particular lensing signal
+we explore the signal-to-noise ratio for different scenarios varying the
+resolution of the experiment, its sensitivity, and the level of contamination
+due to point sources. Our results show that the next generation of experiments
+should be able to do new and exciting science through the lensing effect of the
+Ostriker-Vishniac background.

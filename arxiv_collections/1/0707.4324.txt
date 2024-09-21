@@ -1,0 +1,10 @@
+The additivity principle of the extreme shell model stipulates that an
+average value of a one-body operator be equal to the sum of the core
+contribution and effective contributions of valence (particle or hole)
+nucleons. For quadrupole moment and angular momentum operators, we test this
+principle for highly and superdeformed rotational bands in the A~130 nuclei.
+Calculations are done in the self-consistent cranked non-relativistic
+Hartree-Fock and relativistic Hartree mean-field approaches. Results indicate
+that the additivity principle is a valid concept that justifies the use of an
+extreme single-particle model in an unpaired regime typical of high angular
+momenta.

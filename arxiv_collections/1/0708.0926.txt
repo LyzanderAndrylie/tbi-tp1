@@ -1,0 +1,5 @@
+Quantum dynamical lower bounds for continuous and discrete one-dimensional
+Dirac operators are established in terms of transfer matrices. Then such
+results are applied to various models, including the Bernoulli-Dirac one and,
+in contrast to the discrete case, critical energies are also found for the
+continuous Dirac case with positive mass.

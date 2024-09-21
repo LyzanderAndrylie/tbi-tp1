@@ -1,0 +1,10 @@
+One of the major challenges for the LHC will be to extract precise
+information from hadronic final states in the presence of the large number of
+additional soft pp collisions, pileup, that occur simultaneously with any hard
+interaction in high luminosity runs. We propose a novel technique, based on jet
+areas, that provides jet-by-jet corrections for pileup and underlying-event
+effects. It is data driven, does not depend on Monte Carlo modelling and can be
+used with any jet algorithm for which a jet area can be sensibly defined. We
+illustrate its effectiveness for some key processes and find that it can be
+applied also in the context of the Tevatron, low-luminosity LHC and LHC
+heavy-ion collisions.

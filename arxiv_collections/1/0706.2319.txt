@@ -1,0 +1,6 @@
+The elasticity difference tensor, used in [1] to describe elasticity
+properties of a continuous medium filling a space-time, is here analysed from
+the point of view of the space-time connection. Principal directions associated
+with this tensor are compared with eigendirections of the material metric.
+Examples concerning spherically symmetric and axially symmetric space-times are
+then presented.

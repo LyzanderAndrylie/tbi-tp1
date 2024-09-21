@@ -1,0 +1,12 @@
+The isotropic-to-nematic transition in liquid crystals is studied in d=3
+spatial dimensions. A simulation method is proposed to measure the angle
+dependent interfacial tension g(theta), with theta the anchoring angle of the
+nematic phase at the interface. In addition, an alternative liquid crystal
+model is introduced, defined on a lattice. The advantage of the lattice model
+is that accurate simulations of anchoring effects become possible. For the
+lattice model, g(theta) depends sensitively on the nearest-neighbor pair
+interaction, and both stable and metastable anchoring angles can be detected.
+We also measure g(theta) for an off-lattice fluid of soft rods. For soft rods,
+only one stable anchoring angle is found, corresponding to homogeneous
+alignment of the nematic director in the plane of the interface. This finding
+is in agreement with most theoretical predictions obtained for hard rods.

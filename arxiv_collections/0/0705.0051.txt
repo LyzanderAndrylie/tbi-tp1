@@ -1,0 +1,10 @@
+Volume stabilization in models with flat extra dimension could follow from
+vacuum energy residing in the bulk when translational invariance is
+spontaneously broken. We study a simple toy model that exemplifies this
+mechanism which considers a massive scalar field with non trivial boundary
+conditions at the end points of the compact space, and includes contributions
+from brane and bulk cosmological constants. We perform our analysis in the
+conformal frame where the radion field, associated with volume variations, is
+defined, and present a general strategy for building stabilization potentials
+out of those ingredients. We also provide working examples for the interval and
+the $T^n/Z_2$ orbifold configuration.

@@ -1,0 +1,14 @@
+The LHC will have unprecedented sensitivity to flavor-changing neutral
+current (FCNC) top quark decays, whose observation would be a clear sign of
+physics beyond the standard model. Although many details of top flavor
+violation are model dependent, the standard model gauge symmetries relate top
+FCNCs to other processes, which are strongly constrained by existing data. We
+study these constraints in a model independent way, using a low energy
+effective theory from which the new physics is integrated out. We consider the
+most important operators which contribute to top FCNCs and analyze the current
+constraints on them. We find that the data rule out top FCNCs at a level
+observable at the LHC due to most of the operators comprising left-handed first
+or second generation quark fields, while there remains a substantial window for
+top decays mediated by operators with right-handed charm or up quarks. If FCNC
+top decays are observed at the LHC, such an analysis may help decipher the
+underlying physics.

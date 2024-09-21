@@ -1,0 +1,11 @@
+The peculiar nature of electron scattering in graphene is among many exciting
+theoretical predictions for the physical properties of this material. To
+investigate electron scattering properties in a graphene plane, we have created
+a gate-tunable potential barrier within a single-layer graphene sheet. We
+report measurements of electrical transport across this structure as the
+tunable barrier potential is swept through a range of heights. When the barrier
+is sufficiently strong to form a bipolar junctions (npn or pnp) within the
+graphene sheet, the resistance across the barrier sharply increases. We compare
+these results to predictions for both diffusive and ballistic transport, as the
+barrier rises on a length scale comparable to the mean free path. Finally, we
+show how a magnetic field modifies transport across the barrier.

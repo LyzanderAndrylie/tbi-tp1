@@ -1,0 +1,13 @@
+In this paper, redundant random matrix ensembles (abbreviated as redundant
+random ensembles) are defined and their stopping set (SS) weight distributions
+are analyzed. A redundant random ensemble consists of a set of binary matrices
+with linearly dependent rows. These linearly dependent rows (redundant rows)
+significantly reduce the number of stopping sets of small size. An upper and
+lower bound on the average SS weight distribution of the redundant random
+ensembles are shown. From these bounds, the trade-off between the number of
+redundant rows (corresponding to decoding complexity of BP on BEC) and the
+critical exponent of the asymptotic growth rate of SS weight distribution
+(corresponding to decoding performance) can be derived. It is shown that, in
+some cases, a dense matrix with linearly dependent rows yields asymptotically
+(i.e., in the regime of small erasure probability) better performance than
+regular LDPC matrices with comparable parameters.

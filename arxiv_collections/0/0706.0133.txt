@@ -1,0 +1,9 @@
+We show that certain free energy functionals that are not convex with respect
+to the usual convex structure on their domain of definition, are strictly
+convex in the sense of displacement convexity under a natural change of
+variables. We use this to show that in certain cases, the only critical points
+of these functionals are minimizers. This approach based on displacement
+convexity permits us to treat multicomponent systems as well as single
+component systems. The developments produce new examples of displacement convex
+functionals, and, in the multi-component setting, jointly displacement convex
+functionals.

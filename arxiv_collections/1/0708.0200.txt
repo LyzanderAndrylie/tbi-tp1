@@ -1,0 +1,10 @@
+De Vrijer has presented a proof of the finite developments theorem which, in
+addition to showing that all developments are finite, gives an effective
+reduction strategy computing longest developments as well as a simple formula
+computing their length.
+  We show that by applying a rather simple and intuitive principle of duality
+to de Vrijer's approach one arrives at a proof that some developments are
+finite which in addition yields an effective reduction strategy computing
+shortest developments as well as a simple formula computing their length. The
+duality fails for general beta-reduction.
+  Our results simplify previous work by Khasidashvili.

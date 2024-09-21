@@ -1,0 +1,13 @@
+We have used electro-reflectance measurements to study charge-density-wave
+(CDW) polarization dynamics at voltages near the CDW depinning onset (Von) in
+the quasi-one-dimensional conductor K0.3MoO3 ("blue bronze"). For low voltages,
+where the phase-slip rate is low, it is expected that the polarization
+relaxation time should be inversely proportional to the CDW diffusion constant,
+which is expected to diverge at Von. At T=78 K, we observe saturation of the
+relaxation time at low voltages, suggesting that we are in the low phase-slip
+limit and allowing us to estimate the non-critical value of the CDW diffusion
+constant D=0.02cm2/s, consistent with the measured phason velocity. At other
+temperatures, the relaxation time increases with decreasing volage even at the
+lowest voltages we could measure. In no case do we observe the expected
+"critical speeding up", setting an upper limit on the critical region of (V/Von
+-1)crit < 0.06.

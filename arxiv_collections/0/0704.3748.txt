@@ -1,0 +1,15 @@
+The properties of certain networks are determined by hidden variables that
+are not explicitly measured. The conditional probability (propagator) that a
+vertex with a given value of the hidden variable is connected to k of other
+vertices determines all measurable properties. We study hidden variable models
+and find an averaging approximation that enables us to obtain a general
+analytical result for the propagator. Analytic results showing the validity of
+the approximation are obtained. We apply hidden variable models to
+protein-protein interaction networks (PINs) in which the hidden variable is the
+association free-energy, determined by distributions that depend on
+biochemistry and evolution. We compute degree distributions as well as
+clustering coefficients of several PINs of different species; good agreement
+with measured data is obtained. For the human interactome two different
+parameter sets give the same degree distributions, but the computed clustering
+coefficients differ by a factor of about two. This shows that degree
+distributions are not sufficient to determine the properties of PINs.

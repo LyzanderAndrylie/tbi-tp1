@@ -1,0 +1,10 @@
+Theory of self induced resonances in asymmetric two-junction interferometer
+device is presented. In real devices it is impossible to have an ideal
+interferometer free of imperfections. Thus, we extended previous theoretical
+approaches introducing a model which contains several asymmetries: Josephson
+current $\epsilon$, capacitances $\chi$ and dissipation $\rho$ presented in an
+equivalent circuit. Moreover, non conventional symmetry of the order parameter
+in high temperature superconducting quantum interference devices forced us to
+include phase asymmetries. Therefore, the model has been extended to the case
+of $\pi$-shift interferometers, where a phase shift is present in one of the
+junctions.

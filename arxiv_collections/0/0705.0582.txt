@@ -1,0 +1,8 @@
+We study the effects of a high-frequency (HF) signal on the response of a
+noisy bistable system to a low-frequency subthreshold sinusoidal signal. We
+show that, by conveniently choosing the ratio of the amplitude of the HF signal
+to its frequency, stochastic resonance gains greater than unity can be measured
+at the low-frequency value. Thus, the addition of the HF signal can entail an
+improvement in the detection of weak monochromatic signals. The results are
+explained in terms of an effective model and illustrated by means of numerical
+simulations.

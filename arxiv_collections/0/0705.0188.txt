@@ -1,0 +1,7 @@
+We describe the geometry of geodesics on a Lorentz ellipsoid: give explicit
+formulas for the first integrals (pseudo-confocal coordinates), curvature,
+geodesically equivalent Riemannian metric, the invariant area-forms on the
+time- and space-like geodesics and invariant 1-form on the space of null
+geodesics. We prove a Poncelet-type theorem for null geodesics on the
+ellipsoid: if such a geodesic close up after several oscillations in the
+"pseudo-Riemannian belt", so do all other null geodesics on this ellipsoid.

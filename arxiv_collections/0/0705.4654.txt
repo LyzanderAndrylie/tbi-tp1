@@ -1,0 +1,9 @@
+An integrated and automated smart structures approach for structural health
+monitoring is presented, utilizing an array of piezoelectric transducers
+attached to or embedded within the structure for both actuation and sensing.
+The system actively interrogates the structure via broadband excitation of
+multiple actuators across a desired frequency range. The structure's vibration
+signature is then characterized by computing the transfer functions between
+each actuator/sensor pair, and compared to the baseline signature. Experimental
+results applying the system to local area damage detection in a MD Explorer
+rotorcraft composite flexbeam are presented.

@@ -1,0 +1,24 @@
+We present a new catalog of star cluster candidates in the nearby spiral
+galaxy M33. It is based on eight existing catalogs wherein we have
+cross-referenced identifications and endeavored to resolve inconsistencies
+between them. Our catalog contains 451 candidates of which 255 are confirmed
+clusters based on HST and high resolution ground-based imaging. The catalog
+contains precise cluster positions (RA and Dec), magnitudes and colors in the
+UBVRIJHKs filters, metallicities, radial velocities, masses and ages, where
+available, and galactocentric distances for each cluster. The color
+distribution of the M33 clusters appears to be similar to those in the Large
+Magellanic Cloud with major peaks at (B-V)o~0.15, and (B-V)o~0.65. The
+intrinsic colors are correlated with cluster ages, which range from 10^{7.5} to
+10^{10.3} years. The age distribution of the star clusters supports the notion
+of rapid cluster disruption with a slope of alpha=-1.09 +/- 0.07 in the
+dN_{cluster}/dt ~ t^{alpha} relation. In addition, comparison to theoretical
+single stellar population models suggests the presence of an age-metallicity
+relation among these clusters with younger clusters being more metal-rich.
+Analysis of the radial distribution of the clusters yields some evidence that
+younger clusters (age <~ 1 Gyr) may be more concentrated toward the center of
+M33 than older ones. A similar comparison with the radial profile of the M33
+field stars shows the clusters to be more centrally concentrated at the greater
+than 99.9% confidence level. Possible reasons for this are presented and
+discussed; however, the overwhelming conclusion seems to be that a more
+complete and thorough cluster search is needed covering at least 4 square
+degrees centered on M33.

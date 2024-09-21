@@ -1,0 +1,5 @@
+We compare several definitions of the Galois group of a linear difference
+equation that have arisen in algebra, analysis and model theory and show, that
+these groups are isomorphic over suitable fields. In addition, we study
+properties of Picard-Vessiot extensions over fields with not necessarily
+algebraically closed subfields of constants.

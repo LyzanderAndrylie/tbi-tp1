@@ -1,0 +1,11 @@
+Using the Swift data of GRB 050315, we progress on the uniqueness of our
+theoretically predicted Gamma-Ray Burst (GRB) structure as composed by a
+proper-GRB (P-GRB), emitted at the transparency of an electron-positron plasma
+with suitable baryon loading, and an afterglow comprising the so called "prompt
+emission" as due to external shocks. Thanks to the Swift observations, we can
+theoretically fit detailed light curves for selected energy bands on a
+continuous time scale ranging over 10^6 seconds. The theoretically predicted
+instantaneous spectral distribution over the entire afterglow confirms a clear
+hard-to-soft behavior encompassing, continuously, the "prompt emission" all the
+way to the latest phases of the afterglow. Consequences of the instrumental
+threshold on the definition of "short" and "long" GRBs are discussed.

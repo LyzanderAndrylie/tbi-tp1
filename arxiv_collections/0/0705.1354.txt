@@ -1,0 +1,12 @@
+By combining the local density approximation (LDA) with dynamical mean field
+theory (DMFT), we report a systematic analysis of the spectral properties of
+$\delta$-plutonium with varying $5f$ occupancy. The LDA Hamiltonian is
+extracted from a tight-binding (TB) fit to full-potential linearized augmented
+plane-wave (FP-LAPW) calculations. The DMFT equations are solved by the exact
+quantum Monte Carlo (QMC) method and the Hubbard-I approximation. We have shown
+for the first time the strong sensitivity of the spectral properties to the
+$5f$ occupancy, which suggests using this occupancy as a fitting parameter in
+addition to the Hubbard $U$. By comparing with PES data, we conclude that the
+``open shell'' $5f^{5}$ configuration gives the best agreement, resolving the
+controversy over $5f$ ``open shell'' versus ``close shell'' atomic
+configurations in $\delta$-Pu.

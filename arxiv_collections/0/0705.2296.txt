@@ -1,0 +1,14 @@
+The development of the semiconductor quantum cascade laser (QCL) [1] has
+enabled bright coherent sources operating at frequencies between the optical
+(>100 THz) and electronic (<0.5 THz) ranges opening this frequency region for
+fundamental science investigations [2-5] as well as for applications [6].
+However, detailed information about the internal processes in QCLs and their
+ultrafast dynamics are needed for their further development towards high output
+power, longer wavelengths and stable pulsed operation. We introduce a novel
+approach to study the gain and dynamics of a terahertz (THz) QCL [7] using
+phase resolved measurements of the stimulated emission. This is enabled by
+direct recording of the emitted electric field with <100 fs time resolution.
+For the case of the THz QCL we demonstrate the validity of the quantum
+mechanical description of the laser. We show for the first time the real
+bandwidth of the terahertz gain medium, the current dependence of this gain,
+and the losses associated with the wave propagation in the laser waveguide.

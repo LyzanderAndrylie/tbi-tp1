@@ -1,0 +1,9 @@
+In the present paper we determine for each parallelizable smooth compact
+manifold $M$ the cohomology spaces $H^2(V_M,\bar\Omega^p_M)$ of the Lie algebra
+$V_M$ of smooth vector fields on $M$ with values in the module $\bar\Omega^p_M
+= \Omega^p_M/d\Omega^{p-1}_M$. The case of $p=1$ is of particular interest
+since the gauge algebra $C^\infty (M,k)$ has the universal central extension
+with center $\bar\Omega^1_M$, generalizing affine Kac-Moody algebras. The
+second cohomology $H^2(V_M, \bar\Omega^1_M)$ classifies twists of the
+semidirect product of $V_M$ with the universal central extension $C^\infty
+(M,k) \oplus \bar\Omega^1_M$.

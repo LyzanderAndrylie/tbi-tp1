@@ -1,0 +1,9 @@
+The supersymmetrical approach is used to analyse a class of two-dimensional
+quantum systems with periodic potentials. In particular, the method of
+SUSY-separation of variables allowed us to find a part of the energy spectra
+and the corresponding wave functions (partial solvability) for several models.
+These models are not amenable to conventional separation of variables, and they
+can be considered as two-dimensional generalizations of Lame, associated Lame,
+and trigonometric Razavy potentials. All these models have the symmetry
+operators of fourth order in momenta, and one of them (the Lame potential)
+obeys the property of self-isospectrality.

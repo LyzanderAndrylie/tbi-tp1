@@ -1,0 +1,7 @@
+Continuous time random walks have been developed as a straightforward
+generalisation of classical random walk processes. Some 10 years ago, Fogedby
+introduced a continuous representation of these processes by means of a set of
+Langevin equations [H. C. Fogedby, Phys. Rev. E 50 (1994)]. The present work is
+devoted to a detailed discussion of Fogedby's model and presents its
+application for the robust numerical generation of sample paths of continuous
+time random walk processes.

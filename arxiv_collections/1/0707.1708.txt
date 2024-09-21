@@ -1,0 +1,12 @@
+Let $\pi$ be a regular algebraic cuspidal automorphic representation of ${\rm
+GL}_n({\mathbb A}_F)$ for a number field $F$. We consider certain periods
+attached to $\pi$. These periods were originally defined by Harder when $n=2$,
+and later by Mahnkopf when $F = {\mathbb Q}$. In the first part of the paper we
+analyze the behaviour of these periods upon twisting $\pi$ by algebraic Hecke
+characters. In the latter part of the paper we consider Shimura's periods
+associated to a modular form. If $\phi_{\chi}$ is the cusp form associated to a
+character $\chi$ of a quadratic extension, then we relate the periods of
+$\phi_{\chi^n}$ to those of $\phi_{\chi}$, and as a consequence give another
+proof of Deligne's conjecture on the critical values of symmetric power
+$L$-functions associated to dihedral modular forms. Finally, we make some
+remarks on the symmetric fourth power $L$-functions.

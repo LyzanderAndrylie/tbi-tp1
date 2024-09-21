@@ -1,0 +1,9 @@
+Several hard exclusive scattering processes admit a description in terms of
+generalized parton distributions and perturbative hard-scattering kernels. Both
+the physical amplitude and the hard-scattering kernels fulfill dispersion
+relations. We give a detailed investigation of their consistency at all orders
+in perturbation theory. The results shed light on the information about
+generalized parton distributions that can be extracted from the real and
+imaginary parts of exclusive amplitudes. They also provide a practical
+consistency check for models of these distributions in which Lorentz invariance
+is not exactly satisfied.

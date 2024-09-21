@@ -1,0 +1,10 @@
+The flux penetration near a semicircular indentation at the edge of a thin
+superconducting strip placed in a transverse magnetic field is investigated.
+The flux front distortion due to the indentation is calculated numerically by
+solving the Maxwell equations with a highly nonlinear $E(j)$ law. We find that
+the excess penetration, $\Delta$, can be significantly ($\sim$ 50%) larger than
+the indentation radius $r_0$, in contrast to a bulk supercondutor in the
+critical state where $\Delta=r_0$. It is also shown that the flux creep tends
+to smoothen the flux front, i.e. reduce $\Delta$. The results are in very good
+agreement with magneto-optical studies of flux penetration into an
+YBa$_2$Cu$_3$O$_x$ film having an edge defect.

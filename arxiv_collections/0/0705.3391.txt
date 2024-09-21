@@ -1,0 +1,7 @@
+We present a criterion, based on three commutator relations, that allows to
+decide whether two self-adjoint matrices with non-overlapping support are
+simultaneously unitarily similar to quasidiagonal matrices, i.e., whether they
+can be simultaneously brought into a diagonal structure with 2x2-dimensional
+blocks. Application of this criterion to unambiguous state discrimination
+provides a systematic test whether the given problem is reducible to a solvable
+structure. As an example, we discuss unambiguous state comparison.

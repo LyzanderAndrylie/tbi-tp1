@@ -1,0 +1,16 @@
+There is a number of explicit kinetic energy density functionals for
+non-interacting electron systems that are obtained in terms of the electron
+density and its derivatives. These semilocal functionals have been widely used
+in the literature. In this work we present a comparative study of the kinetic
+energy density of these semilocal functionals, stressing the importance of the
+local behavior to assess the quality of the functionals. We propose a quality
+factor that measures the local differences between the usual orbital-based
+kinetic energy density distributions and the approximated ones, allowing to
+ensure if the good results obtained for the total kinetic energies with these
+semilocal functionals are due to their correct local performance or to error
+cancellations. We have also included contributions coming from the laplacian of
+the electron density to work with an infinite set of kinetic energy densities.
+For all the functionals but one we have found that their success in the
+evaluation of the total kinetic energy are due to global error cancellations,
+whereas the local behavior of their kinetic energy density becomes worse than
+that corresponding to the Thomas-Fermi functional.

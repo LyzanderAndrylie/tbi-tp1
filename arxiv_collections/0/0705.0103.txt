@@ -1,0 +1,13 @@
+We present both numerical and analytical study of graphene roughness with a
+crystal structure including $500 \times 500$ atoms. The roughness can
+effectively result in a random gauge field and has important consequences for
+its electronic structure. Our results show that its height fluctuations in
+small scales have scaling behavior with a temperature dependent roughness
+exponent in the interval of $ 0.6 < \chi < 0.7 $. The correlation function of
+height fluctuations depends upon temperature with characteristic length scale
+of $ \approx 90 {\AA}$ (at room temperature). We show that the correlation
+function of the induced gauge field has a short-range nature with correlation
+length of about $\simeq 2-3 {\AA}$. We also treat the problem analytically by
+using the Martin-Siggia-Rose method. The renormalization group flows did not
+yield any delocalized-localized transition arising from the graphene roughness.
+Our results are in good agreement with recent experimental observations.

@@ -1,0 +1,23 @@
+AIMS: We investigate here the nature of all the sources (35 in total) in the
+XBS survey (which is 86% optically identified) showing an optical spectrum
+dominated by the light from the host galaxy with no evidence (or little
+evidence) for the presence of an AGN. METHODS: We use the X-ray spectral
+analysis to assess the presence of an AGN in these sources and to characterize
+its properties. RESULTS: We detect AGN activity in 33 out of 35 sources. The
+remaining 2 sources are the ones with the lowest X-ray luminosity in the sample
+(L[2-10keV]<10^41 erg s^-1) and their X-ray emission could be produced within
+the host galaxy. We find that the ``recognition problem'' for AGN is very
+critical in the low-luminosity regime (at least 60% of the AGN with
+L[2-10keV]<10^43 erg s^-1 are elusive) becoming negligible for high X-ray
+luminosities (~1.5% of elusive AGN with L[2-10keV]>10^44 erg s^-1). This
+problem affects mostly absorbed AGN (~40% of type~2 AGN in the survey are
+elusive) but also a significant fraction of unabsorbed AGN (8%). CONCLUSIONS:
+We find that the simplest explanations of why these 33 (or most of them) AGNs
+are elusive are two: at low X-ray luminosities (<10^43 erg s^-1) the most
+important reason is the intrinsically low AGN/galaxy contrast (optical
+dilution) while at high luminosities (>10^44 erg s^-1) it is due to the optical
+absorption (in the Compton-thin regime, i.e. NH<10^24 cm^-2). Alternative
+hypotheses, like the presence of Compton-thick sources, BL Lac objects or
+``non-standard'' AGN (e.g. with alpha_OX<1 or with weak/absorbed Narrow Line
+Region) are not supported by the data although we cannot exclude the presence
+in the sample of a few sources of these types.

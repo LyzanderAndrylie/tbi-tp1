@@ -1,0 +1,18 @@
+We investigate the accuracy of astrometric measurements with the VLT/FORS1
+camera and consider potential applications. The study is based on two-epoch
+(2000 and 2002/2003) frame series of observations of a selected Galactic Bulge
+sky region that were obtained with FORS1 during four consecutive nights each.
+Reductions were carried out with a novel technique that eliminates atmospheric
+image motion and does not require a distinction between targets and reference
+objects. The positional astrometric precision was found to be limited only by
+the accuracy of the determination of the star photocentre, which is typically
+200-300 microarcsec per single measurement for bright unsaturated stars
+B=18-19. Several statistical tests have shown that at time-scales of 1-4 nights
+the residual noise in measured positions is essentially a white noise with no
+systematic instrumental signature and no significant deviation from a Gaussian
+distribution. Some evidence of a good astrometric quality of the VLT for frames
+separated by two years has also been found. Our data show that the VLT with
+FORS1/2 cameras can be effectively used for astrometric observations of
+planetary microlensing events and other applications where a high accuracy is
+required, that is expected to reach 30-40 microarcsec for a series of 50 frames
+(one hours with R filter).

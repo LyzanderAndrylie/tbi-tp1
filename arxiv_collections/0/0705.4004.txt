@@ -1,0 +1,4 @@
+We give blow-up analysis for a Brezis-Merle's problem on the boundary. Also
+we give a proof of a compactness result with Lipschitz condition and weaker
+assumption on the regularity of the domain (smooth domain or $ C^{2,\alpha} $
+domain).

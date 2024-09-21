@@ -1,0 +1,12 @@
+The nonlinear polariton transmission, reflection and trapping by a defect in
+the resonantly absorbing Bragg grating (RABG) is demonstrated in numerical
+simulation. It is shown that the wide defect under some conditions could
+effectively serve as microresonator for polaritonic wave storage. The three
+types of the defect such as microcavity, groove and stripe are considered.
+Capture the electromagnetic field inside the microcavity (with no resonant
+nanoparticles) placed in the RABG is observed, as well as stuck of trapped
+polarization modes to the defect edges for the groove (defect span with reduced
+density of nanoparticles) and for the stripe with relatively increased density.
+Strong radiation reflection and adhered propagation of the polarization mode
+along the first edge of the stripe with high density of resonant atoms is
+exhibited by numerical computation.

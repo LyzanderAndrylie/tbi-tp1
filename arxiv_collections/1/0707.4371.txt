@@ -1,0 +1,19 @@
+Up to know all the experimental results concerning the integer and fractional
+quantum Hall effect are related to semiconductor heterostructures (and more
+recently with graphene). The common characteristic of all these systems is the
+presence of a reservoir of electrons, which, in fact, in the initial stage is
+the source of the electrons, providing the two-dimensional electron gas (2DES).
+Then, any physical realization of a 2DES is necessarily embedded in a 3D
+structure, which establishes the Fermi level. Hence, the 2DES appears to be an
+open system. In this paper we present an analytical approach to the integer
+quantum Hall effect (IQHE) and the Shubnikov-de Haas (SdH) phenomena in the
+2DES, basing us in fundamental principles and showing the secondary role of the
+localized electron states in both phenomena. In fact, we show that the IQHE is
+a consequence of the fluctuations of electrons in the 2DES. Once we obtain the
+density of states of the 2DES under the application of a magnetic field we
+calculate both magnetoconductivities (diagonal and Hall) deducing them from the
+Boltzman semiclassical equation. The model proposed reproduces both phenomena,
+the width of the Hall plateaus (with the precision reached in the experimental
+measurements, of the order of 10-8-10-9) and the corresponding minima of the
+diagonal magnetoresistivity, and also the dependence with temperature of the
+IQHE and SdH.

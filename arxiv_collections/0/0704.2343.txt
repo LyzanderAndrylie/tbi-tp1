@@ -1,0 +1,11 @@
+We study a lattice realization of a Luttinger liquid interacting with a bath
+of quantum spins in terms of an antiferromagnetic S=1/2 Heisenberg chain, where
+each spin is also coupled to a \sigma=1/2 Kondo spin degree of freedom. This
+model describes the low-energy spin dynamics in quasi one dimensional
+materials, where the electronic spins of the magnetic ions interact with those
+of impurities, nuclei and possibly other spin species present in their
+environment. For large ferromagnetic and antiferromagnetic Kondo interaction J'
+there are two phases corresponding to an effective spin-1 Heisenberg chain and
+a dimerised spin-1/2 ladder, respectively. For weak Kondo interaction we
+establish that the Kondo interaction drives the system to a strong coupling
+regime. This suggests that J'=0 is the only critical point in the system.

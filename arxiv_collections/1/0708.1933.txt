@@ -1,0 +1,5 @@
+We show that the so called Robinson-Trautman-Maxwell equations do not
+constitute a well posed initial value problem. That is, the dependence of the
+solution on the initial data is not continuous in any norm built out from the
+initial data and a finite number of its derivatives. Thus, they can not be used
+to solve for solutions outside the analytic domain.

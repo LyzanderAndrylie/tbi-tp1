@@ -1,0 +1,6 @@
+The first general analytic solutions for the one-dimensional walk in position
+and momentum space are derived. These solutions reveal, among other things, new
+symmetry features of quantum walk probability densities and further insight
+into the behaviour of their moments. The analytic expressions for the quantum
+walk probability distributions provide a means of modelling quantum phenomena
+that is analogous to that provided by random walks in the classical domain.

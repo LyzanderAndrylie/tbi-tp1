@@ -1,0 +1,10 @@
+The design, construction, and performance of a linear radio-frequency ion
+trap (RFQ) intended for use in the Enriched Xenon Observatory (EXO) are
+described. EXO aims to detect the neutrinoless double-beta decay of $^{136}$Xe
+to $^{136}$Ba. To suppress possible backgrounds EXO will complement the
+measurement of decay energy and, to some extent, topology of candidate events
+in a Xe filled detector with the identification of the daughter nucleus
+($^{136}$Ba). The ion trap described here is capable of accepting, cooling, and
+confining individual Ba ions extracted from the site of the candidate
+double-beta decay event. A single trapped ion can then be identified, with a
+large signal-to-noise ratio, via laser spectroscopy.

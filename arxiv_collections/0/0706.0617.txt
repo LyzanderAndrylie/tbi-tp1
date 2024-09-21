@@ -1,0 +1,9 @@
+Two-dimensional (2D) equations describing the nonlinear interaction between
+upper-hybrid and dispersive magnetosonic waves are presented. Nonlocal
+nonlinearity in the equations results in the possibility of existence of stable
+2D nonlinear structures. A rigorous proof of the absence of collapse in the
+model is given. We have found numerically different types of nonlinear
+localized structures such as fundamental solitons, radially symmetric vortices,
+nonrotating multisolitons (two-hump solitons, dipoles and quadrupoles), and
+rotating multisolitons (azimuthons). By direct numerical simulations we show
+that 2D fundamental solitons with negative hamiltonian are stable.

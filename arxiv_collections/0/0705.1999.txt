@@ -1,0 +1,8 @@
+We present a multi-modal action logic with first-order modalities, which
+contain terms which can be unified with the terms inside the subsequent
+formulas and which can be quantified. This makes it possible to handle
+simultaneously time and states. We discuss applications of this language to
+action theory where it is possible to express many temporal aspects of actions,
+as for example, beginning, end, time points, delayed preconditions and results,
+duration and many others. We present tableaux rules for a decidable fragment of
+this logic.

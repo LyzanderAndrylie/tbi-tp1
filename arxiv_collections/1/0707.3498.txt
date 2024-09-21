@@ -1,0 +1,10 @@
+We study numerically and analytically the dynamical (AC) conductance through
+a two-dot system, where only one of the dots is coupled to the leads but it is
+also side-coupled to the other dot through an antiferromagnetic exchange (RKKY)
+interaction. In this case the RKKY interaction gives rise to a ``two-stage
+Kondo effect'' where the two spins are screened by two consecutive Kondo
+effects. We formulate a renormalized scaling theory that captures remarkably
+well the cross-over from the strongly conductive correlated regime to the low
+temperature low conductance state. Our analytical formulas agree well with our
+numerical renormalization group results. The frequency dependent current noise
+spectrum is also discussed.

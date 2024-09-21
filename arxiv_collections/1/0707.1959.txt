@@ -1,0 +1,9 @@
+We study the dynamics of the critical two-dimensional fully-frustrated Ising
+model by means of Monte Carlo simulations. The dynamical exponent is estimated
+at equilibrium and is shown to be compatible with the value $z_c=2$. In a
+second step, the system is prepared in the paramagnetic phase and then quenched
+at its critical temperature $T_c=0$. Numerical evidences for the existence of
+logarithmic corrections in the aging regime are presented. These corrections
+may be related to the topological defects observed in other fully-frustrated
+models. The autocorrelation exponent is estimated to be $\lambda=d$ as for the
+Ising chain quenched at $T_c=0$.

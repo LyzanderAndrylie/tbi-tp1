@@ -1,0 +1,20 @@
+In recent investigations, it has been found that conservation laws generally
+lead to precision limits on quantum computing. Lower bounds of the error
+probability have been obtained for various logic operations from the
+commutation relation between the noise operator and the conserved quantity or
+from the recently developed universal uncertainty principle for the
+noise-disturbance trade-off in general measurements. However, the problem of
+obtaining the precision limit to realizing the quantum NOT gate has eluded a
+solution from these approaches. Here, we develop a new method for this problem
+based on analyzing the trace distance between the output state from the
+realization under consideration and the one from the ideal gate. Using the
+mathematical apparatus of orthogonal polynomials, we obtain a general lower
+bound on the error probability for the realization of the quantum NOT gate in
+terms of the number of qubits in the control system under the conservation of
+the total angular momentum of the computational qubit plus the the control
+system along the direction used to encode the computational basis. The lower
+bound turns out to be more stringent than one might expect from previous
+results. The new method is expected to lead to more accurate estimates for
+physical realizations of various types of quantum computations under
+conservation laws, and to contribute to related problems such as the accuracy
+of programmable quantum processors.

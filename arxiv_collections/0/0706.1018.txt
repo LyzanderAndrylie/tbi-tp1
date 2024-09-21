@@ -1,0 +1,12 @@
+We report ab initio calculations of the melting curve and Hugoniot of
+molybdenum for the pressure range 0-400 GPa, using density functional theory
+(DFT) in the projector augmented wave (PAW) implementation. We use the
+``reference coexistence'' technique to overcome uncertainties inherent in
+earlier DFT calculations of the melting curve of Mo. Our calculated melting
+curve agrees well with experiment at ambient pressure and is consistent with
+shock data at high pressure, but does not agree with the high pressure melting
+curve from static compression experiments. Our calculated P(V) and T(P)
+Hugoniot relations agree well with shock measurements. We use calculations of
+phonon dispersion relations as a function of pressure to eliminate some
+possible interpretations of the solid-solid phase transition observed in shock
+experiments on Mo.

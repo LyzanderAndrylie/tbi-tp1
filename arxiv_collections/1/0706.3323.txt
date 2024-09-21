@@ -1,0 +1,7 @@
+We study the onset of synchronous states in realistic chaotic neurons coupled
+by mutually inhibitory chemical synapses. For the realistic parameters, namely
+the synaptic strength and the intrinsic current, this synapse introduces
+non-coherences in the neuronal dynamics, yet allowing for chaotic phase
+synchronization in a large range of parameters. As we increase the synaptic
+strength, the neurons undergo to a periodic state, and no chaotic complete
+synchronization is found.

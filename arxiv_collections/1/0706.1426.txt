@@ -1,0 +1,8 @@
+The field dependence of the specific heat \gamma(H) at lower temperatures in
+Sr2RuO4 is analyzed by solving microscopic Eilenberger equation numerically. We
+find that systematic \gamma(H) behaviors from a concaved \sqrt H to a convex
+H^{\alpha} (\alpha>1) under H orientation change are understood by taking
+account of the Pauli paramagnetic effect. The magnetizations are shown to be
+consistent with it. This implies either a singlet pairing or a triplet one with
+d-vector locked in the basal plane, which allows us to explain other mysteries
+of this compound in a consistent way.

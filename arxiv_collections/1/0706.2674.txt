@@ -1,0 +1,10 @@
+The thermal Hall conductivity $\kappa_{xy}$ and Hall conductivity
+$\sigma_{xy}$ in CeCoIn$_5$ are used to determine the Lorenz number ${\cal
+L}_H$ at low temperature $T$. This enables the separation of the observed
+thermal conductivity into its electronic and non-electronic parts. We uncover
+evidence for a charge-neutral, field-dependent thermal conductivity, which we
+identify with spin excitations. At low $T$, these excitations dominate the
+scattering of charge carriers. We show that suppression of the spin excitations
+in high fields leads to a steep enhancement of the electron mean-free-path,
+which leads to an interesting scaling relation between the magnetoresistance,
+thermal conductivity and $\sigma_{xy}$.

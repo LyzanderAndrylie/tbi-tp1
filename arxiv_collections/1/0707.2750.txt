@@ -1,0 +1,7 @@
+A single-column model run under the weak temperature gradient approximation,
+a parameterization of large-scale dynamics appropriate for the tropical
+atmosphere, is shown to have multiple stable equilibria. Under conditions
+permitting persistent deep convection, the model has a statistically steady
+state in which such convection occurs, as well as an extremely dry state in
+which convection does not occur. Which state is reached depends on the initial
+moisture profile.

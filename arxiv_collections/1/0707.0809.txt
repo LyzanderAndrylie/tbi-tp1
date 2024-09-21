@@ -1,0 +1,8 @@
+Ab initio computed interaction forces are employed in order to describe the
+microsolvation of the A$_2^+(^2\Sigma)$ (A=Li,Na,K) molecular ion in $^4$He
+clusters of small variable size. The minimum energy structures are obtained by
+performing energy minimization based on a genetic algorithm approach. The
+symmetry features of the collocation of solvent adatoms around the dimeric
+cation are analyzed in detail, showing that the selective growth of small
+clusters around the two sides of the ion during the solvation process is a
+feature common to all three dopants.

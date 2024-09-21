@@ -1,0 +1,18 @@
+The WMAP experiment has revealed an excess of microwave emission from the
+region around the center of our Galaxy. It has been suggested that this signal,
+known as the ``WMAP Haze'', could be synchrotron emission from relativistic
+electrons and positrons generated in dark matter annihilations. In this letter,
+we revisit this possibility. We find that the angular distribution of the WMAP
+Haze matches the prediction for dark matter annihilations with a cusped density
+profile, $\rho(r) \propto r^{-1.2}$ in the inner kiloparsecs. Comparing the
+intensity in different WMAP frequency bands, we find that a wide range of
+possible WIMP annihilation modes are consistent with the spectrum of the haze
+for a WIMP with a mass in the 100 GeV to multi-TeV range. Most interestingly,
+we find that to generate the observed intensity of the haze, the dark matter
+annihilation cross section is required to be approximately equal to the value
+needed for a thermal relic, $\sigma v \sim 3 \times 10^{-26}$ cm$^3$/s. No
+boost factors are required. If dark matter annihilations are in fact
+responsible for the WMAP Haze, and the slope of the halo profile continues into
+the inner Galaxy, GLAST is expected to detect gamma rays from the dark matter
+annihilations in the Galactic Center if the WIMP mass is less than several
+hundred GeV.

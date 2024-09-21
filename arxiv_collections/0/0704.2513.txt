@@ -1,0 +1,10 @@
+In this article we show that the Holevo capacity of a classical quantum
+channel, can be reached not only by a POVM but by von Neumann measurement too.
+Furthermore we show two use of this fact 1) We can generalize the classical
+compound channel to quantum environment and with this new measure technique we
+can give an optimal coding/decoding algorithm to it. 2) We give an algorithm,
+with it a classical system can be decoded by quantum apparatus in linear time,
+which is a surprising result, because best known optimal classical decoding
+algorithm need n*log(n) time. This means that if a quantum machine can perform
+arbitrarily von Neumann measurement with only two possible outcome, then it can
+solve non-polynomial classical problems in linear time.

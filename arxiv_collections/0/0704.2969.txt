@@ -1,0 +1,5 @@
+A probabilistic analysis of the direct simulation of a homogeneous gas is
+given. A hierarchy of equations similar to the BBGKY hierarchy for the reduced
+probability densities is derived. By invoking the molecular chaos assumption,
+an equation similar to the Boltzmann equation for the single particle
+probability density and the corresponding H-theorem is derived.

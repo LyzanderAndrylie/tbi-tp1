@@ -1,0 +1,9 @@
+We study Mott insulator - superfluid transition in a two-band boson Hubbard
+model, which can be mapped onto a spin-1/2 XY model with spins coupled to an
+additional Ising degree of freedom. By using a modified mean field theory that
+include the effects of phase fluctuations, we show that the transition is first
+order at both zero and finite temperatures. On the Mott insulator side, there
+may be reentrance in phase transition. These features are consequences of the
+underlying transition between competing defect poor and defect rich phases. The
+relevance of the model and our results to supersolid 4He and cold bosonic atoms
+in optical lattices are discussed.

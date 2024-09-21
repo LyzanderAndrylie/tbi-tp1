@@ -1,0 +1,22 @@
+Ultra-cold atoms trapped by light, with their robust quantum coherence and
+controllability, provide an attractive system for quantum information
+processing and for simulation of complex problems in condensed matter physics.
+Many quantum information processing schemes require that individual qubits be
+manipulated and deterministically entangled with one another, a process that
+would typically be accomplished by controlled, state-dependent, coherent
+interactions among qubits. Recent experiments have made progress toward this
+goal by demonstrating entanglement among an ensemble of atoms confined in an
+optical lattice. Until now, however, there has been no demonstration of a key
+operation: controlled entanglement between atoms in isolated pairs. We have
+used an optical lattice of double-well potentials to isolate and manipulate
+arrays of paired atoms, inducing controlled entangling interactions within each
+pair. Our experiment is the first realization of proposals to use controlled
+exchange coupling in a system of neutral atoms. Although 87Rb atoms have nearly
+state-independent interactions, when we force two atoms into the same physical
+location, the wavefunction exchange symmetry of these identical bosons leads to
+state-dependent dynamics. We observe repeated interchange of spin between atoms
+occupying different vibrational levels, with a coherence time of more than ten
+milliseconds. This observation represents the first demonstration of the
+essential component of a quantum SWAP gate in neutral atoms. The "half
+implementation" of SWAP, the sqrt(SWAP) gate, is entangling, and together with
+single qubit rotations form a set of universal gates for quantum computation.

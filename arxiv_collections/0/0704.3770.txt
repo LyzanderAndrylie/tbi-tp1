@@ -1,0 +1,14 @@
+Recent lattice calculations showed that the quarkonia will survive beyond the
+phase transition temperature, and will dissolve at different temperatures
+depending on the type of the quarkonium. In this work, we calculate the thermal
+width of the quarkonium at finite temperature before it dissolves into open
+heavy quarks. The input of the calculation are the parton quarkonium
+dissociation cross section to NLO in QCD, the quarkonium wave function in a
+temperature-dependent potential from lattice QCD, and a thermal distribution of
+partons with thermal masses. We find that for the J/psi, the total thermal
+width above 1.4 Tc becomes larger than 100 to 250 MeV, depending on the
+effective thermal masses of the quark and gluon, which we take between 400 to
+600 MeV. Such a width corresponds to an effective dissociation cross section by
+gluons between 1.5 to 3.5 mb and by quarks 1 to 2 mb at 1.4 Tc. However, at
+similar temperatures, we find a much smaller thermal width and effective cross
+section for the upsilon.

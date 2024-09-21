@@ -1,0 +1,14 @@
+In the covariant light-front quark model, we calculate the form factors of
+$B_c^-\to J/\psi$ and $B_c^-\to X(3872)$. Since the factorization of the
+exclusive processes $B_c^- \to J/\psi\pi^-(K^-)$ and $B_c^- \to
+X(3872)\pi^-(K^-)$ can be proved in the soft-collinear effective theory, we can
+get the branching ratios for these decays easily from the form factors.
+  Taking the uncertainties into account, our results for the branching ratio of
+$B_c^-\to J/\psi \pi^-(K^-)$ are consistent with the previous studies. By
+identifying X(3872) as a $1^{++}$ charmonium state, we obtain ${\cal
+BR}(B_c^-\to X(3872)\pi^-)=(1.7^{+0.7+0.1+0.4}_{-0.6-0.2-0.4}) \times 10^{-4}$
+and ${\cal BR}(B_c^-\to X(3872)K^-)=(1.3^{+0.5+0.1+0.3}_{-0.5-0.2-0.3})\times
+10^{-5}$. If assuming X(3872) as a $1^{--}$ state, the branching ratios will be
+one order magnitude larger than those of $1^{++}$ state. These results can be
+easily used to test the charmonium description for this mysterious meson
+X(3872) at LHCb experiment.

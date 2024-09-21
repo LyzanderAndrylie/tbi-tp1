@@ -1,0 +1,7 @@
+Impact phenomena of small clusters subject to thermal fluctuations are
+numerically investigated. From the molecular dynamics simulation for colliding
+two identical clusters, it is found that the restitution coefficient for
+head-on collisions can exceed unity when the colliding speed is smaller than
+the thermal velocity of one ``atom'' of the clusters. The averaged behavior can
+be understood by the quasi-static theory of impact phenomena. It is also
+confirmed that our result is governed by the fluctuation theorem.

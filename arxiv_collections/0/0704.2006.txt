@@ -1,0 +1,6 @@
+We consider two quantum coherent conductors interacting weakly via long range
+Coulomb forces. We describe the interaction in terms of two-particle collisions
+described by a two-particle scattering matrix. As an example we determine the
+transmission probability and correlations in a two-particle scattering
+experiment and find that the results can be expressed in terms of the
+density-of-states matrices of the non-interacting scatterers.

@@ -1,0 +1,11 @@
+Using the recently proposed definition of a conserved spin-current operator
+[J. Shi et al., Phys. Rev. Lett. 96, 076604 (2006)] we explore the frequency
+dependent spin Hall conductivity for a two-dimensional electron gas with Rashba
+and Dresselhaus spin-orbit interaction in response to an oscillating electric
+field. We show that the optical spectrum of the spin Hall conductivity exhibit
+remarkable changes when the new definition of spin current is applied. Such
+behavior is mainly due to a significant contribution of the spin torque term
+which is absent in the conventional form of the spin current. In addition, it
+is observed that the magnitude and direction of the dynamic spin Hall current
+strongly depends on the electric field frequency as with the interplay of the
+spin-orbit coupling strengths.

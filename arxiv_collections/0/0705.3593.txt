@@ -1,0 +1,10 @@
+Subtraction of aligned images is a means to assess changes in a wide variety
+of clinical applications. In this paper we explore the information theoretical
+origin of Mutual Information (MI), which is based on Shannon's entropy.However,
+the interpretation of standard MI registration as a communication channel
+suggests that MI is too restrictive a criterion. In this paper the concept of
+Mutual Information (MI) is extended to (Normalized) Focussed Mutual Information
+(FMI) to incorporate prior knowledge to overcome some shortcomings of MI. We
+use this to develop new methodologies to successfully address specific
+registration problems, the follow-up of dental restorations, cephalometry, and
+the monitoring of implants.

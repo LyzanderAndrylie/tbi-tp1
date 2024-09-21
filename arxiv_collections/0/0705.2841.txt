@@ -1,0 +1,13 @@
+Just as a coherent state may be considered as a quantum point, its
+restriction to a factor space of the full Hilbert space can be interpreted as a
+quantum plane. The overlap of such a factor coherent state with a full pure
+state is akin to a quantum section. It defines a reduced pure state in the
+cofactor Hilbert space. The collection of all the Wigner functions
+corresponding to a full set of parallel quantum sections defines the
+Husimi-Wigner reresentation. It occupies an intermediate ground between drastic
+suppression of nonclassical features, characteristic of Husimi functions, and
+the daunting complexity of higher dimensional Wigner functions. After analysing
+these features for simpler states, we exploit this new representation as a
+probe of numerically computed eigenstates of chaotic Hamiltonians. The
+individual two-dimensional Wigner functions resemble those of semiclassically
+quantized states, but the regular ring pattern is broken by dislocations.

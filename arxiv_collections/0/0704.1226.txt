@@ -1,0 +1,14 @@
+We propose a method to study the epoch of reionization based on the possible
+observation of 2p--2s fine structure lines from the neutral hydrogen outside
+the cosmological H {\sc ii} regions enveloping QSOs and other ionizing sources
+in the reionization era. We show that for parameters typical of luminous
+sources observed at $z \simeq 6.3$ the strength of this signal, which is
+proportional to the H {\sc i} fraction, has a brightness temperature $\simeq 20
+  \mu K$ for a fully neutral medium. The fine structure line from this redshift
+is observable at $\nu \simeq 1 \rm GHz$ and we discuss prospects for the
+detection with several operational and future radio telescopes. We also compute
+the characteristics of this signal from the epoch of recombination: the peak
+brightness is expected to be $\simeq 100 \mu K$; this signal appears in the
+frequency range 5-10 MHz. The signal from the recombination era is nearly
+impossible to detect owing to the extreme brightness of the Galactic emission
+at these frequencies.

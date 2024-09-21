@@ -1,0 +1,15 @@
+In a dynamic nuclear polarization experiment on a 40 mM solution of
+4-amino-TEMPO in a 40:60 water/glycerol mixture, we have observed that the bulk
+dipolar reservoir is cooled to a spin temperature of 15.5 micro-K, following
+microwave irradiation for 800 s. This is significantly cooler than the 35 mK
+spin temperature of the Zeeman reservoir. Equilibration of the two reservoirs
+results in a 50 % increase in the NMR signal intensity, corresponding to a
+Zeeman spin temperature of 23 mK. In order to achieve this polarization
+directly, it was necessary to irradiate the sample with microwaves for 1500 s.
+Cooling of the dipolar reservoir occurs during polarization transport through
+the magnetic field gradient around the paramagnetic impurity, and is rapidly
+communicated to the bulk by dipolar spin diffusion. As dipolar spin diffusion
+is significantly faster than Zeeman spin diffusion, the bulk dipolar reservoir
+cools faster than the Zeeman reservoir. This process can be exploited to
+rapidly polarize the nuclear spins, by repeatedly cooling the dipolar system
+and transferring the polarization to the Zeeman reservoir.

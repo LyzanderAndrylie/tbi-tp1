@@ -1,0 +1,10 @@
+We first present a simple proof that for any bipartite lattice at half
+filling the RKKY interaction is antiferromagnetic between impurities on
+opposite (i.e., A and B) sublattices and is ferromagnetic between impurities on
+the same sublattices. This result is valid on all length scales. We then focus
+on the honeycomb lattice and examine the theorem in the long distance limit by
+performing the low energy calculation using Dirac electrons. To find the
+universal (cutoff free) result we perform the calculation in smooth cutoff
+schemes, as we show that the calculation based on a sharp cutoff leads to wrong
+results. We also find the long distance behavior of the RKKY interaction
+between "plaquette" impurities in both coherent and incoherent regimes.

@@ -1,0 +1,18 @@
+The conductance of a quantum point contact (QPC) shows several features that
+result from many-body electron interactions. The spin degeneracy in zero
+magnetic field appears to be spontaneously lifted due to the so-called 0.7
+anomaly. Further, the g-factor for electrons in the QPC is enhanced, and a
+zero-bias peak in the conductance points to similarities with transport through
+a Kondo impurity. We report here how these many-body effects depend on QPC
+geometry. We find a clear relation between the enhanced g-factor and the
+subband spacing in our QPCs, and can relate this to the device geometry with
+electrostatic modeling of the QPC potential. We also measured the zero-field
+energy splitting related to the 0.7 anomaly, and studied how it evolves into a
+splitting that is the sum of the Zeeman effect and a field-independent exchange
+contribution when applying a magnetic field. While this exchange contribution
+shows sample-to-sample fluctuations and no clear dependence on QPC geometry, it
+is for all QPCs correlated with the zero-field splitting of the 0.7 anomaly.
+This provides evidence that the splitting of the 0.7 anomaly is dominated by
+this field-independent exchange splitting. Signatures of the Kondo effect also
+show no regular dependence on QPC geometry, but are possibly correlated with
+splitting of the 0.7 anomaly.

@@ -1,0 +1,11 @@
+Any quantum-mechanical system possesses a U(1) gerbe naturally defined on
+configuration space. Acting on Feynman's kernel exp(iS/h), this U(1) symmetry
+allows one to arbitrarily pick the origin for the classical action S, on a
+point-by-point basis on configuration space. This is equivalent to the
+statement that quantum mechanics is a U(1) gauge theory. Unlike Yang-Mills
+theories, however, the geometry of this gauge symmetry is not given by a fibre
+bundle, but rather by a gerbe. Since this gauge symmetry is spontaneously
+broken, an analogue of the Higgs mechanism must be present. We prove that a
+Heisenberg-like noncommutativity for the space coordinates is responsible for
+the breaking. This allows to interpret the noncommutativity of space
+coordinates as a Higgs mechanism on the quantum-mechanical U(1) gerbe.

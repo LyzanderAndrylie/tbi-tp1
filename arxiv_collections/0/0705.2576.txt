@@ -1,0 +1,16 @@
+In this notes unbounded regular operators on Hilbert $C^*$-modules over
+arbitrary $C^*$-algebras are discussed. A densely defined operator $t$
+possesses an adjoint operator if the graph of $t$ is an orthogonal summand.
+Moreover, for a densely defined operator $t$ the graph of $t$ is orthogonally
+complemented and the range of $P_FP_{G(t)^\bot}$ is dense in its biorthogonal
+complement if and only if $t$ is regular. For a given $C^*$-algebra $\mathcal
+A$ any densely defined $\mathcal A$-linear closed operator $t$ between Hilbert
+$C^*$-modules is regular, if and only if any densely defined $\mathcal
+A$-linear closed operator $t$ between Hilbert $C^*$-modules admits a densely
+defined adjoint operator, if and only if $\mathcal A$ is a $C^*$-algebra of
+compact operators. Some further characterizations of closed and regular modular
+operators are obtained.
+  Changes 1: Improved results, corrected misprints, added references. Accepted
+by J. Operator Theory, August 2007 / Changes 2: Filled gap in the proof of Thm.
+3.1, changes in the formulations of Cor. 3.2 and Thm. 3.4, updated references
+and address of the second author.

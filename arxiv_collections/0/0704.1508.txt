@@ -1,0 +1,13 @@
+We propose a model of a heterogeneous glass forming liquid and compute the
+low-temperature behavior of a tagged molecule moving within it. This model
+exhibits stretched-exponential decay of the wavenumber-dependent, self
+intermediate scattering function in the limit of long times. At temperatures
+close to the glass transition, where the heterogeneities are much larger in
+extent than the molecular spacing, the time dependence of the scattering
+function crosses over from stretched-exponential decay with an index $b=1/2$ at
+large wave numbers to normal, diffusive behavior with $b = 1$ at small
+wavenumbers. There is a clear separation between early-stage, cage-breaking
+$\beta$ relaxation and late-stage $\alpha$ relaxation. The spatial
+representation of the scattering function exhibits an anomalously broad
+exponential (non-Gaussian) tail for sufficiently large values of the molecular
+displacement at all finite times.

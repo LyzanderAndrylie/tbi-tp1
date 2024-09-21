@@ -1,0 +1,6 @@
+We compute the Z/\ell and \ell-adic monodromy of every irreducible component
+of the moduli space M_g^f of curves of genus and and p-rank f. In particular,
+we prove that the Z/\ell-monodromy of every component of M_g^f is the
+symplectic group Sp_{2g}(Z/\ell) if g>=3 and \ell is a prime distinct from p.
+We give applications to the generic behavior of automorphism groups, Jacobians,
+class groups, and zeta functions of curves of given genus and p-rank.

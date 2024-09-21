@@ -1,0 +1,12 @@
+In the density distribution of a deformed target-nucleus, the spherical
+$\lambda = 0$ and the deformed $\lambda = 2$ parts were considered. On this
+basis, the corresponding potential parts $U_0$ and $U^{(2)}_{int}$ of a double
+-folding microscopic nucleus-nucleus optical potential are obtained. Then, for
+these potentials and by using the coupled-channel technique (ECIS), the elastic
+and inelastic amplitudes are calculated for $^{17}O$ heavy ion scattering on
+$2^{+}$ collective excited state of various target nuclei. Besides, the same
+cross-sections are calculated in the frame of an adiabatic approach of the
+eikonal approximation, where the inelastic amplitude is the linear function of
+$U^{(2)}_{int}$. Both the obtained results are compared with the experimental
+data, and also discuss their efficiency in predicting the deformation
+parameters of nuclei.

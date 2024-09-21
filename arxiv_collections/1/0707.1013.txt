@@ -1,0 +1,9 @@
+We show that an internal localization mobility edge can appear around the
+Fermi energy in graphene by introducing impurities in the split-band regimen,
+or by producing vacancies in the lattice. The edge appears at the center of the
+spectrum and not at the band edges, in contrast with the usual picture of
+localization. Such result is explained by showing that the bipartite nature of
+lattice allows to renormalize the Hamiltonian, and the internal edge appears
+because of frustration effects in the renormalized lattice. The size in energy
+of the spectral region with localized states is similar in value to that
+observed in narrow gap semiconductors.

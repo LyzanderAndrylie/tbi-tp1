@@ -1,0 +1,4 @@
+We provide a short and elementary proof for the recently proved result by G.
+da Prato and H. Frankowska that -- under minimal assumptions -- a closed set is
+invariant with respect to a stochastic control system if and only if it is
+invariant with respect to the (associated) deterministic control system.

@@ -1,0 +1,6 @@
+In this Letter, we present a physical scheme for implementing the discrete
+quantum Fourier transform in a coupled semiconductor double quantum dot system.
+The main controlled-R gate operation can be decomposed into many simple and
+feasible unitary transformations. The current scheme would be a useful step
+towards the realization of complex quantum algorithms in the quantum dot
+system.

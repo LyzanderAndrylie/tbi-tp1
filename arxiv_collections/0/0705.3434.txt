@@ -1,0 +1,7 @@
+We have studied the role of Ga 3d states in determining the properties of
+bulk as well as nanoparticles of GaN using PAW potentials. A significant
+contribution of the Ga d states in the valence band is found to arise from the
+interaction of Ga 4d states with the dominantly N p states making up the
+valence band. The errors arising from not treating the Ga 3d states as a part
+of the valence are found to be similar, ~ 1%, for bulk as well as for
+nanoclusters of GaN.

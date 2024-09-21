@@ -1,0 +1,6 @@
+Let (X,Y) be a bivariate elliptical random vector with associated random
+radius in the Gumbel max-domain of attraction. In this paper we obtain a second
+order asymptotic expansion of the joint survival probability P(X > x, Y> y) for
+x,y large. Further, based on the asymptotic bounds we discuss some aspects of
+the statistical modelling of joint survival probabilities and the survival
+conditional excess probability.

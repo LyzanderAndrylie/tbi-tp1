@@ -1,0 +1,11 @@
+We present measurements of current noise in quantum point contacts as a
+function of source-drain bias, gate voltage, and in-plane magnetic field. At
+zero bias, Johnson noise provides a measure of the electron temperature. At
+finite bias, shot noise at zero field exhibits an asymmetry related to the 0.7
+structure in conductance. The asymmetry in noise evolves smoothly into the
+symmetric signature of spin-resolved electron transmission at high field.
+Comparison to a phenomenological model with density-dependent level splitting
+yields quantitative agreement. Additionally, a device-specific contribution to
+the finite-bias noise, particularly visible on conductance plateaus (where shot
+noise vanishes), agrees quantitatively with a model of bias-dependent electron
+heating.

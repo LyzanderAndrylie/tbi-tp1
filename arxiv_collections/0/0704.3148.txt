@@ -1,0 +1,9 @@
+The new formulation of the causal completion of spacetimes suggested in [1],
+and modified later in [2], is tested by computing the causal boundary for
+product spacetimes of a Lorentz interval and a Riemannian manifold. This is
+particularized for two important families of spacetimes, conformal to the
+previous ones: (standard) static spacetimes and Generalized Robertson-Walker
+spacetimes. As consequence, it is shown that this new approach essentially
+reproduces the structure of the conformal boundary for multiple classical
+spacetimes: Reissner-Nordstrom (including Schwarzschild), Anti-de Sitter, Taub
+and standard cosmological models as de Sitter and Einstein Universe.

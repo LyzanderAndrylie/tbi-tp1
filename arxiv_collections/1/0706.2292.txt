@@ -1,0 +1,11 @@
+We report the first observations of beam losses due to bound-free pair
+production at the interaction point of a heavy-ion collider. This process is
+expected to be a major luminosity limit for the Large Hadron Collider (LHC)
+when it operates with 208Pb82+ ions because the localized energy deposition by
+the lost ions may quench superconducting magnet coils. Measurements were
+performed at the Relativistic Heavy Ion Collider (RHIC) during operation with
+100 GeV/nucleon 63Cu29+ ions. At RHIC, the rate, energy and magnetic field are
+low enough so that magnet quenching is not an issue. The hadronic showers
+produced when the single-electron ions struck the RHIC beampipe were observed
+using an array of photodiodes. The measurement confirms the order of magnitude
+of the theoretical cross section previously calculated by others.

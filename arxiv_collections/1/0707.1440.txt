@@ -1,0 +1,18 @@
+In the framework of instantaneous approximations to the Bethe-Salpeter
+formalism for the description of bound states within quantum field theories,
+depending on the Lorentz structure of the Bethe-Salpeter interaction kernel the
+solutions of the full Salpeter equation with some confining interaction may
+exhibit certain instabilities, which are possibly related to the Klein paradox
+and signal the decay of states assumed to be bound by the confining
+interactions. They are observed in numerical (variational) studies of the
+Salpeter equation. The presumably simplest scenario allowing for the fully
+analytic investigation of this problem is set by the reduced Salpeter equation
+with harmonic-oscillator interaction. In this case, Salpeter's integral
+equation simplifies to either an algebraic relation or a second-order
+homogeneous linear ordinary differential equation, immediately accessible to
+standard techniques. There one may hope to be able to decide unambiguously
+whether this setting poses a well-defined eigenvalue problem the solutions of
+which correspond to stable bound states associated to real energy eigenvalues
+bounded from below. By analytical spectral analysis the bound-state solutions
+of this "harmonic-oscillator reduced Salpeter equation" can be shown to be free
+of such instabilities.

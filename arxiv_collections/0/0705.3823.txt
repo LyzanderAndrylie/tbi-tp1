@@ -1,0 +1,8 @@
+We give a new description of the data needed to specify a morphism from a
+scheme to a toric Deligne-Mumford stack. The description is given in terms of a
+collection of line bundles and sections which satisfy certain conditions. As
+applications, we characterize any toric Deligne-Mumford stack as a product of
+roots of line bundles over the rigidified stack, describe the torus action,
+describe morphisms between toric Deligne-Mumford stacks with complete coarse
+moduli spaces in terms of homogeneous polynomials, and compare two different
+definitions of toric stacks.

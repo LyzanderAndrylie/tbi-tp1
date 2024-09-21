@@ -1,0 +1,24 @@
+The min-sum (MS) algorithm is arguably the second most fundamental algorithm
+in the realm of message passing due to its optimality (for a tree code) with
+respect to the {\em block error} probability \cite{Wiberg}. There also seems to
+be a fundamental relationship of MS decoding with the linear programming
+decoder \cite{Koetter}. Despite its importance, its fundamental properties have
+not nearly been studied as well as those of the sum-product (also known as BP)
+algorithm.
+  We address two questions related to the MS rule. First, we characterize the
+stability condition under MS decoding. It turns out to be essentially the same
+condition as under BP decoding. Second, we perform a degree distribution
+optimization. Contrary to the case of BP decoding, under MS decoding the
+thresholds of the best degree distributions for standard irregular LDPC
+ensembles are significantly bounded away from the Shannon threshold. More
+precisely, on the AWGN channel, for the best codes that we find, the gap to
+capacity is 1dB for a rate 0.3 code and it is 0.4dB when the rate is 0.9 (the
+gap decreases monotonically as we increase the rate).
+  We also used the optimization procedure to design codes for modified MS
+algorithm where the output of the check node is scaled by a constant
+$1/\alpha$. For $\alpha = 1.25$, we observed that the gap to capacity was
+lesser for the modified MS algorithm when compared with the MS algorithm.
+However, it was still quite large, varying from 0.75 dB to 0.2 dB for rates
+between 0.3 and 0.9.
+  We conclude by posing what we consider to be the most important open
+questions related to the MS algorithm.

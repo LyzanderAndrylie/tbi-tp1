@@ -1,0 +1,10 @@
+Magnetic x-ray diffraction combined with x-ray focusing optics is used to
+image individual antiferromagnetic spin density wave domains in a chromium
+single crystal at the micron scale. The cross section for non-resonant magnetic
+x-ray scattering depends on the antiferromagnetic modulation vector and spin
+polarization direction and allows these quantities to be extracted
+independently. The technique is used to show that the broadening of the
+nominally first order "spin-flip" transition at 123 K, at which the spins
+rotate by 90 deg., originates at the walls between domains with orthogonal
+modulation vectors. During cooling the transition begins at these walls and
+progresses inwards. The modulation-vector domains are themselves unchanged.

@@ -1,0 +1,6 @@
+The standard series expansion for the period of a finite amplitude pendulum
+as a function of energy (and hence amplitude) provides a lower limit on the
+period when the series is truncated. An adjustment to the last term in the
+truncated series to take account of the dropped terms improves the accuracy of
+the approximation and provides an upper limit on the period. More accurate
+approximations can then be obtained using intermediate expressions.

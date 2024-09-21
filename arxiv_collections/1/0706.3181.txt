@@ -1,0 +1,5 @@
+We employ the broken-link model to create a barrier with slits in a
+two-dimensional lattice. The diffraction and interference patterns of the
+probability distribution of quantum walkers passing through the slits are
+analyzed. Simulations were performed using the main types of coins, and display
+diffraction and interference patterns that depend on the choice of coins.

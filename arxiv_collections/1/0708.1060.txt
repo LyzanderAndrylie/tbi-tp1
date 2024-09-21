@@ -1,0 +1,20 @@
+The basic properties of atoms, molecules and solids are governed by electron
+dynamics which take place on extremely short time scales. To measure and
+control these dynamics therefore requires ultrafast sources of radiation
+combined with efficient detection techniques. The generation of extreme
+ultraviolet (XUV) attosecond (1 as = 10-18 s) pulses has, for the first time,
+made direct measurements of electron dynamics possible. Nevertheless, while
+various applications of attosecond pulses have been demonstrated
+experimentally, no one has yet captured or controlled the full three
+dimensional motion of an electron on an attosecond time scale. Here we
+demonstrate an attosecond quantum stroboscope capable of guiding and imaging
+electron motion on a sub-femtosecond (1 fs = 10-15 s) time scale. It is based
+on a sequence of identical attosecond pulses which are synchronized with a
+guiding laser field. The pulse to pulse separation in the train is tailored to
+exactly match an optical cycle of the laser field and the electron momentum
+distributions are detected with a velocity map imaging spectrometer (VMIS).
+This technique has enabled us to guide ionized electrons back to their parent
+ion and image the scattering event. We envision that coherent electron
+scattering from atoms, molecules and surfaces captured by the attosecond
+quantum stroboscope will complement more traditional scattering techniques
+since it provides high temporal as well as spatial resolution.

@@ -1,0 +1,9 @@
+We propose an experimental setup that is capable of unambiguously
+discriminating any pair of linearly independent single photon polarization
+qubits, about which we don't have any knowledge except that an extra pair of
+these unknown states are provided as the reference. This setup, which is
+constructed with optical CNOT gates, weak cross Kerr non-linearities, Bell
+state analysers and other linear optical elements, transforms the unknown
+triple photon input states to the corresponding single photon states to be
+deterministically processed by linear optics circuit. The optimal
+discrimination of the unknown states is achieved by this setup.

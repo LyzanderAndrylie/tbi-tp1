@@ -1,0 +1,12 @@
+We propose an extension of the principle of virtual work of mechanics to
+random dynamics of mechanical systems. The total virtual work of the
+interacting forces and inertial forces on every particle of the system is
+calculated by considering the motion of each particle. Then according to the
+principle of Lagrange-d'Alembert for dynamical equilibrium, the vanishing
+ensemble average of the virtual work gives rise to the thermodynamic
+equilibrium state with maximization of thermodynamic entropy. This approach
+establishes a close relationship between the maximum entropy approach for
+statistical mechanics and a fundamental principle of mechanics, and constitutes
+an attempt to give the maximum entropy approach, considered by many as only an
+inference principle based on the subjectivity of probability and entropy, the
+status of fundamental physics law.

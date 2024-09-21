@@ -1,0 +1,8 @@
+I review the theoretical foundations, properties as well as the simulation
+results obtained so far of a variant of the Wilson lattice QCD formulation:
+Wilson twisted mass lattice QCD. Emphasis is put on the discretization errors
+and on the effects of these discretization errors on the phase structure for
+Wilson-like fermions in the chiral limit. The possibility to use in lattice
+simulations different lattice actions for sea and valence quarks to ease the
+renormalization patterns of phenomenologically relevant local operators, is
+also discussed.

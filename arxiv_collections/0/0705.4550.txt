@@ -1,0 +1,13 @@
+We consider a classical interacting dimer model which interpolates between
+the square lattice case and the triangular lattice case by tuning a chemical
+potential in the diagonal bonds. The interaction energy simply corresponds to
+the number of plaquettes with parallel dimers. Using transfer matrix
+calculations, we find in the anisotropic triangular case a succession of
+different physical phases as the interaction strength is increased: a short
+range disordered liquid dimer phase at low interactions, then a critical phase
+similar to the one found for the square lattice, and finally a transition to an
+ordered columnar phase for large interactions. The existence of the critical
+phase is in contrast with the belief that criticality for dimer models is
+ascribed to bipartiteness. For the isotropic triangular case, we have
+indications that the system undergoes a first order phase transition to an
+ordered phase, without appearance of an intermediate critical phase.

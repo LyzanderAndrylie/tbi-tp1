@@ -1,0 +1,8 @@
+This research hypothesized that a practical approach in the form of a
+solution framework known as Natural Language Understanding and Reasoning for
+Intelligence (NaLURI), which combines full-discourse natural language
+understanding, powerful representation formalism capable of exploiting
+ontological information and reasoning approach with advanced features, will
+solve the following problems without compromising practicality factors: 1)
+restriction on the nature of question and response, and 2) limitation to scale
+across domains and to real-life natural language text.

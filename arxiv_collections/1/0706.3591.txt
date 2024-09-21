@@ -1,0 +1,10 @@
+We report magnetoresistance (MR) measurements on MgB2 and the corresponding
+full account from ab-initio calculations; we suggest that this combination can
+be a useful tool to probe electron- phonon coupling. We obtain good
+quantitative agreement between high field measurements on neutron irradiated
+epitaxial thin films and calculations within Bloch-Boltzmann transport theory
+over a wide range of magnetic fields (0-28 T) and temperatures (40-300 K), and
+as a function of the field orientation. The crossovers between in-plane and
+out-of-plane MR, experimentally observed as a function of either disorder or
+temperature are well reproduced indicating that disorder and interaction with
+phonons strongly affect the scattering rate of s-carriers.

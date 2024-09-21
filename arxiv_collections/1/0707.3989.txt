@@ -1,0 +1,12 @@
+A multivariate, stationary time series is said to be jointly regularly
+varying if all its finite-dimensional distributions are multivariate regularly
+varying. This property is shown to be equivalent to weak convergence of the
+conditional distribution of the rescaled series given that, at a fixed time
+instant, its distance to the origin exceeds a threshold tending to infinity.
+The limit object, called the tail process, admits a decomposition in
+independent radial and angular components. Under an appropriate mixing
+condition, this tail process allows for a concise and explicit description of
+the limit of a sequence of point processes recording both the times and the
+positions of the time series when it is far away from the origin. The theory is
+applied to multivariate moving averages of finite order with random coefficient
+matrices.

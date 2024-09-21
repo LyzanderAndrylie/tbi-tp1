@@ -1,0 +1,9 @@
+In predicate abstraction, exact image computation is problematic, requiring
+in the worst case an exponential number of calls to a decision procedure. For
+this reason, software model checkers typically use a weak approximation of the
+image. This can result in a failure to prove a property, even given an adequate
+set of predicates. We present an interpolant-based method for strengthening the
+abstract transition relation in case of such failures. This approach guarantees
+convergence given an adequate set of predicates, without requiring an exact
+image computation. We show empirically that the method converges more rapidly
+than an earlier method based on counterexample analysis.

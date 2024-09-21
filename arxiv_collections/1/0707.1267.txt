@@ -1,0 +1,9 @@
+We propose how to generate genuine multipartite entanglement of electron spin
+qubits in a chain of quantum dots using the naturally available single-qubit
+rotations and two-qubit Heisenberg exchange interaction in the system. We show
+that the minimum number of required operations to generate entangled states of
+the GHZ-, cluster and W-type scales linearly with the number of qubits and
+estimate the fidelities of the generated entangled cluster states. As the
+required single and two-qubit operations have recently been realized, our
+proposed scheme opens the way for experimental investigation of multipartite
+entanglement with electron spin qubits.

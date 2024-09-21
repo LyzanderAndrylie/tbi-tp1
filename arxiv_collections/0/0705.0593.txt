@@ -1,0 +1,17 @@
+Mining frequent subgraphs is an area of research where we have a given set of
+graphs (each graph can be seen as a transaction), and we search for (connected)
+subgraphs contained in many of these graphs. In this work we will discuss
+techniques used in our framework Lattice2SAR for mining and analysing frequent
+subgraph data and their corresponding lattice information. Lattice information
+is provided by the graph mining algorithm gSpan; it contains all
+supergraph-subgraph relations of the frequent subgraph patterns -- and their
+supports.
+  Lattice2SAR is in particular used in the analysis of frequent graph patterns
+where the graphs are molecules and the frequent subgraphs are fragments. In the
+analysis of fragments one is interested in the molecules where patterns occur.
+This data can be very extensive and in this paper we focus on a technique of
+making it better available by using the lattice information in our clustering.
+Now we can reduce the number of times the highly compressed occurrence data
+needs to be accessed by the user. The user does not have to browse all the
+occurrence data in search of patterns occurring in the same molecules. Instead
+one can directly see which frequent subgraphs are of interest.

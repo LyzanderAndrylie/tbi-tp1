@@ -1,0 +1,7 @@
+Let F : V --> V be a self-morphism of a quasiprojective variety defined over
+a number field K and let P be a point in V(K) with infinite orbit under
+iteration of F. For each prime ideal p of good reduction, let m_p(F,P) be the
+size of the F-orbit of the reduction of P modulo p. Fix any e > 0. We show that
+for almost all primes p, in the sense of analytic density, the orbit size
+m_p(F,P) is larger than (log(N(p)))^(1-e), where N(p) is the norm of the ideal
+p.

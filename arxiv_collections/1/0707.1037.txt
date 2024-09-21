@@ -1,0 +1,12 @@
+Concatenated dynamical decoupling (CDD) pulse sequences hold much promise as
+a strategy to mitigate decoherence in quantum information processing. It is
+important to investigate the actual performance of these dynamical decoupling
+strategies in real systems that are promising qubit candidates. In this Rapid
+Communication, we compute the echo decay of concatenations of the Hahn echo
+sequence for a solid-state electronic spin qubit in a nuclear spin bath using a
+cluster expansion technique. We find that each level of concatenation reverses
+the effect of successive levels of intrabath fluctuations. On the one hand,
+this advances CDD as a versatile and realistic decoupling strategy. On the
+other hand, this invalidates, as overly optimistic, results of the simple pair
+approximation used previously to study restoration, through CDD, of coherence
+lost to a mesoscopic spin bath.

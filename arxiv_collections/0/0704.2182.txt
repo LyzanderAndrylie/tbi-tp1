@@ -1,0 +1,14 @@
+Cooling is the main process leading to the condensation of gas in the dark
+matter potential wells and consequently to star and structure formation. In a
+metal-free environment, the main available coolants are H, He, H$_2$ and HD;
+once the gas is enriched with metals, these also become important in defining
+the cooling properties of the gas. We discuss the implementation in Gadget-2 of
+molecular and metal cooling at temperatures lower that $\rm10^4 K$, following
+the time dependent properties of the gas and pollution from stellar evolution.
+We have checked the validity of our scheme comparing the results of some test
+runs with previous calculations of cosmic abundance evolution and structure
+formation, finding excellent agreement. We have also investigated the relevance
+of molecule and metal cooling in some specific cases, finding that inclusion of
+HD cooling results in a higher clumping factor of the gas at high redshifts,
+while metal cooling at low temperatures can have a significant impact on the
+formation and evolution of cold objects.

@@ -1,0 +1,9 @@
+We develop a theory for pricing non-diversifiable mortality risk in an
+incomplete market. We do this by assuming that the company issuing a
+mortality-contingent claim requires compensation for this risk in the form of a
+pre-specified instantaneous Sharpe ratio. We prove that our ensuing valuation
+formula satisfies a number of desirable properties. For example, we show that
+it is subadditive in the number of contracts sold. A key result is that if the
+hazard rate is stochastic, then the risk-adjusted survival probability is
+greater than the physical survival probability, even as the number of contracts
+approaches infinity.

@@ -1,0 +1,8 @@
+Ferromagnetic Resonance Force Microscopy (FMRFM) offers a means of performing
+local ferromagnetic resonance. We have studied the evolution of the FMRFM force
+spectra in a continuous 50 nm thick permalloy film as a function of probe-film
+distance and performed numerical simulations of the intensity of the FMRFM
+probe-film interaction force, accounting for the presence of the localized
+strongly nonuniform magnetic field of the FMRFM probe magnet. Excellent
+agreement between the experimental data and the simulation results provides
+insight into the mechanism of FMR mode excitation in an FMRFM experiment.

@@ -1,0 +1,19 @@
+We present a study of the shapes, orientations, and alignments of Galactic
+dark matter subhalos in the ``Via Lactea'' simulation of a Milky Way-size LCDM
+host halo. Whereas isolated dark matter halos tend to be prolate, subhalos are
+predominantly triaxial. Overall subhalos are more spherical than the host halo,
+with minor to major and intermediate to major axis ratios of 0.68 and 0.83,
+respectively. Like isolated halos, subhalos tend to be less spherical in their
+central regions. The principal axis ratios are independent of subhalo mass,
+when the shapes are measured within a physical scale like r_Vmax, the radius of
+the peak of the circular velocity curve. Subhalos tend to be slightly more
+spherical closer to the host halo center. The spatial distribution of the
+subhalos traces the prolate shape of the host halo when they are selected by
+the largest V_max they ever had, i.e. before they experienced strong tidal mass
+loss. The subhalos' orientation is not random: the major axis tends to align
+with the direction towards the host halo center. This alignment disappears for
+halos beyond 3 r_200 and is more pronounced when the shapes are measured in the
+outer regions of the subhalos. The radial alignment is preserved during a
+subhalo's orbit and they become elongated during pericenter passage, indicating
+that the alignment is likely caused by the host halo's tidal forces. These
+tidal interactions with the host halo act to make subhalos rounder over time.

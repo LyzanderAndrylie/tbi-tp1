@@ -1,0 +1,6 @@
+We provide an elementary proof for a theorem due to Petz and R\'effy which
+states that for a random $n\times n$ unitary matrix with distribution given by
+the Haar measure on the unitary group U(n), the upper left (or any other)
+$k\times k$ submatrix converges in distribution, after multiplying by a
+normalization factor $\sqrt{n}$ and as $n\to\infty$, to a matrix of independent
+complex Gaussian random variables with mean 0 and variance 1.

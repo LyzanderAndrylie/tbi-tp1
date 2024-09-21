@@ -1,0 +1,13 @@
+We analyse the general features of localisation of fermions and scalars in
+smoothed field-theoretical versions of the type 2 Randall- Sundrum braneworld
+model. A scalar field domain-wall forms the brane, inducing warped gravity, and
+we study the mass spectra of the matter fields in the dimensionally reduced
+theory. We demonstrate explicitly that both scalar and fermion fields exhibit a
+continuum of properly normalisable modes starting at zero mass. If discrete
+bound modes are present in the gravity-free case, these become resonances in
+the continuum, while off-resonant modes are highly suppressed on the brane. We
+describe briefly how another scalar field can be used to break a symmetry on
+the domain-wall while leaving it unbroken far from the wall, as has already
+been done in the flat space case. Finally we present numerical calculations for
+a toy model which demonstrates the decoupling of continuum modes at low
+energies, so the theory becomes four dimensional.

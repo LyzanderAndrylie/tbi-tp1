@@ -1,0 +1,13 @@
+We present the results of a search for new particles that lead to a \Z boson
+plus jets in $p\bar{p}$ collisions at $\sqrt{s}=1.96$ TeV using the Collider
+Detector at Fermilab (CDF II). A data sample with a luminosity of 1.06 \ifb\
+collected using \Z boson decays to $ee$ and $\mu\mu$ is used. We describe a
+completely data-based method to predict the dominant background from
+standard-model \Z+jet events. This method can be similarly applied to other
+analyses requiring background predictions in multi-jet environments, as shown
+when validating the method by predicting the background from $W$+jets in \ttbar
+production. No significant excess above the background prediction is observed,
+and a limit is set using a fourth generation quark model to quantify the
+acceptance. Assuming $BR(b' \to b\Z) = 100%$ and using a leading-order
+calculation of the $b'$ cross section, $b'$ quark masses below 268 $\gev/c^2$
+are excluded at 95% confidence level.

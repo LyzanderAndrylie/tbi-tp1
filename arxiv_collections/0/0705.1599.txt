@@ -1,0 +1,19 @@
+Following an old idea of Fritz Zwicky, we make an attempt to establish a
+universal mass function for astronomical objects on all scales. The object
+classes considered are: solar system planets and small bodies, exoplanets,
+brown dwarfs, stars and stellar remnants, open and globular clusters, molecular
+clouds, galaxies, groups and clusters of galaxies. For comparison we also
+include CDM halos taken from numerical simulations. We show that the mass
+functions of individual object classes, when properly normalized, can indeed be
+concatenated to build a surprisingly continuous mass function of the universe,
+from approximately M = 10^(-20)Msun (sub-kilometer size asteroids) up to M =
+10^(16)Msun (rich clusters of galaxies), covering 36 orders of magnitude in
+mass. Most individual mass functions roughly follow a power law of the form
+phi(M) propto M^(-2). A notable exception are planets and small bodies which
+seem to obey a flatter distribution. CDM halos from high-resolution numerical
+simulations show a very similar relation, again of universal slope -2, from
+clusters of galaxies all the way down to the planetary mass scale. On the scale
+of stars and star clusters this is a remarkable coincidence, as the formation
+processes involved are thought to be totally different (bottom-up gravitational
+clustering of DM halos versus top-down gravoturbulent fragmentation of gas
+clouds).

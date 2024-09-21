@@ -1,0 +1,10 @@
+Theory of monochromatic wave field amplification in a waveguide array based
+on expansion of the wave field in terms of guided array modes is developed.
+Equations for the expansion coefficients include cross-modal gain, which
+completely changes behavior of the amplified wave field. Analysis of two-mode
+amplification reveals new unusual features in characteristics of two-mode
+amplifier. Instead of unlimited growth of both modes for incoherent fields, one
+of the modes grows with no limit and suppresses the lower-power mode. Effects
+associated with the cross-modal gain are illustrated analytically on a system
+of two thin parallel planar waveguides. Conditions are found when a mode with
+lower gain can become the dominant one at the output of amplifier.

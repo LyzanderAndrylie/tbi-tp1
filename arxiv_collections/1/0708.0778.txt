@@ -1,0 +1,9 @@
+We prove a Fredholm criterion for operators in the Banach algebra of singular
+integral operators with matrix piecewise continuous coefficients acting on a
+variable Lebesgue space with a radial oscillating weight over a logarithmic
+Carleson curve. The local spectra of these operators are massive and have a
+shape of spiralic horns depending on the value of the variable exponent, the
+spirality indices of the curve, and the Matuszewska-Orlicz indices of the
+weight at each point. These results extend (partially) the results of A.
+B\"ottcher, Yu. Karlovich, and V. Rabinovich for standard Lebesgue spaces to
+the case of variable Lebesgue spaces.

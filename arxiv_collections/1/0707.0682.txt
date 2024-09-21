@@ -1,0 +1,10 @@
+We study the changes induced by the effective gauge field due to ripples on
+the low energy electronic structure of graphene. We show that zero energy
+Landau levels will form, associated to the smooth deformation of the graphene
+layer, when the height corrugation, $h$, and the length of the ripple, $l$, are
+such that $h^2 / (l a) \gtrsim 1$, where $a$ is the lattice constant. The
+existence of localized levels gives rise to a large compressibility at zero
+energy, and to the enhancement of instabilities arising from electron-electron
+interactions including electronic phase separation. The combined effect of the
+ripples and an external magnetic field breaks the valley symmetry of graphene
+leading to the possibility of valley selection.

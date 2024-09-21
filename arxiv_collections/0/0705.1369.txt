@@ -1,0 +1,9 @@
+Universe evolution, as described by Friedmann's equations, is determined by
+source terms fixed by the choice of pressure $\times$ energy-density equations
+of state $p(\rho)$. The usual approach in Cosmology considers equations of
+state accounting only for kinematic terms, ignoring the contribution from the
+interactions between the particles constituting the source fluid. In this work
+the importance of these neglected terms is emphasized. A systematic method,
+based on the Statistical Mechanics of real fluids, is proposed to include them.
+A toy-model is presented which shows how such interaction terms can engender
+significant cosmological effects.

@@ -1,0 +1,13 @@
+By means of a technique, which does not employ partial wave (PW)
+decompositions, the nucleon-deuteron break-up process is evaluated in the
+Faddeev scheme, where only the leading order term of the amplitude is
+considered. This technique is then applied to calculate the semi-exclusive
+proton-deuteron break-up reaction d(p,n)pp for proton laboratory energies Elab
+of a few hundred MeV. A comparison with PW calculations is performed at 197 MeV
+projectile energy. At the same energy rescattering processes, which are not
+included in the 3D calculations yet, are shown to be still important in the
+full Faddeev PW calculations, especially for the cross section and the
+analyzing power Ay. Next, kinematical relativistic effects are investigated for
+projectile energies up to about 500 MeV. At the higher energies, those
+relativistic effects start not to be negligible, especially in the peak of the
+cross section.

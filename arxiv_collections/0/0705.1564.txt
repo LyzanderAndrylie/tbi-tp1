@@ -1,0 +1,9 @@
+We discuss the problem of designing an unambiguous programmable discriminator
+for mixed quantum states. We prove that there does not exist such a universal
+unambiguous programmable discriminator for mixed quantum states that has two
+program registers and one data register. However, we find that we can use the
+idea of programmable discriminator to unambiguously discriminate mixed quantum
+states. The research shows that by using such an idea, when the success
+probability for discrimination reaches the upper bound, the success probability
+is better than what we do not use the idea to do, except for some special
+cases.

@@ -1,0 +1,15 @@
+We investigate the ground-state magnetic long-range order of
+quasi-one-dimensional quantum Heisenberg antiferromagnets for spin quantum
+numbers s=1/2 and s=1. We use the coupled cluster method to calculate the
+sublattice magnetization in dependence on the inter-chain coupling. We find
+that for the unfrustrated spin-1/2 system an infinitesimal inter-chain coupling
+is sufficient to stabilize magnetic long-range order, which is in agreement
+with results obtained by some other methods. For s=1 we find that a finite
+inter-chain coupling of about 10% of the in-chain coupling is necessary to
+stabilize magnetic long-range order. Furthermore, we consider a quasi
+one-dimensional spin-1/2 system, where a frustrating next-nearest neighbor
+in-chain coupling is included. We find that for stronger frustration also a
+finite inter-chain coupling is necessary to have magnetic long-range order in
+the ground state, where the strength of the inter-chain coupling necessary to
+establish magnetic long-range order is related to the size of the spin gap of
+the isolated chain.

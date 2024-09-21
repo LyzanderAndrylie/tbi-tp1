@@ -1,0 +1,16 @@
+In this book, we consider various many-valued logics: standard, linear,
+hyperbolic, parabolic, non-Archimedean, p-adic, interval, neutrosophic, etc. We
+survey also results which show the tree different proof-theoretic frameworks
+for many-valued logics, e.g. frameworks of the following deductive calculi:
+Hilbert's style, sequent, and hypersequent. We present a general way that
+allows to construct systematically analytic calculi for a large family of
+non-Archimedean many-valued logics: hyperrational-valued, hyperreal-valued, and
+p-adic valued logics characterized by a special format of semantics with an
+appropriate rejection of Archimedes' axiom. These logics are built as different
+extensions of standard many-valued logics (namely, Lukasiewicz's, Goedel's,
+Product, and Post's logics). The informal sense of Archimedes' axiom is that
+anything can be measured by a ruler. Also logical multiple-validity without
+Archimedes' axiom consists in that the set of truth values is infinite and it
+is not well-founded and well-ordered. On the base of non-Archimedean valued
+logics, we construct non-Archimedean valued interval neutrosophic logic INL by
+which we can describe neutrality phenomena.

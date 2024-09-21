@@ -1,0 +1,20 @@
+Optical/near-infrared (optical/NIR; OIR) light from low-mass neutron star
+X-ray binaries (NSXBs) in outburst is traditionally thought to be thermal
+emission from the accretion disc. Here we present a comprehensive collection of
+quasi-simultaneous OIR and X-ray data from 19 low-magnetic field NSXBs,
+including new observations of three sources: 4U 0614+09, LMC X-2 and GX 349+2.
+The average radio-OIR spectrum for NSXBs is alpha ~ +0.2 (where L_nu propto
+nu^alpha) at least at high luminosities when the radio jet is detected. This is
+comparable to, but slightly more inverted than the alpha ~ 0.0 found for black
+hole X-ray binaries. The OIR spectra and relations between OIR and X-ray fluxes
+are compared to those expected if the OIR emission is dominated by thermal
+emission from an X-ray or viscously heated disc, or synchrotron emission from
+the inner regions of the jets. We find that thermal emission due to X-ray
+reprocessing can explain all the data except at high luminosities for some
+NSXBs, namely the atolls and millisecond X-ray pulsars (MSXPs). Optically thin
+synchrotron emission from the jets (with an observed OIR spectral index of
+alpha_thin < 0) dominate the NIR light above L_x ~ 10^36 erg/s and the optical
+above L_x ~ 10^37 erg/s in these systems. For NSXB Z-sources, the OIR
+observations can be explained by X-ray reprocessing alone, although synchrotron
+emission may make a low level contribution to the NIR, and could dominate the
+OIR in one or two cases.

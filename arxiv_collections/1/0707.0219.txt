@@ -1,0 +1,10 @@
+We consider a tight-binding model on the honeycomb lattice in a magnetic
+field. For special values of the hopping integrals, the dispersion relation is
+linear in one direction and quadratic in the other. We find that, in this case,
+the energy of the Landau levels varies with the field B as E_n(B) ~
+[(n+\gamma)B]^{2/3}. This result is obtained from the low-field study of the
+tight-binding spectrum on the honeycomb lattice in a magnetic field (Hofstadter
+spectrum) as well as from a calculation in the continuum approximation at low
+field. The latter links the new spectrum to the one of a modified quartic
+oscillator. The obtained value $\gamma=1/2$ is found to result from the
+cancellation of a Berry phase.

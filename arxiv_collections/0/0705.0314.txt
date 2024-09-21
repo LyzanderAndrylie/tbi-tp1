@@ -1,0 +1,16 @@
+We have employed a 3-d energy-conserving radiation MHD code to simulate the
+vertical structure and thermodynamics of a shearing box whose parameters were
+chosen so that the radiation and gas pressures would be comparable. The upper
+layers of this disk segment are magnetically-dominated, creating conditions
+appropriate for both photon bubble and Parker instabilities. We find little
+evidence for photon bubbles, even though the simulation has enough spatial
+resolution to see them and their predicted growth rates are high. On the other
+hand, there is strong evidence for Parker instabilities, and they appear to
+dominate the evolution of the magnetically supported surface layers. The disk
+photosphere is complex, with large density inhomogeneities at both the
+scattering and effective (thermalization) photospheres of the evolving
+horizontally-averaged structure. Both the dominant magnetic support and the
+inhomogeneities are likely to have strong effects on the spectrum and
+polarization of thermal photons emerging from the disk atmosphere. The
+inhomogeneities are also large enough to affect models of reflection spectra
+from the atmospheres of accretion disks.

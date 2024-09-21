@@ -1,0 +1,17 @@
+We perform self-consistent quantum transport calculations in open quantum
+dots taking into account the effect of electron interaction. We demonstrative
+that in the regime of the ultralow temperatures $2\pi k_BT\lesssim\Delta$
+($\Delta $ being the mean level spacing), the electron interaction strongly
+affects the conductance oscillations and their statistics leading to a drastic
+deviation from the corresponding predictions for noninteracting electrons. In
+particular, it causes smearing of conductance oscillations, which is similar to
+the effect of temperature or inelastic scattering. For $2\pi k_BT\gtrsim\Delta$
+the influence of electron interaction on the conductance becomes strongly
+diminished. Our calculations (that are free from phenomenological parameters of
+the theory) are in good quantitative agreement with the observed ultralow
+temperature statistics (Huibers \textit{et al.}, Phys. Rev. Lett. \textbf{81},
+1917 (1998)). Our findings question a conventional interpretation of the
+ultralow temperature saturation of the coherence time in open dots which is
+based on the noninteracting theories where the electron interaction is
+neglected and the agrement with the experiment is achieved by introducing
+additional phenomenological channels of dephasing.

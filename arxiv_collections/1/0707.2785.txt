@@ -1,0 +1,11 @@
+We investigate the dc response of a 1D disordered ring coupled to a reservoir
+and driven by a magnetic flux with a linear dependence on time. We identify two
+regimes: (i) A localized or large length L regime, characterized by a dc
+conductance, g_{dc}, whose probability distribution P(g_{dc}) is identical to
+the one exhibited by a 1D wire of the same length L and disorder strength
+placed in a Landauer setup. (ii) A "multifloquet" regime for small L and weak
+coupling to the reservoir, which exhibits large currents and conductances that
+can be g_{dc} > 1, in spite of the fact that the ring contains a single
+electronic transmission channel. The crossover length between the multifloquet
+to the single channel transport regime, L_c, is controlled by the coupling to
+the reservoir.

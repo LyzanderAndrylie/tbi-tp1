@@ -1,0 +1,10 @@
+We show that a strongly correlated quantum dot embedded in an Aharonov-Bohm
+interferometer can be used to filter both charge and spin at zero voltage bias.
+The magnitude with which the Aharonov-Bohm arm is coupled to the system
+controls the many-body effects on the quantum dot. When the quantum dot is in
+the Kondo regime the flow of charge through the system can be tuned by the
+phase of the Aharonov-Bohm arm, $\phi_{AB}$. Furthermore when a spin-orbit
+interaction is present on a Kondo quantum dot we can control the flow of spin
+by the spin-orbit phase, $\phi_{SO}$. The existence of the Kondo peak at the
+Fermi energy makes it possible to control the flow of both charge and spin in
+the zero voltage bias limit.

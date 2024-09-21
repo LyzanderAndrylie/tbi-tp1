@@ -1,0 +1,9 @@
+We study homogeneous, independent percolation on general quasi-transitive
+graphs. We prove that in the disorder regime where all clusters are finite
+almost surely, in fact the expectation of the cluster size is finite. This
+extends a well-known theorem by Menshikov and Aizenman & Barsky to all
+quasi-transitive graphs. Moreover we deduce that in this disorder regime the
+cluster size distribution decays exponentially, extending a result of Aizenman
+& Newman. Our results apply to both edge and site percolation, as well as long
+range (edge) percolation. The proof is based on a modification of the Aizenman
+& Barsky method.

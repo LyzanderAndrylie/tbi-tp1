@@ -1,0 +1,8 @@
+We construct a unifying theory of geometric effects in mesoscopic stochastic
+kinetics. We demonstrate that the adiabatic pump and the reversible ratchet
+effects, as well as similar new phenomena in other domains, such as in
+epidemiology, all follow from geometric phase contributions to the effective
+action in the stochastic path integral representation of the moment generating
+function. The theory provides the universal technique for identification,
+prediction and calculation of pump-like phenomena in an arbitrary mesoscopic
+stochastic framework.

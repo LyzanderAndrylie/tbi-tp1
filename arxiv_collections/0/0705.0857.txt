@@ -1,0 +1,11 @@
+We present a new interatomic potential for water captured in a
+charge-transfer embedded atom method (EAM) framework. The potential accounts
+for explicit, dynamical charge transfer in atoms as a function of the local
+chemical environment. As an initial test of the charge-transfer EAM approach
+for a molecular system, we have constructed a relatively simple version of the
+potential and examined its ability to model the energetics of small water
+clusters. The excellent agreement between our results and current experimental
+and higher-level quantum computational data signifies a successful first step
+towards developing a unified charge-transfer potential capable of accurately
+describing the polymorphs, dynamics, and complex thermodynamic behavior of
+water.

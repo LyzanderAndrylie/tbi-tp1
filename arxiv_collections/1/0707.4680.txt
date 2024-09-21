@@ -1,0 +1,8 @@
+The three-nucleon (NNN) interaction derived within the chiral effective field
+theory at the next-to-next-to-leading order (N2LO) is regulated with a function
+depending on the magnitude of the momentum transfer. The regulated NNN
+interaction is then local in the coordinate space, which is advantages for some
+many-body techniques. Matrix elements of the local chiral NNN interaction are
+evaluated in a three-nucleon basis. Using the ab initio no-core shell model
+(NCSM) the NNN matrix elements are employed in 3H and 4He bound-state
+calculations.

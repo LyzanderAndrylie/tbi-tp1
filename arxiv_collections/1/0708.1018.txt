@@ -1,0 +1,13 @@
+We report a systematic study of normal state Nernst effect in the
+electron-doped cuprates Pr$_{2-x}$Ce$_x$CuO$_{4-\delta}$ over a wide range of
+doping (0.05$\leq x \leq$0.21) and temperature. At low temperatures, we
+observed a notable vortex Nernst signal above T$_c$ in the underdoped films,
+but no such normal state vortex Nernst signal is found in the overdoped region.
+The superconducting fluctuations in the underdoped region are most likely
+incoherent phase fluctuations as found in hole-doped cuprates. At high
+temperatures, a large normal state Nernst signal is found at dopings from
+slightly underdoped to highly overdoped. Combined with normal state
+thermoelectric power, Hall effect and magnetoresistance measurements, the large
+Nernst effect is compatible with two-band model. For the highly overdoped
+films, the large Nernst effect is anomalous and not explainable with a simple
+hole-like Fermi surface seen in photoemission experiments.

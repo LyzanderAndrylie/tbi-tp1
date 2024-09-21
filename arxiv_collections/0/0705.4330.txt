@@ -1,0 +1,11 @@
+If Gamma is a nonuniform, irreducible lattice in a semisimple Lie group whose
+real rank is greater than 1, we show Gamma contains a subgroup that is
+isomorphic to a nonuniform, irreducible lattice in either SL(3,R), SL(3,C), or
+a direct product SL(2,R)^m x SL(2,C)^n$, with m + n > 1. (In geometric terms,
+this can be interpreted as a statement about the existence of totally geodesic
+subspaces of finite-volume, noncompact, locally symmetric spaces of higher
+rank.) Another formulation of the result states that if G is any isotropic,
+almost simple algebraic group over Q (the rational numbers), such that the real
+rank of G is greater than 1, then G contains an isotropic, almost simple
+Q-subgroup H, such that H is quasisplit, and the real rank of H is greater than
+1.

@@ -1,0 +1,9 @@
+We explore the kinetic magnetism of the infinite-$U$ repulsive Hubbard models
+at low hole densities on various lattices with nearest-neighbor hopping
+integrals modulated by a staggered magnetic flux $\pm\phi$. Tuning $\phi$ from
+0 to $\pi$ makes the ground state (GS) change from a Nagaoka-type ferromagnetic
+state to a Haerter-Shastry-type antiferromagnetic state at a critical $\phi_c$,
+with both states being of kinetic origin. Intra-plaquette spin correlation, as
+well as the GS energy, signals such a quantum criticality. This tunable kinetic
+magnetism is generic, and appears in chains, ladders and two-dimensional
+lattices with squares or triangles as elementary constituents.

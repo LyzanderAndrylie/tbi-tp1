@@ -1,0 +1,8 @@
+The method of self-similar factor approximants is applied to calculating the
+critical exponents of the O(N)-symmetric phi^4 theory and of the Ising glass.
+It is demonstrated that this method, being much simpler than other known
+techniques of series summation in calculating the critical exponents, at the
+same time, yields the results that are in very good agreement with those of
+other rather complicated numerical methods. The principal advantage of the
+method of self-similar factor approximants is the combination of its
+extraordinary simplicity and high accuracy.

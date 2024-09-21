@@ -1,0 +1,16 @@
+We present a detailed investigation of static dipole polarizability of
+lithium clusters containing up to 22 atoms. We first build a database of
+lithium clusters by optimizing several candidate structures for the ground
+state geometry for each size. The full polarizability tensor is determined for
+about 5-6 isomers of each cluster size using the finite-field method. All
+calculations are performed using large Gaussian basis sets, and within the
+generalized gradient approximation to the density functional theory, as
+implemented in the NRLMOL suite of codes. The average polarizability per atom
+varies from 11 to 9 Angstrom^3, within the 8-22 size range and show smoother
+decrease with increase in cluster size than the experimental values. While the
+average polarizability exhibits a relatively weak dependence on cluster
+conformation, significant changes in the degree of anisotropy of the
+polarizability tensor are observed. Interestingly, in addition to the expected
+even odd (0 and 1 $\mu_B$) magnetic states, our results show several cases
+where clusters with an odd number of Li atoms exhibit elevated spin states
+(e.g. 3 $\mu_B$).

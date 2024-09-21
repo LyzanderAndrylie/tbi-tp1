@@ -1,0 +1,9 @@
+A quantum Monte Carlo simulation of a system of hard rods in one dimension is
+presented and discussed. The calculation is exact since the analytical form of
+the wavefunction is known, and is in excellent agreement with predictions
+obtained from asymptotic expansions valid at large distances. The analysis of
+the static structure factor and the pair distribution function indicates that a
+solid-like and a gas-like phases exist at high and low densities, respectively.
+The one-body density matrix decays following a power-law at large distances and
+produces a divergence in the low density momentum distribution at k=0 which can
+be identified as a quasi-condensate.

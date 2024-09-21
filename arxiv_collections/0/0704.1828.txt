@@ -1,0 +1,8 @@
+We discuss gravity-like formulations of massive Abelian and non-Abelian gauge
+field theories in four space-time dimensions with particular emphasis on the
+issue of gauge invariance. Alternative descriptions in terms of antisymmetric
+tensor fields and geometric variables, respectively, are analysed. In both
+approaches St\"uckelberg degrees of freedom factor out. We also demonstrate, in
+the Abelian case, that the massless limit for the gauge propagator, which does
+not exist in the vector potential formulation, is well-defined for the
+antisymmetric tensor fields.

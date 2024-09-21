@@ -1,0 +1,12 @@
+Fluctuations of the number of condensed atoms in a finite-size, weakly
+interacting Bose gas confined in a box potential are investigated for
+temperatures up to the critical region. The canonical partition functions are
+evaluated using a recursive scheme for smaller systems, and a saddle-point
+approximation for larger samples, that allows to treat realistic size systems
+containing up to $N \sim 10^5$ particles. We point out the importance of
+particle-number constrain and interactions between out of condensate atoms for
+the statistics near the critical region. For sufficiently large systems the
+crossover from the anomalous to normal scaling of the fluctuations is observed.
+The excitations are described in a self-consistent way within the
+Bogoliubov-Popov approximation, and the interactions between thermal atoms are
+described by means of the Hartree-Fock method.

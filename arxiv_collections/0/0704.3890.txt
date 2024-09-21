@@ -1,0 +1,10 @@
+We introduce a distributed algorithm for clock synchronization in sensor
+networks. Our algorithm assumes that nodes in the network only know their
+immediate neighborhoods and an upper bound on the network's diameter.
+Clock-synchronization messages are only sent as part of the communication,
+assumed reasonably frequent, that already takes place among nodes. The
+algorithm has the gradient property of [2], achieving an O(1) worst-case skew
+between the logical clocks of neighbors. As in the case of [3,8], the
+algorithm's actions are such that no constant lower bound exists on the rate at
+which logical clocks progress in time, and for this reason the lower bound of
+[2,5] that forbids constant skew between neighbors does not apply.

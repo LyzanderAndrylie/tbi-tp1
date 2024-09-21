@@ -1,0 +1,11 @@
+Spin Hall effect in metallic Pt is studied with first-principles relativistic
+band calculations. It is found that intrinsic spin Hall conductivity (SHC) is
+as large as $\sim 2000 (\hbar/e)(\Omega {\rm cm})^{-1}$ at low temperature, and
+decreases down to $\sim 200 (\hbar/e)(\Omega {\rm cm})^{-1}$ at room
+temperature. It is due to the resonant contribution from the spin-orbit
+splitting of the doubly degenerated $d$-bands at high-symmetry $L$ and $X$
+points near the Fermi level. By modeling these near degeneracies by effective
+Hamiltonian, we show that SHC has a peak near the Fermi energy and that the
+vertex correction due to impurity scattering vanishes. We therefore argue that
+the large spin Hall effect observed experimentally in platinum is of intrinsic
+nature.

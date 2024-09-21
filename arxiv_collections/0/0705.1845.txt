@@ -1,0 +1,18 @@
+The prediction of the three-dimensional native structure of proteins from the
+knowledge of their amino acid sequence, known as the protein folding problem,
+is one of the most important yet unsolved issues of modern science. Since the
+conformational behaviour of flexible molecules is nothing more than a complex
+physical problem, increasingly more physicists are moving into the study of
+protein systems, bringing with them powerful mathematical and computational
+tools, as well as the sharp intuition and deep images inherent to the physics
+discipline. This work attempts to facilitate the first steps of such a
+transition. In order to achieve this goal, we provide an exhaustive account of
+the reasons underlying the protein folding problem enormous relevance and
+summarize the present-day status of the methods aimed to solving it. We also
+provide an introduction to the particular structure of these biological
+heteropolymers, and we physically define the problem stating the assumptions
+behind this (commonly implicit) definition. Finally, we review the 'special
+flavor' of statistical mechanics that is typically used to study the
+astronomically large phase spaces of macromolecules. Throughout the whole work,
+much material that is found scattered in the literature has been put together
+here to improve comprehension and to serve as a handy reference.

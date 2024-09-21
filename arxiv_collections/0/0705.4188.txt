@@ -1,0 +1,4 @@
+Non-Markovian reduced dynamics of an open system is investigated. In the case
+the initial state of the reservoir is the vacuum state, an approximation is
+introduced which makes possible to construct a reduced dynamics which is
+completely positive.

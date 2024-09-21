@@ -1,0 +1,7 @@
+We propose a program for finding the cyclicity of period annuli of quadratic
+systems with centers of genus one. As a first step, we classify all such
+systems and determine the essential one-parameter quadratic perturbations which
+produce the maximal number of limit cycles. We compute the associated
+Poincare-Pontryagin-Melnikov functions whose zeros control the number of limit
+cycles. To illustrate our approach, we determine the cyclicity of the annuli of
+two particular reversible systems.

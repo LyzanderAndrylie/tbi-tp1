@@ -1,0 +1,16 @@
+A population of firing neurons is expected to carry not only mean firing rate
+but also its fluctuation and synchrony among neurons. In order to examine this
+possibility, we have studied responses of neuronal ensembles to three kinds of
+inputs: mean-, fluctuation- and synchrony-driven inputs. The generalized
+rate-code model including additive and multiplicative noise (H. Hasegawa, Phys.
+Rev. E {\bf 75}, 051904 (2007)) has been studied by direct simulations (DSs)
+and the augmented moment method (AMM) in which equations of motion for mean
+firing rate, fluctuation and synchrony are derived. Results calculated by the
+AMM are in good agreement with those by DSs. The independent component analysis
+(ICA) of our results has shown that mean firing rate, fluctuation (or
+variability) and synchrony may carry independent information in the population
+rate-code model. The input-output relation of mean firing rates is shown to
+have higher sensitivity for larger multiplicative noise, as recently observed
+in prefrontal cortex. A comparison is made between results obtained by the
+integrate-and-fire (IF) model and our rate-code model. The relevance of our
+results to experimentally obtained data is also discussed.

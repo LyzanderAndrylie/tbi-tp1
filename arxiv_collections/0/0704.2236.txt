@@ -1,0 +1,15 @@
+New measures of multipartite entanglement are constructed based on two
+definitions of multipartite information and different methods of optimizing
+over extensions of the states. One is a generalization of the squashed
+entanglement where one takes the mutual information of parties conditioned on
+the state's extension and takes the infimum over such extensions. Additivity of
+the multipartite squashed entanglement is proved for both versions of the
+multipartite information which turn out to be related. The second one is based
+on taking classical extensions. This scheme is generalized, which enables to
+construct measures of entanglement based on the {\it mixed convex roof} of a
+quantity, which in contrast to the standard convex roof method involves
+optimization over all decompositions of a density matrix rather than just the
+decompositions into pure states. As one of the possible applications of these
+results we prove that any multipartite monotone is an upper bound on the amount
+of multipartite distillable key. The findings are finally related to analogous
+results in classical key agreement.

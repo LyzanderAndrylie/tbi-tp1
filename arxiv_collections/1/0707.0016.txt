@@ -1,0 +1,5 @@
+A convergence criterion of cluster expansion is presented in the case of an
+abstract polymer system with general pair interactions (i.e. not necessarily
+hard core or repulsive). As a concrete example, the low temperature disordered
+phase of the BEG model with infinite range interactions, decaying polynomially
+as $1/r^{d+\lambda}$ with $\lambda>0$, is studied.

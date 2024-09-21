@@ -1,0 +1,6 @@
+I consider a supersymmetric Bogomolny-type model in 2+1 dimensions
+originating from topological string theory. By a gauge fixing this model is
+reduced to a supersymmetric U(n) chiral model with a Wess-Zumino-Witten-type
+term in 2+1 dimensions. After a noncommutative extension of the model, I employ
+the dressing method to construct explicit multi-soliton configurations on
+noncommutative R^{2,1|2N}.

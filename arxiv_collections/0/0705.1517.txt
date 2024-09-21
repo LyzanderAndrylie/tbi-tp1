@@ -1,0 +1,8 @@
+We perform intensive numerical simulations of the three-dimensional
+site-diluted Ising antiferromagnet in a magnetic field at high values of the
+external applied field. Even if data for small lattice sizes are compatible
+with second-order criticality, the critical behavior of the system shows a
+crossover from second-order to first-order behavior for large system sizes,
+where signals of latent heat appear. We propose "apparent" critical exponents
+for the dependence of some observables with the lattice size for a generic
+(disordered) first-order phase transition.

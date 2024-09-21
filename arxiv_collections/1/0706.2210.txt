@@ -1,0 +1,24 @@
+Semi-leptonic electroweak interactions in nuclei - such as \beta decay, \mu
+capture, charged- and neutral-current neutrino reactions, and electron
+scattering - are described by a set of multipole operators carrying definite
+parity and angular momentum, obtained by projection from the underlying nuclear
+charge and three-current operators. If these nuclear operators are approximated
+by their one-body forms and expanded in the nucleon velocity through order
+|\vec{p}|/M, where \vec{p} and M are the nucleon momentum and mass, a set of
+seven multipole operators is obtained. Nuclear structure calculations are often
+performed in a basis of Slater determinants formed from harmonic oscillator
+orbitals, a choice that allows translational invariance to be preserved.
+Harmonic-oscillator single-particle matrix elements of the multipole operators
+can be evaluated analytically and expressed in terms of finite polynomials in
+q^2, where q is the magnitude of the three-momentum transfer. While results for
+such matrix elements are available in tabular form, with certain restriction on
+quantum numbers, the task of determining the analytic form of a response
+function can still be quite tedious, requiring the folding of the tabulated
+matrix elements with the nuclear density matrix, and subsequent algebra to
+evaluate products of operators. Here we provide a Mathematica script for
+generating these matrix elements, which will allow users to carry out all such
+calculations by symbolic manipulation. This will eliminate the errors that may
+accompany hand calculations and speed the calculation of electroweak nuclear
+cross sections and rates. We illustrate the use of the new script by
+calculating the cross sections for charged- and neutral-current neutrino
+scattering in ^{12}C.

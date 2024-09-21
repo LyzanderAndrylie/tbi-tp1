@@ -1,0 +1,9 @@
+Let $X$ be a projective algebraic manifold and let $CH^r(X)$ be the Chow
+group of algebraic cycles of codimension $r$ on $X$, modulo rational
+equivalence. Working with a candidate Bloch-Beilinson filtration
+$\{F^{\nu}\}_{\nu\geq 0}$ on $CH^r(X)\otimes {\Bbb Q}$ due to the second
+author, we construct a space of arithmetic Hodge theoretic invariants $\nabla
+J^{r,\nu}(X)$ and corresponding map $\phi_{X}^{r,\nu} :
+Gr_{F}^{\nu}CH^r(X)\otimes {\Bbb Q} \to \nabla J^{r,\nu}(X)$, and determine
+conditions on $X$ for which the kernel and image of $\phi_{X}^{r,\nu}$ are
+``uncountably large''.

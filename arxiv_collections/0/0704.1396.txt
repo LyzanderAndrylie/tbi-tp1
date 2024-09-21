@@ -1,0 +1,18 @@
+In the canonical formalism of statistical physics, a signature of a first
+order phase transition for finite systems is the bimodal distribution of an
+order parameter. Previous thermodynamical studies of nuclear sources produced
+in heavy-ion collisions provide information which support the existence of a
+phase transition in those finite nuclear systems. Some results suggest that the
+observable Z1 (charge of the biggest fragment) can be considered as a reliable
+order parameter of the transition. This talk will show how from peripheral
+collisions studied with the INDRA detector at GSI we can obtain this bimodal
+behaviour of Z1. Getting rid of the entrance channel effects and under the
+constraint of an equiprobable distribution of excitation energy (E*), we use
+the canonical description of a phase transition to link this bimodal behaviour
+with the residual convexity of the entropy. Theoretical (with and without phase
+transition) and experimental Z1-E* correlations are compared. This comparison
+allows us to rule out the case without transition. Moreover that quantitative
+comparison provides us with information about the coexistence region in the
+Z1-E* plane which is in good agreement with that obtained with the signal of
+abnormal uctuations of configurational energy (microcanonical negative heat
+capacity).

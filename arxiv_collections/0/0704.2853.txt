@@ -1,0 +1,12 @@
+We take our first step toward getting finite results from the
+alpha'-corrected D=4 N=4 SYM theory with emphasis on the field theory
+techniques. Starting with the classical action of N=4 SYM with the leading
+alpha'-corrections, we examine new divergence at one loop due to the presence
+of the alpha'-terms. The new vertices do not introduce additional divergence to
+the propagators or to the three-point correlators. However they do introduce
+new divergence, e.g., to the scalar four-point function which should be
+canceled by extra counter-terms. We expect that the counter-terms will appear
+in the 1PI effective action that is obtained by considering the string annulus
+diagram. We work out the structure of the divergence and comment on an
+application to the anomalous dimension of the SYM operators in the context of
+AdS/CFT.

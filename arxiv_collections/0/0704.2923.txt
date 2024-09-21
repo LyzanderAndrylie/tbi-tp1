@@ -1,0 +1,16 @@
+We report new magnetic field measurements for 14 classical T Tauri stars
+(CTTSs). We combine these data with one previous field determination in order
+to compare our observed field strengths with the field strengths predicted by
+magnetospheric accretion models. We use literature data on the stellar mass,
+radius, rotation period, and disk accretion rate to predict the field strength
+that should be present on each of our stars according to these magnetospheric
+accretion models. We show that our measured field values do not correlate with
+the field strengths predicted by simple magnetospheric accretion theory. We
+also use our field strength measurements and literature X-ray luminosity data
+to test a recent relationship expressing X-ray luminosity as a function of
+surface magnetic flux derived from various solar feature and main sequence star
+measurements. We find that the T Tauri stars we have observed have weaker than
+expected X-ray emission by over an order of magnitude on average using this
+relationship. We suggest the cause for this is actually a result of the very
+strong fields on these stars which decreases the efficiency with which gas
+motions in the photosphere can tangle magnetic flux tubes in the corona.

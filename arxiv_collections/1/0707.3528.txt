@@ -1,0 +1,8 @@
+Let $T_{f}$ be a circle homeomorphism with two break points $a_{b},c_{b}$ and
+irrational rotation number $\varrho_{f}$. Suppose that the derivative $Df$ of
+its lift $f$ is absolutely continuous on every connected interval of the set
+$S^{1}\backslash\{a_{b},c_{b}\}$, that $DlogDf \in L^{1}$ and the product of
+the jump ratios of $ Df $ at the break points is nontrivial, i.e.
+$\frac{Df_{-}(a_{b})}{Df_{+}(a_{b})}\frac{Df_{-}(c_{b})}{Df_{+}(c_{b})}\neq1$.
+We prove that the unique $T_{f}$- invariant probability measure $\mu_{f}$ is
+then singular with respect to Lebesgue measure $l$ on $S^{1}$.

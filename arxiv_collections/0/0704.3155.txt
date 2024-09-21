@@ -1,0 +1,17 @@
+We investigate the detailed dynamics of multidimensional Hamiltonian systems
+by studying the evolution of volume elements formed by unit deviation vectors
+about their orbits. The behavior of these volumes is strongly influenced by the
+regular or chaotic nature of the motion, the number of deviation vectors, their
+linear (in)dependence and the spectrum of Lyapunov exponents. The different
+time evolution of these volumes can be used to identify rapidly and efficiently
+the nature of the dynamics, leading to the introduction of quantities that
+clearly distinguish between chaotic behavior and quasiperiodic motion on
+$N$-dimensional tori. More specifically we introduce the Generalized Alignment
+Index of order $k$ (GALI$_k$) as the volume of a generalized parallelepiped,
+whose edges are $k$ initially linearly independent unit deviation vectors from
+the studied orbit whose magnitude is normalized to unity at every time step.
+The GALI$_k$ is a generalization of the Smaller Alignment Index (SALI)
+(GALI$_2$ $\propto$ SALI). However, GALI$_k$ provides significantly more
+detailed information on the local dynamics, allows for a faster and clearer
+distinction between order and chaos than SALI and works even in cases where the
+SALI method is inconclusive.

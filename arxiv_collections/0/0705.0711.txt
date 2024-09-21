@@ -1,0 +1,13 @@
+The expansion of ionization fronts in uniform and spherically symmetric
+power-law density distributions is a well-studied topic. However, in many
+situations, such as a star formed at the edge of a molecular cloud core, an
+offset power-law density distribution would be more appropriate. In this paper
+a few of the main issues of the formation and expansion of HII regions in such
+media are outlined and results are presented for the particular cases where the
+underlying power laws are 1/r^2 and 1/r^3. A simple criterion is developed for
+determining whether the initial photoionized region will be unbounded, which
+depends on the power-law exponent and the ratio of the equivalent Stroemgren
+radius produced by the star in a uniform medium to the stellar offset distance.
+In the expansion stage, the ionized volumes will eventually become unbounded
+unless pressure balance with the external medium is reached before the
+ionization front velocity becomes supersonic with respect to the ionized gas.

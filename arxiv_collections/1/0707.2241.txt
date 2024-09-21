@@ -1,0 +1,5 @@
+In this paper we shall study differential equations in the complex domain.
+The method of indeterminate coefficients and the majorant method lead to a
+proof of the existence and uniqueness of meromorphic solution of differential
+equations. We discuss their connection with the concept of algebraic
+integrability systems.

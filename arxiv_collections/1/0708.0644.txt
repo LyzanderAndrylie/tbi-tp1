@@ -1,0 +1,18 @@
+We consider a scenario where interacting electrons confined in quantum dots
+(QDs) are either too close to be resolved, or we do not wish to apply
+measurements that resolve them. Then the physical observable is an electron
+spin only (one cannot unambiguously ascribe a spin to a QD) and the system
+state is fully described by the spin-density matrix. Accounting for the spatial
+degrees of freedom, we examine to what extent a Hamiltonian description of the
+spin-only degrees of freedom is valid. We show that as long as there is no
+coupling between singlet and triplet states this is indeed the case, but when
+there is such a coupling there are open systems effects, i.e., the dynamics is
+non-unitary even without interaction with a true bath. Our primary focus is an
+investigation of non-unitary effects, based on exact master equations we derive
+for the spin-density matrix in the Lindblad and time-convolutionless (TCL)
+forms, and the implications for quantum computation. In particular, we
+demonstrate that the Heisenberg interaction does not affect the unitary part
+(apart from a Lamb shift) but does affect the non-unitary contributions to time
+evolution of the spin-density matrix. In a sequel paper we present a detailed
+analysis of an example system of two quantum dots, including spin-orbit
+effects.

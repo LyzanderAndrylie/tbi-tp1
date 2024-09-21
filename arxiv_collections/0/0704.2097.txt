@@ -1,0 +1,10 @@
+We apply quantum filtering and control to a particle in a harmonic trap under
+continuous position measurement, and show that a simple static feedback law can
+be used to cool the system. The final steady state is Gaussian and dependent on
+the feedback strength and coupling between the system and probe. In the limit
+of weak coupling this final state becomes the ground state. An earlier model by
+Haine et. al. (PRA 69, 2004) without measurement back-action showed dark
+states: states that did not display error signals, thus remaining unaffected by
+the control. This paper shows that for a realistic measurement process this is
+not true, which indicates that a Bose-Einstein condensate may be driven towards
+the ground state from any arbitrary initial state.

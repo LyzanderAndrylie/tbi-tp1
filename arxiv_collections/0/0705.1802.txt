@@ -1,0 +1,8 @@
+It is well known that attractive condensates do not posses a stable ground
+state in three dimensions. The widely used Gross-Pitaevskii theory predicts the
+existence of metastable states up to some critical number
+$N_{\mathrm{cr}}^{\mathrm{GP}}$ of atoms. It is demonstrated here that
+fragmented metastable states exist for atom numbers well above
+$N_{\mathrm{cr}}^{\mathrm{GP}}$. The fragments are strongly overlapping in
+space. The results are obtained and analyzed analytically as well as
+numerically. The implications are discussed.

@@ -1,0 +1,12 @@
+A model-independent search for deviations from the Standard Model prediction
+is performed in $e^+ p$ and $e^- p$ collisions at HERA II using all high energy
+data recorded by the H1 experiment. This corresponds to a total integrated
+luminosity of 337 pb$^{-1}$. All event topologies involving isolated electrons,
+photons, muons, neutrinos and jets with high transverse momenta are
+investigated in a single analysis. Events are assigned to exclusive classes
+according to their final state. A statistical algorithm is used to search for
+deviations from the Standard Model in distributions of the scalar sum of
+transverse momenta or invariant mass of final state particles and to quantify
+their significance. A good agreement with the Standard Model prediction is
+observed in most of the event classes. The most siginificant deviation is found
+in the \mujnp channel in $e^+p$ collisions.

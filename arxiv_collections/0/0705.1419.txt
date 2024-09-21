@@ -1,0 +1,9 @@
+We study the spin-orbit splitting ($ls$-splitting) for the proton d-orbits in
+23F in the Hartree-Fock framework with the tensor force in the exchange
+channel. 23F has one more proton around the neutron-rich nucleus 22O. A recent
+experiment indicates that the ls-splitting for the proton d-orbits in 23F is
+reduced from that in 17F. Our calculation shows that the ls-splitting in 23F
+becomes smaller by about a few MeV due to the tensor force. This effect comes
+from the interaction between the valence proton and the occupied neutrons in
+the 0d5/2 orbit through the tensor force and makes the ls-splitting in 23F
+close to the experimental data.

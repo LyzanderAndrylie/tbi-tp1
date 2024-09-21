@@ -1,0 +1,22 @@
+Aims. We probe the effect of turbulent diffusion on the chemistry at the
+interface between a cold neutral medium (CNM) cloudlet and the warm neutral
+medium (WNM). Methods. We perform moving grid, multifluid, 1D, hydrodynamical
+simulations with chemistry including thermal and chemical diffusion. The
+diffusion coefficients are enhanced to account for turbulent diffusion. We
+post-process the steady-states of our simulations with a crude model of
+radiative transfer to compute line profiles. Results. Turbulent diffusion
+spreads out the transition region between the CNM and the WNM. We find that the
+CNM slightly expands and heats up: its CH and H$_2$ content decreases due to
+the lower density. The change of physical conditions and diffusive transport
+increase the H$^+$ content in the CNM which results in increased OH and H$_2$O.
+Diffusion transports some CO out of the CNM. It also brings H$_2$ into contact
+with the warm gas with enhanced production of CH$^+$, H$_3^+$, OH and H$_2$O at
+the interface. O lines are sensitive to the spread of the thermal profile in
+the intermediate region between the CNM and the WNM. Enhanced molecular content
+at the interface of the cloud broadens the molecular line profiles and helps
+exciting transitions of intermediate energy. The relative molecular yield are
+found higher for bigger clouds. Conclusions. Turbulent diffusion can be the
+source of additional molecular production and should be included in chemical
+models of the interstellar medium (ISM). It also is a good candidate for the
+interpretation of observational problems such as warm H$_2$, CH$^+$ formation
+and presence of H$_3^+$.

@@ -1,0 +1,14 @@
+We study the elasticity of random stiff fiber networks. The elastic response
+of the fibers is characterized by a central force stretching stiffness as well
+as a bending stiffness that acts transverse to the fiber contour. Previous
+studies have shown that this model displays an anomalous elastic regime where
+the stretching mode is fully frozen out and the elastic energy is completely
+dominated by the bending mode. We demonstrate by simulations and scaling
+arguments that, in contrast to the bending dominated \emph{elastic energy}, the
+equally important \emph{elastic forces} are to a large extent stretching
+dominated. By characterizing these forces on microscopic, mesoscopic and
+macroscopic scales we find two mechanisms of how forces are transmitted in the
+network. While forces smaller than a threshold $F_c$ are effectively balanced
+by a homogeneous background medium, forces larger than $F_c$ are found to be
+heterogeneously distributed throughout the sample, giving rise to highly
+localized force-chains known from granular media.

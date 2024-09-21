@@ -1,0 +1,13 @@
+Let $r>2$ and $\sigma\in(0,r-1)$ be integers. We require $t<2s$, where
+$t=2^{\sigma+1}-1$ and $s=2^{r-\sigma-1}$. Generalizing a known
+$\{K_4,T_{6,3}\}$-ultrahomogenous graph $G_3^1$, we find that a finite,
+connected, undirected, arc-transitive graph $G_r^\sigma$ exists each of whose
+edges is shared by just two maximal subgraphs, namely a clique $X_0=K_{2s}$ and
+a $t$-partite regular-Tur\'an graph $X_1=T_{st,t}$ on $s$ vertices per part.
+Each copy $Y$ of $X_i$ ($i=0,1$) in $G_r^\sigma$ shares each edge with just one
+copy of $X_{1-i}$ and all such copies of $X_{1-i}$ are pairwise distinct.
+Moreover, $G_r^\sigma$ is an edge-disjoint union of copies of $X_i$, for
+$i=0,1$. We prove that $G_r^\sigma$ is $\{K_{2s},T_{st,t}\}$-homogeneous if
+$t<2s$, and just $\{T_{st,t}\}$-homogeneous otherwise, meaning that there is an
+automorphism of $G_r^\sigma$ between any two such copies of $X_i$ relating two
+preselected arcs.

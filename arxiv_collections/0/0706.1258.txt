@@ -1,0 +1,13 @@
+Defining a spin connection is necessary for formulating Dirac's bispinor
+equation in a curved space-time. Hestenes has shown that a bispinor field is
+equivalent to an orthonormal tetrad of vector fields together with a complex
+scalar field. In this paper, we show that using Hestenes' tetrad for the spin
+connection in a Riemannian space-time leads to a Yang-Mills formulation of the
+Dirac Lagrangian in which the bispinor field is mapped to a set of Yang-Mills
+gauge potentials and a complex scalar field. This result was previously proved
+for a Minkowski space-time using Fierz identities. As an application we derive
+several different non-Riemannian spin connections found in the literature
+directly from an arbitrary linear connection acting on Hestenes' tetrad and
+scalar fields. We also derive spin connections for which Dirac's bispinor
+equation is form invariant. Previous work has not considered form invariance of
+the Dirac equation as a criterion for defining a general spin connection.

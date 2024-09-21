@@ -1,0 +1,12 @@
+We describe an occupation-number-like picture of Fractional Quantum Hall
+(FQH) states in terms of polynomial wavefunctions characterized by a dominant
+occupation-number configuration. The bosonic variants of single-component
+abelian and non-abelian FQH states are modeled by Jacks (Jack symmetric
+polynomials), characterized by dominant occupation-number configurations
+satisfying a generalized Pauli principle. In a series of well-known Quantum
+Hall states, including the Laughlin, Read-Moore, and Read-Rezayi, the Jack
+polynomials naturally implement a ``squeezing rule'' that constrains allowed
+configurations to be restricted to those obtained by squeezing the dominant
+configuration. The Jacks describing uniform FQH states satisfy a highest-weight
+condition, and a clustering condition which can be generalized to describe
+quasiparticle states.

@@ -1,0 +1,14 @@
+Quantum systems with discrete symmetries can usually be desymmetrized, but
+this strategy fails when considering transport in open systems with a symmetry
+that maps different openings onto each other. We investigate the joint
+probability density of transmission eigenvalues for such systems in
+random-matrix theory. In the orthogonal symmetry class we show that the
+eigenvalue statistics manifests level repulsion between only every second
+transmission eigenvalue. This finds its natural statistical interpretation as a
+staggeredsuperposition of two eigenvalue sequences. For a large number of
+channels, the statistics for a system with a lead-transposing symmetry
+approaches that of a superposition of two uncorrelated sets of eigenvalues as
+in systems with a lead-preserving symmetry (which can be desymmetrized). These
+predictions are confirmed by numerical computations of the
+transmission-eigenvalue spacing distribution for quantum billiards and for the
+open kicked rotator.

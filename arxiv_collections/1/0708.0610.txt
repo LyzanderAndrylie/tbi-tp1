@@ -1,0 +1,14 @@
+We study the three-body problem for three atomic fermions, in the same spin
+state, experiencing a resonant interaction in the p-wave channel via a Feshbach
+resonance represented by a two-channel model. The rate of inelastic processes
+due to recombination to deeply bound dimers is then estimated from the
+three-body solution using a simple prescription. We obtain numerical and
+analytical predictions for most of the experimentally relevant quantities that
+can be extracted from the three-body solution: the existence of weakly bound
+trimers and their lifetime, the low-energy elastic and inelastic scattering
+properties of an atom on a weakly bound dimer (including the atom-dimer
+scattering length and scattering volume), and the recombination rates for three
+colliding atoms towards weakly bound and deeply bound dimers. The effect of
+"background" non-resonant interactions in the open channel of the two-channel
+model is also calculated and allows to determine which three-body quantities
+are `universal' and which on the contrary depend on the details of the model.

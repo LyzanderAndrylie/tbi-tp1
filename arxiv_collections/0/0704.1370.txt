@@ -1,0 +1,9 @@
+The time dependent entropy (or Leipnik's entropy) of harmonic and damped
+harmonic oscillators is extensively investigated by using time dependent wave
+function obtained by the Feynman path integral method. Our results for simple
+harmonic oscillator are in agrement with the literature. However, the joint
+entropy of damped harmonic oscillator shows remarkable discontinuity with time
+for certain values of damping factor. According to the results, the envelop of
+the joint entropy curve increases with time monotonically. This results is the
+general properties of the envelop of the joint entropy curve for quantum
+systems.

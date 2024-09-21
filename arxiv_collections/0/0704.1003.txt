@@ -1,0 +1,4 @@
+Two ideas for the choice of an adequate set of coarse variables allowing
+approximate autonomous dynamics for practical applications are presented. The
+coarse variables are meant to represent averaged behavior of a fine-scale
+autonomous dynamics.

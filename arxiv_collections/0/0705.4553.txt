@@ -1,0 +1,6 @@
+Let $(R,\fr m)$ be a Noetherian local ring, $I$ an ideal of $R$ and $M, N$
+two finitely generated $R$-modules. The first result of this paper is to prove
+a vanishing theorem for generalized local cohomology modules which says that
+$H^j_I(M,N)=0$ for all $j>\dim(R)$, provided $M$ is of finite projective
+dimension. Next, we study and give characterizations for the least and the last
+integer $r$ such that $\Supp(H^r_I(M,N))$ is infinite.

@@ -1,0 +1,11 @@
+The understanding of the instrumental response of the GLAST Burst Monitor BGO
+detectors at energies above the energy range which is accessible by common
+laboratory radiation sources (< 4.43 MeV), is important, especially for the
+later cross-calibration with the LAT response in the overlap region between ~
+20 MeV to 30 MeV. In November 2006 the high-energy calibration of the GBM-BGO
+spare detector was performed at the small Van-de-Graaff accelerator at SLAC.
+High-energy gamma-rays from excited 8Be* (14.6 MeV and 17.5 MeV) and 16O* (6.1
+MeV) were generated through (p,gamma)-reactions by irradiating a LiF-target.
+For the calibration at lower energies radioactive sources were used. The
+results, including spectra, the energy/channel-relation and the dependence of
+energy resolution are presented.

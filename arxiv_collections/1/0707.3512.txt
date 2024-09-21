@@ -1,0 +1,4 @@
+I sketch how the set of pure quantum states forms a phase space, and then
+point out a curiousity concerning maximally entangled pure states: they form a
+minimal Lagrangian submanifold of the set of all pure states. I suggest that
+this curiousity should have an interesting physical interpretation.

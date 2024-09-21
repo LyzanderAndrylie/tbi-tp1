@@ -1,0 +1,12 @@
+In this paper we present our results of a comprehensive spectroscopicanalysis
+of WASP-1, the host star to the exoplanet WASP-1b. We derive T_eff = 6110 +/-
+45 K, log g = 4.28 +/- 0.15, and [M/H] = 0.23 +/- 0.08, and also a high
+abundance of lithium, log n(Li) = 2.91 +/- 0.05. These parameters suggests an
+age for the system of 1-3 Gyr and a stellar mass of 1.25-1.35 M_sun. This means
+that WASP-1 has properties very similar to those of HD 149026, the host star
+for the highest density planet yet detected. Moreover, their planets orbit at
+comparable distances and receive comparable irradiating fluxes from their host
+stars. However, despite the similarity of WASP-1 with HD 149026, their planets
+have strongly different densities. This suggests that gas-giant planet density
+is not a simple function of host-star metallicity or of radiation environment
+at ages of ~2 Gyr.

@@ -1,0 +1,11 @@
+We have analyzed and designed an organic high speed digital optical switch
+(DOS) based on transverse electro-optic effect. In analysis section, we
+proposed a quantum photonic model (QPM) to explain linear electro-optic (EO)
+effect. This model interpret this effect by photon-electron interaction in
+attosecond regime. We simulate applied electric field on molecule and crystal
+by Monte-Carlo method in time domain. We show how a waveguide response to an
+optical signal with different wavelengths when a transverse electric field
+applied to the waveguide. In design section, we configure conceptually a 2 * 2
+EO switch with full adiabatic coupler. In this DOS, we use a rib waveguides
+that its core has been constructed from NPP crystal. This switch is smaller at
+least to one-half of similar DOS in dimensions.

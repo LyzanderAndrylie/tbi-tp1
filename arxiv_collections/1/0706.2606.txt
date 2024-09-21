@@ -1,0 +1,21 @@
+Randomness extraction is of fundamental importance for information-theoretic
+cryptography. It allows to transform a raw key about which an attacker has some
+limited knowledge into a fully secure random key, on which the attacker has
+essentially no information. Up to date, only very few randomness-extraction
+techniques are known to work against an attacker holding quantum information on
+the raw key. This is very much in contrast to the classical (non-quantum)
+setting, which is much better understood and for which a vast amount of
+different techniques are known and proven to work.
+  We prove a new randomness-extraction technique, which is known to work in the
+classical setting, to be secure against a quantum attacker as well. Randomness
+extraction is done by XOR'ing a so-called delta-biased mask to the raw key. Our
+result allows to extend the classical applications of this extractor to the
+quantum setting. We discuss the following two applications. We show how to
+encrypt a long message with a short key, information-theoretically secure
+against a quantum attacker, provided that the attacker has enough quantum
+uncertainty on the message. This generalizes the concept of entropically-secure
+encryption to the case of a quantum attacker. As second application, we show
+how to do error-correction without leaking partial information to a quantum
+attacker. Such a technique is useful in settings where the raw key may contain
+errors, since standard error-correction techniques may provide the attacker
+with information on, say, a secret key that was used to obtain the raw key.

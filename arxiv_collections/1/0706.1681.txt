@@ -1,0 +1,7 @@
+Electric polarization loops are measured at room temperature on highly pure
+BiFeO3 single crystals synthesized by a flux growth method. Because the
+crystals have a high electrical resistivity, the resulting low leakage currents
+allow us to measure a large spontaneous polarization reaching 100
+microC.cm^{-2}, a value never reported in the bulk. During electric cycling,
+the slow degradation of the material leads to an evolution of the hysteresis
+curves eventually preventing full saturation of the crystals.

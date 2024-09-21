@@ -1,0 +1,11 @@
+Dielectric micro-cavities are widely used as laser resonators and
+characterizations of their spectra are of interest for various applications. We
+experimentally investigate micro-lasers of simple shapes (Fabry-Perot, square,
+pentagon, and disk). Their lasing spectra consist mainly of almost equidistant
+peaks and the distance between peaks reveals the length of a quantized periodic
+orbit. To measure this length with a good precision, it is necessary to take
+into account different sources of refractive index dispersion. Our experimental
+and numerical results agree with the superscar model describing the formation
+of long-lived states in polygonal cavities. The limitations of the
+two-dimensional approximation are briefly discussed in connection with
+micro-disks.

@@ -1,0 +1,6 @@
+The contribution of gg->H+jets production process to the vector boson fusion
+production of the Higgs boson, VV->H, at LHC was evaluated with the ALPGEN
+generator and the PYTHIA shower Monte Carlo including a jet-parton matching
+procedure. After the experimental like event selections applied at PYTHIA
+particle level, the contribution was found to be 4-5 % for a Higgs boson mass
+of 120 GeV.

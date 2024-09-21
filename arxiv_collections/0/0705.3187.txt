@@ -1,0 +1,12 @@
+Guided by old results on simple mode-coupling models displaying glass-glass
+transitions, we demonstrate, through a crude analysis of the solution with one
+step of replica symmetry breaking (1RSB) derived by Crisanti and Leuzzi for the
+spherical $s+p$ mean-field spin glass [Phys. Rev. B 73, 014412 (2006)], that
+the phase behavior of these systems is not yet fully understood when $s$ and
+$p$ are well separated. First, there seems to be a possibility of glass-glass
+transition scenarios in these systems. Second, we find clear indications that
+the 1RSB solution cannot be correct in the full glassy phase. Therefore, while
+the proposed analysis is clearly naive and probably inexact, it definitely
+calls for a reassessment of the physics of these systems, with the promise of
+potentially interesting new developments in the theory of disordered and
+complex systems.

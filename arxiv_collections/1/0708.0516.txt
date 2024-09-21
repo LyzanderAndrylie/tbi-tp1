@@ -1,0 +1,14 @@
+In the present paper we explicitly construct deformation quantizations of
+certain Poisson structures on E^*, where E -> M is a Lie algebroid. Although
+the considered Poisson structures in general are far from being regular or even
+symplectic, our construction gets along without Kontsevich's formality theorem
+but is based on a generalized Fedosov construction. As the whole construction
+merely uses geometric structures of E we also succeed in determining the
+dependence of the resulting star products on these data in finding appropriate
+equivalence transformations between them. Finally, the concreteness of the
+construction allows to obtain explicit formulas even for a wide class of
+derivations and self-equivalences of the products. Moreover, we can show that
+some of our products are in direct relation to the universal enveloping algebra
+associated to the Lie algebroid. Finally, we show that for a certain class of
+star products on E^* the integration with respect to a density with vanishing
+modular vector field defines a trace functional.

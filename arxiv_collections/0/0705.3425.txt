@@ -1,0 +1,6 @@
+We prove that the cohomology groups of a definably compact set over an
+o-minimal expansion of a group are finitely generated and invariant under
+elementary extensions and expansions of the language. We also study the
+cohomology of the intersection of a definable decreas-ing family of definably
+compact sets, under the additional assumption that the o-minimal structure
+expands a field.

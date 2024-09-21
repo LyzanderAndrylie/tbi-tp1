@@ -1,0 +1,19 @@
+We compare waveforms obtained by numerically evolving nonspinning binary
+black holes to post-Newtonian (PN) template families currently used in the
+search for gravitational waves by ground-based detectors. We find that the
+time-domain 3.5PN template family, which includes the inspiral phase, has
+fitting factors (FFs) >= 0.96 for binary systems with total mass M = 10 ~ 20
+Msun. The time-domain 3.5PN effective-one-body template family, which includes
+the inspiral, merger and ring-down phases, gives satisfactory signal-matching
+performance with FFs >= 0.96 for binary systems with total mass M = 10 ~ 120
+Msun. If we introduce a cutoff frequency properly adjusted to the final
+black-hole ring-down frequency, we find that the frequency-domain
+stationary-phase-approximated template family at 3.5PN order has FFs >= 0.96
+for binary systems with total mass M = 10 ~ 20 Msun. However, to obtain high
+matching performances for larger binary masses, we need to either extend this
+family to unphysical regions of the parameter space or introduce a 4PN order
+coefficient in the frequency-domain GW phase. Finally, we find that the
+phenomenological Buonanno-Chen-Vallisneri family has FFs >= 0.97 with total
+mass M=10 ~ 120Msun. The main analyses use the noise spectral-density of LIGO,
+but several tests are extended to VIRGO and advanced LIGO noise-spectral
+densities.

@@ -1,0 +1,13 @@
+Most particle induced X-ray emission (PIXE) data analysis codes are not
+focused on handling multilayered samples. We have developed an open-source
+library called "LibCPIXE", for PIXE data analysis. It is written in standard C
+and implements functions for simulating X-ray yields of PIXE spectra taken from
+arbitrary samples, including multilayered targets. The library is designed to
+be fast, portable, modular and scalable, as well as to facilitate its
+incorporation into any existing program. In order to demonstrate the
+capabilities of the library, a program called CPIXE was developed and used to
+analyze various real samples involving both bulk and layered samples. Just as
+the library, the CPIXE source code is freely available under the General Public
+License. We demonstrate that it runs both under GNU/Linux systems as well as
+under MS Windows. There is in principle no limitation to port it to other
+platforms.

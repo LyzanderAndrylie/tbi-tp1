@@ -1,0 +1,7 @@
+We show that the Lorentz shear modulus -- one of the three elastic moduli of
+a homogeneous electron gas in a magnetic field -- can be calculated exactly in
+the limit of high magnetic field (i.e. in the lowest Landau level). Its value
+is $\pm \hbar n/4$, where $n$ is the two-dimensional electron density and the
+sign is determined by the orientation of the magnetic field. We use this result
+to refine our previous calculations of the dispersion of the collective modes
+of fractional quantum Hall liquids.

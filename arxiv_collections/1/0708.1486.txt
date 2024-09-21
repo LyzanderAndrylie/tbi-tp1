@@ -1,0 +1,9 @@
+The electronic spectrum of metallic finite-size single-wall carbon nanotubes
+at low energies is derived. It is based on a tight-binding description for the
+interacting p_{z} electrons. Not only the forward scattering parts of the
+Coulomb interaction, which are diagonalized by bosonization, are considered,
+but also all other processes becoming relevant for small diameter tubes. As a
+consequence of the substructure of the underlying lattice, a spin 1 triplet is
+found as ground state if the exchange splitting is larger than the branch
+mismatch, a spin 0 singlet otherwise. Moreover the excitation spectrum is
+calculated.

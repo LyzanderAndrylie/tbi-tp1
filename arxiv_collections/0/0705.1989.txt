@@ -1,0 +1,10 @@
+GZKFast is a low-cost astrophysical event generator designed to simulate
+photohadron processes resulting from ultra high energy cosmic ray fluxes.
+GZKFast is an easy to use event generator which specifically addresses issues
+relevant to cosmogenic neutrinos and the ultra high energy (UHE) neutrino
+spectrum. GZKFast injects UHE particles into a simulated cosmic microwave
+background (CMB) using a Monte Carlo approach. The interaction of each particle
+is simulated and the resulting detectable events are spooled to log files.
+Although GZKFast uses a simplified particle physics model and limited
+accelerator data it generates event distributions which are comparable with
+more thorough simulations such as the event generator SOPHIA

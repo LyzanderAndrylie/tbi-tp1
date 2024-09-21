@@ -1,0 +1,14 @@
+We introduce a model of random interlacements made of a countable collection
+of doubly infinite paths on Z^d, d bigger or equal to 3. A non-negative
+parameter u measures how many trajectories enter the picture. This model
+describes in the large N limit the microscopic structure in the bulk, which
+arises when considering the disconnection time of a discrete cylinder with base
+a d-1-dimensional discrete torus of side-length N, or the set of points visited
+by simple random walk on the d-dimensional discrete torus of side-length N by
+times of order uN^d. We study the percolative properties of the vacant set left
+by the interlacement at level u, which is an infinite, connected, translation
+invariant random subset of Z^d. We introduce a critical value such that the
+vacant set percolates for u below the critical value, and does not percolate
+for u above the critical value. Our main results show that the critical value
+is finite when d is bigger or equal to 3, and strictly positive when d is
+bigger or equal to 7.

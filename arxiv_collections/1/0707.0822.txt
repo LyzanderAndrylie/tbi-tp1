@@ -1,0 +1,9 @@
+We prove that the mapping torus group $\FN \rtimes_{\alpha} \Z$ of any
+automorphism $\alpha$ of a free group $\FN$ of finite rank $n \geq 2$ is weakly
+hyperbolic relative to the canonical (up to conjugation) family $\mathcal
+H(\alpha)$ of subgroups of $\FN$ which consists of (and contains
+representatives of all) conjugacy classes that grow polynomially under
+iteration of $\alpha$. Furthermore, we show that $\FN \rtimes_{\alpha} \Z$ is
+strongly hyperbolic relative to the mapping torus of the family $\mathcal
+H(\alpha)$. As an application, we use a result of Drutu-Sapir to deduce that
+$\FN \rtimes_{\alpha} \Z$ has Rapic Decay.

@@ -1,0 +1,6 @@
+In this work, we present a general procedure, which is able to generate new
+exact solitonic models in 1+1 dimensions, from a known one, consisting of two
+coupled scalar fields. An interesting consequence of the method, is that of the
+appearing of nontrivial extensions, where the deformed systems presents other
+BPS solitons than that appearing in the original model. Finally we take a
+particular example, in order to check the above mentioned features.

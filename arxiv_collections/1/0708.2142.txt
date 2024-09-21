@@ -1,0 +1,14 @@
+Entanglement-assisted quantum error-correcting codes (EAQECCs) make use of
+pre-existing entanglement between the sender and receiver to boost the rate of
+transmission. It is possible to construct an EAQECC from any classical linear
+code, unlike standard QECCs which can only be constructed from dual-containing
+codes. Operator quantum error-correcting codes (OQECCs) allow certain errors to
+be corrected (or prevented) passively, reducing the complexity of the
+correction procedure. We combine these two extensions of standard quantum error
+correction into a unified entanglement-assisted quantum error correction
+formalism. This new scheme, which we call entanglement-assisted operator
+quantum error correction (EAOQEC), is the most general and powerful quantum
+error-correcting technique known, retaining the advantages of both
+entanglement-assistance and passive correction. We present the formalism, show
+the considerable freedom in constructing EAOQECCs from classical codes, and
+demonstrate the construction with examples.

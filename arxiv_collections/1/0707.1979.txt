@@ -1,0 +1,13 @@
+Several models of a strongly interacting Bose gas in an optical lattice are
+studied within the functional-integral approach. The one-dimensional Bose gas
+is briefly discussed. Then the Bose-Einstein condensate and the Mott insulator
+of a three-dimensional Bose gas are described in mean-field approximation, and
+the corresponding phase diagrams are evaluated. Other characteristic
+quantities, like the spectrum of quasiparticle excitations and the static
+structure factor, are obtained from Gaussian fluctuations around the mean-field
+solutions. We discuss the role of quantum and thermal fluctuations, and
+determine the behavior of physical quantities in terms of density and
+temperature of the Bose gas. In particular, we study the dilute limit, where
+the mean-field equation becomes the Gross-Pitaevskii equation. This allows us
+to extend the Gross-Pitaevskii equation to the dense regime by introducing
+renormalized parameters in the latter.

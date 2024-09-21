@@ -1,0 +1,14 @@
+The concepts of probability, statistics and stochastic theory are being
+successfully used in structural engineering. Markov Chain modelling is a simple
+stochastic process model that has found its application in both describing
+stochastic evolution of system and in system reliability estimation. The recent
+developments in Markov Chain Monte Carlo and the possible integration of
+Bayesian theory within Markov Chain theory have enhanced its application
+possibilities. However, the application possibility can be furthered to range
+over wider scales of application (perhaps from nano- to macro-) by considering
+the developments in Physics (in particular Quantum Physics). This paper tries
+to present the results of quantum physics that would help in interpretation of
+transition probability matrix. However, care has to be taken in the choice of
+densities in computing the transition probability matrix. The paper is based on
+available literature, and the aim is only to make an attempt to show how Markov
+Chain can be used to model systems at various scales.

@@ -1,0 +1,16 @@
+This paper compares two neural network input selection schemes, the Principal
+Component Analysis (PCA) and the Automatic Relevance Determination (ARD) based
+on Mac-Kay's evidence framework. The PCA takes all the input data and projects
+it onto a lower dimension space, thereby reduc-ing the dimension of the input
+space. This input reduction method often results with parameters that have
+significant influence on the dynamics of the data being diluted by those that
+do not influence the dynamics of the data. The ARD selects the most relevant
+input parameters and discards those that do not contribute significantly to the
+dynamics of the data being modelled. The ARD sometimes results with important
+input parameters being discarded thereby compromising the dynamics of the data.
+The PCA and ARD methods are implemented together with a Multi-Layer-Perceptron
+(MLP) network for fault identification in structures and the performance of the
+two methods is as-sessed. It is observed that ARD and PCA give similar
+accu-racy levels when used as input-selection schemes. There-fore, the choice
+of input-selection scheme is dependent on the nature of the data being
+processed.

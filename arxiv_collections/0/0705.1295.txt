@@ -1,0 +1,7 @@
+We demonstrate that the time-dependent Krieger-Li-Iafrate approximation in
+combination with the exchange-only functional violates the `Zero-Force
+Theorem'. By analyzing the time-dependent dipole moment of Na5 and Na9+, we
+furthermore show that this can lead to an unphysical self-excitation of the
+system depending on the system properties and the excitation strength.
+Analytical aspects, especially the connection between the `Zero-Force Theorem'
+and the `Generalized-Translation Invariance' of the potential, are discussed.

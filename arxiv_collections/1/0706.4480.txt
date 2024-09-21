@@ -1,0 +1,8 @@
+A transverse magnetic field is used to scan the diagonal and off-diagonal
+susceptibility of the uniaxial quantum magnet,
+$\text{LiHo}_{0.045}\text{Y}_{0.955}\text{F}_4$. Clusters of strongly-coupled
+spins act as the primary source for the response functions, which result from a
+field-induced quantum projection of the system into a classically forbidden
+(meaning non-Ising) regime. Calculations based on spin pairs reproduce only
+some features of the data and fail to predict the measured off-diagonal
+response, providing evidence of a multi-spin collective state.

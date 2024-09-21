@@ -1,0 +1,5 @@
+We treat a relative version of the main theorem in my previous paper: A
+transcendental approach to Koll\'ar's injectivity theorem. More explicitly, we
+give a curvature condition that implies Koll\'ar type cohomology injectivity
+theorems in the relative setting. To carry out this generalization, we use the
+Ohsawa-Takegoshi twisted version of Nakano's identity.

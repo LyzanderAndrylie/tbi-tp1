@@ -1,0 +1,9 @@
+Three-body recombination, an important collisional process in plasmas,
+increases dramatically at low electron temperatures, with an accepted scaling
+of T_e^-9/2. We measure three-body recombination in an ultracold neutral xenon
+plasma by detecting recombination-created Rydberg atoms using a
+microwave-ionization technique. With the accepted theory (expected to be
+applicable for weakly-coupled plasmas) and our measured rates we extract the
+plasma temperatures, which are in reasonable agreement with previous
+measurements early in the plasma lifetime. The resulting electron temperatures
+indicate that the plasma continues to cool to temperatures below 1 K.

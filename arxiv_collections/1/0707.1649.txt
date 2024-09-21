@@ -1,0 +1,16 @@
+We study a ultra-cold and dilute superfluid Bose-Fermi mixture confined in a
+strictly one-dimensional atomic waveguide by using a set of coupled nonlinear
+mean-field equations obtained from the Lieb-Liniger energy density for bosons
+and the Gaudin-Yang energy density for fermions. We consider a finite
+Bose-Fermi inter-atomic strength g_{bf} and both periodic and open boundary
+conditions. We find that with periodic boundary conditions, i.e. in a quasi-1D
+ring, a uniform Bose-Fermi mixture is stable only with a large fermionic
+density. We predict that at small fermionic densities the ground state of the
+system displays demixing if g_{bf}>0 and may become a localized Bose-Fermi
+bright soliton for g_{bf}<0. Finally, we show, using variational and numerical
+solution of the mean-field equations, that with open boundary conditions, i.e.
+in a quasi-1D cylinder, the Bose-Fermi bright soliton is the unique ground
+state of the system with a finite number of particles, which could exhibit a
+partial mixing-demixing transition. In this case the bright solitons are
+demonstrated to be dynamically stable. The experimental realization of these
+Bose-Fermi bright solitons seems possible with present setups.

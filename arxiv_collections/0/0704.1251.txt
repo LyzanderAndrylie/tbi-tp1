@@ -1,0 +1,15 @@
+We use first-principles density functional theory-based calculations to
+investigate structural instabilities in the high symmetry cubic perovskite
+structure of rare-earth (R $=$ La, Y, Lu) and Bi-based biferroic chromites,
+focusing on $\Gamma$ and $R$ point phonons of states with para-, ferro-, and
+antiferromagnetic ordering. We find that (a) the structure with G-type
+antiferromagnetic ordering is most stable, (b) the most dominant structural
+instabilities in these oxides are the ones associated with rotations of oxygen
+octahedra, and (c) structural instabilities involving changes in Cr-O-Cr bond
+angle depend sensitively on the changes in magnetic ordering. The dependence of
+structural instabilities on magnetic ordering can be understood in terms of how
+super-exchange interactions depend on the Cr-O-Cr bond angles and Cr-O bond
+lengths. We demonstrate how adequate buckling of Cr-O-Cr chains can favour
+ferromagnetism. Born effective charges (BEC) calculated using the Berry phase
+expression are found to be anomalously large for the A-cations, indicating
+their chemical relevance to ferroelectric distortions.

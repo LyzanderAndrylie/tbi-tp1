@@ -1,0 +1,12 @@
+We consider backward stochastic differential equations (BSDE) with nonlinear
+generators typically of quadratic growth in the control variable. A measure
+solution of such a BSDE will be understood as a probability measure under which
+the generator is seen as vanishing, so that the classical solution can be
+reconstructed by a combination of the operations of conditioning and using
+martingale representations. In case the terminal condition is bounded and the
+generator fulfills the usual continuity and boundedness conditions, we show
+that measure solutions with equivalent measures just reinterpret classical
+ones. In case of terminal conditions that have only exponentially bounded
+moments, we discuss a series of examples which show that in case of
+non-uniqueness classical solutions that fail to be measure solutions can
+coexists with different measure solutions.

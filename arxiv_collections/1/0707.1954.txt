@@ -1,0 +1,10 @@
+Wireless sensor networks are often used for environmental monitoring
+applications. In this context sampling and reconstruction of a physical field
+is one of the most important problems to solve. We focus on a bandlimited field
+and find under which conditions on the network topology the reconstruction of
+the field is successful, with a given probability. We review irregular sampling
+theory, and analyze the problem using random matrix theory. We show that even a
+very irregular spatial distribution of sensors may lead to a successful signal
+reconstruction, provided that the number of collected samples is large enough
+with respect to the field bandwidth. Furthermore, we give the basis to
+analytically determine the probability of successful field reconstruction.

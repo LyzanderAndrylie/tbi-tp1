@@ -1,0 +1,4 @@
+This writeup highlights the infrared unsafety of the "midpoint" cone
+jet-algorithm and provides a brief overview of why this is a serious issue. It
+then shows how one can build a safe (seedless) cone algorithm and discusses the
+potential impact on measurements.

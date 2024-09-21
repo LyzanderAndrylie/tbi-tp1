@@ -1,0 +1,22 @@
+Utilizing an eigenfunction decomposition, we study the growth and spectra of
+energy in the vortical and wave modes of a 3D rotating stratified fluid as a
+function of $\epsilon = f/N$. Working in regimes characterized by moderate
+Burger numbers, i.e. $Bu = 1/\epsilon^2 < 1$ or $Bu \ge 1$, our results
+indicate profound change in the character of vortical and wave mode
+interactions with respect to $Bu = 1$. As with the reference state of
+$\epsilon=1$, for $\epsilon < 1$ the wave mode energy saturates quite quickly
+and the ensuing forward cascade continues to act as an efficient means of
+dissipating ageostrophic energy. Further, these saturated spectra steepen as
+$\epsilon$ decreases: we see a shift from $k^{-1}$ to $k^{-5/3}$ scaling for
+$k_f < k < k_d$ (where $k_f$ and $k_d$ are the forcing and dissipation scales,
+respectively). On the other hand, when $\epsilon > 1$ the wave mode energy
+never saturates and comes to dominate the total energy in the system. In fact,
+in a sense the wave modes behave in an asymmetric manner about $\epsilon = 1$.
+With regard to the vortical modes, for $\epsilon \le 1$, the signatures of 3D
+quasigeostrophy are clearly evident. Specifically, we see a $k^{-3}$ scaling
+for $k_f < k < k_d$ and, in accord with an inverse transfer of energy, the
+vortical mode energy never saturates but rather increases for all $k < k_f$. In
+contrast, for $\epsilon > 1$ and increasing, the vortical modes contain a
+progressively smaller fraction of the total energy indicating that the 3D
+quasigeostrophic subsystem plays an energetically smaller role in the overall
+dynamics.

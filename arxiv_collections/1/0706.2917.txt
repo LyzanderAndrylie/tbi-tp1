@@ -1,0 +1,5 @@
+We derive a rigorous scaling law for minimizers in a natural version of the
+regularized Cross-Newell model for pattern formation far from threshold. These
+energy-minimizing solutions support defects having the same character as what
+is seen in experimental studies of the corresponding physical systems and in
+numerical simulations of the microscopic equations that describe these systems.

@@ -1,0 +1,7 @@
+We calculate the exchange coupling for a double dot system using a novel,
+numerically exact yet efficient technique, based on finite-element methods.
+Specifically, we evaluate the exchange coupling both for a quasi-one and a
+two-dimensional system, also including an applied magnetic field. Our numerical
+results provide a stringent test for standard approximation schemes (e.g.,
+Heitler-London, Hund-Mulliken, Hubbard), and they show that the standard
+methods do not have reliable predictive power for real quantum-dot systems.

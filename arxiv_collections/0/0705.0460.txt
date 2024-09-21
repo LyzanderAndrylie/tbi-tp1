@@ -1,0 +1,20 @@
+The magnetoelectric behavior of BiFeO$_3$ has been explored on the basis of
+accurate density functional calculations. The structural, electronic, magnetic,
+and ferroelectric properties of BiFeO$_3$ are predicted correctly without
+including strong correlation effect in the calculation. Moreover, the
+experimentally-observed elongation of cubic perovskite-like lattice along the
+[111] direction is correctly reproduced. At high pressure we predicted a
+pressure-induced structural transition and the total energy calculations at
+expanded lattice show two lower energy ferroelectric phases, closer in energy
+to the ground state phase. Band-structure calculations show that BiFeO$_3$ will
+be an insulator in A- and G-type antiferromagnetic phases and a metal in other
+magnetic configurations. Chemical bonding in BiFeO$_3$ has been analyzed using
+various tools and electron localization function analysis shows that
+stereochemically active lone-pair electrons at the Bi sites are responsible for
+displacements of the Bi atoms from the centro-symmetric to the
+noncentrosymmetric structure and hence the ferroelectricity. A large
+ferroelectric polarization (88.7 $\mu$C/cm$^{2}$) is predicted in accordance
+with recent experimental findings. The net polarization is found to mainly ($>$
+98%) originate from Bi atoms. Moreover the large scatter in experimentally
+reported polarization values is due to the large anisotropy in the spontaneous
+polarization.

@@ -1,0 +1,14 @@
+We investigate both continuous (second-order) and discontinuous (first-order)
+transitions to macroscopic synchronization within a single class of discrete,
+stochastic (globally) phase-coupled oscillators. We provide analytical and
+numerical evidence that the continuity of the transition depends on the
+coupling coefficients and, in some nonuniform populations, on the degree of
+quenched disorder. Hence, in a relatively simple setting this class of models
+exhibits the qualitative behaviors characteristic of a variety of considerably
+more complicated models. In addition, we study the microscopic basis of
+synchronization above threshold and detail the counterintuitive subtleties
+relating measurements of time averaged frequencies and mean field oscillations.
+Most notably, we observe a state of suprathreshold partial synchronization in
+which time-averaged frequency measurements from individual oscillators do not
+correspond to the frequency of macroscopic oscillations observed in the
+population.

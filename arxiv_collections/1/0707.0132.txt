@@ -1,0 +1,6 @@
+We study serial coalgebras by means of their valued Gabriel quivers. In
+particular, Hom-computable and representation-directed coalgebras are
+characterized. The Auslander-Reiten quiver of a serial coalgebra is described.
+Finally, a version of Eisenbud-Griffith theorem is proved, namely, every
+subcoalgebra of a prime, hereditary and strictly quasi-finite coalgebra is
+serial.

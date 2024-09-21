@@ -1,0 +1,24 @@
+In the density functional (DF) theory of Kohn and Sham, the kinetic energy of
+the ground state of a system of noninteracting electrons in a general external
+field is calculated using a set of orbitals. Orbital free methods attempt to
+calculate this directly from the electron density by approximating the
+universal but unknown kinetic energy density functional. However simple local
+approximations are inaccurate and it has proved very difficult to devise
+generally accurate nonlocal approximations. We focus instead on the kinetic
+potential, the functional derivative of the kinetic energy DF, which appears in
+the Euler equation for the electron density. We argue that the kinetic
+potential is more local and more amenable to simple physically motivated
+approximations in many relevant cases, and describe two pathways by which the
+value of the kinetic energy can be efficiently calculated. We propose two
+nonlocal orbital free kinetic potentials that reduce to known exact forms for
+both slowly varying and rapidly varying perturbations and also reproduce exact
+results for the linear response of the density of the homogeneous system to
+small perturbations. A simple and systematic approach for generating accurate
+and weak ab-initio local pseudopotentials which produce a smooth slowly varying
+valence component of the electron density is proposed for use in orbital free
+DF calculations of molecules and solids. The use of these local
+pseudopotentials further minimizes the possible errors from the kinetic
+potentials. Our theory yields results for the total energies and ionization
+energies of atoms, and for the shell structure in the atomic radial density
+profiles that are in very good agreement with calculations using the full
+Kohn-Sham theory.

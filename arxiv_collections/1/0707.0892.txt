@@ -1,0 +1,14 @@
+Using series expansions around the dimer limit, we show that the ground state
+of the Heisenberg Antiferromagnet on the Kagome Lattice appears to be a Valence
+Bond Crystal (VBC) with a 36-site unit cell, and an energy per site of
+$E/J=-0.433\pm0.001$. It is a honeycomb lattice of `perfect hexagons' as
+discussed by Nikolic and Senthil. The energy difference between the ground
+state and other ordered states with the maximum number of `perfect hexagons',
+such as a stripe-ordered state, is of order $0.001 J$. The energy of the
+36-site system with periodic boundary conditions is further lowered by an
+amount of $0.005\pm 0.001 J$, consistent with Exact Diagonalization. Every unit
+cell of the VBC has two singlet states whose degeneracy is not lifted to $6th$
+order in the expansion. We estimate this energy difference to be smaller than
+$0.001 J$. Two leading orders of perturbation theory find the lowest-energy
+triplet excitations to be dispersionless and confined to the `perfect
+hexagons'.

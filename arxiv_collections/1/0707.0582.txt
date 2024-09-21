@@ -1,0 +1,7 @@
+We calculate, in the continuum limit of quenched lattice QCD, the form factor
+that enters in the decay rate of the semileptonic decay B --> D l nu. Making
+use of the step scaling method (SSM), previously introduced to handle two scale
+problems in lattice QCD, and of flavour twisted boundary conditions we extract
+G(w) at finite momentum transfer and at the physical values of the heavy quark
+masses. Our results can be used in order to extract the CKM matrix element Vcb
+by the experimental decay rate without model dependent extrapolations.

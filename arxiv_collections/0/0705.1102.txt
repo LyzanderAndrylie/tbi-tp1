@@ -1,0 +1,8 @@
+We investigate the quantum Hall (QH) states near the charge neutral Dirac
+point of a high mobility graphene sample in high magnetic fields. We find that
+the QH states at filling factors $\nu=\pm1$ depend only on the perpendicular
+component of the field with respect to the graphene plane, indicating them to
+be not spin-related. A non-linear magnetic field dependence of the activation
+energy gap at filling factor $\nu=1$ suggests a many-body origin. We therefore
+propose that the $\nu=0$ and $\pm1$ states arise from the lifting of the spin
+and sub-lattice degeneracy of the $n=0$ LL, respectively.

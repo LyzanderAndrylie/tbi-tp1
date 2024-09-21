@@ -1,0 +1,14 @@
+A fully self-consistent calculation of the bosonic dynamics of the Hubbard
+model is developed within the Composite Operator Method. From one side we
+consider a basic set of fermionic composite operators (Hubbard fields) and
+calculate the retarded propagators. On the other side we consider a basic set
+of bosonic composite operators (charge, spin and pair) and calculate the causal
+propagators. The equations for the Green's functions (GF) (retarded and
+causal), studied in the polar approximation, are coupled and depend on a set of
+parameters not determined by the dynamics. First, the pair sector is
+self-consistently solved together with the fermionic one and the zero-frequency
+constants (ZFC) are calculated not assuming the ergodic value, but fixing the
+representation of the GF in such a way to maintain the constrains required by
+the algebra of the composite fields. Then, the scheme to compute the charge and
+spin sectors, ZFCs included, is given in terms of the fermionic and pair
+correlators.

@@ -1,0 +1,5 @@
+We compute the nuclear suppression factor R_AA for charged hadrons within a
+radiative energy loss picture using a hydrodynamical evolution to describe the
+soft medium inducing energy loss. A minijet + saturation picture provides
+initial conditions for LHC energies and leading order perturbative QCD (LO
+pQCD) is used to compute the parton spectrum before distortion by energy loss.

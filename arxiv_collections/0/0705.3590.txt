@@ -1,0 +1,5 @@
+An orthogonal array OA(q^{2n-1},q^{2n-2}, q,2) is constructed from the action
+of a subset of PGL(n+1,q^2) on some non--degenerate Hermitian varieties in
+PG(n,q^2). It is also shown that the rows of this orthogonal array correspond
+to some blocks of an affine design, which for q> 2 is a non--classical model of
+the affine space AG(2n-1,q).

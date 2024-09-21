@@ -1,0 +1,12 @@
+We study the photo-association of Bose-Einstein condensed atoms into
+molecules using an optical cavity field. The driven cavity field introduces a
+new dynamical degree of freedom into the photoassociation process, whose role
+in determining the stationary behavior has not previously been considered. The
+semiclassical stationary solutions for the atom and molecules as well as the
+intracavity field are found and their stability and scaling properties are
+determined in terms of experimentally controllable parameters including driving
+amplitude of the cavity and the nonlinear interactions between atoms and
+molecules. For weak cavity driving, we find a bifurcation in the atom and
+molecule number occurs that signals a transition from a stable steady state to
+nonlinear Rabi oscillations. For a strongly driven cavity, there exists
+bistability in the atom and molecule number.

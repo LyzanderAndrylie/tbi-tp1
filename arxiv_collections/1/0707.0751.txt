@@ -1,0 +1,11 @@
+In this Article we review some recent progresses in the field of
+non-equilibrium linear response theory. We show how a generalization of the
+fluctuation-dissipation theorem can be derived for Markov processes, and
+discuss the Cugliandolo-Kurchan \cite{Cugliandolo93} fluctuation dissipation
+relation for aging systems and the theorem by Franz {\it et. al.}
+\cite{Franz98} relating static and dynamic properties. We than specialize the
+subject to phase-ordering systems examining the scaling properties of the
+linear response function and how these are determined by the behavior of
+topological defects. We discuss how the connection between statics and dynamics
+can be violated in these systems at the lower critical dimension or as due to
+stochastic instability.

@@ -1,0 +1,10 @@
+This paper extends the study, initiated by Rozowsky and Thorn [1], of gauge
+fields in interaction with Dirac fields living on separated parallel 1-branes.
+In a lightcone description, replacing static point sources by 1-brane sources
+allows p^+ conservation to be maintained in their presence, which simplifies
+the lightcone quantization procedure. Here we calculate on-shell branion
+scattering amplitudes through 1 loop in lightcone gauge, and thereby resolve a
+puzzling ambiguity encountered in the off-shell calculations of [1]. We confirm
+that infrared divergences cancel in properly defined scattering probabilities.
+This work lays the groundwork for the incorporation of 1-brane sources in the
+lightcone worldsheet formalism.

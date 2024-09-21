@@ -1,0 +1,11 @@
+We consider coupled quantum two-state systems (qubits) exposed to a global
+relaxation process. The global relaxation refers to the assumption that qubits
+are coupled to the same quantum bath with approximately equal strengths,
+appropriate for long-wavelength environmental fluctuations. We show that
+interactions do not spoil the picture of Dicke's subradiant and superradiant
+states where quantum interference effects lead to striking deviations from the
+independent relaxation picture. Remarkably, the system possess a stable
+entangled state and a state decaying faster than single qubit excitations. We
+propose a scheme how these effects can be experimentally accessed in
+superconducting flux qubits and, possibly, used in constructing long-lived
+entangled states.

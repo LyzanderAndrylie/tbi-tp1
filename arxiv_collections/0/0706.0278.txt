@@ -1,0 +1,19 @@
+We report the detection of a transient X-ray source toward the Small
+Magellanic Cloud (SMC) using the X-ray Imaging Spectrometer (XIS) onboard the
+Suzaku telescope. The source was detected at the edge of the XIS image during a
+routine observation of the calibration source 1E 0102.2-7219, a supernova
+remnant in the SMC. We constrained the source position using ray-tracing
+simulations. No such transient source was found at the position in the other
+Suzaku observations nor in all the available archived images of other X-ray
+missions for the last ~28 years. The XIS spectrum can be explained by a single
+blackbody with a temperature of ~72 eV, and an interstellar extinction of
+~4.9x10^{20} H atoms cm^{-2} consistent with the value to the SMC. An
+additional absorption edge at ~0.74 keV was also confirmed, which is presumably
+due to the absorption by helium-like oxygen ions. Assuming that the source is
+at the distance of the SMC, the X-ray luminosity in the 0.2-2.0 keV band is
+~10^{37} erg s^{-1} and the radius of the source is ~10^{8} cm. The XIS light
+curve shows about a two-fold decline in X-ray flux during the 24 ks
+observation. Together with the archived data, the X-ray flux in the burst is at
+least three orders of magnitude brighter than the undetected quiescent level.
+All these properties are often seen among supersoft sources (SSSs). We conclude
+that the transient source is another example of SSS in the SMC.

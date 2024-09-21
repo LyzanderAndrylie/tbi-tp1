@@ -1,0 +1,13 @@
+We study network growth from a fixed set of initially isolated nodes placed
+at random on the surface of a sphere. The growth mechanism we use adds edges to
+the network depending on strictly local gain and cost criteria. Only nodes that
+are not too far apart on the sphere may be considered for being joined by an
+edge. Given two such nodes, the joining occurs only if the gain of doing it
+surpasses the cost. Our model is based on a multiplicative parameter lambda
+that regulates, in a function of node degrees, the maximum geodesic distance
+that is allowed between nodes for them to be considered for joining. For n
+nodes distributed uniformly on the sphere, and for lambda*sqrt(n) within limits
+that depend on cost-related parameters, we have found that our growth mechanism
+gives rise to power-law distributions of node degree that are invariant for
+constant lambda*sqrt(n). We also study connectivity- and distance-related
+properties of the networks.

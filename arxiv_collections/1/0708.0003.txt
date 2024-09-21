@@ -1,0 +1,10 @@
+In these lecture notes we will consider systems in which the motion of
+electrons is confined to one dimension (1D). In these so-called quantum wires
+electron-electron interaction effects play an important role because the
+restricted dimensions enhance the scattering between the electrons and
+completely destroy the quasi-particle picture. New density wave excitations
+appear that are described by bosonic operators. Here, we will develop this
+bosonic description, following a pedestrian approach which does not require any
+previous knowledge in field theory methods. These notes therefore serve as a
+detailed introduction into bosonization by carefully deriving the most
+fundamental formulas.

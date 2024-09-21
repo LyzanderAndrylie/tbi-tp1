@@ -1,0 +1,20 @@
+We present here a review of the fundamental topics of Hartree-Fock theory in
+Quantum Chemistry. From the molecular Hamiltonian, using and discussing the
+Born-Oppenheimer approximation, we arrive to the Hartree and Hartree-Fock
+equations for the electronic problem. Special emphasis is placed in the most
+relevant mathematical aspects of the theoretical derivation of the final
+equations, as well as in the results regarding the existence and uniqueness of
+their solutions. All Hartree-Fock versions with different spin restrictions are
+systematically extracted from the general case, thus providing a unifying
+framework. Then, the discretization of the one-electron orbitals space is
+reviewed and the Roothaan-Hall formalism introduced. This leads to a exposition
+of the basic underlying concepts related to the construction and selection of
+Gaussian basis sets, focusing in algorithmic efficiency issues. Finally, we
+close the review with a section in which the most relevant modern developments
+(specially those related to the design of linear-scaling methods) are commented
+and linked to the issues discussed. The whole work is intentionally
+introductory and rather self-contained, so that it may be useful for non
+experts that aim to use quantum chemical methods in interdisciplinary
+applications. Moreover, much material that is found scattered in the literature
+has been put together here to facilitate comprehension and to serve as a handy
+reference.

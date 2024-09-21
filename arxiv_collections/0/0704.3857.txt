@@ -1,0 +1,8 @@
+We introduce a new, highly sensitive, and simple heterodyne optical method
+for imaging individual nonfluorescent nanoclusters and nanocrystals. A 2 order
+of magnitude improvement of the signal is achieved compared to previous
+methods. This allows for the unprecedented detection of individual small
+absorptive objects such as metallic clusters (of 67 atoms) or nonluminescent
+semiconductor nanocrystals. The measured signals are in agreement with a
+calculation based on the scattering field theory from a photothermal-induced
+modulated index of refraction profile around the nanoparticle.

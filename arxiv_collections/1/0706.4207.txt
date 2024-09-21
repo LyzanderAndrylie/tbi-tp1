@@ -1,0 +1,7 @@
+In the weak measurement formalism of Y. Aharonov et al. the so-called weak
+value A_w of any observable A is generally a complex number. We derive a
+physical interpretation of its value in terms of the shift in the measurement
+pointer's mean position and mean momentum. In particular we show that the mean
+position shift contains a term jointly proportional to the imaginary part of
+the weak value and the rate at which the pointer is spreading in space as it
+enters the measurement interaction.

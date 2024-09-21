@@ -1,0 +1,7 @@
+QCD thermodynamics is studied using a model which combines Polyakov loop
+dynamics with spontaneous chiral symmetry breaking and its restoration (the
+PNJL model). The input is fixed entirely by pure-gauge lattice QCD results and
+by pion properties in vacuum. Successful comparisons with results from thermal
+lattice QCD are achieved, including extrapolations to finite quark chemical
+potential. The phase diagram and selected susceptibilities for two quark
+flavors are investigated with inclusion of diquark degrees of freedom.

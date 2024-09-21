@@ -1,0 +1,8 @@
+We investigate the effect of general time transformations on the phase
+synchronization (PS) phenomenon and the mutual information rate (MIR) between
+pairs of nodes in dynamical networks. We demonstrate two important results
+concerning the invariance of both PS and the MIR. Under time transformations PS
+can neither be introduced nor destroyed and the MIR cannot be raised from zero.
+On the other hand, for proper time transformations the timing between the
+cycles of the coupled oscillators can be largely improved. Finally, we discuss
+the relevance of our findings for communication in dynamical networks.

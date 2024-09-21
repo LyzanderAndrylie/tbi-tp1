@@ -1,0 +1,16 @@
+By a combination of asymptotic ODE estimates and numerical Evans function
+calculations, we establish stability of viscous shock solutions of the
+isentropic compressible Navier--Stokes equations with $\gamma$-law pressure (i)
+in the limit as Mach number $M$ goes to infinity, for any $\gamma\ge 1$ (proved
+analytically), and (ii) for $M\ge 2,500$, $\gamma\in [1,2.5]$ (demonstrated
+numerically). This builds on and completes earlier studies by
+Matsumura--Nishihara and Barker--Humpherys--Rudd--Zumbrun establishing
+stability for low and intermediate Mach numbers, respectively, indicating
+unconditional stability, independent of shock amplitude, of viscous shock waves
+for $\gamma$-law gas dynamics in the range $\gamma \in [1,2.5]$. Other
+$\gamma$-values may be treated similarly, but have not been checked
+numerically. The main idea is to establish convergence of the Evans function in
+the high-Mach number limit to that of a pressureless, or ``infinitely
+compressible'', gas with additional upstream boundary condition determined by a
+boundary-layer analysis. Recall that low-Mach number behavior is
+incompressible.

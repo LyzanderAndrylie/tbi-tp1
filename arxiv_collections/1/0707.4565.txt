@@ -1,0 +1,14 @@
+We consider the two-variable interlace polynomial introduced by Arratia,
+Bollobas and Sorkin (2004). We develop graph transformations which allow us to
+derive point-to-point reductions for the interlace polynomial. Exploiting these
+reductions we obtain new results concerning the computational complexity of
+evaluating the interlace polynomial at a fixed point. Regarding exact
+evaluation, we prove that the interlace polynomial is #P-hard to evaluate at
+every point of the plane, except on one line, where it is trivially polynomial
+time computable, and four lines, where the complexity is still open. This
+solves a problem posed by Arratia, Bollobas and Sorkin (2004). In particular,
+three specializations of the two-variable interlace polynomial, the
+vertex-nullity interlace polynomial, the vertex-rank interlace polynomial and
+the independent set polynomial, are almost everywhere #P-hard to evaluate, too.
+For the independent set polynomial, our reductions allow us to prove that it is
+even hard to approximate at any point except at 0.

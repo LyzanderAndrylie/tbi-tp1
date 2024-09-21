@@ -1,0 +1,10 @@
+The nature of non-exponential kinetics in microbial cells inactivation by
+pulsed electric fields (PEF) is discussed. It was demonstrated that possible
+mechanism of non-exponential kinetics can be related to orientational disorder
+in suspension of microbial cells of anisotropic form. A numerical studies of
+spheroidal cell suspensions was carried out. The most pronounced deviations
+from the exponential kinetics were observed for disordered suspensions of
+prolate spheroids at small electric field strength $E$ or at large aspect ratio
+$a$. For partially oriented suspensions, efficiency of inactivation enhances
+with increasing of order parameter and field strength. A possibility of the
+PEF-induced orientational ordering in microbial suspensions is discussed.

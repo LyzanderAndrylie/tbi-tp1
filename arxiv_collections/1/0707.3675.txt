@@ -1,0 +1,10 @@
+We have studied Bloch electrons in a perfect unidirectional superlattice
+subject to crossed electric and magnetic fields, where the magnetic field is
+oriented ``in-plane'', i.e. in parallel to the sample plane. Two orientation of
+the electric field are considered. It is shown that the magnetic field
+suppresses the intersubband tunneling of the Zener type, but does not change
+the frequency of Bloch oscillations, if the electric field is oriented
+perpendicularly to both the sample plane and the magnetic field. The electric
+field applied in-plane (but perpendicularly to the magnetic field) yields the
+step-like electron energy spectrum, corresponding to the magnetic-field-tunable
+oscillations alternative to the Bloch ones.

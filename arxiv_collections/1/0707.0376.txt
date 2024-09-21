@@ -1,0 +1,4 @@
+In a previous paper we developed a new method to obtain symmetrization
+inequalities of Sobolev type for functions in $W_{0}^{1,1}(\Omega)$. In this
+paper we extend our method to Sobolev functions that do not vanish at the
+boundary.

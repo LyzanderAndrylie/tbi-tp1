@@ -1,0 +1,4 @@
+We give two characterizations of hyperquadrics: one as non-degenerate smooth
+projective varieties swept out by large dimensional quadric subvarieties
+passing through a point; the other as $LQEL$-manifolds with large secant
+defects.

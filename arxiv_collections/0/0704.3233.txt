@@ -1,0 +1,5 @@
+In the present work we investigate one possible variation on the usual static
+pulsars: the inclusion of rotation. We use a formalism proposed by Hartle and
+Thorne to calculate the properties of rotating pulsars with all possible
+compositions. All calculations were performed for zero temperature and also for
+fixed entropy equations of state.

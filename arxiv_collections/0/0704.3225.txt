@@ -1,0 +1,11 @@
+Isomorphisms of separable Hilbert spaces are analogous to isomorphisms of
+n-dimensional vector spaces. However, while n-dimensional spaces in
+applications are always realized as the Euclidean space R^n, Hilbert spaces
+admit various useful realizations as spaces of functions. In the paper this
+simple observation is used to construct a fruitful formalism of local
+coordinates on Hilbert manifolds. Images of charts on manifolds in the
+formalism are allowed to belong to arbitrary Hilbert spaces of functions
+including spaces of generalized functions. Tensor equations then describe
+families of functional equations on various spaces of functions. The formalism
+itself and its applications in linear algebra, differential equations and
+differential geometry are analyzed.

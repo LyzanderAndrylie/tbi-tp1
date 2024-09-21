@@ -1,0 +1,10 @@
+We discuss a model nonfrustrated magnetoelectric in which strong enough
+magnetoelectric coupling produces incommensurate magnetic order leading to
+ferroelectricity. Properties of the magnetoelectric in magnetic field directed
+perpendicular to wave vector describing the spin helix are considered in
+detail. Analysis of classical energy shows that in contrast to naive
+expectation the onset of ferroelectricity takes place at a field $H_{c1}$ that
+is lower than the saturation field $H_{c2}$. One has $H_{c1}=H_{c2}$ at strong
+enough magnetoelectric coupling. We show that at H=0 the ferroelectricity
+appears at $T=T_{FE}<T_N$. Qualitative discussion of phase diagram in $H-T$
+plane is presented within mean field approach.

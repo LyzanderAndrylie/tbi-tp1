@@ -1,0 +1,6 @@
+We present the Composite Operator Method (COM) as a modern approach to the
+study of strongly correlated electronic systems, based on the equation of
+motion and Green's function method. COM uses propagators of composite operators
+as building blocks at the basis of approximate calculations and algebra
+constrains to fix the representation of Green's functions in order to maintain
+the algebraic and symmetry properties.

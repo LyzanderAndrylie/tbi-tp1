@@ -1,0 +1,24 @@
+In this paper, we present a spatial version of phytoplankton-zooplankton
+model that includes some important factors such as external periodic forces,
+noise, and diffusion processes. The spatially extended
+phytoplankton-zooplankton system is from the original study by Scheffer [M
+Scheffer, Fish and nutrients interplay determines algal biomass: a minimal
+model, Oikos \textbf{62} (1991) 271-282]. Our results show that the spatially
+extended system exhibit a resonant patterns and frequency-locking phenomena.
+The system also shows that the noise and the external periodic forces play a
+constructive role in the Scheffer's model: first, the noise can enhance the
+oscillation of phytoplankton species' density and format a large clusters in
+the space when the noise intensity is within certain interval. Second, the
+external periodic forces can induce 4:1 and 1:1 frequency-locking and spatially
+homogeneous oscillation phenomena to appear. Finally, the resonant patterns are
+observed in the system when the spatial noises and external periodic forces are
+both turned on. Moreover, we found that the 4:1 frequency-locking transform
+into 1:1 frequency-locking when the noise intensity increased. In addition to
+elucidating our results outside the domain of Turing instability, we provide
+further analysis of Turing linear stability with the help of the numerical
+calculation by using the Maple software. Significantly, oscillations are
+enhanced in the system when the noise term presents. These results indicate
+that the oceanic plankton bloom may partly due to interplay between the
+stochastic factors and external forces instead of deterministic factors. These
+results also may help us to understand the effects arising from undeniable
+subject to random fluctuations in oceanic plankton bloom.

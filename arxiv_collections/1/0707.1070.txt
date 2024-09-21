@@ -1,0 +1,12 @@
+We investigate the spin state of LaCoO3 using state-of-the-art photoemission
+spectroscopy and ab initio band structure calculations. The GGA+U calculations
+provide a good description of the ground state for the experimentally estimated
+value of electron correlation strength, U. In addition to the correlation
+effect, spin-orbit interaction is observed to play a significant role in the
+case of intermediate spin and high spin configurations. The comparison of the
+calculated Co 3d and O 2p partial density of states with the experimental
+valence band spectra indicates that at room temperature, Co has dominant
+intermediate spin state configuration and that the high spin configuration may
+not be significant at this temperature. The lineshape of the La 5p and O 2s
+core level spectra could be reproduced well within these ab initio
+calculations.

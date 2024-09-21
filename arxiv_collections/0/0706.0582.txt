@@ -1,0 +1,10 @@
+We have studied a one dimensional Hubbard superlattice with different Coulomb
+correlations at alternating sites for a half-filled band. Mean field
+calculations based on the Hartree-Fock approximation together with a real space
+renormalization group technique were used to study the ground state of the
+system. The phase diagrams obtained in these approaches agree with each other
+from the weak to the intermediate coupling regime. The mean field results show
+very quick convergence with system size. The renormalization group results
+indicate a spatial modulation of local moments that was identified in some
+previous work. Also we have studied the magnetoconductance of such
+superlattices which reveals several interesting points.

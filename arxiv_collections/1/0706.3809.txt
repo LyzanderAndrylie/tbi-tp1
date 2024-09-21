@@ -1,0 +1,11 @@
+The cross section for high-E_T dijet production in photoproduction has been
+measured with the ZEUS detector at HERA using an integrated luminosity of 81.8
+pb-1. The events were required to have a virtuality of the incoming photon,
+Q^2, of less than 1 GeV^2 and a photon-proton centre-of-mass energy in the
+range 142 < W < 293 GeV. Events were selected if at least two jets satisfied
+the transverse-energy requirements of E_T(jet1) > 20 GeV and E_T(jet2) > 15 GeV
+and pseudorapidity requirements of -1 < eta(jet1,2) < 3, with at least one of
+the jets satisfying -1 < eta(jet) < 2.5. The measurements show sensitivity to
+the parton distributions in the photon and proton and effects beyond
+next-to-leading order in QCD. Hence these data can be used to constrain further
+the parton densities in the proton and photon.

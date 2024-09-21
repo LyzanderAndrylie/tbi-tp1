@@ -1,0 +1,9 @@
+Potential energy curves for excited leptonic states of the
+helium-antihydrogen system are calculated within Ritz' variational approach. An
+explicitly correlated ansatz for the leptonic wave function is employed
+describing accurately the motion of the leptons (two electrons and positron) in
+the field of the helium nucleus and of the antiproton with arbitrary orbital
+angular momentum projection $\Lambda$ onto the internuclear axis. Results for
+$\Lambda$=0, 1 and 30 are presented. For quasibound states with large values of
+$\Lambda$ and rotational quantum numbers $J>\Lambda$ no annihilation and
+rearrangement decay channels occur, i. e. they are metastable.

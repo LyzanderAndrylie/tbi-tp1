@@ -1,0 +1,23 @@
+We study a particular return map for a class of low dimensional chaotic
+models called Kolmogorov Lorenz systems, which received an elegant general
+Hamiltonian description and includes also the famous Lorenz63 case, from the
+viewpoint of energy and Casimir balance. In particular it is considered in
+detail a subclass of these models, precisely those obtained from the Lorenz63
+by a small perturbation on the standard parameters, which includes for example
+the forced Lorenz case in Ref.[6]. The paper is divided into two parts. In the
+first part the extremes of the mentioned state functions are considered, which
+define an invariant manifold, used to construct an appropriate Poincare surface
+for our return map. From the experimental observation of the simple orbital
+motion around the two unstable fixed points, together with the circumstance
+that these orbits are classified by their energy or Casimir maximum, we
+construct a conceptually simple skeletal dynamics valid within our sub class,
+reproducing quite well the Lorenz map for Casimir. This energetic approach
+sheds some light on the physical mechanism underlying regime transitions. The
+second part of the paper is devoted to the investigation of a new type of
+maximum energy based long term predictions, by which the knowledge of a
+particular maximum energy shell amounts to the knowledge of the future
+(qualitative) behaviour of the system. It is shown that, in this respect, a
+local analysis of predictability is not appropriate for a complete
+characterization of this behaviour. A perspective on the possible extensions of
+this type of predictability analysis to more realistic cases in (geo)fluid
+dynamics is discussed at the end of the paper.

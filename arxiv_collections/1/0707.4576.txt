@@ -1,0 +1,16 @@
+We study the geometry associated to the Grusin operator
+G=\Delta_{x}+|x|^{2}\partial_{u}^{2} on \mathbb{R}_{x}^{n}\times\mathbb{R}_{u},
+to obtain heat kernel estimates for this operator. The main work is to find the
+shortest geodesics connecting two given points in $\mathbb{R}^{n+1}$. This
+gives the Carnot-Caratheodory distance d_{CC}, associated to this operator. The
+main result in the second part is to give Gaussian bounds for the heat kernel
+K_{t} in terms of the Carnot-Caratheodory distance. In particular we obtain the
+following estimate
+  |k_{t}(\zeta,\eta)|\leq C t^{-\frac{n}{2}-1}\min(1+\frac{d_{CC}(\zeta,\eta)}
+{|x+\xi|},1+\frac{d_{CC}(\zeta,\eta)^{2}}{4t})^{\alpha}e^{-\frac{1}{4t}d_{CC}
+(\zeta,\eta)^{2}}
+  for all $\zeta=(x,u_{1}), \eta=(\xi,u)\in\mathbb{R}^{n+1}$, where $\alpha =
+\max{\frac{n}{2}-1,0}$. Here the homogeneous dimension is q=n+2, so that
+$\frac{n}{2}-1=\frac{q-4}{2}$. This shows that our result for $n\geq2$
+corresponds with the result on the Heisenberg group, which was given by Beals,
+Gaveau, Greiner in [1].

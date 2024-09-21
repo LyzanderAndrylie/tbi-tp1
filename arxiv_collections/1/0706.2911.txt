@@ -1,0 +1,12 @@
+We study the roles of the tensor and pairing correlations on the halo
+formation in 11Li with an extended 9Li+n+n model. We first solve the ground
+state of 9Li in the shell model basis by taking 2p-2h states using the Gaussian
+functions with variational size parameters to take into account the tensor
+correlation fully. In 11Li, the tensor and pairing correlations in 9Li are
+Pauli-blocked by additional two neutrons, which work coherently to make the
+configurations containing the 0p1/2 state pushed up and close to those
+containing the 1s1/2 state. Hence, the pairing interaction works efficiently to
+mix the two configurations by equal amount and develop the halo structure in
+11Li. For 10Li, the inversion phenomenon of s- and p-states is reproduced in
+the same framework. Our model furthermore explains the recently observed
+Coulomb breakup strength and charge radius for 11Li.

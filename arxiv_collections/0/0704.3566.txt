@@ -1,0 +1,13 @@
+Biquadratic {\it antisymmetric} exchange terms of the form $ - [C_{ij}
+e^{\alpha}_{ij}({\bf s}_i\times{\bf s}_j)_z]^2$, where ${\bf e}_{ij}$ is the
+unit vector connecting sites $i$ and $j$ and $\alpha = x,y$, due partially to
+magnetoelectric coupling effects, are shown to be responsible for the spin-flop
+helical phase in CuFeO$_2$ at low magnetic field and temperature. Usual
+biquadratic {\it symmetric} exchange, likely due to magnetoelastic coupling, is
+found to support the stability of axial magnetic states at higher fields in
+this nearly-Heisenberg like stacked triangular antiferromagnet. A model
+Hamiltonian which also includes substantial interplane and higher-neighbor
+intraplane exchange interactions, reproduces the unique series of observed
+commensurate and incommensurate periodicity phases with increasing applied
+magnetic field in this highly frustrated system. The magnetic field-temperature
+phase diagram is discussed in terms of a Landau-type free energy.

@@ -1,0 +1,6 @@
+We investigate the role of the delta isobar in the reaction $\pi d\to \pi d$
+at threshold in chiral effective field theory. We discuss the corresponding
+power counting and argue that this calculation completes the evaluation of
+diagrams up to the order (m_pi/M_N)^(3/2), with m_pi (M_N) for the pion
+(nucleon) mass. The net effect of all delta contributions at this order to the
+pion-deuteron scattering length is (2.4 +/- 0.4)x 10^(-3) m_pi^{-1}.

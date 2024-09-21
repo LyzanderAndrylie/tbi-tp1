@@ -1,0 +1,5 @@
+Given a finite set of lattice points, we compare its sumsets and lattice
+points in its dilated convex hulls. Both of these are known to grow as
+polynomials. Generally, the former are subsets of the latter. In this paper, we
+will see that sumsets occupy all the central lattice points in convex hulls,
+giving us a kind of approximation to lattice points in polytopes.

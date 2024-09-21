@@ -1,0 +1,17 @@
+We propose a formally exact statistical field theory for describing classical
+fluids with ingredients similar to those introduced in quantum field theory. We
+consider the following essential and related problems : i) how to find the
+correct field functional (Hamiltonian) which determines the partition function,
+ii) how to introduce in a field theory the equivalent of the indiscernibility
+of particles, iii) how to test the validity of this approach. We can use a
+simple Hamiltonian in which a local functional transposes, in terms of fields,
+the equivalent of the indiscernibility of particles. The diagrammatic expansion
+and the renormalization of this term is presented. This corresponds to a non
+standard problem in Feynman expansion and requires a careful investigation.
+Then a non-local term associated with an interaction pair potential is
+introduced in the Hamiltonian. It has been shown that there exists a mapping
+between this approach and the standard statistical mechanics given in terms of
+Mayer function expansion. We show on three properties (the chemical potential,
+the so-called contact theorem and the interfacial properties) that in the field
+theory the correlations are shifted on non usual quantities. Some perspectives
+of the theory are given.

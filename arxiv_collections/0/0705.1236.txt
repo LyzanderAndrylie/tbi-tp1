@@ -1,0 +1,12 @@
+A computational model study for complete frequency redistribution linear
+incoherent two-level atomic radiation trapping in optically dense media using
+the multiple scattering representation is presented. This model study discuss
+at length the influence of the spectral distributions, overall opacity and
+emission quantum yield to trapping distorted ensemble quantities stressing
+physical insight and with a non-specialist audience in mind. Macroscopic
+reemission yield, lifetime, steady state spectra and spatial distributions are
+calculated as a function of intrinsic emission yield, opacity and external
+excitation mode for Doppler, Lorentz and Voigt lineshapes. The work could
+constitute the basis for a final undergraduate or beginning graduate project in
+computational physics instruction and implements the analytical developments of
+the previous instalment of this contribution.

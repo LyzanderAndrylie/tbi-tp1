@@ -1,0 +1,6 @@
+We study Wigner function of a system describing entanglement of two
+cat-states. Quantum interferece arising due to entanglement is shown to produce
+sub-Planck structures in the phase-space plots of the Wigner function. Origin
+of these structures in our case depends on entanglement unlike those in Zurek
+\cite{Zurek}. It is argued that the entangled cat-states are better suited for
+carrying out precision measurements.

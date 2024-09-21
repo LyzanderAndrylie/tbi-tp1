@@ -1,0 +1,8 @@
+The CDF and D{\O} experiments at the Tevatron are currently the only capable
+of searching for the Standard Model Higgs boson. This article describes their
+most sensitive searches in the expected Higgs mass range, focusing on advanced
+methods used to extract the maximal sensitivity from the data. CDF presents
+newly updated results for $H \to W^+W^-$ and $ZH \to l^+l^- b\bar{b}$. D{\O}\
+presents two new searches for $WH \to l\nu b\bar{b}$. These new analyses use
+the same 1 fb$^{-1}$ dataset as previous searches, but with improved techniques
+resulting in markedly improved sensitivity.

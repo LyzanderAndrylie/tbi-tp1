@@ -1,0 +1,8 @@
+We prove that the generator of the renormalization group of Potts models on
+hierarchical lattices can be represented by a rational map acting on a
+finite-dimensional product of complex projective spaces. In this framework we
+can also consider models with an applied external magnetic field and
+multiple-spin interactions. We use recent results regarding iteration of
+rational maps in several complex variables to show that, for some class of
+hierarchical lattices, Lee-Yang and Fisher zeros belong to the unstable set of
+the renormalization map.

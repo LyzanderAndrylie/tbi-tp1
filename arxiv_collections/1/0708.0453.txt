@@ -1,0 +1,14 @@
+We present an Adaptively Biased Molecular Dynamics (ABMD) method for the
+computation of the free energy surface of a reaction coordinate using
+non-equilibrium dynamics. The ABMD method belongs to the general category of
+umbrella sampling methods with an evolving biasing potential, and is inspired
+by the metadynamics method. The ABMD method has several useful features,
+including a small number of control parameters, and an $O(t)$ numerical cost
+with molecular dynamics time $t$. The ABMD method naturally allows for
+extensions based on multiple walkers and replica exchange, where different
+replicas can have different temperatures and/or collective variables. This is
+beneficial not only in terms of the speed and accuracy of a calculation, but
+also in terms of the amount of useful information that may be obtained from a
+given simulation. The workings of the ABMD method are illustrated via a study
+of the folding of the Ace-GGPGGG-Nme peptide in a gaseous and solvated
+environment.

@@ -1,0 +1,18 @@
+In this paper we discuss solid-state nanoelectronic realizations of Josephson
+flux qubits with large tunneling amplitude between the two macroscopic states.
+The latter can be controlled via the height and wells form of the potential
+barrier, which is determined by quantum-state engineering of the flux qubit
+circuit. The simplest circuit of the flux qubit is a superconducting loop
+interrupted by a Josephson nanoscale tunnel junction. The tunneling amplitude
+between two macroscopically different states can be essentially increased, by
+engineering of the qubit circuit, if tunnel junction is replaced by a ScS
+contact. However, only Josephson tunnel junctions are particularly suitable for
+large-scale integration circuits and quantum detectors with preset-day
+technology. To overcome this difficulty we consider here the flux qubit with
+high-level energy separation between "ground" and "excited" states, which
+consists of a superconducting loop with two low-capacitance Josephson tunnel
+junctions in series. We demonstrate that for real parameters of resonant
+superposition between the two macroscopic states the tunneling amplitude can
+reach values greater than 1K. Analytical results for the tunneling amplitude
+obtained within semiclassical approximation by instanton technique show good
+correlation with a numerical solution.

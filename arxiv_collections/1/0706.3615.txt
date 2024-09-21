@@ -1,0 +1,13 @@
+We present a detailed study of the adsorption of CO on Cu, Rh, and Pt (111)
+surfaces in top and hollow sites. The study has been performed using the local
+density approximation, the gradient corrected functional PBE, and the hybrid
+Hartree-Fock density functionals PBE0 and HSE03 within the framework of
+generalized Kohn-Sham density functional theory using a plane-wave basis set.
+As expected, the LDA and GGA functionals show a tendency to favor the hollow
+sites, at variance with experimental findings that give the top site as the
+most stable adsorption site. The PBE0 and HSE03 functionals reduce this
+tendency. In fact, they predict the correct adsorption site for Cu and Rh but
+fail for Pt. But even in this case, the hybrid functional destabilizes the
+hollow site by 50 meV compared to the PBE functional. The results of the total
+energy calculations are presented along with an analysis of the projected
+density of states.

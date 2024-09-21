@@ -1,0 +1,17 @@
+For cellular biochemical reaction systems where the numbers of molecules is
+small, significant noise is associated with chemical reaction events. This
+molecular noise can give rise to behavior that is very different from the
+predictions of deterministic rate equation models. Unfortunately, there are few
+analytic methods for examining the qualitative behavior of stochastic systems.
+Here we describe such a method that extends deterministic analysis to include
+leading-order corrections due to the molecular noise. The method allows the
+steady-state behavior of the stochastic model to be easily computed,
+facilitates the mapping of stability phase diagrams that include stochastic
+effects and reveals how model parameters affect noise susceptibility, in a
+manner not accessible to numerical simulation. By way of illustration we
+consider two genetic circuits: a bistable positive-feedback loop and a
+negative-feedback oscillator. We find in the positive feedback circuit that
+translational activation leads to a far more stable system than transcriptional
+control. Conversely, in a negative-feedback loop triggered by a
+positive-feedback switch, the stochasticity of transcriptional control is
+harnessed to generate reproducible oscillations.

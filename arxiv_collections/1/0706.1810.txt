@@ -1,0 +1,7 @@
+A study of the set N_p of positive integers which occur as orders of
+nonsingular derivations of finite-dimensional non-nilpotent Lie algebras of
+characteristic p>0 was initiated by Shalev and continued by the present author.
+The main goal of this paper is to show the abundance of elements of N_p. Our
+main result shows that any divisor n of q-1, where q is a power of p, such that
+$n\ge (p-1)^{1/p} (q-1)^{1-1/(2p)}$, belongs to N_p. This extends its special
+case for p=2 which was proved in a previous paper by a different method.

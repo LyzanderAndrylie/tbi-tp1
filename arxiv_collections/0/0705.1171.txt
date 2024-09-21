@@ -1,0 +1,4 @@
+We consider simple cusp algebras, that is certain subalgebras of the algebra
+of holomorphic functions on a disk that are annihilated by some distributions
+living on a singleton. We determine when these algebras can be holized in two
+dimensions, and when these holizations are globally biholomorphic.

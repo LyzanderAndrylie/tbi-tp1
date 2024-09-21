@@ -1,0 +1,10 @@
+We theoretically investigate the production of polarization-entangled photons
+through the biexciton cascade decay in a single semiconductor quantum dot. In
+the intermediate state the entanglement is encoded in the polarizations of the
+first emitted photon and the exciton, where the exciton state can be
+effectively ``measured'' by the solid state environment through the formation
+of a lattice distortion. We show that the resulting loss of entanglement
+becomes drastically enhanced if the phonons contributing to the lattice
+distortion are subject to elastic scatterings at the device boundaries, which
+might constitute a serious limitation for quantum-dot based entangled-photon
+devices.

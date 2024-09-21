@@ -1,0 +1,16 @@
+Optical pump-probe measurements of spin-dynamics at temperatures down to 1.5K
+are described for a series of (001)-oriented GaAs/AlGaAs quantum well samples
+containing high mobility two-dimensional electron gases (2DEGs). For well
+widths ranging from 5 nm to 20 nm and 2DEG sheet densities from 1.75x1011cm-2
+to 3.5x1011cm-2 the evolution of a small injected spin population is found to
+be a damped oscillation rather than exponential relaxation, consistent with the
+quasi-collision-free regime of D'yakonov-Perel spin dynamics. A Monte Carlo
+simulation method is used to extract the spin-orbit-induced electron spin
+precession frequency |W(kF)| and electron momentum scattering time tp* at the
+Fermi wavevector. The spin decay time passes through a minimum at a temperature
+corresponding to the transition from collision-free to collision-dominated
+regimes and tp* is found to be close to the ensemble momentum scattering time
+tp obtained from Hall measurements of electron mobility. The values of |W(kF)|
+give the Dresselhaus (BIA) coefficient of spin-orbit interaction as a function
+of electron confinement energy in the quantum show, qualitatively, the
+behaviour expected from k.p theory.

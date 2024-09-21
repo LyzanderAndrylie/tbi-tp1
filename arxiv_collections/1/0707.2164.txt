@@ -1,0 +1,7 @@
+In a well-dispersed nanofluid with strong cluster-fluid attraction, thermal
+conduction paths can arise through percolating amorphous-like interfacial
+structures. This results in a thermal conductivity enhancement beyond the
+Maxwell limit of 3*phi, with phi being the nanoparticle volume fraction. Our
+findings from non-equilibrium molecular dynamics simulations, which are
+amenable to experimental verification, can provide a theoretical basis for the
+development of future nanofluids.

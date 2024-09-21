@@ -1,0 +1,7 @@
+We show theoretically that graphene, which exhibits a massless Dirac like
+spectrum for its electrons, can exhibit unconventional Kondo effect that can be
+tuned by an experimentally controllable applied gate voltage. We demonstrate
+the presence of a finite critical Kondo coupling strength in neutral graphene.
+We discuss the possibility of multichannel Kondo effect in this system which
+might lead to a non-Fermi liquid like ground state and provide a discussion of
+possible experimental realization of Kondo phenomenon in graphene.

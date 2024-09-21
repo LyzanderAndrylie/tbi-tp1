@@ -1,0 +1,10 @@
+We show that the following two algebras are isomorphic. The first is the
+algebra $A_P$ of functions on the scheme of monic linear second-order
+differential operators on $\C$ with prescribed regular singular points at
+$z_1,..., z_n, \infty$, prescribed exponents $\La^{(1)}, ..., \La^{(n)},
+\La^{(\infty)}$ at the singular points, and having the kernel consisting of
+polynomials only. The second is the Bethe algebra of commuting linear
+operators, acting on the vector space $\Sing L_{\La^{(1)}} \otimes ... \otimes
+L_{\La^{(n)}}[\La^{(\infty)}]$ of singular vectors of weight $\La^{(\infty)}$
+in the tensor product of finite dimensional polynomial $gl_2$-modules with
+highest weights $\La^{(1)},..., \La^{(n)}$.

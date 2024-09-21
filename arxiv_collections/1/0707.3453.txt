@@ -1,0 +1,8 @@
+We generalize the idea of supertwistors and introduce a new supersymmetric
+object - the $\theta$-twistor which includes the composite Ramond vector [11]
+well known from the spinning string dynamics. The symmetries of the chiral
+$\theta$-twistor superspace are studied. It is shown that the chiral spin
+structure introduced by the $\theta$-twistor breaks the superconformal boost
+symmetry but preserves the scale symmetry and the super-Poincare symmetry. This
+geometrical effect of breaking correlates with the Gross-Wess effect of the
+conformal boost breaking for bosonic scattering amplitudes.

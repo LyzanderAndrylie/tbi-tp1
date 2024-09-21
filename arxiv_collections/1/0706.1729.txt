@@ -1,0 +1,9 @@
+We show that all mixing angles are determined, within experimental
+uncertainty, by a product of SU(2) horizontal symmetries intimately linked to
+the algebra of weak neutral currents. This concerns: on one hand, the three
+quark mixing angles; on the other hand, a neutrino-like pattern in which
+theta_{23} is maximal and tan (2 theta_{12}) = 2. The latter turns out to
+exactly satisfy the ``quark-lepton complementarity condition'' theta_c +
+theta_{12} = pi/4. Moreover, among all solutions, two values for the third
+neutrino mixing angle arise, which satisfy the bound sin^2(theta_{13}) \leq
+0.1: theta_{13} = +/- 5.7 10^{-3} and theta_{13} = +/- 0.2717.

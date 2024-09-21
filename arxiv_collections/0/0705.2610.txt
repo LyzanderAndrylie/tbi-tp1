@@ -1,0 +1,13 @@
+We set an upper limit on the mass of a supersymmetric neutralino dark matter
+particle using the MicrOMEGAS and DarkSUSY software packages and the most
+recent constraints on relic density from combined WMAP and SDSS data. We
+explore several different possible scenarios within the MSSM, including
+coannihilation with charginos and sfermions and annihilation through a massive
+Higgs resonance, using low energy mass inputs. We find that no coannihilation
+scenario is consistent with dark matter in observed abundance with a mass
+greater than 2.5 TeV for a wino--type particle or 1.8 TeV for a Higgsino--type.
+Contrived scenarios involving Higgs resonances with finely--tuned mass
+parameters can allow masses as high as 34 TeV. The resulting gamma--ray energy
+distribution is not in agreement with the recent multi--TeV gamma ray spectrum
+observed by H.E.S.S. originating from the center of the Milky Way. Our results
+are relevent only for dark matter densities resulting from a thermal origin.

@@ -1,0 +1,6 @@
+In this paper we make a first attempt at understanding how to build an
+optimal approximate normal factor analysis model. The criterion we have chosen
+to evaluate the distance between different models is the I-divergence between
+the corresponding normal laws. The algorithm that we propose for the
+construction of the best approximation is of an the alternating minimization
+kind.

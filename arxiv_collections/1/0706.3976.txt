@@ -1,0 +1,18 @@
+According to the hypothesis of Penrose and Diosi, quantum state reduction is
+a manifestation of the incompatibilty of general relativity and the unitary
+time evolution of quantum physics. Dimensional analysis suggests that
+Schrodinger cat type states should collapse on measurable time scales when
+masses and lengths of the order of bacterial scales are involved. We analyze
+this hypothesis in the context of modern developments in condensed matter and
+cold atoms physics, aimed at realizing macroscopic quantum states. We first
+consider 'micromechanical' quantum states, analyzing the capacity of an atomic
+force microscopy based single spin detector to measure the gravitational state
+reduction, but we conclude that it seems impossible to suppress environmental
+decoherence to the required degree. We subsequently discuss 'split' cold atom
+condensates to find out that these are at present lacking the required mass
+scale by many orders of magnitude. We then extent Penrose's analysis to
+superpositions of mass current carrying states, and we apply this to the flux
+quantum bits realized in superconducting circuits. We find that the flux qubits
+approach the scale where gravitational state reduction should become
+measurable, but bridging the few remaining orders of magnitude appears to be
+very difficult with present day technology.

@@ -1,0 +1,10 @@
+Let $\dlap$ be the discrete Laplace operator acting on functions (or rational
+matrices) $f:\mathbf{Q}_L\to\mathbb{Q}$, where $\mathbf{Q}_L$ is the two
+dimensional lattice of size $L$ embedded in $\mathbb{Z}_2$. Consider a rational
+$L\times L$ matrix $\mathcal{H}$, whose inner entries $\mathcal{H}_{ij}$
+satisfy $\dlap\mathcal{H}_{ij}=0$. The matrix $\mathcal{H}$ is thus the
+classical finite difference five-points approximation of the Laplace operator
+in two variables. We give a constructive proof that $\mathcal{H}$ is the
+restriction to $\mathbf{Q}_L$ of a discrete harmonic polynomial in two
+variables for any $L>2$. This result proves a conjecture formulated in the
+context of deterministic fixed-energy sandpile models in statistical mechanics.

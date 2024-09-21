@@ -1,0 +1,16 @@
+The present paper points out to a novel scenario for formation of chaotic
+attractors in a class of models of excitable cell membranes near an
+Andronov-Hopf bifurcation (AHB). The mechanism underlying chaotic dynamics
+admits a simple and visual description in terms of the families of
+one-dimensional first-return maps, which are constructed using the combination
+of asymptotic and numerical techniques. The bifurcation structure of the
+continuous system (specifically, the proximity to a degenerate AHB) endows the
+Poincare map with distinct qualitative features such as unimodality and the
+presence of the boundary layer, where the map is strongly expanding. This
+structure of the map in turn explains the bifurcation scenarios in the
+continuous system including chaotic mixed-mode oscillations near the border
+between the regions of sub- and supercritical AHB. The proposed mechanism
+yields the statistical properties of the mixed-mode oscillations in this
+regime. The statistics predicted by the analysis of the Poincare map and those
+observed in the numerical experiments of the continuous system show a very good
+agreement.

@@ -1,0 +1,14 @@
+We present absolute parallaxes and relative proper motions for five AM CVn
+stars, which we obtained using the Fine Guidance Sensors on board the Hubble
+Space Telescope. Our parallax measurements translate into distances d(AM
+CVn)=606+135-93 pc, d(HP Lib)=197+14-12 pc, d(CR Boo)=337+44-35 pc, d(V803
+Cen)=347+32-27 pc, and d(GP Com)=75+2-2 pc. From these distances we estimate
+the space density of AM CVn stars and suggest that previous estimates have been
+too high by about an order of magnitude. We also infer the mass accretion rates
+which allows us to constrain the masses of the donor stars, and we show that
+relatively massive, semi-degenerate donor stars are favored in all systems
+except GP Com. Finally, we give updated estimates for their gravitational-wave
+signals, relevant for future space missions such as the proposed Laser
+Interferometer Space Antenna (LISA), based on their distances and the inferred
+masses of the binary components. We show that all systems but GP Com are
+excellent candidates for detection with LISA.

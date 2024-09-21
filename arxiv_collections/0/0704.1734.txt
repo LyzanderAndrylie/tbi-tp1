@@ -1,0 +1,11 @@
+The gravitational field equations on cosmological scales are obtained by
+averaging the Einstein field equations of general relativity. By assuming
+spatial homogeneity and isotropy on the largest scales, the local
+inhomogeneities affect the dynamics though correction (backreaction) terms,
+which can lead to behaviour qualitatively and quantitatively different from the
+Friedmann-Lema\^{i}tre-Robertson-Walker models. The effects of averaging on
+cosmological observations are discussed. It is argued that, based on estimates
+from observational data, the backreaction (and, in particular, the averaged
+spatial curvature) can have a very significant dynamical effect on the
+evolution of the Universe and must be taken into account in observational
+cosmology.

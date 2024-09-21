@@ -1,0 +1,13 @@
+It is basic question in biology and other fields to identify the char-
+acteristic properties that on one hand are shared by structures from a
+particular realm, like gene regulation, protein-protein interaction or neu- ral
+networks or foodwebs, and that on the other hand distinguish them from other
+structures. We introduce and apply a general method, based on the spectrum of
+the normalized graph Laplacian, that yields repre- sentations, the spectral
+plots, that allow us to find and visualize such properties systematically. We
+present such visualizations for a wide range of biological networks and compare
+them with those for networks derived from theoretical schemes. The differences
+that we find are quite striking and suggest that the search for universal
+properties of biological networks should be complemented by an understanding of
+more specific features of biological organization principles at different
+scales.

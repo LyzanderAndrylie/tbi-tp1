@@ -1,0 +1,14 @@
+Strong repulsive interactions in a one-dimensional electron system suppress
+the exchange coupling J of electron spins to a value much smaller than the
+Fermi energy E_F. The conventional theoretical description of such systems
+based on the bosonization approach and the concept of Tomonaga-Luttinger liquid
+is applicable only at energies below J. In this paper we develop a theoretical
+approach valid at all energies below the Fermi energy, including a broad range
+of energies between J and E_F. The method involves bosonization of the charge
+degrees of freedom, while the spin excitations are treated exactly. We use this
+technique to calculate the spectral functions of strongly interacting electron
+systems at energies in the range J<<epsilon<< E_F$. We show that in addition to
+the expected features at the wavevector k near the Fermi point k_F, the
+spectral function has a strong peak centered at k=0. Our theory also provides
+analytical description of the spectral function singularities near 3k_F (the
+"shadow band" features).

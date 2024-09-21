@@ -1,0 +1,4 @@
+For the BCS equation with local two-body interaction $\lambda V(x)$, we give
+a rigorous analysis of the asymptotic behavior of the critical temperature as
+$\lambda \to 0$. We derive necessary and sufficient conditions on $V(x)$ for
+the existence of a non-trivial solution for all values of $\lambda>0$.

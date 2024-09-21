@@ -1,0 +1,9 @@
+We simulate the collapse of isolated dwarf galaxies using SPH + N-Body
+simulations including a physically motivated description of the effects of
+supernova feedback. As the gas collapses and stars form, the supernova feedback
+disrupts enough gas to temporarily quench star formation. The gas flows outward
+into a hot halo, where it cools until star formation can continue once more and
+the cycle repeats. The star formation histories of isolated Local Group dwarf
+galaxies exhibit similar episodic bursts of star formation. We examine the mass
+dependence of the stellar velocity dispersions and find that they are no less
+than half the velocity of the halos measured at the virial radius.

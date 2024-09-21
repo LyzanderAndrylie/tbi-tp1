@@ -1,0 +1,13 @@
+Colloidal systems (and protein solutions) are often characterized by
+attractive interactions whose range is much smaller than the particle size.
+When this is the case and the interaction is spherical, systems obey a
+generalized law of correspondent states (GLCS), first proposed by Noro and
+Frenkel [ J.Chem.Phys. 113, 2941 (2000) ]. The thermodynamic properties become
+insensitive to the details of the potential, depending only on the value of the
+second virial coefficient B_2 and the density $\rho$. The GLCS does not
+generically hold for the case of non-spherical potentials. In this Letter we
+suggest that when particles interact via short-ranged small-angular amplitude
+patchy interactions (so that the condition of only one bond per patch is
+fulfilled) it is still possible to generalize the GLCS close to the liquid-gas
+critical point. Keywords: Colloids, Second Virial Coefficient, Proteins
+interactions, Short-ranged attractive attractions.

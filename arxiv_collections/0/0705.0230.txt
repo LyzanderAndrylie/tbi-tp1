@@ -1,0 +1,10 @@
+Recently, Takenaka et al. reported that the resistivity rho(T) of
+theta-(BEDT-TTF)_2I_3 (theta-ET) exceeds the Ioffe-Regel resistivity by a
+factor of 50 at large temperatures T (``bad metal''). This was ascribed to
+strong correlation. We argue that the optical conductivity sigma(omega) implies
+that correlation is not very strong, and that correlation gives no general
+strong suppression of sigma(omega). The large rho(T) is primarily due to a
+downturn in sigma(omega) at small omega, earlier emphasized by Takenaka et al.
+as the explanation for bad metal behavior of high-T_c cuprates. We argue,
+however, that for cuprates strong correlation is the main effect. The data of
+Takenaka et al. puts theta-ET in a new class of bad metals.

@@ -1,0 +1,22 @@
+We present the results of high precision measurements of the thermal
+expansion of the sintered SiC, SiC-100, intended for use in cryogenic
+space-telescopes, in which minimization of thermal deformation of the mirror is
+critical and precise information of the thermal expansion is needed for the
+telescope design. The temperature range of the measurements extends from room
+temperature down to $\sim$ 10 K. Three samples, #1, #2, and #3 were
+manufactured from blocks of SiC produced in different lots. The thermal
+expansion of the samples was measured with a cryogenic dilatometer, consisting
+of a laser interferometer, a cryostat, and a mechanical cooler. The typical
+thermal expansion curve is presented using the 8th order polynomial of the
+temperature. For the three samples, the coefficients of thermal expansion
+(CTE), $\bar{\alpha}_{#1}$, $\bar{\alpha}_{#2}$, and $\bar{\alpha}_{#3}$ were
+derived for temperatures between 293 K and 10 K. The average and the dispersion
+(1 $\sigma$ rms) of these three CTEs are 0.816 and 0.002 ($\times 10^{-6}$/K),
+respectively. No significant difference was detected in the CTE of the three
+samples from the different lots. Neither inhomogeneity nor anisotropy of the
+CTE was observed. Based on the obtained CTE dispersion, we performed an
+finite-element-method (FEM) analysis of the thermal deformation of a 3.5 m
+diameter cryogenic mirror made of six SiC-100 segments. It was shown that the
+present CTE measurement has a sufficient accuracy well enough for the design of
+the 3.5 m cryogenic infrared telescope mission, the Space Infrared telescope
+for Cosmology and Astrophysics (SPICA).

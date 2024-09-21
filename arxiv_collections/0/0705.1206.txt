@@ -1,0 +1,24 @@
+The phase of Super-Soft-Source (SSS) emission of the sixth recorded outburst
+of the recurrent nova RS Oph was observed twice with Chandra and once with
+XMM-Newton. The observations were taken on days 39.7, 54.0, and 66.9 after
+outburst. We confirm a 35-sec period on day 54.0 and found that it originates
+from the SSS emission and not from the shock. We discus the bound-free
+absorption by neutral elements in the line of sight, resonance absorption lines
+plus self-absorbed emission line components, collisionally excited emission
+lines from the shock, He-like intersystem lines, and spectral changes during an
+episode of high-amplitude variability. We find a decrease of the oxygen K-shell
+absorption edge that can be explained by photoionization of oxygen. The
+absorption component has average velocities of -1286+-267 km/s on day 39.7 and
+of -771+-65 km/s on day 66.9. The wavelengths of the emission line components
+are consistent with their rest wavelengths as confirmed by measurements of
+non-self absorbed He-like intersystem lines. We have evidence that these lines
+originate from the shock rather than the outer layers of the outflow and may be
+photoexcited in addition to collisional excitations. We found collisionally
+excited emission lines that are fading at wavelengths shorter than 15A that
+originate from the radiatively cooling shock. On day 39.5 we find a systematic
+blue shift of -526+-114 km/s from these lines. We found anomalous He-like f/i
+ratios which indicates either high densities or significant UV radiation near
+the plasma where the emission lines are formed. During the phase of strong
+variability the spectral hardness light curve overlies the total light curve
+when shifted by 1000sec. This can be explained by photoionization of neutral
+oxygen in the line of sight if the densities of order 10^{10}-10^{11} cm^{-3}.

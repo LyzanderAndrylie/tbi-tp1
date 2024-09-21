@@ -1,0 +1,7 @@
+We derive a criterion on the measurability / identifiability of
+Multiple--Input Multiple--Output (MIMO) channels based on the size of the
+so-called spreading support of its subchannels. Novel MIMO transmission
+techniques provide high-capacity communication channels in time-varying
+environments and exact knowledge of the transmission channel operator is of key
+importance when trying to transmit information at a rate close to channel
+capacity.

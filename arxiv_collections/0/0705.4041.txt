@@ -1,0 +1,14 @@
+We study the influence of the lattice topography and the coupling between
+motion in different directions, for a three-dimensional Brownian motor based on
+cold atoms in a double optical lattice. Due to controllable relative spatial
+phases between the lattices, our Brownian motor can induce drifts in arbitrary
+directions. Since the lattices couple the different directions, the relation
+between the phase shifts and the directionality of the induced drift is non
+trivial. Here is therefore this relation investigated experimentally by
+systematically varying the relative spatial phase in two dimensions, while
+monitoring the vertically induced drift and the temperature. A relative spatial
+phase range of 2pi x 2pi is covered. We show that a drift, controllable both in
+speed and direction, can be achieved, by varying the phase both parallel and
+perpendicular to the direction of the measured induced drift. The experimental
+results are qualitatively reproduced by numerical simulations of a simplified,
+classical model of the system.

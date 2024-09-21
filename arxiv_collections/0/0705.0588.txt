@@ -1,0 +1,16 @@
+One way of getting a better view of data is using frequent patterns. In this
+paper frequent patterns are subsets that occur a minimal number of times in a
+stream of itemsets. However, the discovery of frequent patterns in streams has
+always been problematic. Because streams are potentially endless it is in
+principle impossible to say if a pattern is often occurring or not. Furthermore
+the number of patterns can be huge and a good overview of the structure of the
+stream is lost quickly. The proposed approach will use clustering to facilitate
+the analysis of the structure of the stream.
+  A clustering on the co-occurrence of patterns will give the user an improved
+view on the structure of the stream. Some patterns might occur so much together
+that they should form a combined pattern. In this way the patterns in the
+clustering will be the largest frequent patterns: maximal frequent patterns.
+  Our approach to decide if patterns occur often together will be based on a
+method of clustering when only the distance between pairs is known. The number
+of maximal frequent patterns is much smaller and combined with clustering
+methods these patterns provide a good view on the structure of the stream.

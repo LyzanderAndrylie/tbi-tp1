@@ -1,0 +1,9 @@
+We present an atomistic three-dimensional simulation of graphene nanoribbon
+field effect transistors (GNR-FETs), based on the self-consistent solution of
+the 3D Poisson and Schroedinger equation with open boundary conditions within
+the non-equilibrium Green's Function formalism and a tight-binding hamiltonian.
+With respect to carbon nanotube FETs, GNR-FETs exhibit comparable performance,
+reduced sensitivity on the variability of channel chirality, and similar
+leakage problems due to band-to-band tunneling. Acceptable transistor
+performance requires effective nanoribbon width of 1-2 nm, that could be
+obtained with periodic etching patterns or stress patterns.

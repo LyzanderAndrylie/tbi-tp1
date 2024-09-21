@@ -1,0 +1,10 @@
+Magnetization and energy gap of Kondo insulator YbB_{12} are calculated
+theoretically based on the previously proposed tight-binding model composed of
+Yb 5d$\epsilon$ and 4f $\Gamma_8$ orbitals. It is found that magnetization
+curves are almost isotropic, naturally expected from the cubic symmetry, but
+that the gap-closing field has an anisotropy: the gap closes faster for the
+field in (100) direction than in (110) and (111) directions, in accord with the
+experiments. This is qualitatively understood by considering the maximal
+eigenvalues of the total angular momentum operators projected on each direction
+of the magnetic field. But the numerical calculation based on the band model
+yields better agreement with the experiment.

@@ -1,0 +1,20 @@
+Closed-loop or feedback control ratchets use information about the state of
+the system to operate with the aim of maximizing the performance of the system.
+In this paper we investigate the effects of a time delay in the feedback for a
+protocol that performs an instantaneous maximization of the center-of-mass
+velocity. For the one and the few particle cases the flux decreases with
+increasing delay, as an effect of the decorrelation of the present state of the
+system with the information that the controller uses, but the delayed
+closed-loop protocol succeeds to perform better than its open-loop counterpart
+provided the delays are smaller than the characteristic times of the Brownian
+ratchet. For the many particle case, we also show that for small delays the
+center-of-mass velocity decreases for increasing delays. However, for large
+delays we find the surprising result that the presence of the delay can improve
+the performance of the nondelayed feedback ratchet and the flux can attain the
+maximum value obtained with the optimal periodic protocol. This phenomenon is
+the result of the emergence of a dynamical regime where the presence of the
+delayed feedback stabilizes one quasiperiodic solution or several
+(multistability), which resemble the solutions obtained in the so-called
+threshold protocol. Our analytical and numerical results point towards the
+feasibility of an experimental implementation of a feedback controlled ratchet
+that performs equal or better than its optimal open-loop version.

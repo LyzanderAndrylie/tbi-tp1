@@ -1,0 +1,10 @@
+We obtain analytical expressions for the eigenstates and the Landau level
+spectrum of biased graphene bilayers in a magnetic field. The calculations are
+performed in the context of a four-band continuum model and generalize previous
+approximate results. Solutions are presented for the spectrum as a function of
+interlayer coupling, the potential difference between the layers and the
+magnetic field. The explicit expressions allow us to calculate the oscillator
+strength and the selection rules for electric dipole transitions between the
+Landau states. Some transitions are significantly shifted in energy relative to
+those in an unbiased bialyer and exhibit a very different magnetic field
+dependence.

@@ -1,0 +1,8 @@
+Superfluidity and superconductivity are genuine many-body manifestations of
+quantum coherence. For finite-size systems the associated pairing gap
+fluctuates as a function of size or shape. We provide a parameter free
+theoretical description of pairing fluctuations in mesoscopic systems
+characterized by order/chaos dynamics. The theory accurately describes
+experimental observations of nuclear superfluidity (regular system), predicts
+universal fluctuations of superconductivity in small chaotic metallic grains,
+and provides a global analysis in ultracold Fermi gases.

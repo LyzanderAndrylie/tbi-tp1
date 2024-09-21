@@ -1,0 +1,9 @@
+In this paper we extend the construction of the canonical polarized variation
+of Hodge structures over tube domain considered by B. Gross in \cite{G} to
+bounded symmetric domain and introduce a series of invariants of infinitesimal
+variation of Hodge structures, which we call characteristic subvarieties. We
+prove that the characteristic subvariety of the canonical polarized variations
+of Hodge structures over irreducible bounded symmetric domains are identified
+with the characteristic bundles defined by N. Mok in \cite{M}. We verified the
+generating property of B. Gross for all irreducible bounded symmetric domains,
+which was predicted in \cite{G}.

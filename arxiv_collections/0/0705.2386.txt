@@ -1,0 +1,21 @@
+A large acceptance scintillator detector with wavelength shifting optical
+fibre readout has been designed and built to detect the decay particles of
+$\eta$-nucleus bound system (the so-called $\eta$-mesic nuclei), namely,
+protons and pions. The detector, named as ENSTAR detector, consists of 122
+pieces of plastic scintillator of various shapes and sizes, which are arranged
+in a cylindrical geometry to provide particle identification, energy loss and
+coarse position information for these particles. A solid angle coverage of
+$\sim$95% of total 4$\pi$ is obtained in the present design of the detector.
+Monte Carlo phase space calculations performed to simulate the formation and
+decay of $\eta$-mesic nuclei suggest that its decay particles, the protons and
+pions are emitted with an opening angle of 150$^\circ \pm 20^\circ$, and with
+energies in the range of 25 to 300 MeV and 225 to 450 MeV respectively. The
+detailed GEANT simulations show that $\sim$ 80 % of the decay particles
+(protons and pions) can be detected within ENSTAR. Several test measurements
+using alpha source, cosmic-ray muons etc. have been carried out to study the
+response of ENSTAR scintillator pieces. The in-beam tests of fully assembled
+detector with proton beam of momentum 870 MeV/c from the Cooler synchrotron
+COSY have been performed. The test results show that the scintillator fiber
+design chosen for the detector has performed satisfactorily well. The present
+article describes the detector design, simulation studies, construction details
+and test results.

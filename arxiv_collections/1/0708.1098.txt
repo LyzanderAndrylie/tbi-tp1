@@ -1,0 +1,18 @@
+The intermetallic compound LaAgSb2 displays two charge-density-wave (CDW)
+transitions, which were detected with measurements of electrical resistivity
+(rho), magnetic susceptibility, and X-ray scattering; the upper transition
+takes place at T1 approx. 210 K, and it is accompanied by a large anomaly in
+rho(T), whereas the lower transition is marked by a much more subtle anomaly at
+T2 approx. 185 K. We studied the effect of hydrostatic pressure (P) on the
+formation of the upper CDW state in pure and doped La1-xRxAgSb2 (R = Ce, Nd)
+compounds, by means of measurements of rho(T) for P < 23 kbar. We found that
+the hydrostatic pressure, as well as the chemical pressure introduced by the
+partial substitution of the smaller Ce and Nd ions for La, result in the
+suppression of the CDW ground state, e.g. the reduction of the ordering
+temperature T1. The values of dT1/dP are approx. 2-4 times higher for the
+Ce-doped samples as compared to pure LaAgSb2, or even La0.75Nd0.25AgSb2
+Nd-doped with a comparable T1 (P=0). This increased sensitivity to pressure may
+be due to increasing Ce- hybridization under pressure. The magnetic ordering
+temperature of the cerium-doped compounds is also reduced by pressure, and the
+high pressure behavior of the Ce-doped samples is dominated by Kondo impurity
+scattering.

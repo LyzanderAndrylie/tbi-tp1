@@ -1,0 +1,23 @@
+We present the results of a survey of 45 young (<250 Myr), close (<50 pc)
+stars with the Simultaneous Differential Imager (SDI) implemented at the VLT
+and the MMT for the direct detection of extrasolar planets. As part of the
+survey, we observed 54 objects total, of which 45 were close, young stars, 2
+were somewhat more distant (<150 pc), very young (<10 Myr) stars, 3 were stars
+with known radial velocity planets, and 4 were older, very nearby (<20 pc)
+solar analogues. Our SDI devices use a double Wollaston prism and a quad filter
+to take images simultaneously at 3 wavelengths surrounding the 1.62 um methane
+absorption bandhead found in the spectrum of cool brown dwarfs and gas giant
+planets. In our VLT data, we achieved H band contrasts > 10 mag (5 sigma) at a
+separation of 0.5" from the primary star on 45% of our targets and H band
+contrasts of > 9 mag at a separation of 0.5'' on 80% of our targets. With this
+degree of attenuation, we should be able to image (5sigma detection) a 5
+M_{Jup} planet 15 AU from a 70 Myr K1 star at 15 pc or a 5 M_{Jup} planet at 2
+AU from a 12 Myr M star at 10 pc. We believe that our SDI images are the
+highest contrast astronomical images ever made from ground or space for methane
+rich companions <1'' from their star. For the best 20 of our survey stars, we
+attained 50% 5 sigma completeness for 6-10 M_Jup planets at semi-major axes of
+20-40 AU. Thus, our completeness levels are sufficient to significantly test
+theoretical planet distributions. From our survey null result, we can rule out
+(at the 98% confidence/2.0sigma level) a model planet population using a planet
+distribution where N(a) $\propto$ constant out to a distance of 45 AU (further
+model assumptions discussed within).

@@ -1,0 +1,20 @@
+In 1929 Heisenberg and Pauli laid the foundations of QFT by quantizing the
+fields (method of canonical quantization). This general theory of quantized
+fields has remained undisputed up to now. We show how the unmodified
+Heisenberg-Pauli calculations make sense mathematically by using a theory of
+generalized functions adapted to nonlinear operations. By providing an
+appropriate mathematical setting, nonlinear generalized functions open doors
+for their understanding but there remains presumably very hard technical
+problems. (i) Domains of the interacting field operators: a priori the H-P
+calculations give time dependent dense domains, what is not very convenient;
+(ii) Calculations of the resulting matrix elements of the S operator: from the
+unitarity of the S operator as a whole there are no longer ``infinities,'' but
+a priori there is no other hope than heavy computer calculations; (iii)
+Connection with renormalization theory: it should provide an approximation when
+the coupling constant is small. The aim of this paper is to present, on the
+grounds of a standard mathematical model of QFT (a self interacting scalar
+boson field), a basis for improvement without significant prerequisites in
+mathematics and physics. It is an attempt to use nonlinear generalized
+functions in QFT, starting directly from the calculations made by physicists,
+in the same way as they have already been used in classical mechanics and
+general relativity.

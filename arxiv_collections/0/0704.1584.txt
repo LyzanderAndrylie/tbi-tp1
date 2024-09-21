@@ -1,0 +1,16 @@
+We consider the problem of estimating the unconditional distribution of a
+post-model-selection estimator. The notion of a post-model-selection estimator
+here refers to the combined procedure resulting from first selecting a model
+(e.g., by a model selection criterion like AIC or by a hypothesis testing
+procedure) and then estimating the parameters in the selected model (e.g., by
+least-squares or maximum likelihood), all based on the same data set. We show
+that it is impossible to estimate the unconditional distribution with
+reasonable accuracy even asymptotically. In particular, we show that no
+estimator for this distribution can be uniformly consistent (not even locally).
+This follows as a corollary to (local) minimax lower bounds on the performance
+of estimators for the distribution; performance is here measured by the
+probability that the estimation error exceeds a given threshold. These lower
+bounds are shown to approach 1/2 or even 1 in large samples, depending on the
+situation considered. Similar impossibility results are also obtained for the
+distribution of linear functions (e.g., predictors) of the post-model-selection
+estimator.

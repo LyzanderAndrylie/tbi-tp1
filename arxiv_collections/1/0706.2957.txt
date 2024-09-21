@@ -1,0 +1,9 @@
+The general conclusion of Seevinck and Larsson is that our model exploits the
+so-called coincidence-time loophole and produces sinusoidal (quantum-like)
+correlations but does not model the singlet state because it does not violate
+the relevant Bell inequality derived by Larsson and Gill, since in order to
+obtain the sinusoidal correlations the probability of coincidences in our model
+goes to zero. In this reply, we refute their arguments that lead to this
+conclusion and demonstrate that our model can reproduce results of photon and
+ion-trap experiments with frequencies of coincidences that are not in conflict
+with the observations.

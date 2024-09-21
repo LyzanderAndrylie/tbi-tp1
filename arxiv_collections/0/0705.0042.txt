@@ -1,0 +1,7 @@
+Point-determining graphs are graphs in which no two vertices have the same
+neighborhoods, co-point-determining graphs are those whose complements are
+point-determining, and bi-point-determining graphs are those both
+point-determining and co-point-determining. Bicolored point-determining graphs
+are point-determining graphs whose vertices are properly colored with white and
+black. We use the combinatorial theory of species to enumerate these graphs as
+well as the connected cases.

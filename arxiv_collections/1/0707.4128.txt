@@ -1,0 +1,7 @@
+A spin-polarized current with the polarization perpendicular to the plane of
+a vortex-state disk results in renormalization of the effective damping for a
+given magnetization mode, and the effective damping becomes zero if the current
+exceeds a threshold value. The lowest threshold current corresponds to the
+lowest frequency vortex gyroscopic mode. For larger values of the current the
+dynamic magnetization state is characterized by precession of the vortex around
+the dot center with non-small amplitude and higher frequency.

@@ -1,0 +1,14 @@
+Recently, it has been shown that, when the dimension of a graph turns out to
+be infinite dimensional in a broad sense, the upper critical surface and the
+corresponding critical behavior of an arbitrary Ising spin glass model defined
+over such a graph, can be exactly mapped on the critical surface and behavior
+of a non random Ising model. A graph can be infinite dimensional in a strict
+sense, like the fully connected graph, or in a broad sense, as happens on a
+Bethe lattice and in many random graphs. In this paper, we firstly introduce
+our definition of dimensionality which is compared to the standard definition
+and readily applied to test the infinite dimensionality of a large class of
+graphs which, remarkably enough, includes even graphs where the tree-like
+approximation (or, in other words, the Bethe-Peierls approach), in general, may
+be wrong. Then, we derive a detailed proof of the mapping for all the graphs
+satisfying this condition. As a byproduct, the mapping provides immediately a
+very general Nishimori law.

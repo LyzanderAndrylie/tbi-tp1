@@ -1,0 +1,13 @@
+We investigate the dynamics of a one-dimensional asymmetric exclusion process
+with Langmuir kinetics and a fluctuating wall. At the left boundary, particles
+are injected onto the lattice; from there, the particles hop to the right.
+Along the lattice, particles can adsorb or desorb, and the right boundary is
+defined by a wall particle. The confining wall particle has intrinsic forward
+and backward hopping, a net leftward drift, and cannot desorb. Performing Monte
+Carlo simulations and using a moving-frame finite segment approach coupled to
+mean field theory, we find the parameter regimes in which the wall acquires a
+steady state position. In other regimes, the wall will either drift to the left
+and fall off the lattice at the injection site, or drift indefinitely to the
+right. Our results are discussed in the context of non-equilibrium phases of
+the system, fluctuating boundary layers, and particle densities in the lab
+frame versus the frame of the fluctuating wall.

@@ -1,0 +1,6 @@
+We consider electron waveguides (quantum wires) in graphene created by
+suitable inhomogeneous magnetic fields. The properties of uni-directional snake
+states are discussed. For a certain magnetic field profile, two spatially
+separated counter-propagating snake states are formed, leading to conductance
+quantization insensitive to backscattering by impurities or irregularities of
+the magnetic field.

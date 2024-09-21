@@ -1,0 +1,6 @@
+We study the voter model with a finite density of zealots--voters than never
+change opinion. For equal numbers of zealots of each species, the distribution
+of magnetization (opinions) is Gaussian in the mean-field limit as well as in
+one and two dimensions, with a width that is proportional to 1/sqrt{Z}, where Z
+is the number of zealots, independent of the total number of voters. Thus just
+a few zealots can prevent consensus or even the formation of a robust majority.

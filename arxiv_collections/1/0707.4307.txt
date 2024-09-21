@@ -1,0 +1,10 @@
+InGaAs avalanche photodiodes (APDs) are convenient for single photon
+detection in the near-infrared (NIR) including the fibre communication bands
+(1.31/1.55 $\mu$m). However, to suppress afterpulse noise due to trapped
+avalanche charge, they must be gated with MHz repetition frequencies, thereby
+severely limiting the count rate in NIR applications. Here we show gating
+frequencies for InGaAs-APDs well beyond 1 GHz. Using a self-differencing
+technique to sense much weaker avalanches, we reduce drastically afterpulse
+noise. At 1.25 GHz, we obtain a detection efficiency of 10.8% with an
+afterpulse probability of 6.16%. In addition, the detector features low jitter
+(55 ps) and a count rate of 100 MHz.

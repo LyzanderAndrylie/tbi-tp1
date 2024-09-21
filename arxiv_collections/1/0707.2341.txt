@@ -1,0 +1,8 @@
+Social interactions and personal tastes shape our consumption behavior of
+cultural products. In this study, we present a computational model of a
+cultural market and we aim to analyze the behavior of the consumer population
+as an emergent phenomena. Our results suggest that the final market shares of
+cultural products dramatically depend on consumer heterogeneity and social
+interaction pressure. Furthermore, the relation between the resulting market
+shares and social interaction is robust with respect to a wide range of
+variation in the parameter values and the type of topology.

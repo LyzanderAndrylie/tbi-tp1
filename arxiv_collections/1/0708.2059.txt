@@ -1,0 +1,13 @@
+Molecular orientation fluctuations in ferroelectric smectic liquid crystals
+produce space charges, due to the divergence of the spontaneous polarization.
+These space charges interact with mobile ions, so that one must consider the
+coupled dynamics of the orientation and ionic degrees of freedom. Previous
+theory and light scattering experiments on thin free-standing films of
+ferroelectric liquid crystals have not included this coupling, possibly
+invalidating their quantitative conclusions. We consider the most important
+case of very slow ionic dynamics, compared to rapid orientational fluctuations,
+and focus on the use of a short electric field pulse to quench orientational
+fluctuations. We find that the resulting change in scattered light intensity
+must include a term due to the quasistatic ionic configuration, which has
+previously been ignored. In addition to developing the general theory, we
+present a simple model to demonstrate the role of this added term.

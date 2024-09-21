@@ -1,0 +1,5 @@
+We propose an exact form of the fusion matrix of the Neveu-Schwarz blocks
+that appear in a correlation function of four super-primary fields.
+Orthogonality relation satisfied by this matrix is equivalent to the bootstrap
+equation for the four-point super-primary correlator in the N=1 supersymmetric
+Liouville theory.

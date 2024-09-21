@@ -1,0 +1,12 @@
+The shape of ferromagnetic resonance spectra of highly dispersed, chemically
+disordered Fe_{0.2}Pt_{0.8} nanospheres is perfectly described by the solution
+of the Landau-Lifshitz-Gilbert (LLG) equation excluding effects by crystalline
+anisotropy and superparamagnetic fluctuations. Upon decreasing temperature, the
+LLG damping $\alpha(T)$ and a negative g-shift, g(T)-g_0, increase proportional
+to the particle magnetic moments determined from the Langevin analysis of the
+magnetization isotherms. These novel features are explained by the scattering
+of the $q \to 0$ magnon from an electron-hole (e/h) pair mediated by the
+spin-orbit coupling, while the sd-exchange can be ruled out. The large
+saturation values, $\alpha(0)=0.76$ and $g(0)/g_0-1=-0.37$, indicate the
+dominance of an overdamped 1 meV e/h-pair which seems to originate from the
+discrete levels of the itinerant electrons in the d_p=3 nm nanoparticles.

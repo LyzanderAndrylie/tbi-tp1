@@ -1,0 +1,7 @@
+The present article is devoted to a fine study of the convergence of
+renormalized weighted quadratic and cubic variations of a fractional Brownian
+motion $B$ with Hurst index $H$. In the quadratic (resp. cubic) case, when
+$H<1/4$ (resp. $H<1/6$), we show by means of Malliavin calculus that the
+convergence holds in $L^2$ toward an explicit limit which only depends on $B$.
+This result is somewhat surprising when compared with the celebrated Breuer and
+Major theorem.

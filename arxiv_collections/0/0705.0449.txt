@@ -1,0 +1,10 @@
+We propose a new algorithm to the problem of polygonal curve approximation
+based on a multiresolution approach. This algorithm is suboptimal but still
+maintains some optimality between successive levels of resolution using dynamic
+programming. We show theoretically and experimentally that this algorithm has a
+linear complexity in time and space. We experimentally compare the outcomes of
+our algorithm to the optimal "full search" dynamic programming solution and
+finally to classical merge and split approaches. The experimental evaluations
+confirm the theoretical derivations and show that the proposed approach
+evaluated on 2D coastal maps either show a lower time complexity or provide
+polygonal approximations closer to the input discrete curves.

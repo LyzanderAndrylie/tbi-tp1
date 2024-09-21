@@ -1,0 +1,6 @@
+This article demonstrates how to develop a Microchip PIC16F84 based device
+that supports RS-232 interface with PC. Circuit (LED Board) design and software
+development will be discussed. PicBasic Pro Compiler from microEngineering
+Labs, Inc. is used for PIC programming. Development of LED Board Control
+Console using C/C++ is also briefly discussed. The project requires basic work
+experience with Microchip PICs, serial communication and programming.

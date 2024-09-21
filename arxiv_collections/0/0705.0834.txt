@@ -1,0 +1,9 @@
+Let $k$ be an algebraically closed field of characteristic 2, and let $W$ be
+the ring of infinite Witt vectors over $k$. Suppose $D$ is a dihedral 2-group.
+We prove that the universal deformation ring $R(D,V)$ of an endo-trivial
+$kD$-module $V$ is always isomorphic to $W[\mathbb{Z}/2\times\mathbb{Z}/2]$. As
+a consequence we obtain a similar result for modules $V$ with stable
+endomorphism ring $k$ belonging to an arbitrary nilpotent block with defect
+group $D$. This confirms for such $V$ conjectures on the ring structure of the
+universal deformation ring of $V$ which had previously been shown for $V$
+belonging to cyclic blocks or to blocks with Klein four defect groups.

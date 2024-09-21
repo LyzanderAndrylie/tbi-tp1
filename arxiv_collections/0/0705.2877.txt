@@ -1,0 +1,16 @@
+The possibility to recover the which-way information, for example in the two
+slit experiment, is based on a natural but implicit assumption about the
+position of a particle {\it before} a position measurement is performed on it.
+This assumption cannot be deduced from the standard postulates of quantum
+mechanics. In the present paper this assumption is made explicit and formally
+postulated as a new rule, the {\it quantum typicality rule}. This rule
+correlates the positions of the particles at two different times, thus defining
+their trajectories. Unexpectedly, this rule is also equivalent to the Born rule
+with regard to the explanation of the results of statistical experiments. For
+this reason it can be considered a generalization of the Born rule. The
+existence of the quantum typicality rule strongly suggests the possibility of a
+new trajectory-based formulation of quantum mechanics. According to this new
+formulation, a closed quantum system is represented as a {\it quantum process},
+which corresponds to a canonical stochastic process in which the probability
+measure is replaced by the wave function and the usual frequentist
+interpretation of probability is replaced by the quantum typicality rule.

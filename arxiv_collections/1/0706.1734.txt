@@ -1,0 +1,7 @@
+The design and characteristics of the new very small angle neutron scattering
+spectrometer under construction at the Laboratoire Leon Brillouin is described.
+Its goal is to extend the range of scattering vectors magnitudes towards
+2x10{-4} /A. The unique feature of this new spectrometer is a high resolution
+two dimensional image plate detector sensitive to neutrons. The wavelength
+selection is achieved by a double reflection supermirror monochromator and the
+collimator uses a novel multibeam design.

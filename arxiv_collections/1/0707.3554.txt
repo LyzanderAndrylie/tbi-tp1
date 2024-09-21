@@ -1,0 +1,20 @@
+In the present work we deal with the dynamics of wave packets in a
+two-dimensional crystal under the action of magnetic and electric fields. The
+magnetic field is perpendicular to the plane and the electric field is on the
+plane. In the simulations we considered a symmetric gauge for the vector
+potential while the initial wave packet was assumed to have a gaussian
+structure with given velocities. The parameters that control the kind of time
+evolution of the packets are: the width of the gaussian, its velocity, and, the
+intensity and direction of the electric field as well as the magnitude of the
+magnetic field. In order to characterize the kind of propagation we evaluated
+the mean-square displacement (MSD), the participation function and which is
+more important we were able to follow the wave at different times, which
+allowed us to see the time evolution of the centroid of the wave packets. A
+novel effect was observed, namely, the dynamics is such that the wave function
+\emph{splits} into two or more components and \emph{reconstructs} successively
+as time goes, vortices are forming. To our understanding this is the first time
+such an effect is reported. As for the inclusion of the electric field, we
+observe a complex behavior of the wave packet as well as note that the vortices
+propagate in direction perpendicular to the applied electric field. A similar
+behavior presented by the classical treatment, In our case we give a quantum
+mechanics explanation for that

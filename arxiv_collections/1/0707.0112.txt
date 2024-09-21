@@ -1,0 +1,4 @@
+In this note, we give some holomorphy conditions of Fuji-Suzuki coupled
+Painlev\'e VI system. We also give two translation operators acting on the
+constant parameter $\eta$. We note a confluence process from the Fuji-Suzuki
+system to the Noumi-Yamada system of type $A_5^{(1)}$.

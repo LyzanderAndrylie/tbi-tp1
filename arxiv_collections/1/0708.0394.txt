@@ -1,0 +1,17 @@
+Application of the magnetic field parallel to the plane of the graphene sheet
+leads to the formation of electron- and hole-like Fermi surfaces. Such
+situation is shown to be unstable with respect to the formation of an excitonic
+condensate even for an arbitrary weak magnetic field and interaction strength.
+At temperatures lower than the mean-field temperature the order parameter
+amplitude is formed. The order parameter itself is a U(2) matrix allowing for
+the combined rotations in the spin and valley spaces. These rotations smoothly
+interpolate between site and bond centered spin density waves and spin flux
+states. The trigonal warping, short range interactions, and the three particle
+Umklapp processes freeze some degrees of freedom at temperatures much smaller
+than the mean-field transition temperature and make either
+Berezinskii-Kosterlitz-Thouless (driven either by vortices or half-vortices) or
+Ising type transitions possible. Strong logarithmic renormalization for the
+coupling constants of these terms by the Coulomb interaction are calculated
+within one-loop renormalization group. It is found that in the presence of the
+Coulomb interaction some short range interaction terms become much greater than
+one might expect from the naive dimensionality counting.

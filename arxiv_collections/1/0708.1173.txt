@@ -1,0 +1,5 @@
+A discrete time model that is capable of replicating the basic features of
+cardiac cell action potentials is suggested. The paper shows how the map-based
+approaches can be used to design highly efficient computational models
+(algorithms) that enable large-scale simulations and analysis of discrete
+network models of cardiac activity.

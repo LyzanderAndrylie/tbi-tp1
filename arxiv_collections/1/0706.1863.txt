@@ -1,0 +1,10 @@
+To determine the superconducting gap function of YNi2B2C, we calculate the
+local density of states (LDOS) around a single vortex core with the use of
+Eilenberger theory and the band structure calculated by local density
+approximation assuming various gap structures with point-nodes at different
+positions. We also calculate the angular-dependent heat capacity in the vortex
+state on the basis of the Doppler-Shift method. Comparing our results with the
+STM/STS experiment, the angular-dependent heat capacity and thermal
+conductivity, we propose the gap-structure of YNi2B2C, which has the
+point-nodes and gap minima along <110>. Our gap-structure is consistent with
+all results of angular-resolved experiments.

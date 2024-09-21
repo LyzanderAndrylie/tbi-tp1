@@ -1,0 +1,11 @@
+We present a search for the lepton flavor violating decay B+ --> K+ tau-/+
+mu+/- using 383 million B Bbar events collected by the BABAR experiment. The
+branching fraction for this decay can be substantially enhanced in new physics
+models. The kinematics of the tau from the signal B decay are inferred from the
+K+, mu, and other B in the event, which is fully reconstructed in one of a
+variety of hadronic decay modes, allowing the signal B candidate to be fully
+reconstructed. We observe no excess of events over the expected background and
+set a limit of B(B+ --> K+ tau mu) < 7.7 x 10^-5 at 90% confidence level, where
+the branching fraction is for the sum of the K+ tau- mu+ and K+ tau+ mu- final
+states. We use this result to improve a model-independent bound on the energy
+scale of flavor-changing new physics.

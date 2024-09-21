@@ -1,0 +1,8 @@
+For an ideal D-dimensional Fermi gas under generic external confinement we
+derive the correcting coefficient $(D-2)/3D$ of the von Weizsacker term in the
+kinetic energy density. To obtain this coefficient we use the Kirzhnits
+semiclassical expansion of the number operator up to the second order in the
+Planck constant $\hbar$. Within this simple and direct approach we determine
+the differential equation of the density profile and the density functional of
+the Fermi gas. In the case D=2 we find that the Kirzhnits gradient corrections
+vanish to all order in $\hbar$.

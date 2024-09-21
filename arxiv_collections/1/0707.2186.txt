@@ -1,0 +1,6 @@
+On the torus group, on the group of p-adic integers and on the p-adic
+solenoid, we give a construction of an arbitrary weakly infinitely divisible
+probability measure using a random element with values in a product of
+(possibly infinitely many) subgroups of the real numbers. As a special case of
+our results, we have a new construction of the Haar measure on the p-adic
+solenoid.

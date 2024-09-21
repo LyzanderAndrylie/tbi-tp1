@@ -1,0 +1,11 @@
+We have performed photometric observations of nearly 7 million stars with 8 <
+V < 15 with the SuperWASP-North instrument from La Palma between 2004
+May-September. Fields in the RA range 17-18hr, yielding over 185,000 stars with
+sufficient quality data, have been searched for transits using a modified box
+least-squares (BLS) algorithm. We find a total of 58 initial transiting
+candidates which have high S/N in the BLS, show multiple transit-like dips and
+have passed visual inspection. Analysis of the blending and inferred planetary
+radii for these candidates leaves a total of 7 transiting planet candidates
+which pass all the tests plus 4 which pass the majority. We discuss the derived
+parameters for these candidates and their properties and comment on the
+implications for future transit searches.

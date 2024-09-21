@@ -1,0 +1,9 @@
+Although conservation of energy is fundamental in physics, its principles
+seem to be violated in the field of wave propagation in turbid media by the
+energy enhancement of the coherent backscattering cone. In this letter we
+present experimental data which show that the energy enhancement of the cone is
+balanced by an energy cutback at all scattering angles. Moreover, we give a
+complete theoretical description, which is in good agreement with these data.
+The additional terms needed to enforce energy conservation in this description
+result from an interference effect between incident and multiply scattered
+waves, which is reminiscent of the optical theorem in single scattering.

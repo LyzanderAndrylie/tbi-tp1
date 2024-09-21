@@ -1,0 +1,8 @@
+This letter is the first report of the KL -> pi+- e-+ nu e+ e- decay. Based
+on 19208+-144 events, we determine the branching fraction, B(KL -> pi+- e-+ nu
+e+ e-; Mee > 5 MeV/c^2, E*ee > 30 MeV) = (1.285+-0.041)x10^-5, and Gamma(Ke3ee;
+Mee >5 MeV/c^2) / Gamma(Ke3) = [4.57+-0.04(stat)+-0.14(syst)]x10^-5. This ratio
+agrees with a theoretical prediction based on chiral perturbation theory (ChPT)
+calculated to O(p^4). The measured kinematical distributions agree with those
+predicted by just ChPT O(p^4), but show significant disagreement with ones
+predicted by leading order ChPT.

@@ -1,0 +1,5 @@
+We use a T-matrix approximation to calculate the single particle spectrum of
+the normal state of a gas of Fermionic atoms at low temperature.
+  In the strongly interacting regime of the polarized gas, we find that the
+spectrum is separated in two branches, leading to a double-peaked
+radiofrequency spectral feature.

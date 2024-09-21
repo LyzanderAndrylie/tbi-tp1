@@ -1,0 +1,21 @@
+We present preliminary results of Particle-In-Cell simulations of magnetic
+turbulence production by isotropic cosmic-ray ions streaming upstream of
+supernova remnant shocks. The studies aim at testing the MHD predictions by
+Bell (2004, 2005) of a strong amplification of short-wavelength nonresonant
+wave modes and at studying the subsequent evolution of the magnetic turbulence
+and its backreaction on cosmic ray trajectories. The detailed knowledge of the
+upstream turbulence properties is crucial to ascertain all aspects of the shock
+acceleration process - the transport properties of cosmic rays, the shock
+structure, thermal particle injection and heating processes. An amplification
+of magnetic field would also facilitate the acceleration of particles beyond
+the "knee" in the cosmic-ray spectrum. Our kinetic approach is particularly
+suited to address the backreaction on the cosmic rays, and it allows us to test
+Bell's prediction of the eventual formation of extended filamentary structure
+in the cosmic-ray distribution and also to arrive at a reliable estimate of the
+total saturation magnetic-field level. The parameters chosen for the
+simulations are favorable for the rapid excitation of purely growing modes. We
+confirm the generation of the turbulent magnetic field due to the drift of
+cosmic-ray ions in the upstream plasma, but show that the growth rate of the
+field perturbations is much slower than estimated using the MHD approach and
+the amplitude of the turbulence saturates at about dB/B~1. The magnetic field
+also remains below equipartition with the upstream plasma.

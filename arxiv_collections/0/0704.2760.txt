@@ -1,0 +1,12 @@
+We calculate the tunneling conductance of a graphene normal
+metal-insulator-superconductor (NIS) junction with a barrier of thickness $d$
+and with an arbitrary voltage $V_0$ applied across the barrier region. We
+demonstrate that the tunneling conductance of such a NIS junction is an
+oscillatory function of both $d$ and $V_0$. We also show that the periodicity
+and amplitude of such oscillations deviate from their universal values in the
+thin barrier limit as obtained in earlier work [Phys. Rev. Lett. {\bf 97},
+217001 (2006)] and become a function of the applied voltage $V_0$. Our results
+reproduces the earlier results on tunneling conductance of such junctions in
+the thin [Phys. Rev. Lett. {\bf 97}, 217001 (2006)] and zero [Phys. Rev. Lett.
+{\bf 97}, 067007 (2006)] barrier limits as special limiting cases. We discuss
+experimental relevance of our results.

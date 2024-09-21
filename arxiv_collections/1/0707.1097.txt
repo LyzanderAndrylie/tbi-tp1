@@ -1,0 +1,10 @@
+Given a quantum channel $\Phi $ in a Hilbert space $H$ put $\hat
+H_{\Phi}(\rho)=\min \limits_{\rho_{av}=\rho}\Sigma_{j=1}^{k}\pi_{j}S(\Phi
+(\rho_{j}))$, where $\rho_{av}=\Sigma_{j=1}^{k}\pi_{j}\rho_{j}$, the minimum is
+taken over all probability distributions $\pi =\{\pi_{j}\}$ and states
+$\rho_{j}$ in $H$, $S(\rho)=-Tr\rho\log\rho$ is the von Neumann entropy of a
+state $\rho$. The strong superadditivity conjecture states that $\hat H_{\Phi
+\otimes \Psi}(\rho)\ge \hat H_{\Phi}(Tr_{K}(\rho))+\hat H_{\Psi}(Tr_{H}(\rho))$
+for two channels $\Phi $ and $\Psi $ in Hilbert spaces $H$ and $K$,
+respectively. We have proved the strong superadditivity conjecture for the
+quantum depolarizing channel in any dimensions.

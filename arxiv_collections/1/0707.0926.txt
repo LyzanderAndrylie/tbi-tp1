@@ -1,0 +1,10 @@
+We describe several views of the semantics of a simple programming language
+as formal documents in the calculus of inductive constructions that can be
+verified by the Coq proof system. Covered aspects are natural semantics,
+denotational semantics, axiomatic semantics, and abstract interpretation.
+Descriptions as recursive functions are also provided whenever suitable, thus
+yielding a a verification condition generator and a static analyser that can be
+run inside the theorem prover for use in reflective proofs. Extraction of an
+interpreter from the denotational semantics is also described. All different
+aspects are formally proved sound with respect to the natural semantics
+specification.

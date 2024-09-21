@@ -1,0 +1,19 @@
+We study the dynamics and resulting score distribution of three-agent games
+where after each competition a single agent wins and scores a point. A single
+competition is described by a triplet of numbers $p$, $t$ and $q$ denoting the
+probabilities that the team with the highest, middle or lowest accumulated
+score wins. We study the full family of solutions in the regime, where the
+number of agents and competitions is large, which can be regarded as a
+hydrodynamic limit. Depending on the parameter values $(p,q,t)$, we find six
+qualitatively different asymptotic score distributions and we also provide a
+qualitative understanding of these results. We checked our analytical results
+against numerical simulations of the microscopic model and find these to be in
+excellent agreement. The three agent game can be regarded as a social model
+where a player can be favored or disfavored for advancement, based on his/her
+accumulated score. It is also possible to decide the outcome of a three agent
+game through a mini tournament of two-a gent competitions among the
+participating players and it turns out that the resulting possible score
+distributions are a subset of those obtained for the general three agent-games.
+We discuss how one can add a steady and democratic decline rate to the model
+and present a simple geometric construction that allows one to write down the
+corresponding score evolution equations for $n$-agent games.

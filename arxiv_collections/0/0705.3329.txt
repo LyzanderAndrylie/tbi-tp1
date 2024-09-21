@@ -1,0 +1,17 @@
+We study bottlebrush macromolecules in a good solvent by small-angle neutron
+scattering (SANS), static light scattering (SLS), and dynamic light scattering
+(DLS). These polymers consist of a linear backbone to which long side chains
+are chemically grafted. The backbone contains about 1600 monomer units (weight
+average) and every second monomer unit carries side-chains with ca. 60 monomer
+units. The SLS- and SANS data extrapolated to infinite dilution lead to the
+form factor of the polymer that can be described in terms of a worm-like chain
+with a contour length of 380 nm and a persistence length of 17.5 nm. An
+analysis of the DLS data confirm these model parameters. The scattering
+intensities taken at finite concentration can be modeled using the polymer
+reference interaction site model. It reveals a softening of the bottlebrush
+polymers caused by their mutual interaction. We demonstrate that the
+persistence decreases from 17.5 nm down to 5 nm upon increasing the
+concentration from dilute solution to the highest concentration 40.59 g/l under
+consideration. The observed softening of the chains is comparable to the
+theoretically predicted decrease of the electrostatic persistence length of
+linear polyelectrolyte chains at finite concentrations.

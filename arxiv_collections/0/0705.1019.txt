@@ -1,0 +1,8 @@
+We have developed a linearization method to investigate the subthreshold
+oscillatory behaviors in nonlinear autonomous systems. By considering firstly
+the neuronal system as an example, we show that this theoretical approach can
+predict quantitatively the subthreshold oscillatory activities, including the
+damping coefficients and the oscillatory frequencies which are in good
+agreement with those observed in experiments. Then we generalize the
+linearization method to an arbitrary autonomous nonlinear system. The detailed
+extension of this theoretical approach is also presented and further discussed.

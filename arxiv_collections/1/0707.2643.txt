@@ -1,0 +1,23 @@
+I discuss a number of novel topics in QCD, including the use of the AdS/CFT
+correspondence between Anti-de Sitter space and conformal gauge theories to
+obtain an analytically tractable approximation to QCD in the regime where the
+QCD coupling is large and constant. In particular, there is an exact
+correspondence between the fifth-dimension coordinate z of AdS space and a
+specific impact variable zeta which measures the separation of the quark
+constituents within the hadron in ordinary space-time. This connection allows
+one to compute the analytic form of the frame-independent light-front
+wavefunctions of mesons and baryons, the fundamental entities which encode
+hadron properties and allow the computation of exclusive scattering amplitudes.
+I also discuss a number of novel phenomenological features of QCD. Initial- and
+final-state interactions from gluon-exchange, normally neglected in the parton
+model, have a profound effect in QCD hard-scattering reactions, leading to
+leading-twist single-spin asymmetries, diffractive deep inelastic scattering,
+diffractive hard hadronic reactions, the breakdown of the Lam Tung relation in
+Drell-Yan reactions, and nuclear shadowing and non-universal
+antishadowing--leading-twist physics not incorporated in the light-front
+wavefunctions of the target computed in isolation. I also discuss tests of
+hidden color in nuclear wavefunctions, the use of diffraction to materialize
+the Fock states of a hadronic projectile and test QCD color transparency, and
+anomalous heavy quark effects. The presence of direct higher-twist processes
+where a proton is produced in the hard subprocess can explain the large
+proton-to-pion ratio seen in high-centrality heavy-ion collisions.

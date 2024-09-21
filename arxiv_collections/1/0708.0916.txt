@@ -1,0 +1,8 @@
+We present an analytical calculation of the next-to-next-to-leading order
+corrections to the partial decay width $H\to gg$ for a Higgs boson in the
+intermediate mass range. We apply an asymptotic expansion for $M_H\ll 2M_t$ and
+compute three terms in the expansion. The leading term confirms the results
+present in the literature. It is argued that our result is equivalent to an
+exact calculation up to $M_H\approx M_t$. For a Higgs boson mass of 120 GeV the
+power-suppressed terms lead to corrections of about 9% in the
+next-to-next-to-leading order coefficient.

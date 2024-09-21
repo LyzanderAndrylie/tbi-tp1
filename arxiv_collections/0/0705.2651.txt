@@ -1,0 +1,11 @@
+We have performed high spatial resolution observations of SiO line emission
+for a sample of 11 AGB stars using the ATCA, VLA and SMA interferometers.
+Detailed radiative transfer modelling suggests that there are steep chemical
+gradients of SiO in their circumstellar envelopes. The emerging picture is one
+where the radial SiO abundance distribution starts at an initial high
+abundance, in the case of M-stars consistent with LTE chemistry, that
+drastically decreases at a radius of ~1E15 cm. This is consistent with a
+scenario where SiO freezes out onto dust grains. The region of the wind with
+low abundance is much more extended, typically ~1E16 cm, and limited by
+photodissociation. The surpisingly high SiO abundances found in carbon stars
+requires non-equilibrium chemical processes.

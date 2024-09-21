@@ -1,0 +1,10 @@
+Nonlinear dynamics and pattern formation in the systems with quadratic
+nonlinearity is computed symbolically by specially developed MATHEMATICA
+package. A Web interface for the presented methods is developed, which turns
+the implementations from only locally available software to Web-based services
+that can be accessed from any computer in the Internet that is equipped with a
+Web browser. In particular, the results are not bound to the current
+Mathematica implementation but can be adapted to any other computer algebra
+system (e.g. Maple) or numerical software system (e.g.MATLAB) of similar
+expressiveness. Barotropic vorticity equation (=Hasegawa-Mima equation) with
+zero boundary conditions on a square is taken as a main example.

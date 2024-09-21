@@ -1,0 +1,5 @@
+We present a new benchmarking procedure that is unambiguous and specific to
+local community-finding methods, allowing one to compare the accuracy of
+various methods. We apply this to new and existing algorithms. A simple class
+of synthetic benchmark networks is also developed, capable of testing
+properties specific to these local methods.

@@ -1,0 +1,13 @@
+We investigate the transition form factors between nucleon and $\Delta$(1232)
+particles by using a covariant quark-spectator-diquark field theory model in
+(3+1) dimensions. Performing a light-front calculation in parallel with the
+manifestly covariant calculation in light-front helicity basis, we examine the
+light-front zero-mode contribution to the helicity components of light-front
+good ("+") current matrix elements. Choosing the light-front gauge
+($\epsilon^+_{h=\pm}=0$) with circular polarization in Drell-Yan-West frame, we
+find that only the helicity components $({1\over 2}, {1\over 2})$ and $({1\over
+2},-{1\over 2})$ of the good current receive the zero-mode contribution. Taking
+into account the zero-mode, we find the prescription independence in obtaining
+the light-front solution of form factors from any three helicity matrix
+elements with smeared light-front wavefunctions. The angular condition, which
+guarantees the full covariance of different schemes, is recovered.

@@ -1,0 +1,7 @@
+Superconducting quantum circuits, fabricated with multiple layers, are
+proposed to implement perfect quantum state transfer between nodes of a
+hypercube network. For tunable devices such as the phase qubit, each node can
+transmit quantum information to any other node at a constant rate independent
+of the distance between qubits. The physical limits of quantum state transfer
+in this network are theoretically analyzed, including the effects of disorder,
+decoherence, and higher-order couplings.

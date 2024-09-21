@@ -1,0 +1,11 @@
+Let $X$ be a smooth variety over an algebraically closed field $k$ of
+positive characteristic, ${\rm D}_X$ the sheaf of PD-differential operators,
+and ${\bar D}_X$ its central reduction, the sheaf of small differential
+operators. In this paper we show that if $X$ is a line-hyperplane incidence
+variety (a partial flag variety of type $(1,n,n+1)$) or a quadric of arbitrary
+dimension (in this case the characteristic is supposed to be odd) then ${\rm
+H}^{i}(X,{\bar D}_X)=0$ for $i>0$. Using this vanishing result and the derived
+localization theorem for crystalline differential operators (\cite{BMR}) we
+show that the Frobenius pushforward of the structure sheaf is a tilting bundle
+on these varieties, provided that $p>h$, the Coxeter number of the
+corresponding group.

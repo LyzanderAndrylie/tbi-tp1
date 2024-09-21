@@ -1,0 +1,8 @@
+Let $S$ be the cyclotomic $q$-Schur algebra associated to the Ariki-Koike
+algebra $H_{n,r}$ of rank $n$, introduced by Dipper-James-Mathas. For each $p =
+(r_1, ..., r_g)$ such that $r_1 + ... + r_g = r$, we define a subalgebra $S^p$
+of $S$ and its quotient algebra $\bar S^p$. It is shown that $S^p$ is a
+standardly based algebra and $\bar S^p$ is a cellular algebra. By making use of
+these algebras, we show that certain decomposition numbers for $S$ can be
+expressed as a product of decomposition numbers for cyclotomic $q$-Schur
+algebras associated to smaller Ariki_koike algebras $H_{n_k,r_k}$.

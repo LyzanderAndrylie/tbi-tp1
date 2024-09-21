@@ -1,0 +1,12 @@
+In this paper, we consider the statistical analysis of a protein interaction
+network. We propose a Bayesian model that uses a hierarchy of probabilistic
+assumptions about the way proteins interact with one another in order to: (i)
+identify the number of non-observable functional modules; (ii) estimate the
+degree of membership of proteins to modules; and (iii) estimate typical
+interaction patterns among the functional modules themselves. Our model
+describes large amount of (relational) data using a relatively small set of
+parameters that we can reliably estimate with an efficient inference algorithm.
+We apply our methodology to data on protein-to-protein interactions in
+saccharomyces cerevisiae to reveal proteins' diverse functional roles. The case
+study provides the basis for an overview of which scientific questions can be
+addressed using our methods, and for a discussion of technical issues.

@@ -1,0 +1,19 @@
+Nowadays, to achieve competitive advantage, the industrial companies are
+considering that success is sustained to great product development. That is to
+manage the product throughout its entire lifecycle. Achieving this goal
+requires a tight collaboration between actors from a wide variety of domains,
+using different software tools producing various product data types and
+formats. The actors' collaboration is mainly based on the exchange /share
+product information. The representation of the actors' viewpoints is the
+underlying requirement of the collaborative product development. The multiple
+viewpoints approach was designed to provide an organizational framework
+following the actors' perspectives in the collaboration, and their
+relationships. The approach acknowledges the inevitability of multiple
+integration of product information as different views, promotes gathering of
+actors' interest, and encourages retrieved adequate information while providing
+support for integration through PLM and/or SCM collaboration. In this paper, a
+multiple viewpoints representation is proposed. The product, process,
+organization information models are discussed. A series of issues referring to
+the viewpoints representation are discussed in detail. Based on XML standard,
+taking electrical connector as an example, an application case of part of
+product information modeling is stated.

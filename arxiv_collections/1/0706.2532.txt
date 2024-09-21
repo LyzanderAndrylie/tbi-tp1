@@ -1,0 +1,11 @@
+Proposed symmetry relations, e.g., quark-lepton complementarity (QLC) or
+tribimaximal mixing (TBM), need to be imposed at a high scale $\wedge \sim
+10^{12}$ GeV characterising the large masses of right-handed neutrinos required
+to implement the seesaw mechanism. RG evolution down to the laboratory scale
+$\lambda \sim 10^3$ GeV, generically prone to spoil these relations and their
+predicted neutrino mixing patterns, can be made to preserve them by
+appropriately constraining the Majorana phases $\alpha_{2,3}$. This is
+explicitly demonstrated in the MSSM for two versions of QLC and two versions of
+TBM. A preference for $\alpha_2 \simeq \pi$ (i.e. $m_1 \simeq - m_2$) emerges
+in each case. Discrimination among the four cases is shown to be possible by
+future measurements of $\theta_{13}$.

@@ -1,0 +1,13 @@
+In this paper, we demonstrate the efficiency of simulations via direct
+computation of the partition function under various macroscopic conditions,
+such as different temperatures or volumes. The method can compute partition
+functions by flattening histograms, through the Wang-Landau recursive scheme,
+outside the energy space. This method offers a more general and flexible
+framework for handling various types of ensembles, especially the ones in which
+computation of the density of states is not convenient. It can be easily scaled
+to large systems, and it is flexible in incorporating Monte Carlo cluster
+algorithms or molecular dynamics. High efficiency is shown in simulating large
+Ising models, in finding ground states of simple protein models, and in
+studying the liquid-vapor phase transition of a simple fluid. The method is
+very simple to implement and we expect it to be efficient in studying complex
+systems with rugged energy landscapes, e.g., biological macromolecules.

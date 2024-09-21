@@ -1,0 +1,11 @@
+We give an exact solution for the complete distribution of component sizes in
+random networks with arbitrary degree distributions. The solution tells us the
+probability that a randomly chosen node belongs to a component of size s, for
+any s. We apply our results to networks with the three most commonly studied
+degree distributions -- Poisson, exponential, and power-law -- as well as to
+the calculation of cluster sizes for bond percolation on networks, which
+correspond to the sizes of outbreaks of SIR epidemic processes on the same
+networks. For the particular case of the power-law degree distribution, we show
+that the component size distribution itself follows a power law everywhere
+below the phase transition at which a giant component forms, but takes an
+exponential form when a giant component is present.

@@ -1,0 +1,21 @@
+Cooperation and competition between the antiferromagnetic, d-wave
+superconducting and Mott-insulating states are explored for the two-dimensional
+Hubbard model including nearest and next-nearest-neighbor hoppings at zero
+temperature. Using the variational cluster approach with clusters of different
+shapes and sizes up to 10 sites, it is found that the doping-driven transition
+from a phase with microscopic coexistence of antiferromagnetism and
+superconductivity to a purely superconducting phase is discontinuous for strong
+interaction and accompanied by phase separation. At half-filling the system is
+in an antiferromagnetic Mott-insulating state with vanishing charge
+compressibility. Upon decreasing the interaction strength U below a certain
+critical value of roughly U=4 (in units of the nearest-neighbor hopping),
+however, the filling-dependent magnetic transition changes its character and
+becomes continuous. Phase separation or, more carefully, the tendency towards
+the formation of inhomogeneous states disappears. This critical value is in
+contrast to previous studies, where a much larger value was obtained. Moreover,
+we find that the system at half-filling undergoes the Mott transition from an
+insulator to a state with a finite charge compressibility at essentially the
+same value. The weakly correlated state at half-filling exhibits
+superconductivity microscopically admixed to the antiferromagnetic order. This
+scenario suggests a close relation between phase separation and the
+Mott-insulator physics.

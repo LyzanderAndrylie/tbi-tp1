@@ -1,0 +1,15 @@
+One proposed method for finding terrestrial planets around nearby stars is to
+use two spacecraft--a telescope and a specially shaped occulter that is
+specifically designed to prevent all but a tiny fraction of the starlight from
+diffracting into the telescope. As the cost and observing cadence for such a
+mission will be driven largely by the separation between the two spacecraft, it
+is critically important to design an occulter that can meet the observing goals
+while flying as close to the telescope as possible. In this paper, we explore
+this tradeoff between separation and occulter diameter. More specifically, we
+present a method for designing the shape of the outer edge of an occulter that
+is as small as possible and gives a shadow that is deep enough and large enough
+for a 4m telescope to survey the habitable zones of many stars for Earth-like
+planets. In particular, we show that in order for a 4m telescope to detect in
+broadband visible light a planet 0.06 arcseconds from a star shining $10^{10}$
+times brighter than the planet requires a specially-shaped occulter 50m in
+diameter positioned about $72,000$ km in front of the telescope.

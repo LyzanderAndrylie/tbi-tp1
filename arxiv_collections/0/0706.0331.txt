@@ -1,0 +1,14 @@
+The electronic correlations on a C$_{20}$ molecule, as described by an
+extended Hubbard Hamiltonian with a nearest neighbor Coulomb interaction of
+strength $V$, are studied using quantum Monte Carlo and exact diagonalization
+methods. For electron doped C$_{20}$, it is known that pair-binding arising
+from a purely electronic mechanism is absent within the standard Hubbard model
+(V=0). Here we show that this is also the case for hole doping for $0<U/t\leq
+3$ and that, for both electron and hole doping, the effect of a non-zero $V$ is
+to work against pair-binding. We also study the magnetic properties of the
+neutral molecule, and find transitions between spin singlet and triplet ground
+states for either fixed $U$ or $V$ values. In addition, spin, charge and
+pairing correlation functions on C$_{20}$ are computed. The spin-spin and
+charge-charge correlations are very short-range, although a weak enhancement in
+the pairing correlation is observed for a distance equal to the molecular
+diameter.

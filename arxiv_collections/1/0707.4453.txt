@@ -1,0 +1,13 @@
+We investigate propagating fronts in disordered media that belong to the
+universality class of wetting contact lines and planar tensile crack fronts. We
+derive from first principles their nonlinear equations of motion, using the
+generalized Griffith criterion for crack fronts and three standard mobility
+laws for contact lines. Then we study their roughness using the self-consistent
+expansion. When neglecting the irreversibility of fracture and wetting
+processes, we find a possible dynamic rough phase with a roughness exponent of
+$\zeta=1/2$ and a dynamic exponent of z=2. When including the irreversibility,
+we conclude that the front propagation can become history dependent, and thus
+we consider the value $\zeta=1/2$ as a lower bound for the roughness exponent.
+Interestingly, for propagating contact line in wetting, where irreversibility
+is weaker than in fracture, the experimental results are close to 0.5, while
+for fracture the reported values of 0.55--0.65 are higher.

@@ -1,0 +1,15 @@
+This paper investigates two situations in which the forward kinematics of
+planar 3-RPR parallel manipulators degenerates. These situations have not been
+addressed before. The first degeneracy arises when the three input joint
+variables r1, r2 and r3 satisfy a certain relationship. This degeneracy yields
+a double root of the characteristic polynomial in t, which could be erroneously
+interpreted as two coalesce assembly modes. But, unlike what arises in
+non-degenerate cases, this double root yields two sets of solutions for the
+position coordinates (x, y) of the platform. In the second situation, we show
+that the forward kinematics degenerates over the whole joint space if the base
+and platform triangles are congruent and the platform triangle is rotated by
+180 deg about one of its sides. For these "degenerate" manipulators, which are
+defined here for the first time, the forward kinematics is reduced to the
+solution of a 3rd-degree polynomial and a quadratics in sequence. Such
+manipulators constitute, in turn, a new family of analytic planar manipulators
+that would be more suitable for industrial applications.

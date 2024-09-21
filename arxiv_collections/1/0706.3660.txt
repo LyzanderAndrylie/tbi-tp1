@@ -1,0 +1,11 @@
+We have measured the polarization of Lambda0 and antiLambda0 inclusively
+produced by 610GeV/c Sigma- and 525GeV/c proton beams in the experiment SELEX
+during the 1996/7 fixed target run at Fermilab. The polarization was measured
+as a function of the Lambda longitudinal momentum fraction xF and transverse
+momentum pt. For the Lambda0 produced by Sigma- the polarization is increasing
+with xF, from slightly negative at x_F~0 to about 15% at large xF; it shows a
+non-monotonic behavior as a function of pt. For the proton beam, the Lambda0
+polarization is negative and decreasing as a function of xF and pt. The
+antiLambda0 polarization is compatible with 0 for both beam particles over the
+full kinematic range. The target dependence was examined but no statistically
+significant difference was found.

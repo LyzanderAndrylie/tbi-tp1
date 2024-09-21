@@ -1,0 +1,24 @@
+We present a multiwavelength study of the poor cluster RX J1117.4+0743 ([VMF
+98] 097) at z=0.485, based on GMOS/Gemini South g', r' photometry and
+spectroscopy, and XMM-Newton observations. We examine its nature and
+surroundings by analyzing the projected galaxy distribution, the galaxy
+velocity distribution, the weak-lensing mass reconstruction, and the X-ray
+spectroscopy and imaging. The cluster shows a complex morphology. It is
+composed by at least two structures along the line-of-sight, with velocity
+dispersions of 592+-82 km s^-1 and 391+-85 km s^-1 respectively. Other
+structures are also detected in X-ray, in the galaxy projected number density
+map, and by weak-lensing. One of these clumps, could be gravitationally bound
+and associated to the main cluster. The derived temperature and bolometric
+X-ray luminosity reveal that [VMF 98] 097 behave like a normal cluster, in
+agreement with Lx-Tx correlation found for both local (z=0) and moderate
+redshift (z~0.4) clusters. We find that the mass determination inferred from
+weak-lensing is in average 3 to 4.8 times higher (depending on the model
+assumed) than the X-ray mass. We have two possible explanations for this
+discrepancy: i) the cluster is in non-equilibrium, then the deviation of the
+X-ray estimated mass from the true value can be as high as a factor of two; ii)
+the intervening mass along the line-of-sight of the cluster is producing an
+over-estimation of the weak-lensing mass. Based on the analysis presented, we
+conclude that [VMF 98] 097 is a perturbed cluster with at least two
+substructures in velocity space and with other nearby structures at projected
+distances of about 1 h^-1 Mpc. This cluster is an example of a poor cluster
+caught in the process of accreting sub-structures to become a rich cluster.

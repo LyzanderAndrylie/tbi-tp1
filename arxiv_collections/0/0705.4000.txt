@@ -1,0 +1,8 @@
+In this paper, we introduce 3-dimensional $L-$summing method, which is a
+rearrangement of the summation $\sum A_{abc}$ with $1\leq a,b,c\leq n$.
+Applying this method on some special arrays, we obtain some identities on the
+Riemann zeta function and digamma function. Also, we give a Maple program for
+this method to obtain identities with input various arrays and out put
+identities concerning some elementary functions and hypergeometric functions.
+Finally, we introduce a further generalization of $L-$summing method in higher
+dimension spaces.

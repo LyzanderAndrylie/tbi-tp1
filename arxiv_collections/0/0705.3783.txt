@@ -1,0 +1,11 @@
+Landau level quantization in graphene reflects the Dirac nature of its
+quasiparticles and has been found to exhibit an unusual integer quantum Hall
+effect. In particular the lowest Landau level can be thought as shared equally
+by electrons and holes and this leads to characteristic behaviour of the
+magneto-optical conductivity as a function of frequency $\Omega$ for various
+values of the chemical potential $\mu$. Particular attention is paid to the
+optical spectral weight under various absorption peaks and its redistribution
+as $\mu$ is varied. We also provide results for magnetic field $B$ as well as
+chemical potential sweeps at selected fixed frequencies which can be
+particularly useful for possible measurements in graphene. Both diagonal and
+Hall conductivity are considered.

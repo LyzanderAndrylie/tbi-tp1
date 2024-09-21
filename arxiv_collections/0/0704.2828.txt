@@ -1,0 +1,8 @@
+We examine the nature of large-scale, coronal, propagating wave fronts (``EIT
+waves'') and find they are incongruous with solutions using fast-mode MHD
+plane-wave theory. Specifically, we consider the following properties:
+non-dispersive single pulse manifestions, observed velocities below the local
+Alfven speed, and different pulses which travel at any number of constant
+velocities, rather than at the ``predicted'' fast-mode speed. We discuss the
+possibility of a soliton-like explanation for these phenomena, and show how it
+is consistent with the above-mentioned aspects.

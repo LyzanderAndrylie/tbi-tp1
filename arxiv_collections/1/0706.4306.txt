@@ -1,0 +1,6 @@
+For any moduli space of stable representations of quivers, certain smooth
+varieties, compactifying projective space fibrations over the moduli space, are
+constructed. The boundary of this compactification is analyzed. Explicit
+formulas for the Betti numbers of the smooth models are derived. In the case of
+moduli of simple representations, explicit cell decompositions of the smooth
+models are constructed.

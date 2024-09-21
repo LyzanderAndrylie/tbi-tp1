@@ -1,0 +1,11 @@
+In the present review we make a comprehensive analysis of our understanding
+on electron transport in mesoscopic single-channel rings and multi-channel
+cylinders within a tight-binding framework. A spectacular mesoscopic phenomenon
+where a non-decaying current circulates in a small conducting loop is observed
+upon the application of an Aharonov-Bohm flux $\phi$. To understand its
+behavior one has to focus attention on the interplay of quantum phase
+coherence, electron-electron correlation and disorder. This is a highly
+challenging problem and here we address it for some simple loop geometries with
+their detailed energy band structures to get an entire picture at the
+microscopic level. The behavior of low-field magnetic response of persistent
+current and its temperature dependence are also discussed.

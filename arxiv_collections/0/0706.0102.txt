@@ -1,0 +1,12 @@
+The paper summarizes our latest progress in the development of newly
+introduced micro pattern gaseous detectors with resistive electrodes. These
+resistive electrodes protect the detector and the front-end electronics in case
+of occasional discharges and thus make the detectors very robust and reliable
+in operation. As an example, we describe in greater detail a new recently
+developed GEM-like detector, fully spark-protected with electrodes made of
+resistive kapton. We discovered that all resistive layers used in these studies
+(including kapton), that are coated with photosensitive layers, such as CsI,
+can be used as efficient photo cathodes for detectors operating in a pulse
+counting mode. We describe the first applications of such detectors combined
+with CsI or SbCs photo cathodes for the detection of UV photons at room and
+cryogenic temperatures.

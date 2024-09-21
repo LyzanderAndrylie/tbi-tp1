@@ -1,0 +1,11 @@
+The multiple scattering of high-energy particles in a thick target is
+fromulated in an impact parameter representation. A formalism similar but not
+identical to that of Moliere is obtained. We show that calculations of particle
+beam broadening due to multiple Coulomb scattering alone can be given in closed
+form. The focus of this study is on whether or not the broadening of the
+Coulomb angular distribution prevents the retrieval of nuclear-interaction
+information from mesauring the angular distributions of charged partiles
+scattered from a thick target. For this purpose, we study multiple scatterings
+with both the nuclear and Coulomb interactions included and we do not make a
+small-angle expansion. Condition for retrieving nuclear infomration from
+high-energy protons propagating through a block of material are obtained.

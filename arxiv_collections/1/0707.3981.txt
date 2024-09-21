@@ -1,0 +1,5 @@
+The representations of Clifford algebras and their involutions and
+anti-involutions are fully investigated since decades. However, these
+representations do sometimes not comply with usual conventions within physics.
+A few simple examples are presented, which point out that the hyperbolic
+numbers can close this gap.

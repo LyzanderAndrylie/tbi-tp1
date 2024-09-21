@@ -1,0 +1,12 @@
+We study the pulsational stability of the rapidly rotating Be star HD 163868
+using a newly developed 2D oscillation code which takes the Coriolis force
+fully into account and compare our results with observations (MOST) and recent
+other stability analyses of this ~ 6 Msun star. We find both prograde and
+retrograde overstable modes (although more prograde than retrograde modes) and
+confirm the existence of low degree odd r-modes destabilised by the
+kappa-mechanism. The ultra-low frequency modes that could not be explained in a
+previous analysis are interpreted as high degree, retrograde m=1 modes. A
+reasonably good fit to the observed oscillation spectrum is possible if we
+assume that only even modes are observed. This requires a nearly equator-on
+view of the observed star, consistent with the measured high v sin i value of
+250 km/s.

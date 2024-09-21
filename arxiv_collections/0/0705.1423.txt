@@ -1,0 +1,11 @@
+Let k be a finite field of odd characteristic. We find a closed formula for
+the number of k-isomorphism classes of pointed, and non-pointed, hyperelliptic
+curves of genus g over k, admitting a Koblitz model. These numbers are
+expressed as a polynomial in the cardinality q of k, with integer coefficients
+(for pointed curves) and rational coefficients (for non-pointed curves). The
+coefficients depend on g and the set of divisors of q-1 and q+1. These formulas
+show that the number of hyperelliptic curves of genus g suitable (in principle)
+of cryptographic applications is asymptotically (1-e^{-1})2q^{2g-1}, and not
+2q^{2g-1} as it was believed. The curves of genus g=2 and g=3 are more
+resistant to the attacks to the DLP; for these values of g the number of curves
+is respectively (91/72)q^3+O(q^2) and (3641/2880)q^5+O(q^4).

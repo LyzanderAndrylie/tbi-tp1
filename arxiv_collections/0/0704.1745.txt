@@ -1,0 +1,11 @@
+Using the previously derived confining gluon propagator, the corresponding
+system of equations determining the quark propagator is derived. The system of
+equations consists of the Schwinger-Dyson equation for the quark propagator
+itself, which includes the zero momentum transfer quark-gluon vertex. It is
+complemented by the Slavnov-Taylor identity for this vertex. The quark equation
+depends explicitly on the mass gap, determining the scale of the truly
+nonperturbative dynamics in the QCD ground state. The obtained system of
+equations is manifestly gauge-invariant, i.e., does not depend explicitly on
+the gauge-fixing parameter. It is also free from all the types of the
+perturbative contributions ("contaminations"), which may appear at the
+fundamental quark-gluon level.

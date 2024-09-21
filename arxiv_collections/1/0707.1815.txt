@@ -1,0 +1,15 @@
+The work which we present takes place within the framework of mission SMOS of
+the ESA which will consist to send a radiometer (1.4 GHz) in space. The goal of
+the research which we propose is the improvement of the comprehension of the
+effects of structure soil and litter. The effects of the litter and
+heterogeneities of the ground are probably important but still ignored. Its
+effect can be corrected via a simple radiative model. It is thus necessary to
+set up an analytical model which would make it possible to correct the effect
+of this additional layer. The objective of this article is to present the
+analytical models which we retained to correct the effect of the vegetation and
+the litter in order to know the emissivity of the bare soil. We developed a
+numerical model (with software HFSS) of calculation of the emissivity of
+multi-layer systems in order to validate the results of the forward inversion
+models. Ranges of permittivity are introduced with the model in order to take
+account of the disturbances related to measurement and the variation of the
+water content of the layers.

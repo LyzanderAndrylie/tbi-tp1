@@ -1,0 +1,6 @@
+Gromov's universal filling inequalities relate the filling radius and the
+filling volume of a Riemannian manifold to its volume. The main result of the
+present article is that in dimensions at least three the optimal constants in
+the filling inequalities depend only on dimension and orientability, not on the
+manifold itself. This contrasts with the analogous situation for the optimal
+systolic inequality, which does depend on the manifold.

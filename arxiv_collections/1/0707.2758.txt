@@ -1,0 +1,13 @@
+We present preliminary measurements of branching fractions for the
+semileptonic decays B --> D tau nubar and B --> D* tau nubar, which are
+potentially sensitive to non--Standard Model amplitudes. The data sample
+comprises 232x10^6 Upsilon(4S) --> BBbar decays collected with the BaBar
+detector at the PEP-II e+e- storage ring. We obtain B(B- --> D0 tau nubar) =
+(0.63 +/- 0.38 +/- 0.10 +/- 0.06)%, B(B- --> D*0 tau nubar) = (2.35 +/- 0.49
++/- 0.22 +/- 0.18)%, B(B0bar --> D+ tau nubar) = (1.03 +/- 0.35 +/- 0.14 +/-
+0.10)%, and B(B0bar --> D*+ tau nubar) = (1.15 +/- 0.33 +/- 0.04 +/- 0.04)%,
+where the uncertainties are statistical, systematic, and normalization,
+respectively. By combining B- and B0bar results, we also obtain the branching
+fractions B(B --> D tau nubar) = (0.90 +/- 0.26 +/- 0.11 +/- 0.06)% and B(B -->
+D* tau nubar) = (1.81 +/- 0.33 +/- 0.11 +/- 0.06)% (quoted for the B-
+lifetime), with significances of 3.5 sigma and 6.2 sigma.

@@ -1,0 +1,4 @@
+Using only a single tracking satellite capable of only range measurements to
+an orbiting object in an unknown Keplerian orbit, it is theoretically possible
+to calculate the orbit and a current state vector. In this paper we derive an
+algorithm that can perform this calculation.

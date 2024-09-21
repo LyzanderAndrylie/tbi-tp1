@@ -1,0 +1,15 @@
+A dual-excitation method for resonant-frequency tracking in scanning probe
+microscopy based on amplitude detection is developed. This method allows the
+cantilever to be operated at or near resonance for techniques where standard
+phase locked loops are not possible. This includes techniques with non-acoustic
+driving where the phase of the driving force is frequency and/or position
+dependent. An example of the later is Piezoresponse Force Microscopy (PFM),
+where the resonant frequency of the cantilever is strongly dependent on the
+contact stiffness of the tip-surface junction and the local mechanical
+properties, but the spatial variability of the drive phase rules out the use of
+a phase locked loop. Combined with high-voltage switching and imaging,
+dual-frequency, resonance-tracking PFM allows reliable studies of
+electromechanical and elastic properties and polarization dynamics in a broad
+range of inorganic and biological systems, and is illustrated using lead
+zirconate-titanate, rat tail collagen, and native and switched ferroelectric
+domains in lithium niobate.

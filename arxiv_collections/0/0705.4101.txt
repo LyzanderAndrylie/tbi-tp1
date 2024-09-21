@@ -1,0 +1,13 @@
+We describe the properties of the host galaxy of the gamma-ray burst
+GRB060510B based on a spectrum of the burst afterglow obtained with the Gemini
+North 8m telescope. The galaxy lies at a redshift of z = 4.941 making it the
+fourth highest spectroscopically identified burst host. However, it is the
+second highest redshift galaxy for which the quality of the spectrum permits a
+detailed metallicity analysis. The neutral hydrogen column density has a
+logarithmic value of 21.0--21.2 cm^-2 and the weak metal lines of Ni, S and Fe
+show that the metallicity is in excess of a tenth of solar which is far above
+the metallicities in damped Lyman alpha absorbers at high redshift. The
+tightest constraint is from the Fe lines which place [Fe/H] in excess of -0.8.
+We argue that the results suggest that metallicity bias could be a serious
+problem with inferring star formation from the GRB population and consider how
+future higher quality measurements could be used to resolve this question.

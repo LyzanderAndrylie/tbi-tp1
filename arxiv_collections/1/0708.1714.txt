@@ -1,0 +1,13 @@
+We investigate (twisted) rings of differential operators on the resolution of
+singularities of a particular irreducible component of the (Zarisky) closure of
+the minimal orbit $\bar O_{\mathrm{min}}$ of $\mathfrak{sp}_{2n}$, intersected
+with the Borel subalgebra $\mathfrak n_+$ of $\mathfrak{sp}_{2n}$, using toric
+geometry and show that they are homomorphic images of a subalgebra of the
+Universal Enveloping Algebra (UEA) of $\mathfrak{sp}_{2n}$, which contains the
+maximal parabolic subalgebra $\mathfrak p$ determining the minimal nilpotent
+orbit. Further, using Fourier transforms on Weyl algebras, we show that
+(twisted) rings of well-suited weighted projective spaces are obtained from the
+same subalgebra. Finally, investigating this subalgebra from the
+representation-theoretical point of view, we find new primitive ideals and
+rediscover old ones for the UEA of $\mathfrak{sp}_{2n}$ coming from the
+aforementioned resolution of singularities.

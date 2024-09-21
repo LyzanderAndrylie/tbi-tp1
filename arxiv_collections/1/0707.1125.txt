@@ -1,0 +1,8 @@
+The spatial distribution of the incompressible edge states (IES) is obtained
+for a geometry which is topologically equivalent to an electronic Mach-Zehnder
+interferometer, taking into account the electron-electron interactions within a
+Hartree type self-consistent model. The magnetic field dependence of these IES
+is investigated and it is found that an interference pattern may be observed if
+two IES merge or come very close, near the quantum point contacts. Our
+calculations demonstrate that, being in a quantized Hall plateau does not
+guarantee observing the interference behavior.

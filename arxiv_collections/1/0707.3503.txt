@@ -1,0 +1,9 @@
+We present a simple novel scheme that converts a Gaussian beam into an
+approximated radially polarized beam using coherent polarization manipulation
+together with Poynting walk-off in birefringent crystals. Our scheme alleviates
+the interferometric stability required by previous schemes that implemented
+this coherent mode summation using Mach-Zehnder-like interferometers. A
+symmetrical arrangement of two walk-off crystals with a half-wave plate, allows
+coherence control even when the laser has short temporal coherence length. We
+generated 14 watts of radially polarized beam from an Ytterbium fiber laser,
+only limited by the available fiber laser power.

@@ -1,0 +1,15 @@
+The electronic, magnetic and orbital structures of KCrF_3 are determined in
+all its recently identified crystallographic phases (cubic, tetragonal, and
+monoclinic) with a set of {\it ab initio} LSDA and LSDA+U calculations. The
+high-temperature undistorted cubic phase is metallic within the LSDA, but at
+the LSDA+U level it is a Mott insulator with a gap of 1.72 eV. The tetragonal
+and monoclinic phases of KCrF_3 exhibit cooperative Jahn-Teller distortions
+concomitant with staggered 3x^2-r^2/3y^2-r^2 orbital order. We find that the
+energy gain due to the Jahn-Teller distortion is 82/104 meV per chromium ion in
+the tetragonal/monoclinic phase, respectively. These phases show A-type
+magnetic ordering and have a bandgap of 2.48 eV. In this Mott insulating state
+KCrF_3 has a substantial conduction bandwidth of 2.1 eV, leading to the
+possibility for the kinetic energy of charge carriers in electron- or
+hole-doped derivatives of KCrF_3 to overcome the polaron localization at low
+temperatures, in analogy with the situation encountered in the colossal
+magnetoresistive manganites.

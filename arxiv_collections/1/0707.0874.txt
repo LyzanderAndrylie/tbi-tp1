@@ -1,0 +1,8 @@
+We consider the Segal-Bargmann transform for a noncompact symmetric space of
+the complex type. We establish isometry and surjectivity theorems for the
+transform, in a form as parallel as possible to the results in the compact
+case. The isometry theorem involves integration over a tube of radius R in the
+complexification, followed by analytic continuation with respect to R. A
+cancellation of singularities allows the relevant integral to have a
+nonsingular extension to large R, even though the function being integrated has
+singularities.

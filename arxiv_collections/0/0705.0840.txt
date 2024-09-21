@@ -1,0 +1,6 @@
+We give a proof of a so-called "local $Tb$" Theorem for singular integrals
+whose kernels satisfy the standard Calder\'on-Zygmund conditions. The present
+theorem, which extends an earlier result of M. Christ \cite{Ch}, was proved in
+\cite{AHMTT} for "perfect dyadic" Calder\'on-Zygmund operators. The proof in
+\cite{AHMTT} essentially carries over to the case considered here, with some
+technical adjustments.

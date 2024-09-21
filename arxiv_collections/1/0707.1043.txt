@@ -1,0 +1,17 @@
+We report on our search for $B^- \to D^{(*)+}_s K^- \pi^-$, $\bar{B^0} \to
+D_s^{(*)+} K_S^0 \pi^-$, and $B^- \to D^{(*)+}_s K^- K^-$ decays in 383 million
+$\FourS \to B \Bbar$ events collected by the Babar detector at the PEP2
+asymmetric-energy $B$-factory. The decays proceed via a tree-level $b\to c$
+quark transition in which a gluon radiates into an $s\bar{s}$ pair. Their
+branching fractions are measured to be ${\cal B}(B^- \to D^+_s K^- \pi^-) =
+(2.02 \pm 0.13_{stat} \pm 0.38_{syst}) \times 10^{-4},$ ${\cal B}(B^- \to
+D^{*+}_s K^- \pi^-)= (1.67 \pm 0.16_{stat} \pm 0.35_{syst}) \times 10^{-4},$
+${\cal B}(\bar{B^0} \to D_s^{+} K_S^0 \pi^-)= (0.55 \pm 0.13_{stat} \pm
+0.10_{syst}) \times 10^{-4},$ and ${\cal B}(B^- \to D_s^{+} K^- K^-) = (0.11
+\pm 0.04_{stat} \pm 0.02_{syst}) \times 10^{-4}$. Upper limits at the 90% C.L.
+are set on ${\cal B}(\bar{B^0} \to D_s^{*+} K_S^0 \pi^-)< 0.55 \times 10^{-4}$
+and ${\cal B}(B^- \to D_s^{*+} K^- K^-) < 0.15 \times 10^{-4}$. We present
+evidence that the invariant mass distributions of $D^{(*)+}_s K^-$ pairs from
+$B^- \to D^{(*)+}_s K^- \pi^-$ decays are inconsistent with the phase-space
+model, suggesting the presence of charm resonances lying below the $D^{(*)+}_s
+K^-$ threshold.

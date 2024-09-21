@@ -1,0 +1,8 @@
+We generalize the concept of nonlinear periodic structures to systems that
+show arbitrary spacetime variations of the refractive index. Nonlinear pulse
+propagation through these spatiotemporal photonic crystals can be described,
+for shallow nonstationary gratings, by coupled mode equations which are a
+generalization of the traditional equations used for stationary photonic
+crystals. Novel gap soliton solutions are found by solving a modified massive
+Thirring model. They represent the missing link between the gap solitons in
+static photonic crystals and resonance solitons found in dynamic gratings.

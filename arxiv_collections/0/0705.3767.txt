@@ -1,0 +1,7 @@
+The paper has two goals: the study the associated graded ring of contracted
+homogeneous ideals in $K[x,y]$ and the study of the Groebner fan of the ideal
+$P$ of the rational normal curve in ${\bf P}^d$. These two problems are, quite
+surprisingly, very tightly related. We completely classify the contracted
+ideals with a Cohen-Macaulay associated graded rings in terms of the numerical
+invariants arising from Zariski's factorization. We determine explicitly all
+the initial ideals (monomial or not) of $P$ that are Cohen-Macaulay.

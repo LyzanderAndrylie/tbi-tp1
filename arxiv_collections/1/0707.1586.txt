@@ -1,0 +1,13 @@
+The CHORUS experiment, designed to search for $\nu_{\mu}\to\nu_{\tau}$
+oscillations, consists of a nuclear emulsion target and electronic detectors.
+In this paper, results on the production of charged particles in a small sample
+of charged-current neutrino-- and anti-neutrino--nucleus interactions at high
+energy are presented. For each event, the emission angle and the ionization
+features of the charged particles produced in the interaction are recorded,
+while the standard kinematic variables are reconstructed using the electronic
+detectors. The average multiplicities for charged tracks, the pseudo-rapidity
+distributions, the dispersion in the multiplicity of charged particles and the
+KNO scaling are studied in different kinematical regions. A study of
+quasi-elastic topologies performed for the first time in nuclear emulsions is
+also reported. The results are presented in a form suitable for use in the
+validation of Monte Carlo generators of neutrino--nucleus interactions.

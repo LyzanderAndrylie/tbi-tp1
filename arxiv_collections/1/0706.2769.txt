@@ -1,0 +1,12 @@
+We consider a spin-1/2 ladder with a ferromagnetic rung coupling J_\perp and
+inequivalent chains. This model is obtained by a twist (\theta) deformation of
+the ladder and interpolates between the isotropic ladder (\theta=0) and the
+SU(2) ferromagnetic Kondo necklace model (\theta=\pi). We show that the ground
+state in the (\theta,J_\perp) plane has a finite string order parameter
+characterising the Haldane phase. Twisting the chain introduces a new energy
+scale, which we interpret in terms of a Suhl-Nakamura interaction. As a
+consequence we observe a crossover in the scaling of the spin gap at weak
+coupling from \Delta/J_\| \propto J_\perp/J_\| for \theta < \theta_c \simeq
+8\pi/9 to \Delta/J_\| \propto (J_\perp/J_\|)^2 for \theta > \theta_c. Those
+results are obtained on the basis of large scale Quantum Monte Carlo
+calculations.

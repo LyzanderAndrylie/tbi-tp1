@@ -1,0 +1,8 @@
+In this paper, we develop the theory of relative log convergent cohomology.
+We prove the coherence of relative log convergent cohomology in certain case by
+using the comparison theorem between relative log convergent cohomlogy and
+relative log crystalline cohomology, and we relates relative log convergent
+cohomology to relative rigid cohomology to show the validity of Berthelot's
+conjecture on the coherence and the overconvergence of relative rigid
+cohomology for proper smooth families when they admit nice proper log smooth
+compactification to which the coefficient extends logarithmically.

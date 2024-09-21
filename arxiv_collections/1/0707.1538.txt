@@ -1,0 +1,10 @@
+The phase transition temperature of the homogeneous and dilute Bose gas in
+D-dimensions ($2 \le D \le 3$) is calculated by a mean field-based statistical
+method. The shift of the phase transition temperature is written up to the
+leading order as $\Delta T_c/T_c^0 = c \gam^{\al}$, where $\gam=n^{1/3}a$.
+  We derived Huang's result of the phase transition temperature in the
+generalized dimensions. We show that $ c(D)$ is positive and
+$\al(D)=2(D/2-1)^2$ in the short-wavelength range. The origin of the difference
+between $\al=1/2$ and $\al=1$ at D=3 is discussed. The $T_c$ at D=2 is
+calculated in the same scheme. The result is compared with Fisher and
+Hohenberg's KT temperature.

@@ -1,0 +1,8 @@
+This paper presents a new method, based on a multi-agent system and on
+digital mock-up technology, to assess an efficient path planner for a manikin
+for access and visibility task under ergonomic constraints. In order to solve
+this problem, the human operator is integrated in the process optimization to
+contribute to a global perception of the environment. This operator cooperates,
+in real-time, with several automatic local elementary agents. The result of
+this work validates solutions brought by digital mock-up and that can be
+applied to simulate maintenance task.

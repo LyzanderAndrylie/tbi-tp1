@@ -1,0 +1,19 @@
+The coherent control of scattering processes is considered, with electron
+impact dissociation of H$_2^+$ used as an example. The physical mechanism
+underlying coherently controlled stationary state scattering is exposed by
+analyzing a control scenario that relies on previously established entanglement
+requirements between the scattering partners. Specifically, initial state
+entanglement assures that all collisions in the scattering volume yield the
+desirable scattering configuration. Scattering is controlled by preparing the
+particular internal state wave function that leads to the favored collisional
+configuration in the collision volume. This insight allows coherent control to
+be extended to the case of time-dependent scattering. Specifically, we identify
+reactive scattering scenarios using incident wave packets of translational
+motion where coherent control is operational and initial state entanglement is
+unnecessary. Both the stationary and time-dependent scenarios incorporate
+extended coherence features, making them physically distinct. From a
+theoretical point of view, this work represents a large step forward in the
+qualitative understanding of coherently controlled reactive scattering. From an
+experimental viewpoint, it offers an alternative to entanglement-based control
+schemes. However, both methods present significant challenges to existing
+experimental technologies.

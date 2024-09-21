@@ -1,0 +1,11 @@
+This paper presents deformable templates as a tool for segmentation and
+localization of biological structures in medical images. Structures are
+represented by a prototype template, combined with a parametric warp mapping
+used to deform the original shape. The localization procedure is achieved using
+a multi-stage, multi-resolution algorithm de-signed to reduce computational
+complexity and time. The algorithm initially identifies regions in the image
+most likely to contain the desired objects and then examines these regions at
+progressively increasing resolutions. The final stage of the algorithm involves
+warping the prototype template to match the localized objects. The algorithm is
+presented along with the results of four example applications using MRI, x-ray
+and ultrasound images.

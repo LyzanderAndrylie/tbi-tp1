@@ -1,0 +1,3 @@
+We define a type of biquandle which is a generalization of symplectic
+quandles. We use the extra structure of these bilinear biquandles to define new
+knot and link invariants and give some examples.

@@ -1,0 +1,15 @@
+OBJECTIVES: The aim of this paper is to introduce the principles of
+computer-assisted access to the kidney. The system provides the surgeon with a
+pre-operative 3D planning on computed tomography (CT) images. After a rigid
+registration with space-localized ultrasound (US) data, preoperative planning
+can be transferred to the intra-operative conditions and an intuitive
+man-machine interface allows the user to perform a puncture. MATERIAL AND
+METHODS: Both CT and US images of informed normal volunteer were obtained to
+perform calculation on the accuracy of registration and punctures were carried
+out on a kidney phantom to measure the precision of the whole of the system.
+RESULTS: We carried out millimetric registrations on real data and guidance
+experiments on a kidney phantom showed encouraging results of 4.7 mm between
+planned and reached targets. We noticed that the most significant error was
+related to the needle deflection during the puncture. CONCLUSION: Preliminary
+results are encouraging. Further work will be undertaken to improve efficiency
+and accuracy, and to take breathing into account.

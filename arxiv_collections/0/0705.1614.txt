@@ -1,0 +1,13 @@
+We consider boundary Harnack inequalities for regional fractional Laplacian
+which are generators of censored stable-like processes on G taking
+\kappa(x,y)/|x-y|^{n+\alpha}dxdy, x,y\in G as the jumping measure. When G is a
+C^{1,\beta-1} open set, 1<\alpha<\beta\leq 2 and \kappa\in
+C^{1}(\overline{G}\times \overline{G}) bounded between two positive numbers, we
+prove a boundary Harnack inequality giving dist(x,\partial G)^{\alpha-1} order
+decay for harmonic functions near the boundary. For a C^{1,\beta-1} open set
+D\subset \overline{D}\subset G, 0<\alpha\leq (1\vee\alpha)<\beta\leq 2, we
+prove a boundary Harnack inequality giving dist(x,\partial D)^{\alpha/2} order
+decay for harmonic functions near the boundary. These inequalities are
+generalizations of the known results for the homogeneous case on C^{1,1} open
+sets. We also prove the boundary Harnack inequality for regional fractional
+Laplacian on Lipschitz domain.

@@ -1,0 +1,9 @@
+We use optical-pump terahertz-probe spectroscopy to investigate the
+near-threshold behavior of the photoinduced insulator-to-metal (IM) transition
+in vanadium dioxide thin films. Upon approaching Tc a reduction in the fluence
+required to drive the IM transition is observed, consistent with a softening of
+the insulating state due to an increasing metallic volume fraction (below the
+percolation limit). This phase coexistence facilitates the growth of a
+homogeneous metallic conducting phase following superheating via
+photoexcitation. A simple dynamic model using Bruggeman effective medium theory
+describes the observed initial condition sensitivity.

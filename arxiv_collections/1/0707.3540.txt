@@ -1,0 +1,10 @@
+An effective $p$-adic encoding of dendrograms is presented through an
+explicit embedding into the Bruhat-Tits tree for a $p$-adic number field. This
+field depends on the number of children of a vertex and is a finite extension
+of the field of $p$-adic numbers. It is shown that fixing $p$-adic
+representatives of the residue field allows a natural way of encoding strings
+by identifying a given alphabet with such representatives. A simple $p$-adic
+hierarchic classification algorithm is derived for $p$-adic numbers, and is
+applied to strings over finite alphabets. Examples of DNA coding are presented
+and discussed. Finally, new geometric and combinatorial invariants of time
+series of $p$-adic dendrograms are developped.

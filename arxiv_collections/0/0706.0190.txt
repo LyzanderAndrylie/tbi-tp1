@@ -1,0 +1,11 @@
+We study the quantum properties and gravitational field of a system that has
+oscillations in time. Treating time as a dynamical variable, we first construct
+a wave with 4-vector amplitude that has matters vibrating in space and time. By
+analyzing its Hamiltonian density equation, we find that such system shall be
+treated as a quantized field. This quantized real scalar field obeys the
+Klein-Gordon equation and has properties resemble a zero spin bosonic field. In
+addition, the particle observed has oscillation in proper time. By neglecting
+all quantum effects and assuming the particle as a classical object that can
+remain stationary in space, we show that the spacetime geometry around the
+proper time oscillation has properties similar to the Schwarzschild
+gravitational field of a point mass in relativity.

@@ -1,0 +1,15 @@
+We report an ultrasonic investigation of the elastic moduli on a single
+crystal of hexagonal YMnO_3 as a function of temperature. Stiffening anomalies
+in the antiferromagnetic N\'eel state below T_N = 72.4 K are observed on all
+the four elastic moduli C_{ii}. The anomalies are the most important on C_{11}
+and C_{66} for in-plane elastic deformations; this is consistent with a strong
+coupling of the lattice with the in-plane exchange interactions. We use a
+Landau free energy model to account for these elastic anomalies. We derive an
+expression which relates the temperature profile of the anomaly to the order
+parameter; the critical exponent associated to this parameter $\beta$ = 0.42 is
+not consistent with a chiral XY or 3D Heisenberg universality class, but more
+in agreement with a conventional antiferromagnetic long range order. A tiny
+softening anomaly on C_{11} for which hysteresis effects are observed could be
+indicative of an interaction between ferroelectric and magnetic domains at T_N.
+Moreover, magnetic fluctuations effects both above and below T_N are identified
+through abnormal temperature and magnetic field effects.

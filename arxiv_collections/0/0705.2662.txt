@@ -1,0 +1,4 @@
+We prove a duality theorem for graded algebras over a field that implies
+several known duality results : graded local duality, versions of Serre duality
+for local cohomology and of Suzuki duality for generalized local cohomology,
+and Herzog-Rahimi bigraded duality.

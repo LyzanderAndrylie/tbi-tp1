@@ -1,0 +1,19 @@
+We systematically study the influence of ferromagnetic leads on the Kondo
+resonance in a quantum dot tuned to the local moment regime. We employ Wilson's
+numerical renormalization group method, extended to handle leads with a spin
+asymmetric density of states, to identify the effects of (i) a finite spin
+polarization in the leads (at the Fermi-surface), (ii) a Stoner splitting in
+the bands (governed by the band edges) and (iii) an arbitrary shape of the
+leads density of states. For a generic lead density of states the quantum dot
+favors being occupied by a particular spin-species due to exchange interaction
+with ferromagnetic leads leading to a suppression and splitting of the Kondo
+resonance. The application of a magnetic field can compensate this asymmetry
+restoring the Kondo effect. We study both the gate-voltage dependence (for a
+fixed band structure in the leads) and the spin polarization dependence (for
+fixed gate voltage) of this compensation field for various types of bands.
+Interestingly, we find that the full recovery of the Kondo resonance of a
+quantum dot in presence of leads with an energy dependent density of states is
+not only possible by an appropriately tuned external magnetic field but also
+via an appropriately tuned gate voltage. For flat bands simple formulas for the
+splitting of the local level as a function of the spin polarization and gate
+voltage are given.

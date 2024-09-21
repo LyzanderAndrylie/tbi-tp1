@@ -1,0 +1,8 @@
+We analyze the Bures metric over the manifold of thermal density matrices for
+systems featuring a zero temperature quantum phase transition. We show that the
+quantum critical region can be characterized in terms of the temperature
+scaling behavior of the metric tensor itself. Furthermore, the analysis of the
+metric tensor when both temperature and an external field are varied, allows to
+complement the understanding of the phase diagram including cross-over regions
+which are not characterized by any singular behavior. These results provide a
+further extension of the scope of the metric approach to quantum criticality.

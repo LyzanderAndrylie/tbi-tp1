@@ -1,0 +1,5 @@
+We introduce a new method for estimating the growth of various quantities
+arising in dynamical systems. We apply our method to polygonal billiards on
+surfaces of constant curvature. For instance, we obtain power bounds of degree
+two plus epsilon in length for the number of billiard orbits between almost all
+pairs of points in a planar polygon.

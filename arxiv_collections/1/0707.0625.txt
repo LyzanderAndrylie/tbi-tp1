@@ -1,0 +1,10 @@
+We analyze an optical 3-port reflection grating by means of a scattering
+matrix formalism. Amplitude and phase relations between the 3 ports, i.e. the 3
+orders of diffraction are derived. Such a grating can be used as an
+all-reflective, low-loss coupler to Fabry-Perot cavities. We derive the input
+output relations of a 3-port grating coupled cavity and find distinct
+properties not present in 2-port coupled cavities. The cavity relations further
+reveal that the 3-port coupler can be designed such that the additional cavity
+port interferes destructively. In this case the all-reflective, low-loss,
+single-ended Fabry-Perot cavity becomes equivalent to a standard transmissive,
+2-port coupled cavity.

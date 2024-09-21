@@ -1,0 +1,6 @@
+Uncertainties on parton distribution functions (PDFs) compromise discovery at
+the LHC for any new physics which can be described as a contact-interaction.
+PDF uncertainties also limit our ability to use W and Z cross-sections as an
+accurate luminosity monitor. The impact of the current level of PDF uncertainty
+on LHC physics is reviewed and the possibility of reducing this uncertainty
+using LHC data is investigated.

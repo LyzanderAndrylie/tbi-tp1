@@ -1,0 +1,11 @@
+We describe human-subject laboratory experiments on probabilistic auctions
+based on previously proposed auction protocols involving the simulated
+manipulation and communication of quantum states. These auctions are
+probabilistic in determining which bidder wins, or having no winner, rather
+than always having the highest bidder win. Comparing two quantum protocols in
+the context of first-price sealed bid auctions, we find the one predicted to be
+superior by game theory also performs better experimentally. We also compare
+with a conventional first price auction, which gives higher performance. Thus
+to provide benefits, the quantum protocol requires more complex economic
+scenarios such as maintaining privacy of bids over a series of related auctions
+or involving allocative externalities.

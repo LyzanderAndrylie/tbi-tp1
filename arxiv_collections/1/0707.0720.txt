@@ -1,0 +1,11 @@
+A scheme for the generation of non-classical pairs of photons in atomic
+vapours is proposed. The scheme exploits the fact that the cross correlation of
+the emission of photons from the extreme transitions of a four-level cascade
+system shows anti-bunching which has not been reported earlier and which is
+unlike the case of the three level cascade emission which shows bunching. The
+Cauchy-Schwarz inequality which is the ratio of cross-correlation to the auto
+correlation function in this case is estimated to be $10^3-10^6$ for
+controllable time delay, and is one to four orders of magnitude larger compared
+to previous experiments. The choice of Doppler free geometry in addition to the
+fact that at three photon resonance the excitation/deexcitation processes occur
+in a very narrow frequency band, ensures cleaner signals.

@@ -1,0 +1,17 @@
+An algorithm for detecting unstable periodic orbits in chaotic systems [Phys.
+Rev. E, 60 (1999), pp. 6172-6175] which combines the set of stabilising
+transformations proposed by Schmelcher and Diakonos [Phys. Rev. Lett., 78
+(1997), pp. 4733-4736] with a modified semi-implicit Euler iterative scheme and
+seeding with periodic orbits of neighbouring periods, has been shown to be
+highly efficient when applied to low-dimensional system. The difficulty in
+applying the algorithm to higher dimensional systems is mainly due to the fact
+that the number of stabilising transformations grows extremely fast with
+increasing system dimension. In this thesis, we construct stabilising
+transformations based on the knowledge of the stability matrices of already
+detected periodic orbits (used as seeds). The advantage of our approach is in a
+substantial reduction of the number of transformations, which increases the
+efficiency of the detection algorithm, especially in the case of
+high-dimensional systems. The performance of the new approach is illustrated by
+its application to the four-dimensional kicked double rotor map, a
+six-dimensional system of three coupled H\'enon maps and to the
+Kuramoto-Sivashinsky system in the weakly turbulent regime.

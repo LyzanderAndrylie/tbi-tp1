@@ -1,0 +1,11 @@
+We study the passage times of a translocating polymer of length $N$ in three
+dimensions, while it is pulled through a narrow pore with a constant force $F$
+applied to one end of the polymer. At small to moderate forces, satisfying the
+condition $FN^{\nu}/k_BT\lesssim1$, where $\nu\approx0.588$ is the Flory
+exponent for the polymer, we find that $\tau_N$, the mean time the polymer
+takes to leave the pore, scales as $N^{2+\nu}$ independent of $F$, in agreement
+with our earlier result for F=0. At strong forces, i.e., for
+$FN^{\nu}/k_BT\gg1$, the behaviour of the passage time crosses over to
+$\tau_N\sim N^2/F$. We show here that these behaviours stem from the polymer
+dynamics at the immediate vicinity of the pore -- in particular, the memory
+effects in the polymer chain tension imbalance across the pore.

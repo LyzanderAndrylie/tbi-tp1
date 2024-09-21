@@ -1,0 +1,8 @@
+The entanglement of superpositions [Phys. Rev. Lett. 97, 100502 (2006)] is
+generalized to the multipartite scenario: an upper bound to the multipartite
+entanglement of a superposition is given in terms of the entanglement of the
+superposed states and the superposition coefficients. This bound is proven to
+be tight for a class of states composed by an arbitrary number of qubits. We
+also extend the result to a large family of quantifiers which includes the
+negativity, the robustness of entanglement, and the best separable
+approximation measure.

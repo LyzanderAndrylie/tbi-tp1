@@ -1,0 +1,14 @@
+We use the covariant and gauge-invariant 1+1+2 formalism of Clarkson and
+Barrett \cite{Clarkson2003} to analyze electromagnetic (EM) perturbations on
+non-vacuum {\it locally rotationally symmetric} (LRS) class II space-times.
+Ultimately, we show how to derive six real decoupled equations governing the
+total of six EM scalar and 2-vector harmonic amplitudes. Four of these are new,
+and result from expanding the complex EM 2-vector which we defined in
+\cite{Burston2007} in terms of EM 2-vector harmonic amplitudes. We are then
+able to show that there are four precise combinations of the amplitudes that
+decouple, two of these are polar perturbations whereas the remaining two are
+axial. The remaining two decoupled equations are the generalized Regge-Wheeler
+equations which were developed previously in \cite{Betschart2004}, and these
+govern the two EM scalar harmonic amplitudes. However, our analysis generalizes
+this by including a full description and classification of energy-momentum
+sources, such as charges and currents.

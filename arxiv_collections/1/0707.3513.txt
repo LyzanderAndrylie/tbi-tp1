@@ -1,0 +1,11 @@
+We present measurements of resonant tunneling through discrete energy levels
+of a silicon double quantum dot formed in a thin silicon-on-insulator layer. In
+the absence of piezoelectric phonon coupling, spontaneous phonon emission with
+deformation-potential coupling accounts for inelastic tunneling through the
+ground states of the two dots. Such transport measurements enable us to observe
+a Pauli spin blockade due to effective two-electron spin-triplet correlations,
+evident in a distinct bias-polarity dependence of resonant tunneling through
+the ground states. The blockade is lifted by the excited-state resonance by
+virtue of efficient phonon emission between the ground states. Our experiment
+demonstrates considerable potential for investigating silicon-based spin
+dynamics and spin-based quantum information processing.

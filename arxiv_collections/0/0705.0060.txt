@@ -1,0 +1,14 @@
+In a recent paper (math.DG/0701278) we constructed a series of new Moishezon
+twistor spaces which is a kind of variant of the famous LeBrun twistor spaces.
+In this paper we explicitly give projective models of another series of
+Moishezon twistor spaces on nCP^2 for arbitrary n>2, which can be regarded as a
+generalization of the twistor spaces of a 'double solid type' on 3CP^2 studied
+by Kreussler, Kurke, Poon and the author. Similarly to the twistor spaces of
+'double solid type' on 3CP^2, projective models of present twistor spaces have
+a natural structure of double covering of a CP^2-bundle over CP^1. We
+explicitly give a defining polynomial of the branch divisor of the double
+covering whose restriction to fibers are degree four. If n>3 these are new
+twistor spaces, to the best of the author's knowledge. We also compute the
+dimension of the moduli space of these twistor spaces. Differently from
+math.DG/0701278, the present investigation is based on analysis of
+pluri-(half-)anticanonical systems of the twistor spaces.

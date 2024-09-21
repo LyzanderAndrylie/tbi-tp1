@@ -1,0 +1,9 @@
+We describe a search for the standard model Higgs boson with a mass of 105
+GeV/c^2 to 145 GeV/c^2 in data corresponding to an integrated luminosity of
+approximately 450 pb^{-1} collected with the D0 detector at the Fermilab
+Tevatron ppbar collider at a center-of-mass energy of 1.96 TeV. The Higgs boson
+is required to be produced in association with a Z boson, and the Z boson is
+required to decay to either electrons or muons with the Higgs boson decaying to
+a bbbar pair. The data are well described by the expected background, leading
+to 95% confidence level cross section upper limits sigma(\ppbar\to ZH)x
+B(H\to\bbbar) in the range of 3.1 pb to 4.4 pb.

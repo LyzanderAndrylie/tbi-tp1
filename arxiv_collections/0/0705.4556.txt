@@ -1,0 +1,9 @@
+In this paper, we construct a quantization functor, associating a complex
+vector space H(V) to a finite dimensional symplectic vector space V over a
+finite field of odd characteristic. As a result, we obtain a canonical model
+for the Weil representation of the symplectic group Sp(V). The main new
+technical result is a proof of a stronger form of the Stone-von Neumann
+property for the Heisenberg group. Our result answers, for the case of the
+Heisenberg group, a question of Kazhdan about the possible existence of a
+canonical vector space attached to a coadjoint orbit of a general unipotent
+group over finite field.

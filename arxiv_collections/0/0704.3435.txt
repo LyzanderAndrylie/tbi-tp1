@@ -1,0 +1,11 @@
+We consider a model for periodic patterns of charges constrained over a
+cylindrical surface. In particular we focus on patterns of chiral helices,
+achiral rings or vertical lamellae, with the constraint of global
+electroneutrality. We study the dependence of the patterns' size and pitch
+angle on the radius of the cylinder and salt concentration. We obtain a phase
+diagram by using numerical and analytic techniques. For pure Coulomb
+interactions, we find a ring phase for small radii and a chiral helical phase
+for large radii. At a critical salt concentration, the characteristic domain
+size diverges, resulting in macroscopic phase segregation of the components and
+restoring chiral symmetry. We discuss possible consequences and generalizations
+of our model.

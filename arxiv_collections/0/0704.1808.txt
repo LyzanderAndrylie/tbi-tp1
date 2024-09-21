@@ -1,0 +1,24 @@
+The analysis of gravitational wave data involves many model selection
+problems. The most important example is the detection problem of selecting
+between the data being consistent with instrument noise alone, or instrument
+noise and a gravitational wave signal. The analysis of data from ground based
+gravitational wave detectors is mostly conducted using classical statistics,
+and methods such as the Neyman-Pearson criteria are used for model selection.
+Future space based detectors, such as the \emph{Laser Interferometer Space
+Antenna} (LISA), are expected to produced rich data streams containing the
+signals from many millions of sources. Determining the number of sources that
+are resolvable, and the most appropriate description of each source poses a
+challenging model selection problem that may best be addressed in a Bayesian
+framework. An important class of LISA sources are the millions of low-mass
+binary systems within our own galaxy, tens of thousands of which will be
+detectable. Not only are the number of sources unknown, but so are the number
+of parameters required to model the waveforms. For example, a significant
+subset of the resolvable galactic binaries will exhibit orbital frequency
+evolution, while a smaller number will have measurable eccentricity. In the
+Bayesian approach to model selection one needs to compute the Bayes factor
+between competing models. Here we explore various methods for computing Bayes
+factors in the context of determining which galactic binaries have measurable
+frequency evolution. The methods explored include a Reverse Jump Markov Chain
+Monte Carlo (RJMCMC) algorithm, Savage-Dickie density ratios, the Schwarz-Bayes
+Information Criterion (BIC), and the Laplace approximation to the model
+evidence. We find good agreement between all of the approaches.

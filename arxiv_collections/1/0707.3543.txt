@@ -1,0 +1,10 @@
+We report an universal behaviour of hopping transport in strongly interacting
+mesoscopic two-dimensional electron systems (2DES). In a certain window of
+background disorder, the resistivity at low perpendicular magnetic fields
+follows the expected relation $\rho(B_\perp) = \rho_{\rm{B}}\exp(\alpha
+B_\perp^2)$. The prefactor $\rho_{\rm{B}}$ decreases exponentially with
+increasing electron density but saturates to a finite value at higher
+densities. Strikingly, this value is found to be universal when expressed in
+terms of absolute resistance and and shows quantisation at $R_{\rm{B}}\approx
+h/e^2$ and $R_{\rm{B}}\approx 1/2$ $ h/e^2$. We suggest a strongly correlated
+electronic phase as a possible explanation.

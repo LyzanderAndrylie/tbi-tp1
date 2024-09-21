@@ -1,0 +1,10 @@
+We present a solid state implementation of quantum computation, which
+improves previously proposed optically driven schemes. Our proposal is based on
+vertical arrays of quantum dots embedded in a mesoporous material which can be
+fabricated with present technology. The redundant encoding typical of the
+chosen hardware protects the computation against gate errors and the effects of
+measurement induced noise. The system parameters required for quantum
+computation applications are calculated for II-VI and III-V materials and found
+to be within the experimental range. The proposed hardware may help minimize
+errors due to polydispersity of dot sizes, which is at present one of the main
+problems in relation to quantum dot-based quantum computation.

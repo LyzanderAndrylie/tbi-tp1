@@ -1,0 +1,10 @@
+We model protein folding as a physical stochastic process as follows. The
+unfolded protein chain is treated as a random coil described by SAW
+(self-avoiding walk). Folding is induced by hydrophobic forces and other
+interactions, such as hydrogen bonding, which can be taken into account by
+imposing conditions on SAW. The resulting model is termed CSAW (conditioned
+self-avoiding walk. Conceptually, the mathematical basis is a generalized
+Langevin equation. In practice, the model is implemented on a computer by
+combining SAW and Monte Carlo. To illustrate the flexibility and capabilities
+of the model, we consider a number of examples, including folding pathways,
+elastic properties, helix formation, and collective modes.

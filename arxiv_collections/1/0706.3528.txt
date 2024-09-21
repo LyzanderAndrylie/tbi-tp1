@@ -1,0 +1,8 @@
+I describe a method for generating "shim pulses" for NMR spectroscopy and
+imaging (MRI) by taking advantage of the inherent inhomogeneity in the static
+and radiofrequency (RF) fields of a one-sided NMR system. The RF inhomogeneity
+here is assumed, without loss of generality, to be a linear gradient. General
+polynomials in the spatial variables can be generated using x, y and z RF
+gradients using trains of hard pulses which result in linear combinations of
+monomials xy, y^2, xz etc., and any desired scalings of these monomials. The
+basic shim pulse is constructed using small tip angle approximations.

@@ -1,0 +1,7 @@
+We present a theory of the dynamical two-particle response function in the
+Hubbard model based on the time-dependent Gutzwiller approximation. The results
+are in excellent agreement with exact diagonalization on small clusters and
+give reliable results even for high densities, where the usual ladder
+approximation breaks down. We apply the theory to the computation of antibound
+states relevant for Auger spectroscopy and cold atom physics. A special bonus
+of the theory is its computational simplicity.

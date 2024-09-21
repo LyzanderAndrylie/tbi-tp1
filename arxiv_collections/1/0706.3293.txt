@@ -1,0 +1,5 @@
+Numerically exact investigations of interacting spin systems provide a major
+tool for an understanding of their magnetic properties. For medium size systems
+the approximate Lanczos diagonalization is the most common method. In this
+article we suggest two improvements: efficient basis coding in subspaces and
+simple restructuring for openMP parallelization.

@@ -1,0 +1,13 @@
+The ATLAS detector at CERN will provide a high-resolution
+longitudinally-segmented calorimeter and precision tracking for the upcoming
+study of heavy ion collisions at the LHC (sqrt(s_NN)=5520 GeV). The calorimeter
+covers |eta|<5 with both electromagnetic and hadronic sections, while the inner
+detector spectrometer covers |eta|<2.5. ATLAS will study a full range of
+observables necessary to characterize the hot and dense matter formed at the
+LHC. Global measurements (particle multiplicities, collective flow) will
+provide access into its thermodynamic and hydrodynamic properties. Measuring
+complete jets out to 100's of GeV will allow detailed studies of energy loss
+and its effect on jets. Quarkonia will provide a handle on deconfinement
+mechanisms. ATLAS will also study the structure of the nucleon and nucleus
+using forward physics probes and ultraperipheral collisions, both enabled by
+segmented Zero Degree Calorimeters.

@@ -1,0 +1,20 @@
+Max-product belief propagation is a local, iterative algorithm to find the
+mode/MAP estimate of a probability distribution. While it has been successfully
+employed in a wide variety of applications, there are relatively few
+theoretical guarantees of convergence and correctness for general loopy graphs
+that may have many short cycles. Of these, even fewer provide exact ``necessary
+and sufficient'' characterizations.
+  In this paper we investigate the problem of using max-product to find the
+maximum weight matching in an arbitrary graph with edge weights. This is done
+by first constructing a probability distribution whose mode corresponds to the
+optimal matching, and then running max-product. Weighted matching can also be
+posed as an integer program, for which there is an LP relaxation. This
+relaxation is not always tight. In this paper we show that \begin{enumerate}
+\item If the LP relaxation is tight, then max-product always converges, and
+that too to the correct answer. \item If the LP relaxation is loose, then
+max-product does not converge. \end{enumerate} This provides an exact,
+data-dependent characterization of max-product performance, and a precise
+connection to LP relaxation, which is a well-studied optimization technique.
+Also, since LP relaxation is known to be tight for bipartite graphs, our
+results generalize other recent results on using max-product to find weighted
+matchings in bipartite graphs.

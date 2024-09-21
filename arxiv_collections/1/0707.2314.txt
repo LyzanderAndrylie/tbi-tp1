@@ -1,0 +1,6 @@
+The running coupling is introduced into the equation for the odderon via the
+bootstrap relation. It is shown that the previously found odderon state with a
+maximal intercept, which is constructed from antisymmetric pomeron wave
+function, continues to exist in the running coupling case. Its intercept is
+found to remain equal to unity independent of the behaviour assumed for the
+running coupling at low momenta.

@@ -1,0 +1,7 @@
+We study three flavour chiral perturbation theory in a limit where the
+strange quark mass is much larger than the external momenta and the up and down
+quark masses, and where the external fields are those of two-flavour chiral
+perturbation theory. In this case, the theory reduces to the one of SU(2)_L x
+SU(2)_R. Through this reduction, one can work out the strange quark mass
+dependence of the LECs in the two-flavour case. We present the pertinent
+relations at two-loop order for F,B and l_i.

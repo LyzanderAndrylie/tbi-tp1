@@ -1,0 +1,8 @@
+We derive generic phase and amplitude coupling relations for beam
+splitters-combiners that couple a single port with three output ports or input
+ports, respectively. We apply the coupling relations to a reflection grating
+that serves as a coupler to a single-ended Fabry-Perot ring cavity. In the
+impedance-matched case such an interferometer can act as an all-reflective ring
+mode cleaner. It is further shown that in the highly undercoupled case almost
+complete separation of carrier power and phase signal from a cavity strain can
+be achieved.

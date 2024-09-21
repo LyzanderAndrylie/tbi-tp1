@@ -1,0 +1,5 @@
+Starting out from the recently established quantum correlation function
+expression of the characteristic function for the work performed by a force
+protocol on the system [cond-mat/0703213] the quantum version of the Crooks
+fluctuation theorem is shown to emerge almost immediately by the mere
+application of an inverse Fourier transformation.

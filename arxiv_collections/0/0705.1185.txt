@@ -1,0 +1,14 @@
+The low energy electronic excitations in single layer and bilayer graphite
+(graphene) resemble quantum-relativistic particles also known as Dirac Fermions
+(DF). They possess an internal degree of freedom, chirality, that leads to
+unusual Landau Level (LL) energy sequences in a magnetic field and profoundly
+alters the magneto-transport properties. One of the consequences is an
+anomalous Quantum-Hall effect, recently detected in both single layer and
+bi-layer graphene. However the underlying cause, the unusual LL sequence, was
+never observed. Here we report the direct observation of LL of DF by means of
+low temperature Scanning-Tunnelling-Spectroscopy (STS) on the surface of
+graphite in fields up to 12 Tesla. We find evidence of coexistence of massless
+and massive DF, and identify the zero-energy LL which is a unique consequence
+of their quantum-relativistic nature. Surprisingly these strictly
+two-dimensional properties emerge even on bulk graphite in samples where the
+interlayer coupling is weak.

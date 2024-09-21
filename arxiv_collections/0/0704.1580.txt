@@ -1,0 +1,14 @@
+We study Gaussian valence bond states of continuous variable systems,
+obtained as the outputs of projection operations from an ancillary space of M
+infinitely entangled bonds connecting neighboring sites, applied at each of $N$
+sites of an harmonic chain. The entanglement distribution in Gaussian valence
+bond states can be controlled by varying the input amount of entanglement
+engineered in a (2M+1)-mode Gaussian state known as the building block, which
+is isomorphic to the projector applied at a given site. We show how this
+mechanism can be interpreted in terms of multiple entanglement swapping from
+the chain of ancillary bonds, through the building blocks. We provide optical
+schemes to produce bisymmetric three-mode Gaussian building blocks (which
+correspond to a single bond, M=1), and study the entanglement structure in the
+output Gaussian valence bond states. The usefulness of such states for quantum
+communication protocols with continuous variables, like telecloning and
+teleportation networks, is finally discussed.

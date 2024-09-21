@@ -1,0 +1,7 @@
+We investigate the Bose-Einstein condensation of fermionic pairs in a
+two-dimensional uniform two-component Fermi superfluid obtaining an explicit
+formula for the condensate density as a function of the chemical potential and
+the energy gap. By using the mean-field extended BCS theory, we analyze, as a
+function of the bound-state energy, the off-diagonal long-range order in the
+crossover from the Bardeen-Cooper-Schrieffer (BCS) state of weakly-bound Cooper
+pairs to the Bose-Einstein Condensate (BEC) of strongly-bound molecular dimers.

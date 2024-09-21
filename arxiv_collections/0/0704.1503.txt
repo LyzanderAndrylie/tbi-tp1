@@ -1,0 +1,21 @@
+This thesis provides a partial answer to a question posed by Greg Kuperberg
+in q-alg/9712003 and again by Justin Roberts as problem 12.18 in "Problems on
+invariants of knots and 3-manifolds", math.GT/0406190, essentially: "Can one
+describe the category of representations of the quantum group U_q(sl_n)
+(thought of as a spherical category) via generators and relations?"
+  For each n \geq 0, I define a certain tensor category of trivalent graphs,
+modulo isotopy, and construct a functor from this category onto (a full
+subcategory of) the category of representations of the quantum group U_q(sl_n).
+One would like to describe completely the kernel of this functor, by providing
+generators. The resulting quotient of the diagrammatic category would then be a
+category equivalent to the representation category of U_q(sl_n).
+  I make significant progress towards this, describing certain generators of
+the kernel, and some obstructions to further elements. It remains a conjecture
+that these relations generate the kernel. My results extend those of
+q-alg/9712003, MR1659228, math.QA/0310143 and math.GT/0506403.
+  The argument is essentially by constructing a diagrammatic version of the
+forgetful functor coming from the inclusion of U_q(sl_{n-1}) in U_q(sl_n}. We
+know this functor is faithful, so a diagram is in the kernel for n exactly if
+its image under the diagrammatic forgetful functor is in the kernel for n-1.
+This allows us to perform inductive calculations, both establishing families of
+elements of the kernel, and finding obstructions.

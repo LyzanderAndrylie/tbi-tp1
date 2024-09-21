@@ -1,0 +1,18 @@
+The perturbative effective potential V in the massless $\lambda\phi^4$ model
+with a global O(N) symmetry is uniquely determined to all orders by the
+renormalization group functions alone when the Coleman-Weinberg renormalization
+condition $\frac{d^4V}{d\phi^4}|_{\phi = \mu} = \lambda$ is used, where $\mu$
+represents the renormalization scale. Systematic methods are developed to
+express the n-loop effective potential in the Coleman-Weinberg scheme in terms
+of the known n-loop minimal subtraction (MS) renormalization-group functions.
+Moreover, it also proves possible to sum the leading- and
+subsequent-to-leading-logarithm contributions to V. An essential element of
+this analysis is a conversion of the renormalization group functions in the
+Coleman-Weinberg scheme to the renormalization group functions in the MS
+scheme. As an example, the explicit five-loop effective potential is obtained
+from the known five-loop MS renormalization group functions and we explicitly
+sum the leading logarithm (LL), next-to-leading (NLL), and further
+subleading-logarithm contributions to V. Extensions of these results to
+massless scalar QED are also presented. Because massless scalar QED has two
+couplings, conversion of the RG functions from the MS scheme to the CW scheme
+requires the use of multi-scale renormalization group methods.

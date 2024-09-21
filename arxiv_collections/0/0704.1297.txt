@@ -1,0 +1,22 @@
+We present the results of a detailed spectral and temporal analysis of Swift
+and XMM-Newton observations of the high redshift (z=3.969) GRB 050730. The
+X-ray afterglow of GRB 050730 was found to decline with time with superimposed
+intense flaring activity that extended over more than two orders of magnitude
+in time. Seven distinct re-brightening events starting from 236 s up to 41.2 ks
+after the burst were observed. The underlying decay of the afterglow was well
+described by a double broken power-law model with breaks at t_1= 237 +/- 20 s
+and t_2 = 10.1 (-2.2) (+4.6) ks. The temporal decay slopes before, between and
+after these breaks were alpha_1 = 2.1 +/- 0.3, alpha_2 = 0.44 (-0.08) (+0.14)
+and alpha_3 = 2.40 (+0.07) (-0.09), respectively. The spectrum of the X-ray
+afterglow was well described by a photoelectrically absorbed power-law with an
+absorbing column density N_H=(1.28 +/- 0.26) 10^22 cm^-2 in the host galaxy.
+Strong X-ray spectral evolution during the flaring activity was present. In the
+majority of the flares (6/7) the ratio Delta_t/t_p between the duration of the
+event and the time when the flare peaks was nearly constant and about 0.6-0.7.
+We showed that the observed spectral and temporal properties of the first three
+flares are consistent with being due both to high-latitude emission, as
+expected if the flares were produced by late internal shocks, or to refreshed
+shocks, i.e. late time energy injections into the main afterglow shock by slow
+moving shells ejected from the central engine during the prompt phase. The
+event fully satisfies the E_p-E_iso Amati relation while is not consistent with
+the E_p-E_jet Ghirlanda relation.

@@ -1,0 +1,24 @@
+We discuss the link between dark matter halos hosting the first PopIII stars
+and the rare, massive, halos that are generally considered to host bright
+quasars at high redshift z~6. The main question that we intend to answer is
+whether the super-massive black holes powering these QSOs grew out from the
+seeds planted by the first intermediate massive black holes created in the
+universe. This question involves a dynamical range of 10^13 in mass and we
+address it by combining N-body simulations of structure formation to identify
+the most massive halos at z~6 with a Monte Carlo method based on linear theory
+to obtain the location and formation times of the first light halos within the
+whole simulation box. We show that the descendants of the first ~10^6 Msun
+virialized halos do not, on average, end up in the most massive halos at z~6,
+but rather live in a large variety of environments. The oldest PopIII
+progenitors of the most massive halos at z~6, form instead from density peaks
+that are on average one and a half standard deviations more common than the
+first PopIII star formed in the volume occupied by one bright high-z QSO. The
+intermediate mass black hole seeds planted by the very first PopIII stars at
+z>40 can easily grow to masses m_BH>10^9.5 Msun by z=6 assuming Eddington
+accretion with radiative efficiency \epsilon~0.1. Quenching of the black hole
+accretion is therefore crucial to avoid an overabundance of supermassive black
+holes at lower redshift. This can be obtained if the mass accretion is limited
+to a fraction \eta~6*10^{-3} of the total baryon mass of the halo hosting the
+black hole. The resulting high end slope of the black hole mass function at z=6
+is \alpha ~ -3.7, a value within the 1\sigma error bar for the bright end slope
+of the observed quasar luminosity function at z=6.

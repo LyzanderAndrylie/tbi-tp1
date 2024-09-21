@@ -1,0 +1,11 @@
+In this paper, we investigate a new waveform for UWB systems obtained by the
+combination of Orthogonal Frequency Division Multiplex (OFDM) and Code Division
+Multiple Access (CDMA). The proposed system, called Spread Spectrum -
+Multi-Carrier - Multiple Access (SS-MC-MA) turns out to be a judicious solution
+to combat frequency selectivity and narrowband interferers, and to manage the
+coexistence of several users and piconets. It is shown that the addition of a
+degree of freedom brought by the spreading component of SS-MC-MA allows to
+optimize jointly the assignment of the number of used codes and coding rates in
+order to make the system more robust. Through simulations, it is demonstrated
+that the new system can outperform Multi-Band OFDM Alliance (MBOA) for low data
+rates and is able to provide wider range of rates.

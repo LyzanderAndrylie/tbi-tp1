@@ -1,0 +1,8 @@
+We calculate, within the leading-order dynamical-screening approximation, the
+electron self-energy and spectral function at zero temperature for extrinsic
+(or gated/doped) graphene. We also calculate hot carrier inelastic scattering
+due to electron-electron interactions in graphene. We obtain the inelastic
+quasiparticle lifetimes and associated mean free paths from the calculated
+self-energy. The linear dispersion and chiral property of graphene gives energy
+dependent lifetimes that are qualitatively different from those of
+parabolic-band semiconductors.

@@ -1,0 +1,7 @@
+We demonstrate a scheme for controlling a large quantum system by acting on a
+small subsystem only. The local control is mediated to the larger system by
+some fixed coupling Hamiltonian. The scheme allows to transfer arbitrary and
+unknown quantum states from a memory on the large system (``upload access'') as
+well as the inverse (``download access''). We study sufficient conditions of
+the coupling Hamiltonian and give lower bounds on the fidelities for
+downloading and uploading.

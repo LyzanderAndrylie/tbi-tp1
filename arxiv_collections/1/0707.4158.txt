@@ -1,0 +1,15 @@
+We study a two-level atom in a double--well potential coupled to a continuum
+of electromagnetic modes (black body radiation in three dimensions at zero
+absolute temperature). Internal and external degrees of the atom couple due to
+recoil during emission of a photon. We provide a full analysis of the problem
+in the long wavelengths limit up to the border of the Lamb-Dicke regime,
+including a study of the internal dynamics of the atom (spontaneous emission),
+the tunneling motion, and the electric field of the emitted photon. The
+tunneling process itself may or may not decohere depending on the wavelength
+corresponding to the internal transition compared to the distance between the
+two wells of the external potential, as well as on the spontaneous emission
+rate compared to the tunneling frequency. Interference fringes appear in the
+emitted light from a tunneling atom, or an atom in a stationary coherent
+superposition of its center--of--mass motion, if the wavelength is comparable
+to the well separation, but only if the external state of the atom is
+post-selected.

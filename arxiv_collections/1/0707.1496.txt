@@ -1,0 +1,9 @@
+Suppose that f : F_p^n -> [0,1] has expected value t in [p^(-n/9),1] (so, the
+density t can be quite low!). Furthermore, suppose that support(f) has no
+three-term arithmetic progressions. Then, we develop non-trivial lower bounds
+for f_j, which is the jth largest Fourier coefficient of f.
+  This result is similar in spirit to that appearing in an earlier paper [1] by
+the author; however, in that paper the focus was on the ``small'' Fourier
+coefficients, whereas here the focus is on the ``large'' Fourier coefficients.
+Furthermore, the proof in the present paper requires much more sophisticated
+arguments than those of that other paper.

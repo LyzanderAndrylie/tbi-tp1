@@ -1,0 +1,16 @@
+Certain integrable models are described by pairs (X,Y) of ADET Dynkin
+diagrams. At high energy these models are expected to have a conformally
+invariant limit. The S-matrix of the model determines algebraic equations,
+whose solutions are mapped to the central charge and scaling dimensions of the
+corresponding conformal field theory. We study the equations of the (D_m,A_n)
+model and find all solutions explicitly using the representation theory of Lie
+algebras and related Yangians. These mathematically rigorous results are in
+agreement with the expectations arising from physics. We also investigate the
+overlap between certain q-hypergeometric series and modular functions. We study
+a particular class of 2-fold q-hypergeometric series, denoted f_{A,B,C}. Here A
+is a positive definite, symmetric, 2x2 matrix, B is a vector of length 2, and C
+is a scalar, all three with rational entries. It turns out that for certain
+choices of the matrix A, the function f_{A,B,C} can be made modular. We
+calculate the corresponding values of B and C. It is expected that functions
+f_{A,B,C} arising in this way are characters of some rational conformal field
+theory. We show that this is true in at least one case.

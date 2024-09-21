@@ -1,0 +1,13 @@
+First principle calculations based on LDA/GGA approximation for the exchange
+functional underestimate the position of the semi core 3d levels in GaX (X = N,
+P and As) semiconductors. A self-interaction correction scheme within the
+LDA+U/GGA+U approximation is found to be sufficient to correct this
+discrepancy. A consequence of thiscorrection is that the bandgap (E_g) of the
+semiconductors also improves. The belief has been that the bandgap correction
+comes from modified semi core-valence interaction. We examine this often used
+approximation in great detail and find that although bandgap changes as large
+as 0.63 eV for GaAs, 0.42 eV for GaP and 0.46 eV for GaN are obtained within
+this approach for U= 20 eV on the Ga d states, only 0.1 eV, 0.1 eV and 0.15 eV
+for GaAs, GaP and GaN arise from semi core-valence interaction. As U is
+increased, the bandgap keeps improving. We trace this effect primarily to the
+interaction of the Ga 4d states in the conduction band with the anion p states.

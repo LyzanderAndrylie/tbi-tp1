@@ -1,0 +1,8 @@
+The description of the proximity effect in superconducting/ferromagnetic
+heterostructures requires to use spin-dependent boundary conditions. Such
+boundary conditions must take into account the spin dependence of the phase
+shifts acquired by electrons upon scattering on the boundaries of ferromagnets.
+The present article shows that this property can strongly affect the critical
+temperature and the energy dependence of the density of states of diffusive
+heterostructures. These effects should allow a better caracterisation of
+diffusive superconductor/ferromagnet interfaces.

@@ -1,0 +1,11 @@
+Owing to their distinct properties, carbon nanotubes (CNTs) have emerged as
+promising candidate for field emission devices. It has been found
+experimentally that the results related to the field emission performance show
+variability. The design of an efficient field emitting device requires the
+analysis of the variabilities with a systematic and multiphysics based modeling
+approach. In this paper, we develop a model of randomly oriented CNTs in a thin
+film by coupling the field emission phenomena, the electron-phonon transport
+and the mechanics of single isolated CNT. A computational scheme is developed
+by which the states of CNTs are updated in time incremental manner. The device
+current is calculated by using Fowler-Nordheim equation for field emission to
+study the performance at the device scale.

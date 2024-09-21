@@ -1,0 +1,17 @@
+We are suggesting an electronic method for Cooper pair mass spectroscopy of
+thin superconducting films. The method can be applied, for example, for 100 nm
+thin high-T_c films grown on insulator substrate 10 mm X 10 mm. In Corbino
+geometry two Ohmic contacts have to be made on the film evaporating Ag or using
+silver paste: one circle with radius r_a (1) and a ring electrode with internal
+radius r_b (2). In the in-between space (r_a,r_b) a ring electrode from mylar
+assures a capacitive connection between the superconducting layer and the
+metallized surface (3) of the mylar. In such a way we have an field effect
+transistor (FET) type structure with a circular gate. When at low enough
+temperatures T << T_c an AC current with frequency omega is applied between the
+circle source (1) and the ring-shaped drain (2) an AC Bernoulli voltage with
+double frequency 2f appears between the gate (3) and the source (1). The 2f
+signal depends on Cooper pair effective mass and its systematic investigation
+gives a Cooper pair mass spectroscopy. In the normal phase 2f gives logarithmic
+derivative of the density of states (DOS) with respect of Fermi energy.
+Applying a gate voltage in the same structure gives the mobility of the normal
+phase.

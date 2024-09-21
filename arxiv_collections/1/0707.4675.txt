@@ -1,0 +1,14 @@
+Recently, a homogenization procedure has been proposed, based on the tight
+lower bounds of the Bergman-Milton formulation, and successfully applied to
+dilute ternary nanocomposites to predict optical data without using any fitting
+parameters [Garcia et al. Phys. Rev. B, 75, 045439 (2007)]. The procedure has
+been extended and applied to predict the absorption coefficient of a quaternary
+nanocomposite consisting of Cu, Ag, and Au nanospheres embedded in a SiO2 host
+matrix. Significant enhancement of the absorption coefficient is observed over
+the spectral range 350-800 nm. The magnitude of this enhancement can be
+controlled by varying the nanosphere diameter and the individual metal volume
+fraction with respect to the host matrix. We have determined the optimal
+composition resulting in enhanced broadband (350nm-800nm) absorption of the
+solar spectrum using a simulated annealing algorithm. Fabricating such
+composite materials with a desired optical absorption has potential
+applications in solar energy harvesting.

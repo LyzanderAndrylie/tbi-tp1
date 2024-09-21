@@ -1,0 +1,10 @@
+We calculate the inclusive decay rate of the spin-triplet bottomonium states
+chi_{bJ} into charm hadrons, including the leading-order color-singlet and
+color-octet bb-bar annihilation mechanisms. We also calculate the momentum
+distribution of the charm quark from the decay of chi_{bJ}. The infrared
+divergences from the color-singlet process bb-bar -> cc-bar g are factored into
+the probability density at the origin for a bb-bar pair in a color-octet state.
+That probability density can be determined phenomenologically from the fraction
+of decays of chi_{bJ} that include charm hadrons. It can then be used to
+predict the partial widths into light hadrons for all four states in the P-wave
+bottomonium multiplet.

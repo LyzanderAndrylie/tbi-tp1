@@ -1,0 +1,11 @@
+Starting from the resurgence equation discovered by Berry and Howls [M. V.
+Berry and C. Howls "Hyperasymptotics for integrals with saddles," Proc. R. Soc.
+Lond. A 434, 657-675 (1991)], the Weniger transformation is here proposed as a
+natural, efficient, and straightforwardly implementable scheme for the
+efficient asymptotics evaluation of a class of integrals occurring in several
+areas of physics and, in particular, of optics. Preliminary numerical tests,
+carried out on the Pearcey function, provide a direct comparison between the
+performances of Weniger transformation and those of Hyperasymptotics, which
+seems to corroborate the theoretical predictions. We believe that Weniger
+transformation would be a very useful computational tool for the asymptotic
+treatment of several optical problems.

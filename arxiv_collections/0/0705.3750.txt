@@ -1,0 +1,13 @@
+It was shown by micromagnetic simulation that a current-driven in-plane
+magnetized magnetic nano-contact, besides a quasi-linear propagating
+("Slonczewski") spin wave mode, can also support a nonlinear self-localized
+spin wave "bullet" mode that exists in a much wider range of bias currents. The
+frequency of the "bullet" mode lies below the spectrum of linear propagating
+spin waves, which makes this mode evanescent and determines its spatial
+localization. The threshold current for the excitation of the self-localized
+"bullet" is substantially lower than for the linear propagating mode, but
+finite-amplitude initial perturbations of magnetization are necessary to
+generate a "bullet" in our numerical simulations, where thermal fluctuations
+are neglected. Consequently, in these simulations the hysteretic switching
+between the propagating and localized spin wave modes is found when the bias
+current is varied.

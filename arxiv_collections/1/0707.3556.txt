@@ -1,0 +1,10 @@
+We study the effect of the exciton fine-structure splitting on the
+polarisation-entanglement of photon pairs produced by the biexciton cascade in
+a single quantum dot. The entanglement is found to persist despite separations
+between the intermediate energy levels of up to 4 micro-eV. Measurements
+demonstrate that entanglement of the photon pair is robust to the dephasing of
+the intermediate exciton state responsible for the first order coherence time
+of either single photon. We present a theoretical framework taking into account
+the effects of spin-scattering, background light and dephasing. We distinguish
+between the first-order coherence time, and a parameter which we measure for
+the first time and define as the cross-coherence time.

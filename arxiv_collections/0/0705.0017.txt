@@ -1,0 +1,12 @@
+Quantum computing promises exponential speed-ups for important simulation and
+optimization problems. It also poses new CAD problems that are similar to, but
+more challenging, than the related problems in classical (non-quantum) CAD,
+such as determining if two states or circuits are functionally equivalent.
+While differences in classical states are easy to detect, quantum states, which
+are represented by complex-valued vectors, exhibit subtle differences leading
+to several notions of equivalence. This provides flexibility in optimizing
+quantum circuits, but leads to difficult new equivalence-checking issues for
+simulation and synthesis. We identify several different equivalence-checking
+problems and present algorithms for practical benchmarks, including quantum
+communication and search circuits, which are shown to be very fast and robust
+for hundreds of qubits.

@@ -1,0 +1,13 @@
+Coupled electron spins in semiconductor double quantum dots hold promise as
+the basis for solid-state qubits. To date, most experiments have used III-V
+materials, in which coherence is limited by hyperfine interactions. Ge/Si
+heterostructure nanowires seem ideally suited to overcome this limitation: the
+predominance of spin-zero nuclei suppresses the hyperfine interaction and
+chemical synthesis creates a clean and defect-free system with highly
+controllable properties. Here we present a top gate-defined double quantum dot
+based on Ge/Si heterostructure nanowires with fully tunable coupling between
+the dots and to the leads. We also demonstrate a novel approach to charge
+sensing in a one-dimensional nanostructure by capacitively coupling the double
+dot to a single dot on an adjacent nanowire. The double quantum dot and
+integrated charge sensor serve as an essential building block required to form
+a solid-state spin qubit free of nuclear spin.

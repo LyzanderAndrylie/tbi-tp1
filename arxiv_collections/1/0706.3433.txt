@@ -1,0 +1,7 @@
+We present a theory of unbinding transitions for membranes that interact via
+short and long receptor/ligand bonds. The detail of unbinding behavior of the
+membranes is governed by the binding energies and concentrations of receptors
+and ligands. We investigate the unbinding behavior of these membranes with
+Monte Carlo simulations and via a comparison with strings. We derive the
+scaling laws for strings analytically. The exact analytic results provide
+scaling estimate for membranes in the vicinity of the critical point.

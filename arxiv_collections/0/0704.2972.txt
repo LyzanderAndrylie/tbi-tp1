@@ -1,0 +1,12 @@
+A state of an excitonic insulator with the electric current is studied.
+Initially, in the metallic phase, the electrons and holes are assumed to be
+moving in the opposite directions, so as the electric current exists. This
+state is supported by an external condition (the specimen is in an electric
+circuit with the current). When the temperature decreases, the transition to
+the ordering state due to formation of the electron--hole pairs is possible
+(similar to the ordinary state of the excitonic insulator). The properties of
+the state at zero temperature are investigated. The spectrum of elementary
+excitations has a gap, and so the conclusion can be made that obtained state is
+superconducting one. Thus, depending on the external conditions, excitonic
+insulator behaves itself like the insulator or superconductor. That is correct
+in the limit of strong overlapping of the electron--hole pairs.

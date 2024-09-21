@@ -1,0 +1,8 @@
+With molecular dynamics simulations of a fluid mixture of classical particles
+interacting with pair-wise additive Weeks-Chandler-Andersen potentials, we
+consider the time series of particle displacements and thereby determine
+distributions for local persistence times and local exchange times. These basic
+characterizations of glassy dynamics are studied over a range of super-cooled
+conditions and shown to have behaviors, most notably de-coupling, similar to
+those found in kinetically constrained lattice models of structural glasses.
+Implications are noted.

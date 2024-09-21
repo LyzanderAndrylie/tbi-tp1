@@ -1,0 +1,10 @@
+The work contains the description of two narrow IR-bands observational data
+of total lunar eclipse of March, 3, 2007, one- and two-dimensional procedures
+of radiative transfer equation solution. The results of the procedure are the
+extinction values for atmospheric aerosol and water vapor at different
+altitudes in the troposphere along the Earth's terminator crossing North
+America, Arctic, Siberia and South-Eastern Asia. The altitude range and
+possible latitude and altitude resoltion of atmosphere remote sensing by the
+lunar eclipses observation are fixed. The results of water vapor retrieval are
+compared with data of space experiment, the scale of vertical water vapor
+distribution is found.

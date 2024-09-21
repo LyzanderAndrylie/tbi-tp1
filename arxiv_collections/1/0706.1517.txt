@@ -1,0 +1,11 @@
+We show that correlated hopping of triplets, which is often the dominant
+source of kinetic energy in dimer-based frustrated quantum magnets, produces a
+remarkably strong tendency to form supersolid phases in a magnetic field. These
+phases are characterized by simultaneous modulation and ordering of the
+longitudinal and transverse magnetization respectively. Using Quantum Monte
+Carlo and a semiclassical approach for an effective hard-core boson model with
+nearest-neighbor repulsion on a square lattice, we prove in particular that a
+supersolid phase can exist even if the repulsion is not strong enough to
+stabilize an insulating phase at half-filling. Experimental implications for
+frustrated quantum antiferromagnets in a magnetic field at zero and finite
+temperature are discussed.

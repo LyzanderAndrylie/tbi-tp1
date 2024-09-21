@@ -1,0 +1,6 @@
+Let $E\subset R^d$ with $H^n(E)<\infty$, where H^n stands for the
+$n$-dimensional Hausdorff measure. In this paper we prove that E is
+n-rectifiable if and only if the limit $$\lim_{\ve\to0}\int_{y\in E:|x-y|>\ve}
+\frac{x-y}{|x-y|^{n+1}} dH^n(y)$$ exists H^n-almost everywhere in E. To prove
+this result we obtain precise estimates from above and from below for the $L^2$
+norm of the n-dimensional Riesz transforms on Lipschitz graphs.

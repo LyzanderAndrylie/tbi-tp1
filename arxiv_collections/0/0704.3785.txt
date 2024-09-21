@@ -1,0 +1,5 @@
+In this paper we consider the question of whether the doubling character of a
+measure supported on a subset of $\RR^m$ determines the regularity of its
+support (in a classical sense). This problem was studied by David, Kenig and
+Toro for codimension 1 sets under the assumption that the support be flat. Here
+we study the higher codimension case and remove the flatness hypothesis.

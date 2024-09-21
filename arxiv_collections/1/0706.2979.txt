@@ -1,0 +1,8 @@
+This paper studies the security of a chaotic cryptosystem based on the Chua
+circuit and implemented with State Controlled Cellular Neural Networks. It is
+shown that the plaintext can be retrieved by ciphertext band-pass filtering
+after an imperfect decoding with wrong receiver parameters. It is also shown
+that the key space of the system can be notably reduced easing a brute force
+attack. The system parameters were determined with high precision through the
+analysis of the decoding error produced by the mismatch between receiver and
+transmitter parameters.

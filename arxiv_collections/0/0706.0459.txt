@@ -1,0 +1,12 @@
+We present a new set of parton distributions obtained at NNLO. These differ
+from the previous sets available at NNLO due to improvements in the theoretical
+treatment. In particular we include a full treatment of heavy flavours in the
+region near the quark mass. In this way, an essentially complete set of NNLO
+partons is presented for the first time. The improved treatment leads to a
+significant change in the gluon and heavy quark distributions, and a larger
+value of the QCD coupling at NNLO, alpha_S(M_Z^2) = 0.1191 +/- 0.002(expt.) +/-
+0.003(theory). Indirectly this also leads to a change in the light partons at
+small x and modifications of our predictions for W and Z production at the LHC.
+As well as the best-fit set of partons, we also provide 30 additional sets
+representing the uncertainties of the partons obtained using the Hessian
+approach.

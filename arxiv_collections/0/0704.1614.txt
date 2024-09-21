@@ -1,0 +1,10 @@
+Red clump giant stars can be used as distance indicators to trace the mass
+distribution of the Galactic bar. We use RCG stars from 44 bulge fields from
+the OGLE-II microlensing collaboration database to constrain analytic tri-axial
+models for the Galactic bar. We find the bar major axis is oriented at an angle
+of 24 - 27 degrees to the Sun-Galactic centre line-of-sight. The ratio of
+semi-major and semi-minor bar axis scale lengths in the Galactic plane x_0,
+y_0, and vertical bar scale length z_0, is x_0 : y_0 : z_0 = 10 : 3.5 : 2.6,
+suggesting a slightly more prolate bar structure than the working model of
+Gerhard (2002) which gives the scale length ratios as x_0 : y_0 : z_0 = 10 : 4
+: 3 .

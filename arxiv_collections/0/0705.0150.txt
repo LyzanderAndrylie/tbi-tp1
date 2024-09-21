@@ -1,0 +1,7 @@
+In this paper we outline several points of view on the interplay between
+discrete and continuous wavelet transforms; stressing both pure and applied
+aspects of both. We outline some new links between the two transform
+technologies based on the theory of representations of generators and
+relations. By this we mean a finite system of generators which are represented
+by operators in Hilbert space. We further outline how these representations
+yield sub-band filter banks for signal and image processing algorithms.

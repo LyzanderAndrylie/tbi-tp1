@@ -1,0 +1,9 @@
+The NA49 experiment at CERN SPS has acquired a huge data set of Pb+Pb events
+over a broad range of energy and centrality during the last several years. This
+high statistics data set, coupled with a state-of-the-art analysis technique,
+allows for the first model-independent extraction and energy scan of 3D
+emission sources for pion pairs at SPS energies. These 3D pion emission sources
+provide new insights into the nature of a long-range source previously reported
+by PHENIX at RHIC. The new results indicate that the pion source displays
+significant non-Gaussian tails in the longitudinal direction at 40 and 158 AGeV
+and in the outward direction at 158 AGeV.

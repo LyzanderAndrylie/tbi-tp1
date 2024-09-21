@@ -1,0 +1,9 @@
+Modelling incompressible ideal fluids as a finite collection of vortex
+filaments is important in physics (super-fluidity, models for the onset of
+turbulence) as well as for numerical algorithms used in computer graphics for
+the real time simulation of smoke. Here we introduce a time-discrete evolution
+equation for arbitrary closed polygons in 3-space that is a discretisation of
+the localised induction approximation of filament motion. This discretisation
+shares with its continuum limit the property that it is a completely integrable
+system. We apply this polygon evolution to a significant improvement of the
+numerical algorithms used in Computer Graphics.

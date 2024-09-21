@@ -1,0 +1,13 @@
+The thermal decomposition of n-dodecane, a component of some jet fuels, has
+been studied in a jet-stirred reactor at temperatures from 793 to 1093 K, for
+residence times between 1 and 5 s and at atmospheric pressure. Thermal
+decomposition of hydrocarbon fuel prior the entrance in the combustion chamber
+is an envisaged way to cool the wall of hypersonic vehicles. The products of
+the reaction are mainly hydrogen, methane, ethane, 1,3-butadiene and 1-alkenes
+from ethylene to 1-undecene. For higher temperatures and residence times
+acetylene, allene, propyne, cyclopentene, 1,3-cyclopentadiene and aromatic
+compounds from benzene to pyrene through naphthalene have also been observed. A
+previous detailed kinetic model of the thermal decomposition of n-dodecane
+generated using EXGAS software has been improved and completed by a
+sub-mechanism explaining the formation and the consumption of aromatic
+compounds.

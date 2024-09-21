@@ -1,0 +1,13 @@
+QCD at finite temperature and density is becoming increasingly important for
+various experimental programmes, ranging from heavy ion physics to
+astro-particle physics. The non-perturbative nature of non-abelian quantum
+field theories at finite temperature leaves lattice QCD as the only tool by
+which we may hope to come to reliable predictions from first principles. This
+requires careful extrapolations to the thermodynamic, chiral and continuum
+limits in order to eliminate systematic effects introduced by the
+discretization procedure. After an introduction to lattice QCD at finite
+temperature and density, its possibilities and current systematic limitations,
+a review of present numerical results is given. In particular, plasma
+properties such as the equation of state, screening masses, static quark free
+energies and spectral functions are discussed, as well as the critical
+temperature and the QCD phase structure at zero and finite density.

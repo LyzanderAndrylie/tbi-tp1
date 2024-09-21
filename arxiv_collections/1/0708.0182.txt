@@ -1,0 +1,13 @@
+We search for decays of a B meson into a neutral D meson and a kaon, with the
+D meson decaying into K+pi-pi0. This final state can be reached through the b
+--> c transition B- -> D0K- followed by the doubly Cabibbo-suppressed D0 -->
+K+pi-pi0, or the b --> u transition B- --> D0bar K- followed by the
+Cabibbo-favored D0bar --> K+ pi-pi 0. The interference of these two amplitudes
+is sensitive to the angle gamma of the unitarity triangle. We present
+preliminary results based on 226 10^{6} e+e- --> Y(4s) --> BBbar events
+collected with the BABAR detector at SLAC. We find no significant evidence for
+these decays and we set a limit R_ADS =(BR(B- -->[K+pi-pi0]_D K-)+ BR(B+ -->
+[K-pi+pi0]_D K+))/(BR(B- -->[K-p i+pi0]_D K-)+ BR(B+ --> [K+pi-pi0]_D
+K+))<0.039 at 95% confidence level, which we translate with a Bayesian approach
+into r_B = |A(B- --> D0bar K-)|/|A(B- --> D0bar K-)| < 0.185 at 95% confidence
+level.

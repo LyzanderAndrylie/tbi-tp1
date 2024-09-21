@@ -1,0 +1,9 @@
+We study the rotation of atoms in one-dimensional lattice rings. In
+particular, the "fast mode", where the ground state atoms rotate faster than
+the stirring rotating the atoms, is studied both analytically and numerically.
+The conditions for the transition to the fast mode are found to be very
+different from that in continuum rings. We argue that these transition
+frequencies remain unchanged for bosonic condensates described in a mean field.
+We show that Fermionic interaction and filling factor have a significant effect
+on the transition to the fast mode, and Pauli principle may suppress it
+altogether.

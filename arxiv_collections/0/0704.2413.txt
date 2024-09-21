@@ -1,0 +1,18 @@
+We present radio and X-ray observations of an impulsive solar flare that was
+moderately intense in microwaves, yet showed very meager EUV and X-ray
+emission. The flare occurred on 2001 Oct 24 and was well-observed at radio
+wavelengths by the Nobeyama Radioheliograph (NoRH), the Nobeyama Radio
+Polarimeters (NoRP), and by the Owens Valley Solar Array (OVSA). It was also
+observed in EUV and X-ray wavelength bands by the TRACE, GOES, and Yohkoh
+satellites. We find that the impulsive onset of the radio emission is
+progressively delayed with increasing frequency relative to the onset of hard
+X-ray emission. In contrast, the time of flux density maximum is progressively
+delayed with decreasing frequency. The decay phase is independent of radio
+frequency. The simple source morphology and the excellent spectral coverage at
+radio wavelengths allowed us to employ a nonlinear chi-squared minimization
+scheme to fit the time series of radio spectra to a source model that accounts
+for the observed radio emission in terms of gyrosynchrotron radiation from
+MeV-energy electrons in a relatively dense thermal plasma. We discuss plasma
+heating and electron acceleration in view of the parametric trends implied by
+the model fitting. We suggest that stochastic acceleration likely plays a role
+in accelerating the radio-emitting electrons.

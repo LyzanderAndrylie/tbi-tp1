@@ -1,0 +1,18 @@
+Normal-incidence transmission and dispersion properties of optical
+multilayers and one-dimensional stepwise potential barriers in the
+non-tunneling regime are analytically investigated. The optical paths of every
+constituent layer in a multilayer structure, as well as the parameters of every
+step of the stepwise potential barrier, are constrained by a generalized
+quarter-wave condition. No other restrictions on the structure geometry is
+imposed, i.e., the layers are arranged arbitrarily. We show that the density of
+states (DOS) spectra of the multilayer or barrier in question are subject to
+integral conservation rules similar to the Barnett-Loudon sum rule but ocurring
+within a finite frequency or energy interval. In the optical case, these
+frequency intervals are regular. For the potential barriers, only non-periodic
+energy intervals can be present in the spectrum of any given structure, and
+only if the parameters of constituent potential steps are properly chosen.
+  Abstract The integral conservation relations derived analytically have also
+been verified numerically. The relations can be used in dispersion-engineered
+multilayer-based devices, e.g., ultrashort pulse compressors or ultracompact
+optical delay lines, as well as to design multiple-quantum-well electronic
+heterostructures with engineered DOS.

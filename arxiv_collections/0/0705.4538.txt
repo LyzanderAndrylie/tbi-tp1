@@ -1,0 +1,14 @@
+We have carried out a comparative theoretical study of the electronic
+structure of the novel one-dimensional Ca$_3$CoRhO$_6$ and Ca$_3$FeRhO$_6$
+systems. The insulating antiferromagnetic state for the Ca$_3$FeRhO$_6$ can be
+well explained by band structure calculations with the closed shell high-spin
+$d^5$ (Fe$^{3+}$) and low-spin $t_{2g}^{6}$ (Rh$^{3+}$) configurations. We
+found for the Ca$_3$CoRhO$_6$ that the Co has a strong tendency to be $d^7$
+(Co$^{2+}$) rather than $d^6$ (Co$^{3+}$), and that there is an orbital
+degeneracy in the local Co electronic structure. We argue that it is the
+spin-orbit coupling which will lift this degeneracy thereby enabling local spin
+density approximation + Hubbard U (LSDA+U) band structure calculations to
+generate the band gap. We predict that the orbital contribution to the magnetic
+moment in Ca$_3$CoRhO$_6$ is substantial, i.e. significantly larger than 1
+$\mu_B$ per formula unit. Moreover, we propose a model for the contrasting
+intra-chain magnetism in both materials.

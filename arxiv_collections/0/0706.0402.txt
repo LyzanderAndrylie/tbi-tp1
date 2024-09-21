@@ -1,0 +1,12 @@
+We derive four sum-rule expressions for spectra measured in electron
+energy-loss near edge structure experiments. These sum-rules permit the
+determination spin and orbital magnetic moments, spin-orbit interaction and
+number of states, analogously to the sum rules of x-ray magnetic circular
+dichroism. The derivation of the sum-rules is based on dynamical electron
+diffraction theory and the properties of the mixed dynamic form-factor. The
+accuracy of the sum-rules is tested by a complete evaluation of the thickness
+dependent electron energy-loss spectra for iron, cobalt, and nickel crystals.
+We find that the sum-rules reproduce both spin and orbital moments with very
+good accuracy. Our results provide a foundation for the use of the energy loss
+magnetic chiral dichroism technique as a quantitative probe of element specific
+magnetic properties.

@@ -1,0 +1,9 @@
+We propose a novel mechanism for photogeneration of multiexcitons by single
+photons (carrier multiplication) in semiconductor nanocrystals. In this
+mechanism, the Coulomb interaction between two valence-band electrons involving
+their transfer to the conduction band creates a virtual biexciton from vacuum
+that is then converted into a real biexciton by photon absorption on an
+intraband optical transition. This mechanism is inactive in bulk semiconductors
+as momentum conservation suppresses intraband absorption. However, it becomes
+highly efficient in zero-dimensional nanocrystals and can provide a significant
+contribution to carrier multiplication in these materials.

@@ -1,0 +1,23 @@
+In a previous work, we showed that the differentially rotating equatorial
+disk in the pulsar's electrosphere is diocotron unstable in the
+non-relativistic regime. In this paper, we extend these results and study the
+relativistic and electromagnetic stabilisation effects by including the
+magnetic field perturbation and allow for relativistic speeds of the guiding
+centre, in a self-consistent manner. We use the electric drift approximation,
+valid for low-density plasmas.
+  We linearise the coupled relativistic cold-fluid and Maxwell equations in the
+electric drift approximation. The non-linear eigenvalue problem for the
+perturbed azimuthal electric field is solved numerically with standard technics
+for boundary value problems like the shooting method. The spectrum of the
+relativistic diocotron instability in a non-neutral plasma column confined
+between two cylindrically conducting walls is computed.
+  For low-speed motions, we recover the eigenfunctions and eigenspectra of the
+non-relativistic diocotron instability. Our algorithm is also checked in the
+relativistic planar diode geometry for which an analytical expression of the
+dispersion relation is known. As expected, when the relativistic and
+electromagnetic effects become significant, the diocotron instability tends to
+stabilise. In cylindrical geometry, for some special rotation profile, all
+azimuthal modes $l$ are completely suppressed for sufficiently relativistic
+flows. However, for the profile relevant to the electrosphere, depending on the
+exact rotation curves, the growth rates can either significantly decrease till
+they vanish or persist for moderate $l$.

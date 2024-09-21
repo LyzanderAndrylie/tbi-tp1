@@ -1,0 +1,8 @@
+We investigated domain kinetics by measuring the polarization switching
+behaviors of polycrystalline Pb(Zr,Ti)O$_{3}$ films, which are widely used in
+ferroelectric memory devices. Their switching behaviors at various electric
+fields and temperatures could be explained by assuming the Lorentzian
+distribution of domain switching times. We viewed the switching process under
+an electric field as a motion of the ferroelectric domain through a random
+medium, and we showed that the local field variation due to dipole defects at
+domain pinning sites could explain the intriguing distribution.

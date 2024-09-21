@@ -1,0 +1,14 @@
+Analytical approaches to galaxy formation and reionization are based on the
+mathematical problem of random walks with barriers. The statistics of a single
+random walk can be used to calculate one-point distributions ranging from the
+mass function of virialized halos to the distribution of ionized bubble sizes
+during reionization. However, an analytical calculation of two-point
+correlation functions or of spatially-dependent feedback processes requires the
+joint statistics of random walks at two different points. An accurate
+analytical expression for the statistics of two correlated random walks has
+been previously found only for the case of a constant barrier height. However,
+calculating bubble sizes or accurate statistics for halo formation involves
+more general barriers that can often be approximated as linear barriers. We
+generalize the two-point solution with constant barriers to linear barriers,
+and apply it as an illustration to calculate the correlation function of
+cosmological 21-cm fluctuations during reionization.

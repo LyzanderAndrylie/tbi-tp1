@@ -1,0 +1,14 @@
+We investigate the QCD effects in the associated production of the chargino
+and the neutralino, $\tilde\chi^\pm_{1}$ and $\tilde\chi^0_{2}$, in the Minimal
+Supersymmetric Standard Model (MSSM) at both the Fermilab Tevatron and the CERN
+Large Hadron Collider (LHC). We include the next-to-leading order (NLO) QCD
+corrections (including supersymmetric QCD) and the threshold resummation
+effects. Our results show that, compared to the NLO predictions, the threshold
+resummation effects can increase the total cross sections by 3.6% and 3.9% for
+the associated production of $\tilde\chi^+_{1}\tilde\chi^0_{2}$ and
+$\tilde\chi^-_{1}\tilde\chi^0_{2}$ at the LHC, respectively, and by 4.7% for
+those of $\tilde\chi^\pm_{1}\tilde\chi^0_{2}$ at the Tevatron. In the invariant
+mass distributions the resummation effects are significant for large invariant
+mass. The threshold resummation reduces the dependence of the total cross
+sections at the LHC (Tevatron) on the renormalization/factorization scales to
+5% (4%) from up to 7% (11%) at NLO.

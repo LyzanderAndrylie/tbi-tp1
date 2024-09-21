@@ -1,0 +1,24 @@
+We investigate the transport properties of ballistic quantum wires in the
+presence of Zeeman spin splittings and a spatially inhomogeneous Rashba
+interaction. The Zeeman interaction is extended along the wire and produces
+gaps in the energy spectrum which allow electron propagation only for spinors
+lying along a certain direction. For spins in the opposite direction the waves
+are evanescent far away from the Rashba region, which plays the role of the
+scattering center. The most interesting case occurs when the magnetic field is
+perpendicular to the Rashba field. Then, the spins of the asymptotic
+wavefunctions are not eigenfunctions of the Rashba Hamiltonian and the
+resulting coupling between spins in the Rashba region gives rise to sudden
+changes of the transmission probability when the Fermi energy is swept along
+the gap. After briefly examining the energy spectrum and eigenfunctions of a
+wire with extended Rashba coupling, we analyze the transmission through a
+region of localized Rashba interaction, in which a double interface separates a
+region of constant Rashba interaction from wire leads free from spin-orbit
+coupling. For energies slightly above the propagation threshold, we find the
+ubiquitous occurrence of transmission zeros (antiresonances) which are analyzed
+by matching methods in the one-dimensional limit. We find that a a minimal
+tight-binding model yields analytical transmission lineshapes of Fano
+antiresonance type. More general angular dependences of the external magnetic
+field is treated within projected Schroedinger equations with Hamiltonian
+matrix elements mixing wavefunction components. Finally, we consider a
+realistic quantum wire where the energy subbands are coupled via the Rashba
+intersubband coupling term and discuss its effect on the transmission zeros.

@@ -1,0 +1,9 @@
+We study electron propagation through a random array of rare, opaque and
+large (compared the de Broglie wavelength of electrons) scatterers. It is shown
+that for any convex scatterer the ratio of the transport to quantum lifetimes
+\eta=\tau_{tr}/\tau_{tot}$ does not depend on the shape of the scatterer but
+only on whether scattering is specular or diffuse and on the spatial
+dimensionality (D). In particular, for specular scattering, \eta is a universal
+constant determined only by the dimensionality of the system: \eta = 2 for D =
+3 and \eta = 3/2 for D = 2. The crossover between classical and quantum regimes
+of scattering is discussed.

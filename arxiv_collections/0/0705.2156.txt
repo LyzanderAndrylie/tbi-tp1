@@ -1,0 +1,7 @@
+We study distributions on a Euclidean Jordan algebra V with values in a
+finite dimensional representation space for the identity component G of the
+structure group of V and homogeneous equivariance condition. We show that such
+distributions exist if and only if the representation is spherical, and that
+then the dimension of the space of these distributions is r+1 (where r is the
+rank of V). We give also construction of these distributions and of those that
+are invariant under the semi-simple part of G.

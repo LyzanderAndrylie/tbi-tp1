@@ -1,0 +1,9 @@
+Photoinduced magnetization dynamics is investigated in chemically ordered
+$(\mathrm{LaMnO}_3)_{2n}/(\mathrm{SrMnO}_3)_n$ superlattices using the
+time-resolved magneto-optic Kerr effect. A monotonic frequency-field dependence
+is observed for the $n=1$ superlattice, indicating a single spin population
+consistent with a homogeneous hole distribution. In contrast, for $n\geq2$
+superlattices, a large precession frequency is observed at low fields
+indicating the presence of an exchange torque in the dynamic regime. We propose
+a model that ascribes the emergence of exchange torque to the coupling between
+two spin populations -- viscous and fast spins.

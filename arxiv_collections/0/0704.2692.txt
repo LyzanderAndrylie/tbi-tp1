@@ -1,0 +1,12 @@
+For general quantum systems the semiclassical behaviour of eigenfunctions in
+relation to the ergodic properties of the underlying classical system is quite
+difficult to understand. The Wignerfunctions of eigenstates converge weakly to
+invariant measures of the classical system, the so called quantum limits, and
+one would like to understand which invariant measures can occur that way,
+thereby classifying the semiclassical behaviour of eigenfunctions. We introduce
+a class of maps on the torus for whose quantisations we can understand the set
+of quantum limits in great detail. In particular we can construct examples of
+ergodic maps which have singular ergodic measures as quantum limits, and
+examples of non-ergodic maps where arbitrary convex combinations of absolutely
+continuous ergodic measures can occur as quantum limits. The maps we quantise
+are obtained by cutting and stacking.

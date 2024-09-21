@@ -1,0 +1,9 @@
+A class of interacting classical random fields is constructed using deformed
+*-algebras of creation and annihilation operators. The fields constructed are
+classical random field versions of "Lie fields". A vacuum vector is used to
+construct linear forms over the algebras, which are conjectured to be states
+over the algebras. Assuming this conjecture is true, the fields constructed are
+"quantum random fields" in the sense that they have Poincare invariant vacua
+with a fluctuation scale determined by Planck's constant. A nonlocal particle
+interpretation of the formalism is shown to be the same as a particle
+interpretation of a quantum field theory.

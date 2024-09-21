@@ -1,0 +1,19 @@
+Multi-wavelength galaxy number counts provide clues on the nature of galaxy
+evolution. The interpretation per galaxy type with the new code PEGASE.3 of the
+12mu (ISO) and 24mu (Spitzer) faint galaxy counts provide new constraints on
+the dust and stellar emission. It also reveals the nature of ULIRGs (L/Lsun >
+10^12) and informs on the cosmic star formation history and the time-scales for
+mass build-up. We firstly present the faint galaxy counts at 12um derived from
+the catalogue of the ISO-ESO-Sculptor Survey (ISO-ESS) in a companion paper
+(Seymour et al. 2007) which go down to 0.24 mJy after corrections for
+incompleteness. We check that they are consistent with ISO number counts at
+15um. Secondly we show that the ``normal'' scenarios which fit the deep
+UV-optical-near-IR counts with PEGASE.2 (Fioc et al. 1999), are unsuccessful in
+modelling the strong excess simultaneously observed in the cumulative and
+differential counts at 12um, 15um and 24um. Based on observed 12mu and 25mu
+IRAS luminosity functions and optical/mid-IR colors, we finally succeed in
+modelling cumulative and differential counts by only changing 9% of normal
+galaxies (1/3 of the ellipticals) into ultra-bright dusty elliptical galaxies,
+interpreted as ULIRGs. This ULIRG population has similarities with high-z
+radio-galaxy hosts. No number density evolution is included. The Herschel
+observatory will hopefully confirm these results.

@@ -1,0 +1,12 @@
+A general formalism of X-ray scattering from different kinds of surface
+morphologies is described. Based on a description of the surface morphology at
+the atomic scale through the use of the paracrystal model and discrete
+distributions of distances, the scattered intensity by non-periodic surfaces is
+calculated over the whole reciprocal space. In one dimension, the scattered
+intensity by a vicinal surface, the two-level model, the N-level model, the
+faceted surface and the rough surface are addressed. In two dimensions, the
+previous results are generalized to the kinked vicinal surface, the two-level
+vicinal surface and the step meandering on a vicinal surface. The concept of
+crystal truncation rod is generalized considering also the truncation of a
+terrace by a step (yielding a terrace truncation rod) and a step by a kink
+(yielding a step truncation rod).

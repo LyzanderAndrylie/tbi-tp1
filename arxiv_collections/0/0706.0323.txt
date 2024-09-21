@@ -1,0 +1,5 @@
+This note extends Voiculescu's S-transform based analytical machinery for
+free multiplicative convolution to the case where the mean of the probability
+measures vanishes. We show that with the right interpretation of the
+S-transform in the case of vanishing mean, the usual formula makes perfectly
+good sense.

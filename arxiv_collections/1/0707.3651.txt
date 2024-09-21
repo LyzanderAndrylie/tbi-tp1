@@ -1,0 +1,10 @@
+We develop a theory for the electron-phonon interaction effects on the
+electronic properties of graphene. We analytically calculate the electron
+self-energy, spectral function and band velocity renormalization due to
+phonon-mediated electron-electron interaction. We find that phonon-mediated
+electron-electron coupling has a large effect on the graphene band structure
+renormalization, and our analytic theory successfully captures the essential
+features of the observed graphene electron spectra in the ARPES experiments,
+predicting a kink at $\sim 200\mathrm{meV}$ below the Fermi level and a
+reduction of the band velocity by $\sim 10-20%$ at the experimental doping
+level.

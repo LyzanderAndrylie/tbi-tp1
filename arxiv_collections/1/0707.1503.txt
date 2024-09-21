@@ -1,0 +1,18 @@
+As in many other areas of science, systems biology makes extensive use of
+statistical association and significance estimates in contingency tables, a
+type of categorical data analysis known in this field as enrichment (also
+over-representation or enhancement) analysis. In spite of efforts to create
+probabilistic annotations, especially in the Gene Ontology context, or to deal
+with uncertainty in high throughput-based datasets, current enrichment methods
+largely ignore this probabilistic information since they are mainly based on
+variants of the Fisher Exact Test. We developed an open-source R package to
+deal with probabilistic categorical data analysis, ProbCD, that does not
+require a static contingency table. The contingency table for the enrichment
+problem is built using the expectation of a Bernoulli Scheme stochastic process
+given the categorization probabilities. An on-line interface was created to
+allow usage by non-programmers and is available at:
+http://xerad.systemsbiology.net/ProbCD/ . We present an analysis framework and
+software tools to address the issue of uncertainty in categorical data
+analysis. In particular, concerning the enrichment analysis, ProbCD can
+accommodate: (i) the stochastic nature of the high-throughput experimental
+techniques and (ii) probabilistic gene annotation.

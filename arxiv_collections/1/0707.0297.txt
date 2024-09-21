@@ -1,0 +1,10 @@
+We present a valence bond theory of the spin-S quantum Heisenberg model. For
+nonfrustracting, local exchange and dimension d > 1, it predicts a resonating
+ground state with bond amplitudes h(r) ~ (a^2+r^2)^(-p/2) and decay exponent
+p=d+1. Different values of p can be achieved by introducing frustrating (p >
+d+1) or nonfrustrating (p < d+1) long-range interactions. For d=2, but not d=3,
+there is a critical value of the decay exponent p_c above which the ground
+state is a spin liquid. The phase transition is analogous to quantum
+percolation, with fractal valence bond loops playing the role of percolating
+clusters. The critical exponents are continuously tunable along the phase
+boundary p=p_c(a,S).

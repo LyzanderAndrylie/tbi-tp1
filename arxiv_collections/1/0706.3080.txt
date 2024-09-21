@@ -1,0 +1,11 @@
+Rotating black hole solutions in the (3+1)-dimensional Chern-Simons modified
+gravity theory are discussed by taking account of perturbation around the
+Schwarzschild solution. The zenith-angle dependence of a metric function
+related to the frame-dragging effect is determined from a constraint equation
+independently of a choice of the embedding coordinate. We find that at least
+within the framework of the first-order perturbation method, the black hole
+cannot rotate for finite black hole mass if the embedding coordinate is taken
+to be a timelike vector. However, the rotation can be permitted in the limit of
+$M/r \to 0$ (where $M$ is the black hole mass and $r$ is the radius). For a
+spacelike vector, the rotation can also be permitted for any value of the black
+hole mass.

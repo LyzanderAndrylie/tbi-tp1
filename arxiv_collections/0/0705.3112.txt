@@ -1,0 +1,5 @@
+We consider d=4, N=2 compactifications of heterotic strings with an arbitrary
+number of Wilson lines. In particular, we focus on known chains of candidate
+heterotic/type II duals. We give closed expressions for the topological
+amplitudes F^g in terms of automorphic forms of SO(2+k,2,Z), and find agreement
+with the geometric data of the dual K3 fibrations wherever those are known.

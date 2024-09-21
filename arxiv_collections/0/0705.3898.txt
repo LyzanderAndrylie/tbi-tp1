@@ -1,0 +1,16 @@
+The aim of this paper is to apply a contextual probabilistic model (in the
+spirit of Mackey, Gudder, Ballentine) to represent and to generalize some
+results of quantum logic about possible macroscopic quantum-like (QL)
+behaviour. The crucial point is that our model provides QL-representation of
+macroscopic configurations in terms of complex probability amplitudes -- wave
+functions of such configurations. Thus, instead of the language of propositions
+which is common in quatum logic, we use the language of wave functions which is
+common in the conventional presentation of QM. We propose a quantum-like
+representation algorithm, QLRA, which maps probabilistic data of any origin in
+complex (or even hyperbolic) Hilbert space. On the one hand, this paper
+clarifyes some questions in foundations of QM, since some rather mystical
+quantum features are illustrated on the basis of behavior of macroscopic
+systems. On the other hand, the approach developed in this paper may be used
+e.g. in biology, sociology, or psychology. Our example of QL-representation of
+hidden macroscopic configurations can find natural applications in those
+domains of science.

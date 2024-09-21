@@ -1,0 +1,4 @@
+We prove that the average smooth Renyi entropy rate will approach the entropy
+rate of a stationary, ergodic information source, which is equal to the Shannon
+entropy rate for a classical information source and the von Neumann entropy
+rate for a quantum information source.

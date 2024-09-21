@@ -1,0 +1,5 @@
+Geodesic rays of class C^{1,1} are constructed for any test configuration of
+a positive line bundle L on X using resolution of singularities. The
+construction reduces to finding a subsolution of the corresponding Monge-Ampere
+equation. Geometrically, this is accomplished by the use a positive line bundle
+on the resolution which is trivial outside of the exceptional divisor.

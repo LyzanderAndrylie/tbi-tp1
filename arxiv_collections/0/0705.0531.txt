@@ -1,0 +1,11 @@
+We have analyzed a large sample of numerically simulated clusters to
+demonstrate the adverse effects resulting from use of X-ray fitted beta-model
+parameters with Sunyaev-Zeldovich effect (SZE) data. There is a fundamental
+incompatibility between model fits to X-ray surface brightness profiles and
+those done with SZE profiles. Since observational SZE radial profiles are in
+short supply, the X-ray parameters are often used in SZE analysis. We show that
+this leads to biased estimates of the integrated Compton y-parameter inside
+r_{500} calculated from clusters. We suggest a simple correction of the method,
+using a non-isothermal beta-model modified by a universal temperature profile,
+which brings these calculated quantities into closer agreement with the true
+values.

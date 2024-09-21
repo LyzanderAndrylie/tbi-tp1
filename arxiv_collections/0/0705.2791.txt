@@ -1,0 +1,12 @@
+Fragmentation functions are determined for the pion, kaon, and proton by
+analyzing charged-hadron production data in electron-positron annihilation. It
+is important that uncertainties of the determined fragmentation functions are
+estimated in this analysis. Analysis results indicate that gluon and
+light-quark functions have large uncertainties especially at small Q^2. We find
+that next-to-leading-order (NLO) uncertainties are significantly reduced in
+comparison with leading-order (LO) ones in the pion and kaon. The fragmentation
+functions are very different in various analysis groups. However, all the
+recent functions are roughly within the estimated uncertainties, which
+indicates that they are consistent with each other. We provide a code for
+calculating the fragmentation functions and their uncertainties at a given
+kinematical point of z and Q^2 by a user.

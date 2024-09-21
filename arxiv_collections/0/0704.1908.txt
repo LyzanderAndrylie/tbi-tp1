@@ -1,0 +1,10 @@
+A practical introduction to stochastic modelling of reaction-diffusion
+processes is presented. No prior knowledge of stochastic simulations is
+assumed. The methods are explained using illustrative examples. The article
+starts with the classical Gillespie algorithm for the stochastic modelling of
+chemical reactions. Then stochastic algorithms for modelling molecular
+diffusion are given. Finally, basic stochastic reaction-diffusion methods are
+presented. The connections between stochastic simulations and deterministic
+models are explained and basic mathematical tools (e.g. chemical master
+equation) are presented. The article concludes with an overview of more
+advanced methods and problems.

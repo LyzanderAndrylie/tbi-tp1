@@ -1,0 +1,15 @@
+The Rutherford Backscattering Spectroscopy (RBS) and Particle Induced X-ray
+Emission (PIXE) techniques can be used to obtain complementary information
+about the characteristics of a sample but, traditionally, a gap has separated
+the available computer codes for analyzing data from each technique, being hard
+to simultaneously analyze data from the same sample. The recent development of
+a free and open source library, LibCPIXE, for PIXE simulation and analysis of
+arbitrary multilayered samples, has permitted to integrate this technique into
+the DataFurnace code which already handles many other IBA techniques such as
+Rutherford and non-Rutherford backscattering, elastic recoil detection, and
+non-resonant nuclear reaction analysis. The fitting capabilities of DataFurnace
+can therefore now be applied to PIXE spectra as well, including the Bayesian
+Inference analysis and the simultaneous and coherent fitting of multiple
+spectra from different techniques. Various examples are presented in which the
+simultaneous RBS and PIXE analysis allows us to obtain consistent results that
+cannot be obtained by independent analysis of the data from each technique.

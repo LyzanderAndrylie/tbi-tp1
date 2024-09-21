@@ -1,0 +1,8 @@
+Let G be a reductive group. The geometric Satake equivalence realized the
+category of representations of the Langlands dual group ^LG in terms of
+spherical perverse sheaves (or D-modules) on the affine Grassmannian
+Gr_G=G((t))/G[[t]] of the original group G.
+  In the present paper we perform a first step in realizing the category of
+representations of the quantum group corresponding to ^LG in terms of the
+geometry of Gr_G.
+  The idea of the construction belongs to Jacob Lurie.

@@ -1,0 +1,10 @@
+Using cavity-enhanced non-degenerate parametric downconversion, we have built
+a frequency tunable source of heralded single photons with a narrow bandwidth
+of 8 MHz, making it compatible with atomic quantum memories. The photon state
+is 70% pure single photon as characterized by a tomographic measurement and
+reconstruction of the quantum state, revealing a clearly negative Wigner
+function. Furthermore, it has a spectral brightness of ~1,500 photons/s per MHz
+bandwidth, making it one of the brightest single photon sources available. We
+also investigate the correlation function of the down-converted fields using a
+combination of two very distinct detection methods; photon counting and
+homodyne measurement.

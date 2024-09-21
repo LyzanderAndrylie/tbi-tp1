@@ -1,0 +1,7 @@
+We consider periodic traveling wave solutions to the focusing nonlinear
+Schrodinger equation (NLS) that have been shown to persist when the NLS is
+perturbed to the complex Ginzburg-Landau equation (CGL). In particular, we show
+that these periodic traveling waves are spectrally stable solutions of NLS with
+respect to periodic perturbations. Furthermore, we use an argument based on the
+Fredholm alternative to find an instability criterion for the persisting
+solutions to CGL.

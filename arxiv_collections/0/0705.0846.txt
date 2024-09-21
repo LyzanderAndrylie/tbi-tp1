@@ -1,0 +1,14 @@
+We consider the simplest generalizations of the valence bond physics of SU(2)
+singlets to SU(N) singlets that comprise objects with N sites -- these are
+SU(N) singlet plaquettes with N=3 and N=4 in three spatial dimensions.
+Specifically, we search for a quantum mechanical liquid of such objects -- a
+resonating singlet valence plaquette phase that generalizes the celebrated
+resonating valence bond phase for SU(2) spins. We extend the Rokhsar-Kivelson
+construction of the quantum dimer model to the simplest SU(4) model for valence
+plaquette dynamics on a cubic lattice. The phase diagram of the resulting
+quantum plaquette model is analyzed both analytically and numerically. We find
+that the ground state is solid everywhere, including at the Rokhsar-Kivelson
+point where the ground state is an equal amplitude sum. By contrast, the equal
+amplitude sum of SU(3) singlet triangular plaquettes on the face centered cubic
+lattice is liquid and thus a candidate for describing a resonating single
+valence plaquette phase, given a suitably defined local Hamiltonian.

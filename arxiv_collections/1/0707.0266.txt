@@ -1,0 +1,7 @@
+The ground state entanglement entropy between block of sites in the random
+Ising chain is studied by means of the Von Neumann entropy. We show that in
+presence of strong correlations between the disordered couplings and local
+magnetic fields the entanglement increases and becomes larger than in the
+ordered case. The different behavior with respect to the uncorrelated
+disordered model is due to the drastic change of the ground state properties.
+The same result holds also for the random 3-state quantum Potts model.

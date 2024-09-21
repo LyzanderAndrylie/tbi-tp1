@@ -1,0 +1,8 @@
+We present a computer simulation, which is inspired by Penna model, to help
+understanding the effect of genetic coding tables on population dynamics. To
+represent populations we used real and artificial gene sequences in this model.
+We coded these sequences using different amino acid tables in Nature, the
+standard table as well as the tables which are used by mithocondria and some
+eukaryotes. Contrary to common belief we find that the standard code table
+which is used in most organisms in Nature, does not give the most resilient
+coding against point mutations.

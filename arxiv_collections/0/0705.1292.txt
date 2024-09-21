@@ -1,0 +1,10 @@
+An improved method for the description of hierarchical complex systems by
+means of a Fokker-Planck equation is presented. In particular the
+limited-memory Broyden-Fletcher-Goldfarb-Shanno algorithm for constraint
+problems (L-BFGS-B) is used to minimize the distance between the numerical
+solutions of the Fokker-Planck equation and the empirical probability density
+functions and thus to estimate properly the drift and diffusion term of the
+Fokker-Planck equation. The optimisation routine is applied to a time series of
+velocity measurements obtained from a turbulent helium gas jet in order to
+demonstrate the benefits and to quantify the improvements of this new
+optimisation routine.

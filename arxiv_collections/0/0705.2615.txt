@@ -1,0 +1,10 @@
+Microwave penetration depth $\lambda$ and surface resistance at 27 GHz are
+measured in high quality crystals of KOs$_2$O$_6$. Firm evidence for
+fully-gapped superconductivity is provided from $\lambda(T)$. Below the second
+transition at $T_{\rm p}\sim 8$ K, the superfluid density shows a step-like
+change with a suppression of effective critical temperature $T_{\rm c}$.
+Concurrently, the extracted quasiparticle scattering time shows a steep
+enhancement, indicating a strong coupling between the anomalous rattling motion
+of K ions and quasiparticles. The results imply that the rattling phonons help
+to enhance superconductivity, and that K sites freeze to an ordered state with
+long quasiparticle mean free path below $T_{\rm p}$.

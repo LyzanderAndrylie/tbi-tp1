@@ -1,0 +1,13 @@
+The recent progress towards production of near-ground state
+quantum-degenerate molecules raises the issue of how such "small" molecules
+behave in an optical lattice. In this Letter we show that the coupling of the
+molecular orientation to the local electric field direction will provide
+severalnew phenomena. In the case where the lasers forming different
+crystallographic directions of the lattice are incoherent, the orientation of
+the molecules is conserved (for L = 1) and a novel form of anisotropic
+superfluidity can be expected. When the lasers are coherent, and the optical
+lattice is such that the splitting of the rotational levels is large compared
+to the centre of mass energies,an adiabaic description of the molecular
+orientation is appropriate. This leads to geometric vector potentials,
+pseudo-magnetic monopoles and a frustrated band structure with degenerate
+minima.

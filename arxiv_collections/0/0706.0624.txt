@@ -1,0 +1,7 @@
+A d.c. (delta-convex) function on a normed linear space is a function
+representable as a difference of two continuous convex functions. We show that
+an infinite dimensional analogue of Hartman's theorem on stability of d.c.
+functions under compositions does not hold in general. However, we prove that
+it holds in some interesting particular cases. Our main results about
+compositions are proved in the more general context of d.c. mappings between
+normed linear spaces.

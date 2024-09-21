@@ -1,0 +1,15 @@
+We extend the SU(4) model [1-5] for high-Tc superconductivity to an SU(4)k
+model that permits explicit momentum (k) dependence in predicted observables.
+We derive and solve gap equations that depend on k, temperature, and doping
+from the SU(4)k coherent states, and show that the new SU(4)k model reduces to
+the original SU(4) model for observables that do not depend explicitly on
+momentum. The results of the SU(4)k model are relevant for experiments such as
+ARPES that detect explicitly k-dependent properties. The present SU(4)k model
+describes quantitatively the pseudogap temperature scale and may explain why
+the ARPES-measured T* along the anti-nodal direction is larger than other
+measurements that do not resolve momentum. It also provides an immediate
+microscopic explanation for Fermi arcs observed in the pseudogap region. In
+addition, the model leads to a prediction that even in the underdoped regime,
+there exist doping-dependent windows around nodal points in the k-space, where
+antiferromagnetism may be completely suppressed for all doping fractions,
+permitting pure superconducting states to exist.

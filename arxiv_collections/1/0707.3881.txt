@@ -1,0 +1,3 @@
+We define the tensor product of 1-motives with motives of weight 0 and we
+construct explicitely the 1-motive underlying the quotient M_1 \otimes M_2 /
+W_{-3}(M_1 \otimes M_2).

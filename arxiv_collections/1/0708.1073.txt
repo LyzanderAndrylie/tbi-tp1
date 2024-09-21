@@ -1,0 +1,7 @@
+We present an application of error theory using Dirichlet Forms in linear
+partial differential equations (LPDE). We study the transmission of an
+uncertainty on the terminal condition to the solution of the LPDE thanks to the
+decomposition of the solution on a wavelets basis. We analyze the basic
+properties and a particular class of LPDE where the wavelets bases show their
+powerful, the combination of error theory and wavelets basis justifies some
+hypotheses, helpful to simplify the computation.

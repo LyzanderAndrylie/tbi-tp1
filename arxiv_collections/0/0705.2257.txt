@@ -1,0 +1,5 @@
+In this letter, we elaborate on the identification and construction of the
+differential geometric elements underlying Berry's phase. Berry bundles are
+built generally from the physical data of the quantum system under study. We
+apply this construction to typical and recently investigated systems presenting
+Berry's phase to explore their geometric features.

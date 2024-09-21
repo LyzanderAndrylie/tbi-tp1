@@ -1,0 +1,10 @@
+Magnetic ordering at low temperature for Ising ferromagnets manifests itself
+within the associated Fortuin-Kasteleyn (FK) random cluster representation as
+the occurrence of a single positive density percolating network. In this paper
+we investigate the percolation signature for Ising spin glass ordering -- both
+in short-range (EA) and infinite-range (SK) models -- within a two-replica FK
+representation and also within the different Chayes-Machta-Redner two-replica
+graphical representation. Based on numerical studies of the $\pm J$ EA model in
+three dimensions and on rigorous results for the SK model, we conclude that the
+spin glass transition corresponds to the appearance of {\it two} percolating
+clusters of {\it unequal} densities.

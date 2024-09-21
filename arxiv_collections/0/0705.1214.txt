@@ -1,0 +1,9 @@
+A method based on Bayesian neural networks and genetic algorithm is proposed
+to control the fermentation process. The relationship between input and output
+variables is modelled using Bayesian neural network that is trained using
+hybrid Monte Carlo method. A feedback loop based on genetic algorithm is used
+to change input variables so that the output variables are as close to the
+desired target as possible without the loss of confidence level on the
+prediction that the neural network gives. The proposed procedure is found to
+reduce the distance between the desired target and measured outputs
+significantly.

@@ -1,0 +1,15 @@
+This paper quantifies the information rate of multiple-input multiple-output
+(MIMO) systems with finite rate channel state feedback and power on/off
+strategy. In power on/off strategy, a beamforming vector (beam) is either
+turned on (denoted by on-beam) with a constant power or turned off. We prove
+that the ratio of the optimal number of on-beams and the number of antennas
+converges to a constant for a given signal-to-noise ratio (SNR) when the number
+of transmit and receive antennas approaches infinity simultaneously and when
+beamforming is perfect. Based on this result, a near optimal strategy, i.e.,
+power on/off strategy with a constant number of on-beams, is discussed. For
+such a strategy, we propose the power efficiency factor to quantify the effect
+of imperfect beamforming. A formula is proposed to compute the maximum power
+efficiency factor achievable given a feedback rate. The information rate of the
+overall MIMO system can be approximated by combining the asymptotic results and
+the formula for power efficiency factor. Simulations show that this
+approximation is accurate for all SNR regimes.

@@ -1,0 +1,12 @@
+The quantum measurement axiom dictates that physical observables and in
+particular the Hamiltonian must be diagonalizable and have a real spectrum. For
+a time-independent Hamiltonian (with a discrete spectrum) these conditions
+ensure the existence of a positive-definite inner product that renders the
+Hamiltonian self-adjoint. Unlike for a time-independent Hamiltonian, this does
+not imply the unitarity of the Schroedinger time-evolution for a general
+time-dependent Hamiltonian. We give an additional necessary and sufficient
+condition for the unitarity of time-evolution. In particular, we obtain the
+general form of a two-level Hamiltonian that fulfils this condition. We show
+that this condition is geometrical in nature and that it implies the reality of
+the adiabatic geometric phases. We also address the problem of the uniqueness
+of the metric operator.

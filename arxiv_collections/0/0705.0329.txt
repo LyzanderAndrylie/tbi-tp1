@@ -1,0 +1,8 @@
+We exploit theoretical results on the meson spectrum within the framework of
+a Bethe-Salpeter (BS) formalism adjusted for QCD, in order to extract an
+``experimental'' coupling \alpha_s^{exp}(Q^2) below 1 GeV by comparison with
+the data. Our results for \alpha_s^{exp}(Q^2) exhibit a good agreement with the
+infrared safe Analytic Perturbation Theory (APT) coupling from 1 GeV down to
+200 MeV. As a main result, we claim that the combined BS-APT theoretical scheme
+provides us with a rather satisfactory correlated understanding of very high
+and low energy phenomena.

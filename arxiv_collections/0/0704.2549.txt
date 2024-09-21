@@ -1,0 +1,15 @@
+Following the early Swift X-ray observations of the latest outburst of the
+recurrent nova RS Ophiuchi in February 2006 (Paper I), we present new 1D
+hydrodynamical models of the system which take into account all three phases of
+the remnant evolution. The models suggest a novel way of modelling the system
+by treating the outburst as a sudden increase then decrease in wind mass-loss
+rate and velocity. The differences between this wind model and previous
+Primakoff-type simulations are described. A more complex structure, even in 1D,
+is revealed through the presence of both forward and reverse shocks, with a
+separating contact discontinuity. The effects of radiative cooling are
+investigated and key outburst parameters such as mass-loss rate, ejecta
+velocity and mass are varied. The shock velocities as a function of time are
+compared to the ones derived in Paper I. We show how the manner in which the
+matter is ejected controls the evolution of the shock and that for a
+well-cooled remnant, the shock deceleration rate depends on the amount of
+energy that is radiated away.

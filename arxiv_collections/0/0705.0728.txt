@@ -1,0 +1,16 @@
+In a number of physically important cases, the nonholonomically
+(nonintegrable) constrained Ricci flows can be modelled by exact solutions of
+Einstein equations with nonhomogeneous (anisotropic) cosmological constants. We
+develop two geometric methods for constructing such solutions: The first
+approach applies the formalism of nonholonomic frame deformations when the
+gravitational evolution and field equations transform into systems of nonlinear
+partial differential equations which can be integrated in general form. The
+second approach develops a general scheme when one (two) parameter families of
+exact solutions are defined by any source-free solutions of Einstein's
+equations with one (two) Killing vector field(s). A successive iteration
+procedure results in a class of solutions characterized by an infinite number
+of parameters for a non-Abelian group involving arbitrary functions on one
+variable. We also consider nonlinear superpositions of some mentioned classes
+of solutions in order to construct more general integral varieties of the Ricci
+flow and Einstein equations depending on infinite number of parameters and
+three/ four coordinates on four/ five dimensional (semi) Riemannian spaces.

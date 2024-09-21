@@ -1,0 +1,17 @@
+The general formalism of quantum mechanics for the description of statistical
+experiments is briefly reviewed, introducing in particular position and
+momentum observables as POVM characterized by their covariance properties with
+respect to the isochronous Galilei group. Mappings describing state
+transformations both as a consequence of measurement and of dynamical evolution
+for a closed or open system are considered with respect to the general
+constraints they have to obey and their covariance properties with respect to
+symmetry groups. In particular different master equations are analyzed in view
+of the related symmetry group, recalling the general structure of mappings
+covariant under the same group. This is done for damped harmonic oscillator,
+two-level system and quantum Brownian motion. Special attention is devoted to
+the general structure of translation-covariant master equations. Within this
+framework a recently obtained quantum counterpart of the classical linear
+Boltzmann equation is considered, as well as a general theoretical framework
+for the description of different decoherence experiments, pointing to a
+connection between different possible behaviours in the description of
+decoherence and the characteristic functions of classical L\'evy processes.

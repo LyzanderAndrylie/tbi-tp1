@@ -1,0 +1,19 @@
+We address the nonadiabatic quantum dynamics of macrosystems with several
+coupled electronic states, taking into account the possibility of multi-state
+conical intersections. The general situation of an arbitrary number of states
+and arbitrary number of nuclear degrees of freedom (modes) is considered. The
+macrosystem is decomposed into a system part carrying a few, strongly coupled
+modes, and an environment, comprising the vast number of remaining modes. By
+successively transforming the modes of the environment, a hierarchy of
+effective Hamiltonians for the environment is constructed. Each effective
+Hamiltonian depends on a reduced number of effective modes, which carry
+cumulative effects. By considering the system's Hamiltonian along with a few
+members of the hierarchy, it is shown mathematically by a moment analysis that
+the quantum dynamics of the entire macrosystem can be numerically exactly
+computed on a given time-scale. The time scale wanted defines the number of
+effective Hamiltonians to be included. The contribution of the environment to
+the quantum dynamics of the macrosystem translates into a sequential coupling
+of effective modes. The wavefunction of the macrosystem is known in the full
+space of modes, allowing for the evaluation of observables such as the
+time-dependent individual excitation along modes of interest, as well a spectra
+and electronic-population dynamics.

@@ -1,0 +1,17 @@
+In contrast to the prevalent assumption of rich multipath in information
+theoretic analysis of wireless channels, physical channels exhibit sparse
+multipath, especially at large bandwidths. We propose a model for sparse
+multipath fading channels and present results on the impact of sparsity on
+non-coherent capacity and reliability in the wideband regime. A key implication
+of sparsity is that the statistically independent degrees of freedom in the
+channel, that represent the delay-Doppler diversity afforded by multipath,
+scale at a sub-linear rate with the signal space dimension (time-bandwidth
+product). Our analysis is based on a training-based communication scheme that
+uses short-time Fourier (STF) signaling waveforms. Sparsity in delay-Doppler
+manifests itself as time-frequency coherence in the STF domain. From a capacity
+perspective, sparse channels are asymptotically coherent: the gap between
+coherent and non-coherent extremes vanishes in the limit of large signal space
+dimension without the need for peaky signaling. From a reliability viewpoint,
+there is a fundamental tradeoff between channel diversity and learnability that
+can be optimized to maximize the error exponent at any rate by appropriately
+choosing the signaling duration as a function of bandwidth.

@@ -1,0 +1,10 @@
+A potentially powerful approach to quantum gravity has been developed over
+the last few years under the name of Causal Dynamical Triangulations. Numerical
+simulations have given very interesting results in the cases of two, three and
+four spacetime dimension. The aim of this thesis is to give an introduction to
+the subject (Chapter 1), and try to push the analytical understanding of these
+models further. This is done by first studying (Chapter 2) the case of a
+(1+1)-dimensional spacetime coupled to matter, in the form of an Ising model,
+by means of high- and low-temperature expansions. And after (Chapter 3) by
+studying a specific model in (2+1) dimensions, whose solution and continuum
+limit are presented.

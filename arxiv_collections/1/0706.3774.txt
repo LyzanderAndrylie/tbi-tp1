@@ -1,0 +1,8 @@
+We present an exact theory of the BEC-BCS crossover in the BEC regime, which
+treats explicitely dimers as made of two fermions. We apply our framework, at
+zero temperature, to the calculation of the equation of state. We find that,
+when expanding the chemical potential in powers of the density n up to the
+Lee-Huang-Yang order, proportional to n^3/2, the result is identical to the one
+of elementary bosons in terms of the dimer-dimer scattering length a_M, the
+composite nature of the dimers appearing only in the next order term
+proportional to n^2 .

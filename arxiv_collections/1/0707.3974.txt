@@ -1,0 +1,10 @@
+We study the dynamics of the electrons in a non-uniform magnetic field
+applied perpendicular to a graphene sheet in the low energy limit when the
+excitation states can be described by a Dirac type Hamiltonian. We show that as
+compared to the two-dimensional electron gas (2DEG) snake states in graphene
+exibit peculiar properties related to the underlying dynamics of the Dirac
+fermions. The current carried by snake states is locally uncompensated even if
+the Fermi energy lies between the first non-zero energy Landau levels of the
+conduction and valence bands. The nature of these states is studied by
+calculating the current density distribution. It is shown that besides the
+snake states in finite samples surface states also exist.

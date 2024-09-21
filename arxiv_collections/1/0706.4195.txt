@@ -1,0 +1,12 @@
+In this paper, we solve the initial value problems of variable-coefficient
+generalized wave equations associated with trees and a large family of linear
+constant-coefficient partial differential equation by algebraic methods.
+Moreover, we find all the polynomial solutions for a 3-dimensional
+variable-coefficient flag partial differential equation of any order, the
+linear wave equation with dissipation and the generalized anisymmetrical
+Laplace equation. Furthermore, the polynomial-trigonometric solutions of a
+generalized Klein-Gordan equation associated with 3-dimensional generalized
+Tricomi operator $\ptl_x^2+x\ptl_y^2+y\ptl_z^2$ are also given. As applications
+to representations of Lie algebras, we find certain irreducible polynomial
+representations of the Lie algebras $sl(n,\mbb{F}), so(n,\mbb{F})$ and the
+simple Lie algebra of type $G_2$.

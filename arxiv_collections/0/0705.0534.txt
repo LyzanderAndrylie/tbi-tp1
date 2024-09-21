@@ -1,0 +1,8 @@
+Inspired by the AdS/CFT correspondence, we study the pseudoscalar mesons of
+QCD through a dual embedding in a strongly curved extra dimensional spacetime.
+This model incorporates the consequences of symmetry and has very few free
+parameters, due to constraints from five-dimensions and the operator product
+expansion of QCD. Using as inputs the pion, kaon, and rho masses and fpi, we
+compute the eta and eta prime masses to be 520 and 867 MeV, respectively. Their
+decay rates into photons are also computed and found to be in good agreement
+with data.

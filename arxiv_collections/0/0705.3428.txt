@@ -1,0 +1,13 @@
+We present a theory describing the mechanism for the two-dimensional (2D)
+metal-insulator transition (MIT) in absence of disorder. A two-band Hubbard
+model is introduced, describing vacancy-interstitial pair excitations within
+the Wigner crystal. Kinetic energy gained by delocalizing such excitations is
+found to lead to an instability of the insulator to self-doping above a
+critical carrier concentration $n=n_c$, mapping the problem to a density-driven
+Mott MIT. This mechanism provides a natural microscopic picture of several
+puzzling experimental features, including the large effective mass enhancement,
+the large resistivity drop, and the large positive magneto-resistance on the
+metallic side of the transition. We also present a global phase diagram for the
+clean 2D electron gas as a function of $n$ and parallel magnetic field
+$B_{\shortparallel}$, which agrees well with experimental findings in ultra
+clean samples.

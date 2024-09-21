@@ -1,0 +1,5 @@
+In this paper, we find the invariant for $n$-qubits and propose the residual
+entanglement for $n$-qubits by means of the invariant. Thus, we establish a
+relation between SLOCC entanglement and the residual entanglement. The
+invariant and the residual entanglement can be used for SLOCC entanglement
+classification for $n$-qubits.

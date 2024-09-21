@@ -1,0 +1,12 @@
+Let $A_1,...,A_N$ be complex selfadjoint matrices and let $\rho$ be a density
+matrix. The Robertson uncertainty principle $$ det (Cov_\rho(A_h,A_j)) \geq det
+(- \frac{i}{2} Tr (\rho [A_h,A_j])) $$ gives a bound for the quantum
+generalized covariance in terms of the commutators $ [A_h,A_j]$. The right side
+matrix is antisymmetric and therefore the bound is trivial (equal to zero) in
+the odd case $N=2m+1$.
+  Let $f$ be an arbitrary normalized symmetric operator monotone function and
+let $<\cdot, \cdot >_{\rho,f}$ be the associated quantum Fisher information. In
+this paper we prove the inequality $$ det (Cov_\rho (A_h,A_j)) \geq det
+(\frac{f(0)}{2} < i[\rho, A_h],i[\rho,A_j] >_{\rho,f}) $$ that gives a
+non-trivial bound for any $N \in {\mathbb N}$ using the commutators
+$[\rho,A_h]$.

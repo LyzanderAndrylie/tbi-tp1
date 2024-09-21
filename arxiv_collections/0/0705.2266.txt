@@ -1,0 +1,14 @@
+We measure the fraction of luminous galaxies in pairs at projected
+separations of 5-20 kpc out to z=1.2 in the COSMOS field using ACS images and
+photometric redshifts derived from an extensive multiwavelength dataset.
+Analysis of a complete sample of 106,188 galaxies more luminous than M_V=-19.8
+(~ L_V*) in the redshift range 0.1 < z < 1.2 yields 1,749 galaxy pairs. These
+data are supplemented by a local z=0-0.1 value for the galaxy pair fraction
+derived from the Sloan Digital Sky Survey (SDSS). After statistically
+correcting the COSMOS pair sample for chance line-of-sight superpositions, the
+evolution in the pair fraction is fit by a power law \propto (1+z)^{n=3.1 \pm
+0.1}. If this strongly evolving pair fraction continues out to higher redshift,
+~ 50% of all luminous galaxies at z ~ 2 are in close pairs. This clearly
+signifies that galaxy mergers are a very significant and possibly dominant
+mechanism for galaxy evolution during the epoch of galaxy formation at z=1 to
+3.

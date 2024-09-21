@@ -1,0 +1,10 @@
+The technique of applying form-invariant, spatial coordinate transformations
+of Maxwell's equations can facilitate the design of structures with unique
+electromagnetic or optical functionality. Here, we illustrate the
+transformation-optical approach in the designs of a square electromagnetic
+cloak and an omni-directional electromagnetic field concentrator. The
+transformation equations are described and the functionality of the devices is
+numerically confirmed by two-dimensional finite element simulations. The two
+devices presented demonstrate that the transformation optic approach leads to
+the specification of complex, anisotropic and inhomogeneous materials with well
+directed and distinct electromagnetic behavior.

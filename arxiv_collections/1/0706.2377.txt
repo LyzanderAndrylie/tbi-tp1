@@ -1,0 +1,9 @@
+We study the collisional energy loss mechanism for particles produced off
+mass-shell in a finite size QCD medium. The off mass-shell effects introduced
+are to consider particles produced in wave packets instead of plane waves and
+the length scale associated to an in-medium particles' life-time. We show that
+these effects reduce the energy loss as compared to the case when the particles
+are described as freely propagating from the source. The reduction of the
+energy loss is stronger as this scale becomes of the order or smaller than the
+medium size. We discuss possible consequences of the result on the description
+of the energy loss process in the parton recombination scenario.

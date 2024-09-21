@@ -1,0 +1,8 @@
+We use a counting argument and surgery theory to show that if $D$ is a
+sufficiently general algebraic hypersurface in $\Bbb C^n$, then any local
+diffeomorphism $F:X \to \Bbb C^n$ of simply connected manifolds which is a
+$d$-sheeted cover away from $D$ has degree $d=1$ or $d=\infty$ (however all
+degrees $d > 1$ are possible if $F$ fails to be a local diffeomorphism at even
+a single point). In particular, any \'etale morphism $F:X \to \Bbb C^n$ of
+algebraic varieties which covers away from such a hypersurface $D$ must be
+birational.

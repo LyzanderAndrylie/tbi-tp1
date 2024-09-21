@@ -1,0 +1,7 @@
+Bounds on the risk play a crucial role in statistical learning theory. They
+usually involve as capacity measure of the model studied the VC dimension or
+one of its extensions. In classification, such "VC dimensions" exist for models
+taking values in {0, 1}, {1,..., Q} and R. We introduce the generalizations
+appropriate for the missing case, the one of models with values in R^Q. This
+provides us with a new guaranteed risk for M-SVMs which appears superior to the
+existing one.

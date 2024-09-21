@@ -1,0 +1,14 @@
+We report on X-ray observations of Nova Sagittarius 1998 (V4633 Sgr),
+performed with XMM-Newton at three different epochs, 934, 1083 and 1265 days
+after discovery. The nova was detected with the EPIC cameras at all three
+epochs, with emission spanning the whole energy range from 0.2 to 10 keV.
+  The X-ray spectra do not change significantly at the different epochs, and
+are well fitted for the first and third observations with a multi-temperature
+optically thin thermal plasma, while lower statistics in the second
+observations lead to a poorer fit. The thermal plasma emission is most probably
+originated in the shock heated ejecta, with chemical composition similar to
+that of a CO nova. However, we can not completely rule out reestablished
+accretion as the origin of the emission. We also obtain upper limits for the
+temperature and luminosity of a potential white dwarf atmospheric component,
+and conclude that hydrogen burning had already turned-off by the time of our
+observations.

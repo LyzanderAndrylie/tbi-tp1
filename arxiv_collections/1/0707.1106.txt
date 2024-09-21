@@ -1,0 +1,6 @@
+A method is suggested to separately determine the surface density of
+positively and negatively charged impurities that limit the mobility in a
+graphene monolayer. The method is based on the exact result for the transport
+cross-section, according to which the massless carriers are scattered more
+strongly when they are attracted to a charged impurity than when they are
+repelled from it.

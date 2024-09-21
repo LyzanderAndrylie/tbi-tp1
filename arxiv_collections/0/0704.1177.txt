@@ -1,0 +1,5 @@
+Performances of the symmetric universal and phase-covariant cloning
+transformations and entanglement cloners -- qubit case -- are investigated when
+the initial state of the hardware or the original state to be cloned is weakly
+coupled to a thermal environment. Different behaviors of each of these
+transformations are analyzed and contrasted with the ideal cases.

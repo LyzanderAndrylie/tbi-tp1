@@ -1,0 +1,8 @@
+Protecting secure random key from eavesdropping in quantum key distribution
+protocols has been well developed. In this letter, we further study how to
+detect and eliminate eavesdropping on the random base string in such protocols.
+The correlation between the base string and the key enables Alice and Bob to
+use specific privacy amplification to distill and reuse the previously shared
+base string with unconditional security and high efficiency. The analysis of
+the unconditional secure reusable base string brings about new concept and
+protocol design technique.

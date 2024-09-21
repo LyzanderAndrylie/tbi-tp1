@@ -1,0 +1,10 @@
+Benford's law states that for many random variables X > 0 its leading digit D
+= D(X) satisfies approximately the equation P(D = d) = log_{10}(1 + 1/d) for d
+= 1,2,...,9. This phenomenon follows from another, maybe more intuitive fact,
+applied to Y := log_{10}(X): For many real random variables Y, the remainder U
+:= Y - floor(Y) is approximately uniformly distributed on [0,1). The present
+paper provides new explicit bounds for the latter approximation in terms of the
+total variation of the density of Y or some derivative of it. These bounds are
+an interesting alternative to traditional Fourier methods which yield mostly
+qualitative results. As a by-product we obtain explicit bounds for the
+approximation error in Benford's law.

@@ -1,0 +1,8 @@
+The elementary processes taking place in the formation of charged particles
+and their flow in parallel-plane, cylindrical and spherical ionization chambers
+are considered. On the basis of particles and charges balance a differential
+equation describing the distribution of current densities in the ionization
+chamber volume is obtained. As a result of the differential equation solution
+an analytical form of the current-voltage characteristic of an ionization
+chamber with homogeneous ionization is obtained. For the parallel-plane case
+the comparison with experimental data is performed.

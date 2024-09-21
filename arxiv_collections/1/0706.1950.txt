@@ -1,0 +1,9 @@
+Recent experiments have demonstrated that the performances of organic FETs
+strongly depend on the dielectric properties of the gate insulator. In
+particular, it has been shown that the temperature dependence of the mobility
+evolves from a metallic-like to an insulating behavior upon increasing the
+dielectric constant of the gate material. This phenomenon can be explained in
+terms of the formation of small polarons, due to the polar interaction of the
+charge carriers with the phonons at the organic/dielectric interface. Building
+on this model, the possible consequences of the Coulomb repulsion between the
+carriers at high concentrations are analyzed.

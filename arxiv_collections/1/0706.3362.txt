@@ -1,0 +1,6 @@
+The results of 3 experiments in Costas arrays are presented, for which
+theoretical explanation is still not available: the number of dots on the main
+diagonal of exponential Welch arrays, the parity populations of Golomb arrays
+generated in fields of characteristic 2, and the maximal cross-correlation
+between pairs of Welch or Golomb arrays generated in fields of size equal to a
+Sophie Germain prime.

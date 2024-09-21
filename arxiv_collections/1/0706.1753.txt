@@ -1,0 +1,5 @@
+We derive concentration inequalities for functions of the empirical measure
+of large random matrices with infinitely divisible entries and, in particular,
+stable ones. We also give concentration results for some other functionals of
+these random matrices, such as the largest eigenvalue or the largest singular
+value.

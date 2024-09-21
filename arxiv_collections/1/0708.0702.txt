@@ -1,0 +1,7 @@
+Several explicit examples of quasi exactly solvable `discrete' quantum
+mechanical Hamiltonians are derived by deforming the well-known exactly
+solvable Hamiltonians of one degree of freedom. These are difference analogues
+of the well-known quasi exactly solvable systems, the harmonic oscillator
+(with/without the centrifugal potential) deformed by a sextic potential and the
+1/sin^2x potential deformed by a cos2x potential. They have a finite number of
+exactly calculable eigenvalues and eigenfunctions.

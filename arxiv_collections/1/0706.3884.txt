@@ -1,0 +1,9 @@
+For extremal black holes the fuzzball conjecture says that the throat of the
+geometry ends in a quantum `fuzz', instead of being infinite in length with a
+horizon at the end. For the D1-D5 system we consider a family of sub-ensembles
+of states, and find that in each case the boundary area of the fuzzball
+satisfies a Bekenstein type relation with the entropy enclosed. We suggest a
+relation between the `capped throat' structure of microstate geometries and the
+fact that the extremal hole was found to have zero entropy in some gravity
+computations. We examine quantum corrections including string 1-loop effects
+and check that they do not affect our leading order computations.

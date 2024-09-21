@@ -1,0 +1,17 @@
+Bose-Einstein-condensed gases in external spatially random potentials are
+considered in the frame of a stochastic self-consistent mean-field approach.
+This method permits the treatment of the system properties for the whole range
+of the interaction strength, from zero to infinity, as well as for arbitrarily
+strong disorder. Besides a condensate and superfluid density, a glassy number
+density due to a spatially inhomogeneous component of the condensate occurs.
+For very weak interactions and sufficiently strong disorder, the superfluid
+fraction can become smaller than the condensate fraction, while at relatively
+strong interactions, the superfluid fraction is larger than the condensate
+fraction for any strength of disorder. The condensate and superfluid fractions,
+and the glassy fraction always coexist, being together either nonzero or zero.
+In the presence of disorder, the condensate fraction becomes a nonmonotonic
+function of the interaction strength, displaying an antidepletion effect caused
+by the competition between the stabilizing role of the atomic interaction and
+the destabilizing role of the disorder. With increasing disorder, the
+condensate and superfluid fractions jump to zero at a critical value of the
+disorder parameter by a first-order phase transition.

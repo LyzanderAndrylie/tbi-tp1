@@ -1,0 +1,8 @@
+We perform a stability analysis for the utility maximization problem in a
+general semimartingale model where both liquid and illiquid assets (random
+endowments) are present. Small misspecifications of preferences (as modeled via
+expected utility), as well as views of the world or the market model (as
+modeled via subjective probabilities) are considered. Simple sufficient
+conditions are given for the problem to be well-posed, in the sense the optimal
+wealth and the marginal utility-based prices are continuous functionals of
+preferences and probabilistic views.

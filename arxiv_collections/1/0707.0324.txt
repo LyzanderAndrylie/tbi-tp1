@@ -1,0 +1,10 @@
+In this paper we review our earlier work on quantum computing and the Nash
+Equilibrium, in particular, tracing the history of the discovery of new Nash
+Equilibria and then reviewing the ways in which quantum computing may be
+expected to generate new classes of Nash equilibria. We then extend this work
+through a substantive analysis of examples provided by Meyer, Flitney, Iqbal
+and Weigert and Cheon and Tsutsui with respect to quantized games, quantum game
+strategies and the extension of Nash Equilibrium to solvable games in Hilbert
+space. Finally, we review earlier work by Sato, Taiji and Ikegami on non-linear
+computation and computational classes by way of reference to coherence,
+decoherence and quantum computating systems.

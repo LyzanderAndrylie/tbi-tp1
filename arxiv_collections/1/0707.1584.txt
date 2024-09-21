@@ -1,0 +1,10 @@
+The Kd reactions are considered in the impulse approximation with NN
+final-state interactions (NN FSI) taken into account. The realistic parameters
+for the KN phase shifts are used. The "quasi-elastic" energy region, in which
+the elementary KN interaction is predominantly elastic, is considered. The
+theoretical predictions are compared with the data on the K^+d->K^+pn,
+K^+d->K^0pp, K^+d->K^+d and K^+d total cross sections. The NN FSI effect in the
+reaction K^+d->K^+pn has been found to be large. The predictions for the Kd
+cross sections are also given for slow kaons, produced from phi(1020) decays,
+as the functions of the isoscalar KN scattering length a_0. These predictions
+can be used to extract the value of a_0 from the data.

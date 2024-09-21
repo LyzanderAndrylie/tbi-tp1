@@ -1,0 +1,7 @@
+We study here a heat-type differential equation of order n greater than two,
+in the case where the time-derivative is supposed to be fractional. The
+corresponding solution can be described as the transition function of a
+pseudoprocess (coinciding with the one governed by the standard,
+non-fractional, equation) with a time argument T which is itself random. The
+distribution of T is presented together with some features of the solution
+(such as analytic expressions for its moments).

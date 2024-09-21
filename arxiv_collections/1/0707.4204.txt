@@ -1,0 +1,12 @@
+We derive equations of motion for the dynamics of anisotropic particles
+directly from the dissipative Vlasov kinetic equations, with the dissipation
+given by the double bracket approach (Double Bracket Vlasov, or DBV). The
+moments of the DBV equation lead to a nonlocal form of Darcy's law for the mass
+density. Next, kinetic equations for particles with anisotropic interaction are
+considered and also cast into the DBV form. The moment dynamics for these
+double bracket kinetic equations is expressed as Lie-Darcy continuum equations
+for densities of mass and orientation. We also show how to obtain a
+Smoluchowski model from a cold plasma-like moment closure of DBV. Thus, the
+double bracket kinetic framework serves as a unifying method for deriving
+different types of dynamics, from density--orientation to Smoluchowski
+equations. Extensions for more general physical systems are also discussed.

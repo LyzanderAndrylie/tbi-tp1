@@ -1,0 +1,19 @@
+Thermodynamic properties such as magnetic susceptibility and specific heat
+have been computed for the Heisenberg Antiferromagnet with spatially
+anisotropic exchange on the kagome lattice on clusters up to N=24 spins from
+the full spectra obtained by exact diagonalization. This approach is shown to
+provide a good represention of these thermodynamic properties above
+temperatures of about $J_{\rm av}/5$ where $J_{\rm av}$ is an average of the
+coupling constants. Comparison with experimental Volborthite data obtained by
+Hiroi {\it {et al}} [J. Phys. Soc. Jpn. {\bf 70},3377 (2001)] shows that
+Volborthite is best described by a model with nearly isotropic exchanges in
+spite of the significant distortion of the kagom\'{e} lattice of magnetic sites
+in this compound and suggests that additional interactions are present.
+Comparison of the specific heat at low temperature raise the possibility that
+the density of states at low energy in Volborthite might be much lower than in
+the Heisenberg model. Magnetization curves under an applied field of the model
+are also investigated. The M=1/3 plateau is found to subsist in the anisotropic
+case and extend to lower field with increased anisotropy. For sufficient
+anisotropy, this plateau would then be observable for a field reasonably
+accessible to experiment. The absence of a plateau well below $\sim$ 70 Teslas
+would further support a nearly isotropic model.

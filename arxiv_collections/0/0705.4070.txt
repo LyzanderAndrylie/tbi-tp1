@@ -1,0 +1,23 @@
+Time variability of the solar neutrino flux especially in the low and
+intermediate energy sector remains an open question and, if it exists, it is
+likely to be originated from the magnetic moment transition from active to
+light sterile neutrinos at times of intense solar activity and magnetic field.
+We examine the prospects for the SNO+ experiment to address this important
+issue and to distinguish between the two classes of solar models which are
+currently identified as corresponding to a high (SSM I) and a low (SSM II)
+heavy element abundance. We also evaluate the predictions from these two models
+for the Chlorine experiment event rate in the standard LMA and LMA+Spin Flavour
+Precession (SFP) scenarios. It is found that after three years of SNO+ data
+taking, the pep flux measurement will be able to discriminate between the
+standard LMA and LMA+SFP scenarios, independently of which is the correct solar
+model. If the LMA rate is measured, SFP with $B_0 \sim 280kG$ for the resonant
+$\Delta m^2_{01}$ can be excluded at more than $4\sigma$. A low rate would
+signal new physics, excluding all the 90% allowed range of the standard LMA
+solution at 3$\sigma$, and a time variability would be a strong signature of
+the SFP model. The CNO fluxes are the ones for which the two SSM predictions
+exhibit the largest differences, so their measurement at SNO+ will be important
+to favour one or the other. The distinction will be clearer after LMA or SFP
+are confirmed with pep, but still, a CNO measurement at the level of SSM I/LMA
+will disfavour SSM II at about $3 \sigma$. We conclude that consistency between
+future pep and CNO flux measurements at SNO+ and Chlorine would either favour
+an LMA+SFP scenario or favour SSM II over SSM I.

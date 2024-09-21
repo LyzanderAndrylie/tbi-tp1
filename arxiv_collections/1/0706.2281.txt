@@ -1,0 +1,6 @@
+In this work are considered some questions of Monte-Carlo modeling on
+nontrivial bundles. As a basic example is used problem of generation of
+straight lines in 3D space, related with modeling of interaction of a solid
+body with a flux of particles and with some other tasks. Space of lines used in
+given model is example of nontrivial fiber bundle, that is equivalent with
+tangent sheaf of a sphere.

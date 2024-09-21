@@ -1,0 +1,8 @@
+Let $v$ and $\o$ be the velocity and the vorticity of the a suitable weak
+solution of the 3D Navier-Stokes equations in a space-time domain containing
+$z_0 =(x_0, t_0)$, and $Q_{z_0, r} =B_{x_0, r}\times (t_0-r^2, t_0)$ be a
+parabolic cylinder in the domain. We show that if $v\times \frac{\o}{|\o|}\in
+L^{\gamma, \alpha}_{x,t} (Q_{z_0, r})$ or ${\o}\times \frac{v}{|v|}\in
+L^{\gamma, \alpha}_{x,t} (Q_{z_0, r})$, where $L^{\gamma, \alpha}_{x,t}$
+denotes the Serrin type of class, then $z_0$ is a regular point for $v$. This
+refines previous local regularity criteria for the suitable weak solutions.

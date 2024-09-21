@@ -1,0 +1,6 @@
+In this paper we introduce the notion of a geometric associative r-matrix
+attached to a genus one fibration with a section and irreducible fibres. It
+allows us to study degenerations of solutions of the classical Yang-Baxter
+equation using the approach of Polishchuk. We also calculate certain solutions
+of the classical, quantum and associative Yang-Baxter equations obtained from
+moduli spaces of (semi-)stable vector bundles on Weierstrass cubic curves.

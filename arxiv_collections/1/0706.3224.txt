@@ -1,0 +1,7 @@
+We generalize Fermi coordinates, which correspond to an adapted set of
+coordinates describing the vicinity of an observer's worldline, to the
+worldsheet of an arbitrary spatial curve in a static spacetime. The spatial
+coordinate axes are fixed using a covariant Frenet triad so that the metric can
+be expressed using the curvature and torsion of the spatial curve. As an
+application of Fermi-Frenet coordinates, we show that they allow covariant
+inertial forces to be expressed in a simple and physically intuitive way.

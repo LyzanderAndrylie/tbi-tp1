@@ -1,0 +1,11 @@
+In the matrix product states approach to $n$ species diffusion processes the
+stationary probability distribution is expressed as a matrix product state with
+respect to a quadratic algebra determined by the dynamics of the process. The
+quadratic algebra defines a noncommutative space with a $SU_q(n)$ quantum group
+action as its symmetry. Boundary processes amount to the appearance of
+parameter dependent linear terms in the algebraic relations and lead to a
+reduction of the $SU_q(n)$ symmetry. We argue that the boundary operators of
+the asymmetric simple exclusion process generate a tridiagonal algebra whose
+irriducible representations are expressed in terms of the Askey-Wilson
+polynomials. The Askey-Wilson algebra arises as a symmetry of the boundary
+problem and allows to solve the model exactly.

@@ -1,0 +1,9 @@
+In the framework of loop quantum gravity (LQG), having quantum black holes in
+mind, we generalize the previous boundary state counting (gr-qc/0508085) to a
+full bulk state counting. After a suitable gauge fixing we are able to compute
+the bulk entropy of a bounded region (the "black hole") with fixed boundary.
+This allows us to study the relationship between the entropy and the boundary
+area in details and we identify a holographic regime of LQG where the leading
+order of the entropy scales with the area. We show that in this regime we can
+fine tune the factor between entropy and area without changing the Immirzi
+parameter.

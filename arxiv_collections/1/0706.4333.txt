@@ -1,0 +1,12 @@
+We study the dynamics of a probe soliton propagating in an optical fiber and
+exchanging energy in fast collisions with a random sequence of pump solitons.
+The energy exchange is induced by Raman scattering or by cubic nonlinear
+loss/gain. We show that the equation describing the dynamics of the probe
+soliton's amplitude has the same form as the equation for the local space
+average of energy dissipation in random cascade models in turbulence. We
+characterize the statistics of the probe soliton's amplitude by the \tau_{q}
+exponents from multifractal theory and by the Cram\'er function S(x). We find
+that the n-th moment of the two-time correlation function and the
+bit-error-rate contribution from amplitude decay exhibit power-law behavior as
+functions of propagation distance, where the exponents can be expressed in
+terms of \tau_{q} or S(x).

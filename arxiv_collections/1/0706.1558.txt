@@ -1,0 +1,9 @@
+We study finite-frequency transport properties of the double-dot system
+recently constructed to observe the two-channel Kondo effect [R. M. Potok et
+al., Nature 446, 167 (2007)]. We derive an analytical expression for the
+frequency-dependent linear conductance of this device in the Kondo regime. We
+show how the features characteristic of the 2-channel Kondo quantum critical
+point emerge in this quantity, which we compute using the results of conformal
+field theory as well as numerical renormalization group methods. We determine
+the universal cross-over functions describing non-Fermi liquid vs. Fermi liquid
+cross-overs and also investigate the effects of a finite magnetic field.

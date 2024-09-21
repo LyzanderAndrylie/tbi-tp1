@@ -1,0 +1,8 @@
+The two-loop contribution to the electric dipole moment (EDM) and the chromo
+electric dipole moment (CEDM) of an arbitrary fermion f induced by the most
+general renormalizable tbW coupling with complex left- and right-handed
+components (a_L and a_R) is calculated. The analytical expressions are
+numerically evaluated and the current experimental constraints on the electron,
+neutron and mercury atom EDMs are used to obtain a bound on the complex phase
+Im(a^*_La_R). It is found that the most stringent constraint, Im(a^*_La_R)<2.33
+X 10^{-2}, arises from the neutron EDM.

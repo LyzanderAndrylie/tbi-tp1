@@ -1,0 +1,14 @@
+We study the fidelity approach to quantum phase transitions (QPTs) and apply
+it to general thermal phase transitions (PTs). We analyze two particular cases:
+the Stoner-Hubbard itinerant electron model of magnetism and the BCS theory of
+superconductivity. In both cases we show that the sudden drop of the mixed
+state fidelity marks the line of the phase transition. We conduct a detailed
+analysis of the general case of systems given by mutually commuting
+Hamiltonians, where the non-analyticity of the fidelity is directly related to
+the non-analyticity of the relevant response functions (susceptibility and heat
+capacity), for the case of symmetry-breaking transitions. Further, on the case
+of BCS theory of superconductivity, given by mutually non-commuting
+Hamiltonians, we analyze the structure of the system's eigenvectors in the
+vicinity of the line of the phase transition showing that their sudden change
+is quantified by the emergence of a generically non-trivial Uhlmann mixed state
+geometric phase.

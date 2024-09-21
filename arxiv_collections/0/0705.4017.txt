@@ -1,0 +1,9 @@
+Even in the absence of external influences the operability of a quantum
+computer (QC) is not guaranteed because of the effects of residual one- and
+two-body imperfections. Here we investigate how these internal flaws affect the
+performance of a quantum controlled-NOT (CNOT) gate in an isolated flawed QC.
+First we find that the performance of the CNOT gate is considerably better when
+the two-body imperfections are strong. Secondly, we find that the largest
+source of error is due to a coherent shift rather than decoherence or
+dissipation. Our results suggest that the problem of internal imperfections
+should be given much more attention in designing scalable QC architectures.

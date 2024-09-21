@@ -1,0 +1,10 @@
+We study the evolution of magnetic fields in freely decaying
+magnetohydrodynamic turbulence. By quasi-linearizing the Navier-Stokes
+equation, we solve analytically the induction equation in quasi-normal
+approximation. We find that, if the magnetic field is not helical, the magnetic
+energy and correlation length evolve in time respectively as E_B \propto
+t^{-2(1+p)/(3+p)} and \xi_B \propto t^{2/(3+p)}, where p is the index of
+initial power-law spectrum. In the helical case, the magnetic helicity is an
+almost conserved quantity and forces the magnetic energy and correlation length
+to scale as E_B \propto (log t)^{1/3} t^{-2/3} and \xi_B \propto (log t)^{-1/3}
+t^{2/3}.

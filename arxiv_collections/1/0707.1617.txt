@@ -1,0 +1,4 @@
+We compute the canonical model of the cover of Shimura curves $X_0(2) \to
+X(1)$ for the cubic field of discriminant 13^2 described at the end of Elkies'
+paper "Shimura curves for level 3 subgroups of the (2,3,7) triangle group".
+Last, we list the coordinates of some rational CM points on X(1).

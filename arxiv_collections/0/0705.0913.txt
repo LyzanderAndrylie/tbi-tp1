@@ -1,0 +1,19 @@
+We use the Barnard 68 dark globule as a test case for a spherically symmetric
+PDR model exposed to low-UV radiation fields. With a roughly spherical
+morphology and an accurately determined density profile, Barnard 68 is ideal
+for this purpose. The processes governing the energy balance in the cloud
+surface are studied in detail. We compare the spherically symmetric PDR model
+by Stoerzer, Stutzki & Sternberg (1996) to observations of the three lowest
+rotational transitions of 12CO, 13CO J = 2-1 and J = 3-2 as well as the [CI]
+3P_1-3P_0 fine structure transition. We study the role of Polycyclic Aromatic
+Hydrocarbons (PAHs) in the chemical network of the PDR model and consider the
+impact of depletion as well as of a variation of the external FUV field. We
+find it difficult to simultaneously model the observed 12CO and 13CO emission.
+The 12CO and [CI] emission can be explained by a PDR model with a external FUV
+field of 1-0.75 chi_0, but this model fails to reproduce the observed 13CO by a
+factor of ~2. Adding PAHs to the chemical network increases the [CI] emission
+by 50% in our model but makes [CII] very faint. CO depletion only slightly
+reduces the 12CO and 13CO line intensity (by <10% and <20%, respectively).
+Predictions for the [CII] 2P_3/2-2P_1/2, [CI] 3P_2-3P_1 and 12CO J= 5-4 and 4-3
+transitions are presented. This allows a test of our model with future
+observations (APEX, NANTEN2, HERSCHEL, SOFIA).

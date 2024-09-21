@@ -1,0 +1,9 @@
+We investigate the effects of a time-correlated noise on an extended chaotic
+system. The chosen model is the Lorenz'96, a kind of "toy" model used for
+climate studies. Through the analysis of the system's time evolution and its
+time and space correlations, we have obtained numerical evidence for two
+stochastic resonance-like behavior. Such behavior is seen when both, the usual
+and a generalized signal-to-noise ratio function are depicted as a function of
+the external noise intensity or the system size. The underlying mechanism seems
+to be associated to a "noise-induced chaos reduction". The possible relevance
+of these and other findings for an "optimal" climate prediction are discussed.

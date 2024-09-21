@@ -1,0 +1,24 @@
+The GLIMPSE archive was used to obtain 3.6--8.0micron, point source
+photometry and images for 381 massive protostellar candidates lying in the
+Galactic mid-plane. The colours, magnitudes and spectral indicies of sources in
+each of the 381 target fields were analysed and compared with the predictions
+of 2D radiative transfer model simulations. Although no discernable embedded
+clusters were found in any targets, multiple sources or associations of
+redenned young stellar objects were found in many sources indicating
+multiplicity at birth. The spectral index ($\alpha$) of these point sources in
+3.6--8.0mum bands display large values of $\alpha$=2--5. A color-magnitude
+analog plot was used to identify 79 infrared counterparts to the HMPOs. Compact
+nebulae are found in 75% of the detected sources with morphologies that can be
+well described by core-halo, cometary, shell-like and bipolar geometries
+similar to those observed in ultra-compact HII regions. The IRAC band SEDs of
+the IR counterparts of HMPOs are best described to represent YSOs with a mass
+range of 8--20\msun in their Class I stages when compared with 2D radiative
+transfer models. They also suggest that the high $\alpha$ values represent
+reprocessed star/star+disk emission that is arising in the dense envelopes.
+Thus we are witnessing the luminous envelopes around the protostars rather than
+their photospheres or disks. We argue that the compact infrared nebulae likely
+reflect the underlying physical structure of the dense cores and are found to
+imitate the morphologies of known UCHII regions. Our results favour models of
+continuuing accretion involving both molecular and ionised accretion components
+to build the most massive stars rather than purely molecular rapid accretion
+flows.

@@ -1,0 +1,8 @@
+In this paper is discussed a class of static spherically symmetric solutions
+of the general relativistic elasticity equations. The main point of discussion
+is the comparison of two matter models given in terms of their stored energy
+functionals, i.e., the rule which gives the amount of energy stored in the
+system when it is deformed. Both functionals mimic (and for small deformations
+approximate) the classical Kirchhoff-St.Venant materials but differ in the
+strain variable used. We discuss the behavior of the systems for large
+deformations.

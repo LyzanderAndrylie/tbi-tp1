@@ -1,0 +1,9 @@
+Conformational transitions in macromolecular complexes often involve the
+reorientation of lever-like structures. Using a simple theoretical model, we
+show that the rate of such transitions is drastically enhanced if the lever is
+bendable, e.g. at a localized "hinge''. Surprisingly, the transition is fastest
+with an intermediate flexibility of the hinge. In this intermediate regime, the
+transition rate is also least sensitive to the amount of "cargo'' attached to
+the lever arm, which could be exploited by molecular motors. To explain this
+effect, we generalize the Kramers-Langer theory for multi-dimensional barrier
+crossing to configuration dependent mobility matrices.

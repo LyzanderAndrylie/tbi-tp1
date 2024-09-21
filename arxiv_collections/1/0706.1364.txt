@@ -1,0 +1,9 @@
+I apply a two-step renormalization group method to the study of the
+competition between antiferromagnetism (AFM) and superconductivity in an
+anisotropic 2D Hubbard model. I show that this simple model captures the
+essentials of the ground-state phases of the quasi 1D organic conductors. As
+found experimentally, the ground-state phase diagram is mostly AFM. The AFM is
+localized in the strong-coupling limit where the electrons are confined in the
+chains. It is an SDW in the weak-coupling limit where interchain hopping is
+present. There is a tiny region in the weak-coupling regime where transverse
+two-particle hopping is dominant over magnetism.

@@ -1,0 +1,3 @@
+For differential equations $P(y^{(k)},y)=0,$ where $P$ is a polynomial, we
+prove that all meromorphic solutions having at least one pole are elliptic
+functions, possibly degenerate.

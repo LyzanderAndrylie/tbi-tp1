@@ -1,0 +1,19 @@
+We present the results from simultaneous chandra and rxte observations of the
+X-ray bright Broad-Line Radio Galaxy (BLRG) 3C 382. The long (120 ks) exposure
+with chandra HETG allows a detailed study of the soft X-ray continuum and of
+the narrow component of the Fe Kalpha line. The rxte PCA data are used to put
+an upper limit on the broad line component and constrain the hard X-ray
+continuum. A strong soft excess below 1 keV is observed in the time-averaged
+HETG spectrum, which can be parameterized with a steep power law or a thermal
+model. The flux variability at low energies indicates that the origin of the
+soft excess cannot be entirely ascribed to the circumnuclear diffuse emission,
+detected by chandra on scales of 20-30 arcsec (22-33 kpc). A narrow (sigma<90
+eV) Fe Kalpha line (with EW< 100 eV) is observed by the chandra HEG. Similar
+values for the line parameters are measured by the rxte PCA, suggesting that
+the contribution from a broad line component is negligible. The fact that the
+exposure is split into two observations taken three days apart allows us to
+investigate the spectral and temporal evolution of the source on different
+timescales. Significant flux variability associated with spectral changes is
+observed on timescales of hours and days. The spectral variability is similar
+to that observed in radio-quiet AGN ruling out a jet-dominated origin of the
+X-rays.

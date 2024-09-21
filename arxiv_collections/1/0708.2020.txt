@@ -1,0 +1,9 @@
+This paper presents a methodology to introduce time-dependent parameters for
+a wide family of models preserving their analytic tractability. This family
+includes hybrid models with stochastic volatility, stochastic interest-rates,
+jumps and their non-hybrid counterparts. The methodology is applied to Heston's
+model. A bootstrapping algorithm is presented for calibration. A case study
+works out the calibration of the time-dependent parameters to the volatility
+surface of the Eurostoxx 50 index. The methodology is also applied to the
+analytic valuation of forward start vanilla options driven by Heston's model.
+This result is used to explore the forward skew of the case study.

@@ -1,0 +1,8 @@
+In the stripe-ordered state of a strongly-correlated two-dimensional
+electronic system, under a set of special circumstances, the superconducting
+condensate, like the magnetic order, can occur at a non-zero wave-vector
+corresponding to a spatial period double that of the charge order. In this
+case, the Josephson coupling between near neighbor planes, especially in a
+crystal with the special structure of La_{2-x}Ba_xCuO_4, vanishes identically.
+We propose that this is the underlying cause of the dynamical decoupling of the
+layers recently observed in transport measurements at x=1/8.

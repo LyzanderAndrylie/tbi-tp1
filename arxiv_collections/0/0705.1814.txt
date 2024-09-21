@@ -1,0 +1,6 @@
+We show that in principle, $N$-partite unitary transformations can be
+perfectly discriminated under local measurement and classical communication
+(LOCC) despite of their nonlocal properties. Based on this result, some related
+topics, including the construction of the appropriate quantum circuit together
+with the extension to general completely positive trace preserving operations,
+are discussed.

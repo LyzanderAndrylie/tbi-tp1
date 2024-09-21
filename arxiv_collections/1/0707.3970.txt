@@ -1,0 +1,15 @@
+We derive a general lower bound on the minimum-error probability for {\it
+ambiguous discrimination} between arbitrary $m$ mixed quantum states with given
+prior probabilities. When $m=2$, this bound is precisely the well-known
+Helstrom limit. Also, we give a general lower bound on the minimum-error
+probability for discriminating quantum operations. Then we further analyze how
+this lower bound is attainable for ambiguous discrimination of mixed quantum
+states by presenting necessary and sufficient conditions related to it.
+Furthermore, with a restricted condition, we work out a upper bound on the
+minimum-error probability for ambiguous discrimination of mixed quantum states.
+Therefore, some sufficient conditions are obtained for the minimum-error
+probability attaining this bound. Finally, under the condition of the
+minimum-error probability attaining this bound, we compare the minimum-error
+probability for {\it ambiguously} discriminating arbitrary $m$ mixed quantum
+states with the optimal failure probability for {\it unambiguously}
+discriminating the same states.

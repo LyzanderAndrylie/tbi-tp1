@@ -1,0 +1,18 @@
+This paper proposes a method to address the longstanding problem of lack of
+monotonicity in estimation of conditional and structural quantile functions,
+also known as the quantile crossing problem. The method consists in sorting or
+monotone rearranging the original estimated non-monotone curve into a monotone
+rearranged curve. We show that the rearranged curve is closer to the true
+quantile curve in finite samples than the original curve, establish a
+functional delta method for rearrangement-related operators, and derive
+functional limit theory for the entire rearranged curve and its functionals. We
+also establish validity of the bootstrap for estimating the limit law of the
+the entire rearranged curve and its functionals. Our limit results are generic
+in that they apply to every estimator of a monotone econometric function,
+provided that the estimator satisfies a functional central limit theorem and
+the function satisfies some smoothness conditions. Consequently, our results
+apply to estimation of other econometric functions with monotonicity
+restrictions, such as demand, production, distribution, and structural
+distribution functions. We illustrate the results with an application to
+estimation of structural quantile functions using data on Vietnam veteran
+status and earnings.

@@ -1,0 +1,12 @@
+A k-noncrossing RNA pseudoknot structure is a graph over $\{1,...,n\}$
+without 1-arcs, i.e. arcs of the form (i,i+1) and in which there exists no
+k-set of mutually intersecting arcs. In particular, RNA secondary structures
+are 2-noncrossing RNA structures. In this paper we prove a central and a local
+limit theorem for the distribution of the numbers of 3-noncrossing RNA
+structures over n nucleotides with exactly h bonds. We will build on the
+results of \cite{Reidys:07rna1} and \cite{Reidys:07rna2}, where the generating
+function of k-noncrossing RNA pseudoknot structures and the asymptotics for its
+coefficients have been derived. The results of this paper explain the findings
+on the numbers of arcs of RNA secondary structures obtained by molecular
+folding algorithms and predict the distributions for k-noncrossing RNA folding
+algorithms which are currently being developed.

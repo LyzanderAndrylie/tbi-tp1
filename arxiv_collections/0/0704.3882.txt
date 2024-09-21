@@ -1,0 +1,9 @@
+We determine from Polyakov loop correlators the screening masses in the
+deconfined phase of the (3+1)d SU(3) pure gauge theory at finite temperature
+near the transition, for two different channels of angular momentum and parity.
+Their ratio is compared with that of the massive excitations with the same
+quantum numbers in the 3d 3-state Potts model in the broken phase near the
+transition point at zero magnetic field. Moreover we study the inverse decay
+length of the correlation between the real parts and between the imaginary
+parts of the Polyakov loop and compare the results with expectations from
+perturbation theory and mean-field Polyakov loop models.

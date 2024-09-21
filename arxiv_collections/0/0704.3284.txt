@@ -1,0 +1,12 @@
+We examine one- and two-dimensional (1D and 2D) models of linearly coupled
+lattices of the discrete-nonlinear-Schr{\"{o}}dinger type. Analyzing ground
+states of the systems with equal powers in the two components, we find a
+symmetry-breaking phenomenon beyond a critical value of the squared $l^2$-norm.
+Asymmetric states, with unequal powers in their components, emerge through a
+subcritical pitchfork bifurcation, which, for very weakly coupled lattices,
+changes into a supercritical one. We identify the stability of various solution
+branches. Dynamical manifestations of the symmetry breaking are studied by
+simulating the evolution of the unstable branches. The results present the
+first example of spontaneous symmetry breaking in 2D lattice solitons. This
+feature has no counterpart in the continuum limit, because of the collapse
+instability in the latter case.

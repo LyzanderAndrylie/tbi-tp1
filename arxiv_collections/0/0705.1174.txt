@@ -1,0 +1,7 @@
+This paper emphasizes that non-linear rotational or diamagnetic
+susceptibility is characteristic of Bose fluids above their superfluid Tcs, and
+for sufficiently slow rotation or weak B-fields amounts to an incompressible
+response to vorticity. The cause is a missing term in the conventionally
+accepted model Hamiltonian for quantized vortices in the Bose fluid. The
+resulting susceptibility can account for recent observations of Chan et al on
+solid He, and Ong et al on cuprate superconductors.

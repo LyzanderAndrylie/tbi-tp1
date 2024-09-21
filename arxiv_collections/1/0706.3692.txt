@@ -1,0 +1,6 @@
+We show that the shear viscosity of lambda phi^4 theory is sensitive at
+next-to-leading order to soft physics, which gives rise to subleading
+corrections suppressed by only a half power of the coupling, eta = [3033.54 +
+1548.3 m_{th}/T] N T^3]/[ (N+2)/3 lambda^2], with m^2_th=(N+2)/72 lambda T^2.
+The series appears to converge about as well (or badly) as the series for the
+pressure.

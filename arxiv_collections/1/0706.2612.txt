@@ -1,0 +1,15 @@
+We study Fermi edge singularities in photo-absorption spectra of generic
+mesoscopic systems such as quantum dots or nanoparticles. We predict deviations
+from macroscopic-metallic behavior and propose experimental setups for the
+observation of these effects. The theory is based on the model of a localized,
+or rank one, perturbation caused by the (core) hole left behind after the
+photo-excitation of an electron into the conduction band. The photo-absorption
+spectra result from the competition between two many-body responses, Anderson's
+orthogonality catastrophe and the Mahan-Nozieres-DeDominicis contribution. Both
+mechanisms depend on the system size through the number of particles and, more
+importantly, fluctuations produced by the coherence characteristic of
+mesoscopic samples. The latter lead to a modification of the dipole matrix
+element and trigger one of our key results: a rounded K-edge typically found in
+metals will turn into a (slightly) peaked edge on average in the mesoscopic
+regime. We consider in detail the effect of the "bound state" produced by the
+core hole.

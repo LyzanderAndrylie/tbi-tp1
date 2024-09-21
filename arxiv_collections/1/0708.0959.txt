@@ -1,0 +1,6 @@
+We present a class of sparse generalized linear models that include probit
+and logistic regression as special cases and offer some extra flexibility. We
+provide an EM algorithm for learning the parameters of these models from data.
+We apply our method in text classification and in simulated data and show that
+our method outperforms the logistic and probit models and also the elastic net,
+in general by a substantial margin.

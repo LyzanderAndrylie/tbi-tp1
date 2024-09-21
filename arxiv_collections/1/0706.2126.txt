@@ -1,0 +1,4 @@
+The classical attenuation regulation of gene expression in bacteria is
+considered. We propose to represent the secondary RNA structure in the leader
+region of a gene or an operon by a term, and we give a probabilistic term
+rewriting system modeling the whole process of such a regulation.

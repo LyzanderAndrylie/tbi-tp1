@@ -1,0 +1,5 @@
+A unified treatment of Schwinger parametrised Feynman amplitudes is suggested
+which addresses vertices of arbitrary order on the same footing as propagators.
+Contributions from distinct diagrams are organised collectively. The scheme is
+based on the continuous graph Laplacian. The analogy to a classical statistical
+diffusion system of vector charges on the graph is explored.

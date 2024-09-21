@@ -1,0 +1,9 @@
+A general scheme for controlled teleportation of an arbitrary multi-qudit
+state with d-dimensional Greenberger-Horne-Zeilinger (GHZ) states is proposed.
+For an arbitrary m-qudit state, the sender Alice performs m generalized
+Bell-state projective measurements on her 2m qudits and the controllers need
+only take some single-particle measurements. The receiver Charlie can
+reconstruct the unknown m-qudit state by performing some single-qudit unitary
+operations on her particles if she cooperates with all the controllers. As the
+quantum channel is a sequence of maximally entangled GHZ states, the intrinsic
+efficiency for qudits in this scheme approaches 100% in principle.

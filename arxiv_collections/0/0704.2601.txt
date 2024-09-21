@@ -1,0 +1,24 @@
+In the context of measuring structure and morphology of intermediate redshift
+galaxies with recent HST/ACS surveys, we tune, test, and compare two widely
+used fitting codes (GALFIT and GIM2D) for fitting single-component Sersic
+models to the light profiles of both simulated and real galaxy data. We find
+that fitting accuracy depends sensitively on galaxy profile shape. Exponential
+disks are well fit with Sersic models and have small measurement errors,
+whereas fits to de Vaucouleurs profiles show larger uncertainties owing to the
+large amount of light at large radii. We find that both codes provide reliable
+fits and little systematic error, when the effective surface brightness is
+above that of the sky. Moreover, both codes return errors that significantly
+underestimate the true fitting uncertainties, which are best estimated with
+simulations. We find that GIM2D suffers significant systematic errors for
+spheroids with close companions owing to the difficulty of effectively masking
+out neighboring galaxy light; there appears to be no work around to this
+important systematic in GIM2D's current implementation. While this crowding
+error affects only a small fraction of galaxies in GEMS, it must be accounted
+for in the analysis of deeper cosmological images or of more crowded fields
+with GIM2D. In contrast, GALFIT results are robust to the presence of neighbors
+because it can simultaneously fit the profiles of multiple companions thereby
+deblending their effect on the fit to the galaxy of interest. We find GALFIT's
+robustness to nearby companions and factor of >~20 faster runtime speed are
+important advantages over GIM2D for analyzing large HST/ACS datasets. Finally
+we include our final catalog of fit results for all 41,495 objects detected in
+GEMS.

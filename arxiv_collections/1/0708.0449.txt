@@ -1,0 +1,6 @@
+We consider a toy model of the interaction of a qubit with an exotic
+space-time containing a time-like curve. Consistency seems to require that the
+global evolution of the qubit be non-unitary. Given that quantum mechanics is
+globally unitary, this then is an example of a quantum gravity information
+paradox. However, we show that a careful analysis of the problem in the
+Heisenberg picture reveals an underlying unitarity, thus resolving the paradox.

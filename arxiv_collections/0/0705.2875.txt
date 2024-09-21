@@ -1,0 +1,11 @@
+An index-guiding photonic crystal fiber (PCF) with an array of air holes
+surrounding the silica core region has special characteristics compared to
+conventional single-mode fibers (SMFs). Using the effective index method and
+the Gaussian beam propagation theory, the macro-bending and splice losses for
+PCFs are investigated. The wavelength dependence of the cladding index of the
+PCF has been taken properly into account. We obtain the effective spot size for
+different configurations of PCFs, which is used for computing the splice
+losses. The Gaussian approximation for the fundamental modal field leads to
+simple closed-form expressions for the splice losses produced by transverse,
+longitudinal and angular offsets. Calculations of macro-bending losses are
+based on antenna theory for bend standard fibers.

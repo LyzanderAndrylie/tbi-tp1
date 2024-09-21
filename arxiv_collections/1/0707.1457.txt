@@ -1,0 +1,12 @@
+Decoherence is the main process behind the quantum to classical transition.
+It is a purely quantum mechanical effect by which the system looses its ability
+to exhibit coherent behavior. The recent experimental observation of
+diffraction and interference patterns for large molecules raises some
+interesting questions. In this context, we identify possible agents of
+decoherence to take into account when modeling these experiments and study
+theirs visible (or not) effects on the interference pattern. Thereby, we
+present an analysis of matter wave interferometry in the presence of a dynamic
+quantum environment and study how much the visibility fringe is reduced and in
+which timescale the decoherence effects destroy the interference of massive
+objects. Finally, we apply our results to the experimental data reported on
+fullerenes and cold neutrons.

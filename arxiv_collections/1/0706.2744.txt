@@ -1,0 +1,11 @@
+We report on experiments that demonstrate dynamical instability in a
+Bose-Einstein condensate at the band-edge of a one-dimensional optical lattice.
+The instability manifests as rapid depletion of the condensate and conversion
+to a thermal cloud. We consider the collisional processes that can occur in
+such a system, and perform numerical modeling of the experiments using both a
+mean-field and beyond mean-field approach. We compare our numerical results to
+the experimental data, and find that the Gross-Pitaevskii equation is not able
+to describe this experiment. Our beyond mean-field approach, known as the
+truncated Wigner method, allows us to make quantitative predictions for the
+processes of parametric growth and thermalization that are observed in the
+laboratory, and we find good agreement with the experimental results.

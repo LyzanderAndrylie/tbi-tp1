@@ -1,0 +1,13 @@
+A numerical hydrodynamic study of femtosecond laser ablation is presented. A
+detailed analysis of material decomposition is performed using a
+thermodynamically complete equation of state with separate stable and
+metastable phase states and phase boundaries. The lifetime of the metastable
+liquid state is estimated based on the classical theory of homogeneous
+nucleation. In addition, mechanical fragmentation of the target material is
+controlled based on available criteria. As a result, several ablation
+mechanisms are observed. A major fraction of the ablated material, however, is
+found to originate from the metastable liquid region, which is decomposed
+either thermally in the vicinity of the critical point into a liquid-gas
+mixture, or mechanically at high strain rate and negative pressure into liquid
+droplets and chunks. The calculation results explain available experimental
+findings.

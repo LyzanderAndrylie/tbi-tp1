@@ -1,0 +1,5 @@
+It is shown that, under mild conditions, a complex reflection group
+$G(r,p,n)$ may be decomposed into a set-wise direct product of cyclic
+subgroups. This property is then used to extend the notion of major index and a
+corresponding Hilbert series identity to these and other closely related
+groups.

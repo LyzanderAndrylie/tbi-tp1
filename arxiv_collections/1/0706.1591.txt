@@ -1,0 +1,6 @@
+Following the Good-and-Walker picture, hard diffraction in the
+high-energy/small-x limit of QCD can be described in terms of eigenstates of
+the scattering matrix off a Color Glass Condensate. From the CGC non-linear
+evolution equations, it is then possible to derive the behavior of diffractive
+cross-sections at small $x.$ I discuss recent results, in particular the
+consequences of the inclusion of Pomeron loops in the evolution.

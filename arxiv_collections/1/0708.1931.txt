@@ -1,0 +1,12 @@
+For most of the important processes in DNA metabolism, a protein has to reach
+a specific binding site on the DNA. The specific binding site may consist of
+just a few base pairs while the DNA is usually several millions of base pairs
+long. How does the protein search for the target site? What is the most
+efficient mechanism for a successful search? Motivated by these fundamental
+questions on intracellular biological processes, we have developed a model for
+searching a specific site on a model DNA by a single protein. We have made a
+comparative quantitative study of the efficiencies of sliding, inter-segmental
+hoppings and detachment/re-attachments of the particle during its search for
+the specific site on the DNA. We also introduce some new quantitative measures
+of {\it efficiency} of a search process by defining a relevant quantity, which
+can be measured in {\it in-vitro} experiments.

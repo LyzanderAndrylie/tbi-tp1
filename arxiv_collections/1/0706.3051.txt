@@ -1,0 +1,13 @@
+We study collective excitations of rotational and spin states of an ensemble
+of polar molecules, which are prepared in a dipolar crystalline phase, as a
+candidate for a high fidelity quantum memory. While dipolar crystals are formed
+in the high density limit of cold clouds of polar molecules under 1D and 2D
+trapping conditions, the crystalline structure protects the molecular qubits
+from detrimental effects of short range collisions. We calculate the lifetime
+of the quantum memory by identifying the dominant decoherence mechanisms, and
+estimate their effects on gate operations, when a molecular ensemble qubit is
+transferred to a superconducting strip line cavity (circuit QED). In the case
+rotational excitations coupled by dipole-dipole interactions we identify
+phonons as the main limitation of the life time of qubits. We study specific
+setups and conditions, where the coupling to the phonon modes is minimized.
+Detailed results are presented for a 1D dipolar chain.

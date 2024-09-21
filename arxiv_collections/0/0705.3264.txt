@@ -1,0 +1,16 @@
+The nature of the coupling leading to superconductivity in layered materials
+such as high-Tc superconductors and graphite intercalation compounds (GICs) is
+still unresolved. In both systems, interactions of electrons with either
+phonons or other electrons or both have been proposed to explain
+superconductivity. In the high-Tc cuprates, the presence of a Van Hove
+singularity (VHS) in the density of states near the Fermi level was long ago
+proposed to enhance the many-body couplings and therefore may play a role in
+superconductivity. Such a singularity can cause an anisotropic variation in the
+coupling strength, which may partially explain the so-called nodal-antinodal
+dichotomy in the cuprates. Here we show that the topology of the graphene band
+structure at dopings comparable to the GICs is quite similar to that of the
+cuprates and that the quasiparticle dynamics in graphene have a similar
+dichotomy. Namely, the electron-phonon coupling is highly anisotropic,
+diverging near a saddle point in the graphene electronic band structure. These
+results support the important role of the VHS in layered materials and the
+possible optimization of Tc by tuning the VHS with respect to the Fermi level.

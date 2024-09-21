@@ -1,0 +1,9 @@
+We point out that in non supersymmetric GUTs, in which the SU(5) gauge
+symmetry is broken down to the Standard Model gauge group by a $\mathbf{24}$
+Higgs multiplet the Appelquist-Carazzone decoupling is violated. This is
+because the $SU(2)_L$ Higgs triplet contained in the $\mathbf{24}$ acquires a
+dimensionfull coupling to the $SU(2)_L$ Higgs doublets which is proportional to
+the GUT breaking vacuum expectation value (VEV) $V$. As a result, at one loop
+heavy gauge and Higgs fields contribution to tadpoles generate a VEV of the
+triplet which is not suppressed for $V\to\infty$ and violates the custodial
+symmetry.

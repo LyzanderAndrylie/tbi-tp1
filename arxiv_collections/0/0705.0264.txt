@@ -1,0 +1,4 @@
+We illustrate the use of new on-shell methods, 4-dimensional unitarity cuts
+combined with on-shell recursions relations, by computing the
+A_4^{(1)}(phi,1^-,2^-,3^+,4^+) amplitude in the large top mass limit where the
+Higgs boson couples to gluons through an effective interaction.

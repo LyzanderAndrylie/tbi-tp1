@@ -1,0 +1,18 @@
+We present Wannier90, a program for calculating maximally-localised Wannier
+functions (MLWF) from a set of Bloch energy bands that may or may not be
+attached to or mixed with other bands. The formalism works by minimising the
+total spread of the MLWF in real space. This done in the space of unitary
+matrices that describe rotations of the Bloch bands at each k-point. As a
+result, Wannier90 is independent of the basis set used in the underlying
+calculation to obtain the Bloch states. Therefore, it may be interfaced
+straightforwardly to any electronic structure code. The locality of MLWF can be
+exploited to compute band-structure, density of states and Fermi surfaces at
+modest computational cost. Furthermore, Wannier90 is able to output MLWF for
+visualisation and other post-processing purposes. Wannier functions are already
+used in a wide variety of applications. These include analysis of chemical
+bonding in real space; calculation of dielectric properties via the modern
+theory of polarisation; and as an accurate and minimal basis set in the
+construction of model Hamiltonians for large-scale systems, in linear-scaling
+quantum Monte Carlo calculations, and for efficient computation of material
+properties, such as the anomalous Hall coefficient. Wannier90 is freely
+available under the GNU General Public License from http://www.wannier.org/

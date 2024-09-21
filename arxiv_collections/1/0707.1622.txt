@@ -1,0 +1,9 @@
+The understanding of dynamic failure in amorphous materials via the
+propagation of free boundaries like cracks and voids must go beyond elasticity
+theory, since plasticity intervenes in a crucial and poorly understood manner
+near the moving free boundary. In this Letter we focus on failure via a
+cavitation instability in a radially-symmetric stressed material, set up the
+free boundary dynamics taking both elasticity and visco-plasticity into
+account, using the recently proposed athermal Shear Transformation Zone theory.
+We demonstrate the existence (in amorphous systems) of fast cavitation modes
+accompanied by extensive plastic deformations and discuss the revealed physics.

@@ -1,0 +1,15 @@
+The MINOS long baseline experiment has been collecting neutrino beam data
+since March 2005 and has accumulated 3 x 10^{20} protons-on-target (POT) to
+date. MINOS uses Fermilab's NuMI neutrino beam which is measured by two
+steel-scintillator tracking calorimeters, one at Fermilab and the other 735 km
+downstream, in northern Minnesota. By observing the oscillatory structure in
+the neutrino energy spectrum, MINOS can precisely measure the neutrino
+oscillation parameters in the atmospheric sector. From analysis of the first
+year of data, corresponding to 1.27 x 10^{20} POT, these parameters were
+determined to be |\Delta m^2_{32}|=2.74^{+0.44}_{-0.26} x 10^{-3} eV^2 and
+sin^2(2\theta_{23})>0.87 (68% C.L.). MINOS is able to measure the neutrino
+velocity by comparing the arrival times of the neutrino beam in its two
+detectors. Using a total of 473 Far Detector events, (v-c)/c = (5.1 +/- 2.9) x
+10^{-5} (68% C.L.) was measured. In addition, we report recent progress in the
+analysis of neutral current events and give an outline of experimental goals
+for the future.

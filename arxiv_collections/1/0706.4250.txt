@@ -1,0 +1,17 @@
+We calculate n alpha phase-shifts and scattering observables in the
+resonating-group method, using the nuclear-matter G-matrix of an SU_6
+quark-model NN interaction. The G-matrix is generated in the recent
+energy-independent procedure of the quark-model NN interaction with the
+continuous prescription for intermediate spectra, by assuming an appropriate
+Fermi momentum k_F=1.2 fm^-1. The n alpha RGM interaction kernels are evaluated
+with explicit treatments of the nonlocality and momentum dependence of
+partial-wave G-matrix components. The momentum dependence of the G-matrix
+components is different for each of the nucleon-exchange and interaction types.
+Without introducing any artificial parameters except for k_F, the central and
+spin-orbit components of the n alpha Born kernel are found to have reasonable
+strengths under the assumption of a rigid translationally invariant shell-model
+wave function of the alpha-cluster. The characteristic behaviors of three
+different exchange terms, corresponding to knockout, heavy-particle pickup and
+nucleon-rearrangement processes, are essentially the same between the case of
+previous local effective NN forces and the case of nonlocal G-matrix NN
+interactions.

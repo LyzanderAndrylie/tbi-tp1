@@ -1,0 +1,12 @@
+We investigate quantum fluctuations in the non-local resistance of an open
+quantum dot which is connected to four reservoirs via quantum point contacts.
+In this four-terminal quantum dot the voltage path can be separated from the
+current path. We measured non-local resistance fluctuations of several hundreds
+of Ohms, which have been characterized as a function of bias voltage, gate
+voltage and perpendicular magnetic field. The amplitude of the resistance
+fluctuations is strongly reduced when the coupling between the voltage probes
+and the dot is enhanced. Along with experimental results, we present a
+theoretical analysis based on the Landauer-B\"{u}ttiker formalism. While the
+theory predicts non-local resistance fluctuations of considerably larger
+amplitude than what has been observed, agreement with theory is very good if an
+additional dephasing mechanism is assumed.

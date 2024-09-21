@@ -1,0 +1,5 @@
+The celebrated Thistlethwaite theorem relates the Jones polynomial of a link
+with the Tutte polynomial of the corresponding planar graph. We give a
+generalization of this theorem to virtual links. In this case, the graph will
+be embedded into a (higher genus) surface. For such graphs we use the
+generalization of the Tutte polynomial discovered by B.Bollobas and O.Riordan.

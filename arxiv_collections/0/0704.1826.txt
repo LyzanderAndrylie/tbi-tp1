@@ -1,0 +1,15 @@
+We present an extensive analysis of squark and gaugino hadroproduction and
+decays in non-minimal flavour violating supersymmetry. We employ the so-called
+super-CKM basis to define the possible misalignment of quark and squark
+rotations, and we use generalized (possibly complex) charges to define the
+mutual couplings of (s)quarks and gauge bosons/gauginos. The cross sections for
+all squark-(anti-)squark/gaugino pair and squark-gaugino associated production
+processes as well as their decay widths are then given in compact analytic
+form. For four different constrained supersymmetry breaking models with
+non-minimal flavour violation in the second/third generation squark sector
+only, we establish the parameter space regions allowed/favoured by low-energy,
+electroweak precision, and cosmological constraints and display the chirality
+and flavour decomposition of all up- and down-type squark mass eigenstates.
+Finally, we compute numerically the dependence of a representative sample of
+production cross sections at the LHC on the off-diagonal mass matrix elements
+in the experimentally allowed/favoured ranges.

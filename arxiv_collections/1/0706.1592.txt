@@ -1,0 +1,17 @@
+Dose volume histograms are a useful tool in state-of-the-art radiotherapy
+planning, and it is essential to be aware of their limitations. Dose
+distributions computed by treatment planning systems are affected by several
+sources of uncertainty such as algorithm limitations, measurement uncertainty
+in the data used to model the beam and residual differences between measured
+and computed dose, once the model is optimized. In order to take into account
+the effect of uncertainty, a probabilistic approach is proposed and a new kind
+of histogram, a dose-expected volume histogram, is introduced. The expected
+value of the volume in the region of interest receiving an absorbed dose equal
+or greater than a certain value is found using the probability distribution of
+the dose at each point. A rectangular probability distribution is assumed for
+this point dose, and a relationship is given for practical computations. This
+method is applied to a set of dose volume histograms for different regions of
+interest for 6 brain patients, 8 lung patients, 8 pelvis patients and 6
+prostate patients planned for IMRT. These results show how dose computation
+uncertainty has effects on PTV coverage and, to a lesser extent, in dose to
+organs at risk. This method allows to quantify these effects.

@@ -1,0 +1,9 @@
+The composite CBS-QB3 method is widely used to obtain accurate energies of
+molecules and radicals although its use in the case of singlet diradicals gives
+rise to some difficulties. The problem is related to the parameterized
+correction this method introduces to account for spin-contamination. We report
+a new term specifically designed to describe singlet diradicals separated by at
+least one CH2 unit. As a test case, we have computed the formation enthalpy of
+a series of diradicals that includes hydrocarbons as well as systems involving
+heteroatoms (nitrogen, oxygen). The resulting CBS-QB3 energies are very close
+to experiment.

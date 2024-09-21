@@ -1,0 +1,12 @@
+The influence of excited-state absorption (ESA) and two-exciton processes on
+a coherent population transfer with intense ultrashort chirped pulses in
+molecular systems in solution has been studied. An unified treatment of
+adiabatic rapid passage (ARP) in such systems has been developed using a
+three-state electronic system with relaxation treated as a diffusion on
+electronic potential energy surfaces. We have shown that ESA has a profound
+effect on coherent population transfer in large molecules that necessitates a
+more accurate interpretation of experimental data. A simple and physically
+clear model for ARP in molecules with three electronic states in solution has
+been developed by extending the Landau-Zener calculations putting in a third
+level to random crossing of levels. A method for quantum control of two-exciton
+states in molecular complexes has been proposed.

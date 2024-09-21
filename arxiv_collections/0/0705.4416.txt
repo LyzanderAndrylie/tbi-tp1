@@ -1,0 +1,12 @@
+Invasiveness, one of the hallmarks of tumor progression, represents the
+tumor's ability to expand into the host tissue by means of several complex
+biochemical and biomechanical processes. Since certain aspects of the problem
+present a striking resemblance with well known physical mechanisms, such as the
+mechanical insertion of a solid inclusion in an elastic material specimen [1,
+2] or a water drop impinging on a surface [3], we propose here an analogy
+between these physical processes and a cancer system's invasive branching into
+the surrounding tissue. Accounting for its solid and viscous properties, we
+present a unifying concept that the tumor behaves as a granular solid. While
+our model has been explicitly formulated for multicellular tumor spheroids in
+vitro, it should also contribute to a better understanding of tumor invasion in
+vivo.

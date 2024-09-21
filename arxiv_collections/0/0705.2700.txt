@@ -1,0 +1,6 @@
+Prompt photons, together with an accompanying jet, have been studied in the
+photoproduction regime of ep scattering with the ZEUS detector at HERA.
+Predictions based on leading-logarithm parton-shower Monte Carlo models and
+next-to-leading-order (NLO) QCD underestimate the gamma+jet cross sections for
+transverse energies of prompt photons below 7 GeV, while the kT-factorisation
+QCD calculation agrees with the data in this region.

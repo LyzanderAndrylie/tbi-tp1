@@ -1,0 +1,23 @@
+(Abridged) We use 3D SPH calculations with higher resolution, as well as with
+more realistic viscosity and sound-speed prescriptions than previous work to
+examine the eccentric instability which underlies the superhump phenomenon in
+semi-detached binaries. We illustrate the importance of the two-armed spiral
+mode in the generation of superhumps. Differential motions in the fluid disc
+cause converging flows which lead to strong spiral shocks once each superhump
+cycle. The dissipation associated with these shocks powers the superhump. We
+compare 2D and 3D results, and conclude that 3D simulations are necessary to
+faithfully simulate the disc dynamics. We ran our simulations for unprecedented
+durations, so that an eccentric equilibrium is established except at high mass
+ratios where the growth rate of the instability is very low. Our improved
+simulations give a closer match to the observed relationship between superhump
+period excess and binary mass ratio than previous numerical work. The observed
+black hole X-ray transient superhumpers appear to have systematically lower
+disc precession rates than the cataclysmic variables. This could be due to
+higher disc temperatures and thicknesses. The modulation in total viscous
+dissipation on the superhump period is overwhelmingly from the region of the
+disc within the 3:1 resonance radius. As the eccentric instability develops,
+the viscous torques are enhanced, and the disc consequently adjusts to a new
+equilibrium state, as suggested in the thermal-tidal instability model. We
+quantify this enhancement in the viscosity, which is ~10 per cent for q=0.08.
+We characterise the eccentricity distributions in our accretion discs, and show
+that the entire body of the disc partakes in the eccentricity.

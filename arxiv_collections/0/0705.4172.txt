@@ -1,0 +1,14 @@
+We analyze a large collection of RXTE archive data from April 1997 to August
+2003 of the bright X-ray source Scorpius X-1 in order to study the broadband
+spectral evolution of the source for different values of the inferred mass
+accretion rate by studying energy spectra from selected regions in the Z-track
+of its Color-Color Diagram. A two-component model, consisting of a soft thermal
+component interpreted as thermal emission from an accretion disk and a thermal
+Comptonization component, is unable to fit the whole 3--200 keV energy spectrum
+at low accretion rates. Strong residuals in the highest energy band of the
+spectrum require the addition of a third component that can be fitted with a
+power-law component, that could represent a second thermal Comptonization from
+a much hotter plasma, or a hybrid thermal/non-thermal Comptonization. We
+discuss the physical implications derived from the results of our analysis,
+with a particular emphasis on the hardest part of the X-ray emission and its
+possible origins.

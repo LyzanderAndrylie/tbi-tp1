@@ -1,0 +1,7 @@
+Photoluminescence spectroscopy of single InAs quantum dots at cryogenic
+temperatures (~14 K) is performed using a micron-scale optical fiber taper
+waveguide as a near-field optic. The measured collection efficiency of quantum
+dot spontaneous emission into the fundamental guided mode of the fiber taper is
+estimated at 0.1%, and spatially-resolved measurements with ~600 nm resolution
+are obtained by varying the taper position with respect to the sample and using
+the fiber taper for both the pump and collection channels.

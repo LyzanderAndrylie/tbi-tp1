@@ -1,0 +1,9 @@
+Numerical results for the polaron dispersion are presented for an arbitrary
+number of space dimensions. Upper and lower bounds are calculated for the
+dispersion curves. They are rather close to each other in the cases of small
+electron-phonon couplings usual for real polar materials. To describe the
+dispersion in other materials, we suggest a simple fitting formula which can be
+applied at intermediate values of the Fr\"ohlich electron-phonon coupling
+constant. Its validity is approved by the comparison with direct calculations
+and previously obtained results. This makes our results not only reliable and
+highly accurate but also easy reproducible.

@@ -1,0 +1,5 @@
+This paper presents a useful compact formula for deriving an effective
+Hamiltonian describing the time-averaged dynamics of detuned quantum systems.
+The formalism also works for ensemble-averaged dynamics of stochastic systems.
+To illustrate the technique we give examples involving Raman processes,
+Bloch-Siegert shifts and Quantum Logic Gates.

@@ -1,0 +1,18 @@
+This paper uncovers and explores the close relationship between Monte Carlo
+Optimization of a parametrized integral (MCO), Parametric machine-Learning
+(PL), and `blackbox' or `oracle'-based optimization (BO). We make four
+contributions. First, we prove that MCO is mathematically identical to a broad
+class of PL problems. This identity potentially provides a new application
+domain for all broadly applicable PL techniques: MCO. Second, we introduce
+immediate sampling, a new version of the Probability Collectives (PC) algorithm
+for blackbox optimization. Immediate sampling transforms the original BO
+problem into an MCO problem. Accordingly, by combining these first two
+contributions, we can apply all PL techniques to BO. In our third contribution
+we validate this way of improving BO by demonstrating that cross-validation and
+bagging improve immediate sampling. Finally, conventional MC and MCO procedures
+ignore the relationship between the sample point locations and the associated
+values of the integrand; only the values of the integrand at those locations
+are considered. We demonstrate that one can exploit the sample location
+information using PL techniques, for example by forming a fit of the sample
+locations to the associated values of the integrand. This provides an
+additional way to apply PL techniques to improve MCO.

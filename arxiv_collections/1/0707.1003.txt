@@ -1,0 +1,19 @@
+Applying the analytical closed-form solutions of the 'quasi-static' potential
+distribution around two conjoined resonant half-cylinders with different
+permittivities, reported in the first part of our manuscript, here we interpret
+these results in terms of our nanocircuit paradigm applicable to nanoparticles
+at infrared and optical frequencies [N. Engheta, A. Salandrino, A. Alu, Phys.
+Rev. Lett. 95, 095504 (2005)]. We investigate the possibility of connecting in
+series and parallel configurations plasmonic and/or dielectric nanoparticles
+acting as nanocircuit elements, with a goal for the design of a more complex
+nanocircuit circuit system with the desired response. The present analysis
+fully validates the heuristic predictions regarding the parallel and series
+combination of a pair of nanocircuit elements. Moreover, the geometries under
+analysis present interesting peculiar features in their wave interaction, such
+as the intermediate stage between the parallel and series configurations, which
+may be of interest for certain applications. In particular, the resonant
+nanocircuit configuration analyzed here may dramatically change, in a
+continuous way, its effective total impedance by simply rotating its
+orientation with respect to the polarization of the impressed optical electric
+field, providing a novel optical nanodevice that may alter its function by
+rotation with respect to the impressed optical local field.

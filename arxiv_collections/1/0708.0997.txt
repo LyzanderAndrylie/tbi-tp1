@@ -1,0 +1,18 @@
+Using irreversible thermodynamics we show that current-induced spin transfer
+torque within a magnetic domain implies spin pumping of current within that
+domain. This has experimental implications for samples both with conducting
+leads and that are electrically isolated. These results are obtained by
+deriving the dynamical equations for two models of non-uniform conducting
+magnets: (1) a generic conducting magnet, with net conduction electron density
+n and net magnetization $\vec{M}$; and (2) a two-band magnet, with up and down
+spins each providing conduction and magnetism. For both models, in regions
+where the equilibrium magnetization is non-uniform, voltage gradients can drive
+adiabatic and non-adiabatic bulk spin torques. Onsager relations then ensure
+that magnetic torques likewise drive adiabatic and non-adiabatic currents --
+what we call bulk spin pumping. For a given amount of adiabatic and
+non-adiabatic spin torque, the two models yield similar but distinct results
+for the bulk spin pumping, thus distinguishing the two models. As in the recent
+spin-Berry phase study by Barnes and Maekawa, we find that within a domain wall
+the ratio of the effective emf to the magnetic field is approximately given by
+$P(2\mu_{B}/e)$, where P is the spin polarization. The adiabatic spin torque
+and spin pumping terms are shown to be dissipative in nature.

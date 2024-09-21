@@ -1,0 +1,8 @@
+The results are reported of molecular dynamics simulations of the static
+longitudinal dielectric and response functions for molten AgI at 923 K using
+two ionic models. The first one is a rigid ion model, while in the second the
+induced dipole moments of the anions are added to the effective pair potentials
+of the first. It is derived theoretically that the dielectric functions for the
+polarizable ion model are determined by spatial correlations of charge and
+dipole moment densities. The charge structure factor at long wavelengths is
+also studied.

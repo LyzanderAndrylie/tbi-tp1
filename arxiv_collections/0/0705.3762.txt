@@ -1,0 +1,14 @@
+We address the presence of non-distillable (bound) entanglement in natural
+many-body systems. In particular, we consider standard harmonic and spin-1/2
+chains, at thermal equilibrium and characterized by few interaction parameters.
+The existence of bound entanglement is addressed by calculating explicitly the
+negativity of entanglement for different partitions. This allows to individuate
+a range of temperatures for which no entanglement can be distilled by means of
+local operations, despite the system being globally entangled. We discuss how
+the appearance of bound entanglement can be linked to entanglement-area laws,
+typical of these systems. Various types of interactions and topologies are
+explored, showing that the presence of bound entanglement is an intrinsic
+feature of these systems. In the harmonic case, we analytically prove that
+thermal bound entanglement persists for systems composed by an arbitrary number
+of particles. Our results strongly suggest the existence of bound entangled
+states in the macroscopic limit also for spin-1/2 systems.

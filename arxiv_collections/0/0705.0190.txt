@@ -1,0 +1,7 @@
+Let C be an integral projective curve with surficial singularities. We prove
+that topologically trivial line bundles on the compactified Jacobian of C are
+in one-to-one correspondence with line bundles on C (the autoduality
+conjecture), and compute the cohomology of the line bundles. We also show that
+the natural Fourier-Mukai functor between the derived categories of
+quasi-coherent sheaves on the Jacobian and on the compactified Jacobian is
+fully faithful.

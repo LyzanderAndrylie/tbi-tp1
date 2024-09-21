@@ -1,0 +1,22 @@
+We propose a method to reconstruct the vibrational quantum state of molecules
+excited by a general excitation laser pulse. Unlike existing methods, we do not
+require the molecules before excitation to be in a pure state, allowing us to
+treat the important case of initially thermally excited molecules. Even if only
+a single initial level is appreciably populated, initial levels with small
+populations can still give major contributions to the unknown vibrational
+state, making it essential to take them into account. In addition to the
+excitation pulse, the method uses two incident, short laser pulses in a
+non-co-linear geometry to create four-wave mixing in the molecules. The
+measurements used in the reconstruction are spectra of the outgoing four-wave
+mixing pulse at different time delays of the excitation laser pulse. An
+important point is that the method does not require detailed knowledge of
+molecular transition moments between excited states nor of any of the incoming
+laser pulses, but circumvents this requirement by using one or more calibration
+laser pulses in a separate experiment either before or after the main data are
+recorded. The only requirements for the calibration laser pulses are that the
+constant parts of their spectrums should together cover the spectral range of
+the excitation laser pulse, and the constant part of each should have
+sufficient spectral overlap with one other calibration pulse to populate two of
+the same levels. Finally, we discuss the extension of the reconstruction method
+in this paper to more general situations, hereby presenting the new idea of
+quantum state reconstruction through perturbations with calibration.

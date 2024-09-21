@@ -1,0 +1,7 @@
+In this paper we give an exact analytic solution for tachyon condensation in
+the modified (picture 0) cubic superstring field theory. We prove the absence
+of cohomology and, crucially, reproduce the correct value for the D-brane
+tension. The solution is surprising for two reasons: First, the existence of a
+tachyon vacuum in this theory has not been definitively established in the
+level expansion. Second, the solution {\it vanishes} in the GSO$(-)$ sector,
+implying a ``tachyon vacuum'' solution exists even for a {\it BPS} D-brane.

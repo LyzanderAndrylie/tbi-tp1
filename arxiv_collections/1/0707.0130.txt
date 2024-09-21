@@ -1,0 +1,4 @@
+his paper proposes a sensible definition of a deformation metric between
+2-dimensional surfaces obtained from each other by an area preserving
+(incompressible) mapping, and an algorithm for obtaining this metric, as well
+as the optimal deformation.

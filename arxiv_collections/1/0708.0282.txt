@@ -1,0 +1,18 @@
+The rotational constants and the nitrogen nuclear quadrupole coupling
+constants of cis-3-aminophenol and trans-3-aminophenol are determined using
+Fourier-transform microwave spectroscopy. We examine several $J=2\leftarrow{}1$
+and $1\leftarrow{}0$ hyperfine-resolved rotational transitions for both
+conformers. The transitions are fit to a rigid rotor Hamiltonian including
+nuclear quadrupole coupling to account for the nitrogen nucleus. For
+cis-3-aminophenol we obtain rotational constants of A=3734.930 MHz, B=1823.2095
+MHz, and C=1226.493 MHz, for trans-3-aminophenol of A=3730.1676 MHz,
+B=1828.25774 MHz, and C=1228.1948 MHz. The dipole moments are precisely
+determined using Stark effect measurements for several hyperfine transitions to
+$\mu_a=1.7735$ D, $\mu_b=1.5195$ D for cis-3-aminophenol and $\mu_a=0.5563$ D,
+$\mu_b=0.5376$ D for trans-3-aminophenol. Whereas the rotational constants and
+quadrupole coupling constants do not allow to determinate the absolute
+configuration of the two conformers, this assignment is straight-forward based
+on the dipole moments. High-level \emph{ab initio} calculations (B3LYP/6-31G^*
+to MP2/aug-cc-pVTZ) are performed providing error estimates of rotational
+constants and dipole moments obtained for large molecules by these theoretical
+methods.

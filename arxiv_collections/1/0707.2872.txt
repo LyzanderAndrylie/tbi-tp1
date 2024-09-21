@@ -1,0 +1,9 @@
+For Majorana-Wilson lattice fermions in two dimensions we derive a dimer
+representation. This is equivalent to Gattringer's loop representation, but is
+made exact here on the torus. A subsequent dual mapping leads to yet another
+representation in which a highly efficient Swendsen-Wang type cluster algorithm
+is constructed. It includes the possibility of fluctuating boundary conditions.
+It also allows for improved estimators and makes interesting new observables
+accessible to Monte Carlo. The algorithm is compatible with the Gross-Neveu as
+well as an additional Z(2) gauge interaction. In this article numerical
+demonstrations are reported for critical free fermions.

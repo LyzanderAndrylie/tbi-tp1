@@ -1,0 +1,7 @@
+Distribution of charge induced by a gate voltage in a graphene strip is
+investigated. We calculate analytically the charge profile and demonstrate a
+strong(macroscopic) charge accumulation along the boundaries of a
+micrometers-wide strip. This charge inhomogeneity is especially important in
+the quantum Hall regime where we predict the doubling of the number of edge
+states and coexistence of two different types of such states. Applications to
+graphene-based nanoelectronics are discussed.

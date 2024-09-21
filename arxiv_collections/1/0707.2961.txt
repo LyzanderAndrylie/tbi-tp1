@@ -1,0 +1,8 @@
+We present results of extensive finite-temperature Quantum Monte Carlo
+simulations on a SU(2) symmetric S=1/2 quantum antiferromagnet with a four-spin
+interaction [Sandvik, Phys. Rev. Lett. 98, 227202 (2007)]. Our simulations,
+which are free of the sign-problem and carried out on lattices containing in
+excess of 1.6 X 10^4 spins, indicate that the four-spin interaction destroys
+the N\'eel order at an unconventional z=1 quantum critical point, producing a
+valence-bond solid paramagnet. Our results are consistent with the `deconfined
+quantum criticality' scenario.

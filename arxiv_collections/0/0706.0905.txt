@@ -1,0 +1,9 @@
+We present a computational LCHO-CI approach allowing for the simulation of
+exchange interactions in gated lateral quantum dot networks. The approach is
+based on single-particle states calculated using a linear combination of
+harmonic orbitals (LCHO) of each of the dots, and a configuration interaction
+(CI) approach to the interacting electron problem. The LCHO-CI method is
+applied to a network of three quantum dots with one electron spin per dot, and
+a Heisenberg spin Hamiltonian is derived. The manipulation of spin states of a
+three-spin molecule by applying bias to one of the dots is demonstrated and
+related to the bias dependence of effective exchange interaction parameters.

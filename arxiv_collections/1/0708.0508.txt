@@ -1,0 +1,9 @@
+We consider the doped Rokhsar-Kivelson quantum dimer model on the triangular
+lattice with one mobile hole (monomer) at the Rokhsar-Kivelson point. The
+motion of the hole is described by two branches of excitations: the hole may
+either move with or without a trapped Z2 vortex (vison). We perform a study of
+the hole dispersion in the limit where the hole hopping amplitude is much
+smaller than the interdimer interaction. In this limit, the hole without vison
+moves freely and has a tight-binding spectrum. On the other hand, the hole with
+a trapped vison is strongly constrained due to interference effects and can
+only move via higher-order virtual processes.

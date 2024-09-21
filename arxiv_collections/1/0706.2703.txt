@@ -1,0 +1,7 @@
+We derive classes of exact solitonic solutions of the time-dependent
+Gross-Pitaevskii equation with repulsive and attractive interatomic
+interactions. The solutions correspond to a string of bright solitons with
+phase difference between adjacent solitons equal to $\pi$. While the relative
+phase, width, and distance between adjacent solitons turn out to be a constant
+of the motion, the center of mass of the string moves with a constant
+acceleration arising from the inhomogeneity of the background.

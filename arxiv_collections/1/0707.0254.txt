@@ -1,0 +1,6 @@
+We investigate magnetic-field asymmetries in the linear transport of a
+mesoscopic conductor interacting with its environment. Interestingly, we find
+that the interaction between the two systems causes an asymmetry only when the
+environment is out of equilibrium. We elucidate our general result with the
+help of a quantum dot capacitively coupled to a quantum Hall conductor and
+discuss the asymmetry dependence on the environment bias and induced dephasing.

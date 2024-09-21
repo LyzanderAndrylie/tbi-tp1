@@ -1,0 +1,5 @@
+The Dupree-Weinstock renormalization is used to prove that a reactive closure
+exists for drift wave turbulence in magnetized plasmas. The result is used to
+explain recent results in gyrokinetic simulations and is also related to the
+Mattor-Parker closure. The level of closure is found in terms of applied
+external sources.

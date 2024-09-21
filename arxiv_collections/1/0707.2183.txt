@@ -1,0 +1,20 @@
+An analytical expression of the strain distribution due to lattice mismatch
+is obtained in an infinite isotropic elastic medium (a matrix) with a
+three-dimensional polyhedron-shaped inclusion (a quantum dot). The expression
+was obtained utilizing the analogy between electrostatic and elastic theory
+problems. The main idea lies in similarity of behavior of point charge electric
+field and the strain field induced by point inclusion in the matrix. This opens
+a way to simplify the structure of the expression for the strain tensor. In the
+solution, the strain distribution consists of contributions related to faces
+and edges of the inclusion. A contribution of each face is proportional to the
+solid angle at which the face is seen from the point where the strain is
+calculated. A contribution of an edge is proportional to the electrostatic
+potential which would be induced by this edge if it is charged with a constant
+linear charge density. The solution is valid for the case of inclusion having
+the same elastic constants as the matrix. Our method can be applied also to the
+case of semi-infinite matrix with a free surface. Three particular cases of the
+general solution are considered--for inclusions of pyramidal, truncated
+pyramidal, and "hut-cluster" shape. In these cases considerable simplification
+was achieved in comparison with previously published solutions. A
+generalization of the obtained solution to the case of anisotropic media is
+discussed.

@@ -1,0 +1,10 @@
+In the hole-doped $d_{x^{2}-y^{2}}$-wave cuprate superconductor, due to the
+midgap surface state (MSS), a zero bias conductance peak (ZBCP) is widely
+observed in [110] interface point contact spectroscopy (PCS). However, ZBCP of
+this geometry is rarely observed in the electron-doped cuprates, even though
+their pairing symmetry is still likely the $d_{x^{2}-y^{2}}$-wave. We argue
+that this is due to the coexistence of antiferromagnetic (AF) and the
+superconducting (SC) orders. Generalizing the Blonder-Tinkham-Klapwijk (BTK)
+formula to include an AF coupling, it is shown explicitly that the MSS is
+destroyed by the AF order. The calculated PCS is in good agreement with the
+experiments.

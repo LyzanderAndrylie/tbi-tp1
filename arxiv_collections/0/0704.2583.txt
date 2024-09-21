@@ -1,0 +1,15 @@
+CLIC is a linear $e^+e^-$ ($\gamma\gamma$) collider project which uses a
+drive beam to accelerate the main beam. The drive beam provides RF power for
+each corresponding unit of the main linac through energy extracting RF
+structures. CLIC has a wide range of center-of-mass energy options from 150 GeV
+to 3 TeV. The present paper contains optimization of Free Electron Laser (FEL)
+using one bunch of CLIC drive beam in order to provide polarized light
+amplification using appropriate wiggler and luminosity spectrum of
+$\gamma\gamma$ collider for $E_{cm}$=0.5 TeV. Then amplified laser can be
+converted to a polarized high-energy $\gamma$ beam at the Conversion point
+(CP-prior to electron positron interaction point) in the process of Compton
+backscattering. At the CP a powerful laser pulse (FEL) focused to main linac
+electrons (positrons). Here this scheme described and it is show that CLIC
+drive beam parameters satisfy the requirement of FEL additionally essential
+undulator parameters has been defined. Achievable $\gamma\gamma$ luminosity is
+above $10^{34}$.

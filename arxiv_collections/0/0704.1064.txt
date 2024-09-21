@@ -1,0 +1,20 @@
+The anisotropic XXZ spin-1/2 Heisenberg chain is studied using
+renormalization-group theory. The specific heats and nearest-neighbor spin-spin
+correlations are calculated thoughout the entire temperature and anisotropy
+ranges in both ferromagnetic and antiferromagnetic regions, obtaining a global
+description and quantitative results. We obtain, for all anisotropies, the
+antiferromagnetic spin-liquid spin-wave velocity and the Isinglike
+ferromagnetic excitation spectrum gap, exhibiting the spin-wave to spinon
+crossover. A number of characteristics of purely quantum nature are found: The
+in-plane interaction s_i^x s_j^x + s_i^y s_j^y induces an antiferromagnetic
+correlation in the out-of-plane s_i^z component, at higher temperatures in the
+antiferromagnetic XXZ chain, dominantly at low temperatures in the
+ferromagnetic XXZ chain, and, in-between, at all temperatures in the XY chain.
+We find that the converse effect also occurs in the antiferromagnetic XXZ
+chain: an antiferromagnetic s_i^z s_j^z interaction induces a correlation in
+the s_i^xy component. As another purely quantum effect, (i) in the
+antiferromagnet, the value of the specific heat peak is insensitive to
+anisotropy and the temperature of the specific heat peak decreases from the
+isotropic (Heisenberg) with introduction of either type (Ising or XY)
+anisotropy; (ii) in complete contrast, in the ferromagnet, the value and
+temperature of the specific heat peak increase with either type of anisotropy.

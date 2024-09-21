@@ -1,0 +1,19 @@
+It has been shown that the dissipative gas infall during galaxy formation has
+the capability to modify the shape of dark matter halos. In this paper we
+perform the first detailed analysis of particle orbits in a cosmological dark
+matter halos to understand {\it how} and {\it why} baryons alter its shape. We
+perform a series of numerical experiments where we grow a baryonic core inside
+a live dark matter halo extracted from a cosmological simulation. We follow the
+orbits of more than 300 particles with more that 50000 timesteps. Our results
+clearly show that the dissipational component is responsible for repeatedly
+deflecting orbits which visit often the center of the system. Moreover the
+gravitational potential time dependence associated with the growth of the
+baryonic mass, shifts the frequencies of the orbits, making them extremely
+chaotic. This randomization makes the orbits explore a large phase space. When
+this effect takes place for a significant number of orbits it will be
+manifested in the density distribution as an approach to a rounder
+configuration. As a consequence, the influence of the central mass on the shape
+of the phase space decreases with increasing distance from the center. We
+discuss the importance of future analysis of controlled experiments (i.e. using
+analytic potentials instead of live DM halos) to better decipher the dynamics
+of this phenomenon.

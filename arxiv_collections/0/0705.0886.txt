@@ -1,0 +1,9 @@
+We numerically calculate the conductivity $\sigma$ of an undoped graphene
+sheet (size $L$) in the limit of vanishingly small lattice constant. We
+demonstrate one-parameter scaling for random impurity scattering and determine
+the scaling function $\beta(\sigma)=d\ln\sigma/d\ln L$. Contrary to a recent
+prediction, the scaling flow has no fixed point ($\beta>0$) for conductivities
+up to and beyond the symplectic metal-insulator transition. Instead, the data
+supports an alternative scaling flow for which the conductivity at the Dirac
+point increases logarithmically with sample size in the absence of intervalley
+scattering -- without reaching a scale-invariant limit.

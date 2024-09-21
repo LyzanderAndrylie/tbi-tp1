@@ -1,0 +1,11 @@
+The configuration space network (CSN) of a dynamical system is an effective
+approach to represent the ensemble of configurations sampled during a
+simulation and their dynamic connectivity. To elucidate the connection between
+the CSN topology and the underlying free-energy landscape governing the system
+dynamics and thermodynamics, an analytical soluti on is provided to explain the
+heavy tail of the degree distribution, neighbor co nnectivity and clustering
+coefficient. This derivation allows to understand the universal CSN network
+topology observed in systems ranging from a simple quadratic well to the native
+state of the beta3s peptide and a 2D lattice heteropolymer. Moreover CSN are
+shown to fall in the general class of complex networks describe d by the
+fitness model.

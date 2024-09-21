@@ -1,0 +1,8 @@
+XML data warehouses form an interesting basis for decision-support
+applications that exploit heterogeneous data from multiple sources. However,
+XML-native database systems currently bear limited performances and it is
+necessary to research ways to optimize them. In this paper, we propose a new
+index that is specifically adapted to the multidimensional architecture of XML
+warehouses and eliminates join operations, while preserving the information
+contained in the original warehouse. A theoretical study and experimental
+results demonstrate the efficiency of our index, even when queries are complex.

@@ -1,0 +1,10 @@
+It is shown that the polynomial \[p(t) = \text{Tr}[(A+tB)^m]\] has positive
+coefficients when $m = 6$ and $A$ and $B$ are any two 3-by-3 complex Hermitian
+positive definite matrices. This case is the first that is not covered by
+prior, general results. This problem arises from a conjecture raised by Bessis,
+Moussa and Villani in connection with a long-standing problem in theoretical
+physics. The full conjecture, as shown recently by Lieb and Seiringer, is
+equivalent to $p(t)$ having positive coefficients for any $m$ and any two
+$n$-by-$n$ positive definite matrices. We show that, generally, the question in
+the real case reduces to that of singular $A$ and $B$, and this is a key part
+of our proof.

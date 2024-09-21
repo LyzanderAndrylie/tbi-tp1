@@ -1,0 +1,3 @@
+We use the coordinate Bethe ansatz approach to derive the nested Bethe
+equations corresponding to the recently found S-matrix for strings in AdS5 x
+S5, compatible with centrally extended su(2|2) symmetry.

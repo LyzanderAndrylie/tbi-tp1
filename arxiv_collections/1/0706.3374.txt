@@ -1,0 +1,9 @@
+We demonstrate loading by laser ablation of $^{88}$Sr$^+$ ions into a
+mm-scale surface-electrode ion trap. The laser used for ablation is a pulsed,
+frequency-tripled Nd:YAG with pulse energies of 1-10 mJ and durations of 3-5
+ns. An additional laser is not required to photoionize the ablated material.
+The efficiency and lifetime of several candidate materials for the laser
+ablation target are characterized by measuring the trapped ion fluorescence
+signal for a number of consecutive loads. Additionally, laser ablation is used
+to load traps with a trap depth (40 meV) below where electron impact ionization
+loading is typically successful ($\gtrsim$ 500 meV).

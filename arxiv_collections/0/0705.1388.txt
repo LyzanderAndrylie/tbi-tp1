@@ -1,0 +1,15 @@
+The resonant state of the open quantum system is studied from the viewpoint
+of the outgoing momentum flux. We show that the number of particles is
+conserved for a resonant state, if we use an expanding volume of integration in
+order to take account of the outgoing momentum flux; the number of particles
+would decay exponentially in a fixed volume of integration. Moreover, we
+introduce new numerical methods of treating the resonant state with the use of
+the effective potential. We first give a numerical method of finding a
+resonance pole in the complex energy plane. The method seeks an energy
+eigenvalue iteratively. We found that our method leads to a super-convergence,
+the convergence exponential with respect to the iteration step. The present
+method is completely independent of commonly used complex scaling. We also give
+a numerical trick for computing the time evolution of the resonant state in a
+limited spatial area. Since the wave function of the resonant state is
+diverging away from the scattering potential, it has been previously difficult
+to follow its time evolution numerically in a finite area.

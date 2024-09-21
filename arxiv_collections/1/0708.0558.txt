@@ -1,0 +1,12 @@
+In order to model pions of two-flavor QCD we consider a lattice field theory
+involving two flavors of staggered quarks interacting strongly with U(1) gauge
+fields. For massless quarks, this theory has an $SU_L(2)\times SU_R(2) \times
+U_A(1)$ symmetry. By adding a four-fermion term we can break the U_A(1)
+symmetry and thus incorporate the physics of the QCD anomaly. We can also tune
+the pion decay constant F, to be small compared to the lattice cutoff by
+starting with an extra fictitious dimension, thus allowing us to model low
+energy pion physics in a setting similar to lattice QCD from first principles.
+However, unlike lattice QCD, a major advantage of our model is that we can
+easily design efficient algorithms to compute a variety of quantities in the
+chiral limit. Here we show that the model reproduces the predictions of chiral
+perturbation theory in the $\epsilon$-regime.

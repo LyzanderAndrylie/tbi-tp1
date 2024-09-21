@@ -1,0 +1,9 @@
+We study the time-dependent Dalitz plot of D->KSpi+pi- in B0->D(*)h0 decays,
+where h0 is a pi0, eta, eta', or omega meson and D*->Dpi0 using a data sample
+of 383 X 10^6 Upsilon(4S)->BBbar decays collected with the BABAR detector. We
+determine cos2beta = 0.42+-0.49+-0.09+-0.13, sin2beta = 0.29+-0.34+-0.03+-0.05,
+and |lambda| = 1.01+-0.08+-0.02, where the first error is statistical, the
+second is the experimental systematic uncertainty, and the third, where given,
+is the Dalitz model uncertainty. Assuming the world average value for sin2beta
+and |lambda|=1, cos2beta>0 is preferred over cos2beta<0 at 86% confidence
+level.

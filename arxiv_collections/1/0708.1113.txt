@@ -1,0 +1,11 @@
+We study periodic torus orbits on spaces of lattices. Using the action of the
+group of adelic points of the underlying tori, we define a natural equivalence
+relation on these orbits, and show that the equivalence classes become
+uniformly distributed. This is a cubic analogue of Duke's theorem about the
+distribution of closed geodesics on the modular surface: suitably interpreted,
+the ideal classes of a cubic totally real field are equidistributed in the
+modular 5-fold SL_3(Z)\SL_3(R)/SO_3(R). In particular, this proves (a stronger
+form of) the folklore conjecture that the collection of maximal compact flats
+in SL_3(Z)\SL_3(R)/SO_3(R) of volume less than V becomes equidistributed as V
+goes to infinity. The proof combines subconvexity estimates, measure
+classification, and local harmonic analysis.

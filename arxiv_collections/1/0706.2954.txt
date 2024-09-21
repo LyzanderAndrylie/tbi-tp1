@@ -1,0 +1,11 @@
+Using a model Hamiltonian for a single-mode electromagnetic field interacting
+with a nonlinear medium, we show that quantum expectation values of subsystem
+observables can exhibit remarkably diverse ergodic properties even when the
+dynamics of the total system is regular. The time series of the mean photon
+number is studied over a range of values of the ratio of the strength $\gamma$
+of the nonlinearity to that of the inter-mode coupling $g$. We obtain the power
+spectrum, estimate the embedding dimension of the reconstructed phase space and
+the maximal Liapunov exponent $\lambda_{\rm max}$, and find the recurrence-time
+distribution of the coarse-grained dynamics. The dynamical behavior ranges from
+quasiperiodicity (for $\gamma/g \ll 1$) to chaos as characterized by
+$\lambda_{\rm max} > 0$ (for $\gamma/g \gtrsim 1$), and is interpreted.

@@ -1,0 +1,14 @@
+We show that finite-range alternatives to the standard long-range BKS pair
+potential for silica might be used in molecular dynamics simulations. We study
+two such models that can be efficiently simulated since no Ewald summation is
+required. We first consider the Wolf method, where the Coulomb interactions are
+truncated at a cutoff distance r_c such that the requirement of charge
+neutrality holds. Various static and dynamic quantities are computed and
+compared to results from simulations using Ewald summations. We find very good
+agreement for r_c ~ 10 Angstroms. For lower values of r_c, the long--range
+structure is affected which is accompanied by a slight acceleration of dynamic
+properties. In a second approach, the Coulomb interaction is replaced by an
+effective Yukawa interaction with two new parameters determined by a force
+fitting procedure. The same trend as for the Wolf method is seen. However,
+slightly larger cutoffs have to be used in order to obtain the same accuracy
+with respect to static and dynamic quantities as for the Wolf method.

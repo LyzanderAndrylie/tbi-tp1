@@ -1,0 +1,10 @@
+Study of stochastic differential equations on the field of p-adic numbers was
+initiated by the second author and has been developed by the first author, who
+proved several results for the p-adic case, similar to the theory of ordinary
+stochastic integral with respect to Levy processes on the Euclidean spaces. In
+this article, we present an improved definition of a stochastic integral on the
+field and prove the joint (time and space) continuity of the local time for
+p-adic stable processes. Then we use the method of random time change to obtain
+sufficient conditions for the existence of a weak solution of a stochastic
+differential equation on the field, driven by the p-adic stable process, with a
+Borel measurable coefficient.

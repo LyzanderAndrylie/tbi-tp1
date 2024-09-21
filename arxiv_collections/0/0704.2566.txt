@@ -1,0 +1,5 @@
+Using the method of Fukuda and Kugo \cite{FUKKUG} the continuation of
+Euclidean solution is performed to the timelike axis of fourmomenta. It is
+shown that assumed presence of the real simple pole in quark propagator is not
+in agreement with the solution. The simple pole disappears because of the
+discontinuity in the resulting quark mass function.

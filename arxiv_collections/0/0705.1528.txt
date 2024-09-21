@@ -1,0 +1,21 @@
+We investigate non-perturbative features of a three-dimensional Abelian Higgs
+model with singly- and doubly-charged scalar fields coupled to a single compact
+Abelian gauge field. The model is pretending to describe various planar systems
+of strongly correlated electrons such as high-Tc superconductivity in the
+overdoped regime and exotic materials possessing excitations with
+fractionalized quantum numbers. The complicated phase structure of the model is
+studied thoroughly using numerical tools and analytical arguments. In the
+three-dimensional space of coupling parameters we identify the Fermi liquid,
+the spin gap, the superconductor and the strange metallic phases. The behavior
+of three kinds of topological defects -- holon and spinon vortices and
+monopoles - is explored in various phases. We also observe a new effect, the
+strong enhancement of the phase transition strength reflected in a lower order
+of the transition: at sufficiently strong gauge coupling the two second order
+phase transitions -- corresponding to spinon-pair and holon condensation lines
+- join partially in the phase diagram and become a first order phase transition
+in that region. The last observation may have an analogue in Quantum
+Chromodynamics at non-zero temperature and finite baryon density. We argue that
+at sufficiently large baryon density the finite-temperature transition between
+the (3-flavor paired) color superconducting phase and the quark-gluon plasma
+phases should be much stronger compared with the transition between 2-flavor
+paired and 3-flavor paired superconducting phases.

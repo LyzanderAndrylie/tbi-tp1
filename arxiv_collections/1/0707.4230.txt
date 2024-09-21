@@ -1,0 +1,7 @@
+We report on a theoretical study of the influence of electron-electron
+interactions on ARPES spectra in graphene that is based on the
+random-phase-approximation and on graphene's massless Dirac equation continuum
+model. We find that level repulsion between quasiparticle and plasmaron
+resonances gives rise to a gap-like feature at small k. ARPES spectra are
+sensitive to the electron-electron interaction coupling strength $\alpha_{\rm
+gr}$ and might enable an experimental determination of this material parameter.

@@ -1,0 +1,19 @@
+Flicker (1/f^gamma) voltage noise spectrum is derived from finite-temperature
+quantum electromagnetic fluctuations produced by elementary charge carriers in
+external electric field. It is suggested that deviations of the frequency
+exponent \gamma from unity, observed in thin metal films, can be attributed to
+quantum backreaction of the conducting medium on the fluctuating field of the
+charge carrier. This backreaction is described phenomenologically in terms of
+the effective momentum space dimensionality, D. Using the dimensional
+continuation technique, it is shown that the combined action of the photon heat
+bath and external field results in a 1/f^gamma-contribution to the spectral
+density of the two-point correlation function of electromagnetic field. The
+frequency exponent is found to be equal to 1 + delta, where delta = 3 - D is a
+reduction of the momentum space dimensionality. This result is applied to the
+case of a biased conducting sample, and a general expression for the voltage
+power spectrum is obtained which possesses all characteristic properties of
+observed flicker noise spectra. The range of validity of this expression covers
+well the whole measured frequency band. Gauge independence of the power
+spectrum is proved. It is shown that the obtained results naturally resolve the
+problem of divergence of the total noise power. A detailed comparison with the
+experimental data on flicker noise measurements in metal films is given.

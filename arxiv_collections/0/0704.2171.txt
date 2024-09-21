@@ -1,0 +1,9 @@
+We study thermal Casimir and quantum non-retarded Lifshitz interactions
+between dielectrics in general geometries. We map the calculation of the
+classical partition function onto a determinant which we discretize and
+evaluate with the help of Cholesky factorization. The quantum partition
+function is treated by path integral quantization of a set of interacting
+dipoles and reduces to a product of determinants. We compare the approximations
+of pairwise additivity and proximity force with our numerical methods. We
+propose a ``factorization approximation'' which gives rather good numerical
+results in the geometries that we study.

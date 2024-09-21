@@ -1,0 +1,9 @@
+We predict $\sigma_{p{-}\rm air}^{\rm prod}$, the proton--air inelastic
+production cross section, at $pp$ center-of-mass energies $2\le\sqrt s \le
+100000$ TeV, using high energy predictions from a saturated Froissart bound
+parameterization of accelerator data on forward $\bar pp$ and $pp$ scattering
+amplitudes, together with Glauber theory. The parameterization of the $\bar pp$
+and $pp$ cross sections incorporates analyticity constraints and unitarity,
+allowing accurate extrapolations to ultra-high energies. Our predictions are in
+excellent agreement with cosmic ray extensive air shower measurements, both in
+magnitude and in energy dependence

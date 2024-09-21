@@ -1,0 +1,6 @@
+We investigate the space of N x N dimensional density matrices. We show that
+there exist strata such that boundary states \rho_{p} with p zero eigenvalues
+lie on or outside the spheres with radii r_{p}=\sqrt{p/N(N-p)}. Moreover, we
+show that if in a certain direction there is a boundary state with q=N-p equal
+eigenvalues, then in the opposite (antipodean) direction exists a boundary
+state with p=N-q equal eigenvalues.

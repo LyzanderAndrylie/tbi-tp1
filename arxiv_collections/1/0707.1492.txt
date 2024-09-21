@@ -1,0 +1,12 @@
+Using density functional theory calculations we investigate the electronic
+structure of graphene doped by deposition of foreign atoms. We demonstrate
+that, as the charge transfer to the graphene layer increases, the band
+structure of the pristine graphene sheet is substantially affected. This is
+particularly relevant when Ca atoms are deposed on graphene at CaC$_{6}$
+stoichiometry. Similarly to what happens in superconducting graphite
+intercalated compounds, a Ca bands occurs at the Fermi level. Its hybridization
+with the C states generates a strong non-linearity in one of the $\pi^{*}$
+bands below the Fermi level, at energies comparable to the graphene E$_{2g}$
+phonon frequency. This strong non-linearity, and not manybody effects as
+previously proposed, explains the large and anisotropic values of the apparent
+electron-phonon coupling measured in angular resolved photoemission.

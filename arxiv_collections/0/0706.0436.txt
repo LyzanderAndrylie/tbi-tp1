@@ -1,0 +1,12 @@
+The dynamics of temperature fluctuations of a gas of Brownian particles in
+local equilibrium with a nonequilibrium heat bath, are described using an
+approach consistent with Boltzmann-Gibbs statistics (BG). We use mesoscopic
+nonequilibrium thermodynamics (MNET) to derive a Fokker-Planck equation for the
+probability distribution in phase space including the local intensive variables
+fluctuations. We contract the description to obtain an effective probability
+distribution (EPD) from which the mass density, van Hove's function and the
+dynamic structure factor of the system are obtained. The main result is to show
+that in the long time limit the EPD exhibits a similar behavior as the
+superstatistics distribution of nonextensive statistical mechanics (NESM),
+therfore implying that the coarse-graining procedure is responsible for the so
+called nonextensive effects.

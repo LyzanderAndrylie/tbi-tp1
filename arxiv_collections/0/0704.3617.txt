@@ -1,0 +1,23 @@
+We present an atlas of the central regions of 75 Seyfert galaxies imaged in
+the near-UV with the Advanced Camera for Surveys of the Hubble Space Telescope
+at an average resolution of ~10pc. These data complement archival high
+resolution data from the Space Telescope at optical and near-IR wavelengths,
+creating an extremely valuable dataset for astronomers with a broad range of
+scientific interests. Our goal is to investigate the nature of the near-UV
+light in these objects, its relation to the circumnuclear starburst phenomenon,
+and the connection of this to the evolution and growth of the galaxy bulge and
+central black hole. In this paper, we describe the near-UV morphology of the
+objects and characterize the near-UV emission. We estimate the size and the
+luminosity of the emitting regions and extract the luminosity profile. We also
+determine the presence of unresolved compact nuclei. In addition, the
+circumnuclear stellar cluster population is identified, and the contribution of
+the stellar clusters to the total light, at this wavelength, is estimated. The
+size of the sample allows us to draw robust statistical conclusions. We find
+that {Seyfert 1} galaxies are completely dominated by its bright and compact
+nucleus, that remains point-like at this resolution, while we find almost no
+unresolved nucleus in Seyfert 2. The Seyfert types 1 and 2 are quite segregated
+in an asymmetry vs compactness plot. Stellar clusters are found somewhat more
+frequently in Sy2 (in ~70% of the galaxies) than in Sy1 (~57%), and contribute
+more to the total light in Sy2, but this two differences seem to be mostly due
+to the large contribution of the compact nucleus in Sy1, as the luminosity
+distribution of the clusters is similar in both Sy types.

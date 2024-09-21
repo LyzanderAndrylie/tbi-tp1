@@ -1,0 +1,16 @@
+Water molecules play a fundamental role in the physics of slow crack
+propagation in glasses. It is commonly understood that, during
+stress-corrosion, water molecules that move in the crack cavity effectively
+reduce the bond strength at the strained crack tip and, thus, support crack
+propagation. Yet the details of the environmental condition at the crack tip in
+moist air are not well determined. In a previous work, we reported direct
+evidence of the presence of a 100 nm long liquid condensate at the crack tip in
+fused silica glass during very slow crack propagation (10^-9 to 10^-10 m/s).
+These observations are based on in-situ AFM phase imaging techniques applied on
+DCDC glass specimens in controlled atmosphere. Here, we discuss the physical
+origin of the AFM phase contrast between the liquid condensate and the glass
+surface in relation to tip-sample adhesion induced by capillary bridges. We
+then report new experimental data on the water condensation length increase
+with relative humidity in the atmosphere. The measured condensation lengths
+were much larger than what predicted using the Kelvin equation and expected
+geometry of the crack tip.

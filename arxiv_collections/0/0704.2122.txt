@@ -1,0 +1,4 @@
+We report the first nonadditive quantum error-correcting code, namely, a
+$((9,12,3))$ code which is a 12-dimensional subspace within a 9-qubit Hilbert
+space, that outperforms the optimal stabilizer code of the same length by
+encoding more levels while correcting arbitrary single-qubit errors.

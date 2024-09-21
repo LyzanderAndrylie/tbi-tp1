@@ -1,0 +1,7 @@
+We present here a study on the determination of the effective weak mixing
+angle, $\sin^{2}\theta^{lept}_{eff}$ from the measurement of the
+Forward-Backward Asymmetry with a high a statistical precision, 10$^{-4}$. To
+reach such a precision it is necessary to identify the electrons in the forward
+regions of the ATLAS detector. It is demonstrated that one can reach an
+electron-jet rejection of more than 100 with an efficiency on electron
+reconstruction better than 50%, by using a multivariate analysis.

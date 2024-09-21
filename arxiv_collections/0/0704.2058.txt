@@ -1,0 +1,21 @@
+Stereoscopic spectral imaging is an observing technique that affords rapid
+acquisition of limited spectral information over an entire image plane
+simultaneously. Light from a telescope is dispersed into multiple spectral
+orders, which are imaged separately, and two or more of the dispersed images
+are combined using an analogy between the (x,y,\lambda) spectral data space and
+conventional (x,y,z) three-space. Because no photons are deliberately destroyed
+during image acquisition, the technique is much more photon-efficient in some
+observing regimes than existing techniques such as scanned-filtergraph or
+scanned-slit spectral imaging. Hybrid differential stereoscopy, which uses a
+combination of conventional cross-correlation stereoscopy and linear
+approximation theory to extract the central wavelength of a spectral line, has
+been used to produce solar Stokes-V (line-of-sight) magnetograms in the 617.34
+nm Fe I line, and more sophisticated inversion techniques are currently being
+used to derive Doppler and line separation data from EUV images of the solar
+corona collected in the neighboring lines of He-II and Si-XI at 30.4 nm. In
+this paper we develop an analytic a priori treatment of noise in the line shift
+signal derived from hybrid differential stereoscopy. We use the analysis to
+estimate the noise level and measurement precision in a high resolution solar
+magnetograph based on stereoscopic spectral imaging, compare those estimates to
+a test observation made in 2003, and discuss implications for future
+instruments.

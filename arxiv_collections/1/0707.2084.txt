@@ -1,0 +1,9 @@
+We study a quantum phase transition between a phase which is topologically
+ordered and one which is not. We focus on a spin model, an extension of the
+toric code, for which we obtain the exact ground state for all values of the
+coupling constant that takes the system across the phase transition. We compute
+the entanglement and the topological entropy of the system as a function of
+this coupling constant, and show that the topological entropy remains constant
+all the way up to the critical point, and jumps to zero beyond it. Despite the
+jump in the topological entropy, the transition is second order as detected via
+any local observable.

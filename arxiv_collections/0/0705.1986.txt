@@ -1,0 +1,11 @@
+We show that the absolute worst case time complexity for Hopcroft's
+minimization algorithm applied to unary languages is reached only for de Bruijn
+words. A previous paper by Berstel and Carton gave the example of de Bruijn
+words as a language that requires O(n log n) steps by carefully choosing the
+splitting sets and processing these sets in a FIFO mode. We refine the previous
+result by showing that the Berstel/Carton example is actually the absolute
+worst case time complexity in the case of unary languages. We also show that a
+LIFO implementation will not achieve the same worst time complexity for the
+case of unary languages. Lastly, we show that the same result is valid also for
+the cover automata and a modification of the Hopcroft's algorithm, modification
+used in minimization of cover automata.

@@ -1,0 +1,8 @@
+Searching for a Lagrangian may seem either a trivial endeavour or an
+impossible task. In this paper we show that the Jacobi last multiplier
+associated with the Lie symmetries admitted by simple models of classical
+mechanics produces (too?) many Lagrangians in a simple way. We exemplify the
+method by such a classic as the simple harmonic oscillator, the harmonic
+oscillator in disguise [H Goldstein, {\it Classical Mechanics}, 2nd edition
+(Addison-Wesley, Reading, 1980)] and the damped harmonic oscillator. This is
+the first paper in a series dedicated to this subject.

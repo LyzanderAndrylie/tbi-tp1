@@ -1,0 +1,7 @@
+In this paper we derive the equations for Loop Corrected Belief Propagation
+on a continuous variable Gaussian model. Using the exactness of the averages
+for belief propagation for Gaussian models, a different way of obtaining the
+covariances is found, based on Belief Propagation on cavity graphs. We discuss
+the relation of this loop correction algorithm to Expectation Propagation
+algorithms for the case in which the model is no longer Gaussian, but slightly
+perturbed by nonlinear terms.

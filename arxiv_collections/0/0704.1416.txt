@@ -1,0 +1,5 @@
+We study a three dimensional Z(3)-symmetric effective theory of high
+temperature QCD. The exact lattice-continuum relations, needed in order to
+perform lattice simulations with physical parameters, are computed to order
+O(a^0) in lattice perturbation theory. Lattice simulations are performed to
+determine the phase structure of a subset of the parameter space.

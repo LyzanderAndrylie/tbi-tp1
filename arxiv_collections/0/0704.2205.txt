@@ -1,0 +1,15 @@
+With the use of the AdS/CFT dictionary, a five-dimensional effective
+description of dynamical electro-weak symmetry breaking with walking behavior
+is constructed. The minimal model contains only two new parameters, the
+confinement scale and the effective coupling of the new strong sector. This
+parameter space is restricted by the precision electro-weak constraints and by
+the requirement that the five-dimensional coupling be perturbative
+(corresponding to the large-N regime in four-dimensional language). The
+lightest observable new states are a set of four nearly degenerate spin-1
+states with the same quantum numbers as the standard-model electro-weak gauge
+bosons, and masses in the few TeV range. Their decay rate is dominated by
+two-fermion final states. The number of pp -> mu mu and pp -> mu nu events is
+studied as a function of the LHC integrated luminosity and of the two free
+parameters. Discovery at the LHC is possible over a significant part of the
+allowed parameter space up to masses of 4 TeV already with 10/fm of integrated
+luminosity.

@@ -1,0 +1,19 @@
+Building on work by Florens and Georges, we formulate and study a
+self-consistent slave rotor mean field theory for strongly correlated systems.
+This approach views the electron, in the strong correlation regime, as a
+composite of a neutral spinon and a charged rotor field. We solve the coupled
+spinon-rotor model self-consistently using a cluster mean field theory for the
+rotors and various ansatzes for the spinon ground state. We illustrate this
+approach with a number of examples relevant to ongoing experiments in strongly
+correlated electronic systems such as: (i) the phase diagram of the isotropic
+triangular lattice organic Mott insulators, (ii) quasiparticle excitations and
+tunneling asymmetry in the weakly doped cuprate superconductors, and (iii) the
+cyclotron mass of carriers in commensurate spin-density wave and U(1) staggered
+flux (or d-density wave) normal states of the underdoped cuprates. We compare
+the estimated cyclotron mass with results from recent quantum oscillation
+experiments on ortho-II YBCO by N. Doiron-Leyraud et al (Nature 447, 565
+[2007]) which appear to find hole pockets in the magnetic field induced normal
+state. We comment on the relation of this normal ground state to Fermi arcs
+seen in photoemission experiments above Tc. This slave rotor mean field theory
+can be generalized to study inhomogeneous states and strongly interacting
+models relevant to ultracold atoms in optical lattices.

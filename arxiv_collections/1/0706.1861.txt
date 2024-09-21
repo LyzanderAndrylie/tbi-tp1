@@ -1,0 +1,12 @@
+In this paper, we introduce a method of imposing asymmetric conditions on the
+velocity vector with respect to independent variables and a method of moving
+frame for solving the three dimensional Navier-Stokes equations. Seven families
+of non-steady rotating asymmetric solutions with various parameters are
+obtained. In particular, one family of solutions blow up at any point on a
+moving plane with a line deleted, which may be used to study turbulence. Using
+Fourier expansion and two families of our solutions, one can obtain
+discontinuous solutions that may be useful in study of shock waves. Another
+family of solutions are partially cylindrical invariant, contain two parameter
+functions of $t$ and structurally depend on two arbitrary polynomials, which
+may be used to describe incompressible fluid in a nozzle. Most of our solutions
+are globally analytic with respect to spacial variables.

@@ -1,0 +1,14 @@
+We present the most successful infrared cloud monitor for a robotic
+telescope. This system was originally developed for the MAGNUM 2-m telescope,
+which has been achieving unmanned and automated monitoring observation of
+active galactic nuclei at Haleakala on the Hawaiian island of Maui since 2001.
+Using a thermal imager and two aspherical mirrors, it at once sees almost the
+whole sky at a wavelength of $\lambda\sim 10\mu{\rm m}$. Its outdoor part is
+weather-proof and is totally maintenance-free. The images obtained every one or
+two minutes are analysed immediately into several ranks of weather condition,
+from which our automated observing system not only decides to open or close the
+dome, but also selects what types of observations should be done. The whole-sky
+data accumulated over four years show that 50$-$60 % of all nights are
+photometric, and about 75 % are observable with respect to cloud condition at
+Haleakala. Many copies of this system are now used all over the world such as
+Mauna Kea in Hawaii, Atacama in Chile, and Okayama and Kiso in Japan.

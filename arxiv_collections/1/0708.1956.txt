@@ -1,0 +1,6 @@
+A quantum superposition of two coherent states of light with small amplitude
+can be obtained by subtracting a photon from a squeezed vacuum state. In
+experiments this preparation can be made conditioned on the detection of a
+photon in the field from a squeezed light source. We propose and analyze an
+extended measurement strategy which allows generation of high fidelity coherent
+state superpositions with larger amplitude.

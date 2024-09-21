@@ -1,0 +1,7 @@
+We report high-bandwidth charge sensing measurements using a GaAs quantum
+point contact embedded in a radio frequency impedance matching circuit
+(rf-QPC). With the rf-QPC biased near pinch-off where it is most sensitive to
+charge, we demonstrate a conductance sensitivity of 5x10^(-6) e^(2)/h Hz^(-1/2)
+with a bandwidth of 8 MHz. Single-shot readout of a proximal few-electron
+double quantum dot is investigated in a mode where the rf-QPC back-action is
+rapidly switched.

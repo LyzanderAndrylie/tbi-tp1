@@ -1,0 +1,19 @@
+In recent years, intensive effort has gone into developing numerical tools
+for exact quantum mechanical calculations that are based on Bohmian mechanics.
+As part of this effort we have recently developed as alternative formulation of
+Bohmian mechanics in which the quantum action, S, is taken to be complex [JCP
+{125}, 231103 (2006)]. In the alternative formulation there is a significant
+reduction in the magnitude of the quantum force as compared with the
+conventional Bohmian formulation, at the price of propagating complex
+trajectories. In this paper we show that Bohmian mechanics with complex action
+is able to overcome the main computational limitation of conventional Bohmian
+methods -- the propagation of wavefunctions once nodes set in. In the vicinity
+of nodes, the quantum force in conventional Bohmian formulations exhibits rapid
+oscillations that pose severe difficulties for existing numerical schemes. We
+show that within complex Bohmian mechanics, multiple complex initial conditions
+can lead to the same real final position, allowing for the description of nodes
+as a sum of the contribution from two or more crossing trajectories. The idea
+is illustrated on the reflection amplitude from a one-dimensional Eckart
+barrier. We believe that trajectory crossing, although in contradiction to the
+conventional Bohmian trajectory interpretation, provides an important new tool
+for dealing with the nodal problem in Bohmian methods.

@@ -1,0 +1,6 @@
+The Schelling model of 1971 is a complicated version of a square-lattice
+Ising model at zero temperature, to explain urban segregation, based on the
+neighbour preferences of the residents, without external reasons. Various
+versions between Ising and Schelling models give about the same results.
+Inhomogeneous "temperatures" T do not change the results much, while a feedback
+between segregation and T leads to a self-organisation of an average T.

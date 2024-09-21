@@ -1,0 +1,9 @@
+Point defect migration is considered as a mechanism for aging in
+ferroelectrics. Numerical results are given for the coupled problems of point
+defect migration and electrostatic energy relaxation in a 2D domain
+configuration. The peak values of the clamping pressure at domain walls are in
+the range of $10^6$ Pa, which corresponds to macroscopically observed coercive
+stresses in perovskite ferroelectrics. The effect is compared to mechanisms
+involving orientational reordering of defect dipoles in the bulk of domains.
+Domain clamping is significantly stronger in the drift mechanism than in the
+orientational picture for the same material parameters.

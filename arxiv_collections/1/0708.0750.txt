@@ -1,0 +1,4 @@
+A class of deformations of the q-quantum gravity loop algebra is shown to be
+incompatible with the combinatorics of Temperley-Lieb recoupling theory with
+deformation parameter at a root of unity. This incompatibility appears to
+extend to more general deformation parameters.

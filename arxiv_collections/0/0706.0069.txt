@@ -1,0 +1,11 @@
+We study which and how a periodic orbit in phase space links to both the
+largest Lyapunov exponent and the expectation values of macroscopic variables
+in a Hamiltonian system with many degrees of freedom. The model which we use in
+this paper is the discrete nonlinear Schr\"odinger equation. Using a method
+based on the modulational estimate of a periodic orbit, we predict the largest
+Lyapunov exponent and the expectation value of a macroscopic variable. We show
+that (i) the predicted largest Lyapunov exponent generally depends on the
+periodic orbit which we employ, and (ii) the predicted expectation value of the
+macroscopic variable does not depend on the periodic orbit at least in a high
+energy regime. In addition, the physical meanings of these dependencies are
+considered.

@@ -1,0 +1,12 @@
+In this paper the travelling wave solutions in the adiabatic model with
+two-step chain branching reaction mechanism are investigated both numerically
+and analytically in the limit of equal diffusivity of reactant, radicals and
+heat. The properties of these solutions and their stability are investigated in
+detail. The behaviour of combustion waves are demonstrated to have similarities
+with the properties of nonadiabatic one-step combustion waves in that there is
+a residual amount of fuel left behind the travelling waves and the solutions
+can exhibit extinction. The difference between the nonadiabatic one-step and
+adiabatic two-step models is found in the behaviour of the combustion waves
+near the extinction condition. It is shown that the flame velocity drops down
+to zero and a standing combustion wave is formed as the extinction condition is
+reached. Prospects of further work are also discussed.

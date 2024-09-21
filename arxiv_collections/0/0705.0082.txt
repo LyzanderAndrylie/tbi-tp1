@@ -1,0 +1,8 @@
+We construct and study a previously defined quantum holographic effective
+action whose critical equation implies the holographic loop equation of large-N
+QCD_4 for planar self-avoiding loops in a certain regularization scheme. We
+extract from the effective action the exact beta function in the given scheme.
+For the Wilsonean coupling constant the beta function is exacly one loop and
+the first coefficient agrees with its value in perturbation theory. For the
+canonical coupling constant the exact beta function has a NSVZ form and the
+first two coefficients agree with their value in perturbation theory.

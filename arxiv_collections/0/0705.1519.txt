@@ -1,0 +1,10 @@
+In 1986, the second author classified the minimal clones on a finite universe
+into five types. We extend this classification to infinite universes and to
+multiclones. We show that every non-trivial clone contains a "small" clone of
+one of the five types. From it we deduce, in part, an earlier result, namely
+that if $\mathcal C$ is a clone on a universe $A$ with at least two elements,
+that contains all constant operations, then all binary idempotent operations
+are projections and some $m$-ary idempotent operation is not a projection some
+$m\geq 3$ if and only if there is a Boolean group $G$ on $A$ for which
+$\mathcal C$ is the set of all operations $f(x_1,..., x_n)$ of the form
+$a+\sum_{i\in I}x_i$ for $a\in A$ and $I\subseteq \{1,..., n\}$.

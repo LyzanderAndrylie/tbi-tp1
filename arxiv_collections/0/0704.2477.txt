@@ -1,0 +1,12 @@
+The widely used large-scale diagonalization method using harmonic oscillator
+basis functions (an instance of the Rayleigh-Ritz method, also called a
+spectral method, configuration-interaction method, or ``exact diagonalization''
+method) is systematically analyzed using results for the convergence of Hermite
+function series. We apply this theory to a Hamiltonian for a one-dimensional
+model of a quantum dot. The method is shown to converge slowly, and the
+non-smooth character of the interaction potential is identified as the main
+problem with the chosen basis, while on the other hand its important advantages
+are pointed out. An effective interaction obtained by a similarity
+transformation is proposed for improving the convergence of the diagonalization
+scheme, and numerical experiments are performed to demonstrate the improvement.
+Generalizations to more particles and dimensions are discussed.

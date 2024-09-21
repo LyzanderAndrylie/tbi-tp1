@@ -1,0 +1,20 @@
+We present numerical magnetohydrostatic solutions describing the
+gravitationally stratified, bulk equilibrium of cool, dense prominence plasma
+embedded in a near-potential coronal field. These solutions are calculated
+using the FINESSE magnetohydrodynamics equilibrium solver and describe the
+morphologies of magnetic field distributions in and around prominences and the
+cool prominence plasma that these fields support. The equilibrium condition for
+this class of problem is usually different in distinct subdomains, separated by
+free boundaries, across which solutions are matched by suitable continuity or
+jump conditions describing force balance. We employ our precise finite element
+elliptic solver to calculate solutions not accessible by previous analytical
+techniques with temperature or entropy prescribed as free functions of the
+magnetic flux function, including a range of values of the polytropic index,
+temperature variations mainly across magnetic field lines and photospheric
+field profiles sheared close to the polarity inversion line. Out of the many
+examples computed here, perhaps the most noteworthy is one which reproduces
+precisely the three-part structure often encountered in observations: a cool
+dense prominence within a cavity/flux rope embedded in a hot corona. The
+stability properties of these new equilibria, which may be relevant to solar
+eruptions, can be determined in the form of a full resistive MHD spectrum using
+a companion hyperbolic stability solver.

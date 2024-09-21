@@ -1,0 +1,16 @@
+We extend to the first 300 Riemann zeros, the form of analysis reported by us
+in arXiv:math-ph/0606005, in which the largest study had involved the first 75
+zeros. Again, we model the nonsmooth fluctuating part of the Wu-Sprung
+potential, which reproduces the Riemann zeros, by the alternating-sign sine
+series fractal of Berry and Lewis A(x,g). Setting the fractal dimension equal
+to 3/2. we estimate the frequency parameter (g), plus an overall scaling
+parameter (s) introduced. We search for that pair of parameters (g,s) which
+minimizes the least-squares fit of the lowest 300 eigenvalues -- obtained by
+solving the one-dimensional stationary (non-fractal) Schrodinger equation with
+the trial potential (smooth plus nonsmooth parts) -- to the first 300 Riemann
+zeros. We randomly sample values within the rectangle 0 < s < 3, 0 < g < 25.
+The fits obtained are compared to those gotten by using simply the smooth part
+of the Wu-Sprung potential without any fractal supplementation. Some limited
+improvement is again found. There are two (primary and secondary) quite
+distinct subdomains, in which the values giving improvements in fit are
+concentrated.

@@ -1,0 +1,15 @@
+We study the propagation of nucleons and nuclei in tissue-like media within a
+Monte Carlo Model for Heavy-ion Therapy (MCHIT) based on the GEANT4 toolkit
+(version 8.2). The model takes into account fragmentation of projectile nuclei
+and secondary interactions of produced nuclear fragments. Model predictions are
+validated with available experimental data obtained for water and PMMA phantoms
+irradiated by monoenergetic carbon-ion beams. The MCHIT model describes well
+(1) the depth-dose distributions in water and PMMA, (2) the doses measured for
+fragments of certain charge, (3) the distributions of positron emitting nuclear
+fragments produced by carbon-ion beams, and (4) the energy spectra of secondary
+neutrons measured at different angles to the beam direction. Radial dose
+profiles for primary nuclei and for different projectile fragments are
+calculated and discussed as possible input for evaluation of biological dose
+distributions. It is shown that at the periphery of the transverse dose profile
+close to the Bragg peak the dose from secondary nuclear fragments is comparable
+to the dose from primary nuclei.

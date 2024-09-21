@@ -1,0 +1,9 @@
+Using time-dependent density-functional theory we calculate from first
+principles the rate of energy transfer from a moving proton or antiproton to
+the electrons of an insulating material, LiF. The behavior of the electronic
+stopping power versus projectile velocity displays an effective threshold
+velocity of ~0.2 a.u. for the proton, consistent with recent experimental
+observations, and also for the antiproton. The calculated proton/antiproton
+stopping-power ratio is ~2.4 at velocities slightly above the threshold (v~0.4
+a.u.), as compared to the experimental value of 2.1. The projectile energy loss
+mechanism is observed to be stationary and extremely local.

@@ -1,0 +1,14 @@
+The HERMES experiment has measured the transverse polarization of Lambda and
+Lambda-bar hyperons produced inclusively in quasireal photoproduction at a
+positron beam energy of 27.6 GeV. The transverse polarization of the Lambda
+hyperon is found to be positive while the observed Lambda-bar polarization is
+compatible with zero. The transverse polarization values averaged over the
+kinematic acceptance of HERMES are 0.078 +/- 0.006(stat) +/- 0.012(syst) and
+-0.025 +/- 0.015(stat) +/- 0.018(syst) for Lambda and Lambda-bar hyperons,
+respectively. The dependences of Lambda and Lambda-bar polarizations on the
+fraction $\zeta$ of the beam's light-cone momentum carried by the hyperon and
+on the hyperon's transverse momentum $p_T$ were investigated. The measured
+Lambda polarization rises linearly with $p_T$ and exhibits a different behavior
+for low and high values of $\zeta$, which approximately correspond to the
+backward and forward regions in the center-of-mass frame of the $\gamma^*N$
+reaction.

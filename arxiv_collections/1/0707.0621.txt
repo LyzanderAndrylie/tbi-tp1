@@ -1,0 +1,7 @@
+All-reflective interferometry based on nano-structured diffraction gratings
+offers new possibilities for gravitational wave detection. We investigate an
+all-reflective Fabry-Perot interferometer concept in 2nd order Littrow mount.
+The input-output relations for such a resonator are derived treating the
+grating coupler by means of a scattering matrix formalism. A low loss
+dielectric reflection grating has been designed and manufactured to test the
+properties of such a grating cavity.

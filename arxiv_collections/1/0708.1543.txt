@@ -1,0 +1,12 @@
+We analyze the Coulomb breakup cross sections of $^{11}$Li and $^6$He nuclei
+using a three-body model with a density-dependent contact interaction. We show
+that the concentration of the B(E1) strength near the threshold can be well
+reproduced with this model. With the help of the calculated B(E1) value, we
+extract the root-mean-square (rms) distance between the core nucleus and the
+center of mass of two valence neutrons without resorting to the sum rule, which
+may suffer from unphysical Pauli forbidden transitions. Together with the
+empirical rms distance between the neutrons obtained from the matter radius
+study and also from the three-body correlation study in the break-up reaction,
+we convert these rms distances to the mean opening angle between the valence
+neutrons from the core nucleus. We find that the obtained mean opening angles
+in $^{11}$Li and $^6$He agree with the three-body model predictions.

@@ -1,0 +1,9 @@
+We study the origin of the intrinsic spin Hall conductivity (SHC) and the
+d-orbital Hall conductivity (OHC) in Pt based on a multiorbital tight-binding
+model with spin-orbit interaction. We find that the SHC reaches 1000
+\hbar/e\Omega cm when the resistivity \rho is smaller than ~10 \mu\Omega cm,
+whereas it decreases to 300 \hbar/e\Omega cm when \rho ~ 100 \mu\Omega cm. In
+addition, the OHC is still larger than the SHC. The origin of huge SHE and OHE
+in Pt is the large ``effective magnetic flux'' that is induced by the
+interorbital transition between d_{xy}- and d_{x2-y2}-orbitals with the aid of
+the strong spin-orbit interaction.

@@ -1,0 +1,3 @@
+For bipartite graphs the NP-completeness is proved for the problem of
+existence of maximum matching which removal leads to a graph with given
+lower(upper)bound for the cardinality of its maximum matching.

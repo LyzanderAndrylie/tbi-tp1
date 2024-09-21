@@ -1,0 +1,19 @@
+The representation of the usual integral dispersion relations (IDR) of
+scattering theory through series of derivatives of the amplitudes is discussed,
+extended, simplified, and confirmed as mathematical identities. Forms of
+derivative dispersion relations (DDR) valid for the whole energy interval,
+recently obtained and presented as double infinite series, are simplified
+through the use of new sum rules of the incomplete $\Gamma$ functions, being
+reduced to single summations, where the usual convergence criteria are easily
+applied. For the forms of the imaginary amplitude used in phenomenology of
+hadronic scattering, we show that expressions for the DDR can represent, with
+absolute accuracy, the IDR of scattering theory, as true mathematical
+identities. Besides the fact that the algebraic manipulation can be easily
+understood, numerical examples show the accuracy of these representations up to
+the maximum available machine precision. As consequence of our work, it is
+concluded that the standard simplified forms sDDR, originally intended for the
+high energy limits, are an inconvenient and incomplete separation of terms of
+the full expression, leading to wrong evaluations. Since the correspondence
+between IDR and the DDR expansions is linear, our results have wide
+applicability, covering more general functions, built as combinations of well
+studied basic forms.

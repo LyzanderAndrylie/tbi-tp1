@@ -1,0 +1,5 @@
+We define a wall-crossing morphism for Khovanov-Rozansky homology; that is, a
+map between the KR homology of knots related by a crossing change. Using this
+map, we extend KR homology to an invariant of singular knots categorifying the
+Vasilliev derivative of the HOMFLY polynomial, and of $\mathfrak{sl}_n$ quantum
+invariants.

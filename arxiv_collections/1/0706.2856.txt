@@ -1,0 +1,12 @@
+Effects of disorder and valley polarization in graphene are investigated in
+the quantum Hall regime. We find anomalous localization properties for the
+lowest Landau level (LL), where disorder can induce wavefunction delocalization
+(instead of localization), both for white-noise and gaussian-correlated
+disorder. We quantitatively identify the contribution of each sublattice to
+wavefunction amplitudes. Following the valley (sublattice) polarization of
+states within LLs for increasing disorder we show: (i) valley mixing in the
+lowest LL is the main effect behind the observed anomalous localization
+properties, (ii) the polarization suppression with increasing disorder depends
+on the localization for the white-noise model, while, (iii) the disorder
+induces a partial polarization in the higher Landau levels for both disorder
+models.

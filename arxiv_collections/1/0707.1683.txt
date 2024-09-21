@@ -1,0 +1,12 @@
+The wireless network technology WiFi finds more and more applications in the
+industrial field as for the exchange of information between the people or the
+equipment. It has the advantage of allowing a great flexibility of the network
+but requires precautions of installation to be effective (flow,
+reliability...). The fitter of such a network must have knowledge to install
+and configure the materials (access points, wifi interface) but also of
+knowledge in propagation of electromagnetic waves which is the support of the
+transmission of data. The teaching of this technology requires practical works
+which must make it possible for the student to implement this knowledge. This
+article presents the various means of calculations which we implemented within
+the framework of practical works to allow the student to visualize and thus to
+better control the phenomena of propagation existing in a WiFI network.

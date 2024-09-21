@@ -1,0 +1,6 @@
+Cathodoluminescence measurements on single InGaN/GaN quantum dots (QDs) are
+reported. Complex spectra with up to five emission lines per QD are observed.
+The lines are polarized along the orthogonal crystal directions [1 1 -2 0] and
+[-1 1 0 0]. Realistic eight-band k.p electronic structure calculations show
+that the polarization of the lines can be explained by excitonic recombinations
+involving hole states which are either formed by the A or the B valence band.

@@ -1,0 +1,7 @@
+NMR spin echo measurements of C-13 in C60, Y-89 in Y2O3, and Si-29 in silicon
+are shown to defy conventional expectations when more that one pi pulse is
+used. Multiple pi-pulse echo trains may either freeze our or accelerate the
+decay of the signal, depending on the pi-pulse phase. Average Hamiltonian
+theory, combined with exact quantum calculations, reveals an intrinsic cause
+for these coherent phenomena: the dipolar coupling has a many-body effect
+during any real, finite pulse.

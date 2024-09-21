@@ -1,0 +1,22 @@
+Abridged: The thermal structure of a starless core is crucial for our
+understanding of the physics in these objects and hence for our understanding
+of star formation. Theory predicts a gas temperature drop in the inner 5000 AU
+of these objects, but there has been little observational proof of this. We
+performed VLA observations of the NH3 (1,1) and (2,2) transitions towards the
+pre-stellar core L 1544 in order to measure the temperature gradient between
+the high density core nucleus and the surrounding core envelope. Our VLA
+observation for the first time provide measurements of gas temperature in a
+core with a resolution smaller than 1000 AU. We have also obtained high
+resolution Plateau de Bure observations of the 110 GHz 111-101 para-NH2D line
+in order to further constrain the physical parameters of the high density
+nucleus. We have estimated the temperature gradient using a model of the source
+to fit our data in the u,v plane. We find that indeed the temperature decreases
+toward the core nucleus from 12 K down to 5.5 K resulting in an increase of a
+factor of 50% in the estimated density of the core from the dust continuum if
+compared with the estimates done with constant temperature of 8.75 K. We also
+found a remarkably high abundance of deuterated ammonia with respect to the
+ammonia abundance (50%+-20%), which proves the persistence of nitrogen bearing
+molecules at very high densities (2e6 cm-3) and shows that high-resolution
+observations yield higher deuteration values than single-dish observations. Our
+analysis of the NH3 and NH2D kinematic fields shows a decrease of specific
+angular momentum from the large scales to the small scales.

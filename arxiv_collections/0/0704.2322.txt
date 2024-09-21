@@ -1,0 +1,12 @@
+A consistent device model to describe current-voltage characteristics of
+metal/insulator/metal systems is developed. In this model the insulator and the
+metal electrodes are described within the same theoretical framework by using
+density of states distributions. This approach leads to differential equations
+for the electric field which have to be solved in a self consistent manner by
+considering the continuity of the electric displacement and the electrochemical
+potential in the complete system. The model is capable of describing the
+current-voltage characteristics of the metal/insulator/metal system in forward
+and reverse bias for arbitrary values of the metal/ insulator injection
+barriers. In the case of high injection barriers, approximations are provided
+offering a tool for comparison with experiments. Numerical calculations are
+performed exemplary using a simplified model of an organic semiconductor.

@@ -1,0 +1,6 @@
+A numerical technique is proposed for an efficient numerical determination of
+the average phase factor of the fermionic determinant continued to imaginary
+values of the chemical potential. The method is tested in QCD with eight
+flavors of dynamical staggered fermions. A direct check of the validity of
+analytic continuation is made on small lattices and a study of the scaling with
+the lattice volume is performed.

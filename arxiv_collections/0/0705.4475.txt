@@ -1,0 +1,24 @@
+We study the Stokes-Einstein (SE) and the Stokes-Einstein-Debye (SED)
+relations using molecular dynamics simulations of the extended simple point
+charge model of water. We find that both the SE and SED relations break down at
+low temperature. To explore the relationship between these breakdowns and
+dynamical heterogeneities (DH), we also calculate the SE and SED relations for
+subsets of the 7% ``fastest'' and 7% ``slowest'' molecules. We find that the SE
+and SED relations break down in both subsets, and that the breakdowns occur on
+all scales of mobility. Thus these breakdowns appear to be generalized
+phenomena, in contrast with the view where only the most mobile molecules are
+the origin of the breakdown of the SE and SED relations, embedded in an
+inactive background where these relations hold. At low temperature, the SE and
+SED relations in both subsets of molecules are replaced with ``fractional'' SE
+and SED relations, $D_t\sim(\tau/T)^{-\xi_t}$ and $D_r\sim(\tau/T)^{-\xi_r}$
+where $\xi_t\approx0.84<1$ and $\xi_r\approx0.75<1$. We also find that there is
+a decoupling between rotational and translational motion, and that this
+decoupling occurs in both fastest and slowest subsets of molecules. We also
+find that when the decoupling increases, upon cooling, the probability of a
+molecule being classified as both translationally and rotationally fastest also
+increases. To study the effect of time scale for SE and SED breakdown and
+decoupling, we introduce a time-dependent version of the SE and SED relations,
+and a time-dependent function that measures the extent of decoupling. Our
+results suggest that both the decoupling and SE and SED breakdowns are
+originated at the time scale corresponding to the end of the cage regime, when
+diffusion starts. This is also the time scale when the DH are more relevant.

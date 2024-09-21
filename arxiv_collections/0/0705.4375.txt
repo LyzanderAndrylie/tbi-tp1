@@ -1,0 +1,10 @@
+We present low-temperature scanning electron microscopy (LTSEM)
+investigations of superconducting microbridges made from ultrathin NbN films as
+used for hot electron bolometers. LTSEM probes the thermal structure within the
+microbridges under various dc current bias conditions, either via
+electron-beam-induced generation of an unstable hotspot, or via the
+beam-induced growth of a stable hotspot. Such measurements reveal
+inhomogeneities on a micron scale, which may be due to spatial variations in
+the NbN film or film-interface properties. Comparison with model calculations
+for the stable hotspot regime confirm the basic features of common hot spot
+models.

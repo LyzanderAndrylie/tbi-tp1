@@ -1,0 +1,18 @@
+Gaussian Quantum Monte Carlo (GQMC) is a stochastic phase space method for
+fermions with positive weights. In the example of the Hubbard model close to
+half filling it fails to reproduce all the symmetries of the ground state
+leading to systematic errors at low temperatures. In a previous work [Phys.
+Rev. B {\bf 72}, 224518 (2005)] we proposed to restore the broken symmetries by
+projecting the density matrix obtained from the simulation onto the ground
+state symmetry sector. For ground state properties, the accuracy of this method
+depends on a {\it large overlap} between the GQMC and exact density matrices.
+Thus, the method is not rigorously exact. We present the limits of the approach
+by a systematic study of the method for 2 and 3 leg Hubbard ladders for
+different fillings and on-site repulsion strengths. We show several indications
+that the systematic errors stem from non-vanishing boundary terms in the
+partial integration step in the derivation of the Fokker-Planck equation.
+Checking for spiking trajectories and slow decaying probability distributions
+provides an important test of the reliability of the results. Possible
+solutions to avoid boundary terms are discussed. Furthermore we compare results
+obtained from two different sampling methods: Reconfiguration of walkers and
+the Metropolis algorithm.

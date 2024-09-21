@@ -1,0 +1,11 @@
+Palatini variation of Jordan frame lagrangians gives an equation relating the
+dilaton to the object of non-metricity and hence the existence of the dilaton
+implies that the spacetime connection is more general than that given soley by
+the Christoffel symbol of general relativity. Transferring from Jordan to
+Einstein frame, which connection, lagrangian, field equations and stress
+conservation equations occur are discussed: it is found that the Jordan frame
+has more information, this can be expressed in several ways, the simplest is
+that the extra information corresponds to the function multiplying the Ricci
+scalar in the action. The Einstein frame has the advantages that stress
+conservation implies no currents and that the field equations are easier to
+work with. This is illustrated by application to Robertson-Walker spacetime.

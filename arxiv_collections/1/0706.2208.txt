@@ -1,0 +1,14 @@
+The role of curvature in relation with Lie algebra contractions of the
+pseudo-ortogonal algebras so(p,q) is fully described by considering some
+associated symmetrical homogeneous spaces of constant curvature within a
+Cayley-Klein framework. We show that a given Lie algebra contraction can be
+interpreted geometrically as the zero-curvature limit of some underlying
+homogeneous space with constant curvature. In particular, we study in detail
+the contraction process for the three classical Riemannian spaces (spherical,
+Euclidean, hyperbolic), three non-relativistic (Newtonian) spacetimes and three
+relativistic ((anti-)de Sitter and Minkowskian) spacetimes. Next, from a
+different perspective, we make use of quantum deformations of Lie algebras in
+order to construct a family of spaces of non-constant curvature that can be
+interpreted as deformations of the above nine spaces. In this framework, the
+quantum deformation parameter is identified as the parameter that controls the
+curvature of such "quantum" spaces.

@@ -1,0 +1,19 @@
+In a previous work (M. Campisi. Stud. Hist. Phil. M. P. 36 (2005) 275-290) we
+have addressed the mechanical foundations of equilibrium thermodynamics on the
+basis of the Generalized Helmholtz Theorem. It was found that the volume
+entropy provides a good mechanical analogue of thermodynamic entropy because it
+satisfies the heat theorem and it is an adiabatic invariant. This property
+explains the ``equal'' sign in Clausius principle ($S_f \geq S_i$) in a purely
+mechanical way and suggests that the volume entropy might explain the ``larger
+than'' sign (i.e. the Law of Entropy Increase) if non adiabatic transformations
+were considered. Based on the principles of microscopic (quantum or classical)
+mechanics here we prove that, provided the initial equilibrium satisfy the
+natural condition of decreasing ordering of probabilities, the expectation
+value of the volume entropy cannot decrease for arbitrary transformations
+performed by some external sources of work on a insulated system. This can be
+regarded as a rigorous quantum mechanical proof of the Second Law. We discuss
+how this result relates to the Minimal Work Principle and improves over
+previous attempts. The natural evolution of entropy is towards larger values
+because the natural state of matter is at positive temperature. Actually the
+Law of Entropy Decrease holds in artificially prepared negative temperature
+systems.

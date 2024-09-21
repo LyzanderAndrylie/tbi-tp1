@@ -1,0 +1,13 @@
+Using the same induction on energy argument in both frequency space and
+spatial space simultaneously as in \cite{CKSTT07}, \cite{RyV05} and
+\cite{Vi05}, we obtain global well-posedness and scattering of energy solutions
+of defocusing energy-critical nonlinear Hartree equation in $\mathbb{R}\times
+\mathbb{R}^n$($n\geq 5$), which removes the radial assumption on the data in
+\cite{MiXZ07a}. The new ingredients are that we use a modified long time
+perturbation theory to obtain the frequency localization (Proposition
+\ref{freqdelocaimplystbound} and Corollary \ref{frequencylocalization}) of the
+minimal energy blow up solutions, which can not be obtained from the classical
+long time perturbation and bilinear estimate and that we obtain the spatial
+concentration of minimal energy blow up solution after proving that
+$L^{\frac{2n}{n-2}}_x$-norm of minimal energy blow up solutions is bounded from
+below, the $L^{\frac{2n}{n-2}}_x$-norm is larger than the potential energy.

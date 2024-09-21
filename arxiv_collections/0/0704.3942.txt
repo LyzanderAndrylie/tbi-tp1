@@ -1,0 +1,14 @@
+We give a new separability criterion, a necessary condition for separability
+of $N$-partite quantum states. The criterion is based on the Bloch
+representation of a $N$-partite quantum state and makes use of multilinear
+algebra, in particular, the matrization of tensors. Our criterion applies to
+{\it arbitrary} $N$-partite quantum states in
+$\mathcal{H}=\mathcal{H}^{d_1}\otimes \mathcal{H}^{d_2} \otimes ... \otimes
+\mathcal{H}^{d_N}.$ The criterion can test whether a $N$-partite state is
+entangled and can be applied to different partitions of the $N$-partite system.
+We provide examples that show the ability of this criterion to detect
+entanglement. We show that this criterion can detect bound entangled states. We
+prove a sufficiency condition for separability of a 3-partite state,
+straightforwardly generalizable to the case $N > 3,$ under certain condition.
+We also give a necessary and sufficient condition for separability of a class
+of $N$-qubit states which includes $N$-qubit PPT states.

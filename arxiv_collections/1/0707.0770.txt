@@ -1,0 +1,7 @@
+We show that the conditional displacement operator $\hat{U}_{CD}=\exp
+[\hat{b}^{\dagger}\hat{b}(\beta \hat{a}^{\dagger}-\beta ^{\ast}\hat{a})]$
+acting upon an arbitrary state of traveling waves can be well approximated by
+the action of a Kerr medium placed between two beam splitters whose respective
+second ports are fed by highly excited coherent states. Applications to the
+generation of nonclassical states and measurement of Wigner function of
+arbitrary states are also considered.

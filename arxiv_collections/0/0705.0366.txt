@@ -1,0 +1,8 @@
+In a recent Letter (Phys. Rev. Lett. \textbf{98}, 083601 (2007),
+arXiv:cond-mat/0610804), O. Assaf and E. Akkermans claim that the angular
+correlations of the light intensity scattered by a cloud of cold atoms with
+internal degeneracy (Zeeman sublevels) of the ground state overcome the usual
+Rayleigh law. More precisely, they found that they become exponentially large
+with the size of the sample. In what follows, we will explain why their results
+are wrong and, in contrary, why the internal degeneracy leads to lower
+intensity correlations.

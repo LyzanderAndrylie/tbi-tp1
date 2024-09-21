@@ -1,0 +1,19 @@
+We study field theories on the noncommutative Minkowski space with
+noncommuting time. The focus lies on dispersion relations in quantized
+interacting models in the Yang-Feldman formalism. In particular, we compute the
+two-point correlation function of the field strength in noncommutative quantum
+electrodynamics to second order. At this, we take into account the covariant
+coordinates that allow the construction of local gauge invariant quantities
+(observables). It turns out that this does not remove the well-known severe
+infrared problem, as one might have hoped. Instead, things become worse, since
+nonlocal divergences appear. We also show that these cancel in a supersymmetric
+version of the theory if the covariant coordinates are adjusted accordingly.
+  Furthermore, we study the phi^3 and the Wess-Zumino model and show that the
+distortion of the dispersion relations is moderate for parameters typical for
+the Higgs field. We also disuss the formulation of gauge theories on
+noncommutative spaces and study classical electrodynamics on the noncommutative
+Minkowski space using covariant coordinates. In particular, we compute the
+change of the speed of light due to nonlinear effects in the presence of a
+background field. Finally, we examine the so-called twist approach to quantum
+field theory on the noncommutative Minkowski space and point out some
+conceptual problems of this approach.

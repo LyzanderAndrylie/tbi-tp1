@@ -1,0 +1,4 @@
+Some problems of the quantum error-correcting codes theory can be reduced to
+the investigation of the higher-rank numerical ranges of the operators related
+to the error operators. We constructively verify a conjecture on the structure
+of higher-rank numerical range for unitary matrices.

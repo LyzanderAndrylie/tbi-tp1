@@ -1,0 +1,14 @@
+We produce a new family of polynomials f(x) over fields K of characteristic 2
+which are exceptional, in the sense that f(x)-f(y) has no absolutely
+irreducible factors in K[x,y] besides the scalar multiples of x-y; when K is
+finite, this condition is equivalent to saying there are infinitely many finite
+extensions L/K for which the map c --> f(c) is bijective on L. Our polynomials
+have degree (2^e-1)*2^(e-1), where e is odd. Combined with our previous paper
+arxiv:0707.1835, this completes the classification of indecomposable
+exceptional polynomials of degree not a power of the characteristic. The
+strategy of our proof is to identify the curves that can arise as the Galois
+closure of the branched cover P^1 --> P^1 induced by an exceptional polynomial
+f. In this case, the curves turn out to be x^(q+1)+y^(q+1)=a+T(xy), where
+T(z)=z^(q/2)+z^(q/4)+...+z. Our proofs rely on new properties of ramification
+in Galois covers of curves, as well as the computation of the automorphism
+groups of all curves in a certain 2-parameter family.

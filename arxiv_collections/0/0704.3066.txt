@@ -1,0 +1,8 @@
+Impedance measurements provide a useful probe of the physics of bolometers
+and calorimeters. We describe a method for measuring the complex impedance of
+these devices. In previous work, stray impedances and readout electronics of
+the measurement apparatus have resulted in artifacts in the impedance data. The
+new technique allows experimenters to find an independent Thevenin or Norton
+equivalent circuit for each frequency. This method allows experimenters to
+easily isolate the device impedance from the effects of parasitic impedances
+and frequency dependent gains in amplifiers.

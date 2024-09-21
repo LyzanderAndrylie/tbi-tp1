@@ -1,0 +1,14 @@
+The potential of graphene-based materials consisting of one or a few layers
+of graphite for integrated electronics originates from the large
+room-temperature carrier mobility in these systems (approx. 10,000 cm2/Vs).
+However, the realization of electronic devices such as field-effect transistors
+will require controlling and even switching off the electrical conductivity by
+means of gate electrodes, which is made difficult by the absence of a bandgap
+in the intrinsic material. Here, we demonstrate the controlled induction of an
+insulating state - with large suppression of the conductivity - in bilayer
+graphene, by using a double-gate device configuration that allows an electric
+field to be applied perpendicular to the plane. The dependence of the
+resistance on temperature and electric field, and the absence of any effect in
+a single-layer device, strongly suggest that the gate-induced insulating state
+originates from the recently predicted opening of a bandgap between valence and
+conduction bands.

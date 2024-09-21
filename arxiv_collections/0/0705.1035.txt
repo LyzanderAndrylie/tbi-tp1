@@ -1,0 +1,7 @@
+We describe the equivariant Chow ring of the wonderful compactification $X$
+of a symmetric space of minimal rank, via restriction to the associated toric
+variety $Y$. Also, we show that the restrictions to $Y$ of the tangent bundle
+$T_X$ and its logarithmic analogue $S_X$ decompose into a direct sum of line
+bundles. This yields closed formulae for the equivariant Chern classes of $T_X$
+and $S_X$, and, in turn, for the Chern classes of reductive groups considered
+by Kiritchenko.

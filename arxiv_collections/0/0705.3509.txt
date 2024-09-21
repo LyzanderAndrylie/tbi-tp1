@@ -1,0 +1,6 @@
+A simple regression analysis designed for predicting the supermassive black
+hole mass from the effective radius and mean effective surface brightness of
+the host bulge has been performed using the data from Barway & Kembhavi
+(arXiv:0705.1508). The scatter in the log M_bh direction is 0.32 dex, greater
+than reported and comparable with values obtained using a single predictor
+quantity such as luminosity, velocity dispersion or Sersic index.

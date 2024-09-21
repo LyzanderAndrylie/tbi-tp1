@@ -1,0 +1,7 @@
+We show that the Gauss-Bonnet term can have physical effects in four
+dimensions. Specifically, the entropy of a black hole acquires a correction
+that is proportional to the Euler characteristic of the cross sections of the
+horizon. While this term is constant for a single black hole, it will be a
+non-trivial function for a system with dynamical topologies such as black-hole
+mergers: it is shown that for certain values of the GB parameter, the second
+law of black-hole mechanics can be violated.

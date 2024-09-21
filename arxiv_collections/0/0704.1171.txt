@@ -1,0 +1,7 @@
+We investigate a ring of $N$ FitzHugh--Nagumo elements coupled in
+\emph{phase-repulsive} fashion and submitted to a (subthreshold) common
+oscillatory signal and independent Gaussian white noises. This system can be
+regarded as a reduced version of the one studied in [Phys. Rev. E \textbf{64},
+041912 (2001)], although externally forced and submitted to noise. The
+noise-sustained synchronization of the system with the external signal is
+characterized.

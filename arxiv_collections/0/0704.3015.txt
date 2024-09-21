@@ -1,0 +1,7 @@
+We describe a surface force apparatus designed to probe the rheology of a
+nanoconfined medium under large shear amplitudes (up to 500 $\mu$m). The
+instrument can be operated in closed-loop, controlling either the applied
+normal load or the thickness of the medium during shear experiments. Feedback
+control allows to greatly extend the range of confinement/shear strain
+attainable with the surface force apparatus. The performances of the instrument
+are illustrated using hexadecane as the confined medium.

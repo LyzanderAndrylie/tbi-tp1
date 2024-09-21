@@ -1,0 +1,7 @@
+In this paper, we have explained transverse electro-optic effect by
+quantum-photonic model (QPM). This model interpret this effect by
+photon-electron interaction in attosecond regime. We simulate applied electric
+field on molecule and crystal by Monte-Carlo method in time domain when a light
+beam is propagated through the waveguide. We show how the waveguide response to
+an optical signal with different wavelengths when a transverse electric field
+applied to the waveguide.

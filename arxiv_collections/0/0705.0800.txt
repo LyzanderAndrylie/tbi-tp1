@@ -1,0 +1,10 @@
+Two-photon decay rates in simple atoms such as hydrogenlike systems represent
+rather interesting fundamental problems in atomic physics. The sum of the
+energies of the two emitted photons has to fulfill an energy conservation
+condition, the decay takes place via intermediate virtual states, and the total
+decay rate is obtained after an integration over the energy of one of the
+emitted photons. Here, we investigate cases with a virtual state having an
+energy intermediate between the initial and the final state of the decay
+process, and we show that due to non-uniform convergence, only a careful
+treatment of the singularities infinitesimally displaced from the photon
+integration contour leads to consistent and convergent results.

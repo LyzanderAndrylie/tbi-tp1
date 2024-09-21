@@ -1,0 +1,10 @@
+We study the critical collapse of a massless scalar field with angular
+momentum in spherical symmetry. In order to mimic the effects of angular
+momentum we perform a sum of the stress-energy tensors for all the scalar
+fields with the same eigenvalue, l, of the angular momentum operator and
+calculate the equations of motion for the radial part of these scalar fields.
+We have found that the critical solutions for different values of l are
+discretely self-similar (as in the original l=0 case). The value of the
+discrete, self-similar period, Delta_l, decreases as l increases in such a way
+that the critical solution appears to become periodic in the limit. The mass
+scaling exponent, gamma_l, also decreases with l.

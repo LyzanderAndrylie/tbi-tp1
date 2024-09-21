@@ -1,0 +1,12 @@
+I apply a two-step density-matrix renormalization group method to the
+anisotropic two-dimensional Hubbard model. As a prelude to this study, I
+compare the numerical results to the exact one for the tight-binding model. I
+find a ground-state energy which agrees with the exact value up to four digits
+for systems as large as $24 \times 25$. I then apply the method to the
+interacting case. I find that for strong Hubbard interaction, the ground-state
+is dominated by magnetic correlations.
+  These correlations are robust even in the presence of strong frustration.
+Interchain pair tunneling is negligible in the singlet and triplet channels and
+it is not enhanced by frustration. For weak Hubbard couplings, interchain
+non-local singlet pair tunneling is enhanced and magnetic correlations are
+strongly reduced. This suggests a possible superconductive ground state.

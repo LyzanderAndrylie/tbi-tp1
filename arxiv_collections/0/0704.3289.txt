@@ -1,0 +1,10 @@
+It is a common assumption that quantum systems with time reversal invariance
+and classically chaotic dynamics have energy spectra distributed according to
+GOE-type of statistics. Here we present a class of systems which fail to follow
+this rule. We show that for convex billiards of constant width with time
+reversal symmetry and "almost" chaotic dynamics the energy level distribution
+is of GUE-type. The effect is due to the lack of ergodicity in the "momentum"
+part of the phase space and, as we argue, is generic in two dimensions.
+Besides, we show that certain billiards of constant width in multiply connected
+domains are of interest in relation to the quantum ergodicity problem. These
+billiards are quantum ergodic, but not classically ergodic.

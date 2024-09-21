@@ -1,0 +1,6 @@
+This note discusses the problem of the effective termination of Kohn's
+algorithm for subelliptic multipliers for bounded smooth weakly pseudoconvex
+domains of finite type. We give a complete proof for the case of special
+domains of finite type and indicate briefly how this method is to be extended
+to the case of general bounded smooth weakly pseudoconvex domains of finite
+type.

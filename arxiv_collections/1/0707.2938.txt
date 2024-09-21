@@ -1,0 +1,12 @@
+Nano-magnetic systems of artificially shaped ferromagnetic islands, recently
+became a popular subject due to their current and potential applications in
+spintronics, magneto-photonics and superconductivity. When the island size is
+close to the exchange length of magnetic material (around 15 nm), its magnetic
+structure becomes markedly different. It determines both static and dynamic
+magnetic properties of elements, but strongly depends on their shape and size.
+Here we map this dependence for circular cylindrical islands of a few exchange
+lengths in size. We outline the region of metastability of "C"-type magnetic
+states, proving that they are indeed genuine and not a result of pinning on
+particle imperfections. A way to create the smallest particles with guaranteed
+magnetic vortex state at zero field becomes evident. It is expected that the
+map will help focus the efforts in planning of experiments and devices.

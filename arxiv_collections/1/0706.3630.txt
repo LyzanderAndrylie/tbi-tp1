@@ -1,0 +1,10 @@
+We study the asymptotic behaviour of the orbit-counting function and a
+dynamical Mertens' theorem for the full $G$-shift for a finitely-generated
+torsion-free nilpotent group $G$. Using bounds for the M{\"o}bius function on
+the lattice of subgroups of finite index and known subgroup growth estimates,
+we find a single asymptotic of the shape \[ \sum_{|\tau|\le
+N}\frac{1}{e^{h|\tau|}}\sim CN^{\alpha}(\log N)^{\beta} \] where $|\tau|$ is
+the cardinality of the finite orbit $\tau$. For the usual orbit-counting
+function we find upper and lower bounds together with numerical evidence to
+suggest that for actions of non-cyclic groups there is no single asymptotic in
+terms of elementary functions.

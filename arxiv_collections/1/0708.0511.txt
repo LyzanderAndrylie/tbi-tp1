@@ -1,0 +1,11 @@
+A quantum version of transition state theory based on a quantum normal form
+(QNF) expansion about a saddle-centre-...-centre equilibrium point is
+presented. A general algorithm is provided which allows one to explictly
+compute QNF to any desired order. This leads to an efficient procedure to
+compute quantum reaction rates and the associated Gamov-Siegert resonances. In
+the classical limit the QNF reduces to the classical normal form which leads to
+the recently developed phase space realisation of Wigner's transition state
+theory. It is shown that the phase space structures that govern the classical
+reaction d ynamicsform a skeleton for the quantum scattering and resonance
+wavefunctions which can also be computed from the QNF. Several examples are
+worked out explicitly to illustrate the efficiency of the procedure presented.

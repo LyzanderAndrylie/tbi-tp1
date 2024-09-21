@@ -1,0 +1,16 @@
+We investigate new physics models that can increase the lifetime differences
+in the $B_q$--$\bar{B}_q$ systems ($q = d,s$) above their standard model
+values. If both $B_q$ as well as $\bar{B}_q$ can decay to a final state through
+flavour dependent new physics interactions, the so-called Grossman bound may be
+evaded. As examples, we consider the scalar leptoquark model and
+$\lambda''$-type R-parity violating supersymmetry. We find that models with a
+scalar leptoquark can enhance $\Delta\Gamma_s/\Gamma_s$ all the way up to its
+experimental upper bound and $\Delta\Gamma_d/\Gamma_d$ to as much as $\sim
+2.5%$, at the same time allowing the CP violating phase $\beta_s$ to vary
+between $- 45^\circ$ and $20^\circ$. R-parity violating supersymmetry models
+cannot enhance the lifetime differences significantly, but can enhance the
+value of $\beta_s$ up to $\sim \pm 20^\circ$. This may bring the values of
+$\Delta\Gamma_q/\Gamma_q$ as well as $\beta_s$ within the measurement
+capabilities of $B$ factories and LHCb. We also obtain bounds on combinations
+of these new physics couplings, and predict enhanced branching ratios of
+$B_{s/d} \to \tau^+ \tau^-$.

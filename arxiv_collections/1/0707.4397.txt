@@ -1,0 +1,14 @@
+We have carried out bound-state and low-energy quantum scattering
+calculations on He + NH (triplet Sigma) in magnetic fields, with the NH
+molecule in its n=1 rotationally excited states. We have explored the pattern
+of levels as a function of magnetic field and identified the nearly good
+quantum numbers in different regimes. We have used the bound-state calculations
+to locate low-energy Feshbach resonances. When the magnetic field is used to
+tune across such a resonance, the real and imaginary part of the scattering
+length show asymmetric oscillations and peaks with amplitude between 1 and 3
+Angstroms. The scattering length does not pass through a pole at resonance. The
+resonant behavior is characterized by a complex resonant scattering length
+a_res. The corresponding inelastic cross sections show troughs as well as peaks
+near resonance. This may be important for efforts to achieve evaporative and
+sympathetic cooling for molecules, because it offers the hope that inelastic
+trap losses can be reduced by tuning close to a Feshbach resonance.

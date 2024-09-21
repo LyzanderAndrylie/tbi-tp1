@@ -1,0 +1,7 @@
+Slow dynamics in disordered materials prohibits direct simulation of their
+rich nonequilibrium behavior at large scales. "Patchwork dynamics" is
+introduced to mimic relaxation over a very broad range of time scales by
+equilibrating or optimizing directly on successive length scales. This dynamics
+is used to study coarsening and to replicate memory effects for spin glasses
+and random ferromagnets. It is also used to find, with high confidence, exact
+ground states in large or toroidal samples.

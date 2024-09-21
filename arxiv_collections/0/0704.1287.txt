@@ -1,0 +1,14 @@
+It has been established that local lattice spin Hamiltonians can be used for
+universal adiabatic quantum computation. However, the 2-local model
+Hamiltonians used in these proofs are general and hence do not limit the types
+of interactions required between spins. To address this concern, the present
+paper provides two simple model Hamiltonians that are of practical interest to
+experimentalists working towards the realization of a universal adiabatic
+quantum computer. The model Hamiltonians presented are the simplest known
+QMA-complete 2-local Hamiltonians. The 2-local Ising model with 1-local
+transverse field which has been realized using an array of technologies, is
+perhaps the simplest quantum spin model but is unlikely to be universal for
+adiabatic quantum computation. We demonstrate that this model can be rendered
+universal and QMA-complete by adding a tunable 2-local transverse XX coupling.
+We also show the universality and QMA-completeness of spin models with only
+1-local Z and X fields and 2-local ZX interactions.

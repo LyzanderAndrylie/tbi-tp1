@@ -1,0 +1,17 @@
+Wireless sensor networks (WSN) have recently received an increasing interest.
+They are now expected to be deployed for long periods of time, thus requiring
+software updates. Updating the software code automatically on a huge number of
+sensors is a tremendous task, as ''by hand'' updates can obviously not be
+considered, especially when all participating sensors are embedded on mobile
+entities. In this paper, we investigate an approach to automatically update
+software in mobile sensor-based application when no localization mechanism is
+available. We leverage the peer-to-peer cooperation paradigm to achieve a good
+trade-off between reliability and scalability of code propagation. More
+specifically, we present the design and evaluation of GCP ({\emph Gossip-based
+Code Propagation}), a distributed software update algorithm for mobile wireless
+sensor networks. GCP relies on two different mechanisms (piggy-backing and
+forwarding control) to improve significantly the load balance without
+sacrificing on the propagation speed. We compare GCP against traditional
+dissemination approaches. Simulation results based on both synthetic and
+realistic workloads show that GCP achieves a good convergence speed while
+balancing the load evenly between sensors.

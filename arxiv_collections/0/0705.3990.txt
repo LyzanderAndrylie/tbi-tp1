@@ -1,0 +1,16 @@
+In this paper, a novel decoding algorithm for low-density parity-check (LDPC)
+codes based on convex optimization is presented. The decoding algorithm, called
+interior point decoding, is designed for linear vector channels. The linear
+vector channels include many practically important channels such as inter
+symbol interference channels and partial response channels. It is shown that
+the maximum likelihood decoding (MLD) rule for a linear vector channel can be
+relaxed to a convex optimization problem, which is called a relaxed MLD
+problem. The proposed decoding algorithm is based on a numerical optimization
+technique so called interior point method with barrier function. Approximate
+variations of the gradient descent and the Newton methods are used to solve the
+convex optimization problem. In a decoding process of the proposed algorithm, a
+search point always lies in the fundamental polytope defined based on a
+low-density parity-check matrix. Compared with a convectional joint message
+passing decoder, the proposed decoding algorithm achieves better BER
+performance with less complexity in the case of partial response channels in
+many cases.

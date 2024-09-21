@@ -1,0 +1,15 @@
+We study many-body quantum coherence and interaction blockade in two
+Josephson-linked Bose-Einstein condensates. We introduce universal operators
+for characterizing many-body coherence without limitations on the system
+symmetry and total particle number $N$. We reproduce the results for both
+coherence fluctuations and number squeezing in {\em symmetric} systems of large
+$N$, and reveal several peculiar phenomena that may occur in {\em asymmetric}
+systems and systems of small $N$. For asymmetric systems, we show that, due to
+an interplay between asymmetry and inter-particle interaction, the coherence
+fluctuations are suppressed dramatically when $|E_{C}/E_{J}|\ll 1$, and both
+{\it resonant tunneling} and {\it interaction blockade} take place for large
+values of $|E_{C}/E_{J}|$, where $E_C$ and $E_J$ are the interaction and
+tunneling energies, respectively. We emphasize that the resonant tunneling and
+interaction blockade may allow creating single-atom devices with promising
+technology applications. We demonstrate that for the systems at finite
+temperatures the formation of self-trapped states causes an anomalous behavior.

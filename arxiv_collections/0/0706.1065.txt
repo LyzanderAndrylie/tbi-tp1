@@ -1,0 +1,10 @@
+Let $K$ denote an algebraically closed field with characteristic 0 and let
+$V$ denote a vector space over $K$ with finite positive dimension. Let $A,A^*$
+denote a tridiagonal pair on $V$ with diameter $d$. We say that $A,A^*$ has
+Krawtchouk type whenever the sequence $\lbrace d-2i\rbrace_{i=0}^d$ is a
+standard ordering of the eigenvalues of $A$ and a standard ordering of the
+eigenvalues of $A^*$. Assume $A,A^*$ has Krawtchouk type. We show that there
+exists a nondegenerate symmetric bilinear form $< , >$ on $V$ such that
+$<Au,v>= < u,Av>$ and $<A^*u,v >= < u,A^*v>$ for $u,v\in V$. We show that the
+following tridiagonal pairs are isomorphic: (i) $A,A^*$; (ii) $-A,-A^*$; (iii)
+$A^*,A$; (iv) $-A^*,-A$. We give a number of related results and conjectures.

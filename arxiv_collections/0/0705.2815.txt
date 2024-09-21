@@ -1,0 +1,11 @@
+We introduce phase disorder in a 1D quantum resistor through the formal
+device of `fake channels' distributed uniformly over its length such that the
+out-coupled wave amplitude is re-injected back into the system, but with a
+phase which is random. The associated scattering problem is treated via
+invariant imbedding in the continuum limit, and the resulting transport
+equation is found to correspond exactly to the Lloyd model. The latter has been
+a subject of much interest in recent years. This conversion of the random phase
+into the random Cauchy potential is a notable feature of our work. It is
+further argued that our phase-randomizing reservoir, as distinct from the well
+known phase-breaking reservoirs, induces no decoherence, but essentially
+destroys all interference effects other than the coherent back scattering.

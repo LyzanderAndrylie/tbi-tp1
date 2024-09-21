@@ -1,0 +1,9 @@
+We have fabricated an atom chip device which combines the circuitry for
+magnetic trapping of cold atoms with high-finesse optical resonators suitable
+for cavity QED in the single-atom strong coupling regime. Fabry-Perot optical
+resonators with finesse F > 2 X 10^5 were formed between a micropatterned
+on-chip planar mirror with lateral dimension of < 100 um and a curved mirror
+suspended above the chip. The strong and rapid thermal coupling between on-chip
+electrical and optical elements was utilized to stabilize the cavity mirror
+separation with servo bandwidth exceeding 100 kHz during simulated operation of
+the atom chip.

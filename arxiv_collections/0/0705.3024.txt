@@ -1,0 +1,11 @@
+Black holes behave as thermodynamic systems, and a central task of any
+quantum theory of gravity is to explain these thermal properties. A statistical
+mechanical description of black hole entropy once seemed remote, but today we
+suffer an embarrassment of riches: despite counting very different states, many
+inequivalent approaches to quantum gravity obtain identical results. Such
+``universality'' may reflect an underlying two-dimensional conformal symmetry
+near the horizon, which can be powerful enough to control the thermal
+characteristics independent of other details of the theory. This picture
+suggests an elegant description of the relevant degrees of freedom as
+Goldstone-boson-like excitations arising from symmetry breaking by the
+conformal anomaly.

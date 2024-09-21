@@ -1,0 +1,16 @@
+Motivated by recent experiments on BaCuSi2O6, we investigate magnetic
+excitations and quantum phase transitions of layered dimer magnets with
+inter-layer frustration. We consider two scenarios, (A) a lattice with one
+dimer per unit cell and perfect inter-layer frustration, and (B) an enlarged
+unit cell with inequivalent layers, with and without perfect frustration. In
+all situations, the critical behavior at asymptotically low temperatures is
+three-dimensional, but the corresponding crossover scale may be tiny. Magnetic
+ordering in case (B) can be discussed in terms of two condensates; remarkably,
+perfect frustration renders the proximity effect ineffective. Then, the
+ordering transition will be generically split, with clear signatures in
+measurable properties. Using a generalized bond-operator method, we calculate
+the low-temperature magnetic properties in the paramagnetic and
+antiferromagnetic phases. Based on the available experimental data on
+BaCuSi2O6, we propose that scenario (B) with inequivalent layers and imperfect
+frustration is realized in this material, likely with an additional modulation
+of the inter-layer couling along the c axis.

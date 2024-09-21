@@ -1,0 +1,12 @@
+A classical problem in elasticity theory involves an inhomogeneity embedded
+in a material of given stress and shear moduli. The inhomogeneity is a region
+of arbitrary shape whose stress and shear moduli differ from those of the
+surrounding medium. In this paper we present a new, semi-analytic method for
+finding the stress tensor for an infinite plate with such an inhomogeneity. The
+solution involves two conformal maps, one from the inside and the second from
+the outside of the unit circle to the inside, and respectively outside, of the
+inhomogeneity. The method provides a solution by matching the conformal maps on
+the boundary between the inhomogeneity and the surrounding material. This
+matching converges well only for relatively mild distortions of the unit circle
+due to reasons which will be discussed in the article. We provide a comparison
+of the present result to known previous results.

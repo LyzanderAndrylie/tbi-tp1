@@ -1,0 +1,21 @@
+We consider a model of socially interacting individuals that make a binary
+choice in a context of positive additive endogenous externalities. It
+encompasses as particular cases several models from the sociology and economics
+literature. We extend previous results to the case of a general distribution of
+idiosyncratic preferences, called here Idiosyncratic Willingnesses to Pay
+(IWP). Positive additive externalities yield a family of inverse demand curves
+that include the classical downward sloping ones but also new ones with non
+constant convexity. When j, the ratio of the social influence strength to the
+standard deviation of the IWP distribution, is small enough, the inverse demand
+is a classical monotonic (decreasing) function of the adoption rate. Even if
+the IWP distribution is mono-modal, there is a critical value of j above which
+the inverse demand is non monotonic, decreasing for small and high adoption
+rates, but increasing within some intermediate range. Depending on the price
+there are thus either one or two equilibria. Beyond this first result, we
+exhibit the generic properties of the boundaries limiting the regions where the
+system presents different types of equilibria (unique or multiple). These
+properties are shown to depend only on qualitative features of the IWP
+distribution: modality (number of maxima), smoothness and type of support
+(compact or infinite). The main results are summarized as phase diagrams in the
+space of the model parameters, on which the regions of multiple equilibria are
+precisely delimited.

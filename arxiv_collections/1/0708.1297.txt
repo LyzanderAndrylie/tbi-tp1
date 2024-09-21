@@ -1,0 +1,7 @@
+We consider the effect of different unitary noise mechanisms on the evolution
+of a quantum walk (QW) on a linear chain with a generic coin operation: (i)
+bit-flip channel noise, restricted to the coin subspace of the QW, and (ii)
+topological noise caused by randomly broken links in the linear chain.
+Similarities and differences in the respective decoherent dynamics of the
+walker as a function of the probability per unit time of a decoherent event
+taking place are discussed.

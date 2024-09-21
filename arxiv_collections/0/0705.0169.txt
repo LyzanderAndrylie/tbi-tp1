@@ -1,0 +1,15 @@
+Binary microlensing light curves have a variety of morphologies. Many are
+indistinguishable from point lens light curves. Of those that deviate from the
+point lens form, caustic crossing light curves have tended to dominate
+identified binary lens events. Other distinctive signatures of binary lenses
+include significant asymmetry, multiple peaks, and repeating events. We have
+quantified, using high resolution simulations, the theoretically expected
+relative numbers of each type of binary lens event, based on its measurable
+characteristics. We find that a microlensing survey with current levels of
+photometric uncertainty and sampling should find at least as many non-caustic
+crossing binary lens events as caustic crossing events; in future surveys with
+more sensitive photometry, the contribution of distinctive non-caustic crossing
+events will be even greater. To try to explain why caustic crossing light
+curves appear to be so dominant among the published binary lensing events, we
+investigate the influence of several physical effects, including blending,
+sampling rate, and various binary populations.

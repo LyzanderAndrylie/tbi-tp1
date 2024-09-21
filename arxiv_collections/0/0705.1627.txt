@@ -1,0 +1,7 @@
+We study theoretically two coupled periodically-curved optical waveguides
+with Kerr nonlinearity. We find that the tunneling between the waveguides can
+be suppressed in a wide range of parameters due to nonlinearity. Such
+suppression of tunneling is different from the coherent destruction of
+tunneling in a linear medium, which occurs only at the isolated degeneracy
+point of the quasienergies. We call this novel suppression nonlinear coherent
+destruction of tunneling.

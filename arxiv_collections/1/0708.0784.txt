@@ -1,0 +1,6 @@
+Experimental observation of Doppler-free signals for weak transitions can be
+greatly facilitated by an estimate for their expected amplitudes. We derive an
+analytical model which allows the Doppler-free amplitude to be estimated for
+small Doppler-free signals. Application of this model to formaldehyde allows
+the amplitude of experimentally observed Doppler-free signals to be reproduced
+to within the experimental error.

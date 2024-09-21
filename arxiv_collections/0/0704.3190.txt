@@ -1,0 +1,23 @@
+In the framework of the model inter-comparison study - Asia Phase II (MICS2),
+where eight models are compared over East Asia, this paper studies the
+influence of different parameterizations used in the aerosol module on the
+aerosol concentrations of sulfate and nitrate in PM10. An intracomparison of
+aerosol concentrations is done for March 2001 using different configurations of
+the aerosol module of one of the model used for the intercomparison. Single
+modifications of a reference setup for model configurations are performed and
+compared to a reference case. These modifications concern the size
+distribution, i.e. the number of sections, and physical processes, i.e.
+coagulation, condensation/evaporation, cloud chemistry, heterogeneous reactions
+and sea-salt emissions. Comparing monthly averaged concentrations at different
+stations, the importance of each parameterization is first assessed. It is
+found that sulfate concentrations are little sensitive to sea-salt emissions
+and to whether condensation is computed dynamically or by assuming
+thermodynamic equilibrium. Nitrate concentrations are little sensitive to cloud
+chemistry. However, a very high sensitivity to heterogeneous reactions is
+observed. Thereafter, the variability of the aerosol concentrations to the use
+of different chemistry transport models (CTMs) and the variability to the use
+of different parameterizations in the aerosol module are compared. For sulfate,
+the variability to the use of different parameterizations in the aerosol module
+is lower than the variability to the use of different CTMs. However, for
+nitrate, for monthly averaged concentrations averaged over four stations, these
+two variabilities have the same order of magnitude.

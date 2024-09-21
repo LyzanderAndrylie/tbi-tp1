@@ -1,0 +1,12 @@
+Let $G$ be a group. Two elements $x, y$ are said to be {\it $z$-equivalent}
+if their centralizers are conjugate in $G$. The class equation of $G$ is the
+partition of $G$ into conjugacy classes. Further decomposition of conjugacy
+classes into $z$-classes provides an important information about the internal
+structure of the group.
+  Let $I(\H^n)$ denote the group of isometries of the hyperbolic $n$-space. We
+show that the number of $z$-classes in $I(\H^n)$ is finite. We actually compute
+their number, cf. theorem 1.3. We interpret the finiteness of $z$-classes as
+accounting for the finiteness of "dynamical types" in $I(\H^n)$. Along the way
+we also parametrize conjugacy classes. We mainly use the linear model for the
+hyperbolic space for this purpose. This description of parametrizing conjugacy
+classes appears to be new.

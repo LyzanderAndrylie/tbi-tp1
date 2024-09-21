@@ -1,0 +1,12 @@
+A DC electrical current is injected through a chain of metallic beads. The
+electrical resistances of each bead-bead contacts are measured. At low current,
+the distribution of these resistances is large and log-normal. At high enough
+current, the resistance distribution becomes sharp and Gaussian due to the
+creation of microweldings between some beads. The action of nearby
+electromagnetic waves (sparks) on the electrical conductivity of the chain is
+also studied. The spark effect is to lower the resistance values of the more
+resistive contacts, the best conductive ones remaining unaffected by the spark
+production. The spark is able to induce through the chain a current enough to
+create microweldings between some beads. This explains why the electrical
+resistance of a granular medium is so sensitive to the electromagnetic waves
+produced in its vicinity.

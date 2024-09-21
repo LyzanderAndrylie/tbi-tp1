@@ -1,0 +1,8 @@
+We update the extraction of |Vub| from exclusive semileptonic B to pi decays,
+combining experimental partial branching fraction information with theoretical
+form factor calculations, using the recently revised HPQCD results for the form
+factors f_+ and f_0. We use Omnes representations to provide the required
+parametrisations of the form factors. The extracted value is 10^3 |Vub| =
+3.47+/-0.29+/-0.03, in striking agreement with |Vub| extracted using all other
+inputs in CKM fits and showing some disagreement with |Vub| extracted from
+inclusive semileptonic B to pi decays.

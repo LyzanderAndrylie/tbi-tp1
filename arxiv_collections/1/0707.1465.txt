@@ -1,0 +1,8 @@
+We investigate the atom pair production by superradiant backward-scattering
+from a Bose-Einstein condensate. By driving the superradiant process with two
+frequencies we can extend both the range of pulse duration and intensity by two
+orders of magnitude and obtain full control over the number of scattered atoms
+in forward and backward direction. We show that the atoms scattered in forward
+direction are strongly correlated with the atoms scattered in backward
+direction, which makes resonant superradiant backward-scattering a promising
+candidate for many-particle entanglement.

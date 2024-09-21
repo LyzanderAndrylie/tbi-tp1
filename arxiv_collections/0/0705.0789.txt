@@ -1,0 +1,10 @@
+The two dimensional analog of the Hadamard state condition is used to specify
+the local Hadamard states associated with a linear quantum field coupled to a
+two dimensional gravitational background. To characterize a local Hadamard
+state corresponding to a physical vacuum state, we apply a superselection rule
+in which the state dependent part of the two-point function is determined in
+terms of a dynamical scalar field. It implies a basic connection between the
+vacuum state and a scalar field coupled to gravity. We study the
+characteristics of the Hadamard vacuum state through this superselection rule
+using two different background metrics, the two dimensional analog of the
+schwarzschild and FRW metric.

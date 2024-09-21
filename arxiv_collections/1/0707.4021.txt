@@ -1,0 +1,10 @@
+Results are presented of beam tests in which a small electromagnetic
+calorimeter consisting of lead tungstate crystals was exposed to 50 GeV
+electrons and pions. This calorimeter was backed up by the DREAM Dual-Readout
+calorimeter, which measures the scintillation and \v{C}erenkov light produced
+in the shower development, using two different media. The signals from the
+crystal calorimeter were analyzed in great detail in an attempt to determine
+the contributions from these two types of light to the signals, event by event.
+This information makes it possible to eliminate the dominating source of
+fluctuations and thus achieve an important improvement in hadronic calorimeter
+performance.

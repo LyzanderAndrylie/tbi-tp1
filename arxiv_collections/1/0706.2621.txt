@@ -1,0 +1,18 @@
+The impact of local space anisotropy on the transverse Doppler effect is
+examined. Two types of laboratory experiments aimed at seeking and measuring
+the local space anisotropy are proposed. In terms of the conventional special
+relativity theory, which treats 3D space to be locally isotropic, the
+experiments are of the type of ``null-experiments''. In the first-type
+experiments, a feasible Doppler shift of frequency is measured by the
+M\"ossbauer effect, with the M\"ossbauer source and absorber being located at
+two identical and diametrically opposed distances from the center of a rapidly
+rotating rotor, while the $\gamma$-quanta are recorded by two stationary and
+oppositely positioned proportional counters. Either of the counters records
+only those $\gamma$-quanta that passed through the absorber at the moment of
+the passage of the latter near a counter. The second-type experiments are made
+using the latest radio physics techniques for generating monochromatic
+oscillations and for recording weak signals. The effect expected due to space
+anisotropy consists in frequency modulation of the harmonic oscillations coming
+to a receiver that rotates at a constant velocity around the monochromatic wave
+emitter. In this case the modulation depth proves to be proportional to the
+space anisotropy magnitude.

@@ -1,0 +1,10 @@
+In several self-coupled quantum field theories when treated in semi-classical
+limit one obtains solitonic solutions determined by topology of the boundary
+conditions. Such solutions, e.g. magnetic monopole in unified theories
+\cite{Hooft1974} \cite{Polyakov1974} or the skyrme model of hadrons have been
+proposed as possible non-perturbative bound states which remain stable due to
+topological quantum numbers. Furthermore when fermions are introduced, under
+certain conditions one obtains zero-energy solutions
+\cite{Vega1978}\cite{Jackiw1981} for the Dirac equations localised on the
+soliton. An implication of such zero-modes is induced fermion number
+\cite{Jackiw1977} carried by the soliton.

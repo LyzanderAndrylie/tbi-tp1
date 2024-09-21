@@ -1,0 +1,17 @@
+The nanoscopic structure and the stationary propagation velocity of
+(1+1)-dimensional solid-on-solid interfaces in an Ising lattice-gas model,
+which are driven far from equilibrium by an applied force, such as a magnetic
+field or a difference in (electro)chemical potential, are studied by an
+analytic nonlinear-response approximation together with kinetic Monte Carlo
+simulations. Here we consider the case that the system is coupled to a
+two-dimensional phonon bath. In the resulting dynamic, transitions that
+conserve the system energy are forbidden, and the effects of the applied force
+and the interaction energies do not factorize (a so-called hard dynamic). In
+full agreement with previous general theoretical results we find that the local
+interface width changes dramatically with the applied force. However, in
+contrast with other hard dynamics, this change is nonmonotonic in the driving
+force. However, significant differences between theory and simulation are found
+near two special values of the driving force, where certain transitions allowed
+by the solid-on-solid model become forbidden by the phonon-assisted dynamic.
+Our results represent a significant step toward providing a solid physical
+foundation for kinetic Monte Carlo simulations.

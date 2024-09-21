@@ -1,0 +1,7 @@
+If the $\ell$-adic cohomology of a projective smooth variety, defined over a
+$\frak{p}$-adic field $K$ with finite residue field $k$, is supported in
+codimension $\ge 1$, then any model over the ring of integers of $K$ has a
+$k$-rational point. This slightly improves our earlier result math/0405318: we
+needed there the model to be regular (but then our result was more general: we
+obtained a congruence for the number of points, and $K$ could be local of
+characteristic $p>0$).

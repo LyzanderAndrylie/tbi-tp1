@@ -1,0 +1,16 @@
+We study analytically and numerically the stability of the standing waves for
+a nonlinear Schr\"odinger equation with a point defect and a power type
+nonlinearity. A main difficulty is to compute the number of negative
+eigenvalues of the linearized operator around the standing waves, and it is
+overcome by a perturbation method and continuation arguments. Among others, in
+the case of a repulsive defect, we show that the standing wave solution is
+stable in $\hurad$ and unstable in $\hu$ under subcritical nonlinearity.
+Further we investigate the nature of instability: under critical or
+supercritical nonlinear interaction, we prove the instability by blowup in the
+repulsive case by showing a virial theorem and using a minimization method
+involving two constraints. In the subcritical radial case, unstable bound
+states cannot collapse, but rather narrow down until they reach the stable
+regime (a {\em finite-width instability}). In the non-radial repulsive case,
+all bound states are unstable, and the instability is manifested by a lateral
+drift away from the defect, sometimes in combination with a finite-width
+instability or a blowup instability.

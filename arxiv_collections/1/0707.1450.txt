@@ -1,0 +1,8 @@
+We investigate the influence of a deterministic but non-synchronous update on
+Random Boolean Networks, with a focus on critical networks. Knowing that
+``relevant components'' determine the number and length of attractors, we focus
+on such relevant components and calculate how the length and number of
+attractors on these components are modified by delays at one or more nodes. The
+main findings are that attractors decrease in number when there are more
+delays, and that periods may become very long when delays are not integer
+multiples of the basic update step.

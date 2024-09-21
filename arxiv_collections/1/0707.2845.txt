@@ -1,0 +1,11 @@
+We report the experimental realization of squeezed quantum states of light,
+tailored for new applications in quantum communication and metrology. Squeezed
+states in a broad Fourier frequency band down to 1 Hz has been observed for the
+first time. Nonclassical properties of light in such a low frequency band is
+required for high efficiency quantum information storage in electromagnetically
+induced transparency (EIT) media. The states observed also cover the frequency
+band of ultra-high precision laser interferometers for gravitational wave
+detection and can be used to reach the regime of quantum non-demolition
+interferometry. And furthermore, they cover the frequencies of motions of
+heavily macroscopic objects and might therefore support the attempts to observe
+entanglement in our macroscopic world.

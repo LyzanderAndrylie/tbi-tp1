@@ -1,0 +1,14 @@
+Escherichia coli is a motile bacterium that moves up a chemoattractant
+gradient by performing a biased random walk composed of alternating runs and
+tumbles. Previous models of run and tumble chemotaxis neglect one or more
+features of the motion, namely (i) a cell cannot directly detect a
+chemoattractant gradient but rather makes temporal comparisons of
+chemoattractant concentration, (ii) rather than being entirely random, tumbles
+exhibit persistence of direction, meaning that the new direction after a tumble
+is more likely to be in the forward hemisphere, and (iii) rotational Brownian
+motion makes it impossible for an E. coli cell to swim in a straight line
+during a run. This paper presents an analytic calculation of the chemotactic
+drift velocity taking account of (i), (ii) and (iii), for weak chemotaxis. The
+analytic results are verified by Monte Carlo simulation. The results reveal a
+synergy between temporal comparisons and persistence that enhances the drift
+velocity, while rotational Brownian motion reduces the drift velocity.

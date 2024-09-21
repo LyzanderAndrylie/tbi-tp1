@@ -1,0 +1,14 @@
+We consider the stability conditions for half-quantum vortices in quasi two
+dimensional $p_x+ip_y$ superconductor (such as ${\rm Sr_2 RuO_4}$ is believed
+to be) through energetics calculations. Although the predicted exotic nature of
+these excitations have recently attracted much attention but they have not been
+observed yet. We pay particular attention to the fact that an isolated half
+quantum vortex has a divergent energy cost in the bulk due to the associated
+{\it unscreened} spin current, which requires two half-quantum vortices with
+opposite spin winding to pair. We show that the stability of such a pair in
+bulk is enhanced when the ratio of spin superfluid density to superfluid
+density $\rho_{{\rm sp}}/\rho_{\rm s}$ is small. As a step towards stabilizing
+and observing these exotic excitations, we propose using various mesoscopic
+geometries. We find that certain mesoscopic geometries can selectively allow
+only single half-quantum vortices to enter the sample for small $\rho_{{\rm
+sp}}/\rho_{\rm s}$.

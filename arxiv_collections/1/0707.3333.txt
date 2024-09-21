@@ -1,0 +1,9 @@
+The purpose of this paper is to analyze in detail the Hamiltonian formulation
+for the compact Gowdy models coupled to massless scalar fields as a necessary
+first step towards their quantization. We will pay special attention to the
+coupling of matter and those features that arise for the three-handle and
+three-sphere topologies that are not present in the well studied three torus
+case -in particular the polar constraints that come from the regularity
+conditions on the metric. As a byproduct of our analysis we will get an
+alternative understanding, within the Hamiltonian framework, of the appearance
+of initial and final singularities for these models.

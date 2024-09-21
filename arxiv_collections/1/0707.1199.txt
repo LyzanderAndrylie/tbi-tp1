@@ -1,0 +1,6 @@
+We analyze the new equation of motion for the damped oscillator. It differs
+from the standard one by a damping term which is nonlocal in time and hence it
+gives rise to a system with memory. Both classical and quantum analysis is
+performed. The characteristic feature of this nonlocal system is that it breaks
+local composition low for the classical Hamiltonian dynamics and the
+corresponding quantum propagator.

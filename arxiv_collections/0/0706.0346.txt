@@ -1,0 +1,11 @@
+Let $p(w)=(w-w_{1})(w-w_{2})(w-w_{3}),$with
+$\func{Re}w_{1}<\func{Re}w_{2}<\func{Re}w_{3}$. Assume that if the critical
+points of $p$ are not identical, then they cannot have equal real parts. Define
+the ratios $\sigma_{1}=\dfrac{z_{1}-w_{1}}{w_{2}-w_{1}}$ and $\sigma
+_{2}=\dfrac{z_{2}-w_{2}}{w_{3}-w_{2}}$. $(\sigma_{1},\sigma_{2})$ is called the
+\QTR{it}{ratio vector} of $p$. This extends the definition of ratio vectors
+given in earlier papers for polynomials of degree $n$ with all real roots. We
+then derive bounds on the real part, imaginary part, and modulus of the ratios
+and also some relations between the ratios. In particular, we prove that
+$\func{Re}\sigma_{1}\leq \func{Re}\sigma_{2}$. We also show that the ratios are
+real if and only if the roots of $p$ are collinear.

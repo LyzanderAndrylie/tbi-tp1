@@ -1,0 +1,12 @@
+Carrier wave shocking is studied using the Pseudo-Spectral Spatial Domain
+(PSSD) technique. We describe the shock detection diagnostics necessary for
+this numerical study, and verify them against theoretical shocking predictions
+for the dispersionless case. These predictions show Carrier Envelope Phase
+(CEP) and pulse bandwidth sensitivity in the single-cycle regime. The flexible
+dispersion management offered by PSSD enables us to independently control the
+linear and nonlinear dispersion. Customized dispersion profiles allow us to
+analyze the development of both carrier self-steepening and shocks. The results
+exhibit a marked asymmetry between normal and anomalous dispersion, both in the
+limits of the shocking regime and in the (near) shocked pulse waveforms.
+Combining these insights, we offer some suggestions on how carrier shocking (or
+at least extreme self-steepening) might be realised experimentally.

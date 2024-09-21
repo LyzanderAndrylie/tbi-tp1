@@ -1,0 +1,17 @@
+There is currently much interest in the possible presence of
+intermediate-mass black holes in the cores of globular clusters. Based on
+theoretical arguments and simulation results it has previously been suggested
+that a large core radius -- or particularly a large ratio of the core radius to
+half-mass radius -- is a promising indicator for finding such a black hole in a
+star cluster. In this study N-body models of 100000 stars with and without
+primordial binaries are used to investigate the long-term structural evolution
+of star clusters. Importantly, the simulation data is analysed using the same
+processes by which structural parameters are extracted from observed star
+clusters. This gives a ratio of the core and half-mass (or half-light) radii
+that is directly comparable to the Galactic globular cluster sample. As a
+result, it is shown that the ratios observed for the bulk of this sample can be
+explained without the need for an intermediate-mass black hole. Furthermore, it
+is possible that clusters with large core to half-light radius ratios harbour a
+black-hole binary (comprised of stellar mass black holes) rather than a single
+massive black hole. This work does not rule out the existence of
+intermediate-mass black holes in the cores of at least some star clusters.

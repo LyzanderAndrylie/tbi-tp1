@@ -1,0 +1,7 @@
+We introduce a feasible method of constructing the entanglement witness that
+detects the genuine entanglement of a given pure multiqubit state. We
+illustrate our method in the scenario of constructing the witnesses for the
+multiqubit states that are broadly theoretically and experimentally
+investigated. It is shown that our method can construct the effective witnesses
+for experiments. We also investigate the entanglement detection of symmetric
+states and mixed states.

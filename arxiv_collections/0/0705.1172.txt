@@ -1,0 +1,5 @@
+We derive some consequences of very recent results of Cordero and Nicola on
+the metaplectic representation, the Wiener amalgam spaces, (whose definition is
+due to Feichtinger), and their applications to the regularity of the solutions
+of Schroedinger equation with quadratic Weyl symbol. We do not however discuss
+the validity of Cordero and Nicola's claims.

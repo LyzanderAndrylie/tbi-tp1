@@ -1,0 +1,13 @@
+The physical properties of almost any kind of astronomical object can be
+derived by fitting synthetic spectra or photometry extracted from theoretical
+models to observational data. This process usually involves working with
+multiwavelength data, which is one of the cornerstones of the VO philosophy.
+  From this kind of studies, when combining with theoretical isochrones one can
+even estimate ages. We present here the results obtained from a code designed
+to perform chi^2 tests to both spectroscopic models (or the associated
+synthetic photometry) and combinations of blackbodies (including modified
+blackbodies). Some steps in this process can already be done in a VO
+environment, and the rest are in the process of development. We must note that
+this kind of studies in star forming regions, clusters, etc. produce a huge
+amount of data, very tedious to analyze using the traditional methodology. This
+make them excellent examples where to apply the VO capabilities.

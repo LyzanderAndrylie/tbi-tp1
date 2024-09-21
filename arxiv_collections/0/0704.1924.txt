@@ -1,0 +1,9 @@
+We propose and analyze a goal-oriented a posteriori error estimator for the
+atomistic-continuum modeling error in the quasicontinuum method. Based on this
+error estimator, we develop an algorithm which adaptively determines the
+atomistic and continuum regions to compute a quantity of interest to within a
+given tolerance. We apply the algorithm to the computation of the structure of
+a crystallographic defect described by a Frenkel-Kontorova model and present
+the results of numerical experiments. The numerical results show that our
+method gives an efficient estimate of the error and a nearly optimal
+atomistic-continuum modeling strategy.

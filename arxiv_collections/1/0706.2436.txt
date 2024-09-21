@@ -1,0 +1,9 @@
+In this paper, we present a new model, hollow Gaussian-Schell model beams
+(HGSMBs), to describe the practical dark hollow beams. An analytical
+propagation formula for HGSMBs passing through a paraxial first-order optical
+system is derived based on the theory of coherence. Based on the derived
+formula, an application example showing the influence of spatial coherence on
+the propagation of beams is illustrated. It is found that the beam propagating
+properties of HGSMBs will be greatly affected by their spatial coherence. Our
+model provides a very convenient way for analyzing the propagation properties
+of partially coherent dark hollow beams.

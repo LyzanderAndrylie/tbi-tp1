@@ -1,0 +1,10 @@
+We consider the finite temperature scaling properties of a Kondo-destroying
+quantum critical point in the Ising-anisotropic Bose-Fermi Kondo model (BFKM).
+A cluster-updating Monte Carlo approach is used, in order to reliably access a
+wide temperature range. The scaling function for the two-point spin correlator
+is found to have the form dictated by a boundary conformal field theory, even
+though the underlying Hamiltonian lacks conformal invariance. Similar
+conclusions are reached for all multi-point correlators of the spin-isotropic
+BFKM in a dynamical large-N limit. Our results suggest that the quantum
+critical local properties of the sub-ohmic BFKM are those of an underlying
+boundary conformal field theory.

@@ -1,0 +1,12 @@
+We consider the low energy spectrum of spin-1/2 two-dimensional triangular
+lattice models subject to a ferromagnetic Heisenberg interaction and a three
+spin chiral interaction of variable strength. Initially, we consider quasi-one
+dimensional ladder systems of various geometries. Analytical results are
+derived that yield the behavior of the ground states, their energies and the
+transition points. The entanglement properties of the ground state of these
+models are examined and we find that the entanglement depends on the lattice
+geometry due to frustration effects. To this end, the chirality of a given
+quantum state is used as a witness of tripartite entanglement. Finally, the two
+dimensional model is investigated numerically by means of exact diagonalization
+and indications are presented that the low energy sector is a chiral spin
+liquid.

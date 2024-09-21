@@ -1,0 +1,8 @@
+We introduce an operational interpretation for pure-state global multipartite
+entanglement based on quantum estimation. We show that the estimation of the
+strength of low-noise locally depolarizing channels, as quantified by the
+regularized quantum Fisher information, is directly related to the
+Meyer-Wallach multipartite entanglement measure. Using channels that depolarize
+across different partitions, we obtain related multipartite entanglement
+measures. We show that this measure is the sum of expectation values of local
+observables on two copies of the state.

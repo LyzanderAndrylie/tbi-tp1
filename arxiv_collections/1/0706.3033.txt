@@ -1,0 +1,11 @@
+We use neutron scattering to study the lattice and magnetic structure of the
+layered half-doped manganite Pr$_{0.5}$Ca$_{1.5}$MnO$_4$. On cooling from high
+temperature, the system first becomes charge- and orbital- ordered (CO/OO) near
+$T_{CO}=300$ K and then develops checkerboard-like antiferromagnetic (AF) order
+below $T_{N}=130$ K. At temperatures above $T_{N}$ but below $T_{CO}$
+($T_N<T<T_{CO}$), the appearance of short-range AF spin correlations suppresses
+the CO/OO induced orthorhombic strain, contrasting with other half-doped
+manganites, where AF order has no observable effect on the lattice distortion.
+These results suggest that a strong spin-lattice coupling and the competition
+between AF exchange and CO/OO ordering ultimately determines the
+low-temperature properties of the system.

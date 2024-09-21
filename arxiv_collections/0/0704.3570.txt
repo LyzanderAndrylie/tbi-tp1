@@ -1,0 +1,8 @@
+We consider twist-3 operators in the sl(2) sector of N=4 SYM built out of
+three scalar fields with derivatives. We extract from the Bethe Ansatz
+equations of this sector the exact lowest anomalous dimension gamma(s) of
+scaling fields for several values of the operator spin s. We propose compact
+closed expressions for the spin dependence of gamma(s) up to the four loop
+level and show that they obey a simple new twist-3 transcendentality principle.
+As a check, we reproduce the four loop universal cusp anomalous dimension
+governing the logarithmic large spin limit of gamma(s).

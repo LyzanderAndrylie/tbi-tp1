@@ -1,0 +1,9 @@
+We consider a class of theories involving an extension of the Standard Model
+gauge group to an {\it a priori} arbitrary number of colors, $N_c$, and derive
+constraints on $N_c$. One motivation for this is the string theory landscape.
+For two natural classes of embeddings of this $N_c$-extended Standard Model in
+a supersymmetric grand unified theory, we show that requiring unbroken
+electromagnetic gauge invariance, asymptotic freedom of color, and three
+generations of quarks and leptons forces one to choose $N_c=3$. Similarly, we
+show that for a theory combining the $N_c$-extended Standard Model with a
+one-family SU(2)$_{TC}$ technicolor theory, only the value $N_c=3$ is allowed.

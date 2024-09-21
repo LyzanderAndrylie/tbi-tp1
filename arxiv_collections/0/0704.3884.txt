@@ -1,0 +1,13 @@
+We have made an asteroseismic analysis of the variable blue stragglers in the
+open cluster M67. The data set consists of photometric time series from eight
+sites using nine 0.6-2.1 meter telescopes with a time baseline of 43 days. In
+two stars, EW Cnc and EX Cnc, we detect the highest number of frequencies (41
+and 26) detected in delta Scuti stars belonging to a stellar cluster, and EW
+Cnc has the second highest number of frequencies detected in any delta Scuti
+star. We have computed a grid of pulsation models that take the effects of
+rotation into account. The distribution of observed and theoretical frequencies
+show that in a wide frequency range a significant fraction of the radial and
+non-radial low-degree modes are excited to detectable amplitudes. Despite the
+large number of observed frequencies we cannot constrain the fundamental
+parameters of the stars. To make progress we need to identify the degrees of
+some of the modes either from multi-colour photometry or spectroscopy.

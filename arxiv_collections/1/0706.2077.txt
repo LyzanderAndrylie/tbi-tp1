@@ -1,0 +1,8 @@
+Codon usage bias measure is defined through the mutual entropy calculation of
+real codon frequency distribution against the quasi-equilibrium one. This
+latter is defined in three manners: (1) the frequency of synonymous codons is
+supposed to be equal (i.e., the arithmetic mean of their frequencies); (2) it
+coincides to the frequency distribution of triplets; and, finally, (3) the
+quasi-equilibrium frequency distribution is defined as the expected frequency
+of codons derived from the dinucleotide frequency distribution. The measure of
+bias in codon usage is calculated for 125 bacterial genomes.

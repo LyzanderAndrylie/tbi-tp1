@@ -1,0 +1,10 @@
+We consider three fermions with two spin components interacting on a lattice
+model with an infinite scattering length. Low lying eigenenergies in a cubic
+box with periodic boundary conditions, and for a zero total momentum, are
+calculated numerically for decreasing values of the lattice period. The results
+are compared to the predictions of the zero range Bethe-Peierls model in
+continuous space, where the interaction is replaced by contact conditions. The
+numerical computation, combined with analytical arguments, shows the absence of
+negative energy solution, and a rapid convergence of the lattice model towards
+the Bethe-Peierls model for a vanishing lattice period. This establishes for
+this system the universality of the zero interaction range limit.

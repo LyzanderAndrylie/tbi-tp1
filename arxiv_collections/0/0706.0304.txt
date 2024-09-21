@@ -1,0 +1,10 @@
+Quantum walks, being the quantum analogue of classical random walks, are
+expected to provide a fruitful source of quantum algorithms. A few such
+algorithms have already been developed, including the `glued trees' algorithm,
+which provides an exponential speedup over classical methods, relative to a
+particular quantum oracle. Here, we discuss the possibility of a quantum walk
+algorithm yielding such an exponential speedup over possible classical
+algorithms, without the use of an oracle. We provide examples of some highly
+symmetric graphs on which efficient quantum circuits implementing quantum walks
+can be constructed, and discuss potential applications to quantum search for
+marked vertices along these graphs.

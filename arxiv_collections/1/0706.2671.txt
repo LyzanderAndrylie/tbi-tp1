@@ -1,0 +1,6 @@
+We present Quantum Monte Carlo simulations of a generalization of the
+Feynman-Kikuchi model which includes the possibility of vacancies and
+interactions between the particles undergoing exchange. By measuring the
+winding number (superfluid density) and density structure factor, we determine
+the phase diagram, and show that it exhibits regions which possess both
+superfluid and charge ordering.

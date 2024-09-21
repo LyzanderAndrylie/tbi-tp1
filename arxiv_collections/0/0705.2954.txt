@@ -1,0 +1,18 @@
+This article reports on recent searches for single-top-quark production by
+the CDF collaboration at the Tevatron using a data set that corresponds to an
+integrated luminosity of 955 pb^-1. Three different analyses techniques are
+employed, one using likelihood discriminants, one neural networks and one
+matrix elements. The sensitivity to single-top production at the rate predicted
+by the standard model ranges from 2.1 to 2.6 sigma. While the first two
+analyses observe a deficit of single-top like events compared to the
+expectation, the matrix element method observes an excess corresponding to a
+background fluctuation of 2.3 sigma. The null results of the likelihood and
+neural network analyses translate in upper limits on the cross section of 2.6\
+pb for the t-channel production mode and 3.7 pb for the s-channel mode at the
+95% C.L. The matrix element result corresponds to a measurement of
+2.7^+1.5_-1.3 pb for the combined t- and s-channel single-top cross section. In
+addition, CDF has searched for non-standard model production of
+single-top-quarks via the s-channel exchange of a heavy W^\prime boson. No
+signal of this process is found resulting in lower mass limits of 760 GeV/c^2
+in case the mass of the right-handed neutrino is smaller than the mass of the
+right-handed W^\prime or 790 GeV/c^2 in the opposite case.

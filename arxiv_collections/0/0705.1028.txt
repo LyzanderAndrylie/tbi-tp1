@@ -1,0 +1,13 @@
+We study the time evolution of an atom suddenly coupled to a thermal
+radiation field. As a simplified model of the atom-electromagnetic field system
+we use a system composed by a harmonic oscillator linearly coupled to a scalar
+field in the framework of the recently introduced dressed coordinates and
+dressed states. We show that the time evolution of the thermal expectation
+values for the occupation number operators depend exclusively on the
+probabilities associated with the emission and absorption of field quanta. In
+particular, the time evolution of the number operator associated with the atom
+is given in terms of the probability of remaining in the first excited state
+and the decay probabilities from this state by emission of field quanta of
+frequencies $\omega_k$. Also, it is showed that independent of the initial
+state of the atom, it thermalizes with the thermal radiation field in a time
+scale of the order of the inverse coupling constant.

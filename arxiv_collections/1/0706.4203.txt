@@ -1,0 +1,2 @@
+The Hasse-Weil-Serre bound is improved for curves of low genera over finite
+fields with discriminant in {-3,-4,-7,-8,-11,-19} by studying optimal curves.

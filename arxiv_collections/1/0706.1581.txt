@@ -1,0 +1,5 @@
+C Croke and B Kleiner have constructed an example of a CAT(0) group with more
+than one visual boundary. J Wilson has proven that this same group has
+uncountably many distinct boundaries. In this article we prove that the knot
+group of any connected sum of two non-trivial torus knots also has uncountably
+many distinct CAT(0) boundaries.

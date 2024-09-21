@@ -1,0 +1,9 @@
+We study the Poisson structure associated to the defocusing Ablowitz-Ladik
+equation from a functional-analytical point of view, by reexpressing the
+Poisson bracket in terms of the associated Caratheodory function. Using this
+expression, we are able to introduce a family of compatible Poisson brackets
+which form a multi-Hamiltonian structure for the Ablowitz-Ladik equation.
+Furthermore, we show using some of these new Poisson brackets that the
+Geronimus relations between orthogonal polynomials on the unit circle and those
+on the interval define an algebraic and symplectic mapping between the
+Ablowitz-Ladik and Toda hierarchies.

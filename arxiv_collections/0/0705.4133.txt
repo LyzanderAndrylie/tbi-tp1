@@ -1,0 +1,8 @@
+We consider a gas of hydrogen atoms illuminated by a broadband, unpolarized
+radiation with zero anisotropy. In the absence of external fields, the atomic
+J-levels are thus isotropically populated. While this condition persists in the
+presence of a magnetic field, we show instead that electric fields can induce
+the alignment of those levels. We also show that this electric alignment cannot
+occur in a two-term model of hydrogen (e.g., if only the Ly-alpha transition is
+excited), or if the level populations are distributed according to Boltzmann's
+law.

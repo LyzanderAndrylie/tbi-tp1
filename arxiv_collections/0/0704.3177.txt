@@ -1,0 +1,15 @@
+We analyse and compare the complexity of several algorithms for computing
+modular polynomials. We show that an algorithm relying on floating point
+evaluation of modular functions and on interpolation, which has received little
+attention in the literature, has a complexity that is essentially (up to
+logarithmic factors) linear in the size of the computed polynomials. In
+particular, it obtains the classical modular polynomials $\Phi_\ell$ of prime
+level $\ell$ in time O (\ell^3 \log^4 \ell \log \log \ell). Besides treating
+modular polynomials for $\Gamma^0 (\ell)$, which are an important ingredient in
+many algorithms dealing with isogenies of elliptic curves, the algorithm is
+easily adapted to more general situations. Composite levels are handled just as
+easily as prime levels, as well as polynomials between a modular function and
+its transform of prime level, such as the Schl\"afli polynomials and their
+generalisations. Our distributed implementation of the algorithm confirms the
+theoretical analysis by computing modular equations of record level around
+10000 in less than two weeks on ten processors.

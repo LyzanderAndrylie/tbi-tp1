@@ -1,0 +1,11 @@
+We present the first systematic calculations based on the angular-momentum
+projection of cranked Slater determinants. We propose the Iy --> I scheme, by
+which one projects the angular momentum I from the 1D cranked state constrained
+to the average spin projection of <I_y>=I. Calculations performed for the
+rotational band in 46Ti show that the AMP Iy --> I scheme offers a natural
+mechanism for correcting the cranking moment of inertia at low-spins and
+shifting the terminating state up by ~2 MeV, in accordance with data. We also
+apply this scheme to high-spin states near the band termination in A~44 nuclei,
+and compare results thereof with experimental data, shell-model calculations,
+and results of the approximate analytical symmetry-restoration method proposed
+previously.

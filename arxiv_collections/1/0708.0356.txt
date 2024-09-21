@@ -1,0 +1,4 @@
+A diffusion process is usually assumed for the phase of the order parameter
+of a Bose system of finite size. The theoretical basis is limited to the so
+called Bogoliubov approximation. We show that a suitable generalization of the
+Hartree-Fock-Bogoliubov approach recovers phase diffusion.

@@ -1,0 +1,14 @@
+In this paper we introduce a variant of pushdown dimension called bounded
+pushdown (BPD) dimension, that measures the density of information contained in
+a sequence, relative to a BPD automata, i.e. a finite state machine equipped
+with an extra infinite memory stack, with the additional requirement that every
+input symbol only allows a bounded number of stack movements. BPD automata are
+a natural real-time restriction of pushdown automata. We show that BPD
+dimension is a robust notion by giving an equivalent characterization of BPD
+dimension in terms of BPD compressors. We then study the relationships between
+BPD compression, and the standard Lempel-Ziv (LZ) compression algorithm, and
+show that in contrast to the finite-state compressor case, LZ is not universal
+for bounded pushdown compressors in a strong sense: we construct a sequence
+that LZ fails to compress signicantly, but that is compressed by at least a
+factor 2 by a BPD compressor. As a corollary we obtain a strong separation
+between finite-state and BPD dimension.

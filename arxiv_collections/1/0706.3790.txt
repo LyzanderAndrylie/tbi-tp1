@@ -1,0 +1,11 @@
+We report the measurements of the t anti-t production cross section and of
+the top quark mass using 1.02 fb^-1 of p anti-p data collected with the CDFII
+detector at the Fermilab Tevatron. We select events with six or more jets on
+which a number of kinematical requirements are imposed by means of a neural
+network algorithm. At least one of these jets must be identified as initiated
+by a b-quark candidate by the reconstruction of a secondary vertex. The cross
+section is measured to be sigma_{tt}=8.3+-1.0(stat.)+2.0-1.5(syst.)+-0.5(lumi.)
+pb, which is consistent with the standard model prediction. The top quark mass
+of 174.0+-2.2(stat.)+-4.8(syst.) GeV/c^2 is derived from a likelihood fit
+incorporating reconstructed mass distributions representative of signal and
+background.

@@ -1,0 +1,14 @@
+The optimization of the pressure angle in a cam-follower transmission is
+reported in this paper. This transmission is based on Slide-o-Cam, a cam
+mechanism with multiple rollers mounted on a common translating follower. The
+design of Slide-o-Cam, a transmission intended to produce a sliding motion from
+a turning drive, or vice versa, was reported elsewhere. This transmission
+provides pure-rolling motion, thereby reducing the friction of rack-and-pinions
+and linear drives. The pressure angle is a suitable performance index for this
+transmission because it determines the amount of force transmitted to the load
+vs. that transmitted to the machine frame. Two alternative design strategies
+are studied, namely, (i) increase the number of lobes on each cam or (ii)
+increase the number of cams. This device is intended to replace the current
+ball-screws in Orthoglide, a three-DOF parallel robot for the production of
+translational motions, currently under development at Ecole Centrale de Nantes
+for machining applications.

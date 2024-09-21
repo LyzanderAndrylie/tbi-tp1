@@ -1,0 +1,8 @@
+The notion of weak measurement provides a formalism for extracting
+information from a quantum system in the limit of vanishing disturbance to its
+state. Here we extend this formalism to the measurement of sequences of
+observables. When these observables do not commute, we may obtain information
+about joint properties of a quantum system that would be forbidden in the usual
+strong measurement scenario. As an application, we provide a physically
+compelling characterisation of the notion of counterfactual quantum
+computation.

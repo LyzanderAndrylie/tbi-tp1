@@ -1,0 +1,3 @@
+We prove an analog of Siegel's theorem for integral points in the context of
+Drinfeld modules. The result holds for finitely generated submodules of the
+additive group over a function field of transcendence dimension 1.

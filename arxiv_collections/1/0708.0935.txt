@@ -1,0 +1,5 @@
+Recently a formulation of overlap fermions at finite density based on an
+analytic continuation of the sign function was proposed. We study this proposal
+by analyzing the energy and number densities for free fermions as a function of
+the chemical potential and the temperature. Our results show that overlap
+fermions with chemical potential give rise to the correct continuum behavior.

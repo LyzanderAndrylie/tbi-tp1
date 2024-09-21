@@ -1,0 +1,8 @@
+We propose a simple model of pathologic microsatellite expansion, and
+describe an inherent self-repairing mechanism working against expansion. We
+prove that if the probabilities of elementary expansions and contractions are
+equal, microsatellite expansions are always self-repairing. If these
+probabilities are different, self-reparation does not work. Mosaicism,
+anticipation and reverse mutation cases are discussed in the framework of the
+model. We explain these phenomena and provide some theoretical evidence for
+their properties, for example the rarity of reverse mutations.

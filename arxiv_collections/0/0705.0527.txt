@@ -1,0 +1,13 @@
+The ability to control the conductance of single molecules will have a major
+impact in nanoscale electronics. Azobenzene, a molecule that changes
+conformation as a result of a trans/cis transition when exposed to radiation,
+could form the basis of a light-driven molecular switch. It is therefore
+crucial to clarify the electrical transport characteristics of this molecule.
+Here, we investigate theoretically charge transport in a system in which a
+single azobenzene molecule is attached to two carbon nanotubes. In clear
+contrast to gold electrodes, the nanotubes can act as true nanoscale electrodes
+and we show that the low-energy conduction properties of the junction may be
+dramatically modified by changing the topology of the contacts between the
+nanotubes and the molecules, and/or the chirality of the nanotubes (that is,
+zigzag or armchair). We propose experiments to demonstrate controlled
+electrical switching with nanotube electrodes.

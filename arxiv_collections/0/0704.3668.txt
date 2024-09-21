@@ -1,0 +1,15 @@
+We investigate the Dbar-N interaction at low energies using a meson-exchange
+model supplemented with a short-distance contribution from one-gluon-exchange.
+The model is developed in close analogy to the meson-exchange KN interaction of
+the Juelich group utilizing SU(4) symmetry constraints. The main ingredients of
+the interaction are provided by vector meson (rho, omega) exchange and
+higher-order box diagrams involving D*N, D\Delta, and D*\Delta intermediate
+states. The short range part is assumed to receive additional contributions
+from genuine quark-gluon processes. The predicted cross sections for Dbar-N for
+excess energies up to 150 MeV are of the same order of magnitude as those for
+KN but with average values of around 20 mb, roughly a factor two larger than
+for the latter system. It is found that the omega-exchange plays a very
+important role. Its interference pattern with the rho-exchange, which is
+basically fixed by the assumed SU(4) symmetry, clearly determines the
+qualitative features of the Dbar-N interaction -- very similiar to what happens
+also for the KN system.

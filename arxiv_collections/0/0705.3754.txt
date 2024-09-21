@@ -1,0 +1,7 @@
+We consider Feshbach scattering of fermions in a one-dimensional optical
+lattice. By formulating the scattering theory in the crystal momentum basis,
+one can exploit the lattice symmetry and factorize the scattering problem in
+terms of center-of-mass and relative momentum in the reduced Brillouin zone
+scheme. Within a single band approximation, we can tune the position of a
+Feshbach resonance with the center-of-mass momentum due to the non-parabolic
+form of the energy band.

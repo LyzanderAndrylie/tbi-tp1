@@ -1,0 +1,6 @@
+We analyze the zero temperature conductance of a parallel T-shaped double
+quantum dot system. We present an analytical expression for the conductance of
+the system in terms of the total number of electrons in both quantum dots. Our
+results confirm that the system's conductance is strongly influenced by the dot
+which is not directly connected to the leads. We discuss our results in
+connection with similar results reported in the literature.

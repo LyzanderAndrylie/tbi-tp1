@@ -1,0 +1,15 @@
+The neutrinos detected from the next Galactic core-collapse supernova will
+contain valuable information on the internal dynamics of the explosion. One
+mechanism leading to a temporal evolution of the neutrino signal is the
+variation of the induced neutrino flavor mixing driven by changes in the
+density profile. With one and two dimensional hydrodynamical simulations we
+identify the behavior and properties of prominent features of the explosion.
+Using these results we demonstrate the time variation of the neutrino crossing
+probabilities due to changes in the MSW neutrino transformations as the star
+explodes by using the S-matrix - Monte Carlo - approach to neutrino
+propagation. After adopting spectra for the neutrinos emitted from the
+proto-neutron star we calculate for a Galactic supernova the evolution of the
+positron spectra within a water Cerenkov detector and the ratio of charged
+current to neutral current event rates for a heavy water - SNO like - detector
+and find that these detector signals are feasible probes of a number of
+explosion features.

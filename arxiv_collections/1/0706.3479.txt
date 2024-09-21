@@ -1,0 +1,13 @@
+Hypercomputational formal theories will, clearly, be both structurally and
+foundationally different from the formal theories underpinning computational
+theories. However, many of the maps that might guide us into this strange realm
+have been lost. So little work has been done recently in the area of
+metamathematics, and so many of the previous results have been folded into
+other theories, that we are in danger of loosing an appreciation of the broader
+structure of formal theories. As an aid to those looking to develop
+hypercomputational theories, we will briefly survey the known landmarks both
+inside and outside the borders of computational theory. We will not focus in
+this paper on why the structure of formal theory looks the way it does. Instead
+we will focus on what this structure looks like, moving from hypocomputational,
+through traditional computational theories, and then beyond to
+hypercomputational theories.

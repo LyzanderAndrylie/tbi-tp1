@@ -1,0 +1,8 @@
+Because of spin-orbit interaction, an electrical current is accompanied by a
+spin current resulting in spin accumulation near the sample edges. Due again to
+spin-orbit interaction this causes a small decrease of the sample resistance.
+An applied magnetic field will destroy the edge spin polarization leading to a
+positive magnetoresistance. This effect provides means to study spin
+accumulation by electrical measurements. The origin and the general properties
+of the phenomenological equations describing coupling between charge and spin
+currents are also discussed.

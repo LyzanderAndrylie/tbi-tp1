@@ -1,0 +1,5 @@
+In the customary VCG (Vickrey-Clarke-Groves) mechanism truth-telling is a
+dominant strategy. In this paper we study the sequential VCG mechanism and show
+that other dominant strategies may then exist. We illustrate how this fact can
+be used to minimize taxes using examples concerned with Clarke tax and public
+projects.

@@ -1,0 +1,12 @@
+We analyze the scaling parameter, extracted from the fidelity for two
+different ground states, for the one-dimensional quantum Ising model in a
+transverse field near the critical point. It is found that, in the
+thermodynamic limit, the scaling parameter is singular, and the derivative of
+its logarithmic function with respect to the transverse field strength is
+logarithmically divergent at the critical point. The scaling behavior is
+confirmed numerically by performing a finite size scaling analysis for systems
+of different sizes, consistent with the conformal invariance at the critical
+point. This allows us to extract the correlation length critical exponent,
+which turns out to be universal in the sense that the correlation length
+critical exponent does not depend on either the anisotropic parameter or the
+transverse field strength.

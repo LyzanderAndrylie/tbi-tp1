@@ -1,0 +1,14 @@
+We study the long distance interaction for hybrid hadrons, with a static
+gluon, a quark and an antiquark with lattice QCD techniques. A Wilson loop
+adequate to the static hybrid three-body system is developed and, using a 24^3
+x 48 periodic lattice with beta=6.2 and a ~ 0.075 fm, two different geometries
+for the gluon-quark segment and the gluon-antiquark segment are investigated.
+When these segments are perpendicular, the static potential is compatible with
+confinement realized with a pair of fundamental strings, one linking the gluon
+to the quark and another linking the same gluon to the antiquark. When the
+segments are parallel and superposed, the total string tension is larger and
+agrees with the Casimir Scaling measured by Bali. This can be interpreted with
+a type-II superconductor analogy for the confinement in QCD, with repulsion of
+the fundamental strings and with the string tension of the first topological
+excitation of the string (the adjoint string) larger than the double of the
+fundamental string tension.

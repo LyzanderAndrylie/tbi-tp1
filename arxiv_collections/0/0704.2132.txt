@@ -1,0 +1,22 @@
+Objectives: In this study, we quantify the growth variability of tumour cell
+clones from a human leukemia cell line. Materials and methods: We have used
+microplate spectrophotometry to measure the growth kinetics of hundreds of
+individual cell clones from the Molt3 cell line. The growth rate of each clonal
+population has been estimated by fitting experimental data with the logistic
+equation. Results: The growth rates were observed to vary among different
+clones. Up to six clones with a growth rate above or below the mean growth rate
+of the parent population were further cloned and the growth rates of their
+offsprings were measured. The distribution of the growth rates of the subclones
+did not significantly differ from that of the parent population thus suggesting
+that growth variability has an epigenetic origin. To explain the observed
+distributions of clonal growth rates we have developed a probabilistic model
+assuming that the fluctuations in the number of mitochondria through successive
+cell cycles are the leading cause of growth variability. For fitting purposes,
+we have estimated experimentally by flow cytometry the maximum average number
+of mitochondria in Molt3 cells. The model fits nicely the observed
+distributions of growth rates, however, cells in which the mitochondria were
+rendered non functional (rho-0 cells) showed only a 30% reduction in the clonal
+growth variability with respect to normal cells. Conclusions: A tumor cell
+population is a dynamic ensemble of clones with highly variable growth rate. At
+least part of this variability is due to fluctuations in the number of
+mitochondria.

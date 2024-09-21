@@ -1,0 +1,10 @@
+We study the triple differential distribution of B-> Xu l nu, consistently
+including all perturbative and non-perturbative effects through O(alphas^2
+beta_0) and O(1/mb^3). The Fermi motion is parameterized in terms of a single
+light-cone function for each structure function and for any value of q^2,
+accounting for all subleading effects. We discuss the problems and
+uncertainties related to the high-q^2 tail and to Weak Annihilation effects. We
+work in the kinetic scheme, a framework characterized by a Wilsonian treatment
+with a hard cutoff mu ~ 1GeV. Our method is illustrated with the extraction of
+|V_ub| from some of the latest experimental data, providing a detailed estimate
+of the theoretical uncertainty.

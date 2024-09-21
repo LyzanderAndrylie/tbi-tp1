@@ -1,0 +1,22 @@
+We present here our study of the adiabatic quantum dynamics of a random Ising
+chain across its quantum critical point. The model investigated is an Ising
+chain in a transverse field with disorder present both in the exchange coupling
+and in the transverse field. The transverse field term is proportional to a
+function $\Gamma(t)$ which, as in the Kibble-Zurek mechanism, is linearly
+reduced to zero in time with a rate $\tau^{-1}$, $\Gamma(t)=-t/\tau$, starting
+at $t=-\infty$ from the quantum disordered phase ($\Gamma=\infty$) and ending
+at $t=0$ in the classical ferromagnetic phase ($\Gamma=0$). We first analyze
+the distribution of the gaps -- occurring at the critical point $\Gamma_c=1$ --
+which are relevant for breaking the adiabaticity of the dynamics. We then
+present extensive numerical simulations for the residual energy $E_{\rm res}$
+and density of defects $\rho_k$ at the end of the annealing, as a function of
+the annealing inverse rate $\tau$. %for different lenghts of the chain. Both
+the average $E_{\rm res}(\tau)$ and $\rho_k(\tau)$ are found to behave
+logarithmically for large $\tau$, but with different exponents, $[E_{\rm
+res}(\tau)/L]_{\rm av}\sim 1/\ln^{\zeta}(\tau)$ with $\zeta\approx 3.4$, and
+$[\rho_k(\tau)]_{\rm av}\sim 1/\ln^{2}(\tau)$. We propose a mechanism for
+$1/\ln^2{\tau}$-behavior of $[\rho_k]_{\rm av}$ based on the Landau-Zener
+tunneling theory and on a Fisher's type real-space renormalization group
+analysis of the relevant gaps. The model proposed shows therefore a
+paradigmatic example of how an adiabatic quantum computation can become very
+slow when disorder is at play, even in absence of any source of frustration.

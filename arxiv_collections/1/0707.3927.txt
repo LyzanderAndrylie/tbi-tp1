@@ -1,0 +1,10 @@
+We consider cigar shaped Fermi superfluid in the BEC-BCS crossover. Using
+polytropic form of equation of state, we derive low energy multibranch bosonic
+excitations and the corresponding density fluctuations in three different
+regimes along the crossover, namely weak-coupling BCS, unitarity and molecular
+BEC regimes. Bragg spectroscopy can be used to probe the multibranch nature of
+the low energy bosonic excitations by measuring dynamic structure factor.
+Therefore, we calculate dynamic structure factor in those three different
+regimes. In the Bragg spectroscopy, an actual observable is momentum imparted
+to the superfluid due to the Bragg potential. We also present results of the
+momentum imparted to the superfluid due to the Bragg pulses.

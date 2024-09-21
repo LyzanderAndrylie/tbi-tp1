@@ -1,0 +1,7 @@
+We discuss some properties of the Knill-Laflamme-Milburn scheme for quantum
+teleportation with both maximally and nonmaximally entangled states. We derive
+the error correction scheme when one performs teleportation with nonmaximally
+entangled states and we find the probability for perfect teleportation. We show
+that the maximally entangled state is optimal in such a case. We also show how
+the error correction scheme can be implemented experimentally when one uses
+polarization encoding.

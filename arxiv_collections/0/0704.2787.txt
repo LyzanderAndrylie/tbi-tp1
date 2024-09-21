@@ -1,0 +1,8 @@
+We elucidate the mechanism of cold denaturation through constant-pressure
+simulations for a model of hydrophobic molecules in an explicit solvent. We
+find that the temperature dependence of the hydrophobic effect is the driving
+force/induces/facilitates cold denaturation. The physical mechanism underlying
+this phenomenon is identified as the destabilization of hydrophobic contact in
+favor of solvent separated configurations, the same mechanism seen in pressure
+induced denaturation. A phenomenological explanation proposed for the mechanism
+is suggested as being responsible for cold denaturation in real proteins.

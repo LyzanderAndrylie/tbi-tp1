@@ -1,0 +1,11 @@
+Chemotaxis is the process by which cells behave in a way that follows the
+chemical gradient. Applications to bacteria growth, tissue inflammation, and
+vascular tumors provide a focus on optimization strategies. Experiments can
+characterize the form of possible chemotactic sensitivities. This paper
+addresses the recovery of the chemotactic sensitivity from these experiments
+while allowing for nonlinear dependence of the parameter on the state
+variables. The existence of solutions to the forward problem is analyzed. The
+identification of a chemotactic parameter is determined by inverse problem
+techniques. Tikhonov regularization is investigated and appropriate convergence
+results are obtained. Numerical results of concentration dependent chemotactic
+terms are explored.

@@ -1,0 +1,11 @@
+We calculate the s-wave part of the pion-nucleus optical potential using a
+unitarized chiral approach that has been previously used to simultaneously
+describe pionic hydrogen and deuterium data as well as low energy pi N
+scattering in the vacuum. This energy dependent model allows for additional
+isoscalar parts in the potential from multiple rescattering. We consider Pauli
+blocking and pion polarization in an asymmetric nuclear matter environment.
+Also, higher order corrections of the pi N amplitude are included. The model
+can accommodate the repulsion required by phenomenological fits, though the
+theoretical uncertainties are bigger than previously thought. At the same time,
+we also find an enhancement of the isovector part compatible with empirical
+determinations.

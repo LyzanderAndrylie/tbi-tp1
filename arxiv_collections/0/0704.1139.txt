@@ -1,0 +1,10 @@
+This paper explores the following question: what kind of statistical
+guarantees can be given when doing variable selection in high-dimensional
+models? In particular, we look at the error rates and power of some multi-stage
+regression methods. In the first stage we fit a set of candidate models. In the
+second stage we select one model by cross-validation. In the third stage we use
+hypothesis testing to eliminate some variables. We refer to the first two
+stages as "screening" and the last stage as "cleaning." We consider three
+screening methods: the lasso, marginal regression, and forward stepwise
+regression. Our method gives consistent variable selection under certain
+conditions.

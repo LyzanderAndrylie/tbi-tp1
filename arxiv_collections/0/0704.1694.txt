@@ -1,0 +1,18 @@
+A k-query Locally Decodable Code (LDC) encodes an n-bit message x as an N-bit
+codeword C(x), such that one can probabilistically recover any bit x_i of the
+message by querying only k bits of the codeword C(x), even after some constant
+fraction of codeword bits has been corrupted. The major goal of LDC related
+research is to establish the optimal trade-off between length and query
+complexity of such codes.
+  Recently [Y] introduced a novel technique for constructing locally decodable
+codes and vastly improved the upper bounds for code length. The technique is
+based on Mersenne primes. In this paper we extend the work of [Y] and argue
+that further progress via these methods is tied to progress on an old number
+theory question regarding the size of the largest prime factors of Mersenne
+numbers.
+  Specifically, we show that every Mersenne number m=2^t-1 that has a prime
+factor p>m^\gamma yields a family of k(\gamma)-query locally decodable codes of
+length Exp(n^{1/t}). Conversely, if for some fixed k and all \epsilon > 0 one
+can use the technique of [Y] to obtain a family of k-query LDCs of length
+Exp(n^\epsilon); then infinitely many Mersenne numbers have prime factors arger
+than known currently.

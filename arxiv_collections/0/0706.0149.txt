@@ -1,0 +1,12 @@
+For the submillimeter band observations, we have been routinely adopting the
+calibration cycle time of 20-30 minutes, which is the same as any typical
+centimeter and millimeter band observations. This cycle time, largely corrects
+only the instrumental phase fluctuations and there exists residual phase
+fluctuations, which are attributed to temporal and spatial atmospheric phase
+fluctuations. Hence, the classical calibration cycle needs closer attention for
+any future submillimeter band observations. We have therefore obtained
+fast-switching test data, cycling between three nearby calibrators, using the
+submillimeter array (SMA) with a cycle time of $\sim$90 sec, in order to
+understand and optimize the calibration cycle suitably, thereby to achieve the
+projected sensitivity, angular resolution and dynamic range for the SMA. Here,
+we present the preliminary results from this study.

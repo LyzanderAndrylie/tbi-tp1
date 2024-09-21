@@ -1,0 +1,15 @@
+We investigate the DFT+U approach as a viable solution to describe the
+low-lying states of ligated and unligated iron heme complexes. Besides their
+central role in organometallic chemistry, these compounds represent a
+paradigmatic case where LDA, GGA, and common hybrid functionals fail to
+reproduce the experimental magnetic splittings. In particular, the imidazole
+pentacoordinated heme is incorrectly described as a triplet by all usual DFT
+flavors. In this study we show that a U parameter close to 4 eV leads to spin
+transitions and molecular geometries in quantitative agreement with
+experiments, and that DFT+U represents an appealing tool in the description of
+iron porphyrin complexes, at a much reduced cost compared to correlated
+quantum-chemistry methods. The possibility of obtaining the U parameter from
+first-principles is explored through a self-consistent linear-response
+formulation. We find that this approach, which proved to be successful in other
+iron systems, produces in this case some overestimation with respect to the
+optimal values of U.

@@ -1,0 +1,24 @@
+The Bel and Bel-Robinson tensors were introduced nearly fifty years ago in an
+attempt to generalize to gravitation the energy-momentum tensor of
+electromagnetism. This generalization was successful from the mathematical
+point of view because these tensors share mathematical properties which are
+remarkably similar to those of the energy-momentum tensor of electromagnetism.
+However, the physical role of these tensors in General Relativity has remained
+obscure and no interpretation has achieved wide acceptance. In principle, they
+cannot represent {\em energy} and the term {\em superenergy} has been coined
+for the hypothetical physical magnitude lying behind them. In this work we try
+to shed light on the true physical meaning of {\em superenergy} by following
+the same procedure which enables us to give an interpretation of the
+electromagnetic energy. This procedure consists in performing an orthogonal
+splitting of the Bel and Bel-Robinson tensors and analysing the different parts
+resulting from the splitting. In the electromagnetic case such splitting gives
+rise to the electromagnetic {\em energy density}, the Poynting vector and the
+electromagnetic stress tensor, each of them having a precise physical
+interpretation which is deduced from the {\em dynamical laws} of
+electromagnetism (Poynting theorem). The full orthogonal splitting of the Bel
+and Bel-Robinson tensors is more complex but, as expected, similarities with
+electromagnetism are present. Also the covariant divergence of the Bel tensor
+is analogous to the covariant divergence of the electromagnetic energy-momentum
+tensor and the orthogonal splitting of the former is found. The ensuing {\em
+equations} are to the superenergy what the Poynting theorem is to
+electromagnetism. See paper for full abstract.

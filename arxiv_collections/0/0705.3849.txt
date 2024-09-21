@@ -1,0 +1,10 @@
+We present calculations of the frequency-dependent spin susceptibility tensor
+of a two-dimensional electron gas with competing Rashba and Dresselhaus
+spin-orbit interaction. It is shown that the interplay between both types of
+spin-orbit coupling gives rise to an anisotropic spectral behavior of the spin
+density response function which is significantly different from that of
+vanishing Rashba or Dresselhaus case. Strong resonances are developed in the
+spin susceptibility as a consequence of the angular anisotropy of the energy
+spin-splitting. This characteristic optical modulable response may be useful to
+experimentally probe spin accumulation and spin density currents in such
+systems.

@@ -1,0 +1,22 @@
+Let $\bf M$ be a smooth compact oriented Riemannian manifold, and let
+$\Delta$ be the Laplace-Beltrami operator on ${\bf M}$. Say $0 \neq f \in
+\mathcal{S}(\RR^+)$, and that $f(0) = 0$. For $t > 0$, let $K_t(x,y)$ denote
+the kernel of $f(t^2 \Delta)$. Suppose $f$ satisfies Daubechies' criterion, and
+$b > 0$. For each $j$, write ${\bf M}$ as a disjoint union of measurable sets
+$E_{j,k}$ with diameter at most $ba^j$, and comparable to $ba^j$ if $ba^j$ is
+sufficiently small. Take $x_{j,k} \in E_{j,k}$. We then show that the functions
+$\phi_{j,k}(x)=[\mu(E_{j,k})]^{1/2} \bar{K_{a^j}}(x_{j,k},x)$ form a frame for
+$(I-P)L^2({\bf M})$, for $b$ sufficiently small (here $P$ is the projection
+onto the constant functions). Moreover, we show that the ratio of the frame
+bounds approaches 1 nearly quadratically as the dilation parameter approaches
+1, so that the frame quickly becomes nearly tight (for $b$ sufficiently small).
+Moreover, based upon how well-localized a function $F \in (I-P)L^2$ is in space
+and in frequency, we can describe which terms in the summation $F \sim SF =
+\sum_j \sum_k < F,\phi_{j,k} > \phi_{j,k}$ are so small that they can be
+neglected. If $n=2$ and $\bf M$ is the torus or the sphere, and $f(s)=se^{-s}$
+(the "Mexican hat" situation), we obtain two explicit approximate formulas for
+the $\phi_{j,k}$, one to be used when $t$ is large, and one to be used when $t$
+is small. Finally we explain in what sense the kernel $K_t(x,y)$ should itself
+be regarded as a continuous wavelet on ${\bf M}$, and characterize the H\"older
+continuous functions on ${\bf M}$ by the size of their continuous wavelet
+transforms, for H\"older exponents strictly between 0 and 1.

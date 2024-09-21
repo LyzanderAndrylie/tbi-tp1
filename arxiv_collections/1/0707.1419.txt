@@ -1,0 +1,8 @@
+We point out that the notion of an unparticle, recently introduced by Georgi,
+can be interpreted as a particular case of a field with continuously
+distributed mass considered in ref.\cite{14}. We also point out that the
+simplest renormalizable extension of the $SU_c(3)\otimes SU_L(2)\otimes U(1)$
+Standard Model is the extension with the replacement of the U(1) gauge
+propagator $\frac{1}{k^2} \to \frac{1}{k^2} + \int
+_0^{\infty}\frac{\rho(t)}{-t+k^2 +i\epsilon}dt$ with $\int_0^{\infty}\rho(t)dt
+< \infty $.

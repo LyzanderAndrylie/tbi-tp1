@@ -1,0 +1,10 @@
+Continuous variable entanglement is a manifestation of nonclassicality of
+quantum states. In this paper we attempt to analyze whether and under which
+conditions nonclassicality can be used as an entanglement criterion. We adopt
+the well-accepted definition of nonclassicality in the form of lack of
+well-defined positive Glauber Sudarshan P-function describing the state. After
+demonstrating that the classicality of subsystems is not sufficient for the
+nonclassicality of the overall state to be identifiable with entanglement, we
+focus on Gaussian states and find specific local unitary transformations
+required to arrive at this equivalency. This is followed by the analysis of
+quantitative relation between nonclassicality and entanglement.

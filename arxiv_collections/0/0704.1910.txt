@@ -1,0 +1,18 @@
+Hundreds of substellar companions to solar-type stars will be discovered with
+the Kepler satellite. Kepler's extreme photometric precision gives access to
+low-amplitude stellar variability contributed by a variety of physical
+processes. We discuss in detail the periodic flux modulations arising from the
+tidal force on the star due to a substellar companion. An analytic expression
+for the variability is derived in the equilibrium-tide approximation. We
+demonstrate analytically and through numerical solutions of the linear,
+nonadiabatic stellar oscillation equations that the equilibrium-tide formula
+works extremely well for stars of mass <1.4 Msun with thick surface convection
+zones. More massive stars with largely radiative envelopes do not conform to
+the equilibrium-tide approximation and can exhibit flux variations $\ga$10
+times larger than naive estimates. Over the full range of stellar masses
+considered, we treat the oscillatory response of the convection zone by
+adapting a prescription that A. J. Brickhill developed for pulsating white
+dwarfs. Compared to other sources of periodic variability, the ellipsoidal
+lightcurve has a distinct dependence on time and system parameters. We suggest
+that ellipsoidal oscillations induced by giant planets may be detectable from
+as many as ~100 of the 10^5 Kepler target stars. (Abridged)

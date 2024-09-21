@@ -1,0 +1,10 @@
+We discuss various models of ion transport through cell membrane channels.
+Recent experimental data shows that sizes of ion channels are compared to those
+of ions and that only few ions may be simultaneously in any single channel.
+Theoretical description of ion transport in such channels should therefore take
+into account interactions between ions and between ions and channel proteins.
+This is not satisfied by macroscopic continuum models based on
+Poisson-Nernst-Planck equations. More realistic descriptions of ion transport
+are offered by microscopic Brownian and molecular dynamics. One should also
+take into account a dynamical character of the channel structure. This is not
+yet addressed in the literature

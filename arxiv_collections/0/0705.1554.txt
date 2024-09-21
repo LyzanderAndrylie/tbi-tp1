@@ -1,0 +1,18 @@
+Recent rapid localizations of short, hard gamma-ray bursts (GRBs) by the
+Swift and HETE satellites have led to the observation of the first afterglows
+and the measurement of the first redshifts from this type of burst. Detection
+of >100 GeV counterparts would place powerful constraints on GRB mechanisms.
+Seventeen short duration (< 5 s) GRBs detected by satellites occurred within
+the field of view of the Milagro gamma-ray observatory between 2000 January and
+2006 December. We have searched the Milagro data for >100 GeV counterparts to
+these GRBs and find no significant emission correlated with these bursts. Due
+to the absorption of high-energy gamma rays by the extragalactic background
+light (EBL), detections are only expected for redshifts less than ~0.5. While
+most long duration GRBs occur at redshifts higher than 0.5, the opposite is
+thought to be true of short GRBs. Lack of a detected VHE signal thus allows
+setting meaningful fluence limits. One GRB in the sample (050509b) has a likely
+association with a galaxy at a redshift of 0.225, while another (051103) has
+been tentatively linked to the nearby galaxy M81. Fluence limits are corrected
+for EBL absorption, either using the known measured redshift, or computing the
+corresponding absorption for a redshift of 0.1 and 0.5, as well as for the case
+of z=0.

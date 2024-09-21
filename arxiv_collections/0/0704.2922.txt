@@ -1,0 +1,9 @@
+We investigate dynamical stability of the ground state against a
+time-periodic and spatially-inhomogeneous magnetic field for finite quantum XXZ
+spin chains. We use the survival probability as a measure of stability and
+demonstrate that it decays as $P(t) \propto t^{-1/2}$ under a certain
+condition. The dynamical properties should also be related to the level
+statistics of the XXZ spin chains with a constant spatially-inhomogeneous
+magnetic field. The level statistics depends on the anisotropy parameter and
+the field strength. We show how the survival probability depends on the
+anisotropy parameter, the strength and frequency of the field.

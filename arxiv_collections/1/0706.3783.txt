@@ -1,0 +1,6 @@
+We have studied the behavior of the S-matrix poles near threshold for quantum
+waveguides coupled to a cavity with a defect. We emphasize the occurrence of
+both dominant and shadow poles on the various sheets of the energy Riemann
+surface, and show that the changes of the total conductivity near threshold as
+the cavity's width changes can be explained in terms of dominant to shadow pole
+transitions.

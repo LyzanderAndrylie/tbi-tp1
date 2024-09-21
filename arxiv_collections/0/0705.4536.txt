@@ -1,0 +1,4 @@
+Improving upon earlier results of Freiman and the present authors, we show
+that if $p$ is a sufficiently large prime and $A$ is a sum-free subset of the
+group of order $p$, such that $n:=|A|>0.318p$, then $A$ is contained in a
+dilation of the interval $[n,p-n]\pmod p$.

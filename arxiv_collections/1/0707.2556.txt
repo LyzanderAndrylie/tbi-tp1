@@ -1,0 +1,23 @@
+It has been theorized that if heavy nuclei (e.g. Au, Pb) are collided at
+sufficiently high energies, we might be to recreate the conditions that existed
+in the universe a few microseconds after the Big Bang. The kinetic energy of
+the colliding nuclei gets converted into heat, leading to a phase transition
+into a new state of matter: the Quark-Gluon Plasma (QGP), in which quarks and
+gluons are deconfined. However, we never directly get to see the QGP because as
+the matter cools it recombines (hadronizes) into ordinary subatomic particles.
+We can only hope to infer its existence from indirect experimental signatures,
+after hadronization. In this dissertation we attempt to shed some light on:
+  Properties of the final state of produced matter in Au+Au collisions at
+$\sqrt{s_{NN}}=200$ GeV. As the hot, dense system of particles from the
+collision zone cools and expands, light nuclei like deuterons and
+anti-deuterons can be formed, with a probability proportional to the product of
+the phase space densities of its constituent nucleons. Thus, invariant yield of
+deuterons, compared to the protons and neutrons from which they coalesce,
+provides information about the size of the emitting system and its space-time
+evolution.
+  The initial conditions that led to this. This is done by looking at the
+nuclear modification factor $R_{cp}$ from particle production in forward and
+backward directions in a ``control'' experiment using d+Au collisions at
+$\sqrt{s_{NN}}=200$ GeV. This can allow us to distinguish between effects that
+could potentially be due to deconfinement, versus effects of cold nuclear
+matter.

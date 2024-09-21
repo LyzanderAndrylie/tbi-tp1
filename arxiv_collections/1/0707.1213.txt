@@ -1,0 +1,10 @@
+We describe the preparation of high-temperature PbTe diodes. Satisfactory
+rectification was observed up to 180-200 K. Two types of diodes, based on a
+p-PbTe single crystal, were prepared: (1) by In ion-implantation, and (2) by
+thermodiffusion of In. Measurements were carried-out from ~ 10 K to ~ 200 K.
+The ion-implanted diodes exhibit a satisfactorily low saturation current up to
+a reverse bias of ~ 400 mV, and the thermally diffused junctions up to ~ 1 V.
+The junctions are linearly graded. The current-voltage characteristics have
+been fitted using the Shockley model. Photosensor parameters:
+zero-bias-resistance x area product, the R0C time constant and the detectivity
+D* are presented.

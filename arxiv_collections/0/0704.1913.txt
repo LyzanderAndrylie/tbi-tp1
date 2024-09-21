@@ -1,0 +1,16 @@
+We extend previous analyses of the supersymmetric loop correction to the
+neutral Higgs couplings to include the coupling $\chi^{+}_j \chi^{-}_kH^{0}_l$.
+The analysis completes the previous analyses where similar corrections were
+computed for the $\bar{\tau} \tau H^{0}_l$, $\bar{b} b H^{0}_l$, $\bar{c} c
+H^{0}_l$ and for $\bar{t} t H^{0}_l$ couplings within the minimal
+supersymmetric standard model. The effective one loop Lagrangian is then
+applied to the computation of the neutral Higgs decays. The sizes of the
+supersymmetric loop corrections of the neutral Higgs decay widths into
+$\chi^{+}_i \chi^{-}_j$ ($i=1,2$; $j=1,2$) are investigated and the
+supersymmetric loop correction is found to be in the range of $7\sim15%$ in
+significant regions of the parameter space. By including the loop corrections
+of the other decay channels $\bar{b} b$, $\bar{t} t$, $\bar{\tau} \tau$,
+$\bar{c} c$, and $\chi^0_i \chi^0_j$ ($i=1-4$; $j=1-4$), the corrections to
+branching ratios for $H^{0}_l\to \chi^{+}_i \chi^{-}_j$ can reach as high as
+40%.
+  The effects of CP phases on the branching ratio are also investigated.

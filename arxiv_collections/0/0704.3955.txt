@@ -1,0 +1,11 @@
+We present here a detailed study of the behaviour of a three dimensional
+Brownian motor based on cold atoms in a double optical lattice [P. Sjolund et
+al., Phys. Rev. Lett. 96, 190602 (2006)]. This includes both experiments and
+numerical simulations of a Brownian particle. The potentials used are spatially
+and temporally symmetric, but combined spatiotemporal symmetry is broken by
+phase shifts and asymmetric transfer rates between potentials. The diffusion of
+atoms in the optical lattices is rectified and controlled both in direction and
+speed along three dimensions. We explore a large range of experimental
+parameters, where irradiances and detunings of the optical lattice lights are
+varied within the dissipative regime. Induced drift velocities in the order of
+one atomic recoil velocity have been achieved.

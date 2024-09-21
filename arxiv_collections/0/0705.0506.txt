@@ -1,0 +1,15 @@
+The contact model for the spread of disease may be viewed as a directed
+percolation model on $\ZZ \times \RR$ in which the continuum axis is oriented
+in the direction of increasing time. Techniques from percolation have enabled a
+fairly complete analysis of the contact model at and near its critical point.
+The corresponding process when the time-axis is unoriented is an undirected
+percolation model to which now standard techniques may be applied. One may
+construct in similar vein a random-cluster model on $\ZZ \times \RR$, with
+associated continuum Ising and Potts models. These models are of independent
+interest, in addition to providing a path-integral representation of the
+quantum Ising model with transverse field. This representation may be used to
+obtain a bound on the entanglement of a finite set of spins in the quantum
+Ising model on $\ZZ$, where this entanglement is measured via the entropy of
+the reduced density matrix. The mean-field version of the quantum Ising model
+gives rise to a random-cluster model on $K_n \times \RR$, thereby extending the
+Erdos-Renyi random graph on the complete graph $K_n$.

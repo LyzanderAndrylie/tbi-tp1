@@ -1,0 +1,13 @@
+The upper critical field $H_{c2}$ is one of the many non conventional
+properties of high-$T_c$ cuprates. It is possible that the $H_{c2}(T)$
+anomalies are due to the presence of inhomogeneities in the local charge
+carrier density $\rho$ of the $CuO_2$ planes. In order to study this point, we
+have prepared good quality samples of polycrystalline $La_{2-x}Sr_xCuO_{4}$
+using the wet-chemical method, which has demonstrated to produce samples with a
+better cation distribution. In particular, we have studied the temperature
+dependence of the second critical field, $H_{c2}(T)$, through the magnetization
+measurements on two samples with opposite average carrier concentration
+($\rho_m=x$) and nearly the same critical temperature, namely $\rho_m = 0.08$
+(underdoped) and $\rho_m = 0.25$ (overdoped). The results close to $T_c$ do not
+follow the usual Ginzburg-Landau theory and are interpreted by a theory which
+takes into account the influence of the inhomogeneities.

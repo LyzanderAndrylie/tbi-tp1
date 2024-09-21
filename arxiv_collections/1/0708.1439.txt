@@ -1,0 +1,8 @@
+A model is proposed to minimize the total volume of the main distribution
+networks of fluids in relation to the organ form. The minimization analysis
+shows that the overall exterior form of distribution networks is a modified
+ellipsoid, a geometric form that is a good approximation to the external
+anatomy of the kidney and lung. The variational procedure implementing this
+minimization is similar to the traditional isoperimetric theorems of geometry.
+  A revised version of this preprint that expands Section 4 will be published
+in the Journal of Biological Systems, World Scientific Publishing.

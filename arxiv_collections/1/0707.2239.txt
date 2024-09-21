@@ -1,0 +1,7 @@
+We examine the generic phase behavior of high-Tc cuprate superconductors in
+terms a universal van Hove singularity in the strongly overdoped region. Using
+a rigid ARPES-derived dispersion we solve the BCS gap equation and show that
+the pairing interaction or pairing energy cutoff must be a rapidly declining
+function of doping. This result is prejudicial to a phonon-based pairing
+interaction and more consistent with a magnetic or magnetically enhanced
+interaction.

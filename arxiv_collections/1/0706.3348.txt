@@ -1,0 +1,6 @@
+Rule 110 is a complex elementary cellular automaton able of supporting
+universal computation and complicated collision-based reactions between
+gliders. We propose a representation for coding initial conditions by means of
+a finite subset of regular expressions. The sequences are extracted both from
+de Bruijn diagrams and tiles specifying a set of phases fi_1 for each glider in
+Rule 110. The subset of regular expressions is explained in detail.

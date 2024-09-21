@@ -1,0 +1,7 @@
+This paper introduces the concept of symbolic sensor as an extension of the
+smart sensor one. Then, the links between the physical world and the symbolic
+one are introduced. The creation of symbols is proposed within the frame of the
+pretopology theory. In order to adapt the sensor to the measurement context, a
+learning process has been used to provide an adaptive interpretation of the
+measurement. Finally, an example is presented in the case of a temperature
+measurement.

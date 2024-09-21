@@ -1,0 +1,12 @@
+We establish a one-to-one correspondence between one-sided and two-sided
+regular systems of conditional probabilities on the half-line that preserves
+the associated chains and Gibbs measures. As an application, we determine
+uniqueness and non-uniqueness regimes in one-sided versions of ferromagnetic
+Ising models with long range interactions. Our study shows that the interplay
+between chain and Gibbsian theories yields more information than that contained
+within the known theory of each separate framework. In particular: (i) A
+Gibbsian construction due to Dyson yields a new family of chains with phase
+transitions; (ii) these transitions show that a square summability uniqueness
+condition of chains is false in the general non-shift-invariant setting, and
+(iii) an uniqueness criterion for chains shows that a Gibbsian conjecture due
+to Kac and Thompson is false in this half-line setting.

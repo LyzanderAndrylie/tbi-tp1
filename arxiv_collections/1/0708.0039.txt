@@ -1,0 +1,6 @@
+We construct discrete holomorphic observables in the Ising model at
+criticality and show that they have conformally covariant scaling limits (as
+mesh of the lattice tends to zero). In the sequel those observables are used to
+construct conformally invariant scaling limits of interfaces. Though Ising
+model is often cited as a classical example of conformal invariance, it seems
+that ours is the first paper where it is actually established.

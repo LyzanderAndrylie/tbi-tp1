@@ -1,0 +1,8 @@
+We introduce the boundary measure at scale r of a compact subset of the
+n-dimensional Euclidean space. We show how it can be computed for point clouds
+and suggest these measures can be used for feature detection. The main
+contribution of this work is the proof a quantitative stability theorem for
+boundary measures using tools of convex analysis and geometric measure theory.
+As a corollary we obtain a stability result for Federer's curvature measures of
+a compact, allowing to compute them from point-cloud approximations of the
+compact.

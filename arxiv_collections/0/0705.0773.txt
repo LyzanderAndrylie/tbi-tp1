@@ -1,0 +1,21 @@
+Classical and quantum phase transitions involve observables which are
+non-analytic as functions of a controlled thermodynamical variable. As occurs
+with the self-consistent Fermi Golden Rule, one condition to obtain the
+discontinuous behavior is the proper evaluation of a classical or quantum
+thermodynamic limit. We show that in presence of an environment, the
+oscillatory dynamics of a quantum two-level system, in analogy with a classical
+damped oscillator, can undergo a quantum dynamical phase transition to a
+non-oscillatory phase. This is obtained from a self-consistent solution of the
+Generalized Landauer Buettiker Equations, a simplified integral form of the
+Keldysh formalism. I argue that working at each side of the transition implies
+standing under different paradigms in the Kuhn's sense of the word. In
+consequence, paradigms incommensurability obtains a sound mathematical
+justification as a consequence of the non-analyticity of the observables. A
+strong case is made upon the need to deepen the public's intuition and
+understanding on the abrupt transition from static to dynamical friction
+regimes.
+  Keywords: Self Consistent Fermi Golden Rule, Paradigm Shift, Quantum
+Dynamical Phase Transition, Decoherence, Energy-time Wigner Function,
+Dissipative Two-level system, Keldysh Formalisma, Generalized
+Landauer-Buettiker Equations, Loschmidt Echo, Mesoscopic Echo, Spin Dynamics,
+Solid State NMR, Dynamical Quantum Zeno Effect, Liquid Crystal NMR.

@@ -1,0 +1,6 @@
+In evolutionary game theory an Evolutionarily Stable Strategy (ESS) is a
+refinement of the Nash equilibrium concept that is sometimes also recognized as
+evolutionary stability. It is a game-theoretic model, well known to
+mathematical biologists, that was found quite useful in the understanding of
+evolutionary dynamics of a population. This chapter presents an analysis of
+evolutionary stability in the emerging field of quantum games.

@@ -1,0 +1,24 @@
+A novel method to estimate the pixels simultaneous detection probability and
+the spatial resolution of pixelized detectors is proposed, which is based on
+the determination of the statistical correlations between detector neighbor
+pixels. The correlations are determined by means of noise variance measurement
+for a isolated pixels and the difference between neighbor pixels. The method is
+validated using images from the two different GE Senographe 2000D mammographic
+units. The pixelized detector has been irradiated using x-rays along its entire
+surface. It is shown that the pixel simultaneous detection probabilities can be
+estimated within accuracy 0.001 - 0.003, where the systematic error is
+estimated to be smaller than 0.005. The presampled two-dimensional point-spread
+function (PSF0) is determined using a single Gaussian and a sum of two Gaussian
+approximations. The obtained results for the presampled PSF0 show that the
+single Gaussian approximation is not appropriate, and the sum of two Gaussian
+approximations providing the best fit predicts the existence of a large (~50%)
+narrow component. Another proof of this fact is the latest simulation study of
+columnar indirect digital detectors by A. Badano et al. The sampled
+two-dimensional PSF is determined using Monte Carlo simulation for the L-shape
+uniform distributed acceptance function for different values of fill factors.
+The detector spatial resolution is estimated using sampled PSF and has values
+54 and 58 mkm for two different units. The calculation of the presampled
+modulation transfer function based on the PSF0 estimation shows that the
+existing data can only be reproduced using a single Gaussian approximation and
+the usage of the sum of two Gaussian show significantly larger values in the
+higher frequency region for both units.

@@ -1,0 +1,11 @@
+We report on numerical study of the Dirac fermions in partially filled N=3
+Landau level (LL) in graphene. At half-filling, the equal-time density-density
+correlation function displays sharp peaks at nonzero wavevectors $\pm {\bf
+q^{*}}$. Finite-size scaling shows that the peak value grows with electron
+number and diverges in the thermodynamic limit, which suggests an instability
+toward a charge density wave. A symmetry broken stripe phase is formed at large
+system size limit, which is robust against purturbation from disorder
+scattering. Such a quantum phase is experimentally observable through transport
+measurements. Associated with the special wavefunctions of the Dirac LL, both
+stripe and bubble phases become possible candidates for the ground state of the
+Dirac fermions in graphene with lower filling factors in the N=3 LL.

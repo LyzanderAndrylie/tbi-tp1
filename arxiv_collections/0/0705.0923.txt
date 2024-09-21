@@ -1,0 +1,9 @@
+The use of off-resonant standing light waves to manipulate ultracold atoms is
+investigated. Previous work has illustrated that optical pulses can provide
+efficient beam-splitting and reflection operations for atomic wave packets. The
+performance of these operations is characterized experimentally using
+Bose-Einstein condensates confined in a weak magnetic trap. Under optimum
+conditions, fidelities of up to 0.99 for beam splitting and 0.98 for reflection
+are observed, and splitting operations of up to third order are achieved. The
+dependence of the operations on light intensity and atomic velocity is measured
+and found to agree well with theoretical estimates.

@@ -1,0 +1,7 @@
+Transport in undoped graphene is related to percolating current patterns in
+the networks of {\em N-} and {\em P}-type regions reflecting the strong bipolar
+charge density fluctuations. Transmissions of the {\em P-N} junctions, though
+small, are vital in establishing the macroscopic conductivity. We propose a
+random resistor network model to analyze scaling dependencies of the
+conductance on the doping and disorder, the quantum magnetoresistance and the
+corresponding dephasing rate.

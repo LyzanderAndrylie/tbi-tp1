@@ -1,0 +1,6 @@
+In this work we try to clarify the fundamental relationship between bits and
+qubits, starting from very simple George Boole equation. We derive a generic
+and compact expression for basis vectors of qubit which can be useful in
+further applications. We also derive a generic form for the projection operator
+in the quantum information space. The results are also extended to higher
+d-level cases of qutrits and qudits.

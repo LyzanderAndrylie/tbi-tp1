@@ -1,0 +1,17 @@
+We introduce an algebra qCCS of pure quantum processes in which no classical
+data is involved, communications by moving quantum states physically are
+allowed, and computations is modeled by super-operators. An operational
+semantics of qCCS is presented in terms of (non-probabilistic) labeled
+transition systems. Strong bisimulation between processes modeled in qCCS is
+defined, and its fundamental algebraic properties are established, including
+uniqueness of the solutions of recursive equations. To model sequential
+computation in qCCS, a reduction relation between processes is defined. By
+combining reduction relation and strong bisimulation we introduce the notion of
+strong reduction-bisimulation, which is a device for observing interaction of
+computation and communication in quantum systems. Finally, a notion of strong
+approximate bisimulation (equivalently, strong bisimulation distance) and its
+reduction counterpart are introduced. It is proved that both approximate
+bisimilarity and approximate reduction-bisimilarity are preserved by various
+constructors of quantum processes. This provides us with a formal tool for
+observing robustness of quantum processes against inaccuracy in the
+implementation of its elementary gates.

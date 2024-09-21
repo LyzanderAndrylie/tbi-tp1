@@ -1,0 +1,15 @@
+Temperature dependent impedance spectroscopy enables the many contributions
+to the dielectric and resistive properties of condensed matter to be
+deconvoluted and characterized separately. We have achieved this for
+multiferroic epitaxial thin films of BiFeO3 (BFO) and BiMnO3 (BMO), key
+examples of materials with strong magneto-electric coupling. We demonstrate
+that the true film capacitance of the epitaxial layers is similar to that of
+the electrode interface, making analysis of capacitance as a function of film
+thickness necessary to achieve deconvolution. We modeled non-Debye impedance
+response using Gaussian distributions of relaxation times and reveal that
+conventional resistivity measurements on multiferroic layers may be dominated
+by interface effects. Thermally activated charge transport models yielded
+activation energies of 0.60 eV +- 0.05 eV (BFO) and 0.25 eV +- 0.03 eV (BMO),
+which is consistent with conduction dominated by oxygen vacancies (BFO) and
+electron hopping (BMO). The intrinsic film dielectric constants were determined
+to be 320 +- 75 (BFO) and 450 +- 100 (BMO).

@@ -1,0 +1,9 @@
+We have studied charge transport in a one-dimensional chain of small
+Josephson junctions using a single-electron transistor. We observe a crossover
+from time-correlated tunneling of single electrons to that of Cooper pairs as a
+function of both magnetic field and current. At relatively high magnetic field,
+single-electron transport dominates and the tunneling frequency is given by
+f=I/e, where I is the current through the chain and e is the electron's charge.
+As the magnetic field is lowered, the frequency gradually shifts to f=I/2e for
+I>200 fA, indicating Cooper-pair transport. For the parameters of the measured
+sample, we expect the Cooper-pair transport to be incoherent.

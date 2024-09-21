@@ -1,0 +1,6 @@
+Using arguments based on sum rules, we derive a general result for the
+average shifts of rf lines in Fermi gases in terms of interatomic interaction
+strengths and two-particle correlation functions. We show that near an
+interaction resonance shifts vary inversely with the atomic scattering length,
+rather than linearly as in dilute gases, thus accounting for the experimental
+observation that clock shifts remain finite at Feshbach resonances.

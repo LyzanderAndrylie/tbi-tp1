@@ -1,0 +1,14 @@
+We have used the Very Large Array (VLA) to search for radio emission from the
+globular cluster G1 (Mayall-II) in M31. G1 has been reported by Gebhardt et al.
+to contain an intermediate-mass black hole (IMBH) with a mass of ~2 x 10^4
+solar masses. Radio emission was detected within an arcsecond of the cluster
+center with an 8.4 GHz power of 2 x 10^{15} W/Hz. The radio/X-ray ratio of G1
+is a few hundred times higher than that expected for a high-mass X-ray binary
+in the cluster center, but is consistent with the expected value for accretion
+onto an IMBH with the reported mass. A pulsar wind nebula is also a possible
+candidate for the radio and X-ray emission from G1; future high-sensitivity
+VLBI observations might distinguish between this possibility and an IMBH. If
+the radio source is an IMBH, and similar accretion and outflow processes occur
+for hypothesized ~ 1000-solar-mass black holes in Milky Way globular clusters,
+they are within reach of the current VLA and should be detectable easily by the
+Expanded VLA when it comes on line in 2010.

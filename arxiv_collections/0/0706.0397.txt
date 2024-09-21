@@ -1,0 +1,19 @@
+Quantum key distribution (QKD) offers an unconditionally secure means of
+communication based on the laws of quantum mechanics. Currently, a major
+challenge is to achieve a QKD system with a 40 dB channel loss, which is
+required if we are to realize global scale QKD networks using communication
+satellites. Here we report the first QKD experiment in which secure keys were
+distributed over 42 dB channel loss and 200 km of optical fibre. We employed
+the differential phase shift quantum key distribution (DPS-QKD) protocol
+implemented with a 10-GHz clock frequency, and superconducting single photon
+detectors (SSPD) based on NbN nanowire. The SSPD offers a very low dark count
+rate (a few Hz) and small timing jitter (60 ps full width at half maximum).
+These characteristics allowed us to construct a 10-GHz clock QKD system and
+thus distribute secure keys over channel loss of 42 dB. In addition, we
+achieved a 17 kbit/s secure key rate over 105 km of optical fibre, which is two
+orders of magnitude higher than the previous record, and a 12.1 bit/s secure
+key rate over 200 km of optical fibre, which is the longest terrestrial QKD yet
+demonstrated. The keys generated in our experiment are secure against both
+general collective attacks on individual photons and a specific collective
+attack on multi-photons, known as a sequential unambiguous state discrimination
+(USD) attack.

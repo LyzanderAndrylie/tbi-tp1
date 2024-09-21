@@ -1,0 +1,13 @@
+The case of gamma-ray absorption due to photon-photon pair production of jet
+photons in the external photon environment like accretion disk and broad-line
+region radiation field of gamma-ray loud active galactic nuclei (AGN) that
+exhibit strong emission lines is considered. I demonstrate that this ''local
+opacity'', if detected, will almost unavoidably be redshift-dependent in the
+sub-TeV range. This introduces non-negligible biases, and complicates
+approaches for studying the evolution of the extragalactic background light
+with contemporary GeV instruments like e.g. the Gamma-ray Large Area Space
+Telescope (GLAST), etc., where the gamma-ray horizon is probed by means of
+statistical analysis of absorption features (e.g. Fazio-Stecker relation, etc.)
+in AGN spectra at various redshifts. It particularly applies to strong-line
+quasars where external photon fields are potentially involved in gamma-ray
+production.

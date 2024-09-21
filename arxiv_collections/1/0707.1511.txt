@@ -1,0 +1,7 @@
+We develop a framework to calculate the density matrix of a pair of photons
+emitted in a decay cascade with partial "which path" ambiguity. We describe an
+appropriate entanglement distillation scheme which works also for certain
+random cascades. The qualitative features of the distilled entanglement are
+presented in a two dimensional "phase diagram". The theory is applied to the
+quantum tomography of the decay cascade of a biexciton in a semiconductor
+quantum dot. Agreement with experiment is obtained.

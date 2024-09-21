@@ -1,0 +1,17 @@
+By the very definition the triaxial deformation parameter $\gamma$ is related
+to the expectation values of the K=0 and K=2 components of the intrinsic
+quadrupole tensor operator. On the other hand, using the same symbol
+"$\gamma$", various different parametrizations of triaxial deformation have
+been employed, which are suitable for various types of the mean-field
+potentials. It is pointed out that the values of various "$\gamma$" are quite
+different for the same actual triaxial deformation, especially for the large
+deformation; for example, the difference can be almost a factor two for the
+case of the triaxial superdeformed bands recently observed in the Hf and Lu
+nuclei. In our previous work, we have studied the wobbling band in Lu nuclei by
+using the microscopic framework of the cranked Nilsson mean-field and the
+random phase approximation, where the most serious problem is that the
+calculated B(E2) value is about factor two smaller. It is shown that the origin
+of this underestimation can be mainly attributed to the small triaxial
+deformation; if is used the same triaxial deformation as in the analysis of the
+particle-rotor model, the calculated B(E2) increases and gives correct
+magnitude compared with the experimental data.

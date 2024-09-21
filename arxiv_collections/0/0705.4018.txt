@@ -1,0 +1,5 @@
+By exact numerical and master equation approaches, we show that a central
+spin-1/2 can be configured to probe internal bath dynamics. System-bath
+interactions cause Rabi oscillations in the detector and periodic behavior of
+fidelity. This period is highly sensitive to the strength of the bath
+self-interactions, and can be used to calculate the intra-bath coupling.

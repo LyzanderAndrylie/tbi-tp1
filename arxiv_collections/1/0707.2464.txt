@@ -1,0 +1,9 @@
+We study the dynamics of periodic arrays of micrometer-sized liquid-gas
+menisci formed at superhydrophobic surfaces immersed into water. By measuring
+the intensity of optical diffraction peaks in real time we are able to resolve
+nanometer scale oscillations of the menisci with sub-microsecond time
+resolution. Upon driving the system with an ultrasound field at variable
+frequency we observe a pronounced resonance at a few hundred kHz, depending on
+the exact geometry. Modeling the system using the unsteady Stokes equation, we
+find that this low resonance frequency is caused by a collective mode of the
+acoustically coupled oscillating menisci.

@@ -1,0 +1,15 @@
+Background and Purpose: Percutaneous renal access in the context of
+percutaneous nephrolithotomy (PCNL) is a difficult technique, requiring rapid
+and precise access to a particular calix. We present a computerized system
+designed to improve percutaneous renal access by projecting the ultrasound
+puncture tract onto fluoroscopic images. Materials and Methods: The system
+consists of a computer and a localizer allowing spatial localization of the
+position of the various instruments. Without any human intervention, the
+ultrasound nephrostomy tract is superimposed in real time onto fluoroscopic
+images acquired in various views. Results: We tested our approach by laboratory
+experiments on a phantom. Also, after approval by our institution's Ethics
+Committee, we validated this technique in the operating room during PCNL in one
+patient. Conclusion: Our system is reliable, and the absence of
+image-processing procedures makes it robust. We have initiated a prospective
+study to validate this technique both for PCNL specialists and as a learning
+tool.

@@ -1,0 +1,24 @@
+Motivated by heavy ion collision experiments, we study the hydrodynamic
+properties of non-Abelian systems. These issues arise in condensed matter
+physics in the context of transport of spins in the presence of spin orbit
+coupling: the Pauli Hamiltonian governing the leading relativistic corrections
+in condensed matter systems can be rewritten in a language of SU(2) covariant
+derivatives, where the role of the non-Abelian gauge fields is taken by the
+physical electromagnetic fields. Taking a similar perspective as Jackiw and
+coworkers, we show that non-abelian hydrodynamical currents can be factored in
+a non-coherent 'classical' part, and a coherent part requiring macroscopic
+non-abelian quantum entanglement. Non-abelian flow being thus a much richer
+affair than familiar hydrodynamics, permits us to classify the various spin
+transport phenomena in in condensed matter physics in a unifying framework.In
+semiconductor spintronics, the absence of hydrodynamics is well known, but in
+our formulation it is directly associated with the fact that non-abelian
+currents are only covariantly conserved.We analyze the quantum mechanical
+single particle currents of relevance to mesoscopic transport with as highlight
+the Aharonov-Casher effect, where we demonstrate that the non-abelian transport
+structure renders it much more fragile than its abelian counterpart, the
+Aharonov-Bohm effect. We subsequently focus on spin flows protected by order
+parameters, of which the spin-spiral magnets and the spin superfluids are
+important examples. The surprising bonus is that the presence of an order
+parameter, being single-valued, restores hydrodynamics. We demonstrate a new
+effect: the trapping of electrical line charge, being the 'fixed frame'
+non-Abelian analogue of the familiar magnetic flux trapping by superconductors.

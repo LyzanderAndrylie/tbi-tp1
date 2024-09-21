@@ -1,0 +1,10 @@
+We study the constraints imposed by the Hadamard condition on the two-point
+function of local states of a scalar quantum field conformally coupled to a
+gravitational background. We propose a method to assign a stress tensor to the
+state-dependent part of the two point function which arises as a conserved
+tensor with an anomalous trace. To characterize the local Hadamard states of
+physical interest we apply a super-selection rule relating this quantum stress
+tensor to the matter stress tensor of a conformal invariant gravitational model
+subject to a conformal symmetry breaking term. This implies that the
+determination of a Hadamard state may be considered as an integral part of its
+gravitational coupling via the back-reaction effect.

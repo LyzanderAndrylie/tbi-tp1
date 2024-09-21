@@ -1,0 +1,8 @@
+We derive single-particle and two-particle correlators of anyons in the
+presence of a magnetic field in the lowest Landau level. We show that the
+two-particle correlator exhibits signatures of fractional statistics which can
+distinguish anyons from their fermionic and bosonic counterparts. These
+signatures include the zeroes of the two-particle correlator and its exclusion
+behavior. We find that the single-particle correlator in finite geometries
+carries valuable information relevant to experiments in which quasiparticles on
+the edge of a quantum Hall system tunnel through its bulk.

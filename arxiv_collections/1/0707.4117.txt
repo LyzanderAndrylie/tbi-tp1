@@ -1,0 +1,8 @@
+In this Letter, we use a general renormalization-group algorithm to implement
+Propp and Wilson's "coupling from the past" approach to complex physical
+systems. Our algorithm follows the evolution of the entire configuration space
+under the Markov chain Monte Carlo dynamics from parts of the configurations
+(patches) on increasing length scales, and it allows us to generate "exact
+samples" of the Boltzmann distribution, which are rigorously proven to be
+uncorrelated with the initial condition. We validate our approach in the
+two-dimensional Ising spin glass on lattices of size 64 x 64.

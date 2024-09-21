@@ -1,0 +1,14 @@
+The Casimir force, which results from the confinement of the quantum
+mechanical zero-point fluctuations of the electromagnetic fields, has received
+significant attention in recent years for its effect on micro- and nano-scale
+mechanical systems. With few exceptions, experimental observations have been
+limited to conductive bodies interacting separated by vacuum or air. However,
+interesting phenomena including repulsive forces are expected to exist in
+certain circumstances between metals and dielectrics when the intervening
+medium is not vacuum. In order to better understand the effect of the Casimir
+force in such situations and to test the robustness of the generalized
+Casimir-Lifshitz theory, we have performed the first precision measurements of
+the Casimir force between two metals immersed in a fluid. For this situation,
+the measured force is attractive and is approximately 80% smaller than the
+force predicted by Casimir for ideal metals in vacuum. We present experimental
+results and find them to be consistent with Lifshitz's theory.

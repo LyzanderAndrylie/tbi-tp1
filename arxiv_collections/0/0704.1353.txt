@@ -1,0 +1,7 @@
+This paper reports on work aimed at supporting knowledge and expertise
+finding within a large Research and Development (R&D) organisation. The paper
+first discusses the nature of knowledge important to R&D organisations and
+presents a prototype information system developed to support knowledge and
+expertise finding. The paper then discusses a trial of the system within an R&D
+organisation, the implications and limitations of the trial, and discusses
+future research questions.

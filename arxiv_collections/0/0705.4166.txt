@@ -1,0 +1,9 @@
+We present a short proof of the following Pontryagin theorem, whose original
+proof was complicated and has never been published in details: {\bf Theorem.}
+Let $M$ be a connected oriented closed smooth 3-manifold. Let $L_1(M)$ be the
+set of framed links in $M$ up to a framed cobordism. Let $\deg:L_1(M)\to
+H_1(M;\Z)$ be the map taking a framed link to its homology class. Then for each
+$\alpha\in H_1(M;\Z)$ there is a 1-1 correspondence between the set
+$\deg\nolimits^{-1}\alpha$ and the group $\Bbb Z_{2d(\alpha)}$, where
+$d(\alpha)$ is the divisibility of the projection of $\alpha$ to the free part
+of $H_1(M;\Bbb Z)$.

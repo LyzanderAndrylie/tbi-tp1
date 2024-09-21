@@ -1,0 +1,22 @@
+Searches for planets in close binary systems explore the degree to which
+stellar multiplicity inhibits or promotes planet formation. There is a
+degeneracy between planet formation models when only systems with single stars
+are studied--several mechanisms appear to be able to produce such a final
+result. This degeneracy is lifted by searching for planets in binary systems;
+the resulting detections (or evidence of non-existence) of planets in binaries
+isolates which models may contribute to how planets form in nature. In this
+chapter, we consider observational efforts to detect planetary companions to
+binary stars in two types of hierarchical planet-binary configurations: first
+``S-type'' planets which orbit just one of the stars, with the binary period
+being much longer than the planet's; second, ``P-type'' or circumbinary
+planets, where the planet simultaneously orbits both stars, and the planetary
+orbital period is much longer than that of the binary. The S-type planet
+finding techniques are different for binaries that can or cannot be spatially
+resolved. For wider systems, techniques reviewed include dualstar
+interferometric differential astrometry and precision radial velocities.
+Alternatively, unresolved binaries can be studied using modified dualstar
+"PHASES-style" differential astrometry or a modification of the radial velocity
+technique for composite spectra. Should a fortunately aligned--but still long
+period--binary be found, eclipse timing can also reveal the presence of S-type
+planets. Methods for detecting P-type planets include the composite-spectra
+variant of the radial velocity technique and eclipse timing.

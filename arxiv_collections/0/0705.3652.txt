@@ -1,0 +1,14 @@
+We derive general conditions for 100 percent frequency conversion in any
+doubly resonant nonlinear cavity, for both second- and third-harmonic
+generation via chi2 and chi3 nonlinearities. We find that conversion efficiency
+is optimized for a certain critical power depending on the cavity parameters,
+and assuming reasonable parameters we predict 100 percent conversion using
+milliwatts of power or less. These results follow from a semi-analytical
+coupled-mode theory framework which is generalized from previous work to
+include both chi2 and chi3 media as well as inhomogeneous (fully vectorial)
+cavities, analyzed in the high-efficiency limit where down-conversion processes
+lead to a maximum efficiency at the critical power, and which is verified by
+direct finite-difference time-domain (FDTD) simulations of the nonlinear
+Maxwell equations. Explicit formulas for the nonlinear coupling coefficients
+are derived in terms of the linear cavity eigenmodes, which can be used to
+design and evaluate cavities in arbitrary geometries.

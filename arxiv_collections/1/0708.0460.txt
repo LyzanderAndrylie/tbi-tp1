@@ -1,0 +1,8 @@
+We report the prediction of quasi-bound states (resonant states with very
+long lifetimes) that occur in the eigenvalue continuum of propagating states
+for a wide region of parameter space. These quasi-bound states are generated in
+a quantum wire with two channels and an adatom, when the energy bands of the
+two channels overlap. A would-be bound state that lays just below the upper
+energy band is slightly destabilized by the lower energy band and thereby
+becomes a resonant state with a very long lifetime (a second QBIC lays above
+the lower energy band).

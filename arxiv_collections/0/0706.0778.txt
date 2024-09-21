@@ -1,0 +1,11 @@
+We measured the resistivity, diamagnetization and low temperature specific
+heat of the newly discovered noncentrosymmetric superconductor
+$Mg_{10}Ir_{19}B_{16}$. It is found that the superconducting gap has an s-wave
+symmetry with a value of about $\Delta_0 \approx$ 0.6 meV, and the ratio
+$\Delta_0/k_BT_c\approx1.86$ indicates a weak coupling for the
+superconductivity. The correlations among the normal state Sommerfeld constant
+$\gamma_n$, the slope $-d\mu_0H_{c2}(T)/dT$ near Tc and the condensation energy
+Ec are all consistent with the weak coupling picture. The separated phonon
+contribution from the specific heat shows that the conduction electrons of the
+$Ir$ atoms interact most strongly with the vibrations of themselves, instead of
+with that of the light element boron.

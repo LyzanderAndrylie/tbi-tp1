@@ -1,0 +1,18 @@
+We report on the preparation and characterization of single crystal gamma
+phase NaxCoO2 with 0.25 < x < 0.84 using a non-aqueous electrochemical
+chronoamperemetry technique. By carefully mapping the overpotential versus x
+(for x < 0.84), we find six distinct stable phases with Na levels corresponding
+to x ~ 0.75, 0.71, 0.50, 0.43, 0.33 and 0.25. The composition with x ~0.55
+appears to have a critical Na concentration which separates samples with
+different magnetic behavior as well as different Na ion diffusion mechanisms.
+Chemical analysis of an aged crystal reveals different Na ion diffusion
+mechanisms above and below x_c ~ 0.53, where the diffusion process above x_c
+has a diffusion coefficient about five times larger than that below x_c. The
+series of crystals were studied with X-ray diffraction, susceptibility, and
+transport measurements. The crystal with x = 0.5 shows a weak ferromagnetic
+transition below T=27 K in addition to the usual transitions at T = 51 K and 88
+K. The resistivity of the Curie-Weiss metallic Na0.71CoO2 composition has a
+very low residual resistivity, which attests to the high homogeneity of the
+crystals prepared by this improved electrochemical method. Our results on the
+various stable crystal compositions point to the importance of Na ion ordering
+across the phase diagram.

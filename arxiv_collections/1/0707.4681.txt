@@ -1,0 +1,11 @@
+An alternative to the representation of complex relativity by self-dual
+complex 2-forms on the spacetime manifold is presented by assuming that that
+the bundle of real 2-forms is given an almost-complex structure. From this, one
+can define a complex orthogonal structure on the bundle of 2-forms, which
+results in a more direct representation of the complex orthogonal group in
+three complex dimensions. The geometrical foundations of general relativity are
+then presented in terms of the bundle of oriented complex orthogonal 3-frames
+on the bundle of 2-forms in a manner that essentially parallels their
+construction in terms of self-dual complex 2-forms. It is shown that one can
+still discuss the Debever-Penrose classification of the Riemannian curvature
+tensor in terms of the representation presented here.

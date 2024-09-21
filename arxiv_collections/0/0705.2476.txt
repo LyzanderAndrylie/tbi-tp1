@@ -1,0 +1,9 @@
+Based on the permutation group formalism, we present a discrete symmetry
+algebra in QCD. The discrete algebra is hidden symmetry in QCD, which is
+manifest only on a space-manifold with non-trivial topology. Quark confinement
+in the presence of the dynamical quarks is discussed in terms of the discrete
+symmetry algebra. It is shown that the quark deconfinement phase has the ground
+state degeneracy depending on the topology of the space, which gives a
+gauge-invariant distinction between the confinement and deconfinement phases.
+We also point out that new quantum numbers relating to the fractional quantum
+Hall effect exist in the deconfinement phase.

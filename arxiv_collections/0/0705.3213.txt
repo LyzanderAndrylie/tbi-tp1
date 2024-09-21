@@ -1,0 +1,8 @@
+We present a theoretical analysis of recent experimental measurements of
+magnetoresistance in (Ga,Mn)As epilayers with perpendicular magnetic
+anisotropy. The model reproduces the field-antisymmetric anomalies observed in
+the longitudinal magnetoresistance in the planar geometry (magnetic field in
+the epilayer plane and parallel to the current density), as well as the unusual
+shape of the accompanying transverse magnetoresistance. The magnetoresistance
+characteristics are attributed to circulating currents created by the presence
+of magnetic domain walls.

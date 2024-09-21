@@ -1,0 +1,17 @@
+Yield design formulation for porous media subjected to flow, using
+approximate pressure field. We attempt here to use the kinematic method of
+yield design in the case of a porous medium subjected to flow (with or without
+free surface), without looking for the exact solution of the pressure field.
+The method proposed here is based on the use of approximate pressure fields. In
+this paper, we show how, under different conditions concerning the yield
+criterion and the velocity field, the use of such approximate fields allows to
+obtain a necessary condition for stability without having to find the real
+pressure field. Nous cherchons ici \`a utiliser la m\'ethode cin\'ematique du
+calcul \`a la rupture dans le cas d'un milieu poreux soumis \`a un \'ecoulement
+avec ou sans surface libre sans conna\^itre la solution exacte du champ de
+pression. La m\'ethode propos\'ee ici repose sur l'utilisation de champs de
+pression approch\'es par d\'efaut. Nous montrerons comment sous certaines
+conditions portant sur le crit\`ere de r\'esistance et sur le champ de vitesse
+utilis\'e, l'utilisation de tels champs de pression approch\'es permet
+d'obtenir une condition n\'ecessaire de stabilit\'e sans avoir \`a d\'eterminer
+exactement l'\'ecoulement.

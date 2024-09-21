@@ -1,0 +1,13 @@
+For a long time, RBS and PIXE techniques have been used in the field of
+cultural heritage. Although the complementarity of both techniques has long
+been acknowledged, its full potential has not been yet developed due to the
+lack of general purpose software tools for analysing the data from both
+techniques in a coherent way. In this work we provide an example of how the
+recent addition of PIXE to the set of techniques supported by the DataFurnace
+code can significantly change this situation. We present a case in which a non
+homogeneous sample (an oxidized metal from a photographic plate -heliography-
+made by Niepce in 1827) is analysed using RBS and PIXE in a straightforward and
+powerful way that can only be performed with a code that treats both techniques
+simultaneously as a part of one single and coherent analysis. The optimization
+capabilities of DataFurnace, allowed us to obtain the composition profiles for
+these samples in a very simple way.

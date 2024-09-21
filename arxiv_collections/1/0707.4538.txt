@@ -1,0 +1,12 @@
+We reinvestigate the cosmological Polonyi problem in the case where the
+Polonyi mass is $\mathcal{O}(10) \rm{TeV}$. Such a large supersymmetry breaking
+scale implies that the Polonyi field should be sequestered from the standard
+model sector. Since the Polonyi field does not have a coupling to the gauge
+multiplets at tree level, in order to obtain sufficiently high reheating
+temperature compatible with the standard big-bang nucleosynthesis the Polonyi
+mass well exceeds 100 - 1000 TeV, depending on the decay channels. Moreover, we
+find that the branching ratio of the Polonyi field into neutralinos is of order
+unity, and thus the resulting neutralino LSPs, if stable, overclose the
+Universe even for the case of the wino-like LSP. Our explicit computation given
+here exhibits a very serious cosmological difficulty for models where
+supersymmetry breaking is caused by the Polonyi-type field.

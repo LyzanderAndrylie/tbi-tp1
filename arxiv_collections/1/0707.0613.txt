@@ -1,0 +1,15 @@
+We investigate the low temperature behaviour of the integrable 1D
+two-component spinor Bose gas using the thermodynamic Bethe ansatz. We find
+that for strong coupling the characteristics of the thermodynamics at low
+temperatures are quantitatively affected by the spin ferromagnetic states,
+which are described by an effective ferromagnetic Heisenberg chain. The free
+energy, specific heat, susceptibility and local pair correlation function are
+calculated for various physical regimes in terms of temperature and interaction
+strength. These thermodynamic properties reveal spin effects which are
+significantly different than those of the spinless Bose gas. The zero-field
+susceptibility for finite strong repulsion exceeds that of a free spin
+paramagnet. The critical exponents of the specific heat $c_v \sim T^{1/2}$ and
+the susceptibility $\chi \sim T^{-2}$ are indicative of the ferromagnetic
+signature of the two-component spinor Bose gas. Our analytic results are
+consistent with general arguments by Eisenberg and Lieb for polarized spinor
+bosons.

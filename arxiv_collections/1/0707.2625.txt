@@ -1,0 +1,9 @@
+Motivated by recent experiments, we address, in a fully self consistent
+fashion, the behavior and evolution of radio frequency (RF) spectra as
+temperature and polarization are varied in population imbalanced Fermi gases.
+We discuss a series of scenarios for the experimentally observed zero
+temperature pseudogap phase and show how present and future RF experiments may
+help in its elucidation. We conclude that the MIT experiments at the lowest $T$
+may well reflect ground state properties, but take issue with their claim that
+the pairing gap survives up to temperatures of the order of the degeneracy
+temperature $T_F$ at unitarity.

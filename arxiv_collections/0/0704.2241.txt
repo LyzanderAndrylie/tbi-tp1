@@ -1,0 +1,6 @@
+In this article we present a pedagogical introduction of the main ideas and
+recent advances in the area of topological quantum computation. We give an
+overview of the concept of anyons and their exotic statistics, present various
+models that exhibit topological behavior, and we establish their relation to
+quantum computation. Possible directions for the physical realization of
+topological systems and the detection of anyonic behavior are elaborated.

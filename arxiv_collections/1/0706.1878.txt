@@ -1,0 +1,8 @@
+This paper reports main results of the phase noise comparison that has been
+performed between october 2005 and december 2006, using two oscillators at 5
+and 100 MHz and un DRO at 3.5 GHz. The problem is not to compare the
+performances of several oscillators, but to compare and to make an evaluation
+of the uncertainties, and of course the resolution and the reproducibility of
+the measurements. This comparison allow us to determine the ability to get
+various systems traceable together in order to increase the trust that one can
+have in phase noise measurements.

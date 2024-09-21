@@ -1,0 +1,13 @@
+The space velocity of a stellar black hole encodes the history of its
+formation and evolution. Here we measure the 3-dimensional motion of the
+microquasar GRS 1915+105, using a decade of astrometry with the NRAO Very Long
+Baseline Array, together with the published radial velocity. The velocity in
+the Galactic Plane deviates from circular rotation by 53-80 +_ 8 km/s, where
+the range covers any specific distance from 6-12 kpc. Perpendicular to the
+plane, the velocity is only 10 +_ 4 km/s. The peculiar velocity is minimized at
+a distance 9-10 kpc, and is then nearly in the radial direction towards the
+Galactic Center. We discuss mechanisms for the origin of the peculiar velocity,
+and conclude that it is most likely a consequence of Galactic velocity
+diffusion on this old binary, rather than the result of a supernova kick during
+the formation of the 14 Mo black hole. Finally, a brief comparison is made with
+4 other BH binaries whose kinematics are well determined.

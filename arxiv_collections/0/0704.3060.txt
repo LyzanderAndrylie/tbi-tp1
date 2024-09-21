@@ -1,0 +1,6 @@
+A general method is discussed to obtain Markovian master equations which
+describe the interaction with the environment in a microscopic and
+non-perturbative fashion. It is based on combining time-dependent scattering
+theory with the concept of continuous quantum measurements. The applications to
+the case of a Brownian point particle and to the case of a complex molecule,
+both in the presence of a gaseous environment, are outlined.

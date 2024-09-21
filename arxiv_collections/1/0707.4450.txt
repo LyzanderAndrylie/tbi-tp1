@@ -1,0 +1,7 @@
+The Landau-Pollak uncertainty relation treats a pair of rank one projection
+valued measures and imposes a restriction on their probability distributions.
+It gives a nontrivial bound for summation of their maximum values. We give a
+generalization of this bound (weak version of the Landau-Pollak uncertainty
+relation). Our generalization covers a pair of positive operator valued
+measures. A nontrivial but slightly weak inequality that can treat an arbitrary
+number of positive operator valued measures is also presented.

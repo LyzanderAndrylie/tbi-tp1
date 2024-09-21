@@ -1,0 +1,6 @@
+We report a new kind of experiment in which we generate a known superfluid
+velocity in a straight tube and directly determine the phase difference across
+the tube's ends using a superfluid matter wave interferometer. By so doing, we
+quantitatively verify the relation between the superfluid velocity and the
+phase gradient of the condensate macroscopic wave function. Within the
+systematic error of the measurement (~10%) we find v_s=(hbar/m_4)*(grad phi).

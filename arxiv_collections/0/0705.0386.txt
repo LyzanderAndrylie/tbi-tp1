@@ -1,0 +1,9 @@
+We study the multi-spin entanglement for the 1D anisotropic XY model
+concentrating on the simplest case of three-spin entanglement. As compared to
+the pairwise entanglement, three-party quantum correlations have a longer range
+and they are more robust on increasing the temperature.
+  We find regions of the phase diagram of the system where bound entanglement
+occurs, both at zero and finite temperature. Bound entanglement in the ground
+state can be obtained by tuning the magnetic field. Thermal bound entanglement
+emerges naturally due to the effect of temperature on the free ground state
+entanglement.

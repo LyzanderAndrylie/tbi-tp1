@@ -1,0 +1,21 @@
+This thesis consists of two parts which share only a slight overlap.
+  The first part is concerned with the study of ideals in the ring
+$C^\infty(M,R)$ of smooth functions on a compact smooth manifold M or more
+generally submodules of a finitely generated $C^\infty(M,R)$-module V. We
+define a topology on the space of all submodules of V of a fixed finite
+codimension d. Its main property is that it is compact Hausdorff and, in the
+case of ideals in the ring itself, it contains as a subspace the configuration
+space of d distinct unordered points in M and therefore gives a
+"compactification" of this configuration space. We present a concrete
+description of this space for low codimensions.
+  The main focus is then put on the second part which is concerned with a
+generalization of Vassiliev's h-principle. This principle in its simplest form
+asserts that the jet prolongation map $j^r:C^\infty(M,E)\to\Gamma(J^r(M,E))$,
+defined on the space of smooth maps from a compact manifold M to a Euclidean
+space E and with target the space of smooth sections of the jet bundle
+$J^r(M,E)$, is a cohomology isomorphism when restricted to certain
+"nonsingular" subsets (these are defined in terms of a certain subset
+$R\subseteq J^r(M,E)$). Our generalization then puts this theorem in a more
+general setting of topological $C^\infty(M,R)$-modules. As a reward we get a
+strengthening of this result asserting that all the homotopy fibres have zero
+homology.

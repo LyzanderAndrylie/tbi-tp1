@@ -1,0 +1,15 @@
+Graphitic nanostructures, e.g. carbon nanotubes (CNT) and graphene, have been
+proposed as ideal materials for spin conduction[1-7]; they have long electronic
+mean free paths[8] and small spin-orbit coupling[9], hence are expected to have
+very long spin-scattering times. In addition, spin injection and detection in
+graphene opens new opportunities to study exotic electronic states such as the
+quantum Hall[10,11] and quantum spin Hall[9] states, and spin-polarized edge
+states[12] in graphene ribbons. Here we perform the first non-local four-probe
+experiments[13] on graphene contacted by ferromagnetic Permalloy electrodes. We
+observe sharp switching and often sign-reversal of the non-local resistance at
+the coercive field of the electrodes, indicating definitively the presence of a
+spin current between injector and detector. The non-local resistance changes
+magnitude and sign quasi-periodically with back-gate voltage, and
+Fabry-Perot-like oscillations[6,14,15] are observed, consistent with
+quantum-coherent transport. The non-local resistance signal can be observed up
+to at least T = 300 K.

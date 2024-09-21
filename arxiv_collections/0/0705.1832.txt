@@ -1,0 +1,7 @@
+We show that the entanglement witnesses based on local orthogonal observables
+which are introduced in [S. Yu and N.-L. Liu, Phys. Rev. Lett. 95, 150504
+(2005)] and [O. G\"uhne, M. Mechler, G. T\'oth and P. Adam, Phys. Rev. A 74,
+010301 (2006)] in linear and nonlinear forms can be optimized, respectively. As
+applications, we calculate the optimal nonlinear witnesses of pure bipartite
+states and show a lower bound on the I-concurrence of bipartite higher
+dimensional systems with our method.

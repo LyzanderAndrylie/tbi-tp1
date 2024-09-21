@@ -1,0 +1,12 @@
+We study the interplay between correlation, itinerant ferromagnetism and
+local moment formation on the electron doped triangular lattice of sodium
+cobaltates Na$_x$CoO$_2$. We find that strong correlation renormalizes the
+Stoner criterion and stabilizes the paramagnetic state for $x<x_c\simeq0.67$.
+For $x>x_c$, ferromagnetic (FM) order emerges. The enhanced Na dopant potential
+fluctuations play a crucial role in the sodium rich phases and lead to an
+inhomogeneous FM state, exhibiting nonmagnetic Co$^{3+}$ patches,
+antiferromagnetic (AF) correlated regions, and FM clusters with AF domains.
+Hole doping the band insulator at x=1 leads to the formation of local moments
+near the Na vacancies and AF correlated magnetic clusters. We explain recent
+observations by neutron, $\mu$SR, and NMR experiments on the evolution of the
+magnetic properties in the sodium rich phases.

@@ -1,0 +1,10 @@
+We introduce the Cauchy augmentation operator for basic hypergeometric
+series. Heine's ${}_2\phi_1$ transformation formula and Sears' ${}_3\phi_2$
+transformation formula can be easily obtained by the symmetric property of some
+parameters in operator identities. The Cauchy operator involves two parameters,
+and it can be considered as a generalization of the operator $T(bD_q)$. Using
+this operator, we obtain extensions of the Askey-Wilson integral, the Askey-Roy
+integral, Sears' two-term summation formula, as well as the $q$-analogues of
+Barnes' lemmas. Finally, we find that the Cauchy operator is also suitable for
+the study of the bivariate Rogers-Szeg\"o polynomials, or the continuous big
+$q$-Hermite polynomials.

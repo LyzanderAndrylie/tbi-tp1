@@ -1,0 +1,10 @@
+This paper investigates the singular curves in two-dimensional slices of the
+joint space of a family of planar parallel manipulators. It focuses on special
+points, referred to as cusp points, which may appear on these curves. Cusp
+points play an important role in the kinematic behavior of parallel
+manipulators since they make possible a nonsingular change of assembly mode.
+The purpose of this study is twofold. First, it reviews an important previous
+work, which, to the authors' knowledge, has never been exploited yet. Second,
+it determines the cusp points in any two-dimensional slice of the joint space.
+First results show that the number of cusp points may vary from zero to eight.
+This work finds applications in both design and trajectory planning.

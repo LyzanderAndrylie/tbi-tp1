@@ -1,0 +1,16 @@
+Dispersive readouts for superconducting qubits have the advantage of speed
+and minimal invasiveness. We have developed such an amplifier, the Cavity
+Bifurcation Amplifier (CBA) [10], and applied it to the readout of the
+quantronium qubit [2]. It consists of a Josephson junction embedded in a
+microwave on-chip resonator. In contrast with the Josephson bifurcation
+amplifier [17], which has an on-chip capacitor shunting a junction, the
+resonator is based on a simple coplanar waveguide imposing a pre-determined
+frequency and whose other RF characteristics like the quality factor are easily
+controlled and optimized. Under proper microwave irradiation conditions, the
+CBA has two metastable states. Which state is adopted by the CBA depends on the
+state of a quantronium qubit coupled to the CBA's junction. Due to the MHz
+repetition rate and large signal to noise ratio we can show directly that the
+coherence is limited by 1/f gate charge noise when biased at the sweet spot - a
+point insensitive to first order gate charge fluctuations. This architecture
+lends itself to scalable quantum computing using a multi-resonator chip with
+multiplexed readouts.

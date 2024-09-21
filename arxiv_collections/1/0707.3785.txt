@@ -1,0 +1,16 @@
+We investigate the effect of a magnetic field on cold dense three-flavor
+quark matter using an effective model with four-Fermi interactions with
+electric and color neutrality taken into account. The gap parameters Delta_1,
+Delta_2, and Delta_3 representing respectively the predominant pairing between
+down and strange (d-s) quarks, strange and up (s-u) quarks, and up and down
+(u-d) quarks, show the de Haas-van Alphen effect, i.e. oscillatory behavior as
+a function of the modified magnetic field B that can penetrate the color
+superconducting medium. Without applying electric and color neutrality we find
+Delta_2 \approx Delta_3 >> Delta_1 for 2 e B / mu_q^2, where e is the modified
+electromagnetic coupling constant and mu_q is one third of the baryon chemical
+potential. Because the average Fermi surface for each pairing is affected by
+taking into account neutrality, the gap structure changes drastically in this
+case; we find Delta_1 >> Delta_2 \approx Delta_3 for 2 e B > mu_q^2. We point
+out that the magnetic fields as strong as presumably existing inside magnetars
+might induce significant deviations from the gap structure Delta_1 \approx
+Delta_2 \approx Delta_3 at zero magnetic field.

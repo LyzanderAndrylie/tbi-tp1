@@ -1,0 +1,5 @@
+Twisted graph diagrams are virtual graph diagrams with bars on edges. A
+bijection between abstract graph diagrams and twisted graph diagrams is
+constructed. Then a polynomial invariant of Yamada-type is developed which
+provides a lower bound for the virtual crossing number of virtual graph
+diagrams.

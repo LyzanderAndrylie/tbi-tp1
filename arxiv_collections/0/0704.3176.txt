@@ -1,0 +1,14 @@
+The critical behavior of the contact process in disordered and periodic
+binary 2d-lattices is investigated numerically by means of Monte Carlo
+simulations as well as via an analytical approximation and standard mean field
+theory. Phase-separation lines calculated numerically are found to agree well
+with analytical predictions around the homogeneous point. For the disordered
+case, values of static scaling exponents obtained via quasi-stationary
+simulations are found to change with disorder strength. In particular, the
+finite-size scaling exponent of the density of infected sites approaches a
+value consistent with the existence of an infinite-randomness fixed point as
+conjectured before for the 2d disordered CP. At the same time, both dynamical
+and static scaling exponents are found to coincide with the values established
+for the homogeneous case thus confirming that the contact process in a
+heterogeneous environment belongs to the directed percolation universality
+class.

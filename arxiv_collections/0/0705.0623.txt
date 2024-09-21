@@ -1,0 +1,23 @@
+We test the theory that lenticular (S0) galaxies form from spirals whose star
+formation has been shut down. We use the globular cluster specific frequency
+S_N, defined as the number of globular clusters normalised by the galaxy
+luminosity as a diagnostic. NTT/EMMI long-slit spectroscopic observations of 11
+S0 galaxies at z < 0.006 are used to measure the absorption-line indices,
+Hdelta, Hgamma, Mgb, Fe5270 and Fe5335 within the central r_e/8. By inverting
+single-stellar population models, luminosity-weighted mean ages, metallicities
+and alpha-element abundance ratios are derived. We estimate the amount of
+fading a galaxy has undergone by comparing each galaxy's S_N with its deviation
+from the mean spiral S_N. Galaxies with higher S_N have older stellar
+populations. Moreover, we find that the zero-point and amount of fading is
+consistent with a scenario where lenticulars are formed by the quenching of
+star formation in spiral galaxies. Our data also rule out any formation method
+for S0s which creates a large number of new globular clusters. We confirm that
+previous results showing a relationship between S_N and color are driven by the
+S_N - Age relation. Five galaxies show detectable Hbeta, [OIII], Halpha or
+[NII] emission lines. However, only in the two youngest galaxies is this
+emission unambiguously from star formation. Our results are consistent with the
+theory that S0 galaxies are formed when gas in normal spirals is removed,
+possibly as a result of a change in environment. The on-going star formation in
+the youngest galaxies hints that the timescale of quenching is ~< 1 Gyr. We
+speculate, therefore, that the truncation of star formation is a rather gentle
+process unlikely to involve a rapid burst of star formation.

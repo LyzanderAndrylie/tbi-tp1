@@ -1,0 +1,10 @@
+This article uses data from two experimental studies of two-person Prisoner's
+Dilemma games [1, 2] and compares the data with the theoretic predictions
+calculated with the use of a quantum game theoretical method. The experimental
+findings of the cooperation percentage Cp indicate a strong connectivity with
+the properties of a novel function (N), which depends on the payoff parameters
+of the game and the entanglement parameter . A classification scheme depending
+on four quantum cooperation indicators is developed to describe cooperation in
+real two-person games. The quantum indicators lead to results, that are at
+least as good as the cooperation predictions derived from classical game
+theory.

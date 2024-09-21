@@ -1,0 +1,15 @@
+We show using computer simulations and mean field theory that a system of
+particles in two dimensions, when confined laterally by a pair of parallel hard
+walls within a quasi one dimensional channel, possesses several anomalous
+structural and mechanical properties not observed in the bulk. Depending on the
+density $\rho$ and the distance between the walls $L_y$, the system shows
+structural characteristics analogous to a weakly modulated liquid, a strongly
+modulated smectic, a triangular solid or a buckled phase. At fixed $\rho$, a
+change in $L_y$ leads to many reentrant discontinuous transitions involving
+changes in the number of layers parallel to the confining walls depending
+crucially on the commensurability of inter-layer spacing with $L_y$. The solid
+shows resistance to elongation but not to shear. When strained beyond the
+elastic limit it fails undergoing plastic deformation but surprisingly, as the
+strain is reversed, the material recovers completely and returns to its
+original undeformed state. We obtain the phase diagram from mean field theory
+and finite size simulations and discuss the effect of fluctuations.

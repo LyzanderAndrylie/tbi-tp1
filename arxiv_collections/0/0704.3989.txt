@@ -1,0 +1,6 @@
+A nonlinear parabolic differential equation with a quadratic nonlinearity is
+presented which has at least one equilibrium. The linearization about this
+equilibrium is asymptotically stable, but by using a technique inspired by H.
+Fujita, we show that the equilibrium is unstable in the nonlinear setting. The
+perturbations used have the property that they are small in every $L^p$ norm,
+yet they result in solutions which fail to be global.

@@ -1,0 +1,8 @@
+In this note, we develop transformation formulae and expansions for the log
+tangent integral, which are then used to derive series acceleration formulae
+for certain values of Dirichlet L-functions, such as Catalan's constant. The
+formulae are characterized by the presence of an infinite series whose general
+term consists of a linear recurrence damped by the central binomial coefficient
+and a certain quadratic polynomial. Typically, the series can be expressed in
+closed form as a rational linear combination of Catalan's constant and pi times
+the logarithm of an algebraic unit.

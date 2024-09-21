@@ -1,0 +1,8 @@
+We present a detailed derivation of the renormalization group equations for
+two dimensional electromagnetic Coulomb gases whose charges lie on a triangular
+lattice (magnetic charges) and its dual (electric charges). The interactions
+between the charges involve both angular couplings and a new electromagnetic
+potential. This motivates the denomination of ``elastic'' Coulomb gas. Such
+elastic Coulomb gases arise naturally in the study of the continuous melting
+transition of two dimensional solids coupled to a substrate, either
+commensurate or with quenched disorder.

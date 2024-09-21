@@ -1,0 +1,11 @@
+We report on the frequency performance of a low cost (~500$) radio-frequency
+sine wave generator, using direct digital synthesis (DDS) and a
+field-programmable gate array (FPGA). The output frequency of the device may be
+changed dynamically to any arbitrary value ranging from DC to 10 MHz without
+any phase slip. Sampling effects are substantially reduced by a high sample
+rate, up to 1 MHz, and by a large memory length, more than 2.10^5 samples. By
+using a low noise external oscillator to clock the DDS, we demonstrate a phase
+noise as low as that of the master clock, that is at the level of -113
+dB.rad^2/Hz at 1 Hz from the carrier for an output frequency of 3.75 MHz. The
+device is successfully used to confine an ultracold atomic cloud of rubidium 87
+in a RF-based trap, and there is no extra heating from the RF source.

@@ -1,0 +1,13 @@
+We present measurements of the masses of 20 X-ray luminous clusters of
+galaxies at intermediate redshifts, determined from a weak lensing analysis of
+deep archival R-band data obtained using the Canada-France-Hawaii-Telescope.
+Compared to previous work, our analysis accounts for a number of effects that
+are typically ignored, but can lead to small biases, or incorrect error
+estimates. We derive masses that are essentially model independent and find
+that they agree well with measurements of the velocity dispersion of cluster
+galaxies and with the results of X-ray studies. Assuming a power law between
+the lensing mass and the X-ray temperature, M_2500 T^alpha, we find a best fit
+slope of alpha=1.34^{+0.30}_{-0.28}. This slope agrees with self-similar
+cluster models and studies based on X-ray data alone. For a cluster with a
+temperature of kT=5keV we obtain a mass M_{2500}=(1.4+-0.2)\times
+10^{14}h^{-1}Msun in fair agreement with recent Chandra and XMM studies.

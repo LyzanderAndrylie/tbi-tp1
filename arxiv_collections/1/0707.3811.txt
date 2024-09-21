@@ -1,0 +1,17 @@
+In eukaryotes, DNA replication is initiated along each chromosome at multiple
+sites called replication origins. Locally, each replication origin is
+"licensed", or specified, at the end of the M and the beginning of G1 phases of
+the cell cycle. During S phase when DNA synthesis takes place, origins are
+activated in stages corresponding to early and late replicating domains. The
+staged and progressive activation of replication origins reflects the need to
+maintain a strict balance between the number of active replication forks and
+the rate at which DNA synthesis procedes. This suggests that origin densities
+(frequency of intiation) and replication fork movement (rates of elongation)
+must be co-regulated in order to guarantee the efficient and complete
+duplication of each subchromosomal domain. Emerging evidence supports this
+proposal and suggests that the ATM/ATR intra-S phase checkpoint plays an
+important role in the co-regulation of initiation frequencies and rates of
+elongation. In the following, we review recent results concerning the
+mechanisms governing the global regulation of DNA replication and discuss the
+roles these mechanisms play in maintaining genome stability during both a
+normal and perturbed S phase.

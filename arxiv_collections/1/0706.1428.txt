@@ -1,0 +1,7 @@
+This works reports on gaseous detectors developments made in the frame of the
+EXO double-beta decay experiment. LEM (Large Electron Multiplication) are
+electron amplification grids based on GEM. They were developed in Neuchatel and
+showed remarquable resistance to sparks. The new SILEM grid combines the
+properties of the standard LEM with a micropatterned x-y readout plane on one
+of the grid side. It allows thus the amplification of the primary electrons and
+their position determination in the x-y plane.

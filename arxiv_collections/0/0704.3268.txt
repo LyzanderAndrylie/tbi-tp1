@@ -1,0 +1,15 @@
+An easily implementable path solution algorithm for 2D spatial problems,
+based on excitable/programmable characteristics of a specific cellular
+nonlinear network (CNN) model is presented and numerically investigated. The
+network is a single layer bioinspired model which was also implemented in CMOS
+technology. It exhibits excitable characteristics with regionally bistable
+cells. The related response realizes propagations of trigger autowaves, where
+the excitable mode can be globally preset and reset. It is shown that, obstacle
+distributions in 2D space can also be directly mapped onto the coupled cell
+array in the network. Combining these two features, the network model can serve
+as the main block in a 2D path computing processor. The related algorithm and
+configurations are numerically experimented with circuit level parameters and
+performance estimations are also presented. The simplicity of the model also
+allows alternative technology and device level implementation, which may become
+critical in autonomous processor design of related micro or nanoscale robotic
+applications.

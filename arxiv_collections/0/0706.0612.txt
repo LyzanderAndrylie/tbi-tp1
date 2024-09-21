@@ -1,0 +1,7 @@
+We consider the algebraic form of a generalized Lame equation with five free
+parameters. By introducing a generalization of Jacobi's elliptic functions we
+transform this equation to a 1-dim time-independent Schroedinger equation with
+(quasi-doubly) periodic potential. We show that only for a finite set of
+integral values for the five parameters quasi-doubly periodic eigenfunctions
+expressible in terms of generalized Jacobi functions exist. For this purpose we
+also establish a relation to the generalized Ince equation.

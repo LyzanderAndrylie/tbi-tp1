@@ -1,0 +1,22 @@
+We present mid-IR spectral decomposition of a sample of 48 Spitzer-selected
+ULIRGs spanning z~1-3 and likely L_IR~10^12-10^13Lsun. Our study aims at
+quantifying the star-formation and AGN processes in these sources which recent
+results suggest have evolved strongly between the observed epoch and today. To
+do this, we study the mid-IR contribution of PAH emission, continuum, and
+extinction. About 3/4 of our sample are continuum- (i.e. AGN) dominated
+sources, but ~60% of these show PAH emission, suggesting the presence of
+star-formation activity. These sources have redder mid-IR colors than typical
+optically-selected quasars. About 25% of our sample have strong PAH emission,
+but none are likely to be pure starbursts as reflected in their relatively high
+5um hot dust continua. However, their steep 30um-to-14um slopes suggest that
+star-formation might dominate the total infrared luminosity. Six of our z~2
+sources have EW6.2>~0.3um and L_14um>~10^12Lsun (implying L_IR>~10^13Lsun). At
+these luminosities, such high EW6.2 ULIRGs do not exist in the local Universe.
+We find a median optical depth at 9.7um of <tau_9.7>=1.4. This is consistent
+with local IRAS-selected ULIRGs, but differs from early results on
+SCUBA-selected z~2 ULIRGs. Similar to local ULIRGs about 25% of our sample show
+extreme obscuration (tau_9.7>~3) suggesting buried nuclei. In general, we find
+that our sources are similar to local ULIRGs, but are an order of magnitude
+more luminous. It is not clear whether our z~2 ULIRGs are simply scaled-up
+versions of local ULIRGs, or subject to fundamentally different physical
+processes.

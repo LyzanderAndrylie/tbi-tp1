@@ -1,0 +1,15 @@
+The infrared absorption spectrum of the protonated water dimer (H5O2+) is
+simulated in full dimensionality (15D) in the spectral range 0-4000 cm-1. The
+calculations are performed using the Multiconfiguration Time-Dependent Hartree
+(MCTDH) method for propagation of wavepackets. All the fundamentals and several
+overtones of the vibrational motion are computed. The spectrum of H5O2+ is
+shaped to a large extent by couplings of the proton-transfer motion to large
+amplitude fluxional motions of the water molecules, water bending and
+water-water stretch motions. These couplings are identified and discussed, and
+the corresponding spectral lines assigned. The large couplings featured by
+H5O2+ do not hinder, however, to describe the coupled vibrational motion by
+well defined simple types of vibration (stretching, bending, etc.) based on
+well defined modes of vibration, in terms of which the spectral lines are
+assigned. Comparison of our results to recent experiments and calculations on
+the system is given. The reported MCTDH IR-spectrum is in very good agreement
+to the recently measured spectrum by Hammer et al. [JCP, 122, 244301, (2005)].

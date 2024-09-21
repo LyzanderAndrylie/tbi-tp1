@@ -1,0 +1,9 @@
+A high precision search for direct CP-violation in K+- --> 3 pi decays was
+performed by the NA48/2 experiment at CERN SPS. The asymmetry in the Dalitz
+plot linear slopes A_g = (g^+ - g^-)/(g^+ + g^-) is measured to be A^c_g =
+(-1.3 +- 2.3)x10^-4 by studying ~3.1x10^9 K+- --> pi+- pi+ pi- decays and A^n_g
+= (2.1 +- 1.9)x10^-4 by studying ~91x10^6 K+- --> pi+- pi0 pi0 decays. The
+unique double- beam system, the design of the detectors and the method of
+analysis provide good control of the instrumental charge asymmetries and allow
+to keep the precision of the result limited by statistics, reaching accuracy
+one order of magnitude better than in previous experiments.

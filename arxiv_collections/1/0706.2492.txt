@@ -1,0 +1,18 @@
+We formulate quantum tunneling as a time-of-arrival problem: we determine the
+detection probability for particles passing through a barrier at a detector
+located a distance L from the tunneling region. For this purpose, we use a
+Positive-Operator-Valued-Measure (POVM) for the time-of-arrival determined in
+quant-ph/0509020 [JMP 47, 122106 (2006)]. This only depends on the initial
+state, the Hamiltonian and the location of the detector. The POVM above
+provides a well-defined probability density and an unambiguous interpretation
+of all quantities involved. We demonstrate that for a class of localized
+initial states, the detection probability allows for an identification of
+tunneling time with the classic phase time. We also establish limits to the
+definability of tunneling time.
+  We then generalize these results to a sequential measurement set-up: the
+phase space properties of the particles are determined by an unsharp sampling
+before their attempt to cross the barrier. For such measurements the tunneling
+time is defined as a genuine observable. This allows us to construct a
+probability distribution for its values that is definable for all initial
+states and potentials. We also identify a regime, in which these probabilities
+correspond to a tunneling-time operator.

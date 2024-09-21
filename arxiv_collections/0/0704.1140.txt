@@ -1,0 +1,24 @@
+It is known that when hard spheres are added to a pure system of hard rods
+the stability of the smectic phase may be greatly enhanced, and that this
+effect can be rationalised in terms of depletion forces. In the present paper
+we first study the effect of orientational order on depletion forces in this
+particular binary system, comparing our results with those obtained adopting
+the usual approximation of considering the rods parallel and their orientations
+frozen. We consider mixtures with rods of different aspect ratios and spheres
+of different diameters, and we treat them within Onsager theory. Our results
+indicate that depletion effects, and consequently smectic stability, decrease
+significantly as a result of orientational disorder in the smectic phase when
+compared with corresponding data based on the frozen--orientation
+approximation. These results are discussed in terms of the $\tau$ parameter,
+which has been proposed as a convenient measure of depletion strength. We
+present closed expressions for $\tau$, and show that it is intimately connected
+with the depletion potential. We then analyse the effect of particle geometry
+by comparing results pertaining to systems of parallel rods of different shapes
+(spherocylinders, cylinders and parallelepipeds). We finally provide results
+based on the Zwanzig approximation of a Fundamental--Measure
+density--functional theory applied to mixtures of parallelepipeds and cubes of
+different sizes. In this case, we show that the $\tau$ parameter exhibits a
+linear asymptotic behaviour in the limit of large values of the hard--rod
+aspect ratio, in conformity with Onsager theory, as well as in the limit of
+large values of the ratio of rod breadth to cube side length, $d$, in contrast
+to Onsager approximation, which predicts $\tau\sim d^3$.

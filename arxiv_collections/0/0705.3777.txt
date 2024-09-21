@@ -1,0 +1,10 @@
+We examine the role that interference plays in quantum state transfer through
+several types of finite spin chains, including chains with isotropic Heisenberg
+interaction between nearest neighbors, chains with reduced coupling constants
+to the spins at the end of the chain, and chains with anisotropic coupling
+constants. We evaluate quantitatively both the interference corresponding to
+the propagation of the entire chain, and the interference in the effective
+propagation of the first and last spins only, treating the rest of the chain as
+black box. We show that perfect quantum state transfer is possible without
+quantum interference, and provide evidence that the spin chains examined
+realize interference-free quantum state transfer to a good approximation.

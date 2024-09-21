@@ -1,0 +1,6 @@
+The Euler's equations describe the motion of inviscid fluid. In the case of
+shallow water, when a perturbative asymtotic expansion of the Euler's equations
+is taken (to a certain order of smallness of the scale parameters), relations
+to certain integrable equations emerge. Some recent results concerning the use
+of integrable equation in modeling the motion of shallow water waves are
+reviewed in this contribution.

@@ -1,0 +1,15 @@
+We present theoretically-established values of the CO-to-H2 and C-to-H2
+conversion factors that may be used to estimate the gas masses of external
+galaxies. We consider four distinct galaxy types, represented by M51, NGC 6946,
+M82 and SMC N27. The physical parameters that best represent the conditions
+within the molecular clouds in each of the galaxy types are estimated using a
+chi^2 analysis of several observed atomic fine structure and CO rotational
+lines. This analysis is explored over a wide range of density, radiation field,
+extinction, and other relevant parameters. Using these estimated physical
+conditions in methods that we have previously established, CO-to-H2 conversion
+factors are then computed for CO transitions up to J=9-8. For the conventional
+CO(1-0) transition, the computed conversion factor varies significantly below
+and above the canonical value for the Milky Way in the four galaxy types
+considered. Since atomic carbon emission is now frequently used as a probe of
+external galaxies, we also present, for the first time, the C-to-H2 conversion
+factor for this emission in the four galaxy types considered.

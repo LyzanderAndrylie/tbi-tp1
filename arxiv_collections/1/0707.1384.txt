@@ -1,0 +1,7 @@
+The difference equations $\xi_{k}=af(\xi_{k-1})+\epsilon_{k}$, where
+$(\epsilon_k)$ is a square integrable difference martingale, and the
+differential equation ${\rm d}\xi=-af(\xi){\rm d}t+{\rm d}\eta$, where $\eta$
+is a square integrable martingale, are considered. A family of estimators
+depending, besides the sample size $n$ (or the observation period, if time is
+continuous) on some random Lipschitz functions is constructed. Asymptotic
+optimality of this estimators is investigated.

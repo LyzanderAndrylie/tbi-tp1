@@ -1,0 +1,16 @@
+User's perception of product, by essence subjective, is a major topic in
+marketing and industrial design. Many methods, based on users' tests, are used
+so as to characterise this perception. We are interested in three main methods:
+multidimensional scaling, semantic differential method, and preference mapping.
+These methods are used to built a perceptual space, in order to position the
+new product, to specify requirements by the study of user's preferences, to
+evaluate some product attributes, related in particular to style (aesthetic).
+These early stages of the design are primordial for a good orientation of the
+project. In parallel, virtual reality tools and interfaces are more and more
+efficient for suggesting to the user complex feelings, and creating in this way
+various levels of perceptions. In this article, we present on an example the
+use of multidimensional scaling, semantic differential method and preference
+mapping for the subjective assessment of virtual products. These products,
+which geometrical form is variable, are defined with a CAD model and are
+proposed to the user with a spacemouse and stereoscopic glasses. Advantages and
+limitations of such evaluation is next discussed..

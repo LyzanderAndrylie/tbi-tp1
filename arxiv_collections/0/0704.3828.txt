@@ -1,0 +1,8 @@
+We demonstrate an integral gated mode single photon detector at telecom
+wavelengths. The charge number of an avalanche pulse rather than the peak
+current is monitored for single-photon detection. The transient spikes in
+conventional gated mode operation are canceled completely by integrating, which
+enables one to improve the performance of single photon detector greatly with
+the same avalanche photodiode. This method has achieved a detection efficiency
+of 29.9% at the dark count probability per gate equal to 5.57E-6/gate
+(1.11E-6/ns) at 1550nm.

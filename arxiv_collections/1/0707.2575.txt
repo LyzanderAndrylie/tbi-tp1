@@ -1,0 +1,18 @@
+When an electric field is applied to an electrolyte-saturated polymer gel
+embedded with charged colloidal particles, the force that must be exerted by
+the hydrogel on each particle reflects a delicate balance of electrical,
+hydrodynamic and elastic stresses. This paper examines the displacement of a
+single charged spherical inclusion embedded in an uncharged hydrogel. We
+present numerically exact solutions of coupled electrokinetic transport and
+elastic-deformation equations, where the gel is treated as an incompressible,
+elastic Brinkman medium. This model problem demonstrates how the displacement
+depends on the particle size and charge, the electrolyte ionic strength, and
+Young's modulus of the polymer skeleton. The numerics are verified, in part,
+with an analytical (boundary-layer) theory valid when the Debye length is much
+smaller than the particle radius. Further, we identify a close connection
+between the displacement when a colloid is immobilized in a gel and its
+velocity when dispersed in a Newtonian electrolyte. Finally, we describe an
+experiment where nanometer-scale displacements might be accurately measured
+using back-focal-plane interferometry. The purpose of such an experiment is to
+probe physicochemical and rheological characteristics of hydrogel composites,
+possibly during gelation.

@@ -1,0 +1,6 @@
+We study the multiplicativity of the output 2-norm for depolarized
+Werner-Holevo channels and show that multiplicativity holds for a product of
+two identical channels in this class. Moreover, it shown that the depolarized
+Werner-Holevo channels do not satisfy the entrywise positivity condition
+introduced by C. King and M.B. Ruskai, which suggests that the main result is
+non-trivial.

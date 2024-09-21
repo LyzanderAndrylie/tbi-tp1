@@ -1,0 +1,11 @@
+Neutron scattering from high-quality YBCO6.334 single crystals with a T$_c$
+of 8.4 K shows that there is no coexistence with long-range antiferromagnetic
+order at this very low, near-critical doping of $\sim$0.055, in contrast to
+claims based on local probe techniques. We find that the neutron resonance seen
+in optimally doped YBCO7 and underdoped YBCO6.5, has undergone large softening
+and damping. It appears that the overdamped resonance, with a relaxation rate
+of 2 meV, is coupled to a zero-energy central mode that grows with cooling and
+eventually saturates with no change at or below T$_c$. Although a similar
+qualitative behaviour is found for YBCO6.35, our study shows that the central
+mode is stronger in YBCO6.334 than YBCO6.35. The system remains subcritical
+with short-ranged three dimensional correlations.

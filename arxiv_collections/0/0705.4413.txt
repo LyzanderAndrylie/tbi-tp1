@@ -1,0 +1,8 @@
+We present a study of entanglement in the case of the 1D extended anisotropic
+Heisenberg model. We investigate two quantum phase transitions (QPTs) within
+the previously found ergodicity phase diagram [E. Plekhanov, A. Avella, and F.
+Mancini Phys. Rev. B \textbf{74}, 115120 (2006)]. Our calculations are done by
+means of the numerically exact Lanczos method at T=0, followed by a finite-size
+scaling. As a measure of entanglement we use the concurrence for two spins out
+of the system. We conclude from our studies that these QPTs are accompanied by
+a qualitative entanglement change.

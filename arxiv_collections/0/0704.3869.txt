@@ -1,0 +1,12 @@
+Magnetic properties of the spin doughnut Mo_{75}V_{20}, which is a frustrated
+magnetic cluster with twenty spins, are studied by using the finite-temperature
+Lanczos method. Our model Hamiltonian consists of one ten-spin ring and two
+five-spin rings with nearest-neighbor antiferromagnetic couplings J and J". The
+five-spin rings are coupled to the ten-spin ring by an antiferromagnetic
+exchange interaction J' so as to form isosceles triangles of one J-bond and two
+J'-bonds. Fitting the theoretical magnetic susceptibility with the experimental
+one measured by Muller et al., the exchange parameters are estimated as J=388
+K, J'=163 K and J"=81 K. The most interesting feature of this system is that
+the two five-spin rings behave like two free-spins at low temperatures in
+despite of J'>J". We also calculate temperature dependence of the specific
+heat, and find three peaks at T sim J, J" and J'/100.

@@ -1,0 +1,9 @@
+DNA microarray experiments, a well-established experimental technique, aim at
+understanding the function of genes in some biological processes. One of the
+most common experiments in functional genomics research is to compare two
+groups of microarray data to determine which genes are differentially
+expressed. In this paper, we propose a methodology to estimate the proportion
+of differentially expressed genes in such experiments. We study the performance
+of our method in a simulation study where we compare it to other standard
+methods. Finally we compare the methods in real data from two toxicology
+experiments with mice.

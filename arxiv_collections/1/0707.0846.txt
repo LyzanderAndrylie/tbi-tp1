@@ -1,0 +1,6 @@
+We consider an array of coupled optical cavities, each containing a
+multi-atom ensemble. We show that the nonlinearity inherent in the cooperative
+dynamics of the atoms in each ensemble coupled to the respective cavity field
+allows for the formation of solitary waves. Such a prediction can be tested in
+state-of-the-art semiconducting photonic-crystal microcavities with embedded
+impurities.

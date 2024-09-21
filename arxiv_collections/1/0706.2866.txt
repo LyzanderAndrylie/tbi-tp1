@@ -1,0 +1,8 @@
+As spin glass materials have extremely slow dynamics, devious numerical
+methods are needed to study low-temperature states. A simple and fast
+optimization version of the classical Kasteleyn treatment of the Ising model is
+described and applied to two-dimensional Ising spin glasses. The algorithm
+combines the Pfaffian and matching approaches to directly strip droplet
+excitations from an excited state. Extended ground states in Ising spin glasses
+on a torus, which are optimized over all boundary conditions, are used to
+compute precise values for ground state energy densities.

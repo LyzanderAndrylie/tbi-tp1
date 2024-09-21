@@ -1,0 +1,13 @@
+We present current-voltage (I-V) curves for phenylene ethynylene oligomers
+between two Au surfaces computed using a Density Functional Theory/Green's
+Function approach. In addition to the parent molecule, two different
+substituents are considered: one where all the hydrogens are replaced by
+chlorines and a second where one H is replaced by an NO2 group. In this way, we
+can study the difference between electron withdrawing and pi orbital effects.
+For low biases, a reduced current for the derived species is consistent with a
+shift of HOMO to lower energy due to the electron withdrawal by Cl or NO2. At
+higher biases, the LUMO becomes important, and the Cl and NO2 substituted
+species carry more current than the parent because the LUMO is stabilized
+(shifted to lower energy) due to the withdrawal of electrons by the Cl and NO2.
+In these molecules, the C2 bridging units as well as the thiol anchor group are
+shown to create bottlenecks to current flow.

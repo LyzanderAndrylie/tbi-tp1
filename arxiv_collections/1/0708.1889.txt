@@ -1,0 +1,12 @@
+We solve the Edwards-Anderson model (EA) in different Husimi lattices. We
+show that, at T=0, the structure of the solution space depends on the parity of
+the loop sizes. Husimi lattices with odd loop sizes have always a trivial
+paramagnetic solution stable under 1RSB perturbations while, in Husimi lattices
+with even loop sizes, this solution is absent. The range of stability under
+1RSB perturbations of this and other RS solutions is computed analytically
+(when possible) or numerically. We compute the free-energy, the complexity and
+the ground state energy of different Husimi lattices at the level of the 1RSB
+approximation. We also show, when the fraction of ferromagnetic couplings
+increases, the existence, first, of a discontinuous transition from a
+paramagnetic to a spin glass phase and latter of a continuous transition from a
+spin glass to a ferromagnetic phase.

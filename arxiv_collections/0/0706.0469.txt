@@ -1,0 +1,15 @@
+We analyze the spectral properties of the volume operator of Ashtekar and
+Lewandowski in Loop Quantum Gravity, which is the quantum analogue of the
+classical volume expression for regions in three dimensional Riemannian space.
+Our analysis considers for the first time generic graph vertices of valence
+greater than four. Here we find that the geometry of the underlying vertex
+characterizes the spectral properties of the volume operator, in particular the
+presence of a `volume gap' (a smallest non-zero eigenvalue in the spectrum) is
+found to depend on the vertex embedding. We compute the set of all
+non-spatially diffeomorphic non-coplanar vertex embeddings for vertices of
+valence 5--7, and argue that these sets can be used to label spatial
+diffeomorphism invariant states. We observe how gauge invariance connects
+vertex geometry and representation properties of the underlying gauge group in
+a natural way. Analytical results on the spectrum on 4-valent vertices are
+included, for which the presence of a volume gap is proved. This paper presents
+our main results; details are provided by a companion paper arXiv:0706.0382v1.

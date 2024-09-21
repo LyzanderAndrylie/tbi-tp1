@@ -1,0 +1,8 @@
+We report a scalable linear optical scheme for generating entangled states of
+multiple ququarts in which the individual single-ququart state is prepared with
+the biphoton polarization state of frequency-nondegenerate spontaneous
+parametric down-conversion. The output state is calculated with the full
+consideration of the higher order effect (double-pair events) of spontaneous
+parametric down-conversion. Scalability to multiple-ququart entanglement is
+demonstrated with examples: linear optical entanglement of three and four
+individual biphoton ququarts.

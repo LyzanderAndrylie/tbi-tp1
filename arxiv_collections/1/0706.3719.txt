@@ -1,0 +1,7 @@
+The Hartree-Fock-Popov theory of interacting Bose particles is developed, for
+modeling exciton-polaritons in semiconductor microcavities undergoing
+Bose-Einstein condensation. A self-consistent treatment of the linear
+exciton-photon coupling and of the exciton non-linearity provides a thermal
+equilibrium description of the collective excitation spectrum, of the polariton
+energy shifts and of the phase diagram. Quantitative predictions support recent
+experimental findings.

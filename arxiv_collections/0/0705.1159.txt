@@ -1,0 +1,9 @@
+In previous work, an ordering result was given for the symbolwise probability
+of error using general Markov channels, under iterative decoding of LDPC codes.
+In this paper, the ordering result is extended to mutual information, under the
+assumption of an iid input distribution. For certain channels, in which the
+capacity-achieving input distribution is iid, this allows ordering of the
+channels by capacity. The complexity of analyzing general Markov channels is
+mitigated by this ordering, since it is possible to immediately determine that
+a wide class of channels, with different numbers of states, has a smaller
+mutual information than a given channel.

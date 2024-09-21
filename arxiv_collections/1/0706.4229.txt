@@ -1,0 +1,9 @@
+We find that a compatible graded left-symmetric algebra structure on the Witt
+algebra induces an indecomposable module of the Witt algebra with 1-dimensional
+weight spaces by its left multiplication operators. From the classification of
+such modules of the Witt algebra, the compatible graded left-symmetric algebra
+structures on the Witt algebra are classified. All of them are simple and they
+include the examples given by Chapoton and Kupershmidt. Furthermore, we
+classify the central extensions of these graded left-symmetric algebras which
+give the compatible graded left-symmetric algebra structures on the Virasoro
+algebra. They coincide with the examples given by Kupershmidt.

@@ -1,0 +1,14 @@
+For \alpha in the interval [0,1], we consider the one-parameter family of
+\alpha-continued fraction maps, which include the Gauss map (\alpha=1) and the
+nearest integer (\alpha=1/2) and by-excess (\alpha=0) continued fraction maps.
+To each of these expansions, and to each choice of a positive function u on the
+interval I_\alpha=(0,max(\alpha,1-\alpha)) we associate a generalized Brjuno
+function B_(\alpha,u)(x). For \alpha=1/2 or \alpha=1, and u(x)=-\log(x), these
+functions were introduced by Yoccoz in his work on the linearization of
+holomorphic maps. Their regularity properties, including BMO regularity and
+their extension to the complex plane, have been thoroughly investigated. We
+compare the functions obtained with different values of \alpha and we prove
+that the set of (\alpha,u)-Brjuno numbers does not depend on the choice of
+\alpha provided that \alpha>0. We then consider the case \alpha=0,
+u(x)=-\log(x) and we prove that x is a Brjuno number (for \alpha> 0) if and
+only if both x and -x are Brjuno numbers for \alpha=0.

@@ -1,0 +1,11 @@
+We theoretically examine the rotation of an atomic Bose-Einstein condensate
+in an elliptical trap, both in the absence and presence of a quantized vortex.
+Two methods of introducing the rotating potential are considered -
+adiabatically increasing the rotation frequency at fixed ellipticity, and
+adiabatically increasing the trap ellipticity at fixed rotation frequency.
+Extensive simulations of the Gross-Pitaevskii equation are employed to map out
+the points where the condensate becomes unstable and ultimately forms a vortex
+lattice. We highlight the key features of having a quantized vortex in the
+initial condensate. In particular, we find that the presence of the vortex
+causes the instabilities to shift to lower or higher rotation frequencies,
+depending on the direction of the vortex relative to the trap rotation.

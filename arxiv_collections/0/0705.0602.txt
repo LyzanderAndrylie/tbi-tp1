@@ -1,0 +1,18 @@
+The assessment of highly-risky situations at road intersections have been
+recently revealed as an important research topic within the context of the
+automotive industry. In this paper we shall introduce a novel approach to
+compute risk functions by using a combination of a highly non-linear processing
+model in conjunction with a powerful information encoding procedure.
+Specifically, the elements of information either static or dynamic that appear
+in a road intersection scene are encoded by using directed positional acyclic
+labeled graphs. The risk assessment problem is then reformulated in terms of an
+inductive learning task carried out by a recursive neural network. Recursive
+neural networks are connectionist models capable of solving supervised and
+non-supervised learning problems represented by directed ordered acyclic
+graphs. The potential of this novel approach is demonstrated through well
+predefined scenarios. The major difference of our approach compared to others
+is expressed by the fact of learning the structure of the risk. Furthermore,
+the combination of a rich information encoding procedure with a generalized
+model of dynamical recurrent networks permit us, as we shall demonstrate, a
+sophisticated processing of information that we believe as being a first step
+for building future advanced intersection safety systems

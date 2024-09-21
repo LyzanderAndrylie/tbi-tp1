@@ -1,0 +1,8 @@
+We use first-principles calculations based on density functional theory to
+determine and understand the driving force of the observed stacking fault
+expansion in SiC. We verify the suggestion based on recent experiments that the
+free energy difference between the faulted and the perfect structures is
+responsible for this expansion, and show that its origin lies in a large
+entropy associated with soft vibrational modes of the faulted SiC structure.
+These soft modes involve shearing of SiC on a long length-scale and are absent
+in related group IV semiconductors, such as Si, Ge and C.

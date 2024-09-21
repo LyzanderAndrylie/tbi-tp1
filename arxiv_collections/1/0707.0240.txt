@@ -1,0 +1,5 @@
+In algebraic quantum field theory the spacetime manifold is replaced by a
+suitable base for its topology ordered under inclusion. We explain how certain
+topological invariants of the manifold can be computed in terms of the base
+poset. We develop a theory of connections and curvature for bundles over posets
+in search of a formulation of gauge theories in algebraic quantum field theory.

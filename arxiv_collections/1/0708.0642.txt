@@ -1,0 +1,5 @@
+We consider a nonlinear integral equation with infinitely many derivatives
+that appears when a system of interacting open and closed strings is
+investigated if the nonlocality in the closed string sector is neglected. We
+investigate the properties of this equation, construct an iterative method for
+solving it, and prove that the method converges.

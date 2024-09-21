@@ -1,0 +1,4 @@
+I present the exact analytical expression for the activation energy as a
+function of externally applied magnetic fields for a single--domain magnetic
+particle with uniaxial anisotropy (Stoner--Wohlfahrt model), and investigate
+the scaling behavior of the activation energy close to the switching boundary.

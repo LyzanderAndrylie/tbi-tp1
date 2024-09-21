@@ -1,0 +1,20 @@
+The problem of reconstructing and identifying intracellular protein signaling
+and biochemical networks is of critical importance in biology today. We sought
+to develop a mathematical approach to this problem using, as a test case, one
+of the most well-studied and clinically important signaling networks in biology
+today, the epidermal growth factor receptor (EGFR) driven signaling cascade.
+More specifically, we suggest a method, augmented sparse reconstruction, for
+the identification of links among nodes of ordinary differential equation (ODE)
+networks from a small set of trajectories with different initial conditions.
+Our method builds a system of representation by using a collection of integrals
+of all given trajectories and by attenuating block of terms in the
+representation itself. The system of representation is then augmented with
+random vectors, and minimization of the 1-norm is used to find sparse
+representations for the dynamical interactions of each node. Augmentation by
+random vectors is crucial, since sparsity alone is not able to handle the large
+error-in-variables in the representation. Augmented sparse reconstruction
+allows to consider potentially very large spaces of models and it is able to
+detect with high accuracy the few relevant links among nodes, even when
+moderate noise is added to the measured trajectories. After showing the
+performance of our method on a model of the EGFR protein network, we sketch
+briefly the potential future therapeutic applications of this approach.

@@ -1,0 +1,7 @@
+The existing controversy about the room temperature structure of multiferroic
+Pb(Fe_1/2Nb_1/2)O_3 is settled using synchrotron powder x-ray diffraction data.
+Results of Rietveld refinements in the temperature range 300 to 12K reveal that
+the structure remains monoclinic in the Cm space group down to 12K, but the
+lattice parameters show anomalies at the magnetic transition temperature (T_N)
+due to spin lattice coupling. The lattice volume exhibits negative thermal
+expansion behaviour, with Alpha = - 4.64 x 10^-6 K^-1, below T_N.

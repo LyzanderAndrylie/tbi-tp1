@@ -1,0 +1,5 @@
+A higher order Painleve system of type D^{(1)}_{2n+2} was introduced by Y.
+Sasano. It is an extension of the sixth Painleve equation for the affine Weyl
+group symmetry. It is also expressed as a Hamiltonian system of order 2n with a
+coupled Painleve VI Hamiltonian. In this paper, we discuss a derivation of this
+system from a Drinfeld-Sokolov hierarchy.

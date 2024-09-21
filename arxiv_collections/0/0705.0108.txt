@@ -1,0 +1,8 @@
+I propose a scheme for reconstructing the weak value of an observable without
+the need for weak measurements. The post-selection in weak measurements is
+replaced by an initial projector measurement. The observable can be measured
+using any form of interaction, including projective measurements. The
+reconstruction is effected by measuring the change in the expectation value of
+the observable due to the projector measurement. The weak value may take
+nonclassical values if the projector measurement disturbs the expectation value
+of the observable.

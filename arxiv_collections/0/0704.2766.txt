@@ -1,0 +1,22 @@
+Using data collected with the CLEO III detector at the Cornell Electron
+Storage Ring, we study the inclusive production of baryons/antibaryons (p, /)
+and mesons (phi and f_2(1270)) in gluon-fragmentation and quark-fragmentation
+processes. We first corroborate previous per-event total particle yields in
+Upsilon(1S)->ggg compared with nearby continuum (e+e- -> qqbar) indicating
+greater (x2) per-event yields of baryons in 3-gluon fragmentation. We find
+similar results when we extend that comparison to include the Upsilon(2S) and
+Upsilon(3S) resonances. With higher statistics, we now also probe the momentum
+dependence of these per-event particle yields. Next, we compare particle
+production in the photon-tagged process Upsilon(1S)->gggamma with that in e+e-
+-> qqbar events, to allow comparison of two-parton with three-parton
+particle-specific fragmentation. For each particle, we determine the
+`enhancement' ratio, defined as the ratio of particle yields per gluon
+fragmentation event compared to quark fragmentation event. Thus defined, an
+enhancement of 1.0 implies equal per-event production in both gluon and quark
+fragmentation. In the photon-tagged analysis (U(1S)->gggamma compared to e+e-
+-> qqbar+gamma), we find almost no enhancement for protons (1.2+/-0.1), but a
+significant enhancement (1.9+/-0.3) for /\'s. Overall, per-event baryon
+production in radiative two-gluon fragmentation is somewhat smaller than that
+observed in three-gluon decays of the Upsilon(1S). Our results for baryon
+production are inconsistent with the predictions of the JETSET (7.3)
+fragmentation model.

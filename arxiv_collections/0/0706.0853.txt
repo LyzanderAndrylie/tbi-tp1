@@ -1,0 +1,9 @@
+Correlation between the rectilinear polarisations of the photons emitted from
+the biexciton decay in a single quantum dot is investigated in a device which
+allows the charge-state of the dot to be controlled. Optimising emission from
+the neutral exciton states maximises the operating efficiency of the biexciton
+decay. This is important for single dot applications such as a triggered source
+of entangled photons. As the bias on the device is reduced correlation between
+the two photons is found to fall dramatically as emission from the negatively
+charged exciton becomes significant. Lifetime measurements demonstrate that
+electronic spin-scattering is the likely cause.

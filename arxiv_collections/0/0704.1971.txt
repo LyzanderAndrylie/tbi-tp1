@@ -1,0 +1,11 @@
+We consider the evolution and dissipation of vortex rings in a condensate at
+non-zero temperature, in the context of the classical field approximation,
+based on the defocusing nonlinear Schr\"odinger equation. The temperature in
+such a system is fully determined by the total number density and the number
+density of the condensate. A vortex ring is introduced into a condensate in a
+state of thermal equilibrium, and interacts with non-condensed particles. These
+interactions lead to a gradual decrease in the vortex line density, until the
+vortex ring completely disappears. We show that the square of the vortex line
+length changes linearly with time, and obtain the corresponding universal decay
+law. We relate this to mutual friction coefficients in the fundamental equation
+of vortex motion in superfluids.

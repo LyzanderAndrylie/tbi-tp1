@@ -1,0 +1,8 @@
+We derive diffusion constants and martingales for senile random walks with
+the help of a time-change. We provide direct computations of the diffusion
+constants for the time-changed walks. Alternatively, the values of these
+constants can be derived from martingales associated with the time-changed
+walks. Using an inverse time-change, the diffusion constants for senile random
+walks are then obtained via these martingales. When the walks are diffusive,
+weak convergence to Brownian motion can be shown using a martingale functional
+limit theorem.

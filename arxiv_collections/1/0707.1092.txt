@@ -1,0 +1,9 @@
+Existence and uniqueness in ${\Bbb R}^{n,1}$ of entire spacelike
+hypersurfaces contained in the future of the origin $O$ and asymptotic to the
+light-cone, with scalar curvature prescribed at their generic point $M$ as a
+negative function of the unit vector $\overrightarrow{Om}$ pointing in the
+direction of $\overrightarrow{OM}$, divided by the square of the norm of
+$\overrightarrow{OM}$ (a dilation invariant problem). The solutions are seeked
+as graphs over the future unit-hyperboloid emanating from $O$ (the hyperbolic
+space); radial upper and lower solutions are constructed which, relying on a
+previous result in the Cartesian setting, imply their existence.

@@ -1,0 +1,7 @@
+The spectrum of the normalized graph Laplacian yields a very comprehensive
+set of invariants of a graph. In order to understand the information contained
+in those invariants better, we systematically investigate the behavior of this
+spectrum under local and global operations like motif doubling, graph joining
+or splitting. The eigenvalue 1 plays a particular role, and we therefore
+emphasize those constructions that change its multiplicity in a controlled
+manner, like the iterated duplication of nodes.

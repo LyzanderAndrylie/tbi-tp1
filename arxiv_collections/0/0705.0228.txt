@@ -1,0 +1,6 @@
+We construct a Hamiltonian formulation for the class of plane-fronted
+gravitational waves with parallel rays (pp-waves). Because of the existence of
+a light-like Killing vector, the dynamics is effectively reduced to a 2+1
+evolution with "time" chosen to be light-like. In spite of the vanishing action
+this allows us to geometrically identify a symplectic form as well as dynamical
+Hamiltonian, thus casting the system into canonical form.

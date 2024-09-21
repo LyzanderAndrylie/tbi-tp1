@@ -1,0 +1,16 @@
+Semiconductor Bloch equations, which microscopically describe the dynamics of
+a Coulomb interacting, spin-unpolarized electron-hole plasma, can be solved in
+two limits: the coherent and the quasi-equilibrium regime. These equations have
+been recently extended to include the spin degree of freedom, and used to
+explain spin dynamics in the coherent regime. In the quasi-equilibrium limit,
+one solves the Bethe-Salpeter equation in a two-band model to describe how
+optical absorption is affected by Coulomb interactions within a
+spin-unpolarized plasma of arbitrary density. In this work, we modified the
+solution of the Bethe-Salpeter equation to include spin-polarization and light
+holes in a three-band model, which allowed us to account for spin-polarized
+versions of many-body effects in absorption. The calculated absorption
+reproduced the spin-dependent, density-dependent and spectral trends observed
+in bulk GaAs at room temperature, in a recent pump-probe experiment with
+circularly polarized light. Hence our results may be useful in the microscopic
+modelling of density-dependent optical nonlinearities in spin-polarized
+semiconductors.

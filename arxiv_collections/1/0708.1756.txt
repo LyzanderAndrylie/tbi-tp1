@@ -1,0 +1,15 @@
+We consider optimal execution strategies for block market orders placed in a
+limit order book (LOB). We build on the resilience model proposed by Obizhaeva
+and Wang (2005) but allow for a general shape of the LOB defined via a given
+density function. Thus, we can allow for empirically observed LOB shapes and
+obtain a nonlinear price impact of market orders. We distinguish two
+possibilities for modeling the resilience of the LOB after a large market
+order: the exponential recovery of the number of limit orders, i.e., of the
+volume of the LOB, or the exponential recovery of the bid-ask spread. We
+consider both of these resilience modes and, in each case, derive explicit
+optimal execution strategies in discrete time. Applying our results to a
+block-shaped LOB, we obtain a new closed-form representation for the optimal
+strategy, which explicitly solves the recursive scheme given in Obizhaeva and
+Wang (2005). We also provide some evidence for the robustness of optimal
+strategies with respect to the choice of the shape function and the
+resilience-type.

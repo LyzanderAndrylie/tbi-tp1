@@ -1,0 +1,9 @@
+We report the successful passivation of the Mn acceptors in GaMnP upon
+exposure to a remote dc hydrogen plasma. The as-grown films are non-metallic
+and ferromagnetic with a Curie temperature of T_C=55K. After hydrogenation the
+sample resistivity increases by approximately three orders of magnitude at room
+temperature and six orders of magnitude at 25 K. Furthermore, the hydrogenated
+samples are paramagnetic, which is evidenced by a magnetization curve at 5 K
+that is best described by a Brillouin function with g=2 and J=5/2 expected for
+Mn atoms in the 3d^5 configuration. These observations unambiguously proof that
+the ferromagnetism is carrier-mediated also in GaMnP.

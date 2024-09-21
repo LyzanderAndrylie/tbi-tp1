@@ -1,0 +1,9 @@
+The kinematic properties of mechanisms are well known by the researchers and
+teachers. The theory based on the study of Jacobian matrices allows us to
+explain, for example, the singular configuration. However, in many cases, the
+physical sense of such properties is difficult to explain to students. The aim
+of this article is to use haptic feedback to render to the user the
+signification of different kinematic indices. The framework uses a Phantom Omni
+and a serial and parallel mechanism with two degrees of freedom. The
+end-effector of both mechanisms can be moved either by classical mouse, or
+Phantom Omni with or without feedback.

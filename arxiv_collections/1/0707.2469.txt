@@ -1,0 +1,15 @@
+We present a comparison between finite differences schemes and a
+pseudospectral method applied to the numerical integration of stochastic
+partial differential equations that model surface growth. We have studied, in
+1+1 dimensions, the Kardar, Parisi and Zhang model (KPZ) and the Lai, Das Sarma
+and Villain model (LDV). The pseudospectral method appears to be the most
+stable for a given time step for both models. This means that the time up to
+which we can follow the temporal evolution of a given system is larger for the
+pseudospectral method. Moreover, for the KPZ model, a pseudospectral scheme
+gives results closer to the predictions of the continuum model than those
+obtained through finite difference methods. On the other hand, some numerical
+instabilities appearing with finite difference methods for the LDV model are
+absent when a pseudospectral integration is performed. These numerical
+instabilities give rise to an approximate multiscaling observed in the
+numerical simulations. With the pseudospectral approach no multiscaling is seen
+in agreement with the continuum model.

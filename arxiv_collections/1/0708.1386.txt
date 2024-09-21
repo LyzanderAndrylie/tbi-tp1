@@ -1,0 +1,11 @@
+We propose a new physical approach for encoding and processing of quantum
+information in ensembles of multi-level quantum systems, where the different
+bits are not carried by individual particles but associated with the collective
+population of different internal levels. One- and two-bit gates are implemented
+by collective internal state transitions taking place in the presence of an
+excitation blockade mechanism which restricts the population of each internal
+state to the values zero and unity. 10-20 bit quantum computers can be built
+via this scheme in single trapped clouds of ground state atoms subject to the
+Rydberg excitation blockade mechanism, and the linear dependence between
+register size and the number of internal quantum states in atoms offers
+realistic means to reach larger registers.

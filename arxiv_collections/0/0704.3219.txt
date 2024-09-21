@@ -1,0 +1,13 @@
+We study the magnetohydrostatic equilibrium of magnetic flux tubes with
+circular cross sections embedded in a magnetic surrounding atmosphere. We solve
+the static momentum equation in 2.5D to obtain the thermodynamics that are
+consistent with a prescribed velocity and magnetic fields. We show that force
+balance is roughly satisfied if the flux tube's magnetic field is aligned with
+its axis. Equilibrium is guaranteed if this magnetic field possesses a
+transverse component. Several forms of this transverse field are investigated.
+The resulting magnetic field configurations are critically reviewed in terms of
+the results from spectropolarimetric observations. The thermodynamic structure
+that allows the flux tube to be in mechanical equilibrium is also calculated.
+We show that the inferred pressure, density and temperature stratification
+reproduce intensity features similar to dark core penumbral filaments and
+penumbral grains.

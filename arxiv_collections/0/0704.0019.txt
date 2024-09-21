@@ -1,0 +1,3 @@
+In this note we give a new method for getting a series of approximations for
+the extinction probability of the one-dimensional contact process by using the
+Gr\"obner basis.

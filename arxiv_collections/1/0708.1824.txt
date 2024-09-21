@@ -1,0 +1,11 @@
+The paper considers the effect of the defects on the electronic transmission
+properties in binomially tailored waveguide quantum wires, in which each Dirac
+delta function potential strength have been weight on the binomial distribution
+law. We have assumed that a single free-electron channel is incident on the
+structure and the scattering of electrons is solely from the geometric nature
+of the problem. We have used the transfer matrix method to study the electron
+transmission. We found this novel structure has a good defect tolerance. We
+found the structure tolerate up to in strength defect and in position defect
+for the central Dirac delta function in the binomial distribution. Also, we
+found this structure can tolerate both defect up to in strength and in position
+dislocation

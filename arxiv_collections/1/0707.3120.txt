@@ -1,0 +1,9 @@
+We present a detailed investigation of the acene series using high-level
+wavefunction theory. Our ab-initio Density Matrix Renormalization Group
+algorithm has enabled us to carry out Complete Active Space calculations on the
+acenes from napthalene to dodecacene correlating the full pi-valence space.
+  While we find that the ground-state is a singlet for all chain-lengths,
+examination of several measures of radical character, including the natural
+orbitals, effective number of unpaired electrons, and various correlation
+functions, suggests that the longer acene ground-states are polyradical in
+nature.

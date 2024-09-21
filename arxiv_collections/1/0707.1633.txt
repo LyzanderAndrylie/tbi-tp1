@@ -1,0 +1,11 @@
+We have searched for prompt production of $\chi_{c1}$, $\chi_{c2}$ and
+X(3872) in continuum e^+e^- annihilations using a 386 fb^{-1} data sample
+collected around $\sqrt{s} = 10.6$ GeV with the BABAR detector using the
+$\gamma J/\psi$ decay mode. After accounting for the feed-down from
+$\psi(2S)\to\gamma\chi_{c1,2}$, no significant signal for prompt $\chi_{c1,2}$
+production is observed. We present improved upper limits on the cross-section,
+with the rest of the event consisting of more than two charged tracks, to be 77
+fb for $\chi_{c1}$ and 79 fb for $\chi_{c2}$ with $e^+e^-$ center-of-mass frame
+$\chi_c$ momentum greater than 2.0 GeV at 90% confidence level. These limits
+are consistent with NRQCD predictions. We also set an upper limit on the prompt
+production of X(3872) through the decay $X(3872)\to \gamma J/\psi$.

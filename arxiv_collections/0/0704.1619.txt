@@ -1,0 +1,13 @@
+Red clump giants in the Galactic bulge are approximate standard candles and
+hence they can be used as distance indicators. We compute the proper motion
+dispersions of RCG stars in the Galactic bulge using the proper motion
+catalogue from the second phase of the Optical Gravitational Microlensing
+Experiment (OGLE-II, Sumi et al. 2004) for 45 fields. The proper motion
+dispersions are measured to a few per cent accuracy due to the large number of
+stars in the fields. The observational sample is comprised of 577736 stars.
+These observed data are compared to a state-of-the-art particle simulation of
+the Galactic bulge region. The predictions are in rough agreement with
+observations, but appear to be too anisotropic in the velocity ellipsoid. We
+note that there is significant field-to-field variation in the observed proper
+motion dispersions. This could either be a real feature, or due to some unknown
+systematic effect.

@@ -1,0 +1,12 @@
+Indices and materialized views are physical structures that accelerate data
+access in data warehouses. However, these data structures generate some
+maintenance overhead. They also share the same storage space. The existing
+studies about index and materialized view selection consider these structures
+separately. In this paper, we adopt the opposite stance and couple index and
+materialized view selection to take into account the interactions between them
+and achieve an efficient storage space sharing. We develop cost models that
+evaluate the respective benefit of indexing and view materialization. These
+cost models are then exploited by a greedy algorithm to select a relevant
+configuration of indices and materialized views. Experimental results show that
+our strategy performs better than the independent selection of indices and
+materialized views.

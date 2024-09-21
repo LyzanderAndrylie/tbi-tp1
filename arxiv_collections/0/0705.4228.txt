@@ -1,0 +1,11 @@
+Curry-style system F, ie. system F with no explicit types in terms, can be
+seen as a core presentation of polymorphism from the point of view of
+programming languages. This paper gives a characterisation of type isomorphisms
+for this language, by using a game model whose intuitions come both from the
+syntax and from the game semantics universe. The model is composed of: an
+untyped part to interpret terms, a notion of game to interpret types, and a
+typed part to express the fact that an untyped strategy plays on a game. By
+analysing isomorphisms in the model, we prove that the equational system
+corresponding to type isomorphisms for Curry-style system F is the extension of
+the equational system for Church-style isomorphisms with a new, non-trivial
+equation: forall X.A = A[forall Y.Y/X] if X appears only positively in A.

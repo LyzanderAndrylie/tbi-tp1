@@ -1,0 +1,9 @@
+The dynamics of a single spin embedded in a the tunnel junction between
+ferromagnetic contacts is strongly affected by the exchange coupling to the
+tunneling electrons. Using time-dependent equation of motion for the spin under
+influence of the spin-polarized tunneling current, it is shown that the
+magnetic field induced by bias voltage pulses allows for sub-nanosecond
+switching of the local spin and the possibility of spin reversal is
+illustrated. Furthermore, it is shown that the time-evolution of the Larmor
+frequency sharply peaks around the spin-flip event, and it is argued that this
+feature can be used as an indicator for the spin-flip.

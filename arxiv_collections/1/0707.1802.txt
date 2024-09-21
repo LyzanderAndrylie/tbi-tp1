@@ -1,0 +1,6 @@
+We make use of the nonlinear Riemann Hilbert problem of the dispersionless
+Kadomtsev Petviashvili equation, i) to construct the longtime behaviour of the
+solutions of its Cauchy problem; ii) to characterize a class of implicit
+solutions; iii) to elucidate the spectral mechanism causing the gradient
+catastrophe of localized solutions, at finite time as well as in the longtime
+regime, and the corresponding universal behaviours near breaking.

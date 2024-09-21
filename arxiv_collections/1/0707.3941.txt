@@ -1,0 +1,9 @@
+We consider a chain of nonlinear oscillators with long-range interaction of
+the type 1/l^{1+alpha}, where l is a distance between oscillators and 0< alpha
+<2. In the continues limit the system's dynamics is described by the
+Ginzburg-Landau equation with complex coefficients. Such a system has a new
+parameter alpha that is responsible for the complexity of the medium and that
+strongly influences possible regimes of the dynamics. We study different
+spatial-temporal patterns of the dynamics depending on alpha and show
+transitions from synchronization of the motion to broad-spectrum oscillations
+and to chaos.

@@ -1,0 +1,11 @@
+This paper is devoted to the kinematic design of a new six degree-of-freedom
+haptic device using two parallel mechanisms. The first one, called orthoglide,
+provides the translation motions and the second one, called agile eye, produces
+the rotational motions. These two motions are decoupled to simplify the direct
+and inverse kinematics, as it is needed for real-time control. To reduce the
+inertial load, the motors are fixed on the base and a transmission with two
+universal joints is used to transmit the rotational motions from the base to
+the end-effector. Two alternative wrists are proposed (i), the agile eye with
+three degrees of freedom or (ii) a hybrid wrist made by the assembly of a
+two-dof agile eye with a rotary motor. The last one is optimized to increase
+its stiffness and to decrease the number of moving parts.

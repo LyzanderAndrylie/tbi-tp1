@@ -1,0 +1,16 @@
+We present a measurement of the K-$\pi$ form-factor parameters for the decay
+  \klpmn. We use 328 pb^{-1} of data collected in 2001 and 2002, corresponding
+to
+  $\sim $ 1.8 million \semil events.
+  Measurements of semileptonic form factors provide information about the
+dynamics of the strong interaction and are necessary for evaluation of the
+phase-space integral $I^\mu_K$ needed to measure the CKM matrix element
+$|V_{us}|$ for \klpmn decays and to test lepton universality in kaon decays.
+Using a new parameterization for the vector and scalar form factors we find
+$\lambda_+$=\pt(25.6\pm 0.4_{\rm{stat.}}\pm 0.3_{\rm{syst.}}),-3, and
+$\lambda_0$=\pt(14.3\pm 1.7_{\rm{stat.}}\pm 1.1_{\rm{stat.}}),-3,. In the more
+usual quadratic expansion of the form factor the above result is corresponds to
+$\lambda'_+=\lambda_+$, $\lambda''_+=2\lambda^2_+$, $\lambda'_0=\lambda_0$ and
+$\lambda''_0=(\lambda^2_0+0.000416)/2$. Our results, together with recent
+lattice calculations of $f_\pi$, $f_K$ and $f(0)$, satisfy the Callan-Trieman
+relation.

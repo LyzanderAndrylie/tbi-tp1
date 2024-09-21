@@ -1,0 +1,12 @@
+We present in this paper three dynamic clustering techniques for
+Object-Oriented Databases (OODBs). The first two, Dynamic, Statistical &
+Tunable Clustering (DSTC) and StatClust, exploit both comprehensive usage
+statistics and the inter-object reference graph. They are quite elaborate.
+However, they are also complex to implement and induce a high overhead. The
+third clustering technique, called Detection & Reclustering of Objects (DRO),
+is based on the same principles, but is much simpler to implement. These three
+clustering algorithm have been implemented in the Texas persistent object store
+and compared in terms of clustering efficiency (i.e., overall performance
+increase) and overhead using the Object Clustering Benchmark (OCB). The results
+obtained showed that DRO induced a lighter overhead while still achieving
+better overall performance.

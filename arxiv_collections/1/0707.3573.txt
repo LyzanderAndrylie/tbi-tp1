@@ -1,0 +1,15 @@
+Over the past decade, dust particulate contamination has increasingly become
+an area of concern within the fusion research community. In a burning plasma
+machine design like the International Thermonuclear Experimental Reactor
+(ITER), dust contamination presents problems for diagnostic integration and may
+contribute to tritium safety issues. Additionally due to ITER design, such dust
+contamination problems are projected to become of even greater concern due to
+dust/wall interactions and possible instabilities created within the plasma by
+such particulates. Since the dynamics of such dust can in general be explained
+employing a combination of the ion drag, Coulomb force, and ion pre-sheath
+drifts, recent research in complex (dusty) plasma physics often offers unique
+insights for this research area. This paper will discuss the possibility of how
+experimental observations of the dust and plasma parameters within a GEC rf
+Reference Cell might be employed to diagnose conditions within fusion reactors,
+hopefully providing insight into possible mechanisms for dust detection and
+removal.

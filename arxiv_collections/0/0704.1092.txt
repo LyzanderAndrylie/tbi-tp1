@@ -1,0 +1,9 @@
+We study the additivity problems for the classical capacity of quantum
+channels, the minimal output entropy and its convex closure. We show for each
+of them that additivity for arbitrary pairs of channels holds iff it holds for
+arbitrary equal pairs, which in turn can be taken to be unital. In a similar
+sense, weak additivity is shown to imply strong additivity for any convex
+entanglement monotone. The implications are obtained by considering direct sums
+of channels (or states) for which we show how to obtain several information
+theoretic quantities from their values on the summands. This provides a simple
+and general tool for lifting additivity results.

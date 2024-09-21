@@ -1,0 +1,11 @@
+We introduce and study a Schwarz space S in the space of functions on the
+real line. It is a module over the algebra L of regular functions on the
+(modular double of the) non-commutative q-deformation of the moduli space of
+configurations of 5 cyclically ordered points on the projective line. The
+algebra L has an order five automorphism corresponding to the cyclic shift of
+the points. The quantum dilogarithm gives rise to an automorphism of the space
+Schwarz S intertwining the automorphism of L. This easily implies the pentagon
+relation for the quantum dilogarithm function.
+  The triple (L, S, the automorphism) is the quantized moduli space of
+configurations of 5 points on the projective line. It is the simplest example
+of a quantized cluster X-variety.

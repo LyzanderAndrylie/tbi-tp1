@@ -1,0 +1,16 @@
+Our paper originated from a generalization of the Volume Conjecture to
+multisums of $q$-hypergeometric terms. This generalization was sketched by
+Kontsevich in a problem list in Aarhus University in 2006; \cite{Ko}. We
+introduce the notion of a $q$-hypergeometric term (in short, $q$-term). The
+latter is a product of ratios of $q$-factorials in linear forms in several
+variables. In the first part of the paper, we show how to construct elements of
+the Bloch group (and its extended version) given a \qterm. Their image under
+the Bloch-Wigner map or the Rogers dilogarithm is a finite set of periods of
+weight 2, in the sense of Kontsevich-Zagier. In the second part of the paper we
+introduce the notion of a special $q$-term, its corresponding sequence of
+polynomials, and its generating series. Examples of special $q$-terms come
+naturally from Quantum Topology, and in particular from planar projections of
+knots. The two parts are tied together by a conjecture that relates the
+singularities of the generating series of a special $q$-term with the periods
+of the corresponding elements of the extended Bloch group. In some cases (such
+as the $4_1$ knot), the conjecture is known.

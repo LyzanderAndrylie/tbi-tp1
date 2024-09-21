@@ -1,0 +1,24 @@
+In the present work we compare in detail some of the major theoretical
+libraries with observations, aiming at detecting weaknesses and strengths from
+the stellar population modelling point of view. We compared model predictions
+and observations for broad- band colours and for high resolution spectral
+features. Concerning the broad-band colours, we measured the stellar colour
+given by three recent sets of model atmospheres and flux distributions(Castelli
+& Kurucz 2003; Gustafsson et al. 2003; Brott & Hauschildt 2005), and compared
+them with a recent UBVRIJHK calibration (Worthey & Lee 2007). We found that the
+models can reproduce with reasonable accuracy the stellar colours for a fair
+interval in effective temperatures and gravities. The exceptions are: 1) the
+U-B colour, where the models are typically redder than the observations, and;
+2) the very cool stars in general (V-K > ~3).Concerning the high resolution
+features, we measured 35 spectral indices defined in the literature on three
+high resolution synthetic libraries (Coelho et al. 2005; Martins et al. 2005;
+Munari et al. 2005), and compared them with the observed measurements given by
+three empirical libraries (Valdes et al.2004; Sanchez-Blazquez et al. 2006;
+Prugniel & Soubiran 2001). We found that the direct comparison between models
+and observations is not a simple task, given the uncertainties in parameter
+determinations of empirical libraries. Taking that aside, we found that in
+general the three libraries present similar behaviours and systematic
+deviations. For stars with Teff < 7000K, the library by Coelho et al. (2005) is
+the one with best average performance. We detect that lists of atomic and
+molecular line opacities still need improvement, specially in the blue region
+of thespectrum, and for the cool stars (Teff < ~4500K).

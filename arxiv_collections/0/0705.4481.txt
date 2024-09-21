@@ -1,0 +1,7 @@
+Linearly projecting smooth projective varieties provides a method of
+obtaining hypersurfaces birational to the original varieties. We show that in
+low dimension, the resulting hypersurfaces only have Du Bois singularities.
+Moreover, we conclude that these Du Bois singularities are in fact semi log
+canonical. However, we demonstrate the existence of counterexamples in high
+dimension -- the generic linear projection of certain varieties of dimension 30
+or higher is neither semi log canonical nor Du Bois.

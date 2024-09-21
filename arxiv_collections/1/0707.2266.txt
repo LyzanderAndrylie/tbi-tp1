@@ -1,0 +1,14 @@
+We show that a liquid mixture in the thermodynamically stable homogeneous
+phase can undergo a phase-separation transition when rotated at sufficiently
+high frequency $\omega$. This phase-transition is different from the usual case
+where two liquids are immiscible or where the slow sedimentation process of one
+component (e.g. a polymer) is accelerated due to centrifugation. For a binary
+mixture, the main coupling is due to a term $\propto \Delta\rho(\omega r)^2$,
+where $\Delta\rho$ is the difference between the two liquid densities and $r$
+the distance from the rotation axis. Below the critical temperature there is a
+critical rotation frequency $\omega_c$, below which smooth density gradients
+occur. When $\omega>\omega_c$, we find a sharp interface between the low
+density liquid close to the center of the centrifuge and a high density liquid
+far from the center. These findings may be relevant to various separation
+processes and to the control of chemical reactions, in particular their
+kinetics.

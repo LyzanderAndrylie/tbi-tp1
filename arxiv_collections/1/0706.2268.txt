@@ -1,0 +1,9 @@
+It was shown recently that the space isomorphic with an Gelfand Shilov space
+is well adapted for the use in quantum field theory with a fundamental length.
+It is our believe that all Gelfand Shilov spaces, especially those with
+quasianalytic test function spaces, are good domains for the quantum field
+theory. The theory requires technical results from the theory of generalized
+functions and not merely differential calculus and well defined Fourier
+transform, but also the kernel theorem and the structural theorem. In the paper
+we give the structural (regularity) theorem and kernel theorem for
+Gelfand-Shilov spaces, of Roumieu and Beurling type.

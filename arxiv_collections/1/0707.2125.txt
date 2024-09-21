@@ -1,0 +1,15 @@
+An Hermitian bounded symmetric domain in a complex vector space, given in its
+circled realization, is endowed with two natural symplectic forms: the flat
+form and the hyperbolic form. In a similar way, the ambient vector space is
+also endowed with two natural symplectic forms: the Fubini-Study form and the
+flat form. It has been shown in arXiv:math.DG/0603141 that there exists a
+diffeomorphism from the domain to the ambient vector space which puts in
+correspondence the above pair of forms. This phenomenon is called symplectic
+duality for Hermitian non compact symmetric spaces.
+  In this article, we first give a different and simpler proof of this fact.
+Then, in order to measure the non uniqueness of this symplectic duality map, we
+determine the group of bisymplectomorphisms of a bounded symmetric domain, that
+is, the group of diffeomorphisms which preserve simultaneously the hyperbolic
+and the flat symplectic form. This group is the direct product of the compact
+Lie group of linear automorphisms with an infinite-dimensional Abelian group.
+This result appears as a kind of Schwarz lemma.

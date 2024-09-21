@@ -1,0 +1,10 @@
+A laser-based angle resolved photoemission (APRES) system utilizing 6 eV
+photons from the fourth harmonic of a mode-locked Ti:sapphire oscillator is
+described. This light source greatly increases the momentum resolution and
+photoelectron count rate, while reducing extrinsic background and surface
+sensitivity relative to higher energy light sources. In this review, the
+optical system is described, and special experimental considerations for
+low-energy ARPES are discussed. The calibration of the hemispherical electron
+analyzer for good low-energy angle-mode performance is also described. Finally,
+data from the heavily studied high T_c superconductor Bi2Sr2CaCu2O8+\delta
+(Bi2212) is compared to the results from higher photon energies.

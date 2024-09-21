@@ -1,0 +1,8 @@
+The class of algorithmically computable simple games (i) includes the class
+of games that have finite carriers and (ii) is included in the class of games
+that have finite winning coalitions. This paper characterizes computable games,
+strengthens the earlier result that computable games violate anonymity, and
+gives examples showing that the above inclusions are strict. It also extends
+Nakamura's theorem about the nonemptyness of the core and shows that computable
+games have a finite Nakamura number, implying that the number of alternatives
+that the players can deal with rationally is restricted.

@@ -1,0 +1,12 @@
+Since perception tests are highly time-consuming, there is a need to automate
+as many operations as possible, such as stimulus generation, procedure control,
+perception testing, and data analysis. The computer-driven system we are
+presenting here meets these objectives. To achieve large flexibility, the tests
+are controlled by scripts. The system's core software resembles that of a
+lexical-syntactic analyzer, which reads and interprets script files sent to it.
+The execution sequence (trial) is modified in accordance with the commands and
+data received. This type of operation provides a great deal of flexibility and
+supports a wide variety of tests such as auditory-lexical decision making,
+phoneme monitoring, gating, phonetic categorization, word identification, voice
+quality, etc. To achieve good performance, we were careful about timing
+accuracy, which is the greatest problem in computerized perception tests.

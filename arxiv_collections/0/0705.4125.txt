@@ -1,0 +1,9 @@
+The Local Ergodic Theorem (also known as the `Fundamental Theorem') gives
+sufficient conditions under which a phase point has an open neighborhood that
+belongs (mod 0) to one ergodic component. This theorem is a key ingredient of
+many proofs of ergodicity for billiards and, more generally, for smooth
+hyperbolic maps with singularities. However the proof of that theorem relies
+upon a delicate assumption (Chernov-Sinai Ansatz), which is difficult to check
+for some physically relevant models, including gases of hard balls. Here we
+give a proof of the Local Ergodic Theorem for two dimensional billiards without
+using the Ansatz.

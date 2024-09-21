@@ -1,0 +1,7 @@
+We have made a detailed proposal for a two-channel quantum dot setup. The
+energy scales in the problem are such that we are able to make connection with
+the two-channel Anderson model, which, in spite of being well-known in the
+context of heavy-Fermion systems remained theoretically elusive until recently
+and lacked a mesoscopic realization. Verification of our precise and robust
+predictions for the differential capacitance lineshape of the dot will provide
+an experimental signature of the two-channel behavior.

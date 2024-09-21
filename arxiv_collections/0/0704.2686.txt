@@ -1,0 +1,10 @@
+We discuss mechanisms of self-organization processes in two-level solid-state
+class-B laser system. The model is considered under assumptions of influence of
+nonlinear absorber and external force, separately. It was found that
+self-organization occurs through the Hopf bifurcation and results to a stable
+pulse radiation. Analysis is performed according to the Floquet exponent
+investigation. It was found that influence of the nonlinear absorber extends
+the domain of control parameters that manage a stable periodic radiation
+processes. An external force suppresses self-organization processes. A combined
+influence of both external force and nonlinear absorber results to more
+complicated picture of self-organization with two reentrant Hopf bifurcations.

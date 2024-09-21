@@ -1,0 +1,9 @@
+Shear zone formation is investigated in slow 3D shear flows. We simulate the
+linear version of the split-bottom shear cell. It is shown that the same type
+of wide shear zones is achieved in the presence as well as in the absence of
+gravity. We investigate the relaxation of the material towards a stationary
+flow and analyze the stress and the velocity fields. We provide the functional
+form of the widening of the shear zone inside the bulk. We discuss the growth
+of the region where the material is in critical state. It is found that the
+growth of the critical zone is responsible for the initial transient of the
+shear zone.

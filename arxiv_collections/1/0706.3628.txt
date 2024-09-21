@@ -1,0 +1,13 @@
+We calculate the semileptonic form factors $f_+^{B\to \eta}(q^2)$ and
+$f_+^{B\to \eta'}(q^2)$ from QCD sum rules on the light-cone (LCSRs), to NLO in
+QCD, and for small to moderate q^2, $0\leq q^2\leq 16 {\rm
+  GeV}^2$. We include in particular the so-called singlet contribution, i.e.\
+weak annihilation of the B meson with the emission of two gluons which, thanks
+to the U(1)$_{\rm A}$ anomaly, couple directly to $\etap$. This effect is
+included to leading-twist accuracy. This contribution has been neglected in
+previous calculations of the form factors from LCSRs. We find that the singlet
+contribution to $f_+^{B\to \eta'}$ can be up to 20%, while that to $f_+^{B\to
+\eta}$ is, as expected, much smaller and below 3%. We also suggest to measure
+the ratio ${\cal B}(B\to\eta' e \nu)/{\cal
+  B}(B\to \eta e \nu)$ to better constrain the size of the singlet
+contribution.

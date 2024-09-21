@@ -1,0 +1,21 @@
+We have studied the temperature dependence of the photoemission spectra of
+Pr$_{1-x}$Ca$_x$MnO$_3$ (PCMO) with $x=0.25$, 0.3 and 0.5. For $x=0.3$ and 0.5,
+we observed a gap in the low-temperature CE-type charge-ordered (CO) phase and
+a pseudogap with a finite intensity at the Fermi level ($E_F$) in the
+high-temperature paramagnetic insulating (PI) phase. Within the CO phase, the
+spectral intensity near $E_F$ gradually increased with temperature. These
+observations are consistent with the results of Monte Carlo simulations on a
+model including charge ordering and ferromagnetic fluctuations [H. Aliaga {\it
+et al.} Phys. Rev. B {\bf 68}, 104405 (2003)]. For $x=0.25$, on the other hand,
+little temperature dependence was observed within the low-temperature
+ferromagnetic insulating (FI) phase and the intensity at $E_F$ remained low in
+the high-temperature PI phase. We attribute the difference in the temperature
+dependence near $E_F$ between the CO and FI phases to the different correlation
+lengths of orbital order between both phases. Furthermore, we observed a
+chemical potential shift with temperature due to the opening of the gap in the
+FI and CO phases. The doping dependent chemical potential shift was recovered
+at low temperatures, corresponding to the disappearance of the doping dependent
+change of the modulation wave vector. Spectral weight transfer with hole
+concentration was clearly observed at high temperatures but was suppressed at
+low temperatures. We attribute this observation to the fixed periodicity with
+hole doping in PCMO at low temperatures.

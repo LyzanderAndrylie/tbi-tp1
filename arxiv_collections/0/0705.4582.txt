@@ -1,0 +1,13 @@
+The nature of changes in the interference pattern caused by the presence of
+polarization-changing elements in one or both beams of an interferometer, in
+particular those caused by an effective optical activity due to passage of a
+polarized beam through a coiled optical fiber are clarified. It is pointed out
+that for an incident state that is not circularly polarized so that the two
+interfering beams go to different polarization states, there is an observable
+nonzero Pancharatnam phase shift between them which depends on the incident
+polarization state and on the solid angle subtended by the track of the
+$\vec{k}$-vector at the centre of the sphere of k-vectors. The behaviour of
+this phase shift is singular when the two interfering states are nearly
+orthogonal. It is shown that for zero path difference between the two beams,
+the amplitude of intensity modulation as a function of optical activity is
+independent of the incident polarization state.

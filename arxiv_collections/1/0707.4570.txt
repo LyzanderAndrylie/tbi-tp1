@@ -1,0 +1,7 @@
+Using the Maslov--Shvedov method of complex germ, we show that quantum field
+theory S-matrix can exist outside perturbation theory in the principal order of
+quasiclassical approximation only under the condition that the tangent
+symplectic transformation to the evolution operator of non-linear classical
+field equation is unitarily implementable in the Fock space. However, the
+results of Maslov--Shvedov's book imply that this condition is seemingly always
+satisfied.

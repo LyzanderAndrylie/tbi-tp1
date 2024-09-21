@@ -1,0 +1,9 @@
+We study possible influence of not necessarily sincere arbiter on the course
+of classical and quantum 2x2 games and we show that this influence in the
+quantum case is much bigger than in the classical case. Extreme sensitivity of
+quantum games on initial states of quantum objects used as carriers of
+information in a game shows that a quantum game, contrary to a classical game,
+is not defined by a payoff matrix alone but also by an initial state of objects
+used to play a game. Therefore, two quantum games that have the same payoff
+matrices but begin with different initial states should be considered as
+different games.

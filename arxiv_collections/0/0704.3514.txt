@@ -1,0 +1,12 @@
+The CALICE collaboration is presently constructing a test hadron calorimeter
+(HCAL) with 7620 scintillator tiles read out by novel photo-detectors - Silicon
+Photomultipliers (SiPMs). This prototype is the first device which uses SiPMs
+on a large scale. We present the design of the HCAL and report on measured
+properties of more than 10 thousand SiPMs. We discuss the SiPM efficiency,
+gain, cross-talk, and noise rate dependence on bias voltage and temperature,
+including the spread in these parameters. We analyze the reasons for SiPM
+rejection and present the results of the long term stability studies. The first
+measurements of the SiPM radiation hardness are presented. We compare
+properties of SiPM with the properties of similar devices, MRS APD and MPPC. A
+possibility to make the tiles thinner and to read them out without WLS fibers
+has been studied.

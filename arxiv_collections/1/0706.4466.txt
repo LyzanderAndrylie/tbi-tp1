@@ -1,0 +1,16 @@
+Feedback controlled ratchets are thermal rectifiers that use information on
+the state of the system to operate. We study the effects of time delays in the
+feedback for a protocol that performs an instantaneous maximization of the
+center-of-mass velocity in the many particle case. For small delays the
+center-of-mass velocity decreases for increasing delays (although not as fast
+as in the few particle case). However, for large delays we find the surprising
+result that the presence of a delay can improve the flux performance of the
+ratchet. In fact, the maximum flux obtained with the optimal periodic protocol
+is attained. This implies that the delayed feedback protocol considered can
+perform better than its non-delayed counterpart. The improvement of the flux
+observed in the presence of large delays is the result of the emergence of a
+new dynamical regime where the presence of the delayed feedback stabilizes
+quasiperiodic solutions that resemble the solutions obtained in a certain
+closed-loop protocol with thresholds. In addition, in this new regime the
+system presents multistability, i.e. several quasiperiodic solutions can be
+stable for a fixed time delay.

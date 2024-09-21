@@ -1,0 +1,12 @@
+We review basic modeling approaches for failure and maintenance data from
+repairable systems. In particular we consider imperfect repair models, defined
+in terms of virtual age processes, and the trend-renewal process which extends
+the nonhomogeneous Poisson process and the renewal process. In the case where
+several systems of the same kind are observed, we show how observed covariates
+and unobserved heterogeneity can be included in the models. We also consider
+various approaches to trend testing. Modern reliability data bases usually
+contain information on the type of failure, the type of maintenance and so
+forth in addition to the failure times themselves. Basing our work on recent
+literature we present a framework where the observed events are modeled as
+marked point processes, with marks labeling the types of events. Throughout the
+paper the emphasis is more on modeling than on statistical inference.

@@ -1,0 +1,4 @@
+The classification of lattice equations that are integrable in the sense of
+higher-dimensional consistency is extended by allowing directed edges. We find
+two cases that are not transformable via the 'admissible transformations' to
+the lattice equations in the existing classification.

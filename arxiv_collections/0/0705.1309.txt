@@ -1,0 +1,17 @@
+This paper introduces a continuous model for Multi-cellular Developmental
+Design. The cells are fixed on a 2D grid and exchange "chemicals" with their
+neighbors during the growth process. The quantity of chemicals that a cell
+produces, as well as the differentiation value of the cell in the phenotype,
+are controlled by a Neural Network (the genotype) that takes as inputs the
+chemicals produced by the neighboring cells at the previous time step. In the
+proposed model, the number of iterations of the growth process is not
+pre-determined, but emerges during evolution: only organisms for which the
+growth process stabilizes give a phenotype (the stable state), others are
+declared nonviable. The optimization of the controller is done using the NEAT
+algorithm, that optimizes both the topology and the weights of the Neural
+Networks. Though each cell only receives local information from its neighbors,
+the experimental results of the proposed approach on the 'flags' problems (the
+phenotype must match a given 2D pattern) are almost as good as those of a
+direct regression approach using the same model with global information.
+Moreover, the resulting multi-cellular organisms exhibit almost perfect
+self-healing characteristics.

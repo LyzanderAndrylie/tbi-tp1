@@ -1,0 +1,10 @@
+Two liquid state theories, the self-consistent Ornstein-Zernike equation
+(SCOZA) and the hierarchical reference theory (HRT) are shown, by comparison
+with Monte Carlo simulations, to perform extremely well in predicting the
+liquid-vapour coexistence of the hard core Yukawa (HCY) fluid when the
+interaction is long range. The long range of the potential is treated in the
+simulations using both an Ewald sum and hyperspherical boundary conditions. In
+addition, we present an analytical optimised mean field theory which is exact
+in the limit of an infinitely long range interaction. The work extends a
+previous one by Caccamo et al [Phys. Rev. E,60, 5533 (1999)] for short range
+interactions.

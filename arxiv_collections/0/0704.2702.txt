@@ -1,0 +1,9 @@
+We investigate the influence of spin-orbit interaction on ballistic transport
+through chaotic cavities by using semiclassical methods. Our approach is based
+on the Landauer formalism and the Fisher-Lee relations, appropriately
+generalized to spin-orbit interaction, and a semiclassical representation of
+Green functions. We calculate conductance coefficients by exploiting ergodicity
+and mixing of suitably combined classical spin-orbit dynamics, and making use
+of the Sieber-Richter method and its most recent extensions. That way we obtain
+weak anti-localization and confirm previous results obtained in the symplectic
+ensemble of Random Matrix Theory.

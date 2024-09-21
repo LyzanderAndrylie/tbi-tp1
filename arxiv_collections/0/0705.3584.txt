@@ -1,0 +1,22 @@
+We investigate the influence of noise on a graph state generation scheme
+which exploits a mirror inverting spin chain. Within this scheme the spin chain
+is used repeatedly as an entanglement bus (EB) to create multi-partite
+entanglement. The noise model we consider comprises of each spin of this EB
+being exposed to independent local noise which degrades the capabilities of the
+EB. Here we concentrate on quantifying its performance as a single-qubit
+channel and as a mediator of a two-qubit entangling gate, since these are basic
+operations necessary for graph state generation using the EB. In particular,
+for the single-qubit case we numerically calculate the average channel fidelity
+and whether the channel becomes entanglement breaking, i.e., expunges any
+entanglement the transferred qubit may have with other external qubits. We find
+that neither local decay nor dephasing noise cause entanglement breaking. This
+is in contrast to local thermal and depolarizing noise where we determine a
+critical length and critical noise coupling, respectively, at which
+entanglement breaking occurs. The critical noise coupling for local
+depolarizing noise is found to exhibit a power-law dependence on the chain
+length. For two qubits we similarly compute the average gate fidelity and
+whether the ability for this gate to create entanglement is maintained. The
+concatenation of these noisy gates for the construction of a five qubit linear
+cluster state and a Greenberger-Horne-Zeilinger state indicates that the level
+of noise that can be tolerated for graph state generation is tightly
+constrained.

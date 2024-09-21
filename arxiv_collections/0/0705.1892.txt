@@ -1,0 +1,11 @@
+Optical gap solitons, which exist due to a balance of nonlinearity and
+dispersion due to a Bragg grating, can couple to acoustic waves through
+electrostriction. This gives rise to a new species of ``gap-acoustic'' solitons
+(GASs), for which we find exact analytic solutions. The GAS consists of an
+optical pulse similar to the optical gap soliton, dressed by an accompanying
+phonon pulse. Close to the speed of sound, the phonon component is large. In
+subsonic (supersonic) solitons, the phonon pulse is a positive (negative)
+density variation. Coupling to the acoustic field damps the solitons'
+oscillatory instability, and gives rise to a distinct instability for
+supersonic solitons, which may make the GAS decelerate and change direction,
+ultimately making the soliton subsonic.

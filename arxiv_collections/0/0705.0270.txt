@@ -1,0 +1,12 @@
+Surface roughness becomes relevant if typical length scales of the system are
+comparable to the scale of the variations as it is the case in microfluidic
+setups. Here, an apparent boundary slip is often detected which can have its
+origin in the assumption of perfectly smooth boundaries. We investigate the
+problem by means of lattice Boltzmann (LB) simulations and introduce an
+``effective no-slip plane'' at an intermediate position between peaks and
+valleys of the surface. Our simulations show good agreement with analytical
+results for sinusoidal boundaries, but can be extended to arbitrary geometries
+and experimentally obtained surface data. We find that the detected apparent
+slip is independent of the detailed boundary shape, but only given by the
+distribution of surface heights. Further, we show that the slip diverges as the
+amplitude of the roughness increases.

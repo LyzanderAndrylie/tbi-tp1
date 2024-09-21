@@ -1,0 +1,9 @@
+Two types of phase synchronization (accordingly, two scenarios of breaking
+phase synchronization) between coupled stochastic oscillators are shown to
+exist depending on the discrepancy between the control parameters of
+interacting oscillators, as in the case of classical synchronization of
+periodic oscillators. If interacting stochastic oscillators are weakly detuned,
+the phase coherency of the attractors persists when phase synchronization
+breaks. Conversely, if the control parameters differ considerably, the chaotic
+attractor becomes phase-incoherent under the conditions of phase
+synchronization break.

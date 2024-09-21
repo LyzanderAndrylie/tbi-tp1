@@ -1,0 +1,13 @@
+We study the set $\sncb (p,q)$ of annular non-crossing permutations of type
+B, and we introduce a corresponding set $\ncb (p,q)$ of annular non-crossing
+partitions of type B, where $p$ and $q$ are two positive integers. We prove
+that the natural bijection between $\sncb (p,q)$ and $\ncb (p,q)$ is a poset
+isomorphism, where the partial order on $\sncb (p,q)$ is induced from the
+hyperoctahedral group $B_{p+q}$, while $\ncb (p,q)$ is partially ordered by
+reverse refinement. In the case when $q=1$, we prove that $\ncb (p,1)$ is a
+lattice with respect to reverse refinement order.
+  We point out that an analogous development can be pursued in type D, where
+one gets a canonical isomorphism between $\sncd (p,q)$ and $\ncd (p,q)$. For
+$q=1$, the poset $\ncd (p,1)$ coincides with a poset ``$NC^{(D)} (p+1)$''
+constructed in a paper by Athanasiadis and Reiner in 2004, and is a lattice by
+the results of that paper.

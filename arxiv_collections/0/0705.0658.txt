@@ -1,0 +1,2 @@
+We prove that a law of large numbers and a central limit theorem hold for the
+excited random walk model in every dimension $d \geq 2$.

@@ -1,0 +1,11 @@
+Within the framework of a semi-microscopic interface displacement model we
+analyze the linear stability of sessile ridges and drops of a non-volatile
+liquid on a homogeneous, partially wet substrate, for both signs and arbitrary
+amplitudes of the three-phase contact line tension. Focusing on perturbations
+which correspond to deformations of the three-phase contact line, we find that
+drops are generally stable while ridges are subject only to the long-wavelength
+Rayleigh-Plateau instability leading to a breakup into droplets, in contrast to
+the predictions of capillary models which take line tension into account. We
+argue that the short-wavelength instabilities predicted within the framework of
+the latter macroscopic capillary theory occur outside its range of validity and
+thus are spurious.

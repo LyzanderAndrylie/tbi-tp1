@@ -1,0 +1,8 @@
+We show that atoms trapped in micro-cavities that interact via exchange of
+virtual photons can model an anisotropic Heisenberg spin-1/2 chain in an
+external magnetic field. All parameters of the effective Hamiltonian can
+individually be tuned via external lasers. Since the occupation of excited
+atomic levels and photonic states are strongly suppressed, the effective model
+is robust against decoherence mechanisms, has a long lifetime and its
+implementation is feasible with current experimental technology. The model
+provides a feasible way to create cluster states in these devices.

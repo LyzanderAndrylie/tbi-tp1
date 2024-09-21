@@ -1,0 +1,14 @@
+We reconstruct a rational Lax matrix of size R+1 from its spectral curve (the
+desingularization of the characteristic polynomial) and some additional data.
+Using a twisted Cauchy--like kernel (a bi-differential of bi-weight (1-nu,nu))
+we provide a residue-formula for the entries of the Lax matrix in terms of
+bases of dual differentials of weights nu and 1-nu respectively. All objects
+are described in the most explicit terms using Theta functions. Via a sequence
+of ``elementary twists'', we construct sequences of Lax matrices sharing the
+same spectral curve and polar structure and related by conjugations by rational
+matrices. Particular choices of elementary twists lead to construction of
+sequences of Lax matrices related to finite--band recurrence relations (i.e.
+difference operators) sharing the same shape. Recurrences of this kind are
+satisfied by several types of orthogonal and biorthogonal polynomials. The
+relevance of formulae obtained to the study of the large degree asymptotics for
+these polynomials is indicated.

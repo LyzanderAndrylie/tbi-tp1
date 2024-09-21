@@ -1,0 +1,13 @@
+We explore further the discovery potential for heavy quarks at the LHC, with
+emphasis on the $t'$ and $b'$ of a sequential fourth family associated with
+electroweak symmetry breaking. We consider QCD multijets, $t\bar{t}+\rm{jets}$,
+$W+\rm{jets}$ and single $t$ backgrounds using event generation based on
+improved matrix elements and low sensitivity to the modeling of initial state
+radiation. We exploit a jet mass technique for the identification of
+hadronically decaying $W$'s and $t$'s, to be used in the reconstruction of the
+$t'$ or $b'$ mass. This along with other aspects of event selection can reduce
+backgrounds to very manageable levels. It even allows a search for both $t'$
+and $b'$ in the absence of $b$-tagging, of interest for the early running of
+the LHC. A heavy quark mass of order 600 GeV is motivated by the connection to
+electroweak symmetry breaking, but our analysis is relevant for any new heavy
+quarks with weak decay modes.

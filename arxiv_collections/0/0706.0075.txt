@@ -1,0 +1,9 @@
+We consider an hierarchy of integrable 1+2-dimensional equations related to
+Lie algebra of the vector fields on the line. The solutions in quadratures are
+constructed depending on $n$ arbitrary functions of one argument. The most
+interesting result is the simple equation for the generating function of the
+hierarchy which defines the dynamics for the negative times and also has
+applications to the second order spectral problems. A rather general theory of
+integrable 1+1-dimensional equations can be developed by study of polynomial
+solutions of this equation under condition of regularity of the corresponding
+potentials.

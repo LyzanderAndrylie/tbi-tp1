@@ -1,0 +1,8 @@
+We analyze the factorization process for lattice maps, searching for
+integrable cases. The maps were assumed to be at most quadratic in the
+dependent variables, and we required minimal factorization (one linear factor)
+after 2 steps of iteration. The results were then classified using algebraic
+entropy. Some new models with polynomial growth (strongly associated with
+integrability) were found. One of them is a nonsymmetric generalization of the
+homogeneous quadratic maps associated with KdV (modified and Schwarzian), for
+this new model we have also verified the "consistency around a cube".

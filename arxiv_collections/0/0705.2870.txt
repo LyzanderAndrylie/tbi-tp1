@@ -1,0 +1,15 @@
+Magnetic properties with chains of hcp Co hollow spheres have been studied.
+The diameter of the spheres ranges from 500 to 800 nm, with a typical shell
+thickness of about 60 nm. The shell is polycrystalline with an average
+crystallite size of 20 to 35 nm. The blocking temperature determined by the
+zero-field-cooling MZFC(T) measurement at H = 90 Oe is about 325 K. The
+corresponding effective anisotropy is determined as, Keff = 4.6*10^4 J/m^3. In
+addition, the blocking temperature and the effective anisotropy determined by
+the analysis on HC(T) are 395 K and 5.7*10^4 J/m^3, respectively. The
+experimentally determined anisotropy is smaller by one order of magnitude than
+the magnetocrystalline anisotropy of the bulk hcp Co, which is about 3 to
+5*10^5 J/m^3. A further analysis on HC(T) shows that the magnetization reversal
+follows a nucleation rotational mode with an effective switching volume, V* =
+2.3*10^3 nm^3. The corresponding effective diameter is calculated as 16.4 nm.
+It is slightly larger than the coherence length of Co, about 15 nm. The
+possible reason for the much reduced magnetic anisotropy is discussed briefly.

@@ -1,0 +1,14 @@
+We present the results of a search for $B^{+}\to\gamma \ell^{+}\nu_{\ell}$,
+where $\ell = e, \mu$. We use a sample of 232 million $B\bar{B}$ pairs recorded
+at the $\Upsilon(4S)$ with the BaBar detector at the PEP-II $B$ Factory. We
+measure a partial branching fraction $\Delta\mathcal{B}$ in a restricted region
+of phase space that reduces the effect of theoretical uncertainties, requiring
+the lepton energy to be between 1.875 and 2.850GeV, the photon energy to be
+between 0.45 and 2.35GeV, and the cosine of the angle between the lepton and
+photon momenta to be less than -0.36, with all quantities computed in the
+$\Upsilon(4S)$ center-of-mass frame. We find $\Delta\mathcal{B}(B^{+}\to\gamma
+\ell^{+}\nu_{\ell}) = (-0.3^{+1.3}_{-1.5} ({stat}) \pm 0.6 ({syst}) \pm 0.1
+({th})) \times 10^{-6}$, assuming lepton universality. Interpreted as a 90%
+C.L. Bayesian upper limit, the result corresponds to $1.7\times10^{-6}$ for a
+prior flat in amplitude, and $2.3\times10^{-6}$ for a prior flat in branching
+fraction.

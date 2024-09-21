@@ -1,0 +1,15 @@
+We present a theory of spin, electronic and transport properties of a
+few-electron lateral triangular triple quantum dot molecule in a magnetic
+field. Our theory is based on a generalization of a Hubbard model and the
+Linear Combination of Harmonic Orbitals combined with Configuration Interaction
+method (LCHO-CI) for arbitrary magnetic fields. The few-particle spectra
+obtained as a function of the magnetic field exhibit Aharonov-Bohm
+oscillations. As a result, by changing the magnetic field it is possible to
+engineer the degeneracies of single-particle levels, and thus control the total
+spin of the many-electron system. For the triple dot with two and four
+electrons we find oscillations of total spin due to the singlet-triplet
+transitions occurring periodically in the magnetic field. In the three-electron
+system we find a transition from a magnetically frustrated to the
+spin-polarized state. We discuss the impact of these phase transitions on the
+addition spectrum and the spin blockade of the lateral triple quantum dot
+molecule.

@@ -1,0 +1,11 @@
+We give an analytical description of long distance entanglement (LDE)
+mediated by one-dimensional quantum spin chains recently found in numerical
+studies. We develop a formalism that allows the computation of LDE for weakly
+interacting probes with gapped many-body systems. At zero temperature, a DC
+response function determines the ability of the physical system to generate
+genuine quantum correlations between the probes. We show that the biquadratic
+Heisenberg spin-1 chain is able to produce LDE in the thermodynamical limit and
+that the finite antiferromagnetic Heisenberg chain maximally entangles two
+spin-1/2 probes very far apart. These results support the current perspective
+of using quantum spin chains as entanglers or quantum channels in quantum
+information devices.

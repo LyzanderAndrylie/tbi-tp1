@@ -1,0 +1,6 @@
+We describe random walk boundaries (in particular, the Poisson--Furstenberg,
+or PF-boundary) for a vast family of groups in terms of the hyperbolic boundary
+of a special free subgroup. We prove that almost all trajectories of the random
+walk (with respect to an arbitrary nondegenerate measure on the group) converge
+to points of that boundary. This implies the stability (in the sense of
+\cite{Ver}) of the so-called Markov--Ivanovsky normal form for braids.

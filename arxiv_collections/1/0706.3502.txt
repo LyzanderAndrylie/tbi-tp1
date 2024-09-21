@@ -1,0 +1,11 @@
+Explicit codes are constructed that achieve the diversity-multiplexing gain
+tradeoff of the cooperative-relay channel under the dynamic decode-and-forward
+protocol for any network size and for all numbers of transmit and receive
+antennas at the relays.
+  A particularly simple code construction that makes use of the Alamouti code
+as a basic building block is provided for the single relay case.
+  Along the way, we prove that space-time codes previously constructed in the
+literature for the block-fading and parallel channels are approximately
+universal, i.e., they achieve the DMT for any fading distribution. It is shown
+how approximate universality of these codes leads to the first DMT-optimum code
+construction for the general, MIMO-OFDM channel.

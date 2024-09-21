@@ -1,0 +1,11 @@
+We study the ground state phase diagram of the hard-core extended boson
+Hubbard model on the square lattice with both nearest- (nn) and
+next-nearest-neighbor (nnn) hopping and repulsion, using Gutzwiller mean field
+theory and quantum Monte Carlo simulations. We observe the formation of
+supersolid states with checkerboard, striped, and quarter-filled crystal
+structures, when the system is doped away from commensurate fillings. In the
+striped supersolid phase, a strong anisotropy in the superfluid density is
+obtained from the simulations; however, the transverse component remains
+finite, indicating a true two-dimensional superflow. We find that upon doping,
+the striped supersolid transitions directly into the supersolid with
+quarter-filled crystal structure, via a first-order stripe melting transition.

@@ -1,0 +1,18 @@
+The main goal of the paper is to address the issue of the existence of
+Kempf's distortion function and the Tian-Yau-Zelditch (TYZ) asymptotic
+expansion for the Kepler manifold - an important example of non compact
+manfold. Motivated by the recent results for compact manifolds we construct
+Kempf's distortion function and derive a precise TYZ asymptotic expansion for
+the Kepler manifold. We get an exact formula: finite asymptotic expansion of
+$n-1$ terms and exponentially small error terms uniformly with respect to the
+discrete quantization parameter $m\to \infty $ and $\rho \to \infty$, $\rho$
+being the polar radius in $\C^n$.
+  Moreover, the coefficents are calculated explicitly and they turned out to be
+homogeneous functions with respect to the polar radius in the Kepler manifold.
+We also prove and derive an asymptotic expansion of the obtstruction term with
+the coefficients being defined by geometrical quantities. We show that our
+estimates are sharp by analyzing the nonharmonic behaviour of $T_m$ and the
+error term of the approximation of the Fubini--Study metric by $m\omega$ for
+$m\to +\infty$. The arguments of the proofs combine geometrical methods,
+quantization tools and functional analytic techniques for investigating
+asymptotic expansions in the framework of analytic-Gevrey spaces.

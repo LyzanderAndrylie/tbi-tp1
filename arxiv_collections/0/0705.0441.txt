@@ -1,0 +1,15 @@
+Qualitatively new aspects of the (linear and non-linear) stability of sheared
+relativistic (slab) jets are analyzed. The linear problem has been solved for a
+wide range of jet models well inside the ultrarelativistic domain (flow Lorentz
+factors up to 20; specific internal energies $\approx 60c^2$). As a distinct
+feature of our work, we have combined the analytical linear approach with
+high-resolution relativistic hydrodynamical simulations, which has allowed us
+i) to identify, in the linear regime, resonant modes specific to the
+relativistic shear layer ii) to confirm the result of the linear analysis with
+numerical simulations and, iii) more interestingly, to follow the instability
+development through the non-linear regime. We find that very high-order
+reflection modes with dominant growth rates can modify the global, long-term
+stability of the relativistic flow. We discuss the dependence of these resonant
+modes on the jet flow Lorentz factor and specific internal energy, and on the
+shear layer thickness. The results could have potential applications in the
+field of extragalactic relativistic jets.

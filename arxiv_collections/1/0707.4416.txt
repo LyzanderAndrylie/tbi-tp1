@@ -1,0 +1,17 @@
+The structure of a network can significantly influence the properties of the
+dynamical processes which take place on them. While many studies have been
+devoted to this influence, much less attention has been devoted to the
+interplay and feedback mechanisms between dynamical processes and network
+topology on adaptive networks. Adaptive rewiring of links can happen in real
+life systems such as acquaintance networks where people are more likely to
+maintain a social connection if their views and values are similar. In our
+study, we consider different variants of a model for consensus formation. Our
+investigations reveal that the adaptation of the network topology fosters
+cluster formation by enhancing communication between agents of similar opinion,
+though it also promotes the division of these clusters. The temporal behavior
+is also strongly affected by adaptivity: while, on static networks, it is
+influenced by percolation properties, on adaptive networks, both the early and
+late time evolution of the system are determined by the rewiring process. The
+investigation of a variant of the model reveals that the scenarios of
+transitions between consensus and polarized states are more robust on adaptive
+networks.

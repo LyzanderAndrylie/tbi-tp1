@@ -1,0 +1,8 @@
+We calculate shadowing using new data on the gluon density of the Pomeron
+recently measured with high precision at HERA. The calculations are made in a
+Glauber-Gribov framework and Pomeron tree-diagrams are summed up within a
+unitarity-conserving procedure. The total cross section of $\vphot A$
+interaction is then found in a parameter-free description, employing gluon
+diffractive and inclusive distribution functions as input. A strong shadowing
+effect is obtained, in good agreement with several other models. Impact
+parameter dependence of gluon shadowing is also presented.

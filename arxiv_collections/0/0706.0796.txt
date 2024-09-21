@@ -1,0 +1,19 @@
+We demonstrate an efficient scheme for continuous trap loading based upon
+spatially selective optical pumping. We discuss the case of $^{1}$S$_{0}$
+calcium atoms in an optical dipole trap (ODT), however, similar strategies
+should be applicable to a wide range of atomic species. Our starting point is a
+reservoir of moderately cold ($\approx 300 \mu$K) metastable
+$^{3}$P$_{2}$-atoms prepared by means of a magneto-optic trap (triplet-MOT). A
+focused 532 nm laser beam produces a strongly elongated optical potential for
+$^{1}$S$_{0}$-atoms with up to 350 $\mu$K well depth. A weak focused laser beam
+at 430 nm, carefully superimposed upon the ODT beam, selectively pumps the
+$^{3}$P$_{2}$-atoms inside the capture volume to the singlet state, where they
+are confined by the ODT. The triplet-MOT perpetually refills the capture volume
+with $^{3}$P$_{2}$-atoms thus providing a continuous stream of cold atoms into
+the ODT at a rate of $10^7 $s$^{-1}$. Limited by evaporation loss, in 200 ms we
+typically load $5 \times 10^5$ atoms with an initial radial temperature of 85
+$\mu$K. After terminating the loading we observe evaporation during 50 ms
+leaving us with $10^5$ atoms at radial temperatures close to 40 $\mu$K and a
+peak phase space density of $6.8 \times 10^{-5}$. We point out that a
+comparable scheme could be employed to load a dipole trap with
+$^{3}$P$_{0}$-atoms.

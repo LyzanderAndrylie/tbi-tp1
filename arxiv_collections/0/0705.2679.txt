@@ -1,0 +1,13 @@
+We investigate the properties of the so-called BL Her stars, i.e., Population
+II Cepheids with periods shorter than 8 days, using updated pulsation models
+and evolutionary tracks computed adopting a metal abundance in the range of
+Z=0.0001 to Z=0.004. We derive the predicted Period-Magnitude (PM) and
+Period-Wesenheit (PW) relations at the various photometric bands and we show
+that the slopes of these relations are in good agreement with the slopes
+determined by observed variables in Galactic globular clusters, independently
+of the adopted M_V(RR)-[Fe/H] relation to get the cluster RR Lyrae-based
+distance. Moreover, we show that also the distances provided by the predicted
+PM and PW relations for BL Her stars agree within the errors with the RR Lyrae
+based values. The use of the predicted relations with W Vir stars, which are
+Population II Cepheids with periods longer than 8 days, provides no clear
+evidence for or against a change in the PM and PW slopes around P~10 days.

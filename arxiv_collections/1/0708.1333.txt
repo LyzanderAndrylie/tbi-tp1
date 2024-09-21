@@ -1,0 +1,8 @@
+We analyze in detail the highly damped quasinormal modes of $D$-dimensional
+extremal Reissner-Nordstr$\ddot{\rm{o}}$m and
+Reissner-Nordstr$\ddot{\rm{o}}$m-de Sitter black holes. We only consider the
+extremal case where the event horizon and the Cauchy inner horizon coincide. We
+show that, even though the topology of the Stokes/anti-Stokes lines in the
+extremal case is different than the non-extremal case, the highly damped
+quasinormal mode frequencies of extremal black holes match exactly with the
+extremal limit of the non-extremal black hole quasinormal mode frequencies.

@@ -1,0 +1,17 @@
+New expansions for some functions related to the Zeta function in terms of
+the Pochhammer's polynomials are given (coefficients b(k), d(k), d_(k) and
+d__(k). In some formal limit our expansion b(k) obtained via the alternating
+series gives the regularized expansion of Maslanka for the Zeta function. The
+real and the imaginary part of the function on the critical line is obtained
+with a good accuracy up to Im(s) = t < 35.
+  Then, we give the expansion (coefficient d_(k)) for the derivative of
+ln((s-1)\zeta(s)). The critical function of the derivative, whose bounded
+values for Re(s) > 1/2 at large values of k should ensure the truth of the
+Riemann Hypothesis (RH), is obtained either by means of the primes or by means
+of the zeros (trivial and non-trivial) of the Zeta function. In a numerical
+experiment performed up to high values of k i.e. up to k = 10^13 we obtain a
+very good agreement between the two functions, with the emergence of twelve
+oscillations with stable amplitude.
+  For a special case of values of the two parameters entering in the general
+Pochhammer's expansion it is argued that the bound on the critical function
+should be given by the Euler constant gamma.

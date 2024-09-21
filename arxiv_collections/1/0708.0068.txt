@@ -1,0 +1,10 @@
+We present a faithful qubit transmission scheme with linear optics against
+collective noise, not resorting to ancillary qubits. Its set-up is composed of
+three unbalanced polarization interferometers, based on a polarizing beam
+splitter, a beam splitter and a half-wave plate, which makes this scheme more
+feasible than others with present technology. The fidelity of successful
+transmission is 1, independent of the parameters of the collective noise, and
+the success probability for obtaining an uncorrupted state can be improved to
+100% with some time delayers. Moreover, this scheme has some good applications
+in one-way quantum communication for rejecting the errors caused by the
+collective noise in quantum channel.

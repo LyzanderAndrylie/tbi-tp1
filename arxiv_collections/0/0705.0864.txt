@@ -1,0 +1,8 @@
+We presented a detailed experimental study on lasing in GaAs microstadium
+with various shapes. Unlike most deformed microcavities, the lasing threshold
+varies non-monotonically with the major-to-minor-axis ratio of the stadium.
+Under spatially uniform optical pumping, the first lasing mode corresponds to a
+high-quality scar mode consisting of several unstable periodic orbits. By
+tuning the shape of GaAs stadium, we are able to minimize the lasing threshold.
+This work demonstrates the possibility of controlling chaotic microcavity
+laser.

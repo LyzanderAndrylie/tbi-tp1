@@ -1,0 +1,3 @@
+It is shown that the Tsallis entropies are the only entropies of the form
+$H(P)=-\sum_i f(p_i)$, with suitable assumptions on $f$, satisfying the
+condition of composability.

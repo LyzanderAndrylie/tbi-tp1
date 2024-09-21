@@ -1,0 +1,6 @@
+Main change from v1 : theorem C has been modified, see remark 3.1.7 (2).
+  We study the category of B-pairs (W_e,W_dR^+) where W_e is a free
+B_cris^{phi=1}-module with a semilinear and continuous action of G_K and where
+W_dR^+ is a G_K-stable B_dR^+ -lattice in B_dR \otimes W_e. This category
+contains the category of p-adic representations and is naturally equivalent to
+the category of all (phi,Gamma)-modules over the Robba ring.

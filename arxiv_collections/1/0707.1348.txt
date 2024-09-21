@@ -1,0 +1,5 @@
+We show how to engineer an extensive range of non-linear Hamiltonians for a
+nano-mechanical resonator. The technique requires only a time dependent drive
+applied to a Cooper-pair box or second oscillator to which the nano-resonator
+is coupled. This method allows one to generate a large number of non-classical
+states, as well as Hamiltonians whose classical counterparts are chaotic.

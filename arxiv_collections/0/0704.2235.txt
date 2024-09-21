@@ -1,0 +1,24 @@
+GRB 060614 is a remarkable GRB observed by Swift with puzzling properties,
+which challenge current progenitor models. The lack of any bright SN down to
+very strict limits and the vanishing spectral lags are typical of short GRBs,
+strikingly at odds with the long (102s) duration of this event. Here we present
+spectral and temporal analysis of the Swift observations. We show that the
+burst presents standard optical, UV and X-ray afterglows. An achromatic break
+is observed simultaneously in optical and X-rays, at a time consistent with the
+break in the R-band light curve measured by the VLT. The achromatic behaviour
+and the consistent post-break decay slopes make GRB 060614 one of the best
+examples of a jet break for a Swift burst. The optical, UV and X-rays afterglow
+light curves have also an earlier break at ~30 ks. In the optical, there is
+strong spectral evolution around this break, suggesting the passage of a break
+frequency through the optical/UV band. The very blue spectrum at early times
+and the trend in the light curves (rising at low frequencies, and decaying at
+higher energies) suggest this may be the injection frequency. The early X-ray
+light curve is well interpreted as the X-ray counterpart of the burst extended
+emission. Spectral analysis of BAT/XRT data in the 80s overlap time show that
+the Ep of the burst has decreased to as low as 8keV at the beginning of the XRT
+observation. The Ep continues to decrease through the XRT energy band and exits
+it at about 500s after the trigger. The average Ep of the burst is likely < 24
+keV but larger than 8 keV. The initial peak observed by BAT is however
+distinctly harder than the rest with Ep ~300 keV as measured by Konus Wind.
+Considering the time-averaged spectral properties, GRB 060614 is consistent
+with the Eiso-Ep_rest, Egamma-Ep_rest, and Liso-Ep correlations.

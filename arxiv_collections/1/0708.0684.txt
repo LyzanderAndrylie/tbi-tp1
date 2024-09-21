@@ -1,0 +1,8 @@
+We consider a van der Pol-Mathieu (vdPM) equation with parametric forcing,
+which arises in a simplified model of dusty plasma with dust-charge
+fluctuation. We make a detailed numerical investigation and show that the
+system can be driven to chaos either through a period doubling cascade or
+though a subcritical pitchfork bifurcation over an wide range of parameter
+space. We also discuss the frequency entrainment or frequency-locked phase of
+the dust-charge fluctuation dynamics and show that the system exhibits 2:1
+parametric resonance away from the chaotic regime.

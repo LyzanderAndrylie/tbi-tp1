@@ -1,0 +1,12 @@
+Motivated by an attempt to develop a method for solving initial value
+problems in a class of one dimensional periodic cellular automata (CA)
+associated with crystal bases and soliton equations, we consider a
+generalization of a simple proposition in elementary mathematics. The original
+proposition says that any sequence of letters 1 and 2, having no less 1's than
+2's, can be changed into a ballot sequence via cyclic shifts only. We
+generalize it to treat sequences of cells of common capacity s > 1, each of
+them containing consecutive 2's (left) and 1's (right), and show that these
+sequences can be changed into a ballot sequence via two manipulations, cyclic
+and "quasi-cyclic" shifts. The latter is a new CA rule and we find that various
+kink-like structures are traveling along the system like particles under the
+time evolution of this rule.

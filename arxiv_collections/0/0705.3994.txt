@@ -1,0 +1,5 @@
+An open quantum system consisting of a quantum dot with a Coulomb interaction
+and two leads without interactions is studied. The many-body scattering states
+are constructed with the Bethe-ansatz approach. The expectation value of the
+electric current is exactly calculated for the scattering states to observe
+resonance peaks due to many-body scattering.

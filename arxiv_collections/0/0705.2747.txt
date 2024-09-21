@@ -1,0 +1,11 @@
+A mathematical model of infiltrative tumour growth taking into account cell
+proliferation, death and motility is considered. The model is formulated in
+terms of local cell density and nutrient (oxygen) concentration. In the model
+the rate of cell death depends on the local nutrient level. Thus heterogeneous
+nutrient distribution in tissue affects tumour structure and development. The
+existence of automodel solutions is demonstrated and their properties are
+investigated. The results are compared to the properties of the
+Kolmogorov-Petrovskii-Piskunov and Fisher equations. Influence of the nutrient
+distribution on the autowave speed selection as well as on the relaxation to
+automodel solution is demonstrated. The model adequately describes the data,
+observed in experiments.

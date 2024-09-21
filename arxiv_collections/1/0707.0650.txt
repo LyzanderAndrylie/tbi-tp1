@@ -1,0 +1,17 @@
+The running mass of the b-quark defined in DRbar-scheme is one of the
+important parameters of SUSY QCD. To find its value it should be related to
+some known experimental input. In this paper the b-quark running mass defined
+in nonsupersymmetric QCD is chosen for determination of corresponding parameter
+in SUSY QCD. The relation between these two quantities is found by considering
+five-flavor QCD as an effective theory obtained from its supersymmetric
+extension. A numerical analysis of the calculated two-loop relation and its
+impact on the MSSM spectrum is discussed. Since for nonsupersymmetric models
+MSbar-scheme is more natural than DRbar, we also propose a new procedure that
+allows one to calculate relations between MSbar- and DRbar-parameters.
+Unphysical epsilon-scalars that give rise to the difference between mentioned
+schemes are assumed to be heavy and decoupled in the same way as physical
+degrees of freedom. By means of this method it is possible to ``catch two
+rabbits'', i.e., decouple heavy particles and turn from DRbar to MSbar, at the
+same time. Explicit two-loop example of DRbar -> MSbar transition is given in
+the context of QCD. The advantages and disadvantages of the method are briefly
+discussed.

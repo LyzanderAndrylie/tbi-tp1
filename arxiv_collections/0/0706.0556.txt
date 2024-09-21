@@ -1,0 +1,6 @@
+We show that randomly choosing the matrices in a completely positive map from
+the unitary group gives a quantum expander. We consider Hermitian and
+non-Hermitian cases, and we provide asymptotically tight bounds in the
+Hermitian case on the typical value of the second largest eigenvalue. The key
+idea is the use of Schwinger-Dyson equations from lattice gauge theory to
+efficiently compute averages over the unitary group.

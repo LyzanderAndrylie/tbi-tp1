@@ -1,0 +1,16 @@
+We examine fully coherent two-pulse propagation in a lambda-type medium,
+under two-photon resonance conditions and including inhomogeneous broadening.
+We examine both the effects of short pulse preparation and the effects of
+medium preparation. We contrast cases in which the two pulses have matched
+envelopes or not, and contrast cases in which ground state coherence is present
+or not. We find that an extended interpretation of the Area Theorem for
+single-pulse self-induced transparency (SIT) is able to unify two-pulse
+propagation scenarios, including some aspects of electromagnetically-induced
+transparency (EIT) and stimulated Raman scattering (SRS). We present numerical
+solutions of both three-level and adiabatically reduced two-level density
+matrix equations and Maxwell's equations, and show that many features of the
+solutions are quickly interpreted with the aid of analytic solutions that we
+also provide for restricted cases of pulse shapes and preparation of the
+medium. In the limit of large one-photon detuning, we show that the two-level
+equations commonly used are not reliable for pulse Areas in the 2$\pi$ range,
+which allows puzzling features of previous numerical work to be understood.

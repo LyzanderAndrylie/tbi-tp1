@@ -1,0 +1,10 @@
+It is shown that, if the loss of entanglement along a quantum channel is
+sufficiently small, then approximate quantum error correction is possible,
+thereby generalizing what happens for coherent information. Explicit bounds are
+obtained for the entanglement of formation and the distillable entanglement,
+and their validity naturally extends to other bipartite entanglement measures
+in between. Robustness of derived criteria is analyzed and their tightness
+compared. Finally, as a byproduct, we prove a bound quantifying how large the
+gap between entanglement of formation and distillable entanglement can be for
+any given finite dimensional bipartite system, thus providing a sufficient
+condition for distillability in terms of entanglement of formation.

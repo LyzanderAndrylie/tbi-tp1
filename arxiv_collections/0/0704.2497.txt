@@ -1,0 +1,11 @@
+The main objective of this work is to investigate theoretically how tilting
+of an easy axis of a single-molecule magnet (SMM) from the orientation
+collinear with magnetic moments of the leads affects the switching process
+induced by current flowing through the system. To do this we consider a model
+system that consists of a SMM embedded in the nonmagnetic barrier of a magnetic
+tunnel junction. The anisotropy axis of the SMM forms an arbitrary angle with
+magnetic moments of the leads (the latter ones are assumed to be collinear).
+The reversal of the SMM's spin takes place due to exchange interaction between
+the molecule and electrons tunneling through the barrier. The current flowing
+through the system as well as the average z-component of the SMM's spin are
+calculated in the second-order perturbation description (Fermi golden rule).

@@ -1,0 +1,2 @@
+For a given connected graph G on n vertices and m edges, we prove that its
+independence number is at least (2m+n+2-sqrt(sqr(2m+n+2)-16sqr(n)))/8.

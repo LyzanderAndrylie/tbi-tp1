@@ -1,0 +1,9 @@
+A simple but general microscopic mechanism to understand the interplay
+between the electric and magnetic degrees of freedom is developed. Within this
+mechanism, the magnetic structure generates an electric current which induce an
+counterbalance electric current from the spin orbital coupling. When the
+magnetic structure is described by a single order parameter, the electric
+polarization is determined by the single spin orbital coupling parameter, and
+the material is predicted to be a half insulator. This mechanism provides a
+simple estimation of the value of ferroelectricity and sets a physical
+limitation as well.

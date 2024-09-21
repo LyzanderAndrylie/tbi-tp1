@@ -1,0 +1,12 @@
+We calculate the CP averaged branching ratios and CP-violating asymmetries
+for $B_s^0 \to \eta \eta, \eta \eta^\prime$ and $\eta^\prime \eta^\prime$
+decays in the perturbative QCD (pQCD) approach here. The pQCD predictions for
+the CP-averaged branching ratios are $Br(B_s^0 \to \eta \eta) = \left
+(14.2^{+18.0}_{-7.5}) \times 10^{-6}$, $Br(B_s^0 \to \eta \eta^\prime)= \left
+(12.4 ^{+18.2}_{-7.0}) \times 10^{-6}$, and $Br(B_s^0 \to \eta^{\prime}
+\eta^{\prime}) = \left (9.2^{+15.3}_{-4.9}) \times 10^{-6}$, which agree well
+with those obtained by employing the QCD factorization approach and also be
+consistent with available experimental upper limits. The gluonic contributions
+are small in size: less than 7% for $B_s \to \eta \eta$ and $ \eta \eta^\prime$
+decays, and around 18% for $B_s \to \eta' \eta'$ decay. The CP-violating
+asymmetries for three decays are very small: less than 3% in magnitude.

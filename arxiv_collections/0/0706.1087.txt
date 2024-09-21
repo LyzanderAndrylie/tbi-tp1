@@ -1,0 +1,13 @@
+Today's computer-based annotation systems implement a wide range of
+functionalities that often go beyond those available in traditional
+paper-and-pencil annotations. Conceptually, annotation systems are based on
+thoroughly investigated psycho-sociological and pedagogical learning theories.
+They offer a huge diversity of annotation types that can be placed in textual
+as well as in multimedia format. Additionally, annotations can be published or
+shared with a group of interested parties via well-organized repositories.
+Although highly sophisticated annotation systems exist both conceptually as
+well as technologically, we still observe that their acceptance is somewhat
+limited. In this paper, we argue that nowadays annotation systems suffer from
+several fundamental problems that are inherent in the traditional
+paper-and-pencil annotation paradigm. As a solution, we propose to shift the
+annotation paradigm for the implementation of annotation system.

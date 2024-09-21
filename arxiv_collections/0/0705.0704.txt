@@ -1,0 +1,11 @@
+We have searched for $D^0 - \bar{D}^0$ mixing in $D^{*+} \to \pi^+ D^0$
+decays with $D^0 \to K^{(*)} e \nu$ in a sample of $e^+ e^- \to {c\bar c}$
+events produced near 10.58 GeV. The charge of the slow pion from charged $D^*$
+decay tags the charm flavor at production, and it is required to be consistent
+with the flavor of a fully reconstructed second charm decay in the same event.
+We observe 3 mixed candidates compared to 2.85 background events expected from
+simulation. We ascribe a 50% systematic uncertainty to this expected background
+rate. We find a central value for the mixing rate of $0.4 \times 10^{-4}$.
+Using a frequentist method, we set corresponding 68% and 90% confidence
+intervals at $(-5.6, 7.4) \times 10^{-4}$ and $(-13, 12) \times 10^{-4}$,
+respectively.

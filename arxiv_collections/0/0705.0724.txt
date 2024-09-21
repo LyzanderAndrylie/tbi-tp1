@@ -1,0 +1,6 @@
+The differential equation for Boltzmann's function is replaced by the
+corresponding discrete finite difference equation. The difference equation is,
+then, symmetrized so that the equation remains invariant when step d is
+replaced by -d. The solutions of this equation come in Boson-Fermion pairs.
+Reciprocal symmetric Boltzmann's function, thus, unifies both Bosonic and
+Fermionic distributions.

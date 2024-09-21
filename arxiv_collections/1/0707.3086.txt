@@ -1,0 +1,10 @@
+We propose a hydrodynamic model to study the thermotransport properties of
+semiconductor electrons. From the semiclassical Boltzmann equation a set of
+balance equations is built for the relevant fields. The electron density, the
+electron energy density, the electric current density and the heat flux density
+are considered as the basic fields of direct transport and cross effect fluxes.
+The kinetic relaxation times of the production terms are calculated by
+considering the electron-acoustic phonon interaction as the leading microscopic
+scattering process. To justify the long time thermalization regime, the Onsager
+symmetry relations are proved, both on the completely degenerate and non
+degenerate limits.

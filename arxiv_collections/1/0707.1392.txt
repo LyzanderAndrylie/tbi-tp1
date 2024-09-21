@@ -1,0 +1,8 @@
+Motivated by recent experiments on SrCu$_2$(BO$_3$)$_2$, we investigate the
+ground states of the doped Mott insulator on the Shastry-Sutherland lattice. To
+provide a unified theoretical framework for both the valence-bond solid state
+found in undoped SrCu$_2$(BO$_3$)$_2$ and the doped counterpart being pursued
+in on-going experiments, we analyze the t-J-$V$ model via the bond operator
+formulation. It is found that novel superconducting states emerge upon doping
+with their properties crucially depending on the underlying valence bond order.
+Implications to future experiments are discussed.

@@ -1,0 +1,10 @@
+Let $1\le p<q\le\infty$ and let $T$ be a subadditive operator acting on
+  $L^p$ and $L^q$. We prove that $T$ is bounded on the Orlicz space
+  $L^\phi$, where $\phi^{-1}(u)=u^{1/p}\rho(u^{1/q-1/p})$ for some concave
+function $\rho$ and \[ \|T\|_{L^\phi\to L^\phi}\le C\max\{\|T\|_{L^p\to
+L^p},\|T\|_{L^q\to L^q}\}. \] The interpolation constant $C$, in general, is
+less than 4 and, in many cases, we can give much better estimates for $C$. In
+particular, if $p=1$ and $q=\infty$, then the classical Orlicz interpolation
+theorem holds for subadditive operators with the interpolation constant C=1.
+These results generalize our results for linear operators obtained in
+\cite{KM01}.

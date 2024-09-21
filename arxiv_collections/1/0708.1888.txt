@@ -1,0 +1,14 @@
+We discuss the statistical mechanics of a system of self-gravitating fermions
+in a space of dimension $D$. We plot the caloric curves of the self-gravitating
+Fermi gas giving the temperature as a function of energy and investigate the
+nature of phase transitions as a function of the dimension of space. We
+consider stable states (global entropy maxima) as well as metastable states
+(local entropy maxima). We show that for $D\ge 4$, there exists a critical
+temperature (for sufficiently large systems) and a critical energy below which
+the system cannot be found in statistical equilibrium. Therefore, for $D\ge 4$,
+quantum mechanics cannot stabilize matter against gravitational collapse. This
+is similar to a result found by Ehrenfest (1917) at the atomic level for
+Coulombian forces. This makes the dimension D=3 of our universe very particular
+with possible implications regarding the anthropic principle. Our study enters
+in a long tradition of scientific and philosophical papers who studied how the
+dimension of space affects the laws of physics.

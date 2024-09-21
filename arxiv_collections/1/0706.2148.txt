@@ -1,0 +1,21 @@
+We perform a detailed analysis of high-order harmonic generation in diatomic
+molecules within the strong-field approximation, with emphasis on
+quantum-interference effects. Specifically, we investigate how the different
+types of electron orbits, involving one or two centers, affect the interference
+patterns in the spectra. We also briefly address the influence of the choice of
+gauge, and of the initial and final electronic bound states on such patterns.
+For the length-gauge SFA and undressed bound states, there exist additional
+terms, which can be interpreted as potential energy shifts. If, on the one
+hand, such shifts alter the potential barriers through which the electron
+initially tunnels, and may lead to a questionable physical interpretation of
+the features encountered, on the other hand they seem to be necessary in order
+to reproduce the overall maxima and minima in the spectra. Indeed, for dressed
+electronic bound states in the length gauge, or undressed bound states in the
+velocity gauge, for which such shifts are absent, there is a breakdown of the
+interference patterns. In order to avoid such a problem, we provide an
+alternative pathway for the electron to reach the continuum, by means of an
+additional attosecond-pulse train. A comparison of the purely monochromatic
+case with the situation for which the attosecond pulses are present suggests
+that the patterns are due to the interference between the electron orbits which
+finish at different centers, regardless of whether one or two centers are
+involved.

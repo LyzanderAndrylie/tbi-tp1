@@ -1,0 +1,12 @@
+Integral formulae for polynomial solutions of the quantum
+Knizhnik-Zamolodchikov equations associated with the R-matrix of the six-vertex
+model are considered. It is proved that when the deformation parameter q is
+equal to e^{+- 2 pi i/3} and the number of vertical lines of the lattice is
+odd, the solution under consideration is an eigenvector of the inhomogeneous
+transfer matrix of the six-vertex model. In the homogeneous limit it is a
+ground state eigenvector of the antiferromagnetic XXZ spin chain with the
+anisotropy parameter Delta equal to -1/2 and odd number of sites. The obtained
+integral representations for the components of this eigenvector allow to prove
+some conjectures on its properties formulated earlier. A new statement relating
+the ground state components of XXZ spin chains and Temperley-Lieb loop models
+is formulated and proved.

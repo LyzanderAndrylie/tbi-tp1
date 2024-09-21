@@ -1,0 +1,9 @@
+The commutation relations of the generalized Pauli operators of a
+qubit-qutrit system are discussed in the newly established graph-theoretic and
+finite-geometrical settings. The dual of the Pauli graph of this system is
+found to be isomorphic to the projective line over the product ring Z2xZ3. A
+"peculiar" feature in comparison with two-qubits is that two distinct
+points/operators can be joined by more than one line. The multi-line property
+is shown to be also present in the graphs/geometries characterizing two-qutrit
+and three-qubit Pauli operators' space and surmised to be exhibited by any
+other higher-level quantum system.

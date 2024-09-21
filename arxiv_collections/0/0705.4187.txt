@@ -1,0 +1,9 @@
+The maximal value of thermal conductivity \kappa_{max} of the perfect wurzite
+GaN crystal containing isotopes of natural abundance is estimated. Our upper
+limit of \kappa=4800 W/Km at T_{max}=32 K is smaller than calculated by Liu and
+Balandin \kappa=6000 W/Km and higher than obtained by Slack et al \kappa=3750
+W/Km. The phenomenological dependence \kappa \propto T^{-1.43} obtained by Mion
+et al for the temperature interval 300-450 K is extended to 200-300K. For
+temperatures higher than T_max the best fitting of our experimental data to
+Callaway's formula is obtained for Grueneisen's constant equal to \gamma =
+1.35.

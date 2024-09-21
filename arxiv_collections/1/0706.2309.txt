@@ -1,0 +1,9 @@
+This article is concerned with the stability and long-time dynamics of
+structures arising from a structureless state. The paradigm is suggested by
+developmental biology, where morphogenesis is thought to result from a
+competition between chemical reactions and spatial diffusion. A system of two
+reaction-diffusion equations for the concentrations of two morphogens is
+reduced to a finite system of ordinary differential equations. The stability of
+bifurcated solutions of this system is analyzed, and the long-time asymptotic
+behavior of the bifurcated solutions is established rigorously. The
+Schnakenberg and Gierer-Meinhardt equations are discussed as examples.

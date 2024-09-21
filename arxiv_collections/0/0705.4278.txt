@@ -1,0 +1,7 @@
+A method providing optimal estimate of probability density functions (PDFs)
+from time series is proposed. It allows almost arbitrary resolution PDFs when
+applied to either, sampled analytic functions or digitized data from
+experiments. When results are compared with PDFs of the same data calculated
+using the standard histogram method, a remarkable improvement is observed,
+especially in far lateral regions of the PDF, where low probability events give
+poor statistics.

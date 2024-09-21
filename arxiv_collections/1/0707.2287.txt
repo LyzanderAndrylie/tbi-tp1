@@ -1,0 +1,6 @@
+We analyze the salient features of vortex-ring solitons supported by
+cylindrically symmetric media with nonlocal thermal nonlinearity. We discover
+the existence of a maximum allowed topological charge for such vortex solitons
+to be stable on propagation: Only vortex-ring solitons with topological charge
+m<=2 are found to be stable. This remarkable result holds independently of the
+radius of the sample.

@@ -1,0 +1,8 @@
+We propose a simple test of quantumness which can decide whether for the
+given set of accessible experimental data the classical model is insufficient.
+Take two observables $ A,B$ such that for any state $\psi$ their mean values
+satisfy $0\leq <\psi|A|\psi>\leq <\psi|B|\psi>\leq 1$. If there exists a state
+$\phi$ such that the second moments fulfill the inequality $<\phi|A^2|\phi>
+><\phi|B^2|\phi>$ then the system cannot be described by the classical
+probabilistic scheme. An example of an optimal triple $(A,B,\phi)$ in the case
+of a qubit is given.

@@ -1,0 +1,14 @@
+A central issue in the physics of high temperature superconductors is to
+understand superconductivity within a single copper-oxide layer or bilayer, the
+fundamental structural unit in the cuprates, and how it is lost with
+underdoping. As mobile holes are removed from the CuO_2 planes, the transition
+temperature T_C and superfluid density n_S decrease in a surprisingly
+correlated fashion in crystals and thick films. We seek to elucidate the
+intrinsic physics of bilayers in the strongly underdoped regime, near the
+critical doping level where superconductivity disappears. We report
+measurements of n_S(T) in films of Y_{1-x}Ca_xBa_2Cu_3O_{7-\delta} as thin as
+two copper-oxide bilayers with T_C's as low as 3 K. In addition to seeing the
+two-dimensional (2D) Kosterlitz-Thouless-Berezinski transition at T_C, we
+observe a remarkable scaling of T_C with n_S(0) that demonstrates that the
+disappearance of superconductivity with underdoping is due to quantum
+fluctuations near a T = 0 2D quantum critical point.

@@ -1,0 +1,13 @@
+Symmetry breaking at surfaces and interfaces and the capability to support
+large strain gradients in nanoscale systems enable new forms of
+electromechanical coupling. Here we introduce the concept of quantum
+flexoelectricity, a phenomenon that is manifested when the mechanical
+deformation of non-polar quantum systems results in the emergence of net dipole
+moments and hence linear electromechanical coupling proportional to local
+curvature. The concept is illustrated in carbon systems, including
+polyacetylene and nano graphitic ribbons. Using density functional theory
+calculations for systems made of up to 400 atoms, we determine the
+flexoelectric coefficients to be of the order of ~ 0.1 e, in agreement with the
+prediction of linear theory. The implications of quantum flexoelectricity on
+electromechanical device applications, and physics of carbon based materials
+are discussed.

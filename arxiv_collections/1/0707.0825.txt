@@ -1,0 +1,6 @@
+We propose a procedure which allows one to construct local symmetry
+generators of general quadratic Lagrangian theory. Manifest recurrence
+relations for generators in terms of so-called structure matrices of the Dirac
+formalism are obtained. The procedure fulfilled in terms of initial variables
+of the theory, and do not implies either separation of constraints on first and
+second class subsets or any other choice of basis for constraints.

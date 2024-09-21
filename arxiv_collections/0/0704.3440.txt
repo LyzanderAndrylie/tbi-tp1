@@ -1,0 +1,14 @@
+The $s=1$ spinor Bose condensate at zero temperature supports ferromagnetic
+and polar phases that combine magnetic and superfluid ordering. We investigate
+the formation of magnetic domains at finite temperature and magnetic field in
+two dimensions in an optical trap. We study the general ground state phase
+diagram of a spin-1 system and focus on a phase that has a magnetic Ising order
+parameter and numerically determine the nature of the finite temperature
+superfluid and magnetic phase transitions. We then study three different
+dynamical models: model A, which has no conserved quantities, model F, which
+has a conserved second sound mode and the Gross-Pitaevskii (GP) equation which
+has a conserved density and magnetization. We find the dynamic critical
+exponent to be the same for models A and F ($z=2$) but different for GP ($z
+\approx 3$). Externally imposed magnetization conservation in models A and F
+yields the value $z \approx 3$, which demonstrates that the only conserved
+density relevant to domain formation is the magnetization density.

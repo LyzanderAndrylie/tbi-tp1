@@ -1,0 +1,13 @@
+We introduce a new formulation of asset trading games in continuous time in
+the framework of the game-theoretic probability established by Shafer and Vovk
+(Probability and Finance: It's Only a Game! (2001) Wiley). In our formulation,
+the market moves continuously, but an investor trades in discrete times, which
+can depend on the past path of the market. We prove that an investor can
+essentially force that the asset price path behaves with the variation exponent
+exactly equal to two. Our proof is based on embedding high-frequency
+discrete-time games into the continuous-time game and the use of the Bayesian
+strategy of Kumon, Takemura and Takeuchi (Stoch. Anal. Appl. 26 (2008)
+1161--1180) for discrete-time coin-tossing games. We also show that the main
+growth part of the investor's capital processes is clearly described by the
+information quantities, which are derived from the Kullback--Leibler
+information with respect to the empirical fluctuation of the asset price.

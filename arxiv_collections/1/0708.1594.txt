@@ -1,0 +1,10 @@
+We undertake a detailed numerical study of the twin phenomena of stochastic
+and vibrational resonance in a discrete model system in the presence of
+bichromatic input signal. A two parameter cubic map is used as the model that
+combines the features of both bistable and threshold settings. Our analysis
+brings out several interesting results, such as, the existence of a cross over
+behaviour from vibrational to stochastic resonance and the possibility of using
+stochastic resonance as a filter for the selective detection/transmission of
+the component frequencies in a composite signal. The study also reveals a
+fundamental difference between the bistable and threshold mechanisms with
+respect to amplification of a multi signal input.

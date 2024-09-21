@@ -1,0 +1,8 @@
+By the geometric Satake correspondence, the number of components of certain
+fibres of the affine Grassmannian convolution morphism equals the tensor
+product multiplicity for representations of the Langlands dual group. On the
+other hand, in the case of GL_n, combinatorial objects called hives also count
+tensor product multiplicities. The purpose of this paper is to give a simple
+bijection between hives and the components of these fibres. In particular, we
+give a description of the individual components. We also describe a conjectural
+generalization involving the octahedron recurrence.

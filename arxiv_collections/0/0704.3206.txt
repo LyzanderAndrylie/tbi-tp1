@@ -1,0 +1,24 @@
+We present a new numerical code, ECHO, based on an Eulerian Conservative High
+Order scheme for time dependent three-dimensional general relativistic
+magnetohydrodynamics (GRMHD) and magnetodynamics (GRMD). ECHO is aimed at
+providing a shock-capturing conservative method able to work at an arbitrary
+level of formal accuracy (for smooth flows), where the other existing GRMHD and
+GRMD schemes yield an overall second order at most. Moreover, our goal is to
+present a general framework, based on the 3+1 Eulerian formalism, allowing for
+different sets of equations, different algorithms, and working in a generic
+space-time metric, so that ECHO may be easily coupled to any solver for
+Einstein's equations. Various high order reconstruction methods are implemented
+and a two-wave approximate Riemann solver is used. The induction equation is
+treated by adopting the Upwind Constrained Transport (UCT) procedures,
+appropriate to preserve the divergence-free condition of the magnetic field in
+shock-capturing methods. The limiting case of magnetodynamics (also known as
+force-free degenerate electrodynamics) is implemented by simply replacing the
+fluid velocity with the electromagnetic drift velocity and by neglecting the
+matter contribution to the stress tensor. ECHO is particularly accurate,
+efficient, versatile, and robust. It has been tested against several
+astrophysical applications, including a novel test on the propagation of large
+amplitude circularly polarized Alfven waves. In particular, we show that
+reconstruction based on a Monotonicity Preserving filter applied to a fixed
+5-point stencil gives highly accurate results for smooth solutions, both in
+flat and curved metric (up to the nominal fifth order), while at the same time
+providing sharp profiles in tests involving discontinuities.

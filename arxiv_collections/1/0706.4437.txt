@@ -1,0 +1,24 @@
+Matched filtering is used to search for gravitational waves emitted by
+inspiralling compact binaries in data from the ground-based interferometers.
+One of the key aspects of the detection process is the design of a template
+bank that covers the astrophysically pertinent parameter space. In an earlier
+paper, we described a template bank that is based on a square lattice. Although
+robust, we showed that the square placement is over-efficient, with the
+implication that it is computationally more demanding than required. In this
+paper, we present a template bank based on an hexagonal lattice, which size is
+reduced by 40% with respect to the proposed square placement. We describe the
+practical aspects of the hexagonal template bank implementation, its size, and
+computational cost. We have also performed exhaustive simulations to
+characterize its efficiency and safeness. We show that the bank is adequate to
+search for a wide variety of binary systems (primordial black holes, neutron
+stars and stellar mass black holes) and in data from both current detectors
+(initial LIGO, Virgo and GEO600) as well as future detectors (advanced LIGO and
+EGO). Remarkably, although our template bank placement uses a metric arising
+from a particular template family, namely stationary phase approximation, we
+show that it can be used successfully with other template families (e.g., Pade
+resummation and effective one-body approximation). This quality of being
+effective for different template families makes the proposed bank suitable for
+a search that would use several of them in parallel (e.g., in a binary black
+hole search). The hexagonal template bank described in this paper is currently
+used to search for non-spinning inspiralling compact binaries in data from the
+Laser Interferometer Gravitational-Wave Observatory (LIGO).

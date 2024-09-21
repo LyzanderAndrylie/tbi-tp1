@@ -1,0 +1,12 @@
+A geometric approach to quantum mechanics with unitary evolution and
+non-unitary collapse processes is developed. In this approach the Schrodinger
+evolution of a quantum system is a geodesic motion on the space of states of
+the system furnished with an appropriate Riemannian metric. The measuring
+device is modeled by a perturbation of the metric. The process of measurement
+is identified with a geodesic motion of state of the system in the perturbed
+metric. Under the assumption of random fluctuations of the perturbed metric,
+the Born rule for probabilities of collapse is derived. The approach is applied
+to a two-level quantum system to obtain a simple geometric interpretation of
+quantum commutators, the uncertainty principle and Planck's constant. In light
+of this, a lucid analysis of the double-slit experiment with collapse and an
+experiment on a pair of entangled particles is presented.

@@ -1,0 +1,15 @@
+We search for the decay B0 -> rho0rho0 and other possible charmless modes
+with a pi+pi-pi+pi- final state, including B0 -> rho0f0(980), B0 ->
+f0(980)f0(980), B0 -> f0(980)pipi, B0 -> rho0pipi and non-resonant B0 -> 4pi.
+These results are obtained from a data sample containing 520 x 10^6 BBar pairs
+collected by the Belle detector at the KEKB asymmetric-energy e+e- collider. We
+measure a branching fraction of (0.9 +/- 0.4^{+0.3}_{-0.4}) x 10^{-6}, or B(B0
+-> rho0rho0) < 1.6 x 10^{-6} at the 90% confidence level. The significance
+including systematic uncertainties is 1.8\sigma. These values correspond to the
+final state being longitudinally polarized. We also measure the branching
+fraction of non-resonant B0 -> 4pi decay to be (10.2 +/- 4.7^{+2.3}_{-1.5}) x
+10^{-6} with 2.1\sigma significance, and set the 90% confidence level upper
+limit B(B0 -> 4pi) < 17.3 x 10^{-6}. For the other related decays, B0 ->
+rho0f0(980), B0 -> f0(980)f0(980), B0 -> f0(980)pipi and B0 -> rho0pipi, no
+significant signals are observed and upper limits on the branching fractions
+are set.

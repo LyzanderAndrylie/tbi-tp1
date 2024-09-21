@@ -1,0 +1,7 @@
+We characterize to what extent it is possible to modify the stationary states
+of a quantum dynamical semigroup, that describes the irreversible evolution of
+a two-level system, by means of an auxiliary two-level system. We consider
+systems that can be initially entangled or uncorrelated. We find that the
+indirect control of the stationary states is possible, even if there are not
+initial correlations, under suitable conditions on the dynamical parameters
+characterizing the evolution of the joint system.

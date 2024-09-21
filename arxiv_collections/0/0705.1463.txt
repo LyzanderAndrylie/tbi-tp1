@@ -1,0 +1,8 @@
+We analyze theoretically the electrostatic interaction of surface-charged
+colloids at water interfaces with special attention to the experimentally
+relevant case of large charge densities on the colloid-water interface. Whereas
+linear theory predicts an effective dipole potential the strength of which is
+proportional to the square of the product of charge density and screening
+length, nonlinear charge renormalization effects change this dependence to a
+weakly logarithmic one. These results appear to be particularly relevant for
+structure formation at air-water interfaces with arbitrarily shaped colloids.

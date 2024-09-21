@@ -1,0 +1,9 @@
+We numerically investigate quantum diffusion of an electron in a model of
+poly(dG)-poly(dC) and poly(dA)-poly(dT) DNA polymers with fluctuation of the
+parameters due to the impact of colored noise. The randomness is introduced by
+fluctuations of distance between two consecutive bases along the stacked base
+pairs. We demonstrate that in the model the decay time of the correlation can
+control the spread of the electronic wavepacket. Furthermore it is shown that
+in a motional narrowing regime the averaging over fluctuation causes ballistic
+propagation of the wavepacket, and in the adiabatic regime the electronic
+states are affected by localization.

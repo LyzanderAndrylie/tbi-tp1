@@ -1,0 +1,8 @@
+We show that there is a link between the Kuramoto paradigm and another system
+of synchronized oscillators, namely an electrical power distribution grid of
+generators and consumers. The purpose of this work is to show both the formal
+analogy and some practical consequences. The mapping can be made quantitative,
+and under some necessary approximations a class of Kuramoto-like models, those
+with bimodal distribution of the frequencies, is most appropriate for the
+power-grid. In fact in the power-grid there are two kinds of oscillators: the
+'sources' delivering power to the 'consumers'.

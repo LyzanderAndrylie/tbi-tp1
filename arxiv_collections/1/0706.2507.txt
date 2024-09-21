@@ -1,0 +1,11 @@
+Fast and accurate measurement is a highly desirable, if not vital, feature of
+quantum computing architectures. In this work we investigate the usefulness of
+adaptive measurements in improving the speed and accuracy of qubit measurement.
+We examine a particular class of quantum computing architectures, ones based on
+qubits coupled to well controlled harmonic oscillator modes (reminiscent of
+cavity-QED), where adaptive schemes for measurement are particularly
+appropriate. In such architectures, qubit measurement is equivalent to phase
+discrimination for a mode of the electromagnetic field, and we examine adaptive
+techniques for doing this. In the final section we present a concrete example
+of applying adaptive measurement to the particularly well-developed circuit-QED
+architecture.

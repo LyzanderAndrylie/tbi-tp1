@@ -1,0 +1,13 @@
+We prove that a system of discrete 2D in-plane dipoles with four possible
+orientations, interacting via a 3D dipole-dipole interaction plus a nearest
+neighbor ferromagnetic term, has periodic striped ground states. As the
+strength of the ferromagnetic term is increased, the size of the stripes in the
+ground state increases, becoming infinite, i.e., giving a ferromagentic ground
+state, when the ferromagentic interaction exceeds a certain critical value. We
+also give a rigorous proof of the reorientation transition in the ground state
+of a 2D system of discrete dipoles with six possible orientations, interacting
+via a 3D dipole-dipole interaction plus a nearest neighbor antiferromagnetic
+term. As the strength of the antiferromagnetic term is increased the ground
+state flips from being striped and in-plane to being staggered and
+out-of-plane. An example of a rotator model with a sinusoidal ground state is
+also discussed.

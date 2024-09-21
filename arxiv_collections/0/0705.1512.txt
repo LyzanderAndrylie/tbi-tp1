@@ -1,0 +1,6 @@
+In a couple of articles (Ford G W and O'Connell R F 1996 Nature 380 113 and
+2002 J. Phys. A: Math. Gen. 35 4183) it was argued that the standard result for
+the derivative of the hyperbolic cotangent in the literature, d \coth y/dy =
+-{csch}^2 y is incomplete and the correct expression should have an additional
+term proportional to the Dirac delta function. The purpose of this paper is to
+demonstrate that this claim is incorrect.

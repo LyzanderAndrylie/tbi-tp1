@@ -1,0 +1,12 @@
+There are two infinitesimal (i.e., additive) versions of the $K$-theory of a
+field $F$: one was introduced by Cathelineau, which is an $F$-module, and
+another one introduced by Bloch-Esnault, which is an $F^*$-module. Both
+versions are equipped with a regulator map, when $F$ is the field of complex
+numbers.
+  In our short paper we will introduce an extended version of Cathelineau's
+group, and a complex-valued regulator map given by the entropy. We will also
+give a comparison map between our extended version and Cathelineau's group.
+  Our results were motivated by two unrelated sources: Neumann's work on the
+extended Bloch group (which is isomorphic to indecomposable $K_3$ of the
+complex numbers), and the study of singularities of generating series of
+hypergeometric multisums. Final version.

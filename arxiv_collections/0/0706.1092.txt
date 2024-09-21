@@ -1,0 +1,12 @@
+We show that if $P$ is a lattice polytope in the nonnegative orthant of
+$\R^k$ and $\chi$ is a coloring of the lattice points in the orthant such that
+the color $\chi(a+b)$ depends only on the colors $\chi(a)$ and $\chi(b)$, then
+the number of colors of the lattice points in the dilation $nP$ of $P$ is for
+large $n$ given by a polynomial (or, for rational $P$, by a quasipolynomial).
+This unifies a classical result of Ehrhart and Macdonald on lattice points in
+polytopes and a result of Khovanski\u\i{} on sumsets in semigroups. We also
+prove a strengthening of multivariate generalizations of Khovanski\u\i's
+theorem. Another result of Khovanski\u\i{} states that the size of the image of
+a finite set after $n$ applications of mappings from a finite family of
+mutually commuting mappings is for large $n$ a polynomial. We give a
+combinatorial proof of a multivariate generalization of this theorem.

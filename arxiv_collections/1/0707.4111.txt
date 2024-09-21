@@ -1,0 +1,17 @@
+We have studied the spin dynamics of a high-mobility two-dimensional electron
+system in a GaAs/Al_{0.3}Ga_{0.7}As single quantum well by time-resolved
+Faraday rotation and time-resolved Kerr rotation in dependence on the initial
+degree of spin polarization, P, of the electrons. By increasing the initial
+spin polarization from the low-P regime to a significant P of several percent,
+we find that the spin dephasing time, $T_2^\ast$, increases from about 20 ps to
+200 ps; Moreover, $T_2^\ast$ increases with temperature at small spin
+polarization but decreases with temperature at large spin polarization. All
+these features are in good agreement with theoretical predictions by Weng and
+Wu [Phys. Rev. B {\bf 68}, 075312 (2003)]. Measurements as a function of spin
+polarization at fixed electron density are performed to further confirm the
+theory. A fully microscopic calculation is performed by setting up and
+numerically solving the kinetic spin Bloch equations, including the
+D'yakonov-Perel' and the Bir-Aronov-Pikus mechanisms, with {\em all} the
+scattering explicitly included. We reproduce all principal features of the
+experiments, i.e., a dramatic decrease of spin dephasing with increasing $P$
+and the temperature dependences at different spin polarizations.

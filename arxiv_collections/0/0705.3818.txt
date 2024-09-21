@@ -1,0 +1,11 @@
+We extend the renormalized quasiparticle description of the symmetric
+Anderson model in a magnetic field $H$, developed in earlier work, to the
+non-symmetric model. The renormalized parameters are deduced from the low
+energy NRG fixed point for arbitrary field values. We find quasiparticle
+resonance widths, $\tilde\Delta_\sigma(H)$, which depend in general on the spin
+$\sigma$ as well as $H$. The low temperature static properties can be expressed
+completely in terms of these parameters, which can also be used as inputs for a
+renormalized perturbation theory. We show that taking into account repeated
+quasiparticle scattering gives results for the longitudinal and transverse
+dynamic spin susceptibilities which are in very good agreement with those
+obtained from direct NRG calculations.

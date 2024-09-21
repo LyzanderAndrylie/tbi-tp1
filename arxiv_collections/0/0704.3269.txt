@@ -1,0 +1,20 @@
+More than two dozen short-period Jupiter-mass gas giant planets have been
+discovered around nearby solar-type stars in recent years, several of which
+undergo transits, making them ideal for the detection and characterization of
+their atmospheres. Here we adopt a three-dimensional radiative hydrodynamical
+numerical scheme to simulate atmospheric circulation on close-in gas giant
+planets. In contrast to the conventional GCM and shallow water algorithms, this
+method does not assume quasi hydrostatic equilibrium and it approximates
+radiation transfer from optically thin to thick regions with flux-limited
+diffusion. In the first paper of this series, we consider
+synchronously-spinning gas giants. We show that a full three-dimensional
+treatment, coupled with rotationally modified flows and an accurate treatment
+of radiation, yields a clear temperature transition at the terminator. Based on
+a series of numerical simulations with varying opacities, we show that the
+night-side temperature is a strong indicator of the opacity of the planetary
+atmosphere. Planetary atmospheres that maintain large, interstellar opacities
+will exhibit large day-night temperature differences, while planets with
+reduced atmospheric opacities due to extensive grain growth and sedimentation
+will exhibit much more uniform temperatures throughout their photosphere's. In
+addition to numerical results, we present a four-zone analytic approximation to
+explain this dependence.

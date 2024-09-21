@@ -1,0 +1,8 @@
+Relativistic simulations in 3+1 dimensions typically monitor the Hamiltonian
+and momentum constraints during evolution, with significant violations of these
+constraints indicating the presence of instabilities. In this paper we rewrite
+the momentum constraints as first-order evolution equations, and show that the
+popular BSSN formulation of the Einstein equations explicitly uses the momentum
+constraints as evolution equations. We conjecture that this feature is a key
+reason for the relative success of the BSSN formulation in numerical
+relativity.

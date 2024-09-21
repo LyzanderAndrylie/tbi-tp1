@@ -1,0 +1,19 @@
+Photoassociation of a pair of cooled atoms by excitation with a short chirped
+laser pulse creates a dynamical hole in the initial continuum wavefunction.
+This hole is manifested by a void in the pair wavefunction and a momentum kick.
+Photoassociation into loosely bound levels of the external well in Cs_2
+0$_g^-$(6S + 6P$_{3/2}$ is considered as a case study. After the pulse, the
+free evolution of the ground triplet state wavepacket is analyzed. Due to a
+negative momentum kick, motion to small distances is manifested and a
+compression effect is pointed out, markedly increasing the density of atom
+pairs at short distance. A consequence of the hole is the redistribution of the
+vibrational population in the ground triplet state, with population of the last
+bound level and creation of pairs of hot atoms. The physical interpretation
+makes use of the time dependence of the probability current and population on
+each channel to understand the role of the parameters of the photoassociation
+pulse. By varying such parameters, optimization of the compression effect in
+the ground state wavepacket is demonstrated. Due to an increase of the short
+range density probability by more than two orders of magnitude, we predict
+important photoassociation rates into deeply bound levels of the excited state
+by a second pulse, red-detuned relative to the first one and conveniently
+delayed.

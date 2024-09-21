@@ -1,0 +1,10 @@
+Let $X\hookrightarrow \cpn $ be a smooth complex projective variety of
+dimension $n$. Let $\lambda$ be an algebraic one parameter subgroup of
+$G:=\gc$. Let $ 0\leq l\leq n+1$. We associate to the coefficients
+$F_{l}(\lambda)$ of the normalized weight of $\lambda$ on the $mth$ Hilbert
+point of $X$ new energies $F_{\om,l}(\vp)$. The (logarithmic) asymptotics of
+$F_{\om,l}(\vp)$ along the potential deduced from $\lambda$ is the weight
+$F_{l}(\lambda)$. $F_{\om,l}(\vp)$ reduces to the Aubin energy when $l=0$ and
+the K-Energy map of Mabuchi when $l=1$. When $l\geq 2$ $F_{\om,l}(\vp)$
+coincides (modulo lower order terms) with the functional $E_{\om,l-1}(\vp)$
+introduced by X.X. Chen and G.Tian.

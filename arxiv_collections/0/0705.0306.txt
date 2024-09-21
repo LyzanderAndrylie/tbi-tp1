@@ -1,0 +1,13 @@
+Long-lived, heavy particles are predicted in a number of models beyond the
+standard model of particle physics. We present the first direct search for such
+particles' decays, occurring up to 100 hours after their production and not
+synchronized with an accelerator bunch crossing. We apply the analysis to the
+gluino (~g), predicted in split supersymmetry, which after hadronization can
+become charged and lose enough momentum through ionization to come to rest in
+dense particle detectors. Approximately 410 pb^-1 of p-pbar collisions at 1.96
+TeV collected with the D0 detector during Run II of the Fermilab Tevatron
+collider are analyzed in search of such ``stopped gluinos'' decaying into a
+gluon and a neutralino (~X_0), reconstructed as a jet and missing energy. No
+excess is observed above background, and limits are placed on the (gluino cross
+section) x (probability to stop) x BR(~g -> g ~X_0) as a function of the gluino
+and ~X_0 masses, for gluino lifetimes from 30 $\mu$s -- 100 hours.

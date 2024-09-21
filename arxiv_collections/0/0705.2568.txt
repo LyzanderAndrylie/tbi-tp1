@@ -1,0 +1,19 @@
+The purpose of this article is to show that the introduction of hidden
+variables to describe individual events is fully consistent with the
+statistical predictions of quantum theory. We illustrate the validity of this
+assertion by discussing two fundamental experiments on correlated photons which
+are believed to behave ``violently non-classical''. Our considerations carry
+over to correlated pairs of neutral particles of spin one-half in a singlet
+state. Much in the spirit of Einstein's conviction we come to the conclusion
+that the state vector of a system does not provide an exhaustive description of
+the individual physical system. We also briefly discuss an experiment on
+``quantum teleportation'' and demonstrate that our completely local approach
+leads to a full understanding of the experiment indicating the absence of any
+teleportation phenomenon. We caution that the indiscriminated use of the term
+``Quantum Theory'' tends to obscure distinct differences between the quantum
+mechanics of massive particles and the propagation of photons. It is emphasized
+that the properties of polarizers, beam splitters, halfwave plates etc. used in
+photon-correlation experiments are defined by the laws of classical optics.
+Hence, understanding the outcome of those experiments requires a well-founded
+interconnection between classical and quantum electrodynamics free from
+unnecessary hypotheses.

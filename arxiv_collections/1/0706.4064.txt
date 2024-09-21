@@ -1,0 +1,17 @@
+We discuss the Hamiltonian H = p^2/2 - (ix)^{2n+1} and the mixed Hamiltonian
+H = (p^2 + x^2)/2 - g(ix)^{2n+1}, which are crypto-Hermitian in a sense that,
+in spite of apparent complexity of the potential, a quantum spectral problem
+can be formulated such that the spectrum is real. We note first that the
+corresponding classical Hamiltonian system can be treated as a gauge system,
+with imaginary part of the Hamiltonian playing the role of the first class
+constraint. We observe then that, on the basis of this classical problem,
+several different nontrivial quantum problems can be formulated. We formulate
+and solve some such problems. We find in particular that the spectrum of the
+mixed Hamiltonian undergoes in certain cases rather amazing transformation when
+the coupling g is sent to zero. There is an infinite set of phase transitions
+in g when a couple of eigenstates of H coalesce and disappear from the
+spectrum. When quantization is done in the most natural way such that gauge
+constraints are imposed on quantum states, the spectrum should not be positive
+definite, but must involve the negative energy states (ghosts). We speculate
+that, in spite of the appearance of ghost states, unitarity might still be
+preserved.

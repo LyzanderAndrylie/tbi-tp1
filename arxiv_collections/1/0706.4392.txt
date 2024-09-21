@@ -1,0 +1,7 @@
+The amplitude for the forward electroproduction of two light vector mesons
+can be written completely within perturbative QCD in the Regge limit with
+next-to-leading accuracy, thus providing the first example of a physical
+application of the BFKL approach at the next-to-leading order. We study in the
+case of equal photon virtualities the main systematic effects, by considering a
+different representation of the amplitude and different optimization methods of
+the perturbative series.

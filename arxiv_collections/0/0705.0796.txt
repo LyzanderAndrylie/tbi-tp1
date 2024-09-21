@@ -1,0 +1,10 @@
+Since S-parameter measurements without uncertainty cannot claim any
+credibility, the uncertainties in full two-port Vector Network Analyser (VNA)
+measurements were estimated using total complex differentials (Total
+Differential Errors). To express precisely a comparison relation between
+complex differential errors, their differential error regions (DERs) were used.
+To demonstrate the method in the most accurate case of a direct zero-length
+thru, practical results are presented for commonly used Z-parameters of a
+simple, two-port, DC resistive T-network, which was built and tested against
+frequency with a VNA measurement system extended by two lengthy transmission
+lines.

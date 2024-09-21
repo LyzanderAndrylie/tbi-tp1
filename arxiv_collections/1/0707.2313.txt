@@ -1,0 +1,6 @@
+Recently Brian Hartwig and the second author found a presentation for the
+three-point $sl_2$ loop algebra by generators and relations. To obtain this
+presentation they defined a Lie algebra $\boxtimes$ by generators and
+relations, and displayed an isomorphism from $\boxtimes$ to the three-point
+$sl_2$ loop algebra. In this paper we describe the finite-dimensional
+irreducible $\boxtimes$-modules from multiple points of view.

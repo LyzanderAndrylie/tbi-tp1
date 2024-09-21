@@ -1,0 +1,10 @@
+In principle the Zeno effect controlled-sign gate of Franson et al's (PRA 70,
+062302, 2004) is a deterministic two-qubit optical gate. However, when
+realistic values of photon loss are considered its fidelity is significantly
+reduced. Here we consider the use of measurement based quantum processing
+techniques to enhance the operation of the Zeno gate. With the help of quantum
+teleportation, we show that it is possible to achieve a Zeno CNOT gate (GC-Zeno
+gate) that gives (near) unit fidelity and moderate probability of success of
+0.76 with a one-photon to two-photon transmission ratio $\kappa=10^4$. We
+include some mode-mismatch effects and estimate the bounds on the mode overlap
+and $\kappa$ for which fault tolerant operation would be possible.

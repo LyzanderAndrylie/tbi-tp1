@@ -1,0 +1,20 @@
+Under the assumption of Minimal Flavour Violation (MFV), the Unitarity
+Triangle (UT) can be determined by using only angle measurements and tree-level
+observables. In this respect, the most accurate quantities today available are
+sin 2 beta_{psi Ks}, |Vcb| and |Vub|. Among the latter, |Vub| is at present the
+quantity suffering from largest systematic uncertainties, given the discrepancy
+between the inclusive and the exclusive determinations.
+  We show with a numerical fit how sensitively the MFV-UT determination depends
+on the choice of |Vub|. In addition, we focus on the implications of the
+inclusive value for |Vub|, which favors two non-SM like solutions in the rhobar
+- etabar plane. We study in detail the possibility of reproducing such
+solutions within the MFV MSSM. Our findings indicate that the case for the MFV
+MSSM is in this respect quite problematic, unless the non-perturbative
+parameters xi and BK are significantly different from those obtained by lattice
+methods. As a byproduct, we point out that scenarios with 200 GeV <~ MA <~ 500
+GeV and tan beta =~ 50 that predict a significant suppression for Delta Ms in
+correlation with an enhancement for BR(Bs --> mu^+ mu^-) have to be fine-tuned
+in order not to violate the new combined bound on the latter decay mode from
+the CDF and D0 collaborations. Relatively large correlated effects can however
+still occur for negative values of mu and large values for MA >~ 500 GeV,
+increasing with increasing tan beta >~ 30.

@@ -1,0 +1,23 @@
+Using Monte Carlo simulations we study jamming and percolation processes upon
+the random sequential adsorption of dimers on binary alloys with different
+degrees of structural order. We obtain the equimolar mixtures used as
+substrates by applying the isomorphism between an alloy and the Ising model
+(conserved order parameter). The annealing temperature $T$ of the mixture then
+is a continuous parameter that characterizes the different sets of substrates,
+shaping the deposition process. As the alloy undergoes an order-disorder phase
+transition at the Onsager critical temperature ($T_{c}$), the jamming and
+percolating properties of the dimers deposited over the substrate are subjected
+to non-trivial changes. These are reflected in a density-temperature phase
+diagram with three well-defined regions. We find that for $T < T^* = 1.22
+T_{c}$ the occurrence of jamming prevents the onset of percolating clusters,
+while percolation is possible for $T > T^{*}$. Particular attention is focused
+close to $T^{*}$, where the interplay between jamming and percolation restricts
+fluctuations, forcing exponents seemingly different from the standard
+percolation universality class. By analogy with a thermal transition, we study
+the onset of percolation by using the {\it temperature} (in this case, the
+substrate annealing temperature) as a control parameter. By proposing thermal
+scaling Ansatzes we analyze the behavior of the percolation threshold and its
+thermally induced fluctuations. Also, the fractal dimension of the percolating
+cluster is determined. Based on these measurements and the excellent data
+collapsing, we conclude that the universality class of standard percolation is
+preserved for all temperatures.

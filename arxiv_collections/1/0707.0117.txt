@@ -1,0 +1,11 @@
+We present a significant improvement to a time-dependent WKB (TDWKB)
+formulation developed by Boiron and Lombardi [JCP {\bf108}, 3431 (1998)] in
+which the TDWKB equations are solved along classical trajectories that
+propagate in the complex plane. Boiron and Lombardi showed that the method
+gives very good agreement with the exact quantum mechanical result as long as
+the wavefunction does not exhibit interference effects such as oscillations and
+nodes. In this paper we show that this limitation can be overcome by
+superposing the contributions of crossing trajectories. We also demonstrate
+that the approximation improves when incorporating higher order terms in the
+expansion. These improvements could make the TDWKB formulation a competitive
+alternative to current time-dependent semiclassical methods.

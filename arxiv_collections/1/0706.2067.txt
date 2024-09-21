@@ -1,0 +1,8 @@
+This paper describes how automatically generated detailed kinetic mechanisms
+are obtained for the oxidation of alkanes and how these models could lead to a
+better understanding of autoignition and cool flame risks at elevated
+conditions. Examples of prediction of the occurrence of different autoignition
+phenomena, such as cool flames or two-stage ignitions are presented depending
+on the condition of pressure, temperature and mixture composition. Three
+compounds are treated, a light alkane, propane, and two heavier ones, n-heptane
+and n-decane.

@@ -1,0 +1,7 @@
+Effective mass Schrodinger equation is solved exactly for a given potential.
+Nikiforov-Uvarov method is used to obtain energy eigenvalues and the
+corresponding wave functions. A free parameter is used in the transformation of
+the wave function. The effective mass Schrodinger equation is also solved for
+the Morse potential transforming to the constant mass Schr\"{o}dinger equation
+for a potential. One can also get solution of the effective mass Schrodinger
+equation starting from the constant mass Schrodinger equation.

@@ -1,0 +1,8 @@
+In the previous paper "Symmetric Crystals and Affine Hecke Algebras of Type
+B", we formulated a conjecture on the relations between certain classes of
+irreducible representations of affine Hecke algebras of type B and symmetric
+crystals for $\gl_\infty$. In the first half of this paper (sections 2 and 3),
+we give a survey of the LLTA type theorem of the affine Hecke algebra of type
+$A$. In the latter half (sections 4, 5 and 6), we review the construction of
+the symmetric crystals and the LLTA type conjectures for the affine Hecke
+algebra of type $B$.

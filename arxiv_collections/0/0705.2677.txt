@@ -1,0 +1,5 @@
+We consider some general facts concerning convergence P_{n}-Q_{n}\to 0 as
+n\to \infty, where P_{n} and Q_{n} are probability measures in a complete
+separable metric space. The main point is that the sequences {P_{n}} and
+{Q_{n}} are not assumed to be tight. We compare different possible definitions
+of the above convergence, and establish some general properties.

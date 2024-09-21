@@ -1,0 +1,19 @@
+In this article we obtain a fundamental measure functional for the model of
+aligned hard hexagons in the plane. Our aim is not just to provide a functional
+for a new, admittedly academic, model, but to investigate the structure of
+fundamental measure theory. A model of aligned hard hexagons has similarities
+with the hard disk model. Both share "lost cases", i.e. admit configurations of
+three particles in which there is pairwise overlap but not triple overlap.
+These configurations are known to be problematic for fundamental measure
+functionals, which are not able to capture their contribution correctly. This
+failure lies in the inability of these functionals to yield a correct low
+density limit of the third order direct correlation function. Here we derive
+the functional by projecting aligned hard cubes on the plane x+y+z=0. The
+correct dimensional crossover behavior of these functionals permits us to
+follow this strategy. The functional of aligned hard cubes, however, does not
+have lost cases, so neither had the resulting functional for aligned hard
+hexagons. The latter exhibits, in fact, a peculiar structure as compared to the
+one for hard disks. It depends on a uniparametric family of weighted densities
+through a new term not appearing in the functional for hard disks. Apart from
+studying the freezing of this system, we discuss the implications of the
+functional structure for new developments of fundamental measure theory.

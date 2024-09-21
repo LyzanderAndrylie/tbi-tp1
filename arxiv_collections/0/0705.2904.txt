@@ -1,0 +1,7 @@
+We propose an information reconciliation protocol that uses two-way classical
+communication. In the case of the BB84 protocol and the six-state protocol, the
+key rates of the quantum key distribution (QKD) protocols that use our proposed
+information reconciliation protocol are higher than previously known protocols
+for wide range of error rates. We also clarify the relation between the
+proposed protocol and known QKD protocols, and the relation between the
+proposed protocol and entanglement distillation protocols (EDPs).

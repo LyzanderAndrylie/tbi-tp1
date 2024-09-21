@@ -1,0 +1,23 @@
+We report coincident damped Lyman alpha (DLA) and sub-DLA absorption at z =
+2.66 and z = 2.94 towards the z ~ 3 13.8 arcsecond separation binary quasar
+SDSS 1116+4118 AB. At the redshifts of the absorbers, this angular separation
+corresponds to a proper transverse separation of ~ 110 kpc. A third absorber, a
+sub-DLA at z = 2.47, is detected towards SDSS 1116+4118 B, but no corresponding
+high column density absorber is present towards SDSS 1116+4118 A. We use high
+resolution galaxy simulations and a clustering analysis to interpret the
+coincident absorption and its implications for galaxy structure at z ~ 3. We
+conclude that the common absorption in the two lines of sight is unlikely to
+arise from a single galaxy, or a galaxy plus satellite system, and is more
+feasibly explained by a group of two or more galaxies with separations ~ 100
+kpc. The impact of these findings on single line of sight observations is also
+discussed; we show that abundances of DLAs may be affected by up to a few
+tenths of a dex by line of sight DLA blending. From a Keck ESI spectrum of the
+two quasars, we measure metal column densities for all five absorbers and
+determine abundances for the three absorbers with log N(HI) > 20. For the two
+highest N(HI) absorbers, we determine high levels of metal enrichment,
+corresponding to 1/3 and 1/5 solar. These metallicities are amongst the highest
+measured for DLAs at any redshift and are consistent with values measured in
+Lyman break galaxies at 2 < z < 3. For the DLA at z = 2.94 we also infer an
+approximately solar ratio of alpha-to-Fe peak elements from [S/Zn] = +0.05, and
+measure an upper limit for the molecular fraction in this particular line of
+sight of log f(H_2)< -5.5.

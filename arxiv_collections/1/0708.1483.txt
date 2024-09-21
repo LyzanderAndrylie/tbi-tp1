@@ -1,0 +1,19 @@
+In the paper the memory effect in the system consisting from a trajectory of
+process and an environment is considered. The environment is presented by
+scalar potential and noise. The evolution of system is interpreted as process
+of the continuous "measurement" of a trajectory by an environment and\or on the
+contrary. In this sense the measured value is entropy-the information about
+embedding of the trajectory into configurations space. The concepts
+"measurement" and "interaction" are identified alike in quantum theory. Thus,
+the entropy evolution is not only the effect of dynamics, but also its cause,
+if it is possible to speak about causality in this case. It is shown, that such
+non-elastic interaction leads to occurrence of memory in the system. The reflex
+memory mechanism is realized as a real conformal dynamic metrics. The
+metastable event (attractor) is defined and time of its life is estimated. It
+is shown, that in the system there is a change of dynamic modes from spatial
+localization to random walk (fluctuation, relaxation). On scale of the
+attractors dynamics the memory is appearing as a semi-regular (in some
+information sense) drift of the image of fluctuations in a power spectrum of
+environment to absolute minimum. The latter properties (topological
+convergence) attract the attention to algorithmic aspect of a considered
+system.

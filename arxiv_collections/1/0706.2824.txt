@@ -1,0 +1,18 @@
+The re-use of pre-designed blocks is a well-known concept of the software
+development. This technique has been applied to System-on-Chip (SoC) design
+whose complexity and heterogeneity are growing. The re-use is made thanks to
+high level components, called virtual components (IP), available in more or
+less flexible forms. These components are dedicated blocks: digital signal
+processing (DCT, FFT), telecommunications (Viterbi, TurboCodes),... These
+blocks rest on a model of fixed architecture with very few degrees of
+personalization. This rigidity is particularly true for the communication
+interface whose orders of acquisition and production of data, the temporal
+behavior and protocols of exchanges are fixed. The successful integration of
+such an IP requires that the designer (1) synchronizes the components (2)
+converts the protocols between "incompatible" blocks (3) temporizes the data to
+guarantee the temporal constraints and the order of the data. This phase
+remains however very manual and source of errors. Our approach proposes a
+formal modeling, based on an original Ressource Compatibility Graph. The
+synthesis flow is based on a set of transformations of the initial graph to
+lead to an interface architecture allowing the space-time adaptation of the
+data exchanges between several components.

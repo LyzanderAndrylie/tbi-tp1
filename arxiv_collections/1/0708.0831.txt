@@ -1,0 +1,18 @@
+The monochromatic Dirac and polychromatic Titulaer-Glauber quantized field
+theories (QFTs) of electromagnetism are derived from a photon-energy wave
+function in much the same way that one derives QFT for electrons, that is, by
+quantization of a single-particle wave function. The photon wave function and
+its equation of motion are established from the Einstein energy-momentum-mass
+relation, assuming a local energy density. This yields a theory of photon wave
+mechanics (PWM). The proper Lorentz-invariant single-photon scalar product is
+found to be non-local in coordinate space, and is shown to correspond to
+orthogonalization of the Titulaer-Glauber wave-packet modes. The wave functions
+of PWM and mode functions of QFT are shown to be equivalent, evolving via
+identical equations of motion, and completely describe photonic states. We
+generalize PWM to two or more photons, and show how to switch between the PWM
+and QFT viewpoints. The second-order coherence tensors of classical coherence
+theory and the two-photon wave functions are shown to propagate equivalently.
+We give examples of beam-like states, which can be used as photon wave
+functions in PWM, or modes in QFT. We propose a practical mode converter based
+on spectral filtering to convert between wave packets and their corresponding
+biorthogonal dual wave packets.

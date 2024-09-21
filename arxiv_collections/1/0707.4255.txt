@@ -1,0 +1,15 @@
+We study -- within the framework of propositional proof complexity -- the
+problem of certifying unsatisfiability of CNF formulas under the promise that
+any satisfiable formula has many satisfying assignments, where ``many'' stands
+for an explicitly specified function $\Lam$ in the number of variables $n$. To
+this end, we develop propositional proof systems under different measures of
+promises (that is, different $\Lam$) as extensions of resolution. This is done
+by augmenting resolution with axioms that, roughly, can eliminate sets of truth
+assignments defined by Boolean circuits. We then investigate the complexity of
+such systems, obtaining an exponential separation in the average-case between
+resolution under different size promises:
+  1. Resolution has polynomial-size refutations for all unsatisfiable 3CNF
+formulas when the promise is $\eps\cd2^n$, for any constant $0<\eps<1$.
+  2. There are no sub-exponential size resolution refutations for random 3CNF
+formulas, when the promise is $2^{\delta n}$ (and the number of clauses is
+$o(n^{3/2})$), for any constant $0<\delta<1$.

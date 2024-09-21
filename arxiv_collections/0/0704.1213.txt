@@ -1,0 +1,12 @@
+We analyze cotunneling transport through two quantum dots in series weakly
+coupled to external ferromagnetic leads. In the Coulomb blockade regime the
+electric current flows due to third-order tunneling, while the second-order
+single-barrier processes have indirect impact on the current by changing the
+occupation probabilities of the double dot system. We predict a zero-bias
+maximum in the differential conductance, whose magnitude is conditioned by the
+value of the inter-dot Coulomb interaction. This maximum is present in both
+magnetic configurations of the system and results from asymmetry in cotunneling
+through different virtual states. Furthermore, we show that tunnel
+magnetoresistance exhibits a distinctively different behavior depending on
+temperature, being rather independent of the value of inter-dot correlation.
+Moreover, we find negative TMR in some range of the bias voltage.

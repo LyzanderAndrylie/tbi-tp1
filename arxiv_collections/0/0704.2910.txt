@@ -1,0 +1,22 @@
+Semiconductor devices continue to press into the nanoscale regime, and new
+applications have emerged for which the quantum properties of dopant atoms act
+as the functional part of the device, underscoring the necessity to probe the
+quantum structure of small numbers of dopant atoms in semiconductors[1-3].
+Although dopant properties are well-understood with respect to bulk
+semiconductors, new questions arise in nanosystems. For example, the quantum
+energy levels of dopants will be affected by the proximity of nanometer-scale
+electrodes. Moreover, because shallow donors and acceptors are analogous to
+hydrogen atoms, experiments on small numbers of dopants have the potential to
+be a testing ground for fundamental questions of atomic and molecular physics,
+such as the maximum negative ionization of a molecule with a given number of
+positive ions[4,5]. Electron tunneling spectroscopy through isolated dopants
+has been observed in transport studies[6,7]. In addition, Geim and coworkers
+identified resonances due to two closely spaced donors, effectively forming
+donor molecules[8]. Here we present capacitance spectroscopy measurements of
+silicon donors in a gallium-arsenide heterostructure using a scanning probe
+technique[9,10]. In contrast to the work of Geim et al., our data show
+discernible peaks attributed to successive electrons entering the molecules.
+Hence this work represents the first addition spectrum measurement of dopant
+molecules. More generally, to the best of our knowledge, this study is the
+first example of single-electron capacitance spectroscopy performed directly
+with a scanning probe tip[9].

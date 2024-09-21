@@ -1,0 +1,12 @@
+We numerically investigate the nature of the phase transition of the XY model
+in the heptagonal lattice with the negative curvature, in comparison to other
+interaction structures such as a flat two-dimensional (2D) square lattice and a
+small-world network. Although the heptagonal lattice has a very short
+characteristic path length like the small-world network structure, it is
+revealed via calculation of the Binder's cumulant that the former exhibits a
+zero-temperature phase transition while the latter has the finite-temperature
+transition of the mean-field nature. Through the computation of the vortex
+density as well as the correlation function in the low-temperature
+approximation, we show that the absence of the phase transition originates from
+the strong spinwave-type fluctuation, which is discussed in relation to the
+usual 2D XY model.

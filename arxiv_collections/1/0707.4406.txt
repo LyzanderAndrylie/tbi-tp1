@@ -1,0 +1,8 @@
+We investigate quantum transport in a normal/superconductor graphene
+heterostructure, including the possibility of an anisotropic pairing potential
+in the superconducting region. We find that under certain circumstances, the
+conductance displays an undamped, oscillatory behaviour as a function of
+applied bias voltage. Also, we investigate how the conductance spectra are
+affected by a d-wave pairing symmetry. These results combine unusual features
+of the electronic structure of graphene with the unconventional pairing
+symmetry found for instance in high-T_c superconductors.

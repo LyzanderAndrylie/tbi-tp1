@@ -1,0 +1,17 @@
+We use CO and H alpha velocity fields to study the gas kinematics in the
+spiral arms and interarms of M51 (NGC 5194), and fit the 2D velocity field to
+estimate the radial and tangential velocity components as a function of spiral
+phase (arm distance). We find large radial and tangential streaming velocities,
+which are qualitatively consistent with the predictions of density wave theory
+and support the existence of shocks. The streaming motions are complex, varying
+significantly across the galaxy as well as along and between arms. Aberrations
+in the velocity field indicate that the disk is not coplanar, perhaps as far in
+as 20\arcsec\ (800 pc) from the center. Velocity profile fits from CO and H
+alpha are typically similar, suggesting that most of the H alpha emission
+originates from regions of recent star formation. We also explore vortensity
+and mass conservation conditions. Vortensity conservation, which does not
+require a steady state, is empirically verified. The velocity and density
+profiles show large and varying mass fluxes, which are inconsistent with a
+steady flow for a single dominant global spiral mode. We thus conclude that the
+spiral arms cannot be in a quasi-steady state in any rotating frame, and/or
+that out of plane motions may be significant.

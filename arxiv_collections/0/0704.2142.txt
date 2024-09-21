@@ -1,0 +1,8 @@
+We revisit the question whether the critical behavior of sandpile models with
+sticky grains is in the directed percolation universality class. Our earlier
+theoretical arguments in favor, supported by evidence from numerical
+simulations [ Phys. Rev. Lett., {\bf 89} (2002) 104303], have been disputed by
+Bonachela et al. [Phys. Rev. E {\bf 74} (2004) 050102] for sandpiles with no
+preferred direction. We discuss possible reasons for the discrepancy. Our new
+results of longer simulations of the one-dimensional undirected model fully
+support our earlier conclusions.

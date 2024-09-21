@@ -1,0 +1,8 @@
+This note is sketching a simple and natural mathematical construction for
+explaining the probabilistic nature of quantum mechanics. It employs
+nonstandard analysis and is based on Feynman's interpretation of the Heisenberg
+uncertainty principle, i.e., of the quantum fluctuations, which was brought to
+the forefront in some fractal approaches. It results, as in Nelson's stochastic
+mechanics, in stochastic differential equations which are deduced from
+infinitesimal random walks. An extended english abstract gives most of the
+details.

@@ -1,0 +1,7 @@
+We consider a quantum dot in the regime of the quantum Hall effect,
+particularly in Laughlin states and non-Abelian Read-Rezayi states. We find the
+location of the Coulomb blockade peaks in the conductance as a function of the
+area of the dot and the magnetic field. When the magnetic field is fixed and
+the area of the dot is varied, the peaks are equally spaced for the Laughlin
+states. In contrast, non-Abelian statistics is reflected in modulations of the
+spacing which depend on the magnetic field.

@@ -1,0 +1,11 @@
+We investigate the mechanisms of histone sliding and detachment with a
+stochastic model that couples thermally-induced, passive histone sliding with
+active motor-driven histone unwrapping. Analysis of a passive loop or twist
+defect-mediated histone sliding mechanism shows that diffusional sliding is
+enhanced as larger portions of the DNA is peeled off the histone. The mean
+times to histone detachment and the mean distance traveled by the motor complex
+prior to histone detachment are computed as functions of the intrinsic speed of
+the motor. Fast motors preferentially induce detachment over sliding. However,
+for a fixed motor speed, increasing the histone-DNA affinity (and thereby
+decreasing the passive sliding rate) increases the mean distance traveled by
+the motor.

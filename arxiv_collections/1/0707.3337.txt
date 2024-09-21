@@ -1,0 +1,10 @@
+Given a surface in an asymptotically flat 3-manifold with nonnegative scalar
+curvature, we derive an upper bound for the capacity of the surface in terms of
+the area of the surface and the Willmore functional of the surface. The
+capacity of a surface is defined to be the energy of the harmonic function
+which equals 0 on the surface and goes to 1 at infinity. Even in the special
+case of Euclidean space, this is a new estimate. More generally, equality holds
+precisely for a spherically symmetric sphere in a spatial Schwarzschild
+3-manifold. As applications, we obtain inequalities relating the capacity of
+the surface to the Hawking mass of the surface and the total mass of the
+asymptotically flat manifold.

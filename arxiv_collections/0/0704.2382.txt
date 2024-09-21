@@ -1,0 +1,10 @@
+A spectroscopic method for staggered fermions based on thermodynamical
+considerations is proposed. The canonical partition functions corresponding to
+the different quark number sectors are expressed in the low temperature limit
+as polynomials of the eigenvalues of the reduced fermion matrix. Taking the
+zero temperature limit yields the masses of the lowest states. The method is
+successfully applied to the Goldstone pion and both dynamical and quenched
+results are presented showing good agreement with that of standard
+spectroscopy. Though in principle the method can be used to obtain the baryon
+and dibaryon masses, due to their high computational costs such calculations
+are practically unreachable.

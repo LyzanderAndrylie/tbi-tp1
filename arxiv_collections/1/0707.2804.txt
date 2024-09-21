@@ -1,0 +1,11 @@
+A system of generalized kinetic equations for the distribution functions of
+two-dimensional Dirac fermions scattered by impurities is derived in the Born
+approximation with respect to short-range impurity potential. It is proven that
+the conductivity following from classical Boltzmann equation picture, where
+electrons or holes have scattering amplitude reduced due chirality, is
+justified except for an exponentially narrow range of chemical potential near
+the conical point. When in this range, creation of infinite number of
+electron-hole pairs related to quasi-relativistic nature of electrons in
+graphene results in a renormalization of minimal conductivity as compared to
+the Boltzmann term and logarithmic corrections in the conductivity similar to
+the Kondo effect.

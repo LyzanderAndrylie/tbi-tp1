@@ -1,0 +1,7 @@
+The interaction between itinerant and Mott localized electronic states in
+strongly correlated materials is studied within dynamical mean field theory in
+combination with the numerical renormalization group method. A novel
+nonmagnetic zero temperature quantum phase transition is found in the
+bad-metallic orbital-selective Mott phase of the two-band Hubbard model, for
+values of the Hund's exchange which are relevant to typical transition metal
+oxides.

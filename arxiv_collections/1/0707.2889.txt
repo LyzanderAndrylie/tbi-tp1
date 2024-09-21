@@ -1,0 +1,8 @@
+A $d$-dimensional binary Markov random field on a lattice torus is
+considered. As the size $n$ of the lattice tends to infinity, potentials
+$a=a(n)$ and $b=b(n)$ depend on $n$. Precise bounds for the probability for
+local configurations to occur in a large ball are given. Under some conditions
+bearing on $a(n)$ and $b(n)$, the distance between copies of different local
+configurations is estimated according to their weights. Finally, a sufficient
+condition ensuring that a given local configuration occurs everywhere in the
+lattice is suggested.

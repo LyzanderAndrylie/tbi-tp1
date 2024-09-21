@@ -1,0 +1,9 @@
+Using the collective variables (CV) method the basic relations of statistical
+field theory of a multicomponent non-homogeneous fluids are reconsidered. The
+corresponding CV action depends on two sets of scalar fields - fields
+$\rho_{\alpha}$ connected to the local density fluctuations of the $\alpha$th
+species of particles and fields $\omega_{\alpha}$ conjugated to
+$\rho_{\alpha}$. The explicit expressions for the CV field correlations and
+their relation to the density correlation functions are found. The perturbation
+theory is formulated and a mean field level (MF) of the theory is considered in
+detail.

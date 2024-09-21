@@ -1,0 +1,5 @@
+A general result on the method of randomized stopping is proved. It is
+applied to optimal stopping of controlled diffusion processes with unbounded
+coefficients to reduce it to an optimal control problem without stopping. This
+is motivated by recent results of Krylov on numerical solutions to the Bellman
+equation.

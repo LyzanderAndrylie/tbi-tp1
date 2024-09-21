@@ -1,0 +1,14 @@
+The aim of this note is to introduce a compound basis for the space of
+symmetric functions. Our basis consists of products of Schur functions and
+$Q$-functions. The basis elements are indexed by the partitions. It is well
+known that the Schur functions form an orthonormal basis for our space. A
+natural question arises. How are these two bases connected? In this note we
+present some numerical results of the transition matrix for these bases. In
+particular we will see that the determinant of the transition matrix is a power
+of 2. This is not a surprising fact. However the explicit formula involves an
+interesting combinatorial feature.
+  Our compound basis comes from the twisted homogeneous realization of the
+basic representation of the affine Lie algebras.
+  This note is not written in a standard style of mathematical articles. It is
+more like a draft of a talk. In particular proofs are not given here. Details
+and proofs will be published elsewhere.

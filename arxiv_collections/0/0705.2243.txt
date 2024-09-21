@@ -1,0 +1,16 @@
+Although one-time pad encrypted files can be sent through Internet channels,
+the need for renewing shared secret keys have made this method unpractical.
+This work presents a scheme to turn practical the fast sharing of random keys
+over arbitrary Internet channels. Starting with a shared secret key sequence of
+length K_0 the users end up with a secure new sequence K >> K_0. Using these
+sequences for posteriori message encryption the legitimate users have absolute
+security control without the need for third parties. Additionally, the security
+level does not depend on the unproven difficulty of factoring numbers in
+primes. In the proposed scheme a fast optical random source generates random
+bits and noise for key renewals. The transmitted signals are recorded signals
+that carries both the random binary signals to be exchanged and physical noise
+that cannot be eliminated by the attacker. These signals allow amplification
+over the Internet network without degrading security. The proposed system is
+also secure against a-posteriori known-plaintext attack on the key.
+Information-theoretic analysis is presented and bounds for secure operation are
+quantitatively determined.

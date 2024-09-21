@@ -1,0 +1,14 @@
+A comprehensive study of the electronic states at the 4s+5s asymptote in KRb
+is presented. Abundant spectroscopic data on the \astate state were collected
+by Fourier-transform spectroscopy which allow to determine an accurate
+experimental potential energy curve up to 14.8 \AA . The existing data set (C.
+Amiot et al. J. Chem. Phys. 112, 7068 (2000)) on the ground state \Xstate was
+extended by several additional levels lying close to the atomic asymptote. In a
+coupled channels fitting routine complete molecular potentials for both
+electronic states were fitted. Along with the line frequencies of the molecular
+transitions, recently published positions of Feshbach resonances in $^{40}$K
+and $^{87}$Rb mixtures (F. Ferlaino et al. Phys. Rev. A 74, 039903 (2006)) were
+included in the fit. This makes the derived potential curves capable for an
+accurate description of observed cold collision features so far. Predictions of
+scattering lengths and Feshbach resonances in other isotopic combinations are
+reported.

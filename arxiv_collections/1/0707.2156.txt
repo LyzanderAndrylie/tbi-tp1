@@ -1,0 +1,5 @@
+In 1888, Hilbert described how to find real polynomials in more than one
+variable which take only non-negative values but are not a sum of squares of
+polynomials. His construction was so restrictive that no explicit examples
+appeared until the late 1960s. We revisit and generalize Hilbert's construction
+and present many such polynomials.

@@ -1,0 +1,7 @@
+The SuperWASP-I instrument observed 6.7 million stars between 8-15 mag from
+La Palma during the 2004 May-September season. Our transit-hunting algorithm
+selected 11,626 objects from the 184,442 stars within the range RA 18hr-21hr.
+We describe our thorough selection procedure whereby catalogue information is
+exploited along with careful study of the SuperWASP data to filter out, as far
+as possible, transit mimics. We have identified 35 candidates which we
+recommend for follow-up observations.

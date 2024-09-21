@@ -1,0 +1,3 @@
+For large enough aspect ratio, we find better stroke patterns then the
+patterns proposed by D. Tam and A.P.Hosoi in their letter to PRL "Optimal
+Stroke Patterns for Purcell's Three-Link Swimmer".

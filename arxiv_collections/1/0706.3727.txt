@@ -1,0 +1,14 @@
+Density Matrix Renormalization Group (DMRG) calculations on 4-leg t-J and
+Hubbard ladders have found a phase exhibiting "stripes" at intermediate doping.
+Such behavior can be viewed as generalized Friedel oscillations, with
+wavelength equal to the inverse hole density, induced by the open boundary
+conditions. So far, this phase has not been understood using the conventional
+weak coupling bosonization approach. Based on studies from a general
+bosonization proof, finite size spectrum, an improved analysis of weak coupling
+renormalization group equations and the decoupled 2-leg ladders limit, we here
+find new types of phases of 4-leg ladders which exhibit "stripes". They also
+inevitably exhibit "bipairing", meaning that there is a gap to add 1 or 2
+electrons (but not 4) and that both single electron and electron pair
+correlation functions decay exponentially while correlation functions of charge
+4 operators exhibit power-law decay. Whether or not bipairing occurs in the
+stripe phase found in DMRG is an important open question.

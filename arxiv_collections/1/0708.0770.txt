@@ -1,0 +1,14 @@
+We study the entanglement properties of two three-level Rydberg atoms passing
+through a single-mode cavity. The interaction of an atom with the cavity field
+allows the atom to make a transition from the upper most (lower most) to the
+lower most (upper most) level by emission (absoprtion) of two photons via the
+middle level. We employ an effective Hamiltonian that describes the system with
+a Stark shifted two-photon atomic transition. We compute the entanglement of
+formation of the joint two-atom state as a function of Rabi angle $gt$. It is
+shown that the Stark shift can be used to enhance the magnitude of atomic
+entanglement over that obtained in the resonant condition for certain parameter
+values. We find that though the two-atom entanglement generally diminishes with
+the increase of the two-photon detuning and the Stark shift, it is possible to
+sustain the entanglement over a range of interaction times by making the
+detuning and the Stark shift compensate each other. Similar characteristics are
+obtained for a thermal state cavity field too.

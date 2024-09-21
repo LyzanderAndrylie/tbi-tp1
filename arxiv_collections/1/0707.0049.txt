@@ -1,0 +1,14 @@
+We use molecules to couple light into and out of microscale plasmonic
+waveguides. Energy transfer, mediated by surface plasmons, from donor molecules
+to acceptor molecules over ten micrometer distances is demonstrated. Also
+surface plasmon coupled emission from the donor molecules is observed at
+similar distances away from the excitation spot. The lithographic fabrication
+method we use for positioning the dye molecules allows scaling to nanometer
+dimensions. The use of molecules as couplers between far-field and near-field
+light offers the advantages that no special excitation geometry is needed, any
+light source can be used to excite plasmons and the excitation can be localized
+below the diffraction limit. Moreover, the use of molecules has the potential
+for integration with molecular electronics and for the use of molecular
+self-assembly in fabrication. Our results constitute a proof-of-principle
+demonstration of a plasmonic waveguide where signal in- and outcoupling is done
+by molecules.

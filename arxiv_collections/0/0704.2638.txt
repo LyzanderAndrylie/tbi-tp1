@@ -1,0 +1,12 @@
+We prove that any class $VII$ surface with $b_2=1$ has curves. This implies
+the "Global Spherical Shell conjecture" in the case $b_2=1$: Any minimal class
+$VII$ surface with $b_2=1$ admits a global spherical shell, hence it is
+isomorphic to one of the surfaces in the known list. The main idea of the proof
+is to show that a certain moduli space of PU(2)-instantons on a surface $X$
+with no curves (if such a surface existed) would contain a closed Riemann
+surface $Y$ whose general points correspond to non-filtrable holomorphic
+bundles on $X$. Then we pass from a family of bundles on $X$ parameterized by
+$Y$ to a family of bundles on $Y$ parameterized by $X$, and we use the
+algebraicity of $Y$ to obtain a contradiction. The proof uses essentially
+techniques from Donaldson theory: compactness theorems for moduli spaces of
+PU(2)-instantons and the Kobayashi-Hitchin correspondence on surfaces.

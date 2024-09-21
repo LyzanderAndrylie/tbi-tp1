@@ -1,0 +1,8 @@
+By means of left quasigroups L=(L, .) and ternary systems, we construct
+dynamical Yang-Baxter maps associated with L, L, and (.) satisfying an
+invariance condition that the binary operation (.) of the left quasigroup L
+defines. Conversely, this construction characterize such dynamical Yang-Baxter
+maps. The unitary condition of the dynamical Yang-Baxter map is discussed.
+Moreover, we establish a correspondence between two dynamical Yang-Baxter maps
+constructed in this paper. This correspondence produces a version of the
+vertex-IRF correspondence.

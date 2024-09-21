@@ -1,0 +1,10 @@
+We investigate the dynamics of super-inflation in two versions of Loop
+Quantum Cosmology, one in which the Friedmann equation is modified by the
+presence of inverse volume corrections, and one in which quadratic corrections
+are important. Computing the tilt of the power spectrum of the perturbed scalar
+field in terms of fast-roll parameters, we conclude that the first case leads
+to a power spectrum that is scale invariant for steep power law negative
+potentials and for the second case, scale invariance is obtained for positive
+potentials that asymptote to a constant value for large values of the scalar
+field. It is found that in both cases, the horizon problem is solved with only
+a few e-folds of super-inflationary evolution.

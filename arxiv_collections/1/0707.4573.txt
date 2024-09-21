@@ -1,0 +1,11 @@
+The existence of a finite threshold, the yield stress, for the onset of
+plastic yielding is a universal feature of plasticity. This jamming-unjamming
+transition is naturally accounted for by the dynamics of a bistable internal
+state field. We show, within the athermal Shear Transformation Zones (STZ)
+theory of amorphous plasticity, that the transition is accompanied by the
+propagation of plastic fronts. We further show that the mean-field theory
+cannot select the velocity of these fronts and go beyond the mean-field
+description to include fluctuations and correlations effects, resulting in new
+nonlocal terms in the equations. Finally, we demonstrate that the new terms,
+with an associated intrinsic lengthscale, provide a velocity selection
+mechanism for the plastic fronts.

@@ -1,0 +1,13 @@
+In this work, we introduce a special kind of quantum cloning machine called
+Hybrid quantum cloning machine. The introduced Hybrid quantum cloning machine
+or transformation is nothing but a combination of pre-existing quantum cloning
+transformations. In this sense it creates its own identity in the field of
+quantum cloners. Hybrid quantum cloning machine can be of two types: (i) State
+dependent and (ii) State independent or Universal. We study here the above two
+types of Hybrid quantum cloning machines. Later we will show that the state
+dependent hybrid quantum-cloning machine can be applied on only four input
+states. We will also find in this paper another asymmetric universal quantum
+cloning machine constructed from the combination of optimal universal B-H
+quantum cloning machine and universal anti-cloning machine. The fidelities of
+the two outputs are different and their values lie in the neighborhood of
+${5/6} $

@@ -1,0 +1,9 @@
+A stratified sampling plan to audit health insurance claims is offered. The
+stratification is by dollar amount of the claim. The plan is representative in
+the sense that with high probability for each stratum, the difference in the
+average dollar amount of the claim in the sample and the average dollar amount
+in the population, is ``small.'' Several notions of ``small'' are presented.
+The plan then yields a relatively small total sample size with the property
+that the overall average dollar amount in the sample is close to the average
+dollar amount in the population. Three different estimators and corresponding
+lower confidence bounds for over (under) payments are studied.

@@ -1,0 +1,11 @@
+This work is dedicated to a new completely algebraic approach to Arakelov
+geometry, which doesn't require the variety under consideration to be
+generically smooth or projective. In order to construct such an approach we
+develop a theory of generalized rings and schemes, which include classical
+rings and schemes together with "exotic" objects such as F_1 ("field with one
+element"), Z_\infty ("real integers"), T (tropical numbers) etc., thus
+providing a systematic way of studying such objects.
+  This theory of generalized rings and schemes is developed up to construction
+of algebraic K-theory, intersection theory and Chern classes. Then existence of
+Arakelov models of algebraic varieties over Q is shown, and our general results
+are applied to such models.

@@ -1,0 +1,9 @@
+We prove that the gonality among the smooth curves in a complete linear
+system on a $K3$ surface is constant except for the Donagi-Morrison example.
+This was proved by Ciliberto and Pareschi under the additional condition that
+the linear system is ample.
+  As a consequence we prove that exceptional curves on $K3$ surfaces satisfy
+the Eisenbud-Lange-Martens-Schreyer conjecture and explicitly describe such
+curves. They turn out to be natural extensions of the
+Eisenbud-Lange-Martens-Schreyer examples of exceptional curves on $K3$
+surfaces.

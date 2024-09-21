@@ -1,0 +1,8 @@
+We examine how the generation and propagation of high-order harmonics in a
+partly ionized gas medium affect their strength and synchronization. The
+temporal properties of the resulting attosecond pulses generated in long gas
+targets can be significantly influenced by macroscopic effects, in particular
+by the intensity in the medium and the degree of ionization. Under some
+conditions, the use of gas targets longer than the absorption length can lead
+to the generation of self-compressed attosecond pulses. We show this effect
+experimentally, using long argon-filled gas cells as generating medium.

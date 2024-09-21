@@ -1,0 +1,11 @@
+The work proposes the application of neural networks with particle swarm
+optimisation (PSO) and genetic algorithms (GA) to compensate for missing data
+in classifying high voltage bushings. The classification is done using DGA data
+from 60966 bushings based on IEEEc57.104, IEC599 and IEEE production rates
+methods for oil impregnated paper (OIP) bushings. PSO and GA were compared in
+terms of accuracy and computational efficiency. Both GA and PSO simulations
+were able to estimate missing data values to an average 95% accuracy when only
+one variable was missing. However PSO rapidly deteriorated to 66% accuracy with
+two variables missing simultaneously, compared to 84% for GA. The data
+estimated using GA was found to classify the conditions of bushings than the
+PSO.

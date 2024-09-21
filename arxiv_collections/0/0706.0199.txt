@@ -1,0 +1,5 @@
+We present a new method for computing the best approximation to a Killing
+vector on closed 2-surfaces that are topologically S^2. When solutions of
+Killing's equation do not exist, this method is shown to yield results superior
+to those produced by existing methods. In addition, this method appears to
+provide a new tool for studying the horizon geometry of distorted black holes.

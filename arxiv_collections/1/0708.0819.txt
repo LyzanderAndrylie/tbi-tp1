@@ -1,0 +1,9 @@
+We study shot noise in the current of quantum dots whose low-energy behaviour
+corresponds to an SU(N) Kondo model, focusing on the case N=4 relevant to
+carbon nanotube dots. For general N, two-particle Fermi liquid interactions
+have two distinct effects: they can enhance the noise via back-scattering
+processes with an N-dependent effective charge, and can also modify the
+coherent partition noise already present without interactions. For N=4, in
+contrast to the SU(2) case, interactions enhance shot noise solely through an
+enhancement of partition noise. This leads to a non-trivial prediction for
+experiment.

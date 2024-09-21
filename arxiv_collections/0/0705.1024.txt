@@ -1,0 +1,16 @@
+This works presents results of activation-aided determination of threshold
+reaction rates in 92 209Bi, natPb, 197Au, 181Ta, 169Tm, natIn, 93Nb, 64Zn,
+65Cu, 63Cu, 59Co, 19F, and 12C samples and in 121 27Al samples. All the samples
+were aligned with the proton beam axis inside and outside the demountable 92-cm
+thick Pb target of 15-cm diameter assembled of 23 4-cm thick discs. The samples
+were placed on 12 target disks to reproduce the long axis distribution of
+protons and neutrons. In June 2006, the target was exposed for 18 hours to a
+800-MeV proton beam extracted from the ITEP U-10 accelerator. The proton
+fluence and the proton beam shape were determined using the 27Al(p,x)7Be
+monitor reaction. The reaction rates were determined by the direct
+gamma-spectrometry techniques. In total, 1196 gamma-spectra have been measured,
+and about 1500 reaction rates determined. The measured reaction rates were
+simulated by the MCNPX code using the following databases: ENDF/B6 for neutrons
+below 20 MeV, MENDL2 for 20-100 MeV neutrons, and MENDL2P for proton cross
+sections up to 200 MeV. An acceptable agreement of simulations with
+experimental data has been found.

@@ -1,0 +1,8 @@
+We write down the relevant field equations for a stationary axially symmetric
+rigidly rotating dust source in such a way that the general solution depends
+upon the solution of an elliptic equation and upon harmonic functions. Starting
+with the dipole Bonnor solution, we built an asymptotically flat solution with
+two curvature singularities on the rotational axis with diverging mass. Apart
+from the two point singularities on the axis, the metric is regular everywhere.
+Finally, we study a non-asymptotically flat solution with NUT charge and a
+massless ring singularity, but with a well-defined mass-energy expression.

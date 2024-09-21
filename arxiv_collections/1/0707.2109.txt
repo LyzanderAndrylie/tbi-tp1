@@ -1,0 +1,11 @@
+In this paper we develop an analytic expression for the critical temperature
+for a gas of ideal bosons in a combined harmonic lattice potential, relevant to
+current experiments using optical lattices. We give corrections to the critical
+temperature arising from effective mass modifications of the low energy
+spectrum, finite size effects and excited band states. We compute the critical
+temperature using numerical methods and compare to our analytic result. We
+study condensation in an optical lattice over a wide parameter regime and
+demonstrate that the critical temperature can be increased or reduced relative
+to the purely harmonic case by adjusting the harmonic trap frequency. We show
+that a simple numerical procedure based on a piecewise analytic density of
+states provides an accurate prediction for the critical temperature.

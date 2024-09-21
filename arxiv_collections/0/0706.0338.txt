@@ -1,0 +1,16 @@
+A recent analysis by Kadin has noted that the superconducting wavefunction
+within the BCS theory may be represented in real-space as a spherical
+electronic orbital (on the scale of the coherence length) coupled to a
+standing-wave lattice vibration. This lattice vibration, effectively a bound
+phonon, has wavevector 2kf and a near-resonant frequency (on the order of the
+Debye frequency) that maximizes the attractive electrostatic interaction energy
+with the electronic orbital. The present paper extends this picture to a
+coherent standing-wave pattern of electron and phonon waves that traverses the
+entire superconductor on the macroscopic scale. These parallel planes form a
+diffractive waveguide for electron waves traveling parallel to the planes,
+permitting lossless supercurrent. A similar picture may be extended to
+unconventional superconductors such as the cuprates, with an array of standing
+spin waves rather than phonons. Such coherent lattice vibrations should be
+universal and distinctive indicators of the superconducting state, and should
+be observable below Tc using standard x-ray and neutron diffraction techniques.
+Further implications of this picture are discussed.

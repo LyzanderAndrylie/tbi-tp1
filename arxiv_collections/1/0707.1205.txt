@@ -1,0 +1,12 @@
+We revisit a classic study [D. S. Hall {\it et al.}, Phys. Rev. Lett. {\bf
+81}, 1539 (1998)] of interpenetrating Bose-Einstein condensates in the
+hyperfine states $\ket{F = 1, m_f = -1}\equiv\ket{1}$ and $\ket{F = 2, m_f =
++1}\equiv\ket{2}$ of ${}^{87}$Rb and observe striking new non-equilibrium
+component separation dynamics in the form of oscillating ring-like structures.
+The process of component separation is not significantly damped, a finding that
+also contrasts sharply with earlier experimental work, allowing a clean first
+look at a collective excitation of a binary superfluid. We further demonstrate
+extraordinary quantitative agreement between theoretical and experimental
+results using a multi-component mean-field model with key additional features:
+the inclusion of atomic losses and the careful characterization of trap
+potentials (at the level of a fraction of a percent).

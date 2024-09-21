@@ -1,0 +1,12 @@
+We propose a combined experimental (Atomic Force Microscopy) and theoretical
+study of the structural and dynamical properties of nucleosomes. In contrast to
+biochemical approaches, this method allows to determine simultaneously the DNA
+complexed length distribution and nucleosome position in various contexts.
+First, we show that differences in the nucleo-proteic structure observed
+between conventional H2A and H2A.Bbd variant nucleosomes induce quantitative
+changes in the in the length distribution of DNA complexed with histones. Then,
+the sliding action of remodeling complex SWI/SNF is characterized through the
+evolution of the nucleosome position and wrapped DNA length mapping. Using a
+linear energetic model for the distribution of DNA complexed length, we extract
+the net wrapping energy of DNA onto the histone octamer, and compare it to
+previous studies.

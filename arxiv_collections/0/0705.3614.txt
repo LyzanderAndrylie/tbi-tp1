@@ -1,0 +1,12 @@
+Let $p$ be prime, $N$ be a positive integer prime to $p$, and $k$ be an
+integer. Let $P_k(t)$ be the characteristic series for Atkin's $U$ operator as
+an endomorphism of $p$-adic overconvergent modular forms of tame level $N$ and
+weight $k$. Motivated by conjectures of Gouvea and Mazur, we strengthen Wan's
+congruence between coefficients of $P_k$ and $P_{k'}$ for $k'$ close
+$p$-adically to $k$. For $p-1 | 12$, $N = 1$, $k = 0$, we compute a matrix for
+$U$ whose entries are coefficients in the power series of a rational function
+of two variables. We apply this computation to show for $p = 3$ a parabola
+below the Newton polygon $N_0$ of $P_0$, which coincides with $N_0$ infinitely
+often. As a consequence, we find a polygonal curve above $N_0$. This tightest
+bound on $N_0$ yields the strongest congruences between coefficients of $P_0$
+and $P_k$ for $k$ of large 3-adic valuation.

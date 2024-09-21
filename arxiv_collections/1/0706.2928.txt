@@ -1,0 +1,10 @@
+Passive scalar turbulence forced steadily is characterized by the velocity
+correlation scale, $L$, injection scale, $l$, and diffusive scale, $r_d$. The
+scales are well separated if the diffusivity is small, $r_d\ll l,L$, and one
+normally says that effects of diffusion are confined to smaller scales, $r\ll
+r_d$. However, if the velocity is single scale one finds that a weak dependence
+of the scalar correlations on the molecular diffusivity persists to even larger
+scales, e.g. $l\gg r\gg r_d$ \cite{95BCKL}. We consider the case of $L\gg l$
+and report a counter-intuitive result -- the emergence of a new range of large
+scales, $L\gg r\gg l^2/r_d$, where the diffusivity shows a strong effect on
+scalar correlations.

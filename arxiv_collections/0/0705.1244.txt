@@ -1,0 +1,10 @@
+The idea of symbolic controllers tries to bridge the gap between the top-down
+manual design of the controller architecture, as advocated in Brooks'
+subsumption architecture, and the bottom-up designer-free approach that is now
+standard within the Evolutionary Robotics community. The designer provides a
+set of elementary behavior, and evolution is given the goal of assembling them
+to solve complex tasks. Two experiments are presented, demonstrating the
+efficiency and showing the recursiveness of this approach. In particular, the
+sensitivity with respect to the proposed elementary behaviors, and the
+robustness w.r.t. generalization of the resulting controllers are studied in
+detail.

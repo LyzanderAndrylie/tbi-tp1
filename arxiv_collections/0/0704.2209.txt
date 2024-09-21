@@ -1,0 +1,18 @@
+Using a large sample of spiral galaxies for which 21 cm single-dish and/or
+long-slit optical spectra are available, we make a detailed comparison between
+various estimates of rotational widths. Different optical width estimators are
+considered and their limitations discussed, with emphasis on biases associated
+with rotation curve properties (shape and extent) and disk central surface
+brightness. The best match with HI rotational velocities is obtained with
+Polyex widths, which are measured at the optical radius (encompassing a fixed
+fraction of the total light of the galaxy) from a model fit to the rotation
+curve. In contrast with Polyex widths, optical rotational velocities measured
+at 2.15 disk scale lengths r_d deviate from HI widths by an amount that
+correlates with the central surface brightness of the disk. This bias occurs
+because the rotation curves of galaxies are in general still rising at 2.15
+r_d, and the fraction of total mass contained within this radius decreases with
+increasing disk surface brightness. Statistical corrections, parameterized by
+the radial extent of the observed rotation curve, are provided to reduce Polyex
+and HI width measurements into a homogeneous system. This yields a single
+robust estimate of rotational velocity to be used for applications of disk
+scaling relations.

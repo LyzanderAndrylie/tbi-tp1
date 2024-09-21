@@ -1,0 +1,14 @@
+We examine the behavior of a one-dimensional superconducting wire exposed to
+an applied electric current. We use the time-dependent Ginzburg-Landau model to
+describe the system and retain temperature and applied current as parameters.
+Through a combination of spectral analysis, asymptotics and canonical numerical
+computation, we divide this two-dimensional parameter space into a number of
+regions. In some of them only the normal state or a stationary state or an
+oscillatory state are stable, while in some of them two states are stable. One
+of the most interesting features of the analysis is the evident collision of
+real eigenvalues of the associated PT-symmetric linearization, leading as it
+does to the emergence of complex elements of the spectrum. In particular this
+provides an explanation to the emergence of a stable oscillatory state. We show
+that part of the bifurcation diagram and many of the emerging patterns are
+directly controlled by this spectrum, while other patterns arise due to
+nonlinear interaction of the leading eigenfunctions.

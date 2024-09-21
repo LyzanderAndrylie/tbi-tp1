@@ -1,0 +1,18 @@
+We present the results of the analysis of an archival 15 ks XMM-Newton
+observation of the nearby (z=0.057) radio-loud source 3C445, optically
+classified as a Broad-Line Radio Galaxy. While the RGS data are of insufficient
+quality to allow a meaningful analysis, the EPIC data show a remarkable X-ray
+spectrum. The 2-10 keV continuum is described by a heavily absorbed (Nh~ 1e22 -
+1e23 cm-2) power law with photon index Gamma ~1.4, and strong (R~2) cold
+reflection. A narrow, unresolved Fe Kalpha emission line is detected,
+confirming previous findings, with EW 120eV. A soft excess is present below 2
+keV over the extrapolation of the hard X-ray power law, which we model with a
+power law with the same photon index as the hard power law, absorbed by a
+column density Nh=6e20 cm-2 in excess to Galactic. A host of emission lines are
+present below 2 keV, confirming previous indications from ASCA, due to H- and
+He-like O, Mg, and Si. We attribute the origin of the lines to a photoionized
+gas, with properties very similar to radio-quiet obscured AGN. Two different
+ionized media, or a single stratified medium, are required to fit the soft
+X-ray data satisfactorily. The similarity of the X-ray spectrum of 3C445 to
+Seyferts underscores that the central engines of radio-loud and radio-quiet AGN
+similarly host both cold and warm gas.

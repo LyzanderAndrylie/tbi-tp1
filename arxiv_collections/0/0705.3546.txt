@@ -1,0 +1,7 @@
+The hidden symmetry and an infinite set non-local conserved currents of the
+Green-Schwarz superstring on $AdS_5\otimes S^5$ have been pointed out by Bena
+et al. In this paper, we shown that the Hodge dual between the Maurer-Cartan
+equation and the equation of motion gives the hidden symmetry in the moduli
+space of Green-Schwarz superstring. Thus by twisty transforming the vielbeins,
+we can express the currents of the paper$^{\cite{bpr}}$ as the Lax connections
+by a unique spectral parameter.

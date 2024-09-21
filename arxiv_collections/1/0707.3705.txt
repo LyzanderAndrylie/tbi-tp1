@@ -1,0 +1,8 @@
+We report results for the ground state energies and wave functions obtained
+by projecting spatially unrestricted Hartree Fock states to eigenstates of the
+total spin and the angular momentum for harmonic quantum dots with $N\leq 12$
+interacting electrons including a magnetic field states with the correct
+spatial and spin symmetries have lower energies than those obtained by the
+unrestricted method. The chemical potential as a function of a perpendicular
+magnetic field is obtained. Signature of an intrinsic spin blockade effect is
+found.

@@ -1,0 +1,15 @@
+This paper attempts to define a generalisation of the standard Einstein
+condition (in conformal/metric geometry) to any parabolic geometry. To do so,
+it shows that any preserved involution $\sigma$ of the adjoint bundle $\mc{A}$
+gives rise, given certain algebraic conditions, to a unique preferred affine
+connection $\nabla$ with covariantly constant rho-tensor $\mathsf{P}$,
+compatible with the algebraic bracket on $\mc{A}$. These conditions can
+reasonably be considered the generalisations of the Einstein condition, and
+recreate the standard Einstein condition in conformal geometry. The existence
+of such an involution is implies by some simpler structures: preserved metrics
+when the overall algebra $\mf{g}$ is $\mf{sl}(m,\mbb{F})$, preserved complex
+structures anti-commuting with the skew-form for $\mf{g}=\mf{sp}(2m,\mbb{F})$,
+and preserved subundles of the tangent bundle, of a certain rank, for all the
+other non-exceptional simple Lie algebras. Examples of Einstein involutions are
+constructed or referenced for several geometries. The existence of cone
+constructions for certain Einstein involutions is then demonstrated.

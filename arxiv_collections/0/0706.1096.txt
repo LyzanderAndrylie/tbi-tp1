@@ -1,0 +1,12 @@
+Mobile multi-hop ad hoc networks allow establishing local groups of
+communicating devices in a self-organizing way. However, in a global setting
+such networks fail to work properly due to network partitioning. Providing that
+devices are capable of communicating both locally-e.g. using Wi-Fi or
+Bluetooth-and additionally also with arbitrary remote devices-e.g. using
+GSM/UMTS links-the objective is to find efficient ways of inter-linking
+multiple network partitions. Tackling this problem of topology control, we
+focus on the class of small-world networks that obey two distinguishing
+characteristics: they have a strong local clustering while still retaining a
+small average distance between two nodes. This paper reports on results gained
+investigating the question if small-world properties are indicative for an
+efficient link management in multiple multi-hop ad hoc network partitions.

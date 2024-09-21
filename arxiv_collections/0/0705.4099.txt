@@ -1,0 +1,10 @@
+We study the character of an Ising nematic quantum phase transition (QPT)
+deep inside a d-wave superconducting state with nodal quasiparticles in a
+two-dimensional tetragonal crystal. We find that, within a 1/N expansion, the
+transition is continuous. To leading order in 1/N, quantum fluctuations enhance
+the dispersion anisotropy of the nodal excitations, and cause strong scattering
+which critically broadens the quasiparticle (qp) peaks in the spectral
+function, except in a narrow wedge in momentum space near the Fermi surface
+where the qp's remain sharp. We also consider the possible existence of a
+nematic glass phase in the presence of weak disorder. Some possible
+implications for cuprate physics are also discussed.

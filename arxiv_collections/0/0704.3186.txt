@@ -1,0 +1,6 @@
+The dynamical mass generation for gluons is discussed in Euclidean Yang-Mills
+theories supplemented with a renormalizable mass term. The mass parameter is
+not free, being determined in a self-consistent way through a gap equation
+which obeys the renormalization group. The example of the Landau gauge is
+worked out explicitly at one loop order. A few remarks on the issue of the
+unitarity are provided.

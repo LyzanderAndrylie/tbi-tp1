@@ -1,0 +1,4 @@
+In paper found conditions that guarantee that solution of Loewner-Kufarev
+equation maps unit disc onto domain with quasiconformal rectifiable boundary,
+or it has continuation on closed unit disc, or it's inverse function has
+continuation on closure of domain.

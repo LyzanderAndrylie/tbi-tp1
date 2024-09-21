@@ -1,0 +1,9 @@
+In 1998 the Adapted Ordering Method was developed for the representation
+theory of the superconformal algebras in two dimensions. It allows: to
+determine maximal dimensions for a given type of space of singular vectors, to
+identify all singular vectors by only a few coefficients, to spot subsingular
+vectors and to set the basis for constructing embedding diagrams. In this
+article we present the Adapted Ordering Method for general Lie algebras and
+superalgebras, and their generalizations, provided they can be triangulated. We
+also review briefly the results obtained for the Virasoro algebra and for the
+N=2 and Ramond N=1 superconformal algebras.

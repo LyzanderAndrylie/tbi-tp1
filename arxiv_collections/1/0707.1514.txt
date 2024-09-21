@@ -1,0 +1,8 @@
+We show that charge noise $S_Q$ in Josephson qubits can be produced by
+fluctuating two level systems (TLS) with electric dipole moments in the
+substrate using a flat density of states. At high frequencies the frequency and
+temperature dependence of the charge noise depends on the ratio $J/J_c$ of the
+electromagnetic flux $J$ to the critical flux $J_c$. It is not widely
+appreciated that TLS in small qubits can easily be strongly saturated with
+$J/J_c\gg 1$. Our results are consistent with experimental conclusions that
+$S_Q\sim 1/f$ at low frequencies and $S_Q\sim f$ at high frequencies.

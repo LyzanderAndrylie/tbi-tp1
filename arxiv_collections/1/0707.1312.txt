@@ -1,0 +1,20 @@
+The ExoMars mission of the program Aurora (ESA) aims to send a vehicle
+(Rover) on Mars in 2013. Beyond the technological aspects of the mission, the
+Rover will also carry scientific instruments for the analysis of Mars
+subsurface to search traces of past or present life in the Martian soil. The
+Rover will embark a drilling machine which will give access to samples of
+sub-surface of Mars to 2 meters depth. This constitutes the great originality
+of ExoMars, because the Mars sub-surface remains still unknown and seems to be
+the best place to shelter good conditions to create life. This drilling machine
+will be guided by a radar system sounder UHF, the WISDOM instrument, which will
+also make possible to probe the Mars sub-surface to a few meters of depth to
+detect water and to study the geological structures. We have analytical and
+numerical electromagnetic models to simulate the behavior of an electromagnetic
+wave in the Mars sub-surface, but also to simulate the interactions between the
+wave and the structure of the Rover. The objective of the work which we present
+consists in the study of the factors able to create disturbances of
+measurements in order to correct the effects on the measured signal. Initially
+we present the solution which we retained in order to be able during the same
+calculation to simulate the displacement of the Rover on several tens of
+meters. We also present the results relating to the effect of the orientation
+of the antenna during displacement due to topography of the observation site.

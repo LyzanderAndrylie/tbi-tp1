@@ -1,0 +1,4 @@
+In this paper, we consider a dynamical system related to the Yang-Mills
+system for a field with gauge group SU(2). We solve this system in terms of
+genus two hyperelliptic functions and we show that it is algebraic completely
+integrable in the generalized sense.

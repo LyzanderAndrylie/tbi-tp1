@@ -1,0 +1,22 @@
+Conformational gel analysis and graphics systematically identifies and
+evaluates plausible alternatives to the side chain conformations found by
+conventional peptide or protein structure determination methods. The proposed
+analysis determines the populations of side chain rotational isomers and the
+probability distribution of these populations. The following steps are repeated
+for each side chain of a peptide or protein: first, extract the local molecular
+mechanics of side chain rotational isomerization from a single representative
+global conformation; second, expand the predominant set of rotational isomers
+to include all probable rotational isomers down to those that constitute just a
+small percentage of the population; and third, evaluate the constraints vicinal
+coupling constants and NOESY cross relaxation rates place on rotational isomer
+populations. In this article we apply conformational gel analysis to the cobalt
+glycyl-leucine dipeptide and detail the steps necessary to generalize the
+analysis to other amino acid side chains in other peptides and proteins. For a
+side chain buried within a protein interior, it is noteworthy that the set of
+probable rotational isomers may contain one or more rotational isomers that are
+not identified by conventional NMR structure determination methods. In cases
+such as this the conformational gel graphics fully accounts for the interplay
+of molecular mechanics and NMR data constraints on the population estimates.
+The analysis is particularly suited to identifying side chain rotational
+isomers that constitute a small percentage of the population, but nevertheless
+might be structurally and functionally very significant.

@@ -1,0 +1,6 @@
+We present a classification of three-qubit states based in their three-qubit
+and reduced two-qubit entanglements. For pure states these criteria can be
+easily implemented, and the different types can be related with sets of
+equivalence classes under Local Unitary operations. For mixed states
+characterization of full tripartite entanglement is not yet solved in general;
+some partial results will be presented here.

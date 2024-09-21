@@ -1,0 +1,14 @@
+Magnetic resonance imaging at ultra-low fields (ULF MRI) is a promising new
+imaging method that uses SQUID sensors to measure the spatially encoded
+precession of pre-polarized nuclear spin populations at a microtesla-range
+measurement field. In this work, a seven-channel SQUID system designed for
+simultaneous 3D ULF MRI and magnetoencephalography (MEG) is described. The
+system includes seven second-order SQUID gradiometers, characterized by
+magnetic field resolutions of 1.2 - 2.8 fT/rtHz. It is also equipped with five
+sets of coils for 3D Fourier imaging with pre-polarization. Essential technical
+details of the design are discussed. The system's ULF MRI performance is
+demonstrated by multi-channel 3D images of a preserved sheep brain acquired at
+46 microtesla measurement field with pre-polarization at 40 mT. The imaging
+resolution is 2.5 mm x 2.5 mm x 5 mm. The ULF MRI images are compared to images
+of the same brain acquired using conventional high-field MRI. Different ways to
+improve imaging SNR are discussed.

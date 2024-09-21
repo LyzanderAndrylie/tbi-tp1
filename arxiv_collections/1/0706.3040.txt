@@ -1,0 +1,10 @@
+We demonstrate experimentally that structural perturbations imposed on
+highly-dispersive photonic crystal-based waveguides give rise to spectral
+features that bear signatures of Anderson localization. Sharp resonances with
+the effective Qs of over 30,000 are found in scattering spectra of disordered
+waveguides. The resonances are observed in a ~20-nm bandwidth centered at the
+cutoff of slowly-guided Bloch-modes. Their origin can be explained with
+interference of coherently scattered electromagnetic waves which results in the
+formation of a narrow impurity (or localization) band populated with spectrally
+distinct quasistates. Standard photon localization criteria are fulfilled in
+the localization band.

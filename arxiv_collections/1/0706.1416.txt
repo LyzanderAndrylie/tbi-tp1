@@ -1,0 +1,17 @@
+As well known, the b-boundaries of the closed Friedman world model and of
+Schwarzschild solution consist of a single point. We study this phenomenon in a
+broader context of differential and structured spaces. We show that it is an
+equivalence relation $\rho $, defined on the Cauchy completed total space
+$\bar{E}$ of the frame bundle over a given space-time, that is responsible for
+this pathology. A singularity is called malicious if the equivalence class
+$[p_0]$ related to the singularity remains in close contact with all other
+equivalence classes, i.e., if $p_0 \in \mathrm{cl}[p]$ for every $p \in E$. We
+formulate conditions for which such a situation occurs. The differential
+structure of any space-time with malicious singularities consists only of
+constant functions which means that, from the topological point of view,
+everything collapses to a single point. It was noncommutative geometry that was
+especially devised to deal with such situations. A noncommutative algebra on
+$\bar{E}$, which turns out to be a von Neumann algebra of random operators,
+allows us to study probabilistic properties (in a generalized sense) of
+malicious singularities. Our main result is that, in the noncommutative regime,
+even the strongest singularities are probabilistically irrelevant.

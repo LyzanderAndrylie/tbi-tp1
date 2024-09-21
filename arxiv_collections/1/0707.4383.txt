@@ -1,0 +1,10 @@
+We present the novel approach to the Bose-Hubbard model using the
+$\mathrm{U}(1)$ quantum rotor description. The effective action formalism
+allows us to formulate a problem in the phase only action and obtain an
+analytical formulas for the critical lines. We show that the nontrivial
+$\mathrm{U}(1)$ phase field configurations have an impact on the phase
+diagrams. The topological character of the quantum field is governed by terms
+of the integer charges - winding numbers. The comparison presented results to
+recently obtained quantum Monte Carlo numerical calculations suggests that the
+competition between quantum effects in strongly interacting boson systems is
+correctly captured by our model.

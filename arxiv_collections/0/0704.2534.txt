@@ -1,0 +1,7 @@
+We consider the nonlinear Schroedinger equation in higher dimension with
+Dirichlet boundary conditions and with a non-local smoothing nonlinearity. We
+prove the existence of small amplitude periodic solutions. In the fully
+resonant case we find solutions which at leading order are wave packets, in the
+sense that they continue linear solutions with an arbitrarily large number of
+resonant modes. The main difficulty in the proof consists in solving a "small
+divisor problem" which we do by using a renormalisation group approach.

@@ -1,0 +1,9 @@
+We present a detailed description on how to build a Thin WIre electroStatic
+Trap (TWIST) for ultracold polar molecules. It is the first design of an
+electrostatic trap that can be superimposed directly onto a magneto optical
+trap (MOT). We can thus continuously produce ultracold polar molecules via
+photoassociation from a two species MOT and instantaneously trap them in the
+TWIST without the need for complex transfer schemes. Despite the spatial
+overlap of the TWIST and the MOT, the two traps can be operated and optimized
+completely independently due to the complementary nature of the utilized
+trapping mechanisms.

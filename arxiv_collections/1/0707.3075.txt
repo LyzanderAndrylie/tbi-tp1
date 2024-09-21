@@ -1,0 +1,4 @@
+We give a simple proof of the fact that every diagonalizable operator that
+has a real spectrum is quasi-Hermitian and show how the metric operators
+associated with a quasi-Hermitian Hamiltonian are related to the symmetry
+generators of an equivalent Hermitian Hamiltonian.

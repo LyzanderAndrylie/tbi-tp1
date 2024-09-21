@@ -1,0 +1,13 @@
+The observation of neutrino oscillations is clear evidence for physics beyond
+the standard model. To make precise measurements of this phenomenon, neutrino
+oscillation experiments, including MiniBooNE, require an accurate description
+of neutrino charged current quasi-elastic (CCQE) cross sections to predict
+signal samples. Using a high-statistics sample of muon neutrino CCQE events,
+MiniBooNE finds that a simple Fermi gas model, with appropriate adjustments,
+accurately characterizes the CCQE events observed in a carbon-based detector.
+The extracted parameters include an effective axial mass, M_A^eff = 1.23+/-0.20
+GeV, that describes the four-momentum dependence of the axial-vector form
+factor of the nucleon; and a Pauli-suppression parameter, kappa =
+1.019+/-0.011. Such a modified Fermi gas model may also be used by future
+accelerator-based experiments measuring neutrino oscillations on nuclear
+targets.

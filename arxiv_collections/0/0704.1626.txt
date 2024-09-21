@@ -1,0 +1,9 @@
+The magnetic critical properties of two-dimensional Ising spin glasses are
+controversial. Using exact ground state determination, we extract the
+properties of clusters flipped when increasing continuously a uniform field. We
+show that these clusters have many holes but otherwise have statistical
+properties similar to those of zero-field droplets. A detailed analysis gives
+for the magnetization exponent delta = 1.30 +/- 0.02 using lattice sizes up to
+80x80; this is compatible with the droplet model prediction delta = 1.282. The
+reason for previous disagreements stems from the need to analyze both singular
+and analytic contributions in the low-field regime.

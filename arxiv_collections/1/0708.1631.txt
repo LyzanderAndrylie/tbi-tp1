@@ -1,0 +1,17 @@
+We compute the shear viscosity at leading order in hot Quantum
+Electrodynamics. Starting from the Kubo relation for shear viscosity, we use
+diagrammatic methods to write down the appropriate integral equations for
+bosonic and fermionic effective vertices. We also show how Ward identities can
+be used to put constraints on these integral equations. One of our main results
+is an equation relating the kernels of the integral equations with functional
+derivatives of the full self-energy; it is similar to what is obtained with
+two-particle-irreducible effective action methods. However, since we use Ward
+identities as our starting point, gauge invariance is preserved. Using these
+constraints obtained from Ward identities and also power counting arguments, we
+select the necessary diagrams that must be resummed at leading order. This
+includes all non-collinear (corresponding to 2 to 2 scatterings) and collinear
+(corresponding to 1+N to 2+N collinear scatterings) rungs responsible for the
+Landau-Pomeranchuk-Migdal effect. We also show the equivalence between our
+integral equations obtained from quantum field theory and the linearized
+Boltzmann equations of Arnold, Moore and Yaffe obtained using effective kinetic
+theory.

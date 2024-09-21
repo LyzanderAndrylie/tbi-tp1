@@ -1,0 +1,10 @@
+In this article we study the thermal response functions for two
+one-dimensional models, namely the Hubbard and spin-less fermion $t$-$V$
+models. By exactly diagonalizing finite sized systems we calculate dynamical
+electrical, thermoelectrical, and thermal conductivities via the Kubo
+formalism. The thermopower (Seebeck coefficient), Lorenz number, and
+dimensionless figure of merit are then constructed which are quantities of
+great interest to the physics community both theoretically and experimentally.
+We also geometrically frustrate these systems and destroy integrability by the
+inclusion of a second neighbor hop. These frustrated systems are shown to have
+enhanced thermopower and Lorenz number at intermediate and low temperatures.

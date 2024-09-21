@@ -1,0 +1,14 @@
+We use the AdS/CFT correspondence to compute a conductivity associated with
+massive N=2 supersymmetric hypermultiplet fields at finite baryon density,
+propagating through an N=4 supersymmetric SU(Nc) Yang-Mills plasma in the large
+Nc, large 't Hooft coupling limit. We do so by introducing external electric
+and magnetic fields coupled to baryon number and computing the resulting
+induced current, from which we extract the conductivity tensor. At large
+hypermultiplet mass we compute the drag force on the charge carriers. We also
+compute the product of the drag coefficient with the kinetic mass, and find
+that the answer is unchanged from the zero density case. The gravitational dual
+is a probe D7-brane, with a nontrivial worldvolume gauge field configuration,
+in an AdS-Schwarzschild background. We identify an effective horizon on the
+D7-brane worldvolume analogous to the worldsheet horizon observed for strings
+moving in the same background. We generalize our results to a class of theories
+described by probe D-branes in various backgrounds.

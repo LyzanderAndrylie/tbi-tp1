@@ -1,0 +1,6 @@
+We have studied the conformational properties of a flexible end-grafted chain
+(length $N$) with a rigid side chain (length $S$) by means of Monte Carlo
+simulations. Depending on the lengths $N$ and $S$ and the branching site, $b$,
+we observe a considerable straightening of the flexible backbone as quantified
+via the gyration tensor. For $b=N$, i.e. when attaching the side chain to the
+free end of the flexible backbone, the effect was strongest.

@@ -1,0 +1,12 @@
+We analyze how a short distance boundary condition for the Schrodinger
+equation must change as a function of the boundary radius by imposing the
+physical requirement of phase shift independence on the boundary condition. The
+resulting equation can be interpreted as a variable phase equation of a
+complementary boundary value problem. We discuss the corresponding infrared
+fixed points and the perturbative expansion around them generating a short
+distance modified effective range theory. We also discuss ultraviolet fixed
+points, limit cycles and attractors with a given fractality which take place
+for singular attractive potentials at the origin. The scaling behaviour of
+scattering observables can analytically be determined and is studied with some
+emphasis on the low energy nucleon-nucleon interaction via singular pion
+exchange potentials. The generalization to coupled channels is also studied.

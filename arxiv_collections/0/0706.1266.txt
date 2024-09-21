@@ -1,0 +1,13 @@
+The optimized single-particle wave functions contained in the parameters of
+the Hubbard model (t and U) were determined for an infinite atomic chain. In
+effect, the electronic properties of the chain as a function of interatomic
+distance R were obtained and compared for the Lieb - Wu exact solution (LW),
+the Gutzwiller-Wave-Function approximation (GWF), and the Gutzwiller-ansatz
+case (GA). The ground state energy and other characteristics for the infinite
+chain were also compared with those obtained earlier for a nanoscopic chain
+within the Exact Diagonalization combined with an Ab Initio adjustment of the
+single-particle wave functions in the correlated state (EDABI method). For the
+sake of completeness, we briefly characterize also each of the solutions. Our
+approach completes the Lieb-Wu solution, as it provides the system electronic
+properties evolution as a function of physically controllable parameter - the
+interatomic distance.

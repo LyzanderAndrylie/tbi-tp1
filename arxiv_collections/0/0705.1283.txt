@@ -1,0 +1,13 @@
+We present first, encouraging results obtained with an experimental apparatus
+based on Coherent Population Trapping and aimed at detecting biological
+(cardiac) magnetic field in magnetically compensated, but unshielded volume.
+The work includes magnetic-field and magnetic-field-gradient compensation and
+uses differential detection for cancellation of (common mode) magnetic noise.
+Synchronous data acquisition with a reference (electro-cardiographic or
+pulse-oximetric) signal allows for improving the S/N in an off-line averaging.
+The set-up has the relevant advantages of working at room temperature with a
+small-size head, and of allowing for fast adjustments of the dc bias magnetic
+field, which results in making the sensor suitable for detecting the
+bio-magnetic signal at any orientation with respect to the heart axis and in
+any position around the patient chest, which is not the case with other kinds
+of magnetometers.

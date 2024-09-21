@@ -1,0 +1,10 @@
+We present a mathematical model of glucose-lactose diauxic growth in
+Escherichia coli including both the postive and negative regulation mechanisms
+of the lactose operon as well as the inducer exclusion. To validate this model,
+we first calculated the time evolution of beta-galactosidase for only the
+lactose nutrient and compared the numerical results with experimental data.
+Second, we compared the calculated cell biomass of the glucose-lactose diauxic
+growth with the experimental optical density of the diauxic growth for a
+particular E. coli MG 1655. For both cases, the numerical calculations from
+this model are in good agreement with these two experiments' data. The diauxic
+growth pattern of a wild type E. coli was also investigated.

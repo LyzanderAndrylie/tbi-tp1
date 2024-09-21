@@ -1,0 +1,8 @@
+Wave chaos is demonstrated by studying a wave propagation in a periodically
+corrugated wave-guide. In the limit of a short wave approximation (SWA) the
+underlying description is related to the chaotic ray dynamics. In this case the
+control parameter of the problem is characterized by the corrugation amplitude
+and the SWA parameter. The considered model is fairly suitable and tractable
+for the analytical analysis of a wave localization length. The number of
+eigenmodes characterized the width of the localized wave packet is estimated
+analytically.

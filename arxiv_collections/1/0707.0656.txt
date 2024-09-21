@@ -1,0 +1,10 @@
+We show that resonance fluorescence, i.e. the resonant emission of a
+coherently driven two-level system, can be realized with a semiconductor
+quantum dot. The dot is embedded in a planar optical micro-cavity and excited
+in a wave-guide mode so as to discriminate its emission from residual laser
+scattering. The transition from the weak to the strong excitation regime is
+characterized by the emergence of oscillations in the first-order correlation
+function of the fluorescence, g(t), as measured by interferometry. The
+measurements correspond to a Mollow triplet with a Rabi splitting of up to 13.3
+micro eV. Second-order-correlation measurements further confirm non-classical
+light emission.

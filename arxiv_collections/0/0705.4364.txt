@@ -1,0 +1,12 @@
+The objective of this work is twofold: First, we analyze the relation between
+the k-cosymplectic and the k-symplectic Hamiltonian and Lagrangian formalisms
+in classical field theories. In particular, we prove the equivalence between
+k-symplectic field theories and the so-called autonomous k-cosymplectic field
+theories, extending in this way the description of the symplectic formalism of
+autonomous systems as a particular case of the cosymplectic formalism in
+non-autonomous mechanics. Furthermore, we clarify some aspects of the geometric
+character of the solutions to the Hamilton-de Donder-Weyl and the
+Euler-Lagrange equations in these formalisms. Second, we study the equivalence
+between k-cosymplectic and a particular kind of multisymplectic Hamiltonian and
+Lagrangian field theories (those where the configuration bundle of the theory
+is trivial).

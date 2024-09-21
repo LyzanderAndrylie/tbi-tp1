@@ -1,0 +1,8 @@
+Specific heat, electrical resistivity, and magnetic susceptibility
+measurements on a high quality sample of Mg10Ir19B16 provide a self-consistent
+determination of its superconducting properties. They indicate that Mg10Ir19B16
+is a type-II superconductor (Tc=4.45K, k(0)=20), with an electron-phonon
+coupling constant l_ep=0.66. An analysis of the T-dependent specific heat shows
+that superconducting properties are dominated by an s-wave gap (D=0.7 meV).
+Point contact tunneling data provide evidence for multiple superconducting
+gaps, as expected from strong asymmetric spin-orbit coupling.

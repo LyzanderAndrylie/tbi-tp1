@@ -1,0 +1,9 @@
+We study the domain formation in the v=2/3 fractional quantum Hall systems
+basing on the density matrix renormalization group (DMRG) analysis. The
+ground-state energy and the pair correlation functions are calculated for
+various spin polarizations. The results confirm the domain formation in
+partially spin polarized states, but the presence of the domain wall increases
+the energy of partially spin polarized states and the ground state is either
+spin unpolarized state or fully spin polarized state depending on the Zeeman
+energy. We expect coupling with external degrees of freedom such as nuclear
+spins is important to reduce the energy of partially spin polarized state.

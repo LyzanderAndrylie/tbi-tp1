@@ -1,0 +1,13 @@
+Using the 3.6/4.5/5.8/8.0 micron images with 1.2 arcsec pixel resolution from
+the Spitzer/GLIMPSE survey, we investigated 23 masing and 18 very red objects
+that were not identified in the 2MASS survey. Counterparts for all selected
+objects were found in the GLIMPSE images. Color indices in these IR bands
+suggest the presence of a high-extinction layer of more than a few tenths of a
+solar mass in front of the central star. Furthermore, radio observations in the
+SiO and H2O maser lines found characteristic maser-line spectra of the embedded
+objects, e.g., the SiO J=1-0 line intensity in the v=2 state stronger than that
+of the v=1 state, or very widespread H2O maser emission spectra. This indicates
+that these objects are actually enshrouded by very thick circumstellar matter,
+some of which cannot be ascribed to the AGB wind of the central star.
+Individually interesting objects are discussed, including two newly found water
+fountains and an SiO source with nebulosity.

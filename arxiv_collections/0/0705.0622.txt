@@ -1,0 +1,12 @@
+The zero temperature transport properties of two-dimensional lattice systems
+with static random magnetic flux per plaquette and zero mean are investigated
+numerically. We study the two-terminal conductance and its dependence on
+energy, sample size, and magnetic flux strength. The influence of boundary
+conditions and of the oddness of the number of sites in the transverse
+direction is also studied. We confirm the existence of a critical chiral state
+in the middle of the energy band and calculate the critical exponent nu=0.35
++/- 0.03 for the divergence of the localization length. The sample averaged
+scale independent critical conductance <g>_c turns out to be a function of the
+amplitude of the flux fluctuations whereas the variance of the respective
+conductance distributions appears to be universal. All electronic states
+outside of the band center are found to be localized.

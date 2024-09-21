@@ -1,0 +1,20 @@
+We study the induced odd-frequency pairing states in ballistic normal
+metal/superconductor (N/S) junctions where a superconductor has even-frequency
+symmetry in the bulk and a normal metal layer has an arbitrary length. Using
+the quasiclassical Green's function formalism, we demonstrate that, quite
+generally, the pair amplitude in the junction has an admixture of an
+odd-frequency component due to the breakdown of translational invariance near
+the N/S interface where the pair potential acquires spatial dependence. If a
+superconductor has even-parity pair potential (spin-singlet s-wave state), the
+odd-frequency pairing component with odd-parity is induced near the N/S
+interface, while in the case of odd-parity pair potential (spin-triplet
+$p_{x}$-wave or spin-singlet $d_{xy}$-wave) the odd-frequency component with
+even-parity is generated. We show that in conventional s-wave junctions, the
+amplitude of the odd-frequency pairing state is enhanced at energies
+corresponding to the peaks in the local density of states (LDOS). In $p_x$- and
+$d_{xy}$-wave junctions, the amplitude of the odd-frequency component on the S
+side of the N/S interface is enhanced at zero energy where the midgap Andreev
+resonant state (MARS) appears due to the sign change of the pair potential. The
+odd-frequency component extends into the N region and exceeds the
+even-frequency component at energies corresponding to the LDOS peak positions,
+including the MARS.

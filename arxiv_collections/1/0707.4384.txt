@@ -1,0 +1,7 @@
+We present a novel approach for model reduction of nonlinear dynamical
+systems based on proper orthogonal decomposition (POD). Our method, derived
+from Density Matrix Renormalization Group (DMRG), provides a significant
+reduction in computational effort for the calculation of the reduced system,
+compared to a POD. The efficiency of the algorithm is tested on the one
+dimensional Burgers equations and a one dimensional equation of the Fisher type
+as nonlinear model systems.

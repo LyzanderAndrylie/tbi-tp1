@@ -1,0 +1,13 @@
+A dynamical model is proposed to describe the coupled decomposition and
+profile evolution of a free surface film of a binary mixture. An example is a
+thin film of a polymer blend on a solid substrate undergoing simultaneous phase
+separation and dewetting. The model is based on model-H describing the coupled
+transport of the mass of one component (convective Cahn-Hilliard equation) and
+momentum (Navier-Stokes-Korteweg equations) supplemented by appropriate
+boundary conditions at the solid substrate and the free surface.
+  General transport equations are derived using phenomenological
+non-equilibrium thermodynamics for a general non-isothermal setting taking into
+account Soret and Dufour effects and interfacial viscosity for the internal
+diffuse interface between the two components. Focusing on an isothermal setting
+the resulting model is compared to literature results and its base states
+corresponding to homogeneous or vertically stratified flat layers are analysed.

@@ -1,0 +1,19 @@
+The churn rate of a peer-to-peer system places direct limitations on the rate
+at which messages can be effectively communicated to a group of peers. These
+limitations are independent of the topology and message transmission latency.
+In this paper we consider a peer-to-peer network, based on the Engset model,
+where peers arrive and depart independently at random. We show how the arrival
+and departure rates directly limit the capacity for message streams to be
+broadcast to all other peers, by deriving mean field models that accurately
+describe the system behavior. Our models cover the unit and more general k
+buffer cases, i.e. where a peer can buffer at most k messages at any one time,
+and we give results for both single and multi-source message streams. We define
+coverage rate as peer-messages per unit time, i.e. the rate at which a number
+of peers receive messages, and show that the coverage rate is limited by the
+churn rate and buffer size. Our theory introduces an Instantaneous Message
+Exchange (IME) model and provides a template for further analysis of more
+complicated systems. Using the IME model, and assuming random processes, we
+have obtained very accurate equations of the system dynamics in a variety of
+interesting cases, that allow us to tune a peer-to-peer system. It remains to
+be seen if we can maintain this accuracy for general processes and when
+applying a non-instantaneous model.

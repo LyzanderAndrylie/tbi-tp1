@@ -1,0 +1,8 @@
+Luttinger liquid behavior of one-dimensional correlated electron systems is
+characterized by power-law scaling of a variety of physical observables with
+exponents determined by a single interaction dependent parameter K. We suggest
+a setup to study Luttinger liquid behavior in quantum wires which allows to
+determine K from two independent measurements: resonant transport through a
+quantum dot embedded in the wire and the charge on the dot. Consistency of the
+two measured values of K for a single probe would provide strong experimental
+evidence for the Luttinger liquid paradigm.

@@ -1,0 +1,10 @@
+We show that with every separable calssical Stackel system of Benenti type on
+a Riemannian space one can associate, by a proper deformation of the metric
+tensor, a multi-parameter family of non-Hamiltonian systems on the same space,
+sharing the same trajectories and related to the seed system by appropriate
+reciprocal transformations. These system are known as bi-cofactor systems and
+are integrable in quadratures as the seed Hamiltonian system is. We show that
+with each class of bi-cofactor systems a pair of separation curves can be
+related. We also investigate conditions under which a given flat bi-cofactor
+system can be deformed to a family of geodesically equivalent flat bi-cofactor
+systems.

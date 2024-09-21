@@ -1,0 +1,6 @@
+We show that a three-level lambda quantum emitter with equal spontaneous
+emission rates on both optically active transitions can absorb an incident
+light field with a probability approaching unity, provided that the focused
+light profile matches that of the emitter dipole emission pattern. Even with
+realistic focusing geometries, our results could find applications in
+long-distance entanglement of spin qubits.

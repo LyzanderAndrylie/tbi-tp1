@@ -1,0 +1,12 @@
+A compact approximate groundstate of the Kondo problem is introduced. It
+consists of four Slater states. The spin up and down states of the localized
+d-impurity are paired with two localized s-electron states of opposite spin.
+All the remaining s-electron states are rearranged forming two new optimal
+orthonormal bases. Through a rotation in Hilbert space the two localized states
+(and the rest of the bases) are optimized by minimizing the energy expectation
+value. The ground-state energy E and the singlet-triplet excitation energy dE
+are calculated numerically. Although the two energies can differ by a factor of
+1000, they are obtained simultaneously. The singlet-triplet excitation energy
+dE is proportional to exp[-1/2Jg] and quite close to the Kondo temperature
+k_BT_K. The cases for anti-ferromagnetic (J>0) and ferromagnetic (J<0) coupling
+are investigated.

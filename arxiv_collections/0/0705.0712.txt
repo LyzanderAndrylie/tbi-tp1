@@ -1,0 +1,5 @@
+We prove general reflection positivity results for both scalar fields and
+Dirac fields on a Riemannian manifold, and comment on applications to quantum
+field theory. As another application, we prove the inequality $C_D \leq C_N$
+between Dirichlet and Neumann covariance operators on a manifold with a
+reflection.

@@ -1,0 +1,9 @@
+We study an efficient dynamic blind source separation algorithm of
+convolutive sound mixtures based on updating statistical information in the
+frequency domain, andminimizing the support of time domain demixing filters by
+a weighted least square method. The permutation and scaling indeterminacies of
+separation, and concatenations of signals in adjacent time frames are resolved
+with optimization of $l^1 \times l^\infty$ norm on cross-correlation
+coefficients at multiple time lags. The algorithm is a direct method without
+iterations, and is adaptive to the environment. Computations on recorded and
+synthetic mixtures of speech and music signals show excellent performance.

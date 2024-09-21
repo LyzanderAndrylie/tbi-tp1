@@ -1,0 +1,16 @@
+The relaxation of a dewetting contact line is investigated theoretically in
+the so-called "Landau-Levich" geometry in which a vertical solid plate is
+withdrawn from a bath of partially wetting liquid. The study is performed in
+the framework of lubrication theory, in which the hydrodynamics is resolved at
+all length scales (from molecular to macroscopic). We investigate the
+bifurcation diagram for unperturbed contact lines, which turns out to be more
+complex than expected from simplified 'quasi-static' theories based upon an
+apparent contact angle. Linear stability analysis reveals that below the
+critical capillary number of entrainment, Ca_c, the contact line is linearly
+stable at all wavenumbers. Away from the critical point the dispersion relation
+has an asymptotic behaviour sigma~|q| and compares well to a quasi-static
+approach. Approaching Ca_c, however, a different mechanism takes over and the
+dispersion evolves from |q| to the more common q^2. These findings imply that
+contact lines can not be treated as universal objects governed by some
+effective law for the macroscopic contact angle, but viscous effects have to be
+treated explicitly.

@@ -1,0 +1,12 @@
+Protonation of DNA basepairs is a reversible phenomenon which can be
+controlled by tuning the pH of the system. Under mild acidic conditions, the
+hydrogen bonding pattern of the DNA basepairs undergoes a change. We study the
+effect of protonation on the electronic properties of the DNA basepairs to
+probe for possible molecular electronics applications. We find that, under mild
+acidic pH conditions, the A:T basepair shows excellent rectification behaviour
+which is, however, absent in the G:C basepair. The mechanism of rectification
+has been discussed using a simple chemical potential model. We also consider
+the non-canonical A:A basepair and find that it can be used as efficient pH
+dependent molecular switch. The switching action in A:A basepair is explained
+in the light of pi-pi interactions which lead to efficient delocalization over
+the entire basepair.

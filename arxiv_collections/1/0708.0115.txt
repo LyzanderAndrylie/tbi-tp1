@@ -1,0 +1,14 @@
+Nuclear matrix elements of the neutrinoless double beta decays of 96Zr,
+100Mo, 116Cd, 128Te, 130Te and 136Xe are calculated for the light-neutrino
+exchange mechanism by using the proton-neutron quasiparticle random-phase
+approximation (pnQRPA) with a realistic nucleon-nucleon force. The g_pp
+parameter of the pnQRPA is fixed by the data on the two-neutrino double beta
+decays and single beta decays. The finite size of a nucleon, the higher-order
+terms of nucleonic weak currents, and the nucleon-nucleon short-range
+correlations (s.r.c) are taken into account. The s.r.c. are computed by the
+traditional Jastrow method and by the more advanced unitary correlation
+operator method (UCOM). Comparison of the results obtained by the two methods
+is carried out. The UCOM computed matrix elements turn out to be considerably
+larger than the Jastrow computed ones. This result is important for the
+assessment of the neutrino-mass sensitivity of the present and future double
+beta experiments.

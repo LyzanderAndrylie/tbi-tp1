@@ -1,0 +1,7 @@
+The necessity of computing integrals with complex weights over manifolds with
+a large number of dimensions, e.g., in some field theoretical settings, poses a
+problem for the use of Monte Carlo techniques. Here it is shown that very
+general complex weight functions P(x) on R^d can be represented by real and
+positive weights p(z) on C^d, in the sense that for any observable f, <f(x)>_P
+= <f(z)>_p, f(z) being the analytical extension of f(x). The construction is
+extended to arbitrary compact Lie groups.

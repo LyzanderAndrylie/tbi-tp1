@@ -1,0 +1,15 @@
+We describe a new universality class for unitary invariant random matrix
+ensembles. It arises in the double scaling limit of ensembles of random $n
+\times n$ Hermitian matrices $Z_{n,N}^{-1} |\det M|^{2\alpha} e^{-N \Tr V(M)}
+dM$ with $\alpha > -1/2$, where the factor $|\det M|^{2\alpha}$ induces
+critical eigenvalue behavior near the origin. Under the assumption that the
+limiting mean eigenvalue density associated with $V$ is regular, and that the
+origin is a right endpoint of its support, we compute the limiting eigenvalue
+correlation kernel in the double scaling limit as $n, N \to \infty$ such that
+$n^{2/3}(n/N-1) = O(1)$. We use the Deift-Zhou steepest descent method for the
+Riemann-Hilbert problem for polynomials on the line orthogonal with respect to
+the weight $|x|^{2\alpha} e^{-NV(x)}$. Our main attention is on the
+construction of a local parametrix near the origin by means of the
+$\psi$-functions associated with a distinguished solution of the Painleve XXXIV
+equation. This solution is related to a particular solution of the Painleve II
+equation, which however is different from the usual Hastings-McLeod solution.

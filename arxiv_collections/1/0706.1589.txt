@@ -1,0 +1,11 @@
+We present calculations of the quasiparticle energies and band gaps of
+graphene nanoribbons (GNRs) carried out using a first-principles many-electron
+Green's function approach within the GW approximation. Because of the
+quasi-one-dimension nature of a GNR, electron-electron interaction effects due
+to the enhanced screened Coulomb interaction and confinement geometry greatly
+influence the quasiparticle band gap. Compared with previous tight-binding and
+density functional theory studies, our calculated quasiparticle band gaps show
+significant self-energy corrections for both armchair and zigzag GNRs, in the
+range of 0.5-3.0 eV for ribbons of width 2.4-0.4 nm. The quasiparticle band
+gaps found here suggest that use of GNRs for electronic device components in
+ambient conditions may be viable.

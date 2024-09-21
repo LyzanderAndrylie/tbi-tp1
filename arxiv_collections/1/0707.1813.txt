@@ -1,0 +1,12 @@
+The work which we present takes place within the framework of mission SMOS of
+the ESA which will consist to send a radiometer (1.4 GHz) in space. The goal of
+the research which we propose is the improvement of the comprehension of the
+effects of structures composed of soil and litter. The effects of the litter
+and heterogeneities of the ground are probably important but still ignored. The
+objective of this work was to study the dielectric properties of a type of
+litter and ground in order to integrate these values into an analytical multi
+layers model of soil. The objective is to characterize the effects of this
+layer on the total multi layer system. This will make possible to lead to a
+simple analytical formulation of a model of litter which can be integrated into
+the calculation algorithm of SMOS in order to collect information on moisture
+starting from measurements of emissivity

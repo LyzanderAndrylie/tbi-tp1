@@ -1,0 +1,7 @@
+The motion of an artificial micro-scale swimmer that uses a chemical reaction
+catalyzed on its own surface to achieve autonomous propulsion is fully
+characterized experimentally. It is shown that at short times, it has a
+substantial component of directed motion, with a velocity that depends on the
+concentration of fuel molecules. At longer times, the motion reverts to a
+random walk with a substantially enhanced diffusion coefficient. Our results
+suggest strategies for designing artificial chemotactic systems.

@@ -1,0 +1,8 @@
+The Landau-Zener(LZ) transition of a two-level system coupling to spin chains
+near their critical points is studied in this paper. Two kinds of spin chains,
+the Ising spin chain and XY spin chain, are considered. We calculate and
+analyze the effects of system-chain coupling on the LZ transition. A relation
+between the LZ transition and the critical points of the spin chain is
+established. These results suggest that LZ transitions may serve as the
+witnesses of criticality of the spin chain. This may provide a new way to study
+quantum phase transitions as well as LZ transitions.

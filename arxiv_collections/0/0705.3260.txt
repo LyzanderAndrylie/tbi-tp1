@@ -1,0 +1,8 @@
+Scattering and production amplitudes involving scalar resonances are known,
+according to Watson's theorem, to share the same phase $\delta(s)$. We show
+that, at low energies, the production amplitude is fully determined by the
+combination of $\delta(s)$ with another phase $\omega(s)$, which describes
+intermediate two-meson propagation and is theoretically unambiguous. Our main
+result is a simple and almost model independent expression, which generalizes
+the usual $K$-matrix unitarization procedure and is suited to be used in
+analyses of production data involving scalar resonances.

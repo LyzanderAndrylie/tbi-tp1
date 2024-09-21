@@ -1,0 +1,13 @@
+The spectral correlation of a chaotic system with spin 1/2 is universally
+described by the GSE (Gaussian Symplectic Ensemble) of random matrices in the
+semiclassical limit. In semiclassical theory, the spectral form factor is
+expressed in terms of the periodic orbits and the spin state is simulated by
+the uniform distribution on a sphere. In this paper, instead of the uniform
+distribution, we introduce Brownian motion on a sphere to yield the parametric
+motion of the energy levels. As a result, the small time expansion of the form
+factor is obtained and found to be in agreement with the prediction of
+parametric random matrices in the transition within the GSE universality class.
+Moreover, by starting the Brownian motion from a point distribution on the
+sphere, we gradually increase the effect of the spin and calculate the form
+factor describing the transition from the GOE (Gaussian Orthogonal Ensemble)
+class to the GSE class.

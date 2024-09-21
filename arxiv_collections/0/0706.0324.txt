@@ -1,0 +1,15 @@
+We propose novel model system for the studies of superconductor-insulator
+transitions, which is a regular lattice, whose each link consists of
+Josephson-junction chain of $N \gg 1$ junctions in sequence. The theory of such
+an array is developed for the case of semiclassical junctions with the
+Josephson energy $E_J$ large compared to the junctions's Coulomb energy $E_C$.
+Exact duality transformation is derived, which transforms the Hamiltonian of
+the proposed model into a standard Hamiltonian of JJ array. The nature of the
+ground state is controlled (in the absence of random offset charges) by the
+parameter $q \approx N^2 \exp(-\sqrt{8E_J/E_C})$, with superconductive state
+corresponding to small $q < q_c $. The values of $q_c$ are calculated for
+magnetic frustrations $f= 0$ and $f= \frac12$. Temperature of superconductive
+transition $T_c(q)$ and $q < q_c$ is estimated for the same values of $f$. In
+presence of strong random offset charges, the T=0 phase diagram is controlled
+by the parameter $\bar{q} = q/\sqrt{N}$; we estimated critical value
+$\bar{q}_c$.

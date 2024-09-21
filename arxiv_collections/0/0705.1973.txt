@@ -1,0 +1,16 @@
+We report on 10 years of monitoring of the 8.7-s Anomalous X-ray Pulsar 4U
+0142+61 using the Rossi X-Ray Timing Explorer (RXTE). This pulsar exhibited
+stable rotation from 2000 March until 2006 February: the RMS phase residual for
+a spin-down model which includes nu, nudot, and nuddot is 2.3%. We report a
+possible phase-coherent timing solution valid over a 10-yr span extending back
+to March 1996. A glitch may have occured between 1998 and 2000, but is not
+required by the existing timing data. The pulse profile has been evolving since
+2000. In particular, the dip of emission between its two peaks got shallower
+between 2002 and 2006, as if the profile were evolving back to its pre-2000
+morphology, following an earlier event, which possibly also included the glitch
+suggested by the timing data. These profile variations are seen in the 2-4 keV
+band but not in 6-8 keV. We also detect a slow increase in the pulsed flux
+between 2002 May and 2004 December, such that it has risen by 36+/-3% over 2.6
+years in the 2-10 keV band. The pulsed flux variability and the narrow-band
+pulse profile changes present interesting challenges to aspects of the magnetar
+model.

@@ -1,0 +1,19 @@
+As a first step to analyze the electromagnetic meson production reactions in
+the nucleon resonance region, the parameters of the hadronic interactions of a
+dynamical coupled-channel model, developed in {\it Physics Reports 439, 193
+(2007)}, are determined by fitting the $\pi N$ scattering data. The channels
+included in the calculations are $\pi N$, $\eta N$ and $\pi\pi N$ which has
+$\pi\Delta$, $\rho N$, and $\sigma N$ resonant components. The non-resonant
+meson-baryon interactions of the model are derived from a set of Lagrangians by
+using a unitary transformation method. One or two bare excited nucleon states
+in each of $S$, $P$, $D$, and $F$ partial waves are included to generate the
+resonant amplitudes in the fits. The parameters of the model are first
+determined by fitting as much as possible the empirical $\pi N$ elastic
+scattering amplitudes of SAID up to 2 GeV. We then refine and confirm the
+resulting parameters by directly comparing the predicted differential cross
+section and target polarization asymmetry with the original data of the elastic
+$\pi^{\pm} p \to \pi^{\pm} p$ and charge-exchange $\pi^- p \to \pi^0 n$
+processes. The predicted total cross sections of $\pi N$ reactions and $\pi
+N\to \eta N$ reactions are also in good agreement with the data. Applications
+of the constructed model in analyzing the electromagnetic meson production data
+as well as the future developments are discussed.

@@ -1,0 +1,7 @@
+In his famous book, Felix Klein describes a complex variable for the
+quotients of the ordinary sphere by the finite groups of rotations and in
+particular for the most complex situation of the quotient by the symmetry group
+of the icosahedron. The purpose of this work and its sequels is to obtain
+similar results for the quotients of the three--dimensional sphere. Various
+properties of the group $SU(2)$ and of its representations are used to obtain
+explicit expressions for coordinates and the relations they satisfy.

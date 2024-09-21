@@ -1,0 +1,8 @@
+The Hochschild homology/cohomology an associative algebra, together with the
+Connes differential, the contraction map and the Lie derivative, forms the
+structure of calculus. In this paper we compute explicitely the calculus
+structure of preprojective algebras of Dynkin quivers over a field of
+characteristic zero. This also completes the work in math.AG/0502301, where the
+Batalin-Vilkovisky structure of the Hochschild cohomology of preprojective
+algebras of non-Dynkin quivers are computed and the calculus can be easily
+computed from that.

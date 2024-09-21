@@ -1,0 +1,9 @@
+Simple geometrical considerations show that the collision zone in high energy
+nuclear collisions may be divided into a central part (``core''), with high
+energy densities, and a peripheral part (``corona''), with smaller energy
+densities, more like in pp or pA collisions. We present calculations which
+allow to separate these two contributions, and which show that the corona
+contribution is quite small (but not negligible) for central collisions, but
+gets increasingly important with decreasing centrality. We will discuss
+consequences concerning results obtained in heavy ion collisions at the
+Relativistic Heavy Ion Collider (RHIC) and the Super Proton Synchrotron (SPS).

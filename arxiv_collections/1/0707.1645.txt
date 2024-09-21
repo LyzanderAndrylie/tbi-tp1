@@ -1,0 +1,9 @@
+Matter-wave interferometry has been largely studied in the last few years.
+Usually, the main problem in the analysis of the diffraction experiments is to
+establish the causes for the loss of coherence observed in the interference
+pattern. In this work, we use different type of environmental couplings to
+model a two slit diffraction experiment with massive particles. For each model,
+we study the effects of decoherence on the interference pattern and define a
+visibility function that measures the loss of contrast of the interference
+fringes on a distant screen. Finally, we apply our results to the experimental
+reported data on massive particles $C_{70}$.

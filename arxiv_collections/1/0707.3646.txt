@@ -1,0 +1,17 @@
+Many efforts are currently underway to build a device capable of large scale
+quantum information processing (QIP). Whereas QIP has been demonstrated for a
+few qubits in several systems, many technical difficulties must be overcome in
+order to construct a large-scale device. In one proposal for large-scale QIP,
+trapped ions are manipulated by precisely controlled light pulses and moved
+through and stored in multizone trap arrays. The technical overhead necessary
+to precisely control both the ion geometrical configurations and the laser
+interactions is demanding. Here we propose methods that significantly reduce
+the overhead on laser beam control for performing single and multiple qubit
+operations on trapped ions. We show how a universal set of operations can be
+implemented by controlled transport of ions through stationary laser beams. At
+the same time, each laser beam can be used to perform many operations in
+parallel, potentially reducing the total laser power necessary to carry out QIP
+tasks. The overall setup necessary for implementing transport gates is simpler
+than for gates executed on stationary ions. We also suggest a transport-based
+two-qubit gate scheme utilizing microfabricated permanent magnets that can be
+executed without laser light.

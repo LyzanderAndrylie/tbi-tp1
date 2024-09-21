@@ -1,0 +1,17 @@
+There exists the standard quantum limit (SQL), derived from Heisenberg's
+uncertainty relation, in the sensitivity of laser interferometer
+gravitational-wave detectors. However, in the context of a full
+quantum-mechanical approach, SQL can be overcome using the correlation of shot
+noise and radiation-pressure noise. So far, signal recycling, which is one of
+the methods to overcome SQL, is considered only in a recombined-type
+interferometer such as Advanced-LIGO, LCGT, and GEO600. In this paper, we
+investigated quantum noise and the possibility of signal recycling in a
+differential-type interferometer. As a result, we found that signal recycling
+is possible and creates at most three dips in the sensitivity curve of the
+detector. Then, taking advantage of the third additional dip and comparing the
+sensitivity of a differential-type interferometer with that of a
+next-generation Japanese GW interferometer, LCGT, we found that SNR of inspiral
+binary is improved by a factor of 1.43 for neutron star binary, 2.28 for 50
+M_sun black hole binary, and 2.94 for 100 M_sun black hole binary. We also
+found that power recycling to increase laser power is possible in our
+signal-recycling configuration of a detector.

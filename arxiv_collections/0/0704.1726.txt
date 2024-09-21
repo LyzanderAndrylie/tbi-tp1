@@ -1,0 +1,9 @@
+We develop a class of soliton solution of {\it linear} Schr\"odinger equation
+without external potential. The quantum probability density generates its own
+boundary inside which there is internal vibration whose wave number is
+determined by the velocity of the particle as firstly conjectured by de
+Broglie. Assuming resonance of the internal vibration will lead to quantization
+of particle's momentum in term of wave number of the envelope quantum
+probability density. We further show that the linearity of the Schr\"odinger
+equation allows us to have non-interacting many solitons solution through
+superposition, each describing a particle with equal mass.

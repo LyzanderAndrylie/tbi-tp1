@@ -1,0 +1,8 @@
+We reformulate the Gross-Pitaevskii equation with an external parabolic
+potential as a discrete dynamical system, by using the basis of Hermite
+functions. We consider small amplitude stationary solutions with a single node,
+called dark solitons, and examine their existence and linear stability.
+Furthermore, we prove the persistence of a periodic motion in a neighborhood of
+such solutions. Our results are corroborated by numerical computations
+elucidating the existence, linear stability and dynamics of the relevant
+solutions.

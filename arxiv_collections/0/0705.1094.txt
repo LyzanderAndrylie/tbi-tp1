@@ -1,0 +1,8 @@
+In this paper we prove novel lower bounds for the Ginzburg-Landau energy with
+or without magnetic field. These bounds rely on an improvement of the "vortex
+balls construction" estimates by extracting a new positive term in the energy
+lower bounds. This extra term can be conveniently estimated through a Lorentz
+space norm, on which it thus provides an upper bound. The Lorentz space
+$L^{2,\infty}$ we use is critical with respect to the expected vortex profiles
+and can serve to estimate the total number of vortices and get improved
+convergence results.

@@ -1,0 +1,7 @@
+Let X be a smooth complex projective variety, let $j:U\into X$ an immersion
+of a Zariski open subset, and let V be a variation of Hodge structure of weight
+n over U. Then IH^k(X, j_*V) is known to carry a pure Hodge structure of weight
+k+n, while H^k(U,V) carries a mixed Hodge structure of weight $\ge k+n$. In
+this note it is shown that the image of the natural map $IH^k(X,j_*V) \to
+H^k(U,V)$ is the lowest weight part of this mixed Hodge structure. The proof
+uses Saito's theory of mixed Hodge modules.

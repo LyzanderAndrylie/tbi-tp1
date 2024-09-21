@@ -1,0 +1,9 @@
+Several theories for weakly damped free-surface flows have been formulated.
+In this paper we use the linear approximation to the Navier-Stokes equations to
+derive a new set of equations for potential flow which include dissipation due
+to viscosity. A viscous correction is added not only to the irrotational
+pressure (Bernoulli's equation), but also to the kinematic boundary condition.
+The nonlinear Schr\"odinger (NLS) equation that one can derive from the new set
+of equations to describe the modulations of weakly nonlinear, weakly damped
+deep-water gravity waves turns out to be the classical damped version of the
+NLS equation that has been used by many authors without rigorous justification.

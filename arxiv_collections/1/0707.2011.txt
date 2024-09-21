@@ -1,0 +1,3 @@
+The standard genetic code multiplet structure as well as the correct
+degeneracies, class by class, are all extracted from the (unique) number 23,
+the order of the permutation group of 23 objects.

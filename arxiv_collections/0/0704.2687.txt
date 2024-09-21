@@ -1,0 +1,6 @@
+By a combination of geometrical and configurational analysis we study the
+properties of absolute minimal and equilibrium states of general Mumford-Shah
+functionals, with applications to models of quasistatic brittle fracture
+propagation. The main results concern the mathematical relations between
+physical quantities as energy release rate and energy concentration for 3D
+cracks with complex shapes, seen as outer measures living on the crack edge.

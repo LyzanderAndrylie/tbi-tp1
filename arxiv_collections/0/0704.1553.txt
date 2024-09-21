@@ -1,0 +1,5 @@
+We study the question when for a given *-algebra $\mathcal{A}$ a sequence of
+cones $C_n\in M_n(\mathcal{A})$ can be realized as cones of positive operators
+in a faithful *-representation of $\mathcal{A}$ on a Hilbert space. A
+characterization of operator algebras which are completely boundedly isomorphic
+to $C\sp*$-algebras is presented.

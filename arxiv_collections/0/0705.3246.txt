@@ -1,0 +1,18 @@
+A new generation of radio telescopes are currently being built with the goal
+of tracing the cosmic distribution of atomic hydrogen at redshifts 6-15 through
+its 21-cm line. The observations will probe the large-scale brightness
+fluctuations sourced by ionization fluctuations during cosmic reionization.
+Since detailed maps will be difficult to extract due to noise and foreground
+emission, efforts have focused on a statistical detection of the 21-cm
+fluctuations. During cosmic reionization, these fluctuations are highly
+non-Gaussian and thus more information can be extracted than just the
+one-dimensional function that is usually considered, i.e., the correlation
+function. We calculate a two-dimensional function that if measured
+observationally would allow a more thorough investigation of the properties of
+the underlying ionizing sources. This function is the probability distribution
+function (PDF) of the difference in the 21-cm brightness temperature between
+two points, as a function of the separation between the points. While the
+standard correlation function is determined by a complicated mixture of
+contributions from density and ionization fluctuations, we show that the
+difference PDF holds the key to separately measuring the statistical properties
+of the ionized regions.

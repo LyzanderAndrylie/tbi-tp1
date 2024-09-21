@@ -1,0 +1,16 @@
+We discuss Casimir effect of a massless, minimally coupled scalar field in a
+6D warped flux compactification model and its implications for the hierarchy
+and cosmological constant problems, which are longstanding puzzles in
+phenomenology and cosmology. Due to the scale invariance of the background
+theory, the 4D effective theory contains a volume modulus. To stabilize the
+modulus, we consider one-loop corrections to the effective potential by the
+Casimir effect. The one-loop effective potential for the volume modulus has a
+form which is very similar to Coleman-Weinberg potential. We evaluate
+coefficients appearing in the effective potential by employing zeta function
+regularization and heat kernel analysis. The volume modulus is stabilized for
+smaller degrees of warping, below a critical value, which depends on deficit
+angle of the reference brane. After stabilizing the modulus, it is possible to
+obtain observed values of the mass ratio between the fundamental energy scales
+and a tiny effective cosmological constant (though its sign is negative). The
+degree of warping should be tuned to be close to the critical value, not as
+severely as the original fine-tuning.

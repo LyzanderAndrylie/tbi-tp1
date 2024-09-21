@@ -1,0 +1,9 @@
+A basic feasible probabilistic purification of unknown noisy coherent states,
+outgoing from different state preparations with unknown mean number of thermal
+photons, is proposed. The scheme is based only on a linear-optical network with
+an avalanche photo-diode or heterodyne (homodyne) detection used to post-select
+a successful processing. The suggested probabilistic method can produce an
+output state with a lower noise than both quantum deterministic and classical
+probabilistic distillation method. The purification applied in the state
+preparation can increase classical capacity of communication and security of
+quantum key distribution.

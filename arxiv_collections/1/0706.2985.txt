@@ -1,0 +1,17 @@
+We make a thorough analysis of heralded single photon sources regarding how
+factors such as the detector gate-period, the photon rates, the fiber coupling
+efficiencies, and the system losses affect the performance of the source. In
+the course of this we give a detailed description of how to determine fiber
+coupling efficiencies from experimentally measurable quantities. We show that
+asynchronous sources perform, under most conditions, better than synchronous
+sources with respect to multiphoton events, but only for nearly perfect
+coupling efficiencies. We apply the theory to an asynchronous source of
+heralded single photons based on spontaneous parametric downconversion in a
+periodically poled, bulk, KTiOPO4 crystal. The source generates light with
+highly non-degenerate wavelengths of 810 nm and 1550 nm, where the 810 nm
+photons are used to announce the presence of the 1550 nm photons inside a
+single-mode optical fiber. For our setup we find the probability of having a
+1550 nm photon present in the single-mode fiber, as announced by the 810 nm
+photon, to be 48%. The probability of multiphoton events is strongly suppressed
+compared to a Poissonian light source, giving highly sub-Poisson photon
+statistics.

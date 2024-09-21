@@ -1,0 +1,10 @@
+Following our recent development of the paradigm for extending the classic
+concepts of circuit elements to the infrared and optical frequencies [N.
+Engheta, A. Salandrino, A. Alu, Phys. Rev. Lett. 95, 095504 (2005)], in this
+paper we investigate the possibility of connecting nanoparticles in series and
+in parallel configurations, acting as nanocircuit elements, In particular, we
+analyze a pair of conjoined half-cylinders, whose relatively simple geometry
+may be studied and analyzed analytically. In this first part of the work, we
+derive a closed-form quasi-static analytical solution of the boundary-value
+problem associated with this geometry, which will be applied in Part II for a
+nanocircuit and physical interpretation of these results.

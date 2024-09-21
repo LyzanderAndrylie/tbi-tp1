@@ -1,0 +1,24 @@
+In this article, localized linear defect modes due to bandgap guidance in
+two-dimensional photonic lattices with localized or non-localized defects are
+investigated theoretically. First, when the defect is localized and weak,
+eigenvalues of defect modes bifurcated from edges of Bloch bands are derived
+analytically. It is shown that in an attractive (repulsive) defect, defect
+modes bifurcate out from Bloch-band edges with normal (anomalous) diffraction
+coefficients. Furthermore, distances between defect-mode eigenvalues and
+Bloch-band edges are exponentially small functions of the defect strength,
+which is very different from the one-dimensional case where such distances are
+quadratically small with the defect strength. It is also found that some
+defect-mode branches bifurcate not from Bloch-band edges, but from quasi-edge
+points within Bloch bands, which is very unusual. Second, when the defect is
+localized but strong, defect modes are determined numerically. It is shown that
+both the repulsive and attractive defects can support various types of defect
+modes such as fundamental, dipole, quadrupole, and vortex modes. These modes
+reside in various bandgaps of the photonic lattice. As the defect strength
+increases, defect modes move from lower bandgaps to higher ones when the defect
+is repulsive, but remain within each bandgap when the defect is attractive,
+similar to the one-dimensional case. The same phenomena are observed when the
+defect is held fixed while the applied dc field (which controls the lattice
+potential) increases. Lastly, if the defect is non-localized (i.e. it persists
+at large distances in the lattice), it is shown that defect modes can be
+embedded inside the continuous spectrum, and they can bifurcate out from edges
+of the continuous spectrum algebraically rather than exponentially.

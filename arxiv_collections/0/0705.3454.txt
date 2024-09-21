@@ -1,0 +1,8 @@
+We analyze the fidelity decay for a system of interacting bosons described by
+a Bose-Hubbard Hamiltonian. We find echoes associated with "non-universal"
+structures that dominate the energy landscape of the perturbation operator.
+Despite their classical origin, these echoes persist deep into the quantum
+(perturbative) regime and can be described by an improved random matrix
+modeling. In the opposite limit of strong perturbations (and high enough
+energies), classical considerations reveal the importance of self-trapping
+phenomena in the echo efficiency.

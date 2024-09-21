@@ -1,0 +1,10 @@
+We consider two-way wire-tap channels, where two users are communicating with
+each other in the presence of an eavesdropper, who has access to the
+communications through a multiple-access channel. We find achievable rates for
+two different scenarios, the Gaussian two-way wire-tap channel, (GTW-WT), and
+the binary additive two-way wire-tap channel, (BATW-WT). It is shown that the
+two-way channels inherently provide a unique advantage for wire-tapped
+scenarios, as the users know their own transmitted signals and in effect help
+encrypt the other user's messages, similar to a one-time pad. We compare the
+achievable rates to that of the Gaussian multiple-access wire-tap channel
+(GMAC-WT) to illustrate this advantage.

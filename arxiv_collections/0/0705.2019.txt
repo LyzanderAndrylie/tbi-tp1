@@ -1,0 +1,9 @@
+Vscape is an interactive tool for studying the one-loop effective potential
+of an ungauged supersymmetric model of chiral multiplets. The program allows
+the user to define a supersymmetric model by specifying the superpotential. The
+F-terms and the scalar and fermionic mass matrices are calculated symbolically.
+The program then allows you to search numerically for (meta)stable minima of
+the one-loop effective potential. Additional commands enable you to further
+study specific minima, by e.g. computing the mass spectrum for those vacua.
+Vscape combines the flexibility of symbolic software, with the speed of a
+numerical package.

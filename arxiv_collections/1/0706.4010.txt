@@ -1,0 +1,7 @@
+We propose a simple quantum field theoretical toy model for black hole
+evaporation and study the back-reaction of Hawking radiation onto the classical
+background. It turns out that the horizon is also ``pushed back'' in this
+situation (i.e., the interior region shrinks) but this back-reaction is not
+caused by energy conservation but by momentum balance. The effective heat
+capacity and the induced entropy variation can have both signs -- depending on
+the parameters of the model. PACS: 04.62.+v, 04.70.Dy.

@@ -1,0 +1,7 @@
+Bennett et al. \cite{BDF+99} identified a set of orthogonal {\em product}
+states in the $3\otimes 3$ Hilbert space such that reliably distinguishing
+those states requires non-local quantum operations. While more examples have
+been found for this counter-intuitive ``nonlocality without entanglement''
+phenomenon, a complete and computationally verifiable characterization for all
+such sets of states remains unknown. In this Letter, we give such a
+characterization for the $3\otimes 3$ space.

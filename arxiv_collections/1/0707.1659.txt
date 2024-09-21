@@ -1,0 +1,15 @@
+We consider shock probes in a one-dimensional driven diffusive medium with
+nearest neighbor Ising interaction (KLS model). Earlier studies based on an
+approximate mapping of the present system to an effective zero-range process
+concluded that the exponents characterising the decays of several static and
+dynamical correlation functions of the probes depend continuously on the
+strength of the Ising interaction. On the contrary, our numerical simulations
+indicate that over a substantial range of the interaction strength, these
+exponents remain constant and their values are the same as in the case of no
+interaction (when the medium executes an ASEP). We demonstrate this by
+numerical studies of several dynamical correlation functions for two probes and
+also for a macroscopic number of probes. Our results are consistent with the
+expectation that the short-ranged correlations induced by the Ising interaction
+should not affect the large time and large distance properties of the system,
+implying that scaling forms remain the same as in the medium with no
+interactions present.

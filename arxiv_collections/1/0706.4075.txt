@@ -1,0 +1,11 @@
+The covariant Klein-Gordon equation requires twice the boundary conditions of
+the Schrodinger equation and does not have an accepted single-particle
+interpretation. Instead of interpreting its solution as a probability wave
+determined by an initial boundary condition, this paper considers the
+possibility that the solutions are determined by both an initial and a final
+boundary condition. By constructing an invariant joint probability distribution
+from the size of the solution space, it is shown that the usual measurement
+probabilities can nearly be recovered in the non-relativistic limit, provided
+that neither boundary constrains the energy to a precision near hbar/T (where T
+is the time duration between the boundary conditions). Otherwise, deviations
+from standard quantum mechanics are predicted.

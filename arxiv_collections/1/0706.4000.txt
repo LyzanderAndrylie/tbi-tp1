@@ -1,0 +1,7 @@
+We study a dynamics of ultracold Fermi-gases near the unitary limit in the
+framework of Effective Field Theory. It is shown that, while one can obtain a
+reasonable description of the universal proportionality constant both in the
+narrow and the broad Feshbach resonance limits, the reguirement of the
+reparametrisation invariance leads to appearance of the three body forces
+needed to cancel the otherwise arising off-shell uncertainties. The size of the
+unsertainties is estimated.

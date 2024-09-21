@@ -1,0 +1,15 @@
+Using the microscopic theory of the conserved spin current [Phys. Rev. Lett.
+\textbf{96}, 076604 (2006)], we investigate the spin Hall effect in the two
+dimensional electron gas system with a perpendicular magnetic field. The spin
+Hall conductance $\sigma_{\mu\nu}^{s}$ as a response to the electric field
+consists of two parts, i.e., the conventional part $\sigma_{\mu\nu}^{s0}$ and
+the spin torque dipole correction $\sigma_{\mu\nu}^{s\tau}$. It is shown that
+the spin-orbit coupling competes with Zeeman splitting by introducing
+additional degeneracies between different Landau levels at certain values of
+magnetic field. These degeneracies, if occurring at the Fermi level, turn to
+give rise to resonances in both $\sigma_{\mu\nu}^{s0}$ and $\sigma_{\mu\nu
+}^{s\tau}$ in spin Hall conductance. Remarkably, both of these two components
+have the same sign in the wide range of variation in the magnetic field, which
+result in an overall enhancement of the total spin Hall current. In particular,
+the magnitude of $\sigma_{\mu\nu}^{s\tau}$ is much larger than that of
+$\sigma_{\mu\nu}^{s0}$ around the resonance.

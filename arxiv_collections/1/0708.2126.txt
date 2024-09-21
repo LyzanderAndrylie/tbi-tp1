@@ -1,0 +1,15 @@
+An interesting approach to achieve quantum gate operations in a solid state
+device is to implement an optically driven quantum gate using two vertically
+coupled self-assembled quantum dots, a quantum dot molecule (QDM). We present a
+realistic model for exciton dynamics in InGaAs/GaAs QDMs under intense laser
+excitation and applied electric fields. The dynamics is obtained by solutions
+of the Lindblad master equation. A map of the dressed ground state as function
+of laser energy and applied electric field exhibits rich structure that
+includes excitonic anticrossings that permit the identification of the relevant
+couplings. The optical signatures of the dipole-dipole Forster energy transfer
+mechanism show as splittings of several (spatially) indirect excitonic lines.
+Moreover, we construct a model for exciton qubit rotations by adiabatic
+electric field cyclic sweeps into a Forster-tunneling regime which induces
+level anticrossings. The proposed qubit exhibits Rabi oscillations among two
+well defined exciton pairs as function of the residence time at the
+anticrossing.

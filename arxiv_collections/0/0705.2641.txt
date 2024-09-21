@@ -1,0 +1,10 @@
+Two methodological troubles of the quantum theory of collisions are
+considered. The first is the undesirable interference of the incident and
+scattered waves in the stationary approach to scattering. The second concerns
+the nonstationary approach to the theory of collisions of the type $a+b\to
+c+d$. In order to calculate the cross section one uses the matrix element
+$<cd|S|ab>$ of the $S$-matrix. The element is proportional to $\delta$-function
+expressing the energy conservation. The corresponding probability $|<
+cd|S|ab>|^2$ contains $\delta^2$ which is mathematically senseless. The known
+regular way to overcome the difficulty seems to be unsatisfactory. In this
+paper, both the troubles are resolved using wave packets of incident particles.

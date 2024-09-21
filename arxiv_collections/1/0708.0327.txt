@@ -1,0 +1,12 @@
+The tensor properties of the algebra generators and the basis are determined
+in respect to the reduction chain $Sp(12,R) \supset U(6)% \supset U(3)\otimes
+U(2)\supset O(3)\otimes (U(1)\otimes U(1))$, which defines one of the dynamical
+symmetries of the Interacting Vector Boson Model. The action of the Sp(12,R)
+generators as transition operators between the basis states is presented.
+Analytical expressions for their matrix elements in the symmetry-adapted basis
+are obtained. As an example the matrix elements of the E2 transition operator
+between collective states of the ground band are determined and compared with
+the experimental data for the corresponding intraband transition probabilities
+of nuclei in the actinide and rare earth region. On the basis of this
+application the important role of the symplectic extension of the model is
+analyzed.

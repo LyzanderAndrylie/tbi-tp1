@@ -1,0 +1,9 @@
+We numerically study the dynamical excitations in Bose-Einstein condensate
+(BEC) placed in periodic and quasi-periodic 2D optical lattice (OL). In case of
+the repulsive mean-field interaction the BEC quantum tunnelling leads to a
+progressive soliton's splitting and generating of secondary solitons, which
+migrate to closest trapping potential minima. A nontrivial soliton dynamics
+appears when a series of pi-pulses (phase kicks) are applied to the optical
+lattice. Such sudden perturbation produces a dynamic redistribution of the
+secondary solitons, leading to a formation of an artificial solitonic
+superlattice. Different geometries of OL are analyzed.

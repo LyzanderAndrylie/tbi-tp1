@@ -1,0 +1,14 @@
+We report model calculations on DNA single strands which describe the
+equilibrium dynamics and kinetics of hairpin formation and melting. Modeling is
+at the level of single bases. Strand rigidity is described in terms of simple
+polymer models; alternative calculations performed using the freely rotating
+chain and the discrete Kratky-Porod models are reported. Stem formation is
+modeled according to the Peyrard-Bishop-Dauxois Hamiltonian. The kinetics of
+opening and closing is described in terms of a diffusion-controlled motion in
+an effective free energy landscape. Melting profiles, dependence of melting
+temperature on loop length, and kinetic time scales are in semiquantitative
+agreement with experimental data obtained from fluorescent DNA beacons forming
+poly(T) loops. Variation in strand rigidity is not sufficient to account for
+the large activation enthalpy of closing and the strong loop length dependence
+observed in hairpins forming poly(A) loops. Implications for modeling single
+strands of DNA or RNA are discussed.

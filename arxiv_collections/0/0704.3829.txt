@@ -1,0 +1,20 @@
+We construct an exactly soluble spin-$\frac{1}2$ model on a honeycomb
+lattice, which is a generalization of Kitaev model. The topological phases of
+the system are analyzed by study of the ground state sector of this model, the
+vortex-free states. Basically, there are two phases, A phase and B phase. The
+behaviors of both A and B phases may be studied by mapping the ground state
+sector into a general p-wave paired states of spinless fermions with tunable
+pairing parameters on a square lattice. In this p-wave paired state theory, the
+A phase is shown to be the strong paired phase, an insulating phase. The B
+phase may be either gapped or gapless determined by the generalized inversion
+symmetry is broken or not. The gapped B is the weak pairing phase described by
+either the Moore-Read Pfaffian state of the spinless fermions or anti-Pfaffian
+state of holes depending on the sign of the next nearest neighbor hopping
+amplitude. A phase transition between Pfaffian and anti-Pfaffian states are
+found in the gapped B phase. Furthermore, we show that there is a hidden SU(2)
+gauge symmetry in our model. In the gapped B phase, the ground state has a
+non-trivial topological number, the spectral first Chern number or the chiral
+central charge, which reflects the chiral anomaly of the edge state. We proved
+that the topological number is identified to the reduced eta-invariant and this
+anomaly may be cancelled by a bulk Wess-Zumino term of SO(3) group through an
+index theorem in 2+1 dimensions.

@@ -1,0 +1,8 @@
+Reversible and coherent storage of light in atomic medium is a key-stone of
+future quantum information applications. In this work, arbitrary
+two-dimensional images are slowed and stored in warm atomic vapor for up to 30
+$\mu$s, utilizing electromagnetically induced transparency. Both the intensity
+and the phase patterns of the optical field are maintained. The main limitation
+on the storage resolution and duration is found to be the diffusion of atoms. A
+techniqueanalogous to phase-shift lithography is employed to diminish the
+effect of diffusion on the visibility of the reconstructed image.

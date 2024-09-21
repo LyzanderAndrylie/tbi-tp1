@@ -1,0 +1,15 @@
+It is known that a macroscopic quantum superposition (MQS), when it is
+exposed to environment, decoheres at a rate scaling with the separation of its
+component states in phase space. This is more or less consistent with the well
+known proposition that a more macroscopic quantum state is reduced more quickly
+to a classical state in general. Effects of initial mixedness, however, on the
+subsequent decoherence of MQSs have been less known. In this paper, we study
+the evolution of a highly mixed MQS interacting with an environment, and
+compare it with that of a pure MQS having the same size of the central distance
+between its component states. Although the decoherence develops more rapidly
+for the mixed MQS in short times, its rate can be significantly suppressed
+after a certain time and becomes smaller than the decoherence rate of its
+corresponding pure MQS. In an optics experiment to generate a MQS, our result
+has a practical implication that nonclassicality of a MQS can be still
+observable in moderate times even though a large amount of noise is added to
+the initial state.

@@ -1,0 +1,8 @@
+The problem of spontaneous emission is studied by a direct computer
+simulation of the dynamics of a combined system: atom + radiation field. The
+parameters of the discrete finite model, including up to 20k field oscillators,
+have been optimized by a comparison with the exact solution for the case when
+the oscillators have equidistant frequencies and equal coupling constants.
+Simulation of the effect of multi-pulse sequence of phase kicks and emission by
+a pair of atoms shows that both the frequency and the linewidth of the emitted
+spectrum could be controlled.

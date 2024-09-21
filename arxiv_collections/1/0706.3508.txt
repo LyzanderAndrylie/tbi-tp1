@@ -1,0 +1,15 @@
+We present a unified derivation of Bohmian methods that serves as a common
+starting point for the derivative propagation method (DPM), Bohmian mechanics
+with complex action (BOMCA) and the zero-velocity complex action method
+(ZEVCA). The unified derivation begins with the ansatz
+$\psi=e^{\frac{iS}{\hbar}}$ where the action, $S$, is taken to be complex and
+the quantum force is obtained by writing a hierarchy of equations of motion for
+the phase partial derivatives. We demonstrate how different choices of the
+trajectory velocity field yield different formulations such as DPM, BOMCA and
+ZEVCA. The new derivation is used for two purposes. First, it serves as a
+common basis for comparing the role of the quantum force in the DPM and BOMCA
+formulations. Second, we use the new derivation to show that superposing the
+contributions of real, crossing trajectories yields a nodal pattern essentially
+identical to that of the exact quantum wavefunction. The latter result suggests
+a promising new approach to deal with the challenging problem of nodes in
+Bohmian mechanics.

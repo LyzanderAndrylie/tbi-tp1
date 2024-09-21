@@ -1,0 +1,9 @@
+A random access memory (RAM) uses n bits to randomly address N=2^n distinct
+memory cells. A quantum random access memory (qRAM) uses n qubits to address
+any quantum superposition of N memory cells. We present an architecture that
+exponentially reduces the requirements for a memory call: O(log N) switches
+need be thrown instead of the N used in conventional (classical or quantum) RAM
+designs. This yields a more robust qRAM algorithm, as it in general requires
+entanglement among exponentially less gates, and leads to an exponential
+decrease in the power needed for addressing. A quantum optical implementation
+is presented.

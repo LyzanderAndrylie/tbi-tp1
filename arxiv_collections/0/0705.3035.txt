@@ -1,0 +1,13 @@
+In certain five dimensional gauge theories the Standard Model Higgs doublet
+is identified, after compactification on the orbifold S^1/Z_2, with the zero
+mode of the fifth component of the gauge field. An effective potential for the
+Higgs field is generated via quantum corrections, triggered by the breaking of
+the underlying gauge symmetry through boundary conditions. The quartic Higgs
+coupling can be estimated at low energies by employing the boundary condition
+that it vanishes at the compactification scale \Lambda, as required by five
+dimensional gauge invariance. For \Lambda \gtrsim 10^{13}-10^{14} GeV, the
+Standard Model Higgs boson mass is found to be m_H = 125 \pm 4 GeV
+corresponding to a top quark pole mass M_t = 170.9 \pm 1.8 GeV. A more complete
+(gauge-Higgs-Yukawa) unification can be realized for \Lambda ~ 10^8 GeV, which
+happens to be the scale at which the SU(2) weak coupling and the top quark
+Yukawa coupling have the same value. For this case, m_H = 117\pm 4 GeV.

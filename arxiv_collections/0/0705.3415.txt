@@ -1,0 +1,6 @@
+The analysis of the dynamics of a material point perfectly constrained to a
+submanifold of the three-dimensional euclidean space and subjected to a locally
+conservative force's field, namely a force's field corresponding to a closed
+but not necessarily exact differential form on such a submanifold, requires a
+generalization of the Lagrangian and the Hamiltonian formalism that is here
+developed.

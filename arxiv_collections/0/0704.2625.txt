@@ -1,0 +1,24 @@
+We prove an existence theorem for gauge invariant $L^2$-normal neighborhoods
+of the reduction loci in the space ${\cal A}_a(E)$ of oriented connections on a
+fixed Hermitian 2-bundle $E$. We use this to obtain results on the topology of
+the moduli space ${\cal B}_a(E)$ of (non-necessarily irreducible) oriented
+connections, and to study the Donaldson $\mu$-classes globally around the
+reduction loci. In this part of the article we use essentially the concept of
+harmonic section in a sphere bundle with respect to an Euclidean connection.
+  Second, we concentrate on moduli spaces of instantons on definite 4-manifolds
+with arbitrary first Betti number. We prove strong generic regularity results
+which imply (for bundles with "odd" first Chern class) the existence of a
+connected, dense open set of "good" metrics for which all the reductions in the
+Uhlenbeck compactification of the moduli space are simultaneously regular.
+These results can be used to define new Donaldson type invariants for definite
+4-manifolds. The idea behind this construction is to notice that, for a good
+metric $g$, the geometry of the instanton moduli spaces around the reduction
+loci is always the same, independently of the choice of $g$. The connectedness
+of the space of good metrics is important, in order to prove that no
+wall-crossing phenomena (jumps of invariants) occur. Moreover, we notice that,
+for low instanton numbers, the corresponding moduli spaces are a priori compact
+and contain no reductions at all so, in these cases, the existence of
+well-defined Donaldson type invariants is obvious. The natural question is to
+decide whether these new Donaldson type invariants yield essentially new
+differential topological information on the base manifold have, or have a
+purely topological nature.

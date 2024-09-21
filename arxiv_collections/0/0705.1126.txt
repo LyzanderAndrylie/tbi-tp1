@@ -1,0 +1,8 @@
+We investigate the classical scattering dynamics of the driven elliptical
+billiard. Two fundamental scattering mechanisms are identified and employed to
+understand the rich behavior of the escape rate. A long-time algebraic decay
+which can be tuned by varying the driving amplitude is established. Pulsed
+escape rates and decelerated escaping particles are generic properties of the
+harmonically breathing billiard. This suggests time-dependent billiards as
+prototype systems to study the nonequilibrium evolution of classical ensembles
+encountering a multitude of scattering processes off driven targets.

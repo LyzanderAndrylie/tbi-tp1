@@ -1,0 +1,7 @@
+This report examines the thickness dependence of the reorientation phase
+transition in ferromagnetic films with perpendicular anisotropy. That is, we
+find the exact boundary of metastability of uniformly magnetized in-plane
+states as the solution to a set of transcendental algebraic equations, and find
+the profile of the initial instability in the magnetization in the direction
+normal to the plane of the film. In general, this instability occurs at a
+finite wave number k. We determine the dependence of k on the film thickness.

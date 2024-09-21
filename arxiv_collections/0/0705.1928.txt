@@ -1,0 +1,8 @@
+We show in detail how the Jordan-Wigner transformation can be used to
+simulate any fermionic many-body Hamiltonian on a quantum computer. We develop
+an algorithm based on appropriate qubit gates that takes a general fermionic
+Hamiltonian, written as products of a given number of creation and annihilation
+operators, as input. To demonstrate the applicability of the algorithm, we
+calculate eigenvalues and eigenvectors of two model Hamiltonians, the
+well-known Hubbard model and a generalized pairing Hamiltonian. Extensions to
+other systems are discussed.

@@ -1,0 +1,8 @@
+We demonstrate an electrostatic trap for indirect excitons in a field-effect
+structure based on coupled GaAs quantum wells. Within the plane of a double
+quantum well indirect excitons are trapped at the perimeter of a SiO2 area
+sandwiched between the surface of the GaAs heterostructure and a
+semitransparent metallic top gate. The trapping mechanism is well explained by
+a combination of the quantum confined Stark effect and local field enhancement.
+We find the one-dimensional trapping potentials in the quantum well plane to be
+nearly harmonic with high spring constants exceeding 10 keV/cm^2.

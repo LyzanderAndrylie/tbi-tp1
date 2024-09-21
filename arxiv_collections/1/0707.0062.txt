@@ -1,0 +1,14 @@
+Single-electron transistors attached to ferromagnetic leads can undergo a
+continuous quantum phase transition as their gate voltage is tuned. The
+corresponding quantum critical point separates a Fermi liquid phase from a
+non-Fermi liquid one. Here, we expound on the physical idea proposed earlier.
+The key physics is the critical destruction of the Kondo effect, which
+underlies a new class of quantum criticality that has been argued to apply to
+heavy fermion metals. Its manifestation in the transport properties is studied
+through an effective Bose-Fermi Kondo model; the bosonic bath, corresponding to
+the spin waves of the ferromagnetic leads, describes a particular type of
+sub-Ohmic dissipation. We also present results for general forms of sub-Ohmic
+dissipative bath, and consider in some detail the case with critical paramagons
+replacing spin waves. Finally, we discuss some delicate aspects in the
+theoretical treatment of the effect of a local magnetic field, particularly in
+connection with the frequently employed Non-Crossing Approximation.

@@ -1,0 +1,11 @@
+Several nanoelectronic devices have been already proved. However, no
+architecture which makes use of them provides a feasible opportunity to build
+medium/large systems. Nanoarchitecture proposals only solve a small part of the
+problems needed to achieve a real design. In this paper, we propose and analyze
+a cell architecture that overcomes most of those at the gate level. Using the
+cell structure we build 2 and 3-input NAND gates showing their error
+probabilities. Finally, we outline a method to further improve the structure's
+tolerance by taking advantage of interferences among nanodevices. Using this
+improvement we show that it is possible to reduce the output standard deviation
+by a factor larger than $\sqrt{2}$ and restitute the signal levels using
+nanodevices.

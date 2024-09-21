@@ -1,0 +1,7 @@
+We obtain general expressions for the residual density of states, electrical
+conductivity and thermal conductivity for non-unitary superconductors due to
+impurity scattering. We apply the results to the so-called `B phase' of
+PrOs4Sb12, which we describe using a non-unitary gap function derived from
+symmetry considerations. The conductivity tensor has inequivalent diagonal
+components due to off-axis nodal positions which may be detectable in
+experiments.

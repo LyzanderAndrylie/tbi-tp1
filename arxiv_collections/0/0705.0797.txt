@@ -1,0 +1,12 @@
+We show the asymptotic long-time equivalence of a generic power law waiting
+time distribution to the Mittag-Leffler waiting time distribution,
+characteristic for a time fractional CTRW. This asymptotic equivalence is
+effected by a combination of "rescaling" time and "respeeding" the relevant
+renewal process followed by a passage to a limit for which we need a suitable
+relation between the parameters of rescaling and respeeding. Turning our
+attention to spatially 1-D CTRWs with a generic power law jump distribution,
+"rescaling" space can be interpreted as a second kind of "respeeding" which
+then, again under a proper relation between the relevant parameters leads in
+the limit to the space-time fractional diffusion equation. Finally, we treat
+the `time fractional drift" process as a properly scaled limit of the counting
+number of a Mittag-Leffler renewal process.

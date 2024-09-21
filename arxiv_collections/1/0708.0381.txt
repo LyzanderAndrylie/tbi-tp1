@@ -1,0 +1,9 @@
+It is well known that if S is a subset of the integers mod p, and if the
+second-largest Fourier coefficient is ``small'' relative to the largest
+coefficient, then the sumset S+S is much larger than S. We show in the present
+paper that if instead of having such a large ``spectral gap'' between the
+largest and second-largest Fourier coefficients, we had it between the kth
+largest and the (k+1)st largest, the same thing holds true, namely that |S+S|
+is appreciably larger than |S|. Well, we only do this for k < (log p)/(log 4).
+We also obtain analogous results for repeated sumsets S+S+...+S, and it turns
+out that the more terms one includes, the larger the index k that can be used.

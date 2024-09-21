@@ -1,0 +1,20 @@
+The bipolar HH 212 outflow has been mapped in SiO using the extended
+configuration of the Plateau de Bure Interferometer (PdBI), revealing a highly
+collimated SiO jet closely associated with the H2 jet component. We study at
+unprecedented resolution (0.34" across the jet axis) the properties of the
+innermost SiO ``microjet'' within 1000 AU of this young Class 0 source, to
+compare it with atomic microjets from more evolved sources and to constrain its
+origin. The SiO channel maps are used to investigate the microjet collimation
+and velocity structure. A large velocity gradient analysis is applied to SiO
+(2-1), (5-4) and (8-7) data from the PdBI and the Submillimeter Array to
+constrain the SiO opacity and abundance. The HH212 Class 0 microjet shows
+striking similarities in collimation and energetic budget with atomic microjets
+from T Tauri sources. Furthermore, the SiO lines appear optically thick, unlike
+what is generally assumed. We infer T(kin) ~ 50-500 K and an SiO/H2 abundance
+greater than 4 10(-8)-6 10(-5) for n(H2) = 10(7)-10(5) cm(-3), i.e. 0.05-90% of
+the elemental silicon. This similar jet width, regardless of the presence of a
+dense envelope, definitely rules out jet collimation by external pressure, and
+favors a common MHD self-collimation (and possibly acceleration) process at all
+stages of star formation. We propose that the more abundant SiO in Class 0 jets
+could mainly result from rapid (less than 25 yrs) molecular synthesis at high
+jet densities.

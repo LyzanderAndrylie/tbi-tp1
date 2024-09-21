@@ -1,0 +1,8 @@
+We show storage of the circular polarisation of an optical field,
+transferring it to the spin-state of an individual electron confined in a
+single semiconductor quantum dot. The state is subsequently readout through the
+electronically-triggered emission of a single photon. The emitted photon shares
+the same polarisation as the initial pulse but has a different energy, making
+the transfer of quantum information between different physical systems
+possible. With an applied magnetic field of 2 Tesla, spin memory is preserved
+for at least 1000 times more than the exciton's radiative lifetime.

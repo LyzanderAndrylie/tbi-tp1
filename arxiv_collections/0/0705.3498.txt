@@ -1,0 +1,15 @@
+The composite torsional ultrasonic oscillator, a versatile experimental
+system, can be used to investigate slip of Newtonian fluid at a smooth surface.
+A rigorous analysis of slip-dependent damping for the oscillator is presented.
+Initially, the phenomenon of finite surface slip and the slip length are
+considered for a half-space of Newtonian fluid in contact with a smooth,
+oscillating solid surface. Definitions are revisited and clarified in light of
+inconsistencies in the literature. We point out that, in general oscillating
+flows, Navier's slip length b is a complex number. An intuitive velocity
+discontinuity parameter of unrestricted phase is used to describe the effect of
+slip on measurement of viscous shear damping. The analysis is applied to the
+composite oscillator and preliminary experimental work for a 40 kHz oscillator
+is presented. The Non-Slip Boundary Condition (NSBC) has been verified for a
+hydrophobic surface in water to within ~60 nm of |b|=0 nm. Experiments were
+carried out at shear rate amplitudes between 230 and 6800 /s, corresponding to
+linear displacement amplitudes between 3.2 and 96 nm.

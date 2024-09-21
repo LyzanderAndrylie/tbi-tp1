@@ -1,0 +1,9 @@
+A phase field model for dealing with shape instabilities in fluid membrane
+vesicles is presented. This model takes into account the Canham-Helfrich
+bending energy with spontaneous curvature. A dynamic equation for the
+phase-field is also derived. With this model it is possible to see the vesicle
+shape deformation dynamically, when some external agent instabilizes the
+membrane, for instance, inducing an inhomogeneous spontaneous curvature. The
+numerical scheme used is detailed and some stationary shapes are shown together
+with a shape diagram for vesicles of spherical topology and no spontaneous
+curvature, in agreement with known results.

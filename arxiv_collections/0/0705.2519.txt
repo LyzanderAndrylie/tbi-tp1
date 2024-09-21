@@ -1,0 +1,21 @@
+We address the problem of constructing high-accuracy, faithful analytic
+waveforms describing the gravitational wave signal emitted by inspiralling and
+coalescing binary black holes. We work within the Effective-One-Body (EOB)
+framework and propose a methodology for improving the current
+(waveform)implementations of this framework based on understanding, element by
+element, the physics behind each feature of the waveform, and on systematically
+comparing various EOB-based waveforms with ``exact'' waveforms obtained by
+numerical relativity approaches. The present paper focuses on small-mass-ratio
+non-spinning binary systems, which can be conveniently studied by
+Regge-Wheeler-Zerilli-type methods. Our results include: (i) a resummed,
+3PN-accurate description of the inspiral waveform, (ii) a better description of
+radiation reaction during the plunge, (iii) a refined analytic expression for
+the plunge waveform, (iv) an improved treatment of the matching between the
+plunge and ring-down waveforms. This improved implementation of the EOB
+approach allows us to construct complete analytic waveforms which exhibit a
+remarkable agreement with the ``exact'' ones in modulus, frequency and phase.
+In particular, the analytic and numerical waveforms stay in phase, during the
+whole process, within $\pm 1.1 %$ of a cycle. We expect that the extension of
+our methodology to the comparable-mass case will be able to generate comparably
+accurate analytic waveforms of direct use for the ground-based network of
+interferometric detectors of gravitational waves.

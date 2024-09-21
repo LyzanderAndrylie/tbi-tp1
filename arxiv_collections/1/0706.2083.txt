@@ -1,0 +1,9 @@
+Experimental results showing huge negative differential conductance in
+gold-hydrogen molecular nanojunctions are presented. The results are analyzed
+in terms of two-level system (TLS) models: it is shown that a simple TLS model
+cannot produce peaklike structures in the differential conductance curves,
+whereas an asymmetrically coupled TLS model gives perfect fit to the data. Our
+analysis implies that the excitation of a bound molecule to a large number of
+energetically similar loosely bound states is responsible for the peaklike
+structures. Recent experimental studies showing related features are discussed
+within the framework of our model.

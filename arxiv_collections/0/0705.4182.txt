@@ -1,0 +1,16 @@
+In this work the dynamics of a freely jointed random chain which fluctuates
+at constant temperature in some viscous medium is studied. The chain is
+regarded as a system of small particles which perform a brownian motion and are
+subjected to rigid constraints which forbid the breaking of the chain. For
+simplicity, all interactions among the particles have been switched off and the
+number of dimensions has been limited to two. The problem of describing the
+fluctuations of the chain in the limit in which it becomes a continuous system
+is solved using a path integral approach, in which the constraints are imposed
+with the insertion in the path integral of suitable Dirac delta functions. It
+is shown that the probability distribution of the possible conformations in
+which the fluctuating chain can be found during its evolution in time coincides
+with the partition function of a field theory which is a generalization of the
+nonlinear sigma model in two dimensions. Both the probability distribution and
+the generating functional of the correlation functions of the positions of the
+beads are computed explicitly in a semiclassical approximation for a
+ring-shaped chain.

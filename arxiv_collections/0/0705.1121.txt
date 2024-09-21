@@ -1,0 +1,24 @@
+Several years ago, it was pointed out that the U-spin-related decays
+$B_d\to\pi^+\pi^-$, $B_s\to K^+K^-$ and $B_d\to\pi^\mp K^\pm$, $B_s\to \pi^\pm
+K^\mp$ offer interesting strategies for the extraction of the angle gamma of
+the unitarity triangle. Using the first results from the Tevatron on the $B_s$
+decays and the B-factory data on $B_{u,d}$ modes, we compare the determinations
+of gamma from both strategies, study the sensitivity on U-spin-breaking
+effects, discuss the resolution of discrete ambiguities, predict observables
+that were not yet measured but will be accessible at LHCb, explore the
+extraction of the width difference $\Delta\Gamma_s$ from untagged $B_s\to
+K^+K^-$ rates, and address the impact of new physics. The data for the
+$B_d\to\pi^+\pi^-$, $B_s\to K^+K^-$ system favour the BaBar measurement of
+direct CP violation in $B_d\to\pi^+\pi^-$, which will be used in the numerical
+analysis, and result in a fortunate situation, yielding
+$\gamma=(66.6^{+4.3+4.0}_{-5.0-3.0})^\circ$, where the latter errors correspond
+to a generous estimate of U-spin-breaking effects. On the other hand, the
+$B_d\to\pi^\mp K^\pm$, $B_s\to \pi^\pm K^\mp$ analysis leaves us with
+$26^\circ\leq\gamma\leq70^\circ$, and points to a value of the $B_s\to \pi^\pm
+K^\mp$ branching ratio that is larger than the current Tevatron result. An
+important further step will be the measurement of mixing-induced CP violation
+in $B_s\to K^+K^-$, which will also allow us to extract the $B^0_s$--$\bar
+B^0_s$ mixing phase unambiguously with the help of $B_s\to J/\psi \phi$ at the
+LHC. Finally, the measurement of direct CP violation in $B_s\to K^+K^-$ will
+make the full exploitation of the physics potential of the $B_{s,d}\to \pi\pi,
+\pi K, KK$ modes possible.

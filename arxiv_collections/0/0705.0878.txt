@@ -1,0 +1,18 @@
+We present the 2nd version of the Catalogue of Radial Velocities with
+Astrometric Data (CRVAD-2). This is the result of the cross-identification of
+stars from the All-Sky Compiled Catalogue of 2.5 Million Stars (ASCC-2.5) with
+the General Catalogue of Radial Velocities and with other recently published
+radial velocity lists and catalogues. The CRVAD-2 includes accurate J2000
+equatorial coordinates, proper motions and trigonometric parallaxes in the
+Hipparcos system, $B, V$ photometry in the Johnson system, spectral types,
+radial velocities (RVs), multiplicity and variability flags for 54907 ASCC-2.5
+stars. We have used the CRVAD-2 for a new determination of mean RVs of 363 open
+clusters and stellar associations considering their established members from
+proper motions and photometry in the ASCC-2.5. For 330 clusters and
+associations we compiled previously published mean RVs from the literature,
+critically reviewed and partly revised them. The resulting Catalogue of Radial
+Velocities of Open Clusters and Associations (CRVOCA) contains about 460 open
+clusters and about 60 stellar associations in the Solar neighbourhood. These
+numbers still represent less than 30% of the total number of about 1820 objects
+currently known in the Galaxy. The mean RVs of young clusters are generally
+better known than those of older ones.

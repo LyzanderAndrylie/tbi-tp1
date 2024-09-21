@@ -1,0 +1,16 @@
+For the purpose of understanding the quantum behavior such as quantum
+decoherence, fluctuations, dissipation, entanglement and teleportation of a
+mesoscopic or macroscopic object interacting with a general environment, we
+derive here a set of exact master equations for the reduced density matrix of
+$N$ interacting harmonic oscillators in a heat bath with arbitrary spectral
+density and temperature. Two classes of problems of interest to us which these
+equations can be usefully applied to are that of the quantum dynamics of
+nanoelectromechanical oscillators and the entanglement evolution of
+multi-partite macroscopic states such as quantum superposition of mirrors in a
+high Q cavity. To address a key conceptual issue for macroscopic quantum
+phenomena we examine the conditions for an assumption often implicitly made in
+these studies to be valid, namely, that the quantum behavior of a macroscopic
+object in an environment can be accurately represented by only treating the
+dynamics of its center-of-mass variable. We also mention how these results can
+be used to calculate the uncertainty principle governing a macroscopic object
+at finite temperature.

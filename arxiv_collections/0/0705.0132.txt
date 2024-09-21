@@ -1,0 +1,10 @@
+In this paper, the performance of signaling strategies with high
+peak-to-average power ratio is analyzed in both coherent and noncoherent fading
+channels. Two recently proposed modulation schemes, namely on-off binary
+phase-shift keying and on-off quaternary phase-shift keying, are considered.
+For these modulation formats, the optimal decision rules used at the detector
+are identified and analytical expressions for the error probabilities are
+obtained. Numerical techniques are employed to compute the error probabilities.
+It is concluded that increasing the peakedness of the signals results in
+reduced error rates for a given power level and hence improve the energy
+efficiency.

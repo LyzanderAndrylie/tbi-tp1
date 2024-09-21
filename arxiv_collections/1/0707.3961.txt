@@ -1,0 +1,16 @@
+The mechanical properties of the so-called `super' carbon nanotubes (STs) are
+investigated using classical molecular dynamics simulations. The STs are built
+from single walled carbon nanotubes (SWCNTs) connected by Y-like junctions
+forming an ordered carbon nanotube network that is then rolled into a seamless
+cylinder. We observed that the ST behavior under tensile tests is similar to
+the one presented by fishing nets. This interesting behavior provides a way to
+vary the accessible channels to the inner parts of STs by applying external
+mechanical load. The Young's modulus is dependent on the ST chirality and it
+inversely varies with the ST radius. Smaller reduction of breaking strain
+values due to temperature increase is predicted for zigzag STs compared to
+SWCNTs. The results show that, for STs with radius ~ 5 nm, the junctions
+between the constituent SWCNTs play an important role on the fracture process.
+The Young's modulus and tensile strength were estimated for hierarchical
+higher-order STs using scaling laws related to the ST fractal dimension. The
+obtained mechanical properties suggest that STs may be used in the development
+of new porous, flexible, and high-strength materials.

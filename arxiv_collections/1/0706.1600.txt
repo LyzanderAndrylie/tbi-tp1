@@ -1,0 +1,20 @@
+A measurement of the double-differential cross-section for the production of
+charged pions in proton--tantalum collisions emitted at large angles from the
+incoming beam direction is presented. The data were taken in 2002 with the HARP
+detector in the T9 beam line of the CERN PS. The pions were produced by proton
+beams in a momentum range from 3 \GeVc to 12 \GeVc hitting a tantalum target
+with a thickness of 5% of a nuclear interaction length. The angular and
+momentum range covered by the experiment ($100 \MeVc \le p < 800 \MeVc$ and
+$0.35 \rad \le \theta <2.15 \rad$) is of particular importance for the design
+of a neutrino factory. The produced particles were detected using a
+small-radius cylindrical time projection chamber (TPC) placed in a solenoidal
+magnet. Track recognition, momentum determination and particle identification
+were all performed based on the measurements made with the TPC. An elaborate
+system of detectors in the beam line ensured the identification of the incident
+particles. Results are shown for the double-differential cross-sections
+${{\mathrm{d}^2 \sigma}} / {{\mathrm{d}p\mathrm{d}\theta}}$ at four incident
+proton beam momenta (3 \GeVc, 5 \GeVc, 8 \GeVc and 12 \GeVc). In addition, the
+pion yields within the acceptance of typical neutrino factory designs are shown
+as a function of beam momentum. The measurement of these yields within a single
+experiment eliminates most systematic errors in the comparison between rates at
+different beam momenta and between positive and negative pion production.

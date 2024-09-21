@@ -1,0 +1,14 @@
+The present paper introduces a linear reformulation of the Kuramoto model
+describing a self-synchronizing phase transition in a system of globally
+coupled oscillators that in general have different characteristic frequencies.
+The reformulated model provides an alternative coherent framework through which
+one can analytically tackle synchronization problems that are not amenable to
+the original Kuramoto analysis. It allows one to solve explicitly for the
+synchronization order parameter and the critical point of 1) the full
+phase-locking transition for a system with a finite number of oscillators
+(unlike the original Kuramoto model, which is solvable implicitly only in the
+mean-field limit) and 2) a new class of continuum systems. It also makes it
+possible to probe the system's dynamics as it moves towards a steady state.
+While discussion in this paper is restricted to systems with global coupling,
+the new formalism introduced by the linear reformulation also lends itself to
+solving systems that exhibit local or asymmetric coupling.

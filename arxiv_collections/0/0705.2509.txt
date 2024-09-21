@@ -1,0 +1,5 @@
+We report on anomalous conductance in a resistively and capacitively shunted
+Josephson junction which is simultaneously driven by ac and dc currents. The
+dependence of the voltage across the junction on the frequency of the ac
+current shows windows of absolute negative conductance regimes, i.e. for a
+positive (negative) dc current, the voltage is negative (positive).

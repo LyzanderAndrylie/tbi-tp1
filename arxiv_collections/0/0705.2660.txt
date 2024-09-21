@@ -1,0 +1,12 @@
+We present a general scheme for multiparty-controlled teleportation of an
+arbitrary m-qudit ($d$-dimensional quantum system) state by using non-maximally
+entangled states as the quantum channel. The sender performs m generalized
+Bell-state measurements on her 2$m$ particles, the controllers take some
+single-particle measurements with the measuring basis $X_{d}$ and the receiver
+only need to introduce one auxiliary two-level particle to extract quantum
+information probabilistically with the fidelity unit if he cooperates with all
+the controllers. All the parties can use some decoy photons to set up their
+quantum channel securely, which will forbid some a dishonest party to eavesdrop
+freely. This scheme is optimal as the probability that the receiver obtains the
+originally unknown m-qudit state equals to the entanglement of the quantum
+channel.

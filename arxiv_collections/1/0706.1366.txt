@@ -1,0 +1,8 @@
+The goal of this paper is to describe Zermelo's navigation problem on
+Riemannian manifolds as a time-optimal control problem and give an efficient
+method in order to evaluate its control curvature. We will show that up to
+change the Riemannian metric on the manifold the control curvature of Zermelo's
+problem has a simple to handle expression which naturally leads to a
+generalization of the classical Gauss-Bonnet formula in an inequality. This
+Gauss-Bonnet inequality enables to generalize for Zermelo's problems the E.
+Hopf theorem on flatness of Riemannian tori without conjugate points.

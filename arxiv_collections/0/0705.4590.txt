@@ -1,0 +1,13 @@
+We study conchoids to algebraic curve from the perspective of algebraic
+geometry, analyzing their main algebraic properties. We introduce the formal
+definition of conchoid of an algebraic curve by means of incidence diagrams. We
+prove that, with the exception of a circle centered at the focus and taking $d$
+as its radius, the conchoid is an algebraic curve having at most two
+irreducible components. In addition, we introduce the notions of special and
+simple components of a conchoid. Moreover we state that, with the exception of
+lines passing through the focus, the conchoid always has at least one simple
+component and that, for almost every distance, all the components of the
+conchoid are simple. We state that, in the reducible case, simple conchoid
+components are birationally equivalent to the initial curve, and we show how
+special components can be used to decide whether a given algebraic curve is the
+conchoid of another curve.

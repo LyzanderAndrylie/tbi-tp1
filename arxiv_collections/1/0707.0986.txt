@@ -1,0 +1,7 @@
+I apply the method of characteristics to both bi-directional and
+uni-directional pulse propagation in dispersionless media containing
+nonlinearity of arbitrary order. The differing analytic predictions for the
+shocking distance quantify the effects of the uni-directional approximation
+used in many pulse propagation models. Results from numerical simulations
+support the theoretical predictions, and reveal the nature of the coupling
+between forward and backward waves.

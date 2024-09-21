@@ -1,0 +1,13 @@
+Aims. The purpose of this work is to investigate a new frequency separation
+of stellar p-modes and its characteristics. Methods. Frequency separations are
+deduced from the asymptotic formula of stellar p-modes. Then, using the
+theoretical adiabatic frequencies of stellar model, we compute the frequency
+separations. Results. A new separation $\sigma_{l-1 l+1}(n)$, which is similar
+to the scaled small separation $d_{l l+2}(n)/(2l+3)$, is obtained from the
+asymptotic formula of stellar p-modes. The separations $\sigma_{l-1 l+1}(n)$
+and $d_{l l+2}(n)/(2l+3)$ have the same order. And like the small separation,
+$\sigma_{l-1 l+1}(n)$ is mainly sensitive to the conditions in the stellar
+core. However, with the decrease of the central hydrogen abundance of stars,
+the $\sigma_{02}$ and $\sigma_{13}$ more and more deviate from the scaled small
+separation. This characteristic could be used to extract the information on the
+central hydrogen abundance of stars.

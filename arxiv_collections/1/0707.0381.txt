@@ -1,0 +1,9 @@
+Radiative corrections of strong and electroweak interactions are presented at
+next-to-leading order for the production of a Higgs boson plus two hard jets
+via weak interactions at the LHC. The calculation includes all weak-boson
+fusion and quark-antiquark annihilation diagrams as well as the corresponding
+interferences. The electroweak corrections, which are discussed here for the
+first time, reduce the cross sections by 5%, and thus are of the same order of
+magnitude as the QCD corrections. As argued in previous papers, where s-channel
+diagrams and interferences were neglected, the QCD corrections connected to
+interference effects are small.

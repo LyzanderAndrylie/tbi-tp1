@@ -1,0 +1,24 @@
+Long Gamma Ray Bursts hold the promise of probing star-formation and metal
+enrichment up to very high redshifts. The present GRB samples with redshift
+determination are largely incomplete and therefore a careful analysis of
+selection effects is mandatory before any conclusion can be drawn from the
+observed GRB redshift distribution. We study and compare three well defined
+samples of long GRBs detected by Swift, HETE2 and BeppoSAX. We find that Swift
+GRBs are slighly fainter and harder than BeppoSAX and HETE2 GRBs, as expected
+due to the higher energy range in which Swift GRBs are detected and localized,
+compared to BeppoSAX and HETE2. Gas and dust obscuration plays a role in
+shaping the GRB samples and the present samples of GRBs with redshift. We argue
+that the majority of the bright Swift GRBs without redshift might actually be
+z<~2 events therefore the present Swift GRB sample with redshift is biased
+against low-z GRBs. On the other hand, the detection of bright UV rest-frame
+afterglows from high-z GRBs, and even from those with large X-ray obscuration,
+implies a dust amount lower than in nearby GRBs,and/or a different dust
+composition. If this is the case, the Swift sample of GRBs with redshifts is
+probably a fair sample of the real high-z GRB population. The absence of high-z
+GRBs in the BeppoSAX and HETE2 samples of GRBs with redshifts is probably due
+to the fact at the time of BeppoSAX and HETE2 follow-up faint afterglows of
+high redshift GRBs will have weaken below the spectroscopic capabilities of
+even 10m class telescopes. The redshift distribution of a subsample of Swift
+GRBs with distributions of peak-fluxes, X-ray obscuration and optical magnitude
+at a fixed observing time similar to those of the BeppoSAX and HETE2 samples,
+is roughly consistent with BeppoSAX+HETE2 redshift distribution.

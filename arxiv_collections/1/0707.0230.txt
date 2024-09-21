@@ -1,0 +1,8 @@
+We consider the problem of constructing Lyapunov functions for linear
+differential equations with delays. For such systems it is known that
+exponential stability implies the existence of a positive Lyapunov function
+which is quadratic on the space of continuous functions. We give an explicit
+parametrization of a sequence of finite-dimensional subsets of the cone of
+positive Lyapunov functions using positive semidefinite matrices. This allows
+stability analysis of linear time-delay systems to be formulated as a
+semidefinite program.

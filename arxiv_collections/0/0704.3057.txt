@@ -1,0 +1,8 @@
+It is known that an explosive instability can occur when nonlinear waves
+propagate in certain media that admit 3-wave mixing. The purpose of this paper
+is to show that explosive instabilities can occur even in media that admit no
+3-wave mixing. Instead, the instability is caused by 4-wave mixing: four
+resonantly interacting wavetrains gain energy from a background, and all blow
+up in a finite time. Unlike singularities associated with self-focussing, these
+singularities can occur with no spatial structure - the waves blow up
+everywhere in space, simultaneously.

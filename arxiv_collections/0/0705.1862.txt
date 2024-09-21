@@ -1,0 +1,18 @@
+The Cosmic Far-Infrared Background (CFIRB) contains information about the
+number and distribution of contributing sources and thus gives us an important
+key to understand the evolution of galaxies. Using a confusion study to set a
+fundamental limit to the observations, we investigate the potential to explore
+the CFIRB with AKARI/FIS deep observations. The Far-Infrared Surveyor (FIS) is
+one of the focal-plane instruments on the AKARI (formerly known as ASTRO-F)
+satellite, which was launched in early 2006. Based upon source distribution
+models assuming three different cosmological evolutionary scenarios (no
+evolution, weak evolution, and strong evolution), an extensive model for
+diffuse emission from infrared cirrus, and instrumental noise estimates, we
+present a comprehensive analysis for the determination of the confusion levels
+for deep far-infrared observations. We use our derived sensitivities to suggest
+the best observational strategy for the AKARI/FIS mission to detect the CFIRB
+fluctuations. If the source distribution follows the evolutionary models,
+observations will be mostly limited by source confusion. We find that we will
+be able to detect the CFIRB fluctuations and that these will in turn provide
+information to discriminate between the evolutionary scenarios of galaxies in
+most low-to-medium cirrus regions.

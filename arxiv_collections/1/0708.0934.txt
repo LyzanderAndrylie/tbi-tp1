@@ -1,0 +1,8 @@
+We derive generalizations of the Cherednik-Macdonald constant term identities
+associated to root systems which depend, besides on the usual multiplicity
+function, symmetrically on two quasi-periods. They are natural analogues of the
+Cherednik-Macdonald constant term q-identities in which the deformation
+parameter q is allowed to have modulus one. They unite the Cherednik-Macdonald
+constant term q-identities with closely related Jackson p-integral identities
+due to Macdonald, where the deformation parameter p is related to q by modular
+inversion.

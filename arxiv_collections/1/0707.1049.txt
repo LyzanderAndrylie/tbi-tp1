@@ -1,0 +1,12 @@
+We generalize the Momentum Average approximations MA$^{(0)}$ and MA$^{(1)}$
+to study the effects of coupling to multiple optical phonons on the properties
+of a Holstein polaron. As for a single phonon mode, these approximations are
+numerically very efficient. They become exact for very weak or very strong
+couplings, and are highly accurate in the intermediate regimes, {\em e.g.} the
+spectral weights obey exactly the first six, respectively eight, sum rules. Our
+results show that the effect on ground-state properties is cumulative in
+nature. In particular, if the effective coupling to one mode is much larger
+than to the others, this mode effectively determines the GS properties.
+However, even very weak coupling to a second phonon mode has important
+non-perturbational effects on the higher energy spectrum, in particular on the
+dispersion and the phonon statistics of the polaron band.

@@ -1,0 +1,13 @@
+Representing and reasoning about qualitative temporal information is an
+essential part of many artificial intelligence tasks. Lots of models have been
+proposed in the litterature for representing such temporal information. All
+derive from a point-based or an interval-based framework. One fundamental
+reasoning task that arises in applications of these frameworks is given by the
+following scheme: given possibly indefinite and incomplete knowledge of the
+binary relationships between some temporal objects, find the consistent
+scenarii between all these objects. All these models require transitive tables
+-- or similarly inference rules-- for solving such tasks. We have defined an
+alternative model, S-languages - to represent qualitative temporal information,
+based on the only two relations of \emph{precedence} and \emph{simultaneity}.
+In this paper, we show how this model enables to avoid transitive tables or
+inference rules to handle this kind of problem.

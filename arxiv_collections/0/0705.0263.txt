@@ -1,0 +1,18 @@
+Recent experiments on La$_2$CuO$_4$ suggest that indirect resonant inelastic
+X-ray scattering (RIXS) might provide a probe for transversal spin dynamics. We
+present in detail a systematic expansion of the relevant magnetic RIXS cross
+section by using the ultrashort core-hole lifetime (UCL) approximation. We
+compute the scattering intensity and its momentum dependence in leading order
+of the UCL expansion. The scattering is due to two-magnon processes and is
+calculated within a linear spin-wave expansion of the Heisenberg spin model for
+this compound, including longer range and cyclic spin interactions. We observe
+that the latter terms in the Hamiltonian enhance the first moment of the
+spectrum if they strengthen the antiferromagnetic ordering. The theoretical
+spectra agree very well with experimental data, including the observation that
+scattering intensity vanishes for the transferred momenta ${\bf q} = (0,0)$ and
+${\bf q} = (\pi,\pi)$. We show that at finite temperature there is an
+additional single-magnon contribution to the scattering with a spectral weight
+proportional to $T^3$. We also compute the leading corrections to the UCL
+approximation and find them to be small, putting the UCL results on a solid
+basis. All this univocally points to the conclusion that the observed low
+temperature RIXS intensity in La$_2$CuO$_4$ is due to two-magnon scattering.

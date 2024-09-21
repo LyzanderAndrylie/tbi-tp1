@@ -1,0 +1,8 @@
+We investigate the effects of a nearly uniform Bose-Einstein condensate (BEC)
+on the properties of immersed trapped impurity atoms. Using a weak-coupling
+expansion in the BEC-impurity interaction strength, we derive a model
+describing polarons, i.e., impurities dressed by a coherent state of Bogoliubov
+phonons, and apply it to ultracold bosonic atoms in an optical lattice. We show
+that, with increasing BEC temperature, the transport properties of the
+impurities change from coherent to diffusive. Furthermore, stable polaron
+clusters are formed via a phonon-mediated off-site attraction.

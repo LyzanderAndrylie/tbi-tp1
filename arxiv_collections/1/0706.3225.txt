@@ -1,0 +1,14 @@
+The models of the Internet reported in the literature are mainly aimed at
+reproducing the scale-free structure, the high clustering coefficient and the
+small world effects found in the real Internet, while other important
+properties (e.g. related to centrality and hierarchical measurements) are not
+considered. For a better characterization and modeling of such network, a
+larger number of topological properties must be considered. In this work, we
+present a sound multivariate statistical approach, including feature spaces and
+multivariate statistical analysis (especially canonical projections), in order
+to characterize several Internet models while considering a larger set of
+relevant measurements. We apply such a methodology to determine, among nine
+complex networks models, which are those most compatible with the real Internet
+data (on the autonomous systems level) considering a set of 21 network
+measurements. We conclude that none of the considered models can reproduce the
+Internet topology with high accuracy.

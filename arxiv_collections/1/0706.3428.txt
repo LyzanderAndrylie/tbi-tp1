@@ -1,0 +1,18 @@
+We investigate the phenomenology of freely expanding fluids, with different
+material properties, evolving through the Israel-Stewart (IS) causal viscous
+hydrodynamics, and compare our results with those obtained in the relativistic
+Eckart-Landau-Navier-Stokes (ELNS) acausal viscous hydrodynamics. Through the
+analysis of scaling invariants we give a definition of thermalization time
+which can be self-consistently determined in viscous hydrodynamics. Next we
+construct the solutions for one-dimensional boost-invariant flows. Expansion of
+viscous fluids is slower than that of one-dimensional ideal fluids, resulting
+in entropy production. At late times, these flows are reasonably well
+approximated by solutions obtained in ELNS hydrodynamics. Estimates of initial
+energy densities from observed final values are strongly dependent on the
+dynamics one chooses. For the same material, and the same final state, IS
+hydrodynamics gives the smallest initial energy density. We also study
+fluctuations about these one-dimensional boost-invariant backgrounds; they are
+damped in ELNS hydrodynamics but can become sound waves in IS hydrodynamics.
+The difference is obvious in power spectra due to clear signals of
+wave-interference in IS hydrodynamics, which is completely absent in ELNS
+dynamics.

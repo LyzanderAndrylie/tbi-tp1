@@ -1,0 +1,15 @@
+We search for direct pair production of supersymmetric top quarks and
+supersymmetric bottom quarks in proton-antiproton collisions at sqrt(s)=1.96
+TeV, using 295 pb^-1 of data recorded by the Collider Detector at Fermilab (CDF
+II) experiment. The supersymmetric top (supersymmetric bottom) quarks are
+selected by reconstructing their decay into a charm (bottom) quark and a
+neutralino, which is assumed to be the lightest supersymmetric particle. The
+signature of such processes is two energetic heavy-flavor jets and missing
+transverse energy. The number of events that pass our selection for each search
+process is consistent with the expected standard model background. By comparing
+our results to the theoretical production cross sections of the supersymmetric
+top and supersymmetric bottom quarks in the minimal supersymmetric standard
+model, we exclude, at a 95% confidence level in the frame of that model, a
+supersymmetric top quark mass up to 132 GeV/c^2 for a neutralino mass of 48
+GeV/c^2, and a supersymmetric bottom quark mass up to 193 GeV/c^2 for a
+neutralino mass of 40 GeV/c^2.

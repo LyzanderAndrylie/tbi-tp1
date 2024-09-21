@@ -1,0 +1,24 @@
+Secular variations of the geomagnetic field have been measured with a
+continuously improving accuracy during the last few hundred years, culminating
+nowadays with satellite data. It is however well known that the dynamics of the
+magnetic field is linked to that of the velocity field in the core and any
+attempt to model secular variations will involve a coupled dynamical system for
+magnetic field and core velocity. Unfortunately, there is no direct observation
+of the velocity. Independently of the exact nature of the above-mentioned
+coupled system -- some version being currently under construction -- the
+question is debated in this paper whether good knowledge of the magnetic field
+can be translated into good knowledge of core dynamics. Furthermore, what will
+be the impact of the most recent and precise geomagnetic data on our knowledge
+of the geomagnetic field of the past and future? These questions are cast into
+the language of variational data assimilation, while the dynamical system
+considered in this paper consists in a set of two oversimplified
+one-dimensional equations for magnetic and velocity fields. This toy model
+retains important features inherited from the induction and Navier-Stokes
+equations: non-linear magnetic and momentum terms are present and its linear
+response to small disturbances contains Alfv\'en waves. It is concluded that
+variational data assimilation is indeed appropriate in principle, even though
+the velocity field remains hidden at all times; it allows us to recover the
+entire evolution of both fields from partial and irregularly distributed
+information on the magnetic field. This work constitutes a first step on the
+way toward the reassimilation of historical geomagnetic data and geomagnetic
+forecast.

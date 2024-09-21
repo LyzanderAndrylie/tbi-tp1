@@ -1,0 +1,12 @@
+We report the performance of a silicon wafer beamsplitter for use for low
+$\Delta\nu>0.3 cm^{-1}$ resolution Fourier transform spectroscopy at far
+infrared frequencies. We characterize the Si beamsplitter by comparing
+throughput spectra measured with it to those measured with the standard Mylar
+beamsplitters commonly used in that range. We find that the throughput of the
+silicon beamsplitter is substantially greater than that of the Mylar
+beamsplitters over most of the IR spectrum, and that they are comparable in
+some limited ranges. The 2 mm silicon beamsplitter has an etalon spacing of
+about 0.7 cm^{-1}, which interferes with its use for $0.1 cm^{-1}<\Delta\nu <
+0.3cm^{-1}$. The average efficiency of the Si beamsplitter is 0.37 compared
+with a maximum efficiency of 0.35 for Mylar. The Si is particularly more
+efficient in the 100 to 400 cm^{-1} range because of absorption in Mylar.

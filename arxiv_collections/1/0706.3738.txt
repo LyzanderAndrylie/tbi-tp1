@@ -1,0 +1,4 @@
+We give a positive equivariant Littlewood-Richardson rule also discovered
+independently by Molev. Our proof generalizes a proof by Stembridge of the
+ordinary Littlewood-Richardson rule. We describe a weight-preserving bijection
+between our indexing tableaux and the Knutson-Tao puzzles.

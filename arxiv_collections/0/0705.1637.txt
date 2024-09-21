@@ -1,0 +1,19 @@
+We have observed several emission lines of two Nitrogen-bearing (C2H5CN and
+C2H3CN) and two Oxygen-bearing (CH3OCH3 and HCOOCH3) molecules towards a sample
+of well-known hot molecular cores (HMCs) in order to check whether the chemical
+differentiation seen in the Orion-HMC and W3(H_2O) between O- and N-bearing
+molecules is a general property of HMCs. With the IRAM-30m telescope we have
+observed 12 HMCs in 21 bands, centered at frequencies from 86250 to 258280 MHz.
+The rotational temperatures obtained range from ~100 to ~150 K in these HMCs.
+Single Gaussian fits performed to unblended lines show a marginal difference in
+the line peak velocities of the C2H5CN and CH3OCH3 lines, indicating a possible
+spatial separation between the region traced by the two molecules. On the other
+hand, neither the linewidths nor the rotational temperatures and column
+densities confirm such a result. By comparing the abundance ratio of the pair
+C2H5CN/C2H3CN with the predictions of theoretical models, we derive that the
+age of our cores ranges between 3.7 and 5.9x10^{4} yrs. The abundances of
+C2H5CN and C2H3CN are strongly correlated, as expected from theory which
+predicts that C2H3CN is formed through gas phase reactions involving C2H5CN. A
+correlation is also found between the abundances of C2H3CN and CH3OCH3, and
+C2H5CN and CH3OCH3. In all tracers the fractional abundances increase with the
+H_2 column density while they are not correlated with the gas temperature.

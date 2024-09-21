@@ -1,0 +1,8 @@
+In an earlier work [1] J. Suzuki proposed a set of nonlinear integral
+equations (NLIE) to describe the excited state spectrum of the integrable
+spin-1 XXZ chain in its repulsive regime. In this paper we extend his equations
+for the attractive regime of the model, and calculate analytically the
+conformal spectrum of the spin chain. We also discuss the typical root
+configurations of the thermodynamic limit as well as the 2-string deviations of
+certain excited states of the model. Special objects appearing in the NLIE are
+also treated with special care.

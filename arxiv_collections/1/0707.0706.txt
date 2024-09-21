@@ -1,0 +1,11 @@
+The renormalized mean value of the corresponding components of the
+Energy-Momentum tensor for massive scalar fields coupled to an arbitrary
+gravitational field configuration having cylindrical symmetry are analytically
+evaluated using the Schwinger-DeWitt approximation, up to second order in the
+inverse mass value. The general results are employed to explicitly derive
+compact analytical expressions for the Energy-Momentum tensor in the particular
+background of the Black-String spacetime. In the case of the Black String
+considered in this work, we proof that a violation of the weak energy condition
+occur at the horizon of the space-time for values of the coupling constant,
+that include as particular cases the most interesting of minimal and conformal
+coupling.

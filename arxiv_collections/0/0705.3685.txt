@@ -1,0 +1,9 @@
+It is known that von Neumann-Landau wave equation can present a mathematical
+formalism of motion of quantum mechanics, that is an extension of
+Schr\"{o}dinger's wave equation. In this paper, we concern with the Dirichlet
+problem of the stationary von Neumann-Landau wave equation:
+  {(- \triangle_x + \triangle_y) \Phi (x, y) = 0, x, y \in \Omega,
+  \Phi|_{\partial \Omega \times \partial \Omega} = f, where $\Omega$ is a
+bounded domain in $\mathbf{R}^n.$ By introducing anti-inner product spaces, we
+show the existence and uniqueness of the generalized solution for the above
+Dirichlet problem by functional-analytic methods.

@@ -1,0 +1,8 @@
+We revisit the Aslamazov-Larkin theory of paraconductivity in two dimensions,
+to distinguish its universal features from the specific features of nearly-free
+paired fermions. We show that both the numerical prefactor and the temperature
+dependence of the experimental paraconductivity in underdoped La_{2-x}Sr_xCuO_4
+are only compatible with pairing of nearly-free fermionic quasiparticles. This
+conclusion is strengthened by the analysis of paraconductivity data in the
+presence of a finite magnetic field, from which we extract a rather low value
+of the critical field H_{c2}(T=0).

@@ -1,0 +1,24 @@
+Very recently, it has been shown that thermal noise and its artificial
+versions (Johnson-like noises) can be utilized as an information carrier with
+peculiar properties therefore it may be proper to call this topic Thermal Noise
+Informatics. Zero Power (Stealth) Communication, Thermal Noise Driven
+Computing, and Totally Secure Classical Communication are relevant examples. In
+this paper, while we will briefly describe the first and the second subjects,
+we shall focus on the third subject, the secure classical communication via
+wire. This way of secure telecommunication utilizes the properties of
+Johnson(-like) noise and those of a simple Kirchhoff's loop. The communicator
+is unconditionally secure at the conceptual (circuit theoretical) level and
+this property is (so far) unique in communication systems based on classical
+physics. The communicator is superior to quantum alternatives in all known
+aspects, except the need of using a wire. In the idealized system, the
+eavesdropper can extract zero bit of information without getting uncovered. The
+scheme is naturally protected against the man-in-the-middle attack. The
+communication can take place also via currently used power lines or phone
+(wire) lines and it is not only a point-to-point communication like quantum
+channels but network-ready. Tests have been carried out on a model-line with
+ranges beyond the ranges of any known direct quantum communication channel and
+they indicate unrivalled signal fidelity and security performance. This simple
+device has single-wire secure key generation/sharing rates of 0.1, 1, 10, and
+100 bit/second for copper wires with diameters/ranges of 21 mm / 2000 km, 7 mm
+/ 200 km, 2.3 mm / 20 km, and 0.7 mm / 2 km, respectively and it performs with
+0.02% raw-bit error rate (99.98 % fidelity).

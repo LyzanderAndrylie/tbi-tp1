@@ -1,0 +1,22 @@
+We consider binary mixtures of soft repulsive spherical particles and
+calculate the depletion interaction between two big spheres mediated by the
+fluid of small spheres, using different theoretical and simulation methods. The
+validity of the theoretical approach, a virial expansion in terms of the
+density of the small spheres, is checked against simulation results. Attention
+is given to the approach toward the hard-sphere limit, and to the effect of
+density and temperature on the strength of the depletion potential. Our results
+indicate, surprisingly, that even a modest degree of softness in the pair
+potential governing the direct interactions between the particles may lead to a
+significantly more attractive total effective potential for the big spheres
+than in the hard-sphere case. This might lead to significant differences in
+phase behavior, structure and dynamics of a binary mixture of soft repulsive
+spheres. In particular, a perturbative scheme is applied to predict the phase
+diagram of an effective system of big spheres interacting via depletion forces
+for a size ratio of small and big spheres of 0.2; this diagram includes the
+usual fluid-solid transition but, in the soft-sphere case, the metastable
+fluid-fluid transition, which is probably absent in hard-sphere mixtures, is
+close to being stable with respect to direct fluid-solid coexistence. From
+these results the interesting possibility arises that, for sufficiently soft
+repulsive particles, this phase transition could become stable. Possible
+implications for the phase behavior of real colloidal dispersions are
+discussed.

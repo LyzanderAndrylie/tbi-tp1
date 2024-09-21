@@ -1,0 +1,15 @@
+This paper presents the design and implementation of a Grid-enabled physics
+analysis environment for handheld and other resource-limited computing devices
+as one example of the use of mobile devices in eScience. Handheld devices offer
+great potential because they provide ubiquitous access to data and
+round-the-clock connectivity over wireless links. Our solution aims to provide
+users of handheld devices the capability to launch heavy computational tasks on
+computational and data Grids, monitor the jobs status during execution, and
+retrieve results after job completion. Users carry their jobs on their handheld
+devices in the form of executables (and associated libraries). Users can
+transparently view the status of their jobs and get back their outputs without
+having to know where they are being executed. In this way, our system is able
+to act as a high-throughput computing environment where devices ranging from
+powerful desktop machines to small handhelds can employ the power of the Grid.
+The results shown in this paper are readily applicable to the wider eScience
+community.

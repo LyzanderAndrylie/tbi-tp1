@@ -1,0 +1,9 @@
+In this article, we study the vertices $D^*D^*P$, $D^*DV$ and DDV with the
+light-cone QCD sum rules. The strong coupling constants g_{D^*D^*P}, g_{D^*DP},
+f_{D^*DV}, f_{D^*D^*V}, g_{DDV} and g_{D^*D^*V} play an important role in
+understanding the final-state interactions in the hadronic B decays. They
+relate to the basic parameters g, $\lambda$ and $\beta$ in the heavy quark
+effective Lagrangian respectively. Our numerical values of the g, $\beta$ and
+$\lambda$ are much smaller than most of the existing estimations. If the
+predictions from the light-cone QCD sum rules are robust, the final-state
+interaction effects maybe overestimated in the hadronic B decays.

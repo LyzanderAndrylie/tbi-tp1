@@ -1,0 +1,18 @@
+We investigate the equilibrium properties of bcc-liquid interfaces modeled
+with a continuum phase-field crystal (PFC) approach [K. R. Elder and M. Grant,
+Phys. Rev. E 70, 051605 (2004)]. A multiscale analysis of the PFC model is
+carried out which exploits the fact that the amplitudes of crystal density
+waves decay slowly into the liquid in the physically relevant limit where the
+freezing transition is weakly first order. This analysis yields a set of
+coupled equations for these amplitudes that is similar to the set of equations
+derived from Ginzburg-Landau (GL) theory [K.-A. Wu et al., Phys. Rev. E 73,
+094101 (2006)]. The two sets only differ in the details of higher order
+nonlinear couplings between different density waves, which is determined by the
+form of the nonlinearity assumed in the PFC model and by the ansatz that all
+polygons with the same number of sides have equal weight in GL theory. Despite
+these differences, for parameters (liquid structure factor and solid density
+wave amplitude) of Fe determined from molecular dynamic (MD) simulations, the
+PFC and GL amplitude equations yield very similar predictions for the overall
+magnitude and anisotropy of the interfacial free-energy and density wave
+profiles. These predictions are compared with MD simulations as well as
+numerical solutions of the PFC model.

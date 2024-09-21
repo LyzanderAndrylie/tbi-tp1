@@ -1,0 +1,8 @@
+An integrable self-adjoint 7-point scheme on the triangular lattice and an
+integrable self-adjoint scheme on the honeycomb lattice are studied using the
+sublattice approach. The star-triangle relation between these systems is
+introduced, and the Darboux transformations for both linear problems from the
+Moutard transformation of the B-(Moutard) quadrilateral lattice are obtained. A
+geometric interpretation of the Laplace transformations of the self-adjoint
+7-point scheme is given and the corresponding novel integrable discrete 3D
+system is constructed.

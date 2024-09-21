@@ -1,0 +1,15 @@
+Density-functional theory requires ever better exchange-correlation (xc)
+functionals for the ever more precise description of many-body effects on
+electronic structure. Universal constraints on the xc energy are important
+ingredients in the construction of improved functionals. Here we investigate
+one such universal property of xc functionals: the Lieb-Oxford lower bound on
+the exchange-correlation energy, $E_{xc}[n] \ge -C \int d^3r n^{4/3}$, where
+$C\leq C_{LO}=1.68$. To this end, we perform a survey of available exact or
+near-exact data on xc energies of atoms, ions, molecules, solids, and some
+model Hamiltonians (the electron liquid, Hooke's atom and the Hubbard model).
+All physically realistic density distributions investigated are consistent with
+the tighter limit $C \leq 1$. For large classes of systems one can obtain
+class-specific (but not fully universal) similar bounds. The Lieb-Oxford bound
+with $C_{LO}=1.68$ is a key ingredient in the construction of modern xc
+functionals, and a substantial change in the prefactor $C$ will have
+consequences for the performance of these functionals.

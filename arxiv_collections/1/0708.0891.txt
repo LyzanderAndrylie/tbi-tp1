@@ -1,0 +1,9 @@
+It is shown that for any morphism, i: g --> h, of Lie algebras the vector
+space underlying the Lie algebra h is canonically a g-homogeneous formal
+manifold with the action of g being highly nonlinear and twisted by Bernoulli
+numbers. This fact is obtained from the study of a 2-coloured operad of formal
+homogeneous spaces and its minimal resolution, and is used to give a new
+conceptual explanation of both Ziv Ran's Jacobi-Bernoulli complex and
+Fiorenza-Manetti's L-infinity algebra structure on the mapping cone of a
+morphism of two Lie algebras. All these constructions are iteratively extended
+to the case of a morphism of arbitrary L-infinity algebras.

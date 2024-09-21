@@ -1,0 +1,7 @@
+We study many-body corrections to the cotunneling current via a localized
+state with energy $\epsilon_d$ at large bias voltages $V$. We show that the
+transfer of {\em electron pairs}, enabled by the Coulomb repulsion in the
+localized level, results in ionization resonance peaks in the third derivative
+of the current with respect to $V$, centered at $eV=\pm 2\epsilon_d/3$. Our
+results predict the existence of previously unnoticed structure within
+Coulomb-blockade diamonds.

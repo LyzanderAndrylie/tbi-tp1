@@ -1,0 +1,15 @@
+The Lie-Poisson algebra so(N+1) and some of its contractions are used to
+construct a family of superintegrable Hamiltonians on the ND spherical,
+Euclidean, hyperbolic, Minkowskian and (anti-)de Sitter spaces. We firstly
+present a Hamiltonian which is a superposition of an arbitrary central
+potential with N arbitrary centrifugal terms. Such a system is quasi-maximally
+superintegrable since this is endowed with 2N-3 functionally independent
+constants of the motion (plus the Hamiltonian). Secondly, we identify two
+maximally superintegrable Hamiltonians by choosing a specific central potential
+and finding at the same time the remaining integral. The former is the
+generalization of the Smorodinsky-Winternitz system to the above six spaces,
+while the latter is a generalization of the Kepler-Coulomb potential, for which
+the Laplace-Runge-Lenz N-vector is also given. All the systems and constants of
+the motion are explicitly expressed in a unified form in terms of ambient and
+polar coordinates as they are parametrized by two contraction parameters
+(curvature and signature of the metric).

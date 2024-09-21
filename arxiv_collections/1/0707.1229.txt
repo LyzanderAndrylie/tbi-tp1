@@ -1,0 +1,10 @@
+We report on our theoretical investigation of the electron velocity in
+(narrow) quantum-Hall systems, considering the out-of-linear-response regime.
+The electrostatic properties of the electron system are obtained by the
+Thomas-Fermi-Poisson nonlinear screening theory. The electron velocity
+distribution as a function of the lateral coordinate is obtained from the slope
+of the screened potential within the incompressible strips (ISs). The asymmetry
+induced by the imposed current on the ISs is investigated, as a function of the
+current intensity and impurity concentration. We find that the width of the IS
+on one side of the sample increases linearly with the intensity of the applied
+current and decreases with the impurity concentration.

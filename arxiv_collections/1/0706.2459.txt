@@ -1,0 +1,6 @@
+We discuss the exact cloning of orthogonal but entangled qubits under local
+operations and classical communication. The amount of entanglement necessary in
+blank copy is obtained for various cases. Surprisingly this amount is more than
+1 ebit for certain set of two nonmaximal but equally entangled states of two
+qubits system. To clone any three two qubits Bell states at least log2 3 ebit
+is necessary.

@@ -1,0 +1,15 @@
+In the field of tutoring systems, investigations have shown that there are
+many tutoring systems specific to a specific domain that, because of their
+static architecture, cannot be adapted to other domains. As consequence, often
+neither methods nor knowledge can be reused. In addition, the knowledge
+engineer must have programming skills in order to enhance and evaluate the
+system. One particular challenge is to tackle these problems with the
+development of a generic tutoring system. AnITA, as a stand-alone application,
+has been developed and implemented particularly for this purpose. However, in
+the testing phase, we discovered that this architecture did not fully match the
+user's intuitive understanding of the use of a learning tool. Therefore, AnITA
+has been redesigned to exclusively work as a client/server application and
+renamed to AnITA2. This paper discusses the evolvements made on the AnITA
+tutoring system, the goal of which is to use generic principles for system
+re-use in any domain. Two experiments were conducted, and the results are
+presented in this paper.

@@ -1,0 +1,15 @@
+We apply the technique of S^1-equivariant localization to sheaves on loop
+spaces in derived algebraic geometry, and obtain a fundamental link between two
+families of categories at the heart of geometric representation theory. Namely,
+we categorify the well known relationship between free loop spaces, cyclic
+homology and de Rham cohomology to recover the category of D-modules on a
+smooth stack X as a localization of the category of S^1-equivariant coherent
+sheaves on its loop space LX. The main observation is that this procedure
+connects categories of equivariant D-modules on flag varieties with categories
+of equivariant coherent sheaves on the Steinberg variety and its relatives.
+This provides a direct connection between the geometry of finite and affine
+Hecke algebras and braid groups, and a uniform geometric construction of all of
+the categorical parameters for representations of real and complex reductive
+groups. This paper forms the first step in a project to apply the geometric
+Langlands program to the complex and real local Langlands programs, which we
+describe.

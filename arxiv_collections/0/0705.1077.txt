@@ -1,0 +1,23 @@
+Supermassive black hole binary (SMBHB) is expected with the hierarchical
+galaxy formation model. Currently, physics processes dominating the evolution
+of a SMBHB are unclear. An interesting question is whether we could
+observationally determine the evolution of SMBHB and give constraints on the
+physical processes. Jet precession have been observed in many AGNs and
+generally attributed to disk precession. In this paper we calculate the time
+variation of jet precession and conclude that jet precession is accelerated in
+SMBHB systems but decelerated in others. The acceleration of jet precession
+$dP_{\rm pr} / dt$ is related to jet precession timescale $P_{\rm pr}$ and
+SMBHB evolution timescale $\tau_{\rm a}$, ${dP_{\rm pr} \over dt} \simeq -
+\Lambda {P_{\rm pr} \over \tau_{\rm a}}$. Our calculations based on the models
+for jet precession and SMBHB evolution show that $dP_{\rm pr} / dt$ can be as
+high as about $- 1.0$ with a typical value -0.2 and can be easily detected. We
+discussed the differential jet precession for NGC1275 observed in the
+literature. If the observed rapid acceleration of jet precession is true, the
+jet precession is due to the orbital motion of an unbound SMBHB with mass ratio
+$q\approx 0.76$. When jets precessed from the ancient bubbles to the currently
+active jets, the separation of SMBHB decrease from about $1.46 {\rm Kpc}$ to
+$0.80 {\rm Kpc}$ with an averaged decreasing velocity $da/dt \simeq - 1.54
+\times 10^6 {\rm cm/s}$ and evolution timescale $\tau_{\rm a} \approx 7.5\times
+10^7 {\rm yr}$. However, if we assume a steady jet precession for many cycles,
+the observations implies a hard SMBHB with mass ratio $q\approx 0.21$ and
+separation $a\approx 0.29 {\rm pc}$.

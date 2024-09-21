@@ -1,0 +1,5 @@
+Electroweak one-loop calculations for production of top-quark pairs at
+colliders are completed by providing the missing QED type contributions from
+real and virtual photons, where also effects from interference between QED and
+QCD contributions have to be taken into account. Moreover, photon-induced $t
+\bar{t}$ production is included as another partonic channel.

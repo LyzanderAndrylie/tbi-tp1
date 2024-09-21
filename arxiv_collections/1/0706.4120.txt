@@ -1,0 +1,9 @@
+Connecting lumped circuit elements in a conventional circuit is usually
+accomplished by conducting wires that act as conduits for the conduction
+currents with negligible potential drops. More challenging, however, is to
+extend these concepts to optical nanocircuit elements. Here, following our
+recent development of optical lumped circuit elements, we show how a special
+class of nanowaveguides formed by a thin core with relatively large (positive
+or negative) permittivity surrounded by a thin concentric shell with low
+permittivity may provide the required analogy to 'wires' for optical
+nano-circuits.

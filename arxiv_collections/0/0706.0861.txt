@@ -1,0 +1,5 @@
+We study theoretically the nonlinear four wave mixing (FWM) response of an
+ensemble of coupled pairs of quantum dots (quantum dot molecules). We discuss
+the shape of the FWM echo signal depending on the parameters of the ensemble:
+the statistics of transition energies and the degree of size correlations
+between the dots forming the molecules.

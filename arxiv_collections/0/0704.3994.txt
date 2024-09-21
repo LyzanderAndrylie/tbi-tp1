@@ -1,0 +1,10 @@
+Consider genus $g$ curves that admit degree $d$ covers to elliptic curves
+only branched at one point with a fixed ramification type. The locus of such
+covers forms a one parameter family $Y$ that naturally maps into the moduli
+space of stable genus $g$ curves $\bar{\mathcal M}_{g}$. We study the geometry
+of $Y$, and produce a combinatorial method by which to investigate its slope,
+irreducible components, genus and orbifold points. As a by-product of our
+approach, we find some equalities from classical number theory. Moreover, a
+correspondence between our method and the viewpoint of square-tiled surfaces is
+established. We also use our results to study the lower bound for slopes of
+effective divisors on $\bar{\mathcal M}_{g}$.

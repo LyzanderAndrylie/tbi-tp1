@@ -1,0 +1,8 @@
+We address the problem of estimating the phase phi given N copies of the
+phase rotation u(phi) within an array of quantum operations in finite
+dimensions. We first consider the special case where the array consists of an
+arbitrary input state followed by any arrangement of the N phase rotations, and
+ending with a POVM. We optimise the POVM for a given input state and fixed
+arrangement. Then we also optimise the input state for some specific cost
+functions. In all cases, the optimal POVM is equivalent to a quantum Fourier
+transform in an appropriate basis. Examples and applications are given.

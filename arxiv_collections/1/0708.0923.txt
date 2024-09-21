@@ -1,0 +1,7 @@
+Let G be a connected reductive linear algebraic group defined over an
+algebraically closed field of characteristic p. Assume that p is good for G. In
+this note we classify all the spherical nilpotent G-orbits in the Lie algebra
+of G. The classification is the same as in the characteristic zero case
+obtained by D.I. Panyushev in 1994: for e a nilpotent element in the Lie
+algebra of G, the G-orbit G.e is spherical if and only if the height of e is at
+most 3.

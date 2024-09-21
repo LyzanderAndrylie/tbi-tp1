@@ -1,0 +1,10 @@
+In a recent Letter, Bergsten and co-authors have studied the resistance
+oscillations with gate voltage and magnetic field in arrays of semiconductor
+rings and interpreted the oscillatory magnetic field dependence as
+Altshuler-Aronov-Spivak (AAS) oscillations and oscillatory dependence on gate
+voltage as the Aharonov-Casher (AC) effect. This Comment shows that Bergsten
+and co-authors incorrectly identified AAS effect as a source of resistance
+oscillations in magnetic field, that spin relaxation in their experimental
+setting is strong enough to destroy oscillatory effects of spin origin, and
+that the oscillations are caused by changes in carrier density and the Fermi
+energy by gate, and are unrelated to spin.

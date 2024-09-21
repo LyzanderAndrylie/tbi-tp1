@@ -1,0 +1,7 @@
+We introduce a class of group endomorphisms -- those of finite combinatorial
+rank -- exhibiting slow orbit growth. An associated Dirichlet series is used to
+obtain an exact orbit counting formula, and in the connected case this series
+is shown to have a closed rational form. Analytic properties of the Dirichlet
+series are related to orbit-growth asymptotics: depending on the location of
+the abscissa of convergence and the degree of the pole there, various
+orbit-growth asymptotics are found, all of which are polynomially bounded.

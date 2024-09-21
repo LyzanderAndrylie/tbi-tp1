@@ -1,0 +1,14 @@
+Using the ``Scenario Machine'' we have carried out a population synthesis of
+X-ray binaries for the purpose of modelling of X-ray luminosity functions
+(XLFs) in different types of galaxies: star burst, spiral, and elliptical. This
+computer code allows to calculate, by using Monte Carlo simulations, the
+evolution of a large ensemble of binary systems, with proper accounting for the
+spin evolution of magnetized neutron stars.
+  We show that the XLF has no universal type. It depends on the star formation
+rate in the galaxy. Also it is of importance to take into account the evolution
+of binary systems and life times of X-ray stages in theoretical models of such
+functions. We have calculated cumulative and differential XLFs for the galaxy
+with the constant star formation rate. Also we have calculated cumulative
+luminosity functions for different intervals of time after the star formation
+burst in the galaxy and curves depicting the evolution of the X-ray luminosity
+after the star formation burst in the galaxy.

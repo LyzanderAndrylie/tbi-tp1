@@ -1,0 +1,5 @@
+A new method for computation of gas cooling for Lagrange approach is
+suggested. The method is based on precalculation of cooling law for known
+cooling function. Unlike implicit methods, this method is very efficient, it is
+an one-step method which is even more accurate than implicit methods of the
+same order.

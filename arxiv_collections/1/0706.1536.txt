@@ -1,0 +1,10 @@
+Results on matrix canonical forms are used to give a complete description of
+the higher rank numerical range of matrices arising from the study of quantum
+error correction. It is shown that the set can be obtained as the intersection
+of closed half planes (of complex numbers). As a result, it is always a convex
+set in $\mathcal C$. Moreover, the higher rank numerical range of a normal
+matrix is a convex polygon determined by the eigenvalues. These two
+consequences confirm the conjectures of Choi et al. on the subject. In
+addition, the results are used to derive a formula for the optimal upper bound
+for the dimension of a totally isotropic subspace of a square matrix, and
+verify the solvability of certain matrix equations.

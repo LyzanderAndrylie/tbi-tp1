@@ -1,0 +1,11 @@
+The universal behaviour of the directed percolation universality class is
+well understood, both the critical scaling as well as finite size scaling. This
+article focuses on the block (finite size) scaling of the order parameter and
+its fluctuations, considering (sub-)blocks of linear size l in systems of
+linear size L. The scaling depends on the choice of the ensemble, as only the
+conditional ensemble produces the block-scaling behaviour as established in
+equilibrium critical phenomena. The dependence on the ensemble can be
+understood by an additional symmetry present in the unconditional ensemble. The
+unconventional scaling found in the unconditional ensemble is a reminder of the
+possibility that scaling functions themselves have a power-law dependence on
+their arguments.

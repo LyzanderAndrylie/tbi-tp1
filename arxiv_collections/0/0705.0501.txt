@@ -1,0 +1,6 @@
+We consider a Brownian particle, with diffusion constant D, moving inside an
+expanding d-dimensional sphere whose surface is an absorbing boundary for the
+particle. The sphere has initial radius L_0 and expands at a constant rate c.
+We calculate the joint probability density, p(r,t|r_0), that the particle
+survives until time t, and is at a distance r from the centre of the sphere,
+given that it started at a distance r_0 from the centre.

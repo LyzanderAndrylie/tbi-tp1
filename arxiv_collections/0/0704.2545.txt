@@ -1,0 +1,19 @@
+We present measurements of the two-point galaxy angular correlation function
+w(\theta) in the COSMOS field. Independent determinations of w(\theta) as a
+function of magnitude limit are presented for both the HST ACS catalog and also
+for the ground-based data from Subaru and the CFHT. Despite having
+significantly different masks, these three determinations agree well. At bright
+magnitudes (IAB<22), our data generally match very well with existing
+measurements and with mock catalogs based on semi-analytic galaxy formation
+calculations of Kitzbichler and White from the Millennium Simulation. The
+exception is that our result is at the upper end of the expected cosmic
+variance scatter for \theta > 10 arcmin, which we attribute to a particularly
+rich structure known to exist at z~0.8. For fainter samples, however, the level
+of clustering is somewhat higher than reported by some previous studies: in all
+three catalogues we find w(\theta=1')~0.014 at a median IAB magnitude of 24. At
+these very faintest magnitudes, our measurements agree well with the latest
+determinations from the Canada-France Legacy Survey. This level of clustering
+is approximately double what is predicted by the semi-analytic catalogs (at all
+angles). The semi-analytic results allow an estimate of cosmic variance, which
+is too small to account for the discrepancy. We therefore conclude that the
+mean amplitude of clustering at this level is higher than previously estimated.

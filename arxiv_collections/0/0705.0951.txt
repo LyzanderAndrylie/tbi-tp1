@@ -1,0 +1,10 @@
+The period map for cubic fourfolds takes values in a locally symmetric
+variety of orthogonal type of dimension 20. We determine the image of this
+period map (thus confirming a conjecture of Hassett) and give at the same time
+a new proof of the theorem of Voisin that asserts that this period map is an
+open embedding. An algebraic version of our main result is an identification of
+the algebra of SL(6)-invariant polynomials on the space of cubic forms in 6
+complex variables with a certain algebra of meromorphic automorphic forms on a
+symmetric domain of orthogonal type of dimension 20. We also describe the
+stratification of the moduli space of semistable cubic fourfolds in terms of a
+Dynkin-Vinberg diagram.

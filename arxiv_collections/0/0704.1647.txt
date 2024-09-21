@@ -1,0 +1,8 @@
+We argue that estimates of dissipative effects based on the first-order
+hydrodynamics with shear viscosity are potentially misleading because higher
+order terms in the gradient expansion of the dissipative part of the stress
+tensor tend to reduce them. Using recently obtained sound dispersion relation
+in thermal $\cal N$=4 supersymmetric plasma, we calculate the $resummed$ effect
+of these high order terms for Bjorken expansion appropriate to RHIC/LHC
+collisions. A reduction of entropy production is found to be substantial, up to
+an order of magnitude.

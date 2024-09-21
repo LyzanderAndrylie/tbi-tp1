@@ -1,0 +1,11 @@
+Analogue models of gravity have been motivated by the possibility of
+investigating phenomena not readily accessible in their cosmological
+counterparts. In this paper, we investigate the analogue of cosmological
+particle creation in a Friedmann-Robertson-Walker universe by numerically
+simulating a Bose-Einstein condensate with a time-dependent scattering length.
+In particular, we focus on a two-dimensional homogeneous condensate using the
+classical field method via the truncated Wigner approximation. We show that for
+various forms of the scaling function the particle production is consistent
+with the underlying theory in the long wavelength limit. In this context, we
+further discuss the implications of modified dispersion relations that arise
+from the microscopic theory of a weakly interacting Bose gas.

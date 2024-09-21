@@ -1,0 +1,13 @@
+We study electronic excitations of a degenerate gas of atoms trapped in pairs
+in an optical lattice. Local dipole-dipole interactions produce a long lived
+antisymmetric and a short lived symmetric superposition of individual atomic
+excitations as the lowest internal on-site excitations. Due to the much larger
+dipole moment the symmetric states couple efficiently to neighbouring lattice
+sites and can be well represented by Frenkel excitons, while the antisymmetric
+dark states stay localized. Within a cavity only symmetric states couple to
+cavity photons inducing long range interactions to form polaritons. We
+calculate their dispersion curves as well as cavity transmission and reflection
+spectra to observe them. For a lattice with aspherical sites bright and dark
+states get mixed and their relative excitation energies depend on photon
+polarizations. The system should allow to study new types of solid state
+phenomena in atom filled optical lattices.

@@ -1,0 +1,16 @@
+Suitable shaping (in particular, flattening and broadening) of the laser beam
+has recently been proposed as an effective device to reduce internal (mirror)
+thermal noise in advanced gravitational wave interferometric detectors. Based
+on some recently published analytic approximations (valid in the
+infinite-test-mass limit) for the Brownian and thermoelastic mirror noises in
+the presence of arbitrary-shaped beams, this paper addresses certain
+preliminary issues related to the optimal beam-shaping problem. In particular,
+with specific reference to the Laser Interferometer Gravitational-wave
+Observatory (LIGO) experiment, absolute and realistic lower-bounds for the
+various thermal noise constituents are obtained and compared with the current
+status (Gaussian beams) and trends ("mesa" beams), indicating fairly ample
+margins for further reduction. In this framework, the effective dimension of
+the related optimization problem, and its relationship to the critical design
+parameters are identified, physical-feasibility and model-consistency issues
+are considered, and possible additional requirements and/or prior information
+exploitable to drive the subsequent optimization process are highlighted.

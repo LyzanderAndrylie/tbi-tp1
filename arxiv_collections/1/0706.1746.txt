@@ -1,0 +1,7 @@
+We study AC Josephson effect in a superconductor-ferromagnet heterostructure
+with a variable magnetic configuration. The system supports triplet proximity
+correlations whose dynamics is coupled to the magnetic dynamics. This feedback
+dramatically modifies the behavior of the junction. The current-phase relation
+becomes double-periodic at both very low and high Josephson frequencies
+$\omega_J$. At intermediate frequencies, the periodicity in $\omega_J t$ may be
+lost.

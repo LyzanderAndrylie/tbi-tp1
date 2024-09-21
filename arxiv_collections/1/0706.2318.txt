@@ -1,0 +1,19 @@
+We describe here what appears to be a new structure that is hidden in all
+asymptotically vanishing Maxwell fields possessing a non-vanishing total
+charge. Though we are dealing with real Maxwell fields on real Minkowski space
+nevertheless, directly from the asymptotic field one can extract a complex
+analytic world-line defined in complex Minkowski space that gives a unified
+Lorentz invariant meaning to both the electric and magnetic dipole moments. In
+some sense the world-line defines a `complex center of charge' around which
+both electric and magnetic dipole moments vanish.
+  The question of how and where does this complex world-line arise is one of
+the two main subjects of this work. The other subject concerns what is known in
+the mathematical literature as a CR structure. In GR, CR structures naturally
+appear in the physical context of shear-free (or asymptotically shear-free)
+null geodesic congruences in space-time. For us, the CR structure is associated
+with the embedding of Penrose's real three-dimensional null infinity, I^+, as a
+surface in a two complex dimensional space, C^2. It is this embedding, via a
+complex function, (a CR function), that is our other area of interest.
+Specifically we are interested in the `decomposition' of the CR function into
+its real and imaginary parts and the physical information contained in this
+decomposition.

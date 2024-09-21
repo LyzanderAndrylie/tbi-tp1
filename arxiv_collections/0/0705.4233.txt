@@ -1,0 +1,18 @@
+We study magnetic field effects on spontaneous Fermi surface symmetry
+breaking with d-wave symmetry, the so-called d-wave "Pomeranchuk instability''.
+We use a mean-field model of electrons with a pure forward scattering
+interaction on a square lattice. When either the majority or the minority spin
+band is tuned close to the van Hove filling by a magnetic field, the Fermi
+surface symmetry breaking occurs in both bands, but with a different magnitude
+of the order parameter. The transition is typically of second order at high
+temperature and changes to first order at low temperature; the end points of
+the second order line are tricritical points. This qualitative picture does not
+change even in the limit of a large magnetic field, although the magnetic field
+substantially suppresses the transition temperature at the van Hove filling.
+The field produces neither a quantum critical point nor a quantum critical end
+point in our model. In the weak coupling limit, typical quantities
+characterizing the phase diagram have a field-independent single energy scale
+while its dimensionless coefficient varies with the field. The field-induced
+Fermi surface symmetry breaking is a promising scenario for the bilayer
+ruthenate Sr3Ru2O7, and future issues are discussed to establish such a
+scenario.

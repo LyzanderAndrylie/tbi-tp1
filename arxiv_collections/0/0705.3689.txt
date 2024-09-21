@@ -1,0 +1,11 @@
+A dynamical system on the total space of the fibre bundle of second order
+accelerations, $T^2M$, is defined as a third order vector field $S$ on $T^2M$,
+called semispray, which is mapped by the second order tangent structure into
+one of the Liouville vector field. For a regular Lagrangian of second order we
+prove that this semispray is uniquely determined by two associated
+Cartan-Poincar\'e one-forms. To study the geometry of this semispray we
+construct a nonlinear connection, which is a Lagrangian subbundle for the
+presymplectic structure. Using this semispray and the associated nonlinear
+connection we define covariant derivatives of first and second order. With
+respect to this, the second order dynamical derivative of the Lagrangian metric
+tensor vanishes.

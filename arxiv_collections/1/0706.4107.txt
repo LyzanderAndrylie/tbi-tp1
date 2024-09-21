@@ -1,0 +1,13 @@
+It is well known that n integers in the range [1,n^c] can be sorted in O(n)
+time in the RAM model using radix sorting. More generally, integers in any
+range [1,U] can be sorted in O(n sqrt{loglog n}) time. However, these
+algorithms use O(n) words of extra memory. Is this necessary?
+  We present a simple, stable, integer sorting algorithm for words of size
+O(log n), which works in O(n) time and uses only O(1) words of extra memory on
+a RAM model. This is the integer sorting case most useful in practice. We
+extend this result with same bounds to the case when the keys are read-only,
+which is of theoretical interest. Another interesting question is the case of
+arbitrary c. Here we present a black-box transformation from any RAM sorting
+algorithm to a sorting algorithm which uses only O(1) extra space and has the
+same running time. This settles the complexity of in-place sorting in terms of
+the complexity of sorting.

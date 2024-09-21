@@ -1,0 +1,9 @@
+In this paper we estimate the influence of nonlinear gluon evolution in the
+production of prompt photons at the LHC pp collider. We assume the validity of
+collinear factorization and consider the EHKQS parton distributions, which are
+solutions of the GLR-MQ evolution equations and describe quite well the DESY
+$ep$ HERA data, as input in our calculations. We find that both single and
+double photon production are enhanced for low-$p_T$ photons and central
+rapidities, while this effect is absent for the high-$p_T$ photons. The
+implications of this effect for the Quark-Gluon Plasma searches and for the QCD
+background to Higgs are also discussed.

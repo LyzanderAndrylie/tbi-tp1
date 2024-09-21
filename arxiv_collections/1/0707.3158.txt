@@ -1,0 +1,14 @@
+We illustrate the importance of many-body effects in the Fourier transformed
+local density of states (FT-LDOS) of d-wave superconductors from a model of
+electrons coupled to an Einstein mode with energy Omega_0. For bias energies
+significantly larger than Omega_0 the quasiparticles have short lifetimes due
+to this coupling, and the FT-LDOS is featureless if the electron-impurity
+scattering is treated within the Born approximation. In this regime it is
+important to include boson exchange for the electron-impurity scattering which
+provides a `step down' in energy for the electrons and allows for long
+lifetimes. This many-body effect produces qualitatively different results,
+namely the presence of peaks in the FT-LDOS which are mirrors of the
+quasiparticle interference peaks which occur at bias energies smaller than ~
+Omega_0. The experimental observation of these quasiparticle mirages would be
+an important step forward in elucidating the role of many-body effects in
+FT-LDOS measurements.

@@ -1,0 +1,11 @@
+In recent years, advances in computational power and spatial data analysis
+(GIS, remote sensing, etc) have led to an increase in attempts to model the
+spread and behaviour of wildland fires across the landscape. This series of
+review papers endeavours to critically and comprehensively review all types of
+surface fire spread models developed since 1990. This paper reviews models of a
+physical or quasi-physical nature. These models are based on the fundamental
+chemistry and/or physics of combustion and fire spread. Other papers in the
+series review models of an empirical or quasi-empirical nature, and
+mathematical analogues and simulation models. Many models are extensions or
+refinements of models developed before 1990. Where this is the case, these
+models are also discussed but much less comprehensively.

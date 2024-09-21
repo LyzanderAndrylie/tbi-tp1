@@ -1,0 +1,9 @@
+We show that mid infrared transmission spectroscopy of a quantum cascade
+laser provides clear cut information on changes in charge location at different
+bias. Theoretical simulations of the evolution of the gain/absorption spectrum
+for the $\lambda \sim$ 7.4 $\mu$m InGaAs/AlInAs/InP quantum cascade laser have
+been compared with the experimental findings. Transfer of electrons between the
+ground states in the active region and the states in the injector goes in hand
+with a decrease of discrete intersubband absorption peaks and an increase of
+broad high-energy absorption towards the continuum delocalised states above the
+barriers.

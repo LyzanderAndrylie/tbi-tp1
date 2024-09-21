@@ -1,0 +1,10 @@
+We develop a new formulation of the continuum quasiparticle random phase
+approximation (QRPA) in which the residual interaction is derived directly from
+the Skyrme energy functional, keeping all the velocity dependent terms of the
+Skyrme effective interaction. Numerical analysis using the SkM$^*$ parameter
+set is performed for the isovector dipole and the isovector/isoscalar
+quadrupole responses in $^{20}$O and $^{54}$Ca. It is shown that the
+energy-weighted sum rule including the enhancement factors for the isovector
+responses is satisfied with good accuracy. We investigate also how the velocity
+dependent terms influence the strength distribution and the transition
+densities of the low-lying surface modes and the giant resonances.

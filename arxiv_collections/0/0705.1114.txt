@@ -1,0 +1,9 @@
+In this paper we continue the study of Lorentz space estimates for the
+Ginzburg-Landau energy started in our previous paper, \cite{p1}. We focus on
+getting estimates for the Ginzburg-Landau energy with external magnetic field
+$h_{ex}$ in certain interesting regimes of $h_{ex}$. This allows us to show
+that for configurations close to minimizers or local minimizers of the energy,
+the vorticity mass of the configuration $(u,A)$ is comparable to the
+$L^{2,\infty}$ Lorentz space norm of $\nabla_A u$. We also establish
+convergence of the gauge-invariant Jacobians (vorticity measures) in the dual
+of a function space defined in terms of Lorentz spaces.

@@ -1,0 +1,6 @@
+We investigate the phantom field with potential
+$V(\phi)=V_{0}\exp(-\lambda{\phi}^2)$ and dark matter in the spatially flat FRW
+model. It has been shown by numerical calculation that there is a attractor
+solution in this model. We also apply the statefinder diagnostic to this
+phantom model. It is shown that the evolving trajectories of this scenario in
+the $s-r$ diagram is quite different form other dark energy models.

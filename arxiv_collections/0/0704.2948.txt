@@ -1,0 +1,10 @@
+We describe the positive cone and the pseudo-effective cone of a
+non-K\"ahlerian surface. We use these results for two types of applications:
+  - Describe the set $\sigma(X)$ of possible total Ricci scalars associated
+with Gauduchon metrics of fixed volume 1 on a fixed non-K\"ahhlerian surface,
+and decide whether the assignment $X\mapsto\sigma(X)$ is a deformation
+invariant.
+  - Study the stability of the canonical extension
+  $$0\to {\cal K}_X\to {\cal A}\to{\cal O}_X\to 0$$ of a class VII surface $X$
+with positive $b_2$. This extension plays an important role in our strategy to
+prove the GSS conjecture using gauge theoretical methods.

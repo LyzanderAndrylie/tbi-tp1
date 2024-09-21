@@ -1,0 +1,24 @@
+The complementarity between the quark and lepton mixing matrices is shown to
+provide robust predictions. We obtain these predictions by first showing that
+the matrix V_M, product of the quark (CKM) and lepton (PMNS) mixing matrices,
+may have a zero (1,3) entry which is favored by experimental data.
+  We obtain that any theoretical model with a vanishing (1,3) entry of V_M that
+is in agreement with quark data, solar, and atmospheric mixing angle leads to
+$\theta_{13}^{PMNS}=(9{^{+1}_{-2}})^\circ$. This value is consistent with the
+present 90% CL experimental upper limit. We also investigate the prediction on
+the lepton phases. We show that the actual evidence, under the only assumption
+that the correlation matrix V_M product of CKM and PMNS has a zero in the entry
+(1,3), gives us a prediction for the three CP-violating invariants J, S_1, and
+S_2. A better determination of the lepton mixing angles will give stronger
+prediction for the CP-violating invariants in the lepton sector. These will be
+tested in the next generation experiments. Finally we compute the effect of non
+diagonal neutrino mass in "l_i -> l_j gamma" in SUSY theories with non trivial
+Quark-Lepton complementarity and a flavor symmetry. The Quark-Lepton
+complementarity and the flavor symmetry strongly constrain the theory and we
+obtain a clear prediction for the contribution to "mu -> e gamma" and the "tau"
+decays "tau -> e gamma" and "tau -> mu gamma". If the Dirac neutrino Yukawa
+couplings are degenerate but the low energy neutrino masses are not degenerate,
+then the lepton decays are related among them by the V_M entries. On the other
+hand, if the Dirac neutrino Yukawa couplings are hierarchical or the low energy
+neutrino masses are degenerate, then the prediction for the lepton decays comes
+from the CKM hierarchy.

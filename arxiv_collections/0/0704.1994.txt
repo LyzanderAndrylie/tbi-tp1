@@ -1,0 +1,10 @@
+We determine the electronic structure of a graphene sheet on top of a
+lattice-matched hexagonal boron nitride (h-BN) substrate using ab initio
+density functional calculations. The most stable configuration has one carbon
+atom on top of a boron atom, the other centered above a BN ring. The resulting
+inequivalence of the two carbon sites leads to the opening of a gap of 53 meV
+at the Dirac points of graphene and to finite masses for the Dirac fermions.
+Alternative orientations of the graphene sheet on the BN substrate generate
+similar band gaps and masses. The band gap induced by the BN surface can
+greatly improve room temperature pinch-off characteristics of graphene-based
+field effect transistors.

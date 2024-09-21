@@ -1,0 +1,5 @@
+In this short note I apply the methodology of game-theoretic probability to
+calculating non-asymptotic confidence intervals for the coefficient of a simple
+first order scalar autoregressive model. The most distinctive feature of the
+proposed procedure is that with high probability it produces confidence
+intervals that always cover the true parameter value when applied sequentially.

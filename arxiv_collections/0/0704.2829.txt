@@ -1,0 +1,9 @@
+The extrinsic size effect in Piezoresponse Force Microscopy of ferroelectric
+and piezoelectric thin films on non-polar dielectric substrate is analyzed.
+Analytical expressions for effective piezoresponse, object transfer function
+components, and Rayleigh two-point resolution are obtained. These results can
+be broadly applied for effective piezoelectric response calculations in thin
+piezoelectric and ferroelectric films as well as surface polar layers e.g. in
+organic materials and bio-polymers. In particular, the effective piezoresponse
+strongly decreases with film thickness whereas the sharpness of domain stripes
+image increases due to the object transfer function spectrum broadening.

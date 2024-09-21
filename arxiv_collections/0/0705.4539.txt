@@ -1,0 +1,11 @@
+In this paper, we first construct a Lie algebra $L$ from rank 3 quantum
+torus, and show that it is isomorphic to the core of EALAs of type $A_1$ with
+coordinates in rank 2 quantum torus. Then we construct two classes of
+irreducible ${\bf Z}$-graded highest weight representations, and give the
+necessary and sufficient conditions for these representations to be
+quasifinite. Next, we prove that they exhaust all the generalized highest
+weight irreducible ${\bf Z}$-graded quasifinite representations. As a
+consequence, we determine all the irreducible ${\bf Z}$-graded quasifinite
+representations with nonzero central charges. Finally, we construct two classes
+of highest weight ${\bf Z}^2$-graded quasifinite representations by using these
+${\bf Z}$-graded modules.

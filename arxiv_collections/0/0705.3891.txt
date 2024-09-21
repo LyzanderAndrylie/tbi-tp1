@@ -1,0 +1,8 @@
+We compute in small temperature expansion the two-loop renormalization
+constants and the three-loop coefficient of the beta-function, that is the
+first non-universal term, for the sigma-model with O(N) invariance on the
+triangular lattice at N=-1. The partition function of the corresponding
+Grassmann theory is, for negative temperature, the generating function of
+unrooted forests on such a lattice, where the temperature acts as a chemical
+potential for the number of trees in the forest. To evaluate Feynman diagrams
+we extend the coordinate space method to the triangular lattice.

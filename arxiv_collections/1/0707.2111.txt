@@ -1,0 +1,10 @@
+We have investigated few-body states in vertically stacked quantum dots. Due
+to small inter-dot tunneling rate, the coupling in our system is in a
+previously unexplored regime where electron-hole exchange is the dominant spin
+interaction. By tuning the gate bias, we are able to turn this coupling off and
+study a complementary regime where total electron spin is a good quantum
+number. The use of differential transmission allows us to obtain unambiguous
+signatures of the interplay between electron and hole spin interactions. Small
+tunnel coupling also enables us to demonstrate all-optical charge sensing,
+where conditional exciton energy shift in one dot identifies the charging state
+of the coupled partner.

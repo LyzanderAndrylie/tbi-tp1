@@ -1,0 +1,16 @@
+We present the full thermodynamics of a fluid confined by an arbitrary
+external potential based on the virial expansion of the grand potential. The
+fluid may be classical or quantum and it is assumed that interatomic
+interactions are pairwise additive. We indicate how the appropriate
+"generalized" volume and pressure variables, that replace the usual volume and
+hydrostatic pressure, emerge for a given confining potential in the
+thermodynamic limit. A discussion of the physical meaning and of the
+measurement of these variables is presented. We emphasize that this treatment
+yields the correct equation of state of the fluid and we give its virial
+expansion. We propose an experiment to measure the heat capacity, so that with
+this quantity and the equation of state, the complete thermodynamics of the
+system may be extracted. As a corollary, we find that the so-called {\it local
+density approximation} for these systems follows in the thermodynamic limit,
+although we also point out that it cannot be used indiscriminately for all
+local variables. Along the text we discuss the relevance of these findings in
+the description of the currently confined ultracold gases.

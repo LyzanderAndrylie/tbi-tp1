@@ -1,0 +1,8 @@
+In this paper, we enumerate prime graphs with respect to the Cartesian
+multiplication of graphs. We use the unique factorization of a connected graph
+into the product of prime graphs given by Sabidussi to find explicit formulas
+for labeled and unlabeled prime graphs. In the case of species, we construct
+the exponential composition of species based on the arithmetic product of
+species of Maia and M\'endez and the quotient species, and express the species
+of connected graphs as the exponential composition of the species of prime
+graphs.

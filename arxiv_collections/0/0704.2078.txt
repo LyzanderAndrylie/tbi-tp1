@@ -1,0 +1,6 @@
+Many quantization schemes rely on analogs of classical mechanics where the
+connections with classical mechanics are indirect. In this work I propose a new
+and direct connection between classical mechanics and quantum mechanics where
+the quantum mechanical propagator is derived from a variational principle. This
+principle allows a physical system to have imperfect information, i.e., there
+is incomplete knowledge of the physical state, and many paths are allowed.

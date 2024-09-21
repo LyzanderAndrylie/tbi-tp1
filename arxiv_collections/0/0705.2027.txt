@@ -1,0 +1,14 @@
+In this paper we demonstrate a technique of utilizing magnetically trapped
+neutral Rb-87 atoms to measure the magnitude and direction of stray electric
+fields emanating from surface contaminants. We apply an alternating external
+electric field that adds to (or subtracts from) the stray field in such a way
+as to resonantly drive the trapped atoms into a mechanical dipole oscillation.
+The growth rate of the oscillation's amplitude provides information about the
+magnitude and sign of the stray field gradient. Using this measurement
+technique, we are able to reconstruct the vector electric field produced by
+surface contaminants. In addition, we can accurately measure the electric
+fields generated from adsorbed atoms purposely placed onto the surface and
+account for their systematic effects, which can plague a precision
+surface-force measurement. We show that baking the substrate can reduce the
+electric fields emanating from adsorbate, and that the mechanism for reduction
+is likely surface diffusion, not desorption.

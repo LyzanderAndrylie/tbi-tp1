@@ -1,0 +1,7 @@
+Let X be a smooth projective algebraic curve of genus g minus $r\geq 1$
+points defined over an algebraically closed field k of characteristic $p\geq
+0$. The structure of the largest prime to p quotient of the \'etale fundamental
+group is well known by transcendental methods : it is isomorphic to the largest
+prime to p quotient of a free pro-finite group on 2g+r-1 generators. We show
+that, with purely algebraic means, we can prove the corresponding result for
+the largest pro-solvable quotient of these groups.

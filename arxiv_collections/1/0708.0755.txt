@@ -1,0 +1,6 @@
+In these notes we discuss the "self-reducibility property" of the Weil
+representation. We explain how to use this property to obtain sharp estimates
+of certain higher-dimensional exponential sums which originate from the theory
+of quantum chaos. As a result, we obtain the Hecke quantum unique ergodicity
+theorem for generic linear symplectomorphism $A$ of the torus
+$T^{2N}=R^{2N}/Z^{2N}.

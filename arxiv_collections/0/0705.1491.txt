@@ -1,0 +1,10 @@
+The distribution of isoscalar monopole strength in the neutron-even
+112-124Sn-isotopes has been computed using a relativistic
+random-phase-approximation approach. The accurately-calibrated model used here
+(``FSUGold'') has been successful in reproducing both ground-state observables
+as well as collective excitations - including the giant monopole resonance
+(GMR) in 90Zr, 144Sm, and 208Pb. Yet this same model significantly
+overestimates the GMR energies in the Sn isotopes. It is argued that the
+question of ``Why is Tin so soft?'' becomes an important challenge to the field
+and one that should be answered without sacrificing the success already
+achieved by several theoretical models.

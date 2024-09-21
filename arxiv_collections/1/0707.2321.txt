@@ -1,0 +1,7 @@
+In this note we define Chern-Simons classes of a superconnection $D+L$ on a
+complex supervector bundle $E$ such that $D$ is flat and preserves the grading,
+and $L$ is an odd endomorphism of $E$ on a supermanifold. As an application we
+obtain a definition of Chern-Simons classes of a (not necessarily flat)
+morphism between flat vector bundles on a smooth manifold. We extend Reznikov's
+theorem on triviality of these classes when the manifold is a compact K\"ahler
+manifold or a smooth complex quasi--projective variety, in degrees > 1.

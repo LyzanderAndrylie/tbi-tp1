@@ -1,0 +1,14 @@
+We report ^{115}In nuclear magnetic resonance (NMR) measurements in the
+heavy-fermion superconductor CeCoIn_5 as a function of temperature in different
+magnetic fields applied parallel to the $(\hat a, \hat b)$ plane. The
+measurements probe a part of the phase diagram in the vicinity of the
+superconducting critical field H_{c2} where a possible inhomogeneous
+superconducting state, Fulde-Ferrel-Larkin-Ovchinnikov (FFLO), is stabilized.
+We have identified clear NMR signatures of two phase transitions occurring in
+this part of the phase diagram. The first order phase transitions are
+characterized by the sizable discontinuity of the shift. We find that a
+continuous second order phase transition from the superconducting to the FFLO
+state occurs at temperature below which the shift becomes temperature
+independent. We have compiled the first phase diagram of CeCoIn_5 in the
+vicinity of H_{c2} from NMR data and found that it is in agreement with the one
+determined by thermodynamic measurements.

@@ -1,0 +1,11 @@
+We present a particle filter construction for a system that exhibits
+time-scale separation. The separation of time-scales allows two simplifications
+that we exploit: i) The use of the averaging principle for the dimensional
+reduction of the system needed to solve for each particle and ii) the
+factorization of the transition probability which allows the
+Rao-Blackwellization of the filtering step. Both simplifications can be
+implemented using the coarse projective integration framework. The resulting
+particle filter is faster and has smaller variance than the particle filter
+based on the original system. The method is tested on a multiscale stochastic
+differential equation and on a multiscale pure jump diffusion motivated by
+chemical reactions.

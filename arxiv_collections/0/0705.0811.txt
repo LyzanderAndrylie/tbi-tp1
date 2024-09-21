@@ -1,0 +1,14 @@
+To simulate the transient enhanced diffusion near the surface or interface, a
+set of equations describing the impurity diffusion and quasichemical reactions
+of dopant atoms and point defects in ion-implanted layers is proposed and
+analyzed. The diffusion equations obtained take into account different charge
+states of mobile or immobile species and drift the mobile species in the
+built-in electric field and field of elastic stresses. The absorption of
+self-interstitials on the surface and drift of the defects due to elastic
+stresses result in the nonuniform distributions of point defects. It was shown
+analytically and by means of numerical calculations that consideration of the
+nonuniform defect distributions enables one to explain the phenomenon of
+"uphill" impurity diffusion near the surface during annealing of ion-implanted
+layers. The performed calculations of the boron concentration profile after
+annealing of a shallow implanted layer agree well with the experimental data
+confirming the efficiency of the proposed equations.

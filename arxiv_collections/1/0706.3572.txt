@@ -1,0 +1,11 @@
+We present a detailed comparison of two self-consistent equation-of-state
+models which differ from their electronic contribution: the atom in a spherical
+cell and the atom in a jellium of charges. It is shown that both models are
+well suited for the calculation of Hugoniot shock adiabats in the high pressure
+range (1 Mbar-10 Gbar), and that the atom-in-a-jellium model provides a better
+treatment of pressure ionization. Comparisons with experimental data are also
+presented. Shell effects on shock adiabats are reviewed in the light of these
+models. They lead to additional features not only in the variations of pressure
+versus density, but also in the variations of shock velocity versus particle
+velocity. Moreover, such effects are found to be responsible for enhancement of
+the electronic specific heat.

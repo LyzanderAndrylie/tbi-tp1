@@ -1,0 +1,9 @@
+The Atiyah-Singer index theorem is generalized to a two-dimensional SO(3)
+Yang-Mills-Higgs (YMH) system. The generalized theorem is proven by using the
+heat kernel method and a nonlinear realization of SU(2) gauge symmetry. This
+theorem is applied to the problem of deriving a charge quantization condition
+in the four-dimensional SO(3) YMH system with non-Abelian monopoles. The
+resulting quantization condition, eg=n (n: integer), for an electric charge e
+and a magnetic charge g is consistent with that found by Arafune, Freund and
+Goebel. It is shown that the integer n is half of the index of a Dirac
+operator.

@@ -1,0 +1,13 @@
+We prove a general extrinsic rigidity theorem for homogeneous varieties in
+$\mathbb{CP}^N$. The theorem is used to show that the adjoint variety of a
+complex simple Lie algebra $\mathfrak{g}$ (the unique minimal G orbit in
+$\mathbb{P}\mathfrak{g}$) is extrinsically rigid to third order.
+  In contrast, we show that the adjoint variety of $SL_3\mathbb{C}$, and the
+Segre product $\mathit{Seg}(\mathbb{P}^1\times \mathbb{P}^n)$, both varieties
+with osculating sequences of length two, are flexible at order two. In the
+$SL_3\mathbb{C}$ example we discuss the relationship between the extrinsic
+projective geometry and the intrinsic path geometry.
+  We extend machinery developed by Hwang and Yamaguchi, Se-ashi, Tanaka and
+others to reduce the proof of the general theorem to a Lie algebra cohomology
+calculation. The proofs of the flexibility statements use exterior differential
+systems techniques.

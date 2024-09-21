@@ -1,0 +1,10 @@
+We report the first successful extraction of accumulated ultracold neutrons
+(UCN) from a converter of superfluid helium, in which they were produced by
+downscattering neutrons of a cold beam from the Munich research reactor.
+Windowless UCN extraction is performed in vertical direction through a
+mechanical cold valve. This prototype of a versatile UCN source is comprised of
+a novel cryostat designed to keep the source portable and to allow for rapid
+cooldown. We measured time constants for UCN storage and extraction into a
+detector at room temperature, with the converter held at various temperatures
+between 0.7 and 1.3 K. The UCN production rate inferred from the count rate of
+extracted UCN is close to the theoretical expectation.

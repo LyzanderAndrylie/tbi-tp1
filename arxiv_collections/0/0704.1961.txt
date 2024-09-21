@@ -1,0 +1,18 @@
+If the recent PVLAS results on polarization changes of a linearly polarized
+laser beam passing through a magnetic field are interpreted by an axion-like
+particle, it is almost certain that it is not a standard QCD axion. Considering
+this, we study the general effective interactions of photons with spin-zero
+particles without restricting the latter to be a pseudo-scalar or a scalar,
+i.e., a parity eigenstate. At the lowest order in effective field theory, there
+are two dimension-5 interactions, each of which has previously been treated
+separately for a pseudo-scalar or a scalar particle. By following the evolution
+in an external magnetic field of the system of spin-zero particles and photons,
+we compute the changes in light polarization and the transition probability for
+two experimental set-ups: one-way propagation and round-trip propagation. While
+the first may be relevant for astrophysical sources of spin-zero particles, the
+second applies to laboratory optical experiments like PVLAS. In the one-way
+propagation, interesting phenomena can occur for special configurations of
+polarization where, for instance, transition occurs but light polarization does
+not change. For the round-trip propagation, however, the standard results of
+polarization changes for a pseudoscalar or a scalar are only modified by a
+factor that depends on the relative strength of the two interactions.

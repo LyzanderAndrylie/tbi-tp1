@@ -1,0 +1,14 @@
+The MEGAPIE project is a key experiment on the road to Accelerator Driven
+Systems and it provides the scientific community with unique data on the
+behavior of a liquid lead-bismuth spallation target under realistic and long
+term irradiation conditions. The neutronic of such target is of course of prime
+importance when considering its final destination as an intense neutron source.
+This is the motivation to characterize the inside neutron flux of the target in
+operation. A complex detector, made of 8 micro fission-chambers, has been built
+and installed in the core of the target, few tens of centimeters from the
+proton/Pb-Bi interaction zone. This detector is designed to measure the
+absolute neutron flux inside the target, to give its spatial distribution and
+to correlate its temporal variations with the beam intensity. Moreover,
+integral information on the neutron energy distribution as a function of the
+position along the beam axis could be extracted, giving integral constraints on
+the neutron production models implemented in transport codes such as MCNPX.

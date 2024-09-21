@@ -1,0 +1,14 @@
+In the modern Bayesian view classical probability theory is simply an
+extension of conventional logic, i.e., a quantitative tool that allows for
+consistent reasoning in the presence of uncertainty. Classical theory
+presupposes, however, that--at least in principle--the amount of evidence that
+an experimenter can accumulate always matches the size of the hypothesis space.
+I investigate how the framework for consistent reasoning must be modified in
+non-classical situations where hypotheses form a continuum, yet the maximum
+evidence accessible through experiment is not allowed to exceed some finite
+upper bound. Invoking basic consistency requirements pertaining to the
+preparation and composition of systems, as well as to the continuity of
+probabilities, I show that the modified theory must have an internal symmetry
+isomorphic to the unitary group. It thus appears that the only consistent
+algorithm for plausible reasoning about a continuum of hypotheses on the basis
+of finite evidence is furnished by quantum theory in complex Hilbert space.

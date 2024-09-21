@@ -1,0 +1,8 @@
+We perform a comparison of the radiative and collisional parton energy losses
+in an expanding quark-gluon plasma. The radiative energy loss is calculated
+within the light-cone path integral approach. The collisional energy loss is
+calculated using the Bjorken method with an accurate treatment of the binary
+collision kinematics. Our numerical results demonstrate that for RHIC and LHC
+conditions the collisional energy loss is relatively small in comparison to the
+radiative one. We find an enhancement of the heavy quark radiative energy loss
+as compared to that of the light quarks at high energies.

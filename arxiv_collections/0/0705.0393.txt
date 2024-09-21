@@ -1,0 +1,17 @@
+The silver chalcogenides provide a striking example of the benefits of
+imperfection. Nanothreads of excess silver cause distortions in the current
+flow that yield a linear and non-saturating transverse magnetoresistance (MR).
+Associated with the large and positive MR is a negative longitudinal MR. The
+longitudinal MR only occurs in the three-dimensional limit and thereby permits
+the determination of a characteristic length scale set by the spatial
+inhomogeneity. We find that this fundamental inhomogeneity length can be as
+large as ten microns. Systematic measurements of the diagonal and off-diagonal
+components of the resistivity tensor in various sample geometries show clear
+evidence of the distorted current paths posited in theoretical simulations. We
+use a random resistor network model to fit the linear MR, and expand it from
+two to three dimensions to depict current distortions in the third (thickness)
+dimension. When compared directly to experiments on Ag$_{2\pm\delta}$Se and
+Ag$_{2\pm\delta}$Te, in magnetic fields up to 55 T, the model identifies
+conductivity fluctuations due to macroscopic inhomogeneities as the underlying
+physical mechanism. It also accounts reasonably quantitatively for the various
+components of the resistivity tensor observed in the experiments.

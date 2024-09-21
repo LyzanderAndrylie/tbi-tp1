@@ -1,0 +1,12 @@
+We compute the local spectrum of the magnetic field near a metallic
+microstructure at finite temperature. Our main focus is on deviations from a
+plane-layered geometry for which we review the main properties. Arbitrary
+geometries are handled with the help of numerical calculations based on surface
+integral equations. The magnetic noise shows a significant polarization
+anisotropy above flat wires with finite lateral width, in stark contrast to an
+infinitely wide wire. Within the limits of a two-dimensional setting, our
+results provide accurate estimates for loss and dephasing rates in so-called
+`atom chip traps' based on metallic wires. A simple approximation based on the
+incoherent summation of local current elements gives qualitative agreement with
+the numerics, but fails to describe current correlations among neighboring
+objects.

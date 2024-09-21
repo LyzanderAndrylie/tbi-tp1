@@ -1,0 +1,17 @@
+We use all-optical methods to produce a highly-degenerate Fermi gas of
+spin-1/2 $^6$Li atoms. A magnetic field tunes the gas near a collisional
+(Feshbach) resonance, producing strong interactions between spin-up and
+spin-down atoms. This atomic gas is a paradigm for strong interactions in
+nature, and provides tests of current quantum many-body calculational methods
+for diverse systems, including very high temperature superconductors, nuclear
+matter in neutron stars, and the quark-gluon plasma of the Big Bang. We have
+measured properties of a breathing mode over a wide range of temperatures. At
+temperatures both below and well above the superfluid transition, the frequency
+of the mode is nearly constant and very close to the hydrodynamic value.
+However, explaining both the frequency and the damping rate in the normal
+collisional regime has not been achieved. Our measurements of the damping rate
+as a function of the energy of the gas are used to estimate an upper bound on
+the viscosity. Using our new measurements of the entropy of the gas, we
+estimate the ratio of the shear viscosity to the entropy density, and compare
+the result with the lower bound for quantum viscosity recently predicted using
+string theory methods.

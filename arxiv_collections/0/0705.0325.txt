@@ -1,0 +1,10 @@
+Let ccl(G) denote the order of the largest complete minor in a graph G (also
+called the contraction clique number) and let G(n,p) denote a random graph on n
+vertices with edge probability p. Bollobas, Catlin and Erdos asymptotically
+determined ccl(G (n,p)) when p is a constant. Luczak, Pittel and Wierman gave
+bounds on ccl(G(n,p)) when p is very close to 1/n, i.e. inside the phase
+transition. Extending the results of Bollobas, Catlin and Erdos, we determine
+ccl(G(n,p)) quite tightly, for p>C/n where C is a large constant. If p=C/n, for
+an arbitrary constant C>1, then we show that asymptotically almost surely ccl(G
+(n,p)) is of order square-root of n. This answers a question of Krivelevich and
+Sudakov.

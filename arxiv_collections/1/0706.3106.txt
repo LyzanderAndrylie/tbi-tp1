@@ -1,0 +1,10 @@
+We report on a method to tune the orientation of in-plane magnetic domains
+and domain walls in thin ferromagnetic strips by manipulating the magnetic
+anisotropy. Uniaxial in-plane anisotropy is induced in a controlled way by
+oblique evaporation of magnetic thin strips. A direct correlation between the
+magnetization direction and the domain wall orientation is found experimentally
+and confirmed by micromagnetic simulations. The domain walls in the strips are
+always oriented along the oblique evaporation-induced easy axis, in spite of
+the shape anisotropy. The controlled manipulation of domain wall orientations
+could open new possibilities for novel devices based on domain-wall
+propagation.

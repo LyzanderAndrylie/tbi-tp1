@@ -1,0 +1,4 @@
+We analyze the separability of the joint state of a collection of two-level
+systems at finite temperature T. The fact that only separable states are found
+in the neighborhood of their thermal equilibrium state guarantees that
+decoherence will destroy any initially arranged entanglement in a finite time.

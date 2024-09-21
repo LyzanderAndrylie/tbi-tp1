@@ -1,0 +1,3 @@
+In this note we prove that all connected Cayley graphs of every finite group
+$Q \times H$ are 1-factorizable, where $Q$ is any non-trivial group of 2-power
+order and $H$ is any group of odd order.

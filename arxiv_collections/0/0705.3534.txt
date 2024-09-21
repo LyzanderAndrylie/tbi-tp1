@@ -1,0 +1,9 @@
+We construct a large class of quantum "d x d" states which are positive under
+partial transposition (so called PPT states). The construction is based on
+certain direct sum decomposition of the total Hilbert space displaying
+characteristic circular structure - that is way we call them circulant states.
+It turns out that partial transposition maps any such decomposition into
+another one and hence both original density matrix and its partially transposed
+partner share similar cyclic properties. This class contains many well known
+examples of PPT states from the literature and gives rise to a huge family of
+completely new states.

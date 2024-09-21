@@ -1,0 +1,12 @@
+In this paper we suggest a theoretical method based on the statistical
+mechanics for treating the alpha-helix-random coil transition in alanine
+polypeptides. We consider this process as a first-order phase transition and
+develop a theory which is free of model parameters and is based solely on
+fundamental physical principles. It describes essential thermodynamical
+properties of the system such as heat capacity, the phase transition
+temperature and others from the analysis of the polypeptide potential energy
+surface calculated as a function of two dihedral angles, responsible for the
+polypeptide twisting. The suggested theory is general and with some
+modification can be applied for the description of phase transitions in other
+complex molecular systems (e.g. proteins, DNA, nanotubes, atomic clusters,
+fullerenes).

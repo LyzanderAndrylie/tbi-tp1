@@ -1,0 +1,6 @@
+We calculated the binding energy of a polaron bound to a hydrogenic donor
+impurity located in a spherical quantum dot by means of a variational and
+numerical technique for finite potential models. The polaronic effect has been
+considered taking into account the ion-phonon coupling under the Lee Low Pines
+approach. The results show that the binding energies are drastically affected
+by the dot radius, the potential barrier height and the polaronic effects.

@@ -1,0 +1,5 @@
+Let G be a finite Abelian group and A be a subset G\times G of cardinality at
+least |G|^2/(log log |G|)^c, where c>0 is an absolute constant. We prove that A
+contains a triple {(k,m), (k+d,m), (k,m+d)}, where d does not equal 0. This
+theorem is a two-dimensional generalization of Szemeredi's theorem on
+arithmetic progressions.

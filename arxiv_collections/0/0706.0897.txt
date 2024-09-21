@@ -1,0 +1,6 @@
+The exact relativistic form for the beta decay endpoint spectrum is derived
+and presented in a simple factorized form. We show that our exact formula can
+be well approximated to yield the endpoint form used in the fit method of the
+KATRIN collaboration. We also discuss the three neutrino case and how
+information from neutrino oscillation experiments may be useful in analyzing
+future beta decay endpoint experiments.

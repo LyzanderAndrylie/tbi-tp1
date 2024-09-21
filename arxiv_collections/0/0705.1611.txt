@@ -1,0 +1,7 @@
+The quantum phase transitions in the one-dimensional asymmetric Hubbard model
+are investigated with the bosonization approach. The conditions for the phase
+transition from density wave to phase separation, the correlation functions and
+their exponents are obtained analytically. Our results show that the difference
+between the hopping integrals for up- and down-spin electrons is crucial for
+the happening of the phase separation. When the difference is large enough, the
+phase separation will appear even if the on-site interaction is small.

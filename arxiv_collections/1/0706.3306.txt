@@ -1,0 +1,14 @@
+Using a quantum mechanical three-step model we present numerical calculations
+on the high-harmonic generation from four polyatomic molecules. Ethylene
+(C$_2$H$_4$) serves as an example where orbital symmetry directly affects the
+harmonic yield. We treat the case of methane (CH$_4$) to address the
+high-harmonic generation resulting from a molecule with degenerate orbitals. To
+this end we illustrate how the single orbital contributions show up in the
+total high-harmonic signal. This example illustrates the importance of adding
+coherently amplitude contributions from the individual degenerate orbitals.
+Finally, we study the high-harmonic generation from propane (C$_3$H$_8$) and
+butane (C$_4$H$_{10}$). These two molecules, being extended and far from
+spherical in structure, produce harmonics with non-trivial orientational
+dependencies. In particular, propane can be oriented so that very
+high-frequency harmonics are favorized, and thus the molecule contains
+prospects for the generation of UV attosecond pulses.

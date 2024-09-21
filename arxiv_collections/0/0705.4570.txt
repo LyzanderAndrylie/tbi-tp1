@@ -1,0 +1,15 @@
+We studied the dynamical phase transition in kinetic Ising ferromagnet driven
+by oscillating magnetic field in meanfield approximation. The meanfield
+differential equation was solved by sixth order Runge-Kutta-Felberg method. We
+calculated the transition temperature as a function of amplitude and frequency
+of the oscillating field. This was plotted against field amplitude taking
+frequency as a parameter. As frequency increases the phase boundary is observed
+to become inflated. The phase boundary shows an inflection point which
+separates the nature of the transition. On the dynamic phase boundary a
+tricritical point (TCP) was found, which separates the nature
+(continuous/discontinuous) of the dynamic transition across the phase boundary.
+The inflection point is identified as the TCP and hence a simpler method of
+determining the position of TCP was found. TCP was observed to shift towards
+high field for higher frequency. As frequency decreases the dynamic phase
+boundary is observe to shrink. In the zero frequency limit this boundary shows
+a tendency to merge to the temperature variation of the coercive field.

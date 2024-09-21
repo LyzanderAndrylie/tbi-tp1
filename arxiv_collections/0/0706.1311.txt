@@ -1,0 +1,7 @@
+We present a method for compactifying stacks of $\PGL_n$-torsors (Azumaya
+algebras) on algebraic spaces. In particular, when the ambient space is a
+smooth projective surface we use our methods to show that various moduli spaces
+are irreducible and carry natural virtual fundamental classes. We also prove a
+version of the Skolem-Noether theorem for certain algebra objects in the
+derived category, which allows us to give an explicit description of the
+boundary points in our compactified moduli problem.

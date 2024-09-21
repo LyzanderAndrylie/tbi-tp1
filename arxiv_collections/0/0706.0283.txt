@@ -1,0 +1,21 @@
+In the paper we check whether the contribution of $(-)(1+z)^6$ type in the
+Friedmann equation can be tested. We consider some astronomical tests to
+constrain the density parameters in such models. We describe different
+interpretations of such an additional term: geometric effects of Loop Quantum
+Cosmology, effects of braneworld cosmological models, non-standard cosmological
+models in metric-affine gravity, and models with spinning fluid. Kinematical
+(or geometrical) tests based on null geodesics are insufficient to separate
+individual matter components when they behave like perfect fluid and scale in
+the same way. Still, it is possible to measure their overall effect. We use
+recent measurements of the coordinate distances from the Fanaroff-Riley type
+IIb (FRIIb) radio galaxy (RG) data, supernovae type Ia (SNIa) data, baryon
+oscillation peak and cosmic microwave background radiation (CMBR) observations
+to obtain stronger bounds for the contribution of the type considered. We
+demonstrate that, while $\rho^2$ corrections are very small, they can be tested
+by astronomical observations -- at least in principle. Bayesian criteria of
+model selection (the Bayesian factor, AIC, and BIC) are used to check if
+additional parameters are detectable in the present epoch. As it turns out, the
+$\Lambda$CDM model is favoured over the bouncing model driven by loop quantum
+effects. Or, in other words, the bounds obtained from cosmography are very
+weak, and from the point of view of the present data this model is
+indistinguishable from the $\Lambda$CDM one.

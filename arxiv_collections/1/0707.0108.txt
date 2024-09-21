@@ -1,0 +1,9 @@
+This is an expository article with complete proofs intended for a general
+non-specialist audience. The results are two-fold. First, we discuss a
+geometric invariant, that we call the width, of a manifold and show how it can
+be realized as the sum of areas of minimal 2-spheres. For instance, when $M$ is
+a homotopy 3-sphere, the width is loosely speaking the area of the smallest
+2-sphere needed to ``pull over'' $M$. Second, we use this to conclude that
+Hamilton's Ricci flow becomes extinct in finite time on any homotopy 3-sphere.
+We have chosen to write this since the results and ideas given here are quite
+useful and seem to be of interest to a wide audience.

@@ -1,0 +1,11 @@
+We gauge the direct product of the Proca with the Dirac equation that
+describes the coupling to the electromagnetic field of the spin-cascade
+(1/2,3/2) residing in the four-vector spinor and analyze propagation of its
+wave fronts in terms of the Courant-Hilbert criteria. We show that the
+differential equation under consideration is unconditionally hyperbolic and the
+propagation of its wave fronts unconditionally causal. In this way we proof
+that the irreducible spin-cascade embedded within four-vector is free from the
+Velo-Zwanziger problem that plagues the Rarita-Schwinger description of
+spin-3/2. The proof extends also to the direct product of two Proca equations
+and implies causal propagation of the spin-cascade (0,1,2) within an
+electromagnetic environment.

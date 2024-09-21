@@ -1,0 +1,12 @@
+We say that a pair of points x and y is secure if there exist a finite set of
+blocking points such that any geodesic between x and y passes through one of
+the blocking points. The main point of this paper is to exhibit new examples of
+blocking phenomena both in the manifold and the billiard table setting. As an
+approach to this, we study if the product of secure configurations (or
+manifolds) is also secure.
+  We introduce the concept of midpoint security that imposes that the geodesic
+reaches a blocking point exactly at its midpoint. We prove that products of
+midpoint secure configurations are midpoint secure. On the other hand, we give
+an example of a compact C^1 surface that contains secure configurations that
+are not midpoint secure. This surface provides the first example of an insecure
+product of secure configurations, as well as billiard table examples.

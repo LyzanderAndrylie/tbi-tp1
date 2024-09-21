@@ -1,0 +1,14 @@
+Inclusive dijet and trijet production in deep inelastic $ep$ scattering has
+been measured for $10<Q^2<100$ GeV$^2$ and low Bjorken $x$, $10^{-4}<x_{\rm
+Bj}<10^{-2}$. The data were taken at the HERA $ep$ collider with centre-of-mass
+energy $\sqrt{s} = 318 \gev$ using the ZEUS detector and correspond to an
+integrated luminosity of $82 {\rm pb}^{-1}$. Jets were identified in the
+hadronic centre-of-mass (HCM) frame using the $k_{T}$ cluster algorithm in the
+longitudinally invariant inclusive mode. Measurements of dijet and trijet
+differential cross sections are presented as functions of $Q^2$, $x_{\rm Bj}$,
+jet transverse energy, and jet pseudorapidity. As a further examination of
+low-$x_{\rm Bj}$ dynamics, multi-differential cross sections as functions of
+the jet correlations in transverse momenta, azimuthal angles, and
+pseudorapidity are also presented. Calculations at $\mathcal{O}(\alpha_{s}^3)$
+generally describe the trijet data well and improve the description of the
+dijet data compared to the calculation at $\mathcal{O}(\alpha_{s}^2)$.

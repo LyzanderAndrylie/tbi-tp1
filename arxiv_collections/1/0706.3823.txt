@@ -1,0 +1,9 @@
+We study the global dynamical behavior of spatially homogeneous solutions of
+the Einstein equations in Bianchi type I symmetry, where we use non-tilted
+elastic matter as an anisotropic matter model that naturally generalizes
+perfect fluids. Based on our dynamical systems formulation of the equations we
+are able to prove that (i) toward the future all solutions isotropize; (ii)
+toward the initial singularity all solutions display oscillatory behavior;
+solutions do not converge to Kasner solutions but oscillate between different
+Kasner states. This behavior is associated with energy condition violation as
+the singularity is approached.

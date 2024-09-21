@@ -1,0 +1,15 @@
+In this paper we propose several strategies for the exact computation of the
+determinant of a rational matrix. First, we use the Chinese Remaindering
+Theorem and the rational reconstruction to recover the rational determinant
+from its modular images. Then we show a preconditioning for the determinant
+which allows us to skip the rational reconstruction process and reconstruct an
+integer result. We compare those approaches with matrix preconditioning which
+allow us to treat integer instead of rational matrices. This allows us to
+introduce integer determinant algorithms to the rational determinant problem.
+In particular, we discuss the applicability of the adaptive determinant
+algorithm of [9] and compare it with the integer Chinese Remaindering scheme.
+We present an analysis of the complexity of the strategies and evaluate their
+experimental performance on numerous examples. This experience allows us to
+develop an adaptive strategy which would choose the best solution at the run
+time, depending on matrix properties. All strategies have been implemented in
+LinBox linear algebra library.

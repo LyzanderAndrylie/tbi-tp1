@@ -1,0 +1,10 @@
+In a rigorous construction of the path integral for supersymmetric quantum
+mechanics on a Riemann manifold, based on B\"ar and Pf\"affle's use of
+piecewise geodesic paths, the kernel of the time evolution operator is the heat
+kernel for the Laplacian on forms. The path integral is approximated by the
+integral of a form on the space of piecewise geodesic paths which is the
+pullback by a natural section of Mathai and Quillen's Thom form of a bundle
+over this space.
+  In the case of closed paths, the bundle is the tangent space to the space of
+geodesic paths, and the integral of this form passes in the limit to the
+supertrace of the heat kernel.

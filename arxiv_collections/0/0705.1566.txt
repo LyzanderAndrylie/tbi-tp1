@@ -1,0 +1,11 @@
+One of the most puzzling aspects of the high $T_c$ superconductors is the
+appearance of Fermi arcs in the normal state of the underdoped cuprate
+materials. These are loci of low energy excitations covering part of the fermi
+surface, that suddenly appear above $T_c$ instead of the nodal quasiparticles.
+Based on a semiclassical theory, we argue that partial Fermi surfaces arise
+naturally in a d-wave superconductor that is destroyed by thermal phase
+fluctuations. Specifically, we show that the electron spectral function
+develops a square root singularity at low frequencies for wave-vectors
+positioned on the bare Fermi surface. We predict a temperature dependence of
+the arc length that can partially account for results of recent angle resolved
+photo emission (ARPES) experiments.

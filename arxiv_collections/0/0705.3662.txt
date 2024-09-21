@@ -1,0 +1,22 @@
+This work is part of the NUGA survey of CO emission in nearby active
+galaxies. We present observations of NGC4569, a member of the Virgo Cluster. We
+analyse the molecular gas distribution and kinematics in the central region and
+we investigate a possible link to the strong starburst present at the nucleus.
+70% of the 1.1x10^9 Msolar of molecular gas detected in the inner 20" is found
+to be concentrated within the inner 800 pc and is distributed along the large
+scale stellar bar seen in near-infrared observations. A hole in the CO
+distribution coincides with the nucleus where most of the Halpha emission and
+blue light are emitted. The kinematics are modelled in three different ways,
+ranging from the purely geometrical to the most physical. This approach allows
+us to constrain progressively the physical properties of the galaxy and
+eventually to emerge with a reasonable fit to an analytical model of orbits in
+a barred potential. Fitting an axisymmetric model shows that the non-circular
+motions must be comparable in amplitude to the circular motions (120 km/s).
+Fitting a model based on elliptical orbits allows us to identify with
+confidence the single inner Lindblad resonance (ILR) of the large scale bar.
+Finally, a model based on analytical solutions for the gas particle orbits in a
+weakly barred potential constrained by the ILR radius reproduces the
+observations well. The mass inflow rate is then estimated and discussed based
+on the best fit model solution. The gravitational torques implied by this model
+are able to efficiently funnel the gas inside the ILR down to 300 pc, although
+another mechanism must take over to fuel the nuclear starburst inside 100 pc.

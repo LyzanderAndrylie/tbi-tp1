@@ -1,0 +1,5 @@
+The experimental charged particles multiplicity distributions in $e^+e^-$
+annihilation to hadrons are compared with the distributions obtained by PYTHIA.
+The ratio $\chi^2$/degrees of freedom is calculated for 6 energies at
+$\sqrt{s}$ 14 -- 206.2 GeV. The necessity of more subtle tuning of PYTHIA at
+the energy of $Z^0$ peak is discussed.

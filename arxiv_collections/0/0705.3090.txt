@@ -1,0 +1,12 @@
+Motivated by recent experiments on nanowires and carbon nanotubes, we study
+theoretically the effect of strong, point-like impurities on the linear
+electrical resistance R of finite length quantum wires. Charge transport is
+limited by Coulomb blockade and cotunneling. ln R is slowly self-averaging and
+non Gaussian. Its distribution is Gumbel with finite-size corrections which we
+compute. At low temperature, the distribution is similar to the variable range
+hopping (VRH) behaviour found long ago in doped semiconductors. We show that a
+result by Raikh and Ruzin does not apply. The finite-size corrections decay
+with the length L like 1/ln L. At higher temperatures, this regime is replaced
+by new laws and the shape of the finite-size corrections changes strongly: if
+the electrons interact weakly, the corrections vanish already for wires with a
+few tens impurities.

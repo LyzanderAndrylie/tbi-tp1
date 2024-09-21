@@ -1,0 +1,14 @@
+We analyse the first publicly released deep field of the UKIDSS Deep
+eXtragalactic Survey (DXS) to identify candidate galaxy over-densities at z~1
+across ~1 sq. degree in the ELAIS-N1 field. Using I-K, J-K and K-3.6um colours
+we identify and spectroscopically follow-up five candidate structures with
+Gemini/GMOS and confirm they are all true over-densities with between five and
+nineteen members each. Surprisingly, all five structures lie in a narrow
+redshift range at z=0.89+/-0.01, although they are spread across 30Mpc on the
+sky. We also find a more distant over-density at z=1.09 in one of the
+spectroscopic survey regions. These five over-dense regions lying in a narrow
+redshift range indicate the presence of a supercluster in this field and by
+comparing with mock cluster catalogs from N-body simulations we discuss the
+likely properties of this structure. Overall, we show that the properties of
+this supercluster are similar to the well-studied Shapley and Hercules
+superclusters at lower redshift.

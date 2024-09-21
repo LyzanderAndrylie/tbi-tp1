@@ -1,0 +1,12 @@
+The star formation history (SFH) of Local Group galaxies is a powerful tool
+for studying their evolution, including chemical enrichment histories and
+stellar population gradients, which in turn may shed light on the role of
+reionization or Supernovae feedback in galaxy formation and evolution. In
+particular, isolated dwarfs are ideal laboratories since their evolution has
+not been complicated by the vicinity of giant galaxies. In this paper, we
+present the project Local Cosmology from Isolated Dwarfs (LCID), aimed at
+deriving detailed SFHs for a sample of Local Group isolated dwarf galaxies. To
+accomplish this goal we have collected, using the ACS on board the HST,
+color-magnitude diagrams (CMD) reaching their oldest main sequence turnoff
+(V~28 or M_V~+3.5) with good photometric accuracy. Some preliminary results
+from the CMDs are shown and briefly discussed.

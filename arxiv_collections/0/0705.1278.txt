@@ -1,0 +1,21 @@
+We have combined multi-wavelength observations of a selected sample of
+starforming galaxies with galaxy evolution models in order to compare the
+results obtained for different SFR tracers and to study the effect that the
+evolution of the starforming regions has on them. We also aimed at obtaining a
+better understanding of the corrections due to extinction and nuclear activity
+on the derivation of the SFR. We selected the sample from Chandra data for the
+well studied region Chandra Deep Field South (CDFS) and chose the objects that
+also have UV and IR data from GALEX and GOODS-Spitzer respectively.
+  Our main finding is that there is good agreement between the extinction
+corrected SFR(UV) and the SFR(X), and we confirm the use of X-ray luminosities
+as a trustful tracer of recent star formation activity. Nevertheless, at
+SFR(UV) larger than about 5Msol/year there are several galaxies with an excess
+of SFR(X) suggesting the presence of an obscured AGN not detected in the
+optical spectra. We conclude that the IR luminosity is driven by recent star
+formation even in those galaxies where the SFR(X) is an order of magnitude
+higher than the SFR(UV) and therefore may harbour an AGN. One object shows
+SFR(X) much lower than expected based on the SFR(UV); this SFR(X) `deficit' may
+be due to an early transient phase before most of the massive X-ray binaries
+were formed. An X-ray deficit could be used to select extremely young bursts in
+an early phase just after the explosion of the first supernovae associated with
+massive stars and before the onset of massive X-ray binaries.

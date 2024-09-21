@@ -1,0 +1,18 @@
+In this paper, we develop a structure-preserving discretization of the
+Lagrangian framework for electromagnetism, combining techniques from
+variational integrators and discrete differential forms. This leads to a
+general family of variational, multisymplectic numerical methods for solving
+Maxwell's equations that automatically preserve key symmetries and invariants.
+  In doing so, we demonstrate several new results, which apply both to some
+well-established numerical methods and to new methods introduced here. First,
+we show that Yee's finite-difference time-domain (FDTD) scheme, along with a
+number of related methods, are multisymplectic and derive from a discrete
+Lagrangian variational principle. Second, we generalize the Yee scheme to
+unstructured meshes, not just in space but in 4-dimensional spacetime. This
+relaxes the need to take uniform time steps, or even to have a preferred time
+coordinate at all. Finally, as an example of the type of methods that can be
+developed within this general framework, we introduce a new asynchronous
+variational integrator (AVI) for solving Maxwell's equations. These results are
+illustrated with some prototype simulations that show excellent energy and
+conservation behavior and lack of spurious modes, even for an irregular mesh
+with asynchronous time stepping.

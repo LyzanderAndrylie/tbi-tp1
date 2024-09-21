@@ -1,0 +1,12 @@
+In this paper we present the equations of the evolution of the universe in
+$D$ spatial dimensions, as a generalization of the work of Lima \citep{lima}.
+We discuss the Friedmann-Robertson-Walker cosmological equations in $D$ spatial
+dimensions for a simple fluid with equation of state $p=\omega_{D}\rho$. It is
+possible to reduce the multidimensional equations to the equation of a point
+particle system subject to a linear force. This force can be expressed as an
+oscillator equation, anti-oscillator or a free particle equation, depending on
+the $k$ parameter of the spatial curvature. An interesting result is the
+independence on the dimension $D$ in a de Sitter evolution. We also stress the
+generality of this procedure with a cosmological $\Lambda$ term. A more
+interesting result is that the reduction of the dimensionality leads naturally
+to an accelerated expansion of the scale factor in the plane case.

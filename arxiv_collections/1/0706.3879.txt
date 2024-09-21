@@ -1,0 +1,9 @@
+We suggest a new method for quantum optical control with nanoscale
+resolution. Our method allows for coherent far-field manipulation of individual
+quantum systems with spatial selectivity that is not limited by the wavelength
+of radiation and can, in principle, approach a few nanometers. The selectivity
+is enabled by the nonlinear atomic response, under the conditions of
+Electromagnetically Induced Transparency, to a control beam with intensity
+vanishing at a certain location. Practical performance of this technique and
+its potential applications to quantum information science with cold atoms,
+ions, and solid-state qubits are discussed.

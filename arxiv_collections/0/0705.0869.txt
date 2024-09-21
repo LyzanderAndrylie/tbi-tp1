@@ -1,0 +1,8 @@
+We investigate the lasing modes in fully chaotic polymer microstadiums under
+optical pumping. The lasing modes are regularly spaced in frequency, and their
+amplitudes oscillate with frequency. Our numerical simulations reveal that the
+lasing modes are multi-orbit scar modes. The interference of partial waves
+propagating along the constituent orbits results in local maxima of quality
+factor at certain frequencies. The observed modulation of lasing mode amplitude
+with frequency results from the variation of quality factor, which provides the
+direct evidence of wave interference effect in open chaotic microcavities.

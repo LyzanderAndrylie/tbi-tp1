@@ -1,0 +1,9 @@
+The design of a spherical wrist with parallel architecture is the object of
+this article. This study is part of a larger project, which aims to design and
+to build an eel robot for inspection of immersed piping. The kinematic analysis
+of the mechanism is presented first to characterize the singular configurations
+as well as the isotropic configurations. We add the design constraints related
+to the application, such as (i) the compactness of the mechanism, (ii) the
+symmetry of the elements in order to ensure static and dynamic balance and
+(iii) the possibility of the mechanism to fill the elliptic form of the ell
+sections.

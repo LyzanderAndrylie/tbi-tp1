@@ -1,0 +1,19 @@
+In the equilibrium statistical mechanics of classical Coulomb fluids, the
+long-range tail of the Coulomb potential gives rise to the Stillinger-Lovett
+sum rules for the charge correlation functions. For the jellium model of mobile
+particles of charge $q$ immersed in a neutralizing background, the fixing of
+one of the $q$-charges induces a screening cloud of the charge density whose
+zeroth and second moments are determined just by the Stillinger-Lovett sum
+rules. In this paper, we generalize these sum rules to the screening cloud
+induced around a pointlike guest charge $Z q$ immersed in the bulk interior of
+the 2D jellium with the coupling constant $\Gamma=\beta q^2$ ($\beta$ is the
+inverse temperature), in the whole region of the thermodynamic stability of the
+guest charge $Z>-2/\Gamma$. The derivation is based on a mapping technique of
+the 2D jellium at the coupling $\Gamma$ = (even positive integer) onto a
+discrete 1D anticommuting-field theory; we assume that the final results remain
+valid for all real values of $\Gamma$ corresponding to the fluid regime. The
+generalized sum rules reproduce for arbitrary coupling $\Gamma$ the standard
+Z=1 and the trivial Z=0 results. They are also checked in the Debye-H\"uckel
+limit $\Gamma\to 0$ and at the free-fermion point $\Gamma=2$. The generalized
+second-moment sum rule provides some exact information about possible sign
+oscillations of the induced charge density in space.

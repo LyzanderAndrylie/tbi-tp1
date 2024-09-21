@@ -1,0 +1,9 @@
+A generalization of down-up algebras was introduced by Cassidy and Shelton
+(J. Algebra 279 (2004), no. 1), the so-called generalized down-up algebras. We
+describe the automorphism group of conformal Noetherian generalized down-up
+algebras L(f,r,s,\gamma) such that r is not a root of unity, listing explicitly
+the elements of the group. In the last section we apply these results to
+Noetherian down-up algebras, thus obtaining a characterization of the
+automorphism group of Noetherian down-up algebras A(\alpha, \beta, \gamma) for
+which the roots of the polynomial X^2-\alpha X-\beta are not both roots of
+unity.

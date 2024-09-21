@@ -1,0 +1,8 @@
+We discuss memory effects in the conductance of hopping insulators due to
+slow rearrangements of structural defects leading to formation of polarons
+close to the electron hopping states. An abrupt change in the gate voltage and
+corresponding shift of the chemical potential change populations of the hopping
+sites, which then slowly relax due to rearrangements of structural defects. As
+a result, the density of hopping states becomes time dependent on a scale
+relevant to rearrangement of the structural defects leading to the excess time
+dependent conductivity.

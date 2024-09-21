@@ -1,0 +1,8 @@
+The charged and spinning lightlike solutions are obtained in the Kerr-Schild
+formalism. In particular, one of them may be considered as an ultrarelativistic
+boost of the Kerr-Newman solution along the direction of angular momentum. The
+Kerr singular ring disappears, however, there remains a finite parameter $a$
+which determines spin by the Kerr relation $J=ma$. By $J=\hbar$, the parameter
+$a$ is de Broglie wavelength of the corresponding photon. Electromagnetic field
+is aligned to the Kerr null congruence. Some of the presented solutions contain
+singular beam pulse (pp-strings) like the considered recently `gyratons'.

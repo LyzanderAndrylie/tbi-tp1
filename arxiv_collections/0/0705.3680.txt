@@ -1,0 +1,8 @@
+We propose an experiment to obtain the phase diagram of the fermionic Hubbard
+model, for any dimensionality, using cold atoms in optical lattices. It is
+based on measuring the total energy for a sequence of trap profiles. It
+combines finite-size scaling with an additional `finite-curvature scaling'
+necessary to reach the homogeneous limit. We illustrate its viability in the 1D
+case, simulating experimental data in the Bethe-Ansatz local density
+approximation. Including experimental errors, the filling corresponding to the
+Mott transition can be determined with better than 3% accuracy.

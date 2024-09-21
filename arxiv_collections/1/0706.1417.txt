@@ -1,0 +1,9 @@
+In this paper, we propose a THz probe technique to obtain spatially resolved
+information about the electronic spectra inside nanowire-based FETs. This
+spectroscopic approach employs a segmented multi-gate design for the local
+detection of quantum transitions between few-electron states within the FET
+channel. We simulate the intra-band THz response of such devices by means of a
+many-body quantum approach, taking quantization and Coulomb interaction effects
+into account. The obtained simulation results demonstrate the capabilities of
+the proposed technique which go beyond the limitations of standard
+characterization methods.

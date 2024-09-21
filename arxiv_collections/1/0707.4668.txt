@@ -1,0 +1,7 @@
+We discuss atomic lattice excitons (ALEs), bound particle-hole pairs formed
+by fermionic atoms in two bands of an optical lattice. Such a system provides a
+clean setup to study fundamental properties of excitons, ranging from
+condensation to exciton crystals (which appear for a large effective mass ratio
+between particles and holes). Using both mean-field treatments and 1D numerical
+computation, we discuss the properities of ALEs under varying conditions, and
+discuss in particular their preparation and measurement.

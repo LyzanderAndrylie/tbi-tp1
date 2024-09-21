@@ -1,0 +1,9 @@
+We study the dynamical process of disentanglement of two qubits and two
+qutrits coupled to an Ising spin chain in a transverse field, which exhibits a
+quantum phase transition. We use the concurrence and negativity to quantify
+entanglement of two qubits and two qutrits, respectively. Explicit connections
+between the concurrence (negativity) and the decoherence factors are given for
+two initial states, the pure maximally entangled state and the mixed Werner
+state. We find that the concurrence and negativity decay exponentially with
+fourth power of time in the vicinity of critical point of the environmental
+system.

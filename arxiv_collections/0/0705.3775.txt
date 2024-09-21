@@ -1,0 +1,18 @@
+We report and analyze reversible magnetization measurements on a high quality
+MgB2 single crystal in the vicinity of the zero field transition temperature,
+T_c=38.83 K, at several magnetic fields up to 300 Oe, applied along the c-axis.
+Though MgB2 is a two gap superconductor our scaling analysis uncovers
+remarkable consistency with 3D-xy critical behavior, revealing that close to
+criticality the order parameter is a single complex scalar as in 4He. This
+opens up the window onto the exploration of the magnetic field induced finite
+size effect, whereupon the correlation length transverse to the applied
+magnetic field H_i applied along the i-axis cannot grow beyond the limiting
+magnetic length L_Hi, related to the average distance between vortex lines. We
+find unambiguous evidence for this finite size effect. It implies that in type
+II superconductors, such as MgB2, there is the 3D to 1D crossover line H_pi and
+xi denotes the critical amplitudes of the correlation lengths above and below
+T_c along the respective axis. Consequently, above H_pi(T) and T<T_c
+superconductivity is confined to cylinders with diameter L_Hi (1D). In
+contrast, above T_c the uncondensed pairs are confined to cylinders.
+Accordingly, there is no continuous phase transition in the (H,T)-plane along
+the H_c2-lines as predicted by the mean-field treatment.

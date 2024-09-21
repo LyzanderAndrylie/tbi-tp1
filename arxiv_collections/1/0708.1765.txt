@@ -1,0 +1,10 @@
+We investigate quantum phase transitions in the extended periodic Anderson
+model, which includes electron correlations within and between itinerant and
+localized bands. We calculate zero and finite temperature properties of the
+system using the combination of dynamical mean-field theory and the numerical
+renormalization group. At half filling, a phase transition between a Mott
+insulating state and a Kondo insulating state occurs in the strong coupling
+regime. We furthermore find that a metallic state is stabilized in the weak
+coupling regime. This state should be adiabatically connected to the orbital
+selective Mott state with one orbital localized and the other itinerant. The
+effect of hole doping is also addressed.

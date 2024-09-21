@@ -1,0 +1,9 @@
+A chemical nanomachining process for the rapid, scalable production of
+nanostructure assemblies from silicon-on-insulator is demonstrated. The process
+is based on the spontaneous, local oxidation of Si induced by Au, which is
+selectively evaporated onto the Si surface. The Au-catalyzed oxide forms a
+pattern that serves as a robust mask for the underlying Si, enabling the use of
+simple wet chemistry to sculpt arrays of nanostructures of diverse shapes
+including rings, pillars, wires, and nanopores. The remarkable simplicity of
+this chemical nanomachining process makes it widely accessible as an enabling
+technique for applications from photonics to biotechnology.

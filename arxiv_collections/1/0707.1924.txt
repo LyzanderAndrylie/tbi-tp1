@@ -1,0 +1,9 @@
+We report some basic results regarding transport in disordered
+reaction-diffusion systems with birth (A->2A), death (A->0), and binary
+competition (2A->A) processes. We consider a model in which the growth process
+is only allowed to take place in certain areas--"oases"--while the rest of
+space--the "desert"--is hostile to growth. In the limit of low oasis density,
+transport is mediated through rare "hopping" events, necessitating the
+inclusion of discreteness effects in the model. By first considering transport
+between two oases, we are able to derive an approximate expression for the
+average time taken for a population to traverse a disordered medium.

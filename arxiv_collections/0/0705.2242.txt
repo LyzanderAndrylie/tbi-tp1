@@ -1,0 +1,20 @@
+Gas in the million degree range occurs in a variety of astronomical
+environments, and it may be the main component of the elusive missing baryons
+at low redshift. The NVII ion is found in this material and it has a hyperfine
+spin-flip transition with a rest frequency of 53.042 GHz, which can be observed
+for z > 0.1, when it is shifted into a suitably transparent radio band. We used
+the 42-48 GHz spectrometer on the Green Bank Telescope to search for both
+emission and absorption from this NVII transmission. For absorption studies,
+3C273, 3C 279, 3C 345, and 4C+39.25 were observed but no feature were seen
+above the 5 sigma level. For emission line studies, we observed Abell 1835,
+Abell 2390 and the star-forming galaxy PKS 1345+12, but no features were seen
+exceeding 5 sigma. We examine whether the strongest emission feature, in Abell
+2390 (3.7 sigma), and the strongest absorption feature, toward 4C+39.25 (3.8
+sigma), might be expected from theoretical models. The emission feature would
+require ~1E10 Msolar of 1E6 K gas, which is inconsistent with X-ray limits for
+the O VII Kalpha line, so it is unlikely to be real. The NVII absorption
+feature requires a NVII column of 6E16 cm^-2, higher than model predictions by
+at least an order of magnitude, which makes it inconsistent with model
+expectations. The individual observations were less than 1 hr in length, so for
+lengthy observations, we show that NVII absorption line observations can begin
+to be useful in in the search for hot intergalactic gas.

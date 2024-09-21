@@ -1,0 +1,8 @@
+For cylindrically symmetric functions dyadically supported on the paraboloid,
+we obtain a family of sharp linear and bilinear adjoint restriction estimates.
+As corollaries, we first extend the ranges of exponents for the classical
+\textit{linear or bilinear adjoint restriction conjectures} for such functions
+and verify the \textit{linear adjoint restriction conjecture} for the
+paraboloid. We also interpret the restriction estimates in terms of solutions
+to the Schr\"odinger equation and establish the analogous results when the
+paraboloid is replaced by the lower third of the sphere.

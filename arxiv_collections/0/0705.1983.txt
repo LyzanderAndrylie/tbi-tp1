@@ -1,0 +1,9 @@
+We construct the four-point correlation functions containing the top
+component of the supermultiplet in the Neveu-Schwarz sector of the N=1 SUSY
+Liouville field theory. The construction is based on the recursive
+representation for the NS conformal blocks. We test our results in the case
+where one of the fields is degenerate with a singular vector on the level 3/2.
+In this case, the correlation function satisfies a third-order ordinary
+differential equation, which we derive. We numerically verify the crossing
+symmetry relations for the constructed correlation functions in the
+nondegenerate case.

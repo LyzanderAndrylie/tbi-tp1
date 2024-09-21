@@ -1,0 +1,17 @@
+We call "projectile fragmentation" of neutron halo nuclei the elastic breakup
+(diffraction) reaction, when the observable studied is the neutron-core
+relative energy spectrum. This observable has been measured in relation to the
+Coulomb breakup on heavy target and recently also on light targets. Such data
+enlighten the effect of the neutron final state interaction with the core of
+origin. Projectile fragmentation is studied here by a time dependent model for
+the excitation of a nucleon from a bound state to a continuum resonant state in
+a neutron-core complex potential which acts as a final state interaction.
+  The final state is described by an optical model S-matrix so that both
+resonant and non resonant states of any continuum energy can be studied as well
+as deeply bound initial states. It turns out that due to the coupling between
+the initial and final states, the neutron-core free particle phase shifts are
+modified, in the exit channel, by an additional phase.
+  Some typical numerical calculations for the relevant observables are
+presented and compared to experimental data. It is suggest that the excitation
+energy spectra of an unbound nucleus might reflect the structure of the parent
+nucleus from whose fragmentation they are obtained.

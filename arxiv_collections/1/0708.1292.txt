@@ -1,0 +1,14 @@
+We investigate the multiphoton ionization of hydrogen driven by a strong
+bichromatic microwave field. In a regime where classical and quantum
+simulations agree, periodic orbit analysis captures the mechanism: Through the
+linear stability of periodic orbits we match qualitatively the variation of
+experimental ionization rates with control parameters such as the amplitudes of
+the two modes of the field or their relative phases. Moreover, we discuss an
+empirical formula which reproduces quantum simulations to a high degree of
+accuracy. This quantitative agreement shows the mechanism by which short
+periodic orbits organize the dynamics in multiphoton ionization. We also
+analyze the effect of longer pulse durations. Finally we compare our results
+with those based on the peak amplitude rule. Both qualitative and quantitative
+analyses are implemented for different mode locked fields. In parameter space,
+the localization of the period doubling and halving allows one to predict the
+set of parameters (amplitudes and phase lag) where ionization occurs.

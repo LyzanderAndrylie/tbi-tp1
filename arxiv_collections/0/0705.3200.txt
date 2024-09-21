@@ -1,0 +1,14 @@
+We apply the real-time renormalization group (RG) in nonequilibrium to an
+arbitrary quantum dot in the Coulomb blockade regime. Within one-loop
+RG-equations, we include self-consistently the kernel governing the dynamics of
+the reduced density matrix of the dot. As a result, we find that relaxation and
+dephasing rates generically cut off the RG flow. In addition, we include all
+other cutoff scales defined by temperature, energy excitations, frequency, and
+voltage. We apply the formalism to transport through single molecular magnets,
+realized by the fully anisotropic Kondo model (with three different exchange
+couplings J_x, J_y, and J_z) in a magnetic field h_z. We calculate the
+differential conductance as function of bias voltage V and discuss a quantum
+phase transition which can be tuned by changing the sign of J_x J_y J_z via the
+anisotropy parameters. Finally, we calculate the noise S(Omega) at finite
+frequency Omega for the isotropic Kondo model and find that the dephasing rate
+determines the height of the shoulders in dS(\Omega)/d Omega near Omega=V.

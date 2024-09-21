@@ -1,0 +1,12 @@
+Using ~600 pb-1 collected with the KLOE detector at DAPhiNE, we have studied
+the production cross section of pi+ pi- pi0 pi0 and p0p0 gamma final states in
+e+e- collisions at center of mass energies between 1000 and 1030 MeV. By
+fitting the observed interference pattern around Mphi for both final states, we
+extract a measurement (preliminary) for the ratio Gamma(omega -> pi0
+gamma)/Gamma(omega -> pi+ pi- pi0) = 0.0934 +- 0.0022. Since these two final
+states represent the 98% of the omega decay channels, we use unitarity to
+derive BR(omega -> pi+pi-pi0)= (89.94 +- 0.23)% and BR(omega -> pi0 gamma) =
+(8.40 +- 0.19)%. Moreover, the parameters describing the e+e- -> pi+ pi- pi0
+pi0 reaction around Mphi are used to extract the branching fraction for the OZI
+and G-parity violating phi -> omega pi0 decay: BR(phi -> omega pi0) = (5.63 +-
+0.70) x 10^-5.

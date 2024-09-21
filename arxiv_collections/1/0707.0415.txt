@@ -1,0 +1,10 @@
+Encapsulation layers are explored for passivating the surfaces of silicon to
+reduce optical absorption in the 1500-nm wavelength band. Surface-sensitive
+test structures consisting of microdisk resonators are fabricated for this
+purpose. Based on previous work in silicon photovoltaics, coatings of SiNx and
+SiO2 are applied under varying deposition and annealing conditions. A short dry
+thermal oxidation followed by a long high-temperature N2 anneal is found to be
+most effective at long-term encapsulation and reduction of interface
+absorption. Minimization of the optical loss is attributed to simultaneous
+reduction in sub-bandgap silicon surface states and hydrogen in the capping
+material.

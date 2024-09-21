@@ -1,0 +1,24 @@
+We study numerically finite-size corrections in scaling relations for
+roughness distributions of various interface growth models. The most common
+relation, which considers the average roughness $<w_2>$ as scaling factor, is
+not obeyed in the steady states of a group of ballistic-like models in 2+1
+dimensions, even when very large system sizes are considered. On the other
+hand, good collapse of the same data is obtained with a scaling relation that
+involves the root mean square fluctuation of the roughness, which can be
+explained by finite-size effects on second moments of the scaling functions. We
+also obtain data collapse with an alternative scaling relation that accounts
+for the effect of the intrinsic width, which is a constant correction term
+previously proposed for the scaling of $<w_2>$. This illustrates how
+finite-size corrections can be obtained from roughness distributions scaling.
+However, we discard the usual interpretation that the intrinsic width is a
+consequence of high surface steps by analyzing data of restricted
+solid-on-solid models with various maximal height differences between
+neighboring columns. We also observe that large finite-size corrections in the
+roughness distributions are usually accompanied by huge corrections in height
+distributions and average local slopes, as well as in estimates of scaling
+exponents. The molecular-beam epitaxy model of Das Sarma and Tamborenea in 1+1
+dimensions is a case example in which none of the proposed scaling relations
+works properly, while the other measured quantities do not converge to the
+expected asymptotic values. Thus, although roughness distributions are clearly
+better than other quantities to determine the universality class of a growing
+system, it is not the final solution for this task.

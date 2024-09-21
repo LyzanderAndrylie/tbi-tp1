@@ -1,0 +1,9 @@
+We study deformations of orbit closures for the action of a connected
+semisimple group $G$ on its Lie algebra $\mathfrak{g}$, especially when $G$ is
+the special linear group. The tools we use are on the one hand the invariant
+Hilbert scheme and on the other hand the sheets of $\mathfrak{g}$. We show that
+when $G$ is the special linear group, the connected components of the invariant
+Hilbert schemes we get are the geometric quotients of the sheets of
+$\mathfrak{g}$. These quotients were constructed by Katsylo for a general
+semisimple Lie algebra $\mathfrak{g}$; in our case, they happen to be affine
+spaces.

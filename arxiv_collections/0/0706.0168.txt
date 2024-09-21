@@ -1,0 +1,20 @@
+We show that the Kullback-Leibler distance is a good measure of the
+statistical uncertainty of correlation matrices estimated by using a finite set
+of data. For correlation matrices of multivariate Gaussian variables we
+analytically determine the expected values of the Kullback-Leibler distance of
+a sample correlation matrix from a reference model and we show that the
+expected values are known also when the specific model is unknown. We propose
+to make use of the Kullback-Leibler distance to estimate the information
+extracted from a correlation matrix by correlation filtering procedures. We
+also show how to use this distance to measure the stability of filtering
+procedures with respect to statistical uncertainty. We explain the
+effectiveness of our method by comparing four filtering procedures, two of them
+being based on spectral analysis and the other two on hierarchical clustering.
+We compare these techniques as applied both to simulations of factor models and
+empirical data. We investigate the ability of these filtering procedures in
+recovering the correlation matrix of models from simulations. We discuss such
+an ability in terms of both the heterogeneity of model parameters and the
+length of data series. We also show that the two spectral techniques are
+typically more informative about the sample correlation matrix than techniques
+based on hierarchical clustering, whereas the latter are more stable with
+respect to statistical uncertainty.

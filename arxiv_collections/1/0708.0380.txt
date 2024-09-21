@@ -1,0 +1,13 @@
+We consider biochemical reaction chains and investigate how random external
+fluctuations, as characterized by variance and coefficient of variation,
+propagate down the chains. We perform such a study under the assumption that
+the number of molecules is high enough so that the behavior of the
+concentrations of the system is well approximated by differential equations. We
+conclude that the variances and coefficients of variation of the fluxes will
+decrease as one moves down the chain and, through an example, show that there
+is no corresponding result for the variances of the chemical species. We also
+prove that the fluctuations of the fluxes as characterized by their time
+averages decrease down reaction chains. The results presented give insight into
+how biochemical reaction systems are buffered against external perturbations
+solely by their underlying graphical structure and point out the benefits of
+studying the out-of-equilibrium dynamics of systems.

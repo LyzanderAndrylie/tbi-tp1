@@ -1,0 +1,24 @@
+For a finitely generated group G and a banach space X let \alpha^*_X(G)
+(respectively \alpha^#_X(G)) be the supremum over all \alpha\ge 0 such that
+there exists a Lipschitz mapping (respectively an equivariant mapping) f:G\to X
+and c>0 such that for all x,y\in G we have \|f(x)-f(y)\|\ge c\cdot
+d_G(x,y)^\alpha. In particular, the Hilbert compression exponent (respectively
+the equivariant Hilbert compression exponent) of G is
+\alpha^*(G)=\alpha^*_{L_2}(G) (respectively \alpha^#(G)= \alpha_{L_2}^#(G)). We
+show that if X has modulus of smoothness of power type p, then \alpha^#_X(G)\le
+\frac{1}{p\beta^*(G)}. Here \beta^*(G) is the largest \beta\ge 0 for which
+there exists a set of generators S of G and c>0 such that for all t\in \N we
+have \E\big[d_G(W_t,e)\big]\ge ct^\beta, where \{W_t\}_{t=0}^\infty is the
+canonical simple random walk on the Cayley graph of G determined by S, starting
+at the identity element. This result is sharp when X=L_p, generalizes a theorem
+of Guentner and Kaminker and answers a question posed by Tessera. We also show
+that if \alpha^*(G)\ge 1/2 then \alpha^*(G\bwr \Z)\ge
+\frac{2\alpha^*(G)}{2\alpha^*(G)+1}. This improves the previous bound due to
+Stalder and ValetteWe deduce that if we write \Z_{(1)}= \Z and
+\Z_{(k+1)}\coloneqq \Z_{(k)}\bwr \Z then
+\alpha^*(\Z_{(k)})=\frac{1}{2-2^{1-k}}, and use this result to answer a
+question posed by Tessera in on the relation between the Hilbert compression
+exponent and the isoperimetric profile of the balls in G. We also show that the
+cyclic lamplighter groups C_2\bwr C_n embed into L_1 with uniformly bounded
+distortion, answering a question posed by Lee, Naor and Peres. Finally, we use
+these results to show that edge Markov type need not imply Enflo type.

@@ -1,0 +1,14 @@
+We study the effective long-range Ising dipole model with a local exchange
+interaction appropriate for the dilute magnetic compound LiHo_{x}Y_{1-x}F_4.
+Our calculations yield a value of 0.12 K for the nearest neighbor exchange
+interaction. Using a Monte Carlo method we calculate the phase boundary T_c(x)
+between the ferromagnetic and paramagnetic phases. We demonstrate that the
+experimentally observed linear decrease in T_c with dilution is not the simple
+mean-field result, but a combination of the effects of fluctuations, the
+exchange interaction and the hyperfine coupling. Furthermore, we find a
+critical dilution x_c=0.21(2), below which there is no ordering. In agreement
+with recent Monte Carlo simulations on a similar model, we find no evidence of
+the experimentally observed freezing of the glassy state in our calculation. We
+apply the theory of Stephen and Aharony to LiHo_{x}Y_{1-x}F_4 and find that the
+theory does predict a finite-temperature freezing of the spin glass. Reasons
+for the discrepancies are discussed.

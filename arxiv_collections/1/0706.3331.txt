@@ -1,0 +1,7 @@
+In this paper, a geometric function is introduced to reflect the attenuation
+speed of impact of one firm's default to its partner. If two firms are
+competitions (copartners), the default intensity of one firm will decrease
+(increase) abruptly when the other firm defaults. As time goes on, the impact
+will decrease gradually until extinct. In this model, the joint distribution
+and marginal distributions of default times are derived by employing the change
+of measure, so can we value the fair swap premium of a CDS.

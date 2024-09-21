@@ -1,0 +1,11 @@
+We discuss recently introduced numerical linked-cluster (NLC) algorithms that
+allow one to obtain temperature-dependent properties of quantum lattice models,
+in the thermodynamic limit, from exact diagonalization of finite clusters. We
+present studies of thermodynamic observables for spin models on square,
+triangular, and kagome lattices. Results for several choices of clusters and
+extrapolations methods, that accelerate the convergence of NLC, are presented.
+We also include a comparison of NLC results with those obtained from exact
+analytical expressions (where available), high-temperature expansions (HTE),
+exact diagonalization (ED) of finite periodic systems, and quantum Monte Carlo
+simulations.For many models and properties NLC results are substantially more
+accurate than HTE and ED.

@@ -1,0 +1,7 @@
+This paper overviews the basic principles and recent advances in the emerging
+field of Quantum Computation (QC), highlighting its potential application to
+Artificial Intelligence (AI). The paper provides a very brief introduction to
+basic QC issues like quantum registers, quantum gates and quantum algorithms
+and then it presents references, ideas and research guidelines on how QC can be
+used to deal with some basic AI problems, such as search and pattern matching,
+as soon as quantum computers become widely available.

@@ -1,0 +1,7 @@
+The paper makes a thermal predictive analysis of the electric power system
+security for a day ahead. This predictive analysis is set as a thermal
+computation of the expected security. This computation is obtained by
+cointegrating the daily electric power systen load and the weather, by finding
+the daily electric power system thermodynamics and by introducing tests for
+this thermodynamics. The predictive analysis made shows the electricity
+consumers' wisdom.

@@ -1,0 +1,7 @@
+It is known that, in an asymptotically flat spacetime, null infinity cannot
+act as an initial-value surface for massive real scalar fields. Exploiting
+tools proper of harmonic analysis on hyperboloids and global norm estimates for
+the wave operator, we show that it is possible to circumvent such obstruction
+at least in Minkowski spacetime. Hence we project norm-finite solutions of the
+Klein-Gordon equation of motion in data on null infinity and, eventually, we
+interpret them in terms of boundary free field theory.

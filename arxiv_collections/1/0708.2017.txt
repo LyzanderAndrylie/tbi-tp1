@@ -1,0 +1,8 @@
+We calculate the excitation energies of small neutral sodium clusters in the
+framework of time-dependent density-functional theory. In the presented
+calculations, we extract these energies from the power spectra of the dipole
+and quadrupole signals that result from a real-time and real-space propagation.
+For comparison with measured photoelectron spectra, we use the ionic
+configurations of the corresponding single-charged anions. Our calculations
+clearly improve on earlier results for photoelectron spectra obtained from
+static Kohn-Sham eigenvalues.

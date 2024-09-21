@@ -1,0 +1,6 @@
+We study restricted multiple three wave interaction system by the inverse
+scattering method. We develop the algebraic approach in terms of classical
+$r$-matrix and give an interpretation of the Poisson brackets as linear
+$r$-matrix algebra. The solutions are expressed in terms of polynomials of
+theta functions. In particular case for $n=1$ in terms of Weierstrass
+functions.

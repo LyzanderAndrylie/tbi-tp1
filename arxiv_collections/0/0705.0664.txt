@@ -1,0 +1,4 @@
+We extend a recent proof of hyperbolicity of the exact (to all orders in
+Knudsen number) linear hydrodynamic equations [M. Colangeli et al, Phys. Rev. E
+(2007), in press; arXiv:cond-mat/0703791v2] to the three-dimensional Grad's
+moment system. A proof of an H-theorem is also presented.

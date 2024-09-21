@@ -1,0 +1,6 @@
+In this paper we study the quantum phase transition and entanglement in
+s1=1/2 and s2=1 spin pair system by the exact diagonalization method. We show
+that, for this exactly solvable quantum bi-spin system, entanglement appears
+before quantum phase transition and disappears after it. Moreover, we show that
+the von Neumann entropy, as a measure of entanglement, can reveal quantum phase
+transition in this system.

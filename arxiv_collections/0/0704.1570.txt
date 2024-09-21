@@ -1,0 +1,16 @@
+We show that the surface gravity of a transiting extrasolar planet can be
+calculated from only the spectroscopic orbit of its parent star and the
+analysis of its transit light curve. This does not require additional
+constraints, such as are often inferred from theoretical stellar models or
+model atmospheres. The planet's surface gravity can therefore be measured
+precisely and from only directly observable quantities. We outline the method
+and apply it to the case of the first known transiting extrasolar planet, HD
+209458b. We find a surface gravity of g_p = 9.28 +/- 0.15 m/s, which is an
+order of magnitude more precise than the best available measurements of its
+mass, radius and density. This confirms that the planet has a much lower
+surface gravity that that predicted by published theoretical models of gas
+giant planets. We apply our method to all fourteen known transiting extrasolar
+planets and find a significant correlation between surface gravity and orbital
+period, which is related to the known correlation between mass and period. This
+correlation may be the underlying effect as surface gravity is a fundamental
+parameter in the evaporation of planetary atmospheres.

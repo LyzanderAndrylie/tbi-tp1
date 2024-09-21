@@ -1,0 +1,17 @@
+We study theoretically electron spins in nanowire quantum dots placed inside
+a transmission line resonator. Because of the spin-orbit interaction, the spins
+couple to the electric component of the resonator electromagnetic field and
+enable coherent manipulation, storage, and read-out of quantum information in
+an all-electrical fashion. Coupling between distant quantum-dot spins, in one
+and the same or different nanowires, can be efficiently performed via the
+resonator mode either in real time or through virtual processes. For the latter
+case we derive an effective spin-entangling interaction and suggest means to
+turn it on and off. We consider both transverse and longitudinal types of
+nanowire quantum-dots and compare their manipulation timescales against the
+spin relaxation times. For this, we evaluate the rates for spin relaxation
+induced by the nanowire vibrations (phonons) and show that, as a result of
+phonon confinement in the nanowire, this rate is a strongly varying function of
+the spin operation frequency and thus can be drastically reduced compared to
+lateral quantum dots in GaAs. Our scheme is a step forward to the formation of
+hybrid structures where qubits of different nature can be integrated in a
+single device.

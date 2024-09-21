@@ -1,0 +1,13 @@
+Lattice dynamics and molecular dynamics studies of the oxides UO2 and Li2O in
+their normal as well as superionic phase are reported. Lattice dynamics
+calculations have been carried out using a shell model in the quasiharmonic
+approximation. The calculated elastic constants, phonon frequencies and
+specific heat are in good agreement with reported experimental data, which help
+validate the interatomic potentials required for undertaking molecular dynamics
+simulations. The calculated free energies reveal high pressure fluorite to
+cottunite phase transitions at 70 GPa for UO2 and anti-fluorite to
+anti-cotunnite phase transformation at 25 GPa for Li2O, in agreement with
+reported experiments. Molecular dynamics studies shed important insights into
+the mechanisms of diffusion and superionic behavior at high temperatures. The
+calculated superionic transition temperature of Li2O is 1000 K, while that of
+UO2 is 2300 K.

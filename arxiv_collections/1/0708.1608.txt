@@ -1,0 +1,4 @@
+In this paper similarity classes of three by three matrices over a local
+principal ideal commutative ring are analyzed. When the residue field is
+finite, a generating function for the number of similarity classes for all
+finite quotients of the ring is computed explicitly.

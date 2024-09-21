@@ -1,0 +1,9 @@
+We introduce the notion of Differential Sequences of ordinary differential
+equations. This is motivated by related studies based on evolution partial
+differential equations. We discuss the Riccati Sequence in terms of symmetry
+analysis, singularity analysis and identification of the complete symmetry
+group for each member of the Sequence. The singularity analysis reveals
+considerable structure for the values of the coefficients of the leading-order
+terms and resonances of the different principal branches. Full proofs of the
+symmetry properties are performed for differential equations defined by their
+recursion properties and not given in explicit form.

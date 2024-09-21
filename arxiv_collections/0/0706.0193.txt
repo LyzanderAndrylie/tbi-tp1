@@ -1,0 +1,8 @@
+We present preliminary results of particle-in-cell simulations of
+collisionless magnetic reconnection for conditions that apply to magnetically
+dominated pair plasma jets such as those in gamma-ray bursts. We find similar
+behaviour to previous authors but with reduced reconnection efficiency. This
+results because we include the full electromagnetic field dynamically and allow
+electric field fluctuations to grow. Although weak, these fluctuations impede
+early x-point formation by periodically decelerating and even reversing the
+inflow.

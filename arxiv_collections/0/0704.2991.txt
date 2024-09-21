@@ -1,0 +1,18 @@
+Deep space laser ranging missions like ASTROD I (Single-Spacecraft
+Astrodynamical Space Test of Relativity using Optical Devices) and ASTROD,
+together with astrometry missions like GAIA and LATOR will be able to test
+relativistic gravity to an unprecedented level of accuracy. More precisely,
+these missions will enable us to test relativistic gravity to
+$10^{-7}-10^{-9}$, and will require 2nd post-Newtonian approximation of
+relevant theories of gravity. The first post-Newtonian approximation is valid
+to $10^{-6}$ and the second post-Newtonian is valid to $10^{-12}$ in the solar
+system. The scalar-tensor theory is widely discussed and used in tests of
+relativistic gravity, especially after the interests in inflation, cosmological
+constant and dark energy in cosmology. In the Lagrangian, intermediate-range
+gravity term has a similar form as cosmological term. Here we present the full
+second post-Newtonian approximation of the scalar-tensor theory including
+viable examples of intermediate-range gravity. We use Chandrasekhar's approach
+to derive the metric coefficients and the equation of the hydrodynamics
+governing a perfect fluid in the 2nd post-Newtonian approximation in
+scalar-tensor theory; all terms inclusive of $O(c^{-4})$ are retained
+consistently in the equation of motion.

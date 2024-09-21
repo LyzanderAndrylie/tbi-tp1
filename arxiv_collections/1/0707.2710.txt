@@ -1,0 +1,6 @@
+We discuss (im)possibility of the exact cloning of orthogonal but genuinely
+entangled three qubit states aided with entangled ancila under local operation
+and classical communication. Whereas any two orthogonal GHZ states taken from
+the canonical GHZ basis, can be cloned with the help of a known GHZ state,
+surprisingly we find that no two W states can be cloned by using any known
+three qubit (possibly entangled) state as blank copy.

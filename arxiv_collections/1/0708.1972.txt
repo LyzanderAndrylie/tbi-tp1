@@ -1,0 +1,19 @@
+A new precision measurement of the parity violating analyzing power in
+longitudinally polarized electron scattering from the proton at very low Q^2 at
+an incident energy of 1.16 GeV is in the final stages of preparation for
+execution at Jefferson Laboratory (JLab). A 2200 hour measurement of the parity
+violating asymmetry in elastic electron-proton scattering at Q^2 = 0.03
+(GeV/c)^2 employing 180 microamp of 85% polarized beam on a 0.35 m long liquid
+hydrogen target will determine the weak charge of the proton, Q_w = 1 -
+4sin^2(theta_W), with 4% combined statistical and systematic errors. The
+Standard Model makes a firm prediction of Q_w, based on the `running' of the
+weak mixing angle sin^2(theta_W) from the Z-pole down to lower energies. Any
+significant deviation of sin^2(theta_W) from its Standard Model prediction at
+low Q^2 would constitute a signal of new physics. In the absence of new
+physics, the envisaged experiment will provide a 0.3% determination of
+sin^2(theta_W), making this a very competitive measurement of the weak mixing
+angle. Complementary to the present experiment is a measurement of the weak
+charge of the electron in parity violating Moller scattering at 11 GeV,
+currently under consideration, with the upgraded CEBAF at JLab. The objective
+of that experiment would be a measurement of sin2(theta_W) with a precision
+comparable to or better than any individual measurement at the Z-pole.

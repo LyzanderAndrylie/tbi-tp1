@@ -1,0 +1,20 @@
+We investigate the gravitational wake due to, and dynamical friction on, a
+perturber moving on a circular orbit in a uniform gaseous medium using a
+semi-analytic method. This work is a straightforward extension of Ostriker
+(1999) who studied the case of a straight-line trajectory. The circular orbit
+causes the bending of the wake in the background medium along the orbit,
+forming a long trailing tail. The wake distribution is thus asymmetric, giving
+rise to the drag forces in both opposite (azimuthal) and lateral (radial)
+directions to the motion of the perturber, although the latter does not
+contribute to orbital decay much. For subsonic motion, the density wake with a
+weak tail is simply a curved version of that in Ostriker and does not exhibit
+the front-back symmetry. The resulting drag force in the opposite direction is
+remarkably similar to the finite-time, linear-trajectory counterpart. On the
+other hand, a supersonic perturber is able to overtake its own wake, possibly
+multiple times, and develops a very pronounced tail. The supersonic tail
+surrounds the perturber in a trailing spiral fashion, enhancing the perturbed
+density at the back as well as far front of the perturber. We provide the
+fitting formulae for the drag forces as functions of the Mach number, whose
+azimuthal part is surprisingly in good agreement with the Ostriker's formula,
+provided Vp t=2 Rp, where Vp and Rp are the velocity and orbital radius of the
+perturber, respectively.

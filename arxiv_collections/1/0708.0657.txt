@@ -1,0 +1,6 @@
+We demonstrate the use of trapped ytterbium ions as quantum bits for quantum
+information processing. We implement fast, efficient state preparation and
+state detection of the first-order magnetic field-insensitive hyperfine levels
+of 171Yb+, with a measured coherence time of 2.5 seconds. The high efficiency
+and high fidelity of these operations is accomplished through the stabilization
+and frequency modulation of relevant laser sources.

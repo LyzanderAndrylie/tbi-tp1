@@ -1,0 +1,11 @@
+The electromagnetic field inside a cubic cavity filled up with a linear
+magnetodielectric medium and in the presence of external charges is quantized
+by modelling the magnetodielectric medium with two independent quantum fields.
+Electric and magnetic polarization densities of the medium are defined in terms
+of the ladder operators of the medium and eigenmodes of the cavity. Maxwell and
+constitutive equations of the medium together with the equation of motion of
+the charged particles have been obtained from the Heisenberg equations using a
+minimal coupling scheme. Spontaneous emission of a two level atom embedded in a
+magnetodielectric medium is calculated in terms of electric and magnetic
+susceptibilities of the medium and the Green function of the cubic cavity as an
+application of the model.

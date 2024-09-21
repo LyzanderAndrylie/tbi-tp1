@@ -1,0 +1,9 @@
+We present a perturbative calculation of the neutron matter equation of state
+based on low-momentum two- and three-nucleon interactions. Our results are
+compared to the model-independent virial equation of state and to variational
+calculations, and we provide theoretical error estimates by varying the cutoff
+used to regulate nuclear interactions. In addition, we study the dependence of
+the BCS $^1$S$_0$ superfluid pairing gap on nuclear interactions and on the
+cutoff. The resulting gaps are well constrained by the nucleon-nucleon
+scattering phase shifts, and the cutoff dependence is very weak for sharp or
+sufficiently narrow smooth regulators with cutoffs $\lm > 1.6 \fmi$.

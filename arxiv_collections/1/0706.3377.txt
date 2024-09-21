@@ -1,0 +1,9 @@
+Phase field modeling of domain structures in ferroelectrics nanorods of
+different shape and sizes is presented. The vortex domain configurations in
+confined ferroelectrics have been explored by varying the ratio of the energies
+of electrostatic and elastic interactions. It is shown that a strong effect of
+the electrostatic interactions can cause the formation of 90o domain walls that
+do not satisfy the condition of strain compatibility. A good agreement between
+the results of phase field modeling and the results of atomistic calculations
+for nano ferroelectrics demonstrates that the phase field approach provides an
+effective tool for the analysis of domain structures in nano-ferroelectrics.

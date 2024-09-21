@@ -1,0 +1,21 @@
+The massively parallel computation of absolute binding free energy with a
+well-equilibrated system (MP-CAFEE) has been developed [H. Fujitani, Y. Tanida,
+M. Ito, G. Jayachandran, C. D. Snow, M. R. Shirts, E. J. Sorin, and V. S.
+Pande, J. Chem. Phys. ${\bf 123}$, 084108 (2005)]. As an application, we
+perform the binding affinity calculations of six theophylline-related ligands
+with RNA aptamer. Basically, our method is applicable when using many compute
+nodes to accelerate simulations, thus a parallel computing system is also
+developed. To further reduce the computational cost, the adequate non-uniform
+intervals of coupling constant $\lambda$, connecting two equilibrium states,
+namely bound and unbound, are determined. The absolute binding energies $\Delta
+G$ thus obtained have effective linear relation between the computed and
+experimental values. If the results of two other different methods are
+compared, thermodynamic integration (TI) and molecular mechanics
+Poisson-Boltzmann surface area (MM-PBSA) by the paper of Gouda $et al$ [H.
+Gouda, I. D. Kuntz, D. A. Case, and P. A. Kollman, Biopolymers ${\bf 68}$, 16
+(2003)], the predictive accuracy of the relative values $\Delta\Delta G$ is
+almost comparable to that of TI: the correlation coefficients (R) obtained are
+0.99 (this work), 0.97 (TI), and 0.78 (MM-PBSA). On absolute binding energies
+meanwhile, a constant energy shift of $\sim$ -7 kcal/mol against the
+experimental values is evident. To solve this problem, several presumable
+reasons are investigated.

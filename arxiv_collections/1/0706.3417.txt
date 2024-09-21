@@ -1,0 +1,9 @@
+We determine the superfluid transition temperatures $T_c$ and the ground
+states of the attractive Hubbard model and find new insulating phases
+associated with non-integer filling at sufficiently strong pairing attraction
+$|U|$. These states, distinct from band and Mott insulating phases, derive from
+pair localization; pair hopping at large $|U|$ and high densities is impeded by
+inter-site, inter-pair repulsive interactions. The best way to detect the
+breakdown of superfluidity is using fermionic optical lattices which should
+reveal new forms of ``bosonic'' order, reflecting ground state pairing without
+condensation.

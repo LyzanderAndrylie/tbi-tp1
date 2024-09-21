@@ -1,0 +1,14 @@
+The secure and robust functioning of a network relies on the defect-free
+implementation of network applications. As network protocols have become
+increasingly complex, however, hand-writing network message processing code has
+become increasingly error-prone. In this paper, we present a domain-specific
+language, Zebu, for describing protocol message formats and related processing
+constraints. From a Zebu specification, a compiler automatically generates
+stubs to be used by an application to parse network messages. Zebu is easy to
+use, as it builds on notations used in RFCs to describe protocol grammars. Zebu
+is also efficient, as the memory usage is tailored to application needs and
+message fragments can be specified to be processed on demand. Finally,
+Zebu-based applications are robust, as the Zebu compiler automatically checks
+specification consistency and generates parsing stubs that include validation
+of the message structure. Using a mutation analysis in the context of SIP and
+RTSP, we show that Zebu significantly improves application robustness.

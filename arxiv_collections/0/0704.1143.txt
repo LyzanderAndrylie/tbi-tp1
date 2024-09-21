@@ -1,0 +1,17 @@
+In this article we analyze the impact of B-physics and Higgs physics at LEP
+on standard and non-standard Higgs bosons searches at the Tevatron and the LHC,
+within the framework of minimal flavor violating supersymmetric models. The
+B-physics constraints we consider come from the experimental measurements of
+the rare B-decays b -> s gamma and B_u -> tau nu and the experimental limit on
+the B_s -> mu+ mu- branching ratio. We show that these constraints are severe
+for large values of the trilinear soft breaking parameter A_t, rendering the
+non-standard Higgs searches at hadron colliders less promising. On the contrary
+these bounds are relaxed for small values of A_t and large values of the
+Higgsino mass parameter mu, enhancing the prospects for the direct detection of
+non-standard Higgs bosons at both colliders. We also consider the available
+ATLAS and CMS projected sensitivities in the standard model Higgs search
+channels, and we discuss the LHC's ability in probing the whole MSSM parameter
+space. In addition we also consider the expected Tevatron collider
+sensitivities in the standard model Higgs h -> b bbar channel to show that it
+may be able to find 3 sigma evidence in the B-physics allowed regions for small
+or moderate values of the stop mixing parameter.

@@ -1,0 +1,9 @@
+We study the phase diagram of spin-one polar condensates in a two dimensional
+optical lattice with magnetic anisotropy. We show that the topological binding
+of vorticity to nematic disclinations allows for a rich variety of phase
+transitions. These include Kosterlitz-Thouless-like transitions with a
+superfluid stiffness jump that can be experimentally tuned to take a continuous
+set of values, and a new cascaded Kosterlitz-Thouless transition, characterized
+by two divergent length scales. For higher integer spin bosons S, the thermal
+phase transition out of the planar polar phase is strongly affected by the
+parity of S.

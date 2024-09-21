@@ -1,0 +1,4 @@
+In the preceding paper, we formulated a conjecture on the relations between
+certain classes of irreducible representations of affine Hecke algebras of type
+B and symmetric crystals for $\gl_\infty$. In the present paper, we prove the
+existence of the symmetric crystal and the global basis for $\gl_\infty$.

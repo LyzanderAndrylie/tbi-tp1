@@ -1,0 +1,13 @@
+Over the last 25 years, a lot of work has been done on seeking for decidable
+non-regular extensions of Propositional Dynamic Logic (PDL). Only recently, an
+expressive extension of PDL, allowing visibly pushdown automata (VPAs) as a
+formalism to describe programs, was introduced and proven to have a
+satisfiability problem complete for deterministic double exponential time.
+Lately, the VPA formalism was extended to so called k-phase multi-stack visibly
+pushdown automata (k-MVPAs). Similarly to VPAs, it has been shown that the
+language of k-MVPAs have desirable effective closure properties and that the
+emptiness problem is decidable. On the occasion of introducing k-MVPAs, it has
+been asked whether the extension of PDL with k-MVPAs still leads to a decidable
+logic. This question is answered negatively here. We prove that already for the
+extension of PDL with 2-phase MVPAs with two stacks satisfiability becomes
+\Sigma_1^1-complete.

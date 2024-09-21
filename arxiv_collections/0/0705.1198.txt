@@ -1,0 +1,12 @@
+Temperature and velocity oscillations have been found in a rectangular
+Rayleigh-B\'{e}nard convection cell, in which one large scale convection roll
+exists. At $Ra=8.9 \times 10^{11}$ and $Pr=4$, temperature oscillation can be
+observed in most part of the system and the oscillation period remains almost
+constant, $t_T = 74 \pm 2$ seconds. Velocity oscillation can only be found in
+its horizontal component, $v_y$ (perpendicular to large scale circulation
+plane), near the cell sidewall, its oscillation period is also constant, $t_T =
+65 \pm 2$ seconds, at these positions. Temperature and velocity oscillations
+have different Ra dependence, which are respectively indicated by Peclect
+number $Pe_T = 0.55Ra^{0.47}$ and $Pe_v = 0.28Ra^{0.50}$ . In comparison to the
+case of cylindrical cell, we find that the velocity oscillation is affected by
+the system geometry.

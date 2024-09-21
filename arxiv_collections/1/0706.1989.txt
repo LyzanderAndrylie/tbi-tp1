@@ -1,0 +1,11 @@
+We study the influence of the environment on an optically induced rotation of
+a single electron spin in a charged semiconductor quantum dot. We analyze the
+decoherence mechanisms resulting from the dynamical lattice response to the
+charge evolution induced in a trion-based optical spin control scheme.
+Moreover, we study the effect of the finite trion lifetime and of the
+imperfections of the unitary evolution such as off-resonant excitations and the
+nonadiabaticity of the driving. We calculate the total error of the operation
+on a spin-based qubit in an InAs/GaAs quantum dot system and discuss possible
+optimization against the different contributions. We indicate the parameters
+which allow for coherent control of the spin with a single qubit gate error as
+low as $10^{-4}$.

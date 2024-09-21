@@ -1,0 +1,7 @@
+The memory effects on microscopic kinetic systems have been sometimes
+modelled by means of the introduction of second order time derivatives in the
+macroscopic hydrodynamic equations. One prototypical example is the hyperbolic
+modification of the Burgers equation, that has been introduced to clarify the
+interplay of hyperbolicity and nonlinear hydrodynamic evolution. Previous
+studies suggested the finite time blow-up of this equation, and here we present
+a rigorous proof of this fact.

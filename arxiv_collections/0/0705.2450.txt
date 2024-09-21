@@ -1,0 +1,17 @@
+When modeling the distribution of a set of data by a mixture of Gaussians,
+there are two possibilities: i) the classical one is using a set of parameters
+which are the proportions, the means and the variances; ii) the second is to
+consider the proportions as the probabilities of a discrete valued hidden
+variable. In the first case a usual prior distribution for the proportions is
+the Dirichlet which accounts for the fact that they have to sum up to one. In
+the second case, to each data is associated a hidden variable for which we
+consider two possibilities: a) assuming those variables to be i.i.d. We show
+then that this scheme is equivalent to the classical mixture model with
+Dirichlet prior; b) assuming a Markovian structure. Then we choose the simplest
+markovian model which is the Potts distribution. As we will see this model is
+more appropriate for the case where the data represents the pixels of an image
+for which the hidden variables represent a segmentation of that image. The main
+object of this paper is to give some details on these models and different
+algorithms used for their simulation and the estimation of their parameters.
+  Key Words: Mixture of Gaussians, Dirichlet, Potts, Classification,
+Segmentation.

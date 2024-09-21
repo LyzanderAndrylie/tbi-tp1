@@ -1,0 +1,18 @@
+In this paper we present an algorithm for performing runtime verification of
+a bounded temporal logic over timed runs. The algorithm consists of three
+elements. First, the bounded temporal formula to be verified is translated into
+a monadic first-order logic over difference inequalities, which we call monadic
+difference logic. Second, at each step of the timed run, the monadic difference
+formula is modified by computing a quotient with the state and time of that
+step. Third, the resulting formula is checked for being a tautology or being
+unsatisfiable by a decision procedure for monadic difference logic.
+  We further provide a simple decision procedure for monadic difference logic
+based on the data structure Difference Decision Diagrams. The algorithm is
+complete in a very strong sense on a subclass of temporal formulae
+characterized as homogeneously monadic and it is approximate on other formulae.
+The approximation comes from the fact that not all unsatisfiable or
+tautological formulae are recognised at the earliest possible time of the
+runtime verification.
+  Contrary to existing approaches, the presented algorithms do not work by
+syntactic rewriting but employ efficient decision structures which make them
+applicable in real applications within for instance business software.

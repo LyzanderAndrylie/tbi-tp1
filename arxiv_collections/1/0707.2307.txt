@@ -1,0 +1,14 @@
+Previously derived expressions for the characteristic function of work
+performed on a quantum system by a classical external force are generalized to
+arbitrary initial states of the considered system and to Hamiltonians with
+degenerate spectra. In the particular case of microcanonical initial states
+explicit expressions for the characteristic function and the corresponding
+probability density of work are formulated. Their classical limit as well as
+their relations to the respective canonical expressions are discussed. A
+fluctuation theorem is derived that expresses the ratio of probabilities of
+work for a process and its time reversal to the ratio of densities of states of
+the microcanonical equilibrium systems with corresponding initial and final
+Hamiltonians.From this Crooks-type fluctuation theorem a relation between
+entropies of different systems can be derived which does not involve the time
+reversed process. This entropy-from-work theorem provides an experimentally
+accessible way to measure entropies.

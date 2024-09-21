@@ -1,0 +1,18 @@
+The approach exposed in the recent paper (A. Shebeko, P. Papakonstantinou, E.
+Mavrommatis, Eur. Phys. J. A 27, 143 (2006)) has been applied in studying
+center-of-mass motion effects on the nucleon density and momentum distributions
+in nuclei. We are focused upon effects due to the center-of-mass and
+short-range nucleon correlations embedded in translationally invariant
+ground-state wavefunctions. The latter are constructed in the so-called fixed
+center-of-mass approximation, starting with a Slater determinant wave function
+modified by some correlator (e.g., after Jastrow or Villars). It is shown how
+one can simplify evaluation of the corresponding expectation values that
+determine the distributions. The analytic expressions derived here involve the
+own "Tassie-Barker" factors for each distribution. As an illustration,
+numerical calculations have been carried out for the nucleus ^{4}He with the
+Slater determinant to describe the nucleon (1s)^4 configuration composed of
+single-particle orbitals which differ from harmonic oscillator ones at small
+distances. Such orbitals simulate somewhat short-range repulsion between
+nucleons. Special attention is paid to a simultaneous shrinking of the
+center--of--mass corrected density and momentum distributions compared to the
+purely (1s)^4 shell nontranslationally invariant ones.

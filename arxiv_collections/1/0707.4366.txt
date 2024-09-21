@@ -1,0 +1,10 @@
+This paper presents rigorous forward error bounds for linear conic
+optimization problems. The error bounds are formulated in a quite general
+framework; the underlying vector spaces are not required to be
+finite-dimensional, and the convex cones defining the partial ordering are not
+required to be polyhedral. In the case of linear programming, second order cone
+programming, and semidefinite programming specialized formulas are deduced
+yielding guaranteed accuracy. All computed bounds are completely rigorous
+because all rounding errors due to floating point arithmetic are taken into
+account. Numerical results, applications and software for linear and
+semidefinite programming problems are described.

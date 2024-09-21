@@ -1,0 +1,9 @@
+Carbon nanotube (CNT) Josephson junctions in the open quantum dot limit
+exhibit superconducting switching currents which can be controlled with a gate
+electrode. Shapiro voltage steps can be observed under radiofrequency current
+excitations, with a damping of the phase dynamics that strongly depends on the
+gate voltage. These measurements are described by a standard RCSJ model showing
+that the switching currents from the superconducting to the normal state are
+close to the critical current of the junction. The effective dynamical
+capacitance of the nanotube junction is found to be strongly gate-dependent,
+suggesting a diffusive contact of the nanotube.

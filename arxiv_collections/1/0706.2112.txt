@@ -1,0 +1,11 @@
+Let $\F_q$ ($q=p^r$) be a finite field. In this paper the number of
+irreducible polynomials of degree $m$ in $\F_q[x]$ with prescribed trace and
+norm coefficients is calculated in certain special cases and a general bound
+for that number is obtained improving the bound by Wan if $m$ is small compared
+to $q$. As a corollary, sharp bounds are obtained for the number of elements in
+$\F_{q^3}$ with prescribed trace and norm over $\F_q$ improving the estimates
+by Katz in this special case. Moreover, a characterization of Kloosterman sums
+over $\F_{2^r}$ divisible by three is given generalizing the earlier result by
+Charpin, Helleseth, and Zinoviev obtained only in the case $r$ odd. Finally, a
+new simple proof for the value distribution of a Kloosterman sum over the field
+$\F_{3^r}$, first proved by Katz and Livne, is given.

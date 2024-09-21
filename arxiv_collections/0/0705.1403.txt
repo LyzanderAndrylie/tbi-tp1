@@ -1,0 +1,6 @@
+We investigate the state space of bipartite qutrits. We construct an analog
+to the "magic" tetrahedron for bipartite qubits--a magic simplex W. It is
+formed by all convex combination of nine Bell states which are constructed
+using the Weyl operators. Due to the high symmetry it is enough to consider
+certain typical slices through W. Via optimal entanglement witnesses we find
+regions of bound entangled states inside W.

@@ -1,0 +1,13 @@
+We study the "q-commutative" power series ring R:=k_q[[x_1,...,x_n]], defined
+by the relations x_ix_j = q_{ij}x_j x_i, for multiplicatively antisymmetric
+scalars q_{ij} in a field k. Our results provide a detailed account of prime
+ideal structure for a class of noncommutative, complete, local, noetherian
+domains having arbitrarily high (but finite) Krull, global, and classical Krull
+dimension. In particular, we prove that the prime spectrum of R is normally
+separated and is finitely stratified by commutative noetherian spectra.
+Combining this normal separation with results of Chan, Wu, Yekutieli, and
+Zhang, we are able to conclude that R is catenary. Following the approach of
+Brown and Goodearl, we also show that links between prime ideals are provided
+by canonical automorphisms. Moreover, for sufficiently generic q_{ij}, we find
+that R has only finitely many prime ideals and is a UFD (in the sense of
+Chatters).

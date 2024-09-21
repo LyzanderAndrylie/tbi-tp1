@@ -1,0 +1,12 @@
+We study a model of freely cooling inelastic granular gas in one dimension,
+with a restitution coefficient which approaches the elastic limit below a
+relative velocity scale v. While at early times (t << 1/v) the gas behaves as a
+completely inelastic sticky gas conforming to predictions of earlier studies,
+at late times (t >> 1/v) it exhibits a new fluctuation dominated phase ordering
+state. We find distinct scaling behavior for the (i) density distribution
+function, (ii) occupied and empty gap distribution functions, (iii) the density
+structure function and (iv) the velocity structure function, as compared to the
+completely inelastic sticky gas. The spatial structure functions (iii) and (iv)
+violate the Porod law. Within a mean-field approximation, the exponents
+describing the structure functions are related to those describing the spatial
+gap distribution functions.

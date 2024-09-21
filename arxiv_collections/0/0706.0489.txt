@@ -1,0 +1,14 @@
+We show that the Glauber dynamics on proper 9-colourings of the triangular
+lattice is rapidly mixing, which allows for efficient sampling. Consequently,
+there is a fully polynomial randomised approximation scheme (FPRAS) for
+counting proper 9-colourings of the triangular lattice. Proper colourings
+correspond to configurations in the zero-temperature anti-ferromagnetic Potts
+model. We show that the spin system consisting of proper 9-colourings of the
+triangular lattice has strong spatial mixing. This implies that there is a
+unique infinite-volume Gibbs distribution, which is an important property
+studied in statistical physics. Our results build on previous work by Goldberg,
+Martin and Paterson, who showed similar results for 10 colours on the
+triangular lattice. Their work was preceded by Salas and Sokal's 11-colour
+result. Both proofs rely on computational assistance, and so does our 9-colour
+proof. We have used a randomised heuristic to guide us towards rigourous
+results.

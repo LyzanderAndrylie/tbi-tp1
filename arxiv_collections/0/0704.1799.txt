@@ -1,0 +1,19 @@
+After the pioneered experimental works on superlubricity by Martin et al. on
+MoS2 [1], Hirano et al. on tungsten and silicon [2] and the further
+confirmation by Dienwiebel et al. on graphite [3], many groups around the word
+investigated the occurrence of near frictionless sliding contacts. This large
+mobilization of tribologists, material sciences specialists and physicists has
+lead to emerging solutions involving new materials and coatings, the most
+promising being carbon based like graphite, diamond, carbon composites or
+diamond-like-carbons. Some of them are currently used in practical
+applications. The situation is different especially in EHL: the highest
+friction coefficients are close to 10% when traction fluids are involved, i.e.
+fluids that have especially designed to transmit the highest friction, and they
+vary within 3-6% for the rest of lubricants. The range of variation is
+consequently very narrow and these typical values are really low compared to
+those obtained in dry contacts: as a consequence the gain expected from a super
+low traction regime in lubrication will be probably more limited, especially in
+the case of experiments conducted at the meso or macro scales. This weak
+perspective could be one explanation on the relatively low number of articles
+in recent literature dealing with lubricated superlubricity in the above
+conditions.

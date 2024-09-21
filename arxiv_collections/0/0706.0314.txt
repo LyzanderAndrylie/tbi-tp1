@@ -1,0 +1,8 @@
+We derive a Lagrangian based approach to study the compatible Hamiltonian
+structure of the dispersionless KdV and supersymmetric KdV hierarchies and
+claim that our treatment of the problem serves as a very useful supplement of
+the so-called r-matrix method. We suggest specific ways to construct results
+for conserved densities and Hamiltonian operators. The Lagrangian formulation,
+via Noether's theorem, provides a method to make the relation between
+symmetries and conserved quantities more precise. We have exploited this fact
+to study the variational symmetries of the dispersionless KdV equation.

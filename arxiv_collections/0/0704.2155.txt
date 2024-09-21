@@ -1,0 +1,9 @@
+We observe large-amplitude Rabi oscillations between an atomic and a
+molecular state near a Feshbach resonance. The experiment uses 87Rb in an
+optical lattice and a Feshbach resonance near 414 G. The frequency and
+amplitude of the oscillations depend on magnetic field in a way that is well
+described by a two-level model. The observed density dependence of the
+oscillation frequency agrees with the theoretical expectation. We confirmed
+that the state produced after a half-cycle contains exactly one molecule at
+each lattice site. In addition, we show that for energies in a gap of the
+lattice band structure, the molecules cannot dissociate.

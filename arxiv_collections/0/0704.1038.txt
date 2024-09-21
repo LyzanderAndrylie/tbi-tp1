@@ -1,0 +1,15 @@
+The free field partition function for a generic U(N) gauge theory, where the
+fundamental fields transform in the adjoint representation, is analysed in
+terms of symmetric polynomial techniques. It is shown by these means how this
+is related to the cycle polynomial for the symmetric group and how the large N
+result may be easily recovered. Higher order corrections for finite N are also
+discussed in terms of symmetric group characters. For finite N, the partition
+function involving a single bosonic fundamental field is recovered and explicit
+counting of multi-trace quarter BPS operators in free \N=4 super Yang Mills
+discussed, including a general result for large N. The partition function for
+BPS operators in the chiral ring of \N=4 super Yang Mills is analysed in terms
+of plane partitions. Asymptotic counting of BPS primary operators with
+differing R-symmetry charges is discussed in both free \N=4 super Yang Mills
+and in the chiral ring. Also, general and explicit expressions are derived for
+SU(2) gauge theory partition functions, when the fundamental fields transform
+in the adjoint, for free field theory.

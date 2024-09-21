@@ -1,0 +1,12 @@
+The F-statistic is an optimal detection statistic for continuous
+gravitational waves, i.e., long-duration (quasi-)monochromatic signals with
+slowly-varying intrinsic frequency. This method was originally developed in the
+context of ground-based detectors, but it is equally applicable to LISA where
+many signals fall into this class of signals. We report on the application of a
+LIGO/GEO F-statistic code to LISA data-analysis using the long-wavelength limit
+(LWL), and we present results of our search for white-dwarf binary signals in
+the first Mock LISA Data Challenge. Somewhat surprisingly, the LWL is found to
+be sufficient -- even at high frequencies -- for detection of signals and their
+accurate localization on the sky and in frequency, while a more accurate
+modelling of the TDI response only seems necessary to correctly estimate the
+four amplitude parameters.

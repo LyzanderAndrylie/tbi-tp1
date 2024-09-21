@@ -1,0 +1,7 @@
+Topology and weights are closely related in weighted complex networks and
+this is reflected in their modular structure. We present a simple network model
+where the weights are generated dynamically and they shape the developing
+topology. By tuning a model parameter governing the importance of weights, the
+resulting networks undergo a gradual structural transition from a module free
+topology to one with communities. The model also reproduces many features of
+large social networks, including the "weak links" property.

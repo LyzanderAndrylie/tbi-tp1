@@ -1,0 +1,6 @@
+An electrical study of thin $VO_{2}$ films in the vicinity of the structural
+phase transition at $68^{0}C$ shows (a) that the electrical resistance $R$
+follows $log (R)$ $\propto$ $-T$ over the $T$-range, $20 < T < 80 ^{0}C$
+covering both sides of the structural transition, and (b) a history dependent
+hysteresis loop in $R$ upon thermal cycling. These features are attributed here
+to transport through a granular network.

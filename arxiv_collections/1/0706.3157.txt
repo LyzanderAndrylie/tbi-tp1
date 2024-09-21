@@ -1,0 +1,7 @@
+We discuss non-perturbative QCD corrections to jet distributions in hadron
+collisions, focussing on hadronisation and underlying event contributions.
+Using soft gluon resummation and Monte-Carlo modelling we show that
+hadronisation dominates at small values of the jet radius R, behaving as 1/R,
+while underlying event corrections grow with the jet area. This provides a
+handle to disentangle them and parametrize them in terms of measurable QCD
+parameters, which might enjoy a degree of universality.

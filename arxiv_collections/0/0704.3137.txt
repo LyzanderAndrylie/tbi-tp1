@@ -1,0 +1,14 @@
+Surface based geometries of microfabricated wires or patterned magnetic films
+can be used to magnetically trap and manipulate ultracold neutral atoms or
+Bose-Einstein condensates. We investigate the magnetic properties of such atom
+chips using a scanning magnetoresistive (MR) microscope with high spatial
+resolution and high field sensitivity. We show that MR sensors are ideally
+suited to observe small variations of the magnetic field caused by
+imperfections in the wires or magnetic materials which ultimately lead to
+fragmentation of ultracold atom clouds. Measurements are also provided for the
+magnetic field produced by a thin current-carrying wire with small geometric
+modulations along the edge. Comparisons of our measurements with a full numeric
+calculation of the current flow in the wire and the subsequent magnetic field
+show excellent agreement. Our results highlight the use of scanning MR
+microscopy as a convenient and powerful technique for precisely characterizing
+the magnetic fields produced near the surface of atom chips.

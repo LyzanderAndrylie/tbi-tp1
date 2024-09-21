@@ -1,0 +1,6 @@
+We show, at leading-order in the multipole expansion of the electron-nucleus
+interaction, that nucleon electric-dipole moments are completely shielded by
+electrons so that they contribute nothing to atomic electric-dipole moments,
+even when relativity in the nucleus is taken into account. It is well known
+that relativistic electron motion, by contrast, leads to dipole moments that
+are not screened; we discuss the reasons for the difference.

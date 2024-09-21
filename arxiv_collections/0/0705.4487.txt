@@ -1,0 +1,9 @@
+We introduce a linear space of finitely additive measures to treat the
+problem of optimal expected utility from consumption under a stochastic clock
+and an unbounded random endowment process. In this way we establish existence
+and uniqueness for a large class of utility maximization problems including the
+classical ones of terminal wealth or consumption, as well as the problems
+depending on a random time-horizon or multiple consumption instances. As an
+example we treat explicitly the problem of maximizing the logarithmic utility
+of a consumption stream, where the local time of an Ornstein-Uhlenbeck process
+acts as a stochastic clock.

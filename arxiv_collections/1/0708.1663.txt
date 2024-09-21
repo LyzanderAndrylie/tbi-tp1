@@ -1,0 +1,12 @@
+In this paper, the Feynman path integral formulation of the
+continuous-continuous filtering problem, a fundamental problem of applied
+science, is investigated for the case when the noise in the signal and
+measurement model is additive. It is shown that it leads to an independent and
+self-contained analysis and solution of the problem. A consequence of this
+analysis is Feynman path integral formula for the conditional probability
+density that manifests the underlying physics of the problem. A corollary of
+the path integral formula is the Yau algorithm that has been shown to be
+superior to all other known algorithms. The Feynman path integral formulation
+is shown to lead to practical and implementable algorithms. In particular, the
+solution of the Yau PDE is reduced to one of function computation and
+integration.

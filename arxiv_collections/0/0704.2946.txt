@@ -1,0 +1,16 @@
+The CERN Axion Solar Telescope (CAST) experiment searches for axions from the
+Sun converted into photons with energies up to around 10 keV via the inverse
+Primakoff effect in the high magnetic field of a superconducting Large Hadron
+Collider (LHC) prototype magnet. A backside illuminated pn-CCD detector in
+conjunction with an X-ray mirror optics is one of the three detectors used in
+CAST to register the expected photon signal. Since this signal is very rare and
+different background components (environmental gamma radiation, cosmic rays,
+intrinsic radioactive impurities in the set-up, ...) entangle it, a detailed
+study of the detector background has been undertaken with the aim to understand
+and further reduce the background level of the detector. The analysis is based
+on measured data taken during the Phase I of CAST and on Monte Carlo
+simulations of different background components. This study will show that the
+observed background level (at a rate of (8.00+-0.07)10^-5 counts/cm^2/s/keV
+between 1 and 7 keV) seems to be dominated by the external gamma background due
+to usual activities at the experimental site, while radioactive impurities in
+the detector itself and cosmic neutrons could make just smaller contribution.

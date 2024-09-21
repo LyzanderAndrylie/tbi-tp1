@@ -1,0 +1,20 @@
+In this note, we consider possible constraints from $t \bar t$ production on
+the gauge bosons of theories with an extended strong interaction sector such as
+axigluons or flavour universal colorons. Such constraints are found to be
+competitive with those obtained from the dijet data. The current $t \bar t$
+data from the Tevatron rule out axigluon masses ($m_A$) up to 900 GeV and 850
+GeV at 2 $\sigma$ and 4 $\sigma$ levels respectively. For the case of flavour
+universal colorons the data rule out a mass ($m_C$) below 800 GeV (780 GeV) at
+the $2 (4) \sigma $ level and also the mass range between 900 GeV to 2.1 TeV at
+2 $\sigma$ level, for $\cot \xi = 1$, where $\xi$ is the mixing angle. For
+$\cot \xi =2$ on the other hand, the excluded range is $m_C \lsim 950 (920)$
+GeV and $m_C \gsim 1.02 (1.15 \lsim m_C \lsim 1.8)$ TeV at $2 \sigma$ ($4
+\sigma $) level. We point out that for higher axigluon/coloron masses, even for
+the dijet channel, the limits on the coloron mass, for $\cot \xi = 1$, may be
+different than those for the axigluon. We also compute the expected
+forward-backward asymmetry for the case of the axigluons which would allow it
+to be discriminated against the SM as also the colorons. We further find that
+at the LHC, the signal should be visible in the $t \bar t$ invariant mass
+spectrum for a wide range of axigluon and coloron masses that are still
+allowed. We point out how top polarisation may be used to further discriminate
+the axigluon and coloron case from the SM as well as from each other.

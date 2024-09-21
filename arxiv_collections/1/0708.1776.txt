@@ -1,0 +1,19 @@
+We consider the asymptotic behavior as $n\to\infty$ of the spectra of random
+matrices of the form \[\frac{1}{\sqrt{n-1}}\sum_{k=1}^{n-1}Z_{nk}\rho_n
+((k,k+1)),\] where for each $n$ the random variables $Z_{nk}$ are i.i.d.
+standard Gaussian and the matrices $\rho_n((k,k+1))$ are obtained by applying
+an irreducible unitary representation $\rho_n$ of the symmetric group on
+$\{1,2,...,n\}$ to the transposition $(k,k+1)$ that interchanges $k$ and $k+1$
+[thus, $\rho_n((k,k+1))$ is both unitary and self-adjoint, with all eigenvalues
+either +1 or -1]. Irreducible representations of the symmetric group on
+$\{1,2,...,n\}$ are indexed by partitions $\lambda_n$ of $n$. A consequence of
+the results we establish is that if $\lambda_{n,1}\ge\lambda_{n,2}\ge...\ge0$
+is the partition of $n$ corresponding to $\rho_n$, $\mu_{n,1}\ge\mu_{n,2}\ge
+>...\ge0$ is the corresponding conjugate partition of $n$ (i.e., the Young
+diagram of $\mu_n$ is the transpose of the Young diagram of $\lambda_n$),
+$\lim_{n\to\infty}\frac{\lambda_{n,i}}{n}=p_i$ for each $i\ge1$, and
+$\lim_{n\to\infty}\frac{\mu_{n,j}}{n}=q_j$ for each $j\ge1$, then the spectral
+measure of the resulting random matrix converges in distribution to a random
+probability measure that is Gaussian with random mean $\theta Z$ and variance
+$1-\theta^2$, where $\theta$ is the constant $\sum_ip_i^2-\sum_jq_j^2$ and $Z$
+is a standard Gaussian random variable.

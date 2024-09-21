@@ -1,0 +1,15 @@
+We consider an application of the mathematical formalism of quantum mechanics
+(QM) outside physics, namely, to game theory. We present a simple game between
+macroscopic players, say Alice and Bob (or in a more complex form - Alice, Bob
+and Cecilia), which can be represented in the quantum-like (QL) way -- by using
+a complex probability amplitude (game's ``wave function'') and noncommutative
+operators. The crucial point is that games under consideration are so called
+extensive form games. Here the order of actions of players is important, such a
+game can be represented by the tree of actions. The QL probabilistic behavior
+of players is a consequence of incomplete information which is available to
+e.g. Bob about the previous action of Alice. In general one could not construct
+a classical probability space underlying a QL-game. This can happen even in a
+QL-game with two players. In a QL-game with three players Bell's inequality can
+be violated. The most natural probabilistic description is given by so called
+contextual probability theory completed by the frequency definition of
+probability.

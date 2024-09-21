@@ -1,0 +1,8 @@
+It is shown that exact, amplitude-based resummation allows IR-improvement of
+the usual DGLAP theory. This results in a new set of kernels, parton
+distributions and attendant reduced cross sections, so that the QCD
+perturbative result for the respective hadron-hadron or lepton-hadron cross
+section is unchanged order-by-order in $\alpha_s$ at large squared-momentum
+transfers. We compare these new objects with their usual counter-parts and
+illustrate the effects of the IR-improvement in some phenomenological cases of
+interest with an eye toward precision applications in LHC physics scenarios.

@@ -1,0 +1,8 @@
+We show that entangling capacities based on the Jamiolkowski isomorphism may
+be used to place lower bounds on the communication capacities of arbitrary
+bipartite unitaries. Therefore, for these definitions, the relations which have
+been previously shown for two-qubit unitaries also hold for arbitrary
+dimensions. These results are closely related to the theory of the
+entanglement-assisted capacity of channels. We also present more general
+methods for producing ensembles for communication from initial states for
+entanglement creation.

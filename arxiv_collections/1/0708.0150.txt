@@ -1,0 +1,8 @@
+$Range$ and $load$ play keys on the problem of attacking on links in random
+scale-free (RSF) networks. In this Brief Report we obtain the relation between
+$range$ and $load$ in RSF networks analytically by the generating function
+theory, and then give an estimation about the impact of attacks on the
+$efficiency$ of the network. The analytical results show that short range
+attacks are more destructive for RSF networks, and are confirmed numerically.
+Further our results are consistent with the former literature (Physical Review
+E \textbf{66}, 065103(R) (2002)).

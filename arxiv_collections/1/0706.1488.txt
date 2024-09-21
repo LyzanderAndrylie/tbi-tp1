@@ -1,0 +1,9 @@
+In a quantizing magnetic field, the two-dimensional electron (2DEG) gas has a
+rich phase diagram with broken translational symmetry phases such as Wigner,
+bubble, and stripe crystals. In this paper, we derive a method to get the
+dynamical matrix of these crystals from a calculation of the density response
+function performed in the Generalized Random Phase Approximation (GRPA). We
+discuss the validity of our method by comparing the dynamical matrix calculated
+from the GRPA with that obtained from standard elasticity theory with the
+elastic coefficients obtained from a calculation of the deformation energy of
+the crystal.

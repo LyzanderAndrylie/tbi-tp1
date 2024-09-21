@@ -1,0 +1,4 @@
+We calculate the topological susceptibility of the Yang-Mills vacuum using
+the field correlator method. Our estimate for the SU(3) gauge group, \chi^{1/4}
+= 196(7) MeV, is in a very good agreement with the results of recent numerical
+simulations of the Yang-Mills theory on the lattice.

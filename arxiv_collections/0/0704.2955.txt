@@ -1,0 +1,15 @@
+In recent times there has been a surge of interest in seeking out patterns in
+the aggregate behavior of socio-economic systems. One such domain is the
+emergence of statistical regularities in the evolution of collective choice
+from individual behavior. This is manifested in the sudden emergence of
+popularity or "success" of certain ideas or products, compared to their
+numerous, often very similar, competitors. In this paper, we present an
+empirical study of a wide range of popularity distributions, spanning from
+scientific paper citations to movie gross income. Our results show that in the
+majority of cases, the distribution follows a log-normal form, suggesting that
+multiplicative stochastic processes are the basis for emergence of popular
+entities. This suggests the existence of some general principles of complex
+organization leading to the emergence of popularity. We discuss the theoretical
+principles needed to explain this socio-economic phenomenon, and present a
+model for collective behavior that exhibits bimodality, which has been observed
+in certain empirical popularity distributions.

@@ -1,0 +1,11 @@
+We report highly efficient single photon generation from InGaAs
+self-assembled quantum dots emitting within a two-dimensional photonic bandgap.
+A strongly suppressed multiphoton probability is obtained for single quantum
+dots in bulk GaAs and those emitting into the photonic bandgap. In the latter
+case, photoluminescence saturation spectroscopy is employed to measure a ~17
+times enhancement of the average photon extraction efficiency, when compared to
+quantum dots in bulk GaAs. For quantum dots in the photonic crystal we measure
+directly an external quantum efficiency up to 26%, much higher than for quantum
+dots on the same sample without a tailored photonic environment. The results
+show that highly efficient quantum dot single photon sources can be realized,
+without the need for complex nanopositioning techniques.

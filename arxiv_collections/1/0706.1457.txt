@@ -1,0 +1,6 @@
+``Geometric scaling'', i.e. the dependence of DIS cross-sections on the ratio
+Q/Q_S, where Q_S(Y) is the rapidity-dependent \saturation scale, can be
+theoretically obtained from universal ``traveling wave'' solutions of the
+nonlinear Balitsky-Kovchegov (BK) QCD evolution equation at fixed coupling. We
+examine the similar mean-field predictions beyond leading-logarithmic order,
+including running QCD coupling.

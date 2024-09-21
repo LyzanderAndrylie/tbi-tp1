@@ -1,0 +1,13 @@
+We present a study of sediment transport in the creeping and saltation
+regime. In our model, a bed of particles is simulated with the conventional
+event-driven method. The particles are considered as hard disks in a 2d domain,
+with periodic boundary conditions in horizontal direction. The flow of the
+fluid over this bed of particles is modeled by imposing a force on each
+particle that depends on the velocity of the fluid and its height above the
+bed. We considered two velocity profiles for the fluid, parabolic and
+logarithmic. The first one models laminar flow and the second corresponds to
+turbulent flow. For each case we investigated the behavior of the saturated
+flux. We found that for the logarithmic profile, the saturated flux shows a
+quadratic increase with the strength of the flow, and for parabolic profile, a
+cubic increase. The velocity distribution functions are used to interpret the
+results.

@@ -1,0 +1,9 @@
+We propose a theoretical scheme for secure quantum key distribution network
+following the ideas in quantum dense coding. In this scheme, the server of the
+network provides the service for preparing and measuring the Bell states, and
+the users encodes the states with local unitary operations. For preventing the
+server from eavesdropping, we design a decoy when the particle is transmitted
+between the users. It has high capacity as one particle carries two bits of
+information and its efficiency for qubits approaches 100%. Moreover, it is not
+necessary for the users to store the quantum states, which makes this scheme
+more convenient for application than others.

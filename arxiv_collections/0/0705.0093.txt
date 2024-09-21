@@ -1,0 +1,11 @@
+A model describing the influence of torsion stress on the giant
+magnetoimpedance in amorphous wires with negative magnetostriction is proposed.
+The wire impedance is found by means of the solution of Maxwell equations
+together with the Landau-Lifshitz equation, assuming a simplified spatial
+distribution of the magnetoelastic anisotropy induced by the torsion stress.
+The impedance is analyzed as a function of the external magnetic field, torsion
+stress and frequency. It is shown that the magnetoimpedance ratio torsion
+dependence has an asymmetric shape, with a sharp peak at some value of the
+torsion stress. The calculated field and stress dependences of the impedance
+are in qualitative agreement with results of the experimental study of the
+torsion stress giant magnetoimpedance in Co-based amorphous wires.

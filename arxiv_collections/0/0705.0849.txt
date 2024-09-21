@@ -1,0 +1,10 @@
+Sensitivity to temporal variation of the fundamental constants may be
+strongly enhanced in transitions between narrow close levels of different
+nature. This enhancement may be realized in a large number of molecules due to
+cancelation between the ground state fine structure omega_f and vibrational
+interval omega_v (omega=omega_f - n omega_v is close to zero, delta
+omega/omega= K (2 delta alpha/alpha +0.5 delta mu/mu), K >>1, mu=m_p/m_e).
+  The intervals between the levels are conveniently located in microwave
+frequency range and the level widths are very small. Required accuracy of the
+shift measurements is about 0.01-1 Hz. As examples, we consider molecules
+Cl_2+, CuS, IrC, SiBr and HfF+.

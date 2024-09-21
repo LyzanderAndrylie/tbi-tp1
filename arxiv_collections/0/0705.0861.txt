@@ -1,0 +1,6 @@
+We study the spectrum of the even parity excitations of the nucleon in
+quenched lattice QCD. We extend our earlier analysis by including an expanded
+basis of nucleon interpolating fields, increasing the physical size of the
+lattice, including more configurations to enhance statistics and probing closer
+to the chiral limit. With a review of world lattice data, we conclude that
+there is little evidence of the Roper resonance in quenched lattice QCD.

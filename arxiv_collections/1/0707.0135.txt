@@ -1,0 +1,15 @@
+Recent calculations of the recoil velocity in black-hole binary mergers have
+found kick velocities of $\approx2500 $km/s for equal-mass binaries with
+anti-aligned initial spins in the orbital plane. In general the dynamics of
+spinning black holes can be extremely complicated and are difficult to analyze
+and understand. In contrast, the ``superkick'' configuration is an example with
+a high degree of symmetry that also exhibits exciting physics. We exploit the
+simplicity of this ``test case'' to study more closely the role of spin in
+black-hole recoil and find that: the recoil is with good accuracy proportional
+to the difference between the $(l = 2, m = \pm 2)$ modes of $\Psi_4$, the major
+contribution to the recoil occurs within $30M$ before and after the merger, and
+that this is after the time at which a standard post-Newtonian treatment breaks
+down. We also discuss consequences of the $(l = 2, m = \pm 2)$ asymmetry in the
+gravitational wave signal for the angular dependence of the SNR and the
+mismatch of the gravitational wave signals corresponding to the north and south
+poles.

@@ -1,0 +1,15 @@
+We have measured the temperature dependence and magnitude of the superfluid
+density $\rho_{\rm s}(T)$ via the magnetic field penetration depth $\lambda(T)$
+in PuCoGa$_5$ (nominal critical temperature $T_{c0} = 18.5$ K) using the muon
+spin rotation technique in order to investigate the symmetry of the order
+parameter, and to study the effects of aging on the superconducting properties
+of a radioactive material. The same single crystals were measured after 25 days
+($T_c = 18.25$ K) and 400 days ($T_c = 15.0$ K) of aging at room temperature.
+The temperature dependence of the superfluid density is well described in both
+materials by a model using d-wave gap symmetry. The magnitude of the muon spin
+relaxation rate $\sigma$ in the aged sample, $\sigma\propto
+1/\lambda^2\propto\rho_s/m^*$, where $m^*$ is the effective mass, is reduced by
+about 70% compared to fresh sample. This indicates that the scattering from
+self-irradiation induced defects is not in the limit of the conventional
+Abrikosov-Gor'kov pair-breaking theory, but rather in the limit of short
+coherence length (about 2 nm in PuCoGa$_5$) superconductivity.

@@ -1,0 +1,23 @@
+Swift triggered on a precursor to the main burst of GRB 061121 (z=1.314),
+allowing observations to be made from the optical to gamma-ray bands. Many
+other telescopes, including Konus-Wind, XMM-Newton, ROTSE and the Faulkes
+Telescope North, also observed the burst. The gamma-ray, X-ray and UV/optical
+emission all showed a peak ~75s after the trigger, although the optical and
+X-ray afterglow components also appear early on - before, or during, the main
+peak. Spectral evolution was seen throughout the burst, with the prompt
+emission showing a clear positive correlation between brightness and hardness.
+The Spectral Energy Distribution (SED) of the prompt emission, stretching from
+1eV up to 1MeV, is very flat, with a peak in the flux density at ~1keV. The
+optical-to-X-ray spectra at this time are better fitted by a broken, rather
+than single, power-law, similar to previous results for X-ray flares. The SED
+shows spectral hardening as the afterglow evolves with time. This behaviour
+might be a symptom of self-Comptonisation, although circumstellar densities
+similar to those found in the cores of molecular clouds would be required. The
+afterglow also decays too slowly to be accounted for by the standard models.
+Although the precursor and main emission show different spectral lags, both are
+consistent with the lag-luminosity correlation for long bursts. GRB 061121 is
+the instantaneously brightest long burst yet detected by Swift. Using a
+combination of Swift and Konus-Wind data, we estimate an isotropic energy of
+2.8x10^53 erg over 1keV - 10MeV in the GRB rest frame. A probable jet break is
+detected at ~2x10^5s, leading to an estimate of ~10^51 erg for the
+beaming-corrected gamma-ray energy.

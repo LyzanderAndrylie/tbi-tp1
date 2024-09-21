@@ -1,0 +1,12 @@
+We have performed self-consistent 2.5-dimensional nonsteady MHD numerical
+simulations of jet formation as long as possible, including the dynamics of
+accretion disks. Although the previous nonsteady MHD simulations for
+astrophysical jets revealed that the characteristics of nonsteady jets are
+similar to those of steady jets, the calculation time of these simulations is
+very short compared with the time scale of observed jets. Thus we have
+investigated long term evolutions of mass accretion rate, mass outflow rate,
+jet velocity, and various energy flux. We found that the ejection of jet is
+quasi-periodic. The period of the ejection is related to the time needed for
+the initial magnetic filed to be twisted to generate toroidal filed. We compare
+our results with both the steady state theory and previous 2.5-dimensional
+nonsteady MHD simulations.

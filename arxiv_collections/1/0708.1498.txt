@@ -1,0 +1,12 @@
+We introduce the method of using an annealing genetic algorithm to the
+numerically complex problem of looking for quantum logic gates which
+simultaneously have highest fidelity and highest success probability. We first
+use the linear optical quantum nonlinear sign (NS) gate as an example to
+illustrate the efficiency of this method. We show that by appropriately
+choosing the annealing parameters, we can reach the theoretical maximum success
+probability (1/4 for NS) for each attempt. We then examine the controlled-z
+(CZ) gate as the first new problem to be solved. We show results that agree
+with the highest known maximum success probability for a CZ gate (2/27) while
+maintaining a fidelity of 0.9997. Since the purpose of our algorithm is to
+optimize a unitary matrix for quantum transformations, it could easily be
+applied to other areas of interest such as quantum optics and quantum sensors.

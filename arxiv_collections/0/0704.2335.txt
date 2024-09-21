@@ -1,0 +1,21 @@
+context : Unlike silicon and calcium, sulphur is an alpha-element which does
+not form dust. Some of the available observations of the evolution of sulphur
+with metallicity indicate an increased scatter of sulphur to iron ratios at low
+metallicities or even a bimodal distribution, with some stars showing constant
+S/Fe at all metallicities and others showing an increasing S/Fe ratio with
+decreasing metallicity. In metal-poor stars SI lines of Multiplet 1 at 920 nm
+are not yet too weak to permit to measure the sulphur abundance A(S), however
+in ground-based observations they are severely affected by telluric lines. aims
+: We investigate the possibility to measure sulphur abundances from SI Mult. 3
+at 1045 nm lines, which lie in the near infra-red. These are slightly weaker
+than those of Mult. 1, but lie in a range not affected by telluric lines.
+method We investigate the lines of Mult.3 in the Sun (G2V), Procyon (F5V), HD
+33256 (F5V), HD 25069 (G9V) and epsilon Eri (HD 22049, K2V). For the Sun and
+Procyon the analysis has been performed with CO5BOLD 3D hydrodynamical model
+atmospheres, for the other three stars, for which hydrodynamical simulations
+are not available, the analysis has been performed using 1D model atmospheres.
+results For our sample of stars we find a global agreement of A(S) from lines
+of different multiplets. conclusions : Our results suggest that the infrared
+lines of Mult. 3 are a viable indicator of the sulphur abundance which, because
+of the intrinsic strength of this multiplet, should be suitable to study the
+trend of [S/Fe] at low metallicities.

@@ -1,0 +1,6 @@
+This thesis studies some examples of families of K3 surfaces with Picard
+lattices of maximal rank. These families occur as invariants of finite
+automorphism groups. The Picard-Fuchs differential equations describing the
+variation of Hodge structure in these families are considered. Techniques are
+developed to find the corresponding monodromy groups as arithmetic Fuchsian
+groups acting on the families' period spaces.

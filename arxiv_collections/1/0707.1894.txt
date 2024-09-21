@@ -1,0 +1,14 @@
+We describe an algorithm that computes the ground state energy and
+correlation functions for 2-local Hamiltonians in which interactions between
+qubits are weak compared to single-qubit terms. The running time of the
+algorithm is polynomial in the number of qubits and the required precision.
+Specifically, we consider Hamiltonians of the form $H=H_0+\epsilon V$, where
+H_0 describes non-interacting qubits, V is a perturbation that involves
+arbitrary two-qubit interactions on a graph of bounded degree, and $\epsilon$
+is a small parameter. The algorithm works if $|\epsilon|$ is below a certain
+threshold value that depends only upon the spectral gap of H_0, the maximal
+degree of the graph, and the maximal norm of the two-qubit interactions. The
+main technical ingredient of the algorithm is a generalized Kirkwood-Thomas
+ansatz for the ground state. The parameters of the ansatz are computed using
+perturbative expansions in powers of $\epsilon$. Our algorithm is closely
+related to the coupled cluster method used in quantum chemistry.

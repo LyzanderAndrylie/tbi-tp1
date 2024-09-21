@@ -1,0 +1,8 @@
+Consider a three dimensional system which looks like a cross-connected pipe
+system, i.e. a small sample coupled to a finite number of leads. We investigate
+the current running through this system, in the linear response regime, when we
+adiabatically turn on an electrical bias between leads. The main technical tool
+is the use of a finite volume regularization, which allows us to define the
+current coming out of a lead as the time derivative of its charge. We finally
+prove that in virtually all physically interesting situations, the conductivity
+tensor is given by a Landauer-B{\"u}ttiker type formula.

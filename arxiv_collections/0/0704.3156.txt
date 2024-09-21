@@ -1,0 +1,16 @@
+Motivated by the Dobrushin uniqueness theorem in statistical mechanics, we
+consider the following situation: Let \alpha be a nonnegative matrix over a
+finite or countably infinite index set X, and define the "cleaning operators"
+\beta_h = I_{1-h} + I_h \alpha for h: X \to [0,1] (here I_f denotes the
+diagonal matrix with entries f). We ask: For which "cleaning sequences" h_1,
+h_2, ... do we have c \beta_{h_1} ... \beta_{h_n} \to 0 for a suitable class of
+"dirt vectors" c? We show, under a modest condition on \alpha, that this occurs
+whenever \sum_i h_i = \infty everywhere on X. More generally, we analyze the
+cleaning of subsets \Lambda \subseteq X and the final distribution of dirt on
+the complement of \Lambda. We show that when supp(h_i) \subseteq \Lambda with
+\sum_i h_i = \infty everywhere on \Lambda, the operators \beta_{h_1} ...
+\beta_{h_n} converge as n \to \infty to the "balayage operator" \Pi_\Lambda =
+\sum_{k=0}^\infty (I_\Lambda \alpha)^k I_{\Lambda^c). These results are
+obtained in two ways: by a fairly simple matrix formalism, and by a more
+powerful tree formalism that corresponds to working with formal power series in
+which the matrix elements of \alpha are treated as noncommuting indeterminates.

@@ -1,0 +1,17 @@
+Autoassociative networks were proposed in the 80's as simplified models of
+memory function in the brain, using recurrent connectivity with hebbian
+plasticity to store patterns of neural activity that can be later recalled.
+This type of computation has been suggested to take place in the CA3 region of
+the hippocampus and at several levels in the cortex. One of the weaknesses of
+these models is their apparent inability to store correlated patterns of
+activity. We show, however, that a small and biologically plausible
+modification in the `learning rule' (associating to each neuron a plasticity
+threshold that reflects its popularity) enables the network to handle
+correlations. We study the stability properties of the resulting memories (in
+terms of their resistance to the damage of neurons or synapses), finding a
+novel property of autoassociative networks: not all memories are equally
+robust, and the most informative are also the most sensitive to damage. We
+relate these results to category-specific effects in semantic memory patients,
+where concepts related to `non-living things' are usually more resistant to
+brain damage than those related to `living things', a phenomenon suspected to
+be rooted in the correlation between representations of concepts in the cortex.

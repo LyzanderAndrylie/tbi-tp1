@@ -1,0 +1,9 @@
+We calculate the charge current in a metallic ferromagnet to first order in
+the time derivative of the magnetization direction. Irrespective of the
+microscopic details, the result can be expressed in terms of the conductivities
+of the majority and minority electrons and the non-adiabatic spin transfer
+torque parameter $\beta$. The general expression is evaluated for the specific
+case of a field-driven domain wall and for that case depends strongly on the
+ratio of $\beta$ and the Gilbert damping constant. These results may provide an
+experimental method to determine this ratio, which plays a crucial role for
+current-driven domain-wall motion.

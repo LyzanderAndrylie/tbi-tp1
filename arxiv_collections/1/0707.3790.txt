@@ -1,0 +1,17 @@
+Although it is well known that Kaluza-Klein and Yang-Mills theories define
+equivalent structures on principal bundles, the general conditions for
+equivalence of their Lagrangians have not been explicitly stated. In this paper
+we address the conditions for equivalence. The formulation of these conditions
+is based on previous work in which the Dirac and Einstein equations were
+unified in a tetrad formulation of the Kaluza-Klein model. This Kaluza-Klein
+model is derived from mapping a bispinor field to a set of SL(2,R) x U(1) gauge
+potentials and a complex scalar field. (A straightforward derivation of this
+map using Hestenes' tetrad for the spin connection in a Riemannian space-time
+is included in this paper.) Investigation of this Kaluza-Klein model reveals
+two general conditions for establishing an exact equivalence between
+Kaluza-Klein and Yang-Mills theories. The first condition is that only
+horizontal vector fields occur in the Kaluza-Klein Lagrangian. The second is
+that the scalar curvature be restricted to a sum over horizontal sectional
+curvatures. We conclude that all known fields (including fermion fields) can
+then be represented as components of a Kaluza-Klein metric together with scalar
+fields.

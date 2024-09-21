@@ -1,0 +1,9 @@
+We report the fast accumulation of a large number of metastable 52Cr atoms in
+a mixed trap, formed by the superposition of a strongly confining optical trap
+and a quadrupolar magnetic trap. The steady state is reached after about 400
+ms, providing a cloud of more than one million metastable atoms at a
+temperature of about 100 microK, with a peak density of 10^{18} atoms.m^{-3}.
+We have optimized the loading procedure, and measured the light shift of the
+5D4 state by analyzing how the trapped atoms respond to a parametric
+excitation. We compare this result to a theoretical evaluation based on the
+available spectroscopic data for chromium atoms.

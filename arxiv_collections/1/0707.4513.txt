@@ -1,0 +1,9 @@
+We study the relation between the hessian matrix of the riemannian Reggae
+action on a 4-simplex and linearized quantum gravity. We give an explicit
+formula for the hessian as a function of the geometry, and show that it has a
+single zero mode. We then use a 3d lattice model to show that (i) the zero mode
+is a remnant of the continuum diffeomorphism invariance, and (ii) we recover
+the complete free graviton propagator in the continuum limit. The results help
+clarify the structure of the boundary state needed in the recent calculations
+of the graviton propagator in loop quantum gravity, and in particular its role
+in fixing the gauge.

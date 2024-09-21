@@ -1,0 +1,13 @@
+Due to an extremely rugged structure of the free energy landscape, the
+determination of spin-glass ground states is among the hardest known
+optimization problems, found to be NP-hard in the most general case. Owing to
+the specific structure of local (free) energy minima, general-purpose
+optimization strategies perform relatively poorly on these problems, and a
+number of specially tailored optimization techniques have been developed in
+particular for the Ising spin glass and similar discrete systems. Here, an
+efficient optimization heuristic for the much less discussed case of continuous
+spins is introduced, based on the combination of an embedding of Ising spins
+into the continuous rotators and an appropriate variant of a genetic algorithm.
+Statistical techniques for insuring high reliability in finding (numerically)
+exact ground states are discussed, and the method is benchmarked against the
+simulated annealing approach.

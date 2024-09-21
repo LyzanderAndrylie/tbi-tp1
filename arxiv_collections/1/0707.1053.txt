@@ -1,0 +1,24 @@
+We present a deterministic exploration mechanism for sponsored search
+auctions, which enables the auctioneer to learn the relevance scores of
+advertisers, and allows advertisers to estimate the true value of clicks
+generated at the auction site. This exploratory mechanism deviates only
+minimally from the mechanism being currently used by Google and Yahoo! in the
+sense that it retains the same pricing rule, similar ranking scheme, as well
+as, similar mathematical structure of payoffs. In particular, the estimations
+of the relevance scores and true-values are achieved by providing a chance to
+lower ranked advertisers to obtain better slots. This allows the search engine
+to potentially test a new pool of advertisers, and correspondingly, enables new
+advertisers to estimate the value of clicks/leads generated via the auction.
+Both these quantities are unknown a priori, and their knowledge is necessary
+for the auction to operate efficiently. We show that such an exploration policy
+can be incorporated without any significant loss in revenue for the auctioneer.
+We compare the revenue of the new mechanism to that of the standard mechanism
+at their corresponding symmetric Nash equilibria and compute the cost of
+uncertainty, which is defined as the relative loss in expected revenue per
+impression. We also bound the loss in efficiency, as well as, in user
+experience due to exploration, under the same solution concept (i.e. SNE). Thus
+the proposed exploration mechanism learns the relevance scores while
+incorporating the incentive constraints from the advertisers who are selfish
+and are trying to maximize their own profits, and therefore, the exploration is
+essentially achieved via mechanism design. We also discuss variations of the
+new mechanism such as truthful implementations.

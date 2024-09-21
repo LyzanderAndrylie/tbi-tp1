@@ -1,0 +1,13 @@
+The Gemini Planet (GPI) imager is an "extreme" adaptive optics system being
+designed and built for the Gemini Observatory. GPI combines precise and
+accurate wavefront control, diffraction suppression, and a speckle-suppressing
+science camera with integral field and polarimetry capabilities. GPI's primary
+science goal is the direct detection and characterization of young, Jovian-mass
+exoplanets. For systems younger than 2 Gyr exoplanets more massive than 6 MJ
+and semimajor axes beyond 10 AU are detected with completeness greater than
+50%. GPI will also discover faint debris disks, explore icy moons and minor
+planets in the solar system, reveal high dynamic range main-sequence binaries,
+and study mass loss from evolved stars. This white paper explains the role of
+GPI in exoplanet discovery and characterization and summarizes our
+recommendations to the NSF-NASA-DOE Astronomy and Astrophysics Advisory
+Committee ExoPlanet Task Force.

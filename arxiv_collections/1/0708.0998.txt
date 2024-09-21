@@ -1,0 +1,5 @@
+In this small note we use results derived in Berestycki et al. to correct the
+celebrated formulae of Hagan et al. We derive explicitly the correct zero order
+term in the expansion of the implied volatility in time to maturity. The new
+term is consistent as $\beta\to 1$. Furthermore, numerical simulations show
+that it reduces or eliminates known pathologies of the earlier formula.

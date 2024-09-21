@@ -1,0 +1,16 @@
+We compute the high-frequency emission and absorption noise in a fractional
+quantum Hall effect (FQHE) sample at arbitrary temperature. We model the edges
+of the FQHE as chiral Luttinger liquids (LL) and we use the non-equilibrium
+perturbative Keldysh formalism. We find that the non-symmetrized high frequency
+noise contains important signatures of the electron-electron interactions that
+can be used to test the Luttinger liquid physics, not only in FQHE edge states,
+but possibly also in other one-dimensional systems such as carbon nanotubes. In
+particular we find that the emission and absorption components of the excess
+noise (defined as the difference between the noise at finite voltage and at
+zero voltage) are different in an interacting system, as opposed to the
+non-interacting case when they are identical. We study the resonance features
+which appear in the noise at the Josephson frequency (proportional to the
+applied voltage), and we also analyze the effect of the distance between the
+measurement point and the backscattering site. Most of our analysis is
+performed in the weak backscattering limit, but we also compute and discuss
+briefly the high-frequency noise in the tunneling regime.

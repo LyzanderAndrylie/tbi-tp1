@@ -1,0 +1,9 @@
+For infinitely large sparse networks of spiking neurons mean field theory
+shows that a balanced state of highly irregular activity arises under various
+conditions. Here we analytically investigate the microscopic irregular dynamics
+in finite networks of arbitrary connectivity, keeping track of all individual
+spike times. For delayed, purely inhibitory interactions we demonstrate that
+the irregular dynamics is not chaotic but rather stable and convergent towards
+periodic orbits. Moreover, every generic periodic orbit of these dynamical
+systems is stable. These results highlight that chaotic and stable dynamics are
+equally capable of generating irregular activity.

@@ -1,0 +1,19 @@
+We present a collection of algorithms which utilize dimensional reduction to
+perform mesh refinement and study possibly singular solutions of time-dependent
+partial differential equations. The algorithms are inspired by constructions
+used in statistical mechanics to evaluate the properties of a system near a
+critical point. The first algorithm allows the accurate determination of the
+time of occurrence of a possible singularity. The second algorithm is an
+adaptive mesh refinement scheme which can be used to approach efficiently the
+possible singularity. Finally, the third algorithm uses the second algorithm
+until the available resolution is exhausted (as we approach the possible
+singularity) and then switches to a dimensionally reduced model which, when
+accurate, can follow faithfully the solution beyond the time of occurrence of
+the purported singularity. An accurate dimensionally reduced model should
+dissipate energy at the right rate. We construct two variants of each
+algorithm. The first variant assumes that we have actual knowledge of the
+reduced model. The second variant assumes that we know the form of the reduced
+model, i.e. the terms appearing in the reduced model, but not necessarily their
+coefficients. In this case, we also provide a way of determining the
+coefficients. We present numerical results for the Burgers equation with zero
+and nonzero viscosity to illustrate the use of the algorithms.

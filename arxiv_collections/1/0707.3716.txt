@@ -1,0 +1,10 @@
+The maintainance of a stable periodicity during the yeast metabolic cycle
+involving approximately half of the genome requires a very strict and efficient
+control of gene expression. For this reason, the metabolic cycle is a very good
+candidate for testing the role of a class of post-transcriptional regulators,
+the so called PUF-family, whose genome-wide mRNA binding specificity was
+recently experimentally assessed. Here we show that an integrated computational
+analysis of gene expression time series during the metabolic cycle and the mRNA
+binding specificity of PUF-family proteins allow for a clear demonstration of
+the very specific role exerted by selective post-transcriptional mRNA
+degradation in yeast metabolic cycle global regulation.

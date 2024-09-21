@@ -1,0 +1,19 @@
+Audio watermarking has played an important role in multimedia security. In
+many applications using audio watermarking, D/A and A/D conversions (denoted by
+DA/AD in this paper) are often involved. In previous works, however, the
+robustness issue of audio watermarking against the DA/AD conversions has not
+drawn sufficient attention yet. In our extensive investigation, it has been
+found that the degradation of a watermarked audio signal caused by the DA/AD
+conversions manifests itself mainly in terms of wave magnitude distortion and
+linear temporal scaling, making the watermark extraction failed. Accordingly, a
+DWT-based audio watermarking algorithm robust against the DA/AD conversions is
+proposed in this paper. To resist the magnitude distortion, the relative energy
+relationships among different groups of the DWT coefficients in the
+low-frequency sub-band are utilized in watermark embedding by adaptively
+controlling the embedding strength. Furthermore, the resynchronization is
+designed to cope with the linear temporal scaling. The time-frequency
+localization characteristics of DWT are exploited to save the computational
+load in the resynchronization. Consequently, the proposed audio watermarking
+algorithm is robust against the DA/AD conversions, other common audio
+processing manipulations, and the attacks in StirMark Benchmark for Audio,
+which has been verified by experiments.

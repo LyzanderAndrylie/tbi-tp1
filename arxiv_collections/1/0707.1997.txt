@@ -1,0 +1,13 @@
+In the framework of the instanton vacuum model we make expansion over the
+current mass m and number of colors N_c and evaluate ${\cal O}(1/N_c, m, m/N_c,
+m \ln m/N_c)$-corrections to the dynamical quark mass M, the quark condensate
+$<\bar qq>$, the pion mass M_\pi and decay constant F_\pi. There are several
+sources of these corrections: meson loops, finite size of the instanton
+distribution and the quark-quark "tensor" interaction terms. In contrast to the
+expectations, we found that numerically the 1/N_c-corrections to dynamical mass
+are large and mostly come from meson loops. As a consequence, we have large
+1/N_c-corrections to all the other quantities. To provide the values of
+$F_\pi(m=0), \ave{\bar qq(m=0)}$ in agreement with \chiPT, we offer a new set
+of parameters \rho, R. Finally, we find the low-energy SU(2)_f chiral
+lagrangian constants $\bar l_3, \bar l_4$ in a rather good correspondence with
+the phenomenology.

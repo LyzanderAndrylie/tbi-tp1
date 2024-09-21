@@ -1,0 +1,6 @@
+A stochastic representation for the solutions of the Poisson-Vlasov equation,
+with several charged species, is obtained. The representation involves both an
+exponential and a branching process and it provides an intuitive
+characterization of the nature of the solutions and its fluctuations. Here, the
+stochastic representation is also proposed as a tool for the numerical
+evaluation of the solutions

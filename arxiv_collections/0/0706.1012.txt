@@ -1,0 +1,24 @@
+We report ab initio calculations of the melting curve of molybdenum for the
+pressure range 0-400 GPa. The calculations employ density functional theory
+(DFT) with the Perdew-Burke-Ernzerhof exchange-correlation functional in the
+projector augmented wave (PAW) implementation. We present tests showing that
+these techniques accurately reproduce experimental data on low-temperature
+b.c.c. Mo, and that PAW agrees closely with results from the full-potential
+linearized augmented plane-wave implementation. The work attempts to overcome
+the uncertainties inherent in earlier DFT calculations of the melting curve of
+Mo, by using the ``reference coexistence'' technique to determine the melting
+curve. In this technique, an empirical reference model (here, the embedded-atom
+model) is accurately fitted to DFT molecular dynamics data on the liquid and
+the high-temperature solid, the melting curve of the reference model is
+determined by simulations of coexisting solid and liquid, and the ab initio
+melting curve is obtained by applying free-energy corrections. Our calculated
+melting curve agrees well with experiment at ambient pressure and is consistent
+with shock data at high pressure, but does not agree with the high pressure
+melting curve deduced from static compression experiments. Calculated results
+for the radial distribution function show that the short-range atomic order of
+the liquid is very similar to that of the high-T solid, with a slight decrease
+of coordination number on passing from solid to liquid. The electronic
+densities of states in the two phases show only small differences. The results
+do not support a recent theory according to which very low dTm/dP values are
+expected for b.c.c. transition metals because of electron redistribution
+between s-p and d states.

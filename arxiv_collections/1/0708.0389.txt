@@ -1,0 +1,17 @@
+We demonstrate two patterning techniques based on hydrogen passivation of
+Ga1-xMnxAs to produce isolated ferromagnetically active regions embedded
+uniformly in a paramagnetic, insulating host. The first method consists of
+selective hydrogenation of Ga1-xMnxAs by lithographic masking. Magnetotransport
+measurements of Hall-bars made in this manner display the characteristic
+properties of the hole-mediated ferromagnetic phase, which result from good
+pattern isolation. Arrays of Ga1-xMnxAs dots as small as 250 nm across have
+been realized by this process. The second process consists of blanket
+hydrogenation of Ga1-xMnxAs followed by local reactivation using confined
+low-power pulsed-laser annealing. Conductance imaging reveals local electrical
+reactivation of micrometer-sized regions that accompanies the restoration of
+ferromagnetism. The spatial resolution achievable with this method can
+potentially reach <100 nm by employing near-field laser processing. The high
+spatial resolution attainable by hydrogenation patterning enables the
+development of systems with novel functionalities such as lateral
+spin-injection as well as the exploration of magnetization dynamics in
+individual and coupled structures made from this novel class of semiconductors.

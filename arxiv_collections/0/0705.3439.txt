@@ -1,0 +1,9 @@
+The computation of radiative energy loss in a dynamically screened QCD medium
+is a key ingredient for obtaining reliable predictions for jet quenching in
+ultra-relativistic heavy ion collisions. We calculate, to first order in the
+opacity, the energy loss suffered by a heavy quark traveling through an
+infinite and time-independent QCD medium and show that the result for a
+dynamical medium is almost twice that obtained previously for a medium
+consisting of randomly distributed static scattering centers. A quantitative
+description of jet suppression in RHIC and LHC experiments thus must correctly
+account for the dynamics of the medium's constituents.

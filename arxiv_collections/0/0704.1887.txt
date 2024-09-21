@@ -1,0 +1,15 @@
+A model for charge transfer mechanism in YBa2Cu3O6+x high-Tc cuprate based on
+critical chain length concept is proposed to account for 60K and 90K plateaus
+in Tc(x) dependence. It has been shown, when the statistics of CuO chain
+formation was described in terms of two dimensional asymmetric next-to-nearest
+neighbor Ising (ASYNNNI) model, that at any constant temperature below the top
+of OII phase there exists a uniquely defined value of critical chain length
+lcr(T) that yields a constant doping p(x)=const over the regime of OII phase
+(related to 60K plateau of Tc(x)), while 90K plateau coincides with the
+monotonously increasing p(x) over optimal doping level p=0.16 in the regime of
+OI phase. Short length chains (l<lcr(T)), together with the first lcr(T)-2
+holes in longer chains (l>lcr(T)), are taken as not capable of attracting
+electrons from CuO2 planes.. It is shown that only a part (41%) of the
+remaining l-lcr(T)+1 holes in the long chains can capture electrons. The
+results obtained indicate that the ASYNNNI model and two-plateaus-like behavior
+of Tc(x) in YBa2Cu3O6+x are closely connected.

@@ -1,0 +1,24 @@
+The effect of Li substitution for Mg and of Li-C co-substitution on the
+superconducting properties and crystal structure of MgB2 single crystals has
+been investigated. It has been found that hole doping with Li decreases the
+superconducting transition temperature Tc, but at a slower rate than electron
+doping with C or Al. Tc of MgB2 crystals with simultaneously substituted Li for
+Mg and C for B decreases more than in the case where C is substituted alone.
+This means that holes introduced by Li cannot counterbalance the effect of
+decrease of Tc caused by introduction of electrons coming from C. The possible
+reason of it can be that holes coming from Li occupy the pi band while
+electrons coming from C fill the sigma band. The temperature dependences of the
+upper critical field Hc2 for Al and Li substituted crystals with the same Tc
+show a similar dHc2/dT slope at Tc and a similar Hc2(T) behavior, despite of
+much different substitution level. This indicates that the mechanism
+controlling Hc2 and Tc is similar in both hole and electron doped crystals.
+Electrical transport measurements show an increase of resistivity both in Li
+substituted crystals and in Li and C co-substituted crystals. This indicates
+enhanced scattering due to defects introduced by substitutions including
+distortion of the lattice. The observed behavior can be explained as a result
+of two effects, influencing both Tc and Hc2. The first one is doping related to
+the changes in the carrier concentration, which may lead to the decrease or to
+the increase of Tc. The second one is related to the introduction of new
+scattering centers leading to the modification of the interband and/or
+intraband scattering and therefore, to changes in the superconducting gaps and
+to the reduction of Tc.

@@ -1,0 +1,7 @@
+The ground state structural, electronic and magnetic properties of
+multiferroic TbMn$_2$O$_5$ are investigated via first-principles calculations.
+We show that the ferroelectricity in TbMn$_2$O$_5$ is driven by the
+non-centrosymmetric magnetic ordering, without invoking the spin-orbit coupling
+and non-collinear spins. The {\it intrinsic} electric polarization in this
+compound is calculated to be 1187 $nC\cdot$ cm$^{-2}$, an order of magnitude
+larger than previously thought.

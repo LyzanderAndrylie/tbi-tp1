@@ -1,0 +1,10 @@
+We briefly discuss our recent field-theoretic study of polyelectrolyte
+complexation, which occurs in solutions of two oppositely charged
+polyelectrolytes. Charged systems require theoretical methods beyond the
+mean-field (or self-consistent field) approximation; indeed, mean-field theory
+is qualitatively incorrect for such polyelectrolyte solutions. Both analytical
+(one-loop) and numerical (complex Langevin) methods to account for charge
+correlations are discussed. In particular, the first application of
+field-theoretic simulations to polyelectrolyte systems is reported. The
+polyelectrolyte charge-charge correlation length and a phase diagram are
+provided; effects of charge redistribution are qualitatively explored.

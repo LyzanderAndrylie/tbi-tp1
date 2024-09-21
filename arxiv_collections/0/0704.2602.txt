@@ -1,0 +1,10 @@
+Continuous-time quantum walk (CTQW) on a given graph is investigated by using
+the techniques of the spectral analysis and inverse Laplace transform of the
+Stieltjes function (Stieltjes transform of the spectral distribution)
+associated with the graph. It is shown that, the probability amplitude of
+observing the CTQW at a given site at time $t$ is related to the inverse
+Laplace transformation of the Stieltjes function, namely, one can calculate the
+probability amplitudes only by taking the inverse laplace transform of the
+function $iG_{\mu}(is)$, where $G_{\mu}(x)$ is the Stieltjes function of the
+graph. The preference of this procedure is that, there is no any need to know
+the spectrum of the graph

@@ -1,0 +1,19 @@
+Mass loss rate formulae are derived from observations or from suites of
+models. For theoretical models, the following have all been identified as
+factors greatly influencing the atmospheric structure and mass loss rates:
+Pulsation with piston amplitude scaling appropriately with stellar L; dust
+nucleation and growth, with radiation pressure and grain-gas interactions and
+appropriate dependence on temperature and density; non-grey opacity with at
+least 51 frequency samples; non-LTE and departures from radiative equilibrium
+in the compressed and expanding flows; and non-equilibrium processes affecting
+the composition (grain formation; molecular chemistry). No one set of models
+yet includes all the factors known to be important. In fact, it is very
+difficult to construct a model that can simultaneously include these factors
+and be useful for computing spectra. Therefore, although theoretical model
+grids are needed to separate the effects of M,L,R and/or $T_{\mathrm{eff}}$ or
+Z on the mass loss rates, these models must be carefully checked against
+observations. Getting the right order of magnitude for the mass loss rate is
+only the first step in such a comparison, and is not sufficient to determine
+whether the mass loss formula is correct. However, there are observables that
+do test the validity of mass loss formulae as they depend directly on $d\log
+\dot M/d\log L$, $d\log \dot M/d\log R$, or $d\log \dot M/d\log P$.

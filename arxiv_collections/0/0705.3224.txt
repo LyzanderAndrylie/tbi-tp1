@@ -1,0 +1,12 @@
+We study a simple model of information propagation in social networks, where
+two quantities are introduced: the spread factor, which measures the average
+maximal fraction of neighbors of a given node that interchange information
+among each other, and the spreading time needed for the information to reach
+such fraction of nodes. When the information refers to a particular node at
+which both quantities are measured, the model can be taken as a model for
+gossip propagation. In this context, we apply the model to real empirical
+networks of social acquaintances and compare the underlying spreading dynamics
+with different types of scale-free and small-world networks. We find that the
+number of friendship connections strongly influences the probability of being
+gossiped. Finally, we discuss how the spread factor is able to be applied to
+other situations.

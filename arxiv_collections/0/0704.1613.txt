@@ -1,0 +1,7 @@
+In this reply, we show that when we apply standard distribution theory to the
+Lippmann-Schwinger equation, the resulting spaces of test functions would
+comply with the Hardy axiom only if classic results of Paley and Wiener, of
+Gelfand and Shilov, and of the theory of ultradistributions were wrong. As
+well, we point out several differences between the ``standard method'' of
+constructing rigged Hilbert spaces in quantum mechanics and the method used in
+Time Asymmetric Quantum Theory.

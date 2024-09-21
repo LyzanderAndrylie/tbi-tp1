@@ -1,0 +1,12 @@
+The interaction of the electric and magnetic dipole moments of a particle
+with the electromagnetic field is investigated in an approach that deals with
+four-dimensional (4D) geometric quantities. The new commutation relations for
+the 4D orbital and intrinsic angular momentums and also for the 4D dipole
+moments are introduced. The expectation value of the quantum 4-force, which
+holds in any frame, is worked out in terms of them. In contrast to it the whole
+calculation in [1] ([1] J. Anandan, Phys. Rev. Lett. \textbf{85}, 1354 (2000))
+has been made only in the rest frame of the dipole. It is proved that, e.g.,
+the expression for the 3D force $\mathbf{f}%_{S}$ in [1] is not
+relativistically correct and that the quantum 4-force is not zero in the
+experiments proposed in [1]. This means that the phase shifts that could be
+observed in such experiments are not topological phase shifts.

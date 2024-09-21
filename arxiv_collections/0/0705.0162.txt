@@ -1,0 +1,9 @@
+In this article we calculate the electrical conductivity in QED using the 2PI
+effective action. We use a modified version of the usual 2PI effective action
+which is defined with respect to self-consistent solutions of the 2-point
+functions. We show that the green functions obtained from this modified
+effective action satisfy ward identities and that the conductivity obtained
+from the kubo relation is gauge invariant. We work to 3-loop order in the
+modified 2PI effective action and show explicitly that the resulting expression
+for the conductivity contains the square of the amplitude that corresponds to
+all binary collision and production processes.

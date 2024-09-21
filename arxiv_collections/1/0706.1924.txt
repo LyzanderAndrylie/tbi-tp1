@@ -1,0 +1,5 @@
+We present an efficient architecture for quantum repeaters based on
+single-photon sources in combination with quantum memories for photons. Errors
+inherent to previous repeater protocols using photon-pair sources are
+eliminated, leading to a significant gain in efficiency. We establish the
+requirements on the single-photon sources and on the photon detectors.

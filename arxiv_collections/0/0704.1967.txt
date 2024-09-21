@@ -1,0 +1,13 @@
+We derive the microcanonical partition function of the ideal relativistic
+quantum gas of spinless bosons in a quantum field framework as an expansion
+over fixed multiplicities. Our calculation generalizes well known expressions
+in literature in that it does not introduce any large volume approximation and
+it is valid at any volume. We discuss the issues concerned with the definition
+of the microcanonical ensemble for a free quantum field at volumes comparable
+with the Compton wavelength and provide a consistent prescription of
+calculating the microcanonical partition function, which is finite at finite
+volume and yielding the correct thermodynamic limit. Besides an immaterial
+overall factor, the obtained expression turns out to be the same as in the
+non-relativistic multi-particle approach. This work is introductory to derive
+the most general expression of the microcanonical partition function fixing the
+maximal set of observables of the Poincare' group.

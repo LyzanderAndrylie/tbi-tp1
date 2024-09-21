@@ -1,0 +1,10 @@
+We investigate graphene and graphene layers on different substrates by
+monochromatic and white-light confocal Rayleigh scattering microscopy. The
+image contrast depends sensitively on the dielectric properties of the sample
+as well as the substrate geometry and can be described quantitatively using the
+complex refractive index of bulk graphite. For few layers (<6) the
+monochromatic contrast increases linearly with thickness: the samples behave as
+a superposition of single sheets which act as independent two dimensional
+electron gases. Thus, Rayleigh imaging is a general, simple and quick tool to
+identify graphene layers, that is readily combined with Raman scattering, which
+provides structural identification.

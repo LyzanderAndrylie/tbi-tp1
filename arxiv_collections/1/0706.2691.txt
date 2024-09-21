@@ -1,0 +1,12 @@
+The ac-susceptibility of the electron doped single-layered manganite
+La$_{1.1}$Sr$_{0.9}$MnO$_4$ is analyzed in detail. A quasi two-dimensional
+(2$D$) antiferromagnetic (AFM) order with Ising anisotropy is stabilized below
+$T_N$ $\sim$ 80K. We show that below $T_N$, a rare 2$D$ spin-glass (SG)
+correlation develops with the same Ising anisotropy as the AFM state. Using
+simple scaling arguments of the droplet model, we derive a scaling form for the
+ac-susceptibility data of a 2$D$ SG, which our experimental data follows fairly
+well. Due to simplifications in this 2$D$ case, the proposed scaling form only
+contains two unknown variables $\psi\nu$ and $\tau_0$. Hence, the logarithmic
+growth law of the SG correlation predicted by the droplet model is convincingly
+evidenced by the scaling of our experimental data. The origin and nature of
+this 2$D$ SG state is also discussed.

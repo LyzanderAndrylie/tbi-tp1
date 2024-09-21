@@ -1,0 +1,13 @@
+At the quantization of fields, due to the non-linear character of the time
+reversal, the creation-annihilation operators for the negative frequency modes
+should be replaced to the operators of antiparticles not directly in the field
+operators, but in the operator products. For the standard minimal Lagrangians
+(asymmetrical under the complex conjugated fields) it is shown that the charge
+conjugation (C-) symmetry conditions for the Hamiltonian and the charge
+operator lead to the identities for the operator products allowing one to
+replace the negative frequency operator products to the positive frequency
+ones. At the same time the operators in observables become normal ordered and
+the zero-point energy does not appear. Only the symmetrized under the field
+operators Lagrangians lead to the zero-point energy. The confrontation by the
+experiments of the such C-symmetric quantization of fields and the solution
+some of the vacuum energy problems are discussed.

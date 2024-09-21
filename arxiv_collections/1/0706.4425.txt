@@ -1,0 +1,8 @@
+We suggest a simple model of disorder in graphene assuming that there are
+randomly distributed positive and negative centers with equal concentration
+$N/2$ in the bulk of silicon oxide substrate. We show that at zero gate voltage
+such disorder creates two-dimensional concentration $n_0 \sim N^{2/3}$ of
+electrons and holes in graphene. Electrons and holes reside in alternating in
+space puddles of the size $R_0 \sim N^{-1/3}$. A typical puddle has only one or
+two carriers in agreement with recent scanning single electron transistor
+experiment.

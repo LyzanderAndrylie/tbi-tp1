@@ -1,0 +1,13 @@
+In this work we study numerically the influence of a homogeneous electrical
+field on the fluid and heat transfer phenomena at macroscale and mesoscale
+during unidirectional solidification of a binary metal alloy. The numerical
+results showed that a pulse electric discharging applied perpendicularly to the
+solidification front leads to a much stronger Joule heating of the liquid phase
+in comparison to the solid phase. It was found that on the mesoscopic scale the
+electric current density is not homogeneous due to the complex shape of the
+dendrite and the difference between electrical conductivities of the solid and
+liquid phases. This inhomogeneity of the electrical current density in the
+mushy zone leads to the increase of the Joule heating of the dendrite in
+comparison to the interdendritic liquid and induces a pinch force
+(electromagnetic Lorentz force). The main features of the resulting convection
+in the interdendritic liquid are discussed.

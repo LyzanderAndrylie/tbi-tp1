@@ -1,0 +1,10 @@
+In arrangements of pseudocircles (Jordan curves) the weight of a vertex
+(intersection point) is the number of pseudocircles that contain the vertex in
+its interior. We give improved upper bounds on the number of vertices of weight
+<=k in certain arrangements of pseudocircles in the plane. In particular,
+forbidding certain subarrangements we improve the known bound of 6n-12 (cf.
+Kedem et al., 1986) for vertices of weight 0 in arrangements of n pseudocircles
+to 4n-6. In complete arrangements (i.e. arrangements with each two
+pseudocircles intersecting) we identify two subarrangements of three and four
+pseudocircles, respectively, whose absence gives improved bounds for vertices
+of weight 0 and more generally for vertices of weight <=k.

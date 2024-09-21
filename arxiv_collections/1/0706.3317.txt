@@ -1,0 +1,7 @@
+We present an approach which enables to state about the existence of phase
+synchronization in coupled chaotic oscillators without having to measure the
+phase. This is done by observing the oscillators at special times, and
+analyzing whether this set of points is localized. In particular, we show that
+this approach is fruitful to analyze the onset of phase synchronization in
+chaotic attractors whose phases are not well defined, as well as, in networks
+of non-identical spiking/bursting neurons connected by chemical synapses.

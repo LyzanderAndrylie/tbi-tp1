@@ -1,0 +1,11 @@
+We have performed quantum Monte Carlo simulations to investigate the
+superfluid behavior of one- and two-dimensional interfaces separating
+checkerboard solid domains. The system is described by the hard-core
+Bose-Hubbard Hamiltonian with nearest-neighbor interaction. In accordance with
+Ref.1, we find that (i) the interface remains superfluid in a wide range of
+interaction strength before it undergoes a superfluid-insulator transition;
+(ii) in one dimension, the transition is of the Kosterlitz-Thouless type and is
+accompanied by the roughening transition, driven by proliferation of charge 1/2
+quasiparticles; (iii) in two dimensions, the transition belongs to the 3D U(1)
+universality class and the interface remains smooth. Similar phenomena are
+expected for domain walls in quantum antiferromagnets.

@@ -1,0 +1,20 @@
+Can the presence of molecular-tilt order significantly affect the shapes of
+lipid bilayer membranes, particularly membrane shapes with narrow necks?
+Motivated by the propensity for tilt order and the common occurrence of narrow
+necks in the intermediate stages of biological processes such as endocytosis
+and vesicle trafficking, we examine how tilt order inhibits the formation of
+necks in the equilibrium shapes of vesicles. For vesicles with a spherical
+topology, point defects in the molecular order with a total strength of $+2$
+are required. We study axisymmetric shapes and suppose that there is a
+unit-strength defect at each pole of the vesicle. The model is further
+simplified by the assumption of tilt isotropy: invariance of the energy with
+respect to rotations of the molecules about the local membrane normal. This
+isotropy condition leads to a minimal coupling of tilt order and curvature,
+giving a high energetic cost to regions with Gaussian curvature and tilt order.
+Minimizing the elastic free energy with constraints of fixed area and fixed
+enclosed volume determines the allowed shapes. Using numerical calculations, we
+find several branches of solutions and identify them with the branches
+previously known for fluid membranes. We find that tilt order changes the
+relative energy of the branches, suppressing thin necks by making them costly,
+leading to elongated prolate vesicles as a generic family of tilt-ordered
+membrane shapes.

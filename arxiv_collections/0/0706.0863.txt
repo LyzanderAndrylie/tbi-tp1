@@ -1,0 +1,14 @@
+Magnetism in nanographenes (also know as polycyclic aromatic hydrocarbons, or
+PAHs) are studied with first principles density functional calculations. We
+find that an antiferromagnetic (AFM) phase appears as the PAH reaches a certain
+size. This AFM phase in PAHs has the same origin as the one in infinitely long
+zigzag-edged graphene nanoribbons, namely, from the localized electronic state
+at the zigzag edge. The smallest PAH still having an AFM ground state is
+identified. With increased length of the zigzag edge, PAHs approach an
+infinitely long ribbon in terms of (1) the energetic ordering and difference
+among the AFM, ferromagnetic (FM), and nonmagnetic (NM) phases and (2) the
+average local magnetic moment at the zigzag edges. These PAHs serve as ideal
+targets for chemical synthesis of nanographenes that possess magnetic
+properties. Moreover, our calculations support the interpretation that
+experimentally observed magnetism in activated carbon fibers originates from
+the zigzag edges of the nanographenes.

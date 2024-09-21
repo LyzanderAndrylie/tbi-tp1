@@ -1,0 +1,8 @@
+Four-body interaction plays an important role in many-body systems, and it
+can exhibit interesting phase transition behaviors. Historically it was the
+need to efficiently simulate quantum systems that lead the idea of a quantum
+computer. In this Letter, we report the experimental demonstration of a
+four-body interaction in a four- qubit nuclear magnetic resonance quantum
+information processor. The strongly modulating pulse is used to implement spin
+selective excitation. The results show a good agreement between theory and
+experiment.

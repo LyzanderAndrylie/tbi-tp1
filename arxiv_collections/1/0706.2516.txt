@@ -1,0 +1,11 @@
+A pedigree is a directed graph that describes how individuals are related
+through ancestry in a sexually-reproducing population. In this paper we explore
+the question of whether one can reconstruct a pedigree by just observing
+sequence data for present day individuals. This is motivated by the increasing
+availability of genomic sequences, but in this paper we take a more theoretical
+approach and consider what models of sequence evolution might allow pedigree
+reconstruction (given sufficiently long sequences). Our results complement
+recent work that showed that pedigree reconstruction may be fundamentally
+impossible if one uses just the degrees of relatedness between different extant
+individuals. We find that for certain stochastic processes, pedigrees can be
+recovered up to isomorphism from sufficiently long sequences.

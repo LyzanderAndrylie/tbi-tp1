@@ -1,0 +1,13 @@
+We perform a time-dependent study of the driven dynamics of overdamped
+particles which are placed in a one-dimensional, piecewise linear random
+potential. This set-up of spatially quenched disorder then exerts a dichotomous
+varying random force on the particles. We derive the path integral
+representation of the resulting probability density function for the position
+of the particles and transform this quantity of interest into the form of a
+Fourier integral. In doing so, the evolution of the probability density can be
+investigated analytically for finite times. It is demonstrated that the
+probability density contains both a $\delta$-singular contribution and a
+regular part. While the former part plays a dominant role at short times, the
+latter rules the behavior at large evolution times. The slow approach of the
+probability density to a limiting Gaussian form as time tends to infinity is
+elucidated in detail.

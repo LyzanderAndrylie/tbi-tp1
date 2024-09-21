@@ -1,0 +1,9 @@
+An analysis of radiating perfect fluid models with asymptotically AdS
+boundary conditions is presented. Such scenarios consist of a spherical gas of
+radiation (a "star") localised near the centre of the spacetime due to the
+confining nature of the AdS potential. We consider the variation of the total
+mass of the star as a function of the central density, and observe that for
+large enough dimensionality, the mass increases monotonically with the density.
+However in the lower dimensional cases, oscillations appear, indicating that
+the perfect fluid model of the star is becoming unrealistic. We find the
+critical dimension separating these two regimes to be eleven.

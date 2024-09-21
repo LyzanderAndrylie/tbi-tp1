@@ -1,0 +1,9 @@
+This work is devoted to the investigation of possibility of controlling of
+ions motion inside Paul trap. It has been shown that by proper selection of the
+parameters of controlling electric fields, stable localization of ions inside
+Paul trap is possible. Quantum consideration of this problem is reduced to the
+investigation of the Mathieu-Schrodinger equation. It has been shown that
+quantum consideration is appreciably different from classical one that leads to
+stronger limitations of the values of the parameters of stable motion.
+Connection between the problem under study and the possibility of experimental
+observation of quantum chaos has been shown.

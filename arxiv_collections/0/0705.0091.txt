@@ -1,0 +1,7 @@
+We model the optical visibility of monolayer and bilayer graphene deposited
+on a silicon/silicon oxide substrate or thermally annealed on the surface of
+silicon carbide. We consider reflection and transmission setups, and find that
+visibility is strongest in reflection reaching the optimum conditions when the
+bare substrate transmits light resonantly. In the optical range of frequencies
+a bilayer is approximately twice as visible as a monolayer thereby making the
+two types of graphene distinguishable from each other.

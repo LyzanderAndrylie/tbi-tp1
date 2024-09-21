@@ -1,0 +1,10 @@
+The spatiotemporal dynamics of Lyapunov vectors (LVs) in spatially extended
+chaotic systems is studied by means of coupled-map lattices. We determine
+intrinsic length scales and spatiotemporal correlations of LVs corresponding to
+the leading unstable directions by translating the problem to the language of
+scale-invariant growing surfaces. We find that the so-called 'characteristic'
+LVs exhibit spatial localization, strong clustering around given spatiotemporal
+loci, and remarkable dynamic scaling properties of the corresponding surfaces.
+In contrast, the commonly used backward LVs (obtained through Gram-Schmidt
+orthogonalization) spread all over the system and do not exhibit dynamic
+scaling due to artifacts in the dynamical correlations by construction.

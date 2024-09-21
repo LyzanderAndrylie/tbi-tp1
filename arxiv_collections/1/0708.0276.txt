@@ -1,0 +1,24 @@
+It is a well known analytic result in general relativity that the
+2-dimensional area of the apparent horizon of a black hole remains invariant
+regardless of the motion of the observer, and in fact is independent of the $
+t=constant $ slice, which can be quite arbitrary in general relativity.
+Nonetheless the explicit computation of horizon area is often substantially
+more difficult in some frames (complicated by the coordinate form of the
+metric), than in other frames. Here we give an explicit demonstration for very
+restricted metric forms of (Schwarzschild and Kerr) vacuum black holes. In the
+Kerr-Schild coordinate expression for these spacetimes they have an explicit
+Lorentz-invariant form. We consider {\it boosted} versions with the black hole
+moving through the coordinate system. Since these are stationary black hole
+spacetimes, the apparent horizons are two dimensional cross sections of their
+event horizons, so we compute the areas of apparent horizons in the boosted
+space with (boosted) $ t = constant $, and obtain the same result as in the
+unboosted case. Note that while the invariance of area is generic, we deal only
+with black holes in the Kerr-Schild form, and consider only one particularly
+simple change of slicing which amounts to a boost. Even with these restrictions
+we find that the results illuminate the physics of the horizon as a null
+surface and provide a useful pedagogical tool. As far as we can determine, this
+is the first explicit calculation of this type demonstrating the area
+invariance of horizons. Further, these calculations are directly relevant to
+transformations that arise in computational representation of moving black
+holes. We present an application of this result to initial data for boosted
+black holes.

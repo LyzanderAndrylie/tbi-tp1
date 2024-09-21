@@ -1,0 +1,9 @@
+We define and study symmetrized and antisymmetrized multivariate exponential
+functions. They are defined as determinants and antideterminants of matrices
+whose entries are exponential functions of one variable. These functions are
+eigenfunctions of the Laplace operator on corresponding fundamental domains
+satisfying certain boundary conditions. To symmetric and antisymmetric
+multivariate exponential functions there correspond Fourier transforms. There
+are three types of such Fourier transforms: expansions into corresponding
+Fourier series, integral Fourier transforms, and multivariate finite Fourier
+transforms. Eigenfunctions of the integral Fourier transforms are found.

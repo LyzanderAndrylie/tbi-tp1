@@ -1,0 +1,17 @@
+In this paper we consider the space of those probability distributions which
+maximize the $q$-R\'enyi entropy. These distributions have the same parameter
+space for every $q$, and in the $q=1$ case these are the normal distributions.
+Some methods to endow this parameter space with Riemannian metric is presented:
+the second derivative of the $q$-R\'enyi entropy, Tsallis-entropy and the
+relative entropy give rise to a Riemannian metric, the Fisher-information
+matrix is a natural Riemannian metric, and there are some geometrically
+motivated metrics which were studied by Siegel, Calvo and Oller, Lovri\'c,
+Min-Oo and Ruh. These metrics are different therefore our differential
+geometrical calculations based on a unified metric, which covers all the above
+mentioned metrics among others. We also compute the geometrical properties of
+this metric, the equation of the geodesic line with some special solutions, the
+Riemann and Ricci curvature tensors and scalar curvature. Using the
+correspondence between the volume of the geodesic ball and the scalar curvature
+we show how the parameter $q$ modulates the statistical distinguishability of
+close points. We show that some frequently used metric in quantum information
+geometry can be easily recovered from classical metrics.

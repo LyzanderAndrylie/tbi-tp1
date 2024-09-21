@@ -1,0 +1,14 @@
+Incoherent noise is manifest in measurements of expectation values when the
+underlying ensemble evolves under a classical distribution of unitary
+processes. While many incoherent processes appear decoherent, there are
+important differences. The distribution functions underlying incoherent
+processes are either static or slowly varying with respect to control
+operations and so the errors introduced by these distributions are refocusable.
+The observation and control of incoherence in small Hilbert spaces is well
+known. Here we explore incoherence during an entangling operation, such as is
+relevant in quantum information processing. As expected, it is more difficult
+to separate incoherence and decoherence over such processes. However, by
+studying the fidelity decay under a cyclic entangling map we are able to
+identify distinctive experimental signatures of incoherence. This result is
+demonstrated both through numerical simulations and experimentally in a three
+qubit nuclear magnetic resonance implementation.

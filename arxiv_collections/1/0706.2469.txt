@@ -1,0 +1,6 @@
+Diamonds offer radiation hard sensors, which can be used directly in primary
+beams. Here we report on the use of a polycrystalline CVD diamond strip sensor
+as beam monitor of heavy ion beams with up to 2.10^9 lead ions per bunch. The
+strips allow for a determination of the transverse beam profile to a fraction
+of the pitch of the strips, while the timing information yields the
+longitudinal bunch length with a resolution of the order of a few mm.

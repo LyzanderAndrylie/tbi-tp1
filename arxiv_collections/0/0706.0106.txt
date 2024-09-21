@@ -1,0 +1,8 @@
+We study light emission patterns from stadium-shaped semiconductor (GaAs)
+microcavity lasers theoretically and experimentally. Performing systematic wave
+calculations for passive cavity modes, we demonstrate that the averaging by
+low-loss modes, such as those realized in multi-mode lasing, generates an
+emission pattern in good agreement with the ray model's prediction. In
+addition, we show that the dependence of experimental far-field emission
+patterns on the aspect ratio of the stadium cavity is well reproduced by the
+ray model.

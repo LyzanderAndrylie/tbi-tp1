@@ -1,0 +1,13 @@
+This study is concerned with the diffusion of a passive scalar $\Theta(\r,t)$
+advected by general $n$-dimensional shear flows $\u=u(y,z,...,t)\hat{x}$ having
+finite mean-square velocity gradients. The unidirectionality of the
+incompressible flows conserves the stream-wise scalar gradient,
+$\partial_x\Theta$, allowing only the cross-stream components to be amplified
+by shearing effects. This amplification is relatively weak because an important
+contributing factor, $\partial_x\Theta$, is conserved, effectively rendering a
+slow diffusion process. It is found that the decay of the scalar variance
+$<\Theta^2>$ satisfies $d<\Theta^2>/dt\ge -C\kappa^{1/3}$, where $C>0$ is a
+constant, depending on the fluid velocity gradients and initial distribution of
+$\Theta$, and $\kappa$ is the molecular diffusivity. This result generalizes to
+axisymmetric flows on the plane and on the sphere having finite mean-square
+angular velocity gradients.

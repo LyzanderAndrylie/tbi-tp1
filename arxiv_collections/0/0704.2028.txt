@@ -1,0 +1,7 @@
+A numerical technique is developed to solve the Luttinger-Kohn equation for
+impurity states directly in k-space and is applied to calculate bound hole wave
+functions in a ferromagnetic (Ga,Mn)As host. The rich properties of the band
+structure of an arbitrarily strained, ferromagnetic zinc-blende semiconductor
+yields various features which have direct impact on the detailed shape of a
+valence band hole bound to an active impurity. The role of strain is discussed
+on the basis of explicit calculations of bound hole states.

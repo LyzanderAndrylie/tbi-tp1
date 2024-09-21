@@ -1,0 +1,10 @@
+Number-resolving photo-detection is necessary for many quantum optics
+experiments, especially in the application of entangled state preparation.
+Several schemes have been proposed for approximating number-resolving
+photo-detection using non-number-resolving detectors. Such techniques include
+multi-port detection and time-division multiplexing. We provide a detailed
+analysis and comparison of different number-resolving detection schemes, with a
+view to creating a useful reference for experimentalists. We show that the
+ideal architecture for projective measurements is a function of the detector's
+dark count and efficiency parameters. We also describe a process for selecting
+an appropriate topology given actual experimental component parameters.

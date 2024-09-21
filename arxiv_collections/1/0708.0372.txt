@@ -1,0 +1,19 @@
+We have numerically investigated statistical properties of the so-called
+interoccurrence time or the waiting time, i.e., the time interval between
+successive earthquakes, based on the two-dimensional (2-D) spring-block
+(Burridge-Knopoff) model, selecting the velocity-weakening property as the
+constitutive friction law. The statistical properties of frequency distribution
+and the cumulative distribution of the interoccurrence time are discussed by
+tuning the dynamical parameters, namely, a stiffness and frictional property of
+a fault. We optimize these model parameters to reproduce the interoccurrence
+time statistics in nature; the frequency and cumulative distribution can be
+described by the power law and Zipf-Mandelbrot type power law, respectively. In
+an optimal case, the b-value of the Gutenberg-Richter law and the ratio of wave
+propagation velocity are in agreement with those derived from real earthquakes.
+As the threshold of magnitude is increased, the interoccurrence time
+distribution tends to follow an exponential distribution. Hence it is suggested
+that a temporal sequence of earthquakes, aside from small-magnitude events, is
+a Poisson process, which is observed in nature. We found that the
+interoccurrence time statistics derived from the 2-D BK (original) model can
+efficiently reproduce that of real earthquakes, so that the model can be
+recognized as a realistic one in view of interoccurrence time statistics.

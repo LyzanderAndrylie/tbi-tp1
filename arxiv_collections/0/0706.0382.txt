@@ -1,0 +1,10 @@
+The properties of the Volume operator in Loop Quantum Gravity, as constructed
+by Ashtekar and Lewandowski, are analyzed for the first time at generic
+vertices of valence greater than four. The present analysis benefits from the
+general simplified formula for matrix elements of the Volume operator derived
+in gr-qc/0405060, making it feasible to implement it on a computer as a matrix
+which is then diagonalized numerically. The resulting eigenvalues serve as a
+database to investigate the spectral properties of the volume operator.
+Analytical results on the spectrum at 4-valent vertices are included. This is a
+companion paper to arXiv:0706.0469, providing details of the analysis presented
+there.

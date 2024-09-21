@@ -1,0 +1,8 @@
+We investigate theoretically the violations of Einstein and Onsager
+relations, and the efficiency for a single processive motor operating far from
+equilibrium using an extension of the two-state model introduced by Kafri {\em
+et al.} [Biophys. J. {\bf 86}, 3373 (2004)]. With the aid of the Fluctuation
+Theorem, we analyze the general features of these violations and this
+efficiency and link them to mechanochemical couplings of motors. In particular,
+an analysis of the experimental data of kinesin using our framework leads to
+interesting predictions that may serve as a guide for future experiments.

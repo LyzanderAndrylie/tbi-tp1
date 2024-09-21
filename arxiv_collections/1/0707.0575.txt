@@ -1,0 +1,5 @@
+The two time-dependent Schrodinger equations in a potential V(s,u), $u$
+denoting time, can be interpreted geometrically as a moving interacting curves
+whose Fermi-Walker phase density is given by -dV/ds. The Manakov model appears
+as two moving interacting curves using extended da Rios system and two Hasimoto
+transformations.

@@ -1,0 +1,16 @@
+We formulate the accuracy of quantum measurement for a qubit system in terms
+of a 3 by 3 matrix. This matrix, which we refer to as the accuracy matrix, can
+be calculated from a positive operator-valued measure (POVM) corresponding to
+the quantum measurement. Based on the accuracy matrix, we derive new trade-off
+relations between the measurement accuracy of two or three noncommuting
+observables of a qubit system. These trade-off relations offer a quantitative
+information-theoretic representation of Bohr's principle of complementarity.
+They can be interpreted as the uncertainty relations between measurement errors
+in simultaneous measurements, and also as the trade-off relations between the
+measurement error and back-action of measurement. A no-cloning inequality is
+derived from the trade-off relations. Furthermore, our formulation and the
+obtained results can be applied to analyze quantum state tomography. We also
+show that the accuracy matrix is closely related to the maximum-likelihood
+estimation and the Fisher information matrix for a finite number of samples;
+the accuracy matrix tells us how accurately we can estimate the probability
+distributions of observables of an unknown state by quantum measurement.

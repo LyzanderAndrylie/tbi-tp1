@@ -1,0 +1,9 @@
+Consider the gradient map associated to any non-constant homogeneous
+polynomial $f\in \C[x_0,...,x_n]$ of degree $d$, defined by \[\phi_f=grad(f):
+D(f)\to \CP^n, (x_0:...:x_n)\to (f_0(x):...:f_n(x))\] where $D(f)=\{x\in \CP^n;
+f(x)\neq 0\}$ is the principal open set associated to $f$ and
+$f_i=\frac{\partial f}{\partial x_i}$. This map corresponds to polar Cremona
+transformations. In Proposition \ref{p1} we give a new lower bound for the
+degree $d(f)$ of $\phi_f$ under the assumption that the projective hypersurface
+$V:f=0 $ has only isolated singularities. When $d(f)=1$, Theorem \ref{t4}
+yields very strong conditions on the singularities of $V$.

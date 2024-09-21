@@ -1,0 +1,11 @@
+We address the interesting temperature range of a glass forming system where
+the mechanical properties are intermediate between those of a liquid and a
+solid. We employ an efficient Monte-Carlo method to calculate the elastic
+moduli, and show that in this range of temperatures the moduli are finite for
+short times and vanish for long times, where `short' and `long' depend on the
+temperature. By invoking some exact results from statistical mechanics we offer
+an alternative method to compute shear moduli using Molecular Dynamics
+simulations, and compare those to the Monte-Carlo method. The final conclusion
+is that these systems are not "viscous fluids" in the usual sense, as their
+actual time-dependence concatenates solid-like materials with varying local
+shear moduli.

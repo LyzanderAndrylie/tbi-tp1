@@ -1,0 +1,11 @@
+Experiments built to search for neutrinoless double beta-decay are limited in
+their sensitivity not only by the exposure but also by the amount of background
+encountered. Radioactive isotopes in the surrounding of the detectors which
+emit gamma-radiation are expected to be a significant source of background in
+the GERmanium Detector Array, GERDA.
+  Methods to select electron induced events and discriminate against photon
+induced events inside a germanium detector are presented in this paper. The
+methods are based on the analysis of the time structure of the detector
+response. Data were taken with a segmented GERDA prototype detector. It is
+shown that the analysis of the time response of the detector can be used to
+distinguish multiply scattered photons from electrons.

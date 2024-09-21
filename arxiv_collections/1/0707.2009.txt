@@ -1,0 +1,7 @@
+We obtain a formula for the distribution of the first exit time of Brownian
+motion from the alcove of an affine Weyl group. In most cases the formula is
+expressed compactly, in terms of Pfaffians. Expected exit times are derived in
+the type \~A case. The results extend to other Markov processes. We also give
+formulas for the real eigenfunctions of the Dirichlet and Neumann Laplacians on
+alcoves, observing that the `Hot Spots' conjecture of J. Rauch is true for
+alcoves.

@@ -1,0 +1,7 @@
+We present a Monte Carlo algorithm for selectively sampling radial
+distribution functions and effective interaction potentials in asymmetric
+liquid mixtures. We demonstrate its efficiency for hard-sphere mixtures, and
+for model systems with more general interactions, and compare our simulations
+with several analytical approximations. For interaction potentials containing a
+hard-sphere contribution, the algorithm yields the contact value of the radial
+distribution function.

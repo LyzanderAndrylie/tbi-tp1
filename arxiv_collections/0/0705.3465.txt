@@ -1,0 +1,23 @@
+We perform a set of non--radiative cosmological simulations of a preheated
+intracluster medium in which the entropy of the gas was uniformly boosted at
+high redshift. The results of these simulations are used first to test the
+current analytic techniques of preheating via entropy input in the smooth
+accretion limit. When the unmodified profile is taken directly from
+simulations, we find that this model is in excellent agreement with the results
+of our simulations. This suggests that preheated efficiently smoothes the
+accreted gas, and therefore a shift in the unmodified profile is a good
+approximation even with a realistic accretion history. When we examine the
+simulation results in detail, we do not find strong evidence for entropy
+amplification, at least for the high-redshift preheating model adopted here. In
+the second section of the paper, we compare the results of the preheating
+simulations to recent observations. We show -- in agreement with previous work
+-- that for a reasonable amount of preheating, a satisfactory match can be
+found to the mass-temperature and luminosity-temperature relations. However --
+as noted by previous authors -- we find that the entropy profiles of the
+simulated groups are much too flat compared to observations. In particular,
+while rich clusters converge on the adiabatic self--similar scaling at large
+radius, no single value of the entropy input during preheating can
+simultaneously reproduce both the core and outer entropy levels. As a result,
+we confirm that the simple preheating scenario for galaxy cluster formation, in
+which entropy is injected universally at high redshift, is inconsistent with
+observations.

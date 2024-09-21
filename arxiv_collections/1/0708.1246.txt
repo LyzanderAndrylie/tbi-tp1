@@ -1,0 +1,5 @@
+We prove that the Deligne-Lusztig varieties associated to elements of the
+Weyl group which are of minimal length in their twisted class are affine. Our
+proof differs from the proof of He and Orlik-Rapoport and it is inspired by the
+case of regular elements, which correspond to the varieties involved in
+Brou\'e's conjectures.

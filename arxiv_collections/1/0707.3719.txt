@@ -1,0 +1,5 @@
+Local minima and the saddle points separating them in the energy landscape
+are known to dominate the dynamics of biopolymer folding. Here we introduce a
+notion of a "folding funnel" that is concisely defined in terms of energy
+minima and saddle points, while at the same time conforming to a notion of a
+"folding funnel" as it is discussed in the protein folding literature.

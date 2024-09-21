@@ -1,0 +1,6 @@
+The pseudospin degree of freedom in a semiconductor bilayer gives rise to a
+collective mode analogous to the ferromagnetic resonance mode of a ferromagnet.
+We present a theory of the dependence of the energy and the damping of this
+mode on layer separation $d$. Based on these results, we discuss the
+possibility of realizing transport-current driven pseudospin-transfer
+oscillators in semiconductors.

@@ -1,0 +1,6 @@
+We propose a criterion for identifying the orientation of the X-line when two
+regions of plasma with arbitrary densities, temperatures, and magnetic fields
+undergo reconnection. The X-line points in the direction that maximizes the
+(suitably-defined) Alfv\'en speed characterizing the reconnection outflow. For
+many situations a good approximation is that the X-line bisects the angle
+formed by the magnetic fields.

@@ -1,0 +1,7 @@
+Wireless networking is rapidly growing and becomes an inexpensive technology
+which allows multiple users to simultaneously access the network and the
+internet while roaming about the campus. In the present work, the software
+development of a wireless LAN(WLAN) is highlighted. This WLAN utilizes direct
+sequence spread spectrum (DSSS) technology at 902MHz RF carrier frequency in
+its physical layer. Cost effective installation and antijaming property of
+spread spectrum technology are the major advantages of this work.

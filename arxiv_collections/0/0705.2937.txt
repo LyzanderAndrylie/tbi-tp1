@@ -1,0 +1,13 @@
+We show that the recently proposed doped carrier Hamiltonian formulation of
+the t-J model should be complemented with the constraint that projects out the
+unphysical states. With this new important ingredient, the previously used and
+seemingly different spin-fermion representations of the t-J model are shown to
+be gauge related to each other. This new constraint can be treated in a
+controlled way close to half-filling suggesting that the doped carrier
+representation provides an appropriate theoretical framework to address the t-J
+model in this region. This constraint also suggests that the t-J model can be
+mapped onto a Kondo-Heisenberg lattice model. Such a mapping highlights
+important physical similarities between the quasi two-dimensional heavy
+fermions and the high-T$_c$ superconductors. Finally we discuss the physical
+implications of our model representation relating in particular the small
+versus large Fermi surface crossover to the closure of the lattice spin gap.

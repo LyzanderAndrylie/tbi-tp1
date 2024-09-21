@@ -1,0 +1,10 @@
+We study atom scattering from two colliding Bose-Einstein condensates using a
+position sensitive, time resolved, single atom detector. In analogy to quantum
+optics, the process can also be thought of as spontaneous, degenerate four wave
+mixing of de Broglie waves. We find a clear correlation between atoms with
+opposite momenta, demonstrating pair production in the scattering process. We
+also observe a Hanbury Brown and Twiss correlation for collinear momenta, which
+permits an independent measurement of the size of the pair production source
+and thus the size of the spatial mode. The back to back pairs occupy very
+nearly two oppositely directed spatial modes, a promising feature for future
+quantum optics experiments.

@@ -1,0 +1,15 @@
+Longitudinal data tracking repeated measurements on individuals are highly
+valued for research because they offer controls for unmeasured individual
+heterogeneity that might otherwise bias results. Random effects or mixed models
+approaches, which treat individual heterogeneity as part of the model error
+term and use generalized least squares to estimate model parameters, are often
+criticized because correlation between unobserved individual effects and other
+model variables can lead to biased and inconsistent parameter estimates.
+Starting with an examination of the relationship between random effects and
+fixed effects estimators in the standard unobserved effects model, this article
+demonstrates through analysis and simulation that the mixed model approach has
+a ``bias compression'' property under a general model for individual
+heterogeneity that can mitigate bias due to uncontrolled differences among
+individuals. The general model is motivated by the complexities of longitudinal
+student achievement measures, but the results have broad applicability to
+longitudinal modeling.

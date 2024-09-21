@@ -1,0 +1,10 @@
+The Walecka many-body field theory is investigated in the context of quantum
+nonextensive statistical mechanics, characterized by a dimensionless parameter
+$q$. We consider nuclear matter described statistically by a power-law
+distribution which generalizes the standard Fermi-Dirac distribution ($q = 1$).
+We show that the scalar and vector meson fields become more intense due to the
+nonextensive effects ($q \neq 1$). From a numerical treatment, we also show
+that as the nonextensive parameter $q$ increases, the nucleon effective mass
+diminishes and the equation of state becomes stiffer. Finally, the usual
+Maxwell construction seems not to be necessary for isotherms with temperatures
+in the range 14 Mev$<k_BT<$20 MeV.

@@ -1,0 +1,6 @@
+We discuss a general procedure to obtain 1/2 BPS partition functions for
+generic N=1 quiver gauge theories. These functions count the gauge invariant
+operators (bosonic and fermionic), charged under all the global symmetries
+(mesonic and baryonic), in the chiral ring of a given quiver gauge theory. In
+particular we discuss the inclusion of the spinor degrees of freedom in the
+partition functions.

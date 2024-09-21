@@ -1,0 +1,15 @@
+The Schramm-Loewner evolution (SLE) describes the continuum limit of domain
+walls at phase transitions in two dimensional statistical systems. We consider
+here the SLEs in the self-dual Z(N) spin models at the critical point. For N=2
+and N=3 these models correspond to the Ising and three-state Potts model. For
+N>5 the critical self-dual Z(N) spin models are described in the continuum
+limit by non-minimal conformal field theories with central charge c>=1. By
+studying the representations of the corresponding chiral algebra, we show that
+two particular operators satisfy a two level null vector condition which, for
+N>=4, presents an additional term coming from the extra symmetry currents
+action. For N=2,3 these operators correspond to the boundary conditions
+changing operators associated to the SLE_{16/3} (Ising model) and to the
+SLE_{24/5} and SLE_{10/3} (three-state Potts model). We suggest a definition of
+the interfaces within the Z(N) lattice models. The scaling limit of these
+interfaces is expected to be described at the self-dual critical point and for
+N>=4 by the SLE_{4(N+1)/(N+2)} and SLE_{4(N+2)/(N+1)} processes.

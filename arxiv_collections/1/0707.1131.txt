@@ -1,0 +1,14 @@
+We systematically investigate the universal spin decoherence dynamics of a
+localized electron in an arbitrary nuclear spin bath, which can be even far
+away from equilibrium due to the weak nuclear-lattice interaction. We show that
+the electron spin relaxation dynamics (as well as spin pure dephasing and Hahn
+echo decay) can {\it always} have a universal behavior as long as the initial
+state is composed of a sufficiently large amount of spin eigenstates. For a
+given system, the pattern of the universal dynamics depends on the complicated
+initial condition only via a {\it single} parameter, which measures the amount
+of phase coherence between different spin eigenstates in the initial state. Our
+results apply even when the number of the involved nuclei is not large, and
+therefore provide a solid foundation in the comparison of theoretical/numerical
+results with the experimental measurement. As an example, we also show
+numerical results for systems of noninteracting spin bath in zero magnetic
+field regime, and discuss the features of universal decoherent dynamics.

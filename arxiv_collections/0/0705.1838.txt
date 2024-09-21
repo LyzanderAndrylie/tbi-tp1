@@ -1,0 +1,10 @@
+Time evolution of the cities and of the languages is considered in terms of
+multiplicative noise and fragmentation processes; where power law (Pareto-Zipf
+law) and slightly asymmetric log-normal (Gauss) distribution result for the
+size distribution of the cities and for that of the languages, respectively.
+The cities and the languages are treated differently (and as connected; for
+example, the languages split in terms of splitting the cities, etc.) and thus
+two distributions are obtained in the same computation at the same time.
+Evolutions of lifetimes and families for the cities and the languages are also
+studied. We suggest that the regularities may be evolving out of randomness, in
+terms of the relevant processes.

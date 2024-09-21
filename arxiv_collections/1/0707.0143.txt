@@ -1,0 +1,8 @@
+This is an expos\'e on the use of O'Sullivan penalised splines in
+contemporary semiparametric regression, including mixed model and Bayesian
+formulations. O'Sullivan penalised splines are similar to P-splines, but have
+an advantage of being a direct generalisation of smoothing splines. Exact
+expressions for the O'Sullivan penalty matrix are obtained. Comparisons between
+the two reveals that O'Sullivan penalised splines more closely mimic the
+natural boundary behaviour of smoothing splines. Implementation in modern
+computing environments such as Matlab, R and BUGS is discussed.

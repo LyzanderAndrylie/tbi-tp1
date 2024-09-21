@@ -1,0 +1,12 @@
+We report the detection of a massive (M(gas) > 5x10^9 Msun) molecular/dusty
+disk of 1.4kpc-size fueling the central engine of the Compact Symmetric Object
+(CSO) 4C31.04 based on high-resolution (0.5''--1.2'') observations done with
+the IRAM Plateau de Bure interferometer (PdBI). These observations allow for
+the first time to detect and map the continuum emission from dust at 218GHz in
+the disk of a CSO. The case for a massive disk is confirmed by the detection of
+strong HCO+(1--0) line emission and absorption. The molecular gas mass of
+4C31.04 is in the range 0.5x10^10--5x10^10Msun. While the distribution and
+kinematics of the gas correspond roughly to those of a rotating disk, we find
+evidence of distortions and non-circular motions suggesting that the disk is
+not in a dynamically relaxed state. We discuss the implications of these
+results for the general understanding of the evolution of radio galaxies.

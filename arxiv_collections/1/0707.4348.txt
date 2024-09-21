@@ -1,0 +1,7 @@
+An antiferromagnetic (AF) spin fluctuation induced pairing model is proposed
+for the electron-doped cuprate superconductors. It suggests that, similar to
+the hole-doped side, the superconducting gap function is monotonic
+d_{x^2-y^2}-wave and explains why the observed gap function has a nonmonotonic
+d_{x^2-y^2}-wave behavior when an AF order is taken into account. Dynamical
+spin susceptibility is calculated and shown to be in good agreement with the
+experiment. This gives a strong support to the proposed model.

@@ -1,0 +1,8 @@
+We present here a new method, MMF, for automatically segmenting cosmic
+structure into its basic components: clusters, filaments, and walls.
+Importantly, the segmentation is scale independent, so all structures are
+identified without prejudice as to their size or shape. The method is ideally
+suited for extracting catalogues of clusters, walls, and filaments from samples
+of galaxies in redshift surveys or from particles in cosmological N-body
+simulations: it makes no prior assumptions about the scale or shape of the
+structures.}

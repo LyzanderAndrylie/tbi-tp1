@@ -1,0 +1,19 @@
+The cosmic microwave background (CMB) is a relic radiation of the Big Bang
+and as such it contains a wealth of cosmological information. Statistical
+analyses of the CMB, in conjunction with other cosmological observables,
+represent some of the most powerful techniques available to cosmologists for
+placing strong constraints on the cosmological parameters that describe the
+origin, content and evolution of the Universe. The last decade has witnessed
+the introduction of wavelet analyses in cosmology and, in particular, their
+application to the CMB. We review here spherical wavelet analyses of the CMB
+that test the standard cosmological concordance model. The assumption that the
+temperature anisotropies of the CMB are a realisation of a statistically
+isotropic Gaussian random field on the sphere is questioned. Deviations from
+both statistical isotropy and Gaussianity are detected in the reviewed works,
+suggesting more exotic cosmological models may be required to explain our
+Universe. We also review spherical wavelet analyses that independently provide
+evidence for dark energy, an exotic component of our Universe of which we know
+very little currently. The effectiveness of accounting correctly for the
+geometry of the sphere in the wavelet analysis of full-sky CMB data is
+demonstrated by the highly significant detections of physical processes and
+effects that are made in these reviewed works.

@@ -1,0 +1,12 @@
+We consider a class of nonlinear differential equations that arises in the
+study of chemical reaction systems that are known to be locally asymptotically
+stable and prove that they are in fact globally asymptotically stable. More
+specifically, we will consider chemical reaction systems that are weakly
+reversible, have a deficiency of zero, and are equipped with mass action
+kinetics. We show that if for each $c \in \R_{> 0}^m$ the intersection of the
+stoichiometric compatibility class $c + S$ with the subsets on the boundary
+that could potentially contain equilibria, $L_W$, are at most discrete, then
+global asymptotic stability follows. Previous global stability results for the
+systems considered in this paper required $(c + S) \cap L_W = \emptyset$ for
+each $c \in \R^m_{> 0}$, and so this paper can be viewed as an extension of
+those works.

@@ -1,0 +1,16 @@
+The network of resonant bar detectors of gravitational waves resumed
+coordinated observations within the International Gravitational Event
+Collaboration (IGEC-2). Four detectors are taking part in this collaboration:
+ALLEGRO, AURIGA, EXPLORER and NAUTILUS. We present here the results of the
+search for gravitational wave bursts over 6 months during 2005, when IGEC-2 was
+the only gravitational wave observatory in operation. The network data analysis
+implemented is based on a time coincidence search among AURIGA, EXPLORER and
+NAUTILUS, keeping the data from ALLEGRO for follow-up studies. With respect to
+the previous IGEC 1997-2000 observations, the amplitude sensitivity of the
+detectors to bursts improved by a factor about 3 and the sensitivity bandwidths
+are wider, so that the data analysis was tuned considering a larger class of
+detectable waveforms. Thanks to the higher duty cycles of the single detectors,
+we decided to focus the analysis on three-fold observation, so to ensure the
+identification of any single candidate of gravitational waves (gw) with high
+statistical confidence. The achieved false detection rate is as low as 1 per
+century. No candidates were found.

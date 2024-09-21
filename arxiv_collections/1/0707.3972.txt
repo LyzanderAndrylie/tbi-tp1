@@ -1,0 +1,7 @@
+This dissertation presents several new methods of supervised and unsupervised
+learning of word sense disambiguation models. The supervised methods focus on
+performing model searches through a space of probabilistic models, and the
+unsupervised methods rely on the use of Gibbs Sampling and the Expectation
+Maximization (EM) algorithm. In both the supervised and unsupervised case, the
+Naive Bayesian model is found to perform well. An explanation for this success
+is presented in terms of learning rates and bias-variance decompositions.

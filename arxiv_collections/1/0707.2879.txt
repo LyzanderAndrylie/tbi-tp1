@@ -1,0 +1,10 @@
+We study spin accumulation and spin relaxation in a superconducting nanowire.
+Spins are injected and detected by using a set of magnetic tunnel contact
+electrodes, closely spaced along the nanowire. We observe a giant enhancement
+of the spin accumulation of up to five orders of magnitude on transition into
+the superconducting state, consistent with the expected changes in the density
+of states. The spin relaxation length decreases by an order of magnitude from
+its value in the normal state. These measurements combined with our theoretical
+model, allow us to distinguish the individual spin flip mechanisms present in
+the transport channel. Our conclusion is that magnetic impurities rather than
+spin-orbit coupling dominate spin-flip scattering in the superconducting state.

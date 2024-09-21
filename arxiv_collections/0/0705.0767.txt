@@ -1,0 +1,13 @@
+My project computed the one loop fermion self-energy for massless Dirac +
+Einstein in the presence of a locally de Sitter background. I employed
+dimensional regularization and obtain a fully renormalized result by absorbing
+all divergences with Bogliubov, Parasiuk, Hepp and Zimmermann (BPHZ)
+counterterms. An interesting technical aspect of my computation was the need
+for a noninvariant counterterm, owing to the breaking of de Sitter invariance
+by our gauge condition. I also solved the effective Dirac equation for massless
+fermions during inflation in the simplest gauge, including all one loop
+corrections from quantum gravity. At late times the result for a spatial plane
+wave behaves as if the classical solution were subjected to a time-dependent
+field strength renormalization of Z_2(t) = 1 - 17(4 pi) *G H^2 *ln(a) + O(G^2).
+I showed that this also follows from making the Hartree approximation, although
+the numerical coefficients differ.

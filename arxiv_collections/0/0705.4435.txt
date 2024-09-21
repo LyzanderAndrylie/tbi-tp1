@@ -1,0 +1,9 @@
+The two-band Hubbard model is used to analyze a possibility of a non-uniform
+charge distribution in a strongly correlated electron system with two types of
+charge carriers. It is demonstrated that in the limit of strong on-site Coulomb
+repulsion, such a system has a tendency to phase separation into the regions
+with different charge densities even in the absence of magnetic or any other
+ordering. This tendency is especially pronounced if the ratio of the bandwidths
+is large enough. The characteristic size of inhomogeneities is estimated
+accounting for the surface energy and the electrostatic energy related to the
+charge imbalance.

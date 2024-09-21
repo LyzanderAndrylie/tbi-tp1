@@ -1,0 +1,13 @@
+In this series of three papers we present results from a combined
+experimental and theoretical effort to quantitatively describe capacitively
+coupled radio-frequency discharges in oxygen. The particle-in-cell Monte-Carlo
+model on which the theoretical description is based will be described in the
+present paper. It treats space charge fields and transport processes on an
+equal footing with the most important plasma-chemical reactions. For given
+external voltage and pressure, the model determines the electric potential
+within the discharge and the distribution functions for electrons, negatively
+charged atomic oxygen, and positively charged molecular oxygen. Previously used
+scattering and reaction cross section data are critically assessed and in some
+cases modified. To validate our model, we compare the densities in the bulk of
+the discharge with experimental data and find good agreement, indicating that
+essential aspects of an oxygen discharge are captured.

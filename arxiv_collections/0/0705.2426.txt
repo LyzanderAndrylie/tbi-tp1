@@ -1,0 +1,12 @@
+The vortex density of a rotating superfluid, divided by its particle mass,
+dictates the superfluid's angular velocity through the Feynman relation. To
+find how the Feynman relation applies to superfluid mixtures, we investigate a
+rotating two-component Bose-Einstein condensate, composed of bosons with
+different masses. We find that in the case of sufficiently strong interspecies
+attraction, the vortex lattices of the two condensates lock and rotate at the
+drive frequency, while the superfluids themselves rotate at two different
+velocities, whose ratio is the ratio between the particle mass of the two
+species. In this paper, we characterize the vortex-locked state, establish its
+regime of stability, and find that it surives within a disk smaller than a
+critical radius, beyond which vortices become unbound, and the two Bose-gas
+rings rotate together at the frequency of the external drive.

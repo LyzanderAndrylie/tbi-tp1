@@ -1,0 +1,14 @@
+We analyze a recently proposed method to create fractional quantum Hall (FQH)
+states of atoms confined in optical lattices [A. S{\o}rensen {\it et al.},
+Phys. Rev. Lett. {\bf 94} 086803 (2005)]. Extending the previous work, we
+investigate conditions under which the FQH effect can be achieved for bosons on
+a lattice with an effective magnetic field and finite onsite interaction.
+Furthermore, we characterize the ground state in such systems by calculating
+Chern numbers which can provide direct signatures of topological order and
+explore regimes where the characterization in terms of wavefunction overlap
+fails. We also discuss various issues which are relevant for the practical
+realization of such FQH states with ultracold atoms in an optical lattice,
+including the presence of the long-range dipole interaction which can improve
+the energy gap and stabilize the ground state. We also investigate a new
+detection technique based on Bragg spectroscopy to probe these system in an
+experimental realization.

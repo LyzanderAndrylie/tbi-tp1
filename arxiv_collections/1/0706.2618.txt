@@ -1,0 +1,13 @@
+Density of states, dynamic (optical) conductivity and phase diagram of
+strongly correlated and strongly disordered paramagnetic Anderson-Hubbard model
+are analyzed within the generalized dynamical mean field theory (DMFT+\Sigma
+approximation). Strong correlations are accounted by DMFT, while disorder is
+taken into account via the appropriate generalization of self-consistent theory
+of localization. The DMFT effective single impurity problem is solved by
+numerical renormalization group (NRG) and we consider the three-dimensional
+system with semi-elliptic density of states. Correlated metal, Mott insulator
+and correlated Anderson insulator phases are identified via the evolution of
+density of states and dynamic conductivity, demonstrating both Mott-Hubbard and
+Anderson metal-insulator transition and allowing the construction of complete
+zero-temperature phase diagram of Anderson-Hubbard model. Rather unusual is the
+possibility of disorder induced Mott insulator to metal transition.

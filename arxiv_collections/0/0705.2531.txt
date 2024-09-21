@@ -1,0 +1,15 @@
+Given the extensive application of classical random walks to classical
+algorithms in a variety of fields, their quantum analogue in quantum walks is
+expected to provide a fruitful source of quantum algorithms. So far, however,
+such algorithms have been scarce. In this work, we enumerate some important
+differences between quantum and classical walks, leading to their markedly
+different properties. We show that for many practical purposes, the
+implementation of quantum walks can be efficiently achieved using a classical
+computer. We then develop both classical and quantum graph isomorphism
+algorithms based on discrete-time quantum walks. We show that they are
+effective in identifying isomorphism classes of large databases of graphs, in
+particular groups of strongly regular graphs. We consider this approach to
+represent a promising candidate for an efficient solution to the graph
+isomorphism problem, and believe that similar methods employing quantum walks,
+or derivatives of these walks, may prove beneficial in constructing other
+algorithms for a variety of purposes.

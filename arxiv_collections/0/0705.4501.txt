@@ -1,0 +1,11 @@
+We use resonant soft x-ray scattering to study electronic reconstruction at
+the interface between the Mott insulator LaMnO3 and the "band" insulator
+SrMnO3. Superlattices of these two insulators were shown previously to have
+both ferromagnetism and metallic tendencies [Koida et al., Phys. Rev. B 66,
+144418 (2002)]. By studying a judiciously chosen superlattice reflection we
+show that the interface density of states exhibits a pronounced peak at the
+Fermi level, similar to that predicted by Okamoto et al. [Phys. Rev. B 70,
+241104(R) (2004)]. The intensity of this peak correlates with the conductivity
+and magnetization, suggesting it is the driver of metallic behavior. Our study
+demonstrates a general strategy for using RSXS to probe the electronic
+properties of heterostructure interfaces.

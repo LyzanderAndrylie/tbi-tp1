@@ -1,0 +1,17 @@
+We calculate the transverse momentum Q_{\perp} dependence of the helicity
+structure functions for the hadroproduction of a massive pair of leptons with
+pair invariant mass Q. These structure functions determine the angular
+distribution of the leptons in the pair rest frame. Unphysical behavior in the
+region Q_{\perp} --> 0 is seen in the results of calculations done at
+fixed-order in QCD perturbation theory. We use current conservation to
+demonstrate that the unphysical inverse-power and \ln(Q/Q_{\perp}) logarithmic
+divergences in three of the four independent helicity structure functions share
+the same origin as the divergent terms in fixed-order calculations of the
+angular-integrated cross section. We show that the resummation of these
+divergences to all orders in the strong coupling strength \alpha_s can be
+reduced to the solved problem of the resummation of the divergences in the
+angular-integrated cross section, resulting in well-behaved predictions in the
+small Q_{\perp} region. Among other results, we show the resummed part of the
+helicity structure functions preserves the Lam-Tung relation between the
+longitudinal and double spin-flip structure functions as a function of
+Q_{\perp} to all orders in \alpha_s.

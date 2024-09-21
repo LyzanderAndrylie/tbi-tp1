@@ -1,0 +1,5 @@
+We show that the characters of all highest weight modules over an affine Lie
+algebra with the highest weight away from the critical hyperplane are
+meromorphic functions in the positive half of Cartan subalgebra, their
+singularities being at most simple poles at zeros of real roots. We obtain some
+information about these singularities.

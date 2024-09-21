@@ -1,0 +1,16 @@
+We use the Hartree-Fock method to study an interacting one-dimensional
+electron system on a finite wire, partially depleted at the center by a smooth
+potential barrier. A uniform one-Tesla Zeeman field is applied throughout the
+system. We find that with the increase in the potential barrier, the low
+density electrons under it go from a non-magnetic state to an antiferromagnetic
+state, and then to a state with a well-localized spin-aligned region isolated
+by two antiferromagnetic regions from the high density leads. At this final
+stage, in response to a continuously increasing barrier potential, the system
+undergoes a series of abrupt density changes, corresponding to the successive
+expulsion of a single electron from the spin-aligned region under the barrier.
+Motivated by the recent momentum-resolved tunneling experiments in a parallel
+wire geometry, we also compute the momentum resolved tunneling matrix elements.
+Our calculations suggest that the eigenstates being expelled are spatially
+localized, consistent with the experimental observations. However, additional
+mechanisms are needed to account for the experimentally observed large spectral
+weight at near $k=0$ in the tunneling matrix elements.

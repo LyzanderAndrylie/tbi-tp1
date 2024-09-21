@@ -1,0 +1,24 @@
+The fast changing reality in technical and natural domains perceived by
+always more accurate observations has drawn attention on new and very broad
+class of systems with specific behaviour represented under the common wording
+complexity. From elementary system graph representation with components as
+nodes and interactions as vertices, systems are shown to belong to only three
+states : simple, complicated, and complex, the main properties of which are
+discussed. The first two states have been studied at length over past
+centuries, and last one finds its origin in the elementary fact that when
+system performance is pushed up, there exists a threshold above which
+interaction between components overtake outside interaction. Then system
+self-organizes and filters corresponding outer action, making it more robust to
+outer effect, with emergence of new behaviour not predictable from only
+components study. Examples in Physics and Biology are given. Three main classes
+of complexity behaviour are distinguished corresponding to different grades of
+difficulty to handle their dynamics. The interest of using complex state
+properties in man-made systems is stressed. Important issues concentrating on
+the difficult balance between relative system isolation when becoming complex
+and required delegation of corresponding new capability from (outside) operator
+are discussed. This implies giving the system some intelligence in an adequate
+frame between new augmented system state and supervising operator, with
+consequences on canonical system triplet {effector-sensor-controller} to be
+reorganized in this new setting. Moreover, entering complexity state opens the
+possibility for function to feedback onto structure, ie to mimic at technical
+level the invention of Nature over Her very long history.

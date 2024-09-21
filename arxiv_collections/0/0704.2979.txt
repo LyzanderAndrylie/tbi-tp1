@@ -1,0 +1,12 @@
+The Kondo effect observed in recent STM experiments on transport through CoPc
+and TBrPP-Co molecules adsorbed on Au(111) and Cu(111) surfaces, respectively,
+is discussed within the framework of a simple model (Phys. Rev. Lett. {\bf 97},
+076806 (2006)). It is shown that, in the Kondo regime and by varying the
+adequate model parameters, it is possible to produce a crossover from a
+conductance Kondo peak (CoPc) to a conductance Fano dip (TBrPP-Co). In the case
+of TBrPP-Co/Cu(111) we show that the model reproduces the changes in the shape
+of the Fano dip, the raising of the Kondo temperature and shifting to higher
+energies of the dip minimum when the number of nearest neighbors molecules is
+lowered. These features are in line with experimental observations indicating
+that our simple model contains the essential physics underlying the transport
+properties of such complex molecules.

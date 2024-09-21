@@ -1,0 +1,4 @@
+We consider pairs of toral automorphisms (A,B) satisfying an invariant cone
+property. At each iteration, A acts with probability p and B with probability
+1-p. We prove exponential decay of correlations for a class of Holder
+continuous observables.

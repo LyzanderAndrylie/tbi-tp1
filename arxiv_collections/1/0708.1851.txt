@@ -1,0 +1,12 @@
+We report influence of encapsulated C60 molecules on electron transport in
+carbon-nanotube peapod quantum dots. We find atomic-like behaviors with doubly
+degenerate electronic levels, which exist only around ground states, by single
+electron spectroscopy measured at low back-gate voltages (Vbg). Correlation
+with presence of nearly free electrons (NFEs) unique to the peapods is
+discussed. Moreover, we find anomalously high values of power a observed in
+power laws in conductance versus energy relationships, which are strongly
+associated with the doubly degenerate levels. It is revealed that the powers
+originate from Tomonaga-Luttinger liquid via the occupied doubly degenerate
+levels. Our observations clarify that the encapsulated C60 molecules form
+doubly degenerate levels only at ground state in peapod quantum dots and do not
+eliminate a ballistic charge transport.

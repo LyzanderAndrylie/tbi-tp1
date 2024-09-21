@@ -1,0 +1,5 @@
+A simple method called symbolic representation for piecewise linear functions
+on the real line is introduced and used to compute the numbers of periodic
+points of all periods for some such functions. Since, for every positive
+integer m, the number of periodic points of minimal period m must be divisible
+by m, we obtain infinitely many congruence identities.

@@ -1,0 +1,13 @@
+With a sample of 232x10^6 Upsilon(4S)->BBbar events collected with the BaBar
+detector, we study the decays of B mesons to ppbarh final states, where
+h=pi+,Ks,K*0 or K*+. We report evidence for the B->ppbarK*0 decay, with a
+branching fraction (1.5+/-0.5(stat)+/-0.4(syst))x10^-6, and for the
+B+->eta_cK*+ decay, with the branching fraction of
+Br(B+->eta_cK*+)xBr(eta_c->ppbar)=(1.57^{+0.56}_{-0.45}(stat)^{+0.46}_{-0.36}(syst))x10^-6,
+and provide improved measurements of the branching fractions of the other modes
+of this type. We also report the measurements of the charge asymmetry
+consistent with zero in the B+->ppbarpi+, B0->ppbarK*0 and B+->ppbarK*+ modes.
+No evidence is found for the pentaquark candidate Theta+ in the mass range 1.52
+to 1.55 GeV/c^2, decaying into pKs, or the glueball candidate fJ(2220) in the
+mass range 2.2<mppbar<2.4GeV/c^2, and branching fraction limits are established
+for both at the 10^-7 level.

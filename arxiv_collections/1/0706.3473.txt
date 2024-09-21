@@ -1,0 +1,5 @@
+We give a framework to describe gauge theory in which a nonassociative
+Moufang loop takes the place of the structure group. The structure of such
+gauge theory has many formal similarities with that of Yang-Mills theory. We
+extend the gauge invariance to this theory and construct an on-shell version of
+N=1 supersymmetric gauge theory.

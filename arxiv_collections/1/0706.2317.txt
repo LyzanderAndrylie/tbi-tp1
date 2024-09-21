@@ -1,0 +1,14 @@
+We present measurements of decay matrix elements for hadronic transitions of
+the form Upsilon(nS) -> pi pi Upsilon(mS) where (n, m) = (3, 1), (2, 1), and
+(3, 2). We reconstruct charged and neutral pion modes with the final state
+Upsilon decaying to either mu+mu- or e+e-. Dalitz plot distributions for the
+twelve decay modes are fit individually as well as jointly assuming isospin
+symmetry, thereby measuring the matrix elements of the decay amplitude. We
+observe and account for the anomaly previously noted in the di-pion invariant
+mass distribution for the Upsilon(3S) -> pi pi Upsilon(1S) transition and
+obtain good descriptions of the dynamics of the decay using the most general
+decay amplitude allowed by partial conservation of the axial-vector current
+(PCAC) considerations. The fits further indicate that the Upsilon(2S) -> pi pi
+Upsilon(1S) and Upsilon(3S) -> pi pi Upsilon(2S) transitions also show the
+presence of terms in the decay amplitude that were previously ignored, although
+at a relatively suppressed level.

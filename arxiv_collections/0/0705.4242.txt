@@ -1,0 +1,14 @@
+This paper considers a "striking outwards" reed coupled to a resonator. This
+expression, due to Helmholtz, is not discussed here : it corresponds to the
+most common model of a lip-type valve, when the valve is assumed to be a one
+degree of freedom oscillator. The presented work is an extension of the works
+done by Wilson and Beavers (1974), Tarnopolsky (2000). The range of the playing
+frequencies is investigated. The first results are analytical : when no losses
+are present in the resonator, it is proven that the ratio between the threshold
+frequency and the reed resonance frequency is found to be necessarily within
+the interval between unity and the square root of 3. This is a musical sixth.
+Actually the interval is largely smaller, and this is in accordance with e.g.
+the results by Cullen et al.. The smallest blowing pressure is found to be
+directly related to the quality factor of the reed. Numerical results confirm
+these statements, and are discussed in comparison with previous ones by Cullen
+et al (2000).

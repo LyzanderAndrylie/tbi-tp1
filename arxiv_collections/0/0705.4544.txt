@@ -1,0 +1,10 @@
+We present a compact $^{87}$Rb atomic source for high precision dual atom
+interferometers. The source is based on a double-stage magneto-optical trap
+(MOT) design, consisting of a 2-dimensional (2D)-MOT for efficient loading of a
+3D-MOT. The accumulated atoms are precisely launched in a horizontal moving
+molasses. Our setup generates a high atomic flux ($>10^{10}$ atoms/s) with
+precise and flexibly tunable atomic trajectories as required for high
+resolution Sagnac atom interferometry. We characterize the performance of the
+source with respect to the relevant parameters of the launched atoms, i.e.
+temperature, absolute velocity and pointing, by utilizing time-of-flight
+techniques and velocity selective Raman transitions.

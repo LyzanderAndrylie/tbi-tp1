@@ -1,0 +1,22 @@
+In this thesis, two different aspects of asymptotically charged rotating
+black branes in various dimensions are studied. In the first part, the
+thermodynamics of these spacetimes is investigated, while in the second part
+the no hair theorem for these spacetimes in four dimensions is considered. In
+part I, first, the Euclidean actions of a d-dimensional charged rotating black
+brane are computed through the use of the counterterms renormalization method
+both in the canonical and the grand-canonical ensemble, and it is shown that
+the logarithmic divergencies associated to the Weyl anomalies and matter field
+vanish. Second, a Smarr-type formula for the mass as a function of the entropy,
+the angular momenta and the electric charge is obtained, which shows that these
+quantities satisfy the first law of thermodynamics. Third, by using the
+conserved quantities and the Euclidean actions, the thermodynamics potentials
+of the system in terms of the temperature, the angular velocities and the
+electric potential are obtained both in the canonical and the grand-canonical
+ensemble. Fourth, a stability analysis in these two ensembles is performed,
+which shows that the system is thermally stable. This is in commensurable with
+the fact that there is no Hawking-Page phase transition for black object with
+zero curvature horizon. Finally, the logarithmic correction of the entropy due
+to the thermal fluctuation around the equilibrium is calculated. In part II,
+the cosmological defects are studied, and it is shown that the Abelian Higgs
+field equations in the background of a four-dimensional rotating charged black
+string have vortex solutions.

@@ -1,0 +1,14 @@
+We have carried out neutron powder-diffraction measurements on zinc
+paratacamite Zn$_x$Cu$_{4-x}$(OH)$_6$Cl$_2$ with $x=1$, and studied the heat
+capacity in fields of up to 9 T for $0.5 \leq x \leq 1$. The $x=1$ phase has
+recently been shown to be an outstanding realisation of the $S=1/2$ kagom\'{e}
+antiferromagnet. A weak mixing of Cu$^{2+}$/Zn$^{2+}$ between the Cu and the Zn
+sites, corresponding to $\sim 9$% of all Cu$^{2+}$ for $x=1$, is observed using
+neutron diffraction. This ``antisite disorder'' provides a consistent
+explanation of the field dependence of the heat capacity for $0.8 \leq x \leq
+1$. From comparison of the derived Cu$^{2+}$ occupancy of the Zn sites for $x =
+0.8... 1$ with the magnetic susceptibility, we argue that for $x = 0.8... 1$
+zinc paratacamite is a spin liquid without a spin gap. The presence of unpaired
+but nevertheless strongly interacting spins gives rise to a macroscopically
+degenerate ground state manifold, with increasingly glassy dynamics as $x$ is
+lowered.

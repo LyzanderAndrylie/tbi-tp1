@@ -1,0 +1,11 @@
+The multiobjective optimization of Slide-o-Cam is reported in this paper.
+Slide-o-Cam is a cam mechanism with multiple rollers mounted on a common
+translating follower. This transmission provides pure-rolling motion, thereby
+reducing the friction of rack-and-pinions and linear drives. A Pareto frontier
+is obtained by means of multiobjective optimization. This optimization is based
+on three objective functions: (i) the pressure angle, which is a suitable
+performance index for the transmission because it determines the amount of
+force transmitted to the load vs. that transmitted to the machine frame; (ii)
+the Hertz pressure used to evaluate the stresses produced on the contact
+surface between cam and roller; and (iii) the size of the mechanism,
+characterized by the number of cams and their width.

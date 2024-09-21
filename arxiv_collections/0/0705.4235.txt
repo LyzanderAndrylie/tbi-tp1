@@ -1,0 +1,12 @@
+An analytical formula is obtained to describe the evolution of the average
+populations of spin components of spin-1 atomic gases. The formula is derived
+from the exact time-dependent solution of the Hamiltonian $H_{S}=c
+mathbf{S}^{2}$ without using approximation. Therefore it goes beyond the mean
+field theory and provides a general, accurate, and complete description for the
+whole process of non-dissipative evolution starting from various initial
+states. The numerical results directly given by the formula coincide
+qualitatively well with existing experimental data, and also with other
+theoretical results from solving dynamic differential equations. For some
+special cases of initial state, instead of undergoing strong oscillation as
+found previously, the evolution is found to go on very steadily in a very long
+duration.

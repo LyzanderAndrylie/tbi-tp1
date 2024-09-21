@@ -1,0 +1,19 @@
+A three-dimensional system of interacting spins typically develops static
+long-range order when it is cooled. If the spins are quantum (S = 1/2),
+however, novel quantum paramagnetic states may appear. The most highly sought
+state among them is the resonating valence bond (RVB) state in which every pair
+of neighboring quantum spins form entangled spin singlets (valence bonds) and
+the singlets are quantum mechanically resonating amongst all the possible
+highly degenerate pairing states. Here we provide experimental evidence for
+such quantum paramagnetic states existing in frustrated antiferromagnets,
+ZnxCu4-x(OD)6Cl2, where the S = 1/2 magnetic Cu2+ moments form layers of a
+two-dimensional kagome lattice. We find that in Cu4(OD)6Cl2, where distorted
+kagome planes are weakly coupled to each other, a dispersionless excitation
+mode appears in the magnetic excitation spectrum below ~ 20 K, whose
+characteristics resemble those of quantum spin singlets in a solid state, known
+as a valence bond solid (VBS), that breaks translational symmetry. Doping
+nonmagnetic Zn2+ ions reduces the distortion of the kagome lattice, and weakens
+the interplane coupling but also dilutes the magnetic occupancy of the kagome
+lattice. The VBS state is suppressed and for ZnCu3(OD)6Cl2 where the kagome
+planes are undistorted and 90% occupied by the Cu2+ ions, the low energy spin
+fluctuations in the spin liquid phase become featureless.

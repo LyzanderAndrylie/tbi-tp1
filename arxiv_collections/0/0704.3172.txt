@@ -1,0 +1,11 @@
+We consider a stiff polymer chain in poor solvent and apply a force at one
+end of the chain. We find that by varying the stiffness parameter, polymer
+undergoes a transition from the globule state to the folded like state. The
+conformation of folded state mimics the $\beta$-sheet as seen in titin
+molecule. Using exact enumeration technique, we study the extension-force and
+force-temperature diagrams of such a system. Force-temperature diagram shows
+the re-entrance behaviour for flexible chain. However, for stiff chain this
+re-entrance behaviour is absent and there is an enhancement in
+$\theta$-temperature with the rise of stiffness. We further propose that the
+internal information about the frozen structure of polymer can be read from the
+distribution of end-to-end distance which shows saw-tooth like behaviour.

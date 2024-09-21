@@ -1,0 +1,8 @@
+We consider spin-1/2 fermions of mass m with interactions near the unitary
+limit. In an applied periodic potential of amplitude V and period a, and with a
+density of an even integer number of fermions per unit cell, there is a
+second-order quantum phase transition between superfluid and insulating ground
+states at a critical V=Vc. We compute the universal ratio Vc m a^2 / h^2 at
+N=infinity in a model with Sp(2N) spin symmetry. The insulator interpolates
+between a band insulator of fermions and a Mott insulator of fermion pairs. We
+discuss implications for recent experiments.

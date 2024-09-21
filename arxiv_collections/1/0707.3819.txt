@@ -1,0 +1,10 @@
+We report the existence of zero energy surface states localized at zigzag
+edges of bilayer graphene. Working within the tight-binding approximation we
+derive the analytic solution for the wavefunctions of these peculiar surface
+states. It is shown that zero energy edge states in bilayer graphene can be
+divided into two families: (i) states living only on a single plane, equivalent
+to surface states in monolayer graphene; (ii) states with finite amplitude over
+the two layers, with an enhanced penetration into the bulk. The bulk and
+surface (edge) electronic structure of bilayer graphene nanoribbons is also
+studied, both in the absence and in the presence of a bias voltage between
+planes.

@@ -1,0 +1,24 @@
+During accretion a neutron star (NS) is spun up as angular momentum is
+transported through its surface layers. We study the resulting differentially
+rotating profile, focusing on the impact this has for type I X-ray bursts. The
+predominant viscosity is likely provided by the Tayler-Spruit dynamo. The
+radial and azimuthal magnetic field components have strengths of ~10^5 G and
+~10^10 G, respectively. This leads to nearly uniform rotation at the depths of
+interest for X-ray bursts. A remaining small shear transmits the accreted
+angular momentum inward to the NS interior. Though this shear gives little
+viscous heating, it can trigger turbulent mixing. Detailed simulations will be
+required to fully understand the consequences of mixing, but our models
+illustrate some general features. Mixing has the greatest impact when the
+buoyancy at the compositional discontinuity between accreted matter and ashes
+is overcome. This occurs at high accretion rates, at low spin frequencies, or
+may depend on the ashes from the previous burst. We then find two new regimes
+of burning. The first is ignition in a layer containing a mixture of heavier
+elements from the ashes. If ignition occurs at the base of the mixed layer,
+recurrence times as short as ~5-30 minutes are possible. This may explain the
+short recurrence time of some bursts, but incomplete burning is still needed to
+explain these bursts' energetics. When mixing is sufficiently strong, a second
+regime is found where accreted helium mixes deep enough to burn stably,
+quenching X-ray bursts. We speculate that the observed change in X-ray burst
+properties near one-tenth the Eddington accretion rate is from this mechanism.
+The carbon-rich material produced by stable helium burning would be important
+for triggering and fueling superbursts. (abridged)

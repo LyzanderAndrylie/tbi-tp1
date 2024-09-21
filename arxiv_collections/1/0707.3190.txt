@@ -1,0 +1,8 @@
+We consider fields in (D>2)-dimensional spacetime, whose potential is r-form
+(skew-symmetric tensor of rank r), the field tensor F being its exterior
+derivative and the Lagrangian, a function of the quadratic invariant I of this
+tensor. It is shown that vector field (r=1) describes electromagnetic field
+only for D=4. In particular, for D=3 and the Lagrangean L as any function of
+the above-mentioned invariant, the (r=1)-field has energy-momentum tensor
+identical with that of a perfect fluid whose equation of state depends on the
+choice of L(I).

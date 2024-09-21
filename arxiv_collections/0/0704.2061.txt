@@ -1,0 +1,12 @@
+A combination of the memory function formalism and time-dependent
+density-functional theory is applied to transport in dilute magnetic
+semiconductors. The approach considers spin and charge disorder and
+electron-electron interaction on an equal footing. Within the weak disorder
+limit and using a simple parabolic approximation for the valence band we show
+that Coulomb and exchange scattering contributions to the resistivity in GaMnAs
+are of the same order of magnitude. The positional correlations of defects
+result in a significant increase of Coulomb scattering, while the suppression
+of localized spin fluctuations in the ferromagnetic phase contributes
+substantially to the experimentally observed drop of resistivity below T_c. A
+proper treatment of dynamical screening and collective excitations is essential
+for an accurate description of infrared absorption.

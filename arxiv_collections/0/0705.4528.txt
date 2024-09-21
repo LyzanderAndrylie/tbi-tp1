@@ -1,0 +1,7 @@
+The $\pi$N forward scattering data are analyzed using an expansion method,
+where the invariant amplitudes are represented by expansions satisfying the
+forward dispersion relations. The experimental errors of the data are taken
+into account through the covariance matrix of the coefficients of the
+expansions in a careful error analysis. From the results, some coefficients,
+$c_{n0}^\pm$, of the subthreshold expansions have been calculated with proper
+error bars.

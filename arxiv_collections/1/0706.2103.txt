@@ -1,0 +1,16 @@
+We analyze theoretically the electronic properties of Aharonov-Bohm rings
+made of graphene. We show that the combined effect of the ring confinement and
+applied magnetic flux offers a controllable way to lift the orbital degeneracy
+originating from the two valleys, even in the absence of intervalley
+scattering. The phenomenon has observable consequences on the persistent
+current circulating around the closed graphene ring, as well as on the ring
+conductance. We explicitly confirm this prediction analytically for a circular
+ring with a smooth boundary modelled by a space-dependent mass term in the
+Dirac equation. This model describes rings with zero or weak intervalley
+scattering so that the valley isospin is a good quantum number. The tunable
+breaking of the valley degeneracy by the flux allows for the controlled
+manipulation of valley isospins. We compare our analytical model to another
+type of ring with strong intervalley scattering. For the latter case, we study
+a ring of hexagonal form with lattice-terminated zigzag edges numerically. We
+find for the hexagonal ring that the orbital degeneracy can still be controlled
+via the flux, similar to the ring with the mass confinement.

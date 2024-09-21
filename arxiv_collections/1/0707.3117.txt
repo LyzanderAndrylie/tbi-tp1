@@ -1,0 +1,7 @@
+We present a novel method for opto-mechanical cooling of sub-wavelength sized
+nanomechanical resonators. Our scheme uses a high finesse Fabry-Perot cavity of
+small mode volume, within which the nanoresonator is acting as a
+position-dependant perturbation by scattering. In return, the back-action
+induced by the cavity affects the nanoresonator dynamics and can cool its
+fluctuations. We investigate such cavity cooling by scattering for a nanorod
+structure and predict that ground-state cooling is within reach.

@@ -1,0 +1,12 @@
+When ultrathin metal films are subjected to multiple cycles of rapid melting
+and resolidification by a ns pulsed laser, spatially correlated interfacial
+nanostructures can result from a competition among several possible thin film
+self-organizing processes. Here we investigate self-organization and the
+ensuing length scales when Co films (1-8 nm thick) on SiO_{\text{2}} surfaces
+are repeatedly and rapidly melted by non-uniform (interference) laser
+irradiation. Pattern evolution produces nanowires, which eventually break-up
+into nanoparticles exhibiting spatial order in the nearest neighbor spacing,
+\lambda_{NN2}.The scaling behavior is consistent with pattern formation by
+thermocapillary flow and a Rayleigh-like instability. For h_{0}\leq2 nm, a
+hydrodynamic instability of a spinodally unstable film leads to the formation
+of nanoparticles.

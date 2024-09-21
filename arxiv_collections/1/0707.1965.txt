@@ -1,0 +1,11 @@
+The local minima (inherent structures) of a system and their associated
+transition links give rise to a network. Here we consider the topological and
+distance properties of such a network in the context of spin glasses. We use
+steepest descent dynamics, determining for each disorder sample the transition
+links appearing within a given barrier height. We find that differences between
+linked inherent structures are typically associated with local clusters of
+spins; we interpret this within a framework based on droplets in which the
+characteristic ``length scale'' grows with the barrier height. We also consider
+the network connectivity and the degrees of its nodes. Interestingly, for spin
+glasses based on random graphs, the degree distribution of the network of
+inherent structures exhibits a non-trivial scale-free tail.

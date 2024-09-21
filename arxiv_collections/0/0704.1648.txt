@@ -1,0 +1,20 @@
+We present results of the analysis of cometary X-ray spectra with an extended
+version of our charge exchange emission model (Bodewits et al. 2006). We have
+applied this model to the sample of 8 comets thus far observed with the Chandra
+X-ray observatory and ACIS spectrometer in the 300-1000 eV range. The surveyed
+comets are C/1999 S4 (LINEAR), C/1999 T1 (McNaught-Hartley), C/2000 WM1
+(LINEAR), 153P/2002 (Ikeya-Zhang), 2P/2003 (Encke), C/2001 Q4 (NEAT), 9P/2005
+(Tempel 1) and 73P/2006-B (Schwassmann-Wachmann 3) and the observations include
+a broad variety of comets, solar wind environments and observational
+conditions. The interaction model is based on state selective, velocity
+dependent charge exchange cross sections and is used to explore how cometary
+X-ray emission depend on cometary, observational and solar wind
+characteristics. It is further demonstrated that cometary X-ray spectra mainly
+reflect the state of the local solar wind. The current sample of Chandra
+observations was fit using the constrains of the charge exchange model, and
+relative solar wind abundances were derived from the X-ray spectra. Our
+analysis showed that spectral differences can be ascribed to different solar
+wind states, as such identifying comets interacting with (I) fast, cold wind,
+(II), slow, warm wind and (III) disturbed, fast, hot winds associated with
+interplanetary coronal mass ejections. We furthermore predict the existence of
+a fourth spectral class, associated with the cool, fast high latitude wind.

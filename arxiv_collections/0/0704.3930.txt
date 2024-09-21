@@ -1,0 +1,18 @@
+The aim of the KArlsruhe TRItium Neutrino experiment KATRIN is the
+determination of the absolute neutrino mass scale down to 0.2 eV, with
+essentially smaller model dependence than from cosmology and neutrinoless
+double beta decay. For this purpose, the integral electron energy spectrum is
+measured close to the endpoint of molecular tritium beta decay. The endpoint,
+together with the neutrino mass, should be fitted from the KATRIN data as a
+free parameter. The right-handed couplings change the electron energy spectrum
+close to the endpoint, therefore they have some effect also to the precise
+neutrino mass determination. The statistical calculations show that, using the
+endpoint as a free parameter, the unaccounted right-handed couplings
+constrained by many beta decay experiments can change the fitted neutrino mass
+value, relative to the true neutrino mass, by not larger than about 5-10 %.
+Using, incorrectly, the endpoint as a fixed input parameter, the above change
+of the neutrino mass can be much larger, order of 100 %, and for some cases it
+can happen that for large true neutrino mass value the fitted neutrino mass
+squared is negative. Publications using fixed endpoint and presenting large
+right-handed coupling effects to the neutrino mass determination are not
+relevant for the KATRIN experiment.

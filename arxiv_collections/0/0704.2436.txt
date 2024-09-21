@@ -1,0 +1,20 @@
+For many years various asymmetrical profiles of different spectral lines
+emitted from solar flares have been frequently observed. These asymmetries or
+line shifts are caused predominantly by vertical mass motions in flaring layers
+and they provide a good diagnostics for plasma flows during solar flares. There
+are many controversial results of observations and theoretical analysis of
+plasma flows in solar chromospheric flares. The main difficulty is the
+interpretation of line shifts or asymmetries. For many years, methods based on
+bisector techniques were used but they give a reliable results only for some
+specific conditions and in most cases cannot be applied. The most promising
+approach is to use the non-LTE techniques applied for flaring atmosphere. The
+calculation of synthetic line profiles is performed with the radiative transfer
+techniques and the assumed physical conditions correspond to flaring
+atmosphere. I will present an overview of different observations and
+interpretations of line asymmetries in chromospheric flares. I will explain
+what we have learnt about the chromospheric evaporation in the frame of
+hydrodynamical models as well as reconnection models. A critical review will be
+done on the classical methods used to derive Doppler-shifts for optically thick
+chomospheric lines. In particular, details on the new approach for interpreting
+chromospheric line asymmetries based on the non-LTE techniques will be
+presented.

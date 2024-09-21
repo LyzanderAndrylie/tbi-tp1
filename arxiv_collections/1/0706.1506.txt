@@ -1,0 +1,9 @@
+We investigate the conductance of normal-conductor/graphene/normal-conductor
+(NGN) junctions for arbitrary on-site potentials in the normal and graphitic
+parts of the system. We find that a ballistic NGN junction can display
+insulating behavior even when the charge-carrier density in the graphene part
+is finite. This effect originates in the different k intervals supporting
+propagating modes in graphene and a normal conductor, and persists for moderate
+levels of bulk, edge, or interface disorder. The ensuing conductance thresholds
+could be used as an electronic tool to map out details of the graphene band
+structure in absolute k space.

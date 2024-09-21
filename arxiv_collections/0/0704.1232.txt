@@ -1,0 +1,17 @@
+We study the evolution of a neutral $K$ meson prepared as an incoherent equal
+mixture of $K^0$ and $\bar{K^0}$. Denoting the density matrix by $\rho(t) =
+{1/2} N(t) [\1 + \vec{\zeta}(t) \cdot \vec{\sigma} ] $, the norm of the state
+$N(t)$ is found to decrease monotonically from one to zero, while the magnitude
+of the Stokes vector $|\vec{\zeta}(t)|$ increases monotonically from zero to
+one. This property qualifies these observables as arrows of time. Requiring
+monotonic behaviour of $N(t)$ for arbitrary values of $\gamma_L, \gamma_S$ and
+$\Delta m$ yields a bound on the CP-violating overlap $\delta =
+\braket{K_L}{K_S}$, which is similar to, but weaker than, the known unitarity
+bound. A similar requirement on $|\vec{\zeta}(t)|$ yields a new bound,
+$\delta^2 < {1/2} (\frac{\Delta \gamma}{\Delta m}) \sinh (\frac{3\pi}{4}
+\frac{\Delta \gamma}{\Delta m})$ which is particularly effective in limiting
+the CP-violating overlap in the $B^0$-$\bar{B^0}$ system. We obtain the Stokes
+parameter $\zeta_3(t)$ which shows how the average strangeness of the beam
+evolves from zero to $\delta$. The evolution of the Stokes vector from
+$|\vec{\zeta}| = 0$ to $|\vec{\zeta}| = 1$ has a resemblance to an order
+parameter of a system undergoing spontaneous symmetry breaking.

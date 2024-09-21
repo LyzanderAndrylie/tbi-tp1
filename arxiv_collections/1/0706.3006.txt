@@ -1,0 +1,13 @@
+The aim of this paper is to clarify the relation between the following
+objects: $ (a) $ rank 1 projective modules (ideals) over the first Weyl algebra
+$ A_1(\C)$; $ (b) $ simple modules over deformed preprojective algebras $
+\Pi_{\lambda}(Q) $ introduced by Crawley-Boevey and Holland; and $ (c) $ simple
+modules over the rational Cherednik algebras $ H_{0,c}(S_n) $ associated to
+symmetric groups. The isomorphism classes of each type of these objects can be
+parametrized geometrically by the same space (namely, the Calogero-Moser
+algebraic varieties); however, no natural functors between the corresponding
+module categories seem to be known. We construct such functors by translating
+our earlier results on $\A$-modules over $ A_1 $ to a more familiar setting of
+representation theory. In the last section we extend our construction to the
+case of Kleinian singularities $ \C^2/\Gamma $, where $ \Gamma $ is a finite
+cyclic subgroup of $ \SL(2, \C) $.

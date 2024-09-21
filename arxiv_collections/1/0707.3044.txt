@@ -1,0 +1,13 @@
+Because of properties of QED, the bremsstrahlung corrections to decays of
+particles or resonances can be calculated, with a good precision, separately
+from other effects. Thanks to the widespread use of event records such
+calculations can be embodied into a separate module of Monte Carlo simulation
+chains, as used in High Energy Experiments of today. The PHOTOS Monte Carlo
+program is used for this purpose since nearly 20 years now. In the following
+talk let us review the main ideas and constraints which shaped the program
+version of today and enabled it widespread use. We will concentrate specially
+on conflicting requirements originating from the properties of QED matrix
+elements on one side and degrading (evolving) with time standards of event
+record(s). These issues, quite common in other modular software applications,
+become more and more difficult to handle as precision requirements become
+higher.

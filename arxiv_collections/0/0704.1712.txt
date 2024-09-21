@@ -1,0 +1,6 @@
+An interesting analogy between quantum entangled states and topological links
+was suggested by Aravind. In particular, he emphasized a connection between the
+Greenberger-Horne-Zeilinger (GHZ) state and the Borromean rings. However, he
+made the connection in a way that depends on the choice of measurement basis.
+We reconsider it in a basis-independent way by using the reduced density
+matrix.

@@ -1,0 +1,9 @@
+We derive an expression for the 4-point conductance of a general quantum
+junction in terms of the density response function. Our formulation allows us
+to show that the 4-point conductance of an interacting electronic system
+possessing either a geometrical constriction and/or an opaque barrier becomes
+identical to the macroscopically measurable 2-point conductance. Within
+time-dependent density-functional theory the formulation leads to a direct
+identification of the functional form of the exchange-correlation kernel that
+is important for the conductance. We demonstrate the practical implementationof
+our formula for a metal-vacuum-metal interface.

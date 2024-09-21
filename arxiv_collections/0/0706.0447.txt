@@ -1,0 +1,7 @@
+Nous \'etudions la non lin\'earit\'e des fonctions d\'efinies sur F_{2^m}
+o\`u $m$ est un entier impair, associ\'ees aux polyn\^omes de degr\'e 7 ou \`a
+des polyn\^omes plus g\'en\'eraux.
+  -----
+  We study the nonlinearity of the functions defined on F_{2^m} where $m$ is an
+odd integer, associated to the polynomials of degree 7 or more general
+polynomials.

@@ -1,0 +1,7 @@
+We extend Witt's theorem to several kinds of simultaneous isometries of
+subspaces. We determine sufficient and necessary conditions for the extension
+of an isometry of subspaces $\phi:E\to E'$ to an isometry $\phi_V:V\to V'$ that
+also sends a given subspace to another, or a given self-dual flag to another,
+or a Witt's decomposition to another and a special self-dual flag to another.
+We also determine sufficient and necessary conditions for the isometry of
+generic flags or the simultaneous isometry of (subspace, self-dual flag) pairs.

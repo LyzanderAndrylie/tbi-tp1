@@ -1,0 +1,7 @@
+In this brief note, we will investigate the number of points of bounded
+(twisted) height in a projective variety defined over a function field, where
+the function field comes from a projective variety of dimension greater than or
+equal to 2. A first step in this investigation is to understand the $p$-adic
+analytic properties of the height zeta function. In particular, we will show
+that for a large class of projective varieties this function is $p$-adic
+meromorphic.

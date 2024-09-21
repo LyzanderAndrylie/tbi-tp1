@@ -1,0 +1,7 @@
+The Goldberger-Miyazawa-Oehme sum rule is used to extract the pion-nucleon
+coupling constant from experimental $\pi$N information. Chiral perturbation
+theory is exploited in relating the pionic hydrogen s-wave level shift and
+width results to the appropriate scattering lengths. The deduced value for the
+coupling is $f^2 = 0.075 \pm 0.002$, where the largest source of uncertainty is
+the determination of the s-wave $\pi^- p$ scattering length from the atomic
+level shift measurement.

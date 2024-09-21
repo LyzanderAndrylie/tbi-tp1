@@ -1,0 +1,10 @@
+We investigate the noise properties of pump currents through molecular wires
+and coupled quantum dots. As a model we employ a two level system that is
+connected to electron reservoirs and is non-adiabatically driven. Concerning
+the electron-electron interaction, we focus on two limits: non-interacting
+electrons and strong Coulomb repulsion. While the former case is treated within
+a Floquet scattering formalism, we derive for the latter case a master equation
+formalism for the computation of the current and the zero-frequency noise. For
+a pump operated close to internal resonances, the differences between the
+non-interacting and the strongly interacting limit turn out to be surprisingly
+small.

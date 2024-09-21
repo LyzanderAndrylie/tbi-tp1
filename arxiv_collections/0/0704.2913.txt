@@ -1,0 +1,9 @@
+We study Abelian sandpiles on graphs of the form $G \times I$, where $G$ is
+an arbitrary finite connected graph, and $I \subset \Z$ is a finite interval.
+We show that for any fixed $G$ with at least two vertices, the stationary
+measures $\mu_I = \mu_{G \times I}$ have two extremal weak limit points as $I
+\uparrow \Z$. The extremal limits are the only ergodic measures of maximum
+entropy on the set of infinite recurrent configurations. We show that under any
+of the limiting measures, one can add finitely many grains in such a way that
+almost surely all sites topple infinitely often. We also show that the extremal
+limiting measures admit a Markovian coding.

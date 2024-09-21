@@ -1,0 +1,18 @@
+First principle calculations were performed to study the ground state
+electronic properties of Barium titanate within the density functional theory
+(DFT). In our DFT computations, we used Vosko-Wilk-Nusair correlation energy
+functional and generalized gradient approximation (GGA) exchange and
+correlation energy functional as suggested by Perdew and Wang (PWGGA). The band
+structure, total density of states (DOS) and partial DOS have been
+systematically conducted to investigate the electronic configuration of this
+prototype ferroelectric perovskits compound. The band gap was 1.92 eV within
+our approach, and the quasi-flat band at -17 eV and -10 eV were attributed to
+the O 2s and Ba 5p states respectively, which was in good agreement with the
+corresponding total DOS and partial DOS. From the DOS investigation, it can be
+seen that the Ti eg state intended to interact with the oxygen octahedral
+orbitals to form the p-d hybridization. Moreover the strong p-d overlap and
+bonding can be observed in the electronic density redistribution along the
+different crystalline planes with respect to the corresponding space group, and
+the electronic isodense have been shown along the (001), (100), (110) and (111)
+crystal planes. From these electronic density maps, the strong bonding between
+Ti and O atoms can even be observed in the (111) crystalline plane.

@@ -1,0 +1,9 @@
+This paper is devoted to the measurement of the fully inclusive absolute
+branching ratios of the charged kaon semileptonic decays,
+$K^{\pm}\to\pi^0e^\pm\nu(\gamma)$ and $K^\pm \to \pi^0\mu^\pm\nu(\gamma)$. The
+measurements have been done using a tag technique, employing the two-body
+decays, $K^\pm \to \mu^\pm\nu$ and $K^\pm \to \pi^\pm\pi^0$, and using a sample
+of about 410 pb$^{-1}$ collected during the 2001 and 2002 data taking of the
+KLOE experiment at Daphne, the Frascati $\phi$-factory. The results obtained
+are BR(K$^\pm_{e3}$) = $0.04965 (38)_{Stat} (37)_{Syst}$ and BR(K$^\pm_{\mu3}$)
+= $0.03233 (29)_{Stat} (26)_{Syst}$.

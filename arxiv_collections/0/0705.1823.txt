@@ -1,0 +1,5 @@
+Upper and lower bounds are established for the survival probability
+$|<\psi(0)|\psi(t)>|^{2}$ of a quantum state, in terms of the energy moments
+$<\psi(0)|H^{n}|\psi(0)>$. Introducing a cut-off in the energy generally
+enables considerable improvement in these bounds and allows the method to be
+used where the exact energy moments do not exist.

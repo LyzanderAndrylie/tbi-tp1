@@ -1,0 +1,8 @@
+In a recent work, B\"ol and Reese have introduced a discrete model for
+polymer networks by means of a finite element modeling. They have also provided
+a comparison with real experiments. A key parameter of their model is the size
+h of the finite element mesh, that is meant to be small in practice. The aim of
+the present work is to study the asymptotic behaviour (and the convergence of
+the finite element method) when the meshsize goes to zero. In particular, we
+address the properties satisfied by the model at the limit, depending on the
+properties of the mesh.

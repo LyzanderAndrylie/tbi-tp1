@@ -1,0 +1,7 @@
+We study entanglement dynamics between four qubits interacting through two
+isolated Jaynes-Cummings hamiltonians, via the entanglement measure based on
+the wedge product. We compare the results with similar results obtained using
+bipartite concurrence resulting in what is referred to as "entanglement sudden
+death". We find a natural entanglement invariant under evolution demonstrating
+that entanglement sudden death is caused by ignoring (tracing over) some of the
+system's degrees of freedom that become entangled through the interaction.

@@ -1,0 +1,10 @@
+We investigate by molecular dynamics simulations a continuous isotropic
+core-softened potential with attractive well in three dimensions, introduced by
+Franzese [cond-mat/0703681, to appear on Journal of Molecular Liquids], that
+displays liquid-liquid coexistence with a critical point and water-like density
+anomaly. Here we find diffusion and structural anomalies. These anomalies occur
+with the same hierarchy that characterizes water. Yet our analysis shows
+differences with respect to the water case. Therefore, many of the anomalous
+features of water could be present in isotropic systems with soft-core
+attractive potentials, such as colloids or liquid metals, consistent with
+recent experiments showing polyamorphism in metallic glasses.

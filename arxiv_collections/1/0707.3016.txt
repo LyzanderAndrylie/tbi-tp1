@@ -1,0 +1,5 @@
+It is shown that one can make use of local instabilities in turbulent video
+frames to enhance image resolution beyond the limit defined by the image
+sampling rate. The paper outlines the processing algorithm, presents its
+experimental verification on simulated and real-life videos and discusses its
+potentials and limitations.

@@ -1,0 +1,12 @@
+The rate of nuclear muon capture by the proton has been measured using a new
+experimental technique based on a time projection chamber operating in
+ultra-clean, deuterium-depleted hydrogen gas at 1 MPa pressure. The capture
+rate was obtained from the difference between the measured $\mu^-$
+disappearance rate in hydrogen and the world average for the $\mu^+$ decay
+rate. The target's low gas density of 1% compared to liquid hydrogen is key to
+avoiding uncertainties that arise from the formation of muonic molecules. The
+capture rate from the hyperfine singlet ground state of the $\mu p$ atom is
+measured to be $\Lambda_S=725.0 \pm 17.4 s^{-1}$, from which the induced
+pseudoscalar coupling of the nucleon, $g_P(q^2=-0.88 m_\mu^2)=7.3 \pm 1.1$, is
+extracted. This result is consistent with theoretical predictions for $g_P$
+that are based on the approximate chiral symmetry of QCD.

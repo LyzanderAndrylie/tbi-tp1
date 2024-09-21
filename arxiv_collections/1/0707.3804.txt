@@ -1,0 +1,12 @@
+The reduction of dynamical systems has a rich history, with many important
+applications related to stability, control and verification. Reduction of
+nonlinear systems is typically performed in an exact manner - as is the case
+with mechanical systems with symmetry--which, unfortunately, limits the type of
+systems to which it can be applied. The goal of this paper is to consider a
+more general form of reduction, termed approximate reduction, in order to
+extend the class of systems that can be reduced. Using notions related to
+incremental stability, we give conditions on when a dynamical system can be
+projected to a lower dimensional space while providing hard bounds on the
+induced errors, i.e., when it is behaviorally similar to a dynamical system on
+a lower dimensional space. These concepts are illustrated on a series of
+examples.

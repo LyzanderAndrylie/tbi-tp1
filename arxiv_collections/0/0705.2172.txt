@@ -1,0 +1,21 @@
+This paper studies two high-pollution episodes over Greater Tokyo: 9 and 10
+December 1999, and 31 July and 1 August 2001. Results obtained with the
+chemistry-transport model (CTM) Polair3D are compared to measurements of
+inorganic PM2.5. To understand to which extent the aerosol processes modeled in
+Polair3D impact simulated inorganic PM2.5, Polair3D is run with different
+options in the aerosol module, e.g. with/without heterogeneous reactions. To
+quantify the impact of processes outside the aerosol module, simulations are
+also done with another CTM (CMAQ). In the winter episode, sulfate is mostly
+impacted by condensation, coagulation, long-range transport, and deposition to
+a lesser extent. In the summer episode, the effect of long-range transport
+largely dominates. The impact of condensation/evaporation is dominant for
+ammonium, nitrate and chloride in both episodes. However, the impact of the
+thermodynamic equilibrium assumption is limited. The impact of heterogeneous
+reactions is large for nitrate and ammonium, and taking heterogeneous reactions
+into account appears to be crucial in predicting the peaks of nitrate and
+ammonium. The impact of deposition is the same for all inorganic PM2.5. It is
+small compared to the impact of other processes although it is not negligible.
+The impact of nucleation is negligible in the summer episode, and small in the
+winter episode. The impact of coagulation is larger in the winter episode than
+in the summer episode, because the number of small particles is higher in the
+winter episode as a consequence of nucleation.

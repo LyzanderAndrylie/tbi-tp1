@@ -1,0 +1,10 @@
+We study the decoherence of a spin-1/2 induced by an environment which is on
+the verge of a continuous phase transition. We consider spin environments
+described by the ferromagnetic and antiferromagnetic Heisenberg models on a
+square lattice. As is well known, these two dimensional systems undergo a
+continuous phase transition at zero temperature, where, the spins order
+spontaneously. For weak coupling of the central spin to these baths, we find
+that as one approaches the transition temperature, critical fluctuations make
+the central spin decohere faster. Furthermore, the decoherence is maximal at
+zero temperature as signalled by the divergence of the Markovian decoherence
+rate.

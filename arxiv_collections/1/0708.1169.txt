@@ -1,0 +1,6 @@
+The question of smoothness at the ergosurface of the space-time metric
+constructed out of solutions (E,phi) of the Ernst electro-vacuum equations is
+considered. We prove smoothness of those ergosurfaces at which Re(E) provides
+the dominant contribution to f=-(Re(E)+|phi|^2) at the zero-level-set of f.
+Some partial results are obtained in the remaining cases: in particular we give
+examples of leading-order solutions with singular isolated "ergocircles".

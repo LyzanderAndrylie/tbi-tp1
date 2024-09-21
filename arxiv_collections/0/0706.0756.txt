@@ -1,0 +1,6 @@
+For the weight function $\prod_{i=1}^{d+1}|x_i|^{2\k_i}$ on the unit sphere,
+sharp local estimates of the orthogonal projection operators are obtained and
+used to prove the convergence of the Ces\`aro $(C,\delta)$ means in the
+weighted $L^p$ space for $\delta$ below the critical index. Similar results are
+also proved for corresponding weight functions on the unit ball and on the
+simplex.

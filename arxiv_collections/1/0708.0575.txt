@@ -1,0 +1,10 @@
+Frequency dependent exchange correlation kernels for time-dependent density
+functional theory can be used to construct approximate exchange-correlation
+potentials. The resulting potentials are usually not translationally covariant
+nor do they obey the so-called zero-force condition. These two basic symme-try
+requirements are essential for using the potentials in actual applications
+(even within the linear re-sponse regime). We provide two pragmatic methods for
+imposing these conditions. As an example we take the Gross and Kohn (GK)
+frequency dependent XC functional (Phys. Rev.Lett. 55, 2850 (1985)), correct
+it, and numerically test it on a sodium metal cluster. Violation of the basic
+symme-tries causes instabilities or spurious low frequency modes.

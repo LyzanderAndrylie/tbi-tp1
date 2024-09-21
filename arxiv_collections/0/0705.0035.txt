@@ -1,0 +1,12 @@
+A Higgs boson produced in association with one or more bottom quarks is of
+great theoretical and experimental interest to the high-energy community. A
+precise prediction of its total and differential cross-section can have a great
+impact on the discovery of a Higgs boson with large bottom-quark Yukawa
+coupling, like the scalar (h^0 and H^0) and pseudoscalar (A^0) Higgs bosons of
+the Minimal Supersymmetric Standard Model (MSSM) in the region of large
+\tan\beta. In this paper we apply the threshold resummation formalism to
+determine both differential and total cross-sections for b g \to b\Phi (where
+\Phi = h^0, H^0), including up to next-to-next-to-next-to-leading order (NNNLO)
+soft plus virtual QCD corrections at next-to-leading logarithmic (NLL)
+accuracy. We present results for both the Fermilab Tevatron and the CERN Large
+Hadron Collider (LHC).

@@ -1,0 +1,17 @@
+The analytic asymptotic expressions for the Casimir free energy, pressure and
+entropy at low temperature in the configuration of one metal and one dielectric
+plate are obtained. For this purpose we develop the perturbation theory in a
+small parameter proportional to the product of the separation between the
+plates and the temperature. This is done using both the simplified model of an
+ideal metal and of a dielectric with constant dielectric permittivity and for
+the realistic case of the metal and dielectric with frequency-dependent
+dielectric permittivities. The analytic expressions for all related physical
+quantities at high temperature are also provided. The obtained analytic results
+are compared with numerical computations and good agreement is found. We
+demonstrate for the first time that the Lifshitz theory, when applied to the
+configuration of metal-dielectric, satisfies the requirements of thermodynamics
+if the static dielectric permittivity of a dielectric plate is finite. If it is
+infinitely large, the Lifshitz formula is shown to violate the Nernst heat
+theorem. The implications of these results for the thermal quantum field theory
+in Matsubara formulation and for the recent measurements of the Casimir force
+between metal and semiconductor surfaces are discussed.

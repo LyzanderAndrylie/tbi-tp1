@@ -1,0 +1,11 @@
+In this paper we extend the results of Lenci and Rey-Bellet on the large
+deviation upper bound of the distribution measures of local Hamiltonians with
+respect to a Gibbs state, in the setting of translation-invariant finite-range
+interactions. We show that a certain factorization property of the reference
+state is sufficient for a large deviation upper bound to hold and that this
+factorization property is satisfied by Gibbs states of the above kind as well
+as finitely correlated states. As an application of the methods the Chernoff
+bound for correlated states with factorization property is studied. In the
+specific case of the distributions of the ergodic averages of a one-site
+observable with respect to an ergodic finitely correlated state the spectral
+theory of positive maps is applied to prove the full large deviation principle.

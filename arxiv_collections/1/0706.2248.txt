@@ -1,0 +1,13 @@
+We study the influence of dissipation on the switching current statistics of
+moderately damped Josephson junctions. Different types of both low- and high-
+$T_c$ junctions with controlled damping are studied. The damping parameter of
+the junctions is tuned in a wide range by changing temperature, magnetic field,
+gate voltage, introducing a ferromagnetic layer or in-situ capacitive shunting.
+A paradoxical collapse of switching current fluctuations occurs with increasing
+$T$ in all studied junctions. The phenomenon critically depends on dissipation
+in the junction and is explained by interplay of two counteracting consequences
+of thermal fluctuations, which on the one hand assist in premature switching
+into the resistive state and on the other hand help in retrapping back to the
+superconducting state. This is one of the rare examples of anticorrelation
+between temperature and fluctuation amplitude of a physically measurable
+quantity.

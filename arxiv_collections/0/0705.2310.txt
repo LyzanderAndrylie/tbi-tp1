@@ -1,0 +1,14 @@
+This paper presents bushing condition monitoring frameworks that use
+multi-layer perceptrons (MLP), radial basis functions (RBF) and support vector
+machines (SVM) classifiers. The first level of the framework determines if the
+bushing is faulty or not while the second level determines the type of fault.
+The diagnostic gases in the bushings are analyzed using the dissolve gas
+analysis. MLP gives superior performance in terms of accuracy and training time
+than SVM and RBF. In addition, an on-line bushing condition monitoring
+approach, which is able to adapt to newly acquired data are introduced. This
+approach is able to accommodate new classes that are introduced by incoming
+data and is implemented using an incremental learning algorithm that uses MLP.
+The testing results improved from 67.5% to 95.8% as new data were introduced
+and the testing results improved from 60% to 95.3% as new conditions were
+introduced. On average the confidence value of the framework on its decision
+was 0.92.

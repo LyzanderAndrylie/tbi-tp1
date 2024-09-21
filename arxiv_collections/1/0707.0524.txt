@@ -1,0 +1,10 @@
+Analysis of room-temperature current-voltage (I-V) characteristics of a
+silicon box in a nanopillar transistor suggests that a weak electromechanical
+coupling of 0.17 is responsible for the stable tunnel of single-electron. The
+dynamics involves a few electrons and the numbers (N) specified are periodical
+at 3, 6, and 12. Quantized currents are observed at N = 7 and 13, indicating
+that the box is a man-made atom. At a large value of 0.5, instability however
+dominates the I-V by showing interference, channel closure and the change of
+tunnel direction. Overall, the interplay of even and odd electrons between
+different channels also shows that the box operates itself like a smart quantum
+pump.

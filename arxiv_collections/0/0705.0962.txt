@@ -1,0 +1,10 @@
+The aim of this paper is to characterize the uniqueness domains in the
+workspace of parallel manipulators, as well as their image in the joint space.
+The notion of aspect introduced for serial manipulators in [Borrel 86] is
+redefined for such parallel manipulators. Then, it is shown that it is possible
+to link several solutions to the direct kinematic problem without meeting a
+singularity, thus meaning that the aspects are not uniqueness domains.
+Additional surfaces are characterized in the workspace which yield new
+uniqueness domains. An octree model of spaces is used to compute the joint
+space, the workspace and all other newly defined sets. This study is
+illustrated all along the paper with a 3-RPR planar parallel manipulator.

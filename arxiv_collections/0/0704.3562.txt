@@ -1,0 +1,11 @@
+Charm production in deep inelastic scattering has been measured with the ZEUS
+detector at HERA using an integrated luminosity of 82 pb^{-1}. Charm has been
+tagged by reconstructing D^{*+}, D^0, D^{+} and D_s^+ (+ c.c.) charm mesons.
+The charm hadrons were measured in the kinematic range p_T(D^{*+},D^0,D^{+}) >
+3 GeV, p_T(D_s^+)>2 GeV and |\eta(D)| < 1.6 for 1.5 < Q^2 < 1000 GeV^2 and 0.02
+< y < 0.7. The production cross sections were used to extract charm
+fragmentation ratios and the fraction of c quarks hadronising into a particular
+charm meson in the kinematic range considered. The cross sections were compared
+to the predictions of next-to-leading-order QCD, and extrapolated to the full
+kinematic region in p_T(D) and \eta(D) in order to determine the open-charm
+contribution, F_2^{c\bar{c}}(x,Q^2), to the proton structure function F_2.

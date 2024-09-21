@@ -1,0 +1,6 @@
+In a recent article [Phys. Rev. Lett. 97 (2006), 107206], we have presented a
+class of states which is suitable as a variational set to find ground states in
+spin systems of arbitrary spatial dimension and with long-range entanglement.
+Here, we continue the exposition of our technique, extend from spin 1/2 to
+higher spins and use the boson Hubbard model as a non-trivial example to
+demonstrate our scheme.

@@ -1,0 +1,15 @@
+In this paper, we continue to explore the consistence and usability of
+Probability Bracket Notation (PBN) proposed in our previous articles. After a
+brief review of PBN with dimensional analysis, we investigate probability
+spaces in terms of PBN by introducing probability spaces associated with random
+variables (R.V) or associated with stochastic processes (S.P). Next, we express
+several important properties of conditional expectation (CE) and some their
+proofs in PBN. Then, we introduce martingales based on sequence of R.V or based
+on filtration in PBN. In the process, we see PBN can be used to investigate
+some probability problems, which otherwise might need explicit usage of Measure
+theory. Whenever applicable, we use dimensional analysis to validate our
+formulas and use graphs for visualization of concepts in PBN. We hope this
+study shows that PBN, stimulated by and adapted from Dirac notation in Quantum
+Mechanics (QM), may have the potential to be a useful tool in probability
+modeling, at least for those who are already familiar with Dirac notation in
+QM.

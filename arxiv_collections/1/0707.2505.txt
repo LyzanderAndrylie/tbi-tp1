@@ -1,0 +1,8 @@
+Let F(z) be a rational function in Q(z) of degree at least 2 with F(0) = 0
+and such that F does not vanish to order d at 0. Let b be a rational number
+having infinite orbit under iteration of F, and write F^n(b) = A_n/B_n as a
+fraction in lowest terms. We prove that for all but finitely many n > 0, the
+numerator A_n has a primitive divisor, i.e., there is a prime p such that p
+divides A_n and p does not divide A_i for all i < n. More generally, we prove
+an analogous result when F is defined over a number field and 0 is a periodic
+point for F.

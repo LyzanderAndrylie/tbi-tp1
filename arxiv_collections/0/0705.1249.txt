@@ -1,0 +1,19 @@
+The study of the observational properties of uncommonly long bursts from low
+luminosity sources with extended decay times up to several tens of minutes is
+important when investigating the transition from a hydrogen-rich bursting
+regime to a pure helium regime and from helium burning to carbon burning as
+predicted by current burst theories. IGR J17254-3257 is a recently discovered
+X-ray burster of which only two bursts have been recorded: an ordinary short
+type I X-ray burst, and a 15 min long burst. An upper limit to its distance is
+estimated to about 14.5 kpc. The broad-band spectrum of the persistent emission
+in the 0.3-100 keV energy band obtained using contemporaneous INTEGRAL and
+XMM-Newton data indicates a bolometric flux of 1.1x10^-10 erg/cm2/s
+corresponding, at the canonical distance of 8 kpc, to a luminosity about
+8.4x10^35 erg/s between 0.1-100 keV, which translates to a mean accretion rate
+of about 7x10^-11 solar masses per year. The low X-ray persistent luminosity of
+IGR J17254-3257 seems to indicate the source may be in a state of low accretion
+rate usually associated with a hard spectrum in the X-ray range. The nuclear
+burning regime may be intermediate between pure He and mixed H/He burning. The
+long burst is the result of the accumulation of a thick He layer, while the
+short one is a prematurate H-triggered He burning burst at a slightly lower
+accretion rate.

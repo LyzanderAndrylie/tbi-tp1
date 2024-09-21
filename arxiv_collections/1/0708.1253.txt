@@ -1,0 +1,5 @@
+We consider several ways of how one could classify the various types of
+soliton solutions related to nonlinear evolution equations which are solvable
+by the inverse scattering method. In doing so we make use of the fundamental
+analytic solutions, the dressing procedure, the reduction technique and other
+tools characteristic for that method.

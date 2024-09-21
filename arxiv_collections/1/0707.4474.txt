@@ -1,0 +1,9 @@
+Recent schemes for experimentally probing non-abelian statistics in the
+quantum Hall effect are based on geometries where current-carrying
+quasiparticles flow along edges that encircle bulk quasiparticles, which are
+localized. Here we consider one such scheme, the Fabry-Perot interferometer,
+and analyze how its interference patterns are affected by a coupling that
+allows tunneling of neutral Majorana fermions between the bulk and edge. While
+at weak coupling this tunneling degrades the interference signal, we find that
+at strong coupling, the bulk quasiparticle becomes essentially absorbed by the
+edge and the intereference signal is fully restored.

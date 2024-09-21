@@ -1,0 +1,8 @@
+We show that coupled two level systems like qubits studied in quantum
+information can be used as a thermodynamic machine. At least three qubits or
+spins are necessary and arranged in a chain. The system is interfaced between
+two split baths and the working spin in the middle is externally driven. The
+machine performs Carnot-type cycles and is able to work as heat pump or engine
+depending on the temperature difference of the baths $\Delta T$ and the energy
+differences in the spin system $\Delta E$. It can be shown that the efficiency
+is a function of $\Delta T$ and $\Delta E$.

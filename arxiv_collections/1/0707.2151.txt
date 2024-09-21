@@ -1,0 +1,9 @@
+We introduce a certain type of representations for the quantum Teichmuller
+space of a punctured surface, which we call local representations. We show
+that, up to finitely many choices, these purely algebraic representations are
+classified by classical geometric data. We also investigate the family of
+intertwining operators associated to such a representations. In particular, we
+use these intertwiners to construct a natural fiber bundle over the Teichmuller
+space and its quotient under the action of the mapping class group. This
+construction also offers a convenient framework to exhibit invariants of
+surface diffeomorphisms.

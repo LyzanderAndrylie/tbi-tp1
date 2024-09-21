@@ -1,0 +1,13 @@
+We study parameter estimation of supermassive black hole binary systems in
+the final stage of inspiral using the full post-Newtonian gravitational
+waveforms. We restrict our analysis to systems in circular orbit with
+negligible spins, in the mass range $10^8\Ms-10^5\Ms$, and compare the results
+with those arising from the commonly used restricted post-Newtonian
+approximation. The conclusions of this work are particularly important with
+regard to the astrophysical reach of future LISA measurements. Our analysis
+clearly shows that modeling the inspiral with the full post-Newtonian waveform,
+not only extends the reach to higher mass systems, but also improves in general
+the parameter estimation. In particular, there are remarkable improvements in
+angular resolution and distance measurement for systems with a total mass
+higher than $5\times10^6\Ms$, as well as a large improvement in the mass
+determination.

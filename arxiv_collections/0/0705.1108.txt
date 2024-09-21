@@ -1,0 +1,17 @@
+The postburst object of a GRB is likely to be a highly magnetized, rapidly
+rotating compact object (e.g., a millisecond magnetar), which could produce an
+ultrarelativistic electron-positron-pair wind. The interaction of such a wind
+with an outwardly expanding fireball ejected during the burst leads to a
+relativistic wind bubble (RWB). We numerically calculate the dynamics and
+radiative properties of RWBs and use this model to explain the shallow decay
+phase of the early X-ray afterglows observed by Swift. We find that RWBs can
+fall into two types: forward-shock-dominated and reverse-shock-dominated
+bubbles. Their radiation during a period of $\sim 10^{2}-10^{5}$ seconds is
+dominated by the shocked medium and the shocked wind, respectively, based on
+different magnetic energy fractions of the shocked materials. For both types,
+the resulting light curves always have a shallow decay phase. In addition, we
+provide an example fit to the X-ray afterglows of GRB 060813 and GRB 060814 and
+show that they could be produced by forward-shock-dominated and
+reverse-shock-dominated bubbles, respectively. This implies that, for some
+early afterglows (e.g., GRB 060814), the long-lasting reverse shock emission is
+strong enough to explain their shallow decay phase.

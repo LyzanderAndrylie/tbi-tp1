@@ -1,0 +1,20 @@
+In this paper, we investigate the diameter in preferential attachment (PA-)
+models, thus quantifying the statement that these models are small worlds. The
+models studied here are such that edges are attached to older vertices
+proportional to the degree plus a constant, i.e., we consider affine PA-models.
+There is a substantial amount of literature proving that, quite generally,
+PA-graphs possess power-law degree sequences with a power-law exponent \tau>2.
+  We prove that the diameter of the PA-model is bounded above by a constant
+times \log{t}, where t is the size of the graph. When the power-law exponent
+\tau exceeds 3, then we prove that \log{t} is the right order, by proving a
+lower bound of this order, both for the diameter as well as for the typical
+distance. This shows that, for \tau>3, distances are of the order \log{t}. For
+\tau\in (2,3), we improve the upper bound to a constant times \log\log{t}, and
+prove a lower bound of the same order for the diameter. Unfortunately, this
+proof does not extend to typical distances. These results do show that the
+diameter is of order \log\log{t}.
+  These bounds partially prove predictions by physicists that the typical
+distance in PA-graphs are similar to the ones in other scale-free random
+graphs, such as the configuration model and various inhomogeneous random graph
+models, where typical distances have been shown to be of order \log\log{t} when
+\tau\in (2,3), and of order \log{t} when \tau>3.

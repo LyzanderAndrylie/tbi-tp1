@@ -1,0 +1,13 @@
+The analytic continuation methods of complex scaling (CS), smooth exterior
+scaling (SES), and complex absorbing potential (CAP) are investigated for the
+supercritical quasimolecular ground state in the U(92+)-Cf(98+) system at an
+internuclear separation of R=20 fm. Pade approximants to the complex-energy
+trajectories are used to perform an extrapolation of the resonance energies,
+which, thus, become independent of the respective stabilization parameter.
+Within the monopole approximation to the two-center potential is demonstrated
+that the extrapolated results from SES and CAP are consistent to a high degree
+of accuracy. Extrapolated CAP calculations are extended to include dipole and
+quadrupole terms of the potential for a large range of internuclear separations
+R. These terms cause a broadening of the widths at the permille level when the
+nuclei are almost in contact, and at the % level for R values where the ground
+state enters the negative continuum.

@@ -1,0 +1,10 @@
+We present a quantum algorithm to estimate parameters at the quantum
+metrology limit using deterministic quantum computation with one bit. When the
+interactions occurring in a quantum system are described by a Hamiltonian $H=
+\theta H_0$, we estimate $\theta$ by zooming in on previous estimations and by
+implementing an adaptive Bayesian procedure. The final result of the algorithm
+is an updated estimation of $\theta$ whose variance has been decreased in
+proportion to the time of evolution under H. For the problem of estimating
+several parameters, we implement dynamical-decoupling techniques and use the
+results of single parameter estimation. The cases of discrete-time evolution
+and reference-frame alignment are also discussed within the adaptive approach.

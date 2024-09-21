@@ -1,0 +1,4 @@
+We describe classes of toric varieties of codimension 2 which are either
+minimally defined by 3 binomial equations over any algebraically closed field,
+or are set-theoretic complete intersections in exactly one positive
+characteristic.

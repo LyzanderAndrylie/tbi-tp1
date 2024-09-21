@@ -1,0 +1,18 @@
+The concept of a CDW induced by Fermi-surface nesting originated from the
+Peierls idea of electronic instabilities in purely 1D metals and is now often
+applied to charge ordering in real low-dimensional materials. The idea is that
+if Fermi surface contours coincide when shifted along the observed CDW wave
+vector, then the CDW is considered to be nesting-derived. We show that in most
+cases this procedure has no predictive power, since Fermi surfaces either do
+not nest at the right wave vector, or nest more strongly at the wrong vector.
+We argue that only a tiny fraction, if any, of the observed charge ordering
+phase transitions are true analogues of the Peierls instability because
+electronic instabilities are easily destroyed by even small deviations from
+perfect nesting conditions. Using prototypical CDW materials NbSe$_2$,
+TaSe$_2$, and CeTe$_3$, we show that such conditions are hardly ever fulfilled,
+and that the CDW phases are actually structural phase transitions, driven by
+the concerted action of electronic and ionic subsystems, \textit{i.e.,}
+\textbf{q}-dependent electron-phonon coupling plays an indispensable part. We
+also show mathematically that the original Peierls construction is so fragile
+as to be unlikely to apply to real materials. We argue that no meaningful
+distinction between a CDW and an incommensurate lattice transition exists.

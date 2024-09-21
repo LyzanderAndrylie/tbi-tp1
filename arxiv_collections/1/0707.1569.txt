@@ -1,0 +1,21 @@
+Apoptosis, or genetically programmed cell death, is a crucial cellular
+process that maintains the balance between life and death in cells. The precise
+molecular mechanism of apoptosis signaling and how these two pathways are
+differentially activated under distinct apoptotic stimuli is poorly understood.
+We developed a Monte Carlo-based stochastic simulation model that can
+characterize distinct signaling behaviors in the two major pathways of
+apoptotic signaling using a novel probability distribution-based approach.
+Specifically, we show that for a weak death signal, such as low levels of death
+ligand Fas (CD95) binding or under stress conditions, the type 2 mitochondrial
+pathway dominates apoptotic signaling. Our results also show signaling in the
+type 2 pathway is stochastic, where the population average over many cells does
+not capture the cell-to-cell fluctuations in the time course (~1 - 10 hours) of
+downstream caspase-3 activation. On the contrary, the probability distribution
+of caspase-3 activation for the mitochondrial pathway shows a distinct bimodal
+behavior that can be used to characterize the stochastic signaling in type 2
+apoptosis. Interestingly, such stochastic fluctuations in apoptosis signaling
+happen even in the presence of large numbers of signaling molecules. In a
+fluctuating environment, such stochasticity in the timecourse of caspase-3
+activation may be an adaptive mechanism for allowing a competing survival
+signal to win over a weak death trigger before the critical cell fate decision
+is made and thus minimizes the risk of pathologies.

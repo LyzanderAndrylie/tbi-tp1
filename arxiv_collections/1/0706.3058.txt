@@ -1,0 +1,9 @@
+We present a study of the magnetoresistance of highly oriented pyrolytic
+graphite (HOPG) as a function of the sample size. Our results show
+unequivocally that the magnetoresistance reduces with the sample size even for
+samples of hundreds of micrometers size. This sample size effect is due the
+large mean free path and Fermi wavelength of carriers in graphite and may
+explain the observed practically absence of magnetoresistance in micrometer
+confined small graphene samples where quantum effects should be at hand. These
+were not taken into account in the literature yet and ask for a revision of
+experimental and theoretical work on graphite.

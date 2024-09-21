@@ -1,0 +1,6 @@
+The KLOE collaboration has searched for the phi to K0 K0bar gamma decay using
+a sample of 1.4 fb-1 of e+e- collisions at W ~ M(phi) collected with the KLOE
+experiment at the Frascati e+e- collider DAFNE. No previous search exists for
+this decay, while many theory models predict a BR of 10-8 for this channel. We
+set a preliminary value of the U.L. on this BR to 1.8x10-8 at 90% C.L.. This
+limit rules out most of the existing theory predictions.

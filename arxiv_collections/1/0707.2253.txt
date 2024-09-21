@@ -1,0 +1,11 @@
+Magnetite (Fe$_{3}$O$_{4}$) is a mixed valent system where electronic
+conductivity occurs on the B-site (octahedral) iron sublattice of the spinel
+structure. Below $T_{V}=122$ K, a metal-insulator transition occurs which is
+argued to arise from the charge ordering of 2+ and 3+ iron valences on the
+B-sites (Verwey transition). Inelastic neutron scattering measurements show
+that optical spin waves propagating on the B-site sublattice ($\sim$80 meV) are
+shifted upwards in energy above $T_{V}$ due to the occurrence of B-B
+ferromagnetic double exchange in the mixed valent metallic phase. The double
+exchange interaction affects only spin waves of $\Delta_{5}$ symmetry, not all
+modes, indicating that valence fluctuations are slow and the double exchange is
+constrained by electron correlations above $T_{V}$.

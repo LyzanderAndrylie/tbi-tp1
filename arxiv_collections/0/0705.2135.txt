@@ -1,0 +1,22 @@
+Low-dimensional organic conductors could establish themselves as model
+systems for the investigation of the physics in reduced dimensions. In the
+metallic state of a one-dimensional solid, Fermi-liquid theory breaks down and
+spin and charge degrees of freedom become separated. But the metallic phase is
+not stable in one dimension: as the temperature is reduced, the electronic
+charge and spin tend to arrange themselves in an ordered fashion due to strong
+correlations. The competition of the different interactions is responsible for
+which broken-symmetry ground state is eventually realized in a specific
+compound and which drives the system towards an insulating state.
+  Here we review the various ordering phenomena and how they can be identified
+by optic and magnetic measurements. While the final results might look very
+similar in the case of a charge density wave and a charge-ordered metal, for
+instance, the physical cause is completely different. When density waves form,
+a gap opens in the density of states at the Fermi energy due to nesting of the
+one-dimension Fermi surface sheets. When a one-dimensional metal becomes a
+charge-ordered Mott insulator, on the other hand, the short-range Coulomb
+repulsion localizes the charge on the lattice sites and even causes certain
+charge patterns.
+  We try to point out the similarities and conceptional differences of these
+phenomena and give an example for each of them. Particular emphasis will be put
+on collective phenomena which are inherently present as soon as ordering breaks
+the symmetry of the system.

@@ -1,0 +1,21 @@
+High-energy gamma-rays propagating in the intergalactic medium can interact
+with background infrared photons to produce e+e- pairs, resulting in the
+absorption of the intrinsic gamma-ray spectrum. TeV observations of the distant
+blazar 1ES 1101-232 were thus recently used to put an upper limit on the
+infrared extragalactic background light density. The created pairs can
+upscatter background photons to high energies, which in turn may pair produce,
+thereby initiating a cascade. The pairs diffuse on the extragalactic magnetic
+field (EMF) and cascade emission has been suggested as a means for measuring
+its intensity. Limits on the IR background and EMF are reconsidered taking into
+account cascade emissions. The cascade equations are solved numerically.
+Assuming a power-law intrinsic spectrum, the observed 100 MeV - 100 TeV
+spectrum is found as a function of the intrinsic spectral index and the
+intensity of the EMF. Cascades emit mainly at or below 100 GeV. The observed
+TeV spectrum appears softer than for pure absorption when cascade emission is
+taken into account. The upper limit on the IR photon background is found to be
+robust. Inversely, the intrinsic spectra needed to fit the TeV data are
+uncomfortably hard when cascade emission makes a significant contribution to
+the observed spectrum. An EMF intensity around 1e-8 nG leads to a
+characteristic spectral hump in the GLAST band. Higher EMF intensities divert
+the pairs away from the line-of-sight and the cascade contribution to the
+spectrum becomes negligible.

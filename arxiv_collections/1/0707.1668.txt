@@ -1,0 +1,10 @@
+We prove the existence of good smooth integral models of Shimura varieties of
+Hodge type in arbitrary unramified mixed characteristic $(0,p)$. As a first
+application we provide a smooth solution (answer) to a conjecture (question) of
+Langlands for Shimura varieties of Hodge type. As a second application we prove
+the existence in arbitrary unramified mixed characteristic $(0,p)$ of integral
+canonical models of projective Shimura varieties of Hodge type with respect to
+h--hyperspecial subgroups as pro-\'etale covers of N\'eron models; this forms
+progress towards the proof of conjectures of Milne and Reimann. Though the
+second application was known before in some cases, its proof is new and more of
+a principle.

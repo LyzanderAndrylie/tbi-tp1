@@ -1,0 +1,19 @@
+We analyze several possibilities for precisely measuring electronic
+transitions in atomic helium by the direct use of phase-stabilized femtosecond
+frequency combs. Because the comb is self-calibrating and can be shifted into
+the ultraviolet spectral region via harmonic generation, it offers the prospect
+of greatly improved accuracy for UV and far-UV transitions. To take advantage
+of this accuracy an ultracold helium sample is needed. For measurements of the
+triplet spectrum a magneto-optical trap (MOT) can be used to cool and trap
+metastable 2^3S state atoms. We analyze schemes for measuring the two-photon
+$2^3S \to 4^3S$ interval, and for resonant two-photon excitation to high
+Rydberg states, $2^3S \to 3^3P \to n^3S,D$. We also analyze experiments on the
+singlet-state spectrum. To accomplish this we propose schemes for producing and
+trapping ultracold helium in the 1^1S or 2^1S state via intercombination
+transitions. A particularly intriguing scenario is the possibility of measuring
+the $1^1S \to 2^1S$ transition with extremely high accuracy by use of
+two-photon excitation in a magic wavelength trap that operates identically for
+both states. We predict a ``triple magic wavelength'' at 412 nm that could
+facilitate numerous experiments on trapped helium atoms, because here the
+polarizabilities of the 1^1S, 2^1S and 2^3S states are all similar, small, and
+positive.

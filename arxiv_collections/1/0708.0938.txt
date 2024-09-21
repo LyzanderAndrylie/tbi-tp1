@@ -1,0 +1,11 @@
+We present detailed calculations at the basis of our recent proposal for
+simultaneous cooling the rotational, vibrational and external molecular degrees
+of freedom. In this method, the molecular rovibronic states are coupled by an
+intense laser and an optical cavity via coherent Raman processes enhanced by
+the strong coupling with the cavity modes. For a prototype system, OH, we
+showed that the translational motion is cooled to few micro Kelvin and the
+molecule is brought to the internal ground state in about a second. Here, we
+investigate numerically the dependence of the cooling scheme on the molecular
+polarizability, selecting NO as a second example. Furthermore, we demonstrate
+the general applicability of the proposed cooling scheme to initially
+vibrationally and rotationally hot molecular systems.

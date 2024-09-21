@@ -1,0 +1,9 @@
+We investigate bright matter-wave solitons in the presence of a spatially
+varying nonlinearity. It is demonstrated that a translation mode is excited due
+to the spatial inhomogeneity and its frequency is derived analytically and also
+studied numerically. Both cases of purely one-dimensional and ``cigar-shaped''
+condensates are studied by means of different mean-field models, and the
+oscillation frequencies of the pertinent solitons are found and compared with
+the results obtained by the linear stability analysis.Numerical results are
+shown to be in very good agreement with the corresponding analytical
+predictions.

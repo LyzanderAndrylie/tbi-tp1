@@ -1,0 +1,12 @@
+Let $T_1, ..., T_l: X \to X$ be commuting measure-preserving transformations
+on a probability space $(X, \X, \mu)$. We show that the multiple ergodic
+averages $\frac{1}{N} \sum_{n=0}^{N-1} f_1(T_1^n x) ... f_l(T_l^n x)$ are
+convergent in $L^2(X,\X,\mu)$ as $N \to \infty$ for all $f_1,...,f_l \in
+L^\infty(X,\X,\mu)$; this was previously established for $l=2$ by Conze and
+Lesigne and for general $l$ assuming some additional ergodicity hypotheses on
+the maps $T_i$ and $T_i T_j^{-1}$ by Frantzikinakis and Kra (with the $l=3$
+case of this result established earlier by Zhang). Our approach is
+combinatorial and finitary in nature, inspired by recent developments regarding
+the hypergraph regularity and removal lemmas, although we will not need the
+full strength of those lemmas. In particular, the $l=2$ case of our arguments
+are a finitary analogue of those of Conze and Lesigne.

@@ -1,0 +1,22 @@
+(Abridged) Galaxies form in hierarchically assembling dark matter halos. With
+cosmological three dimensional adaptive mesh refinement simulations, we explore
+in detail the virialization of baryons in the concordance cosmology, including
+optically thin primordial gas cooling. We focus on early protogalaxies with
+virial temperatures of 10^4 K and their progenitors. Without cooling, virial
+heating occurs in shocks close to the virial radius for material falling in
+from voids. Material in dense filaments penetrates deeper to about half that
+radius. With cooling the virial shock position shrinks and also the filaments
+reach scales as small as a third the virial radius. The temperatures in
+protogalaxies found in adiabatic simulations decrease by a factor of two from
+the center and show flat entropy cores. In cooling halos the gas reaches virial
+equilibrium with the dark matter potential through its turbulent velocities. We
+observe turbulent Mach numbers ranging from one to three in the cooling cases.
+This turbulence is driven by the large scale merging and interestingly remains
+supersonic in the centers of these early galaxies even in the absence of any
+feedback processes. The virial theorem is shown to approximately hold over 3
+orders of magnitude in length scale with the turbulent pressure prevailing over
+the thermal energy. The turbulent velocity distributions are Maxwellian and by
+far dominate the small rotation velocities associated with the total angular
+momentum of the galaxies. Decomposing the velocity field using the
+Cauchy-Stokes theorem, we show that ample amounts of vorticity are present
+around shocks even at the very centers of these objects.

@@ -1,0 +1,12 @@
+Let $K$ be a field and $V$ and $W$ be $K$-vector spaces of dimension $m$ and
+$n$. Let $\phi$ be the canonical map from $Hom(V,W)$ to $Hom(\wedge^t
+V,\wedge^t W)$. We investigate the Zariski closure $X_t$ of the image $Y_t$ of
+$\phi$. In the case $t=\min(m,n)$, $Y_t=X_t$ is the cone over a Grassmannian,
+but $X_t$ is larger than $Y_t$ for $1<t<\min(m,n)$. We analyze the
+$G=\GL(V)\times\GL(W)$-orbits in $X_t$ via the corresponding $G$-stable prime
+ideals. It turns out that they are classified by two numerical invariants, one
+of which is the rank and the other a related invariant that we call small rank.
+Surprisingly, the orbits in $X_t\setminus Y_t$ arise from the images $Y_u$ for
+$u<t$ and simple algebraic operations. In the last section we determine the
+singular locus of $X_t$. Apart from well-understood exceptional cases, it is
+formed by the elements of rank $\le 1$ in $Y_t$.

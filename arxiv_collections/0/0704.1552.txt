@@ -1,0 +1,13 @@
+In this work we compare numerically exact Quantum Monte Carlo (QMC)
+calculations and Green function theory (GFT) calculations of thin ferromagnetic
+films including second order anisotropies. Thereby we concentrate on easy plane
+systems, i.e. systems for which the anisotropy favors a magnetization parallel
+to the film plane. We discuss these systems in perpendicular external field,
+i.e. B parallel to the film normal. GFT results are in good agreement with QMC
+for high enough fields and temperatures. Below a critical field or a critical
+temperature no collinear stable magnetization exists in GFT. On the other hand
+QMC gives finite magnetization even below those critical values. This indicates
+that there occurs a transition from non-collinear to collinear configurations
+with increasing field or temperature. For slightly tilted external fields a
+rotation of magnetization from out-of-plane to in-plane orientation is found
+with decreasing temperature.

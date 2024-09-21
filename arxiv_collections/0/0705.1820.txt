@@ -1,0 +1,11 @@
+We present a search for the decay B+ -> tau+ nu using 383x10^6 BBbar pairs
+collected at the Y(4S) resonance with the BABAR detector at the SLAC PEP-II
+B-Factory. A sample of events with one reconstructed semileptonic B decay (B-
+-> D0 l nu X)) is selected, and in the recoil a search for B+ -> tau+ nu is
+performed. The tau is identified in the following channels: tau+ -> e nu nubar,
+tau+ -> mu nu nubar, tau+ -> pi+ nu, and tau+ -> pi+ pi0 nu. We measure a
+branching fraction of B(B+ -> tau+ nu)=(0.9 +- 0.6(stat.) +- 0.1(syst.)) x
+10^-4. In the absence of a significant signal, we calculate an upper limit at
+the 90% confidence level of B(B+ -> tau+ nu) < 1.7 x 10^-4. We calculate the
+product of the B meson decay constant f_B and |V_ub| to be f_B x |V_ub| =
+(7.2^{+2.0}_{-2.8}(stat.) +- 0.2 (syst.)) x 10^-4 GeV.

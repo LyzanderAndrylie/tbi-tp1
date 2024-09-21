@@ -1,0 +1,10 @@
+A diagram is introduced for visualizing matrix product states which makes
+transparent a connection between matrix product factorizations of states and
+operators, and complex weighted finite state automata. It is then shown how one
+can proceed in the opposite direction: writing an automaton that ``generates''
+an operator gives one an immediate matrix product factorization of it. Matrix
+product factorizations have the advantage of reducing the cost of computing
+expectation values by facilitating caching of intermediate calculations. Thus
+our connection to complex weighted finite state automata yields insight into
+what allows for efficient caching in matrix product algorithms. Finally, these
+techniques are generalized to the case of multiple dimensions.

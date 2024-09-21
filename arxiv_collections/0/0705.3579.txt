@@ -1,0 +1,10 @@
+We apply the ADM 3+1 formalism to derive the general relativistic
+magnetohydrodynamic equations for cold plasma in spatially flat Schwarzschild
+metric. Respective perturbed equations are linearized for non-magnetized and
+magnetized plasmas both in non-rotating and rotating backgrounds. These are
+then Fourier analyzed and the corresponding dispersion relations are obtained.
+These relations are discussed for the existence of waves with positive angular
+frequency in the region near the horizon. Our results support the fact that no
+information can be extracted from the Schwarzschild black hole. It is concluded
+that negative phase velocity propagates in the rotating background whether the
+black hole is rotating or non-rotating.

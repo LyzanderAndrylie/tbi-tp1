@@ -1,0 +1,23 @@
+A small quantum scattering system (the microsystem) is studied in interaction
+with a large system (the macrosystem) described by unknown stochastic
+variables. The interaction between the two systems is diagonal for the
+microsystem in a certain orthonormal basis, and the interaction gives an
+imprint on the macrosystem. Moreover, the interaction is assumed to involve
+only small transfers of energy and momentum between the two systems (as
+compared to typical energies/momenta within the microsystem). The analysis is
+carried out within scattering theory. Calculated in the conventional way, the
+transition amplitude for the whole system factorizes. The interaction taking
+place within the macrosystem is assumed to depend on the stochastic variables
+in such a way that, on the average, no particular basis vector state of the
+microsystem is favoured. The density matrix is studied in a formalism which
+includes generation of the ingoing state and absorption of the final state.
+Then the dependence of the final state on the conventional scattering amplitude
+for the microsystem is highly non-linear.
+  In the thermodynamic limit of the macrosystem, the density matrix of the
+ensemble (of microsystem plus macrosystem) develops into a final state which
+involves a set of macroscopically distinguishable states, each with the
+microsystem in one of the basis vector states and the macrosystem in an
+entangled state.
+  For an element of the ensemble, i.e., for a single measurement, the result is
+instead a random walk, where the microsystem ends up in one of the basis vector
+states (reduction of the wave packet).

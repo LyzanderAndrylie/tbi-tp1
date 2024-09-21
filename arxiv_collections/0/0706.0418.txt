@@ -1,0 +1,9 @@
+A dynamical system model for tumor -- immune system interaction together with
+a method to mimic radiation therapy are proposed. A large population of virtual
+patients is simulated following an ideal radiation treatment. A characteristic
+parameter, the Immune System -- Tumor Efficiency Rate (ISTER), is introduced.
+ISTER dependence of treatment success and other features is studied.
+Statistical results allow us to give a patient classification scheme.
+Radiotherapy treatment biological effective dose (BED) is thus optimized based
+on the patient physical condition, following the ALARA (As Low As Reasonably
+Achievable) criterion.

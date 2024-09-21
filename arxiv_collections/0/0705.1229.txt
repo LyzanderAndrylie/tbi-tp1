@@ -1,0 +1,13 @@
+We study RKKY interactions between local magnetic moments for both doped and
+undoped graphene. We find in both cases that the interactions are primarily
+ferromagnetic for moments on the same sublattice, and antiferromagnetic for
+moments on opposite sublattices. This suggests that at sufficiently low
+temperatures dilute magnetic moments embedded in graphene can order into a
+state analogous to that of a dilute antiferromagnet. We find that in the
+undoped case one expects no net magnetic moment, and demonstrate numerically
+that this effect generalizes to ribbons where the magnetic response is
+strongest at the edge, suggesting the possibility of an unusual spin-transfer
+device. For doped graphene we find that moments at definite lattice sites
+interact over longer distances than those placed in interstitial sites of the
+lattice ($1/R^2$ vs. $1/R^3$) because the former support a Kohn anomaly that is
+suppressed in the latter due to the absence of backscattering.

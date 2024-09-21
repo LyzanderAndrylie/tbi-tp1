@@ -1,0 +1,4 @@
+This paper introduces a variation on Kak's three-stage quanutm key
+distribution protocol which allows for defence against the man in the middle
+attack. In addition, we introduce a new protocol, which also offers similar
+resiliance against such an attack.

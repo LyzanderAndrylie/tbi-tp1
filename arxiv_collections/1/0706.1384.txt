@@ -1,0 +1,16 @@
+We obtain the phase diagram and thermodynamic behavior of the Kondo necklace
+model for arbitrary dimensions $d$ using a representation for the localized and
+conduction electrons in terms of local Kondo singlet and triplet operators. A
+decoupling scheme on the double time Green's functions yields the dispersion
+relation for the excitations of the system. We show that in $d\geq 3$ there is
+an antiferromagnetically ordered state at finite temperatures terminating at a
+quantum critical point (QCP). In 2-d, long range magnetic order occurs only at
+T=0. The line of Neel transitions for $d>2$ varies with the distance to the
+quantum critical point QCP $|g|$ as, $T_N \propto |g|^{\psi}$ where the shift
+exponent $\psi=1/(d-1)$. In the paramagnetic side of the phase diagram, the
+spin gap behaves as $\Delta\approx \sqrt{|g|}$ for $d \ge 3$ consistent with
+the value $z=1$ found for the dynamical critical exponent. We also find in this
+region a power law temperature dependence in the specific heat for
+$k_BT\gg\Delta$ and along the non-Fermi liquid trajectory. For $k_BT
+\ll\Delta$, in the so-called Kondo spin liquid phase, the thermodynamic
+behavior is dominated by an exponential temperature dependence.

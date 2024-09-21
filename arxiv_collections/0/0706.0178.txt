@@ -1,0 +1,13 @@
+By numerically solving the appropriate Boltzmann equations, we study the
+production of sterile neutrinos in models with low reheating temperatures. We
+take into account the production in oscillations as well as in direct decays
+and compute the sterile neutrino primordial spectrum, the effective number of
+neutrino species, and the sterile neutrino contribution to the mass density of
+the Universe as a function of the mixing and the reheating parameters. It is
+shown that sterile neutrinos with non-negligible mixing angles do not
+necessarily lead to $N_\nu\sim 4$ and that sterile neutrinos may have the right
+relic density to explain the dark matter of the Universe. If dark matter
+consists of sterile neutrinos produced in oscillations, X-rays measurements set
+a strong limit on the reheating temperature, $\tr\gtrsim 7\mev$. We also point
+out that the direct decay opens up a new production mechanism for sterile
+neutrino dark matter where cosmological constraints can be satisfied.

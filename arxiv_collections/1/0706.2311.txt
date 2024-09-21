@@ -1,0 +1,11 @@
+The phase diagram of binary mixtures of particles interacting via a pair
+potential of parallel dipoles is computed at zero temperature as a function of
+composition and the ratio of their magnetic susceptibilities. Using lattice
+sums, a rich variety of different stable crystalline structures is identified
+including $A_mB_n$ structures. [$A$ $(B)$ particles correspond to large (small)
+dipolar moments.] Their elementary cells consist of triangular, square,
+rectangular or rhombic lattices of the $A$ particles with a basis comprising
+various structures of $A$ and $B$ particles. For small (dipolar) asymmetry
+there are intermediate $AB_2$ and $A_2B$ crystals besides the pure $A$ and $B$
+triangular crystals. These structures are detectable in experiments on granular
+and colloidal matter.

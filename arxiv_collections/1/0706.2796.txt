@@ -1,0 +1,14 @@
+We use a new set of Collins functions to update a previous prediction on the
+azimuthal asymmetries of pion productions in semi-inclusive deep inelastic
+scattering (SIDIS) process on a transversely polarized nucleon target. We find
+that the calculated results can give a good explanation to the HERMES
+experiment with the new parametrization, and this can enrich our knowledge of
+the fragmentation process. Furthermore, with two different approaches of
+distribution and fragmentation functions, we present a prediction on the
+azimuthal asymmetries of pion and kaon productions at the kinematics region of
+the experiments E06010 and E06011 planned at Jefferson Lab (JLab). It is shown
+that the results are insensitive to the models for the pion case. However, the
+results for kaon production are sensitive to different approaches of
+distribution and fragmentation functions. This is helpful to clarify some
+points in the study of the azimuthal spin asymmetries and fragmentation
+functions in hadronization processes.

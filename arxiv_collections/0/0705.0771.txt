@@ -1,0 +1,11 @@
+We investigate the effect of Pauli non-locality in the heavy-ion optical
+potential on sub-barrier fusion reactions. The S\~{a}o Paulo potential, which
+takes into account the Pauli non-locality and has been widely used in analyzing
+elastic scattering, has also recently been applied to heavy-ion fusion.
+However, the approximation employed in deriving the S\~{a}o Paulo potential,
+based on the Perey-Buck semi-classical treatment of neutron induced reactions,
+must be assessed for charged particles tunneling through a barrier. It is the
+purpose of this note to look into this question. We consider the widely studied
+system $^{16}$O + $^{208}$Pb at energies that span the barrier region from 10
+MeV below to 10 MeV above. It seems that the non-locality plays a minor role.
+We find the S\~{a}o Paulo potential to be quite adequate throughout the region.

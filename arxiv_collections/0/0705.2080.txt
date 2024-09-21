@@ -1,0 +1,11 @@
+We generalize the mean-field theory for the spinless Bose-Hubbard model to
+account for the different types of superfluid phases that can arise in the
+spin-1 case. In particular, our mean-field theory can distinguish polar and
+ferromagnetic superfluids, Mott insulators which arise at integer fillings at
+zero temperature, and normal Bose liquids into which the Mott insulators evolve
+at finite temperatures. We find, in contrast to the spinless case, that several
+of the superfluid-Mott insulator transitions are first-order at finite
+temperatures. Our systematic study yields rich phase diagrams that include,
+first-order and second-order transitions, and a variety of tricritical points.
+We discuss the possibility of realizing such phase diagrams in experimental
+systems.

@@ -1,0 +1,8 @@
+We express the mean and variance terms in a double exponential regression
+model as additive functions of the predictors and use Bayesian variable
+selection to determine which predictors enter the model, and whether they enter
+linearly or flexibly. When the variance term is null we obtain a generalized
+additive model, which becomes a generalized linear model if the predictors
+enter the mean linearly. The model is estimated using Markov chain Monte Carlo
+simulation and the methodology is illustrated using real and simulated data
+sets.

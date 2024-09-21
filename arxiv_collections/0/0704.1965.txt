@@ -1,0 +1,11 @@
+We investigate the properties of quantum entanglement of two-mode squeezed
+states interacting with linear baths with general gain and loss parameters. By
+explicitly solving for \rho from the master equation, we determine analytical
+expressions of eigenvalues and eigenvectors of \rho^{T_A} (the partial
+transposition of density matrix \rho). In Fock space, \rho^{T_A} is shown to
+maintain a block diagonal structure as the system evolves. In addition, we
+discover that the decoherence induced by the baths would break the degeneracy
+of \rho^{T_A}, and leads to a novel set of eigenvectors for the construction of
+entanglement witness operators. Such eigenvectors are shown to be
+time-independent, which is a signature of robust entanglement of two-mode
+squeezed states in the presence of noise.

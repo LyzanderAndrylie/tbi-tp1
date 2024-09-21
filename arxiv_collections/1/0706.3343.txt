@@ -1,0 +1,4 @@
+We consider a perturbed version of the dynamics of a flock introduced by
+Cucker and Smale ("Emergent behaviour in flocks") and prove, under similar
+conditions, that nearly-alignment (a concept that is precised in the text) is
+achieved with a certain probability, bounded from below.

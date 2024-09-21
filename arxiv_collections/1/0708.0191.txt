@@ -1,0 +1,20 @@
+We use a nonperturbative extended contractor renormalization (ENCORE) method
+for engineering quantum devices for the implementation of topologically
+protected quantum bits described by an effective quantum dimer model on the
+triangular lattice. By tuning the couplings of the device, topological
+protection might be achieved if the ratio between effective two-dimer
+interactions and flip amplitudes lies in the liquid phase of the phase diagram
+of the quantum dimer model. For a proposal based on a quantum Josephson
+junction array [L. B. Ioffe {\it et al.}, Nature (London) {\bf 415}, 503
+(2002)] our results show that optimal operational temperatures below 1 mK can
+only be obtained if extra interactions and dimer flips, which are not present
+in the standard quantum dimer model and involve three or four dimers, are
+included. It is unclear if these extra terms in the quantum dimer Hamiltonian
+destroy the liquid phase needed for quantum computation. Minimizing the effects
+of multi-dimer terms would require energy scales in the nano-Kelvin regime. An
+alternative implementation based on cold atomic or molecular gases loaded into
+optical lattices is also discussed, and it is shown that the small energy
+scales involved--implying long operational times--make such a device
+impractical. Given the many orders of magnitude between bare couplings in
+devices, and the topological gap, the realization of topological phases in
+quantum devices requires careful engineering and large bare interaction scales.

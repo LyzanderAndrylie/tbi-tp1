@@ -1,0 +1,23 @@
+We present millimeter and radio observations of 13 SDSS quasars at reshifts
+z~6. We observed eleven of them with the Max-Planck Millimeter Bolometer Array
+(MAMBO-2) at the IRAM 30m-telescope at 250 GHz and all of them with the Very
+Large Array (VLA) at 1.4 GHz. Four sources are detected by MAMBO-2 and six are
+detected by the VLA at >=3 sigma level. These sources, together with another 6
+published in previous papers,yield a submillimeter/millimeter and radio
+observed SDSS quasar sample at z~6. We use this sample to investigate the
+far-infrared (FIR) andradio properties of optically bright quasars in the early
+universe. We compare this sample to lower redshift samples of quasars observed
+inthe submillimeter and millimeter wavelengths ((sub)mm), and find that the
+distribution of the FIR to B band optical luminosity ratio (L_FIR/L_B) is
+similar from z~2 to 6. We find a weak correlation between the FIR luminosity
+(L_FIR) and B band optical luminosity (L_B) byincluding the (sub)mm observed
+samples at all redshifts. Some strong (sub)mm detections in the z~6 sample have
+radio-to-FIR ratios within the range defined by star forming galaxies, which
+suggests possible co-eval star forming activity with the powerful AGN in these
+sources. We calculate the rest frame radio to optical ratios (R*_1.4=L_{v,
+1.4GHz}/L_{v, 4400A}) for all of the VLA observed sources in the z~6 quasar
+sample. Only one radio detection in this sample, J083643.85+005453.3, has
+R*_1.4~40 and can be considered radio loud. There are no strong radio sources
+(R*_1.4>=100) among these SDSS quasars at z~6. These data are consistent with,
+although do not set strong constraints on, a decreasing radio-loud quasar
+fraction with increasing redshift.

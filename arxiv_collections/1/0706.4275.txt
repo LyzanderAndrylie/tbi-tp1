@@ -1,0 +1,13 @@
+Combining analytical and numerical methods, we study within the framework of
+the homogeneous non-linear Boltzmann equation, a broad class of models relevant
+for the dynamics of dissipative fluids, including granular gases. We use the
+new method presented in a previous paper [J. Stat. Phys. 124, 549 (2006)] and
+extend our results to a different heating mechanism, namely a deterministic
+non-linear friction force. We derive analytically the high energy tail of the
+velocity distribution and compare the theoretical predictions with high
+precision numerical simulations. Stretched exponential forms are obtained when
+the non-equilibrium steady state is stable. We derive sub-leading corrections
+and emphasize their relevance. In marginal stability cases, power-law behaviors
+arise, with exponents obtained as the roots of transcendental equations. We
+also consider some simple BGK (Bhatnagar, Gross, Krook) models, driven by
+similar heating devices, to test the robustness of our predictions.

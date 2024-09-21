@@ -1,0 +1,8 @@
+We investigate the dissipative real-time evolution of the order parameter for
+the deconfining transition in the pure SU(2) gauge theory. The approach to
+equilibrium after a quench to temperatures well above the critical one is
+described by a Langevin equation. To fix completely the markovian Langevin
+dynamics we choose the dissipation coefficient, that is a function of the
+temperature, guided by preliminary Monte Carlo simulations for various
+temperatures. Assuming a relationship between Monte Carlo time and real time,
+we estimate the delay in thermalization brought about by dissipation and noise.

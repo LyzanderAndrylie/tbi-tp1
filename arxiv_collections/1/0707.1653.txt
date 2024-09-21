@@ -1,0 +1,11 @@
+Bose-Einstein condensates subject to short pulses (`kicks') from standing
+waves of light represent a nonlinear analogue of the well-known chaos paradigm,
+the quantum kicked rotor. Previous studies of the onset of dynamical
+instability (ie exponential proliferation of non-condensate particles)
+suggested that the transition to instability might be associated with a
+transition to chaos. Here we conclude instead that instability is due to
+resonant driving of Bogoliubov modes. We investigate the excitation of
+Bogoliubov modes for both the quantum kicked rotor (QKR) and a variant, the
+double kicked rotor (QKR-2). We present an analytical model, valid in the limit
+of weak impulses which correctly gives the scaling properties of the resonances
+and yields good agreement with mean-field numerics.

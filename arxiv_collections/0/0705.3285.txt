@@ -1,0 +1,20 @@
+Using a density-functional-based transport method we study the conduction
+properties of several biphenyl-derived dithiol (BPDDT) molecules wired to gold
+electrodes. The BPDDT molecules differ in their side groups, which control the
+degree of conjugation of the pi-electron system. We have analyzed the
+dependence of the low-bias zero-temperature conductance on the tilt angle phi
+between the two phenyl ring units, and find that it follows closely a
+cos^2(phi) law, as expected from an effective pi-orbital coupling model. We
+show that the tilting of the phenyl rings results in a decrease of the
+zero-temperature conductance by roughly two orders of magnitude, when going
+from a planar conformation to a configuration in which the rings are
+perpendicular. In addition we demonstrate that the side groups, apart from
+determining phi, have no influence on the conductance. All this is in agreement
+with the recent experiment by Venkataraman et al. [Nature 442, 904 (2006)].
+Finally, we study the temperature dependence of both the conductance and its
+fluctuations and find qualitative differences between the examined molecules.
+In this analysis we consider two contributions to the temperature behavior, one
+coming from the Fermi functions and the other one from a thermal average over
+different contact configurations. We illustrate that the fluctuations of the
+conductance due to temperature-induced changes in the geometric structure of
+the molecule can be reduced by an appropriate design.

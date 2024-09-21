@@ -1,0 +1,13 @@
+A pronounced step-like (kink) behavior in the temperature dependence of
+resistivity $\rho (T)$ is observed in the optimally-doped
+$Sm_{1.85}Ce_{0.15}CuO_4$ thin films around $T_{sf}=87K$ and attributed to
+manifestation of strong spin fluctuations induced by $Sm^{3+}$ moments with the
+energy $\hbar \omega_{sf}=k_BT_{sf}\simeq 7meV$. In addition to fluctuation
+induced contribution $\rho_{sf}(T)$ due to thermal broadening effects (of the
+width $\omega_{sf}$), the experimental data are found to be well fitted
+accounting for residual (zero-temperature) $\rho_{res}$, electron-phonon $\rho
+_{e-ph}(T)=AT$ and electron-electron $\rho_{e-e}(T)=BT^2$ contributions. The
+best fits produced $\omega_p=2.1meV$, $\tau_0^{-1}=9.5\times 10^{-14}s^{-1}$,
+$\lambda =1.2$, and $E_F=0.2eV$ for estimates of the plasmon frequency, the
+impurity scattering rate, electron-phonon coupling constant, and the Fermi
+energy, respectively.

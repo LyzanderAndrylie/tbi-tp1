@@ -1,0 +1,18 @@
+The composition of the eta and eta' mesons has long been a source of
+discussion and is of current interest with new experimental results appearing.
+We investigate what can be learnt from a number of different processes: V to P
+gamma and P to V gamma (V and P are light vector and pseudoscalar mesons
+respectively), P to gamma gamma, J/psi,psi' to P gamma, J/psi,psi' to P V, and
+chi_{c0,2} to PP. These constrain the eta-eta' mixing angle to a consistent
+value, phi approx 42 degrees; we find that the c cbar components are lesssim 5%
+in amplitude. We also find that, while the data hint at a small gluonic
+component in the eta', the conclusions depend sensitively on unknown form
+factors associated with exclusive dynamics. In addition, we predict BR(psi' to
+eta' gamma) approx 1 10^{-5} and BR(chi_{c0} to eta eta') approx 2 10^{-5} - 1
+10^{-4}. We provide a method to test the mixing using chi_{c2} to eta eta, eta'
+eta', and eta eta' modes and make some general observations on chi_{c0,2}
+decays. We also survey the semileptonic and hadronic decays of bottom and
+charmed mesons and find some modes where the mixing angle can be extracted
+cleanly with the current experimental data, some where more data will allow
+this, and some where a more detailed knowledge of the different amplitudes is
+required.

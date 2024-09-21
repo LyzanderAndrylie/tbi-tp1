@@ -1,0 +1,10 @@
+We investigate the modification of the spontaneous emission dynamics and
+external quantum efficiency for self-assembled InGaAs quantum dots coupled to
+extended and localised photonic states in GaAs 2D-photonic crystals. The
+2D-photonic bandgap is shown to give rise to a 5-10 times enhancement of the
+external quantum efficiency whilst the spontaneous emission rate is
+simultaneously reduced by a comparable factor. Our findings are quantitatively
+explained by a modal redistribution of spontaneous emission due to the modified
+local density of photonic states. The results suggest that quantum dots
+embedded within 2D-photonic crystals are suitable for practical single photon
+sources with high external efficiency.

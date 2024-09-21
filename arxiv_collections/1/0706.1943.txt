@@ -1,0 +1,9 @@
+Let G be a finitely generated group, equipped with the word metric d
+associated with some finite set of generators. The Hilbert compression exponent
+of G is the supremum over all $\alpha\ge 0$ such that there exists a Lipschitz
+mapping $f:G\to L_2$ and a constant $c>0$ such that for all $x,y\in G$ we have
+$\|f(x)-f(y)\|_2\ge cd(x,y)^\alpha.$ In \cite{AGS06} it was shown that the
+Hilbert compression exponent of the wreath product $\Z\bwr \Z $ is at most
+$\frac34$, and in \cite{NP07} was proved that this exponent is at least
+$\frac23$. Here we show that $\frac23$ is the correct value. Our proof is based
+on an application of K. Ball's notion of Markov type.

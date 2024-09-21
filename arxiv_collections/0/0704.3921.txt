@@ -1,0 +1,8 @@
+In this paper, we establish two new types of invariant sets for the coupled
+nonlinear Schrodinger system on $\mathbb{R}^n$, and derive two sharp thresholds
+of blow-up and global existence for its solution. Some analogous results for
+the nonlinear Schrodinger system posed on the hyperbolic space $\mathbb{H}^n$
+and on the standard 2-sphere $\mathbb{S}^2$ are also presented. Our arguments
+and constructions are improvements of some previous works on this direction. At
+the end, we give some heuristic analysis about the strong instability of the
+solitary waves.

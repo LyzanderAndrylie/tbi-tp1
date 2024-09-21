@@ -1,0 +1,10 @@
+We investigate the effect of edge defects (vacancies) and impurities
+(substitutional dopants) on the robustness of spin-polarization in graphene
+nanoribbons (GNRs) with zigzag edges, using density-functional-theory
+calculations. We found that the stability of the spin state and its magnetic
+moments decrease continuously with increasing concentration of defects or
+impurities. The system generally becomes non-magnetic at the concentration of
+one edge defect (impurity) per 10 angstrom. The spin suppression is shown to be
+caused by reduction and removal of edge states at the Fermi energy. Our
+analysis implies an important criterion on the GNR samples for spintronics
+applications.

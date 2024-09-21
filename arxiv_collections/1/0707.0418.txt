@@ -1,0 +1,13 @@
+It is known that hermitean random matrix ensembles can be identified with
+symmetric coset spaces of Lie groups, or else with tangent spaces of the same.
+This results in a classification of random matrix ensembles as well as
+applications in practical calculations of physical observables. In this paper
+we show that a large number of non-hermitean random matrix ensembles defined by
+physically motivated symmetries - chiral symmetry, time reversal invariance,
+space rotation invariance, particle-hole symmetry, or different reality
+conditions - can likewise be identified with symmetric spaces. We give explicit
+representations of the random matrix ensembles identified with lateral algebra
+subspaces, and of the corresponding symmetric subalgebras spanning the group of
+invariance. Among the ensembles listed we identify as special cases all the
+hermitean ensembles identified with Cartan classes of symmetric spaces and the
+three Ginibre ensembles with complex eigenvalues.

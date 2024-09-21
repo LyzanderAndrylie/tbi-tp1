@@ -1,0 +1,16 @@
+Consider a model parameterized by a scalar parameter of interest and a
+nuisance parameter vector. Inference about the parameter of interest may be
+based on the signed root of the likelihood ratio statistic R. The standard
+normal approximation to the conditional distribution of R typically has error
+of order O(n^{-1/2}), where n is the sample size. There are several
+modifications for R, which reduce the order of error in the approximations. In
+this paper, we mainly investigate Barndorff-Nielsen's modified directed
+likelihood ratio statistic, Severini's empirical adjustment, and DiCiccio and
+Martin's two modifications, involving the Bayesian approach and the conditional
+likelihood ratio statistic. For each modification, two formats were employed to
+approximate the conditional cumulative distribution function; these are
+Barndorff-Nielson formats and the Lugannani and Rice formats. All
+approximations were applied to inference on the ratio of means for two
+independent exponential random variables. We constructed one and two-sided
+hypotheses tests and used the actual sizes of the tests as the measurements of
+accuracy to compare those approximations.

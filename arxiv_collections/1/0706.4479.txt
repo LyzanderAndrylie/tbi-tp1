@@ -1,0 +1,12 @@
+We report on the demonstration of broadband squeezed laser beams that show a
+frequency dependent orientation of the squeezing ellipse. Carrier frequency as
+well as quadrature angle were stably locked to a reference laser beam at
+1064nm. This frequency dependent squeezing was characterized in terms of noise
+power spectra and contour plots of Wigner functions. The later were measured by
+quantum state tomography. Our tomograph allowed a stable lock to a local
+oscillator beam for arbitrary quadrature angles with one degree precision.
+Frequency dependent orientations of the squeezing ellipse are necessary for
+squeezed states of light to provide a broadband sensitivity improvement in
+third generation gravitational wave interferometers. We consider the
+application of our system to long baseline interferometers such as a future
+squeezed light upgraded GEO600 detector.

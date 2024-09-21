@@ -1,0 +1,12 @@
+A which-way measurement in Young's double-slit will destroy the interference
+pattern. Bohr claimed this complementarity between wave- and particle behaviour
+is enforced by Heisenberg's uncertainty principle: distinguishing two positions
+a distance s apart transfers a random momentum q \sim \hbar/s to the particle.
+This claim has been subject to debate: Scully et al. asserted that in some
+situations interference can be destroyed with no momentum transfer, while
+Storey et al. asserted that Bohr's stance is always valid. We address this
+issue using the experimental technique of weak measurement. We measure a
+distribution for q that spreads well beyond [-\hbar/s, \hbar/s], but
+nevertheless has a variance consistent with zero. This weakvalued
+momentum-transfer distribution P_{wv}(q) thus reflects both sides of the
+debate.

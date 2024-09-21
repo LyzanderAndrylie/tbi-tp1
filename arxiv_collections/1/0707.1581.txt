@@ -1,0 +1,17 @@
+We propose a new formulation of the fluctuating lattice Boltzmann equation
+that is consistent with both equilibrium statististical mechanics and
+fluctuating hydrodynamics. The formalism is based on a generalized lattice-gas
+model, with each velocity direction occupied by many particles. We show that
+the most probable state of this model corresponds to the usual equilibrium
+distribution of the lattice Boltzmann equation. Thermal fluctuations about this
+equilibrium are controlled by the mean number of particles at a lattice site.
+Stochastic collision rules are described by a Monte Carlo process satisfying
+detailed balance. This allows for a straightforward derivation of discrete
+Langevin equations for the fluctuating modes. It is shown that all
+non-conserved modes should be thermalized, as first pointed out by Adhikari et
+al.; any other choice violates the condition of detailed balance. A
+Chapman-Enskog analysis is used to derive the equations of fluctuating
+hydrodynamics on large length and time scales; the level of fluctuations is
+shown to be thermodynamically consistent with the equation of state of an
+isothermal, ideal gas. We believe this formalism will be useful in developing
+new algorithms for thermal and multiphase flows.

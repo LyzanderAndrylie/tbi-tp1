@@ -1,0 +1,10 @@
+We show that one of the key characteristics of interacting one-dimensional
+electronic quantum systems, the separation of spin and charge, can be observed
+in a two-component system of bosonic ultracold atoms even close to a competing
+phase separation regime. To this purpose we determine the real-time evolution
+of a single particle excitation and the single-particle spectral function using
+density-matrix renormalization group techniques. Due to efficient bosonic
+cooling and good tunability this setup exhibits very good conditions for
+observing this strong correlation effect. In anticipation of experimental
+realizations we calculate the velocities for spin and charge perturbations for
+a wide range of parameters.

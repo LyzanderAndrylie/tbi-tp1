@@ -1,0 +1,8 @@
+Quantum vacuum energy (Casimir energy) is reviewed for a mathematical
+audience as a topic in spectral theory. Then some one-dimensional systems are
+solved exactly, in terms of closed classical paths and periodic orbits. The
+relations among local spectral densities, energy densities, global eigenvalue
+densities, and total energies are demonstrated. This material provides
+background and motivation for the treatment of higher-dimensional systems
+(self-adjoint second-order partial differential operators) by semiclassical
+approximation and other methods.

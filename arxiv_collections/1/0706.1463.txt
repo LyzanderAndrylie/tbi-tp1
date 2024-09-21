@@ -1,0 +1,12 @@
+In NdBa_2[Cu_{1-y}Ni_y]_3O_{7-\delta}, magnetic Ni-impurities suppress Tc but
+at the same time the pseudogap is strongly enhanced. This unique feature makes
+it an ideal system to study possible relations between the anomalous Nernst
+effect, superconductivity and the pseudogap. We present Nernst effect
+measurements on a series of optimally doped (O_7) and underdoped (O_{6.8})
+samples with Ni contents ranging from y=0 to 0.12. In all samples an onset of
+the Nernst signal is found at T^\nu > Tc. For the optimally doped samples T^\nu
+and Tc decrease simultaneously with increasing Ni content. The underdoped
+samples show a different behavior, i.e. the onset of the Nernst signal is
+hardly affected by increasing the Ni content from y=0 to 0.03. Irrespective of
+the oxygen content, T^\nu clearly does not track the enhanced pseudogap
+temperature T*.

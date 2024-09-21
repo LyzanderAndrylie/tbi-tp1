@@ -1,0 +1,6 @@
+Invariance principles are obtained for a Markov process on a half-line with
+continuous paths on the interior. The domains of attraction of the two
+different types of self-similar processes are investigated. Our approach is to
+establish convergence of excursion point processes, which is based on It\^{o}'s
+excursion theory and a recent result on convergence of excursion measures by
+Fitzsimmons and the present author.

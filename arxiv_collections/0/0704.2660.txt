@@ -1,0 +1,8 @@
+We study the effect of mass imbalance on the phase diagram of a two-component
+fermionic mixture with attractive interactions in optical lattices. Using
+static and dynamical mean-field theories, we show that the pure superfluid
+phase is stable for all couplings when the mass imbalance is smaller than a
+limiting value. For larger imbalance, phase separation between a superfluid and
+a charge-density wave takes place when the coupling exceeds a critical
+strength. The harmonic trap induces a spatial segregation of the two phases,
+with a rapid variation of the density at the boundary.

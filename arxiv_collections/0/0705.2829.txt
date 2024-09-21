@@ -1,0 +1,5 @@
+We prove that Prym varieties are characterized geometrically by the existence
+of a symmetric pair of quadrisecant planes of the associated Kummer variety. We
+also show that Prym varieties are characterized by certain (new)
+theta-functional equations. For this purpose we construct and study a
+difference-differential analog of the Novikov-Veselov hierarchy.

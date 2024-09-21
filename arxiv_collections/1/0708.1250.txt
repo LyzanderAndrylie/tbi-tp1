@@ -1,0 +1,12 @@
+At moderately low momentum transfer (-t up to 1 GeV^2) the coupling to the
+vector meson production channels gives the dominant contribution to real
+Compton and deeply virtual Compton scattering (DVCS). Starting from a Regge
+Pole approach that successfully describes vector meson production, the singular
+part of the corresponding box diagrams (where the intermediate vector
+meson-baryon pair propagates on-shell) is evaluated without any further
+assumptions (unitarity). Such a treatment explains not only the unexpectedly
+large DVCS unpolarized cross section that has been recently measured at
+Jefferson Laboratory (JLab), but also all the beam spin and charge asymmetries
+that has been measured at JLab and Hermes, without explicit need of Generalized
+Parton Distributions (GPD). The issue of the relationship between the two
+approaches is addressed.

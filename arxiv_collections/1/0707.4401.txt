@@ -1,0 +1,9 @@
+A set of all states of a bi-partite quantum system can be divided into
+subsets each of which contains states with the same degree of entanglement. In
+this paper we address a question whether local operations (without classical
+communication) affect the entanglement-induced state ordering. We show that
+arbitrary unilocal channel (i.e., a channel that acts on one sub-system of a
+bi-partite system only) might change the ordering for an arbitrary nontrivial
+measure of entanglement. A slightly weaker result holds for the maximally
+entangled states. In particular, the maximally entangled states might not
+remain the most entangled ones at the output of a unilocal noise channel.

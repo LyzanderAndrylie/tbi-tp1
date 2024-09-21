@@ -1,0 +1,22 @@
+The Hubble Ultra Deep Field source JD2 presented in Mobasher et al. (2005) is
+an unusual galaxy that is very faint at all wavelengths shortward of 1.1
+micron. Photometric redshift fits to data at 0.4 to 8 microns yield a
+significant probability that it is an extremely massive galaxy at z~6.5. In
+this paper we present new photometry at 16 microns and 22 micron from Spitzer
+Infrared Spectrograph (IRS) peak-up imaging of the Great Observatories Origins
+Deep Survey (GOODS) fields. We find that the spectral energy distribution shows
+a factor of ~4 rise in flux density between the 16 micron and 22 micron
+bandpass which is most likely due to the entrance of polycyclic aromatic
+hydrocarbon emission features into the 22 micron and 24 micron passbands. The
+flux ratio between these bandpasses can be best fit by a z~1.7 luminous
+infrared galaxy with a bolometric luminosity of (2-6)\times10^{11} L_sun
+corresponding to a star-formation rate of 80 M_sun/yr. The predicted flux
+density values at other longer wavelengths are below the detection limits of
+current instrumentation but such sources could potentially be detected in
+lensed submillimeter surveys. Re-evaluation of the optical/near-infrared
+photometry continues to favor z>6 photometric redshift solutions, but we argue
+that the consistency of the multiwavelength parameters of this galaxy with
+other dusty starbursts favor the z~2 mid-infrared photometric redshift. The
+data presented here provide evidence that optically undetected near-infrared
+sources which are detected at 24 microns are most likely dusty, starburst
+galaxies at a redshift of z~2 with stellar masses >10^{10} M_sun.

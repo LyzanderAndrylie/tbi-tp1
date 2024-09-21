@@ -1,0 +1,14 @@
+The mass matrices of the charged leptons and neutrinos, previously derived in
+a minimal S_3-invariant extension of the Standard Model, were reparametrized in
+terms of their eigenvalues. We obtained explicit, analytical expressions for
+all entries in the neutrino mixing matrix, V_PMNS, the neutrino mixing angles
+and the Majorana phases as functions of the masses of charged leptons and
+neutrinos in excellent agreement with the latest experimental values. The
+resulting V_PMNS matrix is very close to the tri-bimaximal form of the neutrino
+mixing matrix. We also derived explicit analytical expressions for the matrices
+of the Yukawa couplings and computed the branching ratios of some selected
+flavour changing neutral current processes as functions of the masses of the
+charged leptons and the neutral Higgs bosons. We find that the S_3 x Z_2
+flavour symmetry and the strong mass hierarchy of the charged leptons strongly
+suppress the FCNC processes in the leptonic sector well below the present
+experimental upper bounds by many orders of magnitude.

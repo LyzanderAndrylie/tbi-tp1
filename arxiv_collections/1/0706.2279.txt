@@ -1,0 +1,13 @@
+Waveguides composed of electromagnetically-coupled optical microcavities
+(coupled resonator optical waveguides or CROWs) can be used for light guiding,
+slowing and storage. In this paper, we present a two-dimensional analysis of
+finite-size straight and curved CROW sections based on a rigorous Muller
+boundary integral equations method. We study mechanisms of the coupling of
+whispering gallery (WG) modes and guiding light around bends in CROWs composed
+of both identical and size-mismatched microdisk resonators. Our accurate
+analysis reveals differences in WG modes coupling in the vicinity of bends in
+CROWs composed of optically-large and wavelength-scale microcavities. We
+propose and discuss possible ways to design low-loss CROW bends and to reduce
+bend losses. These include selecting specific bend angles depending on the
+azimuthal order of the WG mode and tuning the radius of the microdisk
+positioned at the CROW bend.

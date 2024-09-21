@@ -1,0 +1,16 @@
+We model the mass distribution in the recently discovered Einstein ring LBG
+J213512.73-010143 (the `Cosmic Eye') using archival Hubble Space Telescope
+imaging. We reconstruct the mass density profile of the z=0.73 lens and the
+surface brightness distribution of the z=3.07 source and find that the observed
+ring is best fit with a dual-component lens model consisting of a baryonic
+Sersic component nested within a dark matter halo. The dark matter halo has an
+inner slope of 1.42+/-0.23, consistent with CDM simulations after allowing for
+baryon contraction. The baryonic component has a B-band mass-to-light ratio of
+1.71+0.28-0.38 (solar units) which when evolved to the present day is in
+agreement with local ellipticals. Within the Einstein radius of 0.77'' (5.6
+kpc), the baryons account for (46+/-11)% of the total lens mass. External shear
+from a nearby foreground cluster is accurately predicted by the model. The
+reconstructed surface brightness distribution in the source plane clearly shows
+two peaks. Through a generalisation of our lens inversion method, we conclude
+that the redshifts of both peaks are consistent with each other, suggesting
+that we are seeing structure within a single galaxy.

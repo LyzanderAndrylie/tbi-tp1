@@ -1,0 +1,4 @@
+"Granular elasticity," useful for calculating static stress distributions in
+granular media, is generalized by including the effects of slowly moving,
+deformed grains. The result is a hydrodynamic theory for granular solids that
+agrees well with models from soil mechanics.

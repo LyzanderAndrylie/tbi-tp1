@@ -1,0 +1,13 @@
+Exciton effects are studied in single-wall boron-nitride (BN) nanotubes.
+Linear absorption spectra are calculated with changing the chiral index of the
+zigzag nanotubes. We consider the extended Hubbard model with atomic energies
+at the boron and nitrogen sites. Exciton effects are calculated using the
+configuration interaction technique. The Coulomb interaction dependence of the
+band gap, the lowest exciton energy, and the binding energy of the exciton are
+discussed. The optical gap of the (5,0) nanotube is about 6 eV at the onsite
+interaction U=2t with the hopping integral t=1.2 eV. The binding energy of the
+exciton is 0.50 eV for these parameters. This energy agrees well with that of
+other theoretical investigations. We find that the energy gap and the binding
+energy are almost independent of the geometries of the nanotubes. This novel
+property is in contrast with that of the carbon nanotubes which show metallic
+and semiconducting properties depending on the chiral index.

@@ -1,0 +1,18 @@
+This paper extends the gas-kinetic scheme for one-dimensional inviscid
+shallow water equations (J. Comput. Phys. 178 (2002), pp. 533-562) to
+multidimensional gas dynamic equations under gravitational fields. Four
+important issues in the construction of a well-balanced scheme for gas dynamic
+equations are addressed. First, the inclusion of the gravitational source term
+into the flux function is necessary. Second, to achieve second-order accuracy
+of a well-balanced scheme, the Chapman-Enskog expansion of the Boltzmann
+equation with the inclusion of the external force term is used. Third, to avoid
+artificial heating in an isolated system under a gravitational field, the
+source term treatment inside each cell has to be evaluated consistently with
+the flux evaluation at the cell interface. Fourth, the multidimensional
+approach with the inclusion of tangential gradients in two-dimensional and
+three-dimensional cases becomes important in order to maintain the accuracy of
+the scheme. Many numerical examples are used to validate the above issues,
+which include the comparison between the solutions from the current scheme and
+the Strang splitting method. The methodology developed in this paper can also
+be applied to other systems, such as semi-conductor device simulations under
+electric fields.

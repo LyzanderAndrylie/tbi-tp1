@@ -1,0 +1,11 @@
+In this paper, we introduce the condition of theta-locality which can be used
+as a substitute for microcausality in quantum field theory on noncommutative
+spacetime. This condition is closely related to the asymptotic commutativity
+which was previously used in nonlocal QFT. Heuristically, it means that the
+commutator of observables behaves at large spacelike separation like
+$\exp(-|x-y|^2/\theta)$, where $\theta$ is the noncommutativity parameter. The
+rigorous formulation given in the paper implies averaging fields with suitable
+test functions. We define a test function space which most closely corresponds
+to the Moyal star product and prove that this space is a topological algebra
+under the star product. As an example, we consider the simplest normal ordered
+monomial $:\phi\star\phi:$ and show that it obeys the theta-locality condition.

@@ -1,0 +1,10 @@
+Magnetotransport measurements on the overdoped cuprate La_{1.7}Sr_{0.3}CuO_4
+are fitted using the Ong construction and band parameters inferred from
+angle-resolved photoemission. Within a band picture, the low temperature Hall
+data can only be fitted satisfactorily by invoking strong basal-plane
+anisotropy in the mean-free-path $\ell$. This violation of the isotropic-$\ell$
+approximation supports a picture of dominant small-angle elastic scattering in
+cuprates due to out-of-plane substitutional disorder. We show that both band
+anisotropy and anisotropy in the elastic scattering channel strongly
+renormalize the Hall coefficient in overdoped La_{2-x}Sr_xCuO_4 over a wide
+doping and temperature range.

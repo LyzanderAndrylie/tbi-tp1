@@ -1,0 +1,7 @@
+We describe the hardwired implementation of algorithms for Monte Carlo
+simulations of a large class of spin models. We have implemented these
+algorithms as VHDL codes and we have mapped them onto a dedicated processor
+based on a large FPGA device. The measured performance on one such processor is
+comparable to O(100) carefully programmed high-end PCs: it turns out to be even
+better for some selected spin models. We describe here codes that we are
+currently executing on the IANUS massively parallel FPGA-based system.

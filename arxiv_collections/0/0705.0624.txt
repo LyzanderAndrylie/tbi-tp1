@@ -1,0 +1,7 @@
+We complete the analysis of meson resonance contributions to chiral
+low-energy constants of O(p^4) by including all quark-antiquark bound states
+with orbital angular momentum less or equal to one. Different tensor meson
+Lagrangians used in previous work are shown to produce the same final results
+for the low-energy constants once QCD short-distance constraints are properly
+implemented. We also discuss the possible relevance of axial-vector mesons with
+odd C-parity.

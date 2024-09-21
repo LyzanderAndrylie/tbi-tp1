@@ -1,0 +1,11 @@
+We calculate the dc supercurrent through a Josephson tunnel junction
+consisting of an antiferromagnetic (AF) interlayer sandwiched between two
+d-wave superconductors (d). Such d/AF/d junctions exhibit a rich dependence of
+the Josephson current on the interlayer parameters, including the possibility
+of 0-pi transitions with varying temperature or interlayer thickness.
+Furthermore, we study d/I/d junctions when the dSC leads include subdominant
+magnetic correlations. In this case induced magnetism near the interface can
+strongly diminish the critical current for 110 oriented junctions whereas no
+suppression is obtained for the 100 orientation. This may help resolve a
+long-standing puzzle of the critical current versus grain boundary angle in
+high-T_c superconductors.

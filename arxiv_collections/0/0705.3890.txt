@@ -1,0 +1,9 @@
+Using a Ginzburg-Landau model, we study the phase transition behavior of
+compressible Ising systems at constant volume by varying the temperature $T$
+and the applied magnetic field $h$. We show that two phases can coexist
+macroscopically in equilibrium within a closed region in the $T$-$h$ plane. It
+occurence is favored near tricriticality. We find a field-induced critical
+point, where the correlation length diverges, the difference of the coexisting
+two phases and the surface tension vanish, but the isothermal magnetic
+susceptibility does not diverge in the mean field theory. We also investigate
+phase ordering numerically.

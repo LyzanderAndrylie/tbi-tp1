@@ -1,0 +1,5 @@
+A new family of one-dimensional quantum models is proposed in terms of new
+potentials with a Gaussian asymptotic behavior but approaching to the potential
+of the harmonic o scillator when $x\to 0$. It is shown that, in the energy
+basis of the harmonic oscillator, the matrix elements of the Hamiltonian
+operators of these new models can be derived from generating functionals.

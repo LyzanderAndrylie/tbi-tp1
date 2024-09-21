@@ -1,0 +1,23 @@
+We performed interferometric observations of a high-mass protostellar
+candidate IRAS 18566+0408 in the \nh3 (J,K)=(1,1), (2,2) and (3,3) inversion
+transitions, the SiO J=2-1 and HCN J=1-0 lines, and the 43 and 87 GHz continuum
+emission using the VLA and OVRO. The 87 GHz continuum emission reveals two
+continuum peaks MM-1 and MM-2 along a molecular ridge. The dominant peak MM-1
+coincides with a compact emission feature at 43 GHz, and arises mostly from the
+dust emission. For dust emissivity index $\beta$ of 1.3, the masses in the dust
+peaks amount to 70 \msun for MM-1, and 27 \msun for MM-2. Assuming internal
+heating, the central luminosities of MM-1 and MM-2 are $6 \times 10^4$ and $8
+\times 10^3$ \lsun, respectively.
+  The SiO emission reveals a well collimated outflow emanating from MM-1. The
+jet-like outflow is also detected in \nh3 at velocities similar to the SiO
+emission. The outflow, with a mass of 27 \msun, causes significant heating in
+the gas to temperatures of 70 K, much higher than the temperature of $\lsim 15$
+K in the extended core. Compact ($< 3''$) and narrow line ($<1.5$ \kms-1) \nh3
+(3,3) emission features are found associated with the outflow. They likely
+arise from weak population inversion in \nh3 similar to the maser emission.
+  Toward MM-1, there is a compact \nh3 structure with a linewidth that
+increases from 5.5 \kms-1 FHWM measured at 3$''$ resolution to 8.7 \kms-1\
+measured at 1$''$ resolution. This linewidth is much larger than the FWHM of
+$<$ 2 \kms-1 in the entire core, and does not appear to originate from the
+outflow. This large linewidth may arise from rotation/infall, or relative
+motions of unresolved protostellar cores.

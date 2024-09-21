@@ -1,0 +1,6 @@
+To beat PNS attack, decoy state quantum key distribution (QKD) based on
+coherent state has been studied widely. We present a decoy state QKD protocol
+with modified coherent state (MCS). By destruction quantum interference, MCS
+with fewer multi-photon events can be get, which may improve key bit rate and
+security distance of QKD. Through numerical simulation, we show about 2-dB
+increment on security distance for BB84 protocol.

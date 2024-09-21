@@ -1,0 +1,9 @@
+The electric field increases toward infinity in the narrow region between
+closely adjacent perfect conductors as they approach each other. Much attention
+has been devoted to the blow-up estimate, especially in two dimensions, for the
+practical relevance to high stress concentration in fiber-reinforced elastic
+composites. In this paper, we establish optimal estimates for the electric
+field associated with the distance between two spherical conductors in
+$n-${dimensional spaces for $n \geq 2$}. {The novelty of these estimates is
+that they explicitly describe the dependency of the blow-up rate on the
+geometric parameters: the radii of the conductors.}

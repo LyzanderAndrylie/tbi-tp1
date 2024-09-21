@@ -1,0 +1,6 @@
+The variational cluster approximation is applied to the calculation of the
+single particle spectral function of NiO. Trial self energies and the numerical
+value of the Luttinger-Ward functional are obtained by exact diagonalization of
+NiO6-clusters and the single particle parameters of the clusters serve as
+variational parameters to obtain a stationary point of the grand potential of
+the lattice system. Good agreement with experiment is obtained.

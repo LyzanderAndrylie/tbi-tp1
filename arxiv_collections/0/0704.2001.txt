@@ -1,0 +1,23 @@
+In this paper, we deal with a generalization of the geometry of
+parallelizable manifolds, or the absolute parallelism (AP-) geometry, in the
+context of generalized Lagrange spaces. All geometric objects defined in this
+geometry are not only functions of the positional argument $x$, but also depend
+on the directional argument $y$. In other words, instead of dealing with
+geometric objects defined on the manifold $M$, as in the case of classical
+AP-geometry, we are dealing with geometric objects in the pullback bundle
+$\pi^{-1}(TM)$ (the pullback of the tangent bundle $TM$ by $ \pi: T
+M\longrightarrow M$). Many new geometric objects, which have no counterpart in
+the classical AP-geometry, emerge in this more general context. We refer to
+such a geometry as generalized AP-geometry (GAP-geometry). In analogy to
+AP-geometry, we define a $d$-connection in $\pi^{-1}(TM)$ having remarkable
+properties, which we call the canonical $d$-connection, in terms of the unique
+torsion-free Riemannian $d$-connection. In addition to these two
+$d$-connections, two more $d$-connections are defined, the dual and the
+symmetric $d$-connections. Our space, therefore, admits twelve curvature
+tensors (corresponding to the four defined $d$-connections), three of which
+vanish identically. Simple formulae for the nine non-vanishing curvatures
+tensors are obtained, in terms of the torsion tensors of the canonical
+$d$-connection. The different $W$-tensors admitted by the space are also
+calculated. All contractions of the $h$- and $v$-curvature tensors and the
+$W$-tensors are derived. Second rank symmetric and skew-symmetric tensors,
+which prove useful in physical applications, are singled out.

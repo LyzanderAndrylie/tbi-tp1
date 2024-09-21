@@ -1,0 +1,10 @@
+We consider the possibility to employ a quantum wire realized in a
+two-dimensional electron gas (2DEG) as a spin ratchet. We show that a net spin
+current without accompanying net charge transport can be induced in the
+nonlinear regime by an unbiased external driving via an ac voltage applied
+between the contacts at the ends of the quantum wire. To achieve this we make
+use of the coupling of the electron spin to inhomogenous magnetic fields
+created by ferromagnetic stripes patterned on the semiconductor heterostructure
+that harbours the 2DEG. Using recursive Green function techniques we
+numerically study two different setups, consisting of one and two ferromagnetic
+stripes, respectively.

@@ -1,0 +1,9 @@
+A hybrid ferromagnet/semiconductor device is used to determine a lower bound
+on the spin lifetime for conduction electrons in silicon. We use spin
+precession to self-consistently measure the drift velocity vs. drift field of
+spin-polarized electrons and use this electronic control to change the transit
+time between electron injection and detection. A measurement of normalized
+magnetocurrent as a function of drift velocity is used with a simple
+exponential-decay model to argue that the lifetime obtained (~2 ns) is
+artificially lowered by electronic effects and is likely orders of magnitude
+higher.

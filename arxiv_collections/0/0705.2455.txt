@@ -1,0 +1,16 @@
+Two examples of magnetic anti-dynamos in magnetohydrodynamics (MHD) are
+given. The first is a 3D metric conformally related to Arnold cat fast dynamo
+metric: ${ds_{A}}^{2}=e^{-{\lambda}z}dp^{2}+e^{{\lambda}z}dq^{2}+dz^{2}$ is
+shown to present a behaviour of non-dynamos where the magnetic field
+exponentially decay in time. The curvature decay as z-coordinates increases
+without bounds. Some of the Riemann curvature components such as $R_{pzpz}$
+also undergoes dissipation while component $R_{qzqz}$ increases without bounds.
+The remaining curvature component $R_{pqpq}$ is constant on the torus surface.
+The other anti-dynamo which may be useful in plasma astrophysics is the thin
+magnetic flux rope or twisted magnetic thin flux tube which also behaves as
+anti-dynamo since it also decays with time. This model is based on the
+Riemannian metric of the magnetic twisted flux tube where the axis possesses
+Frenet curvature and torsion. Since in this last example the Frenet torsion of
+the axis of the rope is almost zero, or the possible dynamo is almost planar it
+satisfies Zeldovich theorem which states that planar dynamos do not exist.
+Changing in topology of this result may result on a real dynamo as discussed.

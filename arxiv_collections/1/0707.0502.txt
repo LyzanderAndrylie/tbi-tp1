@@ -1,0 +1,15 @@
+We consider solution of multiply shifted systems of nonsymmetric linear
+equations, possibly also with multiple right-hand sides. First, for a single
+right-hand side, the matrix is shifted by several multiples of the identity.
+Such problems arise in a number of applications, including lattice quantum
+chromodynamics where the matrices are complex and non-Hermitian. Some Krylov
+iterative methods such as GMRES and BiCGStab have been used to solve multiply
+shifted systems for about the cost of solving just one system. Restarted GMRES
+can be improved by deflating eigenvalues for matrices that have a few small
+eigenvalues. We show that a particular deflated method, GMRES-DR, can be
+applied to multiply shifted systems. In quantum chromodynamics, it is common to
+have multiple right-hand sides with multiple shifts for each right-hand side.
+We develop a method that efficiently solves the multiple right-hand sides by
+using a deflated version of GMRES and yet keeps costs for all of the multiply
+shifted systems close to those for one shift. An example is given showing this
+can be extremely effective with a quantum chromodynamics matrix.

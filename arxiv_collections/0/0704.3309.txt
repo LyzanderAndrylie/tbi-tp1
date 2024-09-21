@@ -1,0 +1,11 @@
+We study transcendental singularities of a Schr\"oder map arising from a
+rational function $f$, using results from complex dynamics and Nevanlinna
+theory. These maps are transcendental meromorphic functions of finite order in
+the complex plane. We show that their transcendental singularities lie over the
+set where $f$ is not semihyperbolic (unhyperbolic). In addition, if they are
+direct, then they lie over only attracting periodic points of $f$, and
+moreover, if $f$ is a polynomial, then both direct and indirect singularities
+lie over attracting, parabolic and Cremer periodic points of $f$. We also
+obtain concrete examples of both kinds of transcendental singularities of
+Schr\"oder maps as well as a new proof of the Pommerenke-Levin-Yoccoz
+inequality and a new formulation of the Fatou conjecture.

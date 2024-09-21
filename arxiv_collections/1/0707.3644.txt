@@ -1,0 +1,9 @@
+A minority-spin resonant state at the Fe/GaAs(001) interface is predicted to
+reverse the spin polarization with voltage bias of electrons transmitted across
+this interface. Using a Green's function approach within the local spin density
+approximation we calculate spin-dependent current in a Fe/GaAs/Cu tunnel
+junction as a function of applied bias voltage. We find a change in sign of the
+spin polarization of tunneling electrons with bias voltage due to the interface
+minority-spin resonance. This result explains recent experimental data on spin
+injection in Fe/GaAs contacts and on tunneling magnetoresistance in Fe/GaAs/Fe
+magnetic tunnel junctions.

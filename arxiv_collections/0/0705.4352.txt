@@ -1,0 +1,8 @@
+We discuss the experimental signal for the Bose condensation of cold atoms in
+an optical lattice at finite temperature. Instead of using the visibility of
+the interference pattern via the time-of-flight imaging, we show that the
+momentum space density profile in the first Brillouin zone, in particular its
+bimodal distribution, provides an unambiguous signal for the Bose condensation.
+We confirm this point with detailed calculation of the change in the atomic
+momentum distribution across the condensation phase transition, taking into
+account both the global trapping potential and the atomic interaction effects.

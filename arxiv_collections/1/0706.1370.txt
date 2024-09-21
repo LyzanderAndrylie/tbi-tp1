@@ -1,0 +1,8 @@
+An exactly solvable effective model is suggested for an asymmetric spin
+ladder with dimerized rungs. Magnon mode truncation originated from magnon
+decay (recently observed in the 1D compound ${\rm IPA-CuCl}_3$) is naturally
+described within this model. Using Bethe Ansatze we described a one-magnon
+sector and obtained relations between interaction constants of the model and
+experimentally observable quantities such as the gap and truncation energies,
+spin velocity and the truncation wave vector. It is also shown that structure
+factor turns to zero at the truncation point.

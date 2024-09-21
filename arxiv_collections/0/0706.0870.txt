@@ -1,0 +1,9 @@
+We discuss a method for predicting financial movements and finding pockets of
+predictability in the price-series, which is built around inferring the
+heterogeneity of trading strategies in a multi-agent trader population. This
+work explores extensions to our previous framework (arXiv:physics/0506134).
+Here we allow for more intelligent agents possessing a richer strategy set, and
+we no longer constrain the estimate for the heterogeneity of the agents to a
+probability space. We also introduce a scheme which allows the incorporation of
+models with a wide variety of agent types, and discuss a mechanism for the
+removal of bias from relevant parameters.

@@ -1,0 +1,7 @@
+We characterize the image of the period map for cubic fourfolds with at worst
+simple singularities as the complement of an arrangement of hyperplanes in the
+period space. It follows then that the GIT compactification of the moduli space
+of cubic fourfolds is isomorphic to the Looijenga's compactification associated
+to this arrangement. This work builds on and is a natural continuation of our
+previous paper on the GIT compactification of the moduli space of cubic
+fourfolds.

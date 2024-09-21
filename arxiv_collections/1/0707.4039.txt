@@ -1,0 +1,4 @@
+Assuming the existence of a single rank-2 closed conformal Killing-Yano
+tensor with a certain symmetry we show that there exist mutually commuting
+rank-2 Killing tensors and Killing vectors. We also discuss the condition of
+separation of variables for the geodesic Hamilton-Jacobi equations.

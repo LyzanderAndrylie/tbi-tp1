@@ -1,0 +1,11 @@
+The key formula for computing the orbital magnetization of a crystalline
+system has been recently found [D. Ceresoli, T. Thonhauser, D. Vanderbilt, R.
+Resta, Phys. Rev. B {\bf 74}, 024408 (2006)]: it is given in terms of a
+Brillouin-zone integral, which is discretized on a reciprocal-space mesh for
+numerical implementation. We find here the single ${\bf k}$-point limit, useful
+for large enough supercells, and particularly in the framework of
+Car-Parrinello simulations for noncrystalline systems. We validate our formula
+on the test case of a crystalline system, where the supercell is chosen as a
+large multiple of the elementary cell. We also show that--somewhat
+counterintuitively--even the Chern number (in 2d) can be evaluated using a
+single Hamiltonian diagonalization.

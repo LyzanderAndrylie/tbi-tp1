@@ -1,0 +1,8 @@
+An experimental demonstration of a novel all-optical technique for loading
+ion traps, that has particular application to microtrap architectures, is
+presented. The technique is based on photo-ionisation of an atomic beam created
+by pulsed laser ablation of a calcium target, and provides improved temporal
+control compared to traditional trap loading methods. Ion loading rates as high
+as 125 ions per second have so far been observed. Also described are
+observations of trap loading where Rydberg state atoms are photo-ionised by the
+ion Doppler cooling laser.

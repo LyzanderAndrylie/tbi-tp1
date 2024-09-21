@@ -1,0 +1,8 @@
+A scaling relation of the anomalous Hall effect recently found in a
+ferromagnetic semiconductor (Ti,Co)O_2_ is compared with those of various
+ferromagnetic semiconductors and metals. Many of these compounds with
+relatively low conductivity sigma_xx_ < 10^4 ohm^-1 cm^-1 are also found to
+exhibit similar relation: anomalous Hall conductivity sigma_AH_ approximately
+scales as sigma_AH_ proportional to sigma_xx_^1.6, that is coincident with a
+recent theory. This relation is valid over five decades of sigma_xx_
+irrespective of metallic or hopping conduction.

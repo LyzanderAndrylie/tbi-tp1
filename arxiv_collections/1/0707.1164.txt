@@ -1,0 +1,7 @@
+A characterization of N-partite states, based on K-way (K = 2 to N)
+negativities, is proposed. The K-way partial transpose with respect to a
+subsystem is defined so as to shift the focus to K-way coherences instead of K
+subsystems of the composite system. For an N-partite system the fraction of
+K-way negativity, contributing to global negativity, is obtained. The
+entanglement measures for a given state ${\rho}$ are identified as the partial
+K-way negativities of the corresponding canonical state.

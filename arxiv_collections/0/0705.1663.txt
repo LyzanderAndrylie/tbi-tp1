@@ -1,0 +1,9 @@
+We consider discrete nonlinear hyperbolic equations on quad-graphs, in
+particular on the square lattice. The fields are associated to the vertices and
+an equation Q(x_1,x_2,x_3,x_4)=0 relates four fields at one quad. Integrability
+of equations is understood as 3D-consistency. The latter is a possibility to
+consistently impose equations of the same type on all the faces of a
+three-dimensional cube. This allows to set these equations also on
+multidimensional lattices Z^N. We classify integrable equations with complex
+fields x, and Q affine-linear with respect to all arguments. The method is
+based on analysis of singular solutions.

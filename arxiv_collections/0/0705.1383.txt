@@ -1,0 +1,10 @@
+Zero-field muon-spin-relaxation (ZF-{\boldmath $\mu$}SR) measurements were
+carried out down to 80 mK on the randomness bond system Tl$_{1-x}$K$_x$CuCl$_3$
+with $x$ = 0.44. Time spectra are well fitted by the stretched exponential
+function $\exp (-\lambda t)^{\beta}$. The muon spin relaxation rate $\lambda$
+increases rapidly with decreasing temperature, and $\beta$ tends to 0.5 at 80
+mK. The divergent increase of $\lambda$ suggests the critical slowing down of
+the frequency of the Cu-3{\it d} spin fluctuations toward a spin frozen state
+below 80 mK, and the root-exponential-like behavior of the time spectrum
+indicates that the origin of the relaxation is possibly the spatially-fixed
+fluctuating dilute moments.

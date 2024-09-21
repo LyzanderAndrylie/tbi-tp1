@@ -1,0 +1,14 @@
+We show that the Galois group $Gal(\bar{\Q} /\Q)$ operates faithfully on the
+set of connected components of the moduli spaces of surfaces of general type,
+and also that for each element $\sigma \in Gal(\bar{\Q} /\Q)$ different from
+the identity and from complex conjugation, there is a surface of general type
+such that $X$ and the Galois conjugate variety $X^{\sigma}$ have nonisomorphic
+fundamental groups. The result was announced by the second author at the
+Alghero Conference 'Topology of algebraic varieties' in september 2006. Before
+the present paper was actually written, we received a very interesting preprint
+by Robert Easton and Ravi Vakil (\cite{e-v}), where it is proven, with a
+completely different type of examples, that the Galois group $Gal(\bar{\Q}
+/\Q)$ operates faithfully on the set of irreducible components of the moduli
+spaces of surfaces of general type. We also give other simpler examples of
+surfaces with nonisomorphic fundamental groups which are Galois conjugate,
+hence have isomorphic algebraic fundamental groups.

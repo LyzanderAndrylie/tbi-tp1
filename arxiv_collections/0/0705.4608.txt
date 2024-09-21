@@ -1,0 +1,9 @@
+We conjecture a combinatorial formula for the monomial expansion of the image
+of any Schur function under the Bergeron-Garsia nabla operator. The formula
+involves nested labeled Dyck paths weighted by area and a suitable "diagonal
+inversion" statistic. Our model includes as special cases many previous
+conjectures connecting the nabla operator to quantum lattice paths. The
+combinatorics of the inverse Kostka matrix leads to an elementary proof of our
+proposed formula when q=1. We also outline a possible approach for proving all
+the extant nabla conjectures that reduces everything to the construction of
+sign-reversing involutions on explicit collections of signed, weighted objects.

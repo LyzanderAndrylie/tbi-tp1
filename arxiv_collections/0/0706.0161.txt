@@ -1,0 +1,11 @@
+A general research on chiral symmetry restoring phase transitions at zero
+temperature and finite chemical potentials under electrical neutrality
+condition has been conducted in a Nambu-Jona-Lasinio model to describe
+two-flavor normal quark matter. Depending on that $m_0/\Lambda$, the ratio of
+dynamical quark mass in vacuum and the 3D momentum cutoff in the loop
+integrals, is less or greater than 0.413, the phase transition will be second
+or first order. A complete phase diagram of $u$ quark chemical potential versus
+$m_0$ is given. With the electrical neutrality constraint, the region where
+second order phase transition happens will be wider than the one without
+electrical neutrality limitation. The results also show that, for the value of
+$m_0/\Lambda$ from QCD phenomenology, the phase transition must be first order.

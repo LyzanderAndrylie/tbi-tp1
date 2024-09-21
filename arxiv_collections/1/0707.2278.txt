@@ -1,0 +1,15 @@
+We investigate the entanglement dynamics of continuous-variable quantum
+channels in terms of an entangled squeezed state of two cavity fields in a
+general non-Markovian environment. Using the Feynman-Vernon influence
+functional theory in the coherent-state representation, we derive an exact
+master equation with time-dependent coefficients reflecting the non-Markovian
+influence of the environment. The influence of environments with different
+spectral densities, e.g., Ohmic, sub-Ohmic, and super-Ohmic, is numerically
+studied. The non-Markovian process shows its remarkable influences on the
+entanglement dynamics due to the sensitive time-dependence of the dissipation
+and noise functions within the typical time scale of the environment. The Ohmic
+environment shows a weak dissipation-noise effect on the entanglement dynamics,
+while the sub-Ohmic and super-Ohmic environments induce much more severe noise.
+In particular, the memory of the system interacting with the environment
+contributes a strong decoherence effect to the entanglement dynamics in the
+super-Ohmic case.

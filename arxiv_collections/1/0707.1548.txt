@@ -1,0 +1,13 @@
+Materialized views and indexes are physical structures for accelerating data
+access that are casually used in data warehouses. However, these data
+structures generate some maintenance overhead. They also share the same storage
+space. Most existing studies about materialized view and index selection
+consider these structures separately. In this paper, we adopt the opposite
+stance and couple materialized view and index selection to take view-index
+interactions into account and achieve efficient storage space sharing.
+Candidate materialized views and indexes are selected through a data mining
+process. We also exploit cost models that evaluate the respective benefit of
+indexing and view materialization, and help select a relevant configuration of
+indexes and materialized views among the candidates. Experimental results show
+that our strategy performs better than an independent selection of materialized
+views and indexes.

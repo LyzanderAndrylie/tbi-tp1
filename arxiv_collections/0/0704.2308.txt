@@ -1,0 +1,11 @@
+The effective gluon propagator constructed with the pinch technique is
+governed by a Schwinger-Dyson equation with special structure and gauge
+properties, that can be deduced from the correspondence with the background
+field method. Most importantly the non-perturbative gluon self-energy is
+transverse order-by-order in the dressed loop expansion, and separately for
+gluonic and ghost contributions, a property which allows for a meanigfull
+truncation. A linearized version of the truncated Schwinger-Dyson equation is
+derived, using a vertex that satisfies the required Ward identity and contains
+massless poles. The resulting integral equation, subject to a properly
+regularized constraint, is solved numerically, and the main features of the
+solutions are briefly discussed.

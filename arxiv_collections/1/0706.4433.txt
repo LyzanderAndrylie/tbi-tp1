@@ -1,0 +1,9 @@
+We show how the quantum analog of the Fokker-Planck equation for describing
+Brownian motion can be obtained as the diffusive limit of the quantum linear
+Boltzmann equation. The latter describes the quantum dynamics of a tracer
+particle in a dilute, ideal gas by means of a translation-covariant master
+equation. We discuss the type of approximations required to obtain the
+generalized form of the Caldeira-Leggett master equation, along with their
+physical justification. Microscopic expressions for the diffusion and
+relaxation coefficients are obtained by analyzing the limiting form of the
+equation in both the Schroedinger and the Heisenberg picture.

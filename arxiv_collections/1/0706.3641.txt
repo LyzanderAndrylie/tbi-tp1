@@ -1,0 +1,8 @@
+Exact results for the first passage time and leapover statistics of symmetric
+and one-sided Levy flights (LFs) are derived. LFs with stable index alpha are
+shown to have leapover lengths, that are asymptotically power-law distributed
+with index alpha for one-sided LFs and, surprisingly, with index alpha/2 for
+symmetric LFs. The first passage time distribution scales like a power-law with
+index 1/2 as required by the Sparre Andersen theorem for symmetric LFs, whereas
+one-sided LFs have a narrow distribution of first passage times. The exact
+analytic results are confirmed by extensive simulations.

@@ -1,0 +1,13 @@
+This paper proposes a novel learning method for a mixture of recurrent neural
+network (RNN) experts model, which can acquire the ability to generate desired
+sequences by dynamically switching between experts. Our method is based on
+maximum likelihood estimation, using a gradient descent algorithm. This
+approach is similar to that used in conventional methods; however, we modify
+the likelihood function by adding a mechanism to alter the variance for each
+expert. The proposed method is demonstrated to successfully learn Markov chain
+switching among a set of 9 Lissajous curves, for which the conventional method
+fails. The learning performance, analyzed in terms of the generalization
+capability, of the proposed method is also shown to be superior to that of the
+conventional method. With the addition of a gating network, the proposed method
+is successfully applied to the learning of sensory-motor flows for a small
+humanoid robot as a realistic problem of time series prediction and generation.

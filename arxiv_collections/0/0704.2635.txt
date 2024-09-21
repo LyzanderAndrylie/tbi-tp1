@@ -1,0 +1,9 @@
+Improved actions in SU(2) and SU(3) lattice gauge theories are investigated
+with an emphasis on asymptotic scaling. A new scheme for tadpole improvement is
+proposed. The standard but heuristic tadpole improvement emerges from a mean
+field approximation from the new approach. Scaling is investigated by means of
+the large distance static quark potential. Both, the generic and the new
+tadpole scheme yield significant improvements on asymptotic scaling when
+compared with loop improved actions. A study of the rotational symmetry
+breaking terms, however, reveals that only the new improvement scheme
+efficiently eliminates the leading irrelevant term from the action.

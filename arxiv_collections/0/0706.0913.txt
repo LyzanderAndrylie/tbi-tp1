@@ -1,0 +1,11 @@
+We investigate the average sizes of the $n$ largest fragments in nuclear
+multifragmentation events near the critical point of the nuclear matter phase
+diagram. We perform analytic calculations employing Poisson statistics as well
+as Monte Carlo simulations of the percolation type. We find that previous
+claims of manifestations of Zipf's Law in the rank-ordered fragment size
+distributions are not born out in our result, neither in finite nor infinite
+systems. Instead, we find that Zipf-Mandelbrot distributions are needed to
+describe the results, and we show how one can derive them in the infinite size
+limit. However, we agree with previous authors that the investigation of
+rank-ordered fragment size distributions is an alternative way to look for the
+critical point in the nuclear matter diagram.

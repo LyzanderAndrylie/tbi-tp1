@@ -1,0 +1,11 @@
+We study the consequences of in-plane (D_p) and out-of-plane (D_z)
+Dzyaloshinsky-Moriya (DM) interactions on the thermodynamic properties of
+spin-1/2} Heisenberg model on the kagome lattice using numerical linked cluster
+expansions and exact diagonalization, and contrast them with those of other
+perturbations such as exchange anisotropy and dilution. We find that different
+combinations of the DM anisotropies lead to a wide variety of thermodynamic
+behavior, which are quite distinct from those of most other perturbations. We
+argue that the sudden upturn seen experimentally in the susceptibility of the
+material ZnCu3(OH)6Cl2 can be understood in terms of Dzyaloshinsky-Moriya
+anisotropies with D_p>|D_z|. We also show that the measured specific heat of
+the material puts further constraints on the allowed DM parameters.

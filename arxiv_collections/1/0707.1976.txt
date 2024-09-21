@@ -1,0 +1,4 @@
+This paper provides primarily an analytical ad hoc -solution for
+3-dimensional, incompressible Navier-Stokes equations with a suitable external
+force field. The solution turns out to be smooth and integrable on the whole
+space. There is gaussian decay of amplitudes.

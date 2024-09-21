@@ -1,0 +1,8 @@
+We consider gauged sigma-models from a Riemann surface into a Kaehler and
+hamiltonian G-manifold X. The supersymmetric N=2 theory can always be twisted
+to produce a gauged A-model. This model localizes to the moduli space of
+solutions of the vortex equations and computes the Hamiltonian Gromov-Witten
+invariants. When the target is equivariantly Calabi-Yau, i.e. when its first
+G-equivariant Chern class vanishes, the supersymmetric theory can also be
+twisted into a gauged B-model. This model localizes to the Kaehler quotient
+X//G.

@@ -1,0 +1,21 @@
+We consider actions of non-compact simple Lie groups preserving an analytic
+rigid geometric structure of algebraic type on a compact manifold. The
+structure is not assumed to be unimodular, so an invariant measure may not
+exist. Ergodic stationary measures always exist, and when such a measure has
+full support, we show the following.
+  1) Either the manifold admits a smooth equivariant map onto a homogeneous
+projective variety, defined on an open dense conull invariant set, or the Lie
+algebra of the Zariski closure of the Gromov representation of the fundamental
+group contains a Lie subalgebra isomorphic to the Lie algebra of the acting
+group. As a corollary, a smooth non-trivial homogeneous projective factor does
+exist whenever the fundamental group of $M$ admits only virtually solvable
+linear representations, and thus in particular when $M$ is simply connected,
+regardless of the real rank.
+  2) There exist explicit examples showing that analytic rigid actions of
+certain simple groups (of real rank one) may indeed fail to have a smooth
+projective factor.
+  3) It is possible to generalize Gromov's theorem on the algebraic hull of the
+representation of the fundamental group of the manifold to the case of analytic
+rigid non-unimodular structures, for actions of simple groups of any real rank.
+  An important ingredient in the proofs is a generalization of Gromov's
+centralizer theorem beyond the case of invariant measures.

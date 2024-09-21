@@ -1,0 +1,9 @@
+Preliminary results from an optical-fiber gravitational wave interferometric
+detector are reported. The detector is very small, cheap and simple to build
+and operate. It is assembled from readily available opto-electronic components.
+A parts list is given. The detector can operate in two modes: one in which only
+instrument noise is detected, and data from a 24 hour period is reported for
+this mode, and in a 2nd mode in which the gravitational waves are detected as
+well, and data from a 24 hour period is analysed. Comparison shows that the
+instrument has a high S/N ratio. The frequency spectrum of the gravitational
+waves shows a pink noise spectrum, from 0 to 0.1Hz.

@@ -1,0 +1,10 @@
+Transport of quantum information in linear spin chains has been the subject
+of much theoretical work. Experimental studies by nuclear spin systems in
+solid-state by NMR (a natural implementation of such models) is complicated
+since the dipolar Hamiltonian is not solely comprised of nearest-neighbor
+XY-Heisenberg couplings. We present here a similarity transformation between
+the XY-Heisenberg Hamiltonian and the grade raising Hamiltonian, an interaction
+which is achievable with the collective control provided by radio-frequency
+pulses in NMR. Not only does this second Hamiltonian allows us to simulate the
+information transport in a spin chain, but it also provides a means to observe
+its signature experimentally.

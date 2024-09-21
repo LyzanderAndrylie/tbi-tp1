@@ -1,0 +1,7 @@
+Characteristic versus critical features of earthquakes are studied on the
+basis of the Olami-Feder-Christensen model. It is found that the local
+recurrence-time distribution exhibits a sharp $\delta$-function-like peak
+corresponding to rhythmic recurrence of events with a fixed ``period'' uniquely
+determined by the transmission parameter of the model, together with a
+power-law-like tail corresponding to scale-free recurrence of events. The model
+exhibits phenomena closely resembling the asperity known in seismology.

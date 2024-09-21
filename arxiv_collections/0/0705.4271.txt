@@ -1,0 +1,17 @@
+We study two classes of dynamical systems with holes: expanding maps of the
+interval and Collet-Eckmann maps with singularities. In both cases, we prove
+that there is a natural absolutely continuous conditionally invariant measure
+$\mu$ (a.c.c.i.m.) with the physical property that strictly positive H\"{o}lder
+continuous functions converge to the density of $\mu$ under the renormalized
+dynamics of the system. In addition, we construct an invariant measure $\nu$,
+supported on the Cantor set of points that never escape from the system, that
+is ergodic and enjoys exponential decay of correlations for H\"{o}lder
+observables. We show that $\nu$ satisfies an equilibrium principle which
+implies that the escape rate formula, familiar to the thermodynamic formalism,
+holds outside the usual setting. In particular, it holds for Collet-Eckmann
+maps with holes, which are not uniformly hyperbolic and do not admit a finite
+Markov partition.
+  We use a general framework of Young towers with holes and first prove results
+about the \accim and the invariant measure on the tower. Then we show how to
+transfer results to the original dynamical system. This approach can be
+expected to generalize to other dynamical systems than the two above classes.

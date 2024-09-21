@@ -1,0 +1,15 @@
+This paper addresses the energy accumulation problem, in terms of the $H_2$
+norm, of linearly coupled dynamical networks. An interesting outer-coupling
+relationship is constructed, under which the $H_2$ norm of the newly
+constructed network with column-input and row-output shaped matrices increases
+exponentially fast with the node number $N$: it increases generally much faster
+than $2^N$ when $N$ is large while the $H_2$ norm of each node is 1. However,
+the $H_2$ norm of the network with a diffusive coupling is equal to $\gamma_2
+N$, i.e., increasing linearly, when the network is stable, where $\gamma_2$ is
+the $H_2$ norm of a single node. And the $H_2$ norm of the network with
+antisymmetrical coupling also increases, but rather slowly, with the node
+number $N$. Other networks with block-diagonal-input and block-diagonal-output
+matrices behave similarly. It demonstrates that the changes of $H_2$ norms in
+different networks are very complicated, despite the fact that the networks are
+linear. Finally, the influence of the $H_2$ norm of the locally linearized
+network on the output of a network with Lur'e nodes is discussed.

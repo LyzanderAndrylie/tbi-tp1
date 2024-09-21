@@ -1,0 +1,9 @@
+A long-standing controversy related to the dimer pattern formed by S atoms in
+methanethiol ($CH_{3}SH$) on the Au(111) surface has been resolved using
+density functional theory. For the first time, dimerization of methanethiol
+adsorbates on the Au(111) surface is established by computational modeling. For
+methylthiolate ($CH_{3}S$), it is shown that the S atoms do not dimerize at
+high coverage but reveal a dimer pattern at intermediate coverage. Molecular
+dynamics simulation at high coverage demonstrates that the observed dialkyl
+disulfide species are formed during the desorption process, and thus are not
+attached to the surface.

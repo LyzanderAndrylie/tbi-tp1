@@ -1,0 +1,5 @@
+This paper has been withdrawn. It is based on numerical results limited by
+computing resources to N=3000 atoms. Using a newly understood geometric method
+we find that the observed scaling with N saturates at around N=7000 or even
+higher. In light of this new finding we withdraw the paper and will submit a
+revised manuscript reflecting our new understanding.

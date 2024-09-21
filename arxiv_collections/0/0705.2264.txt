@@ -1,0 +1,7 @@
+Based on the S-R indeterminacy relations in conjugation with the partial
+transposition, we derive a class of inequalities for detecting entanglement in
+several tripartite systems, including bosonic, SU(2), and SU(1,1) systems.
+These inequalities are in general stronger than those based on the usual
+Heisenberg relations for detecting entanglement. We also discuss the reduction
+from SU(2) and SU(1,1) to bosonic systems and the generalization to
+multipartite case.

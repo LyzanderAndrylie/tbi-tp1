@@ -1,0 +1,11 @@
+We propose a Hodge field theory construction that captures algebraic
+properties of the reduction of Zwiebach invariants to Gromov-Witten invariants.
+It generalizes the Barannikov-Kontsevich construction to the case of higher
+genera correlators with gravitational descendants.
+  We prove the main theorem stating that algebraically defined Hodge field
+theory correlators satisfy all tautological relations. From this perspective
+the statement that Barannikov-Kontsevich construction provides a solution of
+the WDVV equation looks as the simplest particular case of our theorem. Also it
+generalizes the particular cases of other low-genera tautological relations
+proven in our earlier works; we replace the old technical proofs by a novel
+conceptual proof.

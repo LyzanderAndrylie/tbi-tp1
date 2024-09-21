@@ -1,0 +1,9 @@
+We propose using semiconductor quantum dots for a simulation of chemical
+reactions as electrons are redistributed among such artificial atoms. We show
+that it is possible to achieve various reaction regimes and obtain different
+reaction products by varying the speed of voltage changes applied to the gates
+forming quantum dots. Considering the simplest possible reaction, $H_2+H\to
+H+H_2$, we show how the necessary initial state can be obtained and what
+voltage pulses should be applied to achieve a desirable final product. Our
+calculations have been performed using the Pechukas gas approach, which can be
+extended for more complicated reactions.

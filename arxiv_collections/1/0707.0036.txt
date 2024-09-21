@@ -1,0 +1,10 @@
+We analyze conditions for violation of the Bell inequality in the
+Clauser-Horne-Shimony-Holt form, focusing on the Josephson phase qubits. We
+start the analysis with maximum violation in the ideal case, and then take into
+account the effects of the local measurement errors and decoherence. A special
+attention is paid to configurations of the qubit measurement directions in the
+pseudospin space lying within either horizontal or vertical planes; these
+configurations are optimal in certain cases. Besides local measurement errors
+and decoherence, we also discuss the effect of measurement crosstalk, which
+affects both the classical inequality and the quantum result. In particular, we
+propose a version of the Bell inequality which is insensitive to the crosstalk.

@@ -1,0 +1,9 @@
+We present six multiparty protocols with information-theoretic security that
+tolerate an arbitrary number of corrupt participants. All protocols assume
+pairwise authentic private channels and a broadcast channel (in a single case,
+we require a simultaneous broadcast channel). We give protocols for veto, vote,
+anonymous bit transmission, collision detection, notification and anonymous
+message transmission. Not assuming an honest majority, in most cases, a single
+corrupt participant can make the protocol abort. All protocols achieve
+functionality never obtained before without the use of either computational
+assumptions or of an honest majority.

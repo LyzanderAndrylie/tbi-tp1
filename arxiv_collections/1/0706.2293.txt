@@ -1,0 +1,11 @@
+A sup-interpretation is a tool which provides an upper bound on the size of a
+value computed by some symbol of a program. Sup-interpretations have shown
+their interest to deal with the complexity of first order functional programs.
+For instance, they allow to characterize all the functions bitwise computable
+in Alogtime. This paper is an attempt to adapt the framework of
+sup-interpretations to a fragment of oriented-object programs, including
+distinct encodings of numbers through the use of constructor symbols, loop and
+while constructs and non recursive methods with side effects. We give a
+criterion, called brotherly criterion, which ensures that each brotherly
+program computes objects whose size is polynomially bounded by the inputs
+sizes.

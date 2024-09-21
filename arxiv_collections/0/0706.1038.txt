@@ -1,0 +1,7 @@
+We address the limit of the Gaussian operations and classical communication
+in the problem of quantum state discrimination. We show that the optimal
+Gaussian strategy for the discrimination of the binary phase shift keyed (BPSK)
+coherent signal is a simple homodyne detection. We also propose practical
+near-optimal quantum receivers that beat the BPSK homodyne limit in all areas
+of the signal power. Our scheme is simple and does not require realtime
+electrical feedback.

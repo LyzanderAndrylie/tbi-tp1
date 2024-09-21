@@ -1,0 +1,13 @@
+It is well known that light quanta (photons) can interact with each other in
+nonlinear media, much like massive particles do, but in practice these
+interactions are usually very weak. Here we describe a novel approach to
+realize strong nonlinear interactions at the single-photon level. Our method
+makes use of recently demonstrated efficient coupling between individual
+optical emitters and tightly confined, propagating surface plasmon excitations
+on conducting nanowires. We show that this system can act as a nonlinear
+two-photon switch for incident photons propagating along the nanowire, which
+can be coherently controlled using quantum optical techniques. As a novel
+application, we discuss how the interaction can be tailored to create a
+single-photon transistor, where the presence or absence of a single incident
+photon in a ``gate'' field is sufficient to completely control the propagation
+of subsequent ``signal'' photons.

@@ -1,0 +1,16 @@
+BCS theory describes the formation of Cooper pairs and their instant "Bose
+condensation" into a superconducting state. Helium atoms are preformed bosons
+and, in addition to their condensed superfluid state, can also form a quantum
+solid, lacking phase-coherence. Here we show that the fate of Cooper pairs can
+be more varied than the BCS or helium paradigms. In copper-oxide d-wave
+superconductors (dSC) Cooper pairs are intrinsically non-local objects, with
+both center-of-mass and relative motions. As doping decreases, the center-of
+mass fluctuations force a correlated dSC into a state with enhanced
+diamagnetism and robust but short-ranged superconducting order. At extreme
+underdoping, the relative fluctuations take over and two pseudogaps --
+``small'' (charge) and ``large'' (spin) -- emerge naturally from the theory, as
+Cooper pairs ``disintegrate'' and charge ``detaches'' from spin-singlet bonds.
+The ensuing ground state(s) are governed by diagonal (mostly antiferromagnetic)
+rather than by superconducting (off-diagonal) correlations. The theory is used
+to account for several recent experiments and to draw general conclusions about
+the phase diagram.

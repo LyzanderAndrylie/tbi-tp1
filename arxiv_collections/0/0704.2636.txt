@@ -1,0 +1,16 @@
+The magnetic field in an accretion disk is estimated assuming that all of the
+angular momentum within prescribed accretion disk radii is removed by a jet.
+The magnetic field estimated at the base of the jet is extrapolated to the
+blazar emission region using a model for a relativistic axisymmetric jet
+combined with some simplifying assumptions based on the relativistic nature of
+the flow. The extrapolated magnetic field is compared with estimates based upon
+the synchrotron and inverse Compton emission from three blazars, MKN 501, MKN
+421 and PKS 2155-304. The magnetic fields evaluated from pure synchrotron self-
+Compton models are inconsistent with the magnetic fields extrapolated in this
+way. However, in two cases inverse Compton models in which a substantial part
+of the soft photon field is generated locally agree well, mainly because these
+models imply magnetic field strengths which are closer to being consistent with
+Poynting flux dominated jets. This comparison is based on estimating the mass
+accretion rate from the jet energy flux. Further comparisons along these lines
+will be facilitated by independent estimates of the mass accretion rate in
+blazars and by more detailed models for jet propagation near the black hole.

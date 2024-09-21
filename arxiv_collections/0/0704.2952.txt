@@ -1,0 +1,11 @@
+We investigate the performances of a selective cloning machine based on
+linear optical elements and Gaussian measurements, which allows to clone at
+will one of the two incoming input states. This machine is a complete
+generalization of a 1 to 2 cloning scheme demonstrated by U. L. Andersen et al.
+[Phys. Rev. Lett. vol. 94, 240503 (2005)]. The input-output fidelity is studied
+for generic Gaussian input state and the effect of non-unit quantum efficiency
+is also taken into account. We show that if the states to be cloned are
+squeezed states with known squeezing parameter, then the fidelity can be
+enhanced using a third suitable squeezed state during the final stage of the
+cloning process. A binary communication protocol based on the selective cloning
+machne is also discussed.

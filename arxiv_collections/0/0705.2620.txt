@@ -1,0 +1,13 @@
+The notion of $\times$-homotopy from \cite{DocHom} is investigated in the
+context of the category of pointed graphs. The main result is a long exact
+sequence that relates the higher homotopy groups of the space $\Hom_*(G,H)$
+with the homotopy groups of $\Hom_*(G,H^I)$. Here $\Hom_*(G,H)$ is a space
+which parametrizes pointed graph maps from $G$ to $H$ (a pointed version of the
+usual $\Hom$ complex), and $H^I$ is the graph of based paths in $H$. As a
+corollary it is shown that $\pi_i \big(\Hom_*(G,H) \big) \cong [G,\Omega^i
+H]_{\times}$, where $\Omega H$ is the graph of based closed paths in $H$ and
+$[G,K]_{\times}$ is the set of $\times$-homotopy classes of pointed graph maps
+from $G$ to $K$. This is similar in spirit to the results of \cite{BBLL}, where
+the authors seek a space whose homotopy groups encode a similarly defined
+homotopy theory for graphs. The categorical connections to those constructions
+are discussed.

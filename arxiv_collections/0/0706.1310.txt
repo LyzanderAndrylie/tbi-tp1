@@ -1,0 +1,6 @@
+These lecture notes are meant to serve as an introduction to some geometric
+constructions and techniques (in particular the ones of toric geometry) often
+employed by the physicist working on string theory compactifications. The
+emphasis is wholly on the geometry side, not on the physics.
+  The treated topics include toroidal orbifolds, methods of toric geometry,
+desinglularization of toroidal orbifolds and their orientifold quotients.

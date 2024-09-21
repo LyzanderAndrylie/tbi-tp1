@@ -1,0 +1,13 @@
+Our paper aims at providing an answer to the question whether one can
+reliably describe the properties of the most important spin-isospin nuclear
+excitations, by using the available non-relativistic Skyrme energy functionals.
+Our method, which has been introduced in a previous publication devoted to the
+Isobaric Analog states, is the self-consistent Quasiparticle Random Phase
+Approximation (QRPA). The inclusion of pairing is instrumental for describing a
+number of experimentally measured spherical systems which are characterized by
+open shells. We discuss the effect of isoscalar and isovector pairing
+correlations. Based on the results for the Gamow-Teller resonance in $^{90}$Zr,
+in $^{208}$Pb and in few Sn isotopes, we draw definite conclusions on the
+performance of different Skyrme parametrizations, and we suggest improvements
+for future fits. We also use the spin-dipole resonance as a benchmark of our
+statements.

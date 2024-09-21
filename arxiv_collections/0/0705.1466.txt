@@ -1,0 +1,14 @@
+We report the measurement of extremely slow hole spin relaxation dynamics in
+small ensembles of self-assembled InGaAs quantum dots. Individual spin
+orientated holes are optically created in the lowest orbital state of each dot
+and read out after a defined storage time using spin memory devices. The
+resulting luminescence signal exhibits a pronounced polarization memory effect
+that vanishes for long storage times. The hole spin relaxation dynamics are
+measured as a function of external magnetic field and lattice temperature. We
+show that hole spin relaxation can occur over remarkably long timescales in
+strongly confined quantum dots (up to ~270 us), as predicted by recent theory.
+Our findings are supported by calculations that reproduce both the observed
+magnetic field and temperature dependencies. The results suggest that hole spin
+relaxation in strongly confined quantum dots is due to spin orbit mediated
+phonon scattering between Zeeman levels, in marked contrast to higher
+dimensional nanostructures where it is limited by valence band mixing.

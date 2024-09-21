@@ -1,0 +1,7 @@
+We present results for a lattice model of bio-polymers where the type of
+$\beta$-sheet formation can be controlled by different types of hydrogen bonds
+depending on the relative orientation of close segments of the polymer. Tuning
+these different interaction strengths leads to low-temperature structures with
+different types of orientational order. We perform simulations of this model
+and so present the phase diagram, ascertaining the nature of the phases and the
+order of the transitions between these phases.

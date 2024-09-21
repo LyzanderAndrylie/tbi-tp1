@@ -1,0 +1,8 @@
+By studying a modified (unbiased) quantum multibaker map, we were able to
+obtain a {\em finite} asymptotic quantum current without a classical analogue.
+This result suggests a general method for the design of {\em purely} quantum
+ratchets, and sheds light on the investigation of the mechanisms leading to net
+transport generation by breaking symmetries of quantum systems. Moreover, we
+propose the multibaker map as a resource to study directed transport phenomena
+in chaotic systems without bias. In fact, this is a paradigmatic model in
+classical and quantum chaos, but also in statistical mechanics.

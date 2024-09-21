@@ -1,0 +1,9 @@
+Several types of term rewriting systems can be distinguished by the way their
+rules overlap. In particular, we define the classes of prefix, suffix,
+bottom-up and top-down systems, which generalize similar classes on words. Our
+aim is to study the derivation relation of such systems (i.e. the reflexive and
+transitive closure of their rewriting relation) and, if possible, to provide a
+finite mechanism characterizing it. Using a notion of rational relations based
+on finite graph grammars, we show that the derivation of any bottom-up,
+top-down or suffix systems is rational, while it can be non recursive for
+prefix systems.

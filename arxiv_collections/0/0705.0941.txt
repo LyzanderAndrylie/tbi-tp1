@@ -1,0 +1,8 @@
+Starting with two light clocks to derive time dilation expression, as many
+textbooks do, and then adding a third one, we work on relativistic spacetime
+coordinates relations for some simple events as emission, reflection and return
+of light pulses. Besides time dilation, we get, in the following order, Doppler
+k-factor, addition of velocities, length contraction, Lorentz Transformations
+and spacetime interval invariance. We also use Minkowski spacetime diagram to
+show how to interpret some few events in terms of spacetime coordinates in
+three different inertial frames.

@@ -1,0 +1,11 @@
+Vortex-antivortex pairs are localized excitations and have been found to be
+spontaneously created in magnetic elements. In the case that the vortex and the
+antivortex have opposite polarities the pair has a nonzero topological charge,
+and it behaves as a rotating vortex dipole. We find theoretically, and confirm
+numerically, the form of the energy as a function of the angular momentum of
+the system and the associated rotation frequencies. We discuss the process of
+annihilation of the pair which changes the topological charge of the system by
+unity while its energy is monotonically decreasing. Such a change in the
+topological charge affects profoundly the dynamics in the magnetic system. We
+finally discuss the connection of our results with Bloch Points (BP) and the
+implications for BP dynamics.

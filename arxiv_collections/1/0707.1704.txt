@@ -1,0 +1,17 @@
+The paper is devoted to the presentation of the non-spectral methods of
+analysis of the natural measurements of the internal gravity waves in the ocean
+with the purpose to determine characteristics of the wave-trains composing the
+measured field, the forms and parameters of the ocean along the pass of these
+wave-trains propagation. The problem of the analysis of the data of the natural
+measurements of the internal waves with the purpose to separate the single
+wave-trains from the measured field, and on this basis to determine the
+characteristics of these wave-trains, to receive the information on the sources
+of excitation of the waves, and the information on the properties of the ocean
+along the pass of the waves propagation, is directly connected with the
+problems of the wave dynamics. The basis of the offered algorithms of the
+analysis is the supposition, that the measured wave field represents the sum of
+the plane wave-trains having the certain speed and directions of propagation.
+Transformation of the packages of the internal waves, which can be determined
+by the given methods, may testify about the passage of the wave-trains through
+the big-size oceanic formations, that makes it possible to remotely determine
+the characteristics of these formations.

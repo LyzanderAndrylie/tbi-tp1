@@ -1,0 +1,11 @@
+The thermodynamics of black holes is reformulated within the context of the
+recently developed formalism of geometrothermodynamics. This reformulation is
+shown to be invariant with respect to Legendre transformations, and to allow
+several equivalent representations. Legendre invariance allows us to explain a
+series of contradictory results known in the literature from the use of
+Weinhold's and Ruppeiner's thermodynamic metrics for black holes. For the
+Reissner-Nordstr\"om black hole the geometry of the space of equilibrium states
+is curved, showing a non trivial thermodynamic interaction, and the curvature
+contains information about critical points and phase transitions. On the
+contrary, for the Kerr black hole the geometry is flat and does not explain its
+phase transition structure.

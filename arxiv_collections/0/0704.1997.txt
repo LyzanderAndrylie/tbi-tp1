@@ -1,0 +1,9 @@
+After negative temperature is restated, we find that it will derive
+necessarily decrease of entropy. Negative temperature is based on the Kelvin
+scale and the condition dU>0 and dS<0. Conversely, there is also negative
+temperature for dU<0 and dS>0. But, negative temperature is contradiction with
+usual meaning of temperature and with some basic concepts of physics and
+mathematics. It is a question in nonequilibrium thermodynamics. We proposed a
+possibility of decrease of entropy due to fluctuation magnified and internal
+interactions in some isolated systems. From this we discuss some possible
+examples and theories.

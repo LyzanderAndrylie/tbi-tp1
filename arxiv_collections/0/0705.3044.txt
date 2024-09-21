@@ -1,0 +1,11 @@
+We have developed a device fabrication process to pattern graphene into
+nanostructures of arbitrary shape and control their electronic properties using
+local electrostatic gates. Electronic transport measurements have been used to
+characterize locally gated bipolar graphene $p$-$n$-$p$ junctions. We observe a
+series of fractional quantum Hall conductance plateaus at high magnetic fields
+as the local charge density is varied in the $p$ and $n$ regions. These
+fractional plateaus, originating from chiral edge states equilibration at the
+$p$-$n$ interfaces, exhibit sensitivity to inter-edge backscattering which is
+found to be strong for some of the plateuas and much weaker for other plateaus.
+We use this effect to explore the role of backscattering and estimate disorder
+strength in our graphene devices.

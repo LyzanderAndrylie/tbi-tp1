@@ -1,0 +1,12 @@
+We show that, based on the critical state model for flux-line pinning in hard
+superconductors, one can assess the magnetic moment relaxation induced by the
+oscillations of a perpendicular magnetic field. Our theory follows a recent
+proposal of using phenomenological 2D modeling for the description of crossed
+field dynamics in high-T$_c$ superconductors [{\tt arXiv:cond-mat/0703330}].
+  Stationary regimes with either saturation to metastable configurations, or
+complete decay to the thermodynamic equilibrium are obtained. The transition
+between both types of response is related to the disappearance of a flux free
+core within the sample. As a common feature, a step-like dependence in the time
+relaxation is predicted for both cases. The theory may be applied to long bars
+of arbitrary and non homogeneous cross section, under in-plane magnetic field
+processes.

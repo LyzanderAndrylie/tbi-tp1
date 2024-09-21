@@ -1,0 +1,9 @@
+Setcover greedy algorithm is a natural approximation algorithm for test set
+problem. This paper gives a precise and tighter analysis of performance
+guarantee of this algorithm. The author improves the performance guarantee
+$2\ln n$ which derives from set cover problem to $1.1354\ln n$ by applying the
+potential function technique. In addition, the author gives a nontrivial lower
+bound $1.0004609\ln n$ of performance guarantee of this algorithm. This lower
+bound, together with the matching bound of information content heuristic,
+confirms the fact information content heuristic is slightly better than
+setcover greedy algorithm in worst case.

@@ -1,0 +1,9 @@
+Self-assembly is the mechanism that controls the formation of well defined
+structures from disordered pre-existing parts. Despite the importance of
+self-assembly as a manufacturing method and the increasingly large number of
+experimental realizations of complex self-assembled nano aggregates,
+theoretical predictions are lagging behind. Here we show that for a non-trivial
+self-assembly phenomenon, originating branched loop-less clusters, it is
+possible to derive a fully predictive parameter-free theory of equilibrium
+self-assembly by combining the Wertheim theory for associating liquids with the
+Flory-Stockmayer approach for chemical gelation.

@@ -1,0 +1,12 @@
+A proof-of-principle electron electric dipole moment (e-EDM) experiment using
+slow cesium atoms, nulled magnetic fields, and electric field quantization has
+been performed. With the ambient magnetic fields seen by the atoms reduced to
+less than 200 pT, an electric field of 6 MV/m lifts the degeneracy between
+states of unequal mF and, along with the low (approximately 3 m/s) velocity,
+suppresses the systematic effect from the motional magnetic field. The low
+velocity and small residual magnetic field have made it possible to induce
+transitions between states and to perform state preparation, analysis, and
+detection in regions free of applied static magnetic and electric fields. This
+experiment demonstrates techniques that may be used to improve the e-EDM limit
+by two orders of magnitude, but it is not in itself a sensitive e-EDM search,
+mostly due to limitations of the laser system.

@@ -1,0 +1,8 @@
+Entanglement in a class of bipartite generalized coherent states is
+discussed. It is shown that a positive parameter can be associated with the
+bipartite generalized coherent states so that the states with equal value for
+the parameter are of equal entanglement. It is shown that the maximum possible
+entanglement of 1 bit is attained if the positive parameter equals $\sqrt{2}$.
+The result that the entanglement is one bit when the relative phase between the
+composing states is $\pi$ in bipartite coherent states is shown to be true for
+the class of bipartite generalized coherent states considered.

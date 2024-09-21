@@ -1,0 +1,9 @@
+We study the behavior of the two-dimensional two-component plasma in the
+presence of some adsorbing impurities. Using a solvable model, we find analytic
+expressions for the thermodynamic properties of the plasma such as the $n$-body
+densities, the grand potential, and the pressure. We specialize in the case
+where there are one or two adsorbing point impurities in the plasma, and in the
+case where there are one or two parallel adsorbing lines. In the former case we
+study the effective interaction between the impurities, due to the charge
+redistribution around them. The latter case is a model for electrodes with
+adsorbing sticky sites on their surface.

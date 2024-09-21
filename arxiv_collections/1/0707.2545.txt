@@ -1,0 +1,9 @@
+We present predictions for the pseudo-rapidity density of charged particles
+produced in central Pb-Pb collisions at the LHC. Particle production in such
+collisions is calculated in the framework of k_t-factorization. The nuclear
+unintegrated gluon distributions at LHC energies are determined from numerical
+solutions of the Balitsky-Kovchegov equation including recently calculated
+running coupling corrections. The initial conditions for the evolution are
+fixed by fitting RHIC data at collision energies \sqrt{s}}=130 and 200 GeV per
+nucleon. We obtain dN^{Pb-Pb}_{ch}/d\eta (\sqrt{s}=5.5 TeV, \eta=0)\approx
+1290\div 1480.

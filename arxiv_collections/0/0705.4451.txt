@@ -1,0 +1,10 @@
+Molecular dynamics simulations are used to investigate the influence of
+molecular-scale surface roughness on the slip behavior in thin liquid films.
+The slip length increases almost linearly with the shear rate for atomically
+smooth rigid walls and incommensurate structures of the liquid/solid interface.
+The thermal fluctuations of the wall atoms lead to an effective surface
+roughness, which makes the slip length weakly dependent on the shear rate. With
+increasing the elastic stiffness of the wall, the surface roughness smoothes
+out and the strong rate dependence is restored again. Both periodically and
+randomly corrugated rigid surfaces reduce the slip length and its shear rate
+dependence.

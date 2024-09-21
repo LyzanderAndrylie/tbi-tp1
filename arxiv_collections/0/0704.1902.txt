@@ -1,0 +1,9 @@
+We study the oxygen doping dependence of the equilibrium first-order melting
+and second-order glass transitions of vortices in
+Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$. Doping affects both anisotropy and
+disorder. Anisotropy scaling is shown to collapse the melting lines only where
+thermal fluctuations are dominant. Yet, in the region where disorder breaks
+that scaling, the glass lines are still collapsed. A quantitative fit to
+melting and replica symmetry breaking lines of a 2D Ginzburg-Landau model
+further reveals that disorder amplitude weakens with doping, but to a lesser
+degree than thermal fluctuations, enhancing the relative role of disorder.

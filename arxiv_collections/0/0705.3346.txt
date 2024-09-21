@@ -1,0 +1,14 @@
+We analyze collective modes in two-band superconductors in the dirty limit.
+It is shown that these modes exist at all temperatures $T$ below $T_{c}$
+provided the frequency of the modes is higher than the inelastic scattering
+rate and lower than the energy gaps $\Delta_{a,b}$. At low temperatures these
+modes are related to counterphase oscillations of the condensate currents in
+each band. The spectrum of the collective oscillations is similar to the
+spectrum of the Josephson ''plasma'' modes in a tunnel Josephson junction but
+the velocity of the mode propagation in the case under consideration is much
+lower. At higher temperatures ($\Delta_{b}<T<T_{c}$) the spectrum consists of
+two branches. One of them is gapless (sound-like) and the second one has a
+threshhold that depends on coupling between the bands. We formulate the
+conditions under which both types of collective modes can exist. The spectrum
+of the collective modes can be determined by measuring the I-V characteristics
+of a Josephson junction in a way as it was done by Carlson and Goldman.

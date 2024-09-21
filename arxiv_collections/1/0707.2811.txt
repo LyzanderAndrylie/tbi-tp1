@@ -1,0 +1,11 @@
+We quantify correlations (quantum and/or classical) between two continuous
+variable modes in terms of how many correlated bits can be extracted by
+measuring the sign of two local quadratures. On Gaussian states, such `bit
+quadrature correlations' majorize entanglement, reducing to an entanglement
+monotone for pure states. For non-Gaussian states, such as photonic Bell
+states, ideal and real de-Gaussified photon-subtracted states, and mixtures of
+pure Gaussian states, the bit correlations are shown to be a {\em monotonic}
+function of the negativity. This yields a feasible, operational way to
+quantitatively measure non-Gaussian entanglement in current experiments by
+means of direct homodyne detection, without a full tomographical reconstruction
+of the Wigner function.

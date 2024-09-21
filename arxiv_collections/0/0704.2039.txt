@@ -1,0 +1,9 @@
+Causality and stability in relativistic dissipative hydrodynamics are
+important conceptual issues. We argue that causality is not restricted to
+hyperbolic set of differential equations. E.g. heat conduction equation can be
+causal considering the physical validity of the theory. Furthermore we propose
+a new concept of relativistic internal energy that clearly separates the
+dissipative and non-dissipative effects. We prove that with this choice we
+remove all known instabilities of the linear response approximation of viscous
+and heat conducting relativistic fluids. In this paper the Eckart choice of the
+velocity field is applied.

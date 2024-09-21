@@ -1,0 +1,11 @@
+In their textbook, Suzuki and Varga [Y. Suzuki and K. Varga, {\em Stochastic
+Variational Approach to Quantum-Mechanical Few-Body Problems} (Springer,
+Berlin, 1998)] present the stochastic variational method in a very exhaustive
+way. In this framework, the so-called correlated gaussian bases are often
+employed. General formulae for the matrix elements of various operators can be
+found in the textbook. However the Fourier transform of correlated gaussians
+and their application to the management of a relativistic kinetic energy
+operator are missing and cannot be found in the literature. In this paper we
+present these interesting formulae. We give also a derivation for new
+formulations concerning central potentials; the corresponding formulae are more
+efficient numerically than those presented in the textbook.

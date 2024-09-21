@@ -1,0 +1,9 @@
+A standard result by Smale states that n dimensional strongly cooperative
+dynamical systems can have arbitrary dynamics when restricted to unordered
+invariant hyperspaces. In this paper this result is extended to the case when
+all solutions of the strongly cooperative system are bounded and converge
+towards one of only two equilibria outside of the hyperplane.
+  An application is given in the context of strongly cooperative systems of
+reaction diffusion equations. It is shown that such a system can have a
+continuum of spatially inhomogeneous steady states, even when all solutions of
+the underlying reaction system converge to one of only three equilibria.

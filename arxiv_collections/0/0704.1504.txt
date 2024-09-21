@@ -1,0 +1,11 @@
+Star patterns, reminiscent of a wide range of diffusively controlled growth
+forms from snowflakes to Saffman-Taylor fingers, are ubiquitous features of ice
+covered lakes. Despite the commonality and beauty of these ``lake stars'' the
+underlying physical processes that produce them have not been explained in a
+coherent theoretical framework. Here we describe a simple mathematical model
+that captures the principal features of lake-star formation; radial fingers of
+(relatively warm) water-rich regions grow from a central source and evolve
+through a competition between thermal and porous media flow effects in a
+saturated snow layer covering the lake. The number of star arms emerges from a
+stability analysis of this competition and the qualitative features of this
+meter-scale natural phenomena are captured in laboratory experiments.

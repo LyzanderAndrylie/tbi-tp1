@@ -1,0 +1,9 @@
+The results of the first analysis to show evidence for production of single
+top quarks are presented. Using 0.9 fb-1 of data collected with the D0 detector
+at the Fermilab Tevatron, the analysis is performed in the electron+jets and
+muon+jets decay modes, taking special care in modeling the large backgrounds,
+applying a new powerful b-quark tagging algorithm and using three multivariate
+techniques to extract the small signal in the data. The combined measured
+production cross section is 4.8 +- 1.3 pb. The probability to measure a cross
+section at this value or higher in the absence of a signal is 0.027%,
+corresponding to a 3.5 standard deviation significance.

@@ -1,0 +1,11 @@
+The IceCube neutrino detector is a cubic kilometer TeV to PeV neutrino
+detector under construction at the geographic South Pole. The dominant
+population of neutrinos detected in IceCube is due to meson decay in cosmic-ray
+air showers. These atmospheric neutrinos are relatively well-understood and
+serve as a calibration and verification tool for the new detector. In 2006, the
+detector was approximately 10% completed, and we report on data acquired from
+the detector in this configuration. We observe an atmospheric neutrino signal
+consistent with expectations, demonstrating that the IceCube detector is
+capable of identifying neutrino events. In the first 137.4 days of livetime,
+234 neutrino candidates were selected with an expectation of 211 +/-
+76.1(syst.) +/- 14.5(stat.) events from atmospheric neutrinos.

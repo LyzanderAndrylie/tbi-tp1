@@ -1,0 +1,4 @@
+Let X be the blow-up of the three dimensional complex projective space along
+r general points of a smooth elliptic quartic curve B of P^3 and let L be any
+line bundle of X. The aim of this paper is to provide an explicit algorithm for
+determining the dimension of H^0(X,L).

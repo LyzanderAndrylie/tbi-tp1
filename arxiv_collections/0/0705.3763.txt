@@ -1,0 +1,10 @@
+We calculate the conductance G of a bipolar junction in a graphene
+nanoribbon, in the high-magnetic field regime where the Hall conductance in the
+p-doped and n-doped regions is 2e^2/h. In the absence of intervalley
+scattering, the result G=(e^2/h)(1-cos Phi) depends only on the angle Phi
+between the valley isospins (= Bloch vectors representing the spinor of the
+valley polarization) at the two opposite edges. This plateau in the conductance
+versus Fermi energy is insensitive to electrostatic disorder, while it is
+destabilized by the dispersionless edge state which may exist at a zigzag
+boundary. A strain-induced vector potential shifts the conductance plateau up
+or down by rotating the valley isospin.

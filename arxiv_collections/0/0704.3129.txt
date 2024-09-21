@@ -1,0 +1,17 @@
+The saddle points of a Lagrangian due to Efetov are analyzed. This Lagrangian
+was originally proposed as a tool for calculating systematic corrections to the
+Bethe approximation, a mean-field approximation which is important in
+statistical mechanics, glasses, coding theory, and combinatorial optimization.
+Detailed analysis shows that the trivial saddle point generates a sum over
+geometries reminiscent of dynamically triangulated quantum gravity, which
+suggests new possibilities to design sums over geometries for the specific
+purpose of obtaining improved mean field approximations to $D$-dimensional
+theories. In the case of the Efetov theory, the dominant geometries are locally
+tree-like, and the sum over geometries diverges in a way that is similar to
+quantum gravity's divergence when all topologies are included. Expertise from
+the field of dynamically triangulated quantum gravity about sums over
+geometries may be able to remedy these defects and fulfill the Efetov theory's
+original promise. The other saddle points of the Efetov Lagrangian are also
+analyzed; the Hessian at these points is nonnormal and pseudo-Hermitian, which
+is unusual for bosonic theories. The standard formula for Gaussian integrals is
+generalized to nonnormal kernels.

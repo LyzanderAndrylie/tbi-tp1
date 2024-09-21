@@ -1,0 +1,6 @@
+The non-singlet structure functions have been obtained by solving
+Dokshitzer-Gribov-Lipatov-Altarelli-Parisi (DGLAP) evolution equations in
+leading order (LO) and next-to-leading order (NLO) at the small-x limit. Here a
+Taylor series expansion has been used and then the method of characteristics
+has been applied to solve the evolution equations. Results are comopared with
+the Fermilab experiment E665 data and New Muon Collaboration (NMC) data.

@@ -1,0 +1,8 @@
+We propose that the rich-club phenomena in complex networks should be defined
+in the spirit of bootstrapping, in which a null model is adopted to assess the
+statistical significance of the rich-club detected. Our method can be served as
+a definition of rich-club phenomenon and is applied to analyzing three real
+networks and three model networks. The results improve significantly compared
+with previously reported results. We report a dilemma with an exceptional
+example, showing that there does not exist an omnipotent definition for the
+rich-club phenomenon.

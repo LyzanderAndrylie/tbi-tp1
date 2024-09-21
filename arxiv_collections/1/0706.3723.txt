@@ -1,0 +1,15 @@
+We compare the expressiveness of two extensions of monadic second-order logic
+(MSO) over the class of finite structures. The first, counting monadic
+second-order logic (CMSO), extends MSO with first-order modulo-counting
+quantifiers, allowing the expression of queries like ``the number of elements
+in the structure is even''. The second extension allows the use of an
+additional binary predicate, not contained in the signature of the queried
+structure, that must be interpreted as an arbitrary linear order on its
+universe, obtaining order-invariant MSO.
+  While it is straightforward that every CMSO formula can be translated into an
+equivalent order-invariant MSO formula, the converse had not yet been settled.
+Courcelle showed that for restricted classes of structures both order-invariant
+MSO and CMSO are equally expressive, but conjectured that, in general,
+order-invariant MSO is stronger than CMSO.
+  We affirm this conjecture by presenting a class of structures that is
+order-invariantly definable in MSO but not definable in CMSO.

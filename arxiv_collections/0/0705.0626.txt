@@ -1,0 +1,9 @@
+We reveal the existence of systematic variations of isobaric fragility in
+different supercooled Lennard-Jones binary mixtures by performing molecular
+dynamics simulations. The connection between fragility and local structures in
+the bulk is analyzed by means of a Voronoi construction. We find that clusters
+of particles belonging to locally preferred structures form slow, long-lived
+domains, whose spatial extension increases by decreasing temperature. As a
+general rule, a more rapid growth, upon supercooling, of such domains is
+associated to a more pronounced super-Arrhenius behavior, hence to a larger
+fragility.

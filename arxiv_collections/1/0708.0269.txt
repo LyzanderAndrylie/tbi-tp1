@@ -1,0 +1,4 @@
+In this paper, we obtain the sharp $k$-th order Sobolev inequalities in the
+hyperbolic space ${\H}^n$ for all $k=1,2,3,\cdots$. This gives an answer to an
+open question raised by Aubin in [5, p.$\;$176-177] for $W^{k,2}({\H}^n)$ with
+$k>1$. In addition, we prove that the associated Sobolev constants are optimal.

@@ -1,0 +1,9 @@
+We study motion of small particles in turbulence when the particle relaxation
+time falls in the range of inertial time-scales of the flow. Due to inertia,
+particles drift relative to the fluid. We show that the drift velocity is close
+to the Lagrangian velocity increments of turbulence at the particle relaxation
+time. We demonstrate that the collective drift of two close particles makes
+them see local velocity increments fluctuate fast and we introduce the
+corresponding Langevin description for separation dynamics. This allows to
+describe the behavior of the Lyapunov exponent and give the analogue of
+Richardson's law for separation above viscous scale.

@@ -1,0 +1,16 @@
+We consider the distribution of an electric field in YBCO-coated conductors
+for a situation in which the DC transport current is forced into the copper
+stabilizer due to a weak link -- a section of the superconducting film with a
+critical current less than the transport current. The electric field in the
+metal substrate is also discussed. The results are compared with recent
+experiments on normal zone propagation in coated conductors for which the
+substrate and stabilizer are insulated from each other. The potential
+difference between the substrate and stabilizer, and the electric field in the
+substrate outside the normal zone can be accounted for by a large screening
+length in the substrate, comparable to the length of the sample. During a
+quench, the electric field inside the interface between YBCO and stabilizer, as
+well as in the buffer layer, can be several orders of magnitude greater than
+the longitudinal macroscopic electric field inside the normal zone. We
+speculate on the possibility of using possible microscopic electric discharges
+caused by this large ($\sim $kV/cm) electric field as a means to detect a
+quench.

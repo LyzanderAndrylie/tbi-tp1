@@ -1,0 +1,8 @@
+We prove an extension theorem for a small perturbation of the
+Ornstein-Uhlenbeck operator $(L,D(L))$ in the space of all uniformly continuous
+and bounded functions $f:H\to \Rset$, where $H$ is a separable Hilbert space.
+We consider a perturbation of the form $N_0\phi=L\phi+< D\phi,F>$ where $F:H\to
+H$ is bounded and Fr\'echet differentiable with uniformly continuous and
+bounded differential. Hence, we prove that $N_0$ is $m$-dissipative and its
+closure in $C_b(H)$ coincides with the infinitesimal generator of a diffusion
+semigroup associated to a stochastic differential equation in $H$.

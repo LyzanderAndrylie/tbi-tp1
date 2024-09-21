@@ -1,0 +1,8 @@
+We describe an iterative method to optimize the multi-scale entanglement
+renormalization ansatz (MERA) for the low-energy subspace of local Hamiltonians
+on a D-dimensional lattice. For translation invariant systems the cost of this
+optimization is logarithmic in the linear system size. Specialized algorithms
+for the treatment of infinite systems are also described. Benchmark simulation
+results are presented for a variety of 1D systems, namely Ising, Potts, XX and
+Heisenberg models. The potential to compute expected values of local
+observables, energy gaps and correlators is investigated.

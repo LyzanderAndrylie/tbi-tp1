@@ -1,0 +1,13 @@
+Motivated by recent experimental and numerical studies of coherent structures
+in wall-bounded shear flows, we initiate a systematic exploration of the
+hierarchy of unstable invariant solutions of the Navier-Stokes equations. We
+construct a dynamical, 10^5-dimensional state-space representation of plane
+Couette flow at Re = 400 in a small, periodic cell and offer a new method of
+visualizing invariant manifolds embedded in such high dimensions. We compute a
+new equilibrium solution of plane Couette flow and the leading eigenvalues and
+eigenfunctions of known equilibria at this Reynolds number and cell size. What
+emerges from global continuations of their unstable manifolds is a surprisingly
+elegant dynamical-systems visualization of moderate-Reynolds turbulence. The
+invariant manifolds tessellate the region of state space explored by
+transiently turbulent dynamics with a rigid web of continuous and discrete
+symmetry-induced heteroclinic connections.

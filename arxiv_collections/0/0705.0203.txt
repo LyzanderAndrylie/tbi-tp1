@@ -1,0 +1,15 @@
+A methodology is developed to identify clusters in a bulk phase which are
+topologically equivalent to certain reference clusters. The selected reference
+clusters are the Morse clusters with 13 or less atoms and the 13 atom clusters
+found in an FCC and an HCP crystal phase, consisting of an atom and its 12
+nearest neighbours. The first step in using the method requires the bond
+network of the bulk phase to be identified. The bonds may be identified in
+terms of the distance between the atom pairs or by using a modified Voronoi
+decomposition, introduced here. We then search for all the 3, 4 and 5 membered
+shortest path rings and use these to identify some basic clusters. These basic
+clusters are then combined to identify the above mentioned Morse and crystal
+clusters. The larger Morse clusters (N>13) may be identified in terms of the
+basic clusters and the smaller Morse clusters. This work has important
+applications in studying the energy landscape of a bulk phase. As an example,
+results from a limited preliminary study on the hard sphere fluid phase are
+presented.

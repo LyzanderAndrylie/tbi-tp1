@@ -1,0 +1,8 @@
+The four-particle system is the simplest few-body system containing the
+fundamental physics involved in ultracold fermionic gases. We have made recent
+efforts to solve the quantum four-body problem in the adiabatic hyperspherical
+representation. Our approach yields a set of coupled potential curves that can
+in turn be solved for all elastic and inelastic processes. These rates may play
+an important role in the lifetime of molecules in ultracold fermi gases. We
+believe this will lead to a deeper understanding of ultracold fermi systems and
+the physics of the BCS-BEC crossover.

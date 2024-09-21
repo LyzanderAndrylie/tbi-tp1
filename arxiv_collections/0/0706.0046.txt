@@ -1,0 +1,11 @@
+In this paper, we propose a useful replacement for quicksort-style utility
+functions. The replacement is called Symmetry Partition Sort, which has
+essentially the same principle as Proportion Extend Sort. The maximal
+difference between them is that the new algorithm always places already
+partially sorted inputs (used as a basis for the proportional extension) on
+both ends when entering the partition routine. This is advantageous to speeding
+up the partition routine. The library function based on the new algorithm is
+more attractive than Psort which is a library function introduced in 2004. Its
+implementation mechanism is simple. The source code is clearer. The speed is
+faster, with O(n log n) performance guarantee. Both the robustness and
+adaptivity are better. As a library function, it is competitive.

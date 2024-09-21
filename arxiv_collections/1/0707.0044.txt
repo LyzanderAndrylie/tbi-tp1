@@ -1,0 +1,14 @@
+Geometric phase that manifests itself in number of optic and nuclear
+experiments is shown to be a useful tool for realization of quantum
+computations in so called holonomic quantum computer model (HQCM). This model
+is considered as an externally driven quantum system with adiabatic evolution
+law and finite number of the energy levels. The corresponding evolution
+operators represent quantum gates of HQCM. The explicit expression for the
+gates is derived both for one-qubit and for multi-qubit quantum gates as
+Abelian and non-Abelian geometric phases provided the energy levels to be
+time-independent or in other words for rotational adiabatic evolution of the
+system. Application of non-adiabatic geometric-like phases in quantum
+computations is also discussed for a Caldeira-Legett-type model (one-qubit
+gates) and for the spin 3/2 quadrupole NMR model (two-qubit gates). Generic
+quantum gates for these two models are derived. The possibility of construction
+of the universal quantum gates in both cases is shown.

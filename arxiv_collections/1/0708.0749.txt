@@ -1,0 +1,5 @@
+Nodal free geometric phases are the eigenvalues of the final member of a
+parallel transporting family of unitary operators. These phases are gauge
+invariant, always well-defined, and can be measured interferometrically. Nodal
+free geometric phases can be used to construct various types of quantum phase
+gates.

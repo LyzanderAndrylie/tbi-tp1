@@ -1,0 +1,22 @@
+We present numerical studies for finitely extensible nonlinear elastic (FENE)
+dumbbells which are dispersed in a turbulent plane shear flow at moderate
+Reynolds number. The polymer ensemble is described on the mesoscopic level by a
+set of stochastic ordinary differential equations with Brownian noise. The
+dynamics of the Newtonian solvent is determined by the Navier-Stokes equations.
+Momentum transfer of the dumbbells with the solvent is implemented by an
+additional volume forcing term in the Navier-Stokes equations, such that both
+components of the resulting viscoelastic fluid are connected by a two-way
+coupling. The dynamics of the dumbbells is given then by Newton's second law of
+motion including small inertia effects. We investigate the dynamics of the flow
+for different degrees of dumbbell elasticity and inertia, as given by
+Weissenberg and Stokes numbers, respectively. For the parameters accessible in
+our study, the magnitude of the feedback of the polymers on the macroscopic
+properties of turbulence remains small as quantified by the global energy
+budget and the Reynolds stresses. A reduction of the turbulent drag by up to
+20% is observed for the larger particle inertia. The angular statistics of the
+dumbbells shows an increasing alignment with the mean flow direction for both,
+increasing elasticity and inertia. This goes in line with a growing asymmetry
+of the probability density function of the transverse derivative of the
+streamwise turbulent velocity component. We find that dumbbells get stretched
+referentially in regions where vortex stretching or bi-axial strain dominate
+the local dynamics and topology of the velocity gradient tensor.

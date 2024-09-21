@@ -1,0 +1,19 @@
+We obtain analytical expressions for the electron self-energy and the
+electron-phonon coupling in electron-doped graphene using electron-phonon
+matrix elements extracted from density functional theory simulations. From the
+electron self-energies we calculate angle resolved photoemission spectra. We
+demonstrate that the measured kink at $\approx -0.2$ eV from the Fermi level is
+actually composed of two features, one at $\approx -0.195$ eV due to the
+twofold degenerate E$_{2g}$ mode, and a second one at $\approx -0.16$ eV due to
+the A$_{1}^{'}$ mode. The electron-phonon coupling extracted from the kink
+observed in ARPES experiments is roughly a factor of 5.5 larger than the
+calculated one. This disagreement can only be partially reconciled by the
+inclusion of resolution effects. Indeed we show that a finite resolution
+increases the apparent electron-phonon coupling by underestimating the
+renormalization of the electron velocity at energies larger than the kinks
+positions. The discrepancy between theory and experiments is thus reduced to a
+factor of $\approx$ 2.2. From the linewidth of the calculated ARPES spectra we
+obtain the electron relaxation time. A comparison with available experimental
+data in graphene shows that the electron relaxation time detected in ARPES is
+almost two orders of magnitudes smaller than what measured by other
+experimental techniques.

@@ -1,0 +1,13 @@
+We describe explicitly the moduli spaces $M^{pst}_g(S,E)$ of polystable
+holomorphic structures $E$ with $\det E\cong K$ on a rank 2 vector bundle $E$
+with $c_1(E)=c_1(K)$ and $c_2(E)=0$ for all minimal class VII surfaces $S$ with
+$b_2(S)=1$ and with respect to all possible Gauduchon metrics $g$. These
+surfaces $S$ are non-elliptic and non-Kaehler complex surfaces and have
+recently been completely classified. When $S$ is a half or parabolic Inoue
+surface, $M^{pst}_g(S,E)$ is always a compact one-dimensional complex disc.
+When $S$ is an Enoki surface, one obtains a complex disc with finitely many
+transverse self-intersections whose number becomes arbitrarily large when $g$
+varies in the space of Gauduchon metrics. $M^{pst}_g(S,E)$ can be identified
+with a moduli space of PU(2)-instantons. The moduli spaces of simple bundles of
+the above type leads to interesting examples of non-Hausdorff singular
+one-dimensional complex spaces.

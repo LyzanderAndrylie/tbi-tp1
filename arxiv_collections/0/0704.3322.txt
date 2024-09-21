@@ -1,0 +1,5 @@
+We have studied the concurrence of two-site entanglement and have shown that
+it is related to the geometric phase accumulated due to a complete rotation of
+the entangled state. The geometric phase and hence the concurrence is evaluated
+for transverse Ising model and antiferromagnetic chain which is found to be in
+good agreement with that obtained by other methods.

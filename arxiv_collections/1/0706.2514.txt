@@ -1,0 +1,12 @@
+The relationship between the length gauge (LG) and the velocity gauge (VG)
+exact forms of the photoionization probability amplitude is considered. Our
+motivation for this paper comes from applications of the Keldysh-Faisal-Reiss
+(KFR) theory, which describes atoms (or ions) in a strong laser field (in the
+nonrelativistic approach, in the dipole approximation). On the faith of a
+certain widely-accepted assumption, we present a simple proof that the
+well-known LG form of the exact photoionization (or photodetachment)
+probability amplitude is indeed the gauge-invariant result. In contrast, to
+obtain the VG form of this probability amplitude, one has to either (i) neglect
+the well-known Goeppert-Mayer exponential factor (which assures gauge
+invariance) during all the time evolution of the ionized electron or (ii) put
+some conditions on the vector potential of the laser field.

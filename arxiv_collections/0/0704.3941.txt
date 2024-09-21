@@ -1,0 +1,20 @@
+By their star content, the galaxies split out into a red and a blue
+population; their color index peaked around u-r=2.5 or u-r=1, respectively,
+quantifies the ratio of the blue stars newly formed from cold galactic gas, to
+the redder ones left over by past generations. On the other hand, upon
+accreting substantial gas amounts the central massive black holes energize
+active galactic nuclei (AGNs); here we investigate whether these show a
+similar, and possibly related, bimodal partition as for current accretion
+activity relative to the past. To this aim we use an updated semianalytic
+model; based on Monte Carlo simulations, this follows with a large statistics
+the galaxy assemblage, the star generations and the black hole accretions in
+the cosmological framework over the redshift span from z=10 to z=0. We test our
+simulations for yielding in close detail the observed split of galaxies into a
+red, early and a blue, late population. We find that the black hole accretion
+activities likewise give rise to two source populations: early, bright quasars
+and later, dimmer AGNs. We predict for their Eddington parameter $\lambda_E$ --
+the ratio of the current to the past black hole accretions -- a bimodal
+distribution; the two branches sit now under $\lambda_E \approx 0.01$ (mainly
+contributed by low-luminosity AGNs) and around $\lambda_E \approx 0.3-1$. These
+not only mark out the two populations of AGNs, but also will turn out to
+correlate strongly with the red or blue color of their host galaxies.

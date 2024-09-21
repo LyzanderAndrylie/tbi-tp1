@@ -1,0 +1,6 @@
+The conservation of translation as a symmetry in two-dimensional systems with
+interaction is a classical subject of statistical mechanics. Here we establish
+such a result for Gibbsian particle systems with two-body interaction, where
+the interesting cases of singular, hard-core and discontinuous interaction are
+included. We start with the special case of pure hard core repulsion in order
+to show how to treat hard cores in general.

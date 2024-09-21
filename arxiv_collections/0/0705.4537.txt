@@ -1,0 +1,8 @@
+Using Wilson's numerical renormalization group (NRG) technique we compute
+zero-bias conductance and various correlation functions of a double quantum dot
+(DQD) system. We present different regimes within a phase diagram of the DQD
+system. By introducing a negative Hubbard U on one of the quantum dots, we
+simulate the effect of electron-phonon coupling and explore the properties of
+the coexisting spin and charge Kondo state. In a triple quantum dot (TQD)
+system a multi-stage Kondo effect appears where localized moments on quantum
+dots are screened successively at exponentially distinct Kondo temperatures.

@@ -1,0 +1,10 @@
+A two-dimensional lattice hard-core boson system with a small fraction of
+bosonic or fermionic impurity particles is studied. The impurities have the
+same hopping and interactions as the dominant bosons and their effects are
+solely due to quantum statistics. Quantum Monte Carlo simulations are carried
+out in which paths of the dominant boson species are sampled and a summation is
+performed over all second-species paths compatible with the permutation cycles.
+Both kinds of impurities reduce modestly and equally the Kosterliz-Thouless
+superfluid transition temperature. However, the effective impurity interactions
+are found to be qualitatively different at lower temperatures; fermions are
+repulsive and further suppress superfluidity at low temperatures.

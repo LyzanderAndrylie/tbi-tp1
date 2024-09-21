@@ -1,0 +1,18 @@
+We describe a new approach to logic devices interconnection by the inductive
+coupling via a ferromagnetic film. The information among the distant devices is
+transmitted in a wireless manner via a magnetic field produced by spin waves
+propagating in the ferromagnetic film, referred to as the spin wave bus. As an
+alternative approach to the transistor-based architecture, logic circuits with
+spin wave bus do not use charge as an information carrier. A bit of information
+can be encoded into the phase or the amplitude of the spin wave signal. We
+present experimental data demonstrating inductive coupling through the 100nm
+thick NiFe and CoFe films at room temperature. The performance of logic
+circuits with spin wave bus is illustrated by numerical modeling based on the
+experimental data. Potentially, logic circuits with spin wave bus may resolve
+the interconnect problem and provide "wireless" read-in and read-out. Another
+expected benefit is in the enhanced logic functionality. A set of NOT, AND, and
+OR logic gates can be realized in one device structure. The coupling between
+the circuits and the spin wave bus can be controlled. We present the results of
+numerical simulations showing the controllable switching of a bi-stable logic
+cell inductively coupled to the spin wave bus. The shortcomings and limitations
+of circuits with spin wave bus are also discussed.

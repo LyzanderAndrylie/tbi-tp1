@@ -1,0 +1,24 @@
+In this paper we study how to attack, through different techniques, a perfect
+fluid Bianchi I model with variable G,c and Lambda, but taking into account the
+effects of a $c$-variable into the curvature tensor. We study the model under
+the assumption,div(T)=0. These tactics are: Lie groups method (LM), imposing a
+particular symmetry, self-similarity (SS), matter collineations (MC) and
+kinematical self-similarity (KSS). We compare both tactics since they are quite
+similar (symmetry principles). We arrive to the conclusion that the LM is too
+restrictive and brings us to get only the flat FRW solution. The SS, MC and KSS
+approaches bring us to obtain all the quantities depending on \int c(t)dt.
+Therefore, in order to study their behavior we impose some physical
+restrictions like for example the condition q<0 (accelerating universe). In
+this way we find that $c$ is a growing time function and Lambda is a decreasing
+time function whose sing depends on the equation of state, w, while the
+exponents of the scale factor must satisfy the conditions
+$\sum_{i=1}^{3}\alpha_{i}=1$ and $\sum_{i=1}^{3}\alpha_{i}^{2}<1,$
+$\forall\omega$, i.e. for all equation of state$,$ relaxing in this way the
+Kasner conditions. The behavior of $G$ depends on two parameters, the equation
+of state $\omega$ and $\epsilon,$ a parameter that controls the behavior of
+$c(t),$ therefore $G$ may be growing or decreasing.We also show that through
+the Lie method, there is no difference between to study the field equations
+under the assumption of a $c-$var affecting to the curvature tensor which the
+other one where it is not considered such effects.Nevertheless, it is essential
+to consider such effects in the cases studied under the SS, MC, and KSS
+hypotheses.

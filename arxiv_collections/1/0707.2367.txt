@@ -1,0 +1,18 @@
+We outline the qualitatively different physics behind charging-induced
+current asymmetries in molecular conductors operating in the weakly interacting
+self-consistent field (SCF) and the strongly interacting Coulomb Blockade (CB)
+regimes. A conductance asymmetry arises in SCF because of the unequal
+mean-field potentials that shift a closed-shell conducting level differently
+for positive and negative bias. A very different current asymmetry arises for
+CB due to the unequal number of open-shell excitation channels at opposite bias
+voltages. The CB regime, dominated by single charge effects, typically requires
+a computationally demanding many-electron or Fock space description. However,
+our analysis of molecular Coulomb Blockade measurements reveals that many novel
+signatures can be explained using a {{simpler}} orthodox model that involves an
+incoherent sum of Fock space excitations and {\it{hence treats the molecule as
+a metallic dot or an island}}. This also reduces the complexity of the Fock
+space description by just including various charge configurations only, thus
+partially underscoring the importance of electronic structure, while retaining
+the essence of the single charge nature of the transport process. We finally
+point out, however, that the inclusion of electronic structure and hence
+well-resolved Fock space excitations is crucial in some notable examples.

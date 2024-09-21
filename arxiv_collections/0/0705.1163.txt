@@ -1,0 +1,7 @@
+Any interior solution for a cylindrically symmetric, stationary cosmic string
+with flat exterior, spinning around its longitudinal axis, and without internal
+longitudinal currents ($g_{zz}=1$, $g_{tz}=0$), must somewhere violate the weak
+energy condition of standard general relativity. Existing interior solutions
+may be readily fixed by adding mass to the string above that generating its
+angular deficit, but at the cost of introducing an exterior gravitational
+field.

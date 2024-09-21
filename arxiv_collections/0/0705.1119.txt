@@ -1,0 +1,17 @@
+The impact of the strongly attractive electromagnetic field of heavy nuclei
+on electrons in quasi-elastic (e,e') scattering is often accounted for by the
+effective momentum approximation. This method is a plane wave Born
+approximation which takes the twofold effect of the attractive nucleus on
+initial and final state electrons into account, namely the modification of the
+electron momentum in the vicinity of the nucleus, and the focusing of electrons
+towards the nuclear region leading to an enhancement of the corresponding wave
+function amplitudes. The focusing effect due to the attractive Coulomb field of
+a homogeneously charged sphere on a classical ensemble of charged particles
+incident on the field is calculated in the highly relativistic limit and
+compared to results obtained from exact solutions of the Dirac equation. The
+result is relevant for the theoretical foundation of the effective momentum
+approximation and describes the high energy behavior of the amplitude of
+continuum Dirac waves in the potential of a homogeneously charged sphere. Our
+findings indicate that the effective momentum approximation is a useful
+approximation for the calculation of Coulomb corrections in (e,e') scattering
+off heavy nuclei for sufficiently high electron energies and momentum transfer.

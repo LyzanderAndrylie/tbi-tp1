@@ -1,0 +1,18 @@
+We give a detailed critical discussion of the properties of Wilsonian
+effective actions, defined by integrating out all modes above a given scale
+$\mu$. In particular, we provide a precise and relatively convenient
+prescription how to implement the infrared cutoff $\mu$ in any loop integral
+that is manifestly Lorentz invariant and also preserves global linear
+symmetries such as e.g. supersymmetry. We discuss the issue of gauge invariance
+of effective actions in general and in particular when using background field
+gauge. Our prescription for the IR cutoff (as any such prescription) breaks the
+gauge symmetry. Using our prescription, we have explicitly computed, at one
+loop, many terms of the Wilsonian effective action for general gauge theories,
+involving bosonic and fermionic matter fields of arbitrary masses and in
+arbitrary representations, exhibiting the non-gauge invariant (as well as the
+gauge invariant) terms. However, for supersymmetric gauge theories all
+non-gauge invariant terms cancel within each supermultiplet. This is strong
+evidence that in supersymmetric gauge theories this indeed defines a Lorentz,
+susy and gauge invariant Wilsonian effective action. As a byproduct, we obtain
+the explicit one-loop Wilsonian couplings for all higher-derivative terms $F
+D^{2n}F$ in the effective action of arbitrary supersymmetric gauge theories.

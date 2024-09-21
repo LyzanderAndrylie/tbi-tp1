@@ -1,0 +1,13 @@
+Let a>0, F: R^2 -> R^2 be a differentiable (not necessarily C^1) map and
+Spec(F) be the set of (complex) eigenvalues of the derivative F'(p) when p
+varies in R^2.
+  (a) If Spec(F) is disjoint of the interval [1,1+a[, then Fix(F) has at most
+one element, where Fix(F) denotes the set of fixed points of F.
+  (b) If Spec(F) is disjoint of the real line R, then Fix(F^2) has at most one
+element.
+  (c) If F is a C^1 map and, for all p belonging to R^2, the derivative F'(p)
+is neither a homothety nor has simple real eigenvalues, then Fix(F^2) has at
+most one element, provided that Spec(F) is disjoint of either
+  (c1) the union of the number 0 with the intervals ]-\infty, -1] and
+[1,\infty[, or (c2) the interval [-1-a, 1+a]. Conditions under which Fix(F^n),
+with n>1, is at most unitary are considered.

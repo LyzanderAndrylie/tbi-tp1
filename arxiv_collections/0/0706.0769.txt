@@ -1,0 +1,7 @@
+We study Chern numbers to characterize the ground state of strongly
+interacting systems on a lattice. This method allows us to perform a numerical
+characterization of bosonic fractional quantum Hall (FQH) states on a lattice
+where conventional overlap calculation with known continuum case such as
+Laughlin state, breaks down due to the lattice structure or dipole-dipole
+interaction. The non-vanishing Chern number indicates the existence of a
+topological order in the degenerate ground state manifold.

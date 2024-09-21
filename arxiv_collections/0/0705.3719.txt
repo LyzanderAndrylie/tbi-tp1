@@ -1,0 +1,9 @@
+First three sections of this overview paper cover classical topics of
+deformation theory of associative algebras and necessary background material.
+We then analyze algebraic structures of the Hochschild cohomology and describe
+the relation between deformations and solutions of the corresponding
+Maurer-Cartan equation. In Section 6 we generalize the Maurer-Cartan equation
+to strongly homotopy Lie algebras and prove the homotopy invariance of the
+moduli space of solutions of this equation. In the last section we indicate the
+main ideas of Kontsevich's proof of the existence of deformation quantization
+of Poisson manifolds.

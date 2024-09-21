@@ -1,0 +1,11 @@
+We analyze five epochs of Spitzer Space Telescope/Infrared Array Camera
+(IRAC) observations of the nearby spiral galaxy M33. Each epoch covered nearly
+a square degree at 3.6, 4.5, and 8.0 microns. The point source catalog from the
+full dataset contains 37,650 stars. The stars have luminosities characteristic
+of the asymptotic giant branch and can be separated into oxygen-rich and
+carbon-rich populations by their [3.6] - [4.5] colors. The [3.6] - [8.0] colors
+indicate that over 80% of the stars detected at 8.0 microns have dust shells.
+Photometric comparison of epochs using conservative criteria yields a catalog
+of 2,923 variable stars. These variables are most likely long-period variables
+amidst an evolved stellar population. At least one-third of the identified
+carbon stars are variable.

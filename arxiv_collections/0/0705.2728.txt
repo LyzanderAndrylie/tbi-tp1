@@ -1,0 +1,5 @@
+Charging a nano-scale oscillator by single electron tunneling leads to an
+effective double-well potential due to image charges. We combine exact
+numerical diagonalizations with generalized Master equations and show that the
+resulting quantum tunneling of the mechanical degree of freedom can be
+visualized in the electronic current noise spectrum.

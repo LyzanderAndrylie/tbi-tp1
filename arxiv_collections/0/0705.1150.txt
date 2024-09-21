@@ -1,0 +1,7 @@
+Proposed in this paper is a kinetostatic performance index for the optimum
+dimensioning of planar manipulators of the serial type. The index is based on
+the concept of distance of the underlying Jacobian matrix to a given isotropic
+matrix that is used as a reference model for purposes of performance
+evaluation. Applications of the index fall in the realm of design, but control
+applications are outlined. The paper focuses on planar manipulators, the basic
+concepts being currently extended to their three-dimensional counterparts.

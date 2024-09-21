@@ -1,0 +1,9 @@
+In this note, we develop stock option price approximations for a model which
+takes both the risk o default and the stochastic volatility into account. We
+also let the intensity of defaults be influenced by the volatility. We show
+that it might be possible to infer the risk neutral default intensity from the
+stock option prices. Our option price approximation has a rich implied
+volatility surface structure and fits the data implied volatility well. Our
+calibration exercise shows that an effective hazard rate from bonds issued by a
+company can be used to explain the implied volatility skew of the implied
+volatility of the option prices issued by the same company.

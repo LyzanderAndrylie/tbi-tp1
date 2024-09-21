@@ -1,0 +1,5 @@
+An empirical method for correcting low-resolution astronomical spectra for
+second-order contamination is presented. The method was developed for
+correcting spectra obtained with grism #4 of the ALFOSC spectrograph at the
+Nordic Optical Telescope and the performance is demonstrated on spectra of two
+nearby bright Type Ia supernovae.

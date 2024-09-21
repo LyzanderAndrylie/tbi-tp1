@@ -1,0 +1,14 @@
+We present a diagrammatic formulation of a theory for the time dependence of
+density fluctuations in equilibrium systems of interacting Brownian particles.
+To facilitate derivation of the diagrammatic expansion we introduce a basis
+that consists of orthogonalized many-particle density fluctuations. We obtain
+an exact hierarchy of equations of motion for time-dependent correlations of
+orthogonalized density fluctuations. To simplify this hierarchy we neglect
+contributions to the vertices from higher-order cluster expansion terms. An
+iterative solution of the resulting equations can be represented by diagrams
+with three and four-leg vertices. We analyze the structure of the diagrammatic
+series for the time-dependent density correlation function and obtain a
+diagrammatic interpretation of reducible and irreducible memory functions. The
+one-loop self-consistent approximation for the latter function coincides with
+mode-coupling approximation for Brownian systems that was derived previously
+using a projection operator approach.

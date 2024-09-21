@@ -1,0 +1,21 @@
+Collaborative tagging has recently attracted the attention of both industry
+and academia due to the popularity of content-sharing systems such as
+CiteULike, del.icio.us, and Flickr. These systems give users the opportunity to
+add data items and to attach their own metadata (or tags) to stored data. The
+result is an effective content management tool for individual users. Recent
+studies, however, suggest that, as tagging communities grow, the added content
+and the metadata become harder to manage due to an ease in content diversity.
+Thus, mechanisms that cope with increase of diversity are fundamental to
+improve the scalability and usability of collaborative tagging systems. This
+paper analyzes whether usage patterns can be harnessed to improve navigability
+in a growing knowledge space. To this end, it presents a characterization of
+two collaborative tagging communities that target scientific literature:
+CiteULike and Bibsonomy. We explore three main directions: First, we analyze
+the tagging activity distribution across the user population. Second, we define
+new metrics for similarity in user interest and use these metrics to uncover
+the structure of the tagging communities we study. The structure we uncover
+suggests a clear segmentation of interests into a large number of individuals
+with unique preferences and a core set of users with interspersed interests.
+Finally, we offer preliminary results that demonstrate that the interest-based
+structure of the tagging community can be used to facilitate content usage as
+communities scale.

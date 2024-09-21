@@ -1,0 +1,12 @@
+Co-authorship graphs (that is, the graph of authors linked by co-authorship
+of papers) are complex networks, which expresses the dynamics of a complex
+system. Only recently its study has started to draw interest from the EC
+community, the first paper dealing with it having been published two years ago.
+In this paper we will study the co-authorship network of EC at a microscopic
+level. Our objective is ascertaining which are the most relevant nodes (i.e.
+authors) in it. For this purpose, we examine several metrics defined in the
+complex-network literature, and analyze them both in isolation and combined
+within a Pareto-dominance approach. The result of our analysis indicates that
+there are some well-known researchers that appear systematically in top
+rankings. This also provides some hints on the social behavior of our
+community.

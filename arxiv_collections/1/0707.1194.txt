@@ -1,0 +1,18 @@
+Optical techniques are finding widespread use in analytical chemistry for
+chemical and bio-chemical analysis. During the past decade, there has been an
+increasing emphasis on miniaturization of chemical analysis systems and
+naturally this has stimulated a large effort in integrating microfluidics and
+optics in lab-on-a-chip microsystems. This development is partly defining the
+emerging field of optofluidics. Scaling analysis and experiments have
+demonstrated the advantage of micro-scale devices over their macroscopic
+counterparts for a number of chemical applications. However, from an optical
+point of view, miniaturized devices suffer dramatically from the reduced
+optical path compared to macroscale experiments, e.g. in a cuvette. Obviously,
+the reduced optical path complicates the application of optical techniques in
+lab-on-a-chip systems. In this paper we theoretically discuss how a strongly
+dispersive photonic crystal environment may be used to enhance the light-matter
+interactions, thus potentially compensating for the reduced optical path in
+lab-on-a-chip systems. Combining electromagnetic perturbation theory with
+full-wave electromagnetic simulations we address the prospects for achieving
+slow-light enhancement of Beer-Lambert-Bouguer absorption, photonic band-gap
+based refractometry, and high-Q cavity sensing.

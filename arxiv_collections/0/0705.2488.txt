@@ -1,0 +1,8 @@
+An elegant quaternionic formulation is given for the Lagrangian advection
+equation for velocity vector potential in fluid dynamics. At first we study the
+topological significance of a restricted conserved quantity viz.,
+stream-helicity and later more realistic configuration of open streamlines is
+figured out. Also, using Clebsch parameterisation of the velocity vector
+potential yet another physical significance for the stream-helicity is
+provided. Finally we give a Nambu-Poisson formalism of the Lagrangian advection
+equation for velocity vector potential.

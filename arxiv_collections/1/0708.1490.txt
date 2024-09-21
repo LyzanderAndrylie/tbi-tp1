@@ -1,0 +1,14 @@
+Irreversible opinion spreading phenomena are studied on small-world networks
+generated from 2D regular lattices by means of the magnetic Eden model, a
+nonequilibrium kinetic model for the growth of binary mixtures in contact with
+a thermal bath. In this model, the opinion or decision of an individual is
+affected by those of their acquaintances, but opinion changes (analogous to
+spin flips in an Ising-like model) are not allowed. Particularly, we focus on
+aspects inherent to the underlying 2D nature of the substrate, such as domain
+growth and cluster size distributions. Larger shortcut fractions are observed
+to favor long-range ordering connections between distant clusters across the
+network, while the temperature is shown to drive the system across an
+order-disorder transition, in agreement with previous investigations on related
+equilibrium spin systems. Furthermore, the extrapolated phase diagram, as well
+as the correlation length critical exponent, are determined by means of
+standard finite-size scaling procedures.

@@ -1,0 +1,24 @@
+Embedded Si and Ge nanocrystals (NCs) in wide band-gap matrices are studied
+theoretically using an atomistic pseudopotential approach. From small clusters
+to large NCs containing on the order of several thousand atoms are considered.
+Effective band-gap values as a function of NC diameter reproduce very well the
+available experimental and theoretical data. It is observed that the highest
+occupied molecular orbital for both Si and Ge NCs and the lowest unoccupied
+molecular orbital for Si NCs display oscillations with respect to size among
+the different irreducible representations of the $C_{3v}$ point group to which
+these spherical NCs belong. Based on this electronic structure, first the
+interband absorption is thoroughly studied which shows the importance of
+surface polarization effects that significantly reduce the absorption when
+included. This reduction is found to increase with decreasing NC size or with
+increasing permittivity mismatch between the NC core and the host matrix.
+Reasonable agreement is observed with the experimental absorption spectra where
+available. The deformation of spherical NCs into prolate or oblate ellipsoids
+are seen to introduce no pronounced effects for the absorption spectra. Next,
+intraconduction and intravalence band absorption coefficients are obtained in
+the wavelength range from far-infrared to visible region. These results can be
+valuable for the infrared photodetection prospects of these NC arrays. Finally,
+excited-state absorption at three different optical pump wavelengths, 532 nm,
+355 nm and 266 nm are studied for 3- and 4 nm-diameter NCs. This reveals strong
+absorption windows in the case of holes and a broad spectrum in the case of
+electrons which can especially be relevant for the discussions on achieving
+gain in these structures.

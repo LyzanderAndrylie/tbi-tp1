@@ -1,0 +1,11 @@
+A comodule algebra P over a Hopf algebra H with bijective antipode is called
+principal if the coaction of H is Galois and P is H-equivariantly projective
+(faithfully flat) over the coaction-invariant subalgebra B. We prove that
+principality is a piecewise property: given N comodule-algebra surjections
+P->Pi whose kernels intersect to zero, P is principal if and only if all Pi's
+are principal. Furthermore, assuming the principality of P, we show that the
+lattice these kernels generate is distributive if and only if so is the lattice
+obtained by intersection with B. Finally, assuming the above distributivity
+property, we obtain a flabby sheaf of principal comodule algebras over a
+certain space that is universal for all such N-families of surjections P->Pi
+and such that the comodule algebra of global sections is P.

@@ -1,0 +1,18 @@
+In this article we address the physical basis of the deviation of hadron
+shapes from spherical symmetry (non-spherical amplitudes) with focus on the
+nucleon and $\Delta$. An overview of both the experimental methods and results
+and the current theoretical understanding of the issue is presented. At the
+present time the most quantitative method is the $\gamma^{*} p \to \Delta$
+reaction for which significant non-spherical electric (E2) and Coulomb
+quadrupole (C2) amplitudes have been observed with good precision as a function
+of Q^{2} from the photon point through 6 GeV^{2}. Quark model calculations for
+these quadrupole amplitudes are at least an order of magnitude too small and
+even have the wrong sign. Lattice QCD, chiral effective field theory, and
+dynamic model calculations which include the effects of the pion-cloud are in
+approximate agreement with experiment. This is expected due to the spontaneous
+breaking of chiral symmetry in QCD and the resulting, long range (low Q^{2})
+effects of the pion-cloud. Other observables such as nucleon form factors and
+virtual Compton scattering experiments indicate that the pion-cloud is playing
+a significant role in nucleon structure. Semi-inclusive deep inelastic
+scattering experiments with transverse polarized beam and target also show the
+effect of non-zero quark angular momentum.

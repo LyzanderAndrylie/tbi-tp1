@@ -1,0 +1,22 @@
+We present estimates of the N-point galaxy, area-averaged, angular
+correlation functions $\bar{\omega}_{N}$($\theta$) for $N$ = 2,...,7 for
+galaxies from the fifth data release of the Sloan Digital Sky Survey. Our
+parent sample is selected from galaxies with $18 \leq r < 21$, and is the
+largest ever used to study higher-order correlations. We subdivide this parent
+sample into two volume limited samples using photometric redshifts, and these
+two samples are further subdivided by magnitude, redshift, and color (producing
+early- and late-type galaxy samples) to determine the dependence of
+$\bar{\omega}_{N}$($\theta$) on luminosity, redshift, and galaxy-type. We
+measure $\bar{\omega}_{N}$($\theta$) using oversampling techniques and use them
+to calculate the projected, $s_{N}$. Using models derived from theoretical
+power-spectra and perturbation theory, we measure the bias parameters $b_1$ and
+$c_2$, finding that the large differences in both bias parameters ($b_1$ and
+$c_2$) between early- and late-type galaxies are robust against changes in
+redshift, luminosity, and $\sigma_8$, and that both terms are consistently
+smaller for late-type galaxies. By directly comparing their higher-order
+correlation measurements, we find large differences in the clustering of
+late-type galaxies at redshifts lower than 0.3 and those at redshifts higher
+than 0.3, both at large scales ($c_2$ is larger by $\sim0.5$ at $z > 0.3$) and
+small scales (large amplitudes are measured at small scales only for $z > 0.3$,
+suggesting much more merger driven star formation at $z > 0.3$). Finally, our
+measurements of $c_2$ suggest both that $\sigma_8 < 0.8$ and $c_2$ is negative.

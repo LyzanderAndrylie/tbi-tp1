@@ -1,0 +1,15 @@
+We utilize a recent formulation of a spherically symmetric spacetime endowed
+with a general decomposition of the energy momentum tensor [Phys. Rev. D, 75,
+024031 (2007)] to derive equations governing spherically symmetric
+distributions of electromagnetic matter. We show the system reduces to the
+Reissner-Nordstrom spacetime in general, spherically symmetric coordinates in
+the vacuum limit. Furthermore, we show reduction to the charged Vaidya
+spacetime in non-null coordinates when certain equations of states are chosen.
+A model of gravitational collapse is discussed whereby a charged fluid resides
+within a boundary of finite radial extent on the initial hypersurface, and is
+allowed to radiate charged particles. Our formalism allows for the discussion
+of all regions in this model without the need for complicated matching schemes
+at the interfaces between successive regions. As further examples we consider
+the collapse of a thin shell of charged matter onto a Reissner-Nordstrom black
+hole. Finally, we reduce the entire system of equations to the static case such
+that we have the equations for hydrostatic equilibrium of a charged fluid.

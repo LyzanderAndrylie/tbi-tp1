@@ -1,0 +1,9 @@
+We calculate the electronic compressibility arising from electron-electron
+interactions for a graphene bilayer within the Hartree-Fock approximation. We
+show that, due to the chiral nature of the particles in this system, the
+compressibility is rather different from those of either the two-dimensional
+electron gas or ordinary semiconductors. We find that an inherent competition
+between the contributions coming from intra-band exchange interactions
+(dominant at low densities) and inter-band interactions (dominant at moderate
+densities) leads to a non-monotonic behavior of the compressibility as a
+function of carrier density.

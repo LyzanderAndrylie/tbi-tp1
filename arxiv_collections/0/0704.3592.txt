@@ -1,0 +1,20 @@
+To examine the evolution of giant molecular clouds in the stream of a hot
+plasma we performed two-dimensional hydrodynamical simulations that take full
+account of self-gravity, heating and cooling effects and heat conduction by
+electrons. We use the thermal conductivity of a fully ionized hydrogen plasma
+proposed by Spitzer and a saturated heat flux according to Cowie & McKee in
+regions where the mean free path of the electrons is large compared to the
+temperature scaleheight. Significant structural and evolutionary differences
+occur between simulations with and without heat conduction. Dense clouds in
+pure dynamical models experience dynamical destruction by Kelvin-Helmholtz (KH)
+instability. In static models heat conduction leads to evaporation of such
+clouds. Heat conduction acting on clouds in a gas stream smooths out steep
+temperature and density gradients at the edge of the cloud because the
+conduction timescale is shorter than the cooling timescale. This diminishes the
+velocity gradient between the streaming plasma and the cloud, so that the
+timescale for the onset of KH instabilities increases, and the surface of the
+cloud becomes less susceptible to KH instabilities. The stabilisation effect of
+heat conduction against KH instability is more pronounced for smaller and less
+massive clouds. As in the static case more realistic cloud conditions allow
+heat conduction to transfer hot material onto the cloud's surface and to mix
+the accreted gas deeper into the cloud.

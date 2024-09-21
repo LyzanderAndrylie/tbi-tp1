@@ -1,0 +1,10 @@
+An important subcase of the hidden subgroup problem is equivalent to the
+shift problem over abelian groups. An efficient solution to the latter problem
+would serve as a building block of quantum hidden subgroup algorithms over
+solvable groups. The main idea of a promising approach to the shift problem is
+reduction to solving systems of certain random disequations in finite abelian
+groups. The random disequations are actually generalizations of linear
+functions distributed nearly uniformly over those not containing a specific
+group element in the kernel. In this paper we give an algorithm which finds the
+solutions of a system of N random linear disequations in an abelian p-group A
+in time polynomial in N, where N=(log|A|)^{O(q)}, and q is the exponent of A.

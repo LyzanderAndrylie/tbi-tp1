@@ -1,0 +1,12 @@
+Strong correlation effects in a capacitively coupled double quantum-dot setup
+were previously shown to provide the possibility of both entangling spin-charge
+degrees of freedom and realizing efficient spin-filtering operations by static
+gate-voltage manipulations. Motivated by the use of such a device for quantum
+computing, we study the influence of electromagnetic noise on a general
+spin-orbital Kondo model, and investigate the conditions for observing
+coherent, unitary transport, crucial to warrant efficient spin manipulations.
+We find a rich phase diagram, where low-energy properties sensitively depend on
+the impedance of the external environment and geometric parameters of the
+system. Relevant energy scales related to the Kondo temperature are also
+computed in a renormalization-group treatment, allowing to assess the
+robustness of the device against environmental effects.

@@ -1,0 +1,14 @@
+As an example of thin composite layers we consider single and double grids of
+periodically arranged interacting wires loaded with a certain distributed
+reactive impedance. Currents induced to the wires by a normally incident plane
+wave are rigorously calculated and the corresponding dipole moment densities
+are determined. Using this data and the averaged fields we assign mesoscopic
+material parameters for the proposed grid structures. These parameters depend
+on the number of grids, and measure the averaged induced polarizations. It is
+demonstrated that properly loaded double grids possess polarization response
+that over some frequency range can be described by assigning negative values
+for the mesoscopic parameters. Discussion is conducted on the physical
+meaningfulness to assign such material parameters for thin composite slabs. The
+results predicted by the proposed method for the double-grid structures are
+compared with the results obtained using the commonly adopted S-parameter
+retrieval procedure.

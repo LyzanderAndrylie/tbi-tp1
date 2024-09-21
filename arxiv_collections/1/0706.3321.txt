@@ -1,0 +1,11 @@
+We study the nucleation dynamics of a model solid state transformation and
+the criterion for microstructure selection using a molecular dynamics (MD)
+simulation. Our simulations show a range of microstructures depending on the
+depth of quench. We closely follow the dynamics of the solid and find that
+transient {\em non-affine zones} (NAZ) are created at and evolve with the
+rapidly moving transformation front. The dynamics of these plastic regions
+determines the selection of microstructure. We formulate an {\it elastoplastic
+model} which couples the elastic strain to the non-affine deformation, and
+recover all the qualitative features of the MD simulation. Using this model, we
+construct a dynamical phase diagram for microstructure selection, in addition
+to making definite testable predictions.

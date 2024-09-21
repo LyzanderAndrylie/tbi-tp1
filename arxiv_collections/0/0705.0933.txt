@@ -1,0 +1,10 @@
+We present and analyse a Monte-Carlo algorithm to compute the minimal
+polynomial of an $n\times n$ matrix over a finite field that requires $O(n^3)$
+field operations and O(n) random vectors, and is well suited for successful
+practical implementation. The algorithm, and its complexity analysis, use
+standard algorithms for polynomial and matrix operations. We compare features
+of the algorithm with several other algorithms in the literature. In addition
+we present a deterministic verification procedure which is similarly efficient
+in most cases but has a worst-case complexity of $O(n^4)$. Finally, we report
+the results of practical experiments with an implementation of our algorithms
+in comparison with the current algorithms in the {\sf GAP} library.

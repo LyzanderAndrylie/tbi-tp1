@@ -1,0 +1,6 @@
+We show that a classical algorithm efficiently simulating the modular
+exponentiation circuit, for certain product state input and with measurements
+in a general product state basis at the output, can efficiently simulate Shor's
+factoring algorithm. This is done by using the notion of the semi-classical
+Fourier transform due to Griffith and Niu, and further discussed in the context
+of Shor's algorithm by Browne.

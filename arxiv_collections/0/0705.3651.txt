@@ -1,0 +1,9 @@
+Computations with Barvinok's short rational generating functions are
+traditionally being performed in the dual space, to avoid the combinatorial
+complexity of inclusion--exclusion formulas for the intersecting proper faces
+of cones. We prove that, on the level of indicator functions of polyhedra,
+there is no need for using inclusion--exclusion formulas to account for
+boundary effects: All linear identities in the space of indicator functions can
+be purely expressed using half-open variants of the full-dimensional polyhedra
+in the identity. This gives rise to a practically efficient, parametric
+Barvinok algorithm in the primal space.

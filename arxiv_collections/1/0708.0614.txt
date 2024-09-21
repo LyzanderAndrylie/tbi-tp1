@@ -1,0 +1,16 @@
+An important line of research is the investigation of the laws of random
+variables known as Dirichlet means as discussed in Cifarelli and
+Regazzini(1990). However there is not much information on inter-relationships
+between different Dirichlet means. Here we introduce two distributional
+operations, which consist of multiplying a mean functional by an independent
+beta random variable and an operation involving an exponential change of
+measure. These operations identify relationships between different means and
+their densities. This allows one to use the often considerable analytic work to
+obtain results for one Dirichlet mean to obtain results for an entire family of
+otherwise seemingly unrelated Dirichlet means. Additionally, it allows one to
+obtain explicit densities for the related class of random variables that have
+generalized gamma convolution distributions, and the finite-dimensional
+distribution of their associated L\'evy processes. This has implications in,
+for instance, the explicit description of Bayesian nonparametric prior and
+posterior models, and more generally in a variety of applications in
+probability and statistics involving Levy processes.

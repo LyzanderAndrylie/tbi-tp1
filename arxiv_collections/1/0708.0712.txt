@@ -1,0 +1,11 @@
+The next generation of virtual environments for training is oriented towards
+collaborative aspects. Therefore, we have decided to enhance our platform for
+virtual training environments, adding collaboration opportunities and
+integrating humanoids. In this paper we put forward a model of humanoid that
+suits both virtual humans and representations of real users, according to
+collaborative training activities. We suggest adaptations to the scenario model
+of our platform making it possible to write collaborative procedures. We
+introduce a mechanism of action selection made up of a global repartition and
+an individual choice. These models are currently being integrated and validated
+in GVT, a virtual training tool for maintenance of military equipments,
+developed in collaboration with the French company NEXTER-Group.

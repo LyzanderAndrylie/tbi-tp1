@@ -1,0 +1,10 @@
+For $\tau$ a stopping rule adapted to a sequence of $n$ iid observations, we
+define the loss to be $\ex [ q(R_\tau)]$, where $R_j$ is the rank of the $j$th
+observation, and $q$ is a nondecreasing function of the rank. This setting
+covers both the best choice problem with $q(r)={\bf 1}(r>1)$, and Robbins'
+problem with $q(r)=r$. As $n\to\infty$ the stopping problem acquires a limiting
+form which is associated with the planar Poisson process. Inspecting the limit
+we establish bounds on the stopping value and reveal qualitative features of
+the optimal rule. In particular, we show that the complete history dependence
+persists in the limit, thus answering a question asked by Bruss in the context
+of Robbins' problem.

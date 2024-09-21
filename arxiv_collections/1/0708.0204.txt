@@ -1,0 +1,10 @@
+We propose the phase diagram of a new pseudo-ternary compound,
+CoMnGe_{1-x}Sn_{x}, in the range x less than or equal to 0.1. Our phase diagram
+is a result of magnetic and calometric measurements. We demonstrate the
+appearance of a hysteretic magnetostructural phase transition in the range
+x=0.04 to x=0.055, similar to that observed in CoMnGe under hydrostatic
+pressure. From magnetisation measurements, we show that the isothermal entropy
+change associated with the magnetostructural transition can be as high as 4.5
+J/(K kg) in a field of 1 Tesla. However, the large thermal hysteresis in this
+transition (~20 K) will limit its straightforward use in a magnetocaloric
+device.

@@ -1,0 +1,6 @@
+We propose a many-body generalization of the Z2 topological invariant for the
+quantum spin Hall insulator, which does not rely on single-particle band
+structures. The invariant is derived as a topological obstruction that
+distinguishes topologically distinct many-body ground states on a torus. It is
+also expressed as a Wilson-loop of the SU(2) Berry gauge field, which is
+quantized due to the time-reversal symmetry.

@@ -1,0 +1,8 @@
+A model for two entangled systems in an EPR setting is shown to reproduce the
+quantum-mechanical outcomes and expectation values. Each system is represented
+by a small sphere containing a point-like particle embedded in a field. A
+quantum state appears as an equivalence class of several possible
+particle-field configurations. Contrarily to Bell-type hidden variables models,
+the fields account for the non-commutative aspects of the measurements and deny
+the simultaneous reality of incompatible physical quantities, thereby allowing
+to escape EPR's ``completeness or locality'' dilemma.

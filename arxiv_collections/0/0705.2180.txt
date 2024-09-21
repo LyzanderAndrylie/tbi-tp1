@@ -1,0 +1,16 @@
+The electronic density of states of graphene is equivalent to that of
+relativistic electrons. In the absence of disorder or external doping the Fermi
+energy lies at the Dirac point where the density of states vanishes. Although
+transport measurements at high carrier densities indicate rather high
+mobilities, many questions pertaining to disorder remain unanswered. In
+particular, it has been argued theoretically, that when the average carrier
+density is zero, the inescapable presence of disorder will lead to electron and
+hole puddles with equal probability. In this work, we use a scanning single
+electron transistor to image the carrier density landscape of graphene in the
+vicinity of the neutrality point. Our results clearly show the electron-hole
+puddles expected theoretically. In addition, our measurement technique enables
+to determine locally the density of states in graphene. In contrast to
+previously studied massive two dimensional electron systems, the kinetic
+contribution to the density of states accounts quantitatively for the measured
+signal. Our results suggests that exchange and correlation effects are either
+weak or have canceling contributions.

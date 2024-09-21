@@ -1,0 +1,12 @@
+We discuss mechanical buckling instabilities of a rigid film under
+compression interacting repulsively with a substrate through a thin fluid
+layer. The buckling occurs at a characteristic wavelength that increases as the
+1/4th power of the bending stiffness, like a gravitational instability studied
+previously by Milner et al. However, the potential can affect the
+characteristic buckling wavelength strongly, as predicted by Huang and Suo. If
+the potential changes sufficiently sharply with thickness, this instability is
+continuous, with an amplitude varying as the square root of overpressure. We
+discuss three forms of interaction important for the case of Langmuir
+monolayers transferred to a substrate: Casimir-van der Waals interaction,
+screened charged double-layer interaction and the Sharma potential. We verify
+these predictions numerically in the Van der Waals case.

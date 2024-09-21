@@ -1,0 +1,8 @@
+In various areas of applied numerics, the problem of calculating the
+logarithm of a matrix A emerges. Since series expansions of the logarithm
+usually do not converge well for matrices far away from the identity, the
+standard numerical method calculates successive square roots. In this article,
+a new algorithm is presented that relies on the computation of successive
+matrix exponentials. Convergence of the method is demonstrated for a large
+class of initial matrices and favorable choices of the initial matrix are
+discussed.

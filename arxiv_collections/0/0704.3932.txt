@@ -1,0 +1,12 @@
+We present a rigorous calculation of the dynamical friction force exerted on
+a spherical massive perturber moving through an infinite homogenous system of
+field stars. By calculating the shape and mass of the polarization cloud
+induced by the perturber in the background system, which decelerates the motion
+of the perturber, we recover Chandrasekhar's drag force law with a modified
+Coulomb logarithm. As concrete examples we calculate the drag force exerted on
+a Plummer sphere or a sphere with the density distribution of a Hernquist
+profile. It is shown that the shape of the perturber affects only the exact
+form of the Coulomb logarithm. The latter converges on small scales, because
+encounters of the test and field stars with impact parameters less than the
+size of the massive perturber become inefficient. We confirm this way earlier
+results based on the impulse approximation of small angle scatterings.

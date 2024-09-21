@@ -1,0 +1,7 @@
+We introduce two algorithms for accurately evaluating powers to a positive
+integer in floating-point arithmetic, assuming a fused multiply-add (fma)
+instruction is available. We show that our log-time algorithm always produce
+faithfully-rounded results, discuss the possibility of getting correctly
+rounded results, and show that results correctly rounded in double precision
+can be obtained if extended-precision is available with the possibility to
+round into double precision (with a single rounding).

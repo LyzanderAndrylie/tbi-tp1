@@ -1,0 +1,20 @@
+In a previous paper, new sets of parameters to replace the Michel parameters
+were proposed to analyze data for the muon decay $\mu^{+} \to
+e^{+}\nu_{e}\bar{\nu_{\mu}}$. Both $(V-A)$ and $(V+A)$ charged currents with
+finite neutrino mass have been used to study this decay. In the present paper,
+this parameterization is extended to a more general form, and a method for data
+analysis (least squares) is discussed for the propose of determining the rate
+of contribution from the $(V+A)$ current. We find that there is a simple form
+in which the set of parameters is related primitively to the physical
+quantities. It is shown that the Michel parameters are one of the other sets
+that are obtained from this simple form by rearranging one term. We derive the
+condition to obtain the same information regarding unknown physical quantities
+in the case that the data are analyzed using these simple and rearranged forms
+separately. We find that there is some possibility to get different results
+from these analyses, because the equivalent condition is very delicate and the
+QED radiative corrections should be treated carefully. We propose a consistent
+formula for data analysis. It is useful to compare the value obtained in the
+least squares fit using the simple form with that obtained using the prediction
+of the standard model, because a large difference is not expected, especially
+in the case of the Majorana neutrino. Finally, we point out that the method we
+proposed to determine the type of neutrino in the previous paper is incorrect.

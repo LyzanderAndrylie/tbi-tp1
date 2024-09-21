@@ -1,0 +1,16 @@
+In the absence of direct kinematic measurements, the mass of an accreting
+black hole is sometimes inferred from the X-ray spectral parameters of its
+accretion disk; specifically, from the temperature and normalization of a
+disk-blackbody model fit. Suitable corrections have to be introduced when the
+accretion rate approaches or exceeds the Eddington limit. We summarize
+phenomenological models that can explain the very high state, with apparently
+higher disk temperatures and lower inner-disk radii. Conversely, ultraluminous
+X-ray sources often contain cooler disks with large characteristic radii. We
+introduce another phenomenological model for this accretion state. We argue
+that a standard disk dominates the radiative output for radii larger than a
+characteristic transition radius R_c ~ mdot x R_{ISCO}, where mdot is the
+accretion rate in Eddington units and R_{ISCO} is the innermost stable orbit.
+For R_{ISCO} < R < R_c, most of the accretion power is released via non-thermal
+processes. We predict the location of such sources in a luminosity-temperature
+plot. We conclude that black holes with masses ~ 50-100 Msun accreting at mdot
+~ 10-20 may explain the X-ray properties of many ULXs.

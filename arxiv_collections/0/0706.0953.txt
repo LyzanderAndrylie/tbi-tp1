@@ -1,0 +1,17 @@
+The multi-Higgs models having spontaneous CP violation (SPCV) and natural
+flavor conservation (NFC) lead to a real CKM matrix $V$ contradicting current
+evidence in favour of a complex $V$. This contradiction can be removed by using
+a generalized $\mu$-$\tau$ (called 23) symmetry in place of the discrete
+symmetry conventionally used to obtain NFC. If 23 symmetry is exact then the
+Higgs induced flavour changing neutral currents (FCNC) vanish as in case of
+NFC. 23 breaking introduces SPCV, a phase in $V$ and suppressed FCNC among
+quarks. The FCNC couplings $F_{ij}^{d,u}$ between $i$ and $j$ generations show
+a hierarchy $|F_{12}^{d,u}|<|F_{13}^{d,u}|<|F_{23}^{d,u}|$ with the result that
+the FCNC can have observable consequences in $B$ mixing without conflicting
+with the $K^0-\bar{K}^0$ mixing. Detailed fits to the quark masses and the CKM
+matrix are used to obtain the (complex) couplings $F_{ij}^d$ and $F_{ij}^u$.
+Combined constraints from flavour and CP violations in the $K,B_d,B_s,D$ mesons
+are analyzed within the model. They allow ($i$) relatively light Higgs, 100-150
+GeV ($ii$) measurable extra contributions to the magnitudes and phases of the
+$B^0_{d,s}-\bar{B}^0_{d,s}$ mixing amplitudes and ($iii$) the $D^0-\bar{D}^0$
+mixing at the current sensitivity level.

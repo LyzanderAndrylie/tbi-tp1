@@ -1,0 +1,13 @@
+The transverse motion inside a Stark decelerator plays a large role in the
+total efficiency of deceleration. We differentiate between two separate regimes
+of molecule loss during the slowing process. The first mechanism involves
+distributed loss due to coupling of transverse and longitudinal motion, while
+the second is a result of the rapid decrease of the molecular velocity within
+the final few stages. In this work, we describe these effects and present means
+for overcoming them. Solutions based on modified switching time sequences with
+the existing decelerator geometry lead to a large gain of stable molecules in
+the intermediate velocity regime, but fail to address the loss at very low
+final velocities. We propose a new decelerator design, the quadrupole-guiding
+decelerator, which eliminates distributed loss due to transverse/longitudinal
+couplings throughout the slowing process and also exhibits gain over normal
+deceleration to the lowest velocities.

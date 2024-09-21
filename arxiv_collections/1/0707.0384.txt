@@ -1,0 +1,8 @@
+We present a scheme for the improved description of the long-range
+interatomic force constants in a more accurate way than the procedure which is
+commonly used within plane-wave based density-functional perturbation-theory
+calculations. Our scheme is based on the inclusion of a q point grid which is
+denser in a restricted area around the center of the Brillouin Zone than in the
+remaining parts, even though the method is not limited to an area around Gamma.
+We have tested the validity of our procedure in the case of high-pressure
+phases of bulk silicon considering the bct and sh structure.

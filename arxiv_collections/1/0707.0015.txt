@@ -1,0 +1,22 @@
+This thesis contains three main parts, which are largely independent. In the
+first part we deal with the boundary bootstrap in supersymmetric factorized
+scattering theory. We give a description of supersymmetry in the case when the
+space is a half-line and present rules for the determination of the
+representations in which higher level boundary bound states transform, and for
+the determination of the supersymmetric one-particle reflection matrix factors
+for the higher level boundary bound states. These rules apply under the
+condition that the bulk particles transform in the kink or in the boson-fermion
+representation. Examples for the application of these rules to specific models
+are also given. In the second part we investigate the problem whether the TCSA
+spectrum can be approximated by the spectrum of the original Hamiltonian
+operator in which the coefficients of the terms are suitably changed. The
+investigation is done in the case of the critical Ising model on a strip with
+an external magnetic field on one of the boundaries. Another truncation method
+that preserves the solvability of the model is also considered. The results of
+perturbative and numerical calculations show that the above approximation is
+possible and that the qualitative behaviour of the truncated spectrum as a
+function of the coupling constant depends on the truncation method. In the
+third part we investigate the phase structure of the two- and three-frequency
+sine-Gordon models using the TCSA. In the case of the three-frequency model the
+tricritical point, several points of the critical line and a few points of the
+line of first order transition are found.

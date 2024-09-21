@@ -1,0 +1,17 @@
+We study the S parameter, considering especially its sign, in models of
+electroweak symmetry breaking (EWSB) in extra dimensions, with fermions
+localized near the UV brane. Such models are conjectured to be dual to 4D
+strong dynamics triggering EWSB. The motivation for such a study is that a
+negative value of S can significantly ameliorate the constraints from
+electroweak precision data on these models, allowing lower mass scales (TeV or
+below) for the new particles and leading to easier discovery at the LHC. We
+first extend an earlier proof of S>0 for EWSB by boundary conditions in
+arbitrary metric to the case of general kinetic functions for the gauge fields
+or arbitrary kinetic mixing. We then consider EWSB in the bulk by a Higgs VEV
+showing that S is positive for arbitrary metric and Higgs profile, assuming
+that the effects from higher-dimensional operators in the 5D theory are
+sub-leading and can therefore be neglected. For the specific case of AdS_5 with
+a power law Higgs profile, we also show that S ~ + O(1), including effects of
+possible kinetic mixing from higher-dimensional operator (of NDA size) in the
+$5D$ theory. Therefore, our work strongly suggests that S is positive in
+calculable models in extra dimensions.

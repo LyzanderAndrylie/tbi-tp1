@@ -1,0 +1,6 @@
+We introduce a new kinematic event variable MTGEN which can provide
+information relating to the mass scales of particles pair-produced at hadronic
+and leptonic colliders. The variable is of particular use in events with a
+large number of particles in the final state when some of those particles are
+massive and not detected, such as may arise in R-parity-conserving
+supersymmetry.

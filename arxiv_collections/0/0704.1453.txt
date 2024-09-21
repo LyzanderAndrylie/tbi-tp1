@@ -1,0 +1,13 @@
+The dynamics of quasicrystals is characterized by the existence of phason
+excitations in addition to the usual phonon modes. In order to investigate
+their interplay on an elementary level we resort to various one-dimensional
+model systems. The main observables are the static, the incoherent, and the
+coherent structure factor, which are extracted from molecular dynamics
+simulations. For the validation of the algorithms, results for the harmonic
+periodic chain are presented. We then study the Fibonacci chain with harmonic
+and anharmonic interaction potentials. In the dynamic Fibonacci chain
+neighboring atoms interact by double-well potentials allowing for phason flips.
+The difference between the structure factors of the dynamic and the harmonic
+Fibonacci chain lies in the temperature dependence of the phonon line width. If
+a bias is introduced in the well depth, dispersionless optic phonon bands split
+off.

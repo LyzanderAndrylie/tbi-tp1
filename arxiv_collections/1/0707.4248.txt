@@ -1,0 +1,8 @@
+We obtain the self-energy of the electronic propagator due to the presence of
+Holstein polarons within the first Born approximation. This leads to a
+renormalization of the Fermi velocity of one percent. We further compute the
+optical conductivity of the system at the Dirac point and at finite doping
+within the Kubo-formula. We argue that the effects due to Holstein phonons are
+negligible and that the Boltzmann approach which does not include inter-band
+transition and can thus not treat optical phonons due to their high energy of
+$\hbar\omega_0\sim0.1-0.2$eV, remains valid.

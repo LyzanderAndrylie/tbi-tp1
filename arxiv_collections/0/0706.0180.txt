@@ -1,0 +1,11 @@
+The theory of weak quantum measurements is developed for quantum dot spin
+qubits. Building on recent experiments, we propose a control cycle to prepare,
+manipulate, weakly measure, and perform quantum state tomography. This is
+accomplished using a combination of the physics of electron spin resonance,
+spin blockade, and Coulomb blockade, resulting in a charge transport process.
+We investigate the influence of the surrounding nuclear spin environment, and
+find a regime where this environment significantly simplifies the dynamics of
+the weak measurement process, making this theoretical proposal realistic with
+existing experimental technology. We further consider spin-echo refocusing to
+combat dephasing, as well as discuss a realization of "quantum undemolition",
+whereby the effects of quantum state disturbance are undone.

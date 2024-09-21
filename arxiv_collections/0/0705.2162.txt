@@ -1,0 +1,11 @@
+We present an analysis of noisy atomic channels involving qutrits. We choose
+a three-level atom with V-configuration to be the qutrit state. Gell-Mann
+matrices and a generalized Bloch vector (8-dimensional) are used to describe
+the qutrit density operator. We introduce quantum quasi-distributions for
+qutrits that provide a simple description of entanglement. Studying the
+time-evolution for the atomic variables we find the Kraus representation of
+spontaneous emission quantum channel (SE channel). Furthermore, we consider a
+generalized Werner state of two qutrits and investigate the separability
+condition in the presence of spontaneous emission noise. The influence of
+spontaneous emission on the separability of Werner states for qutrit and qubit
+states is compared.

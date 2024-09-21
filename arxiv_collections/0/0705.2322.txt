@@ -1,0 +1,8 @@
+The orbital magnetism is studied in graphene monolayer within the effective
+mass approximation. In models of short-range and long-range disorder, the
+magnetization is calculated with self-consistent Born approximation. In the
+zero-field limit, the susceptibility becomes highly diamagnetic around zero
+energy, while it has a long tail proportional to the inverse of the Fermi
+energy. We demonstrated how the magnetic oscillation vanishes and converges to
+the susceptibility, on going from a strong-field regime to zero-field. The
+behavior at zero energy is shown to be highly singular.

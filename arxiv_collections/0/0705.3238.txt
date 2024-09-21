@@ -1,0 +1,11 @@
+Azimuthal angle \Delta\phi correlations are presented for charged hadrons
+from dijets for 0.4 < p_T < 10 GeV/c in Au+Au collisions at sqrt(s_NN) = 200
+GeV. With increasing p_T, the away-side distribution evolves from a broad to a
+concave shape, then to a convex shape. Comparisons to p+p data suggest that the
+away-side can be divided into a partially suppressed "head" region centered at
+Delta\phi ~ \pi, and an enhanced "shoulder" region centered at Delta\phi ~ \pi
++/- 1.1. The p_T spectrum for the "head" region softens toward central
+collisions, consistent with the onset of jet quenching. The spectral slope for
+the "shoulder" region is independent of centrality and trigger p_T, which
+offers constraints on energy transport mechanisms and suggests that the
+"shoulder" region contains the medium response to energetic jets.

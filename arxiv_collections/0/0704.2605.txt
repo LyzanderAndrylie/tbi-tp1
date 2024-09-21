@@ -1,0 +1,18 @@
+We present a new technique to compute simultaneously valid confidence
+intervals for a set of model parameters. We apply our method to the Wilkinson
+Microwave Anisotropy Probe's (WMAP) Cosmic Microwave Background (CMB) data,
+exploring a seven dimensional space (tau, Omega_DE, Omega_M, omega_DM, omega_B,
+f_nu, n_s). We find two distinct regions-of-interest: the standard Concordance
+Model, and a region with large values of omega_DM, omega_B and H_0. This second
+peak in parameter space can be rejected by applying a constraint (or a prior)
+on the allowable values of the Hubble constant. Our new technique uses a
+non-parametric fit to the data, along with a frequentist approach and a smart
+search algorithm to map out a statistical confidence surface. The result is a
+confidence ``ball'': a set of parameter values that contains the true value
+with probability at least 1-alpha. Our algorithm performs a role similar to the
+often used Markov Chain Monte Carlo (MCMC), which samples from the posterior
+probability function in order to provide Bayesian credible intervals on the
+parameters. While the MCMC approach samples densely around a peak in the
+posterior, our new technique allows cosmologists to perform efficient analyses
+around any regions of interest: e.g., the peak itself, or, possibly more
+importantly, the 1-alpha confidence surface.

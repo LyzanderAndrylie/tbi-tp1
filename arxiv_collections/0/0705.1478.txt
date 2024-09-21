@@ -1,0 +1,13 @@
+Tables of mean opacities are often used to compute the transfer of radiation
+in a variety of astrophysical simulations from stellar evolution models to
+proto-planetary disks. Often tables, such as Ferguson et al. (2005), are
+computed with a predetermined set of physical assumptions that may or may not
+be valid for a specific application. This paper explores the effects of several
+assumptions of grain physics on the Rosseland mean opacity in an oxygen rich
+environment. We find that changing the distribution of grain sizes, either the
+power-law exponent or the shape of the distribution, has a marginal effect on
+the total mean opacity. We also explore the difference in the mean opacity
+between solid homogenous grains and grains that are porous or conglomorations
+of several species. Changing the amount of grain opacity included in the mean
+by assuming a grain-to-gas ratio significantly affects the mean opacity, but in
+a predictable way.

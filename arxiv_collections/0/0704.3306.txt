@@ -1,0 +1,12 @@
+Quantum mechanics is formulated as a geometric theory on a Hilbert manifold.
+Images of charts on the manifold are allowed to belong to arbitrary Hilbert
+spaces of functions including spaces of generalized functions. Tensor equations
+in this setting, also called functional tensor equations, describe families of
+functional equations on various Hilbert spaces of functions. The principle of
+functional relativity is introduced which states that quantum theory is indeed
+a functional tensor theory, i.e., it can be described by functional tensor
+equations. The main equations of quantum theory are shown to be compatible with
+the principle of functional relativity. By accepting the principle as a
+hypothesis, we then analyze the origin of physical dimensions, provide a
+geometric interpretation of Planck's constant, and find a simple interpretation
+of the two-slit experiment and the process of measurement.

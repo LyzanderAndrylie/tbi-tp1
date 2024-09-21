@@ -1,0 +1,9 @@
+We construct, in classical two-time physics, the necessary structure for the
+most general configuration space formulation of quantum mechanics containing
+gravity in d+2 dimensions. This structure is composed of a symmetric Riemannian
+metric tensor and of a vector field that defines a section of a flat U(1)
+bundle over space-time. This construction is possible because of the existence
+of a finite local scale invariance of the Hamiltonian and because two-time
+physics contains, at the classical level, a local generalization of the
+discrete duality symmetry between position and momentum that underlies the
+structure of quantum mechanics.

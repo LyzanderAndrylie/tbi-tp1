@@ -1,0 +1,13 @@
+We analyze the full transport statistics of graphene with smooth disorder at
+low dopings. First we consider the case of 1D disorder for which the
+transmission probability distribution is given analytically in terms of the
+graphene-specific mean free path. All current cumulants are shown to scale with
+system parameters (doping, size, disorder strength and correlation length) in
+an identical fashion for large enough systems. In the case of 2D disorder,
+numerical evidence is given for the same kind of identical scaling of all
+current cumulants, so that the ratio of any two such cumulants is universal.
+Specific universal values are given for the Fano factor, which is smaller than
+the pseudodiffusive value of ballistic graphene (F=1/3) both for 1D (F=0.243)
+and 2D (F=0.295) disorder. On the other hand, conductivity in wide samples is
+shown to grow without saturation as \sqrt{L} and Log L with system length L in
+the 1D and 2D cases respectively.

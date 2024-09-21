@@ -1,0 +1,20 @@
+We have studied the temperature dependence of spectroscopic ellipsometry
+spectra of an electrically insulating, nearly stoichiometric YTiO_3 single
+crystal with ferromagnetic Curie temperature T_C = 30 K. The optical response
+exhibits a weak but noticeable anisotropy. Using a classical dispersion
+analysis, we identify three low-energy optical bands at 2.0, 2.9, and 3.7 eV.
+Although the optical conductivity spectra are only weakly temperature dependent
+below 300 K, we are able to distinguish high- and low-temperature regimes with
+a distinct crossover point around 100 K. The low-temperature regime in the
+optical response coincides with the temperature range in which significant
+deviations from Curie-Weiss mean field behavior are observed in the
+magnetization. Using an analysis based on a simple superexchange model, the
+spectral weight rearrangement can be attributed to intersite d_i^1d_j^1
+\longrightarrow d_i^2d_j^0 optical transitions. In particular, Kramers-Kronig
+consistent changes in optical spectra around 2.9 eV can be associated with the
+high-spin-state (^3T_1) optical transition. This indicates that other
+mechanisms, such as weakly dipole-allowed p-d transitions and/or
+exciton-polaron excitations, can contribute significantly to the optical band
+at 2 eV. The recorded optical spectral weight gain of 2.9 eV optical band is
+significantly suppressed and anisotropic, which we associate with complex
+spin-orbit-lattice phenomena near ferromagnetic ordering temperature in YTiO_3.

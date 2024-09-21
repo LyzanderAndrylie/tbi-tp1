@@ -1,0 +1,9 @@
+The Astrodynamical Space Test of Relativity using Optical Devices (ASTROD) is
+a multi-purpose relativity mission concept. ASTROD's scientific goals are the
+measurement of relativistic and solar system parameters to unprecedented
+precision, and the detection and observation of low-frequency gravitational
+waves to frequencies down to $5\times10^{-6}$ Hz. To accomplish its goals,
+ASTROD will employ a constellation of drag-free satellites, aiming for a
+residual acceleration noise of (0.3-1)$\times$ 10$^{-15}$ m s$^{-2}$
+Hz$^{-1/2}$ at 0.1 mHz. Noise sources and strategies for improving present
+acceleration noise levels are reported.

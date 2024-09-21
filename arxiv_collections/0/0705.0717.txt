@@ -1,0 +1,6 @@
+For a compact Riemann surface X of positive genus, the space of sections of
+certain theta bundle on moduli of bundles of rank r and level k admits a
+natural map to (the dual of) a similar space of sections of rank k and level r
+(the strange duality isomorphism). Both sides of the isomorphism carry
+projective connections as X varies in a family. We prove that this map is
+(projectively) flat.

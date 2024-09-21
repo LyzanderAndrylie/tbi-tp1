@@ -1,0 +1,10 @@
+Water absorption is identified in the atmosphere of HD209458b by comparing
+models for the planet's transmitted spectrum to recent, multi-wavelength,
+eclipse-depth measurements (from 0.3 to 1 microns) published by Knutson et al.
+(2007). A cloud-free model which includes solar abundances, rainout of
+condensates, and photoionization of sodium and potassium is in good agreement
+with the entire set of eclipse-depth measurements from the ultraviolet to
+near-infrared. Constraints are placed on condensate removal by gravitational
+settling, the bulk metallicity, and the redistribution of absorbed stellar
+flux. Comparisons are also made to the Charbonneau et al. (2002) sodium
+measurements.

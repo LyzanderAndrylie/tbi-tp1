@@ -1,0 +1,8 @@
+Inclusive jet production (e+e- -> e+e- +jet+X) is studied in collisions of
+quasi-real photons radiated by the LEP beams at e+e- centre-of-mass energies
+sqrt see from 189 to 209 GeV. Jets are reconstructed using the kp jet
+algorithm. The inclusive differential cross-section is measured as a function
+of the jet transverse momentum, ptjet, in the range 5 <ptjet < 40 GeV for
+pseudo-rapidities, etaj, in the range -1.5 < etaj < 1.5. The results are
+compared to predictions of perturbative QCD in next-to-leading order in the
+strong coupling constant.

@@ -1,0 +1,14 @@
+We investigate whether the floating phase (where the correlation length is
+infinite and the spin-spin correlation decays algebraically with distance)
+exists in the temperature($T$) - frustration parameter ($\kappa$) phase diagram
+of 2D ANNNI model. To identify this phase, we look for the region where (i)
+finite size effect is prominent and (ii) some relevant physical quantity
+changes somewhat sharply and this change becomes sharper as the system size
+increases. For $\kappa < 0.5 $, the low temperature phase is ferromagnetic and
+we study energy and magnetization. For $\kappa > 0.5 $, the low temperature
+phase is antiphase and we study energy, layer magnetization, length of domain
+walls running along the direction of frustration, number of domain-intercepts
+that are of length 2 along the direction of frustration, and the number of
+domain walls that do not touch the upper and/or lower boundary. In agreement
+with some previous studies, our final conclusion is that, the floating phase
+exists, if at all, only along a line.

@@ -1,0 +1,6 @@
+Wave functions describing quantum toboggans with two branch points (QT2) are
+defined along complex contours of coordinates which spiral around these branch
+points. The classification of QT2 is found in terms of certain ``winding
+descriptors" $\varrho$. A mapping $x^{(\varrho)}(s) \to y^{(0)}(s)$ is then
+presented which rectifies the contours for a subset of the simplest
+$\varrho=\varrho_0$.

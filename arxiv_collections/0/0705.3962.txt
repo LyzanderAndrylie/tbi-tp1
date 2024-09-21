@@ -1,0 +1,14 @@
+In this letter we present an experimental realization of the quantum
+mechanics textbook example of two interacting electronic quantum states that
+hybridize forming a molecular state. In our particular realization, the quantum
+states themselves are fabricated as quantum dots in a molecule, a carbon
+nanotube.
+  For sufficient quantum-mechanical interaction (tunnel coupling) between the
+two quantum states, the molecular wavefunction is a superposition of the two
+isolated (dot) wavefunctions. As a result, the electron becomes delocalized and
+a covalent bond forms.
+  In this work, we show that electrical transport can be used as a sensitive
+probe to measure the relative weight of the two components in the superposition
+state as a function of the gate-voltages.
+  For the field of carbon nanotube double quantum dots, the findings represent
+an additional step towards the engineering of quantum states.

@@ -1,0 +1,8 @@
+The I=2 pipi scattering length is calculated in fully-dynamical lattice QCD
+with domain-wall valence quarks on the asqtad-improved coarse MILC
+configurations (with fourth-rooted staggered sea quarks) at four light-quark
+masses. Two- and three-flavor mixed-action chiral perturbation theory at
+next-to-leading order is used to perform the chiral and continuum
+extrapolations. At the physical charged pion mass, we find m_pi a_pipi(I=2) =
+-0.04330 +- 0.00042, where the error bar combines the statistical and
+systematic uncertainties in quadrature.

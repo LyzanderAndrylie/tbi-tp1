@@ -1,0 +1,5 @@
+We compute the Dixmier trace of pseudo-Toeplitz operators on the Fock space.
+As an application we find a formula for the Dixmier trace of the product of
+commutators of Toeplitz operators on the Hardy and weighted Bergman spaces on
+the unit ball of \mathbb C^d. This generalizes an earlier work of Helton-Howe
+for the usual trace of the anti-symmetrization of Toeplitz operators.

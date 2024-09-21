@@ -1,0 +1,13 @@
+The properties of nuclei embedded in an electron gas are studied within the
+relativistic mean-field approach. These studies are relevant for nuclear
+properties in astrophysical environments such as neutron-star crusts and
+supernova explosions. The electron gas is treated as a constant background in
+the Wigner-Seitz cell approximation. We investigate the stability of nuclei
+with respect to alpha and beta decay. Furthermore, the influence of the
+electronic background on spontaneous fission of heavy and superheavy nuclei is
+analyzed. We find that the presence of the electrons leads to stabilizing
+effects for both $\alpha$ decay and spontaneous fission for high electron
+densities. Furthermore, the screening effect shifts the proton dripline to more
+proton-rich nuclei, and the stability line with respect to beta decay is
+shifted to more neutron-rich nuclei. Implications for the creation and survival
+of very heavy nuclear systems are discussed.

@@ -1,0 +1,13 @@
+Synthetic bio-molecular spiders with "legs" made of single-stranded segments
+of DNA can move on a surface which is also covered by single-stranded segments
+of DNA complementary to the leg DNA. In experimental realizations, when a leg
+detaches from a segment of the surface for the first time it alters that
+segment, and legs subsequently bound to these altered segments more weakly.
+Inspired by these experiments we investigate spiders moving along a
+one-dimensional substrate, whose legs leave newly visited sites at a slower
+rate than revisited sites. For a random walk (one-leg spider) the slowdown does
+not effect the long time behavior. For a bipedal spider, however, the slowdown
+generates an effective bias towards unvisited sites, and the spider behaves
+similarly to the excited walk. Surprisingly, the slowing down of the spider at
+new sites increases the diffusion coefficient and accelerates the growth of the
+number of visited sites.

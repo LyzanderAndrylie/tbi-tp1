@@ -1,0 +1,8 @@
+In this article, we generalize Wenzel law, which assigns an effective contact
+angle for a droplet on a rough substrate, when the wetting layer has an ordered
+phase, like a nematic. We estimate the conditions for which the wetting
+behavior of an ordered fluid can be qualitatively different from the one
+usually found in a simple fluid. To particularize our general considerations,
+we will use the Landau-de Gennes mean field approach to investigate
+theoretically and numerically the complete wetting transition between a nematic
+liquid crystal and a saw-shaped structured substrate.

@@ -1,0 +1,12 @@
+In the present work we theoretically analyze the contribution from a
+transverse Fermi-liquid collective mode to the transmission of electromagnetic
+waves through a thin film of a clean metal in the presence of a strong external
+magnetic field. We show that at the appropriate Fermi surface geometry the
+transverse Fermi-liquid wave may appear in conduction electrons liquid at
+frequencies $\omega$ significantly smaller than the cyclotron frequency of
+charge carriers $\Omega$ provided that the mean collision frequency $\tau^{-1}$
+is smaller than $\omega.$ Also, we show that in realistic metals size
+oscillations in the transmission coefficient associated with the Firmi-liquid
+mode may be observable in experiments. Under certain conditions these
+oscillations may predominate over the remaining size effects in the
+transmission coefficient.

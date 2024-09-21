@@ -1,0 +1,10 @@
+The multiple scale expansion method is used to derive amplitude equations for
+a system with thermohaline convection in the neighborhood of Hopf and Taylor
+bifurcation points and at the double zero point of the dispersion relation. A
+complex Ginzburg-Landau equation, a Newell-Whitehead-type equation, and an
+equation of the $\phi^4$ type, respectively, were obtained. Analytic
+expressions for the coefficients of these equations and their various
+asymptotic forms are presented. In the case of Hopf bifurcation for low and
+high frequencies, the amplitude equation reduces to a perturbed nonlinear
+Schr\"odinger equation. In the high-frequency limit, structures of the type of
+"dark" solitons are characteristic of the examined physical system.

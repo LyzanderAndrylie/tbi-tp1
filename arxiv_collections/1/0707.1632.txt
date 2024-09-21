@@ -1,0 +1,9 @@
+A method to calculate heavy flavor visible-level cross sections at
+Next-to-Leading Order (NLO) in Quantum Chromodynamics (QCD), based on an
+interface of the FMNR program to PYTHIA, is described. It uses the NLO
+prediction at quark level provided by FMNR, with a statistical reduction
+procedure (REDSTAT) that allows a link to PYTHIA 6.2 to be made, from where the
+description of the full hadron fragmentation and decay chain is obtained. The
+method is applied to ep -> b bbar X -> D* mu X and mu+ mu- X final states at
+HERA. Comparisons of the data and NLO cross sections at visible and b-quark
+level were found to be consistent.

@@ -1,0 +1,12 @@
+This paper is an introduction to Lambdix, a lazy Lisp interpreter implemented
+at the Research Laboratory of Paris XI University (Laboratoire de Recherche en
+Informatique, Orsay). Lambdix was devised in the course of an investigation
+into the relationship between the semantics of programming languages and their
+implementation; it was used to demonstrate that in the Lisp domain, semantic
+correctness is consistent with efficiency, contrary to what has often been
+claimed. The first part of the paper is an overview of well-known semantic
+difficulties encountered by Lisp as well as an informal presentation of
+Lambdix; it is shown that the difficulties which Lisp encouters do not arise in
+Lambdix. The second part is about efficiency in implementation models. It
+explains why Lambdix is better suited for lazy evaluation than previous models.
+The section ends by giving comparative execution time tables.

@@ -1,0 +1,9 @@
+This paper studies the cosmological equations for a scalar field Phi in the
+framework of a quantum gravity modified Einstein--Hilbert Lagrangian where G
+and Lambda are dynamical variables. It is possible to show that there exists a
+Noether symmetry for the point Lagrangian describing this scheme in a FRW
+universe. Our main result is that the Noether Symmetry Approach fixes both
+Lambda = Lambda(G) and the potential V = V(Phi) of the scalar field. The method
+does not lead, however, to easily solvable equations, by virtue of the higher
+dimensionality of the reduced configuration space involved, the additional
+variable being the running Newton coupling.

@@ -1,0 +1,10 @@
+We study the approximation of stochastic differential equations driven by a
+fractional Brownian motion with Hurst parameter $H>1/2$. For the mean-square
+error at a single point we derive the optimal rate of convergence that can be
+achieved by any approximation method using an equidistant discretization of the
+driving fractional Brownian motion. We find that there are mainly two cases:
+either the solution can be approximated perfectly or the best possible rate of
+convergence is $n^{-H-1/2},$ where $n$ denotes the number of evaluations of the
+fractional Brownian motion. In addition, we present an implementable
+approximation scheme that obtains the optimal rate of convergence in the latter
+case.

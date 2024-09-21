@@ -1,0 +1,11 @@
+We theoretically investigate the competition between charge-ordered state and
+Mott insulating state at finite temperatures in quarter-filled
+quasi-one-dimensional electron systems, by studying dimerized extended Hubbard
+chains with interchain Coulomb interactions. In order to take into account
+one-dimensional fluctuations properly, we apply the bosonization method to an
+effective model obtained by the interchain mean-field approximation. The
+results show that lattice dimerization, especially in the critical region, and
+frustration in the interchain Coulomb interactions reduce the charge-ordering
+phase transition temperature and enlarge the dimer-Mott insulating phase. We
+also derive a general formula of the Knight shift in the charge-ordered phase
+and its implication to experiments is discussed.

@@ -1,0 +1,14 @@
+It has been shown based on radio variability arguments that some BALQSOs
+(broad absorption line quasars) are viewed along the polar axis (orthogonal to
+accretion disk) in the recent article of Zhou et al. These arguments are based
+on the brightness temperature, $T_{b}$ exceeding $10^{12} ^{\circ}$ K which
+leads to the well-known inverse Compton catastrophe unless the radio jet is
+relativistic and is viewed along its axis. In this letter, we expand the Zhou
+et al sample of polar BALQSOs to the entire SDSS DR5. In the process, we
+clarify a mistake in their calculation of brightness temperature. The expanded
+sample of high $T_{b}$ BALQSOS, has an inordinately large fraction of LoBALQSOs
+(low ionization BALQSOs). We consider this an important clue to understanding
+the nature of the polar BALQSOs. This is expected in the polar BALQSO
+analytical/numerical models of Punsly in which LoBALQSOs occur when the line of
+sight is very close to the polar axis, where the outflow density is the
+highest.

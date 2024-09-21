@@ -1,0 +1,5 @@
+We consider the population genetics problem: how long does it take before
+some member of the population has $m$ specified mutations? The case $m=2$ is
+relevant to onset of cancer due to the inactivation of both copies of a tumor
+suppressor gene. Models for larger $m$ are needed for colon cancer and other
+diseases where a sequence of mutations leads to cells with uncontrolled growth.

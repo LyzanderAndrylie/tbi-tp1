@@ -1,0 +1,9 @@
+We conducted extensive numerical experiments of equal mass three-body systems
+until they became disrupted. The system lifetimes, as a bound triple, and the
+Lyapunov times show a correlation similarto what has been earlier obtained for
+small bodies in the Solar System. Numerical integrations of several sets of
+differently randomised initial conditions produced the same relationship of the
+instability time and Lyapunov time. Marginal probability densities of the
+various times in the three-body experiments are also discussed. Our high
+accuracy numerical method for three-body orbit computations and Lyapunov time
+determinations is concisely described.

@@ -1,0 +1,13 @@
+It is generally accepted that many time series of practical interest exhibit
+strong dependence, i.e., long memory. For such series, the sample
+autocorrelations decay slowly and log-log periodogram plots indicate a
+straight-line relationship. This necessitates a class of models for describing
+such behavior. A popular class of such models is the autoregressive
+fractionally integrated moving average (ARFIMA) which is a linear process.
+However, there is also a need for nonlinear long memory models. For example,
+series of returns on financial assets typically tend to show zero correlation,
+whereas their squares or absolute values exhibit long memory. Furthermore, the
+search for a realistic mechanism for generating long memory has led to the
+development of other nonlinear long memory models. In this chapter, we will
+present several nonlinear long memory models, and discuss the properties of the
+models, as well as associated parametric andsemiparametric estimators.

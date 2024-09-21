@@ -1,0 +1,5 @@
+We introduce the notion of weak commensurabilty of arithmetic subgroups and
+relate it to the length equivalence and isospectrality of locally symmetric
+spaces. We prove many strong consequences of weak commensurabilty and derive
+from these many interesting results about isolength and isospectral locally
+symmetric spaces.

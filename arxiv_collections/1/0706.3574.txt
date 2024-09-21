@@ -1,0 +1,13 @@
+We proposed the modified version of quantum-mechanical theory of continuous
+measurements for the case of classical open systems. In our approach the
+influence of measurement on evolution of distribution function of an open
+system is described by the Fokker-Planck equation of a special form. The
+diffusion tensor of this equation is uniquely defined by a type of the measured
+quantity. On the basis of the approach proposed the stationary states of the
+linear dissipative systems, induced by measurements in them, are considered.
+Also we demonstrate on the simple example, how in the conservative system,
+consisting of noninteracting parts, measurement of the integral of motion
+results in relaxation to the quasi-thermodynamic equilibrium between parts of
+the system. The "temperature" of such state is determined by energy of the
+system and by the mean value of measured integral of motion. PACS numbers:
+03.65.Ta, 05.40.-a

@@ -1,0 +1,9 @@
+We provide a generalization of the normal mode decomposition for
+non-symmetric or locality constrained situations. This allows for instance to
+locally decouple a bipartitioned collection of arbitrarily correlated
+oscillators up to elementary pairs into which all correlations are condensed.
+Similarly, it enables us to decouple the interaction parts of multi-mode
+channels into single-mode and pair-interactions where the latter are shown to
+be a clear signature of squeezing between system and environment. In
+mathematical terms the result is a canonical matrix form with respect to real
+symplectic equivalence transformations.

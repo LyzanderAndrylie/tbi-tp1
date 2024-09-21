@@ -1,0 +1,6 @@
+Feynman diagrams may be evaluated by Mellin-Barnes representations of their
+Feynman parameter integrals in d=4-2\eps dimensions. Recently, the Mathematica
+toolkit AMBRE has been developed for the automatic derivation of such
+representations with a loop-by-loop approach. We describe the package and
+exemplify its use with the \eps-expansion of the massive one-loop QED vertex
+function.

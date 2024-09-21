@@ -1,0 +1,12 @@
+The production of dijets in diffractive deep inelastic scattering has been
+measured with the ZEUS detector at HERA using an integrated luminosity of $61
+\pbi$. The dijet cross section has been measured for virtualities of the
+exchanged virtual photon, $5 < Q^2 < 100 \gev^2$, and $\gamma^{*} p$
+centre-of-mass energies, 100 < W < 250 GeV. The jets, identified using the
+inclusive k_{T} algorithm in the $\gamma^* p$ frame, were required to have a
+transverse energy $E^*_{T, \rm jet} > 4 \gev$ and the jet with the highest
+transverse energy was required to have $E^*_{T,\rm jet} > 5 \gev$. All jets
+were required to be in the pseudorapidity range $-3.5 < \eta^*_{\rm jet} < 0$.
+The differential cross sections are compared to leading-order predictions and
+next-to-leading-order QCD calculations based on recent diffractive parton
+densities extracted from inclusive diffractive deep inelastic scattering data.

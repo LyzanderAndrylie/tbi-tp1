@@ -1,0 +1,10 @@
+In a recent letter [Phy. Rev. Lett. 95, 080502 (2005)], it is claimed that
+based on a new kind of quantum mechanical phase of wave function which is
+neither dynamical nor geometrical a new kind of phase gate for quantum
+computation is discovered. The origin of this phase is the adiabatic evolution
+of a dark state. I would like to point out that these claims are questionable.
+The so called new phase gate was based on a phase which was nothing new but has
+been known for decades. It is something which has no physical meaning and is
+not observable. It was also pointed out by [quant-ph/0509150v1] that [Phy. Rev.
+Lett. 95, 080502 (2005)] was incorrect and the phase is the known geometric
+phase. Here we present a totally different argument.

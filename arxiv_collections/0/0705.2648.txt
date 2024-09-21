@@ -1,0 +1,12 @@
+We consider a class of real random polynomials, indexed by an integer d, of
+large degree n and focus on the number of real roots of such random
+polynomials. The probability that such polynomials have no real root in the
+interval [0,1] decays as a power law n^{-\theta(d)} where \theta(d)>0 is the
+exponent associated to the decay of the persistence probability for the
+diffusion equation with random initial conditions in space dimension d. For n
+even, the probability that such polynomials have no root on the full real axis
+decays as n^{-2(\theta(d) + \theta(2))}. For d=1, this connection allows for a
+physical realization of real random polynomials. We further show that the
+probability that such polynomials have exactly k real roots in [0,1] has an
+unusual scaling form given by n^{-\tilde \phi(k/\log n)} where \tilde \phi(x)
+is a universal large deviation function.

@@ -1,0 +1,17 @@
+A time series delta(n), the fluctuation of the nth unfolded eigenvalue was
+recently characterized for the classical Gaussian ensembles of NxN random
+matrices (GOE, GUE, GSE). It is investigated here for the beta-Hermite ensemble
+as a function of beta (zero or positive) by Monte Carlo simulations. The
+fluctuation of delta(n) and the autocorrelation function vary logarithmically
+with n for any beta>0 (1<<n<<N). The simple logarithmic behavior reported for
+the higher-order moments of delta(n) for the GOE (beta=1) and the GUE (beta=2)
+is valid for any positive beta and is accounted for by Gaussian distributions
+whose variances depend linearly on ln(n). The 1/f noise previously demonstrated
+for delta(n) series of the three Gaussian ensembles, is characterized by
+wavelet analysis both as a function of beta and of N. When beta decreases from
+1 to 0, for a given and large enough N, the evolution from a 1/f noise at
+beta=1 to a 1/f^2 noise at beta=0 is heterogeneous with a ~1/f^2 noise at the
+finest scales and a ~1/f noise at the coarsest ones. The range of scales in
+which a ~1/f^2 noise predominates grows progressively when beta decreases.
+Asymptotically, a 1/f^2 noise is found for beta=0 while a 1/f noise is the rule
+for beta positive.

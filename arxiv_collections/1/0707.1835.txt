@@ -1,0 +1,12 @@
+Let K be a field of characteristic p>0, and let q be a power of p. We
+determine all polynomials f in K[t]\K[t^p] of degree q(q-1)/2 such that the
+Galois group of f(t)-u over K(u) has a transitive normal subgroup isomorphic to
+PSL_2(q), subject to a certain ramification hypothesis. As a consequence, we
+describe all polynomials f in K[t], of degree not a power of p, such that f is
+functionally indecomposable over K but f decomposes over an extension of K.
+Moreover, except for one ramification setup (which is treated in the companion
+paper arxiv:0707.1837), we describe all indecomposable polynomials f in K[t] of
+non-p-power degree which are exceptional, in the sense that x-y is the only
+absolutely irreducible factor of f(x)-f(y) which lies in K[x,y]. It is known
+that, when K is finite, a polynomial f is exceptional if and only if it induces
+a bijection on infinitely many finite extensions of K.

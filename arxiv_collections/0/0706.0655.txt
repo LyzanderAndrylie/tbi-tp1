@@ -1,0 +1,12 @@
+It was proposed that perfect invisibility cloaks can be constructed for
+hiding objects from electromagnetic illumination (Pendry et al., Science 312,
+p. 1780). The cylindrical cloaks experimentally demonstrated (Schurig et al.,
+Science 314, p. 997) and proposed (Cai et al., Nat. Photon. 1, p. 224) have
+however simplified material parameters in order to facilitate easier
+realization as well as to avoid infinities in optical constants. Here we show
+that the cylindrical cloaks with simplified material parameters inherently
+allow the zeroth-order cylindrical wave to pass through the cloak as if the
+cloak is made of a homogeneous isotropic medium, and thus visible. To all
+high-order cylindrical waves, our numerical simulation suggests that the
+simplified cloak inherits some properties of the ideal cloak, but finite
+scatterings exist.

@@ -1,0 +1,17 @@
+From an experimental point of view, room temperature ferroelectricity in
+BiFeO3 is raising many questions. Electric measurements made a long time ago on
+solid-solutions of BiFeO3 with Pb(Ti,Zr)O3 indicate that a spontaneous electric
+polarization exists in BiFeO3 below the Curie temperature TC=1143K. Yet in most
+reported works, the synthesised samples are too conductive at room temperature
+to get a clear polarization loop in the bulk without any effects of extrinsic
+physical or chemical parameters. Surprisingly, up to now there has been no
+report of a P(E) (polarization versus electric field) loop at room temperature
+on single crystals of BiFeO3. We describe here our procedure to synthesize
+ceramics and to grow good quality sizeable single crystals by a flux method. We
+demonstrate that BiFeO3 is indeed ferroelectric at room-temperature through
+evidence by Piezoresponse Force Microscopy and P(E) loops. The polarization is
+found to be large, around 60 microC/cm2, a value that has only been reached in
+thin films. Magnetic measurements using a SQUID magnetometer and Mossbauer
+spectroscopy are also presented. The latter confirms the results of NMR
+measurements concerning the anisotropy of the hyperfine field attributed to the
+magnetic cycloidal structure.

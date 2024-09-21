@@ -1,0 +1,7 @@
+We construct a full strongly exceptional collection in the triangulated
+category of graded matrix factorizations of a polynomial associated to a
+non-degenerate regular system of weights whose smallest exponents are equal to
+-1. In the associated Grothendieck group, the strongly exceptional collection
+defines a root basis of a generalized root system of sign (l,0,2) and a Coxeter
+element of finite order, whose primitive eigenvector is a regular element in
+the expanded symmetric domain of type IV with respect to the Weyl group.

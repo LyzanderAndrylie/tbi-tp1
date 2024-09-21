@@ -1,0 +1,9 @@
+We study a simple geometric model of transportation facility that consists of
+two points between which the travel speed is high. This elementary definition
+can model shuttle services, tunnels, bridges, teleportation devices, escalators
+or moving walkways. The travel time between a pair of points is defined as a
+time distance, in such a way that a customer uses the transportation facility
+only if it is helpful.
+  We give algorithms for finding the optimal location of such a transportation
+facility, where optimality is defined with respect to the maximum travel time
+between two points in a given set.

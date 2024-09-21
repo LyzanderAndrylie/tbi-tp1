@@ -1,0 +1,12 @@
+Consider many instances of an arbitrary quadripartite pure state of four
+quantum systems ABCD. Alice holds the AC part of each state, Bob holds B, while
+D represents all other parties correlated with ABC. Alice is required to
+redistribute the C systems to Bob while asymptotically preserving the overall
+purity. We prove that this is possible using Q qubits of communication and E
+ebits of shared entanglement between Alice and Bob, provided that Q geq
+I(C;D|B)/2 and Q+E geq H(C|B), proving the optimality of the Luo-Devetak outer
+bound. The optimal qubit rate provides the first known operational
+interpretation of quantum conditional mutual information. We also show how our
+protocol leads to a fully operational proof of strong subadditivity and uncover
+a general organizing principle, in analogy to thermodynamics, that underlies
+the optimal rates.

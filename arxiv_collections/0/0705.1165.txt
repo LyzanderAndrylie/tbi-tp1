@@ -1,0 +1,16 @@
+A variety of host galaxy (bulge) parameters are examined in order to
+determine their predictive power in ascertaining the masses of the supermassive
+black holes (SMBH) at the centers of the galaxies. Based on a sample of 23
+nearby galaxies, comprised of both elliptical galaxies and spiral/lenticular
+bulges, we identify a strong correlation between the bulge gravitational
+binding energy ($E_g$), as traced by the stellar light profile, and the SMBH
+mass ($M_{\bullet}$), such that $M_{\bullet} \propto E_g^{0.6}$. The scatter
+about the relationship indicates that this is as strong a predictor of
+$M_{\bullet}$ as the velocity dispersion ($\sigma$), for the elliptical galaxy
+subsample. Improved mass-to-light ratios, obtained with IFU spectroscopy and
+I-band photometry by the SAURON group, were used for those sample galaxies
+where available, resulting in an energy predictor with the same slope, but with
+reduced scatter. Alternative $M_{\bullet}$ predictors such as the gravitational
+potential and the bulge mass are also explored, but these are found to be
+inferior when compared with both the bulge gravitational binding energy and
+bulge velocity dispersion predictors, for the full galaxy sample.

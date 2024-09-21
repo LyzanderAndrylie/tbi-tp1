@@ -1,0 +1,6 @@
+We show that the M-canonical map of an n-dimensional complex projective
+manifold X of Kodaira dimension two is birational to an Iitaka fibration for a
+computable positive integer M. M depends on the index b of a general fibre F of
+the Iitaka fibration and on the Betti number of the canonical covering of F, In
+particular, M is a universal constant if the dimension n is smaller than or
+equal to 4.

@@ -1,0 +1,6 @@
+We study the Casimir effect at finite temperature for a massless scalar field
+in the parallel plates geometry in N spatial dimensions, under various
+combinations of Dirichlet and Neumann boundary conditions on the plates. We
+show that in all these cases the entropy, in the limit where energy
+equipartitioning applies, is a geometrical factor whose sign determines the
+sign of the Casimir force.

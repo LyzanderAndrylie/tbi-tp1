@@ -1,0 +1,9 @@
+The fractional Laplacian operator, $-(-\triangle)^{\frac{\alpha}{2}}$,
+appears in a wide class of physical systems, including L\'evy flights and
+stochastic interfaces. In this paper, we provide a discretized version of this
+operator which is well suited to deal with boundary conditions on a finite
+interval. The implementation of boundary conditions is justified by appealing
+to two physical models, namely hopping particles and elastic springs. The
+eigenvalues and eigenfunctions in a bounded domain are then obtained
+numerically for different boundary conditions. Some analytical results
+concerning the structure of the eigenvalues spectrum are also obtained.

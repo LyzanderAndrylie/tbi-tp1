@@ -1,0 +1,11 @@
+In a recent paper [A. Ahanj et al., quant-ph/0603053], we gave a classical
+protocol to simulate quantum correlations corresponding to the spin $s$ singlet
+state for the infinite sequence of spins satisfying $2s+1 = 2^{n}$. In the
+present paper, we have generalized this result by giving a classical protocol
+to exactly simulate quantum correlations implied by the spin-$s$ singlet state
+corresponding to all integer as well as half-integer spin values $s$. The class
+of measurements we consider here are only those corresponding to spin
+observables, as has been done in the above-mentioned paper. The required amount
+of communication is found to be $\lceil {\rm log}_{2} (s + 1) \rceil$ in the
+worst case scenario, where $\lceil x \rceil$ is the least integer greater than
+or equal to $x$.

@@ -1,0 +1,5 @@
+Our comments are in two parts. First, we make some observations regarding the
+methodology in Chambers et al. [arXiv:0708.0302]. Second, we briefly describe
+another interesting network monitoring problem that arises in the context of
+assessing quality of service, such as loss rates and delay distributions, in
+packet-switched networks.

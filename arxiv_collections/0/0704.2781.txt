@@ -1,0 +1,23 @@
+We study the probability of close encounters between stars from a nuclear
+cluster and a massive black hole. The gravitational field of the system is
+dominated by the black hole in its sphere of influence. It is further modified
+by the cluster mean field (a spherical term) and a gaseous disc/torus (an
+axially symmetric term) causing a secular evolution of stellar orbits via Kozai
+oscillations. Intermittent phases of large eccentricity increase the chance
+that stars become damaged inside the tidal radius of the central hole. Such
+events can produce debris and lead to recurring episodes of enhanced accretion
+activity. We introduce an effective loss cone and associate it with tidal
+disruptions during the high-eccentricity phases of the Kozai cycle. By
+numerical integration of the trajectories forming the boundary of the loss cone
+we determine its shape and volume. We also include the effect of relativistic
+advance of pericentre. The potential of the disc has the efffect of enlarging
+the loss cone and, therefore, the predicted number of tidally disrupted stars
+should grow by factor of ~10^2. On the other hand, the effect of the cluster
+mean potential together with the relativistic pericentre advance act against
+the eccentricity oscillations. In the end we expect the tidal disruption events
+to be approximately ten times more frequent in comparison with the model in
+which the three effects -- the cluster mean field, the relativistic pericentre
+advance, and the Kozai mechanism -- are all ignored. The competition of
+different influences suppresses the predicted star disruption rate as the black
+hole mass increases. Hence, the process under consideration is more important
+for intermediate-mass black holes, M_bh~10^4M_s.

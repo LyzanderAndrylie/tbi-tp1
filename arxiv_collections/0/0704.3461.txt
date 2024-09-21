@@ -1,0 +1,11 @@
+We derive the QCD sum rules for the vector and scalar meson mixing in nuclear
+medium, using a two quark interpolating field for both mesons. Modeling the
+mixing via a nucleon hole contribution with known coupling constant, the sum
+rule can be used to determine the overlap of the interpolating field and the
+scalar meson. In the I=0 channel, we find a stable Borel curve and an overlap
+that is about 10% of the corresponding value in the pseudo scalar or vector
+channel. The sum rule in the I=1 channel is less reliable but also consistent
+with a small value for the overlap. These results suggest that both the
+$\sigma$ and $a_0$ have a small two quark and thus probably a large tetraquark
+components. We discuss the possibility of observing these scalar mesons from
+vector mesons emanating from the nuclear medium.

@@ -1,0 +1,15 @@
+We found theoretically that competition between ~Kq^4 and ~Qq^2 terms in the
+Fourier transformed conformational energy of a single lipid chain, in
+combination with inter-chain entropic repulsion in the hydrophobic part of the
+lipid (bi)layer, may cause a crossover on the bilayer pressure-area isotherm
+P(A)~(A-A_0)^{-n}. The crossover manifests itself in the transition from n=5/3
+to n=3. Our microscopic model represents a single lipid molecule as a worm-like
+chain with finite irreducible cross-section area A_0, flexural rigidity K and
+stretching modulus Q in a parabolic potential with self-consistent curvature
+B(A) formed by entropic interactions between hydrocarbon chains in the lipid
+layer. The crossover area per lipid A* obeys relation Q^2/(KB(A*))~1 . We
+predict a peculiar possibility to deduce effective elastic moduli K and Q of
+the individual hydrocarbon chain from the analysis of the isotherm possessing
+such crossover. Also calculated is crossover-related behavior of the area
+compressibility modulus K_a, equilibrium area per lipid A_t, and chain order
+parameter S.

@@ -1,0 +1,13 @@
+Piezoelectricity is inherent only in noncentrosymmetric materials, but a
+piezoelectric response can also be obtained in centrosymmetric crystals if
+subjected to inhomogeneous deformation. This phenomenon, known as
+flexoelectricity, affects the functional properties of insulators, particularly
+thin films of high permittivity materials. We have measured
+strain-gradient-induced polarization in single crystals of paraelectric
+SrTiO$_3$ as a function of temperature and orientation down to and below the
+105 K phase transition. Estimates were obtained for all the components of the
+flexoelectric tensor, and calculations based on these indicate that local
+polarization around defects in SrTiO$_3$ may exceed the largest ferroelectric
+polarizations. A sign reversal of the flexoelectric response detected below the
+phase transition suggests that the ferroelastic domain walls of SrTiO$_3$ may
+be polar.

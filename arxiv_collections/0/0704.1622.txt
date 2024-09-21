@@ -1,0 +1,9 @@
+Among the ideas to be conveyed to students in an introductory quantum course,
+we have the pivotal idea championed by Dirac that functions correspond to
+column vectors (kets) and that differential operators correspond to matrices
+(ket-bras) acting on those vectors. The MATLAB (matrix-laboratory) programming
+environment is especially useful in conveying these concepts to students
+because it is geared towards the type of matrix manipulations useful in solving
+introductory quantum physics problems. In this article, we share MATLAB codes
+which have been developed at WPI, focusing on 1D problems, to be used in
+conjunction with Griffiths' introductory text.

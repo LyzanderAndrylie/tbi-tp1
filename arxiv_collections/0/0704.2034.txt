@@ -1,0 +1,7 @@
+Let X be an orbifold with crepant resolution Y. The Crepant Resolution
+Conjectures of Ruan and Bryan-Graber assert, roughly speaking, that the quantum
+cohomology of X becomes isomorphic to the quantum cohomology of Y after
+analytic continuation in certain parameters followed by the specialization of
+some of these parameters to roots of unity. We prove these conjectures in the
+case where X is a surface singularity of type A. The key ingredient is mirror
+symmetry for toric orbifolds.

@@ -1,0 +1,9 @@
+We derive the properties of polaritons in single-$\Lambda$ and
+double-$\Lambda$ media using a microscopic equation-of-motion technique. In
+each case, the polaritonic dispersion relation and composition arise from a
+matrix eigenvalue problem for arbitrary control field strengths. We show that
+the double-$\Lambda$ medium can be used to up- or down-convert single photons
+while preserving quantum coherence. The existence of a dark-state polariton
+protects this single-photon four-wave mixing effect against incoherent decay of
+the excited atomic states. The efficiency of this conversion is limited mainly
+by the sample size and the lifetime of the metastable state.

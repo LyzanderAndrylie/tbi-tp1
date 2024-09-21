@@ -1,0 +1,10 @@
+The coefficient of normal restitution of colliding viscoelastic spheres is
+computed as a function of the material properties and the impact velocity. From
+simple arguments it becomes clear that in a collision of purely repulsively
+interacting particles, the particles loose contact slightly before the distance
+of the centers of the spheres reaches the sum of the radii, that is, the
+particles recover their shape only after they lose contact with their collision
+partner. This effect was neglected in earlier calculations which leads
+erroneously to attractive forces and, thus, to an underestimation of the
+coefficient of restitution. As a result we find a novel dependence of the
+coefficient of restitution on the impact rate.

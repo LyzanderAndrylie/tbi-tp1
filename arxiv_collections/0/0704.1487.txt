@@ -1,0 +1,13 @@
+The Fourier transforms of Laguerre functions play the same canonical role in
+wavelet analysis as do the Hermite functions in Gabor analysis. We will use
+them as analyzing wavelets in a similar way the Hermite functions were recently
+by K. Groechenig and Y. Lyubarskii in "Gabor frames with Hermite functions, C.
+R. Acad. Sci. Paris, Ser. I 344 157-162 (2007)". Building on the work of K.
+Seip, "Beurling type density theorems in the unit disc, Invent. Math., 113,
+21-39 (1993)", concerning sampling sequences on weighted Bergman spaces, we
+find a sufficient density condition for constructing frames by translations and
+dilations of the Fourier transform of the nth Laguerre function. As in
+Groechenig-Lyubarskii theorem, the density increases with n, and in the special
+case of the hyperbolic lattice in the upper half plane it is given by b\log
+a<\frac{4\pi}{2n+\alpha}, where alpha is the parameter of the Laguerre
+function.

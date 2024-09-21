@@ -1,0 +1,10 @@
+We present a simple quantum mechanical model to describe Coulomb explosion of
+H$_2^+$ by short, intense, infrared laser pulses. The model is based on the
+length gauge version of the molecular strong-field approximation and is valid
+for pulses shorter than 50 fs where the process of dissociation prior to
+ionization is negligible. The results are compared with recent experimental
+results for the proton energy spectrum [I. Ben-Itzhak et al., Phys. Rev. Lett.
+95, 073002 (2005), B. D. Esry et al., Phys. Rev. Lett. 97, 013003 (2006)]. The
+predictions of the model reproduce the profile of the spectrum although the
+peak energy is slightly lower than the observations. For comparison, we also
+present results obtained by two different tunneling models for this process.

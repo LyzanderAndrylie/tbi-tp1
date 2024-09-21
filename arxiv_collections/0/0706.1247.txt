@@ -1,0 +1,7 @@
+In this manuscript we analyse the leading statistical properties of
+fluctuations of (log) 3-month US Treasury bill quotation in the secondary
+market, namely: probability density function, autocorrelation, absolute values
+autocorrelation, and absolute values persistency. We verify that this financial
+instrument, in spite of its high liquidity, shows very peculiar properties.
+Particularly, we verify that log-fluctuations belong to the Levy class of
+stochastic variables.

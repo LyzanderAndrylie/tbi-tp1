@@ -1,0 +1,11 @@
+An important step in the calculation of the triply graded link homology
+theory of Khovanov and Rozansky is the determination of the Hochschild homology
+of Soergel bimodules for SL(n). We present a geometric model for this
+Hochschild homology for any simple group G, as equivariant intersection
+homology of B x B-orbit closures in G. We show that, in type A these orbit
+closures are equivariantly formal for the conjugation T-action. We use this
+fact to show that in the case where the corresponding orbit closure is smooth,
+this Hochschild homology is an exterior algebra over a polynomial ring on
+generators whose degree is explicitly determined by the geometry of the orbit
+closure, and describe its Hilbert series, proving a conjecture of Jacob
+Rasmussen.

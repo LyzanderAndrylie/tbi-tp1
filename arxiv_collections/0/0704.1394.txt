@@ -1,0 +1,3 @@
+In these notes we formally describe the functionality of Calculating Valid
+Domains from the BDD representing the solution space of valid configurations.
+The formalization is largely based on the CLab configuration framework.

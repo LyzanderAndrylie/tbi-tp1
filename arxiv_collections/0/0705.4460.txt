@@ -1,0 +1,9 @@
+We study theoretically a dilute gas of identical fermions interacting via a
+p-wave resonance. We show that, depending on the microscopic physics, there are
+two distinct regimes of p-wave resonant superfluids, which we term "weak" and
+"strong". Although expected naively to form a BCS-BEC superfluid, a
+strongly-resonant p-wave superfluid is in fact unstable towards the formation
+of a gas of fermionic triplets. We examine this instability and estimate the
+lifetime of the p-wave molecules due to the collisional relaxation into
+triplets. We discuss consequences for the experimental achievement of p-wave
+superfluids in both weakly- and strongly-resonant regimes.

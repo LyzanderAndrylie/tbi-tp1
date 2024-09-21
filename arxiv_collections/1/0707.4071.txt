@@ -1,0 +1,10 @@
+We study the formation of a colloidal gel by means of Molecular Dynamics
+simulations of a model for colloidal suspensions. A slowing down with gel-like
+features is observed at low temperatures and low volume fractions, due to the
+formation of persistent structures. We show that at low volume fraction the
+dynamic susceptibility, which describes dynamic heterogeneities, exhibits a
+large plateau, dominated by clusters of long living bonds. At higher volume
+fraction, where the effect of the crowding of the particles starts to be
+present, it crosses over towards a regime characterized by a peak. We introduce
+a suitable mean cluster size of clusters of monomers connected by "persistent"
+bonds which well describes the dynamic susceptibility.

@@ -1,0 +1,9 @@
+We show that the category of projective modules over a graded commutative
+ring admits a triangulation with respect to module suspension if and only if
+the ring is a finite product of graded fields and exterior algebras on one
+generator over a graded field (with a unit in the appropriate degree). We also
+classify the ungraded commutative rings for which the category of projective
+modules admits a triangulation with respect to the identity suspension.
+Applications to two analogues of the generating hypothesis in algebraic
+topology are given, and we translate our results into the setting of modules
+over a symmetric ring spectrum or S-algebra.

@@ -1,0 +1,18 @@
+The intrinsic distribution of spectral indices in GeV energies of
+gamma-ray--loud blazars is a critical input in determining the spectral shape
+of the unresolved blazar contribution to the diffuse extragalactic gamma-ray
+background, as well as an important test of blazar emission theories. We
+present a maximum-likelihood method of determining the intrinsic spectral index
+distribution (ISID) of a population of gamma-ray emitters which accounts for
+error in measurement of individual spectral indices, and we apply it to EGRET
+blazars. We find that the most likely Gaussian ISID for EGRET blazars has a
+mean of 2.27 and a standard deviation of 0.20. We additionally find some
+indication that FSRQs and BL Lacs may have different ISIDs (with BL Lacs being
+harder). We also test for spectral index hardening associated with blazar
+variability for which we find no evidence. Finally, we produce simulated GLAST
+spectral index datasets and perform the same analyses. With improved statistics
+due to the much larger number of resolvable blazars, GLAST data will help us
+determine the ISIDs with much improved accuracy. Should any difference exist
+between the ISIDs of BL Lacs and FSRQs or between the ISIDs of blazars in the
+quiescent and flaring states, GLAST data will be adequate to separate these
+ISIDs at a significance better than 3 sigma.

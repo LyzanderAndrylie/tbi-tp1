@@ -1,0 +1,20 @@
+We present a detailed analysis of the neutron, deuteron and mercury electric
+dipole moment from supersymmetry without R parity, focusing on the quark-scalar
+loop contributions. Being proportional to top Yukawa and top mass, such
+contributions are often large. Analytical expressions illustrating the explicit
+role of the R-parity violating parameters are given following perturbative
+diagonalization of mass-squared matrices for the scalars. Dominant
+contributions come from the combinations $B_i \lambda^{\prime}_{ij1}$ for which
+we obtain robust bounds. It turns out that neutron and deuteron EDMs receive
+much stronger contributions than mercury EDM and any null result at the future
+deuteron EDM experiment or Los Alamos neutron EDM experiment can lead to
+extra-ordinary constraints on RPV parameter space. Even if R-parity violating
+couplings are real, CKM phase does induce RPV contribution and for some cases
+such a contribution is as strong as contribution from phases in the R-parity
+violating couplings.Hence, we have bounds directly on $|B_i
+\lambda^{\prime}_{ij1}|$ even if the RPV parameters are all real.
+Interestingly, even if slepton mass and/or $\mu_0$ is as high as 1 TeV, it
+still leads to neutron EDM that is an order of magnitude larger than the
+sensitivity at Los Alamos experiment. Since the results are not much sensitive
+to $\tan \beta$, our constraints will survive even if other observables tighten
+the constraints on $\tan \beta$.

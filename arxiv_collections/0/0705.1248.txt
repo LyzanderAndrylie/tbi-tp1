@@ -1,0 +1,22 @@
+In this paper we first construct a mathematical model for the Universe
+expansion that started up with the original Big Bang. Next, we discuss the
+problematic of the mechanical and physical laws invariance regarding the
+spatial frame exchanges. We then prove the (theoretical) existence of a
+variable metric $g_t$, depending on time and satisfying to a simplified
+Einstein equation, so that all free ordinary trajectories are geodesics. This
+is done by considering the classical Galileo-Newtonian space and time relation,
+by using generalized Newtonian principles and adding the approved physical new
+ones (as covariance principle, Mach principle, the Einstein equivalence
+principle ...) in order to establish a new cosmological model of the dynamical
+Universe as being $(U(t))_{t\geq 0}=(B_e(O,t),g_t)_{t\geq 0}$, where $B_e(O,t)$
+is the Euclidean ball of radius $t$ in $\mathbb R^3$. The cosmological metric
+$g_t$ is totally determined, at time $t$, by the mass energy distribution
+$E_t(X)$ on $B_e(O,t)$. We study also the black holes phenomenon and we prove
+that the total and global cosmological energy distribution $E_t(X)$ satisfies
+to the wave equation whose solutions are characterized by pseudo-frequencies
+depending on time and related to the spectrum of the Dirichlet problem on the
+unit ball $B_e(O,1)$ for the Laplace-Beltrami operator -$\Delta$. Our model is
+consistent in the sense that all Newtonian and classical physical laws are
+valid as particular cases in classical situations. Then, we show that all basic
+results of Modern Physics are still valid without using the second postulate of
+special relativity nor the uncertainty principle.

@@ -1,0 +1,18 @@
+In this paper we employ all-electron \textit{ab-initio} time-dependent
+density functional theory based method to calculate the long range
+dipole-dipole dispersion coefficient (van der Waals coefficient) $C_{6}$ of
+sodium atom clusters containing even number of atoms ranging from 2 to 20
+atoms. The dispersion coefficients are obtained via Casimir-Polder relation.
+The calculations are carried out with two different exchange-correlation
+potentials: (i) the asymptotically correct statistical average of orbital
+potential (SAOP) and (ii) Vosko-Wilk-Nusair representation of
+exchange-correlation potential within local density approximation. A comparison
+with the other theoretical results has been performed. We also present the
+results for the static polarizabilities of sodium clusters and also compare
+them with other theoretical and experimental results. These comparisons reveal
+that the SAOP results for C_{6} and static polarizability are quite accurate
+and very close to the experimental results. We examine the relationship between
+volume of the cluster and van der Waals coefficient and find that to a very
+high degree of correlation C_{6} scales as square of the volume. We also
+present the results for van der Waals coefficient corresponding to cluster-Ar
+atom and cluster-N_{2} molecule interactions.

@@ -1,0 +1,6 @@
+We present two new continuous time quantum search algorithms similar to the
+adiabatic search algorithm, but now without an adiabatic evolution. We find
+that both algorithms work for a wide range of values of the parameters of the
+Hamiltonian, and one of them has, as an additional feature that, for values of
+time larger than a characteristic one, it will converge to a state which can be
+close to the searched state.

@@ -1,0 +1,10 @@
+A two-dimensional Minkowski spacetime diagram is neatly represented on a
+Euclidean ordinary plane. However the Euclidean lengths of the lines on the
+diagram do not correspond to the true values of physical quantities in
+spacetime, except for those referring to the stationary reference frame. In
+order to extend its abilities to other inertial reference frames, we derive a
+factor which, multiplied by the magnitude of the actually displayed values (on
+the diagram), leads to the corresponding true measured values by any other
+inertial observers. Doing so, the student can infer from the Euclidean diagram
+plot the expressions that account for Lorentz length contraction, time dilation
+and also Lorentz Transformations just by using regular trigonometry.

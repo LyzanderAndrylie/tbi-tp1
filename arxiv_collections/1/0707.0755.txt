@@ -1,0 +1,14 @@
+The phase diagram of the coupled sine circle map lattice shows
+spatio-temporal intermittency of two distinct types: spatio-temporal
+intermittency of the directed percolation (DP) class, and spatial intermittency
+which does not belong to this class. These two types of behaviour are seen to
+be special cases of the spreading and non-spreading regimes seen in the system.
+In the spreading regime, each site can infect its neighbours permitting an
+initial disturbance to spread, whereas in the non-spreading regime no infection
+is possible. The two regimes are separated by a line which we call the
+infection line. The coupled map lattice can be mapped on to an equivalent
+cellular automaton which shows a transition from a probabilistic cellular
+automaton (PCA) to a deterministic cellular automaton (DCA) at the infection
+line. Thus the existence of the DP and non-DP universality classes in the same
+system is signalled by the PCA to DCA transition. We also discuss the dynamic
+origin of this transition.

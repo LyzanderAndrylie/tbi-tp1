@@ -1,0 +1,7 @@
+In this paper, achievable rates of imperfectly-known fading relay channels
+are studied. It is assumed that communication starts with the network training
+phase in which the receivers estimate the fading coefficients of their
+respective channels. In the data transmission phase, amplify-and-forward and
+decode-and-forward relaying schemes are considered, and the corresponding
+achievable rate expressions are obtained. The achievable rate expressions are
+then employed to identify the optimal resource allocation strategies.

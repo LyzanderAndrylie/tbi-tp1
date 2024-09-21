@@ -1,0 +1,16 @@
+We report on the development of a technique for precise radial-velocity
+measurements of cool stars and brown dwarfs in the near infrared. Our technique
+is analogous to the Iodine (I2) absorption cell method that has proven so
+successful in the optical regime. We rely on telluric CH4 absorption features
+to serve as a wavelength reference, relative to which we measure Doppler shifts
+of the CO and H2O features in the spectra of our targets. We apply this
+technique to high-resolution (R~50,000) spectra near 2.3 micron of nine L
+dwarfs taken with the Phoenix instrument on Gemini-South and demonstrate a
+typical precision of 300 m/s. We conduct simulations to estimate our expected
+precision and show our performance is currently limited by the signal-to-noise
+of our data. We present estimates of the rotational velocities and systemic
+velocities of our targets. With our current data, we are sensitive to
+companions with M sin i > 2MJ in orbits with periods less than three days. We
+identify no companions in our current data set. Future observations with
+improved signal-to-noise should result in radial-velocity precision of 100 m/s
+for L dwarfs.

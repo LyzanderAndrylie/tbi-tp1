@@ -1,0 +1,9 @@
+We study a one-dimensional Heisenberg chain with competing ferromagnetic
+nearest-neighbor and antiferromagnetic next-nearest neighbor interactions in
+magnetic field. Starting from the fully polarized high-field state, we
+calculate the dispersions of the lowest-lying $n$-magnon excitations and the
+saturation field (n=2,3,4). We show that the lowest-lying excitations are
+always bound multi-magnon states with a total momentum of $\pi$ except for a
+small parameter range. We argue that bose condensation of the bound $n$ magnons
+leads to novel Tomonaga-Luttinger liquids with multi-polar correlations;
+nematic and triatic ordered liquids correspond to n=2 and n=3.

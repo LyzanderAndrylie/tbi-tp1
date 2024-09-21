@@ -1,0 +1,13 @@
+A class of discrete renewal processes with super-exponentially decaying
+inter-arrival distributions coincides with the infinite volume limit of general
+homogeneous pinning models in their localized phase. Pinning models are
+statistical mechanics systems to which a lot of attention has been devoted both
+for their relevance for applications and because they are solvable models
+exhibiting a non-trivial phase transition. The spatial decay of correlations in
+these systems is directly mapped to the speed of convergence to equilibrium for
+the associated renewal processes. We show that close to criticality, under
+general assumptions, the correlation decay rate, or the renewal convergence
+rate, coincides with the inter-arrival decay rate. We also show that, in
+general, this is false away from criticality. Under a stronger assumption on
+the inter-arrival distribution we establish a local limit theorem, capturing
+thus the sharp asymptotic behavior of correlations.

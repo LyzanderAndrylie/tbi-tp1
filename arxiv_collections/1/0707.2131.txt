@@ -1,0 +1,9 @@
+We study the dynamics of a trapped, charged Brownian particle in presence of
+a time dependent magnetic field. We calculate work distributions for different
+time dependent protocols. In our problem thermodynamic work is related to
+variation of vector potential with time as opposed to the earlier studies where
+the work is related to time variation of the potentials which depends only on
+the coordinates of the particle. Using Jarzynski identity and Crook's equality
+we show that the free energy of the particle is independent of the magnetic
+field, thus complementing the Bohr-van Leeuwen theorem. We also show that our
+system exhibits a parametric resonance in certain parameter space.

@@ -1,0 +1,10 @@
+This work covers methodology of solving QCD evolution equation of the parton
+distribution using Markovian Monte Carlo (MMC) algorithms in a class of models
+ranging from DGLAP to CCFM. One of the purposes of the above MMCs is to test
+the other more sophisticated Monte Carlo programs, the so-called Constrained
+Monte Carlo (CMC) programs, which will be used as a building block in the
+parton shower MC. This is why the mapping of the evolution variables (eikonal
+variable and evolution time) into four-momenta is also defined and tested. The
+evolution time is identified with the rapidity variable of the emitted parton.
+The presented MMCs are tested independently, with ~0.1% precision, against the
+non-MC program APCheb especially devised for this purpose.

@@ -1,0 +1,8 @@
+We show theoretically that two atomic dipoles in a resonator constitute a
+non-linear medium, whose properties can be controlled through the relative
+position of the atoms inside the cavity and the detuning and intensity of the
+driving laser. We identify the parameter regime where the system operates as a
+parametric amplifier, based on the cascade emission of the collective dipole of
+the atoms, and determine the corresponding spectrum of squeezing of the field
+at the cavity output. This dynamics could be observed as a result of
+self-organization of laser-cooled atoms in resonators.

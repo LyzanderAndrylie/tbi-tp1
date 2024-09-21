@@ -1,0 +1,10 @@
+A Bayesian approach is used to estimate the covariance matrix of Gaussian
+data. Ideas from Gaussian graphical models and model selection are used to
+construct a prior for the covariance matrix that is a mixture over all
+decomposable graphs. For this prior the probability of each graph size is
+specified by the user and graphs of equal size are assigned equal probability.
+Most previous approaches assume that all graphs are equally probable. We show
+empirically that the prior that assigns equal probability over graph sizes
+outperforms the prior that assigns equal probability over all graphs, both in
+identifying the correct decomposable graph and in more efficiently estimating
+the covariance matrix.

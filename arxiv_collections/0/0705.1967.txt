@@ -1,0 +1,14 @@
+The supercritical series expansion of the survival probability for the
+one-dimensional contact process in heterogeneous and disordered lattices is
+used for the evaluation of the loci of critical points and critical exponents
+$\beta$. The heterogeneity and disorder are modeled by considering binary
+regular and irregular lattices of nodes characterized by different recovery
+rates and identical transmission rates. Two analytical approaches based on
+Nested Pad\'e approximants and Partial Differential approximants were used in
+the case of expansions with respect to two variables (two recovery rates) for
+the evaluation of the critical values and critical exponents. The critical
+exponents in heterogeneous systems are very close to those for the homogeneous
+contact process thus confirming that the contact process in periodic
+heterogeneous environment belongs to the directed percolation universality
+class. The disordered systems, in contrast, seem to have continuously varying
+critical exponents.

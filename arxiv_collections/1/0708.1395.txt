@@ -1,0 +1,6 @@
+We provide a detailed theoretical analysis of multiple copy purification and
+distillation protocols for phase diffused squeezed states of light. The
+standard iterative distillation protocol is generalized to a collective
+purification of an arbitrary number of N copies. We also derive a
+semi-analytical expression for the asymptotic limit of the iterative
+distillation and purification protocol and discuss its properties.

@@ -1,0 +1,11 @@
+In magnetic systems with dominating easy-plane anisotropy the magnetization
+can be described by an effective one dimensional equation for the in-plane
+angle. Re-deriving this equation in the presence of spin-transfer torques, we
+obtain a description that allows for a more intuitive understanding of
+spintronic devices' operation and can serve as a tool for finding new dynamic
+regimes. A surprising prediction is obtained for a planar ``spin-flip
+transistor'': an unstable equilibrium point can be stabilized by a current
+induced torque that further repels the system from that point. Stabilization by
+repulsion happens due to the presence of dissipative environment and requires a
+Gilbert damping constant that is large enough to ensure overdamped dynamics at
+zero current.

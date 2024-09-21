@@ -1,0 +1,11 @@
+Starting from the microscopic hamiltonian describing free electrons in a
+periodic lattice, we derive the hamiltonian appropriate to Frenkel excitons.
+This is done through a grouping of terms different from the one leading to
+Wannier excitons. This grouping makes appearing the atomic states as a relevant
+basis to describe Frenkel excitons in the second quantization. Using them, we
+derive the Frenkel exciton creation operators as well as the commutators which
+rule these operators and which make the Frenkel excitons differing from
+elementary bosons. The main goal of the present paper is to provide the
+necessary grounds for future works on Frenkel exciton many-body effects, with
+the composite nature of these particles treated exactly through a procedure
+similar to the one we have recently developed for Wannier excitons.

@@ -1,0 +1,22 @@
+A theory of chiral lipid membranes is proposed on the basis of a concise free
+energy density which includes the contributions of the bending and the surface
+tension of membranes, as well as the chirality and orientational variation of
+tilting molecules. This theory is consistent with the previous experiments
+[J.M. Schnur \textit{et al.}, Science \textbf{264}, 945 (1994); M.S. Spector
+\textit{et al.}, Langmuir \textbf{14}, 3493 (1998); Y. Zhao, \textit{et al.},
+Proc. Natl. Acad. Sci. USA \textbf{102}, 7438 (2005)] on self-assembled chiral
+lipid membranes of DC$_{8,9}$PC. A torus with the ratio between its two
+generated radii larger than $\sqrt{2}$ is predicted from the Euler-Lagrange
+equations. It is found that tubules with helically modulated tilting state are
+not admitted by the Euler-Lagrange equations, and that they are less
+energetically favorable than helical ripples in tubules. The pitch angles of
+helical ripples are theoretically estimated to be about 0$^\circ$ and
+35$^\circ$, which are close to the most frequent values 5$^\circ$ and
+28$^\circ$ observed in the experiment [N. Mahajan \textit{et al.}, Langmuir
+\textbf{22}, 1973 (2006)]. Additionally, the present theory can explain twisted
+ribbons of achiral cationic amphiphiles interacting with chiral tartrate
+counterions. The ratio between the width and pitch of twisted ribbons is
+predicted to be proportional to the relative concentration difference of left-
+and right-handed enantiomers in the low relative concentration difference
+region, which is in good agreement with the experiment [R. Oda \textit{et al.},
+Nature (London) \textbf{399}, 566 (1999)].

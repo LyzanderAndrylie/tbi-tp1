@@ -1,0 +1,4 @@
+We modify a construction of Kisaka and Shishikura to show that there exists
+an entire function which has both a simply connected and a multiply connected
+wandering domain. Moreover, these domains are contained in the set of fast
+escaping points.

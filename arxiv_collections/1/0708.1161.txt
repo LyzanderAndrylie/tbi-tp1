@@ -1,0 +1,4 @@
+A modified narrow-width approximation that allows for O(Gamma/M)-accurate
+predictions for resonant particle decay with similar intermediate masses is
+proposed and applied to MSSM processes to demonstrate its importance for
+searches for particle physics beyond the Standard Model.

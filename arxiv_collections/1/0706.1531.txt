@@ -1,0 +1,15 @@
+The dynamical properties of a dense horizontally vibrated bidisperse granular
+monolayer are experimentally investigated. The quench protocol produces states
+with a frozen structure of the assembly, but the remaining degrees of freedom
+associated with contact dynamics control the appearance of macroscopic
+rigidity. We provide decisive experimental evidence that this transition is a
+critical phenomenon, with increasingly collective and heterogeneous
+rearrangements occurring at length scales much smaller than the grains'
+diameter, presumably reflecting the contact force network fluctuations.
+Dynamical correlation time and length scales soar on both sides of the
+transition, as the volume fraction varies over a remarkably tiny range ($\delta
+\phi/\phi \sim 10^{-3}$). We characterize the motion of individual grains,
+which becomes super-diffusive at the jamming transition $\phi_J$, signaling
+long-ranged temporal correlations. Correspondingly, the system exhibits
+long-ranged four-point dynamical correlations in space that obey critical
+scaling at the transition density.

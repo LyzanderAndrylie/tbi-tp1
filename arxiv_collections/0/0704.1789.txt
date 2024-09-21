@@ -1,0 +1,3 @@
+We apply recent bounds of the author (math.PR/0609224) for generalized
+Smirnov statistics to the distribution of integers whose prime factors satisfy
+certain systems of inequalities.

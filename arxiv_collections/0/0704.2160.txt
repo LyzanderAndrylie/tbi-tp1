@@ -1,0 +1,14 @@
+Atmospheric water vapor causes significant undesired phase fluctuations for
+the Submillimeter Array (SMA) interferometer, particularly in its highest
+frequency observing band of 690 GHz. One proposed solution to this atmospheric
+effect is to observe simultaneously at two separate frequency bands of 230 and
+690 GHz. Although the phase fluctuations have a smaller magnitude at the lower
+frequency, they can be measured more accurately and on shorter timescales due
+to the greater sensitivity of the array to celestial point source calibrators
+at this frequency. In theory, we can measure the atmospheric phase fluctuations
+in the 230 GHz band, scale them appropriately with frequency, and apply them to
+the data in 690 band during the post-observation calibration process. The
+ultimate limit to this atmospheric phase calibration scheme will be set by the
+instrumental phase stability of the IF and LO systems. We describe the
+methodology and initial results of the phase stability characterization of the
+IF and LO systems.

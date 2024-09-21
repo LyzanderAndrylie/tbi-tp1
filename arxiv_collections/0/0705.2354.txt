@@ -1,0 +1,8 @@
+A strained epitaxial film deposited on a deformable substrate undergoes a
+morphological instability relaxing the elastic energy by surface diffusion. The
+nonlinear and nonlocal dynamical equations of such films with wetting
+interactions are derived and solved numerically in two and three dimensions.
+Above some critical thickness, the surface evolves towards an array of islands
+separated by a wetting layer. The island chemical potential decreases with its
+volume, so that the system experiences a non-interrupted coarsening described
+by power laws with a marked dimension dependence.

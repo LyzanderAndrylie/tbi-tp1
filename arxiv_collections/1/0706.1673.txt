@@ -1,0 +1,8 @@
+Two concepts named atom solution and combinatory solution are defined. The
+classification of all single traveling wave atom solutions to Sinh-G{\"o}rdon
+equation is obtained, and qualitative properties of solutions are discussed. In
+particular, we point out that some qualitative properties derived intuitively
+from dynamic system method aren't true. In final, we prove that our solutions
+to Sinh-G{\"o}rdon equation include all solutions obtained in the paper[Fu Z T
+et al, Commu. in Theor. Phys.(Beijing) 2006 45 55]. Through an example, we show
+how to give some new identities on Jacobian elliptic functions.

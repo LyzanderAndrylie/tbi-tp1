@@ -1,0 +1,23 @@
+We carried out low resolution spectroscopic observations in the wavelength
+range 3400-4700 A of 20 He-weak and 8 He-strong stars to determine their
+fundamental parameters by means of the Divan-Chalonge-Barbier (BCD)
+spectrophotometric system. For a few He-weak stars we also estimate the
+effective temperatures and the angular diameters by integrating absolute fluxes
+observed over a wide spectral range. Non-LTE model calculations are carried out
+to study the influence of the He/H abundance ratio on the emergent radiation of
+He-strong stars and on their Teff determination. We find that the effective
+temperatures, surface gravities and bolometric absolute magnitudes of He-weak
+stars estimated with the BCD system and the integrated flux method are in good
+agreement between each other, and they also agree with previous determinations
+based on several different methods. The mean discrepancy between the visual
+absolute magnitudes derived using the Hipparcos parallaxes and the BCD values
+is on average 0.3 mag for He-weak stars, while it is 0.5 mag for He-strong
+stars. For He-strong stars, we note that the BCD calibration, based on stars in
+the solar environment, leads to overestimated values of Teff. By means of model
+atmosphere calculations with enhanced He/H abundance ratios we show that larger
+He/H ratios produce smaller BD which naturally explains the Teff
+overestimation. We take advantage of these calculations to introduce a method
+to estimate the He/H abundance ratio in He-strong stars. The BD of HD 37479
+suggests that the Teff of this star remains fairly constant as the star
+spectrum undergoes changes in the intensity of H and He absorption lines. Data
+for the He-strong star HD 66765 are reported for the first time.

@@ -1,0 +1,16 @@
+We compute the two-loop renormalization functions, in the RI $^\prime$
+scheme, of local bilinear quark operators $\bar{\psi}\Gamma\psi$, where
+$\Gamma$ denotes the Scalar and Pseudoscalar Dirac matrices, in the lattice
+formulation of QCD. We consider both the flavor non-singlet and singlet
+operators; the latter, in the scalar case, leads directly to the two-loop
+fermion mass renormalization, $Z_m$.
+  As a prerequisite for the above, we also compute the quark field
+renormalization, $Z_{\psi}$, up to two loops.
+  We use the clover action for fermions and the Wilson action for gluons. Our
+results are given as a polynomial in $c_{SW}$, in terms of both the
+renormalized and bare coupling constant, in the renormalized Feynman gauge. We
+also confirm the 1-loop renormalization functions, for generic gauge.
+  Finally, we present our results in the $\bar{MS}$ scheme, for easier
+comparison with calculations in the continuum.
+  The corresponding results, for fermions in an arbitrary representation, are
+included in an Appendix.

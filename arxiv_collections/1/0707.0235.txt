@@ -1,0 +1,4 @@
+Explicit solution of a Green function in a non-renormalizable toy model
+demonstrates that Green functions of the interacting theory fall off much
+faster than at the tree level at large momenta. This suggests a method of
+calculations in quantum field theory which is free of divergences.

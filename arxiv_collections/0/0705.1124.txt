@@ -1,0 +1,20 @@
+Scaling predictions and results from self-consistent field calculations for
+bottle-brush polymers with a rigid backbone and flexible side chains under good
+solvent conditions are summarized and their validity and applicability is
+assessed by a comparison with Monte Carlo simulations of a simple lattice
+model. It is shown that under typical conditions, as they are also present in
+experiments, only a rather weak stretching of the side chains is realized, and
+then the scaling predictions based on the extension of the Daoud-Cotton blob
+picture are not applicable.
+  Also two-component bottle brush polymers are considered, where two types
+(A,B) of side chains are grafted, assuming that monomers of different kind
+repel each other. In this case, variable solvent quality is allowed for, such
+that for poor solvent conditions rather dense cylinder-like structures result.
+Theories predict ``Janus Cylinder''-type phase separation along the backbone in
+this case. The Monte Carlo simulations, using the pruned-enriched Rosenbluth
+method (PERM) then are restricted to rather short side chain length.
+Nevertheless, evidence is obtained that the phase separation between an A-rich
+part of the cylindrical molecule and a B-rich part can only occur locally. The
+correlation length of this microphase separation can be controlled by the
+solvent quality. This lack of a phase transition is interpreted by an analogy
+with models for ferromagnets in one space dimension.

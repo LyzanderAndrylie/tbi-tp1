@@ -1,0 +1,10 @@
+Quantum trajectory simulations of a cavity QED system comprising an atomic
+beam traversing a standing-wave cavity are carried out. The delayed photon
+coincident rate for forwards scattering is computed and compared with the
+measurements of Rempe et al. [Phys. Rev. Lett. 67, 1727 (1991)] and Foster et
+al. [Phys. Rev. A 61, 053821 (2000)]. It is shown that a moderate atomic beam
+misalignment can account for the degradation of the predicted correlation. Fits
+to the experimental data are made in the weak-field limit with a single
+adjustable parameter--the atomic beam tilt from perpendicular to the cavity
+axis. Departures of the measurement conditions from the weak-field limit are
+discussed.

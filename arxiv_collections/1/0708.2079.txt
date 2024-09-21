@@ -1,0 +1,16 @@
+Additional sources of CP violation in the MSSM may affect B-meson mixings and
+decays, even in scenarios with minimal flavour violation (MFV). We formulate
+the maximally CP-violating and minimally flavour-violating (MCPMFV) variant of
+the MSSM, which has 19 parameters, including 6 phases that violate CP. We then
+develop a manifestly flavour-covariant effective Lagrangian formalism for
+calculating Higgs-mediated FCNC observables in the MSSM at large tan(beta), and
+analyze within the MCPMFV framework FCNC and other processes involving B
+mesons. We include a new class of dominant subleading contributions due to
+non-decoupling effects of the third-generation quarks. We present illustrative
+numerical results that include effects of the CP-odd MCPMFV parameters on Higgs
+and sparticle masses, the B_s and B_d mass differences, and on the decays B_s
+--> mu+ mu-, B_u --> tau nu and b --> s gamma. We use these results to derive
+illustrative constraints on the MCPMFV parameters imposed by D0, CDF, BELLE and
+BABAR measurements of B mesons, demonstrating how a potentially observable
+contribution to the CP asymmetry in the b --> s gamma decay may arise in the
+MSSM with MCPMFV.

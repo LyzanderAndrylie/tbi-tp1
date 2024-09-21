@@ -1,0 +1,18 @@
+Within the internal shock scenario we consider different mechanisms of high
+energy ($>1$ MeV) photon production inside a Gamma Ray Burst (GRB) fireball and
+derive the expected high energy photon spectra from individual GRBs during the
+prompt phase. The photon spectra of leptonic and hadronic origins are compared
+within different sets of parameter regimes. Our results suggest that the high
+energy emission is dominated by the leptonic component if fraction of shock
+energy carried by electrons is not very small (e.g. $\epsilon_e > 10^{-3}$).
+For very small values of $\epsilon_e$ the hadronic emission component could be
+comparable to or even exceed the leptonic component in the GeV-TeV regime.
+However, in this case a much larger energy budget of the fireball is required
+to account for the same level of the observed sub-MeV spectrum. The fireballs
+are therefore extremely inefficient in radiation. For a canonical fireball bulk
+Lorentz factor (e.g. $\Gamma=400$), emissions above $\sim 10$ GeV are
+attenuated by two-photon pair production processes. For a fireball with an even
+higher Lorentz factor, the cutoff energy is higher, and emissions of 10 TeV -
+PeV due to $\pi^0$-decay can also escape from the internal shocks. The flux
+level is however too low to be detected by current TeV detectors, and these
+photons also suffer attenuation by external soft photons.

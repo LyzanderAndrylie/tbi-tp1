@@ -1,0 +1,12 @@
+A new approach is discussed for solving large nonsymmetric systems of linear
+equations with multiple right-hand sides. The first system is solved with a
+deflated GMRES method that generates eigenvector information at the same time
+that the linear equations are solved. Subsequent systems are solved by
+combining restarted GMRES with a projection over the previously determined
+eigenvectors. This approach offers an alternative to block methods, and it can
+also be combined with a block method. It is useful when there are a limited
+number of small eigenvalues that slow the convergence. An example is given
+showing significant improvement for a problem from quantum chromodynamics. The
+second and subsequent right-hand sides are solved much quicker than without the
+deflation. This new approach is relatively simple to implement and is very
+efficient compared to other deflation methods.

@@ -1,0 +1,9 @@
+The anomalous Hall effect in a magnetic two-dimensional electron gas with
+Rashba spin-orbit coupling is studied within the Kubo-Streda formalism in the
+presence of pointlike potential impurities. We find that all contributions to
+the anomalous Hall conductivity vanish to leading order in disorder strength
+when both chiral subbands are occupied. In the situation that only the majority
+subband is occupied, all terms are finite in the weak scattering limit and the
+total anomalous Hall conductivity is dominated by skew scattering. We compare
+our results to previous treatments and resolve some of the discrepancies
+present in the literature.

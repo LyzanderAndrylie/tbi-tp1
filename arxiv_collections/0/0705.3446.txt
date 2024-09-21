@@ -1,0 +1,5 @@
+The goal of this expository article is to present a proof that is as direct
+and elementary as possible of the fundamental theorem of complex multiplication
+(Shimura, Taniyama, Langlands, Tate, Deligne et al.).
+  The article is a revision of part of my manuscript, Complex Multiplication,
+April 7, 2006.

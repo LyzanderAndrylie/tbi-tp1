@@ -1,0 +1,16 @@
+One of the most outstanding problems in the gravitational collapse scenario
+of early structure formation is the cooling of primordial gas to allow for
+small mass objects to form. As the neutral primordial gas is a poor radiator at
+temperatures (T\le10^4\unit{K}), molecular hydrogen is needed for further
+cooling down to temperatures (T\sim100\unit{K}). The formation of molecular
+hydrogen is catalyzed by the presence of free electrons, which could be
+provided by the ionization due to an early population of cosmic rays. In order
+to investigate this possibility we developed a code to study the effects of
+ionizing cosmic rays on the thermal and chemical evolution of primordial gas.
+We found that cosmic rays can provide enough free electrons needed for the
+formation of molecular hydrogen, and therefore can increase the cooling ability
+of such primordial gas under following conditions: A dissociating photon flux
+with (F<10^{-18}\unit{erg cm^{-2} Hz^{-1} s^{-1}}), initial temperature of the
+gas (\sim10^{3}\unit{K}), total gas number densities (n\ge1\unit{cm^{-3}}),
+Cosmic ray sources with (\dot{\epsilon}_{CR}>10^{-33}\unit{erg cm^{-3}
+s^{-1}}).

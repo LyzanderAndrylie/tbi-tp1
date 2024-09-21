@@ -1,0 +1,22 @@
+We estimate the dust temperatures of the clumps in the rho Oph main cloud
+taking into account the 3D geometry of the region, and external heating from
+the interstellar radiation field and from HD147879,a nearby luminous B2V star,
+which is believed to dominate the radiation field in the region. We find that
+the regions where prestellar cores are observed (i.e. at optical visual
+extinctions >7 mag) are colder than ~10-11K. These dust temperatures are
+smaller than those which previous studies of the same region have assumed. We
+use the new dust temperatures to estimate the masses of the prestellar cores in
+the rho Oph main cloud from mm observations, and we find core masses that are
+larger than previous estimates by a factor of ~2-3. This affects the core mass
+function (CMF) of the region; we find that the mass at which the core mass
+spectrum steepens from a slope alpha~1.5 to a slope alpha~2.5 has moved from
+~0.5 Msun to ~1Msun. In contrast with the CMF in other star forming regions
+(e.g. Orion), there is no indication for a turnover down to the completeness
+limit (~0.2Msun), but the CMF may flatten at around ~0.4Msun. We generalize our
+results to the prestellar cores in Taurus and in Orion. In Taurus the ambient
+radiation field heating the prestellar cores is believed to be weaker than than
+that in rho Oph. Hence, the dust temperatures of the cores in Taurus are
+expected to be below ~ 10-11 K.In Orion the radiation field is believed to be
+10^3 times stronger than the standard interstellar radiation field. Based on
+this assumption we estimate that the dust temperatures of the prestellar cores
+in Orion are around ~20-30K.

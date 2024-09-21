@@ -1,0 +1,7 @@
+We theoretically investigate the dependence of exciton transition energies on
+dielectric constant of surrounding materials. We make a simple model for the
+relation between dielectric constant of environment and a static dielectric
+constant describing the effects of electrons in core states, $\sigma$ bonds and
+surrounding materials. Although the model is very simple, calculated results
+well reproduce experimental transition energy dependence on dielectric constant
+of various surrounding materials.

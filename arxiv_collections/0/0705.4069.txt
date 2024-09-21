@@ -1,0 +1,12 @@
+We propose an importance truncation scheme for the no-core shell model, which
+enables converged calculations for nuclei well beyond the p-shell. It is based
+on an a priori measure for the importance of individual basis states
+constructed by means of many-body perturbation theory. Only the physically
+relevant states of the no-core model space are considered, which leads to a
+dramatic reduction of the basis dimension. We analyze the validity and
+efficiency of this truncation scheme using different realistic nucleon-nucleon
+interactions and compare to conventional no-core shell model calculations for
+4He and 16O. Then, we present the first converged calculations for the ground
+state of 40Ca within no-core model spaces including up to
+16\hbar\Omega-excitations using realistic low-momentum interactions. The scheme
+is universal and can be easily applied to other quantum many-body problems.

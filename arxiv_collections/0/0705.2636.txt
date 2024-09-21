@@ -1,0 +1,10 @@
+Dendriform structures arise naturally in algebraic combinatorics (where they
+allow, for example, the splitting of the shuffle product into two pieces) and
+through Rota-Baxter algebra structures (the latter appear, among others, in
+differential systems and in the renormalization process of pQFT). We prove new
+combinatorial identities in dendriform dialgebras that appear to be strongly
+related to classical phenomena, such as the combinatorics of Lyndon words,
+rewriting rules in Lie algebras, or the fine structure of the
+Malvenuto-Reutenauer algebra. One of these identities is an abstract
+noncommutative, dendriform, generalization of the Bohnenblust-Spitzer identity
+and of an identity involving iterated Chen integrals due to C.S. Lam.

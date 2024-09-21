@@ -1,0 +1,11 @@
+We demonstrate radiation-pressure cavity-cooling of a mechanical mode of a
+micromirror starting from cryogenic temperatures. To achieve that, a
+high-finesse Fabry-Perot cavity (F\approx 2200) was actively stabilized inside
+a continuous-flow 4He cryostat. We observed optical cooling of the fundamental
+mode of a 50mu x 50 mu x 5.4 mu singly-clamped micromirror at \omega_m=3.5 MHz
+from 35 K to approx. 290 mK. This corresponds to a thermal occupation factor of
+<n>\approx 1x10^4. The cooling performance is only limited by the mechanical
+quality and by the optical finesse of the system. Heating effects, e.g. due to
+absorption of photons in the micromirror, could not be observed. These results
+represent a next step towards cavity-cooling a mechanical oscillator into its
+quantum ground state.

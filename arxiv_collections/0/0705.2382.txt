@@ -1,0 +1,12 @@
+In this paper, we first discuss the general properties of an
+intermediate-statistics quantum bracket, $[ u,v]_{n}=uv-e^{i2\pi /(n+1)}vu$,
+which corresponds to intermediate statistics in which the maximum occupation
+number of one quantum state is an arbitrary integer, $n$. A further study of
+the operator realization of intermediate statistics is given. We construct the
+intermediate-statistics coherent state. An intermediate-statistics oscillator
+is constructed, which returns to bosonic and fermionic oscillators respectively
+when $n\to \infty $ and $n=1$. The energy spectrum of such an
+intermediate-statistics oscillator is calculated. Finally, we discuss the
+intermediate-statistics representation of angular momentum ($su(2)$) algebra.
+Moreover, a further study of the operator realization of intermediate
+statistics is given in the Appendix.

@@ -1,0 +1,16 @@
+The configurations of single and double bonds in polycyclic hydrocarbons are
+abstracted as Kekul\'e states of graphs. Sending a so-called soliton over an
+open channel between ports (external nodes) of the graph changes the Kekul\'e
+state and therewith the set of open channels in the graph. This switching
+behaviour is proposed as a basis for molecular computation. The proposal is
+highly speculative but may have tremendous impact.
+  Kekul\'e states with the same boundary behaviour (port assignment) can be
+regarded as equivalent. This gives rise to the abstraction of Kekul\'e cells.
+The basic theory of Kekul\'e states and Kekul\'e cells is developed here, up to
+the classification of Kekul\'e cells with $\leq 4$ ports. To put the theory in
+context, we generalize Kekul\'e states to semi-Kekul\'e states, which form the
+solutions of a linear system of equations over the field of the bits 0 and 1.
+We briefly study so-called omniconjugated graphs, in which every port
+assignment of the right signature has a Kekul\'e state. Omniconjugated graphs
+may be useful as connectors between computational elements. We finally
+investigate some examples with potentially useful switching behaviour.

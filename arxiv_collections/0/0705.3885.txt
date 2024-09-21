@@ -1,0 +1,19 @@
+It is generally believed that the magnetic free energy accumulated in the
+corona serves as a main energy source for solar explosions such as coronal mass
+ejections (CMEs). In the framework of the flux rope catastrophe model for CMEs,
+the energy may be abruptly released either by an ideal magnetohydrodynamic
+(MHD) catastrophe, which belongs to a global magnetic topological instability
+of the system, or by a fast magnetic reconnection across preexisting or
+rapidly-developing electric current sheets. Both ways of magnetic energy
+release are thought to be important to CME dynamics. To disentangle their
+contributions, we construct a flux rope catastrophe model in the corona and
+solar wind and compare different cases in which we either prohibit or allow
+magnetic reconnection to take place across rapidly-growing current sheets
+during the eruption. It is demonstrated that CMEs, even fast ones, can be
+produced taking the ideal MHD catastrophe as the only process of magnetic
+energy release. Nevertheless, the eruptive speed can be significantly enhanced
+after magnetic reconnection sets in. In addition, a smooth transition from slow
+to fast eruptions is observed when increasing the strength of the background
+magnetic field, simply because in a stronger field there is more free magnetic
+energy at the catastrophic point available to be released during an eruption.
+This suggests that fast and slow CMEs may have an identical driving mechanism.

@@ -1,0 +1,17 @@
+The power spectral density (PSD) function is commonly used to specify
+seismometer performance. It is derived from the FFT of acceleration and
+correction is made for the transfer function of the instrument that generated
+the data. As with any such spectrum of density (`per Hz') type, the noise
+inherent to a PSD is large. This article illustrates the value of a function
+that is derived from the PSD and for which the influence of noise is
+significantly reduced. Called the cumulative spectral power (CSP), it is
+obtained from the PSD through the noise-reducing process of integration. The
+maximum of the CSP (corresponding to the longest graphed value of the period)
+provides a means for estimating the total vibrational power of the earth. The
+present author has significantly simplified the process of PSD generation. Thus
+routine graphing is straightforwared-of first the FFT, followed by the
+generation of both a PSD and its associated CSP. The unique properties of the
+CSP make it valuable for the study of a variety of earth dynamics. For example,
+the strking simplicity of a CSP graph generated from a record containing a
+strong teleseismic earthquake is undoubtedly important to the development and
+refinement of any viable theory of earthquake dynamics.

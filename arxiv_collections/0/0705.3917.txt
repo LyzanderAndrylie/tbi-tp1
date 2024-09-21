@@ -1,0 +1,19 @@
+We describe the results of an extremely deep, 0.28 deg^2 survey for z = 3.1
+Ly-alpha emission-line galaxies in the Extended Chandra Deep Field South. By
+using a narrow-band 5000 Anstrom filter and complementary broadband photometry
+from the MUSYC survey, we identify a statistically complete sample of 162
+galaxies with monochromatic fluxes brighter than 1.5 x 10^-17 ergs cm^-2 s^-1
+and observers frame equivalent widths greater than 80 Angstroms. We show that
+the equivalent width distribution of these objects follows an exponential with
+a rest-frame scale length of w_0 = 76 +/- 10 Angstroms. In addition, we show
+that in the emission line, the luminosity function of Ly-alpha galaxies has a
+faint-end power-law slope of alpha = -1.49 +/- 0.4, a bright-end cutoff of log
+L^* = 42.64 +/- 0.2, and a space density above our detection thresholds of 1.46
++/- 0.12 x 10^-3 h70^3 galaxies Mpc^-3. Finally, by comparing the emission-line
+and continuum properties of the LAEs, we show that the star-formation rates
+derived from Ly-alpha are ~3 times lower than those inferred from the
+rest-frame UV continuum. We use this offset to deduce the existence of a small
+amount of internal extinction within the host galaxies. This extinction,
+coupled with the lack of extremely-high equivalent width emitters, argues that
+these galaxies are not primordial Pop III objects, though they are young and
+relatively chemically unevolved.

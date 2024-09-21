@@ -1,0 +1,9 @@
+We investigate the dielectrophoretic motion of charge-neutral, polarizable
+nanocolloids through molecular dynamics simulations. Comparison to analytical
+results derived for continuum systems shows that the discrete charge
+distributions on the nanocolloids have a significant impact on their coupling
+to the external field. Aggregation of nanocolloids leads to enhanced
+dielectrophoretic transport, provided that increase in the dipole moment upon
+aggregation can overcome the related increase in friction. The dimer
+orientation and the exact structure of the nanocolloid charge distribution are
+shown to be important in the enhanced transport.

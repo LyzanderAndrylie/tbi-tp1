@@ -1,0 +1,13 @@
+We present a catalogue of morphologically classified bright galaxies in the
+north equatorial stripe (230 deg$^2$) derived from the Third Data Release of
+the Sloan Digital Sky Survey (SDSS). Morphological classification is performed
+by visual inspection of images in the $g$ band. The catalogue contains 2253
+galaxies complete to a magnitude limit of $r=16$ after Galactic extinction
+correction, selected from 2658 objects that are judged as extended in the
+photometric catalogue in the same magnitude limit. 1866 galaxies in our
+catalogue have spectroscopic information. A brief statistical analysis is
+presented for the frequency of morphological types and mean colours in the
+catalogue. A visual inspection of the images reveals that the rate of
+interacting galaxies in the local Universe is approximately 1.5% in the
+$r\le16$ sample. A verification is made for the photometric catalogue generated
+by the SDSS, especially as to its bright end completeness.

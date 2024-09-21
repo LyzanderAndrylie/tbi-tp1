@@ -1,0 +1,14 @@
+We use a driven Monte Carlo dynamics in the phase representation to determine
+the linear resistivity and current-voltage scaling of a two-dimensional
+Josephson-junction array at an irrational flux quantum per plaquette. The
+results are consistent with a phase-coherence transition scenario where the
+critical temperature vanishes. The linear resistivity is nonzero at any finite
+temperatures but nonlinear behavior sets in at a temperature-dependent
+crossover current determined by the thermal critical exponent. From a dynamic
+scaling analysis we determine this critical exponent and the thermally
+activated behavior of the linear resistivity. The results are in agreement with
+earlier calculations using the resistively shunted-junction model for the
+dynamics of the array. The linear resistivity behavior is consistent with some
+experimental results on arrays of superconducting grains but not on wire
+networks, which we argue have been obtained in a current regime above the
+crossover current.

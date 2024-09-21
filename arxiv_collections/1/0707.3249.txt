@@ -1,0 +1,7 @@
+This paper is concerned with the effect of parameter fluctuations with a
+characteristic waiting time in coupled R\"{o}ssler oscillators. We show that
+the averaged error in synchronization that is introduced due to a fluctuating
+parameter is proportional to the waiting time and the amplitude of the
+fluctuations. It is also shown that coupling strength beyond a threshold value
+does not have any significant effect on improving the quality of
+synchronization when the fluctuations posses considerable waiting time.

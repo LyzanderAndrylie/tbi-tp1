@@ -1,0 +1,7 @@
+A first evaluation of the polarized valence quark distribution $\Delta
+u_v(x)+\Delta d_v(x)$ from the COMPASS experiment (CERN/SPS) is presented. The
+data were collected by COMPASS in the years 2002--2004 using a 160 GeV
+polarized muon beam scattered off a large polarized $^6$LiD target and cover
+the range $1< Q^2 < 100$ GeV$^2$ and $0.006<x<0.7$. The analysis is based on
+the difference asymmetry, $A^{h^+ - h^-}$, for hadrons of opposite charges,
+which gives a direct access to the polarization of valence quarks.

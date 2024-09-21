@@ -1,0 +1,9 @@
+We propose a simple dynamic exchange-correlation kernel of the uniform
+electron gas. We model the reduction of the electron-electron interaction due
+to short-range exchange-correlation effects by introducing a
+frequency-dependent error-function effective interaction. By imposing the
+fulfillment of the compresibility and the third-frequency-moment sum rules, as
+well as the correct asymptotic behavior at large wave vectors, we find an
+accurate and simple dynamic exchange-correlation kernel that accurately
+reproduces the wave-vector analysis and the imaginary-frequency analysis of the
+correlation energy of the uniform electron gas.

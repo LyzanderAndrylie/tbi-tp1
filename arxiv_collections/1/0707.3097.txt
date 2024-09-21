@@ -1,0 +1,9 @@
+The superalgebra $\hat{K}'(4)$ and the exceptional N = 6 superconformal
+algebra have ``small'' irreducible representations in the superspaces $V^{\mu}
+= t^{\mu}\C[t, t^{-1}]\otimes\Lambda(N)$, where N = 2 and 3, respectively. For
+${\mu \in \C\backslash \Z}$ they are associated to the embeddings of these
+superalgebras into the Lie superalgebras of pseudodifferential symbols on the
+supercircle S^{1|N}. In this work we describe $\hat{K}'(4)$ and the exceptional
+N = 6 superconformal algebra in terms of matrices over a Weyl algebra.
+Correspondingly, we obtain realizations of their representations in $V^{\mu}$
+for $\mu = 0$.

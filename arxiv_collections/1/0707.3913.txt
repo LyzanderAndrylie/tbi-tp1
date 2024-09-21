@@ -1,0 +1,4 @@
+We describe how to modify the BB84 protocol for quantum cryptography in order
+to make it deterministic. We study both theoretical and experimental aspects of
+this issue, showing that the new scheme is as secure as the old one, more
+efficient on small-scale distances, and within the range of current technology.

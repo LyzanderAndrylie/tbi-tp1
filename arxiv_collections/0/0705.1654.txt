@@ -1,0 +1,11 @@
+A small-scale, trapezoidal rigid body in the gas-filled gap between two
+parallel plates at different temperatures is considered. An analytical
+expression for the force onto the body in the direction parallel to the plates
+valid for an infinite Knudsen number is derived. Simultaneously, Monte-Carlo
+simulations are performed allowing to extend the analysis to Knudsen numbers of
+the order of one. The numerical and the analytical results show excellent
+agreement, indicating that a temperature gradient orthogonal to the plates can
+induce a significant force in parallel direction. This force is only slightly
+reduced when a Knudsen number of one is considered. In the future, the
+discovered effect may be exploited for the conversion of thermal into
+mechanical energy in nanomachines.

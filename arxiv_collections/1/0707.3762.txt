@@ -1,0 +1,8 @@
+The Hanle effect describes suppression of spin polarization due to precession
+in a magnetic field. This is a standard spintronics tool and it gives access to
+the spin lifetime of samples in which spins are generated homogeneously. We
+examine the Hanle effect when spins are generated at a boundary of a diffusive
+sample by the extrinsic spin Hall effect. We show that the Hanle curve is
+spatially dependent and that the "apparent" spin lifetime, given by its inverse
+half-width, is shorter near the boundary even if the spin relaxation rate is
+homogenous.

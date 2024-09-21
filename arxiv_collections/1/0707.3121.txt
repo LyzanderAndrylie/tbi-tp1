@@ -1,0 +1,13 @@
+To overcome the limitations of the traditional state-averaging approaches in
+excited state calculations, where one solves for and represents all states
+between the ground state and excited state of interest, we have investigated a
+number of new excited state algorithms. Building on the work of van der Vorst
+and Sleijpen (SIAM J. Matrix Anal. Appl., 17, 401 (1996)), we have implemented
+Harmonic Davidson and State-Averaged Harmonic Davidson algorithms within the
+context of the Density Matrix Renormalization Group (DMRG). We have assessed
+their accuracy and stability of convergence in complete active space DMRG
+calculations on the low-lying excited states in the acenes ranging from
+naphthalene to pentacene. We find that both algorithms offer increased accuracy
+over the traditional State-Averaged Davidson approach, and in particular, the
+State-Averaged Harmonic Davidson algorithm offers an optimal combination of
+accuracy and stability in convergence.

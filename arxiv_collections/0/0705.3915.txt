@@ -1,0 +1,16 @@
+$B\to\phi K^*$ ($\btos$) is three separate decays, one for each polarization
+of the final-state vector mesons (one longitudinal, two transverse). It is
+observed that the fraction of transverse decays, $\fT$, and the fraction of
+longitudinal decays, $\fL$, are roughly equal: $\fTfL \simeq 1$, in opposition
+to the naive expectation that $\fT \ll \fL$. If one requires a single
+explanation of all polarization puzzles, two possibilities remain within the
+standard model: penguin annihilation and rescattering. In this paper we examine
+the predictions of these two explanations for $\fTfL$ in $\btod$ decays. In $B
+\to \rho\rho$ decays, only $\bd \to \rho^0\rho^0$ can possibly exhibit a large
+$\fTfL$. In B decays related by U-spin, we find two promising possibilities:
+(i) $B^+ \to K^{*0} \rho^+$ ($\btos$) and $B^+ \to \Kbar^{*0} K^{*+}$ ($\btod$)
+and (ii) $\bs \to K^{*0} \Kbar^{*0}$ ($\btos$) and $\bd \to \Kbar^{*0} K^{*0}$
+($\btod$). The measurement of $\fTfL$ in these pairs of decays will allow us to
+test penguin annihilation and rescattering. Finally, it is possible to
+distinguish penguin annihilation from rescattering by performing a
+time-dependent angular analysis of $\bd \to \Kbar^{*0} K^{*0}$.

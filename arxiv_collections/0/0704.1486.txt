@@ -1,0 +1,8 @@
+We study the superconducting state of the hole-doped two-dimensional Hubbard
+model using Cellular Dynamical Mean Field Theory, with the Lanczos method as
+impurity solver. In the under-doped regime, we find a natural decomposition of
+the one-particle (photoemission) energy-gap into two components. The gap in the
+nodal regions, stemming from the anomalous self-energy, decreases with
+decreasing doping. The antinodal gap has an additional contribution from the
+normal component of the self-energy, inherited from the normal-state pseudogap,
+and it increases as the Mott insulating phase is approached.

@@ -1,0 +1,24 @@
+We present a microscopic theory for superconductivity in a magnetic field
+based on a local approximation approach. We derive an expression for free
+energy density $F$ as a function of temperature $T$ and vector potential {\bf
+a}, and two basic equations of the theory: the first is an implicit solution
+for energy gap parameter amplitude $|\Delta_{\bf k}|$ as a function of wave
+vector {\bf k}, temperature $T$ and vector potential {\bf a}; and the second is
+a London-like relation between electrical current density {\bf j} and vector
+potential {\bf a}, with an ``effective superconducting electron density'' $n_s$
+that is both $T$- and {\bf a}-dependent. The two equations allow determination
+of spatial variations of {\bf a} and $|\Delta_{\bf k}|$ in a superconductor for
+given temperature $T$, applied magnetic field ${\bf H}_a$ and sample geometry.
+The theory shows the existence of a ``partly-paired state,'' in which paired
+electrons (having $|\Delta_{\bf k}|>0$) and de-paired electrons (having
+$|\Delta_{\bf k}|=0$) co-exist. Such a ``partly-paired state'' exists even at
+T=0 when $H_a$ is above a threshold for a given sample, giving rise to a
+non-vanishing Knight shift at T=0 for $H_a$ above the threshold. We expect the
+theory to be valid for highly-local superconductors for all temperatures and
+magnetic fields below the superconducting transition. In the low-field limit,
+the theory reduces to the local-limit result of BCS. As examples, we apply the
+theory to the case of a semi-infinite superconductor in an applied magnetic
+field ${\bf H}_a$ parallel to the surface of the superconductor and the case of
+an isolated vortex in an infinite superconductor, and determine, in each case,
+spatial variations of quantities such as {\bf a} and $|\Delta_{\bf k}|$. We
+also calculate...

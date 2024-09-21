@@ -1,0 +1,9 @@
+Coarse graining techniques offer a promising alternative to large-scale
+simulations of complex dynamical systems, as long as the coarse-grained system
+is truly representative of the initial one. Here, we investigate how the
+dynamical properties of oscillator networks are affected when some nodes are
+merged together to form a coarse-grained network. Moreover, we show that there
+exists a way of grouping nodes preserving as much as possible some crucial
+aspects of the network dynamics. This coarse graining approach provides a
+useful method to simplify complex oscillator networks, and more generally any
+network whose dynamics involves a Laplacian matrix.

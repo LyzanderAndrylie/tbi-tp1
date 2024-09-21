@@ -1,0 +1,10 @@
+We consider the quantum mechanical transport of (coherent) excitons on
+small-world networks (SWN). The SWN are build from a one-dimensional ring of N
+nodes by randomly introducing B additional bonds between them. The exciton
+dynamics is modeled by continuous-time quantum walks and we evaluate
+numerically the ensemble averaged transition probability to reach any node of
+the network from the initially excited one. For sufficiently large B we find
+that the quantum mechanical transport through the SWN is, first, very fast,
+given that the limiting value of the transition probability is reached very
+quickly; second, that the transport does not lead to equipartition, given that
+on average the exciton is most likely to be found at the initial node.

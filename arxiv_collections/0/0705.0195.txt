@@ -1,0 +1,15 @@
+The temperature variation effect of shape anisotropy on the coercivity,
+HC(T), for the aligned Stoner-Wohlfarth (SW) soft ferromagnets, such as fcc Ni,
+fcc Co and bcc Fe, are investigated within the framework of Neel-Brown (N-B)
+analysis. An extended N-B equation is thus proposed,by introducing a single
+dimensionless correction function, the reduced magnetization, m(\tao) =
+MS(T)/MS(0), in which \tao = T/TC is the reduced temperature, MS(T) is the
+saturation magnetization, and TC is the Curie temperature. The factor, m(\tao),
+accounts for the temperature-dependent effect of the shape anisotropy. The
+constants, H0 and E0, are for the switching field at zero temperature and the
+potential barrier at zero field, respectively. According to this newly derived
+equation, the blocking temperature above which the properties of
+superparamagnetism show up is described by the expression, TB =
+E0m^2(\tao)/[kBln(t/t0)], with the extra correction factor m^2(\tao). The
+possible effect on HC(T) and the blocking temperature, TB, attributed to the
+downshift of TC resulting from the finite size effect has been discussed also.

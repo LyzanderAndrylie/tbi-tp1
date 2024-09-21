@@ -1,0 +1,11 @@
+The two--dimensional diffusive dynamics of test particles in a random
+electromagnetic field is studied. The synthetic electromagnetic fluctuations
+are generated through randomly placed magnetised ``clouds'' oscillating with a
+frequency $\omega$. We investigate the mean square displacements of particles
+in both position and velocity spaces. As $\omega$ increases the particles
+undergo standard (Brownian--like) motion, anomalous diffusion and ballistic
+motion in position space. Although in general the diffusion properties in
+velocity space are not trivially related to those in position space, we find
+that energization is present only when particles display anomalous diffusion in
+position space. The anomalous character of the diffusion is only in the
+non--standard values of the scaling exponents while the process is Gaussian.

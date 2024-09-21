@@ -1,0 +1,12 @@
+We consider the Fermi surface inside the antiferromagnetic ordered region of
+a Kondo lattice system in an arbitrary dimension higher than one. We establish
+the existence of ${\rm AF_S}$, an antiferromagnetic phase whose Fermi surface
+is ``small,'' in the sense that the local moments do not participate in the
+Fermi-surface formation. This is in contrast to the ``large'' Fermi surface
+that is typically assumed for heavy fermion metals. We extend our earlier work
+to the case that the Fermi surface of the conduction electrons intersects the
+antiferromagnetic Brillouin zone boundary. Our results provide a new
+perspective on local quantum criticality. In addition, our results imply that,
+for the ${\rm AF_S}$ phase, it is important to keep track of the dynamical
+screening processes; we suggest that this effect is not captured in a recent
+variational Monte-Carlo study of the Kondo lattice.

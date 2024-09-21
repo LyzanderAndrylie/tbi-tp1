@@ -1,0 +1,5 @@
+We define and study a class of codes obtained from scrolls over curves of any
+genus over finite fields. These codes generalize Goppa codes in a natural way,
+and the orthogonal complements of these codes belong to the same class. We show
+how syndromes of error vectors correspond to certain vector bundle extensions,
+and how decoding is associated to finding destabilizing subbundles.

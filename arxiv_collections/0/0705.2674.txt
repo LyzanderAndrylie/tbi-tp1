@@ -1,0 +1,20 @@
+Aims. This work presents a new hydrodynamical algorithm to study
+astrophysical detonations. A prime motivation of this development is the
+description of a carbon detonation in conditions relevant to superbursts, which
+are thought to result from the propagation of a detonation front around the
+surface of a neutron star in the carbon layer underlying the atmosphere.
+Methods. The algorithm we have developed is a finite-volume method inspired by
+the original MUSCL scheme of van Leer (1979). The algorithm is of second-order
+in the smooth part of the flow and avoids dimensional splitting. It is applied
+to some test cases, and the time-dependent results are compared to the
+corresponding steady state solution. Results. Our algorithm proves to be robust
+to test cases, and is considered to be reliably applicable to astrophysical
+detonations. The preliminary one-dimensional calculations we have performed
+demonstrate that the carbon detonation at the surface of a neutron star is a
+multiscale phenomenon. The length scale of liberation of energy is $10^6$ times
+smaller than the total reaction length. We show that a multi-resolution
+approach can be used to solve all the reaction lengths. This result will be
+very useful in future multi-dimensional simulations. We present also
+thermodynamical and composition profiles after the passage of a detonation in a
+pure carbon or mixed carbon-iron layer, in thermodynamical conditions relevant
+to superbursts in pure helium accretor systems.

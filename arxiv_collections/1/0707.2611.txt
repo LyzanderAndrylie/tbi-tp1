@@ -1,0 +1,7 @@
+In this paper we consider the decay of quantum entanglement, quantified by
+the concurrence, of a pair of two-level systems each of which is interacting
+with a reservoir at finite temperature T. For a broad class of initially
+entangled states, we demonstrate that the system always becomes disentangled in
+a finite time i.e."entanglement sudden death" (ESD) occurs. This class includes
+all states which previously had been found to have long-lived entanglement in
+zero temperature reservoirs. Our general result is illustrated by an example.

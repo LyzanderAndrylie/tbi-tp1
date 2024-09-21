@@ -1,0 +1,7 @@
+We study the possibility of Wigner crystallization in both single- and and
+bi-layer graphene using a real space tight binding model. In addition to
+verifying our earlier prediction for single layer graphene, we predict that the
+bilayer graphene can undergo a Wigner crystal transition at low enough carrier
+density thus offering a possibility of tunable and bipolar Wigner crystal. We
+find that aside from the Coulomb interaction of the carriers of two layers that
+stabilizes the charge ordered state, so does the inter layer coupling.

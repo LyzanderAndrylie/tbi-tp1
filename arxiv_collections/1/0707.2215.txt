@@ -1,0 +1,8 @@
+Multi-photon absorption is a well-known phenomenon. With atom lasers a
+similar process could take place for massive particles, the ionization of an
+atom or molecule by the successive interaction with various particles. This
+process would lead to multi-particle detection events for incident
+multi-particle beams. We show that two-particle detections would introduce a
+correction (proportional to the fourth power of the wavefunction modulus) to
+the usual one-particle detection probability (only proportional to the second
+power).

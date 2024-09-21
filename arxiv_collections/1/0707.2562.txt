@@ -1,0 +1,9 @@
+We describe simple algebraic and combinatorial characterisations of finite
+relational core structures admitting finitely many obstructions. As a
+consequence, we show that it is decidable to determine whether a constraint
+satisfaction problem is first-order definable: we show the general problem to
+be NP-complete, and give a polynomial-time algorithm in the case of cores. A
+slight modification of this algorithm provides, for first-order definable
+CSP's, a simple poly-time algorithm to produce a solution when one exists. As
+an application of our algebraic characterisation of first order CSP's, we
+describe a large family of L-complete CSP's.

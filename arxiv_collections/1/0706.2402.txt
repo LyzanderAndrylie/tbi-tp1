@@ -1,0 +1,11 @@
+Realizable spin models are investigated in a two superconducting flux qubit
+system. It is shown that a specific adjustment of system parameters in the two
+flux qubit system makes it possible to realize an artificial two-spin system
+that cannot be found naturally. For the artificial two-spin systems, time
+evolution of a prepared quantum state is discussed to quantify quantum
+entanglement dynamics. The concurrence and fidelity as a function of time are
+shown to reveal a characteristic entanglement dynamics of the artificial spin
+systems. It is found that the unentangled input state can evolute to be a
+maximally entangled output state periodically due to the exchange interactions
+induced by two-qubit flipping tunneling processes while single-qubit flipping
+tunneling processes plays a role of magnetic fields for the artificial spins.

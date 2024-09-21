@@ -1,0 +1,4 @@
+In this paper we give an algorithmic characterization of rank two locally
+nilpotent derivations in dimension three. Together with an algorithm for
+computing the plinth ideal, this gives a method for computing the rank of a
+locally nilpotent derivation in dimension three.

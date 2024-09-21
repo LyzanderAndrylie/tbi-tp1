@@ -1,0 +1,9 @@
+A gauge-invariant saddle point expansion for the Yang-Mills vacuum transition
+amplitude on the basis of the squeezed approximation to the vacuum wave
+functional is outlined. This framework allows the identification of
+gauge-invariant infrared degrees of freedom which arise as dominant sets of
+gauge field orbits and provide the principal input for an essentially
+analytical treatment of soft amplitudes. The analysis of the soft modes sheds
+new light on how vacuum fields organize themselves into collective excitations
+and yields a gauge-invariant representation of instanton and meron effects as
+well as a new physical interpretation for Faddeev-Niemi knots.

@@ -1,0 +1,14 @@
+RNA polymerase (RNAP) is an enzyme that synthesizes a messenger RNA (mRNA)
+strand which is complementary to a single-stranded DNA template. From the
+perspective of physicists, an RNAP is a molecular motor that utilizes chemical
+energy input to move along the track formed by a ssDNA. In some circumstances,
+which are described in this paper, a large number of RNAPs move simultaneously
+along the same track. We refer to such collective movements of the RNAPs as
+RNAP traffic because of the similarities between the collective dynamics of the
+RNAPs on ssDNA track and that of vehicles in highway traffic. In this paper we
+develop a theoretical model for RNAP traffic by incorporating the steric
+interactions between RNAPs as well as the mechano-chemical cycle of individual
+RNAPs during the elongation of the mRNA. By a combination of analytical and
+numerical techniques, we calculate the rates of mRNA synthesis and the average
+density profile of the RNAPs on the ssDNA track. We also suggest novel
+experiments for testing our theoretical predictions.

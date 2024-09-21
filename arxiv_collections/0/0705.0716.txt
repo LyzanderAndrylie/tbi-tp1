@@ -1,0 +1,13 @@
+The currently-favored model for long-duration gamma-ray bursts (GRBs) invokes
+explosions from the collapse of a massive star down to a black hole: either
+directly or through fallback. Those GRBs forming via fallback will produce much
+less radioactive nickel, and hence it has been argued (without any real
+calculation) that these systems produce dim supernovae. These fallback
+black-hole GRBs have been recently been argued as possible progenitors of a
+newly discovered set of GRBs lacking any associated supernovae. Here we present
+the first ever radiation-hydrodynamics calculations of the light-curves
+produced in the hypernova explosion by a delayed-fallback gamma-ray burst. We
+find that the bolometric light-curve is dominated by shock-deposited energy,
+not the decay of radioactive elements. As such, observations of such bursts
+actually probe the density in the progenitor wind more than it does the
+production of radioactive nickel.

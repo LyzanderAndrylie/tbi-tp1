@@ -1,0 +1,5 @@
+We investigate the possibility to perform a Quantum Non Demolition
+measurement of the collective alignment of an atomic ensemble in the case of a
+$F\geq 1$ spin. We compare the case of purely vectorial and purely tensorial
+Hamiltonians and show how to achieve conditional squeezing or entanglement of
+atomic alignment components.

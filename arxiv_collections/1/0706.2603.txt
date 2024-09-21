@@ -1,0 +1,9 @@
+Given a physical quantum system described by a Hilbert H, for any bounded
+quantum observable (a bounded self-adjoint operator) T it is possible to define
+several ''hidden observable'' functions f:H->R associated to T and for any
+quantum mixed state (a density matrix) D it is possible to define several
+''hidden mixed states'' (probability measures) m on H associated to D in such a
+way that the following equality is verified:
+  Trace[ b(T). D] =integral[b(f(psi)).dm(psi) whatever is the continuous
+function b:R->R. This formula gives a general way to express any expectation
+value computable in a quantum theory as a classical statistical mean value.

@@ -1,0 +1,13 @@
+Many organizations aspire to adopt agile processes to take advantage of the
+numerous benefits that it offers to an organization. Those benefits include,
+but are not limited to, quicker return on investment, better software quality,
+and higher customer satisfaction. To date however, there is no structured
+process (at least in the public domain) that guides organizations in adopting
+agile practices. To address this problem we present the Agile Adoption
+Framework. The framework consists of two components: an agile measurement
+index, and a 4-Stage process, that together guide and assist the agile adoption
+efforts of organizations. More specifically, the agile measurement index is
+used to identify the agile potential of projects and organizations. The 4-Stage
+process, on the other hand, helps determine (a) whether or not organizations
+are ready for agile adoption, and (b) guided by their potential, what set of
+agile practices can and should be introduced.

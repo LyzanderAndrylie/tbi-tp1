@@ -1,0 +1,7 @@
+We describe some theoretical results on triangulations of surfaces and we
+develop a theory on roots, decompositions and genus-surfaces. We apply this
+theory to describe an algorithm to list all triangulations of closed surfaces
+with at most a fixed number of vertices. We specialize the theory for the case
+where the number of vertices is at most 11 and we get theoretical restrictions
+on genus-surfaces allowing us to get the list of triangulations of closed
+surfaces with at most 11 vertices.

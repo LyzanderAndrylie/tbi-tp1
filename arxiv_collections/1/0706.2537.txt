@@ -1,0 +1,9 @@
+In this study, the one-center expansion formulas in terms of complete
+orthonormal sets of -exponential type orbitals (-ETOs,) are established for the
+Slater type orbitals (STOs) and Coulomb-Yukawa like correlated interaction
+potentials (CIPs) of integer and noninteger indices. These relations are used
+in obtaining the unsymmetrical and symmetrical one-range addition theorems for
+STOs and Coulomb-Yukawa like CIPs. The final results are especially useful in
+the calculations of multicenter multielectron integrals of STOs and CIPs
+occurring when Hartree-Fock-Roothaan (HFR) and explicitly correlated method are
+employed.

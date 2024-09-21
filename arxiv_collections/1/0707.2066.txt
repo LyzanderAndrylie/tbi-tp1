@@ -1,0 +1,19 @@
+Many new physics models predict resonances with masses in the TeV range which
+decay into a pair of top quarks. With its large cross section, t\bar t
+production at the Large Hadron Collider (LHC) offers an excellent opportunity
+to search for such particles. The identification of very energetic top quarks
+is crucial in such an analysis. We consider in detail the t\bar t\to\ell^\pm\nu
+b\bar bq\bar q' (\ell=e, \mu) final state for high p_T top quarks. In this
+phase space region, two or more of the final state quarks can merge into a
+single jet due to the large Lorentz boost of the parent top quark. As a result,
+a large fraction of t\bar t\to\ell^\pm\nu b\bar bq\bar q' events with an
+invariant mass in the TeV region contains less than four observable jets.
+Requiring one or two tagged b-quarks, we calculate the W+jets, Wb+jets, Wb\bar
+b+jets, Wbt, and single top plus jets backgrounds for these final states, and
+identify cuts which help to suppress them. In particular, we discuss whether a
+cut on the jet invariant mass may be useful in reducing the background in the
+\ell\nu+2 jets channel. We also investigate how next-to-leading order QCD
+corrections affect high p_T top quark production at the LHC. We find that the
+\ell\nu+2 jets and \ell\nu+3 jets final states with one or two $b$-tags will
+significantly improve the chances for discovering new heavy particles in the
+t\bar t channel at the LHC.

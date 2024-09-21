@@ -1,0 +1,11 @@
+Electron-electron interactions give rise to the correction,
+\delta\sigma^{int}(\omega), to the ac magnetoconductivity, \sigma(\omega), of a
+clean 2D electron gas that is periodic in \omega_c^{-1}, where \omega_c is the
+cyclotron frequency. Unlike conventional harmonics of the cyclotron resonance,
+which are periodic with \omega, this correction is periodic with \omega^{3/2}.
+Oscillations in \delta\sigma^{int}(\omega) develop at low magnetic fields,
+\omega_c\ll\omega, when the conventional harmonics are suppressed by the
+disorder. Their origin is a {\em double} backscattering of an electron from the
+impurity-induced Friedel oscillations. During the time \sim\omega^{-1} between
+the two backscattering events the electron travels only a {\em small portion}
+of the Larmour circle.

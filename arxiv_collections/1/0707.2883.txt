@@ -1,0 +1,13 @@
+This article reviews recent years' progress in the low temperature analysis
+of standard models of spin glass order such as the Sherrington-Kirkpatrick (SK)
+model. Applications to CdTe/CdMnTe layered systems and explanation of glassy
+antiferromagnetic order at lowest temperatures stimulated us to study in detail
+the beautifully complex physical effects of replica symmetry breaking (RSB).We
+discuss analytical ideas based on highly precise numerical data which lead to
+the construction of relatively simple effective field theories for the SK model
+and help to understand the mysterious features of its exact solution. The goal
+is to find construction principles for the theory of interplay between
+frustrated magnetic order and various relevant physical degrees of freedom. The
+emphasis in this article is on the role of Parisi's RSB, which surprisingly
+creates critical phenomena in the low temperature limit despite the absence of
+a standard phase transition.

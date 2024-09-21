@@ -1,0 +1,12 @@
+By performing two parallel numerical experiments -- solving the dynamical
+Hamiltonian equations and solving the Hasselmann kinetic equation -- we
+examined the applicability of the theory of weak turbulence to the description
+of the time evolution of an ensemble of free surface waves (a swell) on deep
+water. We observed qualitative coincidence of the results.
+  To achieve quantitative coincidence, we augmented the kinetic equation by an
+empirical dissipation term modelling the strongly nonlinear process of
+white-capping. Fitting the two experiments, we determined the dissipation
+function due to wave breaking and found that it depends very sharply on the
+parameter of nonlinearity (the surface steepness). The onset of white-capping
+can be compared to a second-order phase transition. This result corroborates
+with experimental observations by Banner, Babanin, Young.

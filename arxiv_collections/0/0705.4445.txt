@@ -1,0 +1,12 @@
+Community structure represents the local organization of complex networks and
+the single most important feature to extract functional relationships between
+nodes. In the last years, the problem of community detection has been
+reformulated in terms of the optimization of a function, the Newman-Girvan
+modularity, that is supposed to express the quality of the partitions of a
+network into communities. Starting from a recent critical survey on modularity
+optimization, pointing out the existence of a resolution limit that poses
+severe limits to its applicability, we discuss the general issue of the use of
+quality functions in community detection. Our main conclusion is that quality
+functions are useful to compare partitions with the same number of modules,
+whereas the comparison of partitions with different numbers of modules is not
+straightforward and may lead to ambiguities.

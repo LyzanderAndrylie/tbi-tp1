@@ -1,0 +1,8 @@
+We demonstrate that a system of nonlocally coupled noisy phase oscillators
+can collectively exhibit a hole structure, which manifests itself in the
+spatial phase distribution of the oscillators. The phase model is described by
+a nonlinear Fokker-Planck equation, which can be reduced to the complex
+Ginzburg-Landau equation near the Hopf bifurcation point of the uniform
+solution. By numerical simulations, we show that the hole structure clearly
+appears in the space-dependent order parameter, which corresponds to the
+Nozaki-Bekki hole solution of the complex Ginzburg-Landau equation.

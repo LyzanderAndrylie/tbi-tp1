@@ -1,0 +1,9 @@
+We suggest a novel way to use strong Rydberg dipole-dipole interactions in
+order to induce non-trivial conditional dynamics in individual-atom systems and
+mesoscopic ensembles. Contrary to previous works, we suggest to excite atoms
+into different Rydberg states, which results in a potentially richer dynamical
+behaviour. Specifically, we investigate systems of individual hydrogen-like
+atoms or mesoscopic ensembles excited into high-lying hydrogen-like s, p or d
+states and show how to perform three-qubit conditional dynamics on the
+information they contain through a proper use of dipole-dipole interaction
+induced energy shifts.

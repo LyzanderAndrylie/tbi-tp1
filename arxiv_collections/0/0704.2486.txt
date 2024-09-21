@@ -1,0 +1,11 @@
+We test the gamma-ray burst correlation between temporal variability and peak
+luminosity of the $\gamma$-ray profile on a homogeneous sample of 36 Swift/BAT
+GRBs with firm redshift determination. This is the first time that this
+correlation can be tested on a homogeneous data sample. The correlation is
+confirmed, as long as the 6 GRBs with low luminosity (<5x10^{50} erg s^{-1} in
+the rest-frame 100-1000 keV energy band) are ignored. We confirm that the
+considerable scatter of the correlation already known is not due to the
+combination of data from different instruments with different energy bands, but
+it is intrinsic to the correlation itself. Thanks to the unprecedented
+sensitivity of Swift/BAT, the variability/peak luminosity correlation is tested
+on low-luminosity GRBs. Our results show that these GRBs are definite outliers.

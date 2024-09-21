@@ -1,0 +1,10 @@
+We use first-principles density functional theory (DFT) calculations to
+investigate the ground state structures of both BaCeO_{3} (BC) and Pd-doped BC
+(BCP). The relaxed structures match closely with recent experimental scattering
+studies, and also provide a local picture of how the BC perovskite lattice
+accommodates Pd. Both stoichiometric and oxygen-deficient materials are
+considered, and structures with an O vacancy adjacent to each Pd are predicted
+to be favored. The oxidation state of Pd in each doped structure is
+investigated through a structural analysis, the results of which are supported
+by an orbital-resolved projected density of states. The vacancy stabilization
+by Pd in BCP is explained through redox chemistry and lattice strain relief.

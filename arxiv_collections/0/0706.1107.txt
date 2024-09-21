@@ -1,0 +1,9 @@
+We study the intrinsic orbital magnetization (OM) in antiferromagnets on the
+distorted face-centered-cubic lattice. The combined lattice distortion and spin
+frustration induce nontrivial $k$-space Chern invariant, which turns to result
+in profound effects on the OM properties. We derive a specific relation between
+the OM and the Hall conductivity, according to which it is found that the
+intrinsic OM vanishes when the electron chemical potential lies in the Mott
+gap. The distinct behavior of the intrinsic OM in the metallic and insulating
+regions is shown. The Berry phase effects on the thermoelectric transport is
+also discussed.

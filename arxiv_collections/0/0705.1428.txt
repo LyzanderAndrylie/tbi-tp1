@@ -1,0 +1,14 @@
+I propose a path integral description of the Su-Schrieffer-Heeger
+Hamiltonian, both in one and two dimensions, after mapping the real space model
+onto the time scale. While the lattice degrees of freedom are classical
+functions of time and are integrated out exactly, the electron particle paths
+are treated quantum mechanically. The method accounts for the variable range of
+the electronic hopping processes. The free energy of the system and its
+temperature derivatives are computed by summing at any $T$ over the ensemble of
+relevant particle paths which mainly contribute to the total partition
+function. In the low $T$ regime, the {\it heat capacity over T} ratio shows un
+upturn peculiar to a glass-like behavior. This feature is more sizeable in the
+square lattice than in the linear chain as the overall hopping potential
+contribution to the total action is larger in higher dimensionality. The
+effects of the electron-phonon anharmonic interactions on the phonon subsystem
+are studied by the path integral cumulant expansion method.

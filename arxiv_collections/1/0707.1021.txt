@@ -1,0 +1,12 @@
+LHCb is one of the four major experiments that will take data at the LHC, due
+to start operation in 2007. The primary aims of LHCb are to perform precision
+tests of CP violation and to search for new physics in b hadron decays. About
+10^12 bb pairs will be produced in LHCb per 10^7 seconds (a nominal year) in pp
+collisions with a luminosity of 2x10^32 cm^-2 s^-1. A large, high-purity sample
+of b hadrons, decaying in a variety of channels, will be accumulated. LHCb will
+perform a detailed study of B meson mixing, precise measurements of the angles
+of the unitary triangle and investigations of rare decays in b hadrons, looking
+for new physics in loop-induced processes. The LHCb detector is optimised to
+reach these physics goals. Here a brief description of the reconstruction
+performance is given, and the sensitivities in typical channels for the study
+of Bs mixing, CP violation and rare decays are summarised.

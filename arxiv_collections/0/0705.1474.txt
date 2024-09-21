@@ -1,0 +1,11 @@
+We propose a model for anomalous transport in inhomogeneous environments,
+such as fractured rocks, in which particles move only along pre-existing
+self-similar curves (cracks). The stochastic Loewner equation is used to
+efficiently generate such curves with tunable fractal dimension $d_f$. We
+numerically compute the probability of first passage (in length or time) from
+one point on the edge of the semi-infinite plane to any point on the
+semi-circle of radius $R$. The scaled probability distributions have a variance
+which increases with $d_f$, a non-monotonic skewness, and tails that decay
+faster than a simple exponential. The latter is in sharp contrast to
+predictions based on fractional dynamics and provides an experimental signature
+for our model.

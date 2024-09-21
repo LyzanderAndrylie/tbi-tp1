@@ -1,0 +1,9 @@
+In this paper, we study the competition of linear and nonlinear lattices and
+its effects on the stability and dynamics of bright solitary waves. We consider
+both lattices in a perturbative framework, whereby the technique of Hamiltonian
+perturbation theory can be used to obtain information about the existence of
+solutions, and the same approach, as well as eigenvalue count considerations,
+can be used to obtained detailed conditions about their linear stability. We
+find that the analytical results are in very good agreement with our numerical
+findings and can also be used to predict features of the dynamical evolution of
+such solutions.

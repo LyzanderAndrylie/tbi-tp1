@@ -1,0 +1,9 @@
+We construct a universal Vertex-IRF transformation between Vertex type
+universal solution and Face type universal solution of the quantum dynamical
+Yang-Baxter equation. This universal Vertex-IRF transformation satisfies the
+generalized coBoundary equation and is an extension of our previous work to the
+quantum affine $U_q(A^{(1)}_r)$ case. This solution has a simple Gauss
+decomposition which is constructed using Sevostyanov's characters of twisted
+quantum Borel algebras. We show that the evaluation of this universal solution
+in the evaluation representation of $U_q(A_1^{(1)})$ gives the standard
+Baxter's transformation between the 8-Vertex model and the IRF height model.

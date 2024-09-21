@@ -1,0 +1,14 @@
+We develop a general theory of microtubule (MT) deformations by molecular
+motors generating internal force doublets within the MT lattice. We describe
+two basic internal excitations, the S and V shape, and compare them with
+experimental observations from literature. We explain the special role of
+tubulin vacancies and the dramatic deformation amplifying effect observed for
+katanin acting at positions of defects. Experimentally observed shapes are used
+to determine the ratio of MT shear and stretch moduli ($\approx
+6\times10^{-5}$) and to estimate the forces induced in the MT lattice by
+katanin (10's of pN). For many motors acting on a single MT we derive
+expressions for the end-to-end distance reduction and provide criteria for
+dominance of this new effect over thermal fluctuations. We conclude that
+molecular motors if acting cooperatively can ''animate'' MTs from within the
+lattice and induce slack even without cross-bridging to other structures, a
+scenario very much reminiscent of the motor driven axoneme.

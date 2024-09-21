@@ -1,0 +1,14 @@
+To understand the formation of a magnetically dominated molecular cloud out
+of an atomic cloud, we follow the dynamical evolution of the cloud with a
+time-dependent axisymmetric magnetohydrodynamic code. A thermally stable warm
+atomic cloud is initially in static equilibrium with the surrounding hot
+ionised gas. A shock propagating through the hot medium interacts with the
+cloud. As a fast-mode shock propagates through the cloud, the gas behind it
+becomes thermally unstable. The $\beta$ value of the gas also becomes much
+smaller than the initial value of order unity. These conditions are ideal for
+magnetohydrodynamic waves to produce high-density clumps embedded in a rarefied
+warm medium. A slow-mode shock follows the fast-mode shock. Behind this shock a
+dense shell forms, which subsequently fragments. This is a primary region for
+the formation of massive stars. Our simulations show that only weak and
+moderate-strength shocks can form cold clouds which have properties typical of
+giant molecular clouds.

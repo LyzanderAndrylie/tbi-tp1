@@ -1,0 +1,9 @@
+We study a periodically driven (symmetric as well as asymmetric)double-well
+potential system at finite temperature. We show that mean heat loss by the
+system to the environment(bath) per period of the applied field is a good
+quantifier of stochastic resonance. It is found that the heat fluctuations over
+a single period are always larger than the work fluctuations. The observed
+distributions of work and heat exhibit pronounced asymmetry near resonance. The
+heat losses over a large number of periods satisfies the conventional
+steady-state fluctuation theorem, though different relation exists for this
+quantity.

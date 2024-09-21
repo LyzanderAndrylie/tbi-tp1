@@ -1,0 +1,17 @@
+A set of sufficient conditions to construct $\lambda$-real symbol Maximum
+Likelihood (ML) decodable STBCs have recently been provided by Karmakar et al.
+STBCs satisfying these sufficient conditions were named as Clifford Unitary
+Weight (CUW) codes. In this paper, the maximal rate (as measured in complex
+symbols per channel use) of CUW codes for $\lambda=2^a,a\in\mathbb{N}$ is
+obtained using tools from representation theory. Two algebraic constructions of
+codes achieving this maximal rate are also provided. One of the constructions
+is obtained using linear representation of finite groups whereas the other
+construction is based on the concept of right module algebra over
+non-commutative rings. To the knowledge of the authors, this is the first paper
+in which matrices over non-commutative rings is used to construct STBCs. An
+algebraic explanation is provided for the 'ABBA' construction first proposed by
+Tirkkonen et al and the tensor product construction proposed by Karmakar et al.
+Furthermore, it is established that the 4 transmit antenna STBC originally
+proposed by Tirkkonen et al based on the ABBA construction is actually a single
+complex symbol ML decodable code if the design variables are permuted and
+signal sets of appropriate dimensions are chosen.

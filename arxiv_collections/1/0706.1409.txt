@@ -1,0 +1,3 @@
+We provide a proof of a conjecture in (Bailey, Borwein, Borwein, Crandall
+2007) on the existence and form of linear recursions for moments of powers of
+the Bessel function $K_0$.

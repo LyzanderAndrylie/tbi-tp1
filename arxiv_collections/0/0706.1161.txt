@@ -1,0 +1,4 @@
+We establish some uniform limit results in the setting of additive regression
+model estimation. Our results allow to give an asymptotic 100% confidence bands
+for these components. These results are stated in the framework of i.i.d random
+vectors when the marginal integration estimation method is used.

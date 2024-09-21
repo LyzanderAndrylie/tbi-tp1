@@ -1,0 +1,24 @@
+According to a recent proposal [S. Takayama et al., Appl. Phys. Lett. 87,
+061107 (2005)], the triangular lattice of triangular air holes may allow to
+achieve a complete photonic band gap in two-dimensional photonic crystal slabs.
+In this work we present a systematic theoretical study of this photonic lattice
+in a high-index membrane, and a comparison with the conventional triangular
+lattice of circular holes, by means of the guided-mode expansion method whose
+detailed formulation is described here. Photonic mode dispersion below and
+above the light line, gap maps, and intrinsic diffraction losses of
+quasi-guided modes are calculated for the periodic lattice as well as for line-
+and point-defects defined therein. The main results are summarized as follows:
+(i) the triangular lattice of triangular holes does indeed have a complete
+photonic band gap for the fundamental guided mode, but the useful region is
+generally limited by the presence of second-order waveguide modes; (ii) the
+lattice may support the usual photonic band gap for even modes (quasi-TE
+polarization) and several band gaps for odd modes (quasi-TM polarization),
+which could be tuned in order to achieve doubly-resonant frequency conversion
+between an even mode at the fundamental frequency and an odd mode at the
+second-harmonic frequency; (iii) diffraction losses of quasi-guided modes in
+the triangular lattices with circular and triangular holes, and in line-defect
+waveguides or point-defect cavities based on these geometries, are comparable.
+The results point to the interest of the triangular lattice of triangular holes
+for nonlinear optics, and show the usefulness of the guided-mode expansion
+method for calculating photonic band dispersion and diffraction losses,
+especially for higher-lying photonic modes.

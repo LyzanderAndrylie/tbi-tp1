@@ -1,0 +1,9 @@
+We apply Landau-Ott scaling to the reversible magnetization data of
+Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$ published by Y. Wang et al. [\emph{Phys.
+Rev. Lett. \textbf{95} 247002 (2005)}] and find that the extrapolation of the
+Landau-Ott upper critical field line vanishes at a critical temperature
+parameter, T^*_c, a few degrees above the zero resistivity critical
+temperature, T_c. Only isothermal curves below and near to T_c were used to
+determine this transition temperature. This temperature is associated to the
+disappearance of the mixed state instead of a complete suppression of
+superconductivity in the sample.

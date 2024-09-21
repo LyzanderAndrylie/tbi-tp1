@@ -1,0 +1,4 @@
+We propose a new notion of Partial Inertial Manifold to study the long-time
+asymptotic behavior of dissipative differential equations. As shown on an
+example, such manifolds may exist in the cases when the classical Inertial
+manifold does not exist (or not known to exist).

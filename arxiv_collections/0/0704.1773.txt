@@ -1,0 +1,18 @@
+We examine the orbits of satellite galaxies identified in a suite of
+N-body/gasdynamical simulations of the formation of $L_*$ galaxies in a LCDM
+universe. Most satellites follow conventional orbits; after turning around,
+they accrete into their host halo and settle on orbits whose apocentric radii
+are steadily eroded by dynamical friction. However, a number of outliers are
+also present, we find that ~1/3 of satellites identified at $z=0$ are on
+unorthodox orbits, with apocenters that exceed their turnaround radii. This
+population of satellites on extreme orbits consists typically of the faint
+member of a satellite pair that has been ejected onto a highly-energetic orbit
+during its first approach to the primary. Since the concurrent accretion of
+multiple satellite systems is a defining feature of hierarchical models of
+galaxy formation, we speculate that this three-body ejection mechanism may be
+the origin of (i) some of the newly discovered high-speed satellites around M31
+(such as Andromeda XIV); (ii) some of the distant fast-receding Local Group
+members, such as Leo I; and (iii) the oddly isolated dwarf spheroidals Cetus
+and Tucana in the outskirts of the Local Group. Our results suggest that care
+must be exercised when using the orbits of the most weakly bound satellites to
+place constraints on the total mass of the Local Group.

@@ -1,0 +1,4 @@
+Let H be a Hopf algebra of dimension pq over an algebraically closed field of
+characteristic zero, where p, q are odd primes with p < q < 4p+12. We prove
+that H is semisimple and thus isomorphic to a group algebra, or the dual of a
+group algebra.

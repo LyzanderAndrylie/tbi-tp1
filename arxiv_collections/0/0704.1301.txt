@@ -1,0 +1,24 @@
+We present high-resolution, multiwavelength continuum and molecular-line
+images of the massive star forming region IRAS 18317-0757. The IR through mm
+spectral energy distribution can be approximated by a two-temperature model (25
+and 63 K) with a total luminosity of approximately log(L/Lsun)=5.2. Previous
+submm imaging resolved this region into a cluster of 5 dust cores, one of which
+is associated with the UCHII region G23.96+0.15, and another with an H2O maser.
+In our new 2.7 mm continuum image, only the UCHII region is detected, with
+total flux and morphology in good agreement with the free-free emission in VLA
+cm-wave maps. For the other four objects, the nondetections at 2.7 mm and in
+the MSX mid-IR bands are consistent with cool dust emission with a temperature
+of 13-40K and luminosity of 1000-40000 Lsun. By combining single-dish and
+interferometric data, we have identified over two dozen virialized C18O cores
+in this region that contain ~40% of the total molecular gas mass present. While
+the overall extent of the C18O and dust emission is similar, the emission peaks
+do not correlate well in detail. At least 11 of the 123 stars identified by
+2MASS in this region are likely to be within the star-forming cluster. Two
+stars (both associated with the UCHII region) were previously identified as O
+stars via IR spectroscopy. Most of the rest of the reddened stars have no
+obvious correlation with the C18O cores or the dust cores. In summary, our
+observations indicate that considerable fragmentation of the molecular cloud
+has taken place during the time required for the UCHII region to form and the O
+stars to become detectable at IR wavelengths. Additional star formation appears
+to be ongoing on the periphery of the central region, where up to four B-type
+(proto)stars have formed among a substantial number of C18O molecular cores.

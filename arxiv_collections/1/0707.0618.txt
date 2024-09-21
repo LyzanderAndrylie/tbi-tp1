@@ -1,0 +1,21 @@
+Martin has proposed a scenario dubbed ``compressed supersymmetry'' (SUSY)
+where the MSSM is the effective field theory between energy scales M_{\rm weak}
+and M_{\rm GUT}, but with the GUT scale SU(3) gaugino mass M_3<< M_1 or M_2. As
+a result, squark and gluino masses are suppressed relative to slepton, chargino
+and neutralino masses, leading to a compressed sparticle mass spectrum, and
+where the dark matter relic density in the early universe may be dominantly
+governed by neutralino annihilation into ttbar pairs via exchange of a light
+top squark. We explore the dark matter and collider signals expected from
+compressed SUSY for two distinct model lines with differing assumptions about
+GUT scale gaugino mass parameters. For dark matter signals, the compressed
+squark spectrum leads to an enhancement in direct detection rates compared to
+models with unified gaugino masses. Meanwhile, neutralino halo annihilation
+rates to gamma rays and anti-matter are also enhanced relative to related
+scenarios with unified gaugino masses but, depending on the halo dark matter
+distribution, may yet be below the sensitivity of indirect searches underway.
+In the case of collider signals, we compare the rates for the potentially
+dominant decay modes of the stop_1 which may be expected to be produced in
+cascade decay chains at the LHC: \tst_1\to c\tz_1 and \tst_1\to bW\tz_1. We
+examine the extent to which multilepton signal rates are reduced when the
+two-body decay mode dominates. For the model lines that we examine here, the
+multi-lepton signals, though reduced, still remain observable at the LHC.

@@ -1,0 +1,13 @@
+An array of one-dimensional conductors coupled by transverse hopping and
+interaction is studied with the help of a variational wave function. This wave
+function is devised as to account for one-dimensional correlation effects. We
+show that under broad conditions our system possesses the superconducting
+ground state even if no attraction is present. The superconducting mechanism is
+of many-body nature and deviates substantially from BCS. The phase diagram of
+the model is mapped. It consists of two ordered phases competing against each
+other: density wave, spin or charge, and unconventional superconductivity.
+These phases are separated by the first order transition. The symmetry of the
+superconducting order parameter is a non-universal property. It depends on
+particulars of the Hamiltonian. Within the framework of our model possible
+choices are the triplet $f$-wave and the singlet $d_{xy}$-wave. Organic
+quasi-one-dimensional superconductors have similar phase diagram.

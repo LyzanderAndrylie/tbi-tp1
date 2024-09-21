@@ -1,0 +1,18 @@
+This paper has been withdrawn by the authors due to a fatal error in the
+analysis. The manuscript was submitted to Chemical Engineering Science. To
+clarify the situation, we copy the main comment from an anonymous referee here:
+"To my understanding, the authors analyze i = 1 ... 63 time series and
+calculate their mean and standard deviation. These time series correspond to
+individual, single ignition processes. Is this correct? If yes, these
+processes, as Fig. 3 shows very clearly, are not stationary, and the pressure
+difference (i.e., the signal) quickly decays to zero. In this case both the
+mean and the standard deviation are poorly defined, for example because both
+depend in a trivial fashion on the observation period T. I am not aware of any
+study (including those cited by the authors) which allows for any conclusion
+from such non-stationary signals. The results of Menezes and Barabasi are
+strictly only valid for stationary time series, and they cannot be applied at
+all in this case." We agree with this insightful comment that our data are not
+stationary and the method adopted in our manuscript does not apply. We do not
+see any possibility to correct this error and decide to withdraw it. We would
+like to thank gratefully the referee and apologize for any inconvenience caused
+by our oversight.

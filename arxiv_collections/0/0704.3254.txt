@@ -1,0 +1,8 @@
+Let $L$ be one of the finite dimensional Lie algebras $W_n({\bf m}),$
+$S_n({\bf m}),$ $ H_n({\bf m})$ of Cartan type over an algebraically closed
+field of prime characteristic $p>0.$ For an elements $F$ of the symmetrical
+algebra $S(L)$ we found necessary and sufficient condition in order to the
+element $ad(\partial_1)^{p^{m_1}-1} ad(\partial_2)^{p^{m_2}-1}...
+ad(\partial_n)^{p^{m_n}-1}(F)$ belongs to the symmetrical invariants algebra
+$S(L)^L.$ Also, for $p=3,5$ the algebra of symmetrical invariants
+$S(H_2)^{H_2}$ is calculated in explicit way.

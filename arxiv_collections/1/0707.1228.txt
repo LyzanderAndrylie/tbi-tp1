@@ -1,0 +1,11 @@
+We report the implementation of the self-consistent Thomas-Fermi screening
+theory, together with the local Ohm's law to a quantum dot system in order to
+obtain local current distribution within the dot and at the leads. We consider
+a large dot (size
+  $>700$ nm) defined by split gates, and coupled to the leads. Numerical
+calculations show that the non-dissipative current is confined to the
+incompressible strips. Due to the non-linear screening properties of the 2DES
+at low temperatures, this distribution is highly sensitive to external magnetic
+field. Our findings support the phenomenological models provided by the
+experimental studies so far, where the formation of the (direct) edge channels
+dominate the transport.

@@ -1,0 +1,9 @@
+We recall that the theory of electromagnetism consists of three building
+blocks: (a) the inhomogeneous Maxwell equations for the electric and magnetic
+excitations $(D,H)$ (which reflects charge conservation), (b) the homogeneous
+Maxwell equations for the electric and magnetic field strengths $(E,B)$ (which
+reflects flux conservation), and (c) the constitutive relation between $(D,H)$
+and $(E,B)$. In the recent paper \cite{Lakhtakia1}, Lakhtakia proposed to
+change the standard boundary conditions in electrodynamics in order to exclude
+certain constitutive parameters. We show that this is inadmissible both from
+the macroscopic and the microscopic points of view.

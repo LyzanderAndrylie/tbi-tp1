@@ -1,0 +1,5 @@
+It is known that if one could clone an arbitrary quantum state one could send
+signal faster than the speed of light. However it remains interesting to see
+that if one can perfectly self replicate an arbitrary quantum state, does it
+violate the no signalling principle? Here we see that perfect self replication
+would also lead to superluminal signalling.

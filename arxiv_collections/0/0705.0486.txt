@@ -1,0 +1,15 @@
+An easy-to-implement form of the Metropolis Algorithm is described which,
+unlike most standard techniques, is well suited to sampling from multi-modal
+distributions on spaces with moderate numbers of dimensions (order ten) in
+environments typical of investigations into current constraints on
+Beyond-the-Standard-Model physics. The sampling technique makes use of
+pre-existing information (which can safely be of low or uncertain quality)
+relating to the distribution from which it is desired to sample. This
+information should come in the form of a ``bank'' or ``cache'' of space points
+of which at least some may be expected to be near regions of interest in the
+desired distribution. In practical circumstances such ``banks of clues'' are
+easy to assemble from earlier work, aborted runs, discarded burn-in samples
+from failed sampling attempts, or from prior scouting investigations. The
+technique equilibrates between disconnected parts of the distribution without
+user input. The algorithm is not lead astray by ``bad'' clues, but there is no
+free lunch: performance gains will only be seen where clues are helpful.

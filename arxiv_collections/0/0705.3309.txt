@@ -1,0 +1,14 @@
+Local magnetic field distribution B(r) in the mixed state of a boride
+superconductor, YB6, is studied by muon spin rotation (muSR). A comparative
+analysis using the modified London model and Ginzburg-Landau (GL) model
+indicates that the GL model exhibits better agreement with muSR data at higher
+fields, thereby demonstrating the importance of reproducing the field profile
+near the vortex cores when the intervortex distance becomes closer to the GL
+coherence length. The temperature and field dependence of magnetic penetration
+depth ($\lambda$) does not show any hint of nonlocal effect nor of low-lying
+quasiparticle excitation. This suggests that the strong coupling of electrons
+to the rattling motion of Y ions in the boron cage suggested by bulk
+measurements gives rise to a conventional superconductivity with isotropic
+s-wave pairing. Taking account of the present result, a review is provided for
+probing the anisotropy of superconducting order parameters by the slope of
+$\lambda$ against field.

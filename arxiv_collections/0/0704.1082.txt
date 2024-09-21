@@ -1,0 +1,12 @@
+We discuss the fixed-point Hamiltonian and the spectrum of excitations of a
+quasi-bidimensional electronic system supporting simultaneously
+antiferromamagnetic ordering and superconductivity. The coexistence of these
+two order parameters in a single phase is possible because the magnetic order
+is linked to the formation of a spin density wave, and its order parameter is
+not associated to a spectral gap but to an energy shift of the paramagnetic
+bands. This peculiarity entails several distinct features in the phase diagram
+and the spectral properties of the model, which may have been observed in
+CeRhIn$_5$. Apart from the coexistence, we find an abrupt suppression of the
+spin density wave when the superconducting and magnetic ordering temperatures
+are equal. The divergence of the cyclotron mass extracted from de Haas-van
+Alphen experiments is also analyzed in the same framework.

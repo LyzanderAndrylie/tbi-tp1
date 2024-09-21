@@ -1,0 +1,5 @@
+We obtain integral representations of solutions to special cases of the
+Fuchsian system of differential equations and Heun's differential equation. In
+particular, we calculate the monodromy of solutions to the Fuchsian equation
+that corresponds to Picard's solution of the sixth Painlev\'e equation, and to
+Heun's equation.

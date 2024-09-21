@@ -1,0 +1,8 @@
+We describe the realization of a dc electric-field trap for ultracold polar
+molecules, the thin-wire electrostatic trap (TWIST). The thin wires that form
+the electrodes of the TWIST allow us to superimpose the trap onto a
+magneto-optical trap (MOT). In our experiment, ultracold polar NaCs molecules
+in their electronic ground state are created in the MOT via photoassociation,
+achieving a continuous accumulation in the TWIST of molecules in low-field
+seeking states. Initial measurements show that the TWIST trap lifetime is
+limited only by the background pressure in the chamber.

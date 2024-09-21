@@ -1,0 +1,11 @@
+We argue that the unscreened Coulomb interaction in graphene provides a
+positive, universal, and logarithmic correction to scaling of zero-temperature
+conductivity with frequency. The combined effect of the disorder due to
+wrinkling of the graphene sheet and the long range electron-electron
+interactions is a finite positive contribution to the dc conductivity. This
+contribution is disorder strength dependent and thus non-universal. The
+low-energy behavior of such a system is governed by the line of fixed points at
+which both the interaction and disorder are finite, and the density of states
+is exactly linear. An estimate of the typical random vector potential
+representing ripples in graphene brings the theoretical value of the minimal
+conductivity into the vicinity of 4e^2/h.

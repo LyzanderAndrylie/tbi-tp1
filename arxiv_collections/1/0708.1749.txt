@@ -1,0 +1,9 @@
+Since the inception of the dynamical mean-field theory, numerous numerical
+studies have relied on the Hirsch-Fye quantum Monte Carlo (HF-QMC) method for
+solving the associated impurity problem. Recently developed continuous-time
+algorithms (CT-QMC) avoid the Trotter discretization error and allow for faster
+configuration updates, which makes them candidates for replacing HF-QMC. We
+demonstrate, however, that a state-of-the-art implementation of HF-QMC (with
+extrapolation of discretization delta_tau -> 0) is competitive with CT-QMC. A
+quantitative analysis of Trotter errors in HF-QMC estimates and of appropriate
+delta_tau values is included.

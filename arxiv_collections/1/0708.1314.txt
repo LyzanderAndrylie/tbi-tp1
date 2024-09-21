@@ -1,0 +1,13 @@
+The enhanced light transmission through an array of subwavelength holes
+surrounded by Bragg mirrors is studied, showing that the mirrors act to confine
+the surface plasmons associated with the Extraordinary Optical Transmission
+effect, forming a surface resonant cavity. The overall effect is increased
+light transmission intensity by more than a factor of three beyond the already
+enhanced transmission, independent of whether the Bragg mirrors are on the
+input or the output side of the incident light. The geometry of the Bragg
+mirror structures controls the enhancement, and can even reduce the
+transmission in half. By varying these geometric parameters, we were able to
+periodically modulate the transmission of light for specific wavelengths,
+consistent with the propagation and interference of surface plasmon waves in a
+resonant cavity. FDTD simulations and a wave propagation model verify this
+effect.

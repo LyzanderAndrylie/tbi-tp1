@@ -1,0 +1,10 @@
+A family of 3R orthogonal manipulators without offset on the third body can
+be divided into exactly nine workspace topologies. The workspace is
+characterized in a half-cross section by the singular curves. The workspace
+topology is defined by the number of cusps and nodes that appear on these
+singular curves. Based on this classification, we evaluate theses manipulators
+by the condition number related to the joint space and the proportion of the
+region with four inverse kinematic solutions compared to a sphere containing
+all the workspace. This second performance number is in relation with the
+workspace. We determine finally le topology of workspace to which belong
+manipulators having the best performance number values.

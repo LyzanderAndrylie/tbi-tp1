@@ -1,0 +1,10 @@
+String theory tells us that quantum gravity has a dual description as a field
+theory (without gravity). We use the field theory dual to ask what happens to
+an object as it falls into the simplest black hole: the 2-charge extremal hole.
+In the field theory description the wavefunction of a particle is spread over a
+large number of `loops', and the particle has a well-defined position in space
+only if it has the same `position' on each loop. For the infalling particle we
+find one definition of `same position' on each loop, but there is a different
+definition for outgoing particles and no canonical definition in general in the
+horizon region. Thus the meaning of `position' becomes ill-defined inside the
+horizon.

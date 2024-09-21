@@ -1,0 +1,10 @@
+The results of extensive histogram cluster heat-bath Monte Carlo simulations
+on the critical behavior of the quasi-one dimensional Ising antiferromagnet on
+a stacked triangular lattice are presented. A small applied field is shown to
+induce a crossover from XY universality to mean-field tricritical behavior.
+Experimental estimates of critical exponents suggest that these two types of
+phase transitions are observed in S=1 CsNiCl$_3$ and $S=1/2$ CsCoBr$_3$,
+respectively. The present results demonstrate that this difference can be
+explained by an unusual staggered magnetic field arising from quantum exchange
+mixing previously proposed to account for spin excitations in $S=1/2$
+quasi-one-dimensional Ising antiferromagnets.

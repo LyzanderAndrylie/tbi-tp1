@@ -1,0 +1,7 @@
+We consider a nonlinear partial differential equation for complex-valued
+functions which is related to the two-dimensional stationary Schrodinger
+equation and enjoys many properties similar to those of the ordinary
+differential Riccati equation as, e.g., the famous Euler theorems, the Picard
+theorem and others. Besides these generalizations of the classical
+"one-dimensional" results we discuss new features of the considered equation
+like, e.g., an analogue of the Cauchy integral theorem.

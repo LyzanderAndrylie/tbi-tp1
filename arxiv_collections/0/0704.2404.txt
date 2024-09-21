@@ -1,0 +1,7 @@
+We determine an approximate expression for the O(alpha_s^3) contribution
+chi_2 to the kernel of the BFKL equation, which includes all collinear and
+anticollinear singular contributions. This is derived using recent results on
+the relation between the GLAP and BFKL kernels (including running-coupling
+effects to all orders) and on small-x factorization schemes. We present the
+result in various schemes, relevant both for applications to the BFKL equation
+and to small-x evolution of parton distributions.

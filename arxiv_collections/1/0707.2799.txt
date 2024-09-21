@@ -1,0 +1,21 @@
+We have studied structural phase transitions in high quality underdoped
+La$_{2-x}$Ba$_x$CuO$_4$ single crystals using high resolution x-ray scattering
+techniques. Critical properties associated with the continuous High Temperature
+Tetragonal (HTT, $I4/mmm$) to Middle Temperature Orthorhombic (MTO, $Cmca$)
+phase transition were investigated in single crystal samples with x=0.125,
+0.095, and 0.08 and we find that all behavior is consistent with three
+dimensional XY criticality, as expected from theory. Power law behavior in the
+orthorhombic strain, 2(a-b)/(a+b), is observed over a remarkably wide
+temperature range, spanning most of the MTO regime in the phase diagram. Low
+temperature measurements investigating the Low Temperature Tetragonal (LTT,
+$P4_{2}/ncm$) phase, below the strongly discontinuous MTO$\to$LTT phase
+transition, in x=0.125 and x=0.095 samples show that the LTT phase is
+characterized by relatively broad Bragg scattering, compared with that observed
+at related wavevectors in the HTT phase. This shows that the LTT phase is
+either an admixture of tetragonal and orthorhombic phases, or that it is
+orthorhombic with very small orthorhombic strain, consistent with the ``less
+orthorhombic" low temperature structure previously reported in mixed
+La$_{2-x}$Sr$_{x-y}$Ba$_y$CuO$_4$ single crystals. We compare the complex
+temperature-composition phase diagram for the location of structural and
+superconducting phase transitions in underdoped La$_{2-x}$Ba$_x$CuO$_4$ and
+find good agreement with results obtained on polycrystalline samples.

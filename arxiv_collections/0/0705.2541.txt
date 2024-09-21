@@ -1,0 +1,8 @@
+We predict that the effective nonlinear optical susceptibility can be
+tailored using the Purcell effect. While this is a general physical principle
+that applies to a wide variety of nonlinearities, we specifically investigate
+the Kerr nonlinearity. We show theoretically that using the Purcell effect for
+frequencies close to an atomic resonance can substantially influence the
+resultant Kerr nonlinearity for light of all (even highly detuned) frequencies.
+For example, in realistic physical systems, enhancement of the Kerr coefficient
+by one to two orders of magnitude could be achieved.

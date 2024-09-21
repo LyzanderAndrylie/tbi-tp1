@@ -1,0 +1,7 @@
+Structure of bifurcation diagram in the plane of parameters controlling
+period-doublings for the system of coupled logistic maps is discussed. The
+analysis is carried out by computing the charts of dynamical regimes and charts
+of Lyapunov exponents giving showy and effective illustrations. The critical
+point of codimension two at the border of chaos is found. It is a terminal
+point for the Feigenbaum critical line. The bifurcation analysis in the
+vicinity of this point is presented.

@@ -1,0 +1,17 @@
+We carry out preliminary numerical study of Sugino's lattice formulation
+\cite{Sugino:2004qd,Sugino:2004qdf} of the two-dimensional $\mathcal{N}=(2,2)$
+super Yang-Mills theory (2d $\mathcal{N}=(2,2)$ SYM) with the gauge group
+$\SU(2)$. The effect of dynamical fermions is included by re-weighting a
+quenched ensemble by the pfaffian factor. It appears that the complex phase of
+the pfaffian due to lattice artifacts and flat directions of the classical
+potential are not problematic in Monte Carlo simulation. Various one-point
+supersymmetric Ward-Takahashi (WT) identities are examined for lattice spacings
+up to $a=0.5/g$ with the fixed physical lattice size $L=4.0/g$, where $g$
+denotes the gauge coupling constant in two dimensions. WT identities implied by
+an exact fermionic symmetry of the formulation are confirmed in fair accuracy
+and, for most of these identities, the quantum effect of dynamical fermions is
+clearly observed. For WT identities expected only in the continuum limit, the
+results seem to be consistent with the behavior expected from supersymmetry,
+although we do not see clear distintion from the quenched simulation. We
+measure also the expectation values of renormalized gauge-invariant bi-linear
+operators of scalar fields.

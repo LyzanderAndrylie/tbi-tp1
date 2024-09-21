@@ -1,0 +1,16 @@
+The authors present a study of the non equilibrium statistical properties of
+a one dimensional hard-rod fluid dissipating energy via inelastic collisions
+and subject to the action of a Gaussian heat bath, simulating an external
+driving mechanism. They show that the description of the fluid based on the
+one-particle phase-space reduced distribution function, in principle necessary
+because of the presence of velocity dependent collisional dissipation, can be
+contracted to a simpler description in configurational space. Indeed, by means
+of a multiple-time scale method the authors derive a self-consistent governing
+equation for the particle density distribution function. This equation is
+similar to the dynamic density functional equation employed in the study of
+colloids, but contains additional terms taking into account the inelastic
+nature of the fluid. Such terms cannot be derived from a Liapunov generating
+functional and contribute not only to the relaxational properties, but also to
+the non equilibrium steady state properties. A validation of the theory against
+molecular dynamics simulations is presented in a series of cases, and good
+agreement is found.

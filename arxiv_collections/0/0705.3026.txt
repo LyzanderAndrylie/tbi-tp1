@@ -1,0 +1,11 @@
+In the present paper we study the entanglement properties of thermal (a.k.a.
+Gibbs) states of quantum harmonic oscillator systems as functions of the
+Hamiltonian and the temperature. We prove the physical intuition that at
+sufficiently high temperatures the thermal state becomes fully separable and we
+deduce bounds on the critical temperature at which this happens. We show that
+the bound becomes tight for a wide class of Hamiltonians with sufficient
+translation symmetry. We find, that at the crossover the thermal energy is of
+the order of the energy of the strongest normal mode of the system and quantify
+the degree of entanglement below the critical temperature. Finally, we discuss
+the example of a ring topology in detail and compare our results with previous
+work in an entanglement-phase diagram.

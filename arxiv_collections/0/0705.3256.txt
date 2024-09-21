@@ -1,0 +1,11 @@
+The equilibrium free energy landscape of an off-lattice model protein as a
+function of an internal (reaction) coordinate is reconstructed from
+out-of-equilibrium mechanical unfolding manipulations. This task is
+accomplished via two independent methods: by employing an extended version of
+the Jarzynski equality (EJE) and the protein inherent structures (ISs). In a
+range of temperatures around the ``folding transition'' we find a good
+quantitative agreement between the free energies obtained via EJE and IS
+approaches. This indicates that the two methodologies are consistent and able
+to reproduce equilibrium properties of the examined system. Moreover, for the
+studied model the structural transitions induced by pulling can be related to
+thermodynamical aspects of folding.

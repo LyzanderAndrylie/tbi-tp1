@@ -1,0 +1,11 @@
+The incoherent state of the Kuramoto model of coupled oscillators exhibits
+marginal modes in mean field theory. We demonstrate that corrections due to
+finite size effects render these modes stable in the subcritical case, i.e.
+when the population is not synchronous. This demonstration is facilitated by
+the construction of a non-equilibrium statistical field theoretic formulation
+of a generic model of coupled oscillators. This theory is consistent with
+previous results. In the all-to-all case, the fluctuations in this theory are
+due completely to finite size corrections, which can be calculated in an
+expansion in 1/N, where N is the number of oscillators. The N -> infinity limit
+of this theory is what is traditionally called mean field theory for the
+Kuramoto model.

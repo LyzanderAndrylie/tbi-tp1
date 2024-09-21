@@ -1,0 +1,11 @@
+We report a systematic study of the resistive superconducting transition in
+the electron-doped cuprates Pr$_{2-x}$Ce$_{x}$CuO$_{4-\delta}$ down to 1.5 K
+for magnetic field up to 58 T applied parallel to the conducting ab-planes. We
+find that the zero temperature parallel critical field (H$_{c2\parallel
+ab}$(0)) exceeds 58 T for the underdoped and optimally-doped films. For the
+overdoped films, 58 T is sufficient to suppress the superconductivity. We also
+find that the Zeeman energy $\mu_B$H$_{c2\parallel ab}$(0) reaches the
+superconducting gap ($\triangle_0$), i.e. $\mu_B$H$_{c2\parallel ab}(0)\simeq
+\triangle_0$, for all the dopings, strongly suggesting that the parallel
+critical field is determined by the Pauli paramagnetic limit in electron-doped
+cuprates.

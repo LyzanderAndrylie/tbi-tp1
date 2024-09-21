@@ -1,0 +1,10 @@
+Let $\Gamma$ denote a $Q$-polynomial distance-regular graph with diameter $D
+\geq 3$ and standard module $V$. Recently Ito and Terwilliger introduced four
+direct sum decompositions of $V$; we call these the $(\mu,\nu)$--{\it split
+decompositions} of $V$, where $\mu, \nu \in \lbrace \downarrow, \uparrow
+\rbrace$. In this paper we show that the ($\downarrow,\downarrow$)--split
+decomposition and the ($\uparrow,\uparrow$)--split decomposition are dual with
+respect to the standard Hermitian form on $V$. We also show that the
+($\downarrow,\uparrow$)--split decomposition and the
+($\uparrow,\downarrow$)--split decomposition are dual with respect to the
+standard Hermitian form on $V$.

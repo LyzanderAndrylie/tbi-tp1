@@ -1,0 +1,16 @@
+We study observation-based strategies for two-player turn-based games on
+graphs with omega-regular objectives. An observation-based strategy relies on
+imperfect information about the history of a play, namely, on the past sequence
+of observations. Such games occur in the synthesis of a controller that does
+not see the private state of the plant. Our main results are twofold. First, we
+give a fixed-point algorithm for computing the set of states from which a
+player can win with a deterministic observation-based strategy for any
+omega-regular objective. The fixed point is computed in the lattice of
+antichains of state sets. This algorithm has the advantages of being directed
+by the objective and of avoiding an explicit subset construction on the game
+graph. Second, we give an algorithm for computing the set of states from which
+a player can win with probability 1 with a randomized observation-based
+strategy for a Buechi objective. This set is of interest because in the absence
+of perfect information, randomized strategies are more powerful than
+deterministic ones. We show that our algorithms are optimal by proving matching
+lower bounds.

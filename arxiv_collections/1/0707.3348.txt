@@ -1,0 +1,8 @@
+Recent NMR experiments by Singer et al. [Singer et al. Phys. Rev. Lett. 95,
+236403 (2005).] showed a deviation from Fermi-liquid behavior in carbon
+nanotubes with an energy gap evident at low temperatures. Here, a comprehensive
+theory for the magnetic field and temperature dependent NMR 13C spin-lattice
+relaxation is given in the framework of the Tomonaga-Luttinger liquid. The low
+temperature properties are governed by a gapped relaxation due to a spin gap (~
+30K), which crosses over smoothly to the Luttinger liquid behaviour with
+increasing temperature.

@@ -1,0 +1,9 @@
+In analogy with the load and the metage in hydrodynamics, we define
+magnetohydrodynamic load and magnetohydrodynamic metage in the case of
+magnetofluids. They can be used to write the magnetic field in MHD in Clebsch's
+form. We show how these two concepts can be utilised to derive the magnetic
+analogue of the Ertel's theorem and also, how in the presence of non-trivial
+topology of the magnetic field in the magnetofluid one may associate the
+linking number of the magnetic field lines with the invariant MHD loads. The
+paper illustrates that the symmetry translation of the MHD metage in the
+corresponding label space generates the conservation of cross helicity.

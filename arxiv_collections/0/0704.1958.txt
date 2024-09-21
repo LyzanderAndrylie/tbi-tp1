@@ -1,0 +1,24 @@
+It has been shown that the luminosity of AGNs and the size of their broad
+line region obey a simple relation of the type R=a L^g, from faint Seyfert
+nuclei to bright quasars, allowing single-epoch determination of the central
+black hole mass M=b L^g D^2 from their luminosity L and width of H_beta
+emission line. Adopting this mass determination for cosmological studies
+requires the extrapolation to high z and L of a relation whose calibration
+relies so far on reverberation mapping measurements performed for L<10^46 erg/s
+and z<0.4. We initiated a campaign for the monitoring of a few luminous,
+intermediate z quasars whose apparent magnitude V<15.7 allows observations with
+a 1.8m telescope, aimed at proving that emission lines vary and respond to
+continuum variations even for luminosities >10^47 erg/s, and determining
+eventually their M_BH from reverberation mapping. We have repeatedly performed
+simultaneous observations of quasars and reference stars to determine relative
+variability of continuum and emission lines. We describe the observations and
+methods of analysis. For the quasars PG1634+706 and PG1247+268 we obtain
+light-curves respectively for CIII], MgII and for CIV, CIII] emission lines
+with the relevant continua. During 3.2 years of observation, in the former case
+no continuum variability has been detected and the evidence for line
+variability is marginal, while in the latter case both continuum and line
+variability are detected with high significance and the line variations appear
+correlated with continuum variations. The detection of the emission line
+variability in a quasar with L~10^47 erg/s encourages the prosecution of the
+campaign which should provide a black hole mass estimate in other 5-6 years,
+constraining the M_BH-L relation in a poorly explored range of luminosity.

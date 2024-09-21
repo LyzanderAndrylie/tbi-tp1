@@ -1,0 +1,8 @@
+We study a nonzero-sum game of two players which is a generalization of the
+antagonistic noisy duel of discrete type. The game is considered from the point
+of view of various criterions of optimality. We prove existence of
+epsilon-equilibrium situations and show that the epsilon-equilibrium strategies
+that we have found are epsilon-maxmin. Conditions under which the equilibrium
+plays are Pareto-optimal are given.
+  Keywords: noisy duel, payoff function, strategy, equilibrium situation,
+Pareto optimality, the value of a game.

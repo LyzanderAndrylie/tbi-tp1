@@ -1,0 +1,7 @@
+Efficient methods for the description of the non-Markovian dynamics of open
+systems play an important role in many proposed applications of quantum
+mechanics. Here we review some of the most important tools that are based on
+the projection operator techniques of nonequilibrium statistical mechanics. The
+standard product-state projection is generalized to a new class of correlated
+projection superoperators that allow the treatment of strong memory effects,
+and lead to a non-Markovian generalization of the Lindblad equation.

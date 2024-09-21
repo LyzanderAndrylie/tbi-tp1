@@ -1,0 +1,12 @@
+To better understanding the principal features of collisionless
+damping/growing plasma waves we have implemented a demonstrative calculation
+for the simplest cases of electron waves in two-stream plasmas with the
+delta-function type electron velocity distribution function of each of the
+streams with velocities v(1) and v(2). The traditional dispersion equation is
+reduced to an algebraic 4th order equation, for which numerical solutions are
+presented for a variant of equal stream densities. In the case of uniform
+half-infinite slab one finds two dominant type solutions: non-damping forward
+waves and forward complex conjugated exponentially both damping and growing
+waves. Beside it in this case there is no necessity of calculation any
+logarithmically divergent indefinite integrals. The possibility of wave
+amplifying might be useful in practical applications.

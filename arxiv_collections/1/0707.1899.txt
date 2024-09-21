@@ -1,0 +1,4 @@
+Given a Coxeter system (W,S), there is an associated CW-complex, Sigma, on
+which W acts properly and cocompactly. We prove that when the nerve L of (W,S)
+is a flag triangulation of the 3-sphere, then the reduced $\ell^2$-homology of
+Sigma vanishes in all but the middle dimension.

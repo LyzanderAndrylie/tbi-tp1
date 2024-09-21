@@ -1,0 +1,11 @@
+Quantum properties of the probes used to estimate a classical parameter can
+be used to attain accuracies that beat the standard quantum limit. When qubits
+are used to construct a quantum probe, it is known that initializing $n$ qubits
+in an entangled "cat state," rather than in a separable state, can improve the
+measurement uncertainty by a factor of $1/\sqrt{n}$. We investigate how the
+measurement uncertainty is affected when the individual qubits in a probe are
+subjected to decoherence. In the face of such decoherence, we regard the rate
+$R$ at which qubits can be generated and the total duration $\tau$ of a
+measurement as fixed resources, and we determine the optimal use of
+entanglement among the qubits and the resulting optimal measurement uncertainty
+as functions of $R$ and $\tau$.

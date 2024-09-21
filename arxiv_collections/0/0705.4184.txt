@@ -1,0 +1,8 @@
+Corresponding to Fresnel transform there exists a unitary operator in quantum
+optics theory, which could be named Fresnel operator (FO). We show that the
+multiplication rule of FO naturally leads to the quantum optical ABCD law. The
+canonical operator methods as mapping of ray-transfer ABCD matrix is explicitly
+shown by FO's normally ordered expansion through the coherent state
+representation and the technique of integration within an ordered product of
+operators. We show that time evolution of the damping oscillator embodies the
+quantum optical ABCD law.

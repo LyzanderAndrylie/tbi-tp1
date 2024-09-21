@@ -1,0 +1,5 @@
+The effects of unquenching on the perturbative improvement coefficients in
+the Symanzik action are computed within the framework of L\"uscher-Weisz
+on-shell improvement. We find that the effects of quark loops are surprisingly
+large, and their omission may well explain the scaling violations observed in
+some unquenched studies.

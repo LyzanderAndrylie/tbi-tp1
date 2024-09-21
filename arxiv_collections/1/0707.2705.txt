@@ -1,0 +1,15 @@
+A self-consistent calculation scheme for correlated electron systems is
+created based on the density-functional theory (DFT). Our scheme is a
+multi-reference DFT (MR-DFT) calculation in which the electron charge density
+is reproduced by an auxiliary interacting Fermion system. A short-range
+Hubbard-type interaction is introduced by a rigorous manner with a residual
+term for the exchange-correlation energy. The Hubbard term is determined
+uniquely by referencing the density fluctuation at a selected localized
+orbital. This strategy to obtain an extension of the Kohn-Sham scheme provides
+a self-consistent electronic structure calculation for the materials design.
+Introducing an approximation for the residual exchange-correlation energy
+functional, we have the LDA+U energy functional. Practical self-consistent
+calculations are exemplified by simulations of Hydrogen systems, i.e. a
+molecule and a periodic one-dimensional array, which is a proof of existence of
+the interaction strength U as a continuous function of the local fluctuation
+and structural parameters of the system.

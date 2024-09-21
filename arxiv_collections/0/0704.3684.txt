@@ -1,0 +1,11 @@
+We present an experimental study of the dynamics underlying the buildup and
+decay of dynamical nuclear spin polarization in a single semiconductor quantum
+dot. Our experiment shows that the nuclei can be polarized on a time scale of a
+few milliseconds, while their decay dynamics depends drastically on external
+parameters. We show that a single electron can very efficiently depolarize the
+nuclear spins and discuss two processes that can cause this depolarization.
+Conversely, in the absence of a quantum dot electron, the lifetime of nuclear
+spin polarization is on the time scale of a second, most likely limited by the
+non-secular terms of the nuclear dipole-dipole interaction. We can further
+suppress this depolarization rate by 1-2 orders of magnitude by applying an
+external magnetic field exceeding 1 mT.

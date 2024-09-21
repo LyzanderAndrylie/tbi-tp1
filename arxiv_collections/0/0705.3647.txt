@@ -1,0 +1,20 @@
+We jointly model 22 early-type gravitational lens galaxies with stellar
+dynamical measurements using standard CDM halo models. The sample is
+inhomogeneous in both its mass distributions and the evolution of its stellar
+populations unless the true uncertainties are significantly larger than the
+reported measurement errors. In general, the individual systems cannot
+constrain halo models, in the sense that the data poorly constrains the stellar
+mass fraction of the halo. The ensemble of systems, however, strongly
+constrains the average stellar mass represented by the visible galaxies to
+$0.026\pm0.006$ of the halo mass if we neglect adiabatic compression, rising to
+$0.056\pm0.011$ of the halo mass if we include adiabatic compression. Both
+estimates are significantly smaller than the global baryon fraction,
+corresponding to a star formation efficiency for early-type galaxies of
+$10%-30%$. In the adiabatically compressed models, we find an average local
+B-band stellar mass-to-light ratio of $(M/L)_0 =
+(7.2\pm0.5)(M_{\sun}/L_{\sun})$ that evolves by $d\log(M/L)/dz = -0.72\pm0.08$
+per unit redshift. Adjusting the isotropy of the stellar orbits has little
+effect on the results. The adiabatically compressed models are strongly favored
+if we impose either local estimates of the mass-to-light ratios of early-type
+galaxies or the weak lensing measurements for the lens galaxies on 100 kpc
+scales as model constraints.

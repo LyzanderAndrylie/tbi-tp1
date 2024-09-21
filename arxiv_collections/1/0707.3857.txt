@@ -1,0 +1,17 @@
+We present a general and exact formalism for finding the evolution of a
+quantum system subject to external telegraph noise. The various qubit
+decoherence rates are determined by the eigenvalues of a transfer matrix. The
+formalism can be applied to a qubit subject to an arbitrary combination of
+dephasing and relaxational telegraph noise, in contrast to existing
+non-perturbative methods that treat only one or the other of these limits. We
+present 3 applications: 1) We obtain the full qubit dynamics on time scales
+short compared with the enviromental correlation times. In the strong coupling
+cases this reveals unexpected oscillations and induced magnetization
+components; 2) We find in strong coupling case strong violations of the widely
+used relation 1/T$_2$ = 1/2T$_1$ + 1/T$_{\phi}$, which is a result of
+perturbation theory; 3) We discuss the effects of bang-bang and spin-echo
+controls of the qubit dynamics in general settings of the telegraph noises.
+%The result shows that these methods are not very effective in %reducing
+decoherence arising from a single telegraph noise. Finally, we discuss the
+extension of the method to the cases of many telegraph noise sources and
+multiple qubits. The method still works when white noise is also present.

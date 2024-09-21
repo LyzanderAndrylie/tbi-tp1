@@ -1,0 +1,10 @@
+We explore the codimension one strata in the degree-one cohomology jumping
+loci of a finitely generated group, through the prism of the multivariable
+Alexander polynomial. As an application, we give new criteria that must be
+satisfied by fundamental groups of smooth, quasi-projective complex varieties.
+These criteria establish precisely which fundamental groups of boundary
+manifolds of complex line arrangements are quasi-projective. We also give sharp
+upper bounds for the twisted Betti ranks of a group, in terms of multiplicities
+constructed from the Alexander polynomial. For Seifert links in homology
+3-spheres, these bounds become equalities, and our formula shows explicitly how
+the Alexander polynomial determines all the characteristic varieties.

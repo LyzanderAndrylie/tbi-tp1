@@ -1,0 +1,13 @@
+In the present work, the non-spherical grain characteristics of comet Halley
+are analysed using the T-matrix method at $\lambda = 0.365, 0.485$ and
+$0.684\mu m$ respectively. In order to analyse the polarisation data of comet
+Halley, the dust size distribution function derived by Das et al. (2004) for
+comet Halley is used in the present work. The size range of the grains is taken
+to be 0.01$\mu m \le$ s $\le 3\mu m$. Using the T-matrix method, the best fit
+values of complex refractive indices $(n, k)$ and aspect ratio ($E$) are
+determined at three different wavelengths $ 0.365, 0.485$ and $0.684\mu m$ and
+the corresponding values are given by $(1.380, 0.043, 0.962), (1.378, 0.049,
+0.962)$ and $(1.377, 0.058,0.962)$ respectively. After comparing the above
+result with Mie theory result, it is found that prolate grains give the best
+fit to the observed polarisation data of comet Halley. Also the negative
+polarisation behaviour of comet Halley is discussed thereafter.

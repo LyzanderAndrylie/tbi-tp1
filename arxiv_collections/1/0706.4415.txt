@@ -1,0 +1,15 @@
+We uncover previously unknown properties of the family of periodic
+superstable cycles in unimodal maps characterized each by a Lyapunov exponent
+that diverges to minus infinity. Amongst the main novel properties are the
+following: i) The basins of attraction for the phases of the cycles develop
+fractal boundaries of increasing complexity as the period-doubling structure
+advances towards the transition to chaos. ii) The fractal boundaries, formed by
+the preimages of the repellor, display hierarchical structures organized
+according to exponential clusterings that manifest in the dynamics as
+sensitivity to the final state and transient chaos. iii) There is a functional
+composition renormalization group (RG) fixed-point map associated to the family
+of supercycles. iv) This map is given in closed form by the same kind of
+$q$-exponential function found for both the pitchfork and tangent bifurcation
+attractors. v) There is a final stage ultra-fast dynamics towards the attractor
+with a sensitivity to initial conditions that decreases as an exponential of an
+exponential of time.

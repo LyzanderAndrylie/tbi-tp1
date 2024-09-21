@@ -1,0 +1,7 @@
+We are revisiting the efficiency problem of DKR nonradiative transitions at
+local electronic centers in polarizable solids. Following a brief survey, we
+formulate the general rate equations thereby defining the microscopic
+parameters controlling the nonradiative deexcitation. We also reproduce the
+quantum mechanical expressions for the energy conserving "horizontal transfer
+rates" to compare with the "verical transition rates" at various vibronic
+energy levels.

@@ -1,0 +1,10 @@
+We give the explicit structure of the functional governing the dynamical
+density and current fluctuations for a mesoscopic system in a nonequilibrium
+steady state. Its canonical form determines a generalised Onsager-Machlup
+theory. We assume that the system is described as a Markov jump process
+satisfying a local detailed balance condition such as typical for stochastic
+lattice gases and for chemical networks. We identify the entropy current and
+the traffic between the mesoscopic states as extra terms in the fluctuation
+functional with respect to the equilibrium dynamics. The density and current
+fluctuations are coupled in general, except close to equilibrium where their
+decoupling explains the validity of entropy production principles.

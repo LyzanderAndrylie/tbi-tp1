@@ -1,0 +1,15 @@
+We propose a matrix evolution equation in (x,kt)-space for flavour singlet,
+unintegrated quark and gluon densities, which generalizes DGLAP and BFKL
+equations in the relevant limits. The matrix evolution kernel is constructed so
+as to satisfy renormalization group constraints in both the ordered and
+antiordered regions of exchanged momenta kt, and incorporates the known NLO
+anomalous dimensions in the MSbar scheme as well as the NLx BFKL kernel. We
+provide a hard Pomeron exponent and effective eigenvalue functions that include
+the n_f-dependence, and give also the matrix of resummed DGLAP splitting
+functions. The results connect smoothly with those of the single-channel
+approach. The novel P_{qa} splitting functions show resummation effects delayed
+down to x=0.0001, while both P_{ga} entries show a shallow dip around x=0.001,
+similarly to the gluon-gluon single-channel results. We remark that the matrix
+formulation poses further constraints on the consistency of a BFKL framework
+with the MSbar scheme, which are satisfied at NLO, but marginally violated by
+small n_f/N_c^2-suppressed terms at NNLO.

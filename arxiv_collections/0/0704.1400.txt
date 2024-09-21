@@ -1,0 +1,17 @@
+To use galaxy clusters as a cosmological probe, it is important to account
+for their triaxiality. Assuming that the triaxial shapes of galaxy clusters are
+induced by the tidal interaction with the surrounding matter, Lee and Kang
+recently developed a reconstruction algorithm for the measurement of the axial
+ratio of a triaxial cluster. We examine the validity of this reconstruction
+algorithm by performing an observational test of it with the Virgo cluster as a
+target. We first modify the LK06 algorithm by incorporating the two dimensional
+projection effect. Then, we analyze the 1275 member galaxies from the Virgo
+Cluster Catalogue and find the projected direction of the Virgo cluster major
+axis by measuring the anisotropy in the spatial distribution of the member
+galaxies in the two dimensional projected plane. Applying the modified
+reconstruction algorithm to the analyzed data, we find that the axial ratio of
+the triaxial Virgo cluster is (1: 0.54 : 0.73). This result is consistent with
+the recent observational report from the Virgo Cluster Survey, proving the
+robustness of the reconstruction algorithm. It is also found that at the inner
+radii the shape tends to be more like prolate. We discuss the possible effect
+of the Virgo cluster triaxiality on the mass estimation.

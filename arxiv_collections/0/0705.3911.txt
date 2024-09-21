@@ -1,0 +1,11 @@
+While the tangent space to an equisingular family of curves can be discribed
+by the sections of a twisted ideal sheaf, this is no longer true if we only
+prescribe the multiplicity which a singular point should have. However, it is
+still possible to compute the dimension of the tangent space with the aid of
+the equimulitplicity ideal. In this note we consider families L_m={(C,p) |
+mult_p(C)=m} with C in some linear system |L| on a smooth projective surface S
+and for a fixed positive integer m, and we compute the dimension of the tangent
+space to L_m at a point (C,p) depending on whether p is a unitangential
+singular point of C or not. We deduce that the expected dimension of L_m at
+(C,p) in any case is just dim|L|+2-m*(m+1)/2. The result is used in the study
+of triple-point defective surfaces in some joint papers with Luca Chiantini.

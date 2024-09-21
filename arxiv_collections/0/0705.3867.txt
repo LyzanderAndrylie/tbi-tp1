@@ -1,0 +1,14 @@
+Thermal response functions of strongly correlated electron systems are of
+appreciable interest to the larger scientific community both theoretically and
+technologically. Here we focus on the infinitely correlated t-J model on a
+geometrically frustrated two-dimensional triangular lattice.
+  Using exact diagonalization on a finite sized system we calculate the
+dynamical thermal response functions in order to determine the thermopower,
+Lorenz number, and dimensionless figure of merit. The dynamical thermal
+response functions is compared to the infinite frequency limit and shown to be
+very weak functions of frequency, hence, establishing the validity of the high
+frequency formalism recently proposed by Shastry for the thermopower, Lorenz
+number, and the dimensionless figure of merit. Further, the thermopower is
+demonstrated to have a low to mid temperature enhancement when the sign of the
+hopping parameter $t$ is switched from positive to negative for the
+geometrically frustrated lattice considered.

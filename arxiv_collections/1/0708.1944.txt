@@ -1,0 +1,14 @@
+We study the rolling and sliding motion of droplets on a corrugated substrate
+by Molecular Dynamics simulations. Droplets are driven by an external body
+force (gravity) and we investigate the velocity profile and dissipation
+mechanisms in the steady state. The cylindrical geometry allows us to consider
+a large range of droplet sizes. The velocity of small droplets with a large
+contact angle is dominated by the friction at the substrate and the velocity of
+the center of mass scales like the square root of the droplet size. For large
+droplets or small contact angles, however, viscous dissipation of the flow
+inside the volume of the droplet dictates the center of mass velocity that
+scales linearly with the size. We derive a simple analytical description
+predicting the dependence of the center of mass velocity on droplet size and
+the slip length at the substrate. In the limit of vanishing droplet velocity we
+quantitatively compare our simulation results to the predictions and good
+agreement without adjustable parameters is found.

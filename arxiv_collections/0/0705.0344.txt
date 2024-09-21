@@ -1,0 +1,8 @@
+We develop a framework for derived deformation theory, valid in all
+characteristics. This gives a model category reconciling local and global
+approaches to derived moduli theory. In characteristic 0, we use this to show
+that the homotopy categories of DGLAs and SHLAs (L infinity algebras)
+considered by Kontsevich, Hinich and Manetti are equivalent, and are compatible
+with the derived stacks of Toen--Vezzosi and Lurie. Another application is that
+the cohomology groups associated to any classical deformation problem (in any
+characteristic) admit the same operations as Andre--Quillen cohomology.

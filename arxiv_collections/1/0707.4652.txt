@@ -1,0 +1,12 @@
+We describe a controllable and precise laser tweezers for Bose-Einstein
+condensates of ultracold atomic gases. In our configuration, a laser beam is
+used to locally modify the sign of the scattering length in the vicinity of a
+trapped BEC. The induced attractive interactions between atoms allow to extract
+and transport a controllable number of atoms. We analyze, through numerical
+simulations, the number of emitted atoms as a function of the width and
+intensity of the outcoupling beam. We also study different configurations of
+our system, as the use of moving beams. The main advantage of using the control
+laser beam to modify the nonlinear interactions in comparison to the usual way
+of inducing optical forces, i.e. through linear trapping potentials, is to
+improve the controllability of the outcoupled solitary wave-packet, which opens
+new possibilities for engineering macroscopic quantum states.

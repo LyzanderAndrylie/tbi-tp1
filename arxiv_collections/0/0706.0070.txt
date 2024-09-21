@@ -1,0 +1,15 @@
+AKARI currently in space carries onboard a cryogenically-cooled lightweight
+telescope with silicon carbide mirrors. The wavefront error of the AKARI
+telescope obtained in laboratory measurements at 9 K showed that expected
+in-orbit imaging performance was diffraction-limited at a wavelength of 6.2 um.
+The AKARI telescope has a function of focus adjustment by shifting the
+secondary mirror in parallel to the optical axis. On the 4th day after the
+jettison of the cryostat aperture lid in the orbit, we observed a star with the
+InfraRed Camera (IRC) onboard AKARI. Since the initial star images observed in
+the near-infrared (IR) bands were significantly blurred, we twice moved the
+secondary mirror for the focal adjustment based on the results of model
+analyses as well as data analyses of the near-IR images. In consequence, we
+have successfully adjusted the focus of the telescope. The in-orbit imaging
+performance thus obtained for the AKARI telescope is diffraction-limited at a
+wavelength of 7.3 um, slightly degraded from that expected from the laboratory
+measurement.

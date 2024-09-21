@@ -1,0 +1,7 @@
+We investigate the Friedel oscillations in a nanowire coupled to two
+macroscopic electrodes of different potentials. We show that the wave-length of
+the density oscillations monotonically increases with the bias voltage, whereas
+the amplitude and the spatial decay exponent of the oscillations remain intact.
+Using the nonequilibrium Keldysh Green functions, we derive an explicit formula
+that describes voltage dependence of the wave-length of the Friedel
+oscillations.

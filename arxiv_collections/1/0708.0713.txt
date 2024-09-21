@@ -1,0 +1,5 @@
+Automated theorem provers are used in extended static checking, where they
+are the performance bottleneck. Extended static checkers are run typically
+after incremental changes to the code. We propose to exploit this usage pattern
+to improve performance. We present two approaches of how to do so and a full
+solution.

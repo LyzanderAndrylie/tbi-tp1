@@ -1,0 +1,10 @@
+We study the computation of the static quark potential under decimations in
+the Monte Carlo Renormalization Group (MCRG). Employing a multi-representation
+plaquette action, we find that fine-tuning the decimation prescription so that
+the MCRG equilibrium self-consistency condition is satisfied produces dramatic
+improvement at large distances. In particular, lattice coarsening (change of
+effective lattice spacing on action-generated lattices after decimation) is
+nearly eliminated. Failure to correctly tune the decimation, on the other hand,
+produces large coarsening effects, of order 50% or more, consistent with those
+seen in previous studies. We also study rotational invariance restoration at
+short distances, where no particular improvement is seen for this action.

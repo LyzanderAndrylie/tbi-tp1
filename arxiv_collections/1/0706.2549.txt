@@ -1,0 +1,17 @@
+The important task of determining the connectivity of gene networks, and at a
+more detailed level even the kind of interaction existing between genes, can
+nowadays be tackled by microarraylike technologies. Yet, there is still a large
+amount of unknowns with respect to the amount of data provided by a single
+microarray experiment, and therefore reliable gene network retrieval procedures
+must integrate all of the available biological knowledge, even if coming from
+different sources and of different nature. In this paper we present a reverse
+engineering algorithm able to reveal the underlying gene network by using
+time-series dataset on gene expressions considering the system response to
+different perturbations. The approach is able to determine the sparsity of the
+gene network, and to take into account possible {\it a priori} biological
+knowledge on it. The validity of the reverse engineering approach is
+highlighted through the deduction of the topology of several {\it simulated}
+gene networks, where we also discuss how the performance of the algorithm
+improves enlarging the amount of data or if any a priori knowledge is
+considered. We also apply the algorithm to experimental data on a nine gene
+network in {\it Escherichia coli

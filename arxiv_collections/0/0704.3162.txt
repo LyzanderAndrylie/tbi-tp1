@@ -1,0 +1,7 @@
+We consider stability of differentially rotating non-magnetic proto-neutron
+stars. When neutrino transport is efficient, the star can be subject to a
+diffusive instability that can occur even in the convectively stable region.
+The instability arises on the time-scale comparable to the time-scale of
+thermal diffusion. Hydrodynamic motions driven by the instability can lead to
+anisotropy in the neutrino flux since the instability is suppressed near the
+equator and rotation axis.

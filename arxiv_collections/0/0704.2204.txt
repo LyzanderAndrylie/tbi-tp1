@@ -1,0 +1,24 @@
+We first reported evidence for differential rotation of Kappa1 Ceti in Paper
+I. In this paper we demonstrate that the differential rotation pattern closely
+matches that for the Sun. This result is based on additional MOST
+(Microvariability & Oscillations of STars) observations in 2004 and 2005, to
+complement the 2003 observations discussed in Paper I. Using StarSpotz, a
+program developed specifically to analyze MOST photometry, we have solved for
+k, the differential rotation coefficient, and P_{EQ}, the equatorial rotation
+period using the light curves from all three years. The spots range in latitude
+from 10 to 75 degrees and k = 0.090^{+0.006}_{-0.005} -- less than the solar
+value but consistent with the younger age of the star. k is also well
+constrained by the independent spectroscopic estimate of vsini. We demonstrate
+independently that the pattern of differential rotation with latitude in fact
+conforms to solar.
+  Details are given of the parallel tempering formalism used in finding the
+most robust solution which gives P_{EQ} = 8.77^{+0.03}_{-0.04} days -- smaller
+than that usually adopted, implying an age < 750 My. Our values of P_{EQ} and k
+can explain the range of rotation periods determined by others by spots or
+activity at a variety of latitudes. Historically, Ca II activity seems to occur
+consistently between latitudes 50 and 60 degrees which might indicate a
+permanent magnetic feature. Knowledge of k and P_{EQ} are key to understanding
+the dynamo mechanism and rotation structure in the convective zone as well
+assessing age for solar-type stars. We recently published values of k and
+P_{EQ} for epsilon Eri based on MOST photometry and expect to analyze MOST
+light curves for several more spotted, solar-type stars.

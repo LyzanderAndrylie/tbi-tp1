@@ -1,0 +1,6 @@
+Using a one-parameter case as an example, we demonstrate that multicanonical
+simulations allow for accurate estimates of the residual combinatorial entropy
+of partially ordered ice. For the considered case corrections to an
+(approximate) analytical formula are found to be small, never exceeding 0.5%.
+The method allows one as well to calculate combinatorial entropies for many
+other systems.

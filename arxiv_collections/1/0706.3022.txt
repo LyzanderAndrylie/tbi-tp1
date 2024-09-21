@@ -1,0 +1,7 @@
+We investigate macroscopic dynamical quantum tunneling (MDQT) in the driven
+Duffing oscillator, charateristic for Josephson junction physics and
+nanomechanics. Under resonant conditions between stable coexisting states of
+such systems we calculate the tunneling rate. In macroscopic systems coupled to
+a heat bath, MDQT can be masked by driving-induced activation. We compare both
+processes, identify conditions under which tunneling can be detected with
+present day experimental means and suggest a protocol for its observation.

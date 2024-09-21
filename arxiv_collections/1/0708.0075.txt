@@ -1,0 +1,13 @@
+We have developed a multi-objective optimization (MOO) procedure to construct
+modified-embedded-atom-method (MEAM) potentials with minimal manual fitting.
+This procedure has been applied successfully to develop a new MEAM potential
+for magnesium. The MOO procedure is designed to optimally reproduce multiple
+target values that consist of important materials properties obtained from
+experiments and first-principles calculations based on density-functional
+theory (DFT). The optimized target quantities include elastic constants,
+cohesive energies, surface energies, vacancy formation energies, and the forces
+on atoms in a variety of structures. The accuracy of the new potential is
+assessed by computing several material properties of Mg and comparing them with
+those obtained from other potentials previously published. We found that the
+present MEAM potential yields a significantly better overall agreement with DFT
+calculations and experiments.

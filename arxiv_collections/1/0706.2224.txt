@@ -1,0 +1,6 @@
+Using the methods of Kang et al. and recent results on the characters of
+Kirillov-Reshetikhin modules by Nakajima and Hernandez, the existence of
+Kirillov-Reshetikhin crystals B^{r,s} is established for all nonexceptional
+affine types. We also prove that the crystals B^{r,s} of type B_n^{(1)},
+D_n^{(1)}, and A_{2n-1}^{(2)} are isomorphic to recently constructed
+combinatorial crystals for r not a spin node.

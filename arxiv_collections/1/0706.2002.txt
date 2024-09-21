@@ -1,0 +1,13 @@
+We study the spin-parity distribution P(J$^{\pi}$,E) of $^{156}$Gd excited
+states above the neutron separation energy that are expected to be populated
+via the neutron pickup reaction $^{157}$Gd($^{3}$He,$^{4}$He)$^{156}$Gd. In
+general, modeling of the spin-parity distribution is important for the
+applicability of the surrogate reaction technique as a method of deducing
+reaction cross sections. We model excited states in $^{156}$Gd as rotational
+states built on intrinsic states consisting of a hole in the core where the
+hole represents neutron removal form a deformed single particle state. The
+reaction cross section to each excited state is calculated using standard
+reaction code that uses spherical reaction form-factor input. The spectroscopic
+factor associated with each form-factor is the expansion coefficient of the
+deformed neutron state in a spherical Sturmian basis consisting of the
+spherical reaction form-factors.

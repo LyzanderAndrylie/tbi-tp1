@@ -1,0 +1,10 @@
+We show that for a fixed curve $K$ and for a family of variables curves $L$,
+the number of $n$-Poncelet pairs is $\frac{e (n)}{2}$, where $e(n)$ is the
+number of natural numbers $m$ smaller than $n$ and which satisfies mcd $
+(m,n)=1$. The curvee $K$ do not have to be part of the family.
+  In order to show this result we consider an associated billiard
+transformation and a twist map which preserves area.
+  We use Aubry-Mather theory and the rotation number of invariant curves to
+obtain our main result.
+  In the last section we estimate the derivative of the rotation number of a
+general twist map using some properties of the continued fraction expansion .

@@ -1,0 +1,11 @@
+We develop a quantitatively predictive theory for impurity-band
+ferromagnetism in the low-doping regime of GaMnAs and compare with experimental
+measurements of a series of samples whose compositions span the transition from
+paramagnetic insulating to ferromagnetic conducting behavior. The theoretical
+Curie temperatures depend sensitively on the local fluctuations in the Mn-hole
+binding energy, which originates from disorder in the Mn distribution as well
+as the presence of As antisite defects. The experimentally-determined hopping
+energy at the Curie temperature is roughly constant over a series of samples
+whose conductivities vary more than 10^4 and whose hole concentrations vary
+more than 10^2. Thus in this regime the hopping energy is an excellent
+predictor of the Curie temperature for a sample, in agreement with the theory.

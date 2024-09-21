@@ -1,0 +1,5 @@
+We first introduce new algebras of generalized functions containing Gevrey
+ultradistributions and then develop a Gevrey microlocal analysis suitable for
+these algebras. Finally, we give an application through an extension of the
+well-known H\"{o}rmander's theorem on the wave front of the product of two
+distributions.

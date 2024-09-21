@@ -1,0 +1,16 @@
+The modeling of the early universe is done through the quantization of a
+Friedmann-Robertson-Walker model with positive curvature. The material content
+consists of two fluids: radiation and Chaplygin gas. The quantization of these
+models is made by following the Wheeler and DeWitt's prescriptions. Using the
+Schutz formalism, the time notion is recovered and the Wheeler-DeWitt equation
+transforms into a time dependent Schr\"{o}dinger equation, which rules the
+dynamics of the early universe, under the action of an effective potential
+$V_{ef}$. Using a finite differences method and the Crank-Nicholson scheme, in
+a code implemented in the program OCTAVE, we solve the corresponding time
+dependent Schr\"{o}dinger equation and obtain the time evolution of a initial
+wave packet. This wave packet satisfies appropriate boundary conditions. The
+calculation of the tunneling probabilities shows that the universe may emerge
+from the Planck era to an inflationary phase. It also shows that, the tunneling
+probability is a function of the mean energy of the initial wave packet and of
+two parameters related to the Chaplygin gas. We also show a comparison between
+these results and those obtained by the WKB approximation.

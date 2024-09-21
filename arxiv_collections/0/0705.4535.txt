@@ -1,0 +1,3 @@
+We prove formulas for the generating functions for M_2-rank differences for
+partitions without repeated odd parts. These formulas are in terms of modular
+forms and generalized Lambert series.

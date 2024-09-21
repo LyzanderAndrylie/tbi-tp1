@@ -1,0 +1,8 @@
+This work describes how to implement a non-local xor function for
+coherent-state qubit using only linear optics. The setup proposed does not use
+gates based on teleportation and it has probability of success equal to 0.5, in
+the lossless case, when the necessary entangled state is available. The key
+element that makes possible the realization of the non-local xor function is a
+tripartite GHZ-type entangled coherent state. Its generation is proposed
+firstly using an ideal lossless setup and secondly considering the decoherence
+caused by losses in the optical devices.

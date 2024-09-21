@@ -1,0 +1,8 @@
+Let a<b, \Omega=[a,b]^{\Z^d} and H be the (formal) Hamiltonian defined on
+\Omega by
+  H(\eta) = \frac12 \sum_{x,y\in\Z^d} J(x-y) (\eta(x)-\eta(y))^2 where
+J:\Z^d\to\R is any summable non-negative symmetric function (J(x)\ge 0 for all
+x\in\Z^d, \sum_x J(x)<\infty and J(x)=J(-x)). We prove that there is a unique
+Gibbs measure on \Omega associated to H. The result is a consequence of the
+fact that the corresponding Gibbs sampler is attractive and has a unique
+invariant measure.

@@ -1,0 +1,11 @@
+The insertion of a magnetic impurity in a superconductor induces a first
+order quantum phase transition as the coupling to the electronic spin density
+increases. As the transition is crossed, a discontinuity is exhibited by
+various quantities, like the total spin density, the total gap function and the
+gap function at the impurity location. The location of other quantum phase
+transitions have been detected by singularities in entanglement measures of the
+system. In this work we show that the single-site and two-site von Neumann
+entropies, the mutual information and the Meyer-Wallach measure show
+discontinuities at the quantum phase transition. The negativity is less
+sensitive to the transition. We study in detail these quantities as a function
+of spin coupling and distance from the impurity center.

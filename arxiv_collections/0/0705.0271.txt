@@ -1,0 +1,20 @@
+We propose a pairing-based method for cooling an atomic Fermi gas. A three
+component (labels 1, 2, 3) mixture of Fermions is considered where the
+components 1 and 2 interact and, for instance, form pairs whereas the component
+3 is in the normal state. For cooling, the components 2 and 3 are coupled by an
+electromagnetic field. Since the quasiparticle distributions in the paired and
+in the normal states are different, the coupling leads to cooling of the normal
+state even when initially $T_{paired}\geq T_{normal}$ (notation $T_S\geq T_N$).
+The cooling efficiency is given by the pairing energy and by the linewidth of
+the coupling field. No superfluidity is required: any type of pairing, or other
+phenomenon that produces a suitable spectral density, is sufficient. In
+principle, the paired state could be cooled as well but this requires
+$T_N<T_S$. The method has a conceptual analogy to cooling based on
+superconductor -- normal metal (SN) tunneling junctions. Main differences arise
+from the exact momentum conservation in the case of the field-matter coupling
+vs. non-conservation of momentum in the solid state tunneling process.
+Moreover, the role of processes that relax the energy conservation requirement
+in the tunneling, e.g. thermal fluctuations of an external reservoir, is now
+played by the linewidth of the field. The proposed method should be
+experimentally feasible due to its close connection to RF-spectroscopy of
+ultracold gases which is already in use.

@@ -1,0 +1,11 @@
+A computer-aided detection (CAD) system for the identification of pulmonary
+nodules in low-dose multi-detector helical Computed Tomography (CT) images was
+developed in the framework of the MAGIC-5 Italian project. One of the main
+goals of this project is to build a distributed database of lung CT scans in
+order to enable automated image analysis through a data and cpu GRID
+infrastructure. The basic modules of our lung-CAD system, a dot-enhancement
+filter for nodule candidate selection and a neural classifier for
+false-positive finding reduction, are described. The system was designed and
+tested for both internal and sub-pleural nodules. The results obtained on the
+collected database of low-dose thin-slice CT scans are shown in terms of free
+response receiver operating characteristic (FROC) curves and discussed.

@@ -1,0 +1,4 @@
+In this note we explain that homotopy coherent simplicial nerve has to used
+intead of the standard definition in the author's papers on formal deformation
+theory. A convenient version of the notion of fibered category is presented
+which is useful once one works with simplicial categories.

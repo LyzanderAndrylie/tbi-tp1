@@ -1,0 +1,7 @@
+An experiment is proposed, on the coherent quantum dynamics of a
+semiconductor microcavity containing quantum dots. Modeling the experiment
+using a generalized Dicke model, we show that a tailored excitation pulse can
+create an energy-dependent population of excitons, which subsequently evolves
+to a quantum condensate of excitons and photons. The population is created by a
+generalization of adiabatic rapid passage, and then condenses due to a
+dynamical analog of the BCS instability.

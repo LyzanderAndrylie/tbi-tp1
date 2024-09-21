@@ -1,0 +1,15 @@
+We consider the four-dimensional nonholonomic distribution defined by the
+4-potential of the electromagnetic field on the manifold. This distribution has
+a metric tensor with the Lorentzian signature $(+,-,-,-)$, therefore, the
+causal structure appears as in the general relativity theory. By means of the
+Pontryagin's maximum principle we proved that the equations of the horizontal
+geodesics for this distribution are the same as the equations of motion of a
+charged particle in the general relativity theory. This is a Kaluza -- Klein
+problem of classical and quantum physics solved by methods of sub-Lorentzian
+geometry. We study the geodesics sphere which appears in a constant magnetic
+field and its singular points. Sufficiently long geodesics are not optimal
+solutions of the variational problem and define the nonholonomic wavefront.
+This wavefront is limited by a convex elliptic cone. We also study variational
+principle approach to the problem. The Euler -- Lagrange equations are the same
+as those obtained by the Pontryagin's maximum principle if the restriction of
+the metric tensor on the distribution is the same.

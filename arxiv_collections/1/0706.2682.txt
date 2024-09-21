@@ -1,0 +1,9 @@
+We propose a new description of inclusive diffraction in deep inelastic
+scattering (DIS). The diffractive structure functions are expressed in the
+dipole picture and contain heavy-quark contributions. The dipole scattering
+amplitude, a saturation model fitted on inclusive DIS data, features a
+saturation scale Q_s(x) larger than 1 GeV for x=10^{-5}. The q\bar{q}g
+contribution to the diffractive final state is modeled in such a way that both
+the large-Q^2 and small-beta limits are implemented. In the regime xpom<0.01 in
+which saturation is expected to be relevant, we obtain a parameter-free
+description of the HERA data with chi^2/points=1.2.

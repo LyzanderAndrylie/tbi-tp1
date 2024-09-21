@@ -1,0 +1,7 @@
+In this paper we consider supercritical nonlinear Schr\"odinger equations in
+an analytic Riemannian manifold $(M^d,g)$, where the metric $g$ is analytic.
+Using an analytic WKB method, we are able to construct an Ansatz for the
+semiclassical equation for times independent of the small parameter. These
+approximate solutions will help to show two different types of instabilities.
+The first is in the energy space, and the second is an immediate loss of
+regularity in higher Sobolev norms.

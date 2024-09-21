@@ -1,0 +1,5 @@
+It's the key research topic of signal processing that recognizing genuine
+targets real time from the disturbed signal which has giant amount of data. A
+quantum algorithm for pattern recognition of classical signal which has time
+complexity O(sqrt(N)) is presented in this paper.
+  Key Words: Pattern recognition, Grover's algorithm, Rotation on subspace

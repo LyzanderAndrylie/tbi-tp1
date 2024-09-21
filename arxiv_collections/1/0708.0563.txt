@@ -1,0 +1,9 @@
+We prove the existence of stationary random fields with linear regressions
+for $q>1$ and thus close an open question posed by W. Bryc et al.. We prove
+this result by describing a discrete 1 dimensional conditional distribution and
+then checking Chapman-Kolmogorov equation. Support of this distribution consist
+of zeros of certain Al-Salam-Chihara polynomials. To find them we refer to and
+expose known result concerning addition of $q-$ exponential function. This
+leads to generalization of a well known formula $(x+y)^{n}%
+=\sum_{i=0}^{n}\binom{n}{k}i^{k}H_{n-k}(x) H_{k}(-iy) ,$ where $H_{k}(x) $
+denotes $k-$th Hermite polynomial.

@@ -1,0 +1,10 @@
+An eleven channel digital asynchronous transceiver (DAT) employing parallel
+optical link technology has been developed for trigger signal distribution
+across the Very Energetic Radiation Imaging Telescope Array System (VERITAS).
+Combinatorial logic functions are implemented in Xilinx Spartan 3 FPGAs,
+providing a versatile solution adaptable for use in future atmospheric Cerenkov
+detectors and other high-energy astroparticle experiments. The device is
+dead-time free and introduces a minimal skew of 1.6 ns between channels. The
+jitter on each DAT channel is less than 0.8 ns 95% of the time, allowing
+communication between telescopes and a central trigger system separated by
+hundreds of meters, without limiting array performance.

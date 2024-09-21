@@ -1,0 +1,8 @@
+The singular manifold method from the Painleve analysis can be used to
+investigate many important integrable properties for the nonlinear partial
+differential equations.In this paper, the two-singular-manifold method is
+applied to the (2+1)-dimensional Gardner equation with two Painleve expansion
+branches to determine the Hirota bilinear form, Backlund transformation, Lax
+pairs and Darboux transformation. Based on the obtained Lax pairs, the binary
+Darboux transformation is constructed and the N N Grammian solution is also
+derived by performing the iterative algorithm Ntimes with symbolic computation.

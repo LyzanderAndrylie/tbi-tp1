@@ -1,0 +1,18 @@
+Many systems of different nature exhibit scale free behaviors. Economic
+systems with power law distribution in the wealth is one of the examples. To
+better understand the working behind the complexity, we undertook an empirical
+study measuring the interactions between market participants. A Web server was
+setup to administer the exchange of futures contracts whose liquidation prices
+were coupled to event outcomes. After free registration, participants started
+trading to compete for the money prizes upon maturity of the futures contracts
+at the end of the experiment. The evolving `cash' flow network was
+reconstructed from the transactions between players. We show that the network
+topology is hierarchical, disassortative and scale-free with a power law
+exponent of 1.02+-0.09 in the degree distribution. The small-world property
+emerged early in the experiment while the number of participants was still
+small. We also show power law distributions of the net incomes and
+inter-transaction time intervals. Big winners and losers are associated with
+high degree, high betweenness centrality, low clustering coefficient and low
+degree-correlation. We identify communities in the network as groups of the
+like-minded. The distribution of the community sizes is shown to be power-law
+distributed with an exponent of 1.19+-0.16.

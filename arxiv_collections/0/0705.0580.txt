@@ -1,0 +1,12 @@
+We consider a one dimensional Euclidean network which is grown using a
+preferential attachment. Here the $j$th incoming node gets attached to the
+$i$th existing node with the probability $\Pi_i \propto k_i {{l}}_{ij}^\alpha$,
+where ${l}_{ij}$ is the Euclidean distance between them and $k_i$ the degree of
+the $i$th node. This network is known to have a static phase transition point
+at $\alpha_c \simeq 0.5$. On this network, we employ three different searching
+strategies based on degrees or distances or both, where the possibility of
+termination of search chains is allowed. A detailed analysis shows that these
+strategies are significantly affected by the presence of the static critical
+point. The distributions of the search path lengths and the success rates are
+also estimated and compared for the different strategies. These distributions
+appear to be marginally affected by the static phase transition.

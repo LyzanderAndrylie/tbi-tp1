@@ -1,0 +1,17 @@
+Compton scattering of X-rays in the bulk flow of the accretion column in
+magnetic cataclysmic variables (mCVs) can significantly shift photon energies.
+We present Monte Carlo simulations based on a nonlinear algorithm demonstrating
+the effects of Compton scattering on the H-like, He-like and neutral Fe K alpha
+lines produced in the post-shock region of the accretion column. The peak line
+emissivities of the photons in the post-shock flow are taken into consideration
+and frequency shifts due to Doppler effects are also included. We find that
+line profiles are most distorted by Compton scattering effects in strongly
+magnetized mCVs with a low white dwarf mass and high mass accretion rate and
+which are viewed at an oblique angle with respect to the accretion column. The
+resulting line profiles are most sensitive to the inclination angle. We have
+also explored the effects of modifying the accretion column width and using a
+realistic emissivity profile. We find that these do not have a significant
+overall effect on the resulting line profiles. A comparison of our simulated
+line spectra with high resolution Chandra/HETGS observations of the mCV GK Per
+indicates that a wing feature redward of the 6.4 keV line may result from
+Compton recoil near the base of the accretion column.

@@ -1,0 +1,17 @@
+The Infrared Camera (IRC) is one of two focal-plane instruments on the AKARI
+satellite. It is designed for wide-field deep imaging and low-resolution
+spectroscopy in the near- to mid-infrared (1.8--26.5um) in the pointed
+observation mode of AKARI. IRC is also operated in the survey mode to make an
+all-sky survey at 9 and 18um. It comprises three channels. The NIR channel
+(1.8--5.5um) employs a 512 x 412 InSb array, whereas both the MIR-S
+(4.6--13.4um) and MIR-L (12.6--26.5um) channels use 256 x 256 Si:As impurity
+band conduction arrays. Each of the three channels has a field-of-view of about
+10' x 10' and are operated simultaneously. The NIR and MIR-S share the same
+field-of-view by virtue of a beam splitter. The MIR-L observes the sky about
+$25' away from the NIR/MIR-S field-of-view. IRC gives us deep insights into the
+formation and evolution of galaxies, the evolution of planetary disks, the
+process of star-formation, the properties of interstellar matter under various
+physical conditions, and the nature and evolution of solar system objects. The
+in-flight performance of IRC has been confirmed to be in agreement with the
+pre-flight expectation. This paper summarizes the design and the in-flight
+operation and imaging performance of IRC.

@@ -1,0 +1,17 @@
+We apply a previously developed Gibbs sampling framework to the foreground
+corrected 3-yr WMAP polarization data and compute the power spectrum and
+residual foreground template amplitude posterior distributions. We first
+analyze the co-added Q- and V-band data, and compare our results to the
+likelihood code published by the WMAP team. We find good agreement, and thus
+verify the numerics and data processing steps of both approaches. However, we
+also analyze the Q- and V-bands separately, allowing for non-zero EB
+cross-correlations and including two individual foreground template amplitudes
+tracing synchrotron and dust emission. In these analyses, we find tentative
+evidence of systematics: The foreground tracers correlate with each of the Q-
+and V-band sky maps individually, although not with the co-added QV map; there
+is a noticeable negative EB cross-correlation at l <~ 16 in the V-band map; and
+finally, when relaxing the constraints on EB and BB, noticeable differences are
+observed between the marginalized band powers in the Q- and V-bands. Further
+studies of these features are imperative, given the importance of the low-l EE
+spectrum on the optical depth of reionization tau and the spectral index of
+scalar perturbations n_s.

@@ -1,0 +1,12 @@
+The orthopositronium decay to three photons is studied in the phase-space
+region where one of the photons has an energy comparable to the relative
+three-momentum of the e+e- system (w ~ m alpha). The NRQED computation in this
+regime shows that the dominant contribution arises from distances ~
+1/(mw)^(1/2), which allows to treat the Coulomb interaction perturbatively. The
+small-photon energy expansion of the 1-loop decay spectrum from full QED yields
+the same result as the effective theory. By doing the threshold expansion of
+the 1-loop QED amplitude we confirm that the leading term arises from a
+loop-momentum region where q^0 ~ q^2/m ~ w. This corresponds to a new
+non-relativistic loop-momentum region, which has to be taken into account for
+the description of a non-relativistic particle-antiparticle system that decays
+through soft photon emission.

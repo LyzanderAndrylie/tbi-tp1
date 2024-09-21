@@ -1,0 +1,15 @@
+Optical microresonators have recently attracted a growing attention in the
+photonics community. Their applications range from quantum electro-dynamics to
+sensors and filtering devices for optical telecommunication systems, where they
+are likely to become an essential building block. The integration of nonlinear
+and electro-optical properties in the resonators represents a very stimulating
+challenge, as it would incorporate new and more advanced functionality. Lithium
+niobate is an excellent candidate material, being an established choice for
+electro-optic and nonlinear optical applications. Here we report on the first
+realization of optical microring resonators in submicrometric thin films of
+lithium niobate. The high index contrast films are produced by an improved
+crystal ion slicing and bonding technique using benzocyclobutene. The rings
+have radius R=100 um and their transmission spectrum has been tuned using the
+electro-optic effect. These results open new perspectives for the use of
+lithium niobate in chip-scale integrated optical devices and nonlinear optical
+microcavities.

@@ -1,0 +1,6 @@
+The article consist of two main parts: an analog of the Leray Theory for
+Singular Varieties and its application to the Theory of Parshin's Residues. The
+first part is independent from the second. It uses the theory of Whitney
+stratifications. The second part is an application of the first. In particular,
+a geometric and very transparent proof of the Parshin's Reciprocity Law for
+residues is given.

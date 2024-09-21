@@ -1,0 +1,21 @@
+Context: The transient hard X-ray source IGR J11321-5311 was discovered by
+INTEGRAL on June 2005, during observations of the Crux spiral arm. To date,
+this is the only detection of the source to be reported by any X/gamma-ray
+mission. Aims: To characterize the behaviour and hence the nature of the source
+through temporal and spectral IBIS analysis. Methods: Detailed spectral and
+temporal analysis has been performed using standard INTEGRAL software OSA
+v.5.1. Results: To date, IGR J11321-5311 has been detected only once. It was
+active for about 3.5 hours, a short and bright flare lasting about 1.5 hours is
+evident in the IBIS light curve. It reached a peak flux of about 80 mCrab or
+2.2x10E-9 erg cmE-2 sE-1 (20--300 keV),corresponding to a peak luminosity of
+1.1x10E37 erg sE-1 (assuming a distance of 6.5 kpc). During the outburst, the
+source was detected with a significance of 18 sigma (20--300 keV) and 8 sigma
+(100--300 keV). The spectrum of the total outburst activity (17--300 keV) is
+best fitted by the sum of a power law (Gamma=0.55+/-0.18) plus a black body
+(kT=1.0{+0.2}_{-0.3} keV), with no evidence for a break up to 300 keV. A
+spectral analysis at Science Window level revealed an evident hardening of the
+spectrum through the outburst. The IBIS data were searched for pulsations with
+no positive result. Conclusions: The X-ray spectral shape and the flaring
+behaviour favour the hypothesis that IGR J11321-5311 is an Anomalous X-ray
+Pulsar, though a different nature can not be firmly rejected at the present
+stage.

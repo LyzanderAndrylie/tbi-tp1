@@ -1,0 +1,12 @@
+We investigate the physical interpretation of the Riemann zeta function as a
+FZZT brane partition function associated with a matrix/gravity correspondence.
+The Hilbert-Polya operator in this interpretation is the master matrix of the
+large N matrix model. Using a related function $\Xi(z)$ we develop an analogy
+between this function and the Airy function Ai(z) of the Gaussian matrix model.
+The analogy gives an intuitive physical reason why the zeros lie on a critical
+line. Using a Fourier transform of the $\Xi(z)$ function we identify a
+Kontsevich integrand. Generalizing this integrand to $n \times n$ matrices we
+develop a Kontsevich matrix model which describes n FZZT branes. The Kontsevich
+model associated with the $\Xi(z)$ function is given by a superposition of
+Liouville type matrix models that have been used to describe matrix model
+instantons.

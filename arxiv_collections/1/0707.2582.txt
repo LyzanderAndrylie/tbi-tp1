@@ -1,0 +1,15 @@
+We present a numerical method for the Monte Carlo simulation of uncoupled
+continuous-time random walks with a Levy alpha-stable distribution of jumps in
+space and a Mittag-Leffler distribution of waiting times, and apply it to the
+stochastic solution of the Cauchy problem for a partial differential equation
+with fractional derivatives both in space and in time. The one-parameter
+Mittag-Leffler function is the natural survival probability leading to
+time-fractional diffusion equations. Transformation methods for Mittag-Leffler
+random variables were found later than the well-known transformation method by
+Chambers, Mallows, and Stuck for Levy alpha-stable random variables and so far
+have not received as much attention; nor have they been used together with the
+latter in spite of their mathematical relationship due to the geometric
+stability of the Mittag-Leffler distribution. Combining the two methods, we
+obtain an accurate approximation of space- and time-fractional diffusion
+processes almost as easy and fast to compute as for standard diffusion
+processes.

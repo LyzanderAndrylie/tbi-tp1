@@ -1,0 +1,19 @@
+There has been much recent research into polarizing an antiproton beam,
+instigated by the recent proposal from the PAX (Polarized Antiproton
+eXperiment) project at GSI Darmstadt. It plans to polarize an antiproton beam
+by repeated interaction with a polarized internal target in a storage ring. The
+method of polarization by spin filtering requires many of the beam particles to
+remain within the ring after scattering off the polarized internal target via
+electromagnetic and hadronic interactions. We present and solve sets of
+differential equations which describe the buildup of polarization by spin
+filtering in many different scenarios of interest to projects planning to
+produce high intensity polarized beams. These scenarios are: 1) spin filtering
+of a fully stored beam, 2) spin filtering while the beam is being accumulated,
+i.e. unpolarized particles are continuously being fed into the beam, 3) the
+particle input rate is equal to the rate at which particles are being lost due
+to scattering beyond ring acceptance angle, the beam intensity remaining
+constant, 4) increasing the initial polarization of a stored beam by spin
+filtering, 5) the input of particles into the beam is stopped after a certain
+amount of time, but spin filtering continues. The rate of depolarization of a
+stored polarized beam on passing through an electron cooler is also shown to be
+negligible.

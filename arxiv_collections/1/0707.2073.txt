@@ -1,0 +1,15 @@
+It is well known that conventional Field Effect Transistors (FET's) require a
+change in the channel potential of at least 60 mV at 300K to effect a change in
+the current by a factor of ten, and this minimum subthreshold slope S puts a
+lower limit of fundamental nature on the operating voltage and hence the power
+dissipation in standard FET based switches. Here we show that by replacing the
+standard insulator with a ferroelectric insulator of the right thickness it
+should be possible to implement a step-up voltage transformer that will amplify
+the gate voltage thus leading to values of S lower than 60 mV/decade and
+enabling low voltage/low power operation. The voltage transformer action can be
+understood intuitively as the result of an effective negative capacitance
+provided by the ferroelectric capacitor which arises from an internal positive
+feedback that in principle could be obtained from other microscopic mechanisms
+as well. Unlike other proposals to reduce S this involves no change in the
+basic physics of the FET and thus does not affect its current drive or impose
+other restrictions.

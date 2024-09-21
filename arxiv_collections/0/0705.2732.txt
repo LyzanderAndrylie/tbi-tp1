@@ -1,0 +1,7 @@
+We study the superfluid to Mott insulator transition of bosons in a
+two-legged ladder optical lattice, of a type accessible in current experiments
+on double-well optical lattices. The zero-temperature phase diagram is mapped
+out, with a focus on its dependence upon interchain hopping and the tilt
+between double wells. We find that the unit-filling Mott phase exhibits a
+non-monotonic behavior as a function of the tilt parameter, producing a
+reentrant phase transition between Mott insulator and superfluid phases.

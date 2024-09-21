@@ -1,0 +1,13 @@
+Distributional sources of matter on codimension-two and higher branes are
+only well-defined as regularized objects. Nevertheless, intuition from
+effective field theory suggests that the low-energy physics on such branes
+should be independent of any high-energy regularization scheme. In this paper,
+we address this issue in the context of a scalar field model where matter
+fields (the standard model) living on such a brane interact with bulk fields
+(gravity). The low-energy effective theory is shown to be consistent and
+independent of the regularization scheme, provided the brane couplings are
+renormalized appropriately at the classical level. We perform explicit
+computations of the classical renormalization group flows at tree and one-loop
+level, demonstrate that the theory is renormalizable against codimension-two
+divergences, and extend the analysis to several physical applications such as
+electrodynamics and brane localized kinetic terms.

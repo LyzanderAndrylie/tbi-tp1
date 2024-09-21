@@ -1,0 +1,8 @@
+Vertical shaking of a mixture of small and large beads can lead to
+segregation where the large beads either accumulate at the top of the sample,
+the so called Brazil Nut effect (BNE), or at the bottom, the Reverse Brazil Nut
+effect (RBNE). Here we demonstrate experimentally a sharp transition from the
+RBNE to the BNE when the particle coefficient of friction increases due to
+aging of the particles. This result can be explained by the two competing
+mechanisms of buoyancy and sidewall-driven convection, where the latter is
+assumed to grow in strength with increasing friction.

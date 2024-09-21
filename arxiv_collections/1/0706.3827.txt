@@ -1,0 +1,7 @@
+Based on criteria of mathematical simplicity and consistency with empirical
+market data, a model with volatility driven by fractional noise has been
+constructed which provides a fairly accurate mathematical parametrization of
+the data. Here, some features of the model are discussed and, using agent-based
+models, one tries to find which agent strategies and (or) properties of the
+financial institutions might be responsible for the features of the fractional
+volatility model.

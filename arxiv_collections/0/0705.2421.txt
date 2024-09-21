@@ -1,0 +1,4 @@
+We present here a systematic and unified treatment to connect the Schrodinger
+equation corresponding to generalized Morse and Poschl-Teller potentials. We
+then show that the wave functions and generalized potentials are linked through
+the Fourier and Hankel transforms, respectively.

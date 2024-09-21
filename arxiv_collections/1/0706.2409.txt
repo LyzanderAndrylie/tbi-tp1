@@ -1,0 +1,6 @@
+Let N(f) be a number of nodal domains of a random Gaussian spherical harmonic
+f of degree n. We prove that as n grows to infinity, the mean of N(f)/n^2 tends
+to a positive constant, and that N(f)/n^2 exponentially concentrates around
+that constant.
+  This result is consistent with predictions made by Bogomolny and Schmit using
+a percolation-like model for nodal domains of random Gaussian plane waves.

@@ -1,0 +1,5 @@
+We show that the monogamy of entanglement is a sufficient phenomenon in every
+physical theory, if the quantum key distribution is to be safe on the grounds
+of such theory. To do so we present the QKD protocol that is safe in any
+physical theory under the assumption of the monogamous entanglement only. The
+necessity of this condition is also discussed.

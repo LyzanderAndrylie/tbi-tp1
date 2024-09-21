@@ -1,0 +1,13 @@
+In recent years, advances in computational power and spatial data analysis
+(GIS, remote sensing, etc) have led to an increase in attempts to model the
+spread and behaviour of wildland fires across the landscape. This series of
+review papers endeavours to critically and comprehensively review all types of
+surface fire spread models developed since 1990. This paper reviews models of
+an empirical or quasi-empirical nature. These models are based solely on the
+statistical analysis of experimentally obtained data with or without some
+physical framework for the basis of the relations. Other papers in the series
+review models of a physical or quasi-physical nature, and mathematical
+analogues and simulation models. The main relations of empirical models are
+that of wind speed and fuel moisture content with rate of forward spread.
+Comparisons are made of the different functional relationships selected by
+various authors for these variables.

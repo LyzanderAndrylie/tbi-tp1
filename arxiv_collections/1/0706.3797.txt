@@ -1,0 +1,7 @@
+It is demonstrated that the standard-model Lagrangian with a Majorana mass
+term for the neutrino admits no non-trivial solution. Because the standard
+model is generally believed to describe the gauge interactions of neutrinos
+correctly, the Majorana mass term must vanish and thus cannot enable
+neutrino-less double beta decay. More generally, neutrinos with standard-model
+gauge interactions cannot be Majorana fields. Historical reasons why this
+conclusion has not been drawn earlier are analyzed.

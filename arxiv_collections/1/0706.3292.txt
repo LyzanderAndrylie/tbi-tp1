@@ -1,0 +1,4 @@
+In the present paper we construct and solve a differential model for the
+q-analog of the Plancherel growth process. The construction is based on a
+deformation of the Makrov-Krein correspondence between continual diagrams and
+probability distributions.

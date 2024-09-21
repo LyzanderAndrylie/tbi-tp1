@@ -1,0 +1,19 @@
+We present the latest developments of the MadGraph/MadEvent Monte Carlo event
+generator and several applications to hadron collider physics. In the current
+version events at the parton, hadron and detector level can be generated
+directly from a web interface, for arbitrary processes in the Standard Model
+and in several physics scenarios beyond it (HEFT, MSSM, 2HDM). The most
+important additions are: a new framework for implementing user-defined new
+physics models; a standalone running mode for creating and testing matrix
+elements; generation of events corresponding to different processes, such as
+signal(s) and backgrounds, in the same run; two platforms for data analysis,
+where events are accessible at the parton, hadron and detector level; and the
+generation of inclusive multi-jet samples by combining parton-level events with
+parton showers. To illustrate the new capabilities of the package some
+applications to hadron collider physics are presented:
+  1) Higgs search in pp \to H \to W^+W^-: signal and backgrounds.
+  2) Higgs CP properties: pp \to H jj$in the HEFT.
+  3) Spin of a new resonance from lepton angular distributions.
+  4) Single-top and Higgs associated production in a generic 2HDM.
+  5) Comparison of strong SUSY pair production at the SPS points.
+  6) Inclusive W+jets matched samples: comparison with the Tevatron data.

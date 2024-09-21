@@ -1,0 +1,11 @@
+Observations of stellar activity cycles provide an opportunity to study
+magnetic dynamos under many different physical conditions. Space-based
+asteroseismology missions will soon yield useful constraints on the interior
+conditions that nurture such magnetic cycles, and will be sensitive enough to
+detect shifts in the oscillation frequencies due to the magnetic variations. We
+derive a method for predicting these shifts from changes in the Mg II activity
+index by scaling from solar data. We demonstrate this technique on the
+solar-type subgiant beta Hyi, using archival International Ultraviolet Explorer
+spectra and two epochs of ground-based asteroseismic observations. We find
+qualitative evidence of the expected frequency shifts and predict the optimal
+timing for future asteroseismic observations of this star.

@@ -1,0 +1,7 @@
+We introduce an optimization algorithm for resource allocation in the LIPI
+Public Cluster to optimize its usage according to incoming requests from users.
+The tool is an extended and modified genetic algorithm developed to match
+specific natures of public cluster. We present a detail analysis of
+optimization, and compare the results with the exact calculation. We show that
+it would be very useful and could realize an automatic decision making system
+for public clusters.

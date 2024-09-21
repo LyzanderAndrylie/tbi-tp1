@@ -1,0 +1,19 @@
+We have proposed a method for the dynamic simulation of a collection of
+self-propelled particles in a viscous Newtonian fluid. We restrict attention to
+particles whose size and velocity are small enough that the fluid motion is in
+the creeping flow regime. We have proposed a simple model for a self-propelled
+particle, and extended the Stokesian Dynamics method to conduct dynamic
+simulations of a collection of such particles. In our description, each
+particle is treated as a sphere with an orientation vector $\te{p}$, whose
+locomotion is driven by the action of a force dipole at a point slightly
+displaced from its centre. In isolation, a self-propelled particle moves at a
+constant speed in the direction of $\te{p}$. When it coexists with many such
+particles, its hydrodynamic interaction with the other particles alters its
+velocity and, more importantly, its orientation. As a result, the motion of the
+particle is chaotic. Our simulations are not restricted to low particle
+concentration, as we implement the full hydrodynamic interactions between the
+particles, but we restrict the motion of particles to two dimensions to reduce
+computation. We report the statistical properties of a suspension of
+self-propelled particles, such as the distribution of particle velocity, the
+pair correlation function and the orientation correlation function, for a range
+of the particle concentration.

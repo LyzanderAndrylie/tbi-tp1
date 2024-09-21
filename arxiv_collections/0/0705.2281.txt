@@ -1,0 +1,8 @@
+A laser was designed and constructed with the goal of producing ultra-short
+pulses at a high repetition rate as needed for certain applications of
+multi-photon microscopy. With pure prism-based dispersion compensation
+repetition rates of up to 270MHz were achieved. The laser operates with hard-
+and soft-aperturing at the third (diverging output) and the first (parallel
+output) stability limits, respectively. At the third stability limit we found a
+pulse width of 27fs (FWHM) at 800nm central wavelength. At the first stability
+limit pulse widths of 23-40fs with tunability from 780nm to 920nm were reached.

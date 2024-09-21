@@ -1,0 +1,16 @@
+The speed of sound of a Bose-Einstein condensate in an optical lattice is
+studied both analytically and numerically in all three dimensions. Our
+investigation shows that the sound speed depends strongly on the strength of
+the lattice. In the one-dimensional case, the speed of sound falls
+monotonically with increasing lattice strength. The dependence on lattice
+strength becomes much richer in two and three dimensions. In the
+two-dimensional case, when the interaction is weak, the sound speed first
+increases then decreases as the lattice strength increases. For the three
+dimensional lattice, the sound speed can even oscillate with the lattice
+strength. These rich behaviors can be understood in terms of compressibility
+and effective mass. Our analytical results at the limit of weak lattices also
+offer an interesting perspective to the understanding: they show the lattice
+component perpendicular to the sound propagation increases the sound speed
+while the lattice components parallel to the propagation decreases the sound
+speed. The various dependence of the sound speed on the lattice strength is the
+result of this competition.

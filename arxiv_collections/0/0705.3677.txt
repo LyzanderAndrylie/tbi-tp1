@@ -1,0 +1,8 @@
+We analyze fading relay networks, where a single-antenna source-destination
+terminal pair communicates through a set of half-duplex single-antenna relays
+using a two-hop protocol with linear processing at the relay level. A family of
+relaying schemes is presented which achieves the entire optimal
+diversity-multiplexing (DM) tradeoff curve. As a byproduct of our analysis, it
+follows that delay diversity and phase-rolling at the relay level are optimal
+with respect to the entire DM-tradeoff curve, provided the delays and the
+modulation frequencies, respectively, are chosen appropriately.

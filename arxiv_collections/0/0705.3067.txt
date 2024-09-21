@@ -1,0 +1,12 @@
+We present the first high-dispersion spectroscopy of He I 10830 from the
+hotspots in the ring around SN1987A, obtained at Gemini South, spatially
+resolving the near and far sides of the ring. We compare these line profiles to
+similar echelle spectra of H$\alpha$ and [N II] 6583 obtained at the Magellan
+Observatory. We find that the He I profiles are much broader than H-alpha or [N
+II], but the He I profiles also have different shapes -- they have enhanced
+emission at high speeds, with extra blueshifted emission on the north side of
+the ring, and extra redshifted emission on the south side. To explain this, we
+invoke a simple geometric picture where the extra He I emission traces hotter
+gas from faster shocks that strike the apex of the hotspots directly, while the
+H-alpha preferentially traces cooler lower-ionization gas from slower
+transverse shocks that penetrate into the sides of the ring.

@@ -1,0 +1,16 @@
+Does the quantum state represent reality or our knowledge of reality? In
+making this distinction precise, we are led to a novel classification of hidden
+variable models of quantum theory. Indeed, representatives of each class can be
+found among existing constructions for two-dimensional Hilbert spaces. Our
+approach also provides a fruitful new perspective on arguments for the
+nonlocality and incompleteness of quantum theory. Specifically, we show that
+for models wherein the quantum state has the status of something real, the
+failure of locality can be established through an argument considerably more
+straightforward than Bell's theorem. The historical significance of this result
+becomes evident when one recognizes that the same reasoning is present in
+Einstein's preferred argument for incompleteness, which dates back to 1935.
+This fact suggests that Einstein was seeking not just any completion of quantum
+theory, but one wherein quantum states are solely representative of our
+knowledge. Our hypothesis is supported by an analysis of Einstein's attempts to
+clarify his views on quantum theory and the circumstance of his otherwise
+puzzling abandonment of an even simpler argument for incompleteness from 1927.

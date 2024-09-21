@@ -1,0 +1,7 @@
+As proposed by Leggett [4], the supersolidity of a crystal is characterized
+by the Non Classical Rotational Inertia (NCRI) property. Using a model of
+quantum crystal introduced by Josserand, Pomeau and Rica [5], we prove that
+NCRI occurs. This is done by analyzing the ground state of the aforementioned
+model, which is related to a sphere packing problem, and then deriving a
+theoretical formula for the inertia momentum. We infer a lower estimate for the
+NCRI fraction, which is a landmark of supersolidity.

@@ -1,0 +1,10 @@
+We explore the electronic properties of finite-length graphene nanoribbons as
+well as graphene nanodisks with various sizes and shapes in quest of metallic
+ones. For this purpose it is sufficient to search zero-energy states. We find
+that there exist no zero-energy states in finite-length zigzag nanoribbons
+though all infinite-length zigzag nanoribbons have zero-energy states. The
+occurrence of zero-energy states is surprisingly rare. Among typical nanodisks,
+only trigonal zigzag nanodisks have degenerate zero-energy states and show
+metallic ferromagnetism, where the degeneracy can be controlled arbitrarily by
+designing the size. A remarkable property is that the relaxation time is quite
+large in spite of its small size in trigonal zigzag nanodisks.

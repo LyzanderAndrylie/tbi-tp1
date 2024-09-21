@@ -1,0 +1,8 @@
+A transport model based on the mean free path approach to describe pp
+collisions is proposed. We assume that hadrons can be treated as bags of
+partons similarly to the MIT bag model. When the energy density in the
+collision is higher than a critical value, the bags break and partons are
+liberated. The partons expand and can make coalescence to form new hadrons. The
+results obtained compare very well with available data and some prediction for
+higher energies collisions are discussed. Based on the model we suggest that a
+QGP could already be formed in the pp collisions at high energies.

@@ -1,0 +1,9 @@
+It was recently noted that the dispersion relation for the magnons of planar
+N=4 SYM can be identified with the Casimir of a certain deformation of the
+Poincare algebra, in which the energy and momentum operators are supplemented
+by a boost generator J. By considering the relationship between J and su(2|2) x
+R^2, we derive a q-deformed super-Poincare symmetry algebra of the kinematics.
+Using this, we show that the dynamic magnon representations may be obtained by
+boosting from a fixed rest-frame representation. We comment on aspects of the
+coalgebra structure and some implications for the question of boost-covariance
+of the S-matrix.

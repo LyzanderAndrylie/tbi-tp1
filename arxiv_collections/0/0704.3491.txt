@@ -1,0 +1,22 @@
+We report the serendipitous findings of 13 faint meteors and 44 artificial
+space objects by Subaru SuprimeCam imaging observations during 11-16 August
+2004. The meteors, at about 100km altitude, and artificial satellites/debris in
+orbit, at 500km altitude or higher, were clearly discriminated by their
+apparent defocused image sizes. CCD photometry of the 13 meteors, including 1
+Perseid, 1 Aquarid, and 11 sporadic meteors, was performed. We defined a peak
+video-rate magnitude by comparing the integrated photon counts from the
+brightest portion of the track traversed within 33ms to those from a 0-mag star
+during the same time duration. This definition gives magnitudes in the range
+4.0< V_{vr} <6.4 and 4.1< I_{vr}<5.9 for these 13 meteors. The corresponding
+magnitude for virtual naked-eye observers could be somewhat fainter especially
+for the V-band observation, in which the [OI] 5577 line lasting about 1 sec as
+an afterglow could contribute to the integrated flux of the present 5-10 min
+CCD exposures. Although the spatial resolution is insufficient to resolve the
+source size of anything smaller than about 1 m, we developed a new estimate of
+the collisionally excited column diameter of these meteors. A diameter as small
+as a few mm was derived from their collisionally excited photon rates, meteor
+speed, and the volume density of the oxygen atoms at the 100km altitude. The
+actual column diameter of the radiating zone, however, could be as large as few
+100m because the excited atoms travel that distance before they emit forbidden
+lines in 0.7 sec of its average lifetime. Among the 44 artificial space
+objects, we confirmed that 17 were cataloged satellites/space debris.

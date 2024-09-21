@@ -1,0 +1,18 @@
+RX J1856.5-3754 is one of the brightest, nearby isolated neutron stars, and
+considerable observational resources have been devoted to its study. In
+previous work, we found that our latest models of a magnetic, hydrogen
+atmosphere matches well the entire spectrum, from X-rays to optical (with
+best-fitting neutron star radius R=14 km, gravitational redshift z_g~0.2, and
+magnetic field B~4x10^12 G). A remaining puzzle is the non-detection of
+rotational modulation of the X-ray emission, despite extensive searches. The
+situation changed recently with XMM-Newton observations that uncovered 7 s
+pulsations at the 1% level. By comparing the predictions of our model (which
+includes simple dipolar-like surface distributions of magnetic field and
+temperature) with the observed brightness variations, we are able to constrain
+the geometry of RX J1856.5-3754, with one angle < 6 deg and the other angle =
+20-45 deg, though the solutions are not definitive given the observational and
+model uncertainties. These angles indicate a close alignment between the
+rotation and magnetic axes or between the rotation axis and the observer. We
+discuss our results in the context of RX J1856.5-3754 being a normal radio
+pulsar and a candidate for observation by future X-ray polarization missions
+such as Constellation-X or XEUS.

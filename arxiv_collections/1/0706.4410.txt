@@ -1,0 +1,7 @@
+We propose a scheme for quantum state transfer(QST) between two qubits which
+is based on their individual interaction with a common boson environment. The
+corresponding single mode spin-boson Hamiltonian is solved by mapping it onto a
+wave propagation problem in a semi-infinite ladder and the fidelity is
+obtained. High fidelity occurs when the qubits are equally coupled to the boson
+while the fidelity becomes smaller for nonsymmetric couplings. The complete
+phase diagram for such an arbitrary QST mediated by bosons is discussed.

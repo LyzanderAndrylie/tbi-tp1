@@ -1,0 +1,9 @@
+The subject of this paper is a special class of parallel manipulators. First,
+we analyze a family of three-degree-of-freedom manipulators. Two Jacobian
+matrices appear in the kinematic relations between the joint-rate and the
+Cartesian-velocity vectors, which are called the "inverse kinematics" and the
+"direct kinematics" matrices. The singular configurations of these matrices are
+studied. The isotropic configurations are then studied based on the
+characteristic length of this manipulator. The isoconditioning loci of all
+Jacobian matrices are computed to define a global performance index to compare
+the different working modes.

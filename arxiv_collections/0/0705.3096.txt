@@ -1,0 +1,7 @@
+Non-positive, Markovian semigroups are sometimes used to describe the time
+evolution of subsystems immersed in an external environment. A widely adopted
+prescription to avoid the appearance of negative probabilities is to eliminate
+from the admissible initial conditions those density matrices that would not
+remain positive by the action of the semigroup dynamics. Using a continuous
+variable model, we show that this procedure leads to physical inconsistencies
+when two subsystems are considered and their initial state is entangled.

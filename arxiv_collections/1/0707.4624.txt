@@ -1,0 +1,14 @@
+A theoretical proposal for reducing an entire atomic clock to micron
+dimensions. A phosphorus or nitrogen atom is introduced into a fullerene cage.
+This endohedral fullerene is then coated with an insulating shell and a number
+of them are deposited as a thin layer on a silicon chip. Next to this layer a
+GMR sensor is fabricated which is close to the endohedral fullerenes. This GMR
+sensor measures oscillating magnetic fields on the order of micro-gauss from
+the nuclear spins varying at the frequency of the hyperfine transition (413 MHz
+frequency). Given the micron scale and simplicity of this system only a few
+transistors are needed to control the waveforms and to perform digital
+clocking. This new form of atomic clock exhibits extremely low power (nano
+watts), high vibration and shock resistance, stability on the order of 10^{-9},
+and is compatible with MEMS fabrication and chip integration. As GMR sensors
+continue to improve in sensitivity the stability of this form of atomic clock
+will increase proportionately.

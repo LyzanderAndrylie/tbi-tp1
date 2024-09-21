@@ -1,0 +1,15 @@
+As part of preparations for a southern sky search for faint Milky Way dwarf
+galaxy satellites, we report the discovery of a stellar overdensity in the
+Sloan Digital Sky Survey Data Release 5, lying at an angular distance of only
+1.5 degrees from the recently discovered Bo{\"o}tes dwarf. The overdensity was
+detected well above statistical noise by employing a sophisticated data mining
+algorithm and does not correspond to any catalogued object. Overlaid isochrones
+using stellar population synthesis models show that the color-magnitude diagram
+of that region has the signature of an old (12 Gyr), metal-poor (${\rm
+Fe/H}\approx-2.0$) stellar population at a tentative distance of 60 kpc,
+evidently the same heliocentric distance as the Bo\"otes dwarf. We estimate the
+new object to have a total magnitude of $M_{V}\sim-3.1\pm1.1$ mag and a
+half-light radius of $r_{h}=4'.1\pm1'.6$ ($72\pm28$ pc) placing it in an
+apparent $40<r_{h}<100$ pc void between globular clusters and dwarf galaxies,
+occupied only by another recently discovered Milky Way Satellite, Coma
+Berenices.

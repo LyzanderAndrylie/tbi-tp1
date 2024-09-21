@@ -1,0 +1,9 @@
+Simulations are used to examine the microscopic origins of strain hardening
+in polymer glasses. While traditional entropic network models can be fit to the
+total stress, their underlying assumptions are inconsistent with simulation
+results. There is a substantial energetic contribution to the stress that rises
+rapidly as segments between entanglements are pulled taut. The thermal
+component of stress is less sensitive to entanglements, mostly irreversible,
+and directly related to the rate of local plastic arrangements. Entangled and
+unentangled chains show the same strain hardening when plotted against the
+microscopic chain orientation rather than the macroscopic strain.

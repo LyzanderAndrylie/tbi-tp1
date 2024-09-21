@@ -1,0 +1,9 @@
+We study the problem of optimizing nonlinear objective functions over
+matroids presented by oracles or explicitly. Such functions can be interpreted
+as the balancing of multi-criteria optimization. We provide a combinatorial
+polynomial time algorithm for arbitrary oracle-presented matroids, that makes
+repeated use of matroid intersection, and an algebraic algorithm for vectorial
+matroids.
+  Our work is partly motivated by applications to minimum-aberration
+model-fitting in experimental design in statistics, which we discuss and
+demonstrate in detail.

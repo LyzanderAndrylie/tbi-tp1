@@ -1,0 +1,15 @@
+In this paper we consider stationary force-free magnetosphere of an aligned
+rotator when plasma in the open field line region rotates differentially due to
+presence of a zone with the accelerating electric field in the polar cap of
+pulsar. We study the impact of differential rotation on the current density
+distribution in the magnetosphere. Using split-monopole approximation we obtain
+analytical expressions for physical parameters of differentially rotating
+magnetosphere. We find the range of admitted current density distributions
+under the requirement that the potential drop in the polar cap is less than the
+vacuum potential drop. We show that the current density distribution could
+deviate significantly from the ``classical'' Michel distribution and could be
+made almost constant over the polar cap even when the potential drop in the
+accelerating zone is of the order of 10 per cents of the vacuum potential drop.
+We argue that differential rotation of the open magnetic field lines could play
+an important role in adjusting between the magnetosphere and the polar cap
+cascade zone and could affect the value of pulsar breaking index.

@@ -1,0 +1,21 @@
+We study a model of hard-core bosons on the kagome lattice with short-range
+hopping ($t$) and repulsive interactions ($V$). This model directly maps on to
+an easy-axis $S=1/2$ XXZ model on the kagome lattice and is also related, at
+large $V/t$, to a quantum dimer model on the triangular lattice. Using quantum
+Monte Carlo (QMC) numerics, we map out the phase diagram of this model at
+half-filling. At T=0, we show that this model exhibits a superfluid phase at
+small $V/t$ and an insulating phase at large $V/t$, separated by a continuous
+quantum phase transition at $V_c/t \approx 19.8$. The insulating phase at T=0
+appears to have no conventional broken symmetries, and is thus a uniform Mott
+insulator (a `spin liquid' in magnetic language). We characterize this
+insulating phase as a uniform $Z_2$ fractionalized insulator from the
+topological order in the ground state and estimate its vison gap. Consistent
+with this identification, there is no apparent thermal phase transition upon
+heating the insulator. The insulating phase instead smoothly crosses over into
+the high temperature paramagnet via an intermediate cooperative paramagnetic
+regime. We also study the superfluid-to-normal thermal transition for $V <
+V_c$. We find that this is a Kosterlitz-Thouless transition at small $V/t$ but
+changes to a first order transition for $V$ closer to $V_c$. We argue that this
+first order thermal transition is consistent with the presence of a nearby
+$Z_2$ insulating ground state obtained from the superfluid ground state by
+condensing double vortices.

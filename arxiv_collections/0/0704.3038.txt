@@ -1,0 +1,5 @@
+The Ge spectrometer of the RHESSI satellite is sensitive to Gamma Ray Bursts
+(GRBs) from about 40 keV up to 17 MeV, thus ideally complementing the Swift/BAT
+instrument whose sensitivity decreases above 150 keV. We present preliminary
+results of spectral fits of RHESSI GRB data. After describing our method, the
+RHESSI results are discussed and compared with Swift and Konus.

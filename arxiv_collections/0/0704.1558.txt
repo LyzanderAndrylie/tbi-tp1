@@ -1,0 +1,9 @@
+Spectral inversion techniques based on the cloud model are extremely useful
+for the study of properties and dynamics of various chromospheric cloud-like
+structures. Several inversion techniques are reviewed based on simple (constant
+source function) and more elaborated cloud models, as well as on grids of
+synthetic line profiles produced for a wide range of physical parameters by
+different NLTE codes. Several examples are shown of how such techniques can be
+used in different chromospheric lines, for the study of structures of the quiet
+chromosphere, such as mottles/spicules, as well as for active region structures
+such as fibrils, arch filament systems (AFS), filaments and flares.

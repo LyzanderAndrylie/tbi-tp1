@@ -1,0 +1,23 @@
+A complete model of helium-like line and continuum emission has been
+incorporated into the plasma simulation code Cloudy. All elements between He
+and Zn are treated, any number of levels can be considered, and radiative and
+collisional processes are included. This includes photoionization from all
+levels, line transfer including continuum pumping and destruction by background
+opacities, scattering, and collisional processes. The model is calculated
+self-consistently along with the ionization and thermal structure of the
+surrounding nebula. The result is a complete line and continuum spectrum of the
+plasma. Here we focus on the ions of the He I sequence and reconsider the
+standard helium-like X-ray diagnostics. We first consider semi-analytical
+predictions and compare these with previous work in the low-density,
+optically-thin limit. We then perform numerical calculations of helium-like
+X-ray emission (such as is observed in some regions of Seyferts) and predict
+line ratios as a function of ionizing flux, hydrogen density, and column
+density. In particular, we demonstrate that, in photoionized plasmas, the
+$R$-ratio, a density indicator in a collisional plasma, depends on the
+ionization fraction and is strongly affected by optical depth for large column
+densities. We also introduce the notion that the $R$-ratio is a measure of the
+incident continuum at UV wavelengths. The $G$-ratio, which is
+temperature-sensitive in a collisional plasma, is also discussed, and shown to
+be strongly affected by continuum pumping and optical depth as well. These
+distinguish a photoionized plasma from the more commonly studied collisional
+case.

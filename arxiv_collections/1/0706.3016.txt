@@ -1,0 +1,11 @@
+We consider the relationship between the tight-binding Hamiltonian of the
+two-dimensional honeycomb lattice of carbon atoms with nearest neighbor hopping
+only and the 2+1 dimensional Hamiltonian of quantum electrodynamics which
+follows in the continuum limit. We pay particular attention to the symmetries
+of the free Dirac fermions including spatial inversion, time reversal, charge
+conjugation and chirality. We illustrate the power of such a mapping by
+considering the effect of the possible symmetry breaking which corresponds to
+the creation of a finite Dirac mass, on various optical properties. In
+particular, we consider the diagonal AC conductivity with emphasis on how the
+finite Dirac mass might manifest itself in experiment. The optical sum rules
+for the diagonal and Hall conductivities are discussed.

@@ -1,0 +1,16 @@
+Recently, several powerful tools for the reconstruction of stochastic
+differential equations from measured data sets have been proposed [e.g. Siegert
+et al., Physics Letters A 243, 275 (1998); Hurn et al., Journal of Time Series
+Analysis 24, 45 (2003)]. Efficient application of the methods, however,
+generally requires Markov properties to be fulfilled. This constraint typically
+seems to be violated on small scales, which frequently is attributed to
+physical effects. On the other hand, measurement noise such as uncorrelated
+measurement and discretization errors has large impacts on the statistics of
+measurements on small scales. We demonstrate, that the presence of measurement
+noise, likewise, spoils Markov properties of an underlying Markov processes.
+This fact is promising for the further development of techniques for the
+reconstruction of stochastic processes from measured data, since limitations at
+small scales might stem from artificial noise sources rather than from
+intrinsic properties of the dynamics of the underlying process. Measurement
+noise, however, can be controlled much better than the intrinsic dynamics of
+the underlying process.

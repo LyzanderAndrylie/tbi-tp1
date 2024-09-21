@@ -1,0 +1,15 @@
+We present detailed results from performing general relativistic (GR)
+simulations of stellar core collapse to a proto-neutron star, using a
+microphysical equation of state (EoS) as well as an approximate description of
+deleptonization during the collapse phase. We show that for a wide variety of
+rotation rates and profiles the gravitational wave (GW) burst signals from the
+core bounce are of a generic type, already known as Type I in the literature.
+In addition, for most models the characteristic frequency of the GW burst
+signal lies in a narrow range around approximately 718 Hz. In our systematic
+study, using both GR and Newtonian gravity, we identify, individually quantify,
+and discuss in detail the micro- and macrophysical mechanisms leading to this
+result, i.e. the effects of rotation, the EoS, and deleptonization. We also
+discuss the detectability prospects of such GW burst signals by GW detectors,
+and infer that such a generic type of signal templates will likely facilitate a
+more efficient search in current and future detectors of both interferometric
+and resonant type.

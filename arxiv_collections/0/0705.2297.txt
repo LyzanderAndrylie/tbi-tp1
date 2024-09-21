@@ -1,0 +1,11 @@
+Performance of wave-energy devices of the oscillating water column (OWC) type
+is greatly enhanced when a resonant condition with the forcing waves is
+maintained. The natural frequency of such systems can in general be tuned to
+resonate with a given wave forcing frequency. In this paper we address the
+tuning of an OWC sea-water pump to polychromatic waves. We report results of
+wave tank experiments, which were conducted with a scale model of the pump.
+Also, a numerical solution for the pump equations, which were proven in
+previous work to successfully describe its behavior when driven by
+monochromatic waves, is tested with various polychromatic wave spectra. Results
+of the numerical model forced by the wave trains measured in the wave tank
+experiments are used to develop a tuning criterion for the sea-water pump.

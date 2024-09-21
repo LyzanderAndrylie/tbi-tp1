@@ -1,0 +1,8 @@
+Comment on paper by P.W. Anderson is presented. This Anderson's work is shown
+to contain a number of inaccurate and ungrounded statements. We point out, in
+particular, that the total static dielectric function not only can be negative,
+but inevitably has a minus sign in many stable systems. We also demonstrate
+that in many metals, the effective electron-phonon interaction is stronger than
+the direct Coulomb repulsion, without taking into account the ladder-sum
+renormalization or pseudization of the Coulomb repulsion. Other issues touched
+in Anderson's paper are also discussed.

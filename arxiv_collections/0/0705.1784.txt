@@ -1,0 +1,13 @@
+A self-contained approach to studying the unitary evolution of coupled qubits
+is introduced, capable of addressing a variety of physical systems described by
+exchange Hamiltonians containing Rabi terms. The method automatically
+determines both the Weyl chamber steering trajectory and the accompanying local
+rotations. Particular attention is paid to the case of anisotropic exchange
+with tracking controls, which is solved analytically. It is shown that, if
+computational subspace is well isolated, any exchange interaction can always
+generate high-fidelity, single-step controlled-NOT (CNOT) logic, provided that
+both qubits can be individually manipulated. The results are then applied to
+superconducting qubit architectures, for which several CNOT gate
+implementations are identified. The paper concludes with consideration of two
+CNOT gate designs having high efficiency and operating with no significant
+leakage to higher-lying non-computational states.

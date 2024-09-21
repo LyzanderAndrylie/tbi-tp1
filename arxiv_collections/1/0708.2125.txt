@@ -1,0 +1,7 @@
+We present a new method to measure 1/f noise in Josephson quantum bits
+(qubits) that yields low-frequency spectra below 1Hz. Comparison of noise taken
+at positive and negative bias of a phase qubit shows the dominant noise source
+to be flux noise and not junction critical-current noise, with a magnitude
+similar to that measured previously in other systems. Theoretical calculations
+show that the level of flux noise is not compatible with the standard model of
+noise from two-level state defects in the surface oxides of the films.

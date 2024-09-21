@@ -1,0 +1,6 @@
+We provide a framework to analyze the electroproduction process ep -> ep rho
+with a polarized target, writing the angular distribution of the rho decay
+products in terms of spin density matrix elements that parameterize the
+hadronic subprocess gamma* p -> rho p. Using the helicity basis for both photon
+and meson, we find a representation in which the expressions for a polarized
+and unpolarized target are related by simple substitution rules.

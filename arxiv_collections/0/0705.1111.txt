@@ -1,0 +1,19 @@
+We present a robust strategy to \emph{veto} certain classes of instrumental
+glitches that appear at the output of interferometric gravitational-wave (GW)
+detectors.This veto method is `physical' in the sense that, in order to veto a
+burst trigger, we make use of our knowledge of the coupling of different
+detector subsystems to the main detector output. The main idea behind this
+method is that the noise in an instrumental channel X can be \emph{transferred}
+to the detector output (channel H) using the \emph{transfer function} from X to
+H, provided the noise coupling is \emph{linear} and the transfer function is
+\emph{unique}. If a non-stationarity in channel H is causally related to one in
+channel X, the two have to be consistent with the transfer function. We
+formulate two methods for testing the consistency between the burst triggers in
+channel X and channel H. One method makes use of the \emph{null-stream}
+constructed from channel H and the \emph{transferred} channel X, and the second
+involves cross-correlating the two. We demonstrate the efficiency of the veto
+by `injecting' instrumental glitches in the hardware of the GEO 600 detector.
+The \emph{veto safety} is demonstrated by performing GW-like hardware
+injections. We also show an example application of this method using 5 days of
+data from the fifth science run of GEO 600. The method is found to have very
+high veto efficiency with a very low accidental veto rate.

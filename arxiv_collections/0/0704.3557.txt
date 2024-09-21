@@ -1,0 +1,14 @@
+In order to directly study the role of magnetic fields in the immediate
+vicinity of protostars, we use Very-Long-Baseline Interferometry (VLBI), aiming
+at the detection of non-thermal centimetric radio emission. This is technically
+the only possibility to study coronal emission at sub-AU resolution. We
+performed VLBI observations of the four nearby protostars HL Tau, LDN 1551
+IRS5, EC 95, and YLW 15 in order to look for compact non-thermal centimetric
+radio emission. For maximum sensitivity, we used the High Sensitivity Array
+(HSA) where possible, involving the Very Long Baseline Array (VLBA), the phased
+Very Large Array (VLA), as well as the Arecibo, Green Bank, and Effelsberg
+radio telescopes. While all four protostars were detected in VLA-only data,
+only one source (YLW 15 VLA 2) was detected in the VLBI data. The possibility
+of non-detections due to free-free absorption, possibly depending on source
+geometry, is considered. For YLW 15 VLA 2, the prospects for an accurate orbit
+determination appear to be good.

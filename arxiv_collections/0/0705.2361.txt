@@ -1,0 +1,3 @@
+We will show that if a dynamical system has enough constants of motion then a
+Moser-Weinstein type theorem can be applied for proving the existence of
+periodic orbits in the case when the linearized system is degenerate.

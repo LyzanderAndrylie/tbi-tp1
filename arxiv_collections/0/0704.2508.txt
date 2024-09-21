@@ -1,0 +1,4 @@
+Following the technique of M\"uller-zum-Hagen, refs [1,2], we show that
+strictly static and strictly stationary solutions of the Einstein-Maxwell
+equations are analytic in harmonic coordinates. This holds whether or not the
+Maxwell field inherits the symmetry.

@@ -1,0 +1,12 @@
+We calculate the thermal conductivity of electrons and muons kappa_{e-mu}
+produced owing to electromagnetic interactions of charged particles in neutron
+star cores and show that these interactions are dominated by the exchange of
+transverse plasmons (via the Landau damping of these plasmons in
+nonsuperconducting matter and via a specific plasma screening in the presence
+of proton superconductivity). For normal protons, the Landau damping strongly
+reduces kappa_{e-mu} and makes it temperature independent. Proton
+superconductivity suppresses the reduction and restores the Fermi-liquid
+behavior kappa_{e-mu} ~ 1/T. Comparing with the thermal conductivity of
+neutrons kappa_n, we obtain kappa_{e-mu}> kappa_n for T>2 GK in normal matter
+and for any T in superconducting matter with proton critical temperatures
+T_c>3e9 K. The results are described by simple analytic formulae.

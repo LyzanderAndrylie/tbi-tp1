@@ -1,0 +1,18 @@
+We present a search for the near infrared spectroscopic signature of the
+close orbiting extrasolar giant planet HD 75289b. We obtained ~230 spectra in
+the wavelength range 2.18 - 2.19 microns using the Phoenix spectrograph at
+Gemini South. By considering the direct spectrum, derived from irradiated model
+atmospheres, we search for the absorption profile signature present in the
+combined star and planet light. Since the planetary spectrum is separated from
+the stellar spectrum at most phases, we apply a phase dependent orbital model
+and tomographic techniques to search for absorption signatures.
+  Because the absorption signature lies buried in the noise of a single
+exposure we apply a multiline deconvolution to the spectral lines available in
+order to boost the effective S/N ratio of the data. The wavelength coverage of
+80 angstroms is expected to contain ~100 planetary lines, enabling a mean line
+with S/N ratio of ~800 to be achieved after deconvolution. We are nevertheless
+unable to detect the presence of the planet in the data and carry out further
+simulations to show that broader wavelength coverage should enable a planet
+like HD 75289b to be detected with 99.9 per cent (4 sigma) confidence. We
+investigate the sensitivity of our method and estimate detection tolerances for
+mismatches between observed and model planetary atmospheres.

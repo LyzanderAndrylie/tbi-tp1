@@ -1,0 +1,10 @@
+The possibility of an alternative way to formulate the Hawking radiation in a
+static Schwarzschild spacetime has been explored. To calculate the Hawking
+radiation, there can be two possible choices of the spacetime wedge pairs in
+the Krucal-Szekeres coordinates. One is the wedge pair consists of exterior
+spacetime of a black hole and the exterior spacetime of a white hole, and the
+other is that of exterior and interior spacetimes of one black hole. The
+radiation from the former is the Hawking's original one. Though the the latter
+has been often regarded as the same phenomena as the former, the result here
+suggests it is not; its radiation has a temperature twice as high as the
+Hawking temperature.

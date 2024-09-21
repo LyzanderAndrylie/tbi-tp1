@@ -1,0 +1,8 @@
+The specializations of the motivic elliptic polylog are called motivic
+Eisenstein classes. For applications to special values of L-Functions, it is
+important to compute the realizations of these classes. In this paper, we prove
+that the syntomic realization of the motivic Eisenstein classes, restricted to
+the ordinary locus of the modular curve, may be expressed using p-adic
+Eisenstein-Kronecker series. These p-adic modular forms are defined using the
+two-variable p-adic measure with values in p-adic modular forms constructed by
+Katz.

@@ -1,0 +1,12 @@
+The electronic structure of the quasi-lowdimensional vanadium sulfide \bavs3
+is investigated for the different phases above the magnetic ordering
+temperature. By means of density functional theory and its combination with
+dynamical-mean field theory, we follow the evolution of the relevant low-energy
+electronic states on cooling. Hence we go in the metallic regime from the room
+temperature hexagonal phase to the orthorhombic phase after the first
+structural transition, and close with the monoclinic insulating phase below the
+metal-insulator transition. Due to the low symmetry and expected intersite
+correlations, the latter phase is treated within cellular dynamical mean-field
+theory. It is generally discussed how the intriguing interplay between
+band-structure and strong-correlation effects leads to the stabilization of the
+various electronic phases with decreasing temperature.

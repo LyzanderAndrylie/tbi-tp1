@@ -1,0 +1,14 @@
+In this article we give an algorithm for the computation of the number of
+rational points on the Jacobian variety of a generic ordinary hyperelliptic
+curve defined over a finite field of cardinality $q$ with time complexity
+$O(n^{2+o(1)})$ and space complexity $O(n^2)$, where $n=\log(q)$. In the latter
+complexity estimate the genus and the characteristic are assumed as fixed. Our
+algorithm forms a generalization of both, the AGM algorithm of J.-F. Mestre and
+the canonical lifting method of T. Satoh. We canonically lift a certain
+arithmetic invariant of the Jacobian of the hyperelliptic curve in terms of
+theta constants. The theta null values are computed with respect to a
+semi-canonical theta structure of level $2^\nu p$ where $\nu >0$ is an integer
+and $p=\mathrm{char}(\F_q)>2$. The results of this paper suggest a global
+positive answer to the question whether there exists a quasi-quadratic time
+algorithm for the computation of the number of rational points on a generic
+ordinary abelian variety defined over a finite field.

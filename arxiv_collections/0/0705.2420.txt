@@ -1,0 +1,10 @@
+We explore the full counting statistics of single electron tunneling through
+a quantum dot using a quantum point contact as non-invasive high bandwidth
+charge detector. The distribution of counted tunneling events is measured as a
+function of gate and source-drain-voltage for several consecutive electron
+numbers on the quantum dot. For certain configurations we observe
+super-Poissonian statistics for bias voltages at which excited states become
+accessible. The associated counting distributions interestingly show a bimodal
+characteristic. Analyzing the time dependence of the number of electron counts
+we relate this to a slow switching between different electron configurations on
+the quantum dot.

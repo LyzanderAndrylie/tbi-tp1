@@ -1,0 +1,9 @@
+Noise, corruptions and variations in face images can seriously hurt the
+performance of face recognition systems. To make such systems robust,
+multiclass neuralnetwork classifiers capable of learning from noisy data have
+been suggested. However on large face data sets such systems cannot provide the
+robustness at a high level. In this paper we explore a pairwise neural-network
+system as an alternative approach to improving the robustness of face
+recognition. In our experiments this approach is shown to outperform the
+multiclass neural-network system in terms of the predictive accuracy on the
+face images corrupted by noise.

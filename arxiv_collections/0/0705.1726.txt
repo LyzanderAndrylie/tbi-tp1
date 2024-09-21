@@ -1,0 +1,24 @@
+We determine the contribution of stars in galaxies, intracluster stars, and
+the intracluster medium to the total baryon budget in nearby galaxy clusters
+and groups. We find that the baryon mass fraction (f_b) within r500 is constant
+for systems with M500 between 6e13 and 1e15 Msun. Although f_b is lower than
+the WMAP value, the shortfall is on the order of both the observational
+systematic uncertainties and the depletion of baryons within r500 that is
+predicted by simulations. The data therefore provide no compelling evidence for
+undetected baryonic components, particularly any that vary in importance with
+cluster mass. A unique feature of the current analysis is direct inclusion of
+the contribution of intracluster light (ICL) in the baryon budget. The increase
+in X-ray gas mass fraction with increasing total mass is entirely accounted for
+by a decrease in the total stellar mass fraction, supporting the argument that
+the behavior of both the stellar and X-ray gas components is dominated by a
+decrease in star formation efficiency in more massive environments. Within just
+the stellar component, the fraction of the total stellar luminosity in the BCG
+and ICL decreases as velocity dispersion increases, suggesting that the BCG+ICL
+component, and in particular the dominant ICL component, grows less efficiently
+in higher mass environments. The degree to which this behavior arises from our
+sample selection, which favored systems with central, giant elliptical
+galaxies, remains unclear. A more robust result is the identification of low
+mass groups with large BCG+ICL components, demonstrating that the creation of
+intracluster stars does not require a massive cluster environment. Within r500
+and r200, the BCG+ICL contributes on average 40% and 33% of the total stellar
+light, respectively.

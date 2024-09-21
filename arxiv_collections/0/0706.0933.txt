@@ -1,0 +1,13 @@
+$^{77}$Se-NMR spectrum and frequency shift measurements in the paramagnetic
+metal (PM) and antiferromagnetic insulating (AFI) phases are reported for a
+small single crystal of the organic conductor $\lambda-$(BETS)$_{2}$FeCl$_{4}$
+as a function of temperature ($T$) and field alignment for an applied magnetic
+field $B_{0}$ = 9 T. The results show that in the low $T$ limit, where the
+localized Fe$^{3+}$ spins ($S_{d}$ = 5/2) are almost fully polarized, the
+conduction electrons (Se $\pi$-electrons, spin $s_{\pi}$ = 1/2) in the BETS
+molecules experience an exchange field ($\bf{B}$$_{\pi d}$) from the Fe$^{3+}$
+spins with a value of $-$ 32.7 $\pm$ 1.5 T at 5 K and 9 T aligned opposite to
+$\bf{B}$$_{0}$. This large negative value of $\bf{B}$$_{\pi d}$ is consistent
+with that predicted by the resistivity measurements and supports the
+Jaccarino-Peter internal field-compensation mechanism being responsible for the
+origin of field-induced superconductivity.

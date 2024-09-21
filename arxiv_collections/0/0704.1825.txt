@@ -1,0 +1,23 @@
+Unbiased angular diameter measurements are required for accurate distances to
+Cepheids using the interferometric Baade Wesselink method (IBWM). The precision
+of this technique is currently limited by interferometric measurements at the
+1.5% level. At this level, the center-to-limb darkening (CLD) and the presence
+of circumstellar envelopes (CSE) seem to be the two main sources of bias. The
+observations we performed aim at improving our knowledge of the interferometric
+visibility profile of Cepheids. In particular, we assess the systematic
+presence of CSE around Cepheids in order determine accurate distances with the
+IBWM free from CSE biased angular diameters. We observed a Cepheid (Y Oph) for
+which the pulsation is well resolved and a non-pulsating yellow supergiant
+(alpha Per) using long-baseline near-infrared interferometry. We interpreted
+these data using a simple CSE model we previously developed. We found that our
+observations of alpha Per do not provide evidence for a CSE. The measured CLD
+is explained by an hydrostatic photospheric model. Our observations of Y Oph,
+when compared to smaller baseline measurements, suggest that it is surrounded
+by a CSE with similar characteristics to CSE found previously around other
+Cepheids. We have determined the distance to Y Oph to be d=491+/-18 pc.
+Additional evidence points toward the conclusion that most Cepheids are
+surrounded by faint CSE, detected by near infrared interferometry: after
+observing four Cepheids, all show evidence for a CSE. Our CSE non-detection
+around a non-pulsating supergiant in the instability strip, alpha Per, provides
+confidence in the detection technique and suggests a pulsation driven mass-loss
+mechanism for the Cepheids.

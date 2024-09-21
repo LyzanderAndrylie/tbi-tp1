@@ -1,0 +1,6 @@
+We present {\it symmetric Hamiltonians} for the degenerate Garnier systems in
+two variables. For these symmetric Hamiltonians, we make the symmetry and
+holomorphy conditions, and we also make a generalization of these systems
+involving symmetry and holomorphy conditions inductively. We also show the
+confluence process among each system by taking the coupling confluence process
+of the Painlev\'e systems.

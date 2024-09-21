@@ -1,0 +1,10 @@
+A comparative study between two distinct perturbative series expansions for
+the pair-creation contact process is presented. In contrast to the ordinary
+contact process, whose supercritical series expansions provide accurate
+estimates for its critical behavior, the supercritical approach does not work
+properly when applied to the pair-creation process. To circumvent this problem
+a procedure is introduced in which one-site creation is added to the
+pair-creation. An alternative method is the generation of subcritical series
+expansions which works even for the case of the pure pair-creation process.
+Differently from the supercritical case, the subcritical series yields
+estimates that are compatible with numerical simulations.

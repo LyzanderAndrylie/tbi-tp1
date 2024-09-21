@@ -1,0 +1,6 @@
+The security of quantum key distribution relies on the validity of quantum
+mechanics as a description of nature and on the non-existence of leaky degrees
+of freedom in the practical implementations. We experimentally demonstrate how,
+in some implementations, timing information revealed during public discussion
+between the communicating parties can be used by an eavesdropper to
+undetectably access a significant portion of the ``secret'' key.

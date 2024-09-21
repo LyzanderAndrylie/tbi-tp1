@@ -1,0 +1,9 @@
+Current techniques for generating a knowledge space, such as QUERY,
+guarantees that the resulting structure is closed under union, but not that it
+satisfies wellgradedness, which is one of the defining conditions for a
+learning space. We give necessary and sufficient conditions on the base of a
+union-closed set family that ensures that the family is well-graded. We
+consider two cases, depending on whether or not the family contains the empty
+set. We also provide algorithms for efficiently testing these conditions, and
+for augmenting a set family in a minimal way to one that satisfies these
+conditions.

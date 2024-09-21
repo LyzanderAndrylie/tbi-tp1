@@ -1,0 +1,11 @@
+For a given $\epsilon >0$, we show that there exist two finite index
+subgroups of $PSL_2(\mathbb{Z})$ which are $(1+\epsilon)$-quasisymmetrically
+conjugated and the conjugation homeomorphism is not conformal. This implies
+that for any $\epsilon>0$ there are two finite regular covers of the Modular
+once punctured torus $T_0$ (or just the Modular torus) and a
+$(1+\epsilon)$-quasiconformal between them that is not homotopic to a conformal
+map. As an application of the above results, we show that the orbit of the
+basepoint in the Teichm\"uller space $T(\S)$ of the punctured solenoid $\S$
+under the action of the corresponding Modular group (which is the mapping class
+group of $\S$ \cite{NS}, \cite{Odd}) has the closure in $T(\S)$ strictly larger
+than the orbit and that the closure is necessarily uncountable.

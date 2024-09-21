@@ -1,0 +1,20 @@
+The quantum amplitude for processes involving the formation and evaporation
+of black holes was previously calculated by means of a complex-time approach.
+In that treatment, we followed Feynman's $+i\epsilon$ approach in quantum field
+theory. The Lorentzian time interval $T$, measured at spatial infinity between
+a pair of asymptotically flat spacelike hypersurfaces $\Sigma_I$ and $\Sigma_F$
+carrying initial and final boundary data for the gravitational and other
+fields, is rotated: $T\to{\mid}T{\mid}\exp(-i\delta)$, where $0< \delta
+\leq{\pi}/2$. Classically and quantum mechanically, this procedure is expected
+to lead to a well-posed boundary-value problem. Thus, we have found quantum
+amplitudes (not just probability densities) relating to a pure state at late
+times following gravitational collapse of matter to a black hole. Such pure
+states, arising from gravitational collapse, admit a description in terms of
+coherent and squeezed states. Indeed, this description is not so different from
+that arising in a well-known context, namely, the highly-squeezed final state
+of the relic radiation background in inflationary cosmology. For definiteness,
+we study the simplest model of collapse, based on Einstein gravity with a
+massless scalar field. Following the complex rotation above, one finds that, in
+an adiabatic approximation, the resulting quantum amplitude may be expressed in
+terms of generalized coherent states of the harmonic oscillator. A physical
+interpretation is given; further, a squeezed-state representation follows.

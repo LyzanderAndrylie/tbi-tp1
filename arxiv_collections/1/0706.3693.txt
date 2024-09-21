@@ -1,0 +1,16 @@
+A distinguishing feature of a multicellular living system is that it operates
+at various scales, from the intracellular to organismal. Very little is known
+at present on how tissue level properties are related to cell and subcellular
+properties. Modern measurement techniques provide quantitative results at both
+the intracellular and tissue level, but not on the connection between these. In
+the present work we outline a framework to address this connection. We
+specifically concentrate on the morphogenetic process of tissue fusion, by
+following the coalescence of two contiguous multicellular aggregates. The time
+evolution of this process can accurately be described by the theory of viscous
+liquids. We also study fusion by Monte Carlo simulations and a novel Cellular
+Particle Dynamics (CPD) model, which is similar to the earlier introduced
+Subcellular Element Model (Newman, 2005). Using the combination of experiments,
+theory and modeling we are able to relate the measured tissue level biophysical
+quantities to subcellular parameters. Our approach has validity beyond the
+particular morphogenetic process considered here and provides a general way to
+relate biophysical properties across scales.

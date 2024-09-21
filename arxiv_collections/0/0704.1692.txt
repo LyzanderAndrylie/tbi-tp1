@@ -1,0 +1,11 @@
+Many real systems possess accelerating statistics where the total number of
+edges grows faster than the network size. In this paper, we propose a simple
+weighted network model with accelerating growth. We derive analytical
+expressions for the evolutions and distributions for strength, degree, and
+weight, which are relevant to accelerating growth. We also find that
+accelerating growth determines the clustering coefficient of the networks.
+Interestingly, the distributions for strength, degree, and weight display a
+transition from scale-free to exponential form when the parameter with respect
+to accelerating growth increases from a small to large value. All the
+theoretical predictions are successfully contrasted with extensive numerical
+simulations.

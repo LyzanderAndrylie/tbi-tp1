@@ -1,0 +1,18 @@
+We perform a series of two-dimensional magnetorotational core-collapse
+simulations of Pop III stars. Changing the initial distributions of rotation
+and magnetic fields prior to collapse in a parametric manner, we compute 19
+models. By so doing, we systematically investigate how rotation and magnetic
+fields affect the collapse dynamics and explore how the properties of the
+black-hole formations and neutrino emissions could be affected. As for the
+microphysics, we employ a realistic equation of state and approximate the
+neutrino transfer by a multiflavour leakage scheme. With these computations, we
+find that the jet-like explosions are obtained by the magnetodriven shock waves
+if the initial magnetic field is as large as $10^{12}$ G. We point out that the
+black-hole masses at the formation decrease with the initial field strength, on
+the other hand, increase with the initial rotation rates. As for the neutrino
+properties, we point out that the degree of the differential rotation plays an
+important role to determine which species of the neutrino luminosity is more
+dominant than the others. Furthermore, we find that the stronger magnetic
+fields make the peak neutrino luminosities smaller, because the magnetic
+pressure acts to halt the collapse in the central regions, leading to the
+suppression of the releasable gravitational binding energies.

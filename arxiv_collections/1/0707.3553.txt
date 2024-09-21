@@ -1,0 +1,8 @@
+This paper analyses the workspace of the three-revolute orthogonal
+manipulators that have at least one of their DH parameters equal to zero. These
+manipulators are classified into different groups with similar kinematic
+properties. The classification criteria are based on the topology of the
+workspace. Each group is evaluated according to interesting kinematic
+properties such as the size of the workspace subregion reachable with four
+inverse kinematic solutions, the existence and the size of voids, and the size
+of the regions of feasible paths in the workspace.

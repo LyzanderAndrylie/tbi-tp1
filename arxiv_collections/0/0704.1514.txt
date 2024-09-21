@@ -1,0 +1,9 @@
+The recursion relations of hierarchical models are studied and contrasted
+with functional renormalisation group equations in corresponding
+approximations. The formalisms are compared quantitatively for the Ising
+universality class, where the spectrum of universal eigenvalues at criticality
+is studied. A significant correlation amongst scaling exponents is pointed out
+and analysed in view of an underlying optimisation. Functional flows are
+provided which match with high accuracy all known scaling exponents from
+Dyson's hierarchical model for discrete block-spin transformations.
+Implications of the results are discussed.

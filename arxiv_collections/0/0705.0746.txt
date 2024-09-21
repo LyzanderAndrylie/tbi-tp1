@@ -1,0 +1,11 @@
+Results are presented for the leading two-loop contributions of O(alpha_t
+alpha_s) to the masses and mixing effects in the Higgs sector of the MSSM with
+complex parameters. They are obtained in the Feynman-diagrammatic approach
+using on-shell renormalization. The full dependence on all complex phases is
+taken into account. The renormalization of the appropriate contributions of the
+Higgs-boson sector and the scalar top and bottom sector is discussed. Our
+numerical analysis for the lightest MSSM Higgs-boson mass is based on the new
+two-loop corrections, supplemented by the full one-loop result. The corrections
+induced by the phase variation in the scalar top sector are enhanced by the
+two-loop contributions. We find that the corresponding shift in M_h1 can amount
+to 5 GeV.

@@ -1,0 +1,7 @@
+Frequency-domain nonlinear wave mixing processes may be described either
+using response functions whereby the signal is generated after all interactions
+with the incoming fields, or in terms of scattering amplitudes where all fields
+are treated symetrically with no specific time ordering. Closed Green's
+function expressions derived for the two types of signals have different
+analytical properties. The recent controversy regarding the sign of radiative
+damping in the linear (Kramers Heisenberg) formula is put in a broader context.

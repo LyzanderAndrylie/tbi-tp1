@@ -1,0 +1,15 @@
+Based on the NRQCD factorization formalism, we calculate the inclusive charm
+production rate in Upsilon(nS) decay at leading order in the strong coupling
+constant alpha_s and the relative velocity v of the b quark in the quarkonium
+rest frame. The branching fractions for Upsilon(nS) to charm for n=1, 2, and 3
+are all around 7-9%. About 60% of the branching fraction into charm is from
+annihilation of the color-singlet bb-bar pair into gamma^* -> cc-bar. Most of
+the remaining branching fraction is from annihilation of the color-singlet
+bb-bar pair decaying into cc-bar gg. We also compute the momentum distributions
+of the charm quark and charmed hadrons in the decays. The virtual-photon
+contribution to the charm quark momentum distribution is concentrated at the
+end point while the cc-bar gg contribution is broad. The momentum distributions
+for charmed hadrons are obtained by convolving the charm-quark momentum
+distribution with charm fragmentation functions. This makes the momentum
+distributions for charmed hadrons softer than that for the charm quark. This
+effect is particularly significant in the virtual-photon contribution.

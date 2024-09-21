@@ -1,0 +1,14 @@
+A DFT-based method is presented which allows the computation of all-electron
+NMR shifts of metallic compounds with periodic boundary conditions. NMR shifts
+in metals measure two competing physical phenomena. Electrons interact with the
+applied magnetic field (i) as magnetic dipoles (or spins), resulting in the
+Knight shift, (ii) as moving electric charges, resulting in the chemical (or
+orbital) shift. The latter is treated through an extension to metals of the
+Gauge Invariant Projector Augment Wave(GIPAW) developed for insulators. The
+former is modeled as the hyperfine interaction between the electronic spin
+polarization and the nuclear dipoles. NMR shifts are obtained with respect to
+the computed shieldings of reference compounds, yielding fully ab-initio
+quantities which are directly comparable to experiment. The method is validated
+by comparing the magnetic susceptibility of interacting and non-interacting
+homogeneous gas with known analytical results, and by comparing the computed
+NMR shifts of simple metals with experiment.

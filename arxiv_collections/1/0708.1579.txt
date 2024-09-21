@@ -1,0 +1,13 @@
+The many-to-many social communication activity on the popular technology-news
+website Slashdot has been studied. We have concentrated on the dynamics of
+message production without considering semantic relations and have found
+regular temporal patterns in the reaction time of the community to a news-post
+as well as in single user behavior. The statistics of these activities follow
+log-normal distributions. Daily and weekly oscillatory cycles, which cause
+slight variations of this simple behavior, are identified. A superposition of
+two log-normal distributions can account for these variations. The findings are
+remarkable since the distribution of the number of comments per users, which is
+also analyzed, indicates a great amount of heterogeneity in the community. The
+reader may find surprising that only a few parameters allow a detailed
+description, or even prediction, of social many-to-many information exchange in
+this kind of popular public spaces.

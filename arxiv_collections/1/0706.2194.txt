@@ -1,0 +1,12 @@
+To investigate the formation mechanism of energy spectra of internal waves in
+the oceans, direct numerical simulations are performed. The simulations are
+based on the reduced dynamical equations of rotating stratified turbulence. In
+the reduced dynamical equations only wave modes are retained, and vortices and
+horizontally uniform vertical shears are excluded. Despite the simplifications,
+our simulations reproduce some key features of oceanic internal-wave spectra:
+accumulation of energy at near-inertial waves and realistic frequency and
+horizontal wavenumber dependencies. Furthermore, we provide evidence that
+formation of the energy spectra in the inertial subrange is dominated by
+scale-separated interactions with the near-inertial waves. These findings
+support oceanographers' intuition that spectral energy density of internal
+waves is the result of predominantly wave-wave interactions.

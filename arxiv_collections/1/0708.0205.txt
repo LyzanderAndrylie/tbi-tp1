@@ -1,0 +1,19 @@
+We report the design and measurement of
+Superconducting/normal/superconducting (SNS) proximity DC squids in the long
+junction limit, i.e. superconducting loops interrupted by two normal metal
+wires roughly a micrometer long. Thanks to the clean interface between the
+metals, at low temperature a large supercurrent flows through the device. The
+dc squid-like geometry leads to an almost complete periodic modulation of the
+critical current through the device by a magnetic flux, with a flux periodicity
+of a flux quantum h/2e through the SNS loop. In addition, we examine the entire
+field dependence, notably the low and high field dependence of the maximum
+switching current. In contrast with the well-known Fraunhoffer-type
+oscillations typical of short wide junctions, we find a monotonous gaussian
+extinction of the critical current at high field. As shown in [15], this
+monotonous dependence is typical of long and narrow diffusive junctions. We
+also find in some cases a puzzling reentrance at low field. In contrast, the
+temperature dependence of the critical current is well described by the
+proximity effect theory, as found by Dubos {\it et al.} [16] on SNS wires in
+the long junction limit. The switching current distributions and hysteretic IV
+curves also suggest interesting dynamics of long SNS junctions with an
+important role played by the diffusion time across the junction.

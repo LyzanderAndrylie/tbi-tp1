@@ -1,0 +1,11 @@
+Universal properties of spin-Hall effect in ballistic 2D electron systems are
+addressed. The net spin polarization across the edge of the conductor is second
+order, ~\lambda^2, in spin-orbit coupling constant independent of the form of
+the boundary potential, with the contributions of normal and evanescent modes
+each being ~ \sqrt{\lambda} but of opposite signs. This general result is
+confirmed by the analytical solution for a hard-wall boundary, which also
+yields the detailed distribution of the local spin polarization. The latter
+shows fast (Friedel) oscillations with the spin-orbit coupling entering via the
+period of slow beatings only. Long-wavelength contributions of evanescent and
+normal modes exactly cancel each other in the spectral distribution of the
+local spin density.

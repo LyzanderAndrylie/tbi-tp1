@@ -1,0 +1,11 @@
+We refine the theory of the cohomological equation for translation flows on
+higher genus surfaces with the goal of proving optimal results on the Sobolev
+regularity of solutions and of distributional obstructions. For typical
+translation surfaces our results are sharp and we find the expected relation
+between the regularity of the distributional obstructions and the Lyapunov
+exponents of the Kontsevich-Zorich renormalization cocycle. As a consequence we
+exactly determine the dimension of the space of obstructions in each Sobolev
+regularity class in terms of the Kontsevich-Zorich exponents. For a fixed
+arbitrary translation surface and a typical direction, our results are probably
+not optimal but are the best which can be achieved with the available harmonic
+analysis techniques we have introduced in an earlier paper.

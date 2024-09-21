@@ -1,0 +1,10 @@
+Canonical orders, introduced in the minimal model program for orders, are
+simultaneous generalisations of Kleinian singularities and their associated
+skew group rings. In this paper, we construct minimal resolutions of canonical
+orders via non-commutative cyclic covers and skew group rings. This allows us
+to exhibit a derived equivalence between minimal resolutions of canonical
+orders and the skew group ring form of the canonical order in all but one case.
+The Fourier-Mukai transform used to construct this equivalence allows us to
+make explicit, the numerical version of the McKay correspondence for canonical
+orders which, relates the exceptional curves of the minimal resolution to the
+indecomposable reflexive modules of the canonical order.

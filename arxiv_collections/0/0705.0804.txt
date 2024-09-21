@@ -1,0 +1,10 @@
+Fermi, Pasta and Ulam observed, that the excitation of a low frequency normal
+mode in a nonlinear acoustic chain leads to localization in normal mode space
+on large time scales. Fast equipartition (and thus complete delocalization) in
+the Fermi-Pasta-Ulam chain is restored if relevant intensive control parameters
+exceed certain threshold values. We compare recent results on periodic orbits
+(in the localization regime) and resonant normal forms (in a weak
+delocalization regime), and relate them to various resonance overlap criteria.
+We show that the approaches quantitatively agree in their estimate of the
+localization-delocalization threshold. A key ingredient for this transition are
+resonances of overtones.

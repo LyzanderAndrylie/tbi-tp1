@@ -1,0 +1,9 @@
+Using first-principles density functional calculations, we have studied the
+magnetic ordering in pure Mn$_n$ ($n=2-$10, 13, 15, 19) and As@Mn$_n$
+($n=1-$10) clusters. Although, for both pure and doped manganese clusters,
+there exists many collinear and noncollinear isomers close in energy, the
+smaller clusters with $n\leqslant$5 have collinear magnetic ground state and
+the emergence of noncollinear ground states is seen for $n\geqslant$6 clusters.
+Due to strong $p-d$ hybridization in As@Mn$_n$ clusters, the binding energy is
+substantially enhanced and the magnetic moment is reduced compared to the
+corresponding pure Mn$_n$ clusters.

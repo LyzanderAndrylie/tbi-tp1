@@ -1,0 +1,17 @@
+We investigate the potential (small) deviations from the unitarity of the
+mixing matrix that are expected to occur, because of mass splittings, in the
+Quantum Field Theory of non-degenerate coupled systems. We extend our previous
+analysis concerning mixing angles, which led to a precise determination of the
+Cabibbo angle, to the case of three generations of fermions. We show that the
+same condition for neutral currents of mass eigenstates, i.e. that universality
+of diagonal currents is violated with the same strength as the absence of
+non-diagonal ones, is satisfied: on one hand, by the three CKM mixing angles
+with a precision higher than the experimental uncertainty; on the other hand,
+by a neutrino-like mixing pattern in which theta_{23} is maximal, and tan (2
+theta_{12})=2. This last pattern turns out to satisfy exactly the "quark-lepton
+complementarity condition" theta_c + theta_{12}= pi/4. Moreover, among all
+solutions, two values for the third neutrino mixing angle arise which satisfy
+the bound sin^2(theta_{13}) < 0.1: theta_{13} = +/- 5.7 10^{-3} and theta_{13}
+= +/- 0.2717. The so-called "Neighborhood of the Standard Model" is thus
+confirmed to exhibit special patterns which presumably originate in physics
+"Beyond the Standard Model".

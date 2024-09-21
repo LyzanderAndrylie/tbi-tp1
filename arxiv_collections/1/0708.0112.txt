@@ -1,0 +1,9 @@
+We investigate the possibility to suppress noise-induced intensity pulsations
+(relaxation oscillations) in semiconductor lasers by means of a time-delayed
+feedback control scheme. This idea is first studied in a generic normal form
+model, where we derive an analytic expression for the mean amplitude of the
+oscillations and demonstrate that it can be strongly modulated by varying the
+delay time. We then investigate the control scheme analytically and numerically
+in a laser model of Lang-Kobayashi type and show that relaxation oscillations
+excited by noise can be very efficiently suppressed via feedback from a
+Fabry-Perot resonator.

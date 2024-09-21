@@ -1,0 +1,13 @@
+The gravitational field of both local and global non static cosmic strings in
+the context of Lyra geometry are investigated. Local strings are characterized
+by having an energy momentum tensor whose only non null components are $T_{tt}
+= T_{zz}$ . As linearized Einstein equations are formally analogous to the
+Maxwell equations, the exterior solution does not depend on the radial
+distribution of the source and hence a Dirac d function was used to approximate
+the radial distribution of the energy momentum tensor for a local cosmic string
+along the z-axis: $T_{ab} = \delta(x) \delta(y)diag (\sigma, 0, 0, \sigma) $,
+$\sigma $being the energy density of the string [A.Vilenkin.
+Phys.Rep.(1985)121,263]. For a global string, the energy momentum tensor
+components are calculated from the action density for a complex scalar field y
+along with a Maxican hat potential. The gravitational field of the global
+string is shown to be attractive in nature.

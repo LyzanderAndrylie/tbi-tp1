@@ -1,0 +1,17 @@
+We present the first measurement of the $B^0\to X_{u}^- \ell^+ {\nu_\ell} $
+partial branching fraction in the end-point region of the lepton momentum
+spectrum, above the threshold for $B\to X_c\ell {\nu_\ell}$ decays. The
+analysis is based on a sample of 383 million $\Upsilon(4S)$ decays into $B{\bar
+B}$ pairs collected with the {\sc BaBar} detector at the PEP-II $e^+e^-$
+storage rings. We select $B^0{\bar B}^0$ events by partially reconstructing one
+$\B$ meson via the ${\bar B}^0\to D^{*+} \ell^- \bar{\nu}_\ell$ decays then
+select $B^0\to X_{u}^- \ell^+ {\nu_\ell} $ decays identifying a second high
+momentum lepton. In the momentum interval ranging from 2.3 to 2.6 GeV/c we
+measure the partial branching fraction $\Delta{\cal B}(B^0\to
+X_u\ell\nu)=(1.30\pm0.21_{stat}\pm0.07_{syst})\times 10^{-4}$ where the first
+error is statistical and the second is systematic. By comparing this
+measurement with the one obtained from untagged B decays we obtain
+$R^{+/0}=\Delta{\cal B}(B^0\to X_u\ell\nu)/\Delta{\cal B}(B^+\to X_u\ell\nu)=
+1.18 \pm 0.35_{stat} \pm 0.17_{syst}$. Using this measurement we extract a
+limit on the contributions from processes breaking isospin symmetry in
+charmless semileptonic B decays.

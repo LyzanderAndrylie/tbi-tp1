@@ -1,0 +1,13 @@
+Within individual bacteria, we combine force-dependent polymerization
+dynamics of individual MreB protofilaments with an elastic model of
+protofilament bundles buckled into helical configurations. We use variational
+techniques and stochastic simulations to relate the pitch of the MreB helix,
+the total abundance of MreB, and the number of protofilaments. By comparing our
+simulations with mean-field calculations, we find that stochastic fluctuations
+are significant. We examine the quasi-static evolution of the helical pitch
+with cell growth, as well as timescales of helix turnover and denovo
+establishment. We find that while the body of a polarized MreB helix treadmills
+towards its slow-growing end, the fast-growing tips of laterally associated
+protofilaments move towards the opposite fast-growing end of the MreB helix.
+This offers a possible mechanism for targeted polar localization without
+cytoplasmic motor proteins.

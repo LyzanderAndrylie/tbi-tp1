@@ -1,0 +1,11 @@
+We present calculations of the absorption spectrum of semiconductors and
+insulators comparing various approaches: (i) the two-particle Bethe-Salpeter
+equation of Many-Body Perturbation Theory; (ii) time-dependent
+density-functional theory using a recently developed kernel that was derived
+from the Bethe-Salpeter equation; (iii) a scheme that we propose in the present
+work and that allows one to derive different parameter-free approximations to
+(ii). We show that all methods reproduce the series of bound excitons in the
+gap of solid argon, as well as continuum excitons in semiconductors. This is
+even true for the simplest static approximation, which allows us to reformulate
+the equations in a way such that the scaling of the calculations with number of
+atoms equals the one of the Random Phase Approximation.

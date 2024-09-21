@@ -1,0 +1,11 @@
+We have considered one-dimensional Bose-Fermi mixture with equal densities
+and unequal masses using numerical density matrix renormalization group (DMRG).
+For the mass ratio of K-Rb mixture and attraction between bosons and fermions,
+we determined the phase diagram. For weak boson-boson interactions, there is a
+direct transition between two-component Luttinger liquid and collapsed phases
+as the boson-fermion attraction is increased. For strong enough boson-boson
+interactions, we find an intermediate "paired" phase, which is a
+single-component Luttinger liquid of composite particles. We investigated
+correlation functions of such a "paired" phase, studied the stability of
+"paired" phase to density imbalance, and discussed various experimental
+techniques which can be used to detect it.

@@ -1,0 +1,16 @@
+In this paper, we consider the Cauchy problem for Klein-Gordon equation with
+a cubic convolution nonlinearity in $\R^3$. By making use of Bourgain's method
+in conjunction with a precise Strichartz estimate of S.Klainerman and D.Tataru,
+we establish the $H^s (s<1)$ global well-posedness of the Cauchy problem for
+the cubic convolution defocusing Klein-Gordon-Hartree equation. Before arriving
+at the previously discussed conclusion, we obtain global solution for this
+non-scaling equation with small initial data in $H^{s_0}\times H^{s_0-1}$ where
+$s_0=\frac\gamma 6$ but not $\frac\gamma2-1$, for this equation that we
+consider is a subconformal equation in some sense. In doing so a number of
+nonlinear prior estimates are already established by using Bony's
+decomposition, flexibility of Klein-Gordon admissible pairs which are slightly
+different from that of wave equation and a commutator estimate. We establish
+this commutator estimate by exploiting cancellation property and utilizing
+Coifman and Meyer multilinear multiplier theorem. As far as we know, it seems
+that this is the first result on low regularity for this Klein-Gordon-Hartree
+equation.

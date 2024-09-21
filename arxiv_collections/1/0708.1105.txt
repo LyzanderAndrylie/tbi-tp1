@@ -1,0 +1,12 @@
+We search for the doubly charmed baryonic decay
+$\bar{B}^0\to\Lambda_c^+\bar{\Lambda}_c^-$, in a data sample of $520\times10^6$
+$B{\bar B}$ events accumulated at the $\Upsilon(4S)$ resonance with the Belle
+detector at the KEKB asymmetric e^+e^- collider. We find no significant signal
+and set an upper limit of ${\cal
+B}(\bar{B}^0\to\Lambda_c^+\bar{\Lambda}_c^-)<6.2\times10^{-5}$ at 90%
+confidence level. The result is significantly below a naive extrapolation from
+${\cal B}(B^-\to\Xi_c^0\bar{\Lambda}_c^)$ assuming a simple Cabibbo-suppression
+factor of $|V_{cd}/V_{cs}|^2$. The small branching fraction could be attributed
+to a suppression due to the large momentum of the baryonic decay products,
+which has been observed in other charmed baryonic two-body B decays. trend
+observed in other charmed baryonic two-body B decays.

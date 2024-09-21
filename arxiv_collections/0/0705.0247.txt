@@ -1,0 +1,4 @@
+We extend the usual projective Abel-Radon transform to the larger context of
+a smooth complete toric variety X. We define and study toric concavity attached
+to an algebraic splitting vector bundle on X and we prove a toric version of
+the Abel-inverse theorem.

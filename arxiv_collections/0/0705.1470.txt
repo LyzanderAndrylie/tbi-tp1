@@ -1,0 +1,13 @@
+While the structure of chromatin has been studied in great detail on length
+scales below 30 nm, amazingly little is known about the higher-order folding
+motifs of chromatin in interphase. Recent experiments give evidence that the
+folding may depend locally on gene density and transcriptional activity and
+show a leveling-off at long distances where approximately $<R^2> \sim O(1)$. We
+propose a new model that can explain this leveling-off by the formation of
+random loops. We derive an analytical expression for the mean square
+displacement between two beads where the average is taken over the thermal
+ensemble with a fixed but random loop configuration, while quenched averaging
+over the ensemble of different loop configurations -- which turns out to be
+equivalent to averaging over an ensemble of random matrices -- is performed
+numerically. A detailed investigation of this model shows that loops on all
+scales are necessary to fit experimental data.

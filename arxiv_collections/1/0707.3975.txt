@@ -1,0 +1,9 @@
+Chaotic attractors with toroidal topology (van der Pol attractor) have
+counterparts with symmetry that exhibit unfamiliar phenomena. We investigate
+double covers of toroidal attractors, discuss changes in their morphology under
+correlated peeling bifurcations, describe their topological structures and the
+changes undergone as a symmetry axis crosses the original attractor, and
+indicate how the symbol name of a trajectory in the original lifts to one in
+the cover. Covering orbits are described using a powerful synthesis of kneading
+theory with refinements of the circle map. These methods are applied to a
+simple version of the van der Pol oscillator.

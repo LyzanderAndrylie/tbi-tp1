@@ -1,0 +1,8 @@
+The charge ordering transition induced by the nearest-neighbor Coulomb
+repulsion, V, in the 1/4-filled extended Hubbard model is investigated using
+Cellular Dynamical Mean-Field Theory. We find a transition to a strongly
+renormalized charge ordered Fermi liquid at VCO and a metal-to-insulator
+transition at VMI>VCO. Short range antiferromagnetism occurs concomitanly with
+the CO transition. Approaching the charge ordered insulator the Fermi surface
+deforms and the scattering rate of electrons develops momentum dependence on
+the Fermi surface.

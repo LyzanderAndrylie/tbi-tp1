@@ -1,0 +1,11 @@
+The anomalous excess of low-energy nu_e events measured in the MiniBooNE
+experiment is explained through a renormalization of the absolute neutrino flux
+and a simultaneous disappearance of the nu_e's in the beam, which is compatible
+with that indicated by the results of Gallium radioactive source experiments.
+We present the results of the fit of MiniBooNE data (P(nu_e->nu_e) = 0.64 +0.08
+-0.07) and the combined fit of MiniBooNE data and the nu_e disappearance
+measured in the Gallium radioactive source experiments, which gives
+P(nu_e->nu_e) = 0.82 +- 0.04. We show that our interpretation of the data is
+also compatible with an old indication in favor of nu_e disappearance found
+from the analysis of the results of beam-dump experiments, leading to
+P(nu_e->nu_e) = 0.80 +0.03 -0.04.

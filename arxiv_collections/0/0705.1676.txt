@@ -1,0 +1,9 @@
+We present a method of using a nuclear magnetic resonance computer to solve
+the Deutsch-Jozsa problem in which: (1) the number of molecules in the NMR
+sample is irrelevant to the number of qubits available to an NMR quantum
+computer, and (2) the initial state is chosen to be the state of thermal
+equilibrium, thereby avoiding the preparation of pseudopure states and the
+resulting exponential loss of signal as the number of qubits increases. The
+algorithm is described along with its experimental implementation using four
+active qubits. As expected, measured spectra demonstrate a clear distinction
+between constant and balanced functions.

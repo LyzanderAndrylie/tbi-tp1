@@ -1,0 +1,10 @@
+We study kagome lattice antiferromagnets where the effects of easy axis
+single-ion anisotropy ($D$) dominates over the Heisenberg exchange $J$. For $S
+\ge 3/2$, virtual quantum fluctuations help lift the extensive classical
+degeneracy. We demonstrate the presence of a one-third magnetization plateau
+for a broad range of magnetic fields $J^3/D^2 \lesssim B \lesssim JS$ along the
+easy axis. The fully equilibriated system at low temperature on this plateau
+develops an unusual {\em nematic} order that breaks sublattice rotation
+symmetry but not translation symmetry--however, extremely slow dynamics
+associated with this ordering is expected to lead to glassy freezing of the
+system on intermediate time-scales.

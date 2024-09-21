@@ -1,0 +1,13 @@
+Local spin and charge densities on a two-dimensional honeycomb lattice are
+calculated by the Landauer-Keldysh formalism (LKF). Through the empirical
+tight-binding method, we show how the realistic band structure can be brought
+into the LKF. Taking the Bi(111) surface, on which strong surface states and
+Rashba spin-orbit coupling are present [Phys. Rev. Lett. 93, 046403 (2004)], as
+a numeric example, we show typical intrinsic spin-Hall accumulation (ISHA)
+patterns thereon. The Fermi-energy-dependence of the spin and charge transport
+in two-terminal nanostructure samples is subsequently analyzed. By changing
+E_{F}, we show that the ISHA pattern is nearly isotropic (free-electron-like)
+only when E_{F} is close to the band bottom, and is sensitive/insensitive to
+E_{F} for the low/high bias regime with such E_{F}. With E_{F} far from the
+band bottom, band structure effects thus enter the ISHA patterns and the
+transport direction becomes significant.

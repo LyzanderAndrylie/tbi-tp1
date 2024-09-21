@@ -1,0 +1,16 @@
+SMOS (Soil Moisture and Ocean Salinity), is the second mission of 'Earth
+Explorer' to be developed within the program 'Living Planet' of the European
+Space Agency (ESA). This satellite, containing the very first 1.4GHz
+interferometric radiometer 2D, will carry out the first cartography on a
+planetary scale of the moisture of the grounds and the salinity of the oceans.
+The forests are relatively opaque, and the knowledge of moisture remains
+problematic. The effect of the vegetation can be corrected thanks a simple
+radiative model. Nevertheless simulations show that the effect of the litter on
+the emissivity of a system litter + ground is not negligible. Our objective is
+to highlight the effects of this layer on the total multi layer system. This
+will make it possible to lead to a simple analytical formulation of a model of
+litter which can be integrated into the calculation algorithm of SMOS.
+Radiometer measurements, coupled to dielectric characterizations of samples in
+laboratory can enable us to characterize the geological structure. The goal of
+this article is to present the step which we chose to validate this analytical
+model.

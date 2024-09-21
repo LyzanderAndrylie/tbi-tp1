@@ -1,0 +1,7 @@
+We consider interactions that generate a universal set of quantum gates on
+logical qubits encoded in a collective-dephasing-free subspace, and discuss
+their implementations with trapped ions. This allows for the removal of the
+by-far largest source of decoherence in current trapped-ion experiments,
+collective dephasing. In addition, an explicit parametrization of all two-body
+Hamiltonians able to generate such gates without the system's state ever
+exiting the protected subspace is provided.

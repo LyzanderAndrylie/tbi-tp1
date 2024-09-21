@@ -1,0 +1,10 @@
+We present an advanced lateral triple quantum dot made by local anodic
+oxidation. Three dots are coupled in a starlike geometry with one lead attached
+to each dot thus allowing for multiple path transport measurements with two
+dots per path. In addition charge detection is implemented using a quantum
+point contact. Both in charge measurements as well as in transport we observe
+clear signatures of states from each dot. Resonances of two dots can be
+established allowing for serial transport via the corresponding path. Quadruple
+points with all three dots in resonance are prepared for different electron
+numbers and analyzed concerning the interplay of the simultaneously measured
+transport along both paths.

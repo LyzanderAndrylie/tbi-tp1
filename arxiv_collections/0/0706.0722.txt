@@ -1,0 +1,15 @@
+Sequences that are defined by multisums of hypergeometric terms with compact
+support occur frequently in enumeration problems of combinatorics, algebraic
+geometry and perturbative quantum field theory. The standard recipe to study
+the asymptotic expansion of such sequences is to find a recurrence satisfied by
+them, convert it into a differential equation satisfied by their generating
+series, and analyze the singulatiries in the complex plane. We propose a
+shortcut by constructing directly from the structure of the hypergeometric term
+a finite set, for which we conjecture (and in some cases prove) that it
+contains all the singularities of the generating series. Our construction of
+this finite set is given by the solution set of a balanced system of polynomial
+equations of a rather special form, reminiscent of the Bethe ansatz. The finite
+set can also be identified with the set of critical values of a potential
+function, as well as with the evaluation of elements of an additive $K$-theory
+group by a regulator function. We give a proof of our conjecture in some
+special cases, and we illustrate our results with numerous examples.

@@ -1,0 +1,16 @@
+Previous LHC forecasts for the constrained minimal supersymmetric standard
+model (CMSSM), based on current astrophysical and laboratory measurements, have
+used priors that are flat in the parameter tan beta, while being constrained to
+postdict the central experimental value of MZ. We construct a different, new
+and more natural prior with a measure in mu and B (the more fundamental MSSM
+parameters from which tan beta and MZ are actually derived). We find that as a
+consequence this choice leads to a well defined fine-tuning measure in the
+parameter space. We investigate the effect of such on global CMSSM fits to
+indirect constraints, providing posterior probability distributions for Large
+Hadron Collider (LHC) sparticle production cross sections. The change in priors
+has a significant effect, strongly suppressing the pseudoscalar Higgs boson
+dark matter annihilation region, and diminishing the probable values of
+sparticle masses. We also show how to interpret fit information from a Markov
+Chain Monte Carlo in a frequentist fashion; namely by using the profile
+likelihood. Bayesian and frequentist interpretations of CMSSM fits are compared
+and contrasted.

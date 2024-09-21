@@ -1,0 +1,13 @@
+We report low-temperature resistance measurements in a modulation-doped,
+(311)A GaAs two-dimensional hole system as a function of applied in-plane
+strain. The data reveal a strong but anisotropic piezoresistance whose
+magnitude depends on the density as well as the direction along which the
+resistance is measured. At a density of $1.6\times10^{11}$ cm$^{-2}$ and for a
+strain of about $2\times10^{-4}$ applied along [01$\bar{1}$], e.g., the
+resistance measured along this direction changes by nearly a factor of two
+while the resistance change in the [$\bar{2}$33] direction is less than 10% and
+has the opposite sign. Our accurate energy band calculations indicate a
+pronounced and anisotropic deformation of the heavy-hole dispersion with
+strain, qualitatively consistent with the experimental data. The extremely
+anisotropic magnitude of the piezoresistance, however, lacks a quantitative
+explanation.

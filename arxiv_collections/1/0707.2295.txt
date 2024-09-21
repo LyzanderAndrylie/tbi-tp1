@@ -1,0 +1,4 @@
+For an arbitrary tree we investigate the problems of constructing a maximum
+matching which minimizes or maximizes the cardinality of a maximum matching of
+the graph obtained from original one by its removal and present corresponding
+polynomial algorithms.

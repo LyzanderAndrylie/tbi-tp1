@@ -1,0 +1,5 @@
+Rolls in finite Prandtl number rotating convection with free-slip top and
+bottom boundary conditions are shown to be unstable with respect to small angle
+perturbations for any value of the rotation rate. This instability is driven by
+the horizontal mean flow whose estimation requires a special singular
+perturbation analysis.

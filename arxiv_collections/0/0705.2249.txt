@@ -1,0 +1,13 @@
+This is an overview of recent progress in constructing and studying
+superextensions of the Landau problem of a quantum particle on a plane in the
+uniform magnetic field, as well as of its Haldane's $S^2$ generalization ({\tt
+hep-th/0311159, hep-th/0404108, hep-th/0510019, hep-th/0612300}). The main
+attention is paid to the planar super Landau models which are invariant under
+the inhomogeneous supergroup ISU(1|1), a contraction of the supergroup SU(2|1),
+and provide minimal superextensions of the original Landau model. Their common
+notable feature is the presence of a hidden dynamical worldline N=2
+supersymmetry. It exists at the classical and quantum levels and is revealed
+most naturally while passing to the new invariant inner products in the space
+of quantum states in order to make the norms of all states positive. For one of
+the planar models, the superplane Landau model, we present an off-shell
+worldline superfield formulation in which the N=2 supersymmetry gets manifest.

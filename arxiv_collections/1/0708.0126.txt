@@ -1,0 +1,8 @@
+Monte Carlo simulations have been performed to investigate the relaxation of
+the L10 long-range order in dimensionally reduced systems. The effect of the
+number of (001)-type monatomic layers and of the pair interaction energies on
+these kinetics has been examined. The vacancy migration energies have been
+deduced from the Arrhenius plots of the relaxation times. A substantial
+increase in the migration energy for small film thickness is observed. The
+results agree with previous Monte Carlo simulations and with recent
+experimental results in L1_0 thin films and multilayers.

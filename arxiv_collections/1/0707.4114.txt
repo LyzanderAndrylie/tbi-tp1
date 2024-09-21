@@ -1,0 +1,11 @@
+We report a numerical study of the rate of crystal nucleation in a binary
+suspension of oppositely charged colloids. Two different crystal structures
+compete in the thermodynamic conditions under study. We find that the crystal
+phase that nucleates is metastable and, more surprisingly, its nucleation free
+energy barrier is not the lowest one. This implies that, during nucleation,
+there is insufficient time for sub-critical nuclei to relax to their lowest
+free-energy structure. Such behavior is in direct contradiction with the common
+assumption that the phase that crystallizes most readily is the one with the
+lowest free-energy barrier for nucleation. The phenomenon that we describe
+should be relevant for crystallization experiments where competing solid
+structures are not connected by an easy transformation.

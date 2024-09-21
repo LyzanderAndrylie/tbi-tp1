@@ -1,0 +1,4 @@
+We compute the QCD form factor resumming threshold logarithms in B --> X_c +
+l + nu_l decays to next-to-leading logarithmic approximation. We present an
+interpolation formula including soft as well as collinear effects softened by
+the non-vanishing charm mass.

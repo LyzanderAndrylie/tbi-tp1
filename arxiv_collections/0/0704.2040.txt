@@ -1,0 +1,10 @@
+We derive a complete set of invariants for a formal Bishop surface near a
+point of complex tangent with a vanishing Bishop invariant under the action of
+formal transformations. We prove that the modular space of Bishop surfaces with
+a vanishing Bishop invariant and with a fixed Moser invariant $s<\infty$ is of
+infinite dimension. We also prove that the equivalence class of the germ of a
+generic real analytic Bishop surface near a complex tangent with a vanishing
+Bishop invariant can not be determined by a finite part of the Taylor expansion
+of its defining equation. This answers, in the negative, a problem raised by J.
+Moser in 1985 after his joint work with Webster in 1983 and his own work in
+1985.

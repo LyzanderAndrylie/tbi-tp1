@@ -1,0 +1,12 @@
+We show that a quantum state may be represented as the sum of a joint
+probability and a complex quantum modification term. The joint probability and
+the modification term can both be observed in successive projective
+measurements. The complex modification term is a measure of measurement
+disturbance. A selective phase rotation is needed to obtain the imaginary part.
+This leads to a complex quasiprobability, the Kirkwood distribution. We show
+that the Kirkwood distribution contains full information about the state if the
+two observables are maximal and complementary. The Kirkwood distribution gives
+a new picture of state reduction. In a nonselective measurement, the
+modification term vanishes. A selective measurement leads to a quantum state as
+a nonnegative conditional probability. We demonstrate the special significance
+of the Schwinger basis.

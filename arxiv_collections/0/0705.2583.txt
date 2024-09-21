@@ -1,0 +1,12 @@
+The correlation matrix (CM) criterion is a recently derived powerful
+sufficient condition for the presence of entanglement in bipartite quantum
+states of arbitrary dimensions. It has been shown that it can be stronger than
+the positive partial transpose (PPT) criterion, as well as the computable cross
+norm or realignment (CCNR) criterion in different situations. However, it
+remained as an open question whether there existed sets of states for which the
+CM criterion could be stronger than both criteria simultaneously. Here, we give
+an affirmative answer to this question by providing examples of entangled
+states that scape detection by both the PPT and CCNR criteria whose
+entanglement is revealed by the CM condition. We also show that the CM can be
+used to measure the entanglement of pure states and obtain lower bounds for the
+entanglement measure known as tangle for general (mixed) states.

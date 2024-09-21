@@ -1,0 +1,10 @@
+MIX has recently been proposed as a new sensor scheme with better energy
+management for data-gathering in Wireless Sensor Networks. However, it is not
+known how it performs when some of the sensors carry out sinkhole attacks. In
+this paper, we propose a variant of MIX with adjunct computational trust
+management to limit the impact of such sinkhole attacks. We evaluate how MIX
+resists sinkhole attacks with and without computational trust management. The
+main result of this paper is to find that MIX is very vulnerable to sinkhole
+attacks but that the adjunct trust management efficiently reduces the impact of
+such attacks while preserving the main feature of MIX: increased lifetime of
+the network.

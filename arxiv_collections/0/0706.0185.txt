@@ -1,0 +1,18 @@
+A coarse-grained variational model is used to investigate the polymer
+dynamics of barrier crossing for a diverse set of two-state folding proteins.
+The model gives reliable folding rate predictions provided excluded volume
+terms that induce minor structural cooperativity are included in the
+interaction potential. In general, the cooperative folding routes have sharper
+interfaces between folded and unfolded regions of the folding nucleus and
+higher free energy barriers. The calculated free energy barriers are strongly
+correlated with native topology as characterized by contact order. Increasing
+the rigidity of the folding nucleus changes the local structure of the
+transition state ensemble non-uniformly across the set of protein studied.
+Neverthless, the calculated prefactors k0 are found to be relatively uniform
+across the protein set, with variation in 1/k0 less than a factor of five. This
+direct calculation justifies the common assumption that the prefactor is
+roughly the same for all small two-state folding proteins. Using the barrier
+heights obtained from the model and the best fit monomer relaxation time 30ns,
+we find that 1/k0 (1-5)us (with average 1/k0 4us). This model can be extended
+to study subtle aspects of folding such as the variation of the folding rate
+with stability or solvent viscosity, and the onset of downhill folding.

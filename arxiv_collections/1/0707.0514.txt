@@ -1,0 +1,6 @@
+I present a method for lossy transform coding of digital audio that uses the
+Weyl symbol calculus for constructing the encoding and decoding transformation.
+The method establishes a direct connection between a time-frequency
+representation of the signal dependent threshold of masked noise and the
+encode/decode pair. The formalism also offers a time-frequency measure of
+perceptual entropy.

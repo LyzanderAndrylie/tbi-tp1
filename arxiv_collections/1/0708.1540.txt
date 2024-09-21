@@ -1,0 +1,11 @@
+Research in non-orthogonal state discrimination has given rise to two
+conventional optimal strategies: unambiguous discrimination (UD) and minimum
+error (ME) discrimination. This paper explores the experimentally relevant
+range of measurement strategies between the two, where the rate of inconclusive
+results is minimized for a bounded-error rate. We first provide some
+constraints on the problem that apply to generalized measurements (POVMs). We
+then provide the theory for the optimal projective measurement (PVM) in this
+range. Through analytical and numerical results we investigate this family of
+projective, bounded-error strategies and compare it to the POVM family as well
+as to experimental implementation of UD using POVMs. We also discuss a possible
+application of these bounded-error strategies to quantum key distribution.

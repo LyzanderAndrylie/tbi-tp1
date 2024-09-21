@@ -1,0 +1,12 @@
+The thermodynamics of low dimensional spin-1/2 Heisenberg ferromagnets (HFM)
+in an external magnetic field is investigated within a second-order two-time
+Green function formalism in the wide temperature and field range. A crucial
+point of the proposed scheme is a proper account of the analytical properties
+for the approximate transverse commutator Green function obtained as a result
+of the decoupling procedure. A good quantitative description of the correlation
+functions, magnetization, susceptibility, and heat capacity of the HFM on a
+chain, square and triangular lattices is found for both infinite and
+finite-sized systems. The dependences of the thermodynamic functions of 2D HFM
+on the cluster size are studied. The obtained results agree well with the
+corresponding data found by Bethe ansatz, exact diagonalization, high
+temperature series expansions, and quantum Monte Carlo simulations.

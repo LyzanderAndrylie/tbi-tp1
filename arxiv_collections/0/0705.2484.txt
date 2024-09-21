@@ -1,0 +1,8 @@
+A diagnostics method based on a continuous wavelet transform is proposed.
+This method makes it possible to diagnose the presence of synchronization of
+the oscillations of a self-excited oscillator locked by an external force with
+a linearly modulated frequency and to distinguish such a situation from the
+case when an external signal leaks into self-oscillations; i.e., the signals
+are summed without a change in the self-oscillation frequency. The method's
+efficiency is shown with the use of a Van der Pol generator and experimental
+physiological data as examples.

@@ -1,0 +1,4 @@
+This note documents the use of the POWHEG-hvq package, a generator for heavy
+flavour hadroproduction at next-to-leading order in QCD, that can be easily
+interfaced to shower Monte Carlo programs, in such a way that NLO and shower
+accuracy are both maintained.

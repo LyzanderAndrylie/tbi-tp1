@@ -1,0 +1,11 @@
+The momentum distribution of relative motion between two nucleons gives
+information on the correlation in nuclei. The momentum distribution is
+calculated for both $^{6}$He and $^6$Li which are described in a three-body
+model of $\alpha$+$N$+$N$. The ground state solution for the three-body
+Hamiltonian is obtained accurately using correlated basis functions. The
+momentum distribution depends on the potential model for the $N$-$N$
+interaction. With use of a realistic potential, the $^6$He momentum
+distribution exhibits a dip around 2 fm$^{-1}$ characteristic of $S$-wave
+motion. In contrast to this, the $^6$Li momentum distribution is very similar
+to that of the deuteron; no dip appears because it is filled with the $D$-wave
+component arising from the tensor force.

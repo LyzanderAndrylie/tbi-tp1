@@ -1,0 +1,7 @@
+Refocusing, or dynamical decoupling, is a coherent control technique where
+the internal dynamics of a quantum system is effectively averaged out by an
+application of specially designed driving fields. The method has originated in
+nuclear magnetic resonance, but it was independently discovered in atomic
+physics as a ``coherent destruction of tunneling''. Present work deals with the
+analysis of the performance of ``soft'' refocusing pulses and pulse sequences
+in protecting the coherence of a qubit system coupled to a quantum oscillator.

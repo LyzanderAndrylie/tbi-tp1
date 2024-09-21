@@ -1,0 +1,13 @@
+In this paper we study the role of surface plasmon modes in the Casimir
+effect. The Casimir energy can be written as a sum over the modes of a real
+cavity and one may identify two sorts of modes, two evanescent surface plasmon
+modes and propagative modes. As one of the surface plasmon modes becomes
+propagative for some choice of parameters we adopt an adiabatic mode definition
+where we follow this mode into the propagative sector and count it together
+with the surface plasmon contribution, calling this contribution "plasmonic".
+We evaluate analytically the contribution of the plasmonic modes to the Casimir
+energy. Surprisingly we find that this becomes repulsive for intermediate and
+large mirror separations. The contribution of surface plasmons to the Casimir
+energy plays a fundamental role not only at short but also at large distances.
+This suggests possibilities to taylor the Casimir force via a manipulation of
+the surface plasmons properties.

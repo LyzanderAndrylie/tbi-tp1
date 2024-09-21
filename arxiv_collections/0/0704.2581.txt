@@ -1,0 +1,16 @@
+Electrical resistivity measurements of non-magnetic single-crystalline
+Ce$_{1-x}$La$_x$Os$_4$Sb$_{12}$ alloys, $x=0.02$ and 0.1, are reported for
+temperatures down to 20 mK and magnetic fields up to 18 T. At the lowest
+temperatures, the resistivity of Ce$_{0.98}$La$_{0.02}$Os$_4$Sb$_{12}$ has a
+Fermi-liquid-like temperature variation $\rho=\rho_0+A T^2$, but with negative
+$A$ in small fields. The resistivity has an unusually strong magnetic field
+dependence for a paramagnetic metal. The 20 mK resistivity increases by 75%
+between H=0 and 4 T and then decreases by 65% between 4 T and 18 T. Similarly,
+the $A$ coefficient increases with the field from -77 to 29$
+\mu\Omega$cmK$^{-2}$ between H=0 and 7 T and then decreases to 18$
+\mu\Omega$cmK$^{-2}$ for 18 T. This nontrivial temperature and field variation
+is attributed to the existence of a very narrow Kondo-hole band in the
+hybridization gap, which pins the Fermi energy. Due to disorder the Kondo-hole
+band has localized states close to the band edges. The resistivity for $x=0.1$
+has a qualitatively similar behavior to that of $x=0.02$, but with a larger
+Kondo-hole band.

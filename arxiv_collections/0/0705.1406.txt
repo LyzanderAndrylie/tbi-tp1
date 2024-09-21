@@ -1,0 +1,23 @@
+The Debye-H\"uckel theory describes rigorously the thermal equilibrium of
+classical Coulomb fluids in the high-temperature $\beta\to 0$ regime ($\beta$
+denotes the inverse temperature). It is generally believed that the
+Debye-H\"uckel theory and the systematic high-temperature expansion provide an
+adequate description also in the region of small {\em strictly positive} values
+of $\beta>0$. This hypothesis is tested in the present paper on a
+two-dimensional Coulomb gas of pointlike $+/-$ unit charges interacting via a
+logarithmic potential which is equivalent to an integrable sine-Gordon field
+model. In particular, we apply a form factor method to obtain the exact
+asymptotic large-distance behavior of particle correlation functions,
+considered in the charge and number density combinations. We first determine
+the general forms of the leading and subleading asymptotic terms at strictly
+positive $\beta>0$ and then evaluate their high-temperature $\beta\to 0$ forms.
+In the case of the {\em charge} correlation function, the leading asymptotic
+term at a strictly positive $\beta>0$ is also the leading one in the
+high-temperature $\beta\to 0$ regime. On the contrary, the $\beta\to 0$
+behavior of the {\em number density} correlation function is accompanied by an
+interference between the first two asymptotic terms. Consequently, the
+large-distance behavior of this function exhibits a discontinuity when going
+from strictly positive values of $\beta>0$ to the Debye-H\"uckel limit
+$\beta\to 0$. This is the crucial conclusion of the paper: the large-distance
+asymptotics and the high-temperature limit do not commute for the density
+correlation function of the two-dimensional Coulomb gas.

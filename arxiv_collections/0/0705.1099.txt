@@ -1,0 +1,4 @@
+Using the stabilizer formalism we construct the minimal code into a
+D-dimensional Hilbert space (qudit) to protect a qubit against phase damping.
+The effectiveness of this code is then studied by means of input-output
+fidelity.

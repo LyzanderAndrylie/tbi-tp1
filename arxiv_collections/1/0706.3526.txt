@@ -1,0 +1,6 @@
+In this contribution I review rigorous formulations of a variety of
+limitations of measurability in quantum mechanics. To this end I begin with a
+brief presentation of the conceptual tools of modern measurement theory. I will
+make precise the notion that quantum measurements necessarily alter the system
+under investigation and elucidate its connection with the complementarity and
+uncertainty principles.

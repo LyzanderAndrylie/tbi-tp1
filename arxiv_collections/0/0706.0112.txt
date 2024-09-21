@@ -1,0 +1,10 @@
+We report results of 11B NMR and susceptibility measurements on the quasi 2D
+frustrated dimer spin system SrCu2(BO3)2 under high pressure. At 2.4 GPa and in
+a magnetic field of 7 T, NMR lines split with decreasing temperature in two
+steps. A gradual splitting below T=30 K breaking the four-fold symmetry of
+magnetic response is followed by a further sudden splitting below 3.6 K. The
+latter indicates a magnetic phase transition, which is also marked by a kink in
+the susceptibility at 1.44 GPa. From the magnetic hyperfine shift data, we
+conclude that the low-T phase has a doubled unit cell containing two types of
+dimers, one in a nearly singlet state and the other with a finite magnetization
+down to T=0.

@@ -1,0 +1,11 @@
+Manipulating a database system on a quantum computer is an essential aim to
+benefit from the promising speed-up of quantum computers over classical
+computers in areas that take a vast amount of storage and processing time such
+as in databases. In this paper, the basic operations for manipulating the data
+in a quantum database will be defined, e.g. INSERT, UPDATE, DELETE, SELECT,
+backing up and restoring a database file. This gives the ability to perform the
+data processing that usually takes a long processing time on a classical
+database system, in a simultaneous way on a quantum computer. Defining a
+quantum version of more advanced concepts used in database systems, e.g. the
+referential integrity and the relational algebra, is a normal extension to this
+work

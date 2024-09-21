@@ -1,0 +1,10 @@
+In this paper, we consider the volume enclosed by the microcanonical ensemble
+in phase space as a statistical ensemble. This can be interpreted as an
+intermediate image between the microcanonical and the canonical pictures. By
+maintaining the ergodic hypothesis over this ensemble, that is, the
+equiprobability of all its accessible states, the equivalence of this ensemble
+in the thermodynamic limit with the microcanonical and the canonical ensembles
+is suggested by means of geometrical arguments. The Maxwellian and the
+Boltzmann-Gibbs distributions are obtained from this formalism. In the
+appendix, the derivation of the Boltzmann factor from a new microcanonical
+image of the canonical ensemble is also given.

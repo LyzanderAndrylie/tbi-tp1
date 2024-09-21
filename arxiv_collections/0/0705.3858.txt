@@ -1,0 +1,7 @@
+We present spatially resolved radio-frequency spectroscopy of a trapped Fermi
+gas with resonant interactions and observe a spectral gap at low temperatures.
+The spatial distribution of the spectral response of the trapped gas is
+obtained using in situ phase-contrast imaging and 3D image reconstruction. At
+the lowest temperature, the homogeneous rf spectrum shows an asymmetric
+excitation line shape with a peak at 0.48(4)$\epsilon_F$ with respect to the
+free atomic line, where $\epsilon_F$ is the local Fermi energy.

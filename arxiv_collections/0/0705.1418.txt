@@ -1,0 +1,14 @@
+We study macroscopic quantum tunneling (MQT) in c-axis twist Josephson
+junctions made of high-T_c superconductors in order to clarify the influence of
+the anisotropic order parameter symmetry (OPS) on MQT. The dependence of the
+MQT rate on the twist angle $\gamma$ about the c-axis is calculated by using
+the functional integral and the bounce method. Due to the d-wave OPS, the
+$\gamma$ dependence of standard deviation of the switching current distribution
+and the crossover temperature from thermal activation to MQT are found to be
+given by $\cos2\gamma$ and $\sqrt{\cos2\gamma}$, respectively. We also show
+that a dissipative effect resulting from the nodal quasiparticle excitation on
+MQT is negligibly small, which is consistent with recent MQT experiments using
+Bi${}_2$Sr${}_2$CaCu${}_2$O${}_{8 + \delta}$ intrinsic junctions. These results
+indicate that MQT in c-axis twist junctions becomes a useful experimental tool
+for testing the OPS of high-T_c materials at low temperature, and suggest high
+potential of such junctions for qubit applications.

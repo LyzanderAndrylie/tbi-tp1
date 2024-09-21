@@ -1,0 +1,17 @@
+A real-space quantum transport simulator for carbon nanoribbon (CNR) MOSFETs
+has been developed. Using this simulator, the performance of carbon nanoribbon
+(CNR) MOSFETs is examined in the ballistic limit. The impact of quantum effects
+on device performance of CNR MOSFETs is also studied. We found that 2D
+semi-infinite graphene contacts provide metal-induced-gap-states (MIGS) in the
+CNR channel. These states would provide quantum tunneling in the short channel
+device and cause Fermi level pining. These effects cause device performance
+degradation both on the ON-state and the OFF-state. Pure 1D devices (infinite
+contacts), however, show no MIGS. Quantum tunneling effects are still playing
+an important role in the device characteristics. Conduction due to band-to-band
+tunneling is accurately captured in our simulations. It is important in these
+devices, and found to dominate the off-state current. Based on our simulations,
+both a 1.4nm wide and a 1.8nm wide CNR with channel length of 12.5nm can
+outperform ultra scaled Si devices in terms of drive current capabilities and
+electrostatic control. Although subthreshold slopes in the forward-bias
+conduction are better than in Si transistors, tunneling currents are important
+and prevent the achievement of the theoretical limit of 60mV/dec.

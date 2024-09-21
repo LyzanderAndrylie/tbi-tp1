@@ -1,0 +1,13 @@
+We study quarkonium correlators and spectral functions at zero and finite
+temperature in QCD with only heavy quarks using potential models combined with
+perturbative QCD. First, we show that this approach can describe the quarkonium
+correlation function at zero temperature. Using a class of screened potentials
+based on lattice calculations of the static quark-antiquark free energy we
+calculate spectral functions at finite temperature. We find that all quarkonium
+states, with the exception of the $1S$ bottomonium, dissolve in the deconfined
+phase at temperatures smaller than $1.5T_c$, in contradiction with the
+conclusions of recent studies. Despite this the temperature dependence of the
+quarkonium correlation functions calculated on the lattice is well reproduced
+in our model. We also find that even in the absence of resonances the spectral
+function at high temperatures is significantly enhanced over the spectral
+function corresponding to free quark antiquark propagation.

@@ -1,0 +1,9 @@
+Muon spin relaxation measurements in isotropic molecular magnets (MM) with a
+spin value S ranging from 7/2 to 27/2 are used to determine the magnitude and
+origin of dephasing time $\tau_\phi$ of molecular magnets. It is found that
+$\tau_\phi$ ~ 10 nsec with no S or ligand dependence. This indicates a nuclear
+origin for the stochastic field. Since $\tau_\phi$ is a property of the
+environment, we argue that it is a number common to similar types of MM.
+Therefore, $\tau_\phi$ is shorter than the Zener and tunneling times of
+anisotropic MM such as Fe8 or Mn4 for standard laboratory sweep rates. Our
+findings call for a stochastic Landau-Zener theory in this particular case.

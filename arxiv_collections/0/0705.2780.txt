@@ -1,0 +1,14 @@
+We describe a method to measure the magnetic field orientation of coronal
+mass ejections (CMEs) using Faraday rotation (FR). Two basic FR profiles,
+Gaussian-shaped with a single polarity or "N"-like with polarity reversals, are
+produced by a radio source occulted by a moving flux rope depending on its
+orientation. These curves are consistent with the Helios observations,
+providing evidence for the flux-rope geometry of CMEs. Many background radio
+sources can map CMEs in FR onto the sky. We demonstrate with a simple flux rope
+that the magnetic field orientation and helicity of the flux rope can be
+determined 2-3 days before it reaches Earth, which is of crucial importance for
+space weather forecasting. An FR calculation based on global
+magnetohydrodynamic (MHD) simulations of CMEs in a background heliosphere shows
+that FR mapping can also resolve a CME geometry curved back to the Sun. We
+discuss implementation of the method using data from the Mileura Widefield
+Array (MWA).

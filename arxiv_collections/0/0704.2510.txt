@@ -1,0 +1,11 @@
+The semiclassical formula for the quantum propagator in the coherent state
+representation $<\mathbf{z}'' | e^{-i\hat{H}T/\hbar} | \mathbf{z}'>$ is not
+free from the problem of caustics. These are singular points along the complex
+classical trajectories specified by $\mathbf{z}'$, $\mathbf{z}''$ and $T$ where
+the usual quadratic approximation fails, leading to divergences in the
+semiclassical formula. In this paper we derive third order approximations for
+this propagator that remain finite in the vicinity of caustics. We use Maslov's
+method and the dual representation proposed in Phys. Rev. Lett. {\bf 95},
+050405 (2005) to derive uniform, regular and transitional semiclassical
+approximations for coherent state propagator in systems with two degrees of
+freedom.

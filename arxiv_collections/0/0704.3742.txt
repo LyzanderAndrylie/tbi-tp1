@@ -1,0 +1,13 @@
+We investigate the behavior of the Gibbs-Shannon entropy of the stationary
+nonequilibrium measure describing a one-dimensional lattice gas, of L sites,
+with symmetric exclusion dynamics and in contact with particle reservoirs at
+different densities. In the hydrodynamic scaling limit, L to infinity, the
+leading order (O(L)) behavior of this entropy has been shown by Bahadoran to be
+that of a product measure corresponding to strict local equilibrium; we compute
+the first correction, which is O(1). The computation uses a formal expansion of
+the entropy in terms of truncated correlation functions; for this system the
+k-th such correlation is shown to be O(L^{-k+1}). This entropy correction
+depends only on the scaled truncated pair correlation, which describes the
+covariance of the density field. It coincides, in the large L limit, with the
+corresponding correction obtained from a Gaussian measure with the same
+covariance.

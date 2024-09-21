@@ -1,0 +1,5 @@
+The characteristics of a MeV ion source driven by superintense, ultrashort
+laser pulses with circular polarization are studied by means of
+particle-in-cell simulations. Predicted features include high efficiency, large
+ion density, low divergence and the possibility of femtosecond duration. A
+comparison with the case of linearly polarized pulses is made.

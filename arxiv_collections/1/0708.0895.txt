@@ -1,0 +1,8 @@
+A matrix Berry phase can be generated and detected by {\it all electric
+means} in II-VI or III-V n-type semiconductor quantum dots by changing the
+shape of the confinement potential. This follows from general symmetry
+considerations in the presence of spin-orbit coupling terms. The resulting 2 x
+2 matrix Berry phase can be characterized by two numbers of geometric origin.
+We investigate how these parameters depend on the shape and area of closed
+adiabatic paths. We suggest how the matrix Berry phase may be detected in
+transport measurements.

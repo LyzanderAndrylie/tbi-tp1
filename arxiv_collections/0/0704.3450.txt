@@ -1,0 +1,6 @@
+Let $F$ be an algebraically closed field of characteristic zero, and let $p$
+be an odd prime. We show that the center of the generic division algebra of
+degree $p$ is stably rational over $F$. Equivalently, if we let $V=M_p(F)
+\oplus M_p(F)$ and $PGL_p$ act on $V$ by simultaneous conjugation, then we show
+that the function field of the quotient variety $V/PGL_p$ is stably rational
+over $F$.

@@ -1,0 +1,9 @@
+Using two trapped ion species ($\rm{^{27}Al^+}$ and $\rm{^9Be^+}$) as primary
+and ancillary systems, we implement qubit measurements based on the repetitive
+transfer of information and quantum nondemolition detection. The repetition
+provides a natural mechanism for an adaptive measurement strategy, which leads
+to exponentially lower error rates compared to using a fixed number of
+detection cycles. For a single qubit we demonstrate 99.94 % measurement
+fidelity. We also demonstrate a technique for adaptively measuring multiple
+qubit states using a single ancilla, and apply the technique to spectroscopy of
+an optical clock transition.

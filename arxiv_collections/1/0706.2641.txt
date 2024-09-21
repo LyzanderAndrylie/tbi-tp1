@@ -1,0 +1,8 @@
+We present results of the performance of the second prototype of the CASTOR
+quartz-tungsten sampling calorimeter, to be installed in the very forward
+region of the CMS experiment at the LHC. The energy linearity and resolution,
+as well as the spatial resolution of the prototype to electromagnetic and
+hadronic showers are studied with E=20-200 GeV electrons, E=20-350 GeV pions,
+and E=50,150 GeV muons from beam tests carried out at CERN/SPS in 2004. The
+responses of the calorimeter using two different types of photodetectors
+(avalanche photodiodes APDs, and photomultiplier tubes PMTs) are compared.

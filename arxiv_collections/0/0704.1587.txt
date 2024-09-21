@@ -1,0 +1,17 @@
+Using Rossi X-ray Timing Explorer Seyfert 1 and 1.2 data spanning 9 years, we
+study correlations between X-ray spectral features. The sample consists of 350
+time-resolved spectra from 12 Seyfert 1 and 1.2 galaxies. Each spectrum is
+fitted to a model with an intrinsic powerlaw X-ray spectrum produced close to
+the central black hole that is reprocessed and absorbed by material around the
+black hole. To test the robustness of our results, we performed Monte Carlo
+simulations of the spectral sample. We find a complex relationship between the
+iron line equivalent width (EW) and the underlying power law index (Gamma). The
+data reveal a correlation between Gamma and EW which turns over at Gamma <~ 2,
+but finds a weak anti-correlation for steeper photon indices. We propose that
+this relationship is driven by dilution of a disk spectrum (which includes the
+narrow iron line) by a beamed jet component and, hence, could be used as a
+diagnostic of jet-dominance. In addition, our sample shows a strong correlation
+between the reflection fraction (R) and Gamma, but we find that it is likely
+the result of modeling degeneracies. We also see the X-ray Baldwin effect (an
+anti-correlation between the 2-10 keV X-ray luminosity and EW) for the sample
+as a whole, but not for the individual galaxies and galaxy types.

@@ -1,0 +1,23 @@
+We investigate the kinetics of loop formation in flexible ideal polymer
+chains (Rouse model), and polymers in good and poor solvents. We show for the
+Rouse model, using a modification of the theory of Szabo, Schulten, and
+Schulten, that the time scale for cyclization is $\tau_c\sim \tau_0 N^2$ (where
+$\tau_0$ is a microscopic time scale and $N$ is the number of monomers),
+provided the coupling between the relaxation dynamics of the end-to-end vector
+and the looping dynamics is taken into account. The resulting analytic
+expression fits the simulation results accurately when $a$, the capture radius
+for contact formation, exceeds $b$, the average distance between two connected
+beads. Simulations also show that, when $a < b$, $\tau_c\sim N^{\alpha_\tau}$,
+where $1.5<{\alpha_\tau}\le 2$ in the range $7<N<200$ used in the simulations.
+By using a diffusion coefficient that is dependent on the length scales $a$ and
+$b$ (with $a<b$), which captures the two-stage mechanism by which looping
+occurs when $a < b$, we obtain an analytic expression for $\tau_c$ that fits
+the simulation results well. The kinetics of contact formation between the ends
+of the chain are profoundly affected when interactions between monomers are
+taken into account. Remarkably, for $N < 100$ the values of $\tau_c$ decrease
+by more than two orders of magnitude when the solvent quality changes from good
+to poor. Fits of the simulation data for $\tau_c$ to a power law in $N$
+($\tau_c\sim N^{\alpha_\tau}$) show that $\alpha_\tau$ varies from about 2.4 in
+a good solvent to about 1.0 in poor solvents. Loop formation in poor solvents,
+in which the polymer adopts dense, compact globular conformations, occurs by a
+reptation-like mechanism of the ends of the chain.

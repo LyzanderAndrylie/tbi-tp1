@@ -1,0 +1,9 @@
+The theory of anomalous Hall effect for the heat transfer in a paramagnetic
+dielectric, discovered experimentally in [1], is developed. The appearance of
+the phonon heat flux normal to both the temperature gradient and the magnetic
+field is connected with the interaction of magnetic ions with the crystal field
+oscillations. In crystals with an arbitrary phonon spectrum this interaction
+creates the elliptical polarization of phonons. The kinetics related to phonon
+scattering induced by the spin-phonon interaction determines an origin of the
+off-diagonal phonon density matrix. The combination of the both factors is
+decisive for the phenomenon under consideration.

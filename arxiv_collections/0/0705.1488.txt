@@ -1,0 +1,10 @@
+We present a general formalism which allows us to derive the evolution
+equations describing one-dimensional (1D) and isotropic 2D interfacelike
+systems, that is based on symmetries, conservation laws, multiple scale
+arguments, and exploits the relevance of coarsening dynamics. Our approach
+becomes especially significant in the presence of surface morphological
+instabilities and allows us to classify the most relevant nonlinear terms in
+the continuum description of these systems. The formalism applies to systems
+ranging from eroded nanostructures to macroscopic pattern formation. In
+particular, we show the validity of the theory for novel experiments on ion
+plasma erosion.

@@ -1,0 +1,10 @@
+Recently the general form of a translation-covariant quantum Boltzmann
+equation has been derived which describes the dynamics of a tracer particle in
+a quantum gas. We develop a stochastic wave function algorithm that enables
+full three-dimensional Monte Carlo simulations of this equation. The simulation
+method is used to study the approach to equilibrium for various scattering
+cross sections and to determine dynamical deviations from Gaussian statistics
+through an investigation of higher-order cumulants. Moreover, we examine the
+loss of coherence of superpositions of momentum eigenstates and determine the
+corresponding decoherence time scales to quantify the transition from quantum
+to classical behavior of the state of the test particle.

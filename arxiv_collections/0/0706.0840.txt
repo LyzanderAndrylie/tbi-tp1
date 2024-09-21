@@ -1,0 +1,8 @@
+We implement and demonstrate a scheme that permits to drive
+electroluminescence with an extremely low turn-on voltage. The device behaves
+like compound semiconductors, in which the electroluminescence turn-on voltage
+is about the same as the open circuit voltage for the photovoltaic effect.
+However, the electroluminescence turn-on voltage is about half of the band gap
+of the emitting material, that cannot be explained using current models of
+charge injection in organic semiconductors. We hereby propose explanation
+through an Auger-type two-step injection mechanism (Auger-fountain).

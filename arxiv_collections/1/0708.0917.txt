@@ -1,0 +1,18 @@
+Compton scattering is one of the dominant interaction processes in germanium
+for photons with an energy of around two MeV. If a photon scatters only once
+inside a germanium detector, the resulting event contains only one electron
+which normally deposits its energy within a mm range. Such events are similar
+to Ge-76 neutrinoless double beta-decay events with just two electrons in the
+final state. Other photon interactions like pair production or multiple
+scattering can result in events composed of separated energy deposits. One
+method to identify the multiple energy deposits is the use of timing
+information contained in the electrical response of a detector or a segment of
+a detector.
+  The procedures developed to separate single- and multiple-site events are
+tested with specially selected event samples provided by an 18-fold segmented
+prototype germanium detector for Phase II of the GERmanium Detector Array,
+GERDA. The single Compton scattering, i.e. single-site, events are tagged by
+coincidently detecting the scattered photon with a second detector positioned
+at a defined angle. A neural network is trained to separate such events from
+events which come from multi-site dominated samples. Identification
+efficiencies of ~80% are achieved for both single- and multi-site events.

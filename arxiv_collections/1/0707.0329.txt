@@ -1,0 +1,12 @@
+The problem of intermediates in the fossil record has been frequently
+discussed ever since Darwin. The extent of `gaps' (missing transitional stages)
+has been used to argue against gradual evolution from a common ancestor.
+Traditionally, gaps have often been explained by the improbability of
+fossilization and the discontinuous selection of found fossils. Here we take an
+analytical approach and demonstrate why, under certain sampling conditions, we
+may not expect intermediates to be found. Using a simple null model, we show
+mathematically that the question of whether a taxon sampled from some time in
+the past is likely to be morphologically intermediate to other samples (dated
+earlier and later) depends on the shape and dimensions of the underlying
+phylogenetic tree that connects the taxa, and the times from which the fossils
+are sampled.

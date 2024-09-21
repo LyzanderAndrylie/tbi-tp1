@@ -1,0 +1,11 @@
+Magnetic tunnel junctions with a ferrimagnetic barrier layer have been
+studied to understand the role of the barrier layer in the tunneling process -
+a factor that has been largely overlooked until recently. Epitaxial oxide
+junctions of highly spin polarized La0.7Sr0.3MnO3 and Fe3O4 electrodes with
+magnetic NiMn2O4 (NMO) insulating barrier layers provide a magnetic tunnel
+junction system in which we can probe the effect of the barrier by comparing
+junction behavior above and below the Curie temperature of the barrier layer.
+When the barrier is paramagnetic, the spin polarized transport is dominated by
+interface scattering and surface spin waves; however, when the barrier is
+ferrimagnetic, spin flip scattering due to spin waves within the NMO barrier
+dominates the transport.

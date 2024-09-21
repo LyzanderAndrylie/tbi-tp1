@@ -1,0 +1,12 @@
+A tropical version of Nevanlinna theory is described in which the role of
+meromorphic functions is played by continuous piecewise linear functions of a
+real variable whose one-sided derivatives are integers at every point. These
+functions are naturally defined on the max-plus (or tropical) semi-ring.
+Analogues of the Nevanlinna characteristic, proximity and counting functions
+are defined and versions of Nevanlinna's first main theorem, the lemma on the
+logarithmic derivative and Clunie's lemma are proved.
+  As well as providing another example of a tropical or dequantized analogue of
+an important area of complex analysis, this theory has applications to
+so-called ultra-discrete equations. Preliminary results are presented
+suggesting that the existence of finite-order max-plus meromorphic solutions
+can be considered to be an ultra-discrete analogue of the Painlev'e property.

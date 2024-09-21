@@ -1,0 +1,12 @@
+The stochastic knapsack has been used as a model in wide ranging applications
+from dynamic resource allocation to admission control in telecommunication. In
+recent years, a variation of the model has become a basic tool in studying
+problems that arise in revenue management and dynamic/flexible pricing; and it
+is in this context that our study is undertaken. Based on a dynamic programming
+formulation and associated properties of the value function, we study in this
+paper a class of control that we call switch-over policies -- start from
+accepting only orders of the highest price, and switch to including lower
+prices as time goes by, with the switch-over times optimally decided via convex
+programming. We establish the asymptotic optimality of the switch-over policy,
+and develop pricing models based on this policy to optimize the price
+reductions over the decision horizon.

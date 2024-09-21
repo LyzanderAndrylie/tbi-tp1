@@ -1,0 +1,13 @@
+Detection of a separator line that connects magnetic nulls and the
+determination of the dynamics and plasma environment of such a structure can
+improve our understanding of the three-dimensional (3D) magnetic reconnection
+process. However, this type of field and particle configuration has not been
+directly observed in space plasmas. Here we report the identification of a pair
+of nulls, the null-null line that connects them, and associated fans and spines
+in the magnetotail of Earth using data from the four Cluster spacecraft. With
+di and de designating the ion and electron inertial lengths, respectively, the
+separation between the nulls is found to be ~0.7di and an associated
+oscillation is identified as a lower hybrid wave with wavelength ~ de. This in
+situ evidence of the full 3D reconnection geometry and associated dynamics
+provides an important step toward to establishing an observational framework of
+3D reconnection.

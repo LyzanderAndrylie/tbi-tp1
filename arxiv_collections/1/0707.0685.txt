@@ -1,0 +1,16 @@
+A major goal of developing high-precision control of many-body quantum
+systems is to realise their potential as quantum computers. Probably the most
+significant obstacle in this direction is the problem of "decoherence": the
+extreme fragility of quantum systems to environmental noise and other control
+limitations. The theory of fault-tolerant quantum error correction has shown
+that quantum computation is possible even in the presence of decoherence
+provided that the noise affecting the quantum system satisfies certain
+well-defined theoretical conditions. However, existing methods for noise
+characterisation have become intractable already for the systems that are
+controlled in today's labs. In this paper we introduce a technique based on
+symmetrisation that enables direct experimental characterisation of key
+properties of the decoherence affecting a multi-body quantum system. Our method
+reduces the number of experiments required by existing methods from exponential
+to polynomial in the number of subsystems. We demonstrate the application of
+this technique to the optimisation of control over nuclear spins in the solid
+state.

@@ -1,0 +1,17 @@
+The topological structures of the Internet and the Web have received
+considerable attention. However, there has been little research on the
+topological properties of individual web sites. In this paper, we consider
+whether web sites (as opposed to the entire Web) exhibit structural
+similarities. To do so, we exhaustively crawled 18 web sites as diverse as
+governmental departments, commercial companies and university departments in
+different countries. These web sites consisted of as little as a few thousand
+pages to millions of pages. Statistical analysis of these 18 sites revealed
+that the internal link structure of the web sites are significantly different
+when measured with first and second-order topological properties, i.e.
+properties based on the connectivity of an individual or a pairs of nodes.
+However, examination of a third-order topological property that consider the
+connectivity between three nodes that form a triangle, revealed a strong
+correspondence across web sites, suggestive of an invariant. Comparison with
+the Web, the AS Internet, and a citation network, showed that this third-order
+property is not shared across other types of networks. Nor is the property
+exhibited in generative network models such as that of Barabasi and Albert.

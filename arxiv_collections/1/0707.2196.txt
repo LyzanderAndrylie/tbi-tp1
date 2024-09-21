@@ -1,0 +1,10 @@
+We study the reduced single-particle density matrix (RSPDM), the momentum
+distribution, natural orbitals and their occupancies, of dark "soliton" (DS)
+states in a Tonks-Girardeau gas. DS states are specially tailored excited
+many-body eigenstates, which have a dark solitonic notch in their
+single-particle density. The momentum distribution of DS states has a
+characteristic shape with two sharp spikes. We find that the two spikes arise
+due to the high degree of correlation observed within the RSPDM between the
+mirror points ($x$ and $-x$) with respect to the dark notch at $x=0$; the
+correlations oscillate rather than decay as the points $x$ and $-x$ are being
+separated.

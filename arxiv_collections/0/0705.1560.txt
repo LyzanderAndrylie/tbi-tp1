@@ -1,0 +1,11 @@
+Quantum state transfer is an important task in quantum information
+processing. It is known that one can engineer the couplings of a
+one-dimensional spin chain to achieve the goal of perfect state transfer. To
+leverage the value of these spin chains, a spin star is potentially useful for
+connecting different parts of a quantum network. In this work, we extend the
+spin-chain engineering problem to the problems with a topology of a star
+network. We show that a permanently coupled spin star can function as a network
+switch for transferring quantum states selectively from one node to another by
+varying the local potentials only. Together with one-dimensional chains, this
+result allows applications of quantum state transfer be applied to more general
+quantum networks.

@@ -1,0 +1,11 @@
+Events with observed D* and/or muons in the final state were used to indicate
+the presence of beauty quark production and to study the correlations between
+the particles coming from the same or different B-hadrons. The Next-to-Leading
+Order (NLO) theoretical predictions for such processes were often available
+only at parton level. A method to calculate visible level cross sections at
+NLO, based on an interface of the FMNR program to PYTHIA 6.2, is applied. It
+uses the NLO description at b-quark level provided by FMNR applying a
+statistical reduction procedure (REDSTAT) that allows the link to PYTHIA, from
+where the description of the B-hadron decay chain is obtained. Comparisons of
+the data and NLO cross sections at visible and b-quark level were found to be
+consistent and equivalent.

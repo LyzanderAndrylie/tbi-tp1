@@ -1,0 +1,7 @@
+Key-exchange protocols have been overlooked as a possible means for
+implementing oblivious transfer (OT). In this paper we present a protocol for
+mutual exchange of secrets, 1-out-of-2 OT and coin flipping similar to
+Diffie-Hellman protocol using the idea of obliviously exchanging encryption
+keys. Since, Diffie-Hellman scheme is widely used, our protocol may provide a
+useful alternative to the conventional methods for implementation of oblivious
+transfer and a useful primitive in building larger cryptographic schemes.

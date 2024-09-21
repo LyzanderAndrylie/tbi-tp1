@@ -1,0 +1,7 @@
+In the Intriligator-Seiberg-Shih model, we parametrize spontaneous breaking
+of $U(1)_R$ symmetry with two gauge singlets with R-charges 1 and --1. These
+singlets can play the role of the messengers. The messenger scale is
+dynamically generated, and hence there is no hierarchy problem between the
+supersymmetry breaking scale and the messenger scale. In the gauge mediation
+scenario, supersymmetry breaking scale turns out to be around
+$\mathcal{O}(10^6)\textrm{GeV}$.

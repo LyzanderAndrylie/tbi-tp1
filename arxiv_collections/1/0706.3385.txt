@@ -1,0 +1,8 @@
+A finite range density and momentum dependent effective interaction is used
+to calculate the density and temperature dependence of the symmetry energy
+coefficient Csym(rho,T) of infinite nuclear matter. This symmetry energy is
+then used in the local density approximation to evaluate the excitation energy
+dependence of the symmetry energy coefficient of finite nuclei in a
+microcanonical formulation that accounts for thermal and expansion effects. The
+results are in good harmony with the recently reported experimental data from
+energetic nucleus-nucleus collisions.

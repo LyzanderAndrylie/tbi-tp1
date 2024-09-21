@@ -1,0 +1,7 @@
+A simple theory of the detected current I(t) flowing through charge qubits --
+quantum dots -- is proposed in terms of standard continuous measurement theory.
+Applied to a double dot, our formalism easily confirms previous results on
+quantum Zeno effect, driven by growing ammeter performance gamma. Due to the
+transparent formalism, we can calculate the exact fluctuation spectrum S(omega)
+of the detected current, containing a significant Lorentzian peak near the Rabi
+frequency of the double dot.

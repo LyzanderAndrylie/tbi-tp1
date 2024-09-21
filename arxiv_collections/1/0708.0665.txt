@@ -1,0 +1,19 @@
+Laser cooling of the atomic motion paved the way for remarkable achievements
+in the fields of quantum optics and atomic physics, including Bose-Einstein
+condensation and the trapping of atoms in optical lattices. More recently
+superconducting qubits were shown to act as artificial two-level atoms,
+displaying Rabi oscillations, Ramsey fringes, and further quantum effects.
+Coupling such qubits to resonators brought the superconducting circuits into
+the realm of quantum electrodynamics (circuit QED). It opened the perspective
+to use superconducting qubits as micro-coolers or to create a population
+inversion in the qubit to induce lasing behavior of the resonator. Furthering
+these analogies between quantum optical and superconducting systems we
+demonstrate here Sisyphus cooling of a low frequency LC oscillator coupled to a
+near-resonantly driven superconducting qubit. In the quantum optics setup the
+mechanical degrees of freedom of an atom are cooled by laser driving the atom's
+electronic degrees of freedom. Here the roles of the two degrees of freedom are
+played by the LC circuit and the qubit's levels, respectively. We also
+demonstrate the counterpart of the Sisyphus cooling, namely Sisyphus
+amplification. Parallel to the experimental demonstration we analyze the system
+theoretically and find quantitative agreement, which supports the
+interpretation and allows us to estimate system parameters.

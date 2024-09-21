@@ -1,0 +1,9 @@
+The strong-property-fluctuation theory (SPFT) provides a sophisticated means
+of estimating the effective constitutive parameters of a homogenized composite
+material (HCM), which takes account of the statistical distribution of the
+component particles. We present an extended version of the third-order SPFT in
+which the component particles are represented as depolarization regions of
+nonzero volume. Numerical results are provided for a bianisotropic
+homogenization scenario wherein the HCM is a Faraday chiral medium. Thereby,
+convergence of the extended SPFT at the second-order level of approximation is
+demonstrated within the long-wavelength regime.

@@ -1,0 +1,10 @@
+Correlations of detection events in photodetectors placed at the opposite
+sides of a beam splitter are studied in the frame of classical probability
+theory. It is assumed that there is always one photon present during one
+elementary measurement (one measurement act). Due to the conservation of
+energy, thereis a strict anticorrelation in detections in one elementary
+experiment, because the photon cannot excite both of the detectors at the same
+time. It is explicitely shown in several examples that the bunching or
+anti-bunching of the counts in serieses of elementary single-photon experiments
+are governed by the statistical properties of grouping the sequences of the
+elementary measurements.

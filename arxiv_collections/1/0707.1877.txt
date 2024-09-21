@@ -1,0 +1,8 @@
+A simple, geometrical construction is given for three-dimensional spacetimes
+with negative cosmological constant that contain two particles colliding
+head-on. Depending on parameters like particle masses and distance, the
+combined geometry will the that of a particle, or of a black hole. In the black
+hole case the horizon is calculated. It is found that that the horizon
+typically starts at a point and spreads into a closed curve with corners, which
+propagate along spacelike caustics and disappear as the horizon passes the
+particles.

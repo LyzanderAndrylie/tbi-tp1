@@ -1,0 +1,5 @@
+We predict that parametric sum-frequency generation of an ultra-short pulse
+may result from the mixing of an ultra-short optical pulse with a
+quasi-continuous wave control. We analytically show that the intensity, time
+duration and group velocity of the generated idler pulse may be controlled in a
+stable manner by adjusting the intensity level of the background pump.

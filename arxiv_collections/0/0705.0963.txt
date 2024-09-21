@@ -1,0 +1,16 @@
+We investigate the use of optical variability to identify and study Active
+Galactic Nuclei (AGN) in the GOODS-South field. A sample of 22 mid-infrared
+power law sources and 102 X-ray sources with optical counterparts in the HST
+ACS images were selected. Each object is classified with a variability
+significance value related to the standard deviation of its magnitude in five
+epochs separated by 45-day intervals. The variability significance is compared
+to the optical, mid-IR, and X-ray properties of the sources. We find that 26%
+of all AGN candidates (either X-ray- or mid-IR-selected) are optical variables.
+The fraction of optical variables increases to 51% when considering sources
+with soft X-ray band ratios. For the mid-IR AGN candidates which have
+multiwavelength SEDs, we find optical variability for 64% of those classified
+with SEDs like Broad Line AGNs. While mostly unobscured AGN appear to have the
+most significant optical variability, some of the more obscured AGNs are also
+observed as variables. In particular, we find two mid-IR power law-selected AGN
+candidates without X-ray emission that display optical variability, confirming
+their AGN nature.

@@ -1,0 +1,9 @@
+Introducing the fermionic R-operator and solutions of the inverse scattering
+problem for local fermion operators, we derive a multiple integral
+representation for zero-temperature correlation functions of a one-dimensional
+interacting spinless fermion model. Correlation functions particularly
+considered are the one-particle Green's function and the density-density
+correlation function both for any interaction strength and for arbitrary
+particle densities. In particular for the free fermion model, our formulae
+reproduce the known exact results. Form factors of local fermion operators are
+also calculated for a finite system.

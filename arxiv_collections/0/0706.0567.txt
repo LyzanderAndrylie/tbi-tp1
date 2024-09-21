@@ -1,0 +1,5 @@
+The notion of relative cuspidality for distinguished representations attached
+to $p$-adic symmetric spaces is introduced. A characterization of relative
+cuspidality in terms of Jacquet modules is given and a generalization of
+Jacquet's subrepresentation theorem to the relative case (symmetric space case)
+is established.

@@ -1,0 +1,3 @@
+In this article, we derive a new generalization of Chebyshev inequality for
+random vectors. We demonstrate that the new generalization is much less
+conservative than the classical generalization.

@@ -1,0 +1,5 @@
+We discuss the notion of the orbifold transform, and illustrate it on simple
+examples. The basic properties of the transform are presented, including
+transitivity and the exponential formula for symmetric products. The connection
+with the theory of permutation orbifolds is addressed, and the general results
+illustrated on the example of torus partition functions.

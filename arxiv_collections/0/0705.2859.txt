@@ -1,0 +1,11 @@
+We study complex-analytic properties of the augmented Teichmuller spaces ATS
+introduced by Lipman Bers. These spaces are obtained by adding to the classical
+Teichmuller space TS the points corresponding to nodal Riemann surfaces. Unlike
+TS, the space ATS is not a complex manifold (it is not even locally compact).
+We prove however that the quotient of ATS by any finite index subgroup of the
+Teichmuller modular group has a canonical structure of a complex orbifold.
+Using this structure we construct natural maps from ATS to stacks of admissible
+coverings of stable Riemann surfaces. This result is important for
+understanding the cup-product in stringy orbifold cohomology. We also establish
+some new technical results from the general theory of orbifolds which may be of
+independent interest.

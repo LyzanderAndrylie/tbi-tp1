@@ -1,0 +1,24 @@
+We studied response of the Josephson vortex lattice in layered
+superconductors to the high-frequency c-axis electric field. We found a simple
+relation connecting the dynamic dielectric constant with the perturbation of
+the superconducting phase, induced by oscillating electric field. Numerically
+solving equations for the oscillating phases, we computed the frequency
+dependences of the loss function at different magnetic fields, including
+regions of both dilute and dense Josephson vortex lattices. The overall
+behavior is mainly determined by the c-axis and in-plane dissipation
+parameters, which is inversely proportional to the anisotropy. The cases of
+weak and strong dissipation are realized in
+$\mathrm{Bi_{2}Sr_{2}CaCu_{2}O_{x}}$ and underdoped $\mathrm{YBa_{2}Cu_{3}
+O_{x}}$ correspondingly. The main feature of the response is the
+Josephson-plasma-resonance peak. In the weak-dissipation case additional
+satellites appear in the dilute regime mostly in the higher-frequency region
+due to excitation of the plasma modes with the wave vectors set by the lattice
+structure. In the dense-lattice limit the plasma peak moves to higher frequency
+and its intensity rapidly decreases, in agreement with experiment and
+analytical theory. Behavior of the loss function at low frequencies is well
+described by the phenomenological theory of vortex oscillations. In the case of
+very strong in-plane dissipation an additional peak in the loss function
+appears below the plasma frequency. Such peak has been observed experimentally
+in underdoped $\mathrm{YBa_{2}Cu_{3} O_{x}}$. It is caused by frequency
+dependence of in-plane contribution to losses rather then a definite mode of
+phase oscillations.

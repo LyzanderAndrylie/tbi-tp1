@@ -1,0 +1,12 @@
+We report a first in modeling and simulation of the effects of the HIV
+proteins on the (caspase dependent) apoptotic pathway in infected cells. This
+work is novel and is an extension on the recent reports and clarifications on
+the FAS apoptotic pathway from the literature. We have gathered most of the
+reaction rates and initial conditions from the literature, the rest of the
+constants have been computed by fitting our model to the experimental results
+reported. Using the model obtained we have then run the simulations for the
+infected memory T cells, called also latent T cells, which, at the moment,
+represent the major obstacle to finding a cure for HIV. We can now report that
+the infected latent T cells have an estimated lifetime of about 42 hours from
+the moment they are re-activated. As far as we know this is the first result of
+this type obtained for the infected memory T cells.

@@ -1,0 +1,3 @@
+We prove a new formula for the generating function of polynomials counting
+absolutely stable representations of quivers over finite fields. The case of
+irreducible representations is studied in more detail.

@@ -1,0 +1,6 @@
+We discuss quantum evolution of a decaying state in relation to a recent
+experiment of Katz et al. Based on exact analytical and numerical solutions of
+a simple model, we identify a regime where qubit retains coherence over a
+finite time interval independently of the rates of three competing decoherence
+processes. In this regime, the quantum decay process can be continuously
+monitored via a ``weak'' measurement without affecting the qubit coherence.

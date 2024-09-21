@@ -1,0 +1,8 @@
+Starting from the minimal model for the electrically interacting particle
+densities in negative streamer discharges, we derive a moving boundary
+approximation for the ionization fronts. The boundary condition on the moving
+front is found to be of 'kinetic undercooling' type. The boundary
+approximation, whose first results have been published in [Meulenbroek et al.,
+PRL 95, 195004 (2005)], is then tested against 2-dimensional simulations of the
+density model. The results suggest that our moving boundary approximation
+adequately represents the essential dynamics of negative streamer fronts.

@@ -1,0 +1,11 @@
+We derive the exact longitudinal plasmon dispersion relations, $\omega(k)$ of
+classical one and two dimensional Wigner crystals at T=0 from the real space
+equations of motion, of which properly accounts for the full unscreened Coulomb
+interactions. We make use of the polylogarithm function in order to evaluate
+the infinite lattice sums of the electrostatic force constants. From our exact
+results we recover the correct long-wavelength behavior of previous approximate
+methods. In 1D, $\omega(k) \sim | k |\log ^{1/2} (1/k)$, validating the known
+RPA and bosonization form. In 2D $\omega(k) \sim \sqrt k$, agreeing remarkably
+with the celebrated Ewald summation result. Additionally, we extend this
+analysis to calculate the band structure of tight-binding models of
+non-interacting electrons with arbitrary power law hopping.

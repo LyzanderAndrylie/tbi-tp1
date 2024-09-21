@@ -1,0 +1,8 @@
+The parametric dependence of a quantum map under the influence of a rank-1
+perturbation is investigated. While the Floquet operator of the map and its
+spectrum have a common period with respect to the perturbation strength
+$\lambda$, we show an example in which none of the quasienergies nor the
+eigenvectors obey the same period: After a periodic increment of $\lambda$, the
+quasienergy arrives at the nearest higher one, instead of the initial one,
+exhibiting an anholonomy, which governs another anholonomy of the eigenvectors.
+An application to quantum state manipulations is outlined.

@@ -1,0 +1,12 @@
+We theoretically discuss how to tune the competition between Forster transfer
+and spontaneous emission in a continuous and nondestructive fashion. The
+proposed approach is especially suitable for delicate biological systems like
+light harvesting complexes and fluorescent protein oligomers. We demonstrate
+that the manipulation of the density of photonic states at the emission
+frequency of the energy donor results in a change of the quantum efficiencies
+of the competing energy transfer and spontaneous emission processes. This
+change will be manifested in a modification of the donor and acceptor emission
+intensities. Thus, by controlling the local density of photonic states Forster
+coupled systems can be manipulated and analyzed without the need to physically
+separate donor and acceptor chromophores for individual analysis, which is of
+interest, for example, for oligomeric reef coral fluorescent proteins.

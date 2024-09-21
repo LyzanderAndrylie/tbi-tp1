@@ -1,0 +1,8 @@
+Recently two papers [K. Jacobs, Phys. Rev. A {\bf 67}, 030301(R) (2003); H.
+M. Wiseman and J. F. Ralph, New J. Physics {\bf 8}, 90 (2006)] have derived
+control strategies for rapid purification of qubits, optimized with respect to
+various goals. In the former paper the proof of optimality was not
+mathematically rigorous, while the latter gave only heuristic arguments for
+optimality. In this paper we provide rigorous proofs of optimality in all
+cases, by applying simple concepts from optimal control theory, including
+Bellman equations and verification theorems.

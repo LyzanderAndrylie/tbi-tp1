@@ -1,0 +1,22 @@
+In this article, we review the current status of Finsler-Lagrange geometry
+and generalizations. The goal is to aid non-experts on Finsler spaces, but
+physicists and geometers skilled in general relativity and particle theories,
+to understand the crucial importance of such geometric methods for applications
+in modern physics. We also would like to orient mathematicians working in
+generalized Finsler and Kahler geometry and geometric mechanics how they could
+perform their results in order to be accepted by the community ''orthodox''
+physicists. Although the bulk of former models of Finsler-Lagrange spaces where
+elaborated on tangent bundles, the surprising result advocated in our works is
+that such locally anisotropic structures can be modelled equivalently on
+Riemann-Cartan spaces, even as exact solutions in Einstein and/or string
+gravity, if nonholonomic distributions and moving frames of references are
+introduced into consideration. We also propose a canonical scheme when
+geometrical objects on a (pseudo) Riemannian space are nonholonomically
+deformed into generalized Lagrange, or Finsler, configurations on the same
+manifold or on a corresponding tangent bundle. Such canonical transforms are
+defined by the coefficients of a prime metric (it can be a solution of the
+Einstein equations) and generate target spaces as generalized Lagrange
+structures, their models of almost Hermitian/ Kahler, or nonholonomic Riemann
+spaces with constant curvature, for some Finsler like connections. There are
+formulated the criteria when such constructions can be redefined equivalently
+in terms of the Levi Civita connection.

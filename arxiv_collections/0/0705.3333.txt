@@ -1,0 +1,5 @@
+This study examines the simulation of quantum algorithms on a classical
+computer. The program code implemented on a classical computer will be a
+straight connection between the mathematical formulation of quantum mechanics
+and computational methods. The computational language will include formulations
+such as quantum state, superposition and quantum operator.

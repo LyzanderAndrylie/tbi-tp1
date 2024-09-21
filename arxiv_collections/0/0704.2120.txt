@@ -1,0 +1,18 @@
+We provide a grid of PHOENIX spectra of red giant and supergiant stars, that
+extend through optical and near-IR wavelengths. For the first time, models are
+also provided with modified surface abundances of C, N and O, as a step towards
+accounting for the changes known to occur due to convective dredge-up (and to
+be enhanced in the case of rotation). The aims are (i) to assess how well
+current models reproduce observed spectra, (ii) to quantify the effects of the
+abundance changes on the spectra, and (iii) to determine how these changes
+affect estimates of fundamental stellar parameters.
+  Observed giant star spectra can be fitted very well at solar metallicity down
+to about 3400K. Modified surface abundances are preferred in only a minority of
+cases for luminosity class II, possibly indicating mixing in excess of standard
+first dredge-up.
+  Supergiant stars show a larger variety of near-IR spectra, and good fits are
+currently obtained for about one third of the observations only. Modified
+surface abundances help reproducing strong CN bands, but do not suffice to
+resolve all the difficulties. The effect of the abundance changes on the
+estimated Teff depends on the wavelength range of observation and can amount
+several 100K. Reasons for the remaining discrepancies are discussed.

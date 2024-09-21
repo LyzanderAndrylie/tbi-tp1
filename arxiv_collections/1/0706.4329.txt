@@ -1,0 +1,12 @@
+A cosmological model connecting the evolution of universe with a sequence of
+topology changes described by a collection of specific graph cobordisms, is
+constructed. It is shown that an adequate topological field theory (of BF-type)
+can be put into relation to each graph cobordism. The explicit expressions for
+transition amplitudes (partition functions) are written in these BF-models and
+it is shown that the basic topological invariants of the graph cobordisms
+(intersection matrices) play the r{\^o}le of coupling constants between the
+formal analogues of electric and magnetic fluxes quantized {\`a} la Dirac, but
+with the use of Poicar{\'e}--Lefschetz duality. For a specific graph cobordism,
+the diagonal elements and eigenvalues of the intersection matrix reproduce the
+hierarchy of dimensionless low-energy coupling constants of the fundamental
+interactions acting in the real universe.

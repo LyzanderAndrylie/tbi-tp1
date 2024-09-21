@@ -1,0 +1,10 @@
+We study the process by which quantum correlations are created when an
+interaction Hamiltonian is repeatedly applied to a system of two harmonic
+oscillators for some characteristic time interval. We show that, for the case
+where the oscillator frequencies are equal, the initial Maxwell-Boltzmann
+distributions of the uncoupled parts evolve to a new equilibrium
+Maxwell-Boltzmann distribution through a series of transient Maxwell-Boltzmann
+distributions. Further, we discuss why the equilibrium reached when the two
+oscillator frequencies are unequal, is not a thermal one. All the calculations
+are exact and the results are obtained through an iterative process, without
+using perturbation theory.

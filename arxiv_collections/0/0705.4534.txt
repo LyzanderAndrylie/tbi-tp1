@@ -1,0 +1,10 @@
+We study occurrences of patterns on clusters of size n in random fields on
+Z^d. We prove that for a given pattern, there is a constant a>0 such that the
+probability that this pattern occurs at most an times on a cluster of size n is
+exponentially small. Moreover, for random fields obeying a certain Markov
+property, we show that the ratio between the numbers of occurrences of two
+distinct patterns on a cluster is concentrated around a constant value. This
+leads to an elegant and simple proof of the ratio limit theorem for these
+random fields, which states that the ratio of the probabilities that the
+cluster of the origin has sizes n+1 and n converges as n tends to infinity.
+Implications for the maximal cluster in a finite box are discussed.

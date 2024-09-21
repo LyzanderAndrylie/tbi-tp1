@@ -1,0 +1,12 @@
+We discuss in this article a property of action of groups by isometries
+called "well displacing". An action is said to be well displacing, if the
+displacement function is equivalent to the the displacement function for the
+action on the Cayley graph. We relate this property with the fact that orbit
+maps are quasi-isometric embeddings. We first describe countrexamples that
+shows this two notions are unrelated in general. On the other hand we explain
+that for a certain class of groups -- in particular hyperbolic groups -- these
+two properties are equivalent. In the course of our discussion, we introduce an
+intrinsic property of the group -- that we called the U-property -- which says
+quantitatively how the norm an element is controlled by the translation length
+of finitely many related conjugacy classes. This property play a central role
+in our discussion.

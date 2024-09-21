@@ -1,0 +1,8 @@
+Rotation and reflection symmetries impose that out-of-plane (flexural)
+phonons of free-standing graphene membranes have a quadratic dispersion at long
+wavelength and can be excited by charge carriers in pairs only. As a result, we
+find that flexural phonons dominate the phonon contribution to the resistivity
+$\rho$ below a crossover temperature T_x where we obtain an anomalous
+temperature dependence $\rho\propto T^{5/2}_{}\ln T$. The logarithmic factor
+arises from renormalizations of the flexural phonon dispersion due to coupling
+between bending and stretching degrees of freedom of the membrane.

@@ -1,0 +1,11 @@
+A general formalism is used to express the long-range potential energies in
+inverse powers of the separation distance between two like atomic or molecular
+systems with $P$ symmetries. The long-range molecular interaction coefficients
+are calculated for the molecular symmetries $\Delta$, $\Pi$, and $\Sigma$,
+arising from the following interactions: He($2 ^1P$)--He($2 ^1P$), He($2
+^1P$)--He($2 ^3P$), and He($2 ^3P$)--He($2 ^3P$). The electric
+quadrupole-quadrupole term, $C_{5}$, the van der Waals (dispersion) term
+$C_{6}$, and higher-order terms, $C_{8}$, and $C_{10}$, are calculated
+\textit{ab initio} using accurate variational wave functions in Hylleraas
+coordinates with finite nuclear mass effects. A comparison is made with
+previously published results where available.

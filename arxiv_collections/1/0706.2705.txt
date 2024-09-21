@@ -1,0 +1,9 @@
+We derive exact solitonic solutions of the one-dimensional time-dependent
+Gross-Pitaevskii equation with time-dependent strengths of the harmonic
+external potential and the interatomic interaction. The time-dependence of the
+external potential and interatomic interaction are given in terms of a general
+function of time. For an oscillating strength of the external potential, the
+solutions correspond to breathing single and multiple solitons. The amplitude
+and frequency of the oscillating potential can be used to control the dynamics
+of the center of mass of the solitons. For certain values of these parameters,
+the solitons can be {\it trapped} at the center of the harmonic potential.

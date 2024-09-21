@@ -1,0 +1,12 @@
+Let P(x) be a one-variable Laurent polynomial of degree (d_1,d_2) over a
+finite field of characteristic p. For any fixed positive integer s not
+divisible by p, we prove that the (normalized) p-adic Newton polygon of the
+L-functions of exponential sums of P(x^s) has a tight lower bound which we call
+`Hodge-Stickelberger polygon', depending only on d_1,d_2,s, and (p mod s). This
+Hodge-Stickelberger polygon is a weighted convolution of a `Hodge polygon' for
+L-function of exponential sum of P(x) and the `Newton polygon' for L-function
+of exponential sum of x^s (given by the classical Stickelberger theory). We
+prove an analogous Hodge-Stickelberger lower bound for multivariable Laurent
+polynomials as well.
+  We prove this Hodge-Stickelberger polygon is the limit of generic Newton
+polygons of P(x^s) in a sense that was made explicit in the paper.

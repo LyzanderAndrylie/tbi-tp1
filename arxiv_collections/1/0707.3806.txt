@@ -1,0 +1,14 @@
+High-resolution accelerometer and laser gyroscope measurements were performed
+in the vicinity of spinning rings at cryogenic temperatures. After passing a
+critical temperature, which does not coincide with the material's
+superconducting temperature, the angular acceleration and angular velocity
+applied to the rotating ring could be seen on the sensors although they are
+mechanically de-coupled. A parity violation was observed for the laser
+gyroscope measurements such that the effect was greatly pronounced in the
+clockwise-direction only. The experiments seem to compare well with recent
+independent tests obtained by the Canterbury Ring Laser Group and the
+Gravity-Probe B satellite. All systematic effects analyzed so far are at least
+3 orders of magnitude below the observed phenomenon. The available experimental
+data indicates that the fields scale similar to classical frame-dragging
+fields. A number of theories that predicted large frame-dragging fields around
+spinning superconductors can be ruled out by up to 4 orders of magnitude.

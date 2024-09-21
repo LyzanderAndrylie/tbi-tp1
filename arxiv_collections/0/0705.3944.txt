@@ -1,0 +1,14 @@
+The production of new spin-1 chiral bosons at the hadron colliders, the
+Fermilab Tevatron and the CERN LHC, is considered. The masses of the chiral
+bosons can be determined on the basis of experimental data of precise
+low-energy experiments, which already indicate indirectly their existence. They
+can explain, for example, the serious 4.5 sigma discrepancy between the
+measured and the predicted two pion branching ratio of the tau decay and the
+sign of the 3.3 sigma deviation of the muon (g-2) theoretical prediction from
+the experimental value. Quantitative evaluations of the various differential
+cross-sections of the chiral boson production at hadron colliders are made
+using the CalcHEP package. It is noteworthy that the Tevatron data already hint
+the existence of the lightest charged chiral boson with a mass around 500 GeV.
+New Tevatron data and the LHC results will definitely confirm or reject this
+indication. In the positive case the LHC would be able to discover all
+predicted charged and neutral chiral bosons spanning in mass up to 1 TeV.

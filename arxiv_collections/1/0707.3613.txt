@@ -1,0 +1,7 @@
+We report on quantum dot based Josephson junctions designed specifically for
+measuring the supercurrent. From high-accuracy fitting of the current-voltage
+characteristics we determine the full magnitude of the supercurrent (critical
+current). Strong gate modulation of the critical current is observed through
+several consecutive Coulomb blockade oscillations. The critical current crosses
+zero close to, but not at, resonance due to the so-called 0-$\pi$ transition in
+agreement with a simple theoretical model.

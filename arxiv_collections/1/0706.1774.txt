@@ -1,0 +1,20 @@
+The Dicke model describes an ensemble of N identical two-level atoms (qubits)
+coupled to a single mode of a bosonic field. The fermion Dicke model should be
+obtained by changing the atomic pseudo-spin operators by a linear combination
+of Fermi operators. The generalized fermion Dicke model is defined introducing
+different coupling constants between the single mode of the bosonic field and
+the reservoir. In the thermodynamic limit, the fermion Dicke model can be
+analized using the path integral approach with functional method. The system
+exhibits a second order phase transition from normal to superrandiance at some
+critical temperature with the presence of a condensate. We evaluate the
+critical transition temperature and present the spectrum of the collective
+bosonic excitations. There is quantum phantum critical behavior when the
+coupling constants satisfy an especific condition. Two particular situations
+are analyzed. First, we present the spectrum of the collective bosonic
+excitations in the case using the rotating-wave approximation, recovering the
+well know results. Second, the case only considering virtual processes. In the
+last case, it is possible to have a superradiance phase when only virtual
+processes are introduced in the interaction Hamiltonian. Here also appears a
+quantum phase transition at some critical coupling, and for larger values for
+the critical coupling, the system enter in this superradiant phase with a
+Goldstone mode.

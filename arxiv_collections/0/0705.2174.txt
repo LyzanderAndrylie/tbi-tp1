@@ -1,0 +1,17 @@
+We study two different superconductor-ferromagnet (S/F) structures. We
+consider first a Josephson junction which consists of two S/F bilayers
+separated by an insulating layer. We show that for an antiparallel alignment of
+the magnetization in the two F layers the Josephson critical current $I_c$
+increases with increasing exchange field $h$. The second system we consider is
+a S/F structure with a local inhomogeneity of the magnetization in the
+ferromagnet near the S/F interface. Due to the proximity effect not only a
+singlet but also a triplet component of the superconducting condensate is
+induced in the ferromagnet. The latter penetrates over the length
+$\sqrt{D/\epsilon}$ ($D$ is the diffusion coefficient and $\epsilon$ the
+energy). In the case of temperatures of the order of the Thouless energy this
+length is comparable to the length of the ferromagnet. This long-range
+penetration leads to a significant increase of the ferromagnet conductance
+below the superconducting critical temperature $T_c$. Contrary to the case of
+the singlet component, the contribution to the conductance due to the odd
+triplet component is not zero at $T = 0$ and $V = 0$ ($V$ is the voltage) and
+decays with increasing temperature T in a monotonic way

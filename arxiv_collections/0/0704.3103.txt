@@ -1,0 +1,5 @@
+We wish to transmit messages to and from a hypersonic vehicle around which a
+plasma sheath has formed. For long distance transmission, the signal carrying
+these messages must be necessarily low frequency, typically 2 GHz, to which the
+plasma sheath is opaque. The idea is to use the plasma properties to make the
+plasma sheath appear transparent.

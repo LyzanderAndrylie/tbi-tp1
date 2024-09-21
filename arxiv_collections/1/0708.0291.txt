@@ -1,0 +1,7 @@
+It is practically shown that a pair of neutrinos from tau decay can form a
+flavor entangled state. With this kind of state we show that the locality
+constrains imposed by Bell inequality are violated by the quantum mechanics,
+and an experimental test of this effect is feasible within the earth's length
+scale. Theoretically, the quantum entanglement of neutrino pairs can be
+employed to the use of long distance cryptography distribution in a protocol
+similar to the BB84.

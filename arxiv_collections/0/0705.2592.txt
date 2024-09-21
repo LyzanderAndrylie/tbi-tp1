@@ -1,0 +1,14 @@
+One of the most notorious non-Fermi liquid properties of both archetypal
+heavy-fermion systems [1-4] and the high-Tc copper oxide superconductors [5] is
+an electrical resistivity that evolves linearly with temperature, T. In the
+heavy-fermion superconductor CeCoIn5 [5], this linear behaviour was one of the
+first indications of the presence of a zero-temperature instability, or quantum
+critical point. Here, we report the observation of a unique control parameter
+of T-linear scattering in CeCoIn5, found through systematic chemical
+substitutions of both magnetic and non-magnetic rare-earth, R, ions into the Ce
+sub-lattice. We find that the evolution of inelastic scattering in Ce1-xRxCoIn5
+is strongly dependent on the f-electron configuration of the R ion, whereas two
+other key properties -- Cooper-pair breaking and Kondo-lattice coherence -- are
+not. Thus, T-linear resistivity in CeCoIn5 is intimately related to the nature
+of incoherent scattering centers in the Kondo lattice, which provides insight
+into the anomalous scattering rate synonymous with quantum criticality [7].

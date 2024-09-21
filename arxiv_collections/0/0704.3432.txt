@@ -1,0 +1,7 @@
+The general problem of finding the ground state energy of lattice
+Hamiltonians is known to be very hard, even for a quantum computer. We show
+here that this is the case even for translationally invariant systems. We also
+show that a quantum computer can be built in a 1D chain with a fixed,
+translationally invariant Hamitonian consisting of nearest--neighbor
+interactions only. The result of the computation is obtained after a prescribed
+time with high probability.

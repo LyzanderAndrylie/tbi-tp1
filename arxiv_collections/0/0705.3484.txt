@@ -1,0 +1,10 @@
+The M-theory fieldstrength and its dual, given by the integral lift of the
+left hand side of the equation of motion, both satisfy certain cohomological
+properties. We study the combined fields and observe that the multiplicative
+structure on the product of the corresponding degree four and degree eight
+cohomology fits into that given by Spin K-theory. This explains some earlier
+results and leads naturally to the use of Spin characteristic classes. We
+reinterpret the one-loop term in terms of such classes and we show that it is
+homotopy invariant. We argue that the various anomalies have natural
+interpretations within Spin K-theory. In the process, mod 3 reductions play a
+special role.

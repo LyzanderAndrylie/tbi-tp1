@@ -1,0 +1,18 @@
+Although taste violations significantly affect the results of staggered
+calculations of pseudoscalar and heavy-light mesonic quantities, those entering
+staggered calculations of baryonic quantities have not been quantified. Here I
+develop staggered chiral perturbation theory in the light-quark baryon sector
+by mapping the Symanzik action into heavy baryon chiral perturbation theory.
+For 2+1 dynamical quark flavors, the masses of flavor-symmetric nucleons are
+calculated to third order in partially quenched and fully dynamical staggered
+chiral perturbation theory. To this order the expansion includes the leading
+chiral logarithms, which come from loops with virtual decuplet-like states, as
+well as terms the order of the cubed pion mass, which come from loops with
+virtual octet-like states. Taste violations enter through the meson propagators
+in loops and tree-level terms the order of the squared lattice spacing. The
+pattern of taste symmetry breaking and the resulting degeneracies and mixings
+are discussed in detail. The resulting chiral forms are appropriate to lattice
+results obtained with operators already in use and could be used to study the
+restoration of taste symmetry in the continuum limit. I assume that the fourth
+root of the fermion determinant can be incorporated in staggered chiral
+perturbation theory using the replica method.

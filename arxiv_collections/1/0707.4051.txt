@@ -1,0 +1,8 @@
+We show that two coupled map lattices that are mutually coupled to one
+another with a delay can display zero delay synchronization if they are driven
+by a third coupled map lattice. We analytically estimate the parametric regimes
+that lead to synchronization and show that the presence of mutual delays
+enhances synchronization to some extent. The zero delay or isochronal
+synchronization is reasonably robust against mismatches in the internal
+parameters of the coupled map lattices and we analytically estimate the
+synchronization error bounds.

@@ -1,0 +1,5 @@
+We discuss the emergence of symmetry-breaking {\it via} the Pomeranchuk
+instability from interactions that respect the underlying point-group symmetry.
+We use a variational mean-field theory to consider a 2D continuum and a square
+lattice. We describe two experimental signatures: a symmetry-breaking pattern
+of Friedel oscillations around an impurity; and a structural transition.

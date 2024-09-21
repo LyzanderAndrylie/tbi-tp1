@@ -1,0 +1,10 @@
+Forward-backward correlation in pp collisions is studied in an approach that
+emphasizes the partonic scattering angles and circumvents the intractable
+problem related to the transverse momenta that are low. Assuming the
+back-to-back scattering of partons to be the origin of hadronic correlation,
+the properties of forward-backward multiplicity covariance can be derived
+essentially independent of details of hadronization. The range of correlation
+in pseudo-rapidity emerges from the study without any dynamical input, thus
+dispelling the notion that correlation length has any fundamental significance.
+An attempt is made to relate the results to the two-component structure seen in
+autocorrelation.

@@ -1,0 +1,20 @@
+We investigated the inhomogeneous electronic properties at the surface and
+interior of VO_{2} thin films that exhibit a strong first-order metal-insulator
+transition (MIT). Using the crystal structural change that accompanies a VO_{2}
+MIT, we used bulk-sensitive X-ray diffraction (XRD) measurements to estimate
+the fraction of metallic volume p^{XRD} in our VO_{2} film. The temperature
+dependence of the p$^{XRD}$ was very closely correlated with the dc
+conductivity near the MIT temperature, and fit the percolation theory
+predictions quite well: $\sigma$ $\sim$ (p - p_{c})^{t} with t = 2.0$\pm$0.1
+and p_{c} = 0.16$\pm$0.01. This agreement demonstrates that in our VO$_{2}$
+thin film, the MIT should occur during the percolation process. We also used
+surface-sensitive scanning tunneling spectroscopy (STS) to investigate the
+microscopic evolution of the MIT near the surface. Similar to the XRD results,
+STS maps revealed a systematic decrease in the metallic phase as temperature
+decreased. However, this rate of change was much slower than the rate observed
+with XRD, indicating that the electronic inhomogeneity near the surface differs
+greatly from that inside the film. We investigated several possible origins of
+this discrepancy, and postulated that the variety in the strain states near the
+surface plays an important role in the broad MIT observed using STS. We also
+explored the possible involvement of such strain effects in other correlated
+electron oxide systems with strong electron-lattice interactions.

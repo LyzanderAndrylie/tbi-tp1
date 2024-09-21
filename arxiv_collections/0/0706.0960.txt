@@ -1,0 +1,4 @@
+We develop the theory of generalized bi-Hamiltonian reduction. Applying this
+theory to a suitable loop algebra we recover a generalized Drinfeld-Sokolov
+reduction. This gives a way to construct new examples of algebraic Frobenius
+manifolds.

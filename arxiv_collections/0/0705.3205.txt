@@ -1,0 +1,11 @@
+This work deals with the effects of an anharmonic trap on an interacting
+two-boson system in one dimension. Our primary focus is on the role of the
+induced coupling between the center of mass and the relative motion as both
+anharmonicity and the (repulsive) interaction strength are varied. The ground
+state reveals a strong localization in the relative coordinate, counteracting
+the tendency to fragment for stronger repulsion. To explore the quantum
+dynamics, we study the system's response upon (i) exciting the harmonic ground
+state by continuously switching on an additional anharmonicity, and (ii)
+displacing the center of mass, this way triggering collective oscillations. The
+interplay between collective and internal dynamics materializes in the collapse
+of oscillations, which are explained in terms of few-mode models.

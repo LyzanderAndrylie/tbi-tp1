@@ -1,0 +1,11 @@
+We revisit our earlier work on the AKSZ formulation of topological sigma
+model on generalized complex manifolds, or Hitchin model. We show that the
+target space geometry geometry implied by the BV master equations is
+Poisson--quasi--Nijenhuis geometry recently introduced and studied by Sti\'enon
+and Xu (in the untwisted case). Poisson--quasi--Nijenhuis geometry is more
+general than generalized complex geometry and comprises it as a particular
+case. Next, we show how gauging and reduction can be implemented in the Hitchin
+model. We find that the geometry resulting form the BV master equation is
+closely related to but more general than that recently described by Lin and
+Tolman, suggesting a natural framework for the study of reduction of
+Poisson--quasi--Nijenhuis manifolds.

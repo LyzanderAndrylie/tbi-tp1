@@ -1,0 +1,13 @@
+Both the Einstein-Hilbert action and the Einstein equations are discussed
+under the absolute vierbein formalism. Taking advantage of this form, we prove
+that the "kinetic energy" term, i.e., the quadratic term of time derivative
+term, in the Lagrangian of the Einstein-Hilbert action is non-positive
+definitive. And then, we present two groups of coordinate conditions that lead
+to positive definitive kinetic energy term in the Lagrangian, as well as the
+corresponding actions with positive definitive kinetic energy term,
+respectively. Based on the ADM decomposition, the Hamiltonian representation
+and canonical quantization of general relativity taking advantage of the
+actions with positive definitive kinetic energy term are discussed; especially,
+the Hamiltonian constraints with positive definitive kinetic energy term are
+given, respectively. Finally, we present a group of gauge conditions such that
+there is not any second time derivative term in the ten Einstein equations.

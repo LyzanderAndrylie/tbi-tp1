@@ -1,0 +1,14 @@
+A path-integral for the t-J model in two dimensions is constructed based on
+Dirac quantization, with an action found originally by Wiegmann (Phys. Rev.
+Lett. {\bf 60}, 821 (1988); Nucl. Phys. B323, 311 (1989)). Concentrating on the
+low doping limit, we assume short range antiferromagnetic order of the spin
+degrees of freedom. Going over to a local spin quantization axis of the dopant
+fermions, that follows the spin degree of freedom, staggered CP$^1$ fields
+result and the constraint against double occupancy can be resolved. The
+staggered CP$^1$ fields are split into slow and fast modes, such that after a
+gradient expansion, and after integrating out the fast modes and the dopant
+fermions, a CP$^1$ field-theory with a massive gauge field is obtained that
+describes generically incommensurate coplanar magnetic structures, as discussed
+previously in the context of frustrated quantum antiferromagnets. Hence, the
+possibility of deconfined spinons is opened by doping a colinear
+antiferromagnet.

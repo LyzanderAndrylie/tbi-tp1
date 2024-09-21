@@ -1,0 +1,9 @@
+The sum of $N$ sufficiently strongly correlated random variables will not in
+general be Gaussian distributed in the limit N\to\infty. We revisit examples of
+sums x that have recently been put forward as instances of variables obeying a
+q-Gaussian law, that is, one of type (cst)\times[1-(1-q)x^2]^{1/(1-q)}. We show
+by explicit calculation that the probability distributions in the examples are
+actually analytically different from q-Gaussians, in spite of numerically
+resembling them very closely. Although q-Gaussians exhibit many interesting
+properties, the examples investigated do not support the idea that they play a
+special role as limit distributions of correlated sums.

@@ -1,0 +1,12 @@
+We study the Saffman-Taylor instability in a non-Brownian suspension by
+injection of air. We find that flow structuration in the Hele-Shaw cell can be
+described by an effective viscosity depending on the volume fraction. When this
+viscosity is used to define the control parameter of the instability, the
+classical finger selection for Newtonian fluids is recovered. However, this
+picture breaks down when the cell thickness is decreased below approximatively
+10 grain sizes. The discrete nature of the grains plays also a determinant role
+in the the early destabilization of the fingers observed. The grains produce a
+perturbation at the interface proportional to the grain size and can thus be
+considered as a "controlled noise". The finite amplitude instability mechanism
+proposed earlier by Bensimon et al. allows to link this perturbation to the
+actual values of the destabilization threshold.

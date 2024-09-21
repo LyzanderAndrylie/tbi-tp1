@@ -1,0 +1,10 @@
+We obtain complete geometric invariants of cobordism classes of oriented
+simple fold maps of (n+1)-dimensional manifolds into an n-dimensional manifold
+N in terms of immersions with prescribed normal bundles. We compute that this
+cobordism group of simple fold maps is isomorphic to the direct sum of the
+(n-1)th stable homotopy group of spheres and the (n-1)th stable homotopy group
+of the infinite dimensional projective space. By using geometric invariants
+defined in the author's earlier works, we also describe the natural map of the
+simple fold cobordism group to the fold cobordism group by natural
+homomorphisms between cobordism groups of immersions. We also compute the ranks
+of the oriented (right-left) bordism groups of simple fold maps.

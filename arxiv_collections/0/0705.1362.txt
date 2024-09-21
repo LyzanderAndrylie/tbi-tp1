@@ -1,0 +1,10 @@
+We have developed an image restoration technique based on the Richardson-Lucy
+algorithm optimized for GLAST-LAT image analysis. Our algorithm is original
+since it utilizes the PSF (point spread function) that is calculated for each
+event. This is critical for EGRET and GLAST-LAT image analysis since the PSF
+depends on the energy and angle of incident gamma-rays and varies by more than
+one order of magnitude. EGRET and GLAST-LAT image analysis also faces Poisson
+noise due to low photon statistics. Our technique incorporates wavelet
+filtering to minimize noise effects. We present studies of EGRET sources using
+this novel image restoration technique for possible identification of extended
+gamma-ray sources.

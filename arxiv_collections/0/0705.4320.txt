@@ -1,0 +1,11 @@
+We present a CAD framework for CMOL, a hybrid CMOS/ molecular circuit
+architecture. Our framework first transforms any logically synthesized circuit
+based on AND/OR/NOT gates to a NOR gate circuit, and then maps the NOR gates to
+CMOL. We encode the CMOL cell assignment problem as boolean conditions. The
+boolean constraint is satisfiable if and only if there is a way to map all the
+NOR gates to the CMOL cells. We further investigate various types of static
+defects for the CMOL architecture, and propose a reconfiguration technique that
+can deal with these defects through our CAD framework. This is the first
+automated framework for CMOL cell assignment, and the first to model several
+different CMOL static defects. Empirical results show that our approach is
+efficient and scalable.

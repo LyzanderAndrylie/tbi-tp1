@@ -1,0 +1,8 @@
+We propose a model of carrier-mediated ferromagnetism in semiconductors that
+accounts for the temperature dependence of the carriers. The model permits
+analysis of the thermodynamic stability of competing magnetic states, opening
+the door to the construction of magnetic phase diagrams. As an example we
+analyze the stability of a possible reentrant ferromagnetic semiconductor, in
+which increasing temperature leads to an increased carrier density, such that
+the enhanced exchange coupling between magnetic impurities results in the onset
+of ferromagnetism as temperature is raised.

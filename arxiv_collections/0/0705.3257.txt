@@ -1,0 +1,10 @@
+We present a quantitative analysis of throwing ability for major league
+outfielders and catchers. We use detailed game event data to tabulate success
+and failure events in outfielder and catcher throwing opportunities. We
+attribute a run contribution to each success or failure which are tabulated for
+each player in each season. We use four seasons of data to estimate the overall
+throwing ability of each player using a Bayesian hierarchical model. This model
+allows us to shrink individual player estimates towards an overall population
+mean depending on the number of opportunities for each player. We use the
+posterior distribution of player abilities from this model to identify players
+with significant positive and negative throwing contributions.

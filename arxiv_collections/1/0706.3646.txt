@@ -1,0 +1,10 @@
+We consider discrete dynamical systems and lattice models in statistical
+mechanics from the point of view of their symmetry groups. We describe a C
+program for symmetry analysis of discrete systems. Among other features, the
+program constructs and investigates phase portraits of discrete dynamical
+systems modulo groups of their symmetries, searches dynamical systems
+possessing specific properties, e.g., reversibility, computes microcanonical
+partition functions and searches phase transitions in mesoscopic systems. Some
+computational results and observations are presented. In particular, we explain
+formation of moving soliton-like structures similar to ``spaceships'' in
+cellular automata.

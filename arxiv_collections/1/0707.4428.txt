@@ -1,0 +1,7 @@
+The generalized n-qubit Greenberger-Horne-Zeilinger (GHZ) states and their
+local unitary equivalents are the only states of n qubits that are not uniquely
+determined among pure states by their reduced density matrices of n-1 qubits.
+Thus, among pure states, the generalized GHZ states are the only ones
+containing information at the n-party level. We point out a connection between
+local unitary stabilizer subgroups and the property of being determined by
+reduced density matrices.

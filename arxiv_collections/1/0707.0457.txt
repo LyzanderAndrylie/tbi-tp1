@@ -1,0 +1,10 @@
+Critical points of a scalar quantitiy are either extremal points or saddle
+points. The character of the critical points is determined by the sign
+distribution of the eigenvalues of the Hessian matrix. For a two-dimensional
+homogeneous and isotropic random function topological arguments are sufficient
+to show that all possible sign combinations are equidistributed or with other
+words, the density of the saddle points and extrema agree. This argument breaks
+down in three dimensions. All ratios of the densities of saddle points and
+extrema larger than one are possible. For a homogeneous Gaussian random field
+one finds no longer an equidistribution of signs, saddle points are slightly
+more frequent.

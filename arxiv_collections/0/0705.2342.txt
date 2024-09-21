@@ -1,0 +1,20 @@
+We study the effect of continuous quantum error correction in the case where
+each qubit in a codeword is subject to a general Hamiltonian interaction with
+an independent bath. We first consider the scheme in the case of a trivial
+single-qubit code, which provides useful insights into the workings of
+continuous error correction and the difference between Markovian and
+non-Markovian decoherence. We then study the model of a bit-flip code with each
+qubit coupled to an independent bath qubit and subject to continuous
+correction, and find its solution. We show that for sufficiently large
+error-correction rates, the encoded state approximately follows an evolution of
+the type of a single decohering qubit, but with an effectively decreased
+coupling constant. The factor by which the coupling constant is decreased
+scales quadratically with the error-correction rate. This is compared to the
+case of Markovian noise, where the decoherence rate is effectively decreased by
+a factor which scales only linearly with the rate of error correction. The
+quadratic enhancement depends on the existence of a Zeno regime in the
+Hamiltonian evolution which is absent in purely Markovian dynamics. We analyze
+the range of validity of this result and identify two relevant time scales.
+Finally, we extend the result to more general codes and argue that the
+performance of continuous error correction will exhibit the same qualitative
+characteristics.

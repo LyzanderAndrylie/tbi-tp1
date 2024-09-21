@@ -1,0 +1,15 @@
+We adopt the vector-meson-dominance approach to investigate Q^2-evolution of
+N-R transition form factors (N denotes nucleon and R an excited resonance) in
+the first and second resonance regions. The developed model is based upon
+conventional NR\gamma-interaction Lagrangians, introducing three form factors
+for spin-3/2 resonances and two form factors for spin-1/2 nucleon excitations.
+Lagrangian form factors are expressed as dispersionlike expansions with four or
+five poles corresponding to the lowest excitations of the mesons \rho(770) and
+\omega(782). Correct high-Q^2 form factor behavior predicted by perturbative
+QCD is due to phenomenological logarithmic renormalization of electromagnetic
+coupling constants and linear superconvergence relations between the parameters
+of the meson spectrum. The model is found to be in good agreement with all the
+experimental data on Q^2-dependence of the transitions N-\Delta(1232),
+N-N(1440), N-N(1520), N-N(1535). We present fit results and model predictions
+for high-energy experiments proposed by JLab. Besides, we make special emphasis
+on the transition to perturbative domain of N-\Delta(1232) form factors.

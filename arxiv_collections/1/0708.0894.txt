@@ -1,0 +1,11 @@
+The density-matrix renormalization group is employed to investigate a
+harmonically-trapped imbalanced Fermi condensate based on a one-dimensional
+attractive Hubbard model. The obtained density profile shows a flattened
+population difference of spin-up and spin-down components at the center of the
+trap, and exhibits phase separation between the condensate and unpaired
+majority atoms for a certain range of the interaction and population imabalance
+$P$. The two-particle density matrix reveals that the sign of the order
+parameter changes periodically, demonstrating the realization of the
+Fulde-Ferrell-Larkin-Ovchinnikov phase. The minority spin atoms contribute to
+the quasi-condensate up to at least $P \simeq 0.8$. Possible experimental
+situations to test our predictions are discussed.

@@ -1,0 +1,12 @@
+We consider a superconducting material that exists in the liquid state, more
+precisely, in which the Meissner-Ochsenfeld effect persists in the liquid
+state. First, we investigate how the shape of such a hypothetical Meissner
+liquid will adapt to accomodate for an applied external field. In particular,
+we analyse the case of a droplet of Meissner fluid, and compute the elongation
+of the droplet and its quadrupole frequency as a function of the applied field.
+Next, the influence of an applied field on the flow of the liquid is studied
+for the case of a surface wave. We derive the dispersion relation for surface
+waves on an incompressible Meissner fluid. We discuss some candidate
+realizations of the Meissner fluids and for the case of a superconducting
+colloid discuss which regime of wave lengths would be most affected by the
+Meissner effect.

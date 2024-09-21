@@ -1,0 +1,8 @@
+Security of the three-party quantum secret sharing (QSS) schemes based on
+entanglement and a collective eavesdropping check is analyzed in the case of
+considerable quantum channel losses. An opaque attack scheme is presented for
+the dishonest agent to eavesdrop the message obtained by the other agent
+freely, which reveals that these QSS schemes are insecure for transmission
+efficiencies lower than 50%, especially when they are used to share an unknown
+quantum state. Finally, we present a general way to improve the security of QSS
+schemes for sharing not only a private key but also an unknown quantum state.

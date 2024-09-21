@@ -1,0 +1,10 @@
+We study the three-dimensional XY model with a Z_q anisotropic term. At
+temperatures T < Tc this dangerously irrelevant perturbation is relevant only
+above a length scale Lambda, which diverges as a power of the correlation
+length; Lambda ~ xi^a_q. Below Lambda the order parameter is U(1) symmetric. We
+derive the full scaling function controlling the emergence of U(1) symmetry and
+use Monte Carlo results to extract the exponent a_q for q=4,...,8. We find that
+a_q = a_4 (q/4)^2, with a_4 only marginally larger than 1. We discuss these
+results in the context of U(1) symmetry at "deconfined" quantum critical points
+separating antiferromagnetic and valence-bond-solid states in quantum spin
+systems.

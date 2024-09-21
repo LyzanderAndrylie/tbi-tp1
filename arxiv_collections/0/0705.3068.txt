@@ -1,0 +1,12 @@
+Capacitance-voltage (C-V) characteristics are important for understanding
+fundamental electronic structures and device applications of nanomaterials. The
+C-V characteristics of graphene nanoribbons (GNRs) are examined using
+self-consistent atomistic simulations. The results indicate strong dependence
+of the GNR C-V characteristics on the edge shape. For zigzag edge GNRs, highly
+non-uniform charge distribution in the transverse direction due to edge states
+lowers the gate capacitance considerably, and the self-consistent electrostatic
+potential significantly alters the band structure and carrier velocity. For an
+armchair edge GNR, the quantum capacitance is a factor of 2 smaller than its
+corresponding zigzag carbon nanotube, and a multiple gate geometry is less
+beneficial for transistor applications. Magnetic field results in pronounced
+oscillations on C-V characteristics.

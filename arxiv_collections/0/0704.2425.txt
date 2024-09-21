@@ -1,0 +1,12 @@
+We propose a technique aimed at cooling a harmonically oscillating mirror to
+its quantum mechanical ground state starting from room temperature. Our method,
+which involves the two-sided irradiation of the vibrating mirror inside an
+optical cavity, combines several advantages over the two-mirror arrangements
+being used currently. For comparable parameters the three-mirror configuration
+provides a stiffer trap for the oscillating mirror. Furthermore it prevents
+bistability from limiting the use of higher laser powers for mirror trapping,
+and also partially does so for mirror cooling. Lastly, it improves the
+isolation of the mirror from classical noise so that its dynamics are perturbed
+mostly by the vacuum fluctuations of the optical fields. These improvements are
+expected to bring the task of achieving ground state occupation for the mirror
+closer to completion.

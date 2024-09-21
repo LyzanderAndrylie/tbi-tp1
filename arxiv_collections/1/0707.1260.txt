@@ -1,0 +1,13 @@
+In this paper we extend the algorithm for extraspecial groups in
+\cite{iss07}, and show that the hidden subgroup problem in nil-2 groups, that
+is in groups of nilpotency class at most 2, can be solved efficiently by a
+quantum procedure. The algorithm presented here has several additional
+features. It contains a powerful classical reduction for the hidden subgroup
+problem in nilpotent groups of constant nilpotency class to the specific case
+where the group is a $p$-group of exponent $p$ and the subgroup is either
+trivial or cyclic. This reduction might also be useful for dealing with groups
+of higher nilpotency class. The quantum part of the algorithm uses well chosen
+group actions based on some automorphisms of nil-2 groups. The right choice of
+the actions requires the solution of a system of quadratic and linear
+equations. The existence of a solution is guaranteed by the Chevalley-Warning
+theorem, and we prove that it can also be found efficiently.

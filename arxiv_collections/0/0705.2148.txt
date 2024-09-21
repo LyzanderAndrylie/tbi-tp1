@@ -1,0 +1,9 @@
+We show that a certain type of quasi finite, conservative, ergodic, measure
+preserving transformation always has a maximal zero entropy factor, generated
+by predictable sets. We also construct a conservative, ergodic, measure
+preserving transformation which is not quasi finite; and consider distribution
+asymptotics of information showing that e.g. for Boole's transformation,
+information is asymptotically mod-normal with square root normalization. Lastly
+we see that certain ergodic, probability preserving transformations with zero
+entropy have analogous properties and consequently entropy dimension of at most
+1/2.

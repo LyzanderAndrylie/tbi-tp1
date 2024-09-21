@@ -1,0 +1,7 @@
+We briefly review an effective theory of QCD at high baryon density,
+describing the relevant modes near the Fermi surface. The high density
+effective theory has properties of reparametrization invariance and gauge
+invariance, maintained in a subtle way. It also has a positive measure,
+allowing lattice simulations at high baryon density. We then apply it to
+gapless superconductors and discuss recent proposals to resolve the magnetic
+instability of gapless superconductivity.

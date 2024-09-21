@@ -1,0 +1,11 @@
+We extend the key idea behind the generalized Petviashvili method of Ref.
+\cite{gP} by proposing a novel technique based on a similar idea. This
+technique systematically eliminates from the iteratively obtained solution a
+mode that is "responsible" either for the divergence or the slow convergence of
+the iterations. We demonstrate, theoretically and with examples, that this mode
+elimination technique can be used both to obtain some nonfundamental solitary
+waves and to considerably accelerate convergence of various iteration methods.
+As a collateral result, we compare the linearized iteration operators for the
+generalized Petviashvili method and the well-known imaginary-time evolution
+method and explain how their different structures account for the differences
+in the convergence rates of these two methods.

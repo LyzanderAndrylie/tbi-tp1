@@ -1,0 +1,16 @@
+Bunches of streamers form the early stages of sparks and lightning but theory
+presently concentrates on single streamers or on coarse approximations of whole
+breakdown trees. Here a periodic array of interacting streamer discharges in a
+strong homogeneous electric field is studied in PDE approximation in two
+dimensions. If the period of the streamer array is small enough, the streamers
+do not branch, but approach uniform translation. When the streamers are close
+to the branching regime, the enhanced field at the tip of the streamer is close
+to $2 E_{\infty}$, where $E_{\infty}$ is the homogeneous field applied between
+the electrodes. We discuss a moving boundary approximation to the set of PDEs.
+This moving boundary model turns out to be essentially the same as the one for
+two-fluid Hele-Shaw flows. In two dimensions, this model possesses a known
+analytical solution. The shape of the 2D interacting streamers in uniform
+motion obtained from the PDE simulations is actually well fitted by the
+analytically known ``selected Saffman-Taylor finger''. This finding helps to
+understand streamer interactions and raises new questions on the general theory
+of finger selection in moving boundary problems.

@@ -1,0 +1,10 @@
+Extending our results in "Entropy conjecture for continuous maps of
+nilmanifolds", to appear in Israel Jour. of Math., we confirm that Entropy
+Conjecture holds for every continuous self-map of a compact $K(\pi,1)$ manifold
+with the fundamental group $\pi$ torsion free and virtually nilpotent, in
+particular for every continuous map of an infra-nilmanifold. In fact we prove a
+stronger version, a lower estimate of the topological entropy of a map by
+logarithm of the spectral radius of an associated "linearization matrix" with
+integer entries.
+  From this, referring to known estimates of Mahler measure of polynomials, we
+deduce some absolute lower bounds for the entropy.

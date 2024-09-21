@@ -1,0 +1,4 @@
+We argue for a compositional semantics grounded in a strongly typed ontology
+that reflects our commonsense view of the world and the way we talk about it.
+Assuming such a structure we show that the semantics of various natural
+language phenomena may become nearly trivial.

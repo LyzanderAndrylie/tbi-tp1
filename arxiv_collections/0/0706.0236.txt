@@ -1,0 +1,20 @@
+We investigate self-dual vertex operator algebras (VOAs) and super algebras
+(SVOAs). Using the genus one correlation functions, it is shown that self-dual
+SVOAs exist only for half-integral central charges. It is described how
+self-dual SVOAs can be constructed from self-dual VOAs of larger central
+charge. The analogy with integral lattices and binary codes is emphasized.
+  One main result is the construction of the shorter Moonshine module, a
+self-dual SVOA of central charge 23.5 on which the Baby monster - the second
+largest sporadic simple group - acts by automorphisms. The shorter Moonshine
+module has the character q^(-47/48)*(1+ 4371q^(3/2)+ 96256q^2+ 1143745q^(5/2)
++...) and is the "shorter cousin" of the Moonshine module. Its lattice and code
+analog are the shorter Leech lattice and shorter Golay code. We conjecture that
+the shorter Moonshine module is the unique SVOA with this character.
+  The final chapter introduces the notion of extremal VOAs and SVOAs. These are
+self-dual (S)VOAs with character having the same first few coefficients as the
+vacuum representation of the Virasoro algebra of the same central charge. We
+show that extremal VOAs exist at least for the central charges 8, 16, 24, 32,
+40 and that extremal SVOAs exist only for the central charges c=0.5, 1, ...,
+7.5, 8, 12, 14, 15, 15.5, 23.5 and 24. Examples for c=24 (resp. 23.5) are the
+(shorter) Moonshine module. Again, our results are similar to results known for
+codes and lattices.

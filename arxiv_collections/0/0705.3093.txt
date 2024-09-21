@@ -1,0 +1,12 @@
+We study an experimentally realizable system containing stable black
+hole-white hole acoustic horizons in toroidally trapped Bose-Einstein
+condensates - the quantum de Laval nozzle. We numerically obtain stationary
+flow configurations and assess their stability using Bogoliubov theory, finding
+both in hydrodynamic and non-hydrodynamic regimes there exist dynamically
+unstable regions associated with the creation of positive and negative energy
+quasiparticle pairs in analogy with the gravitational Hawking effect. The
+dynamical instability takes the form of a two mode squeezing interaction
+between resonant pairs of Bogoliubov modes. We study the evolution of
+dynamically unstable flows using the truncated Wigner method, which confirms
+the two mode squeezed state picture of the analogue Hawking effect for low
+winding number.

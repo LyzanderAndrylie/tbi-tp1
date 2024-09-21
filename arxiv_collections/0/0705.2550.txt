@@ -1,0 +1,13 @@
+Electronic band structure and optical properties of zinc monochalcogenides
+with zinc-blende- and wurtzite-type structures were studied using the ab initio
+density functional method within the LDA, GGA, and LDA+U approaches.
+Calculations of the optical spectra have been performed for the energy range
+0-20 eV, with and without including spin-orbit coupling. Reflectivity,
+absorption and extinction coefficients, and refractive index have been computed
+from the imaginary part of the dielectric function using the Kramers--Kronig
+transformations. A rigid shift of the calculated optical spectra is found to
+provide a good first approximation to reproduce experimental observations for
+almost all the zinc monochalcogenide phases considered. By inspection of the
+calculated and experimentally determined band-gap values for the zinc
+monochalcogenide series, the band gap of ZnO with zinc-blende structure has
+been estimated.

@@ -1,0 +1,10 @@
+We demonstrate a novel way to efficiently and very robust create an
+entanglement between an atomic and a photonic qubit. A single laser beam is
+used to excite one atomic ensemble and two different spatial modes of scattered
+Raman fields are collected to generate the atom-photon entanglement. With the
+help of build-in quantum memory, the entanglement still exists after 20.5
+$\mu$s storage time which is further proved by the violation of CHSH type
+Bell's inequality. Our entanglement procedure is the building block for a novel
+robust quantum repeater architecture [Zhao et al, Phys. Rev. Lett. 98, 240502
+(2007)]. Our approach can be easily extended to generate high dimensional
+atom-photon entanglements.

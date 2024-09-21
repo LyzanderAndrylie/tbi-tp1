@@ -1,0 +1,10 @@
+The ground-state hyperfine splitting values of high-Z boronlike ions are
+calculated. Calculation of the interelectronic-interaction contribution is
+based on a combination of the 1/Z perturbation theory and the large-scale
+configuration-interaction Dirac-Fock-Sturm method. The screened QED corrections
+are evaluated utilizing an effective screening potential approach. Total
+hyperfine splitting energies are presented for several B-like ions of
+particular interest: {}^{45}Sc{}^{16+}, {}^{57}Fe{}^{21+}, {}^{207}Pb{}^{77+},
+and {}^{209}Bi{}^{78+}. For lead and bismuth the experimental values of the 1s
+hyperfine splitting are employed to improve significantly the theoretical
+results by reducing the uncertainty due to the nuclear effects.

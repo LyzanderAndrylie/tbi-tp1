@@ -1,0 +1,8 @@
+We investigate multiple linear optical teleportation in the
+Knill-Laflamme-Milburn scheme with both maximally and nonmaximally entangled
+states. We show that if the qubit is teleported several times via nonmaximally
+entangled state then the errors introduced in the previous teleportations can
+be corrected by the errors introduced in the following teleportations. This
+effect is so strong that it leads to another interesting phenomenon, i.e., the
+total probability of successful multiple linear optical teleportation is higher
+for nonmaximally entangled states than maximally entangled states.

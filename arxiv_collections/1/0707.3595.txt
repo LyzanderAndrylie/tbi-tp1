@@ -1,0 +1,6 @@
+We derive the most general Seiberg-Witten maps for noncommutative gauge
+theories in second order of the noncommutative parameter theta. Our results
+reveal the existence of more ambiguities than previously known. In particular,
+we demonstrate that some of these ambiguities enter observables like scattering
+cross sections and enlarge the parameter space of the noncommutative standard
+model beyond O(theta).

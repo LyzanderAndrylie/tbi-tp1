@@ -1,0 +1,16 @@
+This paper is the fifth in a series exploring the physical consequences of
+the solidity of glass-forming liquids. Paper IV proposed a model where the
+density field is described by a time-dependent Ginzburg-Landau equation of the
+nonconserved type with rates in $k$ space of the form $\Gamma_0+Dk^2$. The
+model assumes that $D\gg\Gamma_0a^2$ where $a$ is the average intermolecular
+distance; this inequality expresses a long-wavelength dominance of the dynamics
+which implies that the Hamiltonian (free energy) to a good approximation may be
+taken to be ultralocal. In the present paper we argue that this is the simplest
+model consistent with the following three experimental facts: 1) Viscous
+liquids approaching the glass transition do not develop long-range order; 2)
+The glass has lower compressibility than the liquid; 3) The alpha process
+involves several decades of relaxation times shorter than the mean relaxation
+time. The paper proceeds to list six further experimental facts characterizing
+equilibrium viscous liquid dynamics and shows that these are readily understood
+in terms of the model; some are direct consequences, others are quite natural
+when viewed in light of the model.

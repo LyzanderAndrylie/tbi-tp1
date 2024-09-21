@@ -1,0 +1,8 @@
+We present the full in-plane phonon dispersion of graphite obtained from
+inelastic x-ray scattering, including the optical and acoustic branches, as
+well as the mid-frequency range between the $K$ and $M$ points in the Brillouin
+zone, where experimental data have been unavailable so far. The existence of a
+Kohn anomaly at the $K$ point is further supported. We fit a fifth-nearest
+neighbour force-constants model to the experimental data, making improved
+force-constants calculations of the phonon dispersion in both graphite and
+carbon nanotubes available.

@@ -1,0 +1,9 @@
+The charge response in the barium vanadium sulfide (BaVS3) single crystals is
+characterized by dc resistivity and low frequency dielectric spectroscopy. A
+broad relaxation mode in MHz range with huge dielectric constant ~= 10^6
+emerges at the metal-to-insulator phase transition TMI ~= 67 K, weakens with
+lowering temperature and eventually levels off below the magnetic transition
+Tchi ~= 30 K. The mean relaxation time is thermally activated in a manner
+similar to the dc resistivity. These features are interpreted as signatures of
+the collective charge excitations characteristic for the orbital ordering that
+gradually develops below TMI and stabilizes at long-range scale below Tchi.

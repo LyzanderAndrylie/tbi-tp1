@@ -1,0 +1,13 @@
+Propagation, transmission and reflection properties of linearly polarized
+plane waves and arbitrarily short electromagnetic pulses in one-dimensional
+dispersionless dielectric media possessing an arbitrary space-time dependence
+of the refractive index are studied by using a two-component, highly symmetric
+version of Maxwell's equations. The use of any slow varying amplitude
+approximation is avoided. Transfer matrices of sharp nonstationary interfaces
+are calculated explicitly, together with the amplitudes of all secondary waves
+produced in the scattering. Time-varying multilayer structures and
+spatiotemporal lenses in various configurations are investigated analytically
+and numerically in a unified approach. Several new effects are reported, such
+as pulse compression, broadening and spectral manipulation of pulses by a
+spatiotemporal lens, and the closure of the forbidden frequency gaps with the
+subsequent opening of wavenumber bandgaps in a generalized Bragg reflector.

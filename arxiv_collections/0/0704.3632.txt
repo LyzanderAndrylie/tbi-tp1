@@ -1,0 +1,11 @@
+We report the spectra of magnetically induced electric dipole absorption in
+Eu$_{0.75}$Y$_{0.25}$MnO$_3$ from temperature dependent far infrared
+spectroscopy (10-250 cm$^{-1}$). These spectra, which occur only in the $e||a$
+polarization, consist of two relatively narrow electromagnon features that
+onset at $T_{FE}=30$ K and a broad absorption band that persists to
+temperatures well above $T_N=47$ K. The observed excitations account for the
+step up of the static dielectric constant in the ferroelectric phase. The
+electromagnon at 80 cm$^{-1}$ is observed to be strongly coupled to the nearby
+lowest optical phonon which transfers more than 1/2 of its spectral weight to
+the magnon. We attribute the origin of the broad background absorption to the
+two magnon emission decay process of the phonon.

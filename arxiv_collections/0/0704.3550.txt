@@ -1,0 +1,11 @@
+We update the analytical estimate of the final spin of a coalescing
+black-hole binary derived within the Effective-One-Body (EOB) approach. We
+consider unequal-mass non-spinning black-hole binaries. It is found that a more
+complete account of relevant physical effects (higher post-Newtonian accuracy,
+ringdown losses) allows the {\it analytical} EOB estimate to `converge towards'
+the recently obtained {\it numerical} results within 2%. This agreement
+illustrates the ability of the EOB approach to capture the essential physics of
+coalescing black-hole binaries. Our analytical approach allows one to estimate
+the final spin of the black hole formed by coalescing binaries in a mass range
+($\nu=m_1m_2/(m_1+m_2)^2 < 0.16 $) which is not presently covered by numerical
+simulations.

@@ -1,0 +1,12 @@
+It was recently demonstrated that wire guide roughness can be suppressed by
+modulating the wire currents so that the atoms experience a time-averaged
+potential without roughness. We theoretically study the limitations of this
+technique. At low modulation frequency, we show that the longitudinal potential
+modulation produces a heating of the cloud and we compute the heating rate. We
+also give a quantum derivation of the rough conservative potential associated
+with the micro-motion of the atoms. At large modulation frequency, we compute
+the loss rate due to non adiabatic spin flip and show it presents resonnances
+at multiple modulation frequencies. These studies show that the modulation
+technique works for a wide range of experimental parameters. We also give
+conditions to realise radio-frequency evaporative cooling in such a modulated
+trap.

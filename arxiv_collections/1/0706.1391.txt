@@ -1,0 +1,15 @@
+Electron properties of graphene are described in terms of Dirac fermions.
+Here we thoroughly outline the elastic scattering theory for the
+two-dimensional massive Dirac fermions in the presence of an axially symmetric
+potential. While the massless limit is relevant for pristine graphene, keeping
+finite mass allows for generalizations onto situations with broken symmetry
+between the two sublattices, and provides a link to the scattering theory of
+electrons in a parabolic band. We demonstrate that the Dirac theory requires
+short-distance regularization for potentials which are more singular than 1/r.
+The formalism is then applied to scattering off a smooth short-ranged
+potential. Next we consider the Coulomb potential scattering, where the Dirac
+theory is consistent for a point scatterer only for the effective impurity
+strength below 1/2. From the scattering phase shifts we obtain the exact
+Coulomb transport cross-section in terms of the impurity strength. The results
+are relevant for transport in graphene in the presence of impurities that do
+not induce scattering between the Dirac points in the Brillouin zone.

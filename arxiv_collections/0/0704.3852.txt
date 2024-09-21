@@ -1,0 +1,14 @@
+Molecular dynamics simulations are used to study fluidization of a vertically
+vibrated, three-dimensional shallow granular layer. As the container
+acceleration is increased above g, the granular temperature and root mean
+square particle displacement increase, gradually fluidizing the layer. For
+nearly elastic particles, or low shaking frequencies, or small layer depths,
+the end of the fluidization process is marked by an abrupt increase in the
+granular temperature and rms particle displacement. The layer is then fully
+fluidized since macroscopic, fluid-like phenomena such as convection rolls and
+surface waves are observed. Increasing the total dissipation (by either
+decreasing the restitution coefficient or increasing the total number of
+particles) decreases the increase in granular temperature and rms particle
+displacement at fluidization, and shifts the increase to higher accelerations.
+Increasing the frequency also decreases the magnitude of the jump, and shifts
+the change to lower accelerations.

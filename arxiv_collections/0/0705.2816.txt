@@ -1,0 +1,8 @@
+The metabolic networks are very well characterized for a large set of
+organisms, a unique case in within the large-scale biological networks. For
+this reason they provide a a very interesting framework for the construction of
+analytically tractable statistical mechanics models.
+  In this paper we introduce a solvable model for the distribution of fluxes in
+the metabolic network. We show that the effect of the topology on the
+distribution of fluxes is to allow for large fluctuations of their values, a
+fact that should have implications on the robustness of the system.

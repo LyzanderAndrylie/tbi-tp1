@@ -1,0 +1,9 @@
+We present a concise, but systematic, review of the ergodicity issue in
+strongly correlated systems. After giving a brief historical overview, we
+analyze the issue within the Green's function formalism by means of the
+equations of motion approach. By means of this analysis, we are able to
+individuate the primary source of non-ergodic dynamics for a generic operator
+and also to give a recipe to compute unknown quantities characterizing such a
+behavior within the Composite Operator Method. Finally, we present examples of
+non-trivial strongly correlated systems where it is possible to find a
+non-ergodic behavior.

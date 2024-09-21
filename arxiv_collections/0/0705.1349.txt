@@ -1,0 +1,10 @@
+A theoretical scheme for the calculation of the full phase diagram (including
+cloud and shadow curves, binodals and distribution functions of the coexisting
+phases) for colloid-polymer mixtures with polymer chain length polydispersity
+and hard-sphere colloidal and polymeric monomer sizes polydispersity is
+proposed. The scheme combines thermodynamic perturbation theory for associating
+fluids and recently developed method used to determine the phase diagram of
+polydisperse spherical shape colloidal fluids (L.Bellier-Castella {\it et al.},
+{\it J.Chem.Phys.} {\bf 113}, 8337(2000)). By way of illustration we present
+and discuss the full phase diagram for the mixture with polydispersity in the
+size of the hard-sphere colloidal particles.

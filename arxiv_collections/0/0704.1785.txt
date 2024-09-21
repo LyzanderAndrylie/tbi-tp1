@@ -1,0 +1,10 @@
+Aiming at a microscopic description of heavy ion collisions in the beam
+energy region of about 10 A GeV, we extend the Giessen
+Boltzmann-Uehling-Uhlenbeck (GiBUU) transport model by including a relativistic
+mean field, in-medium baryon-baryon cross sections and three-body collisions.
+The model is then compared with experimental data for central Au+Au collisions
+at 2-10 A GeV and central Pb+Pb collisions at 30 and 40 A GeV on the proton
+rapidity spectra, the midrapidity yields of $\pi^+$, $K^\pm$ and
+$(\Lambda+\Sigma^0)$, and the transverse mass spectra of $\pi^\pm$ and $K^\pm$.
+The three-body collisions increase the inverse slope parameters of the hadron
+$m_\perp$-spectra to a good agreement with the data.

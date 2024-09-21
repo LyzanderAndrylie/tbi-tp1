@@ -1,0 +1,20 @@
+The crossover between an impurity band (IB) and a valence band (VB) regime as
+a function of the magnetic impurity concentration in models for diluted
+magnetic semiconductors (DMS) is studied systematically by taking into
+consideration the Coulomb attraction between the carriers and the magnetic
+impurities. The density of states and the ferromagnetic transition temperature
+of a Spin-Fermion model applied to DMS are evaluated using Dynamical Mean-Field
+Theory (DMFT) and Monte Carlo (MC) calculations. It is shown that the addition
+of a square-well-like attractive potential can generate an IB at small enough
+Mn doping $x$ for values of the $p-d$ exchange $J$ that are not strong enough
+to generate one by themselves. We observe that the IB merges with the VB when
+$x >= x_c$ where $x_c$ is a function of $J$ and the Coulomb attraction strength
+$V$. Using MC calculations, we demonstrate that the range of the Coulomb
+attraction plays an important role. While the on-site attraction, that has been
+used in previous numerical simulations, effectively renormalizes $J$ for all
+values of $x$, an unphysical result, a nearest-neighbor range attraction
+renormalizes $J$ only at very low dopings, i.e., until the bound holes wave
+functions start to overlap. Thus, our results indicate that the Coulomb
+attraction can be neglected to study Mn doped GaSb, GaAs, and GaP in the
+relevant doping regimes, but it should be included in the case of Mn doped GaN
+that is expected to be in the IB regime.

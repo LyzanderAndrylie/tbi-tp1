@@ -1,0 +1,15 @@
+We present a theoretical analysis of magnetic toroidal moments in periodic
+systems, in the limit in which the toroidal moments are caused by a time and
+space reversal symmetry breaking arrangement of localized magnetic dipole
+moments. We summarize the basic definitions for finite systems and address the
+question of how to generalize these definitions to the bulk periodic case. We
+define the toroidization as the toroidal moment per unit cell volume, and we
+show that periodic boundary conditions lead to a multivaluedness of the
+toroidization, which suggests that only differences in toroidization are
+meaningful observable quantities. Our analysis bears strong analogy to the
+modern theory of electric polarization in bulk periodic systems, but we also
+point out some important differences between the two cases. We then discuss the
+instructive example of a one-dimensional chain of magnetic moments, and we show
+how to properly calculate changes of the toroidization for this system.
+Finally, we evaluate and discuss the toroidization (in the local dipole limit)
+of four important example materials: BaNiF_4, LiCoPO_4, GaFeO_3, and BiFeO_3.

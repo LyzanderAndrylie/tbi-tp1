@@ -1,0 +1,9 @@
+With high-resolution photoemission spectroscopy measurements, the density of
+states (DOS) near the Fermi level ($E_\mathrm{F}$) of double perovskite
+Sr$_2$FeMoO$_6$ having different degrees of Fe/Mo antisite disorder has been
+investigated with varying temperature. The DOS near $E_\mathrm{F}$ showed a
+systematic depletion with increasing degree of disorder, and recovered with
+increasing temperature. Altshuler-Aronov (AA) theory of disordered metals well
+explains the dependences of the experimental results. Scaling analysis of the
+spectra provides experimental indication for the functional form of the AA DOS
+singularity.

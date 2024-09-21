@@ -1,0 +1,10 @@
+We propose a practical scheme for one-way quantum computing based on
+efficient generation of 2D cluster state in thermal cavities. We achieve a
+controlled-phase gate that is neither sensitive to cavity decay nor to thermal
+field by adding a strong classical field to the two-level atoms. We show that a
+2D cluster state can be generated directly by making every two atoms collide in
+an array of cavities, with numerically calculated parameters and appropriate
+operation sequence that can be easily achieved in practical Cavity QED
+experiments. Based on a generated cluster state in Box$^{(4)}$ configuration,
+we then implement Grover's search algorithm for four database elements in a
+very simple way as an example of one-way quantum computing.

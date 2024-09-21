@@ -1,0 +1,4 @@
+We predict how differential elliptic flow v2(pT) changes from RHIC to LHC
+collision energies (Pb+Pb at 5.5 TeV/nucleon), ASSUMING that the quark-gluon
+system created has a ``minimal'' shear viscosity eta/s = 1/(4*pi) at both RHIC
+and the LHC.

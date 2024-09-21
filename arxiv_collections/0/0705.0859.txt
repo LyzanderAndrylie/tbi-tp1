@@ -1,0 +1,10 @@
+We study the dynamics of initial nucleation processes of photoinduced
+structural change of molecular crystals. In order to describe the nonadiabatic
+transition in each molecule, we employ a model of localized electrons coupled
+with a fully quantized phonon mode, and the time-dependent Schr\"odinger
+equation for the model is numerically solved. We found a minimal model to
+describe the nucleation induced by injection of an excited state of a single
+molecule in which multiple types of intermolecular interactions are required.
+In this model coherently driven molecular distortion plays an important role in
+the successive conversion of electronic states which leads to photoinduced
+cooperative phenomena.

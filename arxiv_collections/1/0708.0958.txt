@@ -1,0 +1,14 @@
+We present a framework for automatically decomposing ("block-modeling") the
+functional classes of agents within a complex network. These classes are
+represented by the nodes of an image graph ("block model") depicting the main
+patterns of connectivity and thus functional roles in the network. Using a
+first principles approach, we derive a measure for the fit of a network to any
+given image graph allowing objective hypothesis testing. From the properties of
+an optimal fit, we derive how to find the best fitting image graph directly
+from the network and present a criterion to avoid overfitting. The method can
+handle both two-mode and one-mode data, directed and undirected as well as
+weighted networks and allows for different types of links to be dealt with
+simultaneously. It is non-parametric and computationally efficient. The
+concepts of structural equivalence and modularity are found as special cases of
+our approach. We apply our method to the world trade network and analyze the
+roles individual countries play in the global economy.

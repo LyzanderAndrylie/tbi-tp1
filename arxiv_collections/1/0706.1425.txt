@@ -1,0 +1,6 @@
+We analyze the effects of both bond- and potential-disorder in the vicinity
+of a first-order metal insulator transition in a two-band model for manganites
+using a real-space Monte Carlo method. Our results reveal a novel
+charge-ordered state coexisting with spin-glass behavior. We provide the basis
+for understanding the phase diagrams of half-doped manganites, and contrast the
+effects of bond- and potential-disorder and the combination of both.

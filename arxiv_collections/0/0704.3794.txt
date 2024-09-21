@@ -1,0 +1,8 @@
+The mechanics of cells is strongly affected by molecular motors that generate
+forces in the cellular cytoskeleton. We develop a model for cytoskeletal
+networks driven out of equilibrium by molecular motors exerting transient
+contractile stresses. Using this model we show how motor activity can
+dramatically increase the network's bulk elastic moduli. We also show how motor
+binding kinetics naturally leads to enhanced low-frequency stress fluctuations
+that result in non-equilibrium diffusive motion within an elastic network, as
+seen in recent \emph{in vitro} and \emph{in vivo} experiments.

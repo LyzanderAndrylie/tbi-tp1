@@ -1,0 +1,11 @@
+We calculate the light meson spectrum and the light quark masses by lattice
+QCD simulation, treating all light quarks dynamically and employing the Iwasaki
+gluon action and the nonperturbatively O(a)-improved Wilson quark action. The
+calculations are made at the squared lattice spacings at an equal distance
+a^2~0.005, 0.01 and 0.015 fm^2, and the continuum limit is taken assuming an
+O(a^2) discretization error. The light meson spectrum is consistent with
+experiment. The up, down and strange quark masses in the \bar{MS} scheme at 2
+GeV are \bar{m}=(m_{u}+m_{d})/2=3.55^{+0.65}_{-0.28} MeV and
+m_s=90.1^{+17.2}_{-6.1} MeV where the error includes statistical and all
+systematic errors added in quadrature. These values contain the previous
+estimates obtained with the dynamical u and d quarks within the error.

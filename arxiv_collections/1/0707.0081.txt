@@ -1,0 +1,10 @@
+We consider the effect of the R^4 term in type IIA string theory on the
+supergravity background dual to N_c D4 branes compactified on a circle with
+supersymmetry breaking boundary conditions. We study the dynamics of D8 branes
+in this perturbed geometry in the probe approximation. This leads to an
+analysis of higher derivative corrections in holographic QCD beyond the
+supergravity approximation. We make a rough estimate of the corrections to the
+masses of some of the lightest (axial) vector mesons. The corrections are
+suppressed by a factor of (g_{YM}^2 N_c)^{-3} compared to their supergravity
+values. We find that the masses of these mesons increase from their
+supergravity values.

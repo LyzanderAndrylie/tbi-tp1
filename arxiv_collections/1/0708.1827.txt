@@ -1,0 +1,11 @@
+We present new parameterizations of vector and axial nucleon form factors. We
+maintain an excellent descriptions of the form factors at low momentum
+transfers, where the spatial structure of the nucleon is important, and use the
+Nachtman scaling variable \xi to relate elastic and inelastic form factors and
+impose quark-hadron duality constraints at high momentum transfers where the
+quark structure dominates. We use the new vector form factors to re-extract
+updated values of the axial form factor from neutrino experiments on deuterium.
+We obtain an updated world average value from neutrino and pion
+electroproduction experiments of M_A = 1.0144 +- 0.0136 GeV/c2. Our
+parameterizations are useful in modeling atmospheric neutrino interactions
+(e.g. for neutrino oscillations experiments)

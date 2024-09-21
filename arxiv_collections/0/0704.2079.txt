@@ -1,0 +1,20 @@
+We report the detection of the millisecond pulsar B1257+12 with the Chandra
+X-ray Observatory. In a 20 ks exposure we detected 25 photons from the pulsar,
+with energies between 0.4 and 2.0 keV, corresponding to the flux F_X=(4.4+/-
+0.9)*10^{-15} ergs s^{-1} cm^{-2} in this energy range. The X-ray spectrum can
+be described by a power-law model with photon index Gamma = 2.8 and luminosity
+L_X \approx 2.5*10^{29} ergs s^{-1} in the 0.3--8 keV band, for a plausible
+distance of 500 pc and hydrogen column density N_H=3*10^{20} cm^{-2}.
+Alternatively, the spectrum can be fitted by a blackbody model with kT ~ 0.22
+keV and projected emitting area ~2000 m^2. If the thermal X-rays are emitted
+from two symmetric polar caps, the bolometric luminosity of the two caps is 2
+L_bol ~ 3*10^{29} ergs s^{-1}. We compared our results with the data on other
+30 millisecond pulsars observed in X-rays and found that the apparent X-ray
+efficiency of PSR B1257+12, L_X/Edot ~ 3*10^{-5} for d=500 pc, is lower than
+those of most of millisecond pulsars. This might be explained by an unfavorable
+orientation of the X-ray pulsar beam if the radiation is magnetospheric, or by
+strong asymmetry of polar caps if the radiation is thermal (e.g., one of the
+polar caps is much brighter than the other and remains invisible for most part
+of the pulsar period). Alternatively, it could be attributed to absorption of
+X-rays in circumpulsar matter, such as a flaring debris disk left over after
+formation of the planetary system around the pulsar.

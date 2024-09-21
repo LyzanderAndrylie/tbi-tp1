@@ -1,0 +1,5 @@
+The Ashtekar-Barbero constraints for General Relativity with fermions are
+derived from the Einstein-Cartan canonical theory rescaling the state
+functional of the gravity-spinor coupled system by the exponential of the
+Nieh-Yan functional. A one parameter quantization ambiguity naturally appears
+and can be associated with the Immirzi parameter.

@@ -1,0 +1,5 @@
+We present an analytic example of two dimensional quantum mechanical system,
+where the exponential suppression of the probability of over-barrier reflection
+changes non-monotonically with energy. The suppression is minimal at certain
+"optimal" energies where reflection occurs with exponentially larger
+probability than at other energies.

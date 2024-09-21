@@ -1,0 +1,16 @@
+Results from electric charge correlations studied with the Balance Function
+method in A+A collisions from 20\emph{A} to 158\emph{A} GeV are presented in
+two different rapidity intervals: In the mid-rapidity region we observe a
+decrease of the width of the Balance Function distribution with increasing
+centrality of the collision, whereas this effect vanishes in the forward
+rapidity region.
+  Results from the energy dependence study in central Pb+Pb collisions show
+that the narrowing of the Balance Function expressed by the normalised width
+parameter \textit{W} increases with energy towards the highest SPS and RHIC
+energies.
+  Finally we compare our experimental data points with predictions of several
+models. The hadronic string models UrQMD and HIJING do not reproduce the
+observed narrowing of the Balance Function. However, AMPT which contains a
+quark-parton transport phase before hadronization can reproduce the narrowing
+of the BF's width with centrality. This confirms the proposed sensitivity of
+the Balance Function analysis to the time of hadronization.

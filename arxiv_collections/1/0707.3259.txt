@@ -1,0 +1,9 @@
+We study the generalized harmonic oscillator which has both the
+position-dependent mass and the potential depending on the form of mass
+function in a more general framework. The explicit expressions of the
+eigenvalue and eigenfunction for such system are given, they have the same
+forms as those for the usual harmonic oscillator with constant mass. The
+coherent state and the its properties for the system with PDM are also
+discussed. We give the corresponding effective potentials for several mass
+functions, the systems with such potentials are isospectral to the usual
+harmonic oscillator.

@@ -1,0 +1,9 @@
+The coupling constants $g_L$ and $g_X$ of some versions of the
+$SU(3)_L\otimes U(1)_X$ extension of the standard model are related through to
+relationship $g^2_X/g^2_L= \sin^2\theta_W/(1 - 4\sin^2\theta_W)$. This fact
+suggest that the $SU(3)_L\otimes U(1)_X$ gauge symmetry in this class of models
+can be broken dynamically to the standard model at TeV scale without requiring
+the introduction of fundamental scalars. This possibility was investigated by
+Das and Jain who considered only the first version of this class of models. In
+this brief report we discuss an energy criterion to verify the most probable
+version of the $SU(3)_L\otimes U(1)_X$ model that is realized in nature.

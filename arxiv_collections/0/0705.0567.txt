@@ -1,0 +1,10 @@
+We examine resonances for two systems consisting of a particle coupled to a
+massless boson's field. The field is the free field in the whole space. In the
+first system, the particle is confined inside a ball. We show that besides the
+usual energy levels of the particle, which have become complex through the
+coupling to the field, other resonances are to be taken into account if the
+ball's radius is comparable to the particle's Compton wavelength. In the second
+system, the particle is in a finite-depth square-well potential. We study the
+way the resonances' width depends on the extent of the uncoupled particle's
+wave functions. In both cases, we limit ourselves to considering two levels of
+the particle only.

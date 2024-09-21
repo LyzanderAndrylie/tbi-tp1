@@ -1,0 +1,9 @@
+We investigate the effect of temperature on resonant and antiresonant
+dynamics in a dilute atomic gas kicked periodically by a standing wave laser
+field. Our numerical calculations are based on a Monte Carlo method for an
+incoherent mixture of non-interacting plane waves, and show that the atomic
+dynamics are highly sensitive to the initial momentum width of the gas. We
+explain this sensitivity by examining the time evolution of individual atomic
+centre of mass momentum eigenstates with varying quasimomentum, and we have
+determined analytic expressions for the evolution of the second-order momentum
+moment to illustrate the range of behaviours.

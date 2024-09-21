@@ -1,0 +1,9 @@
+Near-infrared photometry of transiting extrasolar planets can be of great
+scientific value. It is however not straightforward to reach the necessary
+millimagnitude precision. Here we report on our attempts to observe transits
+and secondary eclipses of several extrasolar planets at 2.2 micron. Best
+results have been obtained on OGLE-TR-113b using the SOFI near-infrared camera
+on ESO's New Technology Telescope. Its K-band transit shows a remarkably flat
+bottom indicating low stellar limb darkening. Secondary eclipse photometry has
+resulted in a formal 3 sigma detection, but residual systematic effects make
+this detection rather uncertain.

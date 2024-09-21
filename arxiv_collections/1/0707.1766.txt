@@ -1,0 +1,5 @@
+We develop a harmonic analysis on objects of some category $C_2$ of
+infinite-dimensional filtered vector spaces over a finite field. It includes
+two-dimensional local fields and adelic spaces of algebraic surfaces defined
+over a finite field. The main result is the theory of the Fourier transform on
+these objects and two-dimensional Poisson formulas.

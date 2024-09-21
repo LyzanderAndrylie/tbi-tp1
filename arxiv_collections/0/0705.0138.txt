@@ -1,0 +1,13 @@
+A Brownian Motor is a nanoscale or molecular device that combines the effects
+of thermal noise, spatial or temporal asymmetry, and directionless input energy
+to drive directed motion. Because of the input energy, Brownian motors function
+away from thermodynamic equilibrium and concepts such as linear response
+theory, fluctuation dissipation relations, and detailed balance do not apply.
+The {\em generalized} fluctuation-dissipation relation, however, states that
+even under strongly thermodynamically non-equilibrium conditions the ratio of
+the probability of a transition to the probability of the time-reverse of that
+transition is the exponent of the change in the internal energy of the system
+due to the transition. Here, we derive an extension of the generalized
+fluctuation dissipation theorem for a Brownian motor for the ratio between the
+probability for the motor to take a forward step and the probability to take a
+backward step.

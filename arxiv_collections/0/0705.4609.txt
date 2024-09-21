@@ -1,0 +1,13 @@
+A gauge theory of gravity based on a nonlinear realization (NLR) of the local
+Conform-Affine (CA) group of symmetry transformations is presented. The coframe
+fields and gauge connections of the theory are obtained. The tetrads and
+Lorentz group metric are used to induce a spacetime metric. The inhomogenously
+transforming (under the Lorentz group) connection coefficients serve as
+gravitational gauge potentials used to define covariant derivatives
+accommodating minimal coupling of matter and gauge fields. On the other hand,
+the tensor valued connection forms serve as auxillary dynamical fields
+associated with the dilation, special conformal and deformational (shear)
+degrees of freedom inherent in the bundle manifold. The bundle curvature of the
+theory is determined. Boundary topological invariants are constructed. They
+serve as a prototype (source free) gravitational Lagrangian. The Bianchi
+identities, covariant field equations and gauge currents are obtained.

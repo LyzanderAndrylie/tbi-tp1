@@ -1,0 +1,9 @@
+We use the mean crossover functions [Garrabos and Bervillier, Phys Rev. E 74,
+021113 (2006)] estimated from the bounded results of the Massive
+Renormalization scheme applied to the $\Phi_{d}^{4}(n)$ model in three
+dimensions ($d=3$) and scalar order parameter ($n=1$) [Bagnuls and Bervillier,
+Phys. Rev. E 65, 066132 (2002)], to represent the singular behavior of the
+isothermal compressibility of xenon along the critical isochore in the
+homogeneous preasymptotic domain. The validity range and the Ising nature of
+the crossover description are discussed in terms of a single scale factor whose
+value can be analytically estimated beyond the Ising-like preasymptotic domain.

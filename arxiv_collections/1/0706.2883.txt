@@ -1,0 +1,8 @@
+We demonstrate fully tunable single and double quantum dots in a
+one-dimensional hole system based on undoped Ge/Si core-shell nanowire
+heterostructures. The local hole density along the nanowire is controlled by
+applying voltages to five top gate electrodes with a periodicity of 80 nm,
+insulated from the wire by a 20 nm-thick HfO_2 dielectric film. Low-temperature
+transport measurements were used to investigate the magnetic field dependence
+of Coulomb blockade peaks in a single quantum dot and indicate a strongly
+anisotropic g-factor with |g_para| = 0.60 +/- 0.03 and |g_perp| < 0.12.

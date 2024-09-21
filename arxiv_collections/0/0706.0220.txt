@@ -1,0 +1,13 @@
+The diffuse extragalactic gamma-ray background (EGRB) has been derived by
+various groups from observations by the Energetic Gamma Ray Experiment
+Telescope (EGRET) instrument on the Compton Gamma Ray Observatory (CGRO). The
+derived EGRB consists of gamma rays that may come from astrophysical
+components, such as from unresolved extragalactic point sources (blazars,
+normal galaxies, etc.), true extragalactic diffuse emission, misattributed
+diffuse signals from the Galaxy and other celestial sources, and an irreducible
+instrumental background due to gamma rays produced by cosmic-ray (CR)
+interactions in the EGRET instrument. Using the Gamma Ray Large Area Space
+Telescope (GLAST) simulation and reconstruction software, we have investigated
+the magnitude of the irreducible instrumental background in the GLAST Large
+Area Telescope. We re-scale our results to the EGRET and present preliminary
+results of our study and its effect on current estimates of the EGRB.

@@ -1,0 +1,17 @@
+The study of diffusion and low frequency vibrational motions of particles on
+metal surfaces is of paramount importance; it provides valuable information on
+the nature of the adsorbate-substrate and the substrate-substrate interactions.
+In particular, the experimental broadening observed in the diffusive peak with
+increasing coverage is usually interpreted in terms of a dipole-dipole like
+interaction among adsorbates via extensive molecular dynamics calculations
+within the Langevin framework. Here we present an alternative way to interpret
+this broadening by means of a purely stochastic description, namely the
+interacting single adsorbate approximation, where two noise sources are
+considered: (1) a Gaussian white noise accounting for the surface friction and
+temperature, and (2) a white shot noise replacing the interaction potential
+between adsorbates. Standard Langevin numerical simulations for flat and
+corrugated surfaces (with a separable potential) illustrate the dynamics of Na
+atoms on a Cu(100) surface which fit fairly well to the analytical expressions
+issued from simple models (free particle and anharmonic oscillator) when the
+Gaussian approximation is assumed. A similar broadening is also expected for
+the frustrated translational mode peaks.

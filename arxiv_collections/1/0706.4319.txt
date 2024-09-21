@@ -1,0 +1,12 @@
+We report transport and thermodynamic properties of single-crystal SrIrO3 as
+a function of temperature T and applied magnetic field H. We find that SrIrO3
+is a non-Fermi-liquid metal near a ferromagnetic instability, as characterized
+by the following properties: (1) small ordered moment but no evidence for
+long-range order down to 1.7 K; (2) strongly enhanced magnetic susceptibility
+that diverges as T or T1/2 at low temperatures, depending on the applied field;
+(3) heat capacity C(T,H) ~ -Tlog T that is readily amplified by low applied
+fields; (4) a strikingly large Wilson ratio at T< 4K; and (5) a T3/2-dependence
+of electrical resistivity over the range 1.7 < T < 120 K. A phase diagram based
+on the data implies SrIrO3 is a rare example of a stoichiometric oxide compound
+that exhibits non-Fermi-liquid behavior near a quantum critical point (T = 0
+and H = 0.23 T).

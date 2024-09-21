@@ -1,0 +1,18 @@
+We consider a system composed of a trapped atom and a trapped ion. The ion
+charge induces in the atom an electric dipole moment, which attracts it with an
+r^{-4} dependence at large distances. In the regime considered here, the
+characteristic range of the atom-ion interaction is comparable or larger than
+the characteristic size of the trapping potential, which excludes the
+application of the contact pseudopotential. The short-range part of the
+interaction is described in the framework of quantum-defect theory, by
+introducing some short-range parameters, which can be related to the s-wave
+scattering length. When the separation between traps is changed we observe
+trap-induced shape resonances between molecular bound states and vibrational
+states of the external trapping potential. Our analysis is extended to
+quasi-one-dimensional geometries, when the scattering exhibit
+confinement-induced resonances, similar to the ones studied before for
+short-range interactions. For quasi-one-dimensional systems we investigate the
+effects of coupling between the center of mass and relative motion, which
+occurs for different trapping frequencies of atom and ion traps. Finally, we
+show how the two types of resonances can be employed for quantum state control
+and spectroscopy of atom-ion molecules.

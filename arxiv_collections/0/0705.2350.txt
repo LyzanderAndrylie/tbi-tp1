@@ -1,0 +1,17 @@
+The control of open quantum systems has a fundamental relevance for fields
+ranging from quantum information processing to nanotechnology. Typically, the
+system whose coherent dynamics one wants to manipulate, interacts with an
+environment that smoothly degrades its quantum dynamics. Thus, a precise
+understanding of the inner mechanisms of this process, called "decoherence", is
+critical to develop strategies to control the quantum dynamics. In this thesis
+we solved the generalized Liouville-von Neumann quantum master equation to
+obtain the dynamics of many-spin systems interacting with a spin bath. We also
+solve the spin dynamics within the Keldysh formalism. Both methods lead to
+identical solutions and together gave us the possibility to obtain numerous
+physical predictions that contrast well with Nuclear Magnetic Resonance
+experiments. We applied these tools for molecular characterizations,
+development of new numerical methodologies and the control of quantum dynamics
+in experimental implementations. But, more important, these results contributed
+to fundamental physical interpretations of how quantum dynamics behaves in open
+systems. In particular, we found a manifestation of an environmentally induced
+quantum dynamical phase transition.

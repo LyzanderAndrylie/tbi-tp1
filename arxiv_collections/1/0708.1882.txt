@@ -1,0 +1,18 @@
+Exploiting the similarity between adiabatic quantum algorithms and quantum
+phase transitions, we argue that second-order transitions -- typically
+associated with broken or restored symmetries -- should be advantageous in
+comparison to first-order transitions. Guided by simple examples we construct
+an alternative adiabatic algorithm for the NP-complete problem {\em Exact Cover
+3}. We show numerically that its average performance (for the considered cases
+up to ${\cal O}\{20\}$ qubits) is better than that of the conventional scheme.
+The run-time of adiabatic algorithms is not just determined by the minimum
+value of the fundamental energy gap (between the ground state and the exited
+states), but also by its curvature at the critical point. The proposed
+symmetry-restoring adiabatic quantum algorithm only contains contributions
+linear and quadratic in the Pauli matrices and can be generalized to other
+problem Hamiltonians which are decomposed of terms involving one and two
+qubits. We show how the factoring problem can be cast into such a quadratic
+form. These findings suggest that adiabatic quantum algorithms can solve a
+large class of NP problems much faster than the Grover search routine (which
+corresponds to a first-order transition and yields a quadratic enhancement
+only).

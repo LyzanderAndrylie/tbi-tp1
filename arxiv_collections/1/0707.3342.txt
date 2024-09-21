@@ -1,0 +1,9 @@
+The search for signals of new physics at the forthcoming LHC experiments
+involves the analysis of final states characterised by a high number of
+hadronic jets or identified particles. Precise theoretical predictions for
+these processes require the computation of scattering amplitudes with a large
+number of external particles and beyond leading order in perturbation theory.
+The complexity of a calculation grows with the number of internal loops as well
+as with the number of external legs. Automatisation of at least next-to-leading
+order calculations for LHC processes is therefore a timely task. I will discuss
+various approaches.

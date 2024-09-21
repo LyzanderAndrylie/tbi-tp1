@@ -1,0 +1,7 @@
+The puzzling behavior of the transition phase through a quantum dot can be
+understood in a natural way via a formation of the electron molecule in the
+quantum dot. In this case the resonance tunneling takes place through the
+quasi-stationary (doorway) state, which emerges when the number of electrons
+occupying the dot reaches a certain ``critical'' value, $N_{cr}$. Our
+estimation of this quantity agrees with the experimental data. The dependence
+of $N_{cr}$ on the dot's size is predicted as well.

@@ -1,0 +1,15 @@
+We present the most accurate up-to-date theoretical values of the
+{2p_{1/2}}-{2s} and {2p_{3/2}}-{2s} transition energies and the ground-state
+hyperfine splitting in ${\rm Sc}^{18+}$. All two- and three-electron
+contributions to the energy values up to the two-photon level are treated in
+the framework of bound-state QED without $\aZ$-expansion. The interelectronic
+interaction beyond the two-photon level is taken into account by means of the
+large-scale configuration-interaction Dirac-Fock-Sturm (CI-DFS) method. The
+relativistic recoil correction is calculated with many-electron wave functions
+in order to take into account the electron-correlation effect. The accuracy of
+the transition energy values is improved by a factor of five compared to the
+previous calculations. The CI-DFS calculation of interelectronic-interaction
+effects and the evaluation of the QED correction in an effective screening
+potential provide significant improvement for the $2s$ hyperfine splitting. The
+results obtained are in a good agreement with recently published experimental
+data.

@@ -1,0 +1,13 @@
+We determine the masses and decay constants of the pseudoscalar mesons Bs and
+Bc, and also the masses of the vector mesons Bs^* and Bc^*, in quenched lattice
+QCD with exact chiral symmetry. For 100 gauge configurations generated with
+single-plaquette action at beta = 7.2 on the 32^3 x 60 lattice, we compute
+point-to-point quark propagators for 33 quark masses in the range [0.01, 0.85],
+and measure the time-correlation functions of pseudoscalar and vector mesons.
+The inverse lattice spacing and the charm quark bare mass are determined using
+the mass and decay constant of eta_c(2980). The bare masses of s and b quarks
+are chosen such that the masses of the corresponding vector mesons are in good
+agreement with phi(1020), and Upsilon(9460) respectively. Our results are:
+m_{Bs} = 5385(27)(17) MeV, f_{Bs} = 253(8)(7) MeV, m_{Bc} = 6278(6)(4) MeV,
+f_{Bc} = 489(4)(3) MeV, m_{Bs^*} = 5424(28)(19) MeV, and m_{Bc^*} = 6315(6)(5)
+MeV.

@@ -1,0 +1,11 @@
+Using the tight-binding model with long-range Coulomb interactions between
+electrons, we study some of the electronic properties of graphene. The Coulomb
+interactions are treated with the renormalized-ring-diagram approximation. By
+self-consistently solving the integral equations for the Green function, we
+calculate the spectral density. The obtained result is in agreement with
+experimental observation. In addition, we also compute the density of states,
+the distribution functions, and the ground-state energy. Within the present
+approximation, we find that the imaginary part of the self-energy fixed at the
+Fermi momentum varies as quadratic in energy close to the chemical potential,
+regardless the system is doped or not. This result appears to indicate that the
+electrons in graphene always behave like a moderately correlated Fermi liquid.

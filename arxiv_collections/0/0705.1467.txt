@@ -1,0 +1,4 @@
+We establish a one-to-one correspondence between the Young tableaux
+classifying the total spin representations of N spins and the exact eigenstates
+of the the Haldane-Shastry model for a chain with N sites classified by the
+total spins and the fractionally spaced single-particle momenta of the spinons.

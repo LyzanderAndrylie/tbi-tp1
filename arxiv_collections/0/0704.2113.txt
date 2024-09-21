@@ -1,0 +1,6 @@
+Let $X$ be a compact complex manifold, consider a small deformation $\phi:
+\mathcal{X} \to B$ of $X$, the dimensions of the cohomology groups of tangent
+sheaf $H^q(X_t,\mathcal{T}_{X_t})$ may vary under this deformation. This paper
+will study such phenomenons by studying the obstructions to deform a class in
+$H^q(X,\mathcal{T}_X)$ with the parameter $t$ and get the formula for the
+obstructions.

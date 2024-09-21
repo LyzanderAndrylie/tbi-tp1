@@ -1,0 +1,24 @@
+The 105-ms X-ray pulsar J1852+0040 is the central compact object (CCO) in SNR
+Kes 79. We report a sensitive upper limit on its radio flux density of 12 uJy
+at 2 GHz using the NRAO GBT. Timing using XMM and Chandra over a 2.4 yr span
+reveals no significant change in its spin period. The 2 sigma upper limit on
+the period derivative leads, in the dipole spin-down formalism, to an energy
+loss rate E-dot < 7e33 ergs/s, surface magnetic field strength B_p < 1.5e11 G,
+and characteristic age tau_c = P/2P-dot > 8 Myr. This tau_c exceeds the age of
+the SNR by 3 orders of magnitude, implying that the pulsar was born spinning at
+its current period. However, the X-ray luminosity of PSR J1852+0040, L(bol) ~
+3e33(d/7.1 kpc)^2 ergs/s is a large fraction of E-dot, which challenges the
+rotation-powered assumption. Instead, its high blackbody temperature,
+0.46+/-0.04 keV, small blackbody radius ~ 0.8 km, and large pulsed fraction, ~
+80%, may be evidence of accretion onto a polar cap, possibly from a fallback
+disk made of supernova debris. If B_p < 1e10 G, an accretion disk can penetrate
+the light cylinder and interact with the magnetosphere while resulting torques
+on the neutron star remain within the observed limits. A weak B-field is also
+inferred in another CCO, the 424-ms pulsar 1E 1207.4-5209, from its steady spin
+and soft X-ray absorption lines. We propose this origin of radio-quiet CCOs:
+the B-field, derived from a turbulent dynamo, is weaker if the NS is formed
+spinning slowly, which enables it to accrete SN debris. Accretion excludes
+neutron stars born with both B_p < 1e11 G and P > 0.1 s from radio pulsar
+surveys, where B_p < 1e11 G is not encountered except among very old (tau_c >
+40 Myr) or recycled pulsars. Finally, such a CCO, if born in SN 1987A, could
+explain the non-detection of a pulsar there.

@@ -1,0 +1,9 @@
+Motivated by recent Hall-effect experiment in YbRh$_2$Si$_2$, we study ground
+state properties of a Kondo lattice model in a two-dimensional square lattice
+using variational Monte Carlo method. We show that there are two types of phase
+transition, antiferromagnetic transition and topological one (Fermi surface
+reconstruction). In a wide region of parameters, these two transitions occur
+simultaneously without the breakdown of Kondo screening, accompanied by a
+discontinuous change of the Hall coefficient. This result is consistent with
+the experiment and gives a novel theoretical picture for the quantum critical
+point in heavy fermion systems.

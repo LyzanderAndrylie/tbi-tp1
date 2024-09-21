@@ -1,0 +1,13 @@
+There are two fundamental results in the classical theory of metric
+Diophantine approximation: Khintchine's theorem and Jarnik's theorem. The
+former relates the size of the set of well approximable numbers, expressed in
+terms of Lebesgue measure, to the behavior of a certain volume sum. The latter
+is a Hausdorff measure version of the former. We start by discussing these
+theorems and show that they are both in fact a simple consequence of the notion
+of `local ubiquity'. The local ubiquity framework introduced here is a much
+simplified and more transparent version of that in \cite{memoirs}. Furthermore,
+it leads to a single local ubiquity theorem that unifies the Lebesgue and
+Hausdorff theories. As an application of our framework we consider the theory
+of metric Diophantine approximation on limit sets of Kleinian groups. In
+particular, we obtain a general Hausdorff measure version of Sullivan's
+logarithm law for geodesics -- an aspect overlooked in \cite{memoirs}.

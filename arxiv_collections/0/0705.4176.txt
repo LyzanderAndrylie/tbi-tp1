@@ -1,0 +1,7 @@
+We present a detailed analysis of bipartite entanglement entropies in
+fractional quantum Hall (FQH) states, considering both abelian (Laughlin) and
+non-abelian (Moore-Read) states. We derive upper bounds for the entanglement
+between two subsets of the particles making up the state. We also consider the
+entanglement between spatial regions supporting a FQH state. Using the latter,
+we show how the so-called topological entanglement entropy of a FQH state can
+be extracted from wavefunctions for a limited number of particles.

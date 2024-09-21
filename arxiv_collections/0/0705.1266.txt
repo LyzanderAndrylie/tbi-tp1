@@ -1,0 +1,9 @@
+Computer simulations were done of the mean square displacement (MSD) of
+tracer particles in colloidal gels formed by diffusion or reaction limited
+aggregation of hard spheres. The diffusion coefficient was found to be
+determined by the volume fraction accessible to the spherical tracers
+($\phi_a$) independent of the gel structure or the tracer size. In all cases,
+critical slowing down was observed at $\phi_a\approx 0.03$ and was
+characterized by the same scaling laws reported earlier for tracer diffusion in
+a Lorentz gas. Strong heterogeneity of the MSD was observed at small $\phi_a$
+and was related to the size distribution of pores.

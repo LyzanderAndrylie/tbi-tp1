@@ -1,0 +1,13 @@
+We report on theoretical and experimental investigations of the integer
+quantized Hall effect in narrow channels at various mobilities. The Hall bars
+are defined electrostatically in two-dimensional electron systems by biasing
+metal gates on the surfaces of GaAs/AlGaAs heterostructures. In the low
+mobility regime the classical Hall resistance line is proportional to the
+magnetic field as measured in the high temperature limit and cuts through the
+center of each Hall plateau. For high mobility samples we observe in linear
+response measurements, that this symmetry is broken and the classical Hall line
+cuts the plateaus not at the center but at higher magnetic fields near the
+edges of the plateaus. These experimental results confirm the unconventional
+predictions of a model for the quantum Hall effect taking into account mutual
+screening of charge carriers within the Hall bar. The theory is based on
+solving the Poisson and Schr\"odinger equations in a self-consistent manner.

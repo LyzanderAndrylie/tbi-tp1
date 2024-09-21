@@ -1,0 +1,9 @@
+We investigate the magnetic response of a superconducting Nb ring containing
+a ferromagnetic PdNi Josephson junction and a tunnel junction in parallel. A
+doubling of the switching frequency is observed within certain intervals of the
+external magnetic field. Assuming sinusoidal current-phase relations of both
+junctions our model of a dc-SQUID embedded within a superconducting ring
+explains this feature by a sequence of current reversals in the ferromagnetic
+section of the junction in these field intervals. The switching anomalies are
+induced by the coupling between the magnetic fluxes in the two superconducting
+loops.

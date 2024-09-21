@@ -1,0 +1,5 @@
+The aim of this paper is to construct a Riemann-Lagrange geometry on 1-jet
+spaces, in the sense of d-connections, d-torsions, d-curvatures,
+electromagnetic d-field and geometric electromagnetic Yang-Mills energy,
+starting from a given linear ODEs system or a given superior order ODE. The
+case of a non-homogenous linear ODE of superior order is disscused.

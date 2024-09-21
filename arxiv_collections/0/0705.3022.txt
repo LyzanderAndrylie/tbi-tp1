@@ -1,0 +1,8 @@
+We compare the plasma and cavitation dynamics underlying pulsed laser
+microsurgery in water and in fruit fly embryos (in vivo) - specifically for
+nanosecond pulses at 355 and 532 nm. We find two key differences. First, the
+plasma-formation thresholds are lower in vivo - especially at 355 nm - due to
+the presence of endogenous chromophores that serve as additional sources for
+plasma seed electrons. Second, the biological matrix constrains the growth of
+laser-induced cavitation bubbles. Both effects reduce the disrupted region in
+vivo when compared to extrapolations from measurements in water.

@@ -1,0 +1,6 @@
+This paper gives a simple derivation of the well-known expression of the
+frequency dependent complex heat capacity in modulated temperature experiments.
+It aims at clarified again that the generalized calorimetric susceptibility is
+only due to the non-equilibrium behaviour occurring in the vicinity of
+thermodynamic equilibrium of slow internal degrees of freedom of a sample when
+the temperature oscillates at a well determined frequency.

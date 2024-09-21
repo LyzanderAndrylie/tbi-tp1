@@ -1,0 +1,14 @@
+Quantum wire superlattices (1D) realized by controlled dislocation slipping
+in quantum well superlattices (2D) (atomic saw method) have already shown
+magnetophonon oscillations. This effect has been used to investigate the
+electronic properties of such systems and prove the quantum character of the
+physical properties of the wires. By cooling the temperature and using pulsed
+magnetic field up to 35 T, we have observed both quantum Hall effect (QHE) and
+Shubnikov de Haas (SdH) oscillations for various configurations of the magnetic
+field. The effective masses deduced from the values of the fundamental fields
+are coherent with those obtained with magnetophonon effect. The field rotation
+induces a change in the resonance frequencies due to the modification of the
+mass tensor as in a (3D) electron gas. In view the QHE, the plateaus observed
+in rho_yz are dephased relatively to rho_zz minima which seems to be linked to
+the dephasing of the minima of the density of states of the broadened Landau
+levels.

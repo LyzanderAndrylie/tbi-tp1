@@ -1,0 +1,8 @@
+For finite volume field theories with discrete translational invariance,
+conserved currents can be additively renormalized by infrared effects. We
+demonstrate this for pions using chiral perturbation theory coupled to
+electromagnetism in a periodic box. Gauge invariant single particle effective
+theories are constructed to explain these results. In such theories, current
+renormalization arises from operators involving the zero mode of the gauge
+field. No contradictions with Ward identities, or low-energy theorems are
+encountered.

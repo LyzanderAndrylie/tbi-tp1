@@ -1,0 +1,18 @@
+The transition between the low density groups of T Tauri stars and the high
+density clusters around massive stars occurs in the intermediate-mass (IM)
+range (M$_*$$\sim$2--8 M$_\odot$). High spatial resolution studies of IM young
+stellar objects (YSO) can provide important clues to understand the clustering
+in massive star forming regions.
+  Aims: Our aim is to search for clustering in IM Class 0 protostars. The high
+spatial resolution and sensitivity provided by the new A configuration of the
+Plateau de Bure Interferometer (PdBI) allow us to study the clustering in these
+nearby objects.
+  Methods: We have imaged three IM Class 0 protostars (Serpens-FIRS 1, IC 1396
+N, CB 3) in the continuum at 3.3 and 1.3mm using the PdBI. The sources have
+been selected with different luminosity to investigate the dependence of the
+clustering process on the luminosity of the source.
+  Results: Only one millimeter (mm) source is detected towards the low
+luminosity source Serpens--FIRS 1. Towards CB 3 and IC1396 N, we detect two
+compact sources separated by $\sim$0.05 pc. The 1.3mm image of IC 1396 N, which
+provides the highest spatial resolution, reveal that one of these cores is
+splitted in, at least, three individual sources.

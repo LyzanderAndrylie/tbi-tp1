@@ -1,0 +1,19 @@
+Let ${\cal M}_{g,[n]}$, for $2g-2+n>0$, be the D-M moduli stack of smooth
+curves of genus $g$ labeled by $n$ unordered distinct points. The main result
+of the paper is that a finite, connected \'etale cover ${\cal M}^\l$ of ${\cal
+M}_{g,[n]}$, defined over a sub-$p$-adic field $k$, is "almost" anabelian in
+the sense conjectured by Grothendieck for curves and their moduli spaces.
+  The precise result is the following. Let $\pi_1({\cal M}^\l_{\ol{k}})$ be the
+geometric algebraic fundamental group of ${\cal M}^\l$ and let
+${Out}^*(\pi_1({\cal M}^\l_{\ol{k}}))$ be the group of its exterior
+automorphisms which preserve the conjugacy classes of elements corresponding to
+simple loops around the Deligne-Mumford boundary of ${\cal M}^\l$ (this is the
+"$\ast$-condition" motivating the "almost" above). Let us denote by
+${Out}^*_{G_k}(\pi_1({\cal M}^\l_{\ol{k}}))$ the subgroup consisting of
+elements which commute with the natural action of the absolute Galois group
+$G_k$ of $k$. Let us assume, moreover, that the generic point of the D-M stack
+${\cal M}^\l$ has a trivial automorphisms group. Then, there is a natural
+isomorphism: $${Aut}_k({\cal M}^\l)\cong{Out}^*_{G_k}(\pi_1({\cal
+M}^\l_{\ol{k}})).$$ This partially extends to moduli spaces of curves the
+anabelian properties proved by Mochizuki for hyperbolic curves over
+sub-$p$-adic fields.

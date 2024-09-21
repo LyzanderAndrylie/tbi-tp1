@@ -1,0 +1,16 @@
+The generator coordinate (GC) method is a variational approach to the quantum
+many-body problem in which interacting many-body wave functions are constructed
+as superpositions of (generally nonorthogonal) eigenstates of auxiliary
+Hamiltonians containing a deformation parameter. This paper presents a
+time-dependent extension of the GC method as a new approach to improve existing
+approximations of the exchange-correlation (XC) potential in time-dependent
+density-functional theory (TDDFT). The time-dependent GC method is shown to be
+a conceptually and computationally simple tool to build memory effects into any
+existing adiabatic XC potential. As an illustration, the method is applied to
+driven parametric oscillations of two interacting electrons in a harmonic
+potential (Hooke's atom). It is demonstrated that a proper choice of
+time-dependent generator coordinates in conjunction with the adiabatic
+local-density approximation reproduces the exact linear and nonlinear
+two-electron dynamics quite accurately, including features associated with
+double excitations that cannot be captured by TDDFT in the adiabatic
+approximation.

@@ -1,0 +1,11 @@
+Recent experiments on the "hyper-kagome" lattice system Na$_4$Ir$_3$O$_8$
+have demonstrated that it is a rare example of a three dimensional spin-1/2
+frustrated antiferromagnet. We investigate the role of quantum fluctuations as
+the primary mechanism lifting the macroscopic degeneracy inherited by classical
+spins on this lattice. In the semi-classical limit we predict, based on large-N
+calculations, that an unusual $\vec q=0$ coplaner magnetically ordered ground
+state is stabilized with no local "weather vane" modes. This phase melts in the
+quantum limit and a gapped topological Z$_2$ spin liquid phase emerges. In the
+vicinity of this quantum phase transition, we study the dynamic spin structure
+factor and comment on the relevance of our results for future neutron
+scattering experiments.

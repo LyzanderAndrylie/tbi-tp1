@@ -1,0 +1,10 @@
+The aim of this paper is the isotropic design of a hybrid morphology
+dedicated to 3-axis machining applications. It is necessary to ensure the
+feasibility of continuous, singularity-free trajectories, as well as a good
+manipulability in position and velocity. We want to propose an alternative
+design to conventional serial machine-tools. We compare a serial PPP
+machine-tool (three prismatic orthogonal axes) with a hybrid architecture which
+we optimize only the first two axes. The critrerion used for the optimization
+is the conditioning of the Jacobian matrices. The optimum, namely isotropy, can
+be obtained which provides our architecture with excellent manipulability
+properties.

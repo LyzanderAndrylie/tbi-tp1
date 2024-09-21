@@ -1,0 +1,19 @@
+The four-body Yakubovsky equations in a Three-Dimensional approach with the
+inclusion of the three-body forces is proposed. The four-body bound state with
+two- and three-body interactions is formulated in Three-Dimensional approach
+for identical particles as function of vector Jacobi momenta, specifically the
+magnitudes of the momenta and the angles between them. The modified three
+dimensional Yakubovsky integral equations is successfully solved with the
+scalar two-meson exchange three-body force where the Malfliet-Tjon-type
+two-body force is implemented. The three-body force effects on the energy
+eigenvalue and the four-body wave function, as well as accuracy of our
+numerical calculations are presented.The four-body Yakubovsky equations in a
+Three-Dimensional approach with the inclusion of the three-body forces is
+proposed. The four-body bound state with two- and three-body interactions is
+formulated in Three-Dimensional approach for identical particles as function of
+vector Jacobi momenta, specifically the magnitudes of the momenta and the
+angles between them. The modified three dimensional Yakubovsky integral
+equations is successfully solved with the scalar two-meson exchange three-body
+force where the Malfliet-Tjon-type two-body force is implemented. The
+three-body force effects on the energy eigenvalue and the four-body wave
+function, as well as accuracy of our numerical calculations are presented.

@@ -1,0 +1,10 @@
+We calculate the radiative properties for a linear dipole-coupled chain of
+qubits. Using the explicit energy eigenstates of the system, we find the
+radiation patterns for spontaneous transitions from the one-photon eigenstates
+to the ground state of the system. We show that depending on the excitation of
+a specific atom, the radiation tends to be focused either along or
+perpendicular to the chain. We conclude with a derivation of the total decay
+rate of the one-photon eigenstates, and find the interesting result that for
+systems where the photon wavenumber is not much larger than the interatomic
+spacing, up to 94% of the eigenstates are subradiant, that is, they decay
+significantly slower than a single atom in isolation.

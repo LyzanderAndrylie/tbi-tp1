@@ -1,0 +1,15 @@
+We investigate the Gross-Pitaevskii equation for a classically chaotic
+system, which describes an atomic Bose-Einstein condensate confined in an
+optical lattice and driven by a spatiotemporal periodic laser field. It is
+demonstrated that the exact Floquet states appear when the external
+time-dependent potential is balanced by the nonlinear mean-field interaction.
+The balance region of parameters is divided into a phase-continuing region and
+a phase-jumping one. In the latter region, the Floquet states are
+spatiotemporal vortices of nontrivial phase structures and zero-density cores.
+Due to the velocity singularities of vortex cores and the blowing-up of
+perturbed solutions, the spatiotemporal vortices are unstable periodic states
+embedded in chaos. The stability and instability of these Floquet states are
+numerically explored by the time evolution of fidelity between the exact and
+numerical solutions. It is numerically illustrated that the stable Floquet
+states could be prepared from the uniformly initial states by slow growth of
+the external potential.

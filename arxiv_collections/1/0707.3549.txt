@@ -1,0 +1,5 @@
+Computation of superstring partition function for the non-linear sigma model
+on the product of a two-torus and its dual within the scope of the doubled
+formalism is presented. We verify that it reproduces the partition functions of
+the toroidally compactified type--IIA and type--IIB theories for appropriate
+choices of the GSO projection.

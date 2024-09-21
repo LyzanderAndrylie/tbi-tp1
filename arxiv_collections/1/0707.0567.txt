@@ -1,0 +1,22 @@
+Xenopus tropicalis is an anuran amphibian species used as model in vertebrate
+comparative genomics. It provides the same advantages as Xenopus laevis but is
+diploid and has a smaller genome of 1.7 Gbp. Therefore X. tropicalis is more
+amenable to systematic transcriptome surveys. We initiated a large-scale
+partial cDNA sequencing project to provide a functional genomics resource on
+genes expressed in the nervous system during early embryogenesis and
+metamorphosis in X. tropicalis. A gene index was defined and analysed after the
+collection of over 48,785 high quality sequences. Partial cDNA sequences were
+obtained from an embryonic head and retina library (30,272 sequences) and from
+a metamorphic brain and spinal cord library (27,602 sequences). These ESTs are
+estimated to represent 9,693 transcripts derived from an estimated 6,000 genes.
+An estimated 46% of these cDNA sequences contain their start codon. Further
+annotation included Gene Ontology functional classification, InterPro domain
+analysis, alternative splicing and non-coding RNA identification. Gene
+expression profiles were derived from EST counts and used to define transcripts
+specific to metamorphic stages of development. Moreover, these ESTs allowed
+identification of a set of 225 polymorphic microsatellites that can be used as
+genetic markers. These cDNA sequences permit in silico cloning of numerous
+genes and will facilitate studies aimed at deciphering the roles of cognate
+genes expressed in the nervous system during neural development and
+metamorphosis. The genomic resources developed to study X. tropicalis biology
+will accelerate exploration of amphibian physiology and genetics.

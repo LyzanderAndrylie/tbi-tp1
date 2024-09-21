@@ -1,0 +1,9 @@
+We study the superfluid-insulator transition in Bose-Hubbard models in one-,
+two-, and three-dimensional cubic lattices by means of a recently proposed
+variational wave function. In one dimension, the variational results agree with
+the expected Berezinskii-Kosterlitz-Thouless scenario of the interaction-driven
+Mott transition. In two and three dimensions, we find evidences that, across
+the transition,most of the spectral weight is concentrated at high energies,
+suggestive of pre-formed Mott-Hubbard side-bands. This result is compatible
+with the experimental data by Stoferle et al.
+  [Phys. Rev. Lett. 92, 130403 (2004)].

@@ -1,0 +1,11 @@
+We consider the properties of the Moore-Read Pfaffian state under
+particle-hole conjugation. We show that the particle-hole conjugate of the
+Pfaffian state - or "anti-Pfaffian" state - is in a different universality
+class from the Pfaffian state, with different topological order. The two states
+can be distinguished by both their bulk and edge physics though the difference
+is most dramatic at the edge: the edge of the anti-Pfaffian state has a
+composite structure that leads to a different thermal Hall conductance and
+different tunneling exponents than the Pfaffian state. At the same time, the
+two states are exactly degenerate in energy for a $\nu = 5/2$ quantum Hall
+system in the idealized limit of zero Landau level mixing. Thus, both are good
+candidates for the observed $\nu = 5/2$ quantum Hall plateau.

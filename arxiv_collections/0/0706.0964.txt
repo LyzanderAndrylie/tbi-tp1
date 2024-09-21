@@ -1,0 +1,8 @@
+We present a simple derivation of the matrix Riccati equations governing the
+reduced dynamics as one descends from the group U(N) describing the
+Schroedinger evolution of an N-level quantum system to the various coset
+spaces, Grassmanian manifolds, associated with it. The special case pertaining
+to the geometric phase in N-level systems is described in detail. Further, we
+show how the matrix Riccati equation thus obtained can be reformulated as an
+equation describing Hamiltonian evolution in a classical phase space and
+establish correspondences between the two descriptions.

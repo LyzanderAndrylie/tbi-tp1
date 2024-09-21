@@ -1,0 +1,9 @@
+We propose a quantum non-demolition method - giant Faraday rotation - to
+detect a single electron spin in a quantum dot inside a microcavity where
+negatively-charged exciton strongly couples to the cavity mode. Left- and
+right-circularly polarized light reflected from the cavity feels different
+phase shifts due to cavity quantum electrodynamics and the optical spin
+selection rule. This yields giant and tunable Faraday rotation which can be
+easily detected experimentally. Based on this spin-detection technique, a
+scalable scheme to create an arbitrary amount of entanglement between two or
+more remote spins via a single photon is proposed.

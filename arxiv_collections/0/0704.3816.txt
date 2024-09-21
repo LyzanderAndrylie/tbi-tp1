@@ -1,0 +1,9 @@
+We performed a visualization of membrane proteins labeled with 10-nm gold
+nanoparticles in cells, using an all-optical method based on photothermal
+interference contrast. The high sensitivity of the method and the stability of
+the signals allows 3D imaging of individual nanoparticles without the drawbacks
+of photobleaching and blinking inherent to fluorescent markers. A simple
+analytical model is derived to account for the measurements of the signal
+amplitude and the spatial resolution. The photothermal interference contrast
+method provides an efficient, reproducible, and promising way to visualize low
+amounts of proteins in cells by optical means.

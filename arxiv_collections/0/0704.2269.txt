@@ -1,0 +1,18 @@
+A practical scheme for entanglement creation between distant atoms located
+inside a single-mode optical cavity is discussed. We show that the degree of
+entanglement and the time it takes for the entanglement to reach its optimum
+value is a sensitive function the initial conditions and the position of the
+atoms inside the cavity mode. It is found that the entangled properties of the
+two atoms can readily be extracted from dynamics of a simple two-level system.
+Effectively, we engineer two coupled qubits whose the dynamics are analogous to
+that of a driven single two-level system. It is found that spatial variations
+of the coupling constants actually help to create transient entanglement which
+may appear on the time scale much longer than that predicted for the case of
+equal coupling constants. When the atoms are initially prepared in an entangled
+state, they may remain entangled for all times. We also find that the
+entanglement exhibits an interesting phenomenon of diffraction when the the
+atoms are located between the nodes and antinodes of the cavity mode. The
+diffraction pattern of the entanglement varies with time and we explain this
+effect in terms of the quantum property of complementarity, which is manifested
+as a tradeoff between the knowledge of energy of the exchanged photon versus
+the evolution time of the system.

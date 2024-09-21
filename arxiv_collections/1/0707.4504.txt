@@ -1,0 +1,11 @@
+An extension of the totally asymmetric exclusion process, which incorporates
+a dynamically extending lattice is explored. Although originally inspired as a
+model for filamentous fungal growth, here the dynamically extending exclusion
+process (DEEP) is studied in its own right, as a nontrivial addition to the
+class of nonequilibrium exclusion process models. Here we discuss various
+mean-field approximation schemes and elucidate the steady state behaviour of
+the model and its associated phase diagram. Of particular note is that the
+dynamics of the extending lattice leads to a new region in the phase diagram in
+which a shock discontinuity in the density travels forward with a velocity that
+is lower than the velocity of the tip of the lattice. Thus in this region the
+shock recedes from both boundaries.

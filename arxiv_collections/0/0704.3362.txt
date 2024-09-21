@@ -1,0 +1,5 @@
+While the usual harmonic oscillator potential gives discrete energies in the
+non-relativistic case, it does not however give genuine bound states in the
+relativistic case if the potential is treated in the usual way. In the present
+article, we have obtained the eigenfunctions of the Dirac oscillator in two
+spatial dimensions, adapting the prescription of Moshinsky.

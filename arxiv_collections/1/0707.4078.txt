@@ -1,0 +1,9 @@
+The KLOE Experiment at the $\phi$ factory DA$\Phi$NE, has measured the cross
+section $\sigma(e^+e^-\to\pi^+\pi^-\gamma)$ using two different selection
+schemes: requiring the photon emission at small polar angle and detecting the
+photon at large polar angle in the calorimeter. Using a theoretical radiator
+function we extract the pion form factor and obtain the $\pi\pi$ contribution
+to the anomalous magnetic moment of the muon. Results presented here come from
+the analysis of 240 pb^{-1} collected in 2002, with improved systematic
+uncertainty with respect to the published KLOE analysis. We also include an
+update of the previous analysis.

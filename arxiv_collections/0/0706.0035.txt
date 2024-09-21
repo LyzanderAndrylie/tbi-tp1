@@ -1,0 +1,19 @@
+Mixed action theories with chirally symmetric valence fermions exhibit very
+desirable features both at the level of the lattice calculations as well as in
+the construction and implementation of the low energy mixed action effective
+field theory. In this work we show that when such a mixed action effective
+field theory is projected onto the valence sector, both the Lagrangian and the
+extrapolation formulae become universal in form through next to leading order,
+for all variants of discretization methods used for the sea fermions. Our
+conclusion relies on the chiral nature of the valence quarks. The result
+implies that for all sea quark methods which are in the same universality class
+as QCD, the numerical values of the physical coefficients in the various mixed
+action chiral Lagrangians will be the same up to lattice spacing dependent
+corrections. This allows us to construct a prescription to determine the mixed
+action extrapolation formulae for a large class of hadronic correlation
+functions computed in partially quenched chiral perturbation theory at the
+one-loop level. For specific examples, we apply this prescription to the
+nucleon twist--2 matrix elements and the nucleon--nucleon system. In addition,
+we determine the mixed action extrapolation formula for the neutron EDM as this
+provides a nice example of a theta-dependent observable; these observables are
+exceptions to our prescription.

@@ -1,0 +1,21 @@
+We study the chiral transformation properties of all possible local
+(non-derivative) interpolating field operators for baryons consisting of three
+quarks with two flavors, assuming good isospin symmetry. We derive and use the
+relations/identities among the baryon operators with identical quantum numbers
+that follow from the combined colour, Dirac and isospin Fierz transformations.
+These relations reduce the number of independent baryon operators with any
+given spin and isospin. The Fierz identities also effectively restrict allowed
+baryon chiral multiplets. It turns out that the chiral multiplets of the
+baryons are equivalent to their Lorentz representation. For the two independent
+nucleon operators the only permissible chiral multiplet is the fundamental one
+$(\frac12,0)\oplus(0,\frac12)$. For the $\Delta$, admissible Lorentz
+representations are $(1,\frac12)\oplus (\frac12,1)$ and
+$(\frac32,0)\oplus(0,\frac32)$. In the case of the $(1,\frac12)\oplus
+(\frac12,1)$ chiral multiplet the $I(J)=\frac32(\frac32)$ $\Delta$ field has
+one $I(J)=\frac12(\frac32)$ chiral partner; otherwise it has none. We also
+consider the Abelian ($U_A(1)$) chiral transformation properties of fields and
+show that each baryon comes in two varieties: 1) with Abelian axial charge +3;
+and 2) with Abelian axial charge -1. In case of the nucleon these are the two
+Ioffe's fields; in case of the $\Delta$, the $(1,\frac12)\oplus (\frac12,1)$
+multiplet has Abelian axial charge -1 and the $(\frac32,0)\oplus(0,\frac32)$
+multiplet has Abelian axial charge +3.

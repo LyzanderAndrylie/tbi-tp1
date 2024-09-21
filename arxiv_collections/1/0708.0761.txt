@@ -1,0 +1,18 @@
+We study the statistics of quantum transmission through a one-dimensional
+disordered system modelled by a sequence of independent scattering units. Each
+unit is characterized by its length and by its action, which is proportional to
+the logarithm of the transmission probability through this unit. Unit actions
+and lengths are independent random variables, with a common distribution that
+is either narrow or broad. This investigation is motivated by results on
+disordered systems with non-stationary random potentials whose fluctuations
+grow with distance.
+  In the statistical ensemble at fixed total sample length four phases can be
+distinguished, according to the values of the indices characterizing the
+distribution of the unit actions and lengths. The sample action, which is
+proportional to the logarithm of the conductance across the sample, is found to
+obey a fluctuating scaling law, and therefore to be non-self-averaging, in
+three of the four phases. According to the values of the two above mentioned
+indices, the sample action may typically grow less rapidly than linearly with
+the sample length (underlocalization), more rapidly than linearly
+(superlocalization), or linearly but with non-trivial sample-to-sample
+fluctuations (fluctuating localization).

@@ -1,0 +1,6 @@
+We analyze an optimal control problem for systems of integral equations of
+Volterra type with two independent variables. These systems generalize both,
+the hyperbolic control problems for systems of Goursat-Darboux type, and the
+optimal control of ordinary (i.e. with one independent variable) Volterra
+integral equations. We prove extremal principles akin to Pontryagin's maximum
+principle.

@@ -1,0 +1,12 @@
+The spin-Hall effect in the two-dimensional electron gas (2DEG) generates
+symmetric out-of-plane spin Sz accumulation about the current axis in the
+absence of external magnetic field. Here we employ the real space
+Landauer-Keldysh formalism [B. K. Nikolic et al., Phys. Rev. Lett. 95, 046601
+(2005); Phys. Rev. B 73, 075303 (2006)] by considering a four-terminal setup to
+investigate the circumstances in which this symmetry is broken. For the absence
+of Dresselhaus interaction, starting from the applied out-of-plane B
+corresponding to Zeeman splitting energy 0 - 0.5 times the Rashba hopping
+energy tR, the breaking process is clearly seen. The influence of the Rashba
+interaction on the magnetization of the 2DEG is studied herein. For coexisted
+Rashba tR and Dresselhaus tD spin-orbit couplings in the absence of B,
+interchanging tR and tD reverses the entire accumulation pattern.

@@ -1,0 +1,9 @@
+A criterion is given for a type in a finite rank stable theory to be (almost)
+internal to a given nonmodular minimal type. The motivation comes from results
+of Campana which give criteria for compact complex analytic spaces to be
+algebraic (namely Moishezon), in terms of the existence of "generating"
+families of algebraic subvarieties. A model-theoretic anologue/generalisation
+of Campana's results is given under the hypothesis that the theory has the
+"canonical base property" (CBP), a property that is conjectured to hold in all
+stable finite rank theories and which states that the type of the canonical
+base over a realisation is almost internal to the minimal types of the theory.

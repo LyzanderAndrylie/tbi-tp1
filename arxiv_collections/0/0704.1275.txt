@@ -1,0 +1,24 @@
+We conduct a systematic examination of the properties of models for
+chemically homogeneous, differentially rotating, main-sequence stars of mass
+1-2 M_sun. The models were constructed using a code based on a reformulation of
+the self-consistent field method of computing the equilibrium stellar structure
+for a specified conservative internal rotation law. [abridged] Relative to
+nonrotating stars of the same mass, these models all have reduced luminosities
+and effective temperatures, and flattened photospheric shapes (i.e., decreased
+polar radii) with equatorial radii that can be larger or smaller, depending on
+the degree of differential rotation. For a fixed ratio of the axial rotation
+rate to the surface equatorial rotation rate, increasingly rapid rotation
+generally deepens convective envelopes, shrinks convective cores, and can lead
+to the presence of a convective core (envelope) in a 1 M_sun (2 M_sun) model, a
+feature that is absent in a nonrotating star of the same mass. The positions of
+differentially rotating models for a given mass M in the H-R diagram can be
+shifted in such a way as to approximate the nonrotating ZAMS over ranges in
+luminosity and effective temperature that correspond to a mass interval between
+M and about 0.7 M. We briefly note a few of the implications of these results,
+including (i) possible ambiguities arising from similarities between the
+properties of rotating and nonrotating models of different masses, (ii) a
+reduced radiative luminosity for a young, rapidly rotating Sun, (iii) the
+nuclear destruction of lithium and other light metallic species in the layers
+beneath an outer convective envelope, and (iv), the excitation of solar-like
+oscillations and the operation of a solar-like hydromagnetic dynamo in some
+1.5-2 M_sun stars.

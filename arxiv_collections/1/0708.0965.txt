@@ -1,0 +1,8 @@
+The motion of a particle in a ring of length L is influenced by a dirty metal
+environment whose fluctuations are characterized by a short correlation
+distance $\ell << L$. We analyze the induced decoherence process, and compare
+the results with those obtained in the opposing Caldeira-Leggett limit ($\ell
+>> L$). A proper definition of the dephasing factor that does not depend on a
+vague semiclassical picture is employed. Some recent Monte-Carlo results about
+the effect of finite temperatures on "mass renormalization" in this system are
+illuminated.

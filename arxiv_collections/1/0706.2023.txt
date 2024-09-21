@@ -1,0 +1,9 @@
+Electric fields in a plasma that conducts a high-current pulse are measured
+as a function of time and space. The experiment is performed using a coaxial
+configuration, in which a current rising to 160 kA in 100 ns is conducted
+through a plasma that prefills the region between two coaxial electrodes. The
+electric field is determined using laser spectroscopy and line-shape analysis.
+Plasma doping allows for 3D spatially resolved measurements. The measured peak
+magnitude and propagation velocity of the electric field is found to match
+those of the Hall electric field, inferred from the magnetic-field front
+propagation measured previously.

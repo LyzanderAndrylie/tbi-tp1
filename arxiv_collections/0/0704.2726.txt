@@ -1,0 +1,7 @@
+Using a generalisation of the detailed balance for systems maintained out of
+equilibrium by contact with 2 reservoirs at unequal temperatures or at unequal
+densities, we recover the fluctuation theorem for the large deviation funtion
+of the current. For large diffusive systems, we show how the large deviation
+funtion of the current can be computed using a simple additivity principle. The
+validity of this additivity principle and the occurence of phase transitions
+are discussed in the framework of the macroscopic fluctuation theory.

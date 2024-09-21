@@ -1,0 +1,11 @@
+Recent studies have reported that T cells can integrate signals between
+interrupted encounters with Antigen Presenting Cells (APCs) in such a way that
+the process of signal integration exhibits a form of memory. Here, we carry out
+a computational study using a simple mathematical model of T cell activation to
+investigate the ramifications of interrupted T cell-APC contacts on signal
+integration. We consider several mechanisms of how signal integration at these
+time scales may be achieved and conclude that feedback control of immediate
+early gene products (IEGs) appears to be a highly plausible mechanism that
+allows for effective signal integration and cytokine production from multiple
+exposures to APCs. Analysis of these computer simulations provides an
+experimental roadmap involving several testable predictions.

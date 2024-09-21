@@ -1,0 +1,9 @@
+A cell method is developed, which takes into account the bubble geometry of
+polyhedral foams, and provides for the generalized Rayleigh-Plesset equation
+that contains the non-local in time term corresponding to heat relaxation. The
+Rayleigh-Plesset equation together with the equations of mass and momentum
+balances for an effective single-phase inviscid fluid yield a model for foam
+acoustics. The present calculations reconcile observed sound velocity and
+attenuation with those predicted using the assumption that thermal dissipation
+is the dominant damping mechanism in a range of foam expansions and sound
+excitation frequencies.

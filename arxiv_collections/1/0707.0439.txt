@@ -1,0 +1,7 @@
+We analyze the equations governing the evolution of distributions of the work
+and the heat exchanged with the environment by a manipulated stochastic system,
+by means of a compact and general derivation. We obtain explicit solutions for
+these equations for the case of a dragged Brownian particle in a harmonic
+potential. We successfully compare the resulting predictions with the outcomes
+of experiments, consisting in dragging a micron-sized colloidal particle
+through water with a laser trap.

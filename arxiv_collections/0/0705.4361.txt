@@ -1,0 +1,8 @@
+By using Density Matrix Renormalization Group (DMRG) technique we study the
+1D extended anisotropic Heisenberg model. We find that starting from the
+ferromagnetic phase, the system undergoes two quantum phase transitions (QPTs)
+induced by frustration. By increasing the next-nearest-neighbor (NNN)
+interaction, the ground state of the system changes smoothly from a completely
+polarized state to a NNN correlated one. On the contrary, letting the in-plane
+interaction to be greater than the out-of-plane one, the ground state changes
+abruptly.

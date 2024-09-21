@@ -1,0 +1,18 @@
+A consistent folding model analysis of the ($\Delta S=0, \Delta T=1$) charge
+exchange \pn reaction measured with $^{48}$Ca, $^{90}$Zr, $^{120}$Sn and
+$^{208}$Pb targets at the proton energies of 35 and 45 MeV is done within a
+two-channel coupling formalism. The nuclear ground state densities given by the
+Hartree-Fock-Bogoljubov formalism and the density dependent CDM3Y6 interaction
+were used as inputs for the folding calculation of the nucleon optical
+potential and \pn form factor. To have an accurate isospin dependence of the
+interaction, a complex isovector density dependence of the CDM3Y6 interaction
+has been carefully calibrated against the microscopic Brueckner-Hatree-Fock
+calculation by Jeukenne, Lejeune and Mahaux before being used as folding input.
+Since the isovector coupling was used to explicitly link the isovector part of
+the nucleon optical potential to the cross section of \pn reaction exciting the
+0$^+$ isobaric analog states in $^{48}$Sc, $^{90}$Nb, $^{120}$Sb and
+$^{208}$Bi, the newly parameterized isovector density dependence could be well
+tested in the folding model analysis of the \pn reaction. The isospin- and
+density dependent CDM3Y6 interaction was further used in the Hartree-Fock
+calculation of asymmetric nuclear matter, and a realistic estimation of the
+nuclear symmetry energy has been made.

@@ -1,0 +1,5 @@
+Let R be a ring (associative, with 1). A non-zero module M is said to be a
+Pruefer module provided there exists a surjective, locally nilpotent
+endomorphism with kernel of finite length. The aim of this note is construct
+Pruefer modules starting from a pair of module homomorphisms w,v: U_0 -> U_1,
+where w is injective and its cokernel is of finite length.

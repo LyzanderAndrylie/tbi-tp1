@@ -1,0 +1,15 @@
+We report measurements of the spin polarization (\textbf{\textit{P}}) of the
+concentrated magnetic semiconductor EuS using both zero-field and Zeeman-split
+Andreev reflection spectroscopy (ARS) with EuS/Al planar junctions. The
+zero-field ARS spectra are well described by the modified (spin-polarized) BTK
+model with expected superconducting energy gap and actual measurement
+temperature (no additional spectral broadening). The fittings consistently
+yield \textbf{\textit{P}} close to 80% regardless of the barrier strength.
+Moreover, we performed ARS in the presence of a Zeeman-splitting of the
+quasiparticle density of states in Al. To describe the Zeeman-split ARS
+spectra, we develop a theoretical model which incorporates the solution to the
+Maki-Fulde equations into the modified BTK analysis. The method enables the
+determination of the magnitude as well as the sign of \textbf{\textit{P}} with
+ARS, and the results are consistent with those from the zero-field ARS. The
+experiments extend the utility of field-split superconducting spectroscopy from
+tunnel junctions to Andreev junctions of arbitrary barrier strengths.

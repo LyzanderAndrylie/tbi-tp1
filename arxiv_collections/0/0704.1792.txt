@@ -1,0 +1,7 @@
+We propose a scheme for producing directed motion in a lattice system by
+applying a periodic driving potential. By controlling the dynamics by means of
+the effect known as coherent destruction of tunneling, we demonstrate a novel
+ratchet-like effect that enables particles to be coherently manipulated and
+steered without requiring local control. Entanglement between particles can
+also be controllably generated, which points to the attractive possibility of
+using these technique for quantum information processing.

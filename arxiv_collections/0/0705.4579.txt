@@ -1,0 +1,22 @@
+We develop the kinetic theory of Hamiltonian systems with weak long-range
+interactions. Starting from the Klimontovich equation and using a quasilinear
+theory, we obtain a general kinetic equation that can be applied to spatially
+inhomogeneous systems and that takes into account memory effects. This equation
+is valid at order 1/N in a proper thermodynamic limit and it coincides with the
+kinetic equation obtained from the BBGKY hierarchy. For N tending to infinity,
+it reduces to the Vlasov equation describing collisionless systems. We describe
+the process of phase mixing and violent relaxation leading to the formation of
+a quasi stationary state (QSS) on the coarse-grained scale. We interprete the
+physical nature of the QSS in relation to Lynden-Bell's statistical theory and
+discuss the problem of incomplete relaxation. In the second part of the paper,
+we consider the relaxation of a test particle in a thermal bath. We derive a
+Fokker-Planck equation by directly calculating the diffusion tensor and the
+friction force from the Klimontovich equation. We give general expressions of
+these quantities that are valid for possibly spatially inhomogeneous systems
+with long correlation time. We show that the diffusion and friction terms have
+a very similar structure given by a sort of generalized Kubo formula. We also
+obtain non-markovian kinetic equations that can be relevant when the
+auto-correlation function of the force decreases slowly with time. An interest
+of our approach is to develop a formalism that remains in physical space
+(instead of Fourier space) and that can deal with spatially inhomogeneous
+systems.

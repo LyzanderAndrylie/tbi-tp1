@@ -1,0 +1,9 @@
+Electrical resistivity $\rho$, specific heat C, and magnetic susceptibility
+$\chi$ measurements made on the filled skutterudite CeRu_4As_{12} reveal
+non-Fermi liquid (NFL) T - dependences at low T, i.e., $\rho$(T) $\sim$ T^{1.4}
+and weak power law or logarithmic divergences in C(T)/T and $\chi$(T).
+Measurements also show that the T - dependence of the thermoelectric power S(T)
+deviates from that seen in other Ce systems. The NFL behavior appears to be
+associated with fluctuations of the Ce valence between 3^+ and 4^+ rather than
+a typical Kondo lattice scenario that would be appropriate for an integral Ce
+valence of 3^+.

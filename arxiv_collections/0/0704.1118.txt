@@ -1,0 +1,12 @@
+A strong anti-correlation between ionization and scintillation signals
+produced by MeV gamma-rays in liquid xenon has been measured and used to
+improve the energy resolution by combining the two signals. The improvement is
+explained by reduced electron-ion recombination fluctuations of the combined
+signal compared to fluctuations of the individual signals. Simultaneous
+measurements of ionization and scintillation signals were carried out with
+Cs-137, Na-22 and Co-60 gamma rays, as a function of electric field in the
+liquid. A resolution of 1.7%(sigma) at 662 keV was measured at 1 kV/cm,
+significantly better than the resolution from either scintillation or
+ionization alone. A detailed analysis indicates that further improvement to
+less than 1%(sigma) is possible with higher light collection efficiency and
+lower electronic noise.

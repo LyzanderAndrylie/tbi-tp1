@@ -1,0 +1,7 @@
+It has recently been shown that the marginalization paradox (MP) can be
+resolved by interpreting improper inferences as probability limits. The key to
+the resolution is that probability limits need not satisfy the formal Bayes'
+law, which is used in the MP to deduce an inconsistency. In this paper, I
+explore the differences between probability limits and the more familiar
+pointwise limits, which do imply the formal Bayes' law, and show how these
+differences underlie some key differences in the interpretation of the MP.

@@ -1,0 +1,22 @@
+We study the exponential scale length of total radio emission, the spectral
+index distribution, and the linear radio polarization in the Scd galaxy M33.
+Observations were carried out using the 3.6 cm dual channel and the 6.2 cm four
+channel receivers of the 100--m Effelsberg telescope along with the L-band VLA
+D--array at 20 cm. High spatial resolution and sensitivity in both total and
+linearly polarized radio continuum emission from M33 were achieved. We found
+considerable extended emission, not only from the main arms I S and I N, but
+also from the weaker arms. The large--scale magnetic field exhibits
+well--ordered spiral structure with almost the same orientation as that of the
+optical spiral arms, however, it does not show a clear structural correlation
+or anti--correlation with the optical arms. There is a north-south asymmetry in
+polarization that is frequency-dependent. We found that the ring mean spectral
+index versus radius increases faster beyond $R$ = 4 kpc. At each wavelength,
+the exponential scale length is larger inside than outside $R$ = 4 kpc. From
+the larger scales lengths at $R$ $<$ 4 kpc, we conclude that star forming
+regions are mainly spread over the region $R$ $<$ 4 kpc without a dominant
+nuclear concentration. Furthermore, at $R$ $<$ 4 kpc, a spatial correlation
+between cosmic rays and star forming regions may exist. From the behaviour of
+the mean spectral indices obtained from different pairs of the radio continuum
+data at 3.6, 6.2, and 20 cm, we confirm that a decrease in the thermal fraction
+causes an increase in the spectral index. The frequency-dependent asymmetry in
+the polarization hints to an asymmetry in Faraday depolarization.

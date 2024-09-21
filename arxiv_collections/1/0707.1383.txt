@@ -1,0 +1,10 @@
+Vortex ring solutions are presented for the Landau-Lifshitz equation, which
+models the dynamics of a three-dimensional ferromagnet. The vortex rings
+propagate at constant speed along their symmetry axis and are characterized by
+the integer-valued Hopf charge. They are stable to axial perturbations, but it
+is demonstrated that an easy axis anisotropy results in an instability to
+perturbations which break the axial symmetry. The unstable mode corresponds to
+a migration of spin flips around the vortex ring that leads to a pinching
+instability and ultimately the collapse of the vortex ring. It is found that
+this instability does not exist for an isotropic ferromagnet. Similarities
+between vortex rings in ferromagnets and vortons in cosmology are noted.

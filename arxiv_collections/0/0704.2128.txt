@@ -1,0 +1,12 @@
+Electronic properties of bilayer and multilayer graphene have generally been
+interpreted in terms of AB or Bernal stacking. However, it is known that many
+types of stacking defects can occur in natural and synthetic graphite; rotation
+of the top layer is often seen in scanning tunneling microscopy (STM) studies
+of graphite. In this paper we consider a graphene bilayer with a relative small
+angle rotation between the layers and calculate the electronic structure near
+zero energy in a continuum approximation. Contrary to what happens in a AB
+stacked bilayer and in accord with observations in epitaxial graphene we find:
+(a) the low energy dispersion is linear, as in a single layer, but the Fermi
+velocity can be significantly smaller than the single layer value; (b) an
+external electric field, perpendicular to the layers, does not open an
+electronic gap

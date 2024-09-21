@@ -1,0 +1,13 @@
+We present an atomistic model of a single nanoparticle with core/shell
+structure that takes into account its lattice strucutre and spherical geometry,
+and in which the values of microscopic parameters such as anisotropy and
+exchange constants can be tuned in the core, shell and interfacial regions. By
+means of Monte Carlo simulations of the hysteresis loops based on this model,
+we have determined the range of microscopic parameters for which loop shifts
+after field cooling can be observed. The study of the magnetic order of the
+interfacial spins for different particles sizes and values of the interfacial
+exchange coupling have allowed us to correlate the appearance of loop
+asymmetries and vertical displacements to the existence of a fraction of
+uncompensated spins at the shell interface that remain pinned during field
+cycling, offering new insight on the microscopic origin of the experimental
+phenomenology.

@@ -1,0 +1,11 @@
+Deficit of information zero-way was proposed in HorodeckiHHOSSS2005 as one of
+possible measures of quantumness of correlations. Numerical calculations
+suggested that there exist such states for which this quantity is almost equal
+to mutual information. In this paper we present a family of states for which we
+have equality between above measure of quantumness of correlations and the
+measure of total correlations -- mutual information. It means that whole
+correlations in these states have, in some sense, quantum character and that
+quantum correlations do not necessarily imply classical correlations. We prove
+this intriguing feature for a subclass of 2x2 separable states. We also present
+numerical result suggesting that this interesting situation might also happen
+for 2x2 entangled states.

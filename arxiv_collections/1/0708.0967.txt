@@ -1,0 +1,21 @@
+We consider a gyroscopic system under the action of small dissipative and
+non-conservative positional forces, which has its origin in the models of
+rotating bodies of revolution being in frictional contact. The spectrum of the
+unperturbed gyroscopic system forms a "spectral mesh" in the plane "frequency
+-gyroscopic parameter" with double semi-simple purely imaginary eigenvalues at
+zero value of the gyroscopic parameter. It is shown that dissipative forces
+lead to the splitting of the semi-simple eigenvalue with the creation of the
+so-called "bubble of instability" - a ring in the three-dimensional space of
+the gyroscopic parameter and real and imaginary parts of eigenvalues, which
+corresponds to complex eigenvalues. In case of full dissipation with a
+positive-definite damping matrix the eigenvalues of the ring have negative real
+parts making the bubble a latent source of instability because it can "emerge"
+to the region of eigenvalues with positive real parts due to action of both
+indefinite damping and non-conservative positional forces. In the paper, the
+instability mechanism is analytically described with the use of the
+perturbation theory of multiple eigenvalues. As an example stability of a
+rotating circular string constrained by a stationary load system is studied in
+detail. The theory developed seems to give a first clear explanation of the
+mechanism of self-excited vibrations in the rotating structures in frictional
+contact, that is responsible for such well-known phenomena of acoustics of
+friction as the squealing disc brake and the singing wine glass.

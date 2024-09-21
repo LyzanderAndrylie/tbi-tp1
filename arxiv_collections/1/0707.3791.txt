@@ -1,0 +1,15 @@
+We consider a Yang-Mills-Higgs theory with spontaneous symmetry breaking of
+the gauge group G -> U(1)^r -> C(G), with C(G) being the center of G. We study
+two vacua solutions of the theory which produce this symmetry breaking. We show
+that for one of these vacua, the theory in the Coulomb phase has the mass
+spectrum of particles and monopoles which is exactly the same as the mass
+spectrum of particles and solitons of two dimensional affine Toda field theory.
+That result holds also for N=4 Super Yang-Mills theories. On the other hand, in
+the Higgs phase, we show that for each of the two vacua the ratio of the
+tensions of the BPS Z(N) strings satisfy either the Casimir scaling or the sine
+law scaling for G=SU(N). These results are extended to other gauge groups: for
+the Casimir scaling, the ratios of the tensions are equal to the ratios of the
+quadratic Casimir constant of specific representations; for the sine law
+scaling, the tensions are proportional to the components of the left
+Perron-Frobenius eigenvector of Cartan matrix and the ratios of tensions are
+equal to the ratios of the soliton masses of affine Toda field theories.

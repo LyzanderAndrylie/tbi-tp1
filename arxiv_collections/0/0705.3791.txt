@@ -1,0 +1,13 @@
+Integrable and non-integrable systems have very different transport
+properties. In this work, we highlight these differences for specific one
+dimensional models of interacting lattice fermions using numerical exact
+diagonalization. We calculate the finite temperature adiabatic stiffness (or
+Drude weight) and isothermal stiffness (or ``Meissner'' stiffness) in
+electrical and thermal transport and also compute the complete momentum and
+frequency dependent dynamical conductivities $\sigma(q,\omega)$ and
+$\kappa(q,\omega)$. The Meissner stiffness goes to zero rapidly with system
+size for both integrable and non-integrable systems. The Drude weight shows
+signs of diffusion in the non-integrable system and ballistic behavior in the
+integrable system. The dynamical conductivities are also consistent with
+ballistic and diffusive behavior in the integrable and non-integrable systems
+respectively.

@@ -1,0 +1,10 @@
+This paper is devoted to discuss the energy-momentum for static axially
+symmetric spacetimes in the framework of teleparallel theory of gravity. For
+this purpose, we use the teleparallel versions of Einstein, Landau-Lifshitz,
+Bergmann and M$\ddot{o}$ller prescriptions. A comparison of the results shows
+that the energy density is different but the momentum turns out to be constant
+in each prescription. This is exactly similar to the results available in
+literature using the framework of General Relativity. It is mentioned here that
+M$\ddot{o}$ller energy-momentum distribution is independent of the coupling
+constant $\lambda$. Finally, we calculate energy-momentum distribution for the
+Curzon metric, a special case of the above mentioned spacetime.

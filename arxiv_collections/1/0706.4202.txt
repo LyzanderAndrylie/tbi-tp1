@@ -1,0 +1,7 @@
+The method of nonequilibrium Greens functions allows for a spatial and
+energetical resolution of the electron current in Quantum Cascade Lasers. While
+scattering does not change the spatial position of carriers, the entire spatial
+evolution of charge can be attributed to coherent transport by complex wave
+functions. We discuss the hierarchy of transport models and derive the density
+matrix equations as well as the hopping model starting from the nonequilibrium
+Greens functions approach.

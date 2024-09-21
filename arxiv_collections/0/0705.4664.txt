@@ -1,0 +1,16 @@
+We present high-resolution observations made with the Very Large Array (VLA)
+in its A configuration at frequencies between 5 and 43 GHz of a sample of five
+massive young stellar objects (YSOs): LkHa101, NGC2024-IRS2, S106-IR, W75N and
+S140-IRS1. The resolution varied from 0.04 arcsec (at 43 GHz) to 0.5 arcsec (at
+5 GHz), corresponding to a linear resolution as high as 17 AU for our nearest
+source. A MERLIN observation of S106-IR at 23 GHz with 0.03-arcsec resolution
+is also presented. S106-IR and S140-IRS1 are elongated at 43 GHz perpendicular
+to their large scale bipolar outflows. This confirms the equatorial wind
+picture for these sources seen previously in MERLIN 5 GHz observations. The
+other sources are marginally resolved at 43 GHz. The spectral indices we derive
+for the sources in our sample range from +0.2 to +0.8, generally consistent
+with ionized stellar winds. We have modelled our sources as uniform, isothermal
+spherical winds, with LkHa101 and NGC2024-IRS2 yielding the best fits. However,
+in all cases our fits give wind temperatures of only 2000 to 5000 K, much less
+than the effective temperatures of main-sequence stars of the same luminosity,
+a result which is likely due to the clumpy nature of the winds.

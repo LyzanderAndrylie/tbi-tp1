@@ -1,0 +1,9 @@
+I discuss several aspects of information theory and its relationship to
+physics and neuroscience. The unifying thread of this somewhat chaotic essay is
+the concept of Kolmogorov or algorithmic complexity (Kolmogorov Complexity, for
+short). I argue that it is natural to interpret cognition as the art of finding
+algorithms that apprach the Solomonoff-Kolmogorov-Chaitin (algorithmic)
+Complexity limit with appropriate tradeoffs. In addition, I claim that what we
+call the universe is an interpreted abstraction--a mental construct--based on
+the observed coherence between multiple sensory input streams and our own
+interactions. Hence, the notion of Universe is itself a model.

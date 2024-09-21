@@ -1,0 +1,15 @@
+We systematically construct realistic mass matrices for the type-I seesaw
+mechanism out of more than 20 trillion possibilities. We use only very generic
+assumptions from extended quark-lepton complementarity, i.e., the leptonic
+mixing angles between flavor and mass eigenstates are either maximal, or
+parameterized by a single small quantity epsilon that is of the order of the
+Cabibbo angle epsilon theta_C. The small quantity epsilon also describes all
+fermion mass hierarchies. We show that special cases often considered in the
+literature, such as having a symmetric Dirac mass matrix or small mixing among
+charged leptons, constitute only a tiny fraction of our possibilities.
+Moreover, we find that in most cases the spectrum of right-handed neutrino
+masses is only mildly hierarchical. As a result, we provide for the charged
+leptons and neutrinos a selected list of 1981 qualitatively different Yukawa
+coupling matrices (or textures) that are parameterized by the Cabibbo angle and
+allow for a perfect fit to current data. In addition, we also briefly show how
+the textures could be generated in explicit models from flavor symmetries.

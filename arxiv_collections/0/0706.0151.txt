@@ -1,0 +1,8 @@
+We show that there exists a very natural, superstatistics-linked extension of
+the central limit theorem (CLT) to deformed exponentials (also called
+q-Gaussians): This generalization favorably compares with the one provided by
+S. Umarov and C. Tsallis [arXiv:cond-mat/0703533], since the latter requires a
+special "q-independence" condition on the data. On the contrary, our CLT
+proposal applies exactly in the usual conditions in which the classical CLT is
+used. Moreover, we show that, asymptotically, the q-independence condition is
+naturally induced by our version of the CLT.

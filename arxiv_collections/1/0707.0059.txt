@@ -1,0 +1,8 @@
+Squeezing of a thermal bath introduces new features absent in an open quantum
+system interacting with an uncorrelated (zero squeezing) thermal bath. The
+resulting dynamics, governed by a Lindblad-type evolution, extends the concept
+of a generalized amplitude damping channel, which corresponds to a dissipative
+interaction with a purely thermal bath. Here we present the Kraus
+representation of this map, which we call the squeezed generalized amplitude
+damping channel. As an application of this channel to quantum information, we
+study the classical capacity of this channel.

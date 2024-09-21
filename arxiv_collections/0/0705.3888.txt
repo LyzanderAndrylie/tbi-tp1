@@ -1,0 +1,12 @@
+We consider the problem of symbolic reachability analysis of higher-order
+context-free processes. These models are generalizations of the context-free
+processes (also called BPA processes) where each process manipulates a data
+structure which can be seen as a nested stack of stacks. Our main result is
+that, for any higher-order context-free process, the set of all predecessors of
+a given regular set of configurations is regular and effectively constructible.
+This result generalizes the analogous result which is known for level 1
+context-free processes. We show that this result holds also in the case of
+backward reachability analysis under a regular constraint on configurations. As
+a corollary, we obtain a symbolic model checking algorithm for the temporal
+logic E(U,X) with regular atomic predicates, i.e., the fragment of CTL
+restricted to the EU and EX modalities.

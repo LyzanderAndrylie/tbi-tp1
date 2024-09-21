@@ -1,0 +1,8 @@
+We study the critical set C of the nonlinear differential operator F(u) = -u"
++ f(u) defined on a Sobolev space of periodic functions H^p(S^1), p >= 1. Let
+R^2_{xy} \subset R^3 be the plane z = 0 and, for n > 0, let cone_n be the cone
+x^2 + y^2 = tan^2 z, |z - 2 pi n| < pi/2; also set Sigma = R^2_{xy} U U_{n > 0}
+cone_n. For a generic smooth nonlinearity f: R -> R with surjective derivative,
+we show that there is a diffeomorphism between the pairs (H^p(S^1), C) and
+(R^3, Sigma) x H where H is a real separable infinite dimensional Hilbert
+space.

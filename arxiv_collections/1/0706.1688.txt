@@ -1,0 +1,12 @@
+We propose new methods for the numerical continuation of point-to-cycle
+connecting orbits in 3-dimensional autonomous ODE's using projection boundary
+conditions. In our approach, the projection boundary conditions near the cycle
+are formulated using an eigenfunction of the associated adjoint variational
+equation, avoiding costly and numerically unstable computations of the
+monodromy matrix. The equations for the eigenfunction are included in the
+defining boundary-value problem, allowing a straightforward implementation in
+AUTO, in which only the standard features of the software are employed.
+Homotopy methods to find connecting orbits are discussed in general and
+illustrated with several examples, including the Lorenz equations. Complete
+AUTO demos, which can be easily adapted to any autonomous 3-dimensional ODE
+system, are freely available.

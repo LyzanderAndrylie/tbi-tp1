@@ -1,0 +1,8 @@
+Recently a new type of Kramers-Fokker-Planck Equation has been proposed [R.
+Friedrich et al. Phys. Rev. Lett. {\bf 96}, 230601 (2006)] describing anomalous
+diffusion in external potentials. In the present paper the explicit cases of a
+harmonic potential and a velocity-dependend damping are incorporated. Exact
+relations for moments for these cases are presented and the asymptotic
+behaviour for long times is discussed. Interestingly the bounding potential and
+the additional damping by itself lead to a subdiffussive behaviour, while
+acting together the particle becomes localized for long times.

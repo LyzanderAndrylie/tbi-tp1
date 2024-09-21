@@ -1,0 +1,9 @@
+For the study of crystal formation and dynamics we introduce a simple
+two-dimensional monatomic model system with a parametrized interaction
+potential. We find in molecular dynamics simulations that a surprising variety
+of crystals, a decagonal and a dodecagonal quasicrystal are self-assembled. In
+the case of the quasicrystals the particles reorder by phason flips at elevated
+temperatures. During annealing the entropically stabilized decagonal
+quasicrystal undergoes a reversible phase transition at 65% of the melting
+temperature into an approximant, which is monitored by the rotation of the de
+Bruijn surface in hyperspace.

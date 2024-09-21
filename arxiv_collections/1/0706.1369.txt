@@ -1,0 +1,9 @@
+The demand for high-speed digital communication such as data, video, and the
+broadband Internet increases, the required throughput of the modules in
+communications systems will also increase. In this paper we present an
+instruction system, which works on the basis of a wavelength division multiplex
+(WDM) system in the visible spectrum. It is specialised for the academic
+training at universities to demonstrate the principles of the WDM techniques.
+It works platform independent in combination with active modules in the
+training description, short inline videos and interactive diagrams. The system
+consists of LEDs in different wavelengths using analog and digital signals.

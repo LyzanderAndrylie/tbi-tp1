@@ -1,0 +1,17 @@
+In this paper we investigate tensor modes of perturbations in the universe
+governed by Loop Quantum Cosmology. We derive the equation for tensor modes and
+investigate numerically effects of quantum corrections. This investigation
+reveals that the region of super-adiabatic amplification of tensor modes is
+smaller in comparison with the classical case. Neglecting quantum corrections
+to the equation for tensor modes and holding underlying loop dynamics we study
+analytically the creation of gravitons. We calculate the power spectrum of
+tensor perturbations during the super-inflationary phase induced by Loop
+Quantum Gravity. The main result obtained is the spectrum of gravitons,
+produced in the transition from the quantum to classical regime of the
+Universe. Obtained spectrum is characterized by a hard branch. The numerical
+investigation shows the strong dependence of $\nu_{\text{max}}$ frequency with
+respect to quantum numbers. The parameter
+$\Omega_{\text{gw}}(\nu_{\text{max}})$ approaches even to $\sim 10^{-1}$ for
+highest frequencies. We compare our results with recent constraints from the
+Laser Interferometer Gravitational-wave Observatory (LIGO) and find that it is
+possible to test the quantum effects in the early Universe.

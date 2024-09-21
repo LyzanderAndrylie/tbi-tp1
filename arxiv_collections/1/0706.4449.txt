@@ -1,0 +1,9 @@
+We show that the Cheeger constant of compact surfaces is bounded by a
+function of the area. We apply this to isoperimetric profiles of bounded genus
+non-compact surfaces, to show that if their isoperimetric profile grows faster
+than $\sqrt t$, then it grows at least as fast as a linear function. This
+generalizes a result of Gromov for simply connected surfaces.
+  We study the isoperimetric problem in dimension 3. We show that if the
+filling volume function in dimension 2 is Euclidean, while in dimension 3 is
+sub-Euclidean and there is a $g$ such that minimizers in dimension 3 have genus
+at most $g$, then the filling function in dimension 3 is `almost' linear.

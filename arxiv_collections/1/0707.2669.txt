@@ -1,0 +1,6 @@
+We prove the invariance of the contact angle in liquid-solid wetting
+phenomena : an electrified droplet is spreading on a solid surface. The drop is
+minimizing its energy. We express the differential of this energy with respect
+to the shape of the drop and deduce necessary conditions for optimality . By
+variational method, using well-chosen test functions, we obtain the main result
+about the contact angle between the drop and the solid.

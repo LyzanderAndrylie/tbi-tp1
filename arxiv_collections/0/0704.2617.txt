@@ -1,0 +1,6 @@
+We prove that the chromatic polynomial $P_\mathbb{G}(q)$ of a finite graph
+$\mathbb{G}$ of maximal degree $\D$ is free of zeros for $\card q\ge C^*(\D)$
+with $$ C^*(\D) = \min_{0<x<2^{1\over \D}-1} {(1+x)^{\D-1}\over x [2-(1+x)^\D]}
+$$ This improves results by Sokal (2001) and Borgs (2005). Furthermore, we
+present a strengthening of this condition for graphs with no triangle-free
+vertices.

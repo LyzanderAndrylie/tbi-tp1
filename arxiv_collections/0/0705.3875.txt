@@ -1,0 +1,7 @@
+We report 10-ps correlated photon pair generation in periodically-poled
+reverse-proton-exchange lithium niobate waveguides with integrated mode
+demultiplexer at a wavelength of 1.5-um and a clock of 10 GHz. Using
+superconducting single photon detectors, we observed a coincidence to
+accidental count ratio (CAR) as high as 4000. The developed photon-pair source
+may find broad application in quantum information systems as well as quantum
+entanglement experiments.

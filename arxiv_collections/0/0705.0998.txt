@@ -1,0 +1,9 @@
+We define the alternating sign matrix polytope as the convex hull of nxn
+alternating sign matrices and prove its equivalent description in terms of
+inequalities. This is analogous to the well known result of Birkhoff and von
+Neumann that the convex hull of the permutation matrices equals the set of all
+nonnegative doubly stochastic matrices. We count the facets and vertices of the
+alternating sign matrix polytope and describe its projection to the
+permutohedron as well as give a complete characterization of its face lattice
+in terms of modified square ice configurations. Furthermore we prove that the
+dimension of any face can be easily determined from this characterization.

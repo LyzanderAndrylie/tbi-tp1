@@ -1,0 +1,15 @@
+We report a first-principles calculation that models the effect of iron (Fe)
+atoms on the adsorption of a tungsten (W) atom on W(100) surfaces. The
+adsorption of a W atom on a clean W(100) surface is compared with that of a W
+atom on a W(100) surface covered with a monolayer of Fe atoms. The total energy
+of the system is computed as the function of the height of the W adatom. Our
+result shows that the W atom first adsorbs on top of the Fe monolayer. Then the
+W atom can replace one of the Fe atoms through a path with a moderate energy
+barrier and reduce its energy further. This intermediate site makes the
+adsorption (and desorption) of W atoms a two-step process in the presence of Fe
+atoms and lowers the overall adsorption energy by nearly 2.4 eV. The Fe atoms
+also provide a surface for W atoms to adsorb facilitating the diffusion of W
+atoms. The combination of these two effects result in a much more efficient
+desorption and diffusion of W atoms in the presence of Fe atoms. Our result
+provides a fundamental mechanism that can explain the activated sintering of
+tungsten by Fe atoms.

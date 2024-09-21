@@ -1,0 +1,11 @@
+In this short note we will provide a new and shorter proof of the following
+exotic shuffle relation of multiple zeta values:
+  $$\zeta(\{2\}^m \sha\{3,1\}^n)={2n+m\choose m}
+  \frac{\pi^{4n+2m}}{(2n+1)\cdot (4n+2m+1)!}.$$ This was proved by Zagier when
+n=0, by Broadhurst when $m=0$, and by Borwein, Bradley, and Broadhurst when
+m=1. In general this was proved by Bowman and Bradley in \emph{The algebra and
+combinatorics of shuffles and multiple zeta values}, J. of Combinatorial
+Theory, Series A, Vol. \textbf{97} (1)(2002), 43--63. Our idea in the general
+case is to use the method of Borwein et al. to reduce the above general
+relation to some families of combinatorial identities which can be verified by
+WZ-method.

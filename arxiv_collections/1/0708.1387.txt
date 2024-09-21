@@ -1,0 +1,12 @@
+We have performed an {\it in-situ} photoemission study of Pr_{1-x}Ca_xMnO_3
+(PCMO) thin films grown on LaAlO_3 (001) substrates and observed the effect of
+epitaxial strain on the electronic structure. We found that the chemical
+potential shifted monotonically with doping, unlike bulk PCMO, implying the
+disappearance of incommensurate charge fluctuations of bulk PCMO. In the
+valence-band spectra, we found a doping-induced energy shift toward the Fermi
+level (E_F) but there was no spectral weight transfer, which was observed in
+bulk PCMO. The gap at E_F was clearly seen in the experimental band dispersions
+determined by angle-resolved photoemission spectroscopy and could not be
+explained by the metallic band structure of the C-type antiferromagnetic state,
+probably due to localization of electrons along the ferromagnetic chain
+direction or due to another type of spin-orbital ordering.

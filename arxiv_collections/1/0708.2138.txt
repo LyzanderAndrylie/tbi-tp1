@@ -1,0 +1,6 @@
+We give a stratification of the GIT quotient of the Grassmannian $G_{2,n}$
+modulo the normaliser of a maximal torus of $SL_{n}(k)$ with respect to the
+ample generator of the Picard group of $G_{2,n}$. We also prove that the flag
+variety $GL_{n}(k)/B_{n}$ can be obtained as a GIT quotient of
+$GL_{n+1}(k)/B_{n+1}$ modulo a maximal torus of $SL_{n+1}(k)$ for a suitable
+choice of an ample line bundle on $GL_{n+1}(k)/B_{n+1}$.

@@ -1,0 +1,17 @@
+We analyse high-time-resolution spectroscopy of the AM CVn stars HP Librae
+and V803 Centauri, taken with the New Technology Telescope (NTT) and the Very
+Large Telescope (VLT) of the European Southern Observatory, Chile.
+  We present evidence that the literature value for V803 Cen's orbital period
+is incorrect, based on an observed `S-wave' in the binary's spectrogram. We
+measure a spectroscopic period P=1596.4+/-1.2s of the S-wave feature, which is
+significantly shorter than the 1611-second periods found in previous
+photometric studies. We conclude that the latter period likely represents a
+`superhump'. If one assumes that our S-wave period is the orbital period, V803
+Cen's mass ratio can be expected to be much less extreme than previously
+thought, at q~0.07 rather than q~0.016. This relaxes the constraints on the
+masses of the components considerably: the donor star does then not need to be
+fully degenerate, and the mass of the accreting white dwarf no longer has to be
+very close to the Chandrasekhar limit.
+  For HP Lib, we similarly measure a spectroscopic period P=1102.8+/-0.2s. This
+supports the identification of HP Lib's photometric periods found in the
+literature, and the constraints upon the masses derived from them.

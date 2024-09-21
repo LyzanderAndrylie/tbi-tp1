@@ -1,0 +1,15 @@
+The loop expansion is applied to a chiral effective hadronic lagrangian; with
+the techniques of Infrared Regularization, it is possible to separate out the
+short-range contributions and to write them as local products of fields that
+are already present in our lagrangian. (The appropriate field variables must be
+re-defined at each order in loops.) The corresponding parameters implicitly
+include short-range effects to all orders in the interaction, so these effects
+need not be calculated explicitly. The remaining (long-range) contributions
+that must be calculated are nonlocal and resemble those in conventional
+nuclear-structure calculations. Nonlinear isoscalar scalar $(\sigma)$ and
+vector $(\omega)$ meson interactions are included, which incorporate
+many-nucleon forces and nucleon substructure. Calculations are carried out at
+the two-loop level to illustrate these techniques at finite nuclear densities
+and to verify that the coupling parameters remain natural when fitted to the
+empirical properties of equilibrium nuclear matter. Contributions from the
+$\omega N$ tensor coupling are also discussed.

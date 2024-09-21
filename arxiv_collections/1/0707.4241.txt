@@ -1,0 +1,9 @@
+We study heat conduction in (n, 0)/(2n, 0) intramolecular junctions by using
+molecular dynamics method. It is found that the heat conduction is asymmetric,
+namely, heat transports preferably in one direction. This phenomenon is also
+called thermal rectification. The rectification is weakly dependent on the
+detailed structure of connection part, but is strongly dependent on the
+temperature gradient. We also study the effect of the tube radius and
+intramolecular junction length on the rectification. Our study shows that the
+tensile stress can increase rectification. The physical mechanism of the
+rectification is explained.

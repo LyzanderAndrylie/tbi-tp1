@@ -1,0 +1,22 @@
+In this paper we examine the implications of the statistical large sample
+theory for the computational complexity of Bayesian and quasi-Bayesian
+estimation carried out using Metropolis random walks. Our analysis is motivated
+by the Laplace-Bernstein-Von Mises central limit theorem, which states that in
+large samples the posterior or quasi-posterior approaches a normal density.
+Using the conditions required for the central limit theorem to hold, we
+establish polynomial bounds on the computational complexity of general
+Metropolis random walks methods in large samples. Our analysis covers cases
+where the underlying log-likelihood or extremum criterion function is possibly
+non-concave, discontinuous, and with increasing parameter dimension. However,
+the central limit theorem restricts the deviations from continuity and
+log-concavity of the log-likelihood or extremum criterion function in a very
+specific manner.
+  Under minimal assumptions required for the central limit theorem to hold
+under the increasing parameter dimension, we show that the Metropolis algorithm
+is theoretically efficient even for the canonical Gaussian walk which is
+studied in detail. Specifically, we show that the running time of the algorithm
+in large samples is bounded in probability by a polynomial in the parameter
+dimension $d$, and, in particular, is of stochastic order $d^2$ in the leading
+cases after the burn-in period. We then give applications to exponential
+families, curved exponential families, and Z-estimation of increasing
+dimension.

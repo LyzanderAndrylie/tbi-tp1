@@ -1,0 +1,19 @@
+We introduce an approach to inferring the causal architecture of stochastic
+dynamical systems that extends rate distortion theory to use causal
+shielding---a natural principle of learning. We study two distinct cases of
+causal inference: optimal causal filtering and optimal causal estimation.
+  Filtering corresponds to the ideal case in which the probability distribution
+of measurement sequences is known, giving a principled method to approximate a
+system's causal structure at a desired level of representation. We show that,
+in the limit in which a model complexity constraint is relaxed, filtering finds
+the exact causal architecture of a stochastic dynamical system, known as the
+causal-state partition. From this, one can estimate the amount of historical
+information the process stores. More generally, causal filtering finds a graded
+model-complexity hierarchy of approximations to the causal architecture. Abrupt
+changes in the hierarchy, as a function of approximation, capture distinct
+scales of structural organization.
+  For nonideal cases with finite data, we show how the correct number of
+underlying causal states can be found by optimal causal estimation. A
+previously derived model complexity control term allows us to correct for the
+effect of statistical fluctuations in probability estimates and thereby avoid
+over-fitting.

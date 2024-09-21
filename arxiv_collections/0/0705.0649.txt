@@ -1,0 +1,9 @@
+We report on calculations of broadening effects in QCL due to alloy
+scattering. The output of numerical calculations of alloy broadened Landau
+levels compare favorably with calculations performed at the self-consistent
+Born approximation. Results for Landau level width and optical absorption are
+presented. A disorder activated forbidden transition becomes significant in the
+vicinity of crossings of Landau levels which belong to different subbands. A
+study of the time dependent survival probability in the lowest Landau level of
+the excited subband is performed. It is shown that at resonance the population
+relaxation occurs in a subpicosecond scale.

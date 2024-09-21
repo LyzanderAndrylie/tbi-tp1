@@ -1,0 +1,10 @@
+A method is proposed for detecting from univariate data the presence of
+synchronization of a self-sustained oscillator by external driving with varying
+frequency. The method is based on the analysis of difference between the
+oscillator instantaneous phases calculated using continuous wavelet transform
+at time moments shifted by a certain constant value relative to each other. We
+apply our method to a driven asymmetric van der Pol oscillator, experimental
+data from a driven electronic oscillator with delayed feedback and human
+heartbeat time series. In the latest case, the analysis of the heart rate
+variability data reveals synchronous regimes between the respiration and slow
+oscillations in blood pressure.

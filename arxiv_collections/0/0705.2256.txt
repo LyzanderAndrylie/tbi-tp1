@@ -1,0 +1,6 @@
+We show how to control and perform universal three-qubit quantum computation
+with trapped electron quantum states. The three qubits are the electron spin,
+and the first two quantum states of the cyclotron and axial harmonic
+oscillators. We explicitly show how the universal gates can be performed. As an
+example of a non-trivial quantum algorithm, we outline the implementation of
+the Deutsch-Jozsa algorithm in this system.

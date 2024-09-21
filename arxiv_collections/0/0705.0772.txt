@@ -1,0 +1,10 @@
+We study subrings in the Chow ring $\CH^*(A)_{{\Bbb Q}}$ of an abelian
+variety $A$, stable under the Fourier transform with respect to an arbitrary
+polarization. We prove that by taking Pontryagin products of classes of
+dimension $\leq 1$ one gets such a subring. We also show how to construct
+finite-dimensional Fourier-stable subrings in $\CH^*(A)_{{\Bbb Q}}$. Another
+result concerns the relation between the Pontryagin product and the usual
+product on the $\CH^*(A)_{{\Bbb Q}}$. We prove that the operator of the usual
+product with a cycle is a differential operator with respect to the Pontryagin
+product and compute its order in terms of the Beauville's decomposition of
+$\CH^*(A)_{{\Bbb Q}}$.

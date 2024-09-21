@@ -1,0 +1,15 @@
+Aims: In the context of space interferometry missions devoted to the search
+of exo-Earths, this paper investigates the capabilities of new single mode
+conductive waveguides at providing modal filtering in an infrared and
+monochromatic nulling experiment; Methods: A Michelson laser interferometer
+with a co-axial beam combination scheme at 10.6 microns is used. After
+introducing a Pi phase shift using a translating mirror, dynamic and static
+measurements of the nulling ratio are performed in the two cases where modal
+filtering is implemented and suppressed. No additional active control of the
+wavefront errors is involved. Results: We achieve on average a statistical
+nulling ratio of 2.5e-4 with a 1-sigma upper limit of 6e-4, while a best null
+of 5.6e-5 is obtained in static mode. At the moment, the impact of external
+vibrations limits our ability to maintain the null to 10 to 20 seconds.;
+Conclusions: A positive effect of SM conductive waveguide on modal filtering
+has been observed in this study. Further improvement of the null should be
+possible with proper mechanical isolation of the setup.

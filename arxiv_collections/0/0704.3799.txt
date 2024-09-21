@@ -1,0 +1,9 @@
+We present two theoretical schemes for spin filters in one-dimensional
+semiconductor quantum wires with spatially modulated Rashba spin-orbit coupling
+(SOC) as well as weak magnetic potential. For case I, the SOC is periodic and
+the weak magnetic potential is applied uniformly along the wire. Full spin
+polarizations with opposite signs are obtained within two separated energy
+intervals. For case II, the weak magnetic potential is periodic while the SOC
+is uniform. An ideal negative/positive switching effect for spin polarization
+is realized by tuning the strength of SOC. The roles of SOC, magnetic
+potential, and their coupling on the spin filtering are analyzed.

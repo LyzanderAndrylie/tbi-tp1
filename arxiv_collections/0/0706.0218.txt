@@ -1,0 +1,12 @@
+I discuss the constraints on the lattice spacing, a, the quark masses, m, the
+box size, L, and particularly the residual mass, m_res, such that one can
+successfully calculate phenomenologically interesting quantities using Domain
+Wall fermions (DWF). The constraints on a, m, and L are largely common with
+other improved fermion discretizations, and I emphasize that the improved
+chiral symmetry of DWF does not remove the need for simulations with a
+significant range of lattice parameters. Concerning m_res, I compare the
+analysis of chiral symmetry breaking to that with Wilson fermions, emphasizing
+that DWF are better than simply Wilson fermions with each chiral symmetry
+breaking effect reduced by a common factor. I then discuss the impact of
+non-zero m_res both on generic hadronic quantities, and on matrix elements
+which involve mixing with lower dimension operators.

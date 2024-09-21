@@ -1,0 +1,7 @@
+We study the von Neumann entropy asymptotics of pure translation-invariant
+quasi-free states of d-dimensional fermionic systems. It is shown that the
+entropic area law is violated by all these states: apart from the trivial
+cases, the entropy of a cubic subsystem with edge length L cannot grow slower
+than L^{d-1}ln L. As for the upper bound of the entropy asymptotics, the
+zero-entropy-density property of these pure states is the only limit: it is
+proven that arbitrary fast sub-L^d entropy growth is achievable.

@@ -1,0 +1,9 @@
+We study the transmission through a double quantum-dot system in the Kondo
+regime. An exact expression for the transmission coefficient in terms of fully
+interacting many-body Green's functions is obtained. By mapping the system into
+an effective Anderson impurity model, one can determine the transmission using
+numerical renormalization-group methods. The transmission exhibits signatures
+of the different Kondo regimes of the effective model, including an unusual
+Kondo phase with split peaks in the spectral function, as well as a
+pseudogapped regime exhibiting a quantum critical transition between Kondo and
+unscreened phases.

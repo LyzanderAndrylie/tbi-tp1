@@ -1,0 +1,9 @@
+We prove that the nonlocal gauge invariant mass dimension two operator
+$F_{\mu\nu} (D^2)^{-1} F_{\mu\nu}$ can be consistently added to the
+Gribov-Zwanziger action, which implements the restriction of the path
+integral's domain of integration to the first Gribov region when the Landau
+gauge is considered. We identify a local polynomial action and prove the
+renormalizability to all orders of perturbation theory by employing the
+algebraic renormalization formalism. Furthermore, we also pay attention to the
+breaking of the BRST invariance, and to the consequences that this has for the
+Slavnov-Taylor identity.

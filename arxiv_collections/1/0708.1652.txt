@@ -1,0 +1,10 @@
+We present preliminary results of a search for $B\to X_d\gamma$ decays with a
+hadronic mass 1.0 GeV/$c^2<M(X_d)<$1.8 GeV/$c^2$. We consider seven final
+states with up to four charged pions and one neutral pion or $\eta$, which
+correspond to about 50% of the total $X_d$ fragmentation in this mass range.
+Based on a sample of 383 million $B\bar{B}$ events collected by the BaBar
+experiment at PEP-II, we measure a partial branching fraction
+$\sum\nolimits^{7}_{X_d=1}{{\ensuremath{\cal B}\xspace}}(B\to
+X_d\gamma)|_{(1.0{GeV}/c^2 <M(X_d)<1.8 {GeV}/c^2)}= (3.1\pm0.9 ^{+0.6}_{-0.5}
+\pm0.5)\cdot 10^{-6},$ where the uncertainties are statistical, systematic and
+model-dependent respectively.

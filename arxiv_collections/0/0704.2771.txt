@@ -1,0 +1,8 @@
+We give explicit formulas for maps in a long exact sequence connecting
+bialgebra cohomology to Hochschild cohomology. We give a sufficient condition
+for the connecting homomorphism to be surjective. We apply these results to
+compute all bialgebra two-cocycles of certain Radford biproducts
+(bosonizations). These two-cocycles are precisely those associated to the
+finite dimensional pointed Hopf algebras in the recent classification of
+Andruskiewitsch and Schneider, in an interpretation of these Hopf algebras as
+graded bialgebra deformations of Radford biproducts.

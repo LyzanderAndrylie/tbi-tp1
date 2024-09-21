@@ -1,0 +1,18 @@
+We investigate a possible new technique for microwave measurements of
+ultra-high energy cosmic ray (UHECR) extensive air showers which relies on
+detection of expected continuum radiation in the microwave range, caused by
+free-electron collisions with neutrals in the tenuous plasma left after the
+passage of the shower. We performed an initial experiment at the AWA (Argonne
+Wakefield Accelerator) laboratory in 2003 and measured broadband microwave
+emission from air ionized via high energy electrons and photons. A follow-up
+experiment at SLAC (Stanford Linear Accelerator Center) in summer of 2004
+confirmed the major features of the previous AWA observations with better
+precision and made additional measurements relevant to the calorimetric
+capabilities of the method. Prompted by these results we built a prototype
+detector using satellite television technology, and have made measurements
+indicating possible detection of cosmic ray extensive air showers. The method,
+if confirmed by experiments now in progress, could provide a high-duty cycle
+complement to current nitrogen fluorescence observations of UHECR, which are
+limited to dark, clear nights. By contrast, decimeter microwave observations
+can be made both night and day, in clear or cloudy weather, or even in the
+presence of moderate precipitation.

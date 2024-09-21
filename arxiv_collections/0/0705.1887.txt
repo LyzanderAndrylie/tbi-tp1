@@ -1,0 +1,12 @@
+Measurable spectra are theoretically very often derived from complicated
+many-body Green's functions. In this way, one calculates much more information
+than actually needed. Here we present an in principle exact approach to
+construct effective potentials and kernels for the direct calculation of
+electronic spectra. In particular, the potential that yields the spectral
+function needed to describe photoemission turns out to be dynamical but {\it
+local} and {\it real}. As example we illustrate this ``photoemission
+potential'' for sodium and aluminium, modelled as homogeneous electron gas, and
+discuss in particular its frequency dependence stemming from the nonlocality of
+the corresponding self-energy. We also show that our approach leads to a very
+short derivation of a kernel that is known to well describe absorption and
+energy-loss spectra of a wide range of materials.

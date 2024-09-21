@@ -1,0 +1,8 @@
+We perform first-principles quantum simulations of dissociation of trapped,
+spatially inhomogeneous Bose-Einstein condensates of molecular dimers.
+Specifically, we study spatial pair correlations of atoms produced in
+dissociation after time of flight. We find that the observable correlations may
+significantly degrade in systems with spatial inhomogeneity compared to the
+predictions of idealized uniform models. We show how binning of the signal can
+enhance the detectable correlations and lead to the violation of the classical
+Cauchy-Schwartz inequality and relative number squeezing.

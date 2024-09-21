@@ -1,0 +1,9 @@
+We derive the boundary condition for a subdiffusive particle interacting with
+a reactive boundary with finite reaction rate. Molecular crowding conditions,
+that are found to cause subdiffusion of larger molecules in biological cells,
+are shown to effect long-tailed distributions with identical exponent for both
+the unbinding times from the boundary to the bulk and the rebinding times from
+the bulk. This causes a weak ergodicity breaking: typically, an individual
+particle either stays bound or remains in the bulk for very long times. We
+discuss why this may be beneficial for in vivo gene regulation by DNA-binding
+proteins, whose typical concentrations are nanomolar

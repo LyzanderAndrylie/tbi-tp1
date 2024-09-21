@@ -1,0 +1,15 @@
+Charge ordering accompanied by lattice distortion in quasi-two dimensional
+organic conductors \theta-(ET)2X (ET=BEDT-TTF) is studied by using an extended
+Hubbard model with Peierls-type electron-lattice couplings within the
+Hartree-Fock approximation. It is found that the horizontal-stripe
+charge-ordered state, which is experimentally observed in
+\theta-(ET)2RbZn(SCN)4, is stabilized by the self-consistently determined
+lattice distortion. Furthermore, in the presence of the anisotropy in
+nearest-neighbor Coulomb interactions Vij, the horizontal charge order becomes
+more stable than any other charge patterns such as diagonal, vertical and
+3-fold-type states. At finite temperatures, we compare the free energies of
+various charge-ordered states and find a first-order transition from a metallic
+state with 3-fold charge order to the insulating state with the horizontal
+charge order. The role of lattice degrees of freedom in the realization of the
+horizontal charge order and the relevance to experiments on \theta-(ET)2X are
+discussed.

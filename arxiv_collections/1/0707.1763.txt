@@ -1,0 +1,10 @@
+Violation of Bell's Inequalities gives experimental evidence for the
+existence of a spin 1/2 which has two simultaneous axes of spin quantization
+rather than one. These couple to form a resonance state, called the spin
+fringe, and this quantum effect is solely responsible for violation of Bell's
+Inequalities within this model. The Bell states can be represented by products
+of these spin states and leads to the intuitive concept that as entangled
+states decompose they form biparticles that are not entangled. In EPR
+coincidence experiments filter settings for both the Bell and CHSH forms of
+Bell's Inequalities are rationalized in terms of the correlation between
+biparticles.

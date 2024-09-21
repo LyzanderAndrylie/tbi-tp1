@@ -1,0 +1,9 @@
+Cylindrically symmetric inhomogeneous string cosmological model of the
+universe in presence of electromagnetic field is investigated. We have assumed
+that F_{12} is the only non-vanishing component of electromagnetic field tensor
+F_{ij}. The Maxwell's equations show that F_{12} is the function of $x$ alone
+whereas the magnetic permeability is the function of x and t both. To get the
+deterministic solution, it has been assumed that the expansion ($\theta$) in
+the model is proportional to the eigen value $\sigma^{1}_{1}$ of the shear
+tensor $\sigma^{i}_{j}$. Some physical and geometric prperties of the model are
+also discussed.

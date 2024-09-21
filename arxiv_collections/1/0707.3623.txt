@@ -1,0 +1,12 @@
+The study of bosonic modes that couple to the charge carriers is a key
+element in understanding superconductivity. Lee et al. have used
+atomic-resolution scanning tunneling spectroscopy (STM) in an attempt to
+extract the spectrum of of these modes in the high temperature superconductor
+Bi2Sr2CaCu2O8+d and they found a mode whose frequency did not depend on doping
+but changed on 16O to 18O isotopic substitution leading them to suggest a role
+for lattice modes (phonons). A careful examination of their published data
+reveals a weaker but distinct feature that has all the characteristics of the
+magnetic excitation identified as the bosonic mode in other competing
+experiments. We suggest the lattice mode seen by Lee et al. is not relevant to
+superconductivity and is due to inelastic tunneling through the insulating
+oxide layer.

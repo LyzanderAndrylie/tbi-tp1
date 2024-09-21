@@ -1,0 +1,10 @@
+A pair of complementary algorithms are presented. One of the pair is a fast
+method for connecting graphs with an edge. The other is a fast method for
+removing edges from a graph. Both algorithms employ the same tree based graph
+representation and so, in concert, can arbitrarily modify any graph. Since the
+clusters of a percolation model may be described as simple connected graphs, an
+efficient Monte Carlo scheme can be constructed that uses the algorithms to
+sweep the occupation probability back and forth between two turning points.
+This approach concentrates computational sampling time within a region of
+interest. A high precision value of pc = 0.59274603(9) was thus obtained, by
+Mersenne twister, for the two dimensional square site percolation threshold.

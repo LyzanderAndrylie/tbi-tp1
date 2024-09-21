@@ -1,0 +1,19 @@
+Environmental dielectric screening effects on exciton transition energies in
+single-walled carbon nanotubes (SWNTs) have been studied quantitatively in the
+range of dielectric constants from 1.0 to 37 by immersing SWNTs bridged over
+trenches in various organic solvents by means of photoluminescence and the
+excitation spectroscopies. With increasing environmental dielectric constant
+($\epsilon_{\rm env}$), both $E_{11}$ and $E_{22}$ exhibited a redshift by
+several tens meV and a tendency to saturate at a $\epsilon_{\rm env} \sim 5$
+without an indication of significant ($n$,$m$) dependence. The redshifts can be
+explained by dielectric screening of the repulsive electron-electron
+interaction. The $\epsilon_{\rm env}$ dependence of $E_{11}$ and $E_{22}$ can
+be expressed by a simple empirical equation with a power law in $\epsilon_{\rm
+env}$, $E_{\rm ii} = E_{\rm ii}^{\infty} + A\epsilon_{\rm env}^{-\alpha}$. We
+also immersed a sample in sodium-dodecyl-sulfate (SDS) solution to investigate
+the effects of wrapping SWNTs with surfactant. The resultant $E_{11}$ and
+$E_{22}$, which agree well with Weisman's data [Nano Lett. {\bf 3}, 1235
+(2003)], are close to those of $\epsilon_{\rm env}$ of 2. However, in addition
+to the shift due to dielectric screening, another shift was observed so that
+the ($2n+m$)-family patterns spread more widely, similar to that of the
+uniaxial-stress-induced shift.

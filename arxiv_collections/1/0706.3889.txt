@@ -1,0 +1,12 @@
+We report tensile failure experiments on polyurethane (PU) foams. Experiments
+have been performed by imposing a constant strain rate. We work on
+heterogeneous materials for whom the failure does not occur suddenly and can
+develop as a multistep process through a succession of microcracks that end at
+pores. The acoustic energy and the waiting times between acoustic events follow
+power-law distributions. This remains true while the foam density is varied.
+However, experiments at low temperatures (PU foams more brittle) have not
+yielded power-laws for the waiting times. The cumulative acoustic energy has no
+power law divergence at the proximity of the failure point which is
+qualitatively in agreement with other experiments done at imposed strain. We
+notice a plateau in cumulative acoustic energy that seems to occur when a
+single crack starts to propagate.

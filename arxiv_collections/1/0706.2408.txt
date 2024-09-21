@@ -1,0 +1,9 @@
+Unexpected spectral features are observed in the two photon spectrum of the
+pure water in the forward direction when an 80 femtosecond laser pulse is
+focused at 10^10Wcm-2 or less. Such intensity is much lower than the breakdown
+or stimulated threshold of the liquid water. The two broad features are about
+2700cm-1 and 5000cm-1 red shifted from the hyper-Rayleigh wavelength,
+respectively, and they are quadratic with the laser intensity. They do not
+match the known Raman or hyper-Raman frequencies of water, and they are both
+centered at a narrow angle in the forward direction. Several other liquids also
+exhibited similar but molecular specific spectral features.

@@ -1,0 +1,5 @@
+We describe a method to execute globally controlled quantum information
+processing which admits a fault tolerant quantum error correction scheme. Our
+scheme nominally uses three species of addressable two-level systems which are
+arranged in a one dimensional array in a specific periodic arrangement. We show
+that the scheme possesses a fault tolerant error threshold.

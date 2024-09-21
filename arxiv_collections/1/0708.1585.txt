@@ -1,0 +1,20 @@
+We consider Lagrangians in Hamilton's principle defined on the tangent space
+$TG$ of a Lie group $G$. Invariance of such a Lagrangian under the action of
+$G$ leads to the symmetry-reduced Euler-Lagrange equations called the
+Euler-Poincar\'e equations. In this case, the invariant Lagrangian is defined
+on the Lie algebra of the group and its Euler-Poincar\'e equations are defined
+on the dual Lie algebra, where dual is defined by the operation of taking
+variational derivative. On the Hamiltonian side, the Euler-Poincar\'e equations
+are Lie-Poisson and they possess accompanying momentum maps, which encode both
+their conservation laws and the geometry of their solution space.
+  The standard Euler-Poincar\'e examples are treated, including particle
+dynamics, the rigid body, the heavy top and geodesic motion on Lie groups.
+Additional topics deal with Fermat's principle, the $\mathbb{R}^3$ Poisson
+bracket, polarized optical traveling waves, deformable bodies (Riemann
+ellipsoids) and shallow water waves, including the integrable shallow water
+wave systems associated with geodesic motion on the diffeomorphisms. The
+lectures end with the semidirect-product Euler-Poincar\'e reduction theorem for
+ideal fluid dynamics. This theorem introduces the Euler--Poincar\'e variational
+principle for incompressible and compressible motions of ideal fluids, with
+applications to geophysical fluids. It also leads to their Lie-Poisson
+Hamiltonian formulation.

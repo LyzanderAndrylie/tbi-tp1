@@ -1,0 +1,9 @@
+We study the energy deposition by light and heavy nuclei in tissue-like media
+as used for cancer therapy. The depth-dose distributions for protons, $^{3}$He,
+$^{12}$C, $^{20}$Ne, and $^{58}$Ni nuclei are calculated within a Monte Carlo
+model based on the GEANT4 toolkit. These distributions are compared with each
+other and with available experimental data. It is demonstrated that nuclear
+fragmentation reactions essentially reduce the peak-to-plateau ratio of the
+dose profiles for deeply penetrating energetic ions heavier than $^{3}$He. On
+the other hand, all projectiles up to $^{20}$Ne were found equally suitable for
+therapeutic use at low penetration depths.

@@ -1,0 +1,5 @@
+The partition function for two-dimensional nearest neighbour Ising models in
+the presence of a magnetic field is derived . A comparison with the partition
+functions predicted by Onsager is carried out. The critical temperature
+estimated by two different methods yields good agreement with the result of
+Yang and Lee.

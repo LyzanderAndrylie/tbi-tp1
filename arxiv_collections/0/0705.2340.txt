@@ -1,0 +1,10 @@
+We present results for the dependence of the residual mass of domain wall
+fermions (DWF) on the size of the fifth dimension and its relation to the
+density and localization properties of low-lying eigenvectors of the
+corresponding hermitian Wilson Dirac operator relevant to simulations of 2+1
+flavor domain wall QCD. Using the DBW2 and Iwasaki gauge actions, we generate
+ensembles of configurations with a $16^3\times 32$ space-time volume and an
+extent of 8 in the fifth dimension for the sea quarks. We demonstrate the
+existence of a regime where the degree of locality, the size of chiral symmetry
+breaking and the rate of topology change can be acceptable for inverse lattice
+spacings $a^{-1} \ge 1.6$ GeV.

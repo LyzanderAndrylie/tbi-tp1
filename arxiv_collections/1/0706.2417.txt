@@ -1,0 +1,9 @@
+Systems whose underlying classical dynamics are chaotic exhibit signatures of
+the chaos in their quantum mechanics. We investigate the possibility of using
+time-dependent density functional theory (TDDFT) to study the case when chaos
+is induced by electron-interaction alone. Nearest-neighbour level-spacing
+statistics are in principle exactly and directly accessible from TDDFT. We
+discuss how the TDDFT linear response procedure can reveal the mechanism of
+chaos induced by electron-interaction alone. A simple model of a two-electron
+quantum dot highlights the necessity to go beyond the adiabatic approximation
+in TDDFT.

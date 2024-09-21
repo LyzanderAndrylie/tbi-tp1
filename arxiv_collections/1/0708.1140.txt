@@ -1,0 +1,11 @@
+We discuss two main universal dynamic crossovers in a liquid that correspond
+to relaxation times of 1 ps and 10^{-7}--10^{-6} s. We introduce the concept of
+liquid elasticity length $d_{\rm el}$. At room temperature, $d_{\rm el}$ is
+several \AA in water and increases to 0.01 mm in honey and 1 mm in tar. We
+discuss that on temperature decrease, $d_{\rm el}=d_{\rm m}$ and $d_{\rm el}=L$
+correspond to the two dynamic crossovers, where $d_{\rm m}$ is the medium-range
+order and L is system size. The second crossover defines all kinetic aspects of
+the glass transition whereas ``thermodynamic'' glass transition is realized in
+the limit of infinite system size only. One prediction of this picture is the
+increase of viscosity with the size of macroscopic system, which we verify by
+measuring the viscosity of honey.

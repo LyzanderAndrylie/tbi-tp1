@@ -1,0 +1,5 @@
+A fundamental bound on the relaxation time \tau of a perturbed
+thermodynamical system has recently been derived, \tau \geq \hbar/\pi T, where
+$T$ is the system's temperature. We demonstrate analytically that black holes
+saturate this bound in the extremal limit and for large values of the azimuthal
+number m of the perturbation field.

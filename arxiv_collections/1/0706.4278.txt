@@ -1,0 +1,9 @@
+Quantum entanglement is an enigmatic and powerful property that has attracted
+much attention due to its usefulness in new ways of communications, like
+quantum teleportation and quantum key distribution. Much effort has been done
+to quantify entanglement. Indeed, there exist some well-established
+separability criterion and analytical formulas for the entanglement of
+bipartite systems. In some of these, the crucial elements are the eigenvalues
+of the partial transpose of the density matrix. In this paper, we show that one
+can also have information about the entanglement of bipartite state, in C2xC2,
+looking at the minimal principals of the partial transpose.

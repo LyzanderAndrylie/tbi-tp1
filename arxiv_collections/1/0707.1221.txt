@@ -1,0 +1,12 @@
+First order Doppler effects are usually ignored in laser driven trapped ions
+when the recoil frequency is much smaller than the trapping frequency
+(Lamb-Dicke regime). This means that the central, carrier excitation band is
+supposed to be unaffected by vibronic transitions in which the vibrational
+number changes. While this is strictly true in the Lamb-Dicke limit (infinitely
+tight confinement), the vibronic transitions do play a role in the Lamb-Dicke
+regime. In this paper we quantify the asymptotic behaviour of their effect with
+respect to the Lamb-Dicke parameter. In particular, we give analytical
+expressions for the frequency shift, ``pulling'' or ``pushing'', produced in
+the carrier absorption band by the vibronic transitions both for Rabi and
+Ramsey schemes. This shift is shown to be independent of the initial
+vibrational state.

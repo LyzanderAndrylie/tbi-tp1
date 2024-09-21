@@ -1,0 +1,8 @@
+Codes to compute mean opacities and radiative accelerations for arbitrary
+chemical mixtures using the Opacity Project recently revised data have been
+restructured in a client--server architecture and transcribed as a subroutine
+library. This implementation increases efficiency in stellar modelling where
+element stratification due to diffusion processes is depth dependent, and thus
+requires repeated fast opacity reestimates. Three user modes are provided to
+fit different computing environments, namely a web browser, a local workstation
+and a distributed grid.

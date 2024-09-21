@@ -1,0 +1,6 @@
+The purpose of this paper is describe Lagrangian Mechanics for constrained
+systems on Lie algebroids, a natural framework which covers a wide range of
+situations (systems on Lie groups, quotients by the action of a Lie group,
+standard tangent bundles...). In particular, we are interested in two cases:
+singular Lagrangian systems and vakonomic mechanics (variational constrained
+mechanics). Several examples illustrate the interest of these developments.

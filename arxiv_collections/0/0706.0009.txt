@@ -1,0 +1,3 @@
+We introduce a concept of multiplicity lattices of 2-multiarrangements,
+determine the combinatorics and geometry of that lattice, and give a criterion
+and method to construct a basis for derivation modules effectively.

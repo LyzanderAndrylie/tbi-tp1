@@ -1,0 +1,12 @@
+High--resolution 2D--MHD numerical simulations have been carried out to
+investigate the effects of continuing infall of clumpy gas in extended HI
+galactic disks. Given a certain accretion rate, the response of the disk
+depends on its surface gas density and temperature. For Galactic conditions at
+a galactocentric distance of ~20 kpc, and for mass accretion rates consistent
+with current empirical and theoretical determinations in the Milky Way, the
+rain of compact high velocity clouds onto the disk can maintain transonic
+turbulent motions in the warm phase (~2500 K) of HI. Hence, the HI line width
+is expected to be ~6.5 km/s for a gas layer at 2500 K, if infall were the only
+mechanism of driving turbulence. Some statistical properties of the resulting
+forcing flow are shown in this Letter. The radial dependence of the gas
+velocity dispersion is also discussed.

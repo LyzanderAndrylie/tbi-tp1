@@ -1,0 +1,10 @@
+We used the atomic force microscope to manipulate and unfold individual
+molecules of the titin I27 domain and reconstructed its free energy surface
+using Jarzynski's equality. The free energy surface for both stretching and
+unfolding was reconstructed using an exact formula that relates the
+nonequilibrium work fluctuations to the molecular free energy. In addition, the
+unfolding free energy barrier, i.e. the activation energy, was directly
+obtained from experimental data for the first time. This work demonstrates that
+Jarzynski's equality can be used to analyze nonequilibrium single-molecule
+experiments, and to obtain the free energy surfaces for molecular systems,
+including interactions for which only nonequilibrium work can be measured.

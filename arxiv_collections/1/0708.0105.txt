@@ -1,0 +1,7 @@
+We study factorization schemes for parton shower models in hadron-hadron
+collisions. As an example, we calculate lepton pair production mediated by a
+virtual photon in quark--anti-quark annihilation, and we compare factorized
+cross sections obtained in the conventional $\bar{\rm MS}$ scheme with those
+obtained in a factorization scheme in which a kinematical constraint due to
+parton radiation is taken into account. We discuss some properties of
+factorized cross sections.

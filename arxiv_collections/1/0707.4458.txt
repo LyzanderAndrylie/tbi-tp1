@@ -1,0 +1,3 @@
+In this article, I will prove a recurrence theorem which says that any
+$H^s(\mathbb{T}^2)$ (s>2) solution to the 2D Euler equation returns repeatedly
+to an arbitrarily small $H^0(\mathbb{T}^2)$ neighborhood.

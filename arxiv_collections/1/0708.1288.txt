@@ -1,0 +1,10 @@
+Linear chains of quantum scatterers are studied in the process of
+lengthening, which is treated and analysed as a discrete dynamical system
+defined over the manifold of scattering matrices. Elementary properties of such
+dynamics relate the transport through the chain to the spectral properties of
+individual scatterers. For a single-scattering channel case some new light is
+shed on known transport properties of disordered and noisy chains, whereas
+translationally invariant case can be studied analytically in terms of a simple
+deterministic dynamical map. The many-channel case was studied numerically by
+examining the statistical properties of scatterers that correspond to a certain
+type of transport of the chain i.e. ballistic or (partially) localised.

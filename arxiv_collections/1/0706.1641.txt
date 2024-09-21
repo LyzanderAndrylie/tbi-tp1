@@ -1,0 +1,8 @@
+We propose and experimentally demonstrate an optimal non-unity gain Gaussian
+scheme for partial measurement of an unknown coherent state that causes minimal
+disturbance of the state. The information gain and the state disturbance are
+quantified by the noise added to the measurement outcomes and to the output
+state, respectively. We derive the optimal trade-off relation between the two
+noises and we show that the trade-off is saturated by non-unity gain
+teleportation. Optimal partial measurement is demonstrated experimentally using
+a linear optics scheme with feed-forward.

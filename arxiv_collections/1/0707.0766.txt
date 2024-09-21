@@ -1,0 +1,7 @@
+We observe that the pattern of the quenching factors for scintillation light
+from various ions, recently studied in $CaWO_4$ in connection with dark matter
+detectors, can be understood as a saturation phenomenon in which the light
+output is simply proportional to track length, independent of the ion and its
+energy. This observation is in accord with the high dE/dx limit of Birks' law.
+It suggests a simple model for the intrinsic resolution of light detectors for
+low energy ions, which we briefly discuss.

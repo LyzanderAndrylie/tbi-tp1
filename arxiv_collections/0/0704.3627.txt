@@ -1,0 +1,7 @@
+We give a new moduli construction of the minimal resolution of the
+singularity of type 1/r(1,a) by introducing the Special McKay quiver. To
+demonstrate that our construction trumps that of the G-Hilbert scheme, we show
+that the induced tautological line bundles freely generate the bounded derived
+category of coherent sheaves on X by establishing a suitable derived
+equivalence. This gives a moduli construction of the Special McKay
+correspondence for abelian subgroups of GL(2).

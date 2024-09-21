@@ -1,0 +1,17 @@
+Omega-powers of finitary languages are languages of infinite words
+(omega-languages) in the form V^omega, where V is a finitary language over a
+finite alphabet X. They appear very naturally in the characterizaton of regular
+or context-free omega-languages. Since the set of infinite words over a finite
+alphabet X can be equipped with the usual Cantor topology, the question of the
+topological complexity of omega-powers of finitary languages naturally arises
+and has been posed by Niwinski (1990), Simonnet (1992) and Staiger (1997). It
+has been recently proved that for each integer n > 0, there exist some
+omega-powers of context free languages which are Pi^0_n-complete Borel sets,
+that there exists a context free language L such that L^omega is analytic but
+not Borel, and that there exists a finitary language V such that V^omega is a
+Borel set of infinite rank. But it was still unknown which could be the
+possible infinite Borel ranks of omega-powers. We fill this gap here, proving
+the following very surprising result which shows that omega-powers exhibit a
+great topological complexity: for each non-null countable ordinal alpha, there
+exist some Sigma^0_alpha-complete omega-powers, and some Pi^0_alpha-complete
+omega-powers.

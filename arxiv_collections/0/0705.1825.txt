@@ -1,0 +1,17 @@
+Reionization is thought to be dominated by low mass galaxies, while direct
+observations of resolved galaxies probe only the most massive, rarest objects.
+The cross-correlation between fluctuations in the surface brightness of the
+cumulative Ly-alpha emission (which serves as a proxy for the star formation
+rate) and the redshifted 21cm signal from neutral hydrogen in the intergalactic
+medium (IGM), will directly probe the causal link between the production of
+ionizing photons in galaxies and the reionization of the IGM. We discuss the
+prospects for detecting this cross-correlation for unresolved galaxies. We find
+that on angular scales <10 arc-minutes, detection will be practical using
+widefield near-IR imaging from space in combination with the forthcoming
+Mileura Widefield Array - Low Frequency Demonstrator. When redshifted 21cm
+observations of the neutral IGM are combined with space-based near-IR imaging
+of Ly-alpha emission, the detection on angular scales <3 arc-minutes will be
+limited by the sensitivity of the 21cm signal, even when a small aperture
+optical telescope (~2m) and a moderate field of view (~10 square degrees) are
+used. On scales >3 arc-minutes, the measurement of cross-correlation will be
+limited by the accuracy of the foreground sky subtraction.

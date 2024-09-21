@@ -1,0 +1,7 @@
+We study the conversion of $^{40}$K and $^{87}$Rb atoms into stable molecules
+through the stimulated Raman adiabatic passage (STIRAP) in photoassociation
+assisted with Feshbach resonance. Starting with the mean-field Langrange
+density, we show that the atom-to-molecule conversion efficiency by STIRAP
+aided by Feshbach resonance is much larger than that by bare Feshbach
+resonance. We also study the influence of the population imbalance on the
+atom-to-molecule conversion.

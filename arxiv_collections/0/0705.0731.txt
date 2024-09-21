@@ -1,0 +1,15 @@
+We theoretically demonstrate the formation of multiple bi-stability regions
+in the temperature pattern on the interface between a cuprous oxide quantum
+well and DCM2:CA:PS organic compound. The Frenkel molecular exciton of the DCM2
+is brought into resonance with the $1S$ quadrupole Wannier-Mott exciton in the
+cuprous oxide by "solvatochromism" with CA. The resulting hybrid is thermalized
+with surrounding helium bath. This leads to strongly non-linear temperature
+dependence of the laser field detuning from the quadrupole exciton energy band
+which is associated with the temperature induced red shift of the Wannier
+exciton energy. Numerical up and down-scan for the detuning reveals
+hysteresis-like temperature distribution. The obtained \emph{multiple}
+bi-stability regions are at least three orders of magnitude bigger ($meV$) than
+the experimentally observed bi-stability in bulk cuprous oxide ($\mu eV$). The
+effective absorption curve exhibits highly asymmetrical behavior for the
+Frenkel-like (above the $1S$ energy) and Wannier-like (below the $1S$ energy)
+branches of the hybrid.

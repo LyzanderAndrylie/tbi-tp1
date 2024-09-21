@@ -1,0 +1,14 @@
+Motivated by the work of Salvetti and Settepanella we introduce certain total
+orderings of the faces of any shellable regular CW-complex (called
+`shelling-type orderings') that can be used to explicitly construct maximum
+acyclic matchings of the poset of cells of the given complex. Building on an
+application of this method to the classical zonotope shellings we describe a
+class of maximum acyclic matchings for the Salvetti complex of a linear
+complexified arrangement. To do this, we introduce and study a new
+combinatorial stratification of the Salvetti complex. For the obtained acyclic
+matchings we give an explicit description of the critical cells that depends
+only on the chosen linear extension of the poset of regions. It is always
+possible to choose the linear extension so that the critical cells can be
+explicitly constructed from the chambers of the arrangement via the bijection
+to no-broken-circuit sets defined by Jewell and Orlik. Our method can be
+generalized to arbitraty oriented matroids.

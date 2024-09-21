@@ -1,0 +1,9 @@
+We propose experiments to observe Bose-Einstein condensation (BEC) and
+superfluidity of quasi-two-dimensional (2D) spatially indirect magnetoexcitons
+in bilayer graphene. The magnetic field $B$ is assumed strong. The energy
+spectrum of collective excitations, the sound spectrum as well as the effective
+magnetic mass of magnetoexcitons are presented in the strong magnetic field
+regime. The superfluid density $n_S$ and the temperature of the
+Kosterlitz-Thouless phase transition $T_c$ are shown to be increasing functions
+of the excitonic density $n$ but decreasing functions of $B$ and the interlayer
+separation $D$. Numerical results are presented from these calculations.

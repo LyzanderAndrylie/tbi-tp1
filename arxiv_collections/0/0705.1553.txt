@@ -1,0 +1,10 @@
+We study the quark helicity distributions at large x in perturbative QCD,
+taking into account contributions from the valence Fock states of the nucleon
+which have nonzero orbital angular momentum. These states are necessary to have
+a nonzero anomalous magnetic moment. We find that the quark orbital angular
+momentum contributes a large logarithm to the negative helicity quark
+distributions in addition to its power behavior, scaling as (1-x)^5\log^2(1-x)
+in the limit of x\to 1. Our analysis shows that the ratio of the polarized over
+unpolarized down quark distributions, \Delta d/d, will still approach 1 in this
+limit. By comparing with the experimental data, we find that this ratio should
+cross zero at x\approx 0.75.

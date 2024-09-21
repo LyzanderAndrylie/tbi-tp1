@@ -1,0 +1,14 @@
+We investigate the orbit-crossing time (T_c) of protoplanet systems both with
+and without a gas-disk background. The protoplanets are initially with equal
+masses and separation (EMS systems) scaled by their mutual Hill's radii. In a
+gas-free environment, we find log (T_c/yr) = A+B \log (k_0/2.3). Through a
+simple analytical approach, we demonstrate that the evolution of the velocity
+dispersion in an EMS system follows a random walk. The stochastic nature of
+random-walk diffusion leads to (i) an increasing average eccentricity <e> ~
+t^1/2, where t is the time; (ii) Rayleigh-distributed eccentricities
+(P(e,t)=e/\sigma^2 \exp(-e^2/(2\sigma^2)) of the protoplanets; (iii) a
+power-law dependence of T_c on planetary separation. As evidence for the
+chaotic diffusion, the observed eccentricities of known extra solar planets can
+be approximated by a Rayleigh distribution. We evaluate the isolation masses of
+the embryos, which determine the probability of gas giant formation, as a
+function of the dust and gas surface densities.

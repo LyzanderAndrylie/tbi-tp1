@@ -1,0 +1,11 @@
+The long-time behavior of the velocity autocorrelation function (VACF) is
+investigated by the molecular dynamics simulation of a two-dimensional system
+which has both a many-body interaction and a random potential. With
+strengthening the random potential by increasing the density of impurities, a
+crossover behavior of the VACF is observed from a positive tail, which is
+proportional to t^{-1}, to a negative tail, proportional to -t^{-2}. The latter
+tail exists even when the density of particles is the same order as the density
+of impurities. The behavior of the VACF in a nonequilibrium steady state is
+also studied. In the linear response regime the behavior is similar to that in
+the equilibrium state, whereas it changes drastically in the nonlinear response
+regime.

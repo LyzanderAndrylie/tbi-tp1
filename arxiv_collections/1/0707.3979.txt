@@ -1,0 +1,13 @@
+In this paper we embed $m$-dimensional Euclidean space in the geometric
+algebra $Cl_m $ to extend the operators of incidence in ${R^m}$ to operators of
+incidence in the geometric algebra to generalize the notion of separator to a
+decision boundary hyperconic in the Clifford algebra of hyperconic sections
+denoted as ${Cl}({Co}_{2})$. This allows us to extend the concept of a linear
+perceptron or the spherical perceptron in conformal geometry and introduce the
+more general conic perceptron, namely the {elliptical perceptron}. Using
+Clifford duality a vector orthogonal to the decision boundary hyperplane is
+determined. Experimental results are shown in 2-dimensional Euclidean space
+where we separate data that are naturally separated by some typical plane conic
+separators by this procedure. This procedure is more general in the sense that
+it is independent of the dimension of the input data and hence we can speak of
+the hyperconic elliptic perceptron.

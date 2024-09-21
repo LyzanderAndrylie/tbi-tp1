@@ -1,0 +1,10 @@
+We investigate transport properties of gate-all-around Si nanowires using
+non-equilibrium Green's function technique. By taking into account of the
+ionized impurity scattering we calculate Green's functions self-consistently
+and examine the effects of ionized impurity scattering on electron densities
+and currents. For nano-scale Si wires, it is found that, due to the impurity
+scattering, the local density of state profiles loose it's interference
+oscillations as well as is broaden and shifted. In addition, the impurity
+scattering gives rise to a different transconductance as functions of
+temperature and impurity scattering strength when compared with the
+transconductance without impurity scattering.

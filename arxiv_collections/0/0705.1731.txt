@@ -1,0 +1,12 @@
+The nature of the pseudogap state, observed above the superconducting
+transition temperature TC in many high temperature superconductors, is the
+center of much debate. Recently, this discussion has focused on the number of
+energy gaps in these materials. Some experiments indicate a single energy gap,
+implying that the pseudogap is a precursor state. Others indicate two,
+suggesting that it is a competing or coexisting phase. Here we report on
+temperature dependent scanning tunneling spectroscopy of Pb-Bi2Sr2CuO6+x. We
+have found a new, narrow, homogeneous gap that vanishes near TC, superimposed
+on the typically observed, inhomogeneous, broad gap, which is only weakly
+temperature dependent. These results not only support the two gap picture, but
+also explain previously troubling differences between scanning tunneling
+microscopy and other experimental measurements.

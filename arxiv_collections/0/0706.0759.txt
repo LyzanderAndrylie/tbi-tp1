@@ -1,0 +1,10 @@
+We study the vortex pinning effect in a Bose-Einstein Condensate in the
+presence of a rotating lattice potential by numerically solving the
+time-dependent Gross-Pitaevskii equation. We consider a triangular lattice
+potential created by blue-detuned laser beams. By rotating the lattice
+potential, we observe a transition from the Abrikosov vortex lattice to the
+pinned vortex lattice. We investigate the transition of the vortex lattice
+structure by changing conditions such as angular velocity, strength, and
+lattice constant of a rotating lattice potential. Our simulation results
+clearly show that the lattice potential has a strong vortex pinning effect when
+the vortex density coincides with the density of the pinning points.

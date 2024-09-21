@@ -1,0 +1,15 @@
+Saturation effects affecting absorption and fluorescence spectra of an atomic
+vapor confined in an Extremely Thin Cell (cell thickness $L < 1 \mu m$) are
+investigated experimentally and theoretically. The study is performed on the
+$D_{2}$ line ($\lambda ~= ~852 nm)$ of $Cs$ and concentrates on the two
+situations $L = \lambda /2$ and $L =\lambda$, the most contrasted ones with
+respect to the length dependence of the coherent Dicke narrowing. For $L =
+\lambda /2$, the Dicke-narrowed absorption profile simply broadens and
+saturates in amplitude when increasing the light intensity, while for $L
+=\lambda$, sub-Doppler dips of reduced absorption at line-center appear on the
+broad absorption profile. For a fluorescence detection at $L =\lambda$,
+saturation induces narrow dips, but only for hyperfine components undergoing a
+population loss through optical pumping. These experimental results are
+interpreted with the help of the various existing models, and are compared with
+numerical calculations based upon a two-level modelling that considers both a
+closed and an open system.

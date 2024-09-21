@@ -1,0 +1,9 @@
+We propose a two-dimensional time-reversal invariant system of essentially
+non-interacting electrons on a square lattice that exhibits configurations with
+fractional charges e/2. These are vortex-like topological defects in the
+dimerization order parameter describing spatial modulation in the electron
+hopping amplitudes. Charge fractionalization is established by a simple
+counting argument, analytical calculation within the effective low-energy
+theory, and by an exact numerical diagonalization of the lattice Hamiltonian.
+We comment on the exchange statistics of fractional charges and possible
+realizations of the system.

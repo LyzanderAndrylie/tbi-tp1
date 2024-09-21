@@ -1,0 +1,17 @@
+We investigate electronic transport through II-VI semiconductor resonant
+tunneling structures containing diluted magnetic impurities. Due to the
+exchange interaction between the conduction electrons and the impurities, there
+arises a giant Zeeman splitting in the presence of a moderately low magnetic
+field. As a consequence, when the quantum well is magnetically doped the
+current-voltage characteristics shows two peaks corresponding to transport for
+each spin channel. This behavior is experimentally observed and can be
+reproduced with a simple tunneling model. The model thus allows to analyze
+other configurations. First, we further increase the magnetic field, which
+leads to a spin polarization of the electronic current injected from the leads,
+thus giving rise to a relative change in the current amplitude. We demonstrate
+that the spin polarization in the emitter can be determined from such a change.
+Furthermore, in the case of a magnetically doped injector our model shows a
+large increase in peak amplitude and a shift of the resonance to higher
+voltages as the external field increases. We find that this effect arises from
+a combination of giant Zeeman splitting, 3-D incident distribution and broad
+resonance linewidth.

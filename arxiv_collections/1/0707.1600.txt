@@ -1,0 +1,11 @@
+In this work we study a class of stochastic processes $\{X_t\}_{t\in\N}$,
+where $X_t = (\phi \circ T_s^t)(X_0)$ is obtained from the iterations of the
+transformation T_s, invariant for an ergodic probability \mu_s on [0,1] and a
+continuous by part function $\phi:[0,1] \to \R$. We consider here $T_s:[0,1]\to
+[0,1]$ the Manneville-Pomeau transformation. The autocorrelation function of
+the resulting process decays hyperbolically (or polynomially) and we obtain
+efficient methods to estimate the parameter s from a finite time series. As a
+consequence we also estimate the rate of convergence of the autocorrelation
+decay of these processes. We compare different estimation methods based on the
+periodogram function, on the smoothed periodogram function, on the variance of
+the partial sum and on the wavelet theory.

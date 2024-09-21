@@ -1,0 +1,18 @@
+Recent applications have proved that the Surface Brightness Fluctuations
+(SBF) technique is a reliable distance indicator in a wide range of distances,
+and a promising tool to analyze the physical and chemical properties of
+unresolved stellar systems, in terms of their metallicity and age. We present
+the preliminary results of a project aimed at studying the evolutionary
+properties and distance of the stellar populations in external galaxies based
+on the SBF method.
+  On the observational side, we have succeeded in detecting I-band SBF
+gradients in six bright ellipticals imaged with the ACS, for these same objects
+we are now presenting also B-band SBF data. These B-band data are the first
+fluctuations magnitude measurements for galaxies beyond 10 Mpc.
+  To analyze the properties of stellar populations from the data, accurate SBF
+models are essential. As a part of this project, we have evaluated SBF
+magnitudes from Simple Stellar Population (SSP) models specifically optimized
+for the purpose. A wide range of chemical compositions and ages, as well as
+different choices of the photometric system have been investigated. All models
+are available at the Teramo-Stellar Populations Tools web site:
+www.oa-teramo.inaf.it/SPoT.

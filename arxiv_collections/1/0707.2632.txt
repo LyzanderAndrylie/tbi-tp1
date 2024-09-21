@@ -1,0 +1,8 @@
+We show that a scalable photonic crystal nanocavity array, in which single
+embedded quantum dots are coherently interacting, can perform as an universal
+single-operation quantum gate. In a passive system, the optical analogue of
+electromagnetically-induced-transparency is observed. The presence of a single
+two-level system in the array dramatically controls the spectral lineshapes.
+When each cavity couples with a two-level system, our scheme achieves two-qubit
+gate operations with high fidelity and low photon loss, even in the bad cavity
+limit and with non-ideal detuning and decoherence.

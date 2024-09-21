@@ -1,0 +1,5 @@
+The studies of fluctuations of the one-dimensional Kardar-Parisi-Zhang
+universality class using the techniques from random matrix theory are reviewed
+from the point of view of the asymmetric simple exclusion process. We explain
+the basics of random matrix techniques, the connections to the polynuclear
+growth models and a method using the Green's function.

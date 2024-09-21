@@ -1,0 +1,12 @@
+When an experimentalist or a biological mechanism applies an external force
+onto a cell chemically sticking to its substrate, a reacting 'suction' force,
+due to the slow penetration of the surrounding fluid between the cell and the
+substrate, opposes to the dissociation. This force can overcome other known
+adhesive forces when the process is sufficiently violent (typically 100000pN).
+Its maximal contribution to the total adhesive energy of the cell can then be
+estimated to 0.002 J/m2. The physical origin of this effect is quite simple,
+and it may be compared with that leaning a 'suction-cup' against a bathroom
+wall. We address the consequences of this effect on (i) the dissociation
+energy, (ii) the motion of the fluid surrounding the cell, more especially, on
+the pumping of the fluid by moving cells, and (iii) the inhibition of cell
+motion.

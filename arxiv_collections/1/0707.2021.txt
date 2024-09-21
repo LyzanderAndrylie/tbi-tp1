@@ -1,0 +1,17 @@
+The problem of non-perturbative description of unsteady premixed flames with
+arbitrary gas expansion is solved in the two-dimensional case. Considering the
+flame as a surface of discontinuity with arbitrary local burning rate and gas
+velocity jumps given on it, we show that the front dynamics can be determined
+without having to solve the flow equations in the bulk. On the basis of the
+Thomson circulation theorem, an implicit integral representation of the gas
+velocity downstream is constructed. It is then simplified by a successive
+stripping of the potential contributions to obtain an explicit expression for
+the vortex component near the flame front. We prove that the unknown potential
+component is left bounded and divergence-free by this procedure, and hence can
+be eliminated using the dispersion relation for its on-shell value (i.e., the
+value along the flame front). The resulting system of integro-differential
+equations relates the on-shell fuel velocity and the front position. As
+limiting cases, these equations contain all theoretical results on flame
+dynamics established so far, including the linear equation describing the
+Darrieus-Landau instability of planar flames, and the nonlinear
+Sivashinsky-Clavin equation for flames with weak gas expansion.

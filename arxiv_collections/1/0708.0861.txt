@@ -1,0 +1,12 @@
+We have operated a quantum point contact (QPC) charge detector in a radio
+frequency (RF) mode that allows fast charge detection in a bandwidth of tens of
+megahertz. We find that the charge sensitivity of the RF-QPC is limited not by
+the noise of a secondary amplifier, but by non-equilibrium noise f the QPC
+itself. We have performed frequency-resolved measurements of the noise within a
+10 MHz bandwidth around our carrier wave. When averaged over our bandwidth, we
+find that the noise is in good agreement with the theory of photon-assisted
+shot noise. Our measurements also reveal strong frequency dependence of the
+noise, asymmetry with respect to the carrier wave, the appearance of sharp
+local maxima that are correlated with mechanical degrees of freedom in the
+sample, and noise suppression indicative of many-body physics near the 0.7
+structure.

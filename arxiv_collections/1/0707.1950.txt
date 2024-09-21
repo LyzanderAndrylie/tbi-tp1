@@ -1,0 +1,6 @@
+We study an integrable case of n-particle Toda lattice: open chain with
+boundary terms containing 4 parameters. For this model we construct a
+B\"acklund transformation and prove its basic properties: canonicity,
+commutativity and spectrality. The B\"acklund transformation can be also viewed
+as a discretized time dynamics. Two Lax matrices are used: of order 2 and of
+order 2n+2, which are mutually dual, sharing the same spectral curve.

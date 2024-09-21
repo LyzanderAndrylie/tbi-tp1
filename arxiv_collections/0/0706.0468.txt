@@ -1,0 +1,7 @@
+This paper provides a new version of the condition of Di Nunno et al. (2003),
+Ankirchner and Imkeller (2005) and Biagini and \{O}ksendal (2005) ensuring the
+semimartingale property for a large class of continuous stochastic processes.
+Unlike our predecessors, we base our modeling framework on the concept of
+portfolio proportions which yields a short self-contained proof of the main
+theorem, as well as a counterexample, showing that analogues of our results do
+not hold in the discontinuous setting.

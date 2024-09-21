@@ -1,0 +1,17 @@
+We study the uncertainties of the determination of the ground-state
+parameters from Shifman-Vainshtein-Zakharov (SVZ) sum rules, making use of the
+harmonic-oscillator potential model as an example. In this case, one knows the
+exact solution for the polarization operator $\Pi(\mu)$, which allows one to
+obtain both the OPE to any order and the spectrum of states. We start with the
+OPE for $\Pi(\mu)$ and analyze the extraction of the square of the ground-state
+wave function, $R\propto|\Psi_0(\vec r=0)|^2$, from an SVZ sum rule, setting
+the mass of the ground state $E_0$ equal to its known value and treating the
+effective continuum threshold as a fit parameter. We show that in a limited
+``fiducial'' range of the Borel parameter there exists a solution for the
+effective threshold which precisely reproduces the exact $\Pi(\mu)$ for any
+value of $R$ within the range $0.7 \le R/R_0 \le 1.15$ ($R_0$ is the known
+exact value). Thus, the value of $R$ extracted from the sum rule is determined
+to a great extent by the contribution of the hadron continuum. Our main finding
+is that in the cases where the hadron continuum is not known and is modeled by
+an effective continuum threshold, the systematic uncertainties of the sum-rule
+procedure cannot be controlled.

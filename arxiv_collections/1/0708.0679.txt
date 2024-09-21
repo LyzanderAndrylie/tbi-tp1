@@ -1,0 +1,11 @@
+In this paper we present a far-reaching generalization of E. Vessiot's
+analysis of the Darboux integrable partial differential equations in one
+dependent and two independent variables. Our approach provides new insights
+into this classical method, uncovers the fundamental geometric invariants of
+Darboux integrable systems, and provides for systematic, algorithmic
+integration of such systems. This work is formulated within the general
+framework of Pfaffian exterior differential systems and, as such, has
+applications well beyond those currently found in the literature. In
+particular, our integration method is applicable to systems of hyperbolic PDE
+such as the Toda lattice equations, 2 dimensional wave maps and systems of
+overdetermined PDE.

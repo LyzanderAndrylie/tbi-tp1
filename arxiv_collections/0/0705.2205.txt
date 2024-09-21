@@ -1,0 +1,9 @@
+In this paper we revisit Safra's determinization constructions for automata
+on infinite words. We show how to construct deterministic automata with fewer
+states and, most importantly, parity acceptance conditions. Determinization is
+used in numerous applications, such as reasoning about tree automata,
+satisfiability of CTL*, and realizability and synthesis of logical
+specifications. The upper bounds for all these applications are reduced by
+using the smaller deterministic automata produced by our construction. In
+addition, the parity acceptance conditions allows to use more efficient
+algorithms (when compared to handling Rabin or Streett acceptance conditions).

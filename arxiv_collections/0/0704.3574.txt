@@ -1,0 +1,15 @@
+This paper extends earlier work on quantum theory representations of natural
+numbers N, integers I, and rational numbers Ra to describe a space of these
+representations and transformations on the space. The space is parameterized by
+4-tuple points in a parameter set. Each point, (k,m,h,g), labels a specific
+representation of X = N, I, Ra as a Fock space F^{X}_{k,m,h} of states of
+finite length strings of qukits q and a string state basis B^{X}_{k,m,h,g}. The
+pair (m,h) locates the q string in a square integer lattice I \times I, k is
+the q base, and the function g fixes the gauge or basis states for each q. Maps
+on the parameter set induce transformations on on the representation space.
+There are two shifts, a base change operator W_{k',k}, and a basis or gauge
+transformation function U_{k}. The invariance of the axioms and theorems for N,
+I, and Ra under any transformation is discussed along with the dependence of
+the properties of W_{k',k} on the prime factors of k' and k. This suggests that
+one consider prime number q's, q_{2}, q_{3}, q_{5}, etc. as elementary and the
+base k q's as composites of the prime number q's.

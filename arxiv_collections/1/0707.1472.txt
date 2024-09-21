@@ -1,0 +1,11 @@
+We study the extra term of particle current in a 2D k-cubic Rashba spin-orbit
+coupling system and the integer quantization of the Hall conductance in this
+system. We provide a correct formula of charge current in this system and the
+careful consideration of extra currents provides a stronger theoretical basis
+for the theory of the quantum Hall effect which has not been considered before.
+The non-trivial extra contribution to the particle current density and local
+conductivity, which originates from the cubic dependence on the momentum
+operator in the Hamiltonian, will have no effect on the integer quantization of
+the Hall conductance. The extension of Noether's theorem for the 2D k-cubic
+Rashba system is also addressed. The two methods reach to exactly the same
+results.

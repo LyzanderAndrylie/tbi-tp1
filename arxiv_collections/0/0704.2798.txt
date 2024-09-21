@@ -1,0 +1,4 @@
+We review on-shell methods for computing multi-parton scattering amplitudes
+in perturbative QCD, utilizing their unitarity and factorization properties. We
+focus on aspects which are useful for the construction of one-loop amplitudes
+needed for phenomenological studies at the Large Hadron Collider.

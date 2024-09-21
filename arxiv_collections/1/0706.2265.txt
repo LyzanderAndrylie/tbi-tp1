@@ -1,0 +1,14 @@
+This paper investigates faceting mechanisms induced by electromigration in
+the regime where atomic steps are transparent. For this purpose we study
+several vicinal orientations by means of in-situ (optical diffraction,
+electronic microscopy) as well as ex-situ (AFM, microprofilometry)
+visualization techniques. The data show that faceting proceeds in two stages.
+The first stage is short and leads to the appearance of a step density wave,
+with a wavelength roughly independent of the surface orientation. The second
+stage is much slower, and leads to the formation of a hill-and-valley
+structure, the period of which depends on the initial surface orientation. A
+simple continuum model enables us to point out why the wavelength of the step
+density wave does not depend on the microscale details of the surface. The
+final wavelength is controlled by the competition between elastic step-step
+interaction and facet edge energy cost. Finally, the surface stress angular
+dependence is shown to emerge as a coarsed-grained picture from the step model.

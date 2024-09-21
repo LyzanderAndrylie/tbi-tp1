@@ -1,0 +1,11 @@
+Motivated by concerns regarding possible two-body contributions to the
+recently-measured inclusive Upsilon(nS)->gamma+X (n=1, 2, 3) direct photon
+spectra, we report on a new study of exclusive radiative decays of these narrow
+Upsilon(nS) resonances into two-body final states R+gamma, with R a narrow
+resonant hadronic state decaying into four or more charged particles. Such
+two-body processes are not explicitly addressed in the extant theoretical
+frameworks used to calculate the inclusive direct photon spectra, and must also
+be explicitly inserted into Monte Carlo simulations. Using data collected from
+the CLEO III detector at the Cornell Electron Storage Ring, we present upper
+limits of order 0.01 per cent for such bottomonium two-body decays as a
+function of the R recoil mass.

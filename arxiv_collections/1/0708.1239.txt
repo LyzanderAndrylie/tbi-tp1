@@ -1,0 +1,7 @@
+We summarize the relations among three classes of laws: infinitely divisible,
+selfdecomposable and stable. First we look at them as the solutions of the
+Central Limit Problem; then their role is scrutinized in relation to the Levy
+and the additive processes with an emphasis on stationarity and selfsimilarity.
+Finally we analyze the Ornstein-Uhlenbeck processes driven by Levy noises and
+their selfdecomposable stationary distributions, and we end with a few
+particular examples.

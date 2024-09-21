@@ -1,0 +1,6 @@
+The ATLAS experiment at the LHC is building several detector systems for
+forward physics studies and to determine the luminosity. The main forward
+systems consist of a Cerenkov detector called LUCID, a Zero Degree Calorimeter
+(ZDC) and Roman Pots which will house a scintillating fiber tracker system
+called ALFA. Here we report some of the forward physics activities that are
+foreseen in ATLAS together with the status of the related detector systems.

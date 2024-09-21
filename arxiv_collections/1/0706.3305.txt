@@ -1,0 +1,5 @@
+This is a study of the MOR cryptosystem using the special linear group over
+finite fields. The automorphism group of the special linear group is analyzed
+for this purpose. At our current state of knowledge, I show that the MOR
+cryptosystem has better security than the ElGamal cryptosystem over finite
+fields.

@@ -1,0 +1,19 @@
+Recently, Berry phase in the semiclassical dynamical of Bloch electrons has
+been found to make a correction to the phase-space density of states and a
+general multi-band formula for finite-temperature orbital magnetization has
+been given [Phys. Rev. Lett. \textbf{97}, 026603 (2006)], where the orbital
+magnetization $\mathcal{M}$ consists of two parts, i.e., the conventional part
+$M_{c}$ and the Berry-phase correction part $M_{\Omega}$. Using this general
+formula, we theoretically investigate the orbital magnetization and its effects
+on thermoelectric transport and magnetic susceptibility properties of the
+two-dimensional \textit{kagom\'{e}} lattice with spin anisotropies included.
+The study in this paper is highly interesting by the occurrence of nonzero
+Chern number in the lattice. The spin chirality parameter $\phi$ (see text)
+results in profound effects on the orbital magnetization properties. It is
+found that the two parts in orbital magnetization opposite each other. In
+particular, we show that $M_{c}$ and $M_{\Omega}$ yield the paramagnetic and
+diamagnetic responses, respectively. It is further shown that the orbital
+magnetization displays fully different behavior in the metallic and insulating
+regions, which is due to the different roles $M_{c}$ and $M_{\Omega}$ play in
+these two regions. The anomalous Nernst conductivity is also calculated, which
+displays a peak-valley structure as a function of the electron Fermi energy.
