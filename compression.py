@@ -315,7 +315,7 @@ class EliasGammaPostings:
 if __name__ == '__main__':
     
     postings_list = [34, 67, 89, 454, 2345738]
-    for Postings in [StandardPostings, EliasGammaPostings, EliasGammaPostings]:
+    for Postings in [StandardPostings, VBEPostings, EliasGammaPostings]:
         print(Postings.__name__)
         encoded_postings_list = Postings.encode(postings_list)
         print("byte hasil encode: ", encoded_postings_list)
