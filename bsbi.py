@@ -195,6 +195,7 @@ class BSBIIndex:
                 merged_index.append(current_term_id, current_postings_list)
                 current_term_id = term_id
                 current_postings_list = postings_list
+        merged_index.append(current_term_id, current_postings_list)
         
 
     def boolean_retrieve(self, query):
